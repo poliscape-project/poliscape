@@ -58,6 +58,7 @@ import { OtcDrugCopaySimulator } from "@/components/OtcDrugCopaySimulator";
 import { StealthMarketingChecker } from "@/components/StealthMarketingChecker";
 import { DroneLogisticsCalculator } from "@/components/DroneLogisticsCalculator";
 import { ResidentCardMynaNavigator } from "@/components/ResidentCardMynaNavigator";
+import { ViewCounter } from "@/components/ViewCounter";
 
 import { PolicyHighlightCards } from "@/components/PolicyHighlightCards";
 import { PolicyPerspectives } from "@/components/PolicyPerspectives";
@@ -111,6 +112,7 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
                 <CheckCircle2 className="w-3 h-3" />
                 {policy.statusLabel}
               </span>
+              <ViewCounter policyId={policy.id} />
             </div>
             <h1 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
               {policy.title}
