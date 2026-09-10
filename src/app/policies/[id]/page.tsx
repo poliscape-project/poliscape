@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   return {
-    title: `${policy.title} | ポリスケープ (PoliScape)`,
+    title: policy.title,
     description: policy.catchphrase,
   };
 }
