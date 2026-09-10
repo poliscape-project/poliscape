@@ -8,6 +8,14 @@
 
 🌐 **https://poliscape.vercel.app**
 
+<p align="center">
+  <img src="docs/screenshot-top.png" alt="トップページ — 全100政策の一覧・検索・フィルタリング" width="700" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshot-detail.png" alt="政策詳細ページ — 3行要約・シミュレーター・タイムライン" width="700" />
+</p>
+
 ---
 
 ## ✨ 特徴
