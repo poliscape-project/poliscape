@@ -237,7 +237,7 @@ import selectiveFourDayWorkweekData from "@/data/policies/selective-four-day-wor
 import sideJobWorkingHoursManagementData from "@/data/policies/side-job-dual-employment-working-hours-management.json";
 import nationalArchivesDigitalPreservationData from "@/data/policies/national-archives-digital-preservation-governance.json";
 
-// 登録されている全180政策のリスト
+// 登録されている全220政策のリスト
 const policies: PolicyTopic[] = [
   childAllowanceData as PolicyTopic,
   universityTuitionData as PolicyTopic,
