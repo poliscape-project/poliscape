@@ -8,6 +8,16 @@ const fs = require('fs');
 const path = require('path');
 
 const POLICIES_DIR = path.join(__dirname, '../src/data/policies');
+const ENV_LOCAL_PATH = path.join(__dirname, '../.env.local');
+
+// .env.local があれば簡易ロード
+if (fs.existsSync(ENV_LOCAL_PATH)) {
+  const envContent = fs.readFileSync(ENV_LOCAL_PATH, 'utf8');
+  const match = envContent.match(/GEMINI_API_KEY=["']?([^"'\r\n]+)["']?/);
+  if (match && !process.env.GEMINI_API_KEY) {
+    process.env.GEMINI_API_KEY = match[1];
+  }
+}
 
 async function main() {
   const isLocal = process.argv.includes('--local');
@@ -84,9 +94,9 @@ async function main() {
 // Issue本文をパースするヘルパー
 function parseIssueBody(body, title) {
   const getSection = (headingRegex) => {
-    const regex = new RegExp(`###\\s*\\d*\\.?\\s*${headingRegex}[^\\n]*\\n+([\\s\\S]*?)(?=###|$)`, 'i');
-    const match = body.match(regex);
-    return match ? match[1].trim() : '';
+    const regex = new RegExp(`###[\\s\\d.]*(${headingRegex})[\\s\\S]*?\\n([\\s\\S]*?)(?=(?:###|$))`, 'i');
+    const match = body ? body.match(regex) : null;
+    return (match && match[2]) ? match[2].trim() : '';
   };
 
   const targetPolicy = getSection('対象の政策') || title.replace(/^\[[^\]]+\]\s*/, '').trim();
@@ -128,7 +138,11 @@ function findMatchedPolicy(query) {
 
 // Gemini API 呼び出し
 async function callGeminiAnalysis(apiKey, matchedPolicy, extracted) {
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+  const models = ['gemini-3.6-flash', 'gemini-2.0-flash', 'gemini-1.5-flash'];
+  let lastError = null;
+
+  for (const model of models) {
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
 
   const prompt = `
 あなたは公的データに基づくシビックテック「ポリスケープ（PoliScape）」の専属ファクトチェックAIデスクです。
@@ -169,29 +183,34 @@ JSONのプロパティ（\`catchphrase\` や \`summary\` 等）の修正案を�
 - シビックテックとしての中立性・両論併記が損なわれないためのアドバイスや、他コンポーネント（カードやシミュレーター等）への影響があれば簡潔に記載してください。
 `;
 
-  try {
-    const res = await fetch(url, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }],
-        generationConfig: {
-          temperature: 0.2,
-          maxOutputTokens: 2048,
-        }
-      })
-    });
+    try {
+      const res = await fetch(url, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          contents: [{ parts: [{ text: prompt }] }],
+          generationConfig: {
+            temperature: 0.2,
+            maxOutputTokens: 2048,
+          }
+        })
+      });
 
-    if (!res.ok) {
-      const errText = await res.text();
-      return `❌ Gemini API エラー (${res.status}): ${errText}`;
+      if (res.ok) {
+        const data = await res.json();
+        const text = data.candidates?.[0]?.content?.parts?.[0]?.text;
+        if (text) return text;
+      } else {
+        const errText = await res.text();
+        lastError = `Gemini API エラー (${res.status} [${model}]): ${errText}`;
+        console.warn(`モデル ${model} での呼び出しに失敗しました。次のモデルを試行します...`, lastError);
+      }
+    } catch (error) {
+      lastError = `API通信エラー (${model}): ${error.message}`;
     }
-
-    const data = await res.json();
-    return data.candidates?.[0]?.content?.parts?.[0]?.text || 'レポートの生成に失敗しました。';
-  } catch (error) {
-    return `❌ API通信エラー: ${error.message}`;
   }
+
+  return `❌ 分析レポートの生成に失敗しました。\n詳細: ${lastError}`;
 }
 
 // GitHub Issueにコメントを投稿
