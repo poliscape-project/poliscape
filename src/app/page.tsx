@@ -1734,6 +1734,258 @@ export default function HomePage() {
     { text: "受入費用の全額公費負担・職員派遣", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
   ],
 
+  // 第19弾（注目政策50テーマ追加・全480政策）
+  "academic-degree-fraud-paper-mill-research-integrity": [
+    { text: "2025年度からの即時無料公開（OA）完全義務化", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "悪質ハゲタカ雑誌への公費支出完全禁止", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "AI画像・テキスト不正検知ツールの共通導入", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "anti-money-laundering-crypto-travel-rule-enforcement": [
+    { text: "送金者・受取人氏名の通知完全義務化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "個人ウォレット所有者申告の義務化", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "国際制裁リストとのリアルタイム照合", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "anti-solicitation-cult-donation-relief-law": [
+    { text: "借金・自宅売却による献金要求を禁止", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "子ども・配偶者による代位取消権創設", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "取消権を最長10年に大幅延長", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "anti-stalker-act-gps-attachment-regulation": [
+    { text: "GPS・位置情報の無断取得を明確禁止", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "SNSのDM等の連続送信も規制対象", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "危険時の即時緊急禁止命令制度", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "autonomous-train-goa3-driverless-regional-rail": [
+    { text: "運転士免許不要のGoA2.5/GoA3を認可", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "ミリ波レーダー・AIによる障害物自動停止", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "短期講習の係員乗務への資格要件緩和", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "bicycle-helmet-wearing-effort-obligation-penalization": [
+    { text: "全年齢でのヘルメット着用努力義務化", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "自転車への青切符（反則金制度）新設", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "ながらスマホ・酒気帯びの即時厳罰化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "carbon-border-adjustment-mechanism-cbam-dialogue": [
+    { text: "製品単位の排出量開示・報告の義務化", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "日欧間での炭素価格相互承認・控除合意の追求", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "水素還元製鉄開発への巨額公費助成", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "child-mental-health-school-counselor-full-deployment": [
+    { text: "非常勤から常勤・正規公務員職への転換推進", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "予約不要の即時面談・常駐アクセス", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "SSW主導の福祉機関連携・即時介入", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "children-and-families-agency-support-fund-system": [
+    { text: "医療保険料への支援金上乗せ徴収の新設", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "2028年度までに年総額1兆円の確保", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "児童手当の所得制限撤廃・高校生延長・第3子倍増", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "cruise-ship-port-facility-customs-quarantine-dx": [
+    { text: "顔認証ゲートによるウォークスルー審査", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "スマホQRコードと顔認証による税関自動化", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "船上事前審査による着岸即下船の実現", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "cultural-property-heritage-nft-tourism-utilization": [
+    { text: "城泊・体験型高級観光の公式解禁", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "NFT・CFによるグローバル修繕資金調達", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "観光利益の修繕積立金への強制還元", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "custody-dispute-joint-custody-civil-code-revision": [
+    { text: "共同親権・単独親権の選択制導入", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "DV・虐待時は単独親権を義務付け", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "日常決定は単独可・重要事項は共同", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "dark-part-time-job-bank-account-freezing-framework": [
+    { text: "数分〜数時間の即時口座凍結ネットワーク", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "全銀行での新規口座開設・利用の全面拒否", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "高齢者口座のATM振込制限・不正防止", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "depopulated-area-drone-medical-delivery-airspace": [
+    { text: "有人地帯での目視外飛行（レベル4）解禁", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "オンライン診療とドローン配送の一体化", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "厳格な定温保冷・振動管理ガイドライン", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "developmental-disability-early-detection-support-act": [
+    { text: "5歳児健康診査の全国公費助成化", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "受給者証のマイナポータル即時発行・DX化", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "専門職による個別療育重視への報酬改定", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "digital-textbook-national-curriculum-full-rollout": [
+    { text: "英語・算数等の主要教科で国費無償化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "ワンタッチ拡大・読み上げの標準装備", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "紙とデジタルのハイブリッド運用", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "disability-pension-income-earning-rules-simplification": [
+    { text: "就労のみを理由とする等級引き下げの防止徹底", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "就労意欲を削がない緩やかな所得制限への移行", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "全国統一審査による不当な地域格差の完全是正", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "domestic-fertilizer-manure-compost-utilization": [
+    { text: "輸入肥料原料の2割低減目標の設定", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "下水処理場リン回収設備整備への国費重点投資", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "国内堆肥・ペレット利用への直接交付金支援", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "economic-security-promotion-act-supply-chain-subsidies": [
+    { text: "特定重要物資12物資への最大半額設備助成", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "14分野の基幹インフラ設備事前審査の義務化", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "安全保障上機微な特許の出願非公開制度導入", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "elderly-financial-exploitation-prevention-trust": [
+    { text: "成年後見の途中終了・交代を可能に", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "介護・医療費の親族代理引き出し指針策定", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "本人の希望を尊重する意思決定支援", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "electric-vehicle-ultra-fast-charger-highway-mandate": [
+    { text: "150kW級超急速充電器を標準化", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "最低6口以上の複数口設置義務化", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "2030年目標を30万口へ倍増", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "extracurricular-club-activities-regional-transition": [
+    { text: "教員の休日部活指導の義務免除", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "月謝制導入と困窮世帯への補助クーポン", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "学校の枠を超えた合同クラブ化", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "fair-trade-commission-freelance-act-enforcement": [
+    { text: "口頭発注の完全禁止・電磁的明示義務化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "納品後60日以内の支払期日義務化", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "継続取引における育児・介護両立配慮の義務化", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "flying-car-evtol-commercial-operation-air-safety": [
+    { text: "eVTOL専用の型式証明基準を新設", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "新操縦ライセンスと自動運航移行枠組み", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "都市ビル屋上バーティポート基準策定", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "halal-kosher-food-export-promotion-agricultural": [
+    { text: "認証取得・更新費用の最大半額補助", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "ハラール対応専用屠畜場・加工ラインの整備", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "相手国公的機関との認証相互承認の推進", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "japan-us-eu-critical-minerals-agreement": [
+    { text: "日米重要鉱物協定の締結と輸出規制相互禁止", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "日米欧による重要鉱物多国間共同備蓄メカニズム", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "南鳥島沖深海レアアース泥の自国採掘実証", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "medical-debt-guarantor-free-hospital-admission-mandate": [
+    { text: "保証人不在を理由とする入院拒絶の完全違法化", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "自治体連携による未払い医療費の公的保全", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "家族不在時の医師団合議による治療決定ルール確立", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "nursing-care-staff-wage-increase-subsidy-expansion": [
+    { text: "3加算の一本化と申請手続きの大幅簡素化", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "加算額の8割以上を月額基本給アップへ配分義務化", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "ケアマネ・看護師・他職種への柔軟な配分容認", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "orphan-youth-caregiver-emancipation-support-fund": [
+    { text: "ヤングケアラーの国法初明記と支援責務化", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "家庭への家事・介護ヘルパー公費派遣事業", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "学校スクリーニングと専門支援ネットワーク直結", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "overtourism-tourist-tax-congestion-surcharge-act": [
+    { text: "富士山等での入域料徴収と人数制限", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "全国観光自治体での宿泊税・訪問税拡大", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "観光客向け二重価格・急行運賃を公認", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "patent-box-intellectual-property-tax-incentive": [
+    { text: "対象特許・AI所得の30%特別控除導入", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "特許権およびAI著作権の対象指定", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "OECD準拠の実体研究開発要件（ネクサス基準）", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "pediatric-cancer-fertility-preservation-subsidies": [
+    { text: "卵子・卵巣組織等の凍結保存費用を公費助成", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "寛解後の生殖補助医療（体外受精）への助成拡大", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "がん治療開始前の緊急妊孕性カウンセリング体制", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "post-stroke-rehabilitation-insurance-duration-reform": [
+    { text: "改善見込み患者に対する180日制限の例外適用拡充", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "退院時のリハビリ空白期間ゼロ化スキーム", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "装着型歩行支援ロボットの回復期加算新設", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "pyramid-scheme-multilevel-marketing-cooling-off-expansion": [
+    { text: "情報商材・投資サロンもマルチ規制対象", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "目的を隠したカフェ等への呼出禁止", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "書面不備時の無期限クーリングオフ", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "railway-station-platform-door-barrier-free-mandate": [
+    { text: "1乗車あたり約10円のバリアフリー料金新設", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "10万人以上の駅への整備義務付け", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "昇降ロープ式等の柔軟な新技術導入", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "rice-production-adjustment-gentan-policy-diversification": [
+    { text: "不作リスクに対応した主食用米の安定供給方針", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "5年水張り要件の柔軟化と交付金ルールの再検討", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "エサ米から高付加価値な輸出用米への補助シフト", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "school-bullying-serious-incident-investigation-rules": [
+    { text: "首長直轄の独立調査組織を法制化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "犯罪該当事案の即時警察連携義務化", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "調査記録の原則全面開示と進捗説明", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "shinkansen-freight-express-cargo-modal-shift": [
+    { text: "新幹線の専用荷物車両・座席荷物輸送", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "地方から大都市へ最短3〜4時間即日配送", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "CO2排出量を約90%削減", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "single-parent-child-rearing-allowance-income-cap-easing": [
+    { text: "全部支給所得上限を年収約190万円へ引き上げ", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "第3子以降加算額を月1万750円へ倍増", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "一部支給上限枠の引き上げと就労意欲の保護", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "small-business-succession-m-and-a-guidelines": [
+    { text: "悪質買収者の厳格審査と排除情報網の整備", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "手数料算定根拠の事前明示と登録制の義務化", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "事業譲渡時の経営者保証解除の原則化", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "special-adoption-system-deregulation-child-rights": [
+    { text: "対象年齢を原則6歳未満から15歳未満へ拡大", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "二段階審判導入による実親の同意撤回トラブル防止", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "民間あっせん事業者の完全許可制と監督強化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "sports-betting-legalization-sports-promotion-fund": [
+    { text: "民間オッズ・リアルタイム賭けの解禁構想", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "売上の一定比率を競技連盟へ直接還流", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "AI監視による独立第三者機関の設置", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "stem-female-researcher-quota-university-support": [
+    { text: "理工系・情報系での女子特別推薦枠の公認", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "女性活躍推進大学への助成金傾斜配分", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "研究支援員の配置補助とポスト確保", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "subcontract-act-price-pass-through-haul-investigation": [
+    { text: "発注側からの定期的な労務費転嫁協議申し入れ義務化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "IT・運送・サービス業への下請法適用拡大", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "下請法・独禁法に基づく悪質発注企業の社名公表", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "taxi-app-fare-dynamic-pricing-deregulation": [
+    { text: "乗車前の事前確定運賃制度の完全解禁", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "混雑に応じた変動迎車料金（ダイナミック）", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "アプリ事前マッチングによる相乗り割引", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "teacher-workload-reduction-school-task-outsourcing": [
+    { text: "教職調整額を4%から10%以上へ拡充", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "サポートスタッフの全校配備", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "自治体直収による集金負担ゼロ化", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "traffic-accident-victim-mandatory-insurance-recovery": [
+    { text: "1台あたり年最大150円の賦課金新設", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "国の特別会計への計画的返還義務化", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "専門病床の維持と在宅介護支援金保障", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "university-endowment-fund-10-trillion-yen-selection": [
+    { text: "年数百億円・最長25年間の超長期助成", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "学外有識者が過半数の合議体を設置", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "生活費支援と安定ポスト創出", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "victims-support-fund-and-lawyer-representation-system": [
+    { text: "給付金最低額を大幅増額・迅速支給", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "被害者専任弁護士を国費で派遣", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "転居費用補助と公営住宅優先入居", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "whistleblower-protection-act-mandatory-compliance": [
+    { text: "301人以上企業に通報窓口設置義務化", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "情報漏洩への刑事罰（罰金刑）新設", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "報復人事への刑事罰導入議論", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+
   };
 
   // キーワード・ステータス・カテゴリによる複合フィルタリング

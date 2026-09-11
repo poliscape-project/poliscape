@@ -459,6 +459,58 @@ import voiceCloningDeepfakeFraudPenalCodeCrackdownData from "@/data/policies/voi
 import wageHikeCorporateTaxCreditDeficitReliefSubsidiesData from "@/data/policies/wage-hike-corporate-tax-credit-deficit-relief-subsidies.json";
 import welfareEvacuationSheltersVulnerableDirectAdmissionData from "@/data/policies/welfare-evacuation-shelters-vulnerable-direct-admission.json";
 
+// 第19弾（注目政策50テーマ追加・全480政策）
+import academicDegreeFraudPaperMillResearchIntegrityData from "@/data/policies/academic-degree-fraud-paper-mill-research-integrity.json";
+import antiMoneyLaunderingCryptoTravelRuleEnforcementData from "@/data/policies/anti-money-laundering-crypto-travel-rule-enforcement.json";
+import antiSolicitationCultDonationReliefLawData from "@/data/policies/anti-solicitation-cult-donation-relief-law.json";
+import antiStalkerActGpsAttachmentRegulationData from "@/data/policies/anti-stalker-act-gps-attachment-regulation.json";
+import autonomousTrainGoa3DriverlessRegionalRailData from "@/data/policies/autonomous-train-goa3-driverless-regional-rail.json";
+import bicycleHelmetWearingEffortObligationPenalizationData from "@/data/policies/bicycle-helmet-wearing-effort-obligation-penalization.json";
+import carbonBorderAdjustmentMechanismCbamDialogueData from "@/data/policies/carbon-border-adjustment-mechanism-cbam-dialogue.json";
+import childMentalHealthSchoolCounselorFullDeploymentData from "@/data/policies/child-mental-health-school-counselor-full-deployment.json";
+import childrenAndFamiliesAgencySupportFundSystemData from "@/data/policies/children-and-families-agency-support-fund-system.json";
+import cruiseShipPortFacilityCustomsQuarantineDxData from "@/data/policies/cruise-ship-port-facility-customs-quarantine-dx.json";
+import culturalPropertyHeritageNftTourismUtilizationData from "@/data/policies/cultural-property-heritage-nft-tourism-utilization.json";
+import custodyDisputeJointCustodyCivilCodeRevisionData from "@/data/policies/custody-dispute-joint-custody-civil-code-revision.json";
+import darkPartTimeJobBankAccountFreezingFrameworkData from "@/data/policies/dark-part-time-job-bank-account-freezing-framework.json";
+import depopulatedAreaDroneMedicalDeliveryAirspaceData from "@/data/policies/depopulated-area-drone-medical-delivery-airspace.json";
+import developmentalDisabilityEarlyDetectionSupportActData from "@/data/policies/developmental-disability-early-detection-support-act.json";
+import digitalTextbookNationalCurriculumFullRolloutData from "@/data/policies/digital-textbook-national-curriculum-full-rollout.json";
+import disabilityPensionIncomeEarningRulesSimplificationData from "@/data/policies/disability-pension-income-earning-rules-simplification.json";
+import domesticFertilizerManureCompostUtilizationData from "@/data/policies/domestic-fertilizer-manure-compost-utilization.json";
+import economicSecurityPromotionActSupplyChainSubsidiesData from "@/data/policies/economic-security-promotion-act-supply-chain-subsidies.json";
+import elderlyFinancialExploitationPreventionTrustData from "@/data/policies/elderly-financial-exploitation-prevention-trust.json";
+import electricVehicleUltraFastChargerHighwayMandateData from "@/data/policies/electric-vehicle-ultra-fast-charger-highway-mandate.json";
+import extracurricularClubActivitiesRegionalTransitionData from "@/data/policies/extracurricular-club-activities-regional-transition.json";
+import fairTradeCommissionFreelanceActEnforcementData from "@/data/policies/fair-trade-commission-freelance-act-enforcement.json";
+import flyingCarEvtolCommercialOperationAirSafetyData from "@/data/policies/flying-car-evtol-commercial-operation-air-safety.json";
+import halalKosherFoodExportPromotionAgriculturalData from "@/data/policies/halal-kosher-food-export-promotion-agricultural.json";
+import japanUsEuCriticalMineralsAgreementData from "@/data/policies/japan-us-eu-critical-minerals-agreement.json";
+import medicalDebtGuarantorFreeHospitalAdmissionMandateData from "@/data/policies/medical-debt-guarantor-free-hospital-admission-mandate.json";
+import nursingCareStaffWageIncreaseSubsidyExpansionData from "@/data/policies/nursing-care-staff-wage-increase-subsidy-expansion.json";
+import orphanYouthCaregiverEmancipationSupportFundData from "@/data/policies/orphan-youth-caregiver-emancipation-support-fund.json";
+import overtourismTouristTaxCongestionSurchargeActData from "@/data/policies/overtourism-tourist-tax-congestion-surcharge-act.json";
+import patentBoxIntellectualPropertyTaxIncentiveData from "@/data/policies/patent-box-intellectual-property-tax-incentive.json";
+import pediatricCancerFertilityPreservationSubsidiesData from "@/data/policies/pediatric-cancer-fertility-preservation-subsidies.json";
+import postStrokeRehabilitationInsuranceDurationReformData from "@/data/policies/post-stroke-rehabilitation-insurance-duration-reform.json";
+import pyramidSchemeMultilevelMarketingCoolingOffExpansionData from "@/data/policies/pyramid-scheme-multilevel-marketing-cooling-off-expansion.json";
+import railwayStationPlatformDoorBarrierFreeMandateData from "@/data/policies/railway-station-platform-door-barrier-free-mandate.json";
+import riceProductionAdjustmentGentanPolicyDiversificationData from "@/data/policies/rice-production-adjustment-gentan-policy-diversification.json";
+import schoolBullyingSeriousIncidentInvestigationRulesData from "@/data/policies/school-bullying-serious-incident-investigation-rules.json";
+import shinkansenFreightExpressCargoModalShiftData from "@/data/policies/shinkansen-freight-express-cargo-modal-shift.json";
+import singleParentChildRearingAllowanceIncomeCapEasingData from "@/data/policies/single-parent-child-rearing-allowance-income-cap-easing.json";
+import smallBusinessSuccessionMAndAGuidelinesData from "@/data/policies/small-business-succession-m-and-a-guidelines.json";
+import specialAdoptionSystemDeregulationChildRightsData from "@/data/policies/special-adoption-system-deregulation-child-rights.json";
+import sportsBettingLegalizationSportsPromotionFundData from "@/data/policies/sports-betting-legalization-sports-promotion-fund.json";
+import stemFemaleResearcherQuotaUniversitySupportData from "@/data/policies/stem-female-researcher-quota-university-support.json";
+import subcontractActPricePassThroughHaulInvestigationData from "@/data/policies/subcontract-act-price-pass-through-haul-investigation.json";
+import taxiAppFareDynamicPricingDeregulationData from "@/data/policies/taxi-app-fare-dynamic-pricing-deregulation.json";
+import teacherWorkloadReductionSchoolTaskOutsourcingData from "@/data/policies/teacher-workload-reduction-school-task-outsourcing.json";
+import trafficAccidentVictimMandatoryInsuranceRecoveryData from "@/data/policies/traffic-accident-victim-mandatory-insurance-recovery.json";
+import universityEndowmentFund10TrillionYenSelectionData from "@/data/policies/university-endowment-fund-10-trillion-yen-selection.json";
+import victimsSupportFundAndLawyerRepresentationSystemData from "@/data/policies/victims-support-fund-and-lawyer-representation-system.json";
+import whistleblowerProtectionActMandatoryComplianceData from "@/data/policies/whistleblower-protection-act-mandatory-compliance.json";
+
 const policies: PolicyTopic[] = [
   childAllowanceData as PolicyTopic,
   universityTuitionData as PolicyTopic,
@@ -913,6 +965,57 @@ const policies: PolicyTopic[] = [
   voiceCloningDeepfakeFraudPenalCodeCrackdownData as PolicyTopic,
   wageHikeCorporateTaxCreditDeficitReliefSubsidiesData as PolicyTopic,
   welfareEvacuationSheltersVulnerableDirectAdmissionData as PolicyTopic,
+  // 第19弾（注目政策50テーマ追加・全480政策）
+  academicDegreeFraudPaperMillResearchIntegrityData as PolicyTopic,
+  antiMoneyLaunderingCryptoTravelRuleEnforcementData as PolicyTopic,
+  antiSolicitationCultDonationReliefLawData as PolicyTopic,
+  antiStalkerActGpsAttachmentRegulationData as PolicyTopic,
+  autonomousTrainGoa3DriverlessRegionalRailData as PolicyTopic,
+  bicycleHelmetWearingEffortObligationPenalizationData as PolicyTopic,
+  carbonBorderAdjustmentMechanismCbamDialogueData as PolicyTopic,
+  childMentalHealthSchoolCounselorFullDeploymentData as PolicyTopic,
+  childrenAndFamiliesAgencySupportFundSystemData as PolicyTopic,
+  cruiseShipPortFacilityCustomsQuarantineDxData as PolicyTopic,
+  culturalPropertyHeritageNftTourismUtilizationData as PolicyTopic,
+  custodyDisputeJointCustodyCivilCodeRevisionData as PolicyTopic,
+  darkPartTimeJobBankAccountFreezingFrameworkData as PolicyTopic,
+  depopulatedAreaDroneMedicalDeliveryAirspaceData as PolicyTopic,
+  developmentalDisabilityEarlyDetectionSupportActData as PolicyTopic,
+  digitalTextbookNationalCurriculumFullRolloutData as PolicyTopic,
+  disabilityPensionIncomeEarningRulesSimplificationData as PolicyTopic,
+  domesticFertilizerManureCompostUtilizationData as PolicyTopic,
+  economicSecurityPromotionActSupplyChainSubsidiesData as PolicyTopic,
+  elderlyFinancialExploitationPreventionTrustData as PolicyTopic,
+  electricVehicleUltraFastChargerHighwayMandateData as PolicyTopic,
+  extracurricularClubActivitiesRegionalTransitionData as PolicyTopic,
+  fairTradeCommissionFreelanceActEnforcementData as PolicyTopic,
+  flyingCarEvtolCommercialOperationAirSafetyData as PolicyTopic,
+  halalKosherFoodExportPromotionAgriculturalData as PolicyTopic,
+  japanUsEuCriticalMineralsAgreementData as PolicyTopic,
+  medicalDebtGuarantorFreeHospitalAdmissionMandateData as PolicyTopic,
+  nursingCareStaffWageIncreaseSubsidyExpansionData as PolicyTopic,
+  orphanYouthCaregiverEmancipationSupportFundData as PolicyTopic,
+  overtourismTouristTaxCongestionSurchargeActData as PolicyTopic,
+  patentBoxIntellectualPropertyTaxIncentiveData as PolicyTopic,
+  pediatricCancerFertilityPreservationSubsidiesData as PolicyTopic,
+  postStrokeRehabilitationInsuranceDurationReformData as PolicyTopic,
+  pyramidSchemeMultilevelMarketingCoolingOffExpansionData as PolicyTopic,
+  railwayStationPlatformDoorBarrierFreeMandateData as PolicyTopic,
+  riceProductionAdjustmentGentanPolicyDiversificationData as PolicyTopic,
+  schoolBullyingSeriousIncidentInvestigationRulesData as PolicyTopic,
+  shinkansenFreightExpressCargoModalShiftData as PolicyTopic,
+  singleParentChildRearingAllowanceIncomeCapEasingData as PolicyTopic,
+  smallBusinessSuccessionMAndAGuidelinesData as PolicyTopic,
+  specialAdoptionSystemDeregulationChildRightsData as PolicyTopic,
+  sportsBettingLegalizationSportsPromotionFundData as PolicyTopic,
+  stemFemaleResearcherQuotaUniversitySupportData as PolicyTopic,
+  subcontractActPricePassThroughHaulInvestigationData as PolicyTopic,
+  taxiAppFareDynamicPricingDeregulationData as PolicyTopic,
+  teacherWorkloadReductionSchoolTaskOutsourcingData as PolicyTopic,
+  trafficAccidentVictimMandatoryInsuranceRecoveryData as PolicyTopic,
+  universityEndowmentFund10TrillionYenSelectionData as PolicyTopic,
+  victimsSupportFundAndLawyerRepresentationSystemData as PolicyTopic,
+  whistleblowerProtectionActMandatoryComplianceData as PolicyTopic,
 ];
 
 export function getAllPolicies(): PolicyTopic[] {
