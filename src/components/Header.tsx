@@ -2,7 +2,7 @@
 
 import React from "react";
 import Link from "next/link";
-import { Sparkles, ShieldCheck, BookOpen } from "lucide-react";
+import { Sparkles, ShieldCheck, BookOpen, Landmark } from "lucide-react";
 
 interface HeaderProps {
   isSimpleMode: boolean;
@@ -41,8 +41,17 @@ export const Header: React.FC<HeaderProps> = ({
           </div>
         </Link>
 
-        {/* コントロール：やさしい日本語トグル */}
-        <div className="flex items-center gap-2 self-end sm:self-auto">
+        {/* コントロール：根拠法ナビ & やさしい日本語トグル */}
+        <div className="flex items-center gap-2 self-end sm:self-auto flex-wrap">
+          <Link
+            href="/laws"
+            className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold bg-indigo-50 text-indigo-800 hover:bg-indigo-100 border border-indigo-200/70 transition-all shadow-2xs cursor-pointer"
+            title="主要53法律の解説と関連政策一覧"
+          >
+            <Landmark className="w-3.5 h-3.5 text-indigo-600" />
+            <span>根拠法アーカイブ</span>
+          </Link>
+
           <button
             type="button"
             onClick={onToggleSimpleMode}

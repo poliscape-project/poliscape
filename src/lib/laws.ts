@@ -1012,3 +1012,24 @@ export function getFoundationLawsByPolicyId(policyId: string): FoundationLaw[] {
     .map((id) => getFoundationLawById(id))
     .filter((law): law is FoundationLaw => law !== undefined);
 }
+
+/**
+ * 法律IDから、その法律に紐づく政策ID配列を取得する（逆引き）
+ */
+export function getPolicyIdsByLawId(lawId: string): string[] {
+  const matchingPolicyIds: string[] = [];
+  for (const [policyId, lawIds] of Object.entries(policyToLawsMap)) {
+    if (lawIds.includes(lawId)) {
+      matchingPolicyIds.push(policyId);
+    }
+  }
+  return matchingPolicyIds;
+}
+
+/**
+ * 法律IDから、関連する政策の件数を取得する
+ */
+export function getPolicyCountByLawId(lawId: string): number {
+  return getPolicyIdsByLawId(lawId).length;
+}
+

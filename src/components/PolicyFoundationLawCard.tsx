@@ -1,8 +1,9 @@
 "use client";
 
 import React, { useState } from "react";
+import Link from "next/link";
 import { FoundationLaw } from "@/types/law";
-import { Landmark, ChevronDown, ChevronUp, ExternalLink, HelpCircle, AlertTriangle, BookOpen } from "lucide-react";
+import { Landmark, ChevronDown, ChevronUp, ExternalLink, HelpCircle, AlertTriangle, BookOpen, ArrowRight } from "lucide-react";
 
 interface PolicyFoundationLawCardProps {
   laws: FoundationLaw[];
@@ -95,17 +96,27 @@ export const PolicyFoundationLawCard: React.FC<PolicyFoundationLawCardProps> = (
                   </p>
                 </div>
 
-                {law.officialUrl && (
-                  <a
-                    href={law.officialUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-flex items-center gap-1 text-[11px] font-bold text-indigo-600 hover:text-indigo-800 self-start sm:self-auto bg-white px-2.5 py-1 rounded-md border border-indigo-200 hover:border-indigo-300 transition-colors shadow-2xs"
+                <div className="flex items-center gap-2 flex-wrap self-start sm:self-auto">
+                  <Link
+                    href={`/laws/${law.id}`}
+                    className="inline-flex items-center gap-1 text-[11px] font-bold text-indigo-700 hover:text-indigo-900 bg-indigo-50 hover:bg-indigo-100 px-3 py-1 rounded-md border border-indigo-200/80 transition-colors shadow-2xs cursor-pointer"
                   >
-                    <span>e-Gov法令検索で条文を見る</span>
-                    <ExternalLink className="w-3 h-3" />
-                  </a>
-                )}
+                    <span>法律の全体像・関連政策を見る</span>
+                    <ArrowRight className="w-3 h-3" />
+                  </Link>
+
+                  {law.officialUrl && (
+                    <a
+                      href={law.officialUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-1 text-[11px] font-medium text-slate-600 hover:text-slate-800 bg-white px-2.5 py-1 rounded-md border border-slate-200 hover:border-slate-300 transition-colors shadow-2xs"
+                    >
+                      <span>e-Gov条文</span>
+                      <ExternalLink className="w-3 h-3" />
+                    </a>
+                  )}
+                </div>
               </div>
 
               {/* 2カラム解説：そもそもどんな法律？ vs なぜ今見直しているのか？ */}
@@ -181,6 +192,16 @@ export const PolicyFoundationLawCard: React.FC<PolicyFoundationLawCardProps> = (
                   </div>
                 </div>
               )}
+
+              <div className="pt-2 flex justify-end">
+                <Link
+                  href={`/laws/${law.id}`}
+                  className="inline-flex items-center gap-1.5 text-xs font-bold text-indigo-700 hover:text-indigo-900 hover:underline transition-colors cursor-pointer"
+                >
+                  <span>『{law.name}』の解説と他の関連政策を見る</span>
+                  <ArrowRight className="w-3.5 h-3.5" />
+                </Link>
+              </div>
             </div>
           ))}
         </div>
