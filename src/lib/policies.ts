@@ -195,6 +195,47 @@ import physicianMaldistributionData from "@/data/policies/physician-geographic-m
 import electronicPrescriptionPlatformData from "@/data/policies/electronic-prescription-medical-dx-platform.json";
 
 import { PolicyTopic } from "@/types/policy";
+// 新規追加40政策
+import nDivideNMultiplyFamilyTaxData from "@/data/policies/n-divide-n-multiply-family-tax-system.json";
+import cryptoSpotEtfListingData from "@/data/policies/crypto-spot-etf-listing-approval.json";
+import inheritedLandNationalTreasuryData from "@/data/policies/inherited-land-national-treasury-escheat.json";
+import solitaryDeathRentalModelData from "@/data/policies/solitary-death-abandoned-property-rental-model.json";
+import confinementPenaltyPrisonReformData from "@/data/policies/confinement-penalty-prison-system-reform.json";
+import deathPenaltyAbolitionLifeData from "@/data/policies/death-penalty-abolition-life-without-parole.json";
+import illegalOnlineCasinoCrackdownData from "@/data/policies/illegal-online-casino-crackdown-gambling-addiction.json";
+import mynaCardIphoneAppleWalletData from "@/data/policies/myna-card-iphone-apple-wallet-integration.json";
+import donorConceptionRightToKnowData from "@/data/policies/donor-conception-right-to-know-origins.json";
+import niptPrenatalTestingSystemData from "@/data/policies/nipt-prenatal-testing-accreditation-system.json";
+import painlessChildbirthEpiduralSubsidyData from "@/data/policies/painless-childbirth-epidural-public-subsidy.json";
+import hpvVaccineMaleSubsidyData from "@/data/policies/hpv-vaccine-male-inoculation-subsidy.json";
+import pfasDrinkingWaterRegulationData from "@/data/policies/pfas-drinking-water-quality-regulation.json";
+import recycledPlasticMandatoryUsageData from "@/data/policies/recycled-plastic-mandatory-usage-circular-economy.json";
+import invasiveAlienSpeciesControlData from "@/data/policies/invasive-alien-species-muntjac-crayfish-control.json";
+import petEvacuationShelterGuidelinesData from "@/data/policies/pet-evacuation-shelter-guidelines-disaster.json";
+import constitutionalAmendmentEmergencyTermData from "@/data/policies/constitutional-amendment-emergency-term-extension.json";
+import localAssemblyShortageSideJobData from "@/data/policies/local-assembly-member-shortage-side-job-reform.json";
+import furusatoTaxProxyDonationData from "@/data/policies/furusato-tax-proxy-donation-disaster-relief.json";
+import sdfPersonnelTreatmentAllowanceData from "@/data/policies/self-defense-forces-personnel-treatment-allowance.json";
+import sportsBettingLegalizationData from "@/data/policies/sports-betting-legalization-debate.json";
+import pirateSiteIspBlockingData from "@/data/policies/pirate-site-fast-cinema-isp-blocking-debate.json";
+import criticalInfraDataCenterDispersionData from "@/data/policies/critical-infrastructure-data-center-rural-dispersion.json";
+import missileEvacuationUndergroundShelterData from "@/data/policies/missile-evacuation-underground-shelter-guidelines.json";
+import digitalTextbookImplementationData from "@/data/policies/digital-textbook-implementation-paper-coexistence.json";
+import childCommissionerAdvocacyBodyData from "@/data/policies/child-commissioner-independent-advocacy-body.json";
+import schoolLunchAllergyEpipenData from "@/data/policies/school-lunch-allergy-epipen-standard.json";
+import expresswayMidnightTollReformData from "@/data/policies/expressway-midnight-toll-discount-reform.json";
+import jrHokkaidoShikokuFreightSupportData from "@/data/policies/jr-hokkaido-shikoku-freight-public-support.json";
+import parallelConventionalLinesThirdSectorData from "@/data/policies/parallel-conventional-lines-third-sector-separation.json";
+import waterSupplyRegionalizationPppData from "@/data/policies/water-supply-infrastructure-regionalization-ppp.json";
+import johkasouDecentralizedSewageData from "@/data/policies/johkasou-decentralized-sewage-transition-subsidy.json";
+import localBusJointOperationData from "@/data/policies/local-bus-joint-operation-antimonopoly-exemption.json";
+import droneEmergencyMedicalTransportData from "@/data/policies/drone-emergency-medical-transport-remote-islands.json";
+import autonomousDeliveryRobotSidewalkData from "@/data/policies/autonomous-delivery-robot-sidewalk-operation.json";
+import medicallyFragileChildrenSchoolNursesData from "@/data/policies/medically-fragile-children-support-school-nurses.json";
+import femaleBoardMembers30PercentData from "@/data/policies/female-board-members-30-percent-target.json";
+import selectiveFourDayWorkweekData from "@/data/policies/selective-four-day-workweek-system-adoption.json";
+import sideJobWorkingHoursManagementData from "@/data/policies/side-job-dual-employment-working-hours-management.json";
+import nationalArchivesDigitalPreservationData from "@/data/policies/national-archives-digital-preservation-governance.json";
 
 // 登録されている全180政策のリスト
 const policies: PolicyTopic[] = [
@@ -394,6 +435,47 @@ const policies: PolicyTopic[] = [
   primaryCarePhysicianReportData as PolicyTopic,
   physicianMaldistributionData as PolicyTopic,
   electronicPrescriptionPlatformData as PolicyTopic,
+  // 新規追加40政策
+  nDivideNMultiplyFamilyTaxData as PolicyTopic,
+  cryptoSpotEtfListingData as PolicyTopic,
+  inheritedLandNationalTreasuryData as PolicyTopic,
+  solitaryDeathRentalModelData as PolicyTopic,
+  confinementPenaltyPrisonReformData as PolicyTopic,
+  deathPenaltyAbolitionLifeData as PolicyTopic,
+  illegalOnlineCasinoCrackdownData as PolicyTopic,
+  mynaCardIphoneAppleWalletData as PolicyTopic,
+  donorConceptionRightToKnowData as PolicyTopic,
+  niptPrenatalTestingSystemData as PolicyTopic,
+  painlessChildbirthEpiduralSubsidyData as PolicyTopic,
+  hpvVaccineMaleSubsidyData as PolicyTopic,
+  pfasDrinkingWaterRegulationData as PolicyTopic,
+  recycledPlasticMandatoryUsageData as PolicyTopic,
+  invasiveAlienSpeciesControlData as PolicyTopic,
+  petEvacuationShelterGuidelinesData as PolicyTopic,
+  constitutionalAmendmentEmergencyTermData as PolicyTopic,
+  localAssemblyShortageSideJobData as PolicyTopic,
+  furusatoTaxProxyDonationData as PolicyTopic,
+  sdfPersonnelTreatmentAllowanceData as PolicyTopic,
+  sportsBettingLegalizationData as PolicyTopic,
+  pirateSiteIspBlockingData as PolicyTopic,
+  criticalInfraDataCenterDispersionData as PolicyTopic,
+  missileEvacuationUndergroundShelterData as PolicyTopic,
+  digitalTextbookImplementationData as PolicyTopic,
+  childCommissionerAdvocacyBodyData as PolicyTopic,
+  schoolLunchAllergyEpipenData as PolicyTopic,
+  expresswayMidnightTollReformData as PolicyTopic,
+  jrHokkaidoShikokuFreightSupportData as PolicyTopic,
+  parallelConventionalLinesThirdSectorData as PolicyTopic,
+  waterSupplyRegionalizationPppData as PolicyTopic,
+  johkasouDecentralizedSewageData as PolicyTopic,
+  localBusJointOperationData as PolicyTopic,
+  droneEmergencyMedicalTransportData as PolicyTopic,
+  autonomousDeliveryRobotSidewalkData as PolicyTopic,
+  medicallyFragileChildrenSchoolNursesData as PolicyTopic,
+  femaleBoardMembers30PercentData as PolicyTopic,
+  selectiveFourDayWorkweekData as PolicyTopic,
+  sideJobWorkingHoursManagementData as PolicyTopic,
+  nationalArchivesDigitalPreservationData as PolicyTopic,
 ];
 
 export function getAllPolicies(): PolicyTopic[] {
