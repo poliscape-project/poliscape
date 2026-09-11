@@ -79,14 +79,17 @@ const policyToLawsMap: Record<string, string[]> = {
     "health-insurance-act"
   ],
   "otc-similar-drug-restriction": [
-    "health-insurance-act"
+    "health-insurance-act",
+    "pharmaceuticals-and-medical-devices-act"
   ],
   "pharmacy-dx-electronic-prescription-full-rollout": [
     "health-insurance-act",
-    "digital-society-and-mynumber-act"
+    "digital-society-and-mynumber-act",
+    "pharmaceuticals-and-medical-devices-act"
   ],
   "online-medical-care-first-visit-deregulation": [
-    "health-insurance-act"
+    "health-insurance-act",
+    "pharmaceuticals-and-medical-devices-act"
   ],
   "post-stroke-rehabilitation-insurance-duration-reform": [
     "health-insurance-act"
@@ -142,7 +145,8 @@ const policyToLawsMap: Record<string, string[]> = {
     "road-traffic-act"
   ],
   "railway-station-platform-door-barrier-free-mandate": [
-    "road-traffic-act"
+    "road-traffic-act",
+    "services-and-employment-support-for-persons-with-disabilities-act"
   ],
   "traffic-accident-victim-mandatory-insurance-recovery": [
     "road-traffic-act"
@@ -221,7 +225,8 @@ const policyToLawsMap: Record<string, string[]> = {
     "digital-society-and-mynumber-act"
   ],
   "child-poverty-prevention-cafeteria-permanent-subsidies": [
-    "public-assistance-act"
+    "public-assistance-act",
+    "basic-act-on-children"
   ],
   "loneliness-and-isolation-countermeasures-promotion-act": [
     "public-assistance-act"
@@ -274,7 +279,8 @@ const policyToLawsMap: Record<string, string[]> = {
     "labor-standards-act"
   ],
   "school-bullying-serious-incident-investigation-rules": [
-    "school-education-act"
+    "school-education-act",
+    "basic-act-on-children"
   ],
   "foreign-training-employment": [
     "immigration-control-and-refugee-recognition-act",
@@ -297,10 +303,12 @@ const policyToLawsMap: Record<string, string[]> = {
     "self-defense-forces-act"
   ],
   "active-cyber-defense-legal-framework-national-security": [
-    "self-defense-forces-act"
+    "self-defense-forces-act",
+    "penal-code-and-economic-security-clearance-act"
   ],
   "active-cyber-defense-legislation": [
-    "self-defense-forces-act"
+    "self-defense-forces-act",
+    "penal-code-and-economic-security-clearance-act"
   ],
   "defense-industry-manufacturing-nationalization": [
     "self-defense-forces-act",
@@ -423,7 +431,8 @@ const policyToLawsMap: Record<string, string[]> = {
   ],
   "electronic-prescription-medical-dx-platform": [
     "digital-society-and-mynumber-act",
-    "health-insurance-act"
+    "health-insurance-act",
+    "pharmaceuticals-and-medical-devices-act"
   ],
   "internet-voting-overseas-disabled-voters-stepwise": [
     "digital-society-and-mynumber-act",
@@ -651,6 +660,109 @@ const policyToLawsMap: Record<string, string[]> = {
   "tower-mansion-tax-loophole-reform-fairness": [
     "condominium-unit-ownership-and-rebuilding-act",
     "income-tax-act"
+  ],
+  "child-commissioner-independent-advocacy-body": [
+    "basic-act-on-children"
+  ],
+  "orphan-youth-caregiver-emancipation-support-fund": [
+    "basic-act-on-children"
+  ],
+  "young-carer-support-legalization": [
+    "basic-act-on-children"
+  ],
+  "custody-dispute-joint-custody-civil-code-revision": [
+    "basic-act-on-children",
+    "civil-code-family"
+  ],
+  "infectious-disease-agency-jihs-japan-cdc": [
+    "infectious-diseases-and-vaccination-act"
+  ],
+  "hpv-vaccine-male-inoculation-subsidy": [
+    "infectious-diseases-and-vaccination-act"
+  ],
+  "hpv-vaccine-male-vaccination-public-subsidy": [
+    "infectious-diseases-and-vaccination-act"
+  ],
+  "cruise-ship-port-facility-customs-quarantine-dx": [
+    "infectious-diseases-and-vaccination-act",
+    "immigration-control-and-refugee-recognition-act"
+  ],
+  "online-medical-care-delivery": [
+    "pharmaceuticals-and-medical-devices-act",
+    "health-insurance-act"
+  ],
+  "drug-lag-drug-loss-fast-track-approval": [
+    "pharmaceuticals-and-medical-devices-act"
+  ],
+  "emergency-contraception-otc-pharmacy-sale": [
+    "pharmaceuticals-and-medical-devices-act"
+  ],
+  "otc-analog-drugs-insurance-exclusion-copayment-increase": [
+    "pharmaceuticals-and-medical-devices-act",
+    "health-insurance-act"
+  ],
+  "electronic-prescriptions-refill-prescriptions-promotion": [
+    "pharmaceuticals-and-medical-devices-act",
+    "health-insurance-act"
+  ],
+  "refill-prescription-utilization-target-expansion": [
+    "pharmaceuticals-and-medical-devices-act",
+    "health-insurance-act"
+  ],
+  "regenerative-medicine-ips-cell-insurance-pricing": [
+    "pharmaceuticals-and-medical-devices-act",
+    "health-insurance-act"
+  ],
+  "disability-employment-quota-hike-agency-curb": [
+    "services-and-employment-support-for-persons-with-disabilities-act"
+  ],
+  "developmental-disability-early-detection-support-act": [
+    "services-and-employment-support-for-persons-with-disabilities-act"
+  ],
+  "special-needs-education-inclusive-education-support-staff": [
+    "services-and-employment-support-for-persons-with-disabilities-act",
+    "school-education-act"
+  ],
+  "dementia-basic-act-inclusive-society-barrier-free-finance": [
+    "services-and-employment-support-for-persons-with-disabilities-act"
+  ],
+  "confinement-penalty-prison-system-reform": [
+    "penal-code-and-economic-security-clearance-act"
+  ],
+  "non-consensual-sexual-offenses-penal-code": [
+    "penal-code-and-economic-security-clearance-act"
+  ],
+  "death-penalty-abolition-life-without-parole": [
+    "penal-code-and-economic-security-clearance-act"
+  ],
+  "security-clearance-act-economic-security-information-protection": [
+    "penal-code-and-economic-security-clearance-act"
+  ],
+  "security-clearance-economic-security": [
+    "penal-code-and-economic-security-clearance-act"
+  ],
+  "economic-security-promotion-act-supply-chain-subsidies": [
+    "penal-code-and-economic-security-clearance-act"
+  ],
+  "economic-security-supply-chain-resilience": [
+    "penal-code-and-economic-security-clearance-act"
+  ],
+  "tokuryu-yami-baito-crackdown-legislation": [
+    "penal-code-and-economic-security-clearance-act"
+  ],
+  "tokuryu-yami-baito-crackdown-wiretapping-regulations": [
+    "penal-code-and-economic-security-clearance-act",
+    "telecommunications-business-act"
+  ],
+  "anonymous-fluid-criminal-groups-tokuryu-countermeasures": [
+    "penal-code-and-economic-security-clearance-act"
+  ],
+  "dark-part-time-job-bank-account-freezing-framework": [
+    "penal-code-and-economic-security-clearance-act",
+    "financial-instruments-and-exchange-act"
+  ],
+  "voice-cloning-deepfake-fraud-penal-code-crackdown": [
+    "penal-code-and-economic-security-clearance-act"
   ]
 };
 
