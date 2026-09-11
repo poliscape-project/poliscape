@@ -511,6 +511,28 @@ import universityEndowmentFund10TrillionYenSelectionData from "@/data/policies/u
 import victimsSupportFundAndLawyerRepresentationSystemData from "@/data/policies/victims-support-fund-and-lawyer-representation-system.json";
 import whistleblowerProtectionActMandatoryComplianceData from "@/data/policies/whistleblower-protection-act-mandatory-compliance.json";
 
+// 記念碑的マイルストーン（注目政策20テーマ追加・全500政策達成）
+import agriculturalCorporationForeignOwnershipFarmlandActRulesData from "@/data/policies/agricultural-corporation-foreign-ownership-farmland-act-rules.json";
+import criticalSoftwareBillOfMaterialsSbomMandateData from "@/data/policies/critical-software-bill-of-materials-sbom-mandate.json";
+import deepSeaRareEarthMiningEnvironmentalFrameworkData from "@/data/policies/deep-sea-rare-earth-mining-environmental-framework.json";
+import disasterWasteWideAreaTreatmentPlanMandateData from "@/data/policies/disaster-waste-wide-area-treatment-plan-mandate.json";
+import emergencyBloodDroneTransportColdChainGuidelinesData from "@/data/policies/emergency-blood-drone-transport-cold-chain-guidelines.json";
+import evBatteryReuseRecycleCircularEcosystemData from "@/data/policies/ev-battery-reuse-recycle-circular-ecosystem.json";
+import funeralCremationCapacityShortageCorpseHotelRulesData from "@/data/policies/funeral-cremation-capacity-shortage-corpse-hotel-rules.json";
+import governmentExecutiveSecurityClearanceCiaFbiCollaborationData from "@/data/policies/government-executive-security-clearance-cia-fbi-collaboration.json";
+import heatIllnessSpecialAlertCoolingShelterDesignationData from "@/data/policies/heat-illness-special-alert-cooling-shelter-designation.json";
+import localGovernmentCoreSystemStandardization2025Data from "@/data/policies/local-government-core-system-standardization-2025.json";
+import lonelinessAndIsolationCountermeasuresPromotionActData from "@/data/policies/loneliness-and-isolation-countermeasures-promotion-act.json";
+import nightEconomyNoiseTransportationDeregulationData from "@/data/policies/night-economy-noise-transportation-deregulation.json";
+import pharmacyDxElectronicPrescriptionFullRolloutData from "@/data/policies/pharmacy-dx-electronic-prescription-full-rollout.json";
+import publicBathSentoCulturalHeritagePreservationSubsidiesData from "@/data/policies/public-bath-sento-cultural-heritage-preservation-subsidies.json";
+import satelliteDirectToCellularEmergencyBroadbandData from "@/data/policies/satellite-direct-to-cellular-emergency-broadband.json";
+import shortTimeWorkerSocialInsuranceCompleteElimination50CapData from "@/data/policies/short-time-worker-social-insurance-complete-elimination-50-cap.json";
+import smartMeterNextGenerationDynamicDemandResponseData from "@/data/policies/smart-meter-next-generation-dynamic-demand-response.json";
+import submarineCableRedundancyLandingStationDecentralizationData from "@/data/policies/submarine-cable-redundancy-landing-station-decentralization.json";
+import unoccupiedLandInheritanceStateAttributionReformData from "@/data/policies/unoccupied-land-inheritance-state-attribution-reform.json";
+import wildlifeDamageCountermeasuresHuntingLicenseEasingData from "@/data/policies/wildlife-damage-countermeasures-hunting-license-easing.json";
+
 const policies: PolicyTopic[] = [
   childAllowanceData as PolicyTopic,
   universityTuitionData as PolicyTopic,
@@ -1016,6 +1038,27 @@ const policies: PolicyTopic[] = [
   universityEndowmentFund10TrillionYenSelectionData as PolicyTopic,
   victimsSupportFundAndLawyerRepresentationSystemData as PolicyTopic,
   whistleblowerProtectionActMandatoryComplianceData as PolicyTopic,
+  // 記念碑的マイルストーン（注目政策20テーマ追加・全500政策達成）
+  agriculturalCorporationForeignOwnershipFarmlandActRulesData as PolicyTopic,
+  criticalSoftwareBillOfMaterialsSbomMandateData as PolicyTopic,
+  deepSeaRareEarthMiningEnvironmentalFrameworkData as PolicyTopic,
+  disasterWasteWideAreaTreatmentPlanMandateData as PolicyTopic,
+  emergencyBloodDroneTransportColdChainGuidelinesData as PolicyTopic,
+  evBatteryReuseRecycleCircularEcosystemData as PolicyTopic,
+  funeralCremationCapacityShortageCorpseHotelRulesData as PolicyTopic,
+  governmentExecutiveSecurityClearanceCiaFbiCollaborationData as PolicyTopic,
+  heatIllnessSpecialAlertCoolingShelterDesignationData as PolicyTopic,
+  localGovernmentCoreSystemStandardization2025Data as PolicyTopic,
+  lonelinessAndIsolationCountermeasuresPromotionActData as PolicyTopic,
+  nightEconomyNoiseTransportationDeregulationData as PolicyTopic,
+  pharmacyDxElectronicPrescriptionFullRolloutData as PolicyTopic,
+  publicBathSentoCulturalHeritagePreservationSubsidiesData as PolicyTopic,
+  satelliteDirectToCellularEmergencyBroadbandData as PolicyTopic,
+  shortTimeWorkerSocialInsuranceCompleteElimination50CapData as PolicyTopic,
+  smartMeterNextGenerationDynamicDemandResponseData as PolicyTopic,
+  submarineCableRedundancyLandingStationDecentralizationData as PolicyTopic,
+  unoccupiedLandInheritanceStateAttributionReformData as PolicyTopic,
+  wildlifeDamageCountermeasuresHuntingLicenseEasingData as PolicyTopic,
 ];
 
 export function getAllPolicies(): PolicyTopic[] {

@@ -1986,6 +1986,108 @@ export default function HomePage() {
     { text: "報復人事への刑事罰導入議論", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
   ],
 
+  // 記念碑的マイルストーン（注目政策20テーマ追加・全500政策達成）
+  "agricultural-corporation-foreign-ownership-farmland-act-rules": [
+    { text: "法人出資比率の柔軟化", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "実質的株主の事前審査", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "耕作放棄時の取消要件厳格化", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "critical-software-bill-of-materials-sbom-mandate": [
+    { text: "重要システム・医療機器へのSBOM添付義務化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "数分以内の脆弱性箇所自動特定", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "医療機器プログラム薬事承認におけるSBOM必須化", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "deep-sea-rare-earth-mining-environmental-framework": [
+    { text: "深海底専用の採掘権設定・公募制度の法制化", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "深海生態系アセスメント基準の厳格義務化", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "深海連続採掘ロボット実用化への集中投資", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "disaster-waste-wide-area-treatment-plan-mandate": [
+    { text: "平時からの広域処理受入協定の義務化", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "ドローン3Dスキャンと熱検知AIカメラ配備", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "危険家屋の公費解体ファストトラック化", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "emergency-blood-drone-transport-cold-chain-guidelines": [
+    { text: "配送時間を数時間から数十分に激減", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "2〜6℃常時監視のIoTスマート保冷コンテナ義務化", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "緊急用務ドローンとしての優先運航権の確立", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "ev-battery-reuse-recycle-circular-ecosystem": [
+    { text: "電池パスポートの義務化", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "メーカーの回収・再資源化義務", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "定置用リユース安全基準", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "funeral-cremation-capacity-shortage-corpse-hotel-rules": [
+    { text: "火葬場の稼働枠拡大", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "民間保管施設の衛生安全基準", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "近隣説明と立地調和ルール", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "government-executive-security-clearance-cia-fbi-collaboration": [
+    { text: "攻撃元サーバーへの侵入・無力化権限の付与", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "脅威メタデータ監視の適法化と厳格な限定", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "裁判所の令状審査と独立第三者監査の導入", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "heat-illness-special-alert-cooling-shelter-designation": [
+    { text: "特別警戒アラートの新設", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "避難施設（シェルター）指定", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "開放義務と情報公開", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "local-government-core-system-standardization-2025": [
+    { text: "基幹20業務の全国統一仕様準拠システム化", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "ガバメントクラウドへの全庁データ移行", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "ベンダーロックインの完全打破と競争調達", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "loneliness-and-isolation-countermeasures-promotion-act": [
+    { text: "政策の基本理念を法制化", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "地方協議会の設置促進", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "24時間相談ダイヤル整備", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "night-economy-noise-transportation-deregulation": [
+    { text: "夜間イベント営業届出の簡素化", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "深夜交通アクセスの拡充", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "騒音・治安共生パトロール", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "pharmacy-dx-electronic-prescription-full-rollout": [
+    { text: "処方箋のデジタル一元化", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "重複投薬の自動チェック", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "オンライン診療・服薬完結", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "public-bath-sento-cultural-heritage-preservation-subsidies": [
+    { text: "公的役割の再定義", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "燃料費・設備更新の緊急支援", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "歴史的建築・文化財保全", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "satellite-direct-to-cellular-emergency-broadband": [
+    { text: "既存の通常スマホでそのまま衛星通信可能に", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "地上携帯周波数の宇宙利用（周波数共用）解禁", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "被災孤立集落での通信ブラックアウト解消", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "short-time-worker-social-insurance-complete-elimination-50-cap": [
+    { text: "企業規模要件の完全撤廃", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "年金・医療の保障拡充", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "中小企業向け助成拡充", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "smart-meter-next-generation-dynamic-demand-response": [
+    { text: "5分単位の高精度電力データ計測の実現", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "市場連動ダイナミックプライシングの本格解禁", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "AIによるEV・エコキュートの最適自動充電", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "submarine-cable-redundancy-landing-station-decentralization": [
+    { text: "日本海側・地方への陸揚げ拠点分散", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "日本周回海底光ファイバー網の完成", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "陸揚げ局直結・再エネ型データセンターの誘致", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "unoccupied-land-inheritance-state-attribution-reform": [
+    { text: "引き取り要件の弾力化", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "審査期間の大幅短縮", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "管理負担金の算定見直し", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "wildlife-damage-countermeasures-hunting-license-easing": [
+    { text: "クマの指定管理鳥獣追加と国の全額交付金支援", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "警察連携による市街地緊急発砲の適法化", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "危険出動手当の増額と公費賠償保険の整備", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+
   };
 
   // キーワード・ステータス・カテゴリによる複合フィルタリング
