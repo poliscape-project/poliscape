@@ -40,7 +40,8 @@ const policyToLawsMap: Record<string, string[]> = {
     "income-tax-act"
   ],
   "patent-box-intellectual-property-tax-incentive": [
-    "income-tax-act"
+    "income-tax-act",
+    "copyright-act"
   ],
   "cryptocurrency-tax-reform": [
     "income-tax-act"
@@ -67,7 +68,8 @@ const policyToLawsMap: Record<string, string[]> = {
     "income-tax-act"
   ],
   "myna-health-insurance": [
-    "health-insurance-act"
+    "health-insurance-act",
+    "digital-society-and-mynumber-act"
   ],
   "elderly-healthcare-cost": [
     "health-insurance-act"
@@ -79,7 +81,8 @@ const policyToLawsMap: Record<string, string[]> = {
     "health-insurance-act"
   ],
   "pharmacy-dx-electronic-prescription-full-rollout": [
-    "health-insurance-act"
+    "health-insurance-act",
+    "digital-society-and-mynumber-act"
   ],
   "online-medical-care-first-visit-deregulation": [
     "health-insurance-act"
@@ -127,10 +130,12 @@ const policyToLawsMap: Record<string, string[]> = {
     "road-traffic-act"
   ],
   "drone-flying-car-mobility": [
-    "road-traffic-act"
+    "road-traffic-act",
+    "radio-act"
   ],
   "myna-drivers-license": [
-    "road-traffic-act"
+    "road-traffic-act",
+    "digital-society-and-mynumber-act"
   ],
   "taxi-app-fare-dynamic-pricing-deregulation": [
     "road-traffic-act"
@@ -169,13 +174,16 @@ const policyToLawsMap: Record<string, string[]> = {
     "act-on-special-measures-concerning-vacant-houses"
   ],
   "alien-registration-myna-card": [
-    "act-on-protection-of-personal-information"
+    "act-on-protection-of-personal-information",
+    "digital-society-and-mynumber-act",
+    "immigration-control-and-refugee-recognition-act"
   ],
   "critical-software-bill-of-materials-sbom-mandate": [
     "act-on-protection-of-personal-information"
   ],
   "local-government-core-system-standardization-2025": [
-    "act-on-protection-of-personal-information"
+    "act-on-protection-of-personal-information",
+    "digital-society-and-mynumber-act"
   ],
   "selective-separate-surnames": [
     "civil-code-family"
@@ -201,10 +209,12 @@ const policyToLawsMap: Record<string, string[]> = {
     "public-offices-election-act"
   ],
   "internet-voting-elections-system": [
-    "public-offices-election-act"
+    "public-offices-election-act",
+    "digital-society-and-mynumber-act"
   ],
   "welfare-recipient-medical-assistance-myna-card-mandate": [
-    "public-assistance-act"
+    "public-assistance-act",
+    "digital-society-and-mynumber-act"
   ],
   "child-poverty-prevention-cafeteria-permanent-subsidies": [
     "public-assistance-act"
@@ -312,10 +322,12 @@ const policyToLawsMap: Record<string, string[]> = {
     "farmland-and-food-agriculture-basic-act"
   ],
   "smartphone-competition-promotion-act-app-stores": [
-    "antimonopoly-act"
+    "antimonopoly-act",
+    "telecommunications-business-act"
   ],
   "smartphone-software-competition-act": [
-    "antimonopoly-act"
+    "antimonopoly-act",
+    "telecommunications-business-act"
   ],
   "local-bus-joint-operation-antimonopoly-exemption": [
     "antimonopoly-act"
@@ -328,7 +340,8 @@ const policyToLawsMap: Record<string, string[]> = {
   ],
   "cultural-arts-creator-fair-remuneration-guidelines": [
     "antimonopoly-act",
-    "freelance-protection-and-subcontract-act"
+    "freelance-protection-and-subcontract-act",
+    "copyright-act"
   ],
   "freelance-protection-act": [
     "freelance-protection-and-subcontract-act"
@@ -389,6 +402,111 @@ const policyToLawsMap: Record<string, string[]> = {
   "refundable-tax-credit-negative-income-tax": [
     "consumption-tax-act",
     "income-tax-act"
+  ],
+  "convenience-store-certificate-issuance-government-cloud": [
+    "digital-society-and-mynumber-act"
+  ],
+  "residence-card-mynumber-card-unification-act": [
+    "digital-society-and-mynumber-act",
+    "immigration-control-and-refugee-recognition-act"
+  ],
+  "myna-card-iphone-apple-wallet-integration": [
+    "digital-society-and-mynumber-act"
+  ],
+  "qualification-confirmation-letter-myna": [
+    "digital-society-and-mynumber-act",
+    "health-insurance-act"
+  ],
+  "electronic-prescription-medical-dx-platform": [
+    "digital-society-and-mynumber-act",
+    "health-insurance-act"
+  ],
+  "internet-voting-overseas-disabled-voters-stepwise": [
+    "digital-society-and-mynumber-act",
+    "public-offices-election-act"
+  ],
+  "generative-ai-copyright-rules": [
+    "copyright-act"
+  ],
+  "pirate-site-fast-cinema-isp-blocking-debate": [
+    "copyright-act",
+    "telecommunications-business-act"
+  ],
+  "anime-manga-overseas-expansion-ip-protection": [
+    "copyright-act"
+  ],
+  "ai-safety-basic-act-regulation": [
+    "copyright-act"
+  ],
+  "generative-ai-education-guidelines-school-use": [
+    "copyright-act",
+    "school-education-act"
+  ],
+  "telecom-emergency-roaming-mandate": [
+    "telecommunications-business-act",
+    "radio-act"
+  ],
+  "satellite-direct-to-cellular-emergency-broadband": [
+    "telecommunications-business-act",
+    "radio-act"
+  ],
+  "submarine-cable-landing-stations-decentralization": [
+    "telecommunications-business-act"
+  ],
+  "submarine-cable-redundancy-landing-station-decentralization": [
+    "telecommunications-business-act"
+  ],
+  "critical-infrastructure-data-center-rural-dispersion": [
+    "telecommunications-business-act"
+  ],
+  "online-dating-safety-id-verification-mandate": [
+    "telecommunications-business-act"
+  ],
+  "digital-inheritance-cloud-account-access-rules": [
+    "telecommunications-business-act",
+    "civil-code-family"
+  ],
+  "drone-highway-flight-corridors-radio-law-reform": [
+    "radio-act"
+  ],
+  "drone-level-4-urban-delivery-deregulation": [
+    "radio-act"
+  ],
+  "depopulated-area-drone-medical-delivery-airspace": [
+    "radio-act"
+  ],
+  "drone-emergency-medical-transport-remote-islands": [
+    "radio-act"
+  ],
+  "emergency-blood-drone-transport-cold-chain-guidelines": [
+    "radio-act"
+  ],
+  "isolated-settlements-satellite-communications-starlink": [
+    "radio-act",
+    "telecommunications-business-act"
+  ],
+  "isolated-communities-disaster-helicopter-communication": [
+    "radio-act",
+    "telecommunications-business-act"
+  ],
+  "smart-agriculture-promotion-act": [
+    "radio-act",
+    "farmland-and-food-agriculture-basic-act"
+  ],
+  "smart-agriculture-promotion-law-robot-tractors": [
+    "radio-act",
+    "farmland-and-food-agriculture-basic-act"
+  ],
+  "civil-litigation-digitalization-e-court-web-hearings": [
+    "code-of-civil-procedure-it-reform"
+  ],
+  "digital-will-smartphone-blockchain-legalization": [
+    "code-of-civil-procedure-it-reform",
+    "civil-code-family"
+  ],
+  "biometric-authentication-payments-privacy-guidelines": [
+    "code-of-civil-procedure-it-reform",
+    "act-on-protection-of-personal-information"
   ]
 };
 
