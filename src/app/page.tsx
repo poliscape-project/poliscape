@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
 import { getAllPolicies } from "@/lib/policies";
 import { Header } from "@/components/Header";
@@ -18,7 +18,8 @@ import {
   Car,
   Shield,
   Briefcase, Trees, Leaf, Hotel, BookOpen, Ban, Smartphone,
-  Search, X, LayoutGrid, List, ChevronDown, Clock, RotateCcw
+  Search, X, LayoutGrid, List, ChevronDown, Clock, RotateCcw,
+  ArrowUpDown, Users, Landmark
 } from "lucide-react";
 
 // シミュレーターまたは判定ナビが実装されている主要37テーマ
@@ -62,16 +63,48 @@ const SIMULATOR_POLICY_IDS = new Set([
   "stealth-marketing-regulation"
 ]);
 
+// カテゴリごとの表示名称とアイコンのマッピング設定（全20カテゴリ完全対応）
+const CATEGORY_CONFIG: Record<
+  string,
+  { label: string; icon: React.ElementType; order: number }
+> = {
+  economy: { label: "経済・産業・消費", icon: Scale, order: 1 },
+  tax: { label: "税金・お金", icon: Wallet, order: 2 },
+  childcare: { label: "子育て・家族", icon: Baby, order: 3 },
+  healthcare: { label: "医療・健康・福祉", icon: HeartPulse, order: 4 },
+  pension: { label: "年金・老後資産", icon: Wallet, order: 5 },
+  education: { label: "教育・学生・人づくり", icon: GraduationCap, order: 6 },
+  labor: { label: "働き方・雇用", icon: Briefcase, order: 7 },
+  employment: { label: "雇用環境・労働法", icon: Briefcase, order: 8 },
+  digital: { label: "デジタル・IT・AI", icon: Smartphone, order: 9 },
+  transport: { label: "交通・地域・モビリティ", icon: Car, order: 10 },
+  traffic: { label: "交通安全・物流", icon: Car, order: 11 },
+  environment: { label: "環境・エネルギー", icon: Leaf, order: 12 },
+  living: { label: "住まい・土地・防災", icon: Trees, order: 13 },
+  regional: { label: "地方創生・都市", icon: Hotel, order: 14 },
+  defense: { label: "外交・安全保障", icon: Shield, order: 15 },
+  security: { label: "防衛・国家安全", icon: Shield, order: 16 },
+  society: { label: "社会・共生・司法", icon: Users, order: 17 },
+  social: { label: "司法・社会規範", icon: Scale, order: 18 },
+  governance: { label: "政治・統治改革", icon: Landmark, order: 19 },
+  medical: { label: "先端医療・薬事", icon: HeartPulse, order: 20 },
+};
+
+export type SortOption = "latest" | "oldest" | "effective" | "simulators" | "title";
+
 export default function HomePage() {
   const [isSimpleMode, setIsSimpleMode] = useState<boolean>(false);
   const [selectedCategory, setSelectedCategory] = useState<string>("all");
   const [searchQuery, setSearchQuery] = useState<string>("");
   const [selectedStatus, setSelectedStatus] = useState<"all" | "enacted" | "discussing">("all");
+  const [sortOption, setSortOption] = useState<SortOption>("latest");
   const [viewMode, setViewMode] = useState<"grid" | "compact">("grid");
-  const [displayCount, setDisplayCount] = useState<number>(16);
+  const [displayCount, setDisplayCount] = useState<number>(24);
+  const [isCatExpandedMobile, setIsCatExpandedMobile] = useState<boolean>(false);
 
   const policies = getAllPolicies();
 
+  // 初回マウント時にURLパラメータからフィルター状態を復元
   useEffect(() => {
     if (typeof window !== "undefined") {
       const params = new URLSearchParams(window.location.search);
@@ -79,32 +112,106 @@ export default function HomePage() {
       const status = params.get("status");
       const view = params.get("view");
       const cat = params.get("category");
+      const sort = params.get("sort");
+
       if (q) setSearchQuery(q);
       if (status === "enacted" || status === "discussing") setSelectedStatus(status);
       if (view === "compact" || view === "grid") setViewMode(view);
       if (cat) setSelectedCategory(cat);
+      if (
+        sort === "latest" ||
+        sort === "oldest" ||
+        sort === "effective" ||
+        sort === "simulators" ||
+        sort === "title"
+      ) {
+        setSortOption(sort as SortOption);
+      }
     }
   }, []);
+
+  // フィルター・検索・ソート等の状態をURLクエリに同期（ブラウザ履歴へのプッシュなしのreplaceState）
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const url = new URL(window.location.href);
+
+    if (searchQuery.trim()) {
+      url.searchParams.set("q", searchQuery.trim());
+    } else {
+      url.searchParams.delete("q");
+    }
+
+    if (selectedCategory !== "all") {
+      url.searchParams.set("category", selectedCategory);
+    } else {
+      url.searchParams.delete("category");
+    }
+
+    if (selectedStatus !== "all") {
+      url.searchParams.set("status", selectedStatus);
+    } else {
+      url.searchParams.delete("status");
+    }
+
+    if (viewMode !== "grid") {
+      url.searchParams.set("view", viewMode);
+    } else {
+      url.searchParams.delete("view");
+    }
+
+    if (sortOption !== "latest") {
+      url.searchParams.set("sort", sortOption);
+    } else {
+      url.searchParams.delete("sort");
+    }
+
+    window.history.replaceState({}, "", url.pathname + url.search);
+  }, [searchQuery, selectedCategory, selectedStatus, viewMode, sortOption]);
 
   const handleToggleSimpleMode = () => {
     setIsSimpleMode((prev) => !prev);
   };
 
-  // カテゴリ一覧（防衛・交通・働き方等を含む）
-  const categories = [
-    { id: "all", label: "すべての政策", icon: Sparkles },
-    { id: "tax", label: "税金・お金", icon: Wallet },
-    { id: "pension", label: "医療・年金", icon: HeartPulse },
-    { id: "childcare", label: "子育て・家族", icon: Baby },
-    { id: "education", label: "教育・学生", icon: GraduationCap },
-    { id: "labor", label: "働き方・雇用", icon: Briefcase },
-    { id: "transport", label: "交通・地域", icon: Car },
-    { id: "defense", label: "防衛・安全保障", icon: Shield },
-    { id: "healthcare", label: "医療・健康", icon: HeartPulse },
-    { id: "environment", label: "環境・くらし", icon: Leaf },
-    { id: "economy", label: "経済・消費", icon: Scale },
-    { id: "digital", label: "デジタル・IT", icon: Smartphone },
-  ];
+  // policiesデータから全カテゴリを動的に収集・生成（全20カテゴリ完全対応）
+  const categories = useMemo(() => {
+    const catCountMap = new Map<string, number>();
+    const catFallbackLabels = new Map<string, string>();
+
+    policies.forEach((p) => {
+      catCountMap.set(p.category, (catCountMap.get(p.category) || 0) + 1);
+      if (!catFallbackLabels.has(p.category) && p.categoryLabel) {
+        catFallbackLabels.set(p.category, p.categoryLabel);
+      }
+    });
+
+    const list = Array.from(catCountMap.entries()).map(([id, count]) => {
+      const config = CATEGORY_CONFIG[id];
+      return {
+        id,
+        label: config?.label || catFallbackLabels.get(id) || id,
+        icon: config?.icon || Sparkles,
+        count,
+        order: config?.order ?? 999,
+      };
+    });
+
+    // 件数が多い順にソート（同数ならorder順）
+    list.sort((a, b) => {
+      if (b.count !== a.count) return b.count - a.count;
+      return a.order - b.order;
+    });
+
+    return [
+      {
+        id: "all",
+        label: "すべての政策",
+        icon: Sparkles,
+        count: policies.length,
+        order: 0,
+      },
+      ...list,
+    ];
+  }, [policies]);
 
   // 政策ごとの代表バッジマッピング
   const badgeMap: Record<string, { text: string; color: string }[]> = {
@@ -2174,8 +2281,36 @@ export default function HomePage() {
     return true;
   });
 
+  // ソート処理
+  const sortedPolicies = useMemo(() => {
+    return [...filteredPolicies].sort((a, b) => {
+      if (sortOption === "latest") {
+        return (b.lastUpdated || "").localeCompare(a.lastUpdated || "");
+      }
+      if (sortOption === "oldest") {
+        return (a.lastUpdated || "").localeCompare(b.lastUpdated || "");
+      }
+      if (sortOption === "effective") {
+        if (!a.effectiveDate && !b.effectiveDate) return 0;
+        if (!a.effectiveDate) return 1;
+        if (!b.effectiveDate) return -1;
+        return a.effectiveDate.localeCompare(b.effectiveDate);
+      }
+      if (sortOption === "simulators") {
+        const aSim = SIMULATOR_POLICY_IDS.has(a.id) ? 1 : 0;
+        const bSim = SIMULATOR_POLICY_IDS.has(b.id) ? 1 : 0;
+        if (bSim !== aSim) return bSim - aSim;
+        return (b.lastUpdated || "").localeCompare(a.lastUpdated || "");
+      }
+      if (sortOption === "title") {
+        return a.title.localeCompare(b.title, "ja");
+      }
+      return 0;
+    });
+  }, [filteredPolicies, sortOption]);
+
   // 表示件数分をスライス（もっと見る機能）
-  const visiblePolicies = filteredPolicies.slice(0, displayCount);
+  const visiblePolicies = sortedPolicies.slice(0, displayCount);
 
   // ステータス別の件数カウント
   const countAll = policies.length;
@@ -2185,13 +2320,15 @@ export default function HomePage() {
   const isFilterActive =
     selectedCategory !== "all" ||
     selectedStatus !== "all" ||
-    searchQuery.trim() !== "";
+    searchQuery.trim() !== "" ||
+    sortOption !== "latest";
 
   const handleResetFilters = () => {
     setSelectedCategory("all");
     setSelectedStatus("all");
     setSearchQuery("");
-    setDisplayCount(16);
+    setSortOption("latest");
+    setDisplayCount(24);
   };
 
   return (
@@ -2264,7 +2401,7 @@ export default function HomePage() {
               value={searchQuery}
               onChange={(e) => {
                 setSearchQuery(e.target.value);
-                setDisplayCount(16);
+                setDisplayCount(24);
               }}
               placeholder="政策名、キーワード、対象者で検索（例: 年収の壁、マイナ、年金、減税、スマホ...）"
               className="w-full pl-11 pr-10 py-3 rounded-2xl bg-slate-50 border border-slate-200 text-sm placeholder:text-slate-400 focus:outline-none focus:bg-white focus:ring-2 focus:ring-teal-500 focus:border-transparent transition-all"
@@ -2274,9 +2411,9 @@ export default function HomePage() {
                 type="button"
                 onClick={() => {
                   setSearchQuery("");
-                  setDisplayCount(16);
+                  setDisplayCount(24);
                 }}
-                className="absolute right-3 p-1 rounded-full text-slate-400 hover:text-slate-600 hover:bg-slate-200 transition-colors"
+                className="absolute right-3 p-1 rounded-full text-slate-400 hover:text-slate-600 hover:bg-slate-200 transition-colors cursor-pointer"
                 title="クリア"
               >
                 <X className="w-4 h-4" />
@@ -2284,17 +2421,17 @@ export default function HomePage() {
             )}
           </div>
 
-          {/* ステータスタブ & 表示モード切替トグル */}
-          <div className="flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-3 pt-1 border-t border-slate-100">
+          {/* ステータスタブ & ソート & 表示モード切替 */}
+          <div className="flex flex-col md:flex-row items-stretch md:items-center justify-between gap-3 pt-1 border-t border-slate-100">
             {/* ステータスタブ */}
             <div className="flex items-center gap-1.5 p-1 bg-slate-100/90 rounded-xl self-start overflow-x-auto max-w-full">
               <button
                 type="button"
                 onClick={() => {
                   setSelectedStatus("all");
-                  setDisplayCount(16);
+                  setDisplayCount(24);
                 }}
-                className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all whitespace-nowrap ${
+                className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all whitespace-nowrap cursor-pointer ${
                   selectedStatus === "all"
                     ? "bg-white text-slate-900 shadow-2xs"
                     : "text-slate-600 hover:text-slate-900"
@@ -2306,9 +2443,9 @@ export default function HomePage() {
                 type="button"
                 onClick={() => {
                   setSelectedStatus("enacted");
-                  setDisplayCount(16);
+                  setDisplayCount(24);
                 }}
-                className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all whitespace-nowrap ${
+                className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all whitespace-nowrap cursor-pointer ${
                   selectedStatus === "enacted"
                     ? "bg-white text-emerald-800 shadow-2xs"
                     : "text-slate-600 hover:text-emerald-700"
@@ -2321,9 +2458,9 @@ export default function HomePage() {
                 type="button"
                 onClick={() => {
                   setSelectedStatus("discussing");
-                  setDisplayCount(16);
+                  setDisplayCount(24);
                 }}
-                className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all whitespace-nowrap ${
+                className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all whitespace-nowrap cursor-pointer ${
                   selectedStatus === "discussing"
                     ? "bg-white text-amber-800 shadow-2xs"
                     : "text-slate-600 hover:text-amber-700"
@@ -2334,34 +2471,57 @@ export default function HomePage() {
               </button>
             </div>
 
-            {/* 表示モード切替トグル */}
-            <div className="flex items-center justify-end gap-1 p-1 bg-slate-100/90 rounded-xl self-end">
-              <button
-                type="button"
-                onClick={() => setViewMode("grid")}
-                className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all ${
-                  viewMode === "grid"
-                    ? "bg-white text-teal-800 shadow-2xs"
-                    : "text-slate-500 hover:text-slate-800"
-                }`}
-                title="カード表示"
-              >
-                <LayoutGrid className="w-3.5 h-3.5" />
-                <span>カード</span>
-              </button>
-              <button
-                type="button"
-                onClick={() => setViewMode("compact")}
-                className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all ${
-                  viewMode === "compact"
-                    ? "bg-white text-teal-800 shadow-2xs"
-                    : "text-slate-500 hover:text-slate-800"
-                }`}
-                title="コンパクト一覧表示"
-              >
-                <List className="w-3.5 h-3.5" />
-                <span>リスト</span>
-              </button>
+            {/* 右側：並び順ソート & 表示モード切替 */}
+            <div className="flex items-center justify-between sm:justify-end gap-2 self-stretch md:self-auto flex-wrap">
+              {/* ソートセレクター */}
+              <div className="inline-flex items-center gap-1.5 px-2.5 py-1.5 bg-slate-100/90 rounded-xl text-xs text-slate-700">
+                <ArrowUpDown className="w-3.5 h-3.5 text-slate-500 shrink-0" />
+                <span className="text-[11px] text-slate-500 font-medium hidden sm:inline">並び順:</span>
+                <select
+                  value={sortOption}
+                  onChange={(e) => {
+                    setSortOption(e.target.value as SortOption);
+                    setDisplayCount(24);
+                  }}
+                  className="bg-transparent font-bold text-slate-800 text-xs focus:outline-none cursor-pointer pr-1"
+                >
+                  <option value="latest">更新日（新しい順）</option>
+                  <option value="oldest">更新日（古い順）</option>
+                  <option value="effective">施行日（近い順）</option>
+                  <option value="simulators">シミュレーター・判定あり優先</option>
+                  <option value="title">五十音順</option>
+                </select>
+              </div>
+
+              {/* 表示モード切替トグル */}
+              <div className="flex items-center gap-1 p-1 bg-slate-100/90 rounded-xl">
+                <button
+                  type="button"
+                  onClick={() => setViewMode("grid")}
+                  className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer ${
+                    viewMode === "grid"
+                      ? "bg-white text-teal-800 shadow-2xs"
+                      : "text-slate-500 hover:text-slate-800"
+                  }`}
+                  title="カード表示"
+                >
+                  <LayoutGrid className="w-3.5 h-3.5" />
+                  <span>カード</span>
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setViewMode("compact")}
+                  className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer ${
+                    viewMode === "compact"
+                      ? "bg-white text-teal-800 shadow-2xs"
+                      : "text-slate-500 hover:text-slate-800"
+                  }`}
+                  title="コンパクト一覧表示"
+                >
+                  <List className="w-3.5 h-3.5" />
+                  <span>リスト</span>
+                </button>
+              </div>
             </div>
           </div>
         </div>
@@ -2374,13 +2534,13 @@ export default function HomePage() {
             </h2>
             <div className="flex items-center gap-2">
               <span className="text-xs font-bold text-slate-700 bg-slate-100 px-2.5 py-1 rounded-full">
-                {filteredPolicies.length} 件
+                {sortedPolicies.length} 件
               </span>
               {isFilterActive && (
                 <button
                   type="button"
                   onClick={handleResetFilters}
-                  className="inline-flex items-center gap-1 text-xs text-teal-700 hover:text-teal-900 hover:underline transition-colors font-medium"
+                  className="inline-flex items-center gap-1 text-xs text-teal-700 hover:text-teal-900 hover:underline transition-colors font-medium cursor-pointer"
                 >
                   <RotateCcw className="w-3 h-3" />
                   条件クリア
@@ -2389,34 +2549,61 @@ export default function HomePage() {
             </div>
           </div>
 
-          {/* カテゴリ・ピルフィルター */}
-          <div className="flex flex-wrap gap-2">
-            {categories.map((cat) => {
-              const Icon = cat.icon;
-              const isActive = selectedCategory === cat.id;
-              return (
-                <button
-                  key={cat.id}
-                  type="button"
-                  onClick={() => {
-                    setSelectedCategory(cat.id);
-                    setDisplayCount(16);
-                  }}
-                  className={`inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full text-xs font-semibold transition-all ${
-                    isActive
-                      ? "bg-slate-900 text-white shadow-xs"
-                      : "bg-white text-slate-600 border border-slate-200/80 hover:bg-slate-100"
-                  }`}
-                >
-                  <Icon className="w-3.5 h-3.5" />
-                  <span>{cat.label}</span>
-                </button>
-              );
-            })}
+          {/* 分野・カテゴリ ヘッダー（モバイル展開トグル付き） */}
+          <div className="space-y-2">
+            <div className="flex items-center justify-between text-xs text-slate-500">
+              <span className="font-bold text-slate-700">分野・テーマ別絞り込み</span>
+              <button
+                type="button"
+                onClick={() => setIsCatExpandedMobile((prev) => !prev)}
+                className="sm:hidden text-xs text-teal-700 hover:text-teal-900 font-bold inline-flex items-center gap-1 cursor-pointer"
+              >
+                <span>{isCatExpandedMobile ? "主要分野のみ" : `全${categories.length - 1}分野を見る`}</span>
+                <ChevronDown className={`w-3.5 h-3.5 transition-transform ${isCatExpandedMobile ? "rotate-180" : ""}`} />
+              </button>
+            </div>
+
+            {/* カテゴリ・ピルフィルター */}
+            <div className="flex flex-wrap gap-2">
+              {categories.map((cat, idx) => {
+                const Icon = cat.icon;
+                const isActive = selectedCategory === cat.id;
+                // モバイルでは、折りたたみ時に上位8件または選択中のみ表示
+                const isHiddenOnMobile = !isCatExpandedMobile && idx >= 8 && !isActive;
+
+                return (
+                  <button
+                    key={cat.id}
+                    type="button"
+                    onClick={() => {
+                      setSelectedCategory(cat.id);
+                      setDisplayCount(24);
+                    }}
+                    className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold transition-all cursor-pointer ${
+                      isHiddenOnMobile ? "hidden sm:inline-flex" : "inline-flex"
+                    } ${
+                      isActive
+                        ? "bg-slate-900 text-white shadow-xs ring-2 ring-slate-900 ring-offset-1"
+                        : "bg-white text-slate-600 border border-slate-200/80 hover:bg-slate-100 hover:text-slate-900"
+                    }`}
+                  >
+                    <Icon className={`w-3.5 h-3.5 ${isActive ? "text-teal-300" : "text-slate-400"}`} />
+                    <span>{cat.label}</span>
+                    <span
+                      className={`text-[10px] px-1.5 py-0.2 rounded-full font-bold ${
+                        isActive ? "bg-white/20 text-white" : "bg-slate-100 text-slate-500"
+                      }`}
+                    >
+                      {cat.count}
+                    </span>
+                  </button>
+                );
+              })}
+            </div>
           </div>
 
           {/* 検索・フィルター結果が0件の場合 */}
-          {filteredPolicies.length === 0 && (
+          {sortedPolicies.length === 0 && (
             <div className="bg-white rounded-3xl p-10 text-center border border-dashed border-slate-300 space-y-3 mt-4">
               <div className="w-12 h-12 rounded-full bg-slate-100 text-slate-400 flex items-center justify-center mx-auto">
                 <Search className="w-6 h-6" />
@@ -2430,7 +2617,7 @@ export default function HomePage() {
               <button
                 type="button"
                 onClick={handleResetFilters}
-                className="mt-2 inline-flex items-center gap-1.5 px-4 py-2 rounded-xl bg-teal-800 text-white text-xs font-bold hover:bg-teal-900 transition-all shadow-xs"
+                className="mt-2 inline-flex items-center gap-1.5 px-4 py-2 rounded-xl bg-teal-800 text-white text-xs font-bold hover:bg-teal-900 transition-all shadow-xs cursor-pointer"
               >
                 <RotateCcw className="w-3.5 h-3.5" />
                 絞り込み条件をリセット
@@ -2439,7 +2626,7 @@ export default function HomePage() {
           )}
 
           {/* カード表示モード（グリッド） */}
-          {viewMode === "grid" && filteredPolicies.length > 0 && (
+          {viewMode === "grid" && sortedPolicies.length > 0 && (
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
               {visiblePolicies.map((policy) => {
                 const badges = badgeMap[policy.id] || [
@@ -2512,7 +2699,7 @@ export default function HomePage() {
           )}
 
           {/* コンパクト一覧表示モード（リスト） */}
-          {viewMode === "compact" && filteredPolicies.length > 0 && (
+          {viewMode === "compact" && sortedPolicies.length > 0 && (
             <div className="space-y-2 pt-2">
               {visiblePolicies.map((policy) => {
                 const badges = badgeMap[policy.id] || [
@@ -2575,31 +2762,31 @@ export default function HomePage() {
           )}
 
           {/* 「もっと見る」ボタン & ページネーション */}
-          {filteredPolicies.length > visiblePolicies.length && (
+          {sortedPolicies.length > visiblePolicies.length && (
             <div className="pt-6 pb-2 flex flex-col items-center gap-3">
               <button
                 type="button"
-                onClick={() => setDisplayCount((prev) => prev + 16)}
-                className="inline-flex items-center gap-2 px-6 py-3 rounded-2xl bg-teal-800 text-white font-bold text-sm shadow-md hover:bg-teal-900 hover:shadow-lg transition-all active:scale-98"
+                onClick={() => setDisplayCount((prev) => prev + 24)}
+                className="inline-flex items-center gap-2 px-6 py-3 rounded-2xl bg-teal-800 text-white font-bold text-sm shadow-md hover:bg-teal-900 hover:shadow-lg transition-all active:scale-98 cursor-pointer"
               >
-                <span>もっと見る（残り {filteredPolicies.length - visiblePolicies.length} 件）</span>
+                <span>もっと見る（残り {sortedPolicies.length - visiblePolicies.length} 件）</span>
                 <ChevronDown className="w-4 h-4" />
               </button>
               <button
                 type="button"
-                onClick={() => setDisplayCount(filteredPolicies.length)}
-                className="text-xs font-semibold text-slate-500 hover:text-slate-800 hover:underline transition-colors"
+                onClick={() => setDisplayCount(sortedPolicies.length)}
+                className="text-xs font-semibold text-slate-500 hover:text-slate-800 hover:underline transition-colors cursor-pointer"
               >
-                全 {filteredPolicies.length} 件を一括表示する
+                全 {sortedPolicies.length} 件を一括表示する
               </button>
             </div>
           )}
 
           {/* 全件表示完了時の案内 */}
-          {filteredPolicies.length > 0 && filteredPolicies.length <= visiblePolicies.length && (
+          {sortedPolicies.length > 0 && sortedPolicies.length <= visiblePolicies.length && (
             <div className="pt-6 text-center">
               <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-slate-100 text-slate-500 text-xs font-medium">
-                <span>全 {filteredPolicies.length} 件を表示中</span>
+                <span>全 {sortedPolicies.length} 件を表示中</span>
               </div>
             </div>
           )}

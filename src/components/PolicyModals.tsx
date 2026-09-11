@@ -91,9 +91,9 @@ export const PolicyModals: React.FC = () => {
                   <div className="bg-slate-50 p-3.5 rounded-xl border border-slate-200 text-xs">
                     <p className="font-semibold text-slate-800 mb-1">プロジェクトの柱</p>
                     <ul className="list-disc pl-4 space-y-1 text-slate-600">
-                      <li>全100政策の網羅的アーカイブとタイムライン整理</li>
+                      <li>全500政策の網羅的アーカイブとタイムライン整理</li>
                       <li>3行要約・ビフォーアフター・特大数字による直感的理解</li>
-                      <li>専門知識なしで使える50種類以上の個別家計シミュレーター</li>
+                      <li>専門知識なしで使える37種類の個別家計シミュレーター＆判定ナビ</li>
                       <li>やさしい日本語モードによるアクセシビリティ担保</li>
                     </ul>
                   </div>
