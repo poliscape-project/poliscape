@@ -34,7 +34,8 @@ const policyToLawsMap: Record<string, string[]> = {
     "income-tax-act"
   ],
   "forest-environment-tax": [
-    "income-tax-act"
+    "income-tax-act",
+    "act-on-promotion-of-global-warming-countermeasures-and-gx"
   ],
   "accommodation-tax-tourism": [
     "income-tax-act"
@@ -162,13 +163,16 @@ const policyToLawsMap: Record<string, string[]> = {
     "climate-change-adaptation-act"
   ],
   "energy-subsidies": [
-    "climate-change-adaptation-act"
+    "climate-change-adaptation-act",
+    "act-on-special-measures-for-renewable-energy"
   ],
   "solar-panel-mandate": [
-    "climate-change-adaptation-act"
+    "climate-change-adaptation-act",
+    "act-on-special-measures-for-renewable-energy"
   ],
   "ev-battery-reuse-recycle-circular-ecosystem": [
-    "climate-change-adaptation-act"
+    "climate-change-adaptation-act",
+    "act-on-promotion-of-global-warming-countermeasures-and-gx"
   ],
   "abandoned-house-tax-hike": [
     "act-on-special-measures-concerning-vacant-houses"
@@ -507,6 +511,146 @@ const policyToLawsMap: Record<string, string[]> = {
   "biometric-authentication-payments-privacy-guidelines": [
     "code-of-civil-procedure-it-reform",
     "act-on-protection-of-personal-information"
+  ],
+  "nuclear-power-operation-60years": [
+    "electricity-business-and-atomic-energy-act",
+    "act-on-promotion-of-global-warming-countermeasures-and-gx"
+  ],
+  "nuclear-power-plant-lifespan-extension-over-60-years": [
+    "electricity-business-and-atomic-energy-act",
+    "act-on-promotion-of-global-warming-countermeasures-and-gx"
+  ],
+  "nuclear-power-plants-60-year-extension-gx-law": [
+    "electricity-business-and-atomic-energy-act",
+    "act-on-promotion-of-global-warming-countermeasures-and-gx"
+  ],
+  "next-gen-nuclear-smr-reactors-development": [
+    "electricity-business-and-atomic-energy-act"
+  ],
+  "high-level-nuclear-waste-final-disposal-survey": [
+    "electricity-business-and-atomic-energy-act"
+  ],
+  "electricity-capacity-market-retail-bankruptcy": [
+    "electricity-business-and-atomic-energy-act"
+  ],
+  "grid-scale-battery-storage-power-grid-masterplan": [
+    "electricity-business-and-atomic-energy-act",
+    "act-on-promotion-of-global-warming-countermeasures-and-gx"
+  ],
+  "renewable-output-curtailment-grid-masterplan": [
+    "electricity-business-and-atomic-energy-act",
+    "act-on-special-measures-for-renewable-energy"
+  ],
+  "renewable-energy-surcharge-burden": [
+    "act-on-special-measures-for-renewable-energy"
+  ],
+  "solar-panel-disposal-reserve-fund": [
+    "act-on-special-measures-for-renewable-energy"
+  ],
+  "solar-panel-recycling-reserve-fund-abandonment": [
+    "act-on-special-measures-for-renewable-energy"
+  ],
+  "offshore-wind-power-eez-expansion": [
+    "act-on-special-measures-for-renewable-energy"
+  ],
+  "floating-offshore-wind-eez-ocean-renewable-energy-act": [
+    "act-on-special-measures-for-renewable-energy"
+  ],
+  "geothermal-power-national-parks-deregulation-hot-springs": [
+    "act-on-special-measures-for-renewable-energy"
+  ],
+  "livestock-methane-emission-reduction": [
+    "act-on-special-measures-for-renewable-energy",
+    "farmland-and-food-agriculture-basic-act"
+  ],
+  "carbon-border-adjustment-mechanism-cbam-dialogue": [
+    "act-on-promotion-of-global-warming-countermeasures-and-gx"
+  ],
+  "hydrogen-steel-gx-decarbonization": [
+    "act-on-promotion-of-global-warming-countermeasures-and-gx"
+  ],
+  "hydrogen-ammonia-co-firing-ccs-framework": [
+    "act-on-promotion-of-global-warming-countermeasures-and-gx",
+    "electricity-business-and-atomic-energy-act"
+  ],
+  "ev-battery-gigafactory-subsidies": [
+    "act-on-promotion-of-global-warming-countermeasures-and-gx"
+  ],
+  "timber-usage-promotion-public-buildings-wooden": [
+    "act-on-promotion-of-global-warming-countermeasures-and-gx"
+  ],
+  "disaster-prevention-weather-information-linear-rainband": [
+    "disaster-countermeasures-basic-act"
+  ],
+  "evacuation-shelter-t-k-b-toilet-kitchen-bed-standards": [
+    "disaster-countermeasures-basic-act"
+  ],
+  "pet-evacuation-shelter-guidelines-disaster": [
+    "disaster-countermeasures-basic-act"
+  ],
+  "welfare-evacuation-shelters-vulnerable-direct-admission": [
+    "disaster-countermeasures-basic-act"
+  ],
+  "disaster-waste-wide-area-disposal-temporary-storage": [
+    "disaster-countermeasures-basic-act"
+  ],
+  "disaster-waste-wide-area-treatment-plan-mandate": [
+    "disaster-countermeasures-basic-act"
+  ],
+  "nankai-trough-earthquake-extra-advisory-pre-evacuation-guidelines": [
+    "disaster-countermeasures-basic-act"
+  ],
+  "japan-trench-chishima-trench-earthquake-tsunami-tower": [
+    "disaster-countermeasures-basic-act"
+  ],
+  "sediment-disaster-red-zone-development-restriction": [
+    "disaster-countermeasures-basic-act"
+  ],
+  "sediment-disaster-red-zone-housing-relocation-subsidies": [
+    "disaster-countermeasures-basic-act"
+  ],
+  "river-basin-disaster-resilience-flood-control": [
+    "disaster-countermeasures-basic-act"
+  ],
+  "river-basin-disaster-resilience-rainwater-storage-facilities": [
+    "disaster-countermeasures-basic-act"
+  ],
+  "dam-redevelopment-pre-discharge-flood-control-hydropower": [
+    "disaster-countermeasures-basic-act"
+  ],
+  "flood-risk-real-estate-transaction-disclosure": [
+    "disaster-countermeasures-basic-act",
+    "act-on-land-and-building-leases"
+  ],
+  "building-seismic-retrofit-mandatory-earthquake-breaker": [
+    "disaster-countermeasures-basic-act"
+  ],
+  "dense-wooden-residential-fire-prevention": [
+    "disaster-countermeasures-basic-act"
+  ],
+  "volcanic-disaster-prevention-helmet-evacuation-shelters": [
+    "disaster-countermeasures-basic-act"
+  ],
+  "rural-gas-station-maintenance-ss-depopulation": [
+    "disaster-countermeasures-basic-act"
+  ],
+  "aging-condominium-rebuilding-resolution-threshold-easing": [
+    "condominium-unit-ownership-and-rebuilding-act"
+  ],
+  "condo-reconstruction-subdivided-ownership": [
+    "condominium-unit-ownership-and-rebuilding-act"
+  ],
+  "tokyo-inland-earthquake-skyscraper-elevator-entrapment-mitigation": [
+    "condominium-unit-ownership-and-rebuilding-act",
+    "disaster-countermeasures-basic-act"
+  ],
+  "tower-mansion-inheritance-tax-valuation": [
+    "condominium-unit-ownership-and-rebuilding-act",
+    "income-tax-act"
+  ],
+  "tower-mansion-tax-loophole-reform-fairness": [
+    "condominium-unit-ownership-and-rebuilding-act",
+    "income-tax-act"
   ]
 };
 
