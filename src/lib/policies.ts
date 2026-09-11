@@ -237,7 +237,50 @@ import selectiveFourDayWorkweekData from "@/data/policies/selective-four-day-wor
 import sideJobWorkingHoursManagementData from "@/data/policies/side-job-dual-employment-working-hours-management.json";
 import nationalArchivesDigitalPreservationData from "@/data/policies/national-archives-digital-preservation-governance.json";
 
-// 登録されている全220政策のリスト
+
+// 第14弾（注目政策40テーマ追加・全260政策）
+import nextGenNuclearSmrData from "@/data/policies/next-gen-nuclear-smr-reactors-development.json";
+import safSustainableAviationFuelData from "@/data/policies/saf-sustainable-aviation-fuel-domestic-supply-mandate.json";
+import gridScaleBatteryMasterplanData from "@/data/policies/grid-scale-battery-storage-power-grid-masterplan.json";
+import hydrogenAmmoniaCcsData from "@/data/policies/hydrogen-ammonia-co-firing-ccs-framework.json";
+import nuclearFusionEnergyStrategyData from "@/data/policies/nuclear-fusion-energy-national-strategy.json";
+import perovskiteSolarMassProductionData from "@/data/policies/perovskite-solar-cells-domestic-mass-production.json";
+import solarPanelRecyclingReserveData from "@/data/policies/solar-panel-recycling-reserve-fund-abandonment.json";
+import nuclear60YearExtensionGxData from "@/data/policies/nuclear-power-plants-60-year-extension-gx-law.json";
+import officialSecurityAssistanceOsaData from "@/data/policies/official-security-assistance-osa-framework.json";
+import offerTypeOdaInfrastructureData from "@/data/policies/offer-type-oda-strategic-infrastructure-export.json";
+import northernTerritoriesGraveRussiaData from "@/data/policies/northern-territories-grave-visitation-russia-policy.json";
+import abductionIssueSummitSanctionsData from "@/data/policies/abduction-issue-summit-talks-north-korea-sanctions.json";
+import unSecurityCouncilReformData from "@/data/policies/un-security-council-reform-japan-permanent-seat.json";
+import economicCoercionCountermeasuresData from "@/data/policies/economic-coercion-countermeasures-multilateral-framework.json";
+import minamitorishimaRareEarthMiningData from "@/data/policies/minamitorishima-rare-earth-deep-sea-mining-trial.json";
+import bbnjHighSeasTreatyData from "@/data/policies/bbnj-high-seas-biodiversity-treaty-ratification.json";
+import overtourismTwoTierPricingData from "@/data/policies/overtourism-countermeasures-two-tier-pricing-tax.json";
+import nationalTreasuresRepairAdmissionData from "@/data/policies/national-treasures-cultural-properties-repair-admission-fees.json";
+import animeMangaIpProtectionData from "@/data/policies/anime-manga-overseas-expansion-ip-protection.json";
+import historicCastlesHotelStayData from "@/data/policies/historic-castles-temples-hotel-stay-deregulation.json";
+import creatorFairRemunerationData from "@/data/policies/cultural-arts-creator-fair-remuneration-guidelines.json";
+import smartArenaStadiumReformData from "@/data/policies/smart-arena-stadium-reform-private-finance.json";
+import touristTaxFreeRefundSystemData from "@/data/policies/tourist-tax-free-shopping-refund-system-resale-prevention.json";
+import traditionalCraftsSuccessorsData from "@/data/policies/traditional-crafts-successors-raw-materials-support.json";
+import japanTrenchTsunamiTowerData from "@/data/policies/japan-trench-chishima-trench-earthquake-tsunami-tower.json";
+import riverBasinRainwaterStorageData from "@/data/policies/river-basin-disaster-resilience-rainwater-storage-facilities.json";
+import buildingSeismicRetrofitBreakerData from "@/data/policies/building-seismic-retrofit-mandatory-earthquake-breaker.json";
+import isolatedSettlementsStarlinkData from "@/data/policies/isolated-settlements-satellite-communications-starlink.json";
+import sedimentDisasterRedZoneData from "@/data/policies/sediment-disaster-red-zone-development-restriction.json";
+import disasterWasteWideAreaDisposalData from "@/data/policies/disaster-waste-wide-area-disposal-temporary-storage.json";
+import roadCaveInPreventionAiRadarData from "@/data/policies/road-cave-in-prevention-ai-underground-radar-pipeline.json";
+import volcanicDisasterHelmetSheltersData from "@/data/policies/volcanic-disaster-prevention-helmet-evacuation-shelters.json";
+import internetVotingStepwiseData from "@/data/policies/internet-voting-overseas-disabled-voters-stepwise.json";
+import electionDepositReductionData from "@/data/policies/election-deposit-reduction-youth-political-participation.json";
+import dietDissolutionRestrictionData from "@/data/policies/diet-dissolution-power-restriction-cabinet-limits.json";
+import convenienceStoreCertificateCloudData from "@/data/policies/convenience-store-certificate-issuance-government-cloud.json";
+import politicalPartySubsidiesDisclosureData from "@/data/policies/political-party-subsidies-usage-disclosure-one-yen-receipts.json";
+import creditCardFraudCompensationData from "@/data/policies/credit-card-fraud-phishing-victim-compensation-guidelines.json";
+import stealthMarketingCrackdownData from "@/data/policies/stealth-marketing-regulation-influencer-crackdown.json";
+import civilLitigationDigitalizationECourtData from "@/data/policies/civil-litigation-digitalization-e-court-web-hearings.json";
+
+// 登録されている全260政策のリスト
 const policies: PolicyTopic[] = [
   childAllowanceData as PolicyTopic,
   universityTuitionData as PolicyTopic,
@@ -476,6 +519,47 @@ const policies: PolicyTopic[] = [
   selectiveFourDayWorkweekData as PolicyTopic,
   sideJobWorkingHoursManagementData as PolicyTopic,
   nationalArchivesDigitalPreservationData as PolicyTopic,
+  // 第14弾追加40政策
+  nextGenNuclearSmrData as PolicyTopic,
+  safSustainableAviationFuelData as PolicyTopic,
+  gridScaleBatteryMasterplanData as PolicyTopic,
+  hydrogenAmmoniaCcsData as PolicyTopic,
+  nuclearFusionEnergyStrategyData as PolicyTopic,
+  perovskiteSolarMassProductionData as PolicyTopic,
+  solarPanelRecyclingReserveData as PolicyTopic,
+  nuclear60YearExtensionGxData as PolicyTopic,
+  officialSecurityAssistanceOsaData as PolicyTopic,
+  offerTypeOdaInfrastructureData as PolicyTopic,
+  northernTerritoriesGraveRussiaData as PolicyTopic,
+  abductionIssueSummitSanctionsData as PolicyTopic,
+  unSecurityCouncilReformData as PolicyTopic,
+  economicCoercionCountermeasuresData as PolicyTopic,
+  minamitorishimaRareEarthMiningData as PolicyTopic,
+  bbnjHighSeasTreatyData as PolicyTopic,
+  overtourismTwoTierPricingData as PolicyTopic,
+  nationalTreasuresRepairAdmissionData as PolicyTopic,
+  animeMangaIpProtectionData as PolicyTopic,
+  historicCastlesHotelStayData as PolicyTopic,
+  creatorFairRemunerationData as PolicyTopic,
+  smartArenaStadiumReformData as PolicyTopic,
+  touristTaxFreeRefundSystemData as PolicyTopic,
+  traditionalCraftsSuccessorsData as PolicyTopic,
+  japanTrenchTsunamiTowerData as PolicyTopic,
+  riverBasinRainwaterStorageData as PolicyTopic,
+  buildingSeismicRetrofitBreakerData as PolicyTopic,
+  isolatedSettlementsStarlinkData as PolicyTopic,
+  sedimentDisasterRedZoneData as PolicyTopic,
+  disasterWasteWideAreaDisposalData as PolicyTopic,
+  roadCaveInPreventionAiRadarData as PolicyTopic,
+  volcanicDisasterHelmetSheltersData as PolicyTopic,
+  internetVotingStepwiseData as PolicyTopic,
+  electionDepositReductionData as PolicyTopic,
+  dietDissolutionRestrictionData as PolicyTopic,
+  convenienceStoreCertificateCloudData as PolicyTopic,
+  politicalPartySubsidiesDisclosureData as PolicyTopic,
+  creditCardFraudCompensationData as PolicyTopic,
+  stealthMarketingCrackdownData as PolicyTopic,
+  civilLitigationDigitalizationECourtData as PolicyTopic,
 ];
 
 export function getAllPolicies(): PolicyTopic[] {
