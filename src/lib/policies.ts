@@ -407,6 +407,58 @@ import abandonedBoatsRemovalPortsCoastalCleanupData from "@/data/policies/abando
 import civilProtectionSheltersUndergroundStationsData from "@/data/policies/civil-protection-shelters-underground-stations.json";
 import floodRiskRealEstateTransactionDisclosureData from "@/data/policies/flood-risk-real-estate-transaction-disclosure.json";
 
+// 第18弾（注目政策50テーマ追加・全430政策）
+import abandonedGravesDemolitionTreeBurialCremationRulesData from "@/data/policies/abandoned-graves-demolition-tree-burial-cremation-rules.json";
+import autonomousDrivingLevel4PublicRoadLiabilityData from "@/data/policies/autonomous-driving-level-4-public-road-liability.json";
+import biometricAuthenticationPaymentsPrivacyGuidelinesData from "@/data/policies/biometric-authentication-payments-privacy-guidelines.json";
+import childPovertyPreventionCafeteriaPermanentSubsidiesData from "@/data/policies/child-poverty-prevention-cafeteria-permanent-subsidies.json";
+import childcareLeaveNetTakeHomePay100PercentBenefitData from "@/data/policies/childcare-leave-net-take-home-pay-100-percent-benefit.json";
+import compactCityLocationOptimizationPlanConsolidationData from "@/data/policies/compact-city-location-optimization-plan-consolidation.json";
+import damRedevelopmentPreDischargeFloodControlHydropowerData from "@/data/policies/dam-redevelopment-pre-discharge-flood-control-hydropower.json";
+import defenseSupplyChainCyberSecurityStandardSp800Data from "@/data/policies/defense-supply-chain-cyber-security-standard-sp800.json";
+import digitalWillSmartphoneBlockchainLegalizationData from "@/data/policies/digital-will-smartphone-blockchain-legalization.json";
+import domesticSovereignAiLlmSupercomputerFundData from "@/data/policies/domestic-sovereign-ai-llm-supercomputer-fund.json";
+import droneHighwayFlightCorridorsRadioLawReformData from "@/data/policies/drone-highway-flight-corridors-radio-law-reform.json";
+import drugLagDrugLossFastTrackApprovalData from "@/data/policies/drug-lag-drug-loss-fast-track-approval.json";
+import emergencyCall7119TelephoneTriageNationwideData from "@/data/policies/emergency-call-7119-telephone-triage-nationwide.json";
+import floatingOffshoreWindEezOceanRenewableEnergyActData from "@/data/policies/floating-offshore-wind-eez-ocean-renewable-energy-act.json";
+import foreignIkuseiShuroTrainingEmploymentSystemReformData from "@/data/policies/foreign-ikusei-shuro-training-employment-system-reform.json";
+import forestEnvironmentTransferTaxAllocationFormulaReformData from "@/data/policies/forest-environment-transfer-tax-allocation-formula-reform.json";
+import genericDrugSubstitutionIncentiveLongListedCopayData from "@/data/policies/generic-drug-substitution-incentive-long-listed-copay.json";
+import heatstrokeSpecialAlertCoolingShelterDesignationData from "@/data/policies/heatstroke-special-alert-cooling-shelter-designation.json";
+import infertilityTreatmentAdvancedMedicineCostSubsidyData from "@/data/policies/infertility-treatment-advanced-medicine-cost-subsidy.json";
+import jpkiPublicPersonalAuthenticationPrivateApiOpeningData from "@/data/policies/jpki-public-personal-authentication-private-api-opening.json";
+import localVitalizingCooperatorEntrepreneurshipSupportData from "@/data/policies/local-vitalizing-cooperator-entrepreneurship-support.json";
+import minimumWageNationwideUniformRegionalGapReductionData from "@/data/policies/minimum-wage-nationwide-uniform-regional-gap-reduction.json";
+import nankaiTroughEarthquakeExtraAdvisoryPreEvacuationGuidelinesData from "@/data/policies/nankai-trough-earthquake-extra-advisory-pre-evacuation-guidelines.json";
+import nationalHealthInsuranceContributionCapIncreaseData from "@/data/policies/national-health-insurance-contribution-cap-increase.json";
+import neglectedVacantHousesPropertyTaxReliefRevocationData from "@/data/policies/neglected-vacant-houses-property-tax-relief-revocation.json";
+import neighborhoodAssociationJichikaiDigitalizationReformData from "@/data/policies/neighborhood-association-jichikai-digitalization-reform.json";
+import newlywedMarriageHousingRelocationSupportSubsidyData from "@/data/policies/newlywed-marriage-housing-relocation-support-subsidy.json";
+import nuclearPowerPlantLifespanExtensionOver60YearsData from "@/data/policies/nuclear-power-plant-lifespan-extension-over-60-years.json";
+import onlineMedicationGuidanceSameDayDeliveryData from "@/data/policies/online-medication-guidance-same-day-delivery.json";
+import partTimeWorkerSocialInsuranceFullCoverageEliminationData from "@/data/policies/part-time-worker-social-insurance-full-coverage-elimination.json";
+import postQuantumCryptographyGovernmentMigrationPlanData from "@/data/policies/post-quantum-cryptography-government-migration-plan.json";
+import postpartumDepressionMentalHealthCareExpansionData from "@/data/policies/postpartum-depression-mental-health-care-expansion.json";
+import presumptionOfPaternityCivilCodeReformUnregisteredData from "@/data/policies/presumption-of-paternity-civil-code-reform-unregistered.json";
+import publicNightJuniorHighSchoolPrefectureMandateData from "@/data/policies/public-night-junior-high-school-prefecture-mandate.json";
+import refillPrescriptionUtilizationTargetExpansionData from "@/data/policies/refill-prescription-utilization-target-expansion.json";
+import regenerativeMedicineIpsCellInsurancePricingData from "@/data/policies/regenerative-medicine-ips-cell-insurance-pricing.json";
+import regionalMedicalCoordinationHospitalDownsizingData from "@/data/policies/regional-medical-coordination-hospital-downsizing.json";
+import resignationAgentAcceptanceEmployeeFreeExitRightsData from "@/data/policies/resignation-agent-acceptance-employee-free-exit-rights.json";
+import sedimentDisasterRedZoneHousingRelocationSubsidiesData from "@/data/policies/sediment-disaster-red-zone-housing-relocation-subsidies.json";
+import seniorEmploymentAge70MandateAge75ExtensionData from "@/data/policies/senior-employment-age-70-mandate-age-75-extension.json";
+import sewagePipelineAiRobotInspectionSinkholePreventionData from "@/data/policies/sewage-pipeline-ai-robot-inspection-sinkhole-prevention.json";
+import specializedPracticalEducationTrainingBenefit80PercentData from "@/data/policies/specialized-practical-education-training-benefit-80-percent.json";
+import spotWorkSukimaBaitoLaborProtectionWorkersCompData from "@/data/policies/spot-work-sukima-baito-labor-protection-workers-comp.json";
+import submarineCableLandingStationsDecentralizationData from "@/data/policies/submarine-cable-landing-stations-decentralization.json";
+import tokyoInlandEarthquakeSkyscraperElevatorEntrapmentMitigationData from "@/data/policies/tokyo-inland-earthquake-skyscraper-elevator-entrapment-mitigation.json";
+import truckDriverWaitingTimeDemurrageFeeMandatoryChargeData from "@/data/policies/truck-driver-waiting-time-demurrage-fee-mandatory-charge.json";
+import universalDentalCheckupMandatePeriodontalDiseaseData from "@/data/policies/universal-dental-checkup-mandate-periodontal-disease.json";
+import voiceCloningDeepfakeFraudPenalCodeCrackdownData from "@/data/policies/voice-cloning-deepfake-fraud-penal-code-crackdown.json";
+import wageHikeCorporateTaxCreditDeficitReliefSubsidiesData from "@/data/policies/wage-hike-corporate-tax-credit-deficit-relief-subsidies.json";
+import welfareEvacuationSheltersVulnerableDirectAdmissionData from "@/data/policies/welfare-evacuation-shelters-vulnerable-direct-admission.json";
+
 const policies: PolicyTopic[] = [
   childAllowanceData as PolicyTopic,
   universityTuitionData as PolicyTopic,
@@ -810,6 +862,57 @@ const policies: PolicyTopic[] = [
   abandonedBoatsRemovalPortsCoastalCleanupData as PolicyTopic,
   civilProtectionSheltersUndergroundStationsData as PolicyTopic,
   floodRiskRealEstateTransactionDisclosureData as PolicyTopic,
+  // 第18弾（注目政策50テーマ追加・全430政策）
+  abandonedGravesDemolitionTreeBurialCremationRulesData as PolicyTopic,
+  autonomousDrivingLevel4PublicRoadLiabilityData as PolicyTopic,
+  biometricAuthenticationPaymentsPrivacyGuidelinesData as PolicyTopic,
+  childPovertyPreventionCafeteriaPermanentSubsidiesData as PolicyTopic,
+  childcareLeaveNetTakeHomePay100PercentBenefitData as PolicyTopic,
+  compactCityLocationOptimizationPlanConsolidationData as PolicyTopic,
+  damRedevelopmentPreDischargeFloodControlHydropowerData as PolicyTopic,
+  defenseSupplyChainCyberSecurityStandardSp800Data as PolicyTopic,
+  digitalWillSmartphoneBlockchainLegalizationData as PolicyTopic,
+  domesticSovereignAiLlmSupercomputerFundData as PolicyTopic,
+  droneHighwayFlightCorridorsRadioLawReformData as PolicyTopic,
+  drugLagDrugLossFastTrackApprovalData as PolicyTopic,
+  emergencyCall7119TelephoneTriageNationwideData as PolicyTopic,
+  floatingOffshoreWindEezOceanRenewableEnergyActData as PolicyTopic,
+  foreignIkuseiShuroTrainingEmploymentSystemReformData as PolicyTopic,
+  forestEnvironmentTransferTaxAllocationFormulaReformData as PolicyTopic,
+  genericDrugSubstitutionIncentiveLongListedCopayData as PolicyTopic,
+  heatstrokeSpecialAlertCoolingShelterDesignationData as PolicyTopic,
+  infertilityTreatmentAdvancedMedicineCostSubsidyData as PolicyTopic,
+  jpkiPublicPersonalAuthenticationPrivateApiOpeningData as PolicyTopic,
+  localVitalizingCooperatorEntrepreneurshipSupportData as PolicyTopic,
+  minimumWageNationwideUniformRegionalGapReductionData as PolicyTopic,
+  nankaiTroughEarthquakeExtraAdvisoryPreEvacuationGuidelinesData as PolicyTopic,
+  nationalHealthInsuranceContributionCapIncreaseData as PolicyTopic,
+  neglectedVacantHousesPropertyTaxReliefRevocationData as PolicyTopic,
+  neighborhoodAssociationJichikaiDigitalizationReformData as PolicyTopic,
+  newlywedMarriageHousingRelocationSupportSubsidyData as PolicyTopic,
+  nuclearPowerPlantLifespanExtensionOver60YearsData as PolicyTopic,
+  onlineMedicationGuidanceSameDayDeliveryData as PolicyTopic,
+  partTimeWorkerSocialInsuranceFullCoverageEliminationData as PolicyTopic,
+  postQuantumCryptographyGovernmentMigrationPlanData as PolicyTopic,
+  postpartumDepressionMentalHealthCareExpansionData as PolicyTopic,
+  presumptionOfPaternityCivilCodeReformUnregisteredData as PolicyTopic,
+  publicNightJuniorHighSchoolPrefectureMandateData as PolicyTopic,
+  refillPrescriptionUtilizationTargetExpansionData as PolicyTopic,
+  regenerativeMedicineIpsCellInsurancePricingData as PolicyTopic,
+  regionalMedicalCoordinationHospitalDownsizingData as PolicyTopic,
+  resignationAgentAcceptanceEmployeeFreeExitRightsData as PolicyTopic,
+  sedimentDisasterRedZoneHousingRelocationSubsidiesData as PolicyTopic,
+  seniorEmploymentAge70MandateAge75ExtensionData as PolicyTopic,
+  sewagePipelineAiRobotInspectionSinkholePreventionData as PolicyTopic,
+  specializedPracticalEducationTrainingBenefit80PercentData as PolicyTopic,
+  spotWorkSukimaBaitoLaborProtectionWorkersCompData as PolicyTopic,
+  submarineCableLandingStationsDecentralizationData as PolicyTopic,
+  tokyoInlandEarthquakeSkyscraperElevatorEntrapmentMitigationData as PolicyTopic,
+  truckDriverWaitingTimeDemurrageFeeMandatoryChargeData as PolicyTopic,
+  universalDentalCheckupMandatePeriodontalDiseaseData as PolicyTopic,
+  voiceCloningDeepfakeFraudPenalCodeCrackdownData as PolicyTopic,
+  wageHikeCorporateTaxCreditDeficitReliefSubsidiesData as PolicyTopic,
+  welfareEvacuationSheltersVulnerableDirectAdmissionData as PolicyTopic,
 ];
 
 export function getAllPolicies(): PolicyTopic[] {

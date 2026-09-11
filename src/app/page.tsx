@@ -1482,6 +1482,258 @@ export default function HomePage() {
     { text: "購入・賃貸前のリスク把握", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
   ],
 
+  // 第18弾（注目政策50テーマ追加・全430政策）
+  "abandoned-graves-demolition-tree-burial-cremation-rules": [
+    { text: "無縁墓の撤去公告期間を短縮", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "樹木葬・合葬墓の基準を法制化", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "離檀トラブル防止ガイドライン", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "autonomous-driving-level-4-public-road-liability": [
+    { text: "車内完全無人の公道走行を解禁", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "遠隔監視者の配置を義務化", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "システム欠陥と運行責任を法的に整理", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "biometric-authentication-payments-privacy-guidelines": [
+    { text: "完全な手ぶら決済が実現", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "顔画像の保存禁止・特徴量暗号化", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "事前オプトイン同意の義務化", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "child-poverty-prevention-cafeteria-permanent-subsidies": [
+    { text: "現在と将来の幸福を明記", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "子ども食堂への安定公費助成", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "夏休み等の食料無料配布を拡充", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "childcare-leave-net-take-home-pay-100-percent-benefit": [
+    { text: "手取り実質100%を支給", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "両親ともに14日以上取得が原則", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "生後直後の最大28日間が対象", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "compact-city-location-optimization-plan-consolidation": [
+    { text: "中心部へ生活機能を集約", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "安全な中心部への移住補助", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "危険区域への居住誘導を禁止", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "dam-redevelopment-pre-discharge-flood-control-hydropower": [
+    { text: "利水・発電ダムを含む全国統合放流", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "AI降雨予測による精密な事前放流", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "治水とクリーン電力増発の両立", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "defense-supply-chain-cyber-security-standard-sp800": [
+    { text: "NIST SP800-171相当の国際基準へ", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "下請け中小サプライヤーまで義務化", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "防衛省による実地検査を導入", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "digital-will-smartphone-blockchain-legalization": [
+    { text: "スマホ・PCでの遺言作成を容認", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "動画による意思確認を補助証拠化", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "法務局クラウド保管で検認不要", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "domestic-sovereign-ai-llm-supercomputer-fund": [
+    { text: "計算資源（GPU）を国が集中支援", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "日本の制度・文化に特化した学習", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "国内DC完結でデータ主権を死守", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "drone-highway-flight-corridors-radio-law-reform": [
+    { text: "送電線・河川上空を空の道に指定", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "上空での5G利用規制を緩和", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "UTMクラウドで空中衝突を自動防止", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "drug-lag-drug-loss-fast-track-approval": [
+    { text: "国内独自治験の原則撤廃", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "審査期間を最短6か月に", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "迅速導入への薬価優遇", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "emergency-call-7119-telephone-triage-nationwide": [
+    { text: "24時間体制の#7119ダイヤル", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "重症患者への到着時間を短縮", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "全国人口カバー率ほぼ100%へ", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "floating-offshore-wind-eez-ocean-renewable-energy-act": [
+    { text: "EEZ沖合まで設置エリアを拡大", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "仮許可・本許可の2段階審査", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "浮体式技術による深海展開", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "foreign-ikusei-shuro-training-employment-system-reform": [
+    { text: "人材確保と育成を明確な目的に", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "1〜2年で本人の希望転職を容認", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "特定技能へ直結、長期定着可能に", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "forest-environment-transfer-tax-allocation-formula-reform": [
+    { text: "森林面積重視へ配分比率を是正", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "2024年度より年1,000円課税開始", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "荒廃林の間伐と花粉症対策の重点化", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "generic-drug-substitution-incentive-long-listed-copay": [
+    { text: "先発薬の差額1/4が自己負担に", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "成分名処方への評価引き上げ", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "医療上の必要性がある時は免除", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "heatstroke-special-alert-cooling-shelter-designation": [
+    { text: "最上位の「特別警戒アラート」新設", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "クーリングシェルターの法的位置付け・義務化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "大手スーパー等の民間店舗の避難所指定", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "infertility-treatment-advanced-medicine-cost-subsidy": [
+    { text: "3割負担＋高額療養費が適用", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "先進医療の自己負担を最大全額助成", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "子ごとに回数リセット可能", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "jpki-public-personal-authentication-private-api-opening": [
+    { text: "ICチップ読み取りで即時完了", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "本人確認コストを最大9割削減", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "偽造身分証詐欺を完全遮断", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "local-vitalizing-cooperator-entrepreneurship-support": [
+    { text: "隊員数1万人体制へ拡大", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "起業支援金最大100万円", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "事業承継型の隊員募集を強化", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "minimum-wage-nationwide-uniform-regional-gap-reduction": [
+    { text: "全国平均1500円目標へ前倒し", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "ランク集約で地方へ高額配分", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "地域間格差の縮小を優先", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "nankai-trough-earthquake-extra-advisory-pre-evacuation-guidelines": [
+    { text: "警戒と注意の行動基準を明確化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "過剰な計画運休・休業の防止指針", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "流通業界との連携と冷静な購買誘導", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "national-health-insurance-contribution-cap-increase": [
+    { text: "最高限度額が年106万円超へ", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "中間層の急激な保険料増を緩和", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "低所得軽減の判定基準見直し", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "neglected-vacant-houses-property-tax-relief-revocation": [
+    { text: "管理不全の段階で早期指定", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "住宅特例解除で税額最大6倍", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "自治体の所有者調査権限を拡大", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "neighborhood-association-jichikai-digitalization-reform": [
+    { text: "オンライン総会・電磁決議を解禁", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "紙の回覧板からアプリ配信へ", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "会費集金のキャッシュレス化", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "newlywed-marriage-housing-relocation-support-subsidy": [
+    { text: "20代新婚世帯に最大60万円", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "世帯所得500万円未満へ緩和", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "購入・リフォーム・引越し代も対象", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "nuclear-power-plant-lifespan-extension-over-60-years": [
+    { text: "60年超の運転を可能に", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "安全審査等の停止期間を除外", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "30年以降は10年ごとに厳格審査", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "online-medication-guidance-same-day-delivery": [
+    { text: "スマホで服薬指導を完了", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "最短即日自宅へ配送", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "ドローンによる医薬品空輸", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "part-time-worker-social-insurance-full-coverage-elimination": [
+    { text: "企業規模要件の完全撤廃へ", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "厚生年金が上乗せされ将来安心", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "会社が保険料の半分を折半負担", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "post-quantum-cryptography-government-migration-plan": [
+    { text: "耐量子暗号（PQC）へ切り替え", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "2030年代半ばまでに完全移行", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "盗聴不可能な量子通信網の構築", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "postpartum-depression-mental-health-care-expansion": [
+    { text: "産後健診2回分を公費補助", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "宿泊型ケアが1泊数千円に", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "全産婦が利用しやすい制度へ", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "presumption-of-paternity-civil-code-reform-unregistered": [
+    { text: "再婚後の出生は現夫の子に", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "女性の再婚禁止期間を全廃", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "母と子本人にも否認権を付与", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "public-night-junior-high-school-prefecture-mandate": [
+    { text: "全都道府県への設置を推進", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "不登校の若者や外国籍へ拡大", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "授業料無料・教科書無償", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "refill-prescription-utilization-target-expansion": [
+    { text: "最大3回まで通院不要", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "国の普及数値目標を設定", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "薬剤師による健康チェック義務", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "regenerative-medicine-ips-cell-insurance-pricing": [
+    { text: "1回数千万円〜数億円水準", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "費用対効果による薬価引下げ", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "効果が出た時だけ支払う検討", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "regional-medical-coordination-hospital-downsizing": [
+    { text: "病院連合で一体運営が可能に", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "急性期を集約、回復期へ転換", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "病床削減支援金を交付", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "resignation-agent-acceptance-employee-free-exit-rights": [
+    { text: "意思表示から2週間で法律上成立", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "就業規則の代行禁止条項を無効化", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "違法な無資格業者の排除", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "sediment-disaster-red-zone-housing-relocation-subsidies": [
+    { text: "新規住宅開発・要配慮者施設の新設禁止", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "解体・新居取得に最大800万円超の補助", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "跡地買い取りと税制支援", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "senior-employment-age-70-mandate-age-75-extension": [
+    { text: "70歳までの就業確保を義務化へ", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "業務委託・社会貢献支援も容認", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "役割に応じた適正賃金への是正", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "sewage-pipeline-ai-robot-inspection-sinkhole-prevention": [
+    { text: "AI自律ロボットによる自動診断", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "事前リスク予測による予防保全", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "道路を掘らない管更生工法の主流化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "specialized-practical-education-training-benefit-80-percent": [
+    { text: "受講費用の最大80%を給付", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "賃金5%増で追加10%上乗せ", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "AI・データサイエンス・MBAへ拡充", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "spot-work-sukima-baito-labor-protection-workers-comp": [
+    { text: "直接雇用として労基法を完全適用", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "数時間勤務でも即時労災適用", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "手数料なしでの即日全額振込", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "submarine-cable-landing-stations-decentralization": [
+    { text: "北海道・九州・日本海側へ分散", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "日本周回ルートで陸上寸断を回避", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "再エネ豊富な地方DCと直結", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "tokyo-inland-earthquake-skyscraper-elevator-entrapment-mitigation": [
+    { text: "P波感知型による最寄り階即時開放", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "避難所過密を防ぐ「在宅避難」原則", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "72時間稼働の給水・生活用非常電源", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "truck-driver-waiting-time-demurrage-fee-mandatory-charge": [
+    { text: "拘束時間年3300時間へ短縮", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "荷待ち時間料の別建て請求義務化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "悪質荷主の社名公表処分", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "universal-dental-checkup-mandate-periodontal-disease": [
+    { text: "毎年の歯科健診を推進", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "低廉な自己負担で受診可能に", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "健診結果をデジタル管理", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "voice-cloning-deepfake-fraud-penal-code-crackdown": [
+    { text: "AI悪用詐欺の法定刑引き上げ検討", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "合成音声を自動検知して警告", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "音声合成ツールへの本人確認義務化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "wage-hike-corporate-tax-credit-deficit-relief-subsidies": [
+    { text: "給与増加額の最大45%を減税", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "赤字企業も使える5年繰越控除", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "子育て・女性支援でさらに5%上乗せ", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "welfare-evacuation-shelters-vulnerable-direct-admission": [
+    { text: "一般避難所を経由しない直接避難", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "個別避難計画と施設事前マッチング", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "受入費用の全額公費負担・職員派遣", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+
   };
 
   // キーワード・ステータス・カテゴリによる複合フィルタリング
