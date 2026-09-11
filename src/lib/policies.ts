@@ -137,9 +137,66 @@ import caregivingResignationLeaveData from "@/data/policies/caregiving-resignati
 import youngCarerSupportData from "@/data/policies/young-carer-support-legalization.json";
 import dementiaBasicActData from "@/data/policies/dementia-basic-act-inclusive-society.json";
 import foreignCareWorkerData from "@/data/policies/foreign-care-worker-nursing-training.json";
+// 第12弾（注目政策50テーマ追加・全180政策）
+// バッチ1：エネルギー・環境・水産
+import offshoreWindEezData from "@/data/policies/offshore-wind-power-eez-expansion.json";
+import renewableCurtailmentData from "@/data/policies/renewable-output-curtailment-grid-masterplan.json";
+import highLevelNuclearWasteData from "@/data/policies/high-level-nuclear-waste-final-disposal-survey.json";
+import electricityCapacityMarketData from "@/data/policies/electricity-capacity-market-retail-bankruptcy.json";
+import perovskiteSolarData from "@/data/policies/perovskite-solar-cells-domestic-deployment.json";
+import fisheriesTraceabilityData from "@/data/policies/fisheries-distribution-traceability-anti-poaching.json";
+import tacFisheryQuotaData from "@/data/policies/tac-fishery-quota-expansion-warming-seas.json";
+import landBasedAquacultureData from "@/data/policies/land-based-aquaculture-ras-deregulation.json";
+import commercialWhalingData from "@/data/policies/commercial-whaling-kanei-maru-fin-whale.json";
+import marinePlasticGhostGearData from "@/data/policies/marine-plastic-ghost-gear-fisheries.json";
+// バッチ2：観光・地域交通・司法・人権
+import inboundTwoTierPricingData from "@/data/policies/inbound-two-tier-pricing-system.json";
+import mtFujiEntryFeeData from "@/data/policies/mt-fuji-entry-fee-overtourism-regulation.json";
+import minpaku180DayData from "@/data/policies/minpaku-180-day-limit-deregulation.json";
+import unprofitableLocalRailData from "@/data/policies/unprofitable-local-rail-bus-conversion.json";
+import regionalAirportConcessionData from "@/data/policies/regional-airport-concession-inbound.json";
+import retrialLawReformData from "@/data/policies/retrial-law-reform-evidence-disclosure.json";
+import nonConsensualSexualOffensesData from "@/data/policies/non-consensual-sexual-offenses-penal-code.json";
+import genderIdentityReformData from "@/data/policies/gender-identity-act-surgery-requirement-reform.json";
+import juvenileActStrictnessData from "@/data/policies/juvenile-act-specified-juveniles-strictness.json";
+import tokuryuYamiBaitoData from "@/data/policies/tokuryu-yami-baito-crackdown-legislation.json";
+// バッチ3：情報通信・AI・住宅・都市防災
+import aiSafetyBasicActData from "@/data/policies/ai-safety-basic-act-regulation.json";
+import deepfakeWatermarkOpData from "@/data/policies/deepfake-watermark-originator-profile.json";
+import telecomEmergencyRoamingData from "@/data/policies/telecom-emergency-roaming-mandate.json";
+import nhkInternetReceivingFeeData from "@/data/policies/nhk-internet-receiving-fee-mandate.json";
+import youthSmartphoneGamingData from "@/data/policies/youth-smartphone-gaming-time-restriction.json";
+import denseWoodenFirePreventionData from "@/data/policies/dense-wooden-residential-fire-prevention.json";
+import towerMansionTaxValuationData from "@/data/policies/tower-mansion-inheritance-tax-valuation.json";
+import embankmentRegulationActData from "@/data/policies/embankment-regulation-act-landslide-prevention.json";
+import riverBasinDisasterResilienceData from "@/data/policies/river-basin-disaster-resilience-flood-control.json";
+import tokyoMigrationSubsidyData from "@/data/policies/tokyo-over-concentration-migration-subsidy.json";
+// バッチ4：教育・研究・安全保障・防衛
+import nationalUnivTuitionHikeData from "@/data/policies/national-university-tuition-hike-debate.json";
+import worldClassResearchUnivFundData from "@/data/policies/world-class-research-university-fund.json";
+import elementaryClass35ShortageData from "@/data/policies/elementary-class-size-35-teacher-shortage.json";
+import scholarshipForgivenessData from "@/data/policies/scholarship-loan-forgiveness-regional-employment.json";
+import truancyFreeSchoolCocoloData from "@/data/policies/truancy-free-school-public-funding-cocolo.json";
+import activeCyberDefenseData from "@/data/policies/active-cyber-defense-legislation.json";
+import counterstrikeMissilesData from "@/data/policies/counterstrike-capability-long-range-missiles.json";
+import defenseEquipmentGcapExportData from "@/data/policies/defense-equipment-transfer-gcap-export.json";
+import criticalLandUseRegulationData from "@/data/policies/critical-land-use-regulation-act-bases-islands.json";
+import coastGuardSdfProtocolData from "@/data/policies/coast-guard-sdf-control-protocol-defense.json";
+// バッチ5：労働市場・税制・医療・公衆衛生
+import minimumWage1500YenData from "@/data/policies/minimum-wage-1500-yen-target.json";
+import disabilityEmploymentQuotaData from "@/data/policies/disability-employment-quota-hike-agency-curb.json";
+import spotWorkGigWorkerProtectionData from "@/data/policies/spot-work-gig-worker-labor-protection.json";
+import wageIncreaseTaxCreditData from "@/data/policies/wage-increase-corporate-tax-credit.json";
+import jobBasedHiringGraduatesData from "@/data/policies/job-based-hiring-new-graduates-transition.json";
+import infectiousDiseaseAgencyData from "@/data/policies/infectious-disease-agency-jihs-japan-cdc.json";
+import emergencyContraceptionOtcData from "@/data/policies/emergency-contraception-otc-pharmacy-sale.json";
+import primaryCarePhysicianReportData from "@/data/policies/primary-care-physician-function-report-system.json";
+import physicianMaldistributionData from "@/data/policies/physician-geographic-maldistribution-rural-mandate.json";
+import electronicPrescriptionPlatformData from "@/data/policies/electronic-prescription-medical-dx-platform.json";
+
 import { PolicyTopic } from "@/types/policy";
 
-// 登録されている全100政策のリスト
+// 登録されている全180政策のリスト
 const policies: PolicyTopic[] = [
   childAllowanceData as PolicyTopic,
   universityTuitionData as PolicyTopic,
@@ -281,6 +338,62 @@ const policies: PolicyTopic[] = [
   youngCarerSupportData as PolicyTopic,
   dementiaBasicActData as PolicyTopic,
   foreignCareWorkerData as PolicyTopic,
+  // 第12弾（注目政策50テーマ追加・全180政策）
+  // バッチ1：エネルギー・環境・水産
+  offshoreWindEezData as PolicyTopic,
+  renewableCurtailmentData as PolicyTopic,
+  highLevelNuclearWasteData as PolicyTopic,
+  electricityCapacityMarketData as PolicyTopic,
+  perovskiteSolarData as PolicyTopic,
+  fisheriesTraceabilityData as PolicyTopic,
+  tacFisheryQuotaData as PolicyTopic,
+  landBasedAquacultureData as PolicyTopic,
+  commercialWhalingData as PolicyTopic,
+  marinePlasticGhostGearData as PolicyTopic,
+  // バッチ2：観光・地域交通・司法・人権
+  inboundTwoTierPricingData as PolicyTopic,
+  mtFujiEntryFeeData as PolicyTopic,
+  minpaku180DayData as PolicyTopic,
+  unprofitableLocalRailData as PolicyTopic,
+  regionalAirportConcessionData as PolicyTopic,
+  retrialLawReformData as PolicyTopic,
+  nonConsensualSexualOffensesData as PolicyTopic,
+  genderIdentityReformData as PolicyTopic,
+  juvenileActStrictnessData as PolicyTopic,
+  tokuryuYamiBaitoData as PolicyTopic,
+  // バッチ3：情報通信・AI・住宅・都市防災
+  aiSafetyBasicActData as PolicyTopic,
+  deepfakeWatermarkOpData as PolicyTopic,
+  telecomEmergencyRoamingData as PolicyTopic,
+  nhkInternetReceivingFeeData as PolicyTopic,
+  youthSmartphoneGamingData as PolicyTopic,
+  denseWoodenFirePreventionData as PolicyTopic,
+  towerMansionTaxValuationData as PolicyTopic,
+  embankmentRegulationActData as PolicyTopic,
+  riverBasinDisasterResilienceData as PolicyTopic,
+  tokyoMigrationSubsidyData as PolicyTopic,
+  // バッチ4：教育・研究・安全保障・防衛
+  nationalUnivTuitionHikeData as PolicyTopic,
+  worldClassResearchUnivFundData as PolicyTopic,
+  elementaryClass35ShortageData as PolicyTopic,
+  scholarshipForgivenessData as PolicyTopic,
+  truancyFreeSchoolCocoloData as PolicyTopic,
+  activeCyberDefenseData as PolicyTopic,
+  counterstrikeMissilesData as PolicyTopic,
+  defenseEquipmentGcapExportData as PolicyTopic,
+  criticalLandUseRegulationData as PolicyTopic,
+  coastGuardSdfProtocolData as PolicyTopic,
+  // バッチ5：労働市場・税制・医療・公衆衛生
+  minimumWage1500YenData as PolicyTopic,
+  disabilityEmploymentQuotaData as PolicyTopic,
+  spotWorkGigWorkerProtectionData as PolicyTopic,
+  wageIncreaseTaxCreditData as PolicyTopic,
+  jobBasedHiringGraduatesData as PolicyTopic,
+  infectiousDiseaseAgencyData as PolicyTopic,
+  emergencyContraceptionOtcData as PolicyTopic,
+  primaryCarePhysicianReportData as PolicyTopic,
+  physicianMaldistributionData as PolicyTopic,
+  electronicPrescriptionPlatformData as PolicyTopic,
 ];
 
 export function getAllPolicies(): PolicyTopic[] {

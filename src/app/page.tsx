@@ -543,6 +543,257 @@ export default function HomePage() {
       { text: "育成就労制度で転籍容認へ", color: "bg-teal-50 text-teal-800" },
       { text: "円安下の国際人材獲得競争", color: "bg-rose-50 text-rose-800" },
     ],
+    // 第12弾（50政策追加）
+    "offshore-wind-power-eez-expansion": [
+      { text: "EEZ全域へ拡大", color: "bg-teal-50 text-teal-800" },
+      { text: "浮体式洋上風力", color: "bg-indigo-50 text-indigo-800" },
+      { text: "2040年4500万kW", color: "bg-amber-100 text-amber-900" },
+    ],
+    "renewable-output-curtailment-grid-masterplan": [
+      { text: "出力制御の多発", color: "bg-rose-50 text-rose-800" },
+      { text: "地域間連系線投資", color: "bg-teal-50 text-teal-800" },
+      { text: "海底直流送電HVDC", color: "bg-indigo-50 text-indigo-800" },
+    ],
+    "high-level-nuclear-waste-final-disposal-survey": [
+      { text: "核のごみ最終処分", color: "bg-purple-50 text-purple-800" },
+      { text: "玄海町が文献調査", color: "bg-amber-100 text-amber-900" },
+      { text: "地下300m地層処分", color: "bg-teal-50 text-teal-800" },
+    ],
+    "electricity-capacity-market-retail-bankruptcy": [
+      { text: "容量市場拠出金", color: "bg-rose-50 text-rose-800" },
+      { text: "新電力の倒産急増", color: "bg-amber-100 text-amber-900" },
+      { text: "レベニューキャップ", color: "bg-teal-50 text-teal-800" },
+    ],
+    "perovskite-solar-cells-domestic-deployment": [
+      { text: "次世代ペロブスカイト", color: "bg-teal-50 text-teal-800" },
+      { text: "ビル壁面・曲面設置", color: "bg-indigo-50 text-indigo-800" },
+      { text: "ヨウ素の国産サプライ", color: "bg-emerald-50 text-emerald-800" },
+    ],
+    "fisheries-distribution-traceability-anti-poaching": [
+      { text: "水産流通適正化法", color: "bg-teal-50 text-teal-800" },
+      { text: "アワビ・ナマコ密漁罰則", color: "bg-rose-50 text-rose-800" },
+      { text: "漁獲証明番号義務化", color: "bg-amber-100 text-amber-900" },
+    ],
+    "tac-fishery-quota-expansion-warming-seas": [
+      { text: "TAC漁獲枠8割へ", color: "bg-teal-50 text-teal-800" },
+      { text: "個別割当（IQ）方式", color: "bg-indigo-50 text-indigo-800" },
+      { text: "魚種交代への対応", color: "bg-amber-100 text-amber-900" },
+    ],
+    "land-based-aquaculture-ras-deregulation": [
+      { text: "循環式陸上養殖RAS", color: "bg-teal-50 text-teal-800" },
+      { text: "サーモン・エビ内陸生産", color: "bg-emerald-50 text-emerald-800" },
+      { text: "海面養殖区画の緩和", color: "bg-indigo-50 text-indigo-800" },
+    ],
+    "commercial-whaling-kanei-maru-fin-whale": [
+      { text: "商業捕鯨・関鯨丸就航", color: "bg-indigo-50 text-indigo-800" },
+      { text: "ナガスクジラ追加", color: "bg-teal-50 text-teal-800" },
+      { text: "水産食文化の継承", color: "bg-amber-100 text-amber-900" },
+    ],
+    "marine-plastic-ghost-gear-fisheries": [
+      { text: "ゴーストギア流失漁具", color: "bg-rose-50 text-rose-800" },
+      { text: "海洋生分解性プラスチック", color: "bg-teal-50 text-teal-800" },
+      { text: "漁港での無償引き取り", color: "bg-emerald-50 text-emerald-800" },
+    ],
+    "inbound-two-tier-pricing-system": [
+      { text: "外国人向け二重価格", color: "bg-amber-100 text-amber-900" },
+      { text: "内外価格差と地域還元", color: "bg-teal-50 text-teal-800" },
+      { text: "便乗値上げの監視", color: "bg-rose-50 text-rose-800" },
+    ],
+    "mt-fuji-entry-fee-overtourism-regulation": [
+      { text: "富士山通行料2,000円", color: "bg-teal-50 text-teal-800" },
+      { text: "1日4,000人弾力規制", color: "bg-indigo-50 text-indigo-800" },
+      { text: "弾丸登山・遭難防止", color: "bg-rose-50 text-rose-800" },
+    ],
+    "minpaku-180-day-limit-deregulation": [
+      { text: "民泊180日制限見直し", color: "bg-amber-100 text-amber-900" },
+      { text: "住宅宿泊事業法改正", color: "bg-teal-50 text-teal-800" },
+      { text: "ヤミ民泊・騒音取締", color: "bg-rose-50 text-rose-800" },
+    ],
+    "unprofitable-local-rail-bus-conversion": [
+      { text: "赤字ローカル線再構築", color: "bg-rose-50 text-rose-800" },
+      { text: "BRT・上下分離方式", color: "bg-teal-50 text-teal-800" },
+      { text: "国主導の再構築協議会", color: "bg-indigo-50 text-indigo-800" },
+    ],
+    "regional-airport-concession-inbound": [
+      { text: "地方空港コンセッション", color: "bg-teal-50 text-teal-800" },
+      { text: "国際線LCC直行便誘致", color: "bg-emerald-50 text-emerald-800" },
+      { text: "滑走路・ターミナル一体運営", color: "bg-indigo-50 text-indigo-800" },
+    ],
+    "retrial-law-reform-evidence-disclosure": [
+      { text: "袴田事件無罪確定", color: "bg-emerald-50 text-emerald-800" },
+      { text: "未提出証拠の開示義務化", color: "bg-teal-50 text-teal-800" },
+      { text: "検察の抗告禁止を要求", color: "bg-amber-100 text-amber-900" },
+    ],
+    "non-consensual-sexual-offenses-penal-code": [
+      { text: "不同意性交等罪の施行", color: "bg-teal-50 text-teal-800" },
+      { text: "性的同意年齢16歳へ", color: "bg-indigo-50 text-indigo-800" },
+      { text: "盗撮処罰法（撮影罪）新設", color: "bg-purple-50 text-purple-800" },
+    ],
+    "gender-identity-act-surgery-requirement-reform": [
+      { text: "生殖不能手術要件の違憲", color: "bg-teal-50 text-teal-800" },
+      { text: "最高裁大法廷決定", color: "bg-indigo-50 text-indigo-800" },
+      { text: "公衆浴場は身体特徴基準", color: "bg-amber-100 text-amber-900" },
+    ],
+    "juvenile-act-specified-juveniles-strictness": [
+      { text: "特定少年（18・19歳）", color: "bg-amber-100 text-amber-900" },
+      { text: "起訴後の実名報道解禁", color: "bg-rose-50 text-rose-800" },
+      { text: "原則逆送対象の大幅拡大", color: "bg-teal-50 text-teal-800" },
+    ],
+    "tokuryu-yami-baito-crackdown-legislation": [
+      { text: "トクリュウ・闇バイト対策", color: "bg-rose-50 text-rose-800" },
+      { text: "AIによる募集検知・DM警告", color: "bg-teal-50 text-teal-800" },
+      { text: "口座・SIMの即時凍結", color: "bg-indigo-50 text-indigo-800" },
+    ],
+    "ai-safety-basic-act-regulation": [
+      { text: "AI安全法制・基本法", color: "bg-indigo-50 text-indigo-800" },
+      { text: "AIセーフティ機構AISI", color: "bg-teal-50 text-teal-800" },
+      { text: "フロンティアAIモデル規制", color: "bg-purple-50 text-purple-800" },
+    ],
+    "deepfake-watermark-originator-profile": [
+      { text: "OP発信者出自証明技術", color: "bg-teal-50 text-teal-800" },
+      { text: "ディープフェイク偽動画対策", color: "bg-rose-50 text-rose-800" },
+      { text: "AI生成物への電子透かし", color: "bg-indigo-50 text-indigo-800" },
+    ],
+    "telecom-emergency-roaming-mandate": [
+      { text: "携帯4社の緊急ローミング", color: "bg-teal-50 text-teal-800" },
+      { text: "119番緊急通報を優先確保", color: "bg-rose-50 text-rose-800" },
+      { text: "大規模障害・災害時の相互接続", color: "bg-indigo-50 text-indigo-800" },
+    ],
+    "nhk-internet-receiving-fee-mandate": [
+      { text: "NHKネット配信の必須業務化", color: "bg-indigo-50 text-indigo-800" },
+      { text: "登録者にネット受信料新設", color: "bg-amber-100 text-amber-900" },
+      { text: "テレビ保有世帯は追加負担なし", color: "bg-teal-50 text-teal-800" },
+    ],
+    "youth-smartphone-gaming-time-restriction": [
+      { text: "未成年スマホ・SNS利用指針", color: "bg-amber-100 text-amber-900" },
+      { text: "海外16歳未満禁止法の波及", color: "bg-purple-50 text-purple-800" },
+      { text: "年齢確認技術の実装義務化", color: "bg-teal-50 text-teal-800" },
+    ],
+    "dense-wooden-residential-fire-prevention": [
+      { text: "木造密集地域（木密）解消", color: "bg-rose-50 text-rose-800" },
+      { text: "特定防災道路の拡幅整備", color: "bg-teal-50 text-teal-800" },
+      { text: "解体費全額助成・固定資産税免除", color: "bg-indigo-50 text-indigo-800" },
+    ],
+    "tower-mansion-inheritance-tax-valuation": [
+      { text: "タワマン節税の見直し", color: "bg-amber-100 text-amber-900" },
+      { text: "実勢価格の最低6割へ補正", color: "bg-teal-50 text-teal-800" },
+      { text: "高層階ほど評価額引き上げ", color: "bg-indigo-50 text-indigo-800" },
+    ],
+    "embankment-regulation-act-landslide-prevention": [
+      { text: "盛土規制法の全国運用", color: "bg-teal-50 text-teal-800" },
+      { text: "熱海土石流の教訓・総点検", color: "bg-rose-50 text-rose-800" },
+      { text: "違反法人に最高3億円重罰", color: "bg-purple-50 text-purple-800" },
+    ],
+    "river-basin-disaster-resilience-flood-control": [
+      { text: "流域治水・特定都市河川", color: "bg-teal-50 text-teal-800" },
+      { text: "田んぼダム・地下調整池", color: "bg-emerald-50 text-emerald-800" },
+      { text: "水害危険地域からの高台移転", color: "bg-indigo-50 text-indigo-800" },
+    ],
+    "tokyo-over-concentration-migration-subsidy": [
+      { text: "地方移住支援金最大300万円", color: "bg-teal-50 text-teal-800" },
+      { text: "子ども1人加算100万円", color: "bg-amber-100 text-amber-900" },
+      { text: "転職なきテレワーク移住", color: "bg-indigo-50 text-indigo-800" },
+    ],
+    "national-university-tuition-hike-debate": [
+      { text: "東大授業料年64万円へ改定", color: "bg-rose-50 text-rose-800" },
+      { text: "運営費交付金削減のツケ", color: "bg-amber-100 text-amber-900" },
+      { text: "年収900万円まで免除拡充", color: "bg-teal-50 text-teal-800" },
+    ],
+    "world-class-research-university-fund": [
+      { text: "10兆円大学ファンド", color: "bg-indigo-50 text-indigo-800" },
+      { text: "東北大学を第1号認定", color: "bg-teal-50 text-teal-800" },
+      { text: "年数百億円の長期助成", color: "bg-emerald-50 text-emerald-800" },
+    ],
+    "elementary-class-size-35-teacher-shortage": [
+      { text: "小学校全学年で35人学級完成", color: "bg-teal-50 text-teal-800" },
+      { text: "全国的教員不足の深刻化", color: "bg-rose-50 text-rose-800" },
+      { text: "担任未配置・採用倍率低下", color: "bg-amber-100 text-amber-900" },
+    ],
+    "scholarship-loan-forgiveness-regional-employment": [
+      { text: "奨学金返還免除・代理返還", color: "bg-teal-50 text-teal-800" },
+      { text: "地方就業で最大数百万円免除", color: "bg-emerald-50 text-emerald-800" },
+      { text: "介護・保育・製造業の採用支援", color: "bg-indigo-50 text-indigo-800" },
+    ],
+    "truancy-free-school-public-funding-cocolo": [
+      { text: "不登校過去最多34万人突破", color: "bg-rose-50 text-rose-800" },
+      { text: "COCOLOプラン・多様な学び", color: "bg-teal-50 text-teal-800" },
+      { text: "フリースクール利用料助成", color: "bg-indigo-50 text-indigo-800" },
+    ],
+    "active-cyber-defense-legislation": [
+      { text: "能動的サイバー防御ACD", color: "bg-indigo-50 text-indigo-800" },
+      { text: "通信の秘密と先制中和", color: "bg-rose-50 text-rose-800" },
+      { text: "重要インフラ防衛司令部新設", color: "bg-teal-50 text-teal-800" },
+    ],
+    "counterstrike-capability-long-range-missiles": [
+      { text: "反撃能力（敵基地攻撃能力）", color: "bg-rose-50 text-rose-800" },
+      { text: "トマホーク400発前倒し調達", color: "bg-indigo-50 text-indigo-800" },
+      { text: "国産12式改長射程ミサイル", color: "bg-teal-50 text-teal-800" },
+    ],
+    "defense-equipment-transfer-gcap-export": [
+      { text: "次期戦闘機GCAP第三国輸出", color: "bg-indigo-50 text-indigo-800" },
+      { text: "防衛装備移転三原則改定", color: "bg-teal-50 text-teal-800" },
+      { text: "平和主義と量産コスト低減", color: "bg-amber-100 text-amber-900" },
+    ],
+    "critical-land-use-regulation-act-bases-islands": [
+      { text: "重要土地等利用規制法の運用", color: "bg-teal-50 text-teal-800" },
+      { text: "基地周辺1km・国境離島指定", color: "bg-indigo-50 text-indigo-800" },
+      { text: "外資買収調査・事前届出義務", color: "bg-amber-100 text-amber-900" },
+    ],
+    "coast-guard-sdf-control-protocol-defense": [
+      { text: "海保の防衛相統制要領", color: "bg-teal-50 text-teal-800" },
+      { text: "自衛隊法80条の手続き初策定", color: "bg-indigo-50 text-indigo-800" },
+      { text: "住民避難・海難救助に特化", color: "bg-emerald-50 text-emerald-800" },
+    ],
+    "minimum-wage-1500-yen-target": [
+      { text: "全国平均1,500円目標前倒し", color: "bg-teal-50 text-teal-800" },
+      { text: "2024年1,055円へ大幅改定", color: "bg-emerald-50 text-emerald-800" },
+      { text: "中小企業業務改善助成金9割", color: "bg-amber-100 text-amber-900" },
+    ],
+    "disability-employment-quota-hike-agency-curb": [
+      { text: "法定雇用率2.7%へ段階引き上げ", color: "bg-teal-50 text-teal-800" },
+      { text: "週10時間超短時間雇用の解禁", color: "bg-indigo-50 text-indigo-800" },
+      { text: "貸し農園代行ビジネスの規制", color: "bg-amber-100 text-amber-900" },
+    ],
+    "spot-work-gig-worker-labor-protection": [
+      { text: "スキマバイト登録2,000万人", color: "bg-teal-50 text-teal-800" },
+      { text: "面接なし・即日給与払い定着", color: "bg-indigo-50 text-indigo-800" },
+      { text: "労災・雇用保険セーフティネット", color: "bg-rose-50 text-rose-800" },
+    ],
+    "wage-increase-corporate-tax-credit": [
+      { text: "賃上げ促進税制最大45%減税", color: "bg-teal-50 text-teal-800" },
+      { text: "赤字中小向け5年繰越控除新設", color: "bg-emerald-50 text-emerald-800" },
+      { text: "春闘5%賃上げの原動力", color: "bg-indigo-50 text-indigo-800" },
+    ],
+    "job-based-hiring-new-graduates-transition": [
+      { text: "インターン採用直結の解禁", color: "bg-teal-50 text-teal-800" },
+      { text: "新卒ジョブ型・配属ガチャ解消", color: "bg-indigo-50 text-indigo-800" },
+      { text: "就活超早期化と学業への懸念", color: "bg-amber-100 text-amber-900" },
+    ],
+    "infectious-disease-agency-jihs-japan-cdc": [
+      { text: "内閣感染症危機管理統括庁", color: "bg-teal-50 text-teal-800" },
+      { text: "日本版CDC（JIHS）発足", color: "bg-indigo-50 text-indigo-800" },
+      { text: "病床確保の指示・命令権創設", color: "bg-purple-50 text-purple-800" },
+    ],
+    "emergency-contraception-otc-pharmacy-sale": [
+      { text: "緊急避妊薬の処方箋なし薬局販売", color: "bg-teal-50 text-teal-800" },
+      { text: "72時間以内の早期アクセス", color: "bg-indigo-50 text-indigo-800" },
+      { text: "全国145薬局での試験運用", color: "bg-emerald-50 text-emerald-800" },
+    ],
+    "primary-care-physician-function-report-system": [
+      { text: "かかりつけ医機能報告制度", color: "bg-teal-50 text-teal-800" },
+      { text: "休日夜間・在宅看取り機能の公表", color: "bg-indigo-50 text-indigo-800" },
+      { text: "大病院受診の選定療養費引き上げ", color: "bg-amber-100 text-amber-900" },
+    ],
+    "physician-geographic-maldistribution-rural-mandate": [
+      { text: "医師偏在対策・地方勤務要件", color: "bg-rose-50 text-rose-800" },
+      { text: "医学部地域枠離脱のペナルティ", color: "bg-amber-100 text-amber-900" },
+      { text: "大都市開業規制と地方手当加算", color: "bg-teal-50 text-teal-800" },
+    ],
+    "electronic-prescription-medical-dx-platform": [
+      { text: "電子処方箋・電子カルテ全国共有", color: "bg-teal-50 text-teal-800" },
+      { text: "重複投薬・併用禁忌の自動警告", color: "bg-indigo-50 text-indigo-800" },
+      { text: "災害時・救急搬送の即時カルテ参照", color: "bg-emerald-50 text-emerald-800" },
+    ],
   };
 
   // キーワード・ステータス・カテゴリによる複合フィルタリング
