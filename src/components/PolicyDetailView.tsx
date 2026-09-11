@@ -67,7 +67,7 @@ import { PolicySummaryCard } from "@/components/PolicySummaryCard";
 import { PolicyTimeline } from "@/components/PolicyTimeline";
 import { PolicySources } from "@/components/PolicySources";
 import { Footer } from "@/components/Footer";
-import { ArrowLeft, FileText, CheckCircle2 } from "lucide-react";
+import { ArrowLeft, FileText, CheckCircle2, AlertCircle, ExternalLink } from "lucide-react";
 
 export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) => {
   const [isSimpleMode, setIsSimpleMode] = useState<boolean>(false);
@@ -346,6 +346,20 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
               </div>
             )}
           </div>
+        </div>
+
+        {/* 6. 【シビックテック・事実誤認報告導線】公的データとの乖離や数値誤りの指摘受付（完全ゼロ負荷・GitHub Issues） */}
+        <div className="pt-2 text-center">
+          <a
+            href={`https://github.com/poliscape-project/poliscape/issues/new?template=fact_check_report.md&title=${encodeURIComponent(`[事実誤認・数値報告] ${policy.title}`)}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 text-[11px] sm:text-xs text-slate-500 hover:text-slate-800 bg-white hover:bg-slate-100/80 px-4 py-2 rounded-xl border border-slate-200/80 shadow-2xs transition-all group"
+          >
+            <AlertCircle className="w-3.5 h-3.5 text-amber-600 shrink-0 group-hover:scale-110 transition-transform" />
+            <span>数値や公的データとの乖離・事実誤認のご指摘はこちら（GitHub）</span>
+            <ExternalLink className="w-3 h-3 text-slate-400 group-hover:text-slate-600" />
+          </a>
         </div>
       </main>
 

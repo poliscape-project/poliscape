@@ -1,5 +1,5 @@
 import React from "react";
-import { Heart, Code2 } from "lucide-react";
+import { Heart, Code2, AlertCircle } from "lucide-react";
 import { PolicyModals } from "@/components/PolicyModals";
 
 export const Footer: React.FC = () => {
@@ -13,8 +13,18 @@ export const Footer: React.FC = () => {
           <p className="mt-1 text-slate-500">
             本サイトは、公的一次情報をもとに中立・教育目的で制作されたシビックテックツールです。
           </p>
-          <div className="mt-3">
+          <div className="mt-3 flex items-center gap-4 flex-wrap">
             <PolicyModals />
+            <span className="text-slate-300">|</span>
+            <a
+              href="https://github.com/poliscape-project/poliscape/issues/new?template=fact_check_report.md"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1 text-[11px] text-slate-500 hover:text-amber-700 transition-colors"
+            >
+              <AlertCircle className="w-3 h-3 text-amber-500" />
+              <span>事実誤認・公的データの指摘（GitHub）</span>
+            </a>
           </div>
         </div>
         <div className="flex flex-col sm:items-end gap-2 shrink-0">
