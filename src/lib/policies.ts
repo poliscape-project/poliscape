@@ -104,6 +104,39 @@ import nationalLandReversionData from "@/data/policies/national-land-reversion-s
 import reverseMortgageData from "@/data/policies/reverse-mortgage-senior-housing.json";
 import seniorGuarantorData from "@/data/policies/senior-guarantor-service-regulation.json";
 import schoolSmartphoneBanData from "@/data/policies/school-smartphone-ban-regulation.json";
+// 第8弾（農業・食料5政策）
+import riceProductionAdjustmentData from "@/data/policies/rice-production-adjustment-stockpile.json";
+import smartAgriculturePromotionData from "@/data/policies/smart-agriculture-promotion-act.json";
+import corporateFarmlandOwnershipData from "@/data/policies/corporate-farmland-ownership-deregulation.json";
+import greenFoodSystemData from "@/data/policies/green-food-system-organic-farming.json";
+import newFarmersSupportData from "@/data/policies/new-farmers-support-succession.json";
+// 第9弾（畜産・酪農5政策）
+import dairyCrisisData from "@/data/policies/dairy-crisis-milk-price-culling.json";
+import formulaFeedData from "@/data/policies/formula-feed-stabilization-domestic-crops.json";
+import animalWelfareData from "@/data/policies/animal-welfare-livestock-guidelines.json";
+import avianInfluenzaData from "@/data/policies/avian-influenza-livestock-epidemic-control.json";
+import livestockMethaneData from "@/data/policies/livestock-methane-emission-reduction.json";
+// 第10弾（工業・製造業10政策）
+import semiconductorRapidusData from "@/data/policies/semiconductor-rapidus-tsmc-subsidies.json";
+import evBatteryGigafactoryData from "@/data/policies/ev-battery-gigafactory-subsidies.json";
+import hydrogenSteelData from "@/data/policies/hydrogen-steel-gx-decarbonization.json";
+import economicSecuritySupplyChainData from "@/data/policies/economic-security-supply-chain-resilience.json";
+import subcontractActPricePassData from "@/data/policies/subcontract-act-price-pass-through.json";
+import defenseIndustryManufacturingData from "@/data/policies/defense-industry-manufacturing-nationalization.json";
+import industrialRobotSmartFactoryData from "@/data/policies/industrial-robot-smart-factory-automation.json";
+import spaceIndustryStrategicFundData from "@/data/policies/space-industry-strategic-fund.json";
+import biomanufacturingShiftData from "@/data/policies/biomanufacturing-synthetic-biology-shift.json";
+import criticalMineralsDeepSeaData from "@/data/policies/critical-minerals-deep-sea-urban-mining.json";
+import caregiverWageHikeData from "@/data/policies/caregiver-wage-hike-allowance-unification.json";
+import homeCareCutCrisisData from "@/data/policies/home-care-reimbursement-cut-crisis.json";
+import mildCareShiftData from "@/data/policies/mild-care-shift-community-support.json";
+import carePlanCopayData from "@/data/policies/care-plan-copay-debate.json";
+import nursingHomeMultiBedData from "@/data/policies/nursing-home-multi-bed-room-charge.json";
+import careRobotStaffingData from "@/data/policies/care-robot-staffing-ratio-deregulation.json";
+import caregivingResignationLeaveData from "@/data/policies/caregiving-resignation-leave-act-reform.json";
+import youngCarerSupportData from "@/data/policies/young-carer-support-legalization.json";
+import dementiaBasicActData from "@/data/policies/dementia-basic-act-inclusive-society.json";
+import foreignCareWorkerData from "@/data/policies/foreign-care-worker-nursing-training.json";
 import { PolicyTopic } from "@/types/policy";
 
 // 登録されている全100政策のリスト
@@ -214,6 +247,40 @@ const policies: PolicyTopic[] = [
   reverseMortgageData as PolicyTopic,
   seniorGuarantorData as PolicyTopic,
   schoolSmartphoneBanData as PolicyTopic,
+  // 第8弾（農業・食料5政策・全105政策）
+  riceProductionAdjustmentData as PolicyTopic,
+  smartAgriculturePromotionData as PolicyTopic,
+  corporateFarmlandOwnershipData as PolicyTopic,
+  greenFoodSystemData as PolicyTopic,
+  newFarmersSupportData as PolicyTopic,
+  // 第9弾（畜産・酪農5政策・全110政策）
+  dairyCrisisData as PolicyTopic,
+  formulaFeedData as PolicyTopic,
+  animalWelfareData as PolicyTopic,
+  avianInfluenzaData as PolicyTopic,
+  livestockMethaneData as PolicyTopic,
+  // 第10弾（工業・製造業10政策・全120政策）
+  semiconductorRapidusData as PolicyTopic,
+  evBatteryGigafactoryData as PolicyTopic,
+  hydrogenSteelData as PolicyTopic,
+  economicSecuritySupplyChainData as PolicyTopic,
+  subcontractActPricePassData as PolicyTopic,
+  defenseIndustryManufacturingData as PolicyTopic,
+  industrialRobotSmartFactoryData as PolicyTopic,
+  spaceIndustryStrategicFundData as PolicyTopic,
+  biomanufacturingShiftData as PolicyTopic,
+  criticalMineralsDeepSeaData as PolicyTopic,
+  // 第11弾（介護・高齢者福祉10政策・全130政策）
+  caregiverWageHikeData as PolicyTopic,
+  homeCareCutCrisisData as PolicyTopic,
+  mildCareShiftData as PolicyTopic,
+  carePlanCopayData as PolicyTopic,
+  nursingHomeMultiBedData as PolicyTopic,
+  careRobotStaffingData as PolicyTopic,
+  caregivingResignationLeaveData as PolicyTopic,
+  youngCarerSupportData as PolicyTopic,
+  dementiaBasicActData as PolicyTopic,
+  foreignCareWorkerData as PolicyTopic,
 ];
 
 export function getAllPolicies(): PolicyTopic[] {

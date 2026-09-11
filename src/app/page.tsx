@@ -393,6 +393,156 @@ export default function HomePage() {
       { text: "集中力向上・ネットいじめ抑止", color: "bg-indigo-50 text-indigo-800" },
       { text: "災害連絡・デジタル教育との両立", color: "bg-amber-50 text-amber-900" },
     ],
+    "rice-production-adjustment-stockpile": [
+      { text: "令和の米騒動検証", color: "bg-amber-50 text-amber-900" },
+      { text: "減反政策の抜本見直し", color: "bg-teal-50 text-teal-800" },
+      { text: "備蓄米の機動的放出議論", color: "bg-emerald-50 text-emerald-800" },
+    ],
+    "smart-agriculture-promotion-act": [
+      { text: "自動運転・ドローン普及", color: "bg-indigo-50 text-indigo-800" },
+      { text: "即時償却・長期低利融資", color: "bg-teal-50 text-teal-800" },
+      { text: "2024年10月新法施行", color: "bg-blue-50 text-blue-800" },
+    ],
+    "corporate-farmland-ownership-deregulation": [
+      { text: "一般企業の農地所有解禁", color: "bg-purple-50 text-purple-800" },
+      { text: "耕作放棄地40万ha再生", color: "bg-emerald-50 text-emerald-800" },
+      { text: "産廃転用・投機への懸念", color: "bg-rose-50 text-rose-800" },
+    ],
+    "green-food-system-organic-farming": [
+      { text: "2050年有機農業25%へ", color: "bg-emerald-50 text-emerald-800" },
+      { text: "化学農薬50%・肥料30%減", color: "bg-teal-50 text-teal-800" },
+      { text: "みどり認定と設備減税", color: "bg-blue-50 text-blue-800" },
+    ],
+    "new-farmers-support-succession": [
+      { text: "年最大150万円生活支援", color: "bg-teal-50 text-teal-800" },
+      { text: "平均年齢68歳の担い手対策", color: "bg-amber-50 text-amber-900" },
+      { text: "第三者事業承継マッチング", color: "bg-indigo-50 text-indigo-800" },
+    ],
+    "dairy-crisis-milk-price-culling": [
+      { text: "乳牛1頭15万円淘汰補助", color: "bg-amber-50 text-amber-900" },
+      { text: "牛乳廃棄パニック回避", color: "bg-rose-50 text-rose-800" },
+      { text: "飲用乳価の引き上げ", color: "bg-teal-50 text-teal-800" },
+    ],
+    "formula-feed-stabilization-domestic-crops": [
+      { text: "濃厚飼料75%輸入依存", color: "bg-slate-50 text-slate-800" },
+      { text: "安定基金の枯渇危機", color: "bg-rose-50 text-rose-800" },
+      { text: "子実用トウモロコシ国産化", color: "bg-emerald-50 text-emerald-800" },
+    ],
+    "animal-welfare-livestock-guidelines": [
+      { text: "バタリーケージ改善指針", color: "bg-indigo-50 text-indigo-800" },
+      { text: "母豚ストールフリー推奨", color: "bg-purple-50 text-purple-800" },
+      { text: "卵・肉の価格上昇懸念", color: "bg-amber-50 text-amber-900" },
+    ],
+    "avian-influenza-livestock-epidemic-control": [
+      { text: "1,771万羽殺処分・卵高騰", color: "bg-rose-50 text-rose-800" },
+      { text: "分割管理（スプリット）容認", color: "bg-teal-50 text-teal-800" },
+      { text: "国の手当金・再建支援", color: "bg-blue-50 text-blue-800" },
+    ],
+    "livestock-methane-emission-reduction": [
+      { text: "牛のゲップメタン2〜3割減", color: "bg-emerald-50 text-emerald-800" },
+      { text: "海藻・カシューナッツ油添加", color: "bg-teal-50 text-teal-800" },
+      { text: "ふん尿バイオガス発電", color: "bg-indigo-50 text-indigo-800" },
+    ],
+    "semiconductor-rapidus-tsmc-subsidies": [
+      { text: "TSMC熊本へ1.2兆円助成", color: "bg-teal-50 text-teal-800" },
+      { text: "Rapidus千歳2ナノ量産", color: "bg-indigo-50 text-indigo-800" },
+      { text: "総額5兆円の投資・顧客リスク", color: "bg-amber-50 text-amber-900" },
+    ],
+    "ev-battery-gigafactory-subsidies": [
+      { text: "国内電池工場へ1兆円支援", color: "bg-blue-50 text-blue-800" },
+      { text: "全固体電池2020年代実用化", color: "bg-teal-50 text-teal-800" },
+      { text: "EV踊り場・HV優位の市場", color: "bg-rose-50 text-rose-800" },
+    ],
+    "hydrogen-steel-gx-decarbonization": [
+      { text: "産業CO2の4割を削減へ", color: "bg-emerald-50 text-emerald-800" },
+      { text: "GX20兆円移行債で支援", color: "bg-teal-50 text-teal-800" },
+      { text: "水素不足と産業空洞化懸念", color: "bg-amber-50 text-amber-900" },
+    ],
+    "economic-security-supply-chain-resilience": [
+      { text: "12特定重要物資を指定", color: "bg-indigo-50 text-indigo-800" },
+      { text: "国内工場新増設に最大2/3補助", color: "bg-teal-50 text-teal-800" },
+      { text: "脱中国依存と経済的威圧抑止", color: "bg-purple-50 text-purple-800" },
+    ],
+    "subcontract-act-price-pass-through": [
+      { text: "価格転嫁Gメン全国巡回", color: "bg-amber-50 text-amber-900" },
+      { text: "協議拒否大手の実名公表", color: "bg-rose-50 text-rose-800" },
+      { text: "約束手形2026年全廃方針", color: "bg-teal-50 text-teal-800" },
+    ],
+    "defense-industry-manufacturing-nationalization": [
+      { text: "製造ライン国有化特例", color: "bg-indigo-50 text-indigo-800" },
+      { text: "目標利益率最大15%保障", color: "bg-teal-50 text-teal-800" },
+      { text: "防衛撤退100社超の抑止", color: "bg-blue-50 text-blue-800" },
+    ],
+    "industrial-robot-smart-factory-automation": [
+      { text: "2030年熟練工38万人不足", color: "bg-amber-50 text-amber-900" },
+      { text: "カタログ型省力化補助金", color: "bg-teal-50 text-teal-800" },
+      { text: "安全柵なし協働ロボット解禁", color: "bg-indigo-50 text-indigo-800" },
+    ],
+    "space-industry-strategic-fund": [
+      { text: "JAXAに10年1兆円基金", color: "bg-indigo-50 text-indigo-800" },
+      { text: "民間小型ロケット・衛星量産", color: "bg-teal-50 text-teal-800" },
+      { text: "2030年代宇宙産業8兆円へ", color: "bg-blue-50 text-blue-800" },
+    ],
+    "biomanufacturing-synthetic-biology-shift": [
+      { text: "石油化学から微生物発酵へ", color: "bg-emerald-50 text-emerald-800" },
+      { text: "バイオものづくり3,000億円", color: "bg-teal-50 text-teal-800" },
+      { text: "海中生分解プラ・人工クモ糸", color: "bg-purple-50 text-purple-800" },
+    ],
+    "critical-minerals-deep-sea-urban-mining": [
+      { text: "南鳥島水深6,000mレアアース", color: "bg-blue-50 text-blue-800" },
+      { text: "中国独占打破へ試掘実験", color: "bg-indigo-50 text-indigo-800" },
+      { text: "EV廃電池都市鉱山リサイクル", color: "bg-emerald-50 text-emerald-800" },
+    ],
+    "caregiver-wage-hike-allowance-unification": [
+      { text: "処遇改善3加算を1本化", color: "bg-teal-50 text-teal-800" },
+      { text: "基本給ベースアップ義務化", color: "bg-indigo-50 text-indigo-800" },
+      { text: "全産業月5〜7万円格差是正", color: "bg-amber-50 text-amber-900" },
+    ],
+    "home-care-reimbursement-cut-crisis": [
+      { text: "訪問介護基本報酬2〜3%減", color: "bg-rose-50 text-rose-800" },
+      { text: "ヘルパー求人倍率15倍超", color: "bg-amber-50 text-amber-900" },
+      { text: "事業所倒産・休廃業が過去最多", color: "bg-purple-50 text-purple-800" },
+    ],
+    "mild-care-shift-community-support": [
+      { text: "要介護1・2の総合事業移行案", color: "bg-indigo-50 text-indigo-800" },
+      { text: "軽度者の保険給付外し議論", color: "bg-rose-50 text-rose-800" },
+      { text: "早期重度化・家族負担の懸念", color: "bg-amber-50 text-amber-900" },
+    ],
+    "care-plan-copay-debate": [
+      { text: "ケアマネ作成費の1割負担案", color: "bg-indigo-50 text-indigo-800" },
+      { text: "現在自己負担0円（全額給付）", color: "bg-teal-50 text-teal-800" },
+      { text: "セルフネグレクト・孤立死懸念", color: "bg-rose-50 text-rose-800" },
+    ],
+    "nursing-home-multi-bed-room-charge": [
+      { text: "特養相部屋に月約8,000円室料", color: "bg-amber-50 text-amber-900" },
+      { text: "ユニット個室との公平性", color: "bg-indigo-50 text-indigo-800" },
+      { text: "低年金高齢者の退所リスク", color: "bg-rose-50 text-rose-800" },
+    ],
+    "care-robot-staffing-ratio-deregulation": [
+      { text: "センサー導入で3:1配置緩和", color: "bg-purple-50 text-purple-800" },
+      { text: "夜間見守り巡回負担を半減", color: "bg-teal-50 text-teal-800" },
+      { text: "アラーム疲労・安全性の懸念", color: "bg-amber-50 text-amber-900" },
+    ],
+    "caregiving-resignation-leave-act-reform": [
+      { text: "40歳到達時の面談義務化", color: "bg-teal-50 text-teal-800" },
+      { text: "年間10万人の介護離職防止", color: "bg-rose-50 text-rose-800" },
+      { text: "テレワーク等柔軟措置の義務化", color: "bg-indigo-50 text-indigo-800" },
+    ],
+    "young-carer-support-legalization": [
+      { text: "ヤングケアラー支援の法制化", color: "bg-teal-50 text-teal-800" },
+      { text: "中高生17〜24人に1人の実態", color: "bg-amber-50 text-amber-900" },
+      { text: "学校・福祉連携とヘルパー派遣", color: "bg-indigo-50 text-indigo-800" },
+    ],
+    "dementia-basic-act-inclusive-society": [
+      { text: "認知症基本法施行（共生社会）", color: "bg-emerald-50 text-emerald-800" },
+      { text: "高齢者5人に1人の時代へ", color: "bg-purple-50 text-purple-800" },
+      { text: "徘徊賠償の自治体公費保険", color: "bg-teal-50 text-teal-800" },
+    ],
+    "foreign-care-worker-nursing-training": [
+      { text: "2040年介護職員57万人不足", color: "bg-amber-50 text-amber-900" },
+      { text: "育成就労制度で転籍容認へ", color: "bg-teal-50 text-teal-800" },
+      { text: "円安下の国際人材獲得競争", color: "bg-rose-50 text-rose-800" },
+    ],
   };
 
   // キーワード・ステータス・カテゴリによる複合フィルタリング
