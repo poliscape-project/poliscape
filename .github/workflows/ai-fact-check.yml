@@ -1,0 +1,32 @@
+name: AI Fact-Check Analyzer
+
+on:
+  issues:
+    types: [opened, labeled]
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  analyze:
+    if: contains(github.event.issue.labels.*.name, 'fact-check') || contains(github.event.issue.title, '事実誤認') || contains(github.event.issue.title, '数値報告')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run AI Fact-Check Analyzer
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: node scripts/analyze-issue.js
