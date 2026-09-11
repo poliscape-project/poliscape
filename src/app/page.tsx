@@ -1276,7 +1276,212 @@ export default function HomePage() {
       { text: "電子処方箋・電子カルテ全国共有", color: "bg-teal-50 text-teal-800" },
       { text: "重複投薬・併用禁忌の自動警告", color: "bg-indigo-50 text-indigo-800" },
       { text: "災害時・救急搬送の即時カルテ参照", color: "bg-emerald-50 text-emerald-800" },
-    ],
+    ],  // 第17弾（注目政策40テーマ追加・全380政策）
+  "integrated-elementary-junior-high-school-reform": [
+    { text: "小中一貫9年教育", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "中1ギャップ解消", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "4・3・2制等の弾力化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "public-school-tuition-aid-expansion-high-school": [
+    { text: "高校実質無償化", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "所得制限撤廃へ", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "私立高支援上限拡充", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "university-science-humanities-conversion-subsidy": [
+    { text: "理系学部3000億円基金", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "理系割合5割目標", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "デジタル・脱炭素人材", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "integrated-school-afterschool-childcare-reform": [
+    { text: "小1の壁打破", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "学校施設一体運営", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "待機児童ゼロ目標", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "school-smartphone-ban-guidelines-digital-detox": [
+    { text: "スマホ原則持込禁止", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "授業中シャットアウト", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "端末依存・いじめ防止", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "student-internship-direct-recruiting-guidelines": [
+    { text: "インターン採用直結", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "5日以上・実務体験", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "就活超早期化の懸念", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "in-hospital-classrooms-chronically-ill-children": [
+    { text: "院内オンライン授業", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "元の学校と出席認定", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "アバター・遠隔通学", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "school-lunch-local-procurement-organic-ratio": [
+    { text: "給食の地産地消", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "有機食材利用拡大", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "食育・地元農家支援", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+
+  "regional-railway-restructuring-bus-conversion": [
+    { text: "地域鉄道再構築法", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "輸送密度1000未満協議", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "バス転換・上下分離", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "demand-responsive-transport-ai-on-demand-bus": [
+    { text: "AIオンデマンド交通", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "予約即時最適配車", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "空白地域の足確保", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "inter-prefectural-expressway-toll-free-social-experiment": [
+    { text: "ETC深夜割引見直し", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "走行分のみ割引", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "IC前滞留トラック解消", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "senior-citizen-license-surrender-benefit-expansion": [
+    { text: "免許返納・サポカー限定", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "運転経歴証明書交付", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "高齢者事故防止と移動権", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "rural-gas-station-maintenance-ss-depopulation": [
+    { text: "過疎地SS維持支援", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "灯油配達・給油所確保", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "給油難民ゼロ対策", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "water-utility-regional-consolidation-aging-pipes": [
+    { text: "水道広域化・老朽管更新", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "官民連携コンセッション", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "将来水道料金値上げ抑制", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "coastal-shipping-crew-shortage-modal-shift": [
+    { text: "内航海運モーダルシフト", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "トラック2024年問題補完", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "自動運航船・労務改善", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "municipal-waste-disposal-pay-as-you-throw-bags": [
+    { text: "ごみ袋指定・有料化", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "家庭ごみ10〜20%減量", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "焼却炉維持費削減", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+
+  "subscription-contract-cancellation-dark-patterns": [
+    { text: "サブスク解約妨害規制", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "ダークパターン禁止", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "ワンクリック解約義務化", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "anti-ticket-resale-law-reform-dynamic-pricing": [
+    { text: "チケット転売法強化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "公式リセール義務化へ", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "価格変動制（変動料金）", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "door-to-door-gold-purchase-cooling-off-expansion": [
+    { text: "押し買い・訪問購入規制", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "8日間クーリングオフ", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "引き渡し拒絶権の徹底", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "installment-sales-act-bnpl-credit-assessment": [
+    { text: "後払い決済BNPL規制", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "若者の過重債務防止", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "割賦販売法・信用調査", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "online-dating-safety-id-verification-mandate": [
+    { text: "マッチングアプリ公的身元確認", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "SNS投資詐欺排除", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "マイナカードeKYC導入", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "stealth-marketing-regulation-act-enforcement": [
+    { text: "ステマ告示規制・厳罰化", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "「PR」「広告」表記必須", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "措置命令・事業者名公表", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "digital-inheritance-cloud-account-access-rules": [
+    { text: "デジタル遺産法制化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "ネット銀行・暗号資産承継", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "秘密保持と遺族開示の両立", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "personal-information-protection-anonymization-optout": [
+    { text: "個人情報保護法3年見直し", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "Cookie/ターゲティング同意", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "仮名加工情報の産業活用", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+
+  "smart-agriculture-promotion-law-robot-tractors": [
+    { text: "スマート農業促進法", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "自動運転トラクター", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "ドローン農薬散布・省人化", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "food-waste-reduction-retail-discard-penalty": [
+    { text: "食品ロス半減目標", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "小売店廃棄ペナルティ", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "フードバンク寄附税制", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "fisheries-resource-management-tac-system-reform": [
+    { text: "TAC漁獲枠管理拡大", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "IQ個別割当方式導入", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "水産資源の枯渇防止", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "organic-farming-midori-strategy-25-percent": [
+    { text: "みどりの食料戦略", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "有機農業面積25%目標", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "化学農薬・肥料大幅削減", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "abandoned-farmland-consolidation-farmland-bank": [
+    { text: "農地バンク集積率8割", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "荒廃農地・放棄地解消", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "担い手への大区画化", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "dairy-farming-feed-price-stabilization-fund": [
+    { text: "配合飼料価格安定基金", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "酪農経営安定・離農抑止", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "国産飼料（子実コーン）推進", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "timber-usage-promotion-public-buildings-wooden": [
+    { text: "公共建築物木造化", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "都市に第2の森林創出", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "国産材・CLT活用推進", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "wildlife-damage-prevention-gibier-utilization": [
+    { text: "鳥獣被害特措法", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "ジビエ消費拡大・解体施設", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "ハンター高齢化対策・ICT罠", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+
+  "anonymous-fluid-criminal-groups-tokuryu-countermeasures": [
+    { text: "トクリュウ・闇バイト根絶", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "指示役の特定と重罰化", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "通信傍受・口座凍結強化", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "evacuation-shelter-t-k-b-toilet-kitchen-bed-standards": [
+    { text: "避難所TKB基準法制化", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "段ボールベッド・温食", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "災害関連死ゼロ目標", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "disaster-prevention-weather-information-linear-rainband": [
+    { text: "線状降水帯半日前予測", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "キキクル危険度マップ", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "警戒レベル4避難指示前倒し", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "underground-utility-tunnels-pole-free-urban-resilience": [
+    { text: "無電柱化推進法", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "緊急輸送道路の新設禁止", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "倒壊ゼロ・景観向上", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "isolated-communities-disaster-helicopter-communication": [
+    { text: "孤立集落対策・能登の教訓", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "Starlink衛星通信配備", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "ヘリ離着陸場・備蓄強化", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "abandoned-boats-removal-ports-coastal-cleanup": [
+    { text: "放置艇・プレジャーボート対策", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "放置禁止区域・代執行撤去", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "係留施設整備・マリーナ化", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "civil-protection-shelters-underground-stations": [
+    { text: "地下指定避難施設", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "地下鉄駅・地下街の活用", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "ミサイル攻撃・爆風防護", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "flood-risk-real-estate-transaction-disclosure": [
+    { text: "水害リスク重説義務化", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "洪水・内水・高潮マップ提示", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "購入・賃貸前のリスク把握", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+
   };
 
   // キーワード・ステータス・カテゴリによる複合フィルタリング

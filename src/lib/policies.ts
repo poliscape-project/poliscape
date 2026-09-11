@@ -322,7 +322,7 @@ import tokuryuYamiBaitoCrackdownData from "@/data/policies/tokuryu-yami-baito-cr
 import bicycleTrafficViolationBlueTicketData from "@/data/policies/bicycle-traffic-violation-blue-ticket-penalty-system.json";
 import activeCyberDefenseLegalFrameworkData from "@/data/policies/active-cyber-defense-legal-framework-national-security.json";
 
-// 登録されている全340政策のリスト
+// 登録されている全380政策のリスト
 // 第16弾（注目政策40テーマ追加・全340政策）
 import smartphoneCompetitionPromotionActData from "@/data/policies/smartphone-competition-promotion-act-app-stores.json";
 import nhkInternetDistributionMandatoryData from "@/data/policies/nhk-internet-distribution-mandatory-service-fee.json";
@@ -364,6 +364,48 @@ import regionalAirportsConcessionData from "@/data/policies/regional-airports-co
 import geothermalPowerNationalParksData from "@/data/policies/geothermal-power-national-parks-deregulation-hot-springs.json";
 import textileWasteFastFashionData from "@/data/policies/textile-waste-fast-fashion-recycling-regulations.json";
 import securityClearanceActEconomicData from "@/data/policies/security-clearance-act-economic-security-information-protection.json";
+
+// 第17弾（注目政策40テーマ追加・全380政策）
+import integratedElementaryJuniorHighSchoolReformData from "@/data/policies/integrated-elementary-junior-high-school-reform.json";
+import publicSchoolTuitionAidExpansionHighSchoolData from "@/data/policies/public-school-tuition-aid-expansion-high-school.json";
+import universityScienceHumanitiesConversionSubsidyData from "@/data/policies/university-science-humanities-conversion-subsidy.json";
+import integratedSchoolAfterschoolChildcareReformData from "@/data/policies/integrated-school-afterschool-childcare-reform.json";
+import schoolSmartphoneBanGuidelinesDigitalDetoxData from "@/data/policies/school-smartphone-ban-guidelines-digital-detox.json";
+import studentInternshipDirectRecruitingGuidelinesData from "@/data/policies/student-internship-direct-recruiting-guidelines.json";
+import inHospitalClassroomsChronicallyIllChildrenData from "@/data/policies/in-hospital-classrooms-chronically-ill-children.json";
+import schoolLunchLocalProcurementOrganicRatioData from "@/data/policies/school-lunch-local-procurement-organic-ratio.json";
+import regionalRailwayRestructuringBusConversionData from "@/data/policies/regional-railway-restructuring-bus-conversion.json";
+import demandResponsiveTransportAiOnDemandBusData from "@/data/policies/demand-responsive-transport-ai-on-demand-bus.json";
+import interPrefecturalExpresswayTollFreeSocialExperimentData from "@/data/policies/inter-prefectural-expressway-toll-free-social-experiment.json";
+import seniorCitizenLicenseSurrenderBenefitExpansionData from "@/data/policies/senior-citizen-license-surrender-benefit-expansion.json";
+import ruralGasStationMaintenanceSsDepopulationData from "@/data/policies/rural-gas-station-maintenance-ss-depopulation.json";
+import waterUtilityRegionalConsolidationAgingPipesData from "@/data/policies/water-utility-regional-consolidation-aging-pipes.json";
+import coastalShippingCrewShortageModalShiftData from "@/data/policies/coastal-shipping-crew-shortage-modal-shift.json";
+import municipalWasteDisposalPayAsYouThrowBagsData from "@/data/policies/municipal-waste-disposal-pay-as-you-throw-bags.json";
+import subscriptionContractCancellationDarkPatternsData from "@/data/policies/subscription-contract-cancellation-dark-patterns.json";
+import antiTicketResaleLawReformDynamicPricingData from "@/data/policies/anti-ticket-resale-law-reform-dynamic-pricing.json";
+import doorToDoorGoldPurchaseCoolingOffExpansionData from "@/data/policies/door-to-door-gold-purchase-cooling-off-expansion.json";
+import installmentSalesActBnplCreditAssessmentData from "@/data/policies/installment-sales-act-bnpl-credit-assessment.json";
+import onlineDatingSafetyIdVerificationMandateData from "@/data/policies/online-dating-safety-id-verification-mandate.json";
+import stealthMarketingRegulationActEnforcementData from "@/data/policies/stealth-marketing-regulation-act-enforcement.json";
+import digitalInheritanceCloudAccountAccessRulesData from "@/data/policies/digital-inheritance-cloud-account-access-rules.json";
+import personalInformationProtectionAnonymizationOptoutData from "@/data/policies/personal-information-protection-anonymization-optout.json";
+import smartAgriculturePromotionLawRobotTractorsData from "@/data/policies/smart-agriculture-promotion-law-robot-tractors.json";
+import foodWasteReductionRetailDiscardPenaltyData from "@/data/policies/food-waste-reduction-retail-discard-penalty.json";
+import fisheriesResourceManagementTacSystemReformData from "@/data/policies/fisheries-resource-management-tac-system-reform.json";
+import organicFarmingMidoriStrategy25PercentData from "@/data/policies/organic-farming-midori-strategy-25-percent.json";
+import abandonedFarmlandConsolidationFarmlandBankData from "@/data/policies/abandoned-farmland-consolidation-farmland-bank.json";
+import dairyFarmingFeedPriceStabilizationFundData from "@/data/policies/dairy-farming-feed-price-stabilization-fund.json";
+import timberUsagePromotionPublicBuildingsWoodenData from "@/data/policies/timber-usage-promotion-public-buildings-wooden.json";
+import wildlifeDamagePreventionGibierUtilizationData from "@/data/policies/wildlife-damage-prevention-gibier-utilization.json";
+import anonymousFluidCriminalGroupsTokuryuCountermeasuresData from "@/data/policies/anonymous-fluid-criminal-groups-tokuryu-countermeasures.json";
+import evacuationShelterTkbToiletKitchenBedStandardsData from "@/data/policies/evacuation-shelter-t-k-b-toilet-kitchen-bed-standards.json";
+import disasterPreventionWeatherInformationLinearRainbandData from "@/data/policies/disaster-prevention-weather-information-linear-rainband.json";
+import undergroundUtilityTunnelsPoleFreeUrbanResilienceData from "@/data/policies/underground-utility-tunnels-pole-free-urban-resilience.json";
+import isolatedCommunitiesDisasterHelicopterCommunicationData from "@/data/policies/isolated-communities-disaster-helicopter-communication.json";
+import abandonedBoatsRemovalPortsCoastalCleanupData from "@/data/policies/abandoned-boats-removal-ports-coastal-cleanup.json";
+import civilProtectionSheltersUndergroundStationsData from "@/data/policies/civil-protection-shelters-underground-stations.json";
+import floodRiskRealEstateTransactionDisclosureData from "@/data/policies/flood-risk-real-estate-transaction-disclosure.json";
 
 const policies: PolicyTopic[] = [
   childAllowanceData as PolicyTopic,
@@ -727,7 +769,47 @@ const policies: PolicyTopic[] = [
   regionalAirportsConcessionData as PolicyTopic,
   geothermalPowerNationalParksData as PolicyTopic,
   textileWasteFastFashionData as PolicyTopic,
-  securityClearanceActEconomicData as PolicyTopic,
+  securityClearanceActEconomicData as PolicyTopic,  // 第17弾（注目政策40テーマ追加・全380政策）
+  integratedElementaryJuniorHighSchoolReformData as PolicyTopic,
+  publicSchoolTuitionAidExpansionHighSchoolData as PolicyTopic,
+  universityScienceHumanitiesConversionSubsidyData as PolicyTopic,
+  integratedSchoolAfterschoolChildcareReformData as PolicyTopic,
+  schoolSmartphoneBanGuidelinesDigitalDetoxData as PolicyTopic,
+  studentInternshipDirectRecruitingGuidelinesData as PolicyTopic,
+  inHospitalClassroomsChronicallyIllChildrenData as PolicyTopic,
+  schoolLunchLocalProcurementOrganicRatioData as PolicyTopic,
+  regionalRailwayRestructuringBusConversionData as PolicyTopic,
+  demandResponsiveTransportAiOnDemandBusData as PolicyTopic,
+  interPrefecturalExpresswayTollFreeSocialExperimentData as PolicyTopic,
+  seniorCitizenLicenseSurrenderBenefitExpansionData as PolicyTopic,
+  ruralGasStationMaintenanceSsDepopulationData as PolicyTopic,
+  waterUtilityRegionalConsolidationAgingPipesData as PolicyTopic,
+  coastalShippingCrewShortageModalShiftData as PolicyTopic,
+  municipalWasteDisposalPayAsYouThrowBagsData as PolicyTopic,
+  subscriptionContractCancellationDarkPatternsData as PolicyTopic,
+  antiTicketResaleLawReformDynamicPricingData as PolicyTopic,
+  doorToDoorGoldPurchaseCoolingOffExpansionData as PolicyTopic,
+  installmentSalesActBnplCreditAssessmentData as PolicyTopic,
+  onlineDatingSafetyIdVerificationMandateData as PolicyTopic,
+  stealthMarketingRegulationActEnforcementData as PolicyTopic,
+  digitalInheritanceCloudAccountAccessRulesData as PolicyTopic,
+  personalInformationProtectionAnonymizationOptoutData as PolicyTopic,
+  smartAgriculturePromotionLawRobotTractorsData as PolicyTopic,
+  foodWasteReductionRetailDiscardPenaltyData as PolicyTopic,
+  fisheriesResourceManagementTacSystemReformData as PolicyTopic,
+  organicFarmingMidoriStrategy25PercentData as PolicyTopic,
+  abandonedFarmlandConsolidationFarmlandBankData as PolicyTopic,
+  dairyFarmingFeedPriceStabilizationFundData as PolicyTopic,
+  timberUsagePromotionPublicBuildingsWoodenData as PolicyTopic,
+  wildlifeDamagePreventionGibierUtilizationData as PolicyTopic,
+  anonymousFluidCriminalGroupsTokuryuCountermeasuresData as PolicyTopic,
+  evacuationShelterTkbToiletKitchenBedStandardsData as PolicyTopic,
+  disasterPreventionWeatherInformationLinearRainbandData as PolicyTopic,
+  undergroundUtilityTunnelsPoleFreeUrbanResilienceData as PolicyTopic,
+  isolatedCommunitiesDisasterHelicopterCommunicationData as PolicyTopic,
+  abandonedBoatsRemovalPortsCoastalCleanupData as PolicyTopic,
+  civilProtectionSheltersUndergroundStationsData as PolicyTopic,
+  floodRiskRealEstateTransactionDisclosureData as PolicyTopic,
 ];
 
 export function getAllPolicies(): PolicyTopic[] {
