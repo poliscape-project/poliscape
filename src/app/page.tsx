@@ -21,6 +21,47 @@ import {
   Search, X, LayoutGrid, List, ChevronDown, Clock, RotateCcw
 } from "lucide-react";
 
+// シミュレーターまたは判定ナビが実装されている主要37テーマ
+const SIMULATOR_POLICY_IDS = new Set([
+  "child-allowance-expansion",
+  "university-tuition-waiver",
+  "income-barrier",
+  "myna-health-insurance",
+  "new-nisa",
+  "furusato-tax",
+  "invoice-system",
+  "pension-start-age",
+  "zaishoku-pension",
+  "elderly-healthcare-cost",
+  "childcare-leave-benefit",
+  "energy-subsidies",
+  "childcare-support-fund",
+  "inheritance-registration",
+  "myna-drivers-license",
+  "severance-pay-tax",
+  "gasoline-subsidies-trigger",
+  "nursing-care-copay",
+  "electric-kickboard-rules",
+  "school-lunch-free",
+  "ideco-expansion",
+  "kodomo-daretemo-tsuen",
+  "high-school-tuition-free",
+  "pension-contribution-45years",
+  "abandoned-house-tax-hike",
+  "accommodation-tax-tourism",
+  "forest-environment-tax",
+  "customer-harassment-prevention",
+  "reskilling-education-benefit",
+  "income-barrier-career-up",
+  "financial-income-tax",
+  "high-cost-medical-cap",
+  "bicycle-blue-ticket",
+  "paternity-leave-at-birth",
+  "solar-panel-mandate",
+  "otc-similar-drug-restriction",
+  "stealth-marketing-regulation"
+]);
+
 export default function HomePage() {
   const [isSimpleMode, setIsSimpleMode] = useState<boolean>(false);
   const [selectedCategory, setSelectedCategory] = useState<string>("all");
@@ -2208,7 +2249,7 @@ export default function HomePage() {
             </div>
             <div>
               <div className="text-xs font-bold text-slate-800">初心者・生活者目線</div>
-              <div className="text-[11px] text-slate-500">読ませない図解・シミュレーター</div>
+              <div className="text-[11px] text-slate-500">直感理解の要点カード＆試算</div>
             </div>
           </div>
         </div>
@@ -2457,7 +2498,11 @@ export default function HomePage() {
 
                     {/* カードフッター */}
                     <div className="mt-5 pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-bold text-teal-700">
-                      <span>シミュレーター＆図解を見る</span>
+                      <span>
+                        {SIMULATOR_POLICY_IDS.has(policy.id)
+                          ? "シミュレーター＆要点を見る"
+                          : "要点・新旧の変化を見る"}
+                      </span>
                       <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                     </div>
                   </Link>
