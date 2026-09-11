@@ -29,6 +29,24 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: `${law.name} の要点・課題と関連政策 | ポリスケープ`,
     description: law.catchphrase,
+    openGraph: {
+      title: `${law.name} の要点・課題と関連政策 | ポリスケープ`,
+      description: law.catchphrase,
+      images: [
+        {
+          url: "/og-image.png",
+          width: 1200,
+          height: 630,
+          alt: law.name,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${law.name} の要点・課題と関連政策 | ポリスケープ`,
+      description: law.catchphrase,
+      images: ["/og-image.png"],
+    },
   };
 }
 

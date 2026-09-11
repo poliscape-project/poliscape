@@ -29,11 +29,20 @@ export const metadata: Metadata = {
     siteName: "ポリスケープ (PoliScape)",
     locale: "ja_JP",
     type: "website",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "PoliScape (ポリスケープ) - 数字とファクトで見る、日本の政策カタログ",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "ポリスケープ (PoliScape) | 公的データで知る、くらしと政策",
     description: "対立をあおらず、公的データに基づいて政策のメリット・課題をわかりやすく伝えるシビックテックツール",
+    images: ["/og-image.png"],
   },
 };
 
