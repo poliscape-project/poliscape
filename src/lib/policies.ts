@@ -280,7 +280,49 @@ import creditCardFraudCompensationData from "@/data/policies/credit-card-fraud-p
 import stealthMarketingCrackdownData from "@/data/policies/stealth-marketing-regulation-influencer-crackdown.json";
 import civilLitigationDigitalizationECourtData from "@/data/policies/civil-litigation-digitalization-e-court-web-hearings.json";
 
-// 登録されている全260政策のリスト
+// 第15弾（注目政策40テーマ追加・全300政策）
+import onlineMedicalCareFirstVisitData from "@/data/policies/online-medical-care-first-visit-deregulation.json";
+import electronicPrescriptionsRefillData from "@/data/policies/electronic-prescriptions-refill-prescriptions-promotion.json";
+import primaryCarePhysicianReportingData from "@/data/policies/primary-care-physician-reporting-system.json";
+import designatedIntractableDiseasesGenomeData from "@/data/policies/designated-intractable-diseases-genome-drug-discovery.json";
+import ambulanceServiceFeeChargeData from "@/data/policies/ambulance-service-fee-charge-triage.json";
+import niptPrenatalTestingGuidelinesData from "@/data/policies/nipt-prenatal-testing-accreditation-guidelines.json";
+import hpvVaccineMaleVaccinationData from "@/data/policies/hpv-vaccine-male-vaccination-public-subsidy.json";
+import longTermCareCopaymentIncreaseData from "@/data/policies/long-term-care-insurance-copayment-increase-review.json";
+import reskillingIndividualSubsidyData from "@/data/policies/reskilling-job-training-individual-subsidy-expansion.json";
+import domesticWorkersLaborStandardsData from "@/data/policies/domestic-workers-housekeeping-labor-standards-act.json";
+import shortTimeWorkersSocialInsuranceData from "@/data/policies/short-time-workers-social-insurance-expansion-all-firms.json";
+import seniorEmploymentAge70MandateData from "@/data/policies/senior-employment-securing-measures-age-70-mandate.json";
+import jobHuntingHarassmentProtectionData from "@/data/policies/job-hunting-harassment-student-protection-regulations.json";
+import discretionaryLaborScopeExpansionData from "@/data/policies/discretionary-labor-system-scope-expansion-health.json";
+import multipleJobHoldersWorkersAccidentData from "@/data/policies/multiple-job-holders-workers-accident-compensation.json";
+import resignationAgencyLegalFrameworkData from "@/data/policies/resignation-agency-service-legal-framework-regulation.json";
+import foodAgricultureBasicActEmergencyData from "@/data/policies/food-agriculture-rural-basic-act-food-security-emergency.json";
+import smartAgriculturePromotionActData from "@/data/policies/smart-agriculture-promotion-act-ai-robot-tractors.json";
+import organicFarmingSchoolLunchData from "@/data/policies/organic-farming-expansion-school-lunch-local-produce.json";
+import farmlandBankConsolidationData from "@/data/policies/farmland-intermediary-management-bank-consolidation.json";
+import totalAllowableCatchTacData from "@/data/policies/total-allowable-catch-tac-marine-resources-management.json";
+import forestEnvironmentTaxFundUsageData from "@/data/policies/forest-environment-tax-nationwide-collection-fund-usage.json";
+import wildBoarDeerDamageGibierData from "@/data/policies/wild-boar-deer-damage-prevention-gibier-utilization.json";
+import plasticResourceCirculationAmenityData from "@/data/policies/plastic-resource-circulation-amenity-fee-expansion.json";
+import doctoralStudentsLivingAllowanceData from "@/data/policies/doctoral-students-postdoc-living-allowance-support.json";
+import spaceStrategyFundOneTrillionData from "@/data/policies/space-basic-act-one-trillion-yen-space-strategy-fund.json";
+import clubActivitiesRegionalTransitionData from "@/data/policies/club-activities-regional-transition-middle-school.json";
+import kyutokuhoTeacherSalaryReformData from "@/data/policies/kyutokuho-teacher-salary-special-measures-reform.json";
+import schoolLunchCompleteFreeNationwideData from "@/data/policies/school-lunch-complete-free-provision-nationwide.json";
+import higherEducationStemPriorityData from "@/data/policies/higher-education-free-tuition-stem-priority-allocation.json";
+import specialNeedsInclusiveSupportStaffData from "@/data/policies/special-needs-education-inclusive-education-support-staff.json";
+import generativeAiEducationGuidelinesData from "@/data/policies/generative-ai-education-guidelines-school-use.json";
+import localAutonomyActNationalDirectiveData from "@/data/policies/local-autonomy-act-revision-national-directive-power.json";
+import unmanagedAbandonedHousesTaxRemovalData from "@/data/policies/unmanaged-abandoned-houses-tax-break-removal-enforcement.json";
+import level4AutonomousDrivingRuralBusData from "@/data/policies/level-4-autonomous-driving-rural-bus-service.json";
+import localRailwayReconstructionBusData from "@/data/policies/local-railway-reconstruction-council-bus-transition.json";
+import rideSharingCompleteDeregulationData from "@/data/policies/ride-sharing-complete-deregulation-private-drivers.json";
+import tokuryuYamiBaitoCrackdownData from "@/data/policies/tokuryu-yami-baito-crackdown-wiretapping-regulations.json";
+import bicycleTrafficViolationBlueTicketData from "@/data/policies/bicycle-traffic-violation-blue-ticket-penalty-system.json";
+import activeCyberDefenseLegalFrameworkData from "@/data/policies/active-cyber-defense-legal-framework-national-security.json";
+
+// 登録されている全300政策のリスト
 const policies: PolicyTopic[] = [
   childAllowanceData as PolicyTopic,
   universityTuitionData as PolicyTopic,
@@ -560,6 +602,48 @@ const policies: PolicyTopic[] = [
   creditCardFraudCompensationData as PolicyTopic,
   stealthMarketingCrackdownData as PolicyTopic,
   civilLitigationDigitalizationECourtData as PolicyTopic,
+
+  // 第15弾（注目政策40テーマ追加・全300政策）
+  onlineMedicalCareFirstVisitData as PolicyTopic,
+  electronicPrescriptionsRefillData as PolicyTopic,
+  primaryCarePhysicianReportingData as PolicyTopic,
+  designatedIntractableDiseasesGenomeData as PolicyTopic,
+  ambulanceServiceFeeChargeData as PolicyTopic,
+  niptPrenatalTestingGuidelinesData as PolicyTopic,
+  hpvVaccineMaleVaccinationData as PolicyTopic,
+  longTermCareCopaymentIncreaseData as PolicyTopic,
+  reskillingIndividualSubsidyData as PolicyTopic,
+  domesticWorkersLaborStandardsData as PolicyTopic,
+  shortTimeWorkersSocialInsuranceData as PolicyTopic,
+  seniorEmploymentAge70MandateData as PolicyTopic,
+  jobHuntingHarassmentProtectionData as PolicyTopic,
+  discretionaryLaborScopeExpansionData as PolicyTopic,
+  multipleJobHoldersWorkersAccidentData as PolicyTopic,
+  resignationAgencyLegalFrameworkData as PolicyTopic,
+  foodAgricultureBasicActEmergencyData as PolicyTopic,
+  smartAgriculturePromotionActData as PolicyTopic,
+  organicFarmingSchoolLunchData as PolicyTopic,
+  farmlandBankConsolidationData as PolicyTopic,
+  totalAllowableCatchTacData as PolicyTopic,
+  forestEnvironmentTaxFundUsageData as PolicyTopic,
+  wildBoarDeerDamageGibierData as PolicyTopic,
+  plasticResourceCirculationAmenityData as PolicyTopic,
+  doctoralStudentsLivingAllowanceData as PolicyTopic,
+  spaceStrategyFundOneTrillionData as PolicyTopic,
+  clubActivitiesRegionalTransitionData as PolicyTopic,
+  kyutokuhoTeacherSalaryReformData as PolicyTopic,
+  schoolLunchCompleteFreeNationwideData as PolicyTopic,
+  higherEducationStemPriorityData as PolicyTopic,
+  specialNeedsInclusiveSupportStaffData as PolicyTopic,
+  generativeAiEducationGuidelinesData as PolicyTopic,
+  localAutonomyActNationalDirectiveData as PolicyTopic,
+  unmanagedAbandonedHousesTaxRemovalData as PolicyTopic,
+  level4AutonomousDrivingRuralBusData as PolicyTopic,
+  localRailwayReconstructionBusData as PolicyTopic,
+  rideSharingCompleteDeregulationData as PolicyTopic,
+  tokuryuYamiBaitoCrackdownData as PolicyTopic,
+  bicycleTrafficViolationBlueTicketData as PolicyTopic,
+  activeCyberDefenseLegalFrameworkData as PolicyTopic,
 ];
 
 export function getAllPolicies(): PolicyTopic[] {

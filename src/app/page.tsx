@@ -67,6 +67,207 @@ export default function HomePage() {
 
   // 政策ごとの代表バッジマッピング
   const badgeMap: Record<string, { text: string; color: string }[]> = {
+  // 第15弾（注目政策40テーマ追加・全300政策）
+  "online-medical-care-first-visit-deregulation": [
+    { text: "初診恒久化", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "処方薬宅配", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "不適切処方防止", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "electronic-prescriptions-refill-prescriptions-promotion": [
+    { text: "電子処方箋", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "リフィル最大3回", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "重複投薬防止", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "primary-care-physician-reporting-system": [
+    { text: "かかりつけ機能", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "2025年4月施行", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "受診先公表", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "designated-intractable-diseases-genome-drug-discovery": [
+    { text: "340疾患超助成", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "ゲノム創薬", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "高額薬価管理", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "ambulance-service-fee-charge-triage": [
+    { text: "軽症有料化議論", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "選定療養費徴収", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "#7119全国網羅", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "nipt-prenatal-testing-accreditation-guidelines": [
+    { text: "出生前検査認証", color: "bg-pink-50 text-pink-700 border-pink-200" },
+    { text: "遺伝カウンセリング", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "無認証対策", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "hpv-vaccine-male-vaccination-public-subsidy": [
+    { text: "男子HPV公費助成", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "中咽頭がん予防", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "集団免疫構築", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "long-term-care-insurance-copayment-increase-review": [
+    { text: "介護自己負担2割", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "現役世代負担減", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "2027年改定焦点", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "reskilling-job-training-individual-subsidy-expansion": [
+    { text: "リスキリング最大80%", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "5年1兆円枠", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "個人直接給付", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "domestic-workers-housekeeping-labor-standards-act": [
+    { text: "労基法適用へ", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "70年ぶり見直し", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "待機時間適正化", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "short-time-workers-social-insurance-expansion-all-firms": [
+    { text: "社保規模要件撤廃", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "将来年金底上げ", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "中小企業折半負担", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "senior-employment-securing-measures-age-70-mandate": [
+    { text: "70歳就業義務化論", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "生涯現役社会", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "業務委託・創業支援", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "job-hunting-harassment-student-protection-regulations": [
+    { text: "就活セクハラ防止", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "就活生法的保護", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "オワハラ規制", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "discretionary-labor-system-scope-expansion-health": [
+    { text: "裁量労働同意必須", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "M&A・企画追加", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "インターバル義務", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "multiple-job-holders-workers-accident-compensation": [
+    { text: "副業労災全合算", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "複数賃金補償", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "過労死合算判定", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "resignation-agency-service-legal-framework-regulation": [
+    { text: "退職代行法規制", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "非弁行為線引き", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "即日退職の自由", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "food-agriculture-rural-basic-act-food-security-emergency": [
+    { text: "食料有事増産指示", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "25年ぶり基本法改正", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "コスト適正転嫁", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "smart-agriculture-promotion-act-ai-robot-tractors": [
+    { text: "無人トラクター", color: "bg-cyan-50 text-cyan-700 border-cyan-200" },
+    { text: "スマート農業法", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "税制・低利融資", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "organic-farming-expansion-school-lunch-local-produce": [
+    { text: "有機給食推進", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "2050年25%目標", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "みどりの食料戦略", color: "bg-green-50 text-green-700 border-green-200" }
+  ],
+  "farmland-intermediary-management-bank-consolidation": [
+    { text: "農地バンク集約", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "地域計画10年地図", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "所有者不明農地裁定", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "total-allowable-catch-tac-marine-resources-management": [
+    { text: "TAC漁獲枠拡大", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "IQ個別割当方式", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "未成魚保護", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "forest-environment-tax-nationwide-collection-fund-usage": [
+    { text: "森林税年1000円", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "放置林間伐整備", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "使途公表義務化", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "wild-boar-deer-damage-prevention-gibier-utilization": [
+    { text: "鳥獣捕獲報奨金", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "ICT罠・ドローン", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "国産ジビエ認証", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "plastic-resource-circulation-amenity-fee-expansion": [
+    { text: "使い捨てプラ12品目", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "スプーン有料化", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "製品プラ一括回収", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "doctoral-students-postdoc-living-allowance-support": [
+    { text: "博士生活費年240万", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "SPRING事業3倍", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "研究力再生", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "space-basic-act-one-trillion-yen-space-strategy-fund": [
+    { text: "宇宙戦略基金1兆円", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "民生ロケット支援", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "デュアルユース推進", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "club-activities-regional-transition-middle-school": [
+    { text: "部活動地域移行", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "教員休日負担ゼロ", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "地域クラブ会費制", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "kyutokuho-teacher-salary-special-measures-reform": [
+    { text: "教職調整額10%超へ", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "給特法50年ぶり改定", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "定額働かせ放題論争", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "school-lunch-complete-free-provision-nationwide": [
+    { text: "給食完全無償化論", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "年5万円負担解消", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "全国一律国費支援", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "higher-education-free-tuition-stem-priority-allocation": [
+    { text: "理系無償化年収600万", color: "bg-cyan-50 text-cyan-700 border-cyan-200" },
+    { text: "文理差額上乗せ", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "理系学生比率5割へ", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "special-needs-education-inclusive-education-support-staff": [
+    { text: "特別支援員7万人", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "インクルーシブ教育", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "通常学級サポート", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "generative-ai-education-guidelines-school-use": [
+    { text: "学校AIガイドライン", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "探究・英語対話", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "感想文丸写し禁止", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "local-autonomy-act-revision-national-directive-power": [
+    { text: "非常時国の指示権", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "地方自治法改正", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "地方分権後退懸念", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "unmanaged-abandoned-houses-tax-break-removal-enforcement": [
+    { text: "管理不全空家6倍増税", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "特定空家代執行", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "900万戸対策", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "level-4-autonomous-driving-rural-bus-service": [
+    { text: "レベル4完全無人バス", color: "bg-cyan-50 text-cyan-700 border-cyan-200" },
+    { text: "遠隔監視システム", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "過疎地交通維持", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "local-railway-reconstruction-council-bus-transition": [
+    { text: "再構築協議会", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "輸送密度1000人未満", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "BRT専用道転換", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "ride-sharing-complete-deregulation-private-drivers": [
+    { text: "ライドシェア全面解禁", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "IT企業参入議論", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "タクシー不足解消", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "tokuryu-yami-baito-crackdown-wiretapping-regulations": [
+    { text: "トクリュウ重点対策", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "通信傍受対象拡大", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "SNS募集即時削除", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "bicycle-traffic-violation-blue-ticket-penalty-system": [
+    { text: "自転車青切符導入", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "反則金5000円〜", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "16歳以上110違反", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "active-cyber-defense-legal-framework-national-security": [
+    { text: "能動的サイバー防御", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "先制アクセス無害化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "通信の秘密と相克", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
     "next-gen-nuclear-smr-reactors-development": [{ text: "次世代革新炉・SMR", color: "bg-teal-50 text-teal-800" }, { text: "受動的冷却安全性", color: "bg-emerald-50 text-emerald-800" }, { text: "核のゴミ処分地未定", color: "bg-rose-50 text-rose-800" }],
     "saf-sustainable-aviation-fuel-domestic-supply-mandate": [{ text: "EEZ洋上風力解禁", color: "bg-teal-50 text-teal-800" }, { text: "浮体式で沖合活用", color: "bg-blue-50 text-blue-800" }, { text: "漁業調整・送電網コスト", color: "bg-amber-50 text-amber-900" }],
     "grid-scale-battery-storage-power-grid-masterplan": [{ text: "系統用巨大蓄電池", color: "bg-teal-50 text-teal-800" }, { text: "再エネ出力制御防止", color: "bg-emerald-50 text-emerald-800" }, { text: "数兆円海底送電網", color: "bg-amber-50 text-amber-900" }],
