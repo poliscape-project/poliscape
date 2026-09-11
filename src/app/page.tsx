@@ -268,6 +268,208 @@ export default function HomePage() {
     { text: "先制アクセス無害化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
     { text: "通信の秘密と相克", color: "bg-rose-50 text-rose-700 border-rose-200" }
   ],
+  // 第16弾（注目政策40テーマ追加・全340政策）
+  "smartphone-competition-promotion-act-app-stores": [
+    { text: "アプリストア開放", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "外部決済義務化", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "売上高20%課徴金", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "nhk-internet-distribution-mandatory-service-fee": [
+    { text: "ネット必須業務化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "アプリ登録で受信料", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "テレビなし世帯対象", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "deepfake-disinformation-election-interference-regulation": [
+    { text: "ディープフェイク規制", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "選挙偽情報対策", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "真正性証明技術", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "online-platform-defamation-countermeasures-act": [
+    { text: "情プラ対処法", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "1週間以内削除判断", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "詐欺広告・中傷撲滅", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "residence-card-mynumber-card-unification-act": [
+    { text: "特定在留カード", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "入管・自治体一体化", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "偽造在留カード撲滅", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "drone-level-4-urban-delivery-deregulation": [
+    { text: "レベル4有人地帯", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "都市部配送解禁", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "物流危機・即時配送", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "foreign-streaming-services-domestic-content-quota": [
+    { text: "文化クオータ制", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "外資に国内制作投資", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "アニメ・映画振興", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "digital-salary-payment-cashless-wage-transfer": [
+    { text: "給与デジタル払い", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "PayPay等へ直送金", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "上限20万・全額保証", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "crypto-assets-separate-declaration-taxation-reform": [
+    { text: "暗号資産20%分離課税", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "3年損失繰越控除", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "最大55%総合脱却", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "ideco-age-limit-increase-70-contribution-expansion": [
+    { text: "iDeCo70歳引上げ", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "全額所得控除維持", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "拠出限度額拡大", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "tower-mansion-tax-loophole-reform-fairness": [
+    { text: "タワマン節税適正化", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "時価6割最低ライン", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "4要素補正算定式", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "credit-card-interchange-fee-transparency-disclosure": [
+    { text: "カード手数料開示", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "隠れコスト可視化", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "加盟店負担軽減へ", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "global-minimum-tax-multinational-corporations-15-percent": [
+    { text: "最低法人税率15%", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "タックスヘイブン封殺", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "OECD第2の柱適用", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "adult-guardianship-system-fundamental-reform-flexibility": [
+    { text: "成年後見の抜本見直し", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "スポット・期間後見", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "意思決定支援転換", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "high-denomination-banknote-phaseout-cashless-promotion": [
+    { text: "高額紙幣廃止論", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "100兆円タンス預金", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "地下経済・脱税撲滅", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "testamentary-substitute-trust-single-elderly-affairs": [
+    { text: "おひとりさま信託", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "死後事務・遺品整理", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "身寄りなし高齢支援", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "gender-wage-gap-disclosure-human-capital-reporting": [
+    { text: "男女賃金格差開示", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "有報人的資本3指標", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "女性管理職登用加速", color: "bg-purple-50 text-purple-700 border-purple-200" }
+  ],
+  "childcare-short-time-work-wage-subsidy-benefit": [
+    { text: "育児時短給与10%給付", color: "bg-pink-50 text-pink-700 border-pink-200" },
+    { text: "2歳未満手取り補填", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "2025年4月施行", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "corporate-spousal-allowance-reduction-income-barrier": [
+    { text: "配偶者手当廃止推進", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "子ども手当へシフト", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "就業調整・壁打破", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "joint-custody-civil-code-revision-2026-enforcement": [
+    { text: "共同親権2026年施行", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "77年ぶり民法改正", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "DV時は単独親権", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "four-day-workweek-public-servants-wage-levels": [
+    { text: "週休3日制公務員先行", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "フレックス時間維持", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "給与据置か減額か", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "freelance-protection-new-act-fair-transactions": [
+    { text: "フリーランス新法", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "書面交付・60日払込", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "買いたたき即時是正", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "working-hours-interval-system-rest-mandate-debate": [
+    { text: "勤務間インターバル", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "連続11時間休息", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "睡眠確保・過労死防ぐ", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "customer-harassment-prevention-legislation-employers-duty": [
+    { text: "カスハラ防止法制化", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "接客・対応拒否公認", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "名札フルネーム廃止", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "otc-analog-drugs-insurance-exclusion-copayment-increase": [
+    { text: "OTC類似薬保険見直し", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "湿布・花粉症薬自費化", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "医療費47兆円抑制", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "dementia-basic-act-inclusive-society-barrier-free-finance": [
+    { text: "認知症基本法施行", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "金融バリアフリー", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "口座凍結の柔軟化", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "end-of-life-care-living-will-death-with-dignity-legislation": [
+    { text: "尊厳死・延命中止議論", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "リビングウィル法制化", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "医師免責と生命倫理", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+  "child-adolescent-psychiatry-beds-shortage-school-counselors": [
+    { text: "児童精神科半年待ち救え", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "不登校30万人メンタル", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "SC全校配置・増員", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "welfare-recipient-medical-assistance-myna-card-mandate": [
+    { text: "紙の医療券を廃止", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "生保マイナ保険証移行", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "重複処方・転売防止", color: "bg-emerald-50 text-emerald-700 border-emerald-200" }
+  ],
+  "hospital-financial-reporting-mandate-bankruptcy-restructuring": [
+    { text: "病院経営情報開示義務", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "赤字倒産過去最多水準", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "地域医療再編統合", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "myalgic-encephalomyelitis-cfs-disease-recognition-support": [
+    { text: "ME/CFS指定難病化へ", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "寝たきり慢性疲労", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "コロナ後遺症と連動", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "lonely-death-prevention-housing-support-monitoring": [
+    { text: "孤立死年6.8万人対策", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "居住支援法人制度", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "スマートメーター見守り", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "aging-condominium-rebuilding-resolution-threshold-easing": [
+    { text: "建替え要件4/5緩和", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "老朽マンション対策", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "所在不明者除外新設", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "mandatory-ev-charging-facilities-new-buildings": [
+    { text: "新築EV充電器義務化", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "マンション2割設置", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "都条例2025年4月施行", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "expressway-toll-collection-extension-2115-bridge-aging": [
+    { text: "高速料金2115年まで", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "最長50年延長法改正", color: "bg-amber-50 text-amber-700 border-amber-200" },
+    { text: "老朽橋梁床版更新", color: "bg-blue-50 text-blue-700 border-blue-200" }
+  ],
+  "maglev-chuo-shinkansen-delay-shizuoka-water-tunnel": [
+    { text: "リニア2027年断念", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "静岡工区・大井川水", color: "bg-blue-50 text-blue-700 border-blue-200" },
+    { text: "2034年以降へ延期", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "regional-airports-concession-privatization-security-staff": [
+    { text: "空港民営化・コンセ", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "保安検査員不足・行列", color: "bg-rose-50 text-rose-700 border-rose-200" },
+    { text: "CTスマートレーン", color: "bg-teal-50 text-teal-700 border-teal-200" }
+  ],
+  "geothermal-power-national-parks-deregulation-hot-springs": [
+    { text: "国立公園地熱掘削緩和", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "世界3位資源活用", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "温泉街との共生協定", color: "bg-amber-50 text-amber-700 border-amber-200" }
+  ],
+  "textile-waste-fast-fashion-recycling-regulations": [
+    { text: "売れ残り新品廃棄禁止", color: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    { text: "年50万トン服ゴミ削減", color: "bg-teal-50 text-teal-700 border-teal-200" },
+    { text: "拡大生産者責任EPR", color: "bg-indigo-50 text-indigo-700 border-indigo-200" }
+  ],
+  "security-clearance-act-economic-security-information-protection": [
+    { text: "セキュリティクリアランス", color: "bg-purple-50 text-purple-700 border-purple-200" },
+    { text: "身辺調査・適性評価", color: "bg-indigo-50 text-indigo-700 border-indigo-200" },
+    { text: "漏洩最高5年懲役", color: "bg-rose-50 text-rose-700 border-rose-200" }
+  ],
+
     "next-gen-nuclear-smr-reactors-development": [{ text: "次世代革新炉・SMR", color: "bg-teal-50 text-teal-800" }, { text: "受動的冷却安全性", color: "bg-emerald-50 text-emerald-800" }, { text: "核のゴミ処分地未定", color: "bg-rose-50 text-rose-800" }],
     "saf-sustainable-aviation-fuel-domestic-supply-mandate": [{ text: "EEZ洋上風力解禁", color: "bg-teal-50 text-teal-800" }, { text: "浮体式で沖合活用", color: "bg-blue-50 text-blue-800" }, { text: "漁業調整・送電網コスト", color: "bg-amber-50 text-amber-900" }],
     "grid-scale-battery-storage-power-grid-masterplan": [{ text: "系統用巨大蓄電池", color: "bg-teal-50 text-teal-800" }, { text: "再エネ出力制御防止", color: "bg-emerald-50 text-emerald-800" }, { text: "数兆円海底送電網", color: "bg-amber-50 text-amber-900" }],

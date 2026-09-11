@@ -322,7 +322,49 @@ import tokuryuYamiBaitoCrackdownData from "@/data/policies/tokuryu-yami-baito-cr
 import bicycleTrafficViolationBlueTicketData from "@/data/policies/bicycle-traffic-violation-blue-ticket-penalty-system.json";
 import activeCyberDefenseLegalFrameworkData from "@/data/policies/active-cyber-defense-legal-framework-national-security.json";
 
-// 登録されている全300政策のリスト
+// 登録されている全340政策のリスト
+// 第16弾（注目政策40テーマ追加・全340政策）
+import smartphoneCompetitionPromotionActData from "@/data/policies/smartphone-competition-promotion-act-app-stores.json";
+import nhkInternetDistributionMandatoryData from "@/data/policies/nhk-internet-distribution-mandatory-service-fee.json";
+import deepfakeDisinformationElectionData from "@/data/policies/deepfake-disinformation-election-interference-regulation.json";
+import onlinePlatformDefamationData from "@/data/policies/online-platform-defamation-countermeasures-act.json";
+import residenceCardMynumberCardData from "@/data/policies/residence-card-mynumber-card-unification-act.json";
+import droneLevel4UrbanDeliveryData from "@/data/policies/drone-level-4-urban-delivery-deregulation.json";
+import foreignStreamingServicesDomesticData from "@/data/policies/foreign-streaming-services-domestic-content-quota.json";
+import digitalSalaryPaymentCashlessData from "@/data/policies/digital-salary-payment-cashless-wage-transfer.json";
+import cryptoAssetsSeparateDeclarationData from "@/data/policies/crypto-assets-separate-declaration-taxation-reform.json";
+import idecoAgeLimitIncrease70Data from "@/data/policies/ideco-age-limit-increase-70-contribution-expansion.json";
+import towerMansionTaxLoopholeData from "@/data/policies/tower-mansion-tax-loophole-reform-fairness.json";
+import creditCardInterchangeFeeData from "@/data/policies/credit-card-interchange-fee-transparency-disclosure.json";
+import globalMinimumTaxMultinationalData from "@/data/policies/global-minimum-tax-multinational-corporations-15-percent.json";
+import adultGuardianshipSystemReformData from "@/data/policies/adult-guardianship-system-fundamental-reform-flexibility.json";
+import highDenominationBanknotePhaseoutData from "@/data/policies/high-denomination-banknote-phaseout-cashless-promotion.json";
+import testamentarySubstituteTrustData from "@/data/policies/testamentary-substitute-trust-single-elderly-affairs.json";
+import genderWageGapDisclosureData from "@/data/policies/gender-wage-gap-disclosure-human-capital-reporting.json";
+import childcareShortTimeWorkWageData from "@/data/policies/childcare-short-time-work-wage-subsidy-benefit.json";
+import corporateSpousalAllowanceReductionData from "@/data/policies/corporate-spousal-allowance-reduction-income-barrier.json";
+import jointCustodyCivilCodeRevisionData from "@/data/policies/joint-custody-civil-code-revision-2026-enforcement.json";
+import fourDayWorkweekPublicServantsData from "@/data/policies/four-day-workweek-public-servants-wage-levels.json";
+import freelanceProtectionNewActData from "@/data/policies/freelance-protection-new-act-fair-transactions.json";
+import workingHoursIntervalSystemData from "@/data/policies/working-hours-interval-system-rest-mandate-debate.json";
+import customerHarassmentPreventionData from "@/data/policies/customer-harassment-prevention-legislation-employers-duty.json";
+import otcAnalogDrugsInsuranceExclusionData from "@/data/policies/otc-analog-drugs-insurance-exclusion-copayment-increase.json";
+import dementiaBasicActInclusiveSocietyData from "@/data/policies/dementia-basic-act-inclusive-society-barrier-free-finance.json";
+import endOfLifeCareLivingWillData from "@/data/policies/end-of-life-care-living-will-death-with-dignity-legislation.json";
+import childAdolescentPsychiatryBedsData from "@/data/policies/child-adolescent-psychiatry-beds-shortage-school-counselors.json";
+import welfareRecipientMedicalAssistanceData from "@/data/policies/welfare-recipient-medical-assistance-myna-card-mandate.json";
+import hospitalFinancialReportingMandateData from "@/data/policies/hospital-financial-reporting-mandate-bankruptcy-restructuring.json";
+import myalgicEncephalomyelitisCfsData from "@/data/policies/myalgic-encephalomyelitis-cfs-disease-recognition-support.json";
+import lonelyDeathPreventionHousingData from "@/data/policies/lonely-death-prevention-housing-support-monitoring.json";
+import agingCondominiumRebuildingResolutionData from "@/data/policies/aging-condominium-rebuilding-resolution-threshold-easing.json";
+import mandatoryEvChargingFacilitiesData from "@/data/policies/mandatory-ev-charging-facilities-new-buildings.json";
+import expresswayTollCollectionExtensionData from "@/data/policies/expressway-toll-collection-extension-2115-bridge-aging.json";
+import maglevChuoShinkansenDelayData from "@/data/policies/maglev-chuo-shinkansen-delay-shizuoka-water-tunnel.json";
+import regionalAirportsConcessionData from "@/data/policies/regional-airports-concession-privatization-security-staff.json";
+import geothermalPowerNationalParksData from "@/data/policies/geothermal-power-national-parks-deregulation-hot-springs.json";
+import textileWasteFastFashionData from "@/data/policies/textile-waste-fast-fashion-recycling-regulations.json";
+import securityClearanceActEconomicData from "@/data/policies/security-clearance-act-economic-security-information-protection.json";
+
 const policies: PolicyTopic[] = [
   childAllowanceData as PolicyTopic,
   universityTuitionData as PolicyTopic,
@@ -644,6 +686,48 @@ const policies: PolicyTopic[] = [
   tokuryuYamiBaitoCrackdownData as PolicyTopic,
   bicycleTrafficViolationBlueTicketData as PolicyTopic,
   activeCyberDefenseLegalFrameworkData as PolicyTopic,
+
+  // 第16弾（注目政策40テーマ追加・全340政策）
+  smartphoneCompetitionPromotionActData as PolicyTopic,
+  nhkInternetDistributionMandatoryData as PolicyTopic,
+  deepfakeDisinformationElectionData as PolicyTopic,
+  onlinePlatformDefamationData as PolicyTopic,
+  residenceCardMynumberCardData as PolicyTopic,
+  droneLevel4UrbanDeliveryData as PolicyTopic,
+  foreignStreamingServicesDomesticData as PolicyTopic,
+  digitalSalaryPaymentCashlessData as PolicyTopic,
+  cryptoAssetsSeparateDeclarationData as PolicyTopic,
+  idecoAgeLimitIncrease70Data as PolicyTopic,
+  towerMansionTaxLoopholeData as PolicyTopic,
+  creditCardInterchangeFeeData as PolicyTopic,
+  globalMinimumTaxMultinationalData as PolicyTopic,
+  adultGuardianshipSystemReformData as PolicyTopic,
+  highDenominationBanknotePhaseoutData as PolicyTopic,
+  testamentarySubstituteTrustData as PolicyTopic,
+  genderWageGapDisclosureData as PolicyTopic,
+  childcareShortTimeWorkWageData as PolicyTopic,
+  corporateSpousalAllowanceReductionData as PolicyTopic,
+  jointCustodyCivilCodeRevisionData as PolicyTopic,
+  fourDayWorkweekPublicServantsData as PolicyTopic,
+  freelanceProtectionNewActData as PolicyTopic,
+  workingHoursIntervalSystemData as PolicyTopic,
+  customerHarassmentPreventionData as PolicyTopic,
+  otcAnalogDrugsInsuranceExclusionData as PolicyTopic,
+  dementiaBasicActInclusiveSocietyData as PolicyTopic,
+  endOfLifeCareLivingWillData as PolicyTopic,
+  childAdolescentPsychiatryBedsData as PolicyTopic,
+  welfareRecipientMedicalAssistanceData as PolicyTopic,
+  hospitalFinancialReportingMandateData as PolicyTopic,
+  myalgicEncephalomyelitisCfsData as PolicyTopic,
+  lonelyDeathPreventionHousingData as PolicyTopic,
+  agingCondominiumRebuildingResolutionData as PolicyTopic,
+  mandatoryEvChargingFacilitiesData as PolicyTopic,
+  expresswayTollCollectionExtensionData as PolicyTopic,
+  maglevChuoShinkansenDelayData as PolicyTopic,
+  regionalAirportsConcessionData as PolicyTopic,
+  geothermalPowerNationalParksData as PolicyTopic,
+  textileWasteFastFashionData as PolicyTopic,
+  securityClearanceActEconomicData as PolicyTopic,
 ];
 
 export function getAllPolicies(): PolicyTopic[] {
