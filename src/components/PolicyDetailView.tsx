@@ -134,9 +134,6 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
         {/* 1. 【最初に読む】3つのポイント要約 & 背景 */}
         <PolicySummaryCard policy={policy} isSimpleMode={isSimpleMode} />
 
-        {/* 🏛️ この政策の土台（根拠法・基本制度）アコーディオン */}
-        <PolicyFoundationLawCard laws={foundationLaws} isSimpleMode={isSimpleMode} />
-
         {/* 2. 【超直感】受給シミュレーター（全51テーマ別に動的切り替え） */}
         {policy.id === "child-allowance-expansion" && (
           <PolicyCalculator isSimpleMode={isSimpleMode} />
@@ -314,13 +311,13 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
             <div className="max-w-md mx-auto">
               <div className="text-xs font-bold text-slate-700 mb-1">
                 {policy.status === "discussing" || policy.status === "proposed"
-                  ? "現行制度と見直し案の詳細や一次情報を確認したいですか？"
-                  : "制度変更の詳細や一次情報を確認したいですか？"}
+                  ? "現行制度と見直し案の詳細、根拠法、一次情報を確認したいですか？"
+                  : "制度変更の詳細、根拠法、一次情報を確認したいですか？"}
               </div>
               <p className="text-[11px] text-slate-500 mb-3">
                 {policy.status === "discussing" || policy.status === "proposed"
-                  ? "現行制度と議論されている見直し案の対照、国会での審議タイムライン、官公庁の公式一次資料をご覧いただけます。"
-                  : "新旧対照（ビフォーアフター）、国会での決定経緯タイムライン、官公庁の公式一次資料をご覧いただけます。"}
+                  ? "現行制度と議論されている見直し案の対照、国会での審議タイムライン、根拠法・基本制度の解説、官公庁の公式一次資料をご覧いただけます。"
+                  : "新旧対照（ビフォーアフター）、国会での決定経緯タイムライン、根拠法・基本制度の解説、官公庁の公式一次資料をご覧いただけます。"}
               </p>
               <button
                 type="button"
@@ -332,8 +329,8 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
                   {showDeepDive
                     ? "詳しい解説を閉じる ▲"
                     : policy.status === "discussing" || policy.status === "proposed"
-                    ? "現行と見直し案の対照・審議経緯・一次情報を見る ▼"
-                    : "新旧対照・タイムライン・一次情報を見る ▼"}
+                    ? "現行と見直し案の対照・審議経緯・根拠法・一次情報を見る ▼"
+                    : "新旧対照・タイムライン・根拠法・一次情報を見る ▼"}
                 </span>
               </button>
             </div>
@@ -346,6 +343,9 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
 
                 {/* タイムライン */}
                 <PolicyTimeline timeline={policy.timeline} isSimpleMode={isSimpleMode} />
+
+                {/* 🏛️ この政策の土台（根拠法・基本制度） */}
+                <PolicyFoundationLawCard laws={foundationLaws} isSimpleMode={isSimpleMode} initiallyOpen={true} />
 
                 {/* 公的一次情報ソース */}
                 <PolicySources sources={policy.sources} />

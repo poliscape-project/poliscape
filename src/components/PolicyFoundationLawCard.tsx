@@ -7,13 +7,15 @@ import { Landmark, ChevronDown, ChevronUp, ExternalLink, HelpCircle, AlertTriang
 interface PolicyFoundationLawCardProps {
   laws: FoundationLaw[];
   isSimpleMode: boolean;
+  initiallyOpen?: boolean;
 }
 
 export const PolicyFoundationLawCard: React.FC<PolicyFoundationLawCardProps> = ({
   laws,
   isSimpleMode,
+  initiallyOpen = true,
 }) => {
-  const [isOpen, setIsOpen] = useState(false);
+  const [isOpen, setIsOpen] = useState(initiallyOpen);
 
   if (!laws || laws.length === 0) {
     return null;
