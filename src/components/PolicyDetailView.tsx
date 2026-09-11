@@ -66,12 +66,15 @@ import { PolicyChangesCard } from "@/components/PolicyChangesCard";
 import { PolicySummaryCard } from "@/components/PolicySummaryCard";
 import { PolicyTimeline } from "@/components/PolicyTimeline";
 import { PolicySources } from "@/components/PolicySources";
+import { PolicyFoundationLawCard } from "@/components/PolicyFoundationLawCard";
+import { getFoundationLawsByPolicyId } from "@/lib/laws";
 import { Footer } from "@/components/Footer";
 import { ArrowLeft, FileText, CheckCircle2, AlertCircle, ExternalLink } from "lucide-react";
 
 export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) => {
   const [isSimpleMode, setIsSimpleMode] = useState<boolean>(false);
   const [showDeepDive, setShowDeepDive] = useState<boolean>(false);
+  const foundationLaws = getFoundationLawsByPolicyId(policy.id);
 
   const handleToggleSimpleMode = () => {
     setIsSimpleMode((prev) => !prev);
@@ -130,6 +133,9 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
 
         {/* 1. 【最初に読む】3つのポイント要約 & 背景 */}
         <PolicySummaryCard policy={policy} isSimpleMode={isSimpleMode} />
+
+        {/* 🏛️ この政策の土台（根拠法・基本制度）アコーディオン */}
+        <PolicyFoundationLawCard laws={foundationLaws} isSimpleMode={isSimpleMode} />
 
         {/* 2. 【超直感】受給シミュレーター（全51テーマ別に動的切り替え） */}
         {policy.id === "child-allowance-expansion" && (
