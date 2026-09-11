@@ -9,17 +9,13 @@ import { UniversityTuitionCalculator } from "@/components/UniversityTuitionCalcu
 import { IncomeBarrierCalculator } from "@/components/IncomeBarrierCalculator";
 import { MynaInsuranceNavigator } from "@/components/MynaInsuranceNavigator";
 import { NewNisaCalculator } from "@/components/NewNisaCalculator";
-import { FixedTaxCutChecker } from "@/components/FixedTaxCutChecker";
 import { FurusatoTaxCalculator } from "@/components/FurusatoTaxCalculator";
 import { InvoiceSimulator } from "@/components/InvoiceSimulator";
 import { PensionAgeSimulator } from "@/components/PensionAgeSimulator";
 import { ZaishokuPensionCalculator } from "@/components/ZaishokuPensionCalculator";
 import { ElderlyHealthcareChecker } from "@/components/ElderlyHealthcareChecker";
 import { ChildcareLeaveCalculator } from "@/components/ChildcareLeaveCalculator";
-import { RideshareFareCalculator } from "@/components/RideshareFareCalculator";
-import { WorkStyleChecker } from "@/components/WorkStyleChecker";
 import { EnergyBillChecker } from "@/components/EnergyBillChecker";
-import { DefenseTaxEstimator } from "@/components/DefenseTaxEstimator";
 // 追加10シミュレーター（第2弾）
 import { ChildcareSupportFundCalculator } from "@/components/ChildcareSupportFundCalculator";
 import { InheritanceRegistrationChecker } from "@/components/InheritanceRegistrationChecker";
@@ -28,7 +24,6 @@ import { SeverancePayTaxSimulator } from "@/components/SeverancePayTaxSimulator"
 import { GasolineSubsidiesChecker } from "@/components/GasolineSubsidiesChecker";
 import { NursingCareCopayCalculator } from "@/components/NursingCareCopayCalculator";
 import { ElectricKickboardRuleChecker } from "@/components/ElectricKickboardRuleChecker";
-import { SelectiveSurnameCostChecker } from "@/components/SelectiveSurnameCostChecker";
 import { SchoolLunchFreeCalculator } from "@/components/SchoolLunchFreeCalculator";
 import { IdecoTaxSimulator } from "@/components/IdecoTaxSimulator";
 // 新規10シミュレーター（第3弾）
@@ -40,24 +35,15 @@ import { AccommodationTaxCalculator } from "@/components/AccommodationTaxCalcula
 import { ForestEnvironmentTaxChecker } from "@/components/ForestEnvironmentTaxChecker";
 import { CustomerHarassmentChecker } from "@/components/CustomerHarassmentChecker";
 import { ReskillingBenefitCalculator } from "@/components/ReskillingBenefitCalculator";
-import { HayFeverCostSimulator } from "@/components/HayFeverCostSimulator";
 import { CareerUpBarrierSimulator } from "@/components/CareerUpBarrierSimulator";
 // 新規15シミュレーター（第4弾）
 import { FinancialIncomeTaxCalculator } from "@/components/FinancialIncomeTaxCalculator";
-import { EvDistanceTaxSimulator } from "@/components/EvDistanceTaxSimulator";
-import { DigitalSalaryBenefitChecker } from "@/components/DigitalSalaryBenefitChecker";
-import { DismissalSettlementSimulator } from "@/components/DismissalSettlementSimulator";
-import { TeacherSalaryAdjustSimulator } from "@/components/TeacherSalaryAdjustSimulator";
 import { HighCostMedicalCapSimulator } from "@/components/HighCostMedicalCapSimulator";
 import { BicycleTrafficPenaltyChecker } from "@/components/BicycleTrafficPenaltyChecker";
-import { DoctorOvertimeImpactChecker } from "@/components/DoctorOvertimeImpactChecker";
-import { ForeignWorkerTrainingSimulator } from "@/components/ForeignWorkerTrainingSimulator";
 import { PaternityLeaveCalculator } from "@/components/PaternityLeaveCalculator";
 import { SolarPanelPaybackCalculator } from "@/components/SolarPanelPaybackCalculator";
 import { OtcDrugCopaySimulator } from "@/components/OtcDrugCopaySimulator";
 import { StealthMarketingChecker } from "@/components/StealthMarketingChecker";
-import { DroneLogisticsCalculator } from "@/components/DroneLogisticsCalculator";
-import { ResidentCardMynaNavigator } from "@/components/ResidentCardMynaNavigator";
 import { ViewCounter } from "@/components/ViewCounter";
 
 import { PolicyHighlightCards } from "@/components/PolicyHighlightCards";
@@ -134,7 +120,7 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
         {/* 1. 【最初に読む】3つのポイント要約 & 背景 */}
         <PolicySummaryCard policy={policy} isSimpleMode={isSimpleMode} />
 
-        {/* 2. 【超直感】受給シミュレーター（全51テーマ別に動的切り替え） */}
+        {/* 2. 【超直感】受給・手取りシミュレーター／対象判定シート（主要37テーマ別に動的表示） */}
         {policy.id === "child-allowance-expansion" && (
           <PolicyCalculator isSimpleMode={isSimpleMode} />
         )}
@@ -149,11 +135,7 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
         )}
         {policy.id === "new-nisa" && (
           <NewNisaCalculator isSimpleMode={isSimpleMode} />
-        )}
-        {policy.id === "fixed-tax-cut" && (
-          <FixedTaxCutChecker isSimpleMode={isSimpleMode} />
-        )}
-        {policy.id === "furusato-tax" && (
+        )}        {policy.id === "furusato-tax" && (
           <FurusatoTaxCalculator isSimpleMode={isSimpleMode} />
         )}
         {policy.id === "invoice-system" && (
@@ -170,20 +152,9 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
         )}
         {policy.id === "childcare-leave-benefit" && (
           <ChildcareLeaveCalculator isSimpleMode={isSimpleMode} />
-        )}
-        {policy.id === "rideshare-deregulation" && (
-          <RideshareFareCalculator isSimpleMode={isSimpleMode} />
-        )}
-        {policy.id === "high-professional-system" && (
-          <WorkStyleChecker isSimpleMode={isSimpleMode} />
-        )}
-        {policy.id === "energy-subsidies" && (
+        )}        {policy.id === "energy-subsidies" && (
           <EnergyBillChecker isSimpleMode={isSimpleMode} />
-        )}
-        {policy.id === "defense-tax-hike" && (
-          <DefenseTaxEstimator isSimpleMode={isSimpleMode} />
-        )}
-        {/* 第2弾シミュレーター */}
+        )}        {/* 第2弾シミュレーター */}
         {policy.id === "childcare-support-fund" && (
           <ChildcareSupportFundCalculator isSimpleMode={isSimpleMode} />
         )}
@@ -204,11 +175,7 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
         )}
         {policy.id === "electric-kickboard-rules" && (
           <ElectricKickboardRuleChecker isSimpleMode={isSimpleMode} />
-        )}
-        {policy.id === "selective-separate-surnames" && (
-          <SelectiveSurnameCostChecker isSimpleMode={isSimpleMode} />
-        )}
-        {policy.id === "school-lunch-free" && (
+        )}        {policy.id === "school-lunch-free" && (
           <SchoolLunchFreeCalculator isSimpleMode={isSimpleMode} />
         )}
         {policy.id === "ideco-expansion" && (
@@ -238,42 +205,18 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
         )}
         {policy.id === "reskilling-education-benefit" && (
           <ReskillingBenefitCalculator isSimpleMode={isSimpleMode} />
-        )}
-        {policy.id === "hay-fever-countermeasures" && (
-          <HayFeverCostSimulator isSimpleMode={isSimpleMode} />
-        )}
-        {policy.id === "income-barrier-career-up" && (
+        )}        {policy.id === "income-barrier-career-up" && (
           <CareerUpBarrierSimulator isSimpleMode={isSimpleMode} />
         )}
         {/* 第4弾シミュレーター（15政策） */}
         {policy.id === "financial-income-tax" && (
           <FinancialIncomeTaxCalculator isSimpleMode={isSimpleMode} />
-        )}
-        {policy.id === "ev-distance-tax" && (
-          <EvDistanceTaxSimulator isSimpleMode={isSimpleMode} />
-        )}
-        {policy.id === "digital-salary-payment" && (
-          <DigitalSalaryBenefitChecker isSimpleMode={isSimpleMode} />
-        )}
-        {policy.id === "dismissal-monetary-resolution" && (
-          <DismissalSettlementSimulator isSimpleMode={isSimpleMode} />
-        )}
-        {policy.id === "teacher-special-measure-act" && (
-          <TeacherSalaryAdjustSimulator isSimpleMode={isSimpleMode} />
-        )}
-        {policy.id === "high-cost-medical-cap" && (
+        )}        {policy.id === "high-cost-medical-cap" && (
           <HighCostMedicalCapSimulator isSimpleMode={isSimpleMode} />
         )}
         {policy.id === "bicycle-blue-ticket" && (
           <BicycleTrafficPenaltyChecker isSimpleMode={isSimpleMode} />
-        )}
-        {policy.id === "doctor-overtime-regulation" && (
-          <DoctorOvertimeImpactChecker isSimpleMode={isSimpleMode} />
-        )}
-        {policy.id === "foreign-training-employment" && (
-          <ForeignWorkerTrainingSimulator isSimpleMode={isSimpleMode} />
-        )}
-        {policy.id === "paternity-leave-at-birth" && (
+        )}        {policy.id === "paternity-leave-at-birth" && (
           <PaternityLeaveCalculator isSimpleMode={isSimpleMode} />
         )}
         {policy.id === "solar-panel-mandate" && (
@@ -285,13 +228,6 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
         {policy.id === "stealth-marketing-regulation" && (
           <StealthMarketingChecker isSimpleMode={isSimpleMode} />
         )}
-        {policy.id === "drone-flying-car-mobility" && (
-          <DroneLogisticsCalculator isSimpleMode={isSimpleMode} />
-        )}
-        {policy.id === "alien-registration-myna-card" && (
-          <ResidentCardMynaNavigator isSimpleMode={isSimpleMode} />
-        )}
-
         {/* 3. 【0秒理解】特大数字の4大変化カード */}
         <PolicyHighlightCards policy={policy} isSimpleMode={isSimpleMode} />
 
