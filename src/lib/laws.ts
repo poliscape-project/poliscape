@@ -763,6 +763,240 @@ const policyToLawsMap: Record<string, string[]> = {
   ],
   "voice-cloning-deepfake-fraud-penal-code-crackdown": [
     "penal-code-and-economic-security-clearance-act"
+  ],
+  "bicycle-helmet-mandate-insurance": [
+    "road-traffic-act"
+  ],
+  "bicycle-helmet-wearing-effort-obligation-penalization": [
+    "road-traffic-act"
+  ],
+  "bicycle-traffic-violation-blue-ticket-penalty-system": [
+    "road-traffic-act"
+  ],
+  "autonomous-delivery-robot-sidewalk-operation": [
+    "road-traffic-act"
+  ],
+  "inter-prefectural-expressway-toll-free-social-experiment": [
+    "road-traffic-act"
+  ],
+  "caregiving-resignation-leave-act-reform": [
+    "childcare-and-caregiver-leave-act"
+  ],
+  "care-plan-copay-debate": [
+    "long-term-care-insurance-act"
+  ],
+  "care-robot-staffing-ratio-deregulation": [
+    "long-term-care-insurance-act"
+  ],
+  "counterstrike-capability-long-range-missiles": [
+    "self-defense-forces-act"
+  ],
+  "self-defense-forces-personnel-treatment-allowance": [
+    "self-defense-forces-act"
+  ],
+  "child-adolescent-psychiatry-beds-shortage-school-counselors": [
+    "school-education-act",
+    "health-insurance-act"
+  ],
+  "child-mental-health-school-counselor-full-deployment": [
+    "school-education-act"
+  ],
+  "club-activities-regional-transition-middle-school": [
+    "school-education-act"
+  ],
+  "extracurricular-club-activities-regional-transition": [
+    "school-education-act"
+  ],
+  "school-club-community-transition": [
+    "school-education-act"
+  ],
+  "digital-textbook-implementation-paper-coexistence": [
+    "school-education-act"
+  ],
+  "digital-textbook-national-curriculum-full-rollout": [
+    "school-education-act"
+  ],
+  "organic-farming-expansion-school-lunch-local-produce": [
+    "school-education-act",
+    "farmland-and-food-agriculture-basic-act"
+  ],
+  "school-lunch-allergy-epipen-standard": [
+    "school-education-act"
+  ],
+  "school-lunch-complete-free-provision-nationwide": [
+    "school-education-act"
+  ],
+  "school-lunch-local-procurement-organic-ratio": [
+    "school-education-act",
+    "farmland-and-food-agriculture-basic-act"
+  ],
+  "adult-guardianship-system-fundamental-reform-flexibility": [
+    "civil-code-family"
+  ],
+  "elderly-financial-exploitation-prevention-trust": [
+    "civil-code-family"
+  ],
+  "corporate-spousal-allowance-reduction-income-barrier": [
+    "income-tax-act",
+    "employees-pension-insurance-act"
+  ],
+  "n-divide-n-multiply-family-tax-system": [
+    "income-tax-act"
+  ],
+  "childcare-leave-net-take-home-pay-100-percent-benefit": [
+    "employment-insurance-and-worker-dispatch-act",
+    "childcare-and-caregiver-leave-act"
+  ],
+  "childcare-short-time-work-wage-subsidy-benefit": [
+    "employment-insurance-and-worker-dispatch-act",
+    "childcare-and-caregiver-leave-act"
+  ],
+  "specialized-practical-education-training-benefit-80-percent": [
+    "employment-insurance-and-worker-dispatch-act"
+  ],
+  "equal-pay-equal-work-bonus-severance": [
+    "employment-insurance-and-worker-dispatch-act",
+    "labor-standards-act"
+  ],
+  "resignation-agency-regulation": [
+    "employment-insurance-and-worker-dispatch-act",
+    "labor-standards-act"
+  ],
+  "resignation-agency-service-legal-framework-regulation": [
+    "employment-insurance-and-worker-dispatch-act",
+    "labor-standards-act"
+  ],
+  "resignation-agent-acceptance-employee-free-exit-rights": [
+    "employment-insurance-and-worker-dispatch-act",
+    "labor-standards-act"
+  ],
+  "autonomous-driving-level-4-public-road-liability": [
+    "regional-public-transport-and-road-transport-act",
+    "road-traffic-act"
+  ],
+  "level-4-autonomous-driving-rural-bus-service": [
+    "regional-public-transport-and-road-transport-act",
+    "road-traffic-act"
+  ],
+  "autonomous-train-goa3-driverless-regional-rail": [
+    "regional-public-transport-and-road-transport-act"
+  ],
+  "jr-hokkaido-shikoku-freight-public-support": [
+    "regional-public-transport-and-road-transport-act"
+  ],
+  "local-railway-reconstruction-council-bus-transition": [
+    "regional-public-transport-and-road-transport-act"
+  ],
+  "regional-railway-restructuring-bus-conversion": [
+    "regional-public-transport-and-road-transport-act"
+  ],
+  "unprofitable-local-rail-bus-conversion": [
+    "regional-public-transport-and-road-transport-act"
+  ],
+  "abandoned-boats-removal-ports-coastal-cleanup": [
+    "regional-public-transport-and-road-transport-act"
+  ],
+  "leave-at-door-delivery-point-system": [
+    "regional-public-transport-and-road-transport-act"
+  ],
+  "shinkansen-freight-express-cargo-modal-shift": [
+    "regional-public-transport-and-road-transport-act"
+  ],
+  "local-autonomy-act-revision-national-directive-power": [
+    "local-autonomy-act"
+  ],
+  "local-assembly-member-shortage-side-job-reform": [
+    "local-autonomy-act"
+  ],
+  "compact-city-location-optimization-plan-consolidation": [
+    "local-autonomy-act"
+  ],
+  "tokyo-over-concentration-migration-subsidy": [
+    "local-autonomy-act"
+  ],
+  "donor-conception-right-to-know-origins": [
+    "maternal-and-child-health-and-fertility-act",
+    "civil-code-family"
+  ],
+  "egg-freezing-fertility-subsidy": [
+    "maternal-and-child-health-and-fertility-act"
+  ],
+  "infertility-treatment-advanced-medicine-cost-subsidy": [
+    "maternal-and-child-health-and-fertility-act",
+    "health-insurance-act"
+  ],
+  "nipt-prenatal-testing-accreditation-guidelines": [
+    "maternal-and-child-health-and-fertility-act"
+  ],
+  "nipt-prenatal-testing-accreditation-system": [
+    "maternal-and-child-health-and-fertility-act"
+  ],
+  "painless-childbirth-epidural-public-subsidy": [
+    "maternal-and-child-health-and-fertility-act"
+  ],
+  "civil-protection-shelters-underground-stations": [
+    "civil-protection-and-important-land-act"
+  ],
+  "missile-evacuation-underground-shelter-guidelines": [
+    "civil-protection-and-important-land-act"
+  ],
+  "critical-land-use-regulation-act-bases-islands": [
+    "civil-protection-and-important-land-act",
+    "self-defense-forces-act"
+  ],
+  "abduction-issue-summit-talks-north-korea-sanctions": [
+    "civil-protection-and-important-land-act"
+  ],
+  "plastic-resource-circulation-amenity-fee-expansion": [
+    "basic-act-for-sound-material-cycle-society"
+  ],
+  "recycled-plastic-mandatory-usage-circular-economy": [
+    "basic-act-for-sound-material-cycle-society"
+  ],
+  "pfas-drinking-water-quality-regulation": [
+    "basic-act-for-sound-material-cycle-society"
+  ],
+  "johkasou-decentralized-sewage-transition-subsidy": [
+    "basic-act-for-sound-material-cycle-society"
+  ],
+  "biomanufacturing-synthetic-biology-shift": [
+    "basic-act-for-sound-material-cycle-society"
+  ],
+  "invasive-alien-species-muntjac-crayfish-control": [
+    "basic-act-for-sound-material-cycle-society"
+  ],
+  "animal-welfare-livestock-guidelines": [
+    "basic-act-for-sound-material-cycle-society"
+  ],
+  "overtourism-tourist-tax-congestion-surcharge-act": [
+    "basic-act-for-tourism-and-ir-promotion",
+    "local-autonomy-act"
+  ],
+  "casino-ir-gambling-addiction": [
+    "basic-act-for-tourism-and-ir-promotion"
+  ],
+  "illegal-online-casino-crackdown-gambling-addiction": [
+    "basic-act-for-tourism-and-ir-promotion",
+    "penal-code-and-economic-security-clearance-act"
+  ],
+  "ambulance-fee-minor-illness": [
+    "fire-and-disaster-management-act",
+    "health-insurance-act"
+  ],
+  "ambulance-service-fee-charge-triage": [
+    "fire-and-disaster-management-act",
+    "health-insurance-act"
+  ],
+  "emergency-call-7119-telephone-triage-nationwide": [
+    "fire-and-disaster-management-act"
+  ],
+  "anti-solicitation-cult-donation-relief-law": [
+    "anti-unjust-solicitation-and-stalking-act",
+    "consumer-contract-act"
+  ],
+  "anti-stalker-act-gps-attachment-regulation": [
+    "anti-unjust-solicitation-and-stalking-act",
+    "penal-code-and-economic-security-clearance-act"
   ]
 };
 
