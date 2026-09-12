@@ -205,5 +205,63 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Scale"
     }
-  ]
+  ],
+  "international": {
+    "title": "次期戦闘機（GCAP）第三国輸出・防衛装備移転の国際比較",
+    "comparisonSummary": "日本が英国・イタリアと共同開発する次期戦闘機（GCAP）の完成機を第三国へ直接輸出できるよう、日本政府は2024年3月に防衛装備移転三原則の運用指針を改定しました。兵器開発の天文学的な巨額コスト（数兆円規模）を回収し防衛産業の生産基盤を維持するため、欧米主要国では国際共同開発品の第三国輸出が事実上の大前提となっています。各国は厳格な安全保障審査（人権侵害国や紛争国への輸出禁止等）を課しつつ、国家主導で防衛装備品の輸出を推進しています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "戦略的輸出管理 (Strategic Export Controls) ＆ 共同開発輸出枠組み",
+        "statusOrLevel": "GCAP完成機の第三国輸出を開発当初から前提条件として推進",
+        "keyFeature": "ユーロファイター・タイフーンの共同開発・輸出実績を基に、GCAPでも開発国のコスト抑制と同盟国連携のため第三国輸出を積極推進。輸出許可はビジネス・貿易省（DBT）傘下のECJUが厳格な戦略輸出基準（人権配慮等）に基づき審査します。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "Strategic export controls and GCAP international framework",
+          "url": "https://www.gov.uk/government/collections/strategic-export-controls-licensing-data"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "軍用兵器管理法 (Kriegswaffenkontrollgesetz - KWKG) ＆ 連邦安全保障評議会",
+        "statusOrLevel": "共同開発品輸出は国際協定に準拠しつつ、紛争当事国への輸出を原則厳格制限",
+        "keyFeature": "軍用兵器の輸出は基本法（憲法）第26条およびKWKGに基づき連邦安全保障評議会（首相・主要閣僚）が秘密会で審査。EU・NATO外の第三国（Drittländer）への輸出は原則制限的ですが、共同開発協定ではパートナー国の輸出承認を尊重する枠組みを採用しています。",
+        "source": {
+          "organization": "ドイツ連邦経済・気候保護省 (BMWK)",
+          "title": "Rüstungsexportpolitik und Kriegswaffenkontrollgesetz",
+          "url": "https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/ruestungsexportkontrolle.html"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "戦争資材輸出審査政府間委員会 (CIEEMG) ＆ 国家主導輸出戦略",
+        "statusOrLevel": "戦略的自律性と防衛産業維持のため大統領・首相主導で世界第2位の武器輸出を推進",
+        "keyFeature": "防衛産業の自律性と技術基盤維持のため、ラファール戦闘機など国産先端装備の輸出を国策として強力に推進。輸出許可は首相直属の国防・国家安全保障事務局（SGDSN）が所管するCIEEMGが一括審査・承認します。",
+        "source": {
+          "organization": "フランス軍事省 (Ministère des Armées) / SGDSN",
+          "title": "Contrôle des exportations de matériels de guerre - CIEEMG",
+          "url": "https://www.defense.gouv.fr/dga/controle-exportations-darmement"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "武器輸出管理法 (AECA) ＆ 国際武器取引規則 (ITAR) / 対外有償軍事援助 (FMS)",
+        "statusOrLevel": "世界最大の防衛装備供給国（国務省・国防総省による厳格なエンドユーザー管理）",
+        "keyFeature": "ITARに基づき、米国製部品や技術が含まれる装備品の第三国再移転（Re-transfer）には米政府の事前書面承認が不可欠。大統領による通常兵器移転政策（CAT政策）と連邦議会への通知義務を通じ、同盟強化と人権保障のバランスを管理しています。",
+        "source": {
+          "organization": "米国国務省 (U.S. Department of State - PM/DDTC)",
+          "title": "Directorate of Defense Trade Controls - Arms Export Control Act",
+          "url": "https://www.pmddtc.state.gov/"
+        }
+      }
+    ]
+  }
 }

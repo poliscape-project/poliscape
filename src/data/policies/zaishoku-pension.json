@@ -241,5 +241,63 @@
         "commentStandard": "「少子高齢化の中でシニアの労働参加を促すには、在職老齢年金そのものの廃止が必要」"
       }
     ]
+  },
+  "international": {
+    "title": "在職老齢年金制度（高齢者就労と年金カット）の国際比較",
+    "comparisonSummary": "一定以上の賃金を得て働く高齢者の年金支給を停止・減額する『在職老齢年金制度』は、シニア層の就労意欲を阻害する『就労の壁』として批判され、廃止・見直しの議論が続いています。国際的には、法定の正式退職年齢に達した後は就労収入に関係なく年金を100%全額支給する国が多く、米国では正式退職年齢後の収入制限が完全に撤廃され、ドイツも2023年に早期年金の所得上限を撤廃しました。英国でも就労による公的年金の減額は一切行われません。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ソーシャルセキュリティ退職所得制限 (Retirement Earnings Test - RET)",
+        "statusOrLevel": "正式退職年齢（FRA: 67歳）到達後は所得制限なし（就労しても年金100%全額支給）",
+        "keyFeature": "正式退職年齢（Full Retirement Age: 66〜67歳）に達した後は、どれだけ高額な給与を稼いでも年金は1ドルも減額されず全額受給可能。2000年のシニア市民就労自由法（Senior Citizens' Freedom to Work Act）により就労ペナルティが全米で撤廃されました。",
+        "source": {
+          "organization": "米国社会保障庁 (Social Security Administration - SSA)",
+          "title": "Retirement Earnings Test Exempt Amounts",
+          "url": "https://www.ssa.gov/oact/cola/rtea.html"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "法定年金保険法 - 在職副収入上限撤廃 (Hinzuverdienstgrenze)",
+        "statusOrLevel": "2023年1月より早期老齢年金の在職所得上限を完全撤廃（年金＋給与全額受給）",
+        "keyFeature": "深刻な人手不足への対応と高齢者の労働参画を促すため、2023年1月より早期年金受給者に対する就労収入上限（Hinzuverdienstgrenze）を法律で完全撤廃。通常支給年齢（66〜67歳）以前であっても、給与額に関係なく年金を全額受給できるようになりました。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS) / ドイツ年金保険 (DRV)",
+          "title": "Wegfall der Hinzuverdienstgrenze bei Altersrenten",
+          "url": "https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Allgemeine-Informationen/Wissenswertes-zur-Rente/Zusatzeinkommen_Gesetzesaenderungen/hinzuverdienstgrenzen.html"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国家年金受給と就労 (Working after State Pension age)",
+        "statusOrLevel": "年金支給年齢到達後は就労収入による年金減額なし（さらに国民保険料が免除）",
+        "keyFeature": "国家年金（State Pension）支給開始年齢（現行66歳）に達した後は、就労を継続して高額給与を得ても年金は減額されず全額支給。さらに労働者本人の国民保険料（National Insurance）納付義務が免除されるため、シニア就労が手厚く促進されています。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "Working after State Pension age - Earnings and National Insurance",
+          "url": "https://www.gov.uk/working-after-state-pension-age"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "年金・就労合算制度 (Cumul emploi-retraite intégral)",
+        "statusOrLevel": "満額年金受給権を満たしていれば、就労収入の上限なく年金全額受給可能",
+        "keyFeature": "法定退職年齢に達し満額年金の拠出要件を満たした受給者は、制限なく給与と年金を100%全額併給可能。さらに2023年改革により、就労継続によって新たな追加年金受給権（Droits nouveaux）を蓄積できる仕組みが導入されました。",
+        "source": {
+          "organization": "フランス公共サービス公式 (Service-Public.fr)",
+          "title": "Cumul emploi-retraite : règles et conditions",
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F13243"
+        }
+      }
+    ]
   }
 }

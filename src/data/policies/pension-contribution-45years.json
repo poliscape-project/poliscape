@@ -247,5 +247,63 @@
         "commentStandard": "「実質的な支給開始年齢引き上げへの布石ではないかという不信感が拭えない」"
       }
     ]
+  },
+  "international": {
+    "title": "公的年金（基礎年金）の納付期間延長（45年化）の国際比較",
+    "comparisonSummary": "少子高齢化に伴う年金財政の持続可能性確保と基礎年金の給付水準底上げのため、日本の国民年金（基礎年金）の保険料納付期間を現行の『20歳〜60歳（40年間）』から『65歳まで（45年間）』へ延長する案が議論されています。欧州主要国ではすでに満額年金の受給要件として40年〜45年程度の拠出期間が義務付けられており、ドイツの45年拠出早期満額年金やフランスの43年（172四半期）納付要件など、実質的な拠出期間の長期化が定着しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "法定年金保険 (Gesetzliche Rentenversicherung) - 45年拠出特例",
+        "statusOrLevel": "満額早期年金（特別長期被保険者）の受給要件として『45年間の保険料拠出』を規定",
+        "keyFeature": "原則の標準支給年齢（67歳へ引上げ中）より前に減額なし（満額）で年金を受給するには、45年間の保険料拠出期間（育児期間等を含む）が法律上の必須要件。45年納付が老齢年金の充実した受給における中核基準として位置づけられています。",
+        "source": {
+          "organization": "ドイツ年金保険 (Deutsche Rentenversicherung - DRV)",
+          "title": "Altersrente für besonders langjährig Versicherte (45 Jahre)",
+          "url": "https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Kurz-vor-der-Rente/Wann-kann-ich-in-Rente-gehen/Altersrente-fuer-besonders-langjaehrig-Versicherte/altersrente-fuer-besonders-langjaehrig-versicherte_node.html"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "一般老齢年金制度 (Régime général de retraite) ＆ 2023年年金改革法",
+        "statusOrLevel": "満額年金（Taux plein）受給に『43年間（172四半期）の保険料納付』を法定義務化",
+        "keyFeature": "2023年年金改革法により、法定退職年齢を62歳から64歳へ引き上げるとともに、減額なしの満額受給に必要な保険料拠出期間を43年間（172四半期）へ延長。納付期間が不足している場合は年金受給額が比例して減額（Décote）されます。",
+        "source": {
+          "organization": "フランス公共サービス公式 (Service-Public.fr) / 全国老齢年金基金 (Cnav)",
+          "title": "Retraite d'un salarié : durée de cotisation et taux plein",
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F13890"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "新国家年金 (New State Pension) - 国民保険料拠出要件",
+        "statusOrLevel": "新国家年金の満額受給には『35年間の適格年（Qualifying Years）』拠出が必要",
+        "keyFeature": "2016年に導入された単一レートの新国家年金では、満額受給のために最低35年間の国民保険（National Insurance）納付実績が必須（受給資格自体は最低10年）。受給開始年齢も66歳から段階的に67歳・68歳へ引き上げられています。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "The New State Pension - How it's calculated and qualifying years",
+          "url": "https://www.gov.uk/new-state-pension/how-its-calculated"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦老齢年金 (Social Security OASDI) - 35年間最高所得算出法",
+        "statusOrLevel": "最低10年（40クレジット）で受給資格だが、給付額は『最高35年間の平均所得』で計算",
+        "keyFeature": "受給資格自体は40クレジット（実質10年就労）で得られるものの、年金受給額の算定基準（AIME）は生涯の『所得が高かった35年間』の平均値で計算。35年に満たない年数は『所得ゼロ』として算入されるため、長期間の拠出が給付額底上げに直結します。",
+        "source": {
+          "organization": "米国社会保障庁 (Social Security Administration - SSA)",
+          "title": "Social Security Benefit Calculation - 35 Highest-Earning Years",
+          "url": "https://www.ssa.gov/oact/cola/Benefits.html"
+        }
+      }
+    ]
   }
 }

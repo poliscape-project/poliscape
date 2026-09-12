@@ -217,5 +217,63 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "TrendingUp"
     }
-  ]
+  ],
+  "international": {
+    "title": "イノベーションボックス税制（特許所得減税）の国際比較",
+    "comparisonSummary": "研究開発（R&D）から生み出された特許権や著作権等の知的財産（IP）から得られるライセンス料や譲渡益に対し、通常の法人税率よりも大幅に低い税率を適用する『パテントボックス（イノベーションボックス）税制』は、欧州主要国を中心に広く普及しています。OECDのBEPSプロジェクト（ネクサス・アプローチ）に準拠した制度設計が国際標準となっており、日本も2024年度税制改正で『イノベーション拠点税制（所得控除率最大30%）』として創設しました。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "パテントボックス税制 (The Patent Box / 法人税法 CTA 2010 Part 8A)",
+        "statusOrLevel": "特許等から生じる適格商業利益に対する法人税率を10%に軽減（通常税率25%）",
+        "keyFeature": "英国知的所有権庁または欧州特許庁（EPO）等で付与された特許を利用した製品販売やライセンス所得に対し、通常の法人税率25%ではなく10%の優遇税率を適用。英国での研究開発活動と知的財産の国内保有を強力に奨励しています。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC / GOV.UK)",
+          "title": "Corporation Tax: The Patent Box guidance",
+          "url": "https://www.gov.uk/guidance/corporation-tax-the-patent-box"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "知的財産優遇税制 (IP Box / 一般租税法 CGI 第238条)",
+        "statusOrLevel": "適格知財（特許・保護されたソフトウェア等）の所得に10%軽減税率を適用",
+        "keyFeature": "特許および著作権保護されたオリジナルソフトウェアのライセンス収入や譲渡所得に対し、通常法人税率（25%）の半分以下である10%の軽減税率を適用。OECDのネクサス比率に基づき、フランス国内で実施されたR&D支出割合に応じて適用されます。",
+        "source": {
+          "organization": "フランス公共サービス公式 (Service-Public.fr) / 財務省",
+          "title": "Régime fiscal des brevets et actifs incorporels (IP Box)",
+          "url": "https://www.service-public.fr/professionnels-entreprises/vosdroits/F32963"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "イノベーションボックス (Innovatiebox / 法人税法第12条b)",
+        "statusOrLevel": "自社開発の適格無形資産から生じる利益への実効法人税率を9%に軽減",
+        "keyFeature": "オランダ企業誘致庁（RVO）から研究開発（WBSO）認定を受けた技術や特許から得られる利益に対し、標準法人税率（25.8%）を大幅に下回る実効税率9%を適用。多国籍ハイテク企業の研究開発拠点を誘致する中核税制となっています。",
+        "source": {
+          "organization": "オランダ税務庁 (Belastingdienst)",
+          "title": "Innovatiebox voor winst uit innovatieve activiteiten",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/vennootschapsbelasting/innovatiebox/"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "知財開発インセンティブ (Intellectual Property Development Incentive - IDI)",
+        "statusOrLevel": "特許・適格ソフトウェア著作権から生じるロイヤルティ所得に5%または10%優遇税率",
+        "keyFeature": "経済開発庁（EDB）が運用。シンガポール国内で行われた実質的な研究開発活動によって生み出された特許やソフトウェア著作権の商業化所得に対し、標準法人税率17%のところを5%または10%の特例優遇税率を最長10年間付与します。",
+        "source": {
+          "organization": "シンガポール経済開発庁 (Singapore EDB)",
+          "title": "Intellectual Property Development Incentive (IDI)",
+          "url": "https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html"
+        }
+      }
+    ]
+  }
 }

@@ -217,5 +217,63 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "CheckCircle2"
     }
-  ]
+  ],
+  "international": {
+    "title": "炭素国境調整措置（CBAM・炭素国境税）の国際比較",
+    "comparisonSummary": "脱炭素規制が緩い国からの安価な製品輸入による産業空洞化（カーボンリーケージ）を防ぐため、製品製造時に排出されたCO2量に応じて輸入時に炭素価格を課す『炭素国境調整措置（CBAM）』が欧州連合（EU）で世界で初めて始動しました。英国も2027年の導入を決定。米国でも同等の法案が審議されています。日本の鉄鋼・化学産業は高い脱炭素コストを負う中、EUや欧米のCBAMへの対応と、国内GX排出量取引制度（GX-ETS）の制度設計が急務となっています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU炭素国境調整メカニズム (CBAM規則 Regulation (EU) 2023/956)",
+        "statusOrLevel": "世界初の炭素国境税（鉄鋼・アルミ・セメント・肥料・水素・電力へ適用）",
+        "keyFeature": "2023年10月より排出量報告義務がスタートし、2026年より本格的な金銭賦課（CBAM証書の購入義務）を開始。輸出国で支払った炭素価格（炭素税や排出量取引）があればその分が控除されるため、取引国に脱炭素化を促す強力な国際的レバレッジとなっています。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - DG TAXUD)",
+          "title": "Carbon Border Adjustment Mechanism (CBAM) Regulation",
+          "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "英国版炭素国境調整措置 (UK CBAM)",
+        "statusOrLevel": "2027年導入決定（鉄鋼、アルミニウム、セメント、肥料、水素、セラミックス、ガラス）",
+        "keyFeature": "EUのCBAM開始に伴い自国市場への高炭素製品の流入を防ぐため、2027年よりUK CBAMを導入することを財務省が正式発表。英国排出量取引制度（UK ETS）の炭素価格と輸入品の炭素排出量に基づき国境で炭素賦課金を徴収します。",
+        "source": {
+          "organization": "英国財務省 (HM Treasury / GOV.UK)",
+          "title": "Introduction of a UK Carbon Border Adjustment Mechanism (CBAM)",
+          "url": "https://www.gov.uk/government/consultations/consultation-on-the-introduction-of-a-uk-carbon-border-adjustment-mechanism"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "クリーン競争法案 (Clean Competition Act - CCA) ＆ PROVE IT法案",
+        "statusOrLevel": "連邦議会で超党派の炭素国境関税法案が審議中",
+        "keyFeature": "国内産業の温室効果ガス原単位を基準とし、米国の平均原単位を超える化石燃料・鉄鋼・アルミ・紙パルプ等の輸入品に対し炭素排出量課徴金を課す超党派法案を議会で審議。インフレ抑制法（IRA）の巨額補助金と並ぶ米国の気候通商戦略の柱と位置づけられています。",
+        "source": {
+          "organization": "米国議会 (Congress.gov)",
+          "title": "S.3422 - Clean Competition Act (118th Congress)",
+          "url": "https://www.congress.gov/bill/118th-congress/senate-bill/3422"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "韓国排出量取引制度 (K-ETS) ＆ 対EU CBAM政府支援タスクフォース",
+        "statusOrLevel": "アジア最大の排出量取引制度を運用 ＋ 鉄鋼業界向けCBAM対応炭素算定支援",
+        "keyFeature": "2015年より全国規模のK-ETSを運用。EU向け鉄鋼輸出大国であるため、産業通商資源部が専従支援チームを設置し、中小企業向けにEU基準に適合する製品別カーボンフットプリント算定システムや脱炭素設備投資補助金を提供しています。",
+        "source": {
+          "organization": "大韓民国環境部 (ME) / 産業通商資源部 (MOTIE)",
+          "title": "Korea Emissions Trading Scheme (K-ETS) and CBAM response",
+          "url": "https://www.me.go.kr"
+        }
+      }
+    ]
+  }
 }

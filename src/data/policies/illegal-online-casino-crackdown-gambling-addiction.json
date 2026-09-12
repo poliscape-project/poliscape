@@ -185,5 +185,63 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Smartphone"
     }
-  ]
+  ],
+  "international": {
+    "title": "違法オンラインカジノ（オンカジ）摘発・決済代行規制の国際比較",
+    "comparisonSummary": "海外に拠点を置くオンラインカジノに国内からアクセスして賭博を行う行為は、日本では刑法185条（賭博罪）に違反する違法行為ですが、芸能人の関与や若年層の借金・ギャンブル依存症が深刻化しています。海外では、英国のように厳格な免許制と自己排除（GAMSTOP）を課して合法管理する国がある一方、シンガポールや豪州、米国のように無許可サイトへのアクセスをDNSブロッキングし、銀行や決済代行業者（PSP）に決済送金を法律で遮断させる強力な摘発措置が取られています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "2005年賭博法 (Gambling Act 2005) ＆ 賭博委員会 (UKGC) ライセンス制度",
+        "statusOrLevel": "厳格な政府認可制 ＋ クレジットカード賭博全面禁止 ＆ 全サイト一括自己排除",
+        "keyFeature": "オンライン賭博を完全ライセンス制で合法管理。未成年者保護のためクレジットカードでの賭博決済を2020年に全面禁止。全認可事業者に国の自己排除システム『GAMSTOP（1度の登録で全オンラインカジノから遮断）』への接続を義務付けています。",
+        "source": {
+          "organization": "英国賭博委員会 (Gambling Commission - UKGC)",
+          "title": "Credit cards and gambling rules - Gambling Act 2005",
+          "url": "https://www.gamblingcommission.gov.uk/public-and-players/guide/page/credit-cards-and-gambling"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "違法インターネット賭博取締法 (UIGEA 2006) ＆ 各州ライセンス制",
+        "statusOrLevel": "無認可サイトへの金融機関決済・送金を連邦法で全面遮断・犯罪化",
+        "keyFeature": "UIGEAに基づき、米国内の銀行やクレジットカード会社が無認可オンライン賭博業者への入出金決済を処理することを違法化。ニュージャージーやペンシルベニア等、州単位で認可ライセンスを取得した事業者のみが合法的に営業を許可されます。",
+        "source": {
+          "organization": "米国連邦準備制度理事会 (Federal Reserve - UIGEA)",
+          "title": "Prohibition on Funding of Unlawful Internet Gambling (Regulation GG)",
+          "url": "https://www.federalreserve.gov/supervisionreg/regg.htm"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "インタラクティブ賭博法 (Interactive Gambling Act 2001 - IGA)",
+        "statusOrLevel": "海外違法カジノサイトの通信遮断（DNSブロッキング） ＆ 決済遮断命令",
+        "keyFeature": "豪通信メディア庁（ACMA）が海外の無認可オンラインカジノを違法と指定し、国内インターネットサービスプロバイダ（ISP）に対しウェブサイトのドメインブロックを命令。銀行に対しても違法サイトへの送金停止を要請しています。",
+        "source": {
+          "organization": "オーストラリア通信メディア庁 (ACMA)",
+          "title": "Protecting Australians from illegal online gambling sites",
+          "url": "https://www.acma.gov.au/illegal-online-gambling"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "賭博規制法 (Gambling Regulatory Authority Act 2022)",
+        "statusOrLevel": "政府公認（Singapore Pools）以外の遠隔賭博を全面禁止・IP遮断・決済代行処罰",
+        "keyFeature": "旧遠隔賭博法を統合。内務省（MHA）と賭博規制庁（GRA）が、違法オンライン賭博サイトへのアクセスブロッキング、銀行決済遮断、および違法サイトの広告・決済代行に関与した仲介業者に重い刑事罰（禁錮刑・巨額罰金）を科しています。",
+        "source": {
+          "organization": "シンガポール賭博規制庁 (Gambling Regulatory Authority - GRA)",
+          "title": "Gambling Regulatory Authority of Singapore Act 2022",
+          "url": "https://www.gra.gov.sg/legislation/gambling-regulatory-authority-of-singapore-act"
+        }
+      }
+    ]
+  }
 }

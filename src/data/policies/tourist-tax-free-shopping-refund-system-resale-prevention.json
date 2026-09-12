@@ -186,5 +186,63 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "外国人旅行者向け免税手続き（リファンド方式移行）の国際比較",
+    "comparisonSummary": "訪日外国人向けの消費税免税制度において、日本は長年『店頭でパスポートを提示すればその場で消費税分を差し引いて販売する（即時免税方式）』を採用してきました。しかし、転売目的の大量購入や出国時に税関検査をすり抜けて国内転売し巨額の税金が徴収不能となる不正が横行したため、政府は店頭で一度消費税を徴収し空港出国時に現品を確認して税額を還付する『リファンド（事後還付）方式』への抜本転換を決定しました。欧州やアジア主要国では最初から空港でのリファンド方式が世界標準となっています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU付加価値税免税リファンド制度 (VAT Refund for non-EU tourists)",
+        "statusOrLevel": "店頭で通常税込購入 ＋ 出国空港税関で商品確認・スタンプ後に事後還付が標準",
+        "keyFeature": "EU全域で事後還付方式が基本。旅行者は店頭で付加価値税込みの全額を支払い、最終出国地の空港税関で未開封商品とレシートを提示して税関承認（フランスのPABLOキオスク等）を受けた後、払戻カウンターやカード経由で税金が還付されます。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - DG TAXUD)",
+          "title": "VAT refunds for non-EU visitors to the European Union",
+          "url": "https://taxation-customs.ec.europa.eu/taxation-1/value-added-tax-vat/vat-refunds-non-eu-visitors_en"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "外国人観光客事後免税制度 (Tax Refund) ＆ 即時還付限度額管理",
+        "statusOrLevel": "空港事後還付キオスク ＋ 店頭即時還付（1回100万ウォン・総額500万ウォンの厳格上限）",
+        "keyFeature": "空港での自動キオスクによる事後還付を基本としつつ、少額買い物客の利便性のため店頭即時還付も併用。ただし不正転売防止のためパスポートデータと連動した厳格な購入金額上限（1回100万ウォン、滞在総額500万ウォン）をシステムでリアルタイム管理しています。",
+        "source": {
+          "organization": "韓国国税庁 (NTS) / 韓国観光公社 (VisitKorea)",
+          "title": "Tax Refund Guide for Foreign Tourists",
+          "url": "https://www.nts.go.kr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "電子観光客払戻制度 (Electronic Tourist Refund Scheme - eTRS)",
+        "statusOrLevel": "パスポート連携の完全電子化リファンド（チャンギ空港キオスク自動還付）",
+        "keyFeature": "加盟店舗での購入データがパスポート番号に紐づいてeTRS中央データベースへ即時送信。出国時に空港の自動キオスクでパスポートをスキャンするだけで還付申請が完了。一定の高額品やランダム抽出された物品のみ税関検査官が実物確認を行います。",
+        "source": {
+          "organization": "シンガポール内国歳入庁 (IRAS)",
+          "title": "Tourist Refund Scheme (eTRS) Guidelines",
+          "url": "https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/tourist-refund-scheme"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "免税ショッピング制度廃止 (Abolition of Tax-Free Shopping 2021)",
+        "statusOrLevel": "2021年に訪英外国人向け免税購入制度（VAT Retail Export Scheme）を完全廃止",
+        "keyFeature": "ブレグジットに伴い、巨額の税収減（年約20億ポンド）や手続き不正を理由に、店舗での外国人免税制度を完全に廃止。空港から直送する場合等を除き、外国人旅行者も一般国民と同様に全額VAT（20%）を負担する極めて大胆な政策転換を行いました。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "Tax-free shopping for non-EU visitors ended in Great Britain",
+          "url": "https://www.gov.uk/tax-on-shopping/taxfree-shopping"
+        }
+      }
+    ]
+  }
 }

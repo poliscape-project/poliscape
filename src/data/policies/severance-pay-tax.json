@@ -247,5 +247,63 @@
         "commentStandard": "「退職金は賃金の後払い的性格が強く、実質的なサラリーマン増税につながると強い警戒感がある」"
       }
     ]
+  },
+  "international": {
+    "title": "退職所得課税（勤続20年超の控除優遇是正）の国際比較",
+    "comparisonSummary": "退職金に対する税負担を軽減する退職所得控除において、日本では勤続20年までは年40万円、20年を超えると年70万円へと控除額が急増する仕組みが取られてきました。これが『長期勤続・終身雇用を過度に優遇し、成長産業への労働移動・転職を阻害している』と指摘され、見直しが議論されています。欧米では一括退職金に対する特権的税制控除は少なく、解雇補償金への限定的非課税枠を除き通常所得として課税されるか、401(k)等の確定拠出年金による積立移行が標準となっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "退職手当課税 (Severance Pay Taxation) ＆ 401(k)年金移換",
+        "statusOrLevel": "退職手当（Severance Pay）は通常賃金として全額所得税・給与税の課税対象",
+        "keyFeature": "会社から支払われる一括退職金・解雇手当に特別な控除枠はなく、通常のボーナスと同様に連邦所得税や社会保障税が課税。老後資金は勤続年数に関係なく転職時にも非課税で口座移換（Rollover）できる401(k)やIRA等の確定拠出年金で形成するのが大前提です。",
+        "source": {
+          "organization": "米国税庁 (IRS)",
+          "title": "Publication 15 (Circular E) - Supplemental Wages and Severance Pay",
+          "url": "https://www.irs.gov/publications/p15"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "退職・解雇補償金非課税枠 (Termination Payments - £30,000 Exemption)",
+        "statusOrLevel": "解雇・退職補償金のうち最初の3万ポンド（約580万円）まで非課税、超過分は通常課税",
+        "keyFeature": "所得税法（ITEPA 2003）に基づき、雇用終了に伴う補償金（退職手当）のうち最大3万ポンドまで所得税および国民保険料を免除。勤続年数による控除格差はなく、一律3万ポンドを超過した金額には通常の累進所得税率が適用されます。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC / GOV.UK)",
+          "title": "Termination payments and redundancy pay taxation",
+          "url": "https://www.gov.uk/termination-payments-and-tax"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "退職解雇金5分割課税方式 (Fünftelregelung / 所得税法 EStG 第34条)",
+        "statusOrLevel": "退職金の税負担急増を抑えるため税額を5分割して計算する累進緩和特例",
+        "keyFeature": "退職金（Abfindung）自体は通常所得として課税されますが、一括受給による急激な累進課税を避けるため、退職所得の5分の1を当年の他所得に上乗せして生じた税額の増加分を5倍する『5分割法（Fünftelregelung）』で税負担を平準化します。",
+        "source": {
+          "organization": "ドイツ連邦財務省 (BMF)",
+          "title": "Einkommensteuergesetz (EStG § 34 Außerordentliche Einkünfte)",
+          "url": "https://www.gesetze-im-internet.de/estg/__34.html"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "解雇退職補償金税制 (Indemnités de rupture du contrat de travail)",
+        "statusOrLevel": "労働協約に基づく法定退職金は法定上限（社会保障上限の2倍）まで所得税免除",
+        "keyFeature": "定年退職時の自発的退職金は原則全額課税されますが、会社都合解雇や早期希望退職時の補償金は、労働法典で定められた最低補償額または社会保障年間上限（PASS）の2倍等の限度額まで所得税が免除されます。",
+        "source": {
+          "organization": "フランス公共サービス公式 (Service-Public.fr) / 財務省",
+          "title": "Régime fiscal des indemnités de rupture du contrat de travail",
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F408"
+        }
+      }
+    ]
   }
 }

@@ -217,5 +217,63 @@
         "commentStandard": "「いつでもすぐ診てもらえる日本の手厚い医療体制が維持できなくなる覚悟が必要なのかもしれない」"
       }
     ]
+  },
+  "international": {
+    "title": "医師の働き方改革（時間外労働上限規制・当直）の国際比較",
+    "comparisonSummary": "2024年4月に日本で施行された『医師の時間外労働上限規制』は、一般医師に年960時間（休日労働含む月100時間未満）、地域医療維持の特例病院（B水準・連携B水準・C水準）には年1,860時間という長時間労働が暫定的に認められています。一方、欧州連合（EU）では労働時間指令により医師を含む全労働者に『週平均48時間上限』と『当直明け11時間の連続休息』が義務化され、欧州司法裁判所判決により当直待機時間もすべて労働時間と認められています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU労働時間指令 (2003/88/EC) ＆ 欧州司法裁判所判例（SIMAP判決・Jaeger判決）",
+        "statusOrLevel": "医師を含む全労働者に週平均48時間労働上限 ＋ 待機当直もすべて労働時間認定",
+        "keyFeature": "欧州司法裁判所（ECJ）の判例により、病院内で待機する当直時間（On-call）は仮眠中であっても全額100%労働時間として算定。週48時間の上限順守と、夜間当直直後の11時間代償休息の付与が法律上厳格に義務付けられています。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - DG EMPL)",
+          "title": "Doctors and the Working Time Directive (2003/88/EC)",
+          "url": "https://employment-social-affairs.ec.europa.eu/policies-and-activities/working-conditions/working-time-directive_en"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS専攻医労働協約 (Junior Doctor Contract 2016/2019) ＆ 週48時間上限",
+        "statusOrLevel": "週平均労働時間48時間上限 ＆ 連続勤務最大13時間規制（当直明け即時休息）",
+        "keyFeature": "NHSの専攻医協約により、週労働時間は平均48時間以内、連続勤務時間は最大13時間までに制限。病院側が安全な勤務シフトを遵守しているかを監視する独立した役職『Guardian of Safe Working Hours』の設置が全NHSトラストに義務化されています。",
+        "source": {
+          "organization": "英国医師会 (British Medical Association - BMA) / NHS Employers",
+          "title": "Terms and Conditions of Service for NHS Doctors and Dentists in Training",
+          "url": "https://www.nhsemployers.org/articles/terms-and-conditions-service-nhs-doctors-and-dentists-training-england-2016"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "卒後医学教育認定評議会 (ACGME) 共通勤務時間基準",
+        "statusOrLevel": "レジデント（研修医・専攻医）の労働時間を週80時間上限・1当直最大24時間に制限",
+        "keyFeature": "ACGMEの認証基準により、研修医の勤務時間は4週平均で週80時間を超えてはならず、連続当直勤務は最大24時間（患者引き継ぎ等でさらに最大4時間）まで、当直の間隔は最低14時間の休息確保が義務付けられています。",
+        "source": {
+          "organization": "米国卒後医学教育認定評議会 (ACGME)",
+          "title": "ACGME Common Program Requirements - Section VI: The Learning and Working Environment",
+          "url": "https://www.acgme.org/programs-and-institutions/programs/common-program-requirements/"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "労働時間法 (ArbZG) ＆ 病院医師労働協約 (TV-Ärzte)",
+        "statusOrLevel": "待機勤務（Bereitschaftsdienst）を含む週労働時間の厳格管理と休息保障",
+        "keyFeature": "連邦労働時間法に基づき、当直勤務を含む週労働時間は原則48時間（労使協定によるオプトアウト時でも最大60時間）。当直明けは即座に最低11時間の連続休息を取らなければならず、シフト違反には労働監督署から高額な過料が科されます。",
+        "source": {
+          "organization": "ドイツ医師連盟 (Marburger Bund) / 連邦法制ポータル",
+          "title": "Tarifvertrag für Ärztinnen und Ärzte (TV-Ärzte) und Arbeitszeitgesetz",
+          "url": "https://www.marburger-bund.de/bundesvertretung/tarife/tv-aerzte"
+        }
+      }
+    ]
   }
 }

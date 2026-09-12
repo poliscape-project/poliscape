@@ -261,5 +261,63 @@
         "commentStandard": "「打ち上げ頻度の増大に伴う海上保安・空域規制が周辺漁業や観光に与える影響への配慮と十分な補償が不可欠だ」"
       }
     ]
+  },
+  "international": {
+    "title": "宇宙戦略基金（1兆円基金）・民間宇宙開発支援の国際比較",
+    "comparisonSummary": "急速に拡大する宇宙産業において、ロケット打上げや衛星コンステレーション、月面探査などの商業化を加速するため、国家が巨額の戦略基金や商業契約を通じてスタートアップを育成する競争が激化しています。米国はNASAの商業乗員輸送・月面着陸プログラム（CLPS等）によりSpaceX等のメガベンチャーを創出。欧州や中東でも国家ファンドによる出資が加速しています。日本もJAXAに『宇宙戦略基金（10年間で最大1兆円規模）』を創設し、民間主導の宇宙開発へ舵を切りました。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "NASA商業宇宙輸送プログラム (Commercial Crew/Cargo) ＆ アルテミスCLPS",
+        "statusOrLevel": "政府がアンカーテナント（最初の顧客）となり民間スタートアップを数兆円規模で育成",
+        "keyFeature": "従来の政府主導開発（コストプラス契約）から、民間が所有・運用するサービスを成果報酬型（マイルストーン払い）で政府が購入する調達方式へ大転換。SpaceXやRocket Labの急成長を支え、世界最強の民間宇宙エコシステムを構築しました。",
+        "source": {
+          "organization": "米航空宇宙局 (NASA)",
+          "title": "Commercial Space Transportation and Commercial Lunar Payload Services",
+          "url": "https://www.nasa.gov/humans-in-space/commercial-space/"
+        }
+      },
+      {
+        "country": "欧州宇宙機関",
+        "countryCode": "ESA",
+        "flag": "🇪🇺",
+        "systemName": "欧州宇宙機関 (ESA) 宇宙変革イニシアチブ (Boost! / Scale Up) ＆ 欧州委員会",
+        "statusOrLevel": "商業ランチャー競争公募（European Launcher Challenge）による民間ロケット支援",
+        "keyFeature": "アリアン6の遅延を契機に、ESAは商業化路線を大幅強化。民間スタートアップ（Isar Aerospace、Rocket Factory Augsburg等）を対象に商業打上げサービスを公募・助成するコンペティションを実施し、欧州の自立打上げ能力を再構築しています。",
+        "source": {
+          "organization": "欧州宇宙機関 (European Space Agency - ESA)",
+          "title": "ESA Commercialisation Gateway and Space Transformation",
+          "url": "https://commercialisation.esa.int/"
+        }
+      },
+      {
+        "country": "ルクセンブルク",
+        "countryCode": "LU",
+        "flag": "🇱🇺",
+        "systemName": "SpaceResources.lu イニシアチブ ＆ 宇宙戦略ベンチャーファンド",
+        "statusOrLevel": "欧州初の宇宙資源所有法制化 ＋ 国営投資信託による民間宇宙企業出資",
+        "keyFeature": "2017年に世界に先駆けて宇宙資源探査利用法を制定し、民間企業が採掘した月や小惑星の資源所有権を保障。政府主導の投資ファンド（Orbital Ventures）等を通じ、世界中から宇宙スタートアップを誘致し欧州の宇宙金融ハブとなりました。",
+        "source": {
+          "organization": "ルクセンブルク宇宙機関 (Luxembourg Space Agency - LSA)",
+          "title": "SpaceResources.lu Legal Framework and Commercial Support",
+          "url": "https://space-agency.public.lu/en.html"
+        }
+      },
+      {
+        "country": "アラブ首長国連邦",
+        "countryCode": "AE",
+        "flag": "🇦🇪",
+        "systemName": "国家宇宙基金 (National Space Fund) ＆ UAE宇宙庁商業化政策",
+        "statusOrLevel": "30億ディルハム（約1,200億円）規模の国家宇宙基金による民間育成と火星・小惑星探査",
+        "keyFeature": "石油依存脱却の国家戦略として宇宙産業を位置付け。2022年に30億ディルハムの国家宇宙ファンドを設立し、民間企業による高精度レーダー衛星コンステレーション開発や、宇宙探査プロジェクトへの民間参入を直接財政支援しています。",
+        "source": {
+          "organization": "UAE宇宙庁 (UAE Space Agency)",
+          "title": "National Space Fund and Commercial Space Activities",
+          "url": "https://space.gov.ae/"
+        }
+      }
+    ]
   }
 }
