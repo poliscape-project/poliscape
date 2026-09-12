@@ -127,5 +127,63 @@
       "type": "official_document",
       "typeLabel": "日弁連声明"
     }
-  ]
+  ],
+  "international": {
+    "title": "難民申請者の送還停止効と不法滞在者退去強制ルールの国際比較",
+    "comparisonSummary": "国際人権法上の重要原則である『ノン・ルフールマン原則（迫害の恐れがある国への送還禁止）』と、不法滞在者の不法滞在長期化や重大犯罪抑止のバランスは世界各国の大きな課題です。日本は難民認定率が1%未満と極めて低く、2024年の改正法で『3回目以降の申請は相当の理由がない限り送還可能』としました。欧州では数十万規模の申請を受け入れる一方、却下された者の迅速送還や入国前の国境審査（EU新移民協定）を強化するなど、国際的なルール改定が進んでいます。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Rückführungsverbesserungsgesetz (送還改善法 / 難民保護法)",
+        "statusOrLevel": "年間十数万件認定・2024年強制送還迅速化法",
+        "keyFeature": "年間数十万件の難民申請を受け、保護認定率も30〜50%超と世界最高水準ですが、却下された者の送還困難や治安問題を受け2024年に『送還改善法』を施行。送還拘留期間を最長28日に延長し、警察の捜索権限を強化。一方で人道的事情がある長期滞在者には合法的な滞在資格を与える『居住権機会法』を設ける二層アプローチをとっています。",
+        "source": {
+          "organization": "ドイツ連邦内務省 (BMI) / BAMF",
+          "title": "Rückführungsverbesserungsgesetz: Mehr Ordnung und schnellere Rückführungen",
+          "url": "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2024/01/rueckfuehrungsverbesserungsgesetz.html"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Illegal Migration Act 2023 (不法移民法) / 難民送還枠組み",
+        "statusOrLevel": "小型船不法入国者の申請無効化・強制送還強化",
+        "keyFeature": "ドーバー海峡を渡る小型船不法入国に対し、不正規入国者の難民申請権を原則認めず迅速に第三国や母国へ送還する強硬法を2023年に制定。論争を呼んだルワンダ移送計画は2024年の新労働党政権により撤回されましたが、不法入国者対策本部の新設や安全な国への強制送還フライトの執行など、退去強制の厳格執行が継続されています。",
+        "source": {
+          "organization": "英国政府・内務省 (Home Office / GOV.UK)",
+          "title": "Illegal Migration Act 2023 (GOV.UK)",
+          "url": "https://www.gov.uk/government/collections/illegal-migration-bill"
+        }
+      },
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "New Pact on Migration and Asylum (新移民・難民保護協定)",
+        "statusOrLevel": "2024年EU議会・理事会可決・2026年適用",
+        "keyFeature": "EU全域で統一された国境審査手続（スクリーニング）を導入。認定率の低い国からの申請者は国境施設で最長12週間以内に迅速審査し、却下者は直ちに送還。加盟国間での難民受け入れ分担（連帯メカニズム）を義務付け、受け入れを拒否する国には難民1人あたり2万ユーロの拠出金を課す画期的な共通枠組みです。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "The New Pact on Migration and Asylum",
+          "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/new-pact-migration-and-asylum_en"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "Private Sponsorship of Refugees (PSR) & IRPA法",
+        "statusOrLevel": "世界最高水準の難民定住支援枠組み",
+        "keyFeature": "政府による選定だけでなく、市民グループや慈善団体が直接スポンサーとなって難民の生活費や住居を1年間支援する『民間スポンサーシップ制度』を運用。年間数万人規模の難民を永住者として受け入れ、地域社会への定着と経済自立を両立させる模範的モデルとして国連等から高く評価されています。",
+        "source": {
+          "organization": "カナダ移民・難民・市民権省 (IRCC)",
+          "title": "How the Private Sponsorship of Refugees program works",
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/help-outside-canada/private-sponsorship-program.html"
+        }
+      }
+    ]
+  }
 }

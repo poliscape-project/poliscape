@@ -155,5 +155,67 @@
       "text": "マイナ顔認証・回数制限",
       "color": "bg-teal-50 text-teal-800"
     }
-  ]
+  ],
+  "international": {
+    "title": "統合型リゾート（IRカジノ）の自国民入場規制・ギャンブル依存症対策の国際比較",
+    "comparisonSummary": "巨額の観光消費や税収をもたらすカジノIR（統合型リゾート）は、経済起爆剤として世界中で導入されていますが、自国民のギャンブル依存症・多重債務・治安悪化の防止が最大の制度設計課題です。日本はシンガポールの先例を参考に『入場料6,000円』『マイナンバー管理による月10回上限』という厳格な規制を敷きました。自国民を1カ所のみに隔離する韓国、市場原理重視のアメリカなど、各国の政策方針が明確に分かれています。",
+    "countries": [
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Casino Control Act (カジノ規制法) / カジノ規制庁 (GRA)",
+        "amount": "自国民入場料: 1日150SGD（約1.7万円） / 年間3,000SGD（約34万円）",
+        "statusOrLevel": "公的家族排除命令制度（NCPG）の厳格運用",
+        "keyFeature": "自国民（市民・永住者）に対し高額な入場税を課して日常的利用を遮断。さらに国家ギャンブル問題評議会（NCPG）により、家族の申し立てでカジノ入場を法的に禁止できる『家族排除命令』や、破産者・公的扶助受給者を自動排除する仕組みを世界で初めて法制化し、治安維持に成功しました。",
+        "source": {
+          "organization": "シンガポール・ギャンブル規制庁 (GRA) / NCPG",
+          "title": "Casino Control Act / Casino Entry Levy (GRA)",
+          "url": "https://www.gra.gov.sg/"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "廃鉱地域開発支援に関する特別法 / 江原ランド (Kangwon Land)",
+        "amount": "入場料9,000ウォン（約1,000円）",
+        "statusOrLevel": "国内17カ所中、自国民入場可能は山奥の1カ所のみ",
+        "keyFeature": "ソウルや釜山、済州島など国内16カ所のカジノはすべて『外国人専用』と定め、自国民の立ち入りを法律で全面禁止。自国民が入場できる唯一の公認カジノは、旧産炭地振興のために特例許可された江原道山奥の『江原ランド』のみで、月間15日までの入場日数制限や住民排除制度が適用されています。",
+        "source": {
+          "organization": "大韓民国文化体育観光部 (MCST) / 射幸産業統合監督委員会",
+          "title": "観光振興法（カジノ業規定）および江原ランド現況",
+          "url": "https://www.mcst.go.kr/"
+        }
+      },
+      {
+        "country": "アメリカ（ネバダ州）",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Nevada Gaming Control Act / ネバダ州ゲーミング管理委員会",
+        "amount": "入場料無料（誰でも出入り自由）",
+        "statusOrLevel": "21歳以上入場可・自己申告除外プログラム",
+        "keyFeature": "ラスベガスに代表されるように入場料や入場回数の公的制限は一切なく、自由な商業エンターテインメントとして発展。規制はマネーロンダリング防止（銀行秘密法）や不正ゲーム防止が中心。依存症対策としては本人が自発的に入場禁止を登録する『自己排除プログラム（Self-Exclusion）』が各カジノおよび州法で用意されています。",
+        "source": {
+          "organization": "ネバダ州ゲーミング管理委員会 (Nevada Gaming Control Board)",
+          "title": "Nevada Gaming Control Act & Regulations",
+          "url": "https://gaming.nv.gov/"
+        }
+      },
+      {
+        "country": "モナコ公国",
+        "countryCode": "MC",
+        "flag": "🇲🇨",
+        "systemName": "Loi sur les jeux de hasard (ギャンブル法)",
+        "amount": "公的入場料（外国人観光客のみ）",
+        "statusOrLevel": "モナコ国民（自国民）のカジノ賭博全面禁止",
+        "keyFeature": "世界最古級の歴史を誇るカジノ・ド・モンテカルロを擁しながら、1987年の法律により『モナコ国籍を持つ自国民のカジノへの入場および賭博行為』を法律で完全に禁止。国庫収入の約大半を外国人富裕層観光客から獲得しつつ、自国民をギャンブルの害から法的に100%隔離するユニークな国策をとっています。",
+        "source": {
+          "organization": "モナコ公国政府 (Gouvernement Princier de Monaco)",
+          "title": "Législation sur les jeux de hasard en Principauté",
+          "url": "https://www.gouv.mc/"
+        }
+      }
+    ]
+  }
 }

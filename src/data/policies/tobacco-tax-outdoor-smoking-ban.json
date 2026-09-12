@@ -127,5 +127,69 @@
       "type": "official_document",
       "typeLabel": "厚労省健康増進ポータル"
     }
-  ]
+  ],
+  "international": {
+    "title": "タバコ税・小売価格と路上・公共空間の喫煙規制の国際比較",
+    "comparisonSummary": "世界保健機関（WHO）のたばこ規制枠組条約（FCTC）に基づき、主要先進国ではタバコ価格の大幅引き上げ（重課税）と受動喫煙防止規制が加速しています。日本の1箱約600円に対し、オーストラリアは世界最高の4,000円超、イギリスは2,500円超に達し、さらに次世代への一生販売禁止法案を進めています。屋外規制においても、自治体による過料条例にとどまる日本に対し、ビーチや公園、学校周辺などを国家規模で法律禁止する国が主流となっています。",
+    "countries": [
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Tobacco Plain Packaging Act & 段階的タバコ重課税",
+        "amount": "1箱約40〜50豪ドル（約4,000〜5,000円、税率約70%超）",
+        "ageLimit": "18歳未満販売禁止",
+        "statusOrLevel": "世界最高水準の価格・プレーンパッケージ義務化",
+        "keyFeature": "世界で初めてブランドロゴや装飾を全廃し、病変写真とオリーブブラウン一色の包装を義務付ける『プレーンパッケージ法』を2012年に導入。毎年定期的にタバコ税を連続引き上げ、1箱4,000円以上の超高額に設定することで若年層の喫煙開始を徹底的に抑え込み、喫煙率10%未満を達成しました。",
+        "source": {
+          "organization": "オーストラリア保健・高齢者福祉省 (Department of Health and Aged Care)",
+          "title": "Tobacco control legislation and plain packaging",
+          "url": "https://www.health.gov.au/topics/smoking-and-tobacco/tobacco-control"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Tobacco and Vapes Bill (煙のない世代法案) & 高額課税",
+        "amount": "1箱約15〜16ポンド（約3,000円前後）",
+        "ageLimit": "2009年以降生まれへの生涯購入禁止（法案進行中）",
+        "statusOrLevel": "世代別タバコ永久禁止法案（Tobacco-free generation）",
+        "keyFeature": "高額課税に加え、画期的な『Tobacco and Vapes Bill』を議会で推進。2009年1月1日以降に生まれた子どもたちに対し、将来成人しても一生タバコを購入できないように購入可能年齢を毎年1歳ずつ引き上げる法律を審議。次世代から喫煙習慣を完全に根絶する先駆的政策です。",
+        "source": {
+          "organization": "英国政府 (GOV.UK)",
+          "title": "Tobacco and Vapes Bill: creating a smokefree generation",
+          "url": "https://www.gov.uk/government/publications/the-tobacco-and-vapes-bill"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Programme national de lutte contre le tabagisme (PNLT)",
+        "amount": "1箱12ユーロ（約2,000円、2025年に13ユーロ目標）",
+        "statusOrLevel": "屋外公共スペース（公園・海岸・学校前）全面禁煙化",
+        "keyFeature": "国家タバコ対策計画（PNLT）に基づき、公共のビーチ、公園、森林、学校の周辺エリアでの屋外喫煙を法律で全面的に禁止。紙巻きタバコだけでなく使い捨て電子タバコ（Puff）の販売禁止法も成立させ、屋外公共空間からの煙の排除を国家主導で強力に推進しています。",
+        "source": {
+          "organization": "フランス保健省 (Ministère de la Santé)",
+          "title": "Programme national de lutte contre le tabagisme (PNLT 2023-2027)",
+          "url": "https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Smoking (Prohibition in Certain Places) Act & 電子タバコ全面禁止",
+        "amount": "1箱約15シンガポールドル（約1,700円）",
+        "statusOrLevel": "電子タバコ・加熱式タバコ所持・輸入全面禁止（罰金・禁錮刑）",
+        "keyFeature": "公道沿いの屋根付き歩道、バス停半径5メートル、公園、貯水池など公共空間のほぼ全域で屋外喫煙を禁止（違反過料最大1,000SGD）。さらにベイプ（電子タバコ）や加熱式タバコは輸入・販売だけでなく個人の所持・使用も全面違法とされ、最高2,000ドルの罰金が科される世界最高峰の厳格規制を敷いています。",
+        "source": {
+          "organization": "シンガポール国家環境庁 (NEA) / 保健科学庁 (HSA)",
+          "title": "Smoking Prohibition in Certain Places (NEA)",
+          "url": "https://www.nea.gov.sg/our-services/smoking-prohibition/overview"
+        }
+      }
+    ]
+  }
 }

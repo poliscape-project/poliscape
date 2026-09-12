@@ -127,5 +127,63 @@
       "type": "official_document",
       "typeLabel": "経産省省令基準"
     }
-  ]
+  ],
+  "international": {
+    "title": "使い捨てプラスチック製品（カトラリー・アメニティ）規制の国際比較",
+    "comparisonSummary": "海洋プラスチック汚染防止やカーボンニュートラルに向け、レジ袋に続く使い捨てプラスチック（スプーン、フォーク、ストロー、歯ブラシ等）の削減規制が世界中で強化されています。日本は『プラスチック資源循環促進法』により有料化や代替素材の選択を事業者に促す自主的・インセンティブ型アプローチをとる一方、欧州連合（EU）は特定使い捨てプラ製品の流通・販売を法律で全面禁止し、フランスはファストフード店内での使い捨て食器を完全違法化するなど、強硬な法規制が進んでいます。",
+    "countries": [
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "Single-Use Plastics Directive (特定使い捨てプラスチック禁止指令 / SUP指令)",
+        "statusOrLevel": "2021年全面施行（市場流通の完全禁止）",
+        "keyFeature": "代替品が存在する使い捨てプラスチック製品10品目（プラスチック製の皿、フォーク、スプーン、ナイフ、ストロー、綿棒の軸、風船の柄、発泡ポリスチレン製容器・カップ等）について、EU域内市場への出荷・販売を法律で全面的に禁止。有料化ではなく『流通そのものを違法化』する世界で最も強力な直接規制です。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Single-use plastics: EU rules to reduce marine litter",
+          "url": "https://environment.ec.europa.eu/topics/plastics/single-use-plastics_en"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Loi AGEC (循環経済・食品廃棄防止法 第2020-105号)",
+        "statusOrLevel": "2023年施行（店内飲食時の使い捨て食器全面禁止）",
+        "keyFeature": "EU指令をさらに上回り、座席数20席以上の飲食店（マクドナルド等のファストフード店含む）に対し、店内飲食時の使い捨て食器・カップ・カトラリーの提供を法律で完全禁止。洗って何度も使える硬質プラスチックやガラス・陶器製食器の導入を義務付けました。さらに青果物のプラスチック包装も段階的に禁止されています。",
+        "source": {
+          "organization": "フランス生態移行・領土統合省 (MTE)",
+          "title": "La loi anti-gaspillage pour une économie circulaire (Loi AGEC)",
+          "url": "https://www.ecologie.gouv.fr/politiques-publiques/loi-anti-gaspillage-economie-circulaire-agec"
+        }
+      },
+      {
+        "country": "アメリカ（カリフォルニア州）",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "SB 54 (プラスチック汚染防止・包装生産者責任法)",
+        "statusOrLevel": "2022年成立・全米最強の拡大生産者責任 (EPR)",
+        "keyFeature": "2032年までに州内の使い捨てプラスチック包装および飲食器具を25%削減し、流通する包装の100%をリサイクル可能または堆肥化可能にすることを義務化。プラスチック業界に対し年間5億ドルの環境基金拠出を義務付けるなど、消費者への有料化ではなく『製造・販売企業への直接課金・削減義務』を課しています。",
+        "source": {
+          "organization": "カリフォルニア州資源リサイクル回収局 (CalRecycle)",
+          "title": "Plastic Pollution Prevention and Packaging Producer Responsibility Act (SB 54)",
+          "url": "https://calrecycle.ca.gov/packaging/packaging-epr/"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Environmental Protection (Single-use Plastic Items) Regulations",
+        "statusOrLevel": "2023年10月全面施行（イングランド全域販売禁止）",
+        "keyFeature": "飲食店やテイクアウト店において、使い捨てプラスチック製の皿、ボウル、トレイ、カトラリー、風船用スティック、ポリスチレン製容器の提供を全面禁止。オンライン販売や実店舗の小売販売も対象とし、違反した小売店や飲食店には地方自治体による検査・無制限の罰金が科されます。",
+        "source": {
+          "organization": "英国環境・食糧・農村地域省 (Defra / GOV.UK)",
+          "title": "Single-use plastics bans and restrictions in England",
+          "url": "https://www.gov.uk/guidance/single-use-plastics-bans-and-restrictions"
+        }
+      }
+    ]
+  }
 }

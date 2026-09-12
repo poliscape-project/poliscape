@@ -217,5 +217,63 @@
         "commentStandard": "「金融所得増税を口にするだけで株価が急落する。企業の資金調達や日本経済の活力を奪う愚策だ」"
       }
     ]
+  },
+  "international": {
+    "title": "株式売却益・配当所得への課税方式（金融所得課税）の国際比較",
+    "comparisonSummary": "所得税の累進課税により高所得者ほど高い税率が課される一方で、株式譲渡益や配当などの金融所得に対しては定率課税（日本は20.315%）が適用されるため、年収1億円を超えると実質的な税負担率が低下する『1億円の壁』が問題視されています。主要先進国では、短期投資を総合累進課税とする米国、配当所得に高い累進税率を課す英国、富裕層に高率フラットタックスを課すフランスなど、投資促進と富裕層適正課税のバランスが模索されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Capital Gains Tax (資本利得税) & Net Investment Income Tax (NIIT)",
+        "statusOrLevel": "保有期間に応じた分離・累進課税＋富裕層付加税",
+        "keyFeature": "1年未満の短期保有株式の売却益は給与所得と合算され、最高37%の通常所得税率（累進課税）が適用されます。1年超の長期保有は0%/15%/20%の優遇税率ですが、高所得層（単身年収20万ドル以上等）には医療保険改革法に基づく3.8%の純投資所得税（NIIT）が上乗せされ、実効税率は連邦だけで最大23.8%（州税が加わると最大30%超）に達します。",
+        "source": {
+          "organization": "米国内国歳入庁 (IRS)",
+          "title": "Topic no. 409 Capital gains and losses / Net Investment Income Tax",
+          "url": "https://www.irs.gov/taxtopics/tc409"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Capital Gains Tax (CGT) & Dividend Tax (配当税)",
+        "statusOrLevel": "キャピタルゲイン税率引き上げ・配当所得の階層別累進",
+        "keyFeature": "非課税口座（ISA）は年間2万ポンドまで恒久非課税として保護する一方、一般口座の株式等売却益（CGT）は基本税率10%・上位所得者20%（最新予算案で18%・24%へ引き上げ）。配当所得には所得階層に応じて8.75%、33.75%、最高39.35%（Additional rate）という給与所得並みの高い税率が課されます。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC / GOV.UK)",
+          "title": "Capital Gains Tax rates and Dividend tax rates",
+          "url": "https://www.gov.uk/capital-gains-tax/rates"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Prélèvement Forfaitaire Unique (PFU / 通称フラットタックス 30%)",
+        "statusOrLevel": "一律30%課税 または 総合累進課税の選択制",
+        "keyFeature": "2018年のマクロン改革で導入された『PFU（一律定率課税）』により、利子・配当・売却益に一律30%（所得税12.8%＋社会保障拠出金17.2%）が課されます。ただし低所得者には通常の総合累進課税（最高45%）を選択する権利が保障されています。さらに富裕層には高額所得者特別寄付金（CEHR）が最大4%上乗せされます。",
+        "source": {
+          "organization": "フランス財政・公会計省 (DGFiP)",
+          "title": "Le prélèvement forfaitaire unique (PFU)",
+          "url": "https://www.economie.gouv.fr/particuliers/prelevement-forfaitaire-unique-pfu"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Abgeltungsteuer (資本所得源泉一括分離課税)",
+        "statusOrLevel": "一律25%（＋連帯付加税等で実効約26.375%）",
+        "keyFeature": "配当や売却益に対し一律25%の源泉分離課税が課され、連帯付加税5.5%を加えると実質26.375%（教会税がある場合は最大約28%）。年間1,000ユーロ（夫婦2,000ユーロ）の小額控除（Sparer-Pauschbetrag）が設けられ、個人の通常所得税率が25%を下回る場合は確定申告により有利な税率を選択できます。",
+        "source": {
+          "organization": "ドイツ連邦財務省 (BMF)",
+          "title": "Abgeltungsteuer auf Kapitalerträge",
+          "url": "https://www.bundesfinanzministerium.de/"
+        }
+      }
+    ]
   }
 }

@@ -217,5 +217,63 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "外国人低・中技能労働者の受入れ・転職制限（育成就労）の国際比較",
+    "comparisonSummary": "少子高齢化に伴う深刻な人手不足に対し、外国人労働者をどう受け入れるかは先進国共通の死活問題です。日本は『国際貢献』を名目とした技能実習制度を廃止し、本音の人手不足対策である『育成就労制度』へ移行して転職（転籍）制限を1〜2年に緩和しました。一方、韓国は政府主導の雇用許可制（EPS）を運用し、ドイツは新ポイント制（チャンスカード）で世界から労働者を誘致、シンガポールは厳格な管理と階層分断を徹底するなど、受入れの哲学が大きく異なります。",
+    "countries": [
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "雇用許可制 (Employment Permit System: EPS)",
+        "statusOrLevel": "2004年導入・政府間G2G直接管轄",
+        "keyFeature": "日本が民間監理団体を通じていたのに対し、韓国は送出国政府と二国間協定（MOU）を結び、政府機関（HRD Korea）が直接労働者を選定・斡旋。ブローカー搾取を排除しました。滞在期間は最長4年10ヶ月（再入国で延長可能）。原則として職場変更は3回までに制限されますが、事業主の法令違反時は無制限転職が認められています。",
+        "source": {
+          "organization": "大韓民国雇用労働部 (MOEL) / HRD Korea",
+          "title": "Employment Permit System (EPS) Overview",
+          "url": "https://www.eps.go.kr/"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Chancenkarte (チャンスカード / 熟練労働者移民法改正)",
+        "statusOrLevel": "2024年6月施行（ポイント制求職ビザ）",
+        "keyFeature": "EU域外の労働者を対象に、学歴、職歴、ドイツ語または英語能力、年齢などを点数化する『チャンスカード（ポイント制）』を導入。就職先が決まっていなくても最大1年間の求職滞在を認め、滞在中の週20時間のアルバイトも容認。深刻な労働力不足を解消するため、世界中の若手求職者に門戸を開放しています。",
+        "source": {
+          "organization": "ドイツ連邦内務省 (BMI) / Make it in Germany",
+          "title": "The Opportunity Card (Chancenkarte) for jobseekers",
+          "url": "https://www.make-it-in-germany.com/en/visa-residence/types/job-search-opportunity-card"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Work Permit (低熟練外国人労働者就労許可制度)",
+        "statusOrLevel": "人材開発省 (MOM) による厳格な階層管理",
+        "keyFeature": "建設・製造・家事労働者などに『ワークパーミット（WP）』を発給。最低賃金はなく、雇用主には外国人雇用税（Levy）の月額納付と国籍別比率規制（Quota）が課されます。自国民雇用を守るため家族帯同や永住権申請は不可、就労中の妊娠は即時帰国処分となるなど、極めて実利主義的で厳格な管理統制が敷かれています。",
+        "source": {
+          "organization": "シンガポール人材開発省 (MOM)",
+          "title": "Work Permit for foreign workers (Ministry of Manpower)",
+          "url": "https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "PALM scheme (太平洋オーストラリア労働移動スキーム)",
+        "statusOrLevel": "政府公認・太平洋島嶼国からの季節労働・技能移転",
+        "keyFeature": "農業や介護などの人手不足分野において、太平洋島嶼国からの労働者を一時受け入れ。雇用主には現地基準と同等の最低賃金支払い、適正な住居提供、労働組合へのアクセス保障が義務付けられ、人権侵害に対しては政府認定雇用主資格の剥奪など厳しい罰則が適用されます。",
+        "source": {
+          "organization": "オーストラリア外務貿易省 (DFAT) / PALM Scheme",
+          "title": "Pacific Australia Labour Mobility (PALM) scheme",
+          "url": "https://www.palmscheme.gov.au/"
+        }
+      }
+    ]
+  }
 }

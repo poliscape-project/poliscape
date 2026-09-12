@@ -205,5 +205,63 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "法律上の性別変更要件（手術要件・自己決定方式）の国際比較",
+    "comparisonSummary": "戸籍や公的身分証の性別記載を変更する法的要件について、かつて世界中で課されていた『生殖不能手術（不妊手術）の強制』は、世界保健機関（WHO）や欧州人権裁判所（ECHR）により人権侵害（拷問の禁止・身体の不可侵権侵害）と断定されました。欧州諸国を中心に医療的診断や手術を一切不要とする『自己決定方式（Self-determination）』への移行が相次いでいます。一方、女性専用スペース（公衆浴場・更衣室・女子スポーツ）の保護と安全基準を巡る法制度の調和が各国の議論の焦点となっています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Selbstbestimmungsgesetz (性別記載自己決定法 / SBGG)",
+        "statusOrLevel": "2024年11月全面施行（完全自己決定方式）",
+        "keyFeature": "従来の性同一性障害法（TSG）を廃止し、医学的診断書や鑑定書、手術を一切不要化。戸籍役場に申請し3ヶ月の熟慮期間を経るだけで性別と氏名の変更が可能になりました。一方で、民間施設の利用（サウナや更衣室等）については施設管理権（Hausrecht）に基づき身体的特徴に応じた入場制限を行える旨を法律上明記し、社会調和を図っています。",
+        "source": {
+          "organization": "ドイツ連邦家族・高齢者・女性・青少年省 (BMFSFJ) / 連邦法務省",
+          "title": "Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag (SBGG)",
+          "url": "https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/queerpolitik-und-geschlechtliche-vielfalt/gesetz-ueber-die-selbstbestimmung-in-bezug-auf-den-geschlechtseintrag-sbgg-224546"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "Ley Trans (トランスジェンダー法 / 法律第4/2023号)",
+        "statusOrLevel": "2023年3月施行（自己申告制）",
+        "keyFeature": "ホルモン治療歴や医師の診断書の提出義務を撤廃。16歳以上であれば本人の自由な意志表明（自己申告）のみで身分証の性別変更が可能（14〜15歳は保護者の同意、12〜13歳は司法許可）。性別変更前の配偶者暴力等に対する法的責任は変更前の性別で追及されるなど、制度の悪用防止規定が設けられています。",
+        "source": {
+          "organization": "スペイン官報 (BOE) / 平等省",
+          "title": "Ley 4/2023 para la igualdad real y efectiva de las personas trans",
+          "url": "https://www.boe.es/eli/es/l/2023/02/28/4"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Gender Recognition Act 2004 (性別承認法 / GRA)",
+        "statusOrLevel": "医療診断を要する性別承認パネル（GRP）審査制",
+        "keyFeature": "生殖手術は不要ですが、性同一性障害の医学的診断書および移行先性別での『2年間の生活実績』の提出が必須。スコットランド議会が2022年に自己申告制への緩和法案を可決したものの、女性専用スペースの権利を保護する英平等法（Equality Act 2010）との衝突を懸念した英国中央政府が憲法史上初の拒否権を行使して阻止し、議論が続いています。",
+        "source": {
+          "organization": "英国政府 (GOV.UK)",
+          "title": "Apply for a Gender Recognition Certificate (GOV.UK)",
+          "url": "https://www.gov.uk/apply-gender-recognition-certificate"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "州法による身分証管理 & 国務省パスポート規則",
+        "statusOrLevel": "州ごとに大きく二極化（連邦パスポートは自己申告可）",
+        "keyFeature": "連邦パスポートは医療証明なしで『M/F/X』の自己選択が可能。一方、運転免許証や出生証明書の変更要件は州法に委ねられており、カリフォルニア州やニューヨーク州など自己申告のみで変更できる州がある一方、南部諸州では手術証明を必須とするか性別変更自体を禁止するなど、全米で政策が激しく分断しています。",
+        "source": {
+          "organization": "アメリカ合衆国国務省 (U.S. Department of State)",
+          "title": "Selecting your Gender Marker for U.S. Passports",
+          "url": "https://travel.state.gov/content/travel/en/passports/need-passport/selecting-your-gender-marker.html"
+        }
+      }
+    ]
+  }
 }

@@ -205,5 +205,71 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Globe"
     }
-  ]
+  ],
+  "international": {
+    "title": "緊急避妊薬（アフターピル）の薬局アクセス・処方箋要件の国際比較",
+    "comparisonSummary": "性交後72時間以内の服用が必要な緊急避妊薬（レボノルゲストレル等）は、世界保健機関（WHO）が『必須医薬品』に指定し、世界約90カ国以上で医師の処方箋なしに薬局で即時購入が可能です。欧州では年齢制限なく無料または数千円程度で入手でき、アメリカでも市販薬として棚から直接購入できます。一方、日本は長年『産婦人科受診と医師の処方箋』が必須とされ、現在は一部薬局での試験運用（面前服用・7000〜9000円）にとどまっており、女性の健康アクセスとリプロダクティブ・ライツを巡る国際的議論の焦点となっています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Pilule du lendemain gratuite en pharmacie (薬局無料提供制度)",
+        "amount": "全女性に100%無料（公的保険全額給付）",
+        "ageLimit": "全年齢（未成年者・成人問わず）",
+        "incomeLimit": "なし（処方箋不要・身分証提示のみ）",
+        "keyFeature": "2023年1月から社会保障法改正により、未成年者だけでなく成人女性を含むすべての女性に対し、医師の処方箋なしで薬局窓口で即時かつ完全無料で緊急避妊薬を提供する制度を開始。健康保険証がなくても秘密保持のもと提供され、望まない妊娠と人工妊娠中絶の予防を国家が最優先で支援しています。",
+        "source": {
+          "organization": "フランス保健省 (Ministère de la Santé) / Service-Public",
+          "title": "Contraception d'urgence : la pilule du lendemain est gratuite pour toutes",
+          "url": "https://www.service-public.fr/particuliers/actualites/A16260"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Emergency contraception over-the-counter (NHS薬局提供 & OTC)",
+        "amount": "NHS薬局で無料、または市販薬として約15〜35ポンド（約3,000〜6,000円）",
+        "ageLimit": "16歳以上（薬局購入） / 13歳以上（NHS相談）",
+        "incomeLimit": "なし（処方箋不要）",
+        "keyFeature": "2001年から薬局での処方箋なし販売（P薬: Pharmacy Medicine）を解禁。全英の多くのNHS契約薬局（Bootsなど）では、薬剤師の簡単な問診を受けるだけで完全無料で提供されます。民間のドラッグストアでも年齢確認の上で処方箋なしで即日店頭購入できます。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS)",
+          "title": "Emergency contraception (morning after pill, IUD)",
+          "url": "https://www.nhs.uk/contraception/methods-of-contraception/emergency-contraception/"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Plan B One-Step (FDA認可一般用医薬品 OTC)",
+        "amount": "市販価格 約40〜50ドル（ジェネリック品は10〜20ドル前後）",
+        "ageLimit": "年齢制限なし（誰でも購入可能）",
+        "incomeLimit": "なし（処方箋不要・ID提示不要）",
+        "keyFeature": "2013年のFDA（食品医薬品局）決定により、年齢制限や身分証明書の提示義務が完全撤廃され、ドラッグストアやスーパーの一般医薬品棚（OTC）に陳列。処方箋なし、薬剤師への相談も不要で、男性パートナーも含め誰でもレジで直接購入可能です。",
+        "source": {
+          "organization": "アメリカ食品医薬品局 (FDA)",
+          "title": "FDA's Decision on Plan B One-Step",
+          "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/fdas-decision-plan-b-one-step"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Pille danach rezeptfrei (処方箋不要薬局販売)",
+        "amount": "約18〜35ユーロ（22歳未満は公的保険で無料）",
+        "ageLimit": "制限なし（未成年者も購入可）",
+        "incomeLimit": "なし（処方箋不要）",
+        "keyFeature": "2015年に連邦保健省が規則を改正し、処方箋なしでの薬局販売を解禁。薬剤師による個別の相談・指導が義務付けられていますが、医師の診察や面前服用は不要です。22歳未満の若年層は、後から医師の処方箋を提出するか連携薬局を通じて公的医療保険から全額補助されます。",
+        "source": {
+          "organization": "ドイツ連邦医薬品医療機器研究所 (BfArM) / 連邦保健省",
+          "title": "Rezeptfreie Bereitstellung der Notfallkontrazeptiva",
+          "url": "https://www.bfarm.de/DE/Arzneimittel/Pharmakovigilanz/Risikobewertungsverfahren/Pille-danach/_node.html"
+        }
+      }
+    ]
+  }
 }
