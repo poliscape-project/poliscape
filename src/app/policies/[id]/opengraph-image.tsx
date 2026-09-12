@@ -1,9 +1,17 @@
-﻿import { ImageResponse } from "next/og";
-import { getPolicyById } from "@/lib/policies";
+import { ImageResponse } from "next/og";
+import { getAllPolicies, getPolicyById } from "@/lib/policies";
 
 export const runtime = "nodejs";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
+
+// ビルド時に全500政策の画像を事前生成（静的化）
+export async function generateStaticParams() {
+  const policies = getAllPolicies();
+  return policies.map((policy) => ({
+    id: policy.id,
+  }));
+}
 
 // カテゴリ別カラーテーマ（鮮やかさを大幅UP＆白文字を保護するジュエルトーン設計）
 const categoryThemes: Record<
