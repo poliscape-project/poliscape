@@ -205,5 +205,63 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Smartphone"
     }
-  ]
+  ],
+  "international": {
+    "title": "チケット不正転売禁止法とダイナミックプライシング規制の国際比較",
+    "comparisonSummary": "人気コンサートやスポーツイベントにおける買い占めボットや高額転売を防ぐため、日本では2019年に『チケット不正転売禁止法』が施行され、定価を超える不正転売が刑事処罰されています。しかし近年では、主催者側による需要連動型価格設定（ダイナミックプライシング）の過度な高騰や、隠れた手数料（ジャンクフィー）への批判が世界的に噴出しており、英国や豪州、米国で新たな法規制が進められています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "2015年消費者権利法 (Consumer Rights Act Part 3) ＆ 競争・市場庁 (CMA) 調査",
+        "statusOrLevel": "二次流通サイトに対する座席・額面完全開示義務 ＆ オアシス騒動による動的価格規制調査",
+        "keyFeature": "Viagogo等の転売サイトに対し、元の額面価格、座席番号、転売制限の有無の明示を義務付け。2024年のオアシス再結成ツアーで定価の2〜3倍へ吊り上がったダイナミックプライシングに対し、CMAが不当表示として緊急調査を開始。",
+        "source": {
+          "organization": "英国競争・市場庁 (CMA / GOV.UK)",
+          "title": "Secondary ticketing: consumer law compliance and dynamic pricing probe",
+          "url": "https://www.gov.uk/government/organisations/competition-and-markets-authority"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "オンラインチケット販売ボット防止法 (BOTS Act 2016) ＆ FTC全額表示規則 (All-in Pricing)",
+        "statusOrLevel": "自動購入ボットの使用禁止 ＆ 購入手続き途中で追加される隠れ手数料の全面禁止",
+        "keyFeature": "連邦FTC法に基づき、チケット制限を回避するボットの使用を違法化。さらに2024年にバイデン政権・FTCが『ジャンクフィー禁止規則』を導入し、最初の画面からすべての手数料を含めた総額（All-in Price）表示を義務付けました。",
+        "source": {
+          "organization": "米連邦取引委員会 (FTC)",
+          "title": "FTC Enforces BOTS Act and Proposes Rule on Hidden Junk Fees",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2021/01/ftc-issues-first-orders-under-better-online-ticket-sales-bots-act"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "ニューサウスウェールズ州公平取引法 (Fair Trading Act 1987 / 転売上限規制)",
+        "statusOrLevel": "公式定価の『110%（定価＋手数料10%）』を超える二次転売を法律で完全禁止",
+        "keyFeature": "NSW州やビクトリア州では、理由を問わずチケット定価の10%を超える価格での転売や広告掲載を違法化。違反した個人・法人には最高110,000オーストラリアドルの高額罰金が科されます。",
+        "source": {
+          "organization": "NSW州公平取引局 (NSW Fair Trading)",
+          "title": "Ticket reselling laws and maximum 10% resale cap",
+          "url": "https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services/ticket-reselling"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "フランス刑法第313-6-2条 (Code pénal / イベントチケット不法転売罪)",
+        "statusOrLevel": "主催者の公式許可のない営利目的でのチケット転売を全面的に禁止（最高15,000ユーロ罰金）",
+        "keyFeature": "文化・芸術・スポーツイベントの主催者の明示的許可を得ずに、反復的または商業目的で入場券を販売・仲介する行為を刑法で禁止。転売されたチケットは無効となり、差押えと罰金が執行されます。",
+        "source": {
+          "organization": "フランス法制局 (Légifrance)",
+          "title": "Code pénal - Article 313-6-2 : Vente illicite de billets de spectacle",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025514605/"
+        }
+      }
+    ]
+  }
 }

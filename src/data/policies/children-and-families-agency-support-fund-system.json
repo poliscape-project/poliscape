@@ -217,5 +217,63 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "子ども・子育て支援金制度（公的医療保険への上乗せ徴収）の国際比較",
+    "comparisonSummary": "少子化対策の抜本的財源として、公的医療保険（健保組合・協会けんぽ・国保）の保険料に上乗せして被保険者から毎月徴収する『子ども・子育て支援金制度』が日本で法制化されました。欧州諸国でも子育て支援財源の確保は最重要課題ですが、フランスのように企業が支払う給与総額に対する独立の家族手当拠出金（URSSAF）を徴収する国や、ドイツのように子どもがいない被保険者に介護保険料を重課するペナルティ型税制を採用する国など、アプローチが分かれています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "家族手当保険料拠出金 (Cotisations allocations familiales) ＆ 一般社会税 (CSG)",
+        "statusOrLevel": "雇用主が全従業員の給与総額の約3.45〜5.25%を独立の家族基金（URSSAF）へ拠出",
+        "keyFeature": "子育て・家族支援の財源を医療保険に曖昧に混在させず、社会保障制度の独立の柱（Branche Famille）として雇用主拠出金および一般社会税（CSG）から独立徴収。年間数百億ユーロ規模の家族手当・保育予算を透明性高く調達しています。",
+        "source": {
+          "organization": "フランス社会保障徴収機構 (URSSAF)",
+          "title": "Cotisations et contributions : allocations familiales",
+          "url": "https://www.urssaf.fr/accueil/employeur/cotisations-contributions/famille.html"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "介護保険料の子なしペナルティ加算 (Beitragssatzlose Pflegeversicherung) ＆ 連邦家族予算",
+        "statusOrLevel": "子どものいない被保険者の介護保険料率を4.0%へ加重（子ども数に応じて最大2.4%まで減額）",
+        "keyFeature": "連邦憲法裁判所の判決（子育てを通じて次世代を育てる者は社会保障に既に貢献している）に基づき、23歳以上で子のいない被保険者に保険料を重課。一方、一般的な子育て支援や児童手当は連邦の一般税収から全額支出されます。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG)",
+          "title": "Pflegereform: Differenzierung der Pflegebeiträge nach Kinderzahl",
+          "url": "https://www.bundesgesundheitsministerium.de/themen/pflege/pflegeversicherung-beitraege.html"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "一般税源方式による普遍的家族政策予算 (Allmänna skattemedel)",
+        "statusOrLevel": "特定の社会保険料上乗せを行わず、国および地方自治体の一般所得税から全額拠出",
+        "keyFeature": "医療保険料等へのステルス的な上乗せを行わず、透明な一般税源から保育所無償化や児童手当、全額給付の親保険を支出。負担と受益の関係が国会予算審議で完全に可視化されています。",
+        "source": {
+          "organization": "スウェーデン財務省 (Finansdepartementet)",
+          "title": "Statens budget: Utgiftsområde 12 Ekonomisk trygghet för familjer och barn",
+          "url": "https://www.regeringen.se/sveriges-regering/finansdepartementet/"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "一般財源方式 ＆ 高所得者児童手当調整課税 (High Income Child Benefit Charge)",
+        "statusOrLevel": "一般税収から普遍的に児童給付を賄いつつ、高所得世帯からは所得税申告で段階的に回収",
+        "keyFeature": "国民保健サービス（NHS）と同様に子ども手当や保育支援は国庫の一般税収から賄われ、特定の保険料徴収はなし。世帯主所得が6万ポンドを超える場合は税務申告を通じて手当が返還される公平な財源調整が行われています。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC / GOV.UK)",
+          "title": "High Income Child Benefit Charge rules and clawback thresholds",
+          "url": "https://www.gov.uk/child-benefit-tax-charge"
+        }
+      }
+    ]
+  }
 }

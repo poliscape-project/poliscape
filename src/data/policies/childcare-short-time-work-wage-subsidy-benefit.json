@@ -185,5 +185,63 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "HeartHandshake"
     }
-  ]
+  ],
+  "international": {
+    "title": "育児短時間勤務に対する賃金補填給付（育児時短就業給付）の国際比較",
+    "comparisonSummary": "育児休業から復職した親が短時間勤務（時短勤務）を選択した際、フルタイム勤務時と比べて給与が大幅に減少する『時短ペナルティ』を緩和するため、日本でも2025年度から2歳未満の子を育てる時短勤務者に対し、賃金の10%相当を支給する『育児時短就業給付』が新設されます。ドイツでは復職後の時短勤務時に育児手当の受給期間を倍増させる『ElterngeldPlus』や、スウェーデンの親保険による柔軟な部分給付が定着しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "育児手当プラス (ElterngeldPlus / 連邦育児手当・育児休業法 BEEG)",
+        "statusOrLevel": "週最長32時間の時短勤務を行いながら、通常の育児手当の受給期間を最大2倍に延長可能",
+        "keyFeature": "復職してパートタイム時短勤務を行う親に対し、給付期間を最大倍増して支給。さらに夫婦双方が同時に週24〜32時間の時短勤務を行って家事育児を分担する場合、追加で最長4カ月間の『パートナーシップボーナス』が上乗せ支給されます。",
+        "source": {
+          "organization": "ドイツ連邦家族・高齢者・女性・青少年省 (BMFSFJ)",
+          "title": "ElterngeldPlus und Partnerschaftsbonus für Teilzeitarbeitende",
+          "url": "https://www.familienportal.de/familienportal/familienleistungen/elterngeld/elterngeldplus"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "部分親保険給付 (Delad Föräldrapenning / 社会保険法典)",
+        "statusOrLevel": "子どもが8歳（または12歳）になるまで、親は労働時間を最大25%短縮する法定権利を保持",
+        "keyFeature": "親は1日8時間から6時間勤務へ労働時間を短縮する権利を保持。短縮した時間分（75%、50%、25%、12.5%の刻み）を親保険（Föräldrapenning）から日割りで請求し、賃金低下を公的給付で直接穴埋めできます。",
+        "source": {
+          "organization": "スウェーデン社会保険庁 (Försäkringskassan)",
+          "title": "Föräldrapenning på deltid och förkortad arbetstid",
+          "url": "https://www.forsakringskassan.se/privatperson/foralder/foraldrapenning"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "共有子育て教育手当 (PreParE / 社会保障法典 第L531-4条)",
+        "statusOrLevel": "復職時にパートタイム時短勤務を選択した親に対し、CAFから月額手当を直接上乗せ給付",
+        "keyFeature": "育休終了後に完全復職せず、週労働時間を50%以下、または50〜80%に短縮して働く親に対し、家族手当基金（CAF）から月額約170〜290ユーロのPreParE手当を支給して世帯収入の激減を防ぎます。",
+        "source": {
+          "organization": "フランス家族手当基金 (CAF)",
+          "title": "Prestation partagée d'éducation de l'enfant (PreParE) à temps partiel",
+          "url": "https://www.caf.fr/allocataires/droits-et-prestations/s-informer-sur-les-aides/enfance-et-jeunesse/la-prestation-partagee-d-education-de-l-enfant-prepare"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "柔軟な働き方法 (Flexible Working Act 2023) ＆ 共同育児休業 (SPL)",
+        "statusOrLevel": "入社初日（Day One）からすべての親が時短勤務・柔軟勤務を雇用主に法的に請求可能",
+        "keyFeature": "育児中の親に限らず、入社初日から雇用主に対し時短勤務やフレックスタイムを法的に請求可能。雇用主は法律で定められた8つの正当な事業上の理由がない限り拒否できず、拒否理由の十分な説明と協議が義務付けられています。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "Flexible working statutory rights and Day-One request rules",
+          "url": "https://www.gov.uk/flexible-working"
+        }
+      }
+    ]
+  }
 }

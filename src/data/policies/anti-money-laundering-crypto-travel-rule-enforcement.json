@@ -225,5 +225,63 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "CheckCircle"
     }
-  ]
+  ],
+  "international": {
+    "title": "暗号資産トラベルルール（送金人・受取人情報通知）の国際比較",
+    "comparisonSummary": "マネーロンダリング（資金洗浄）やテロ資金供与、制裁回避を防ぐため、暗号資産（仮想通貨）の送金時に送金人と受取人の身元情報を取引所間で即時共有する『トラベルルール』が、国際組織FATFの勧告に基づき日本でも犯罪収益移転防止法で完全義務化されました。EUは1ユーロからの完全義務化規則を導入し、米国やシンガポールでも非ホスト型ウォレット（個人ウォレット）との取引を含めた厳格な監視が進んでいます。",
+    "countries": [
+      {
+        "country": "国際機関FATF",
+        "countryCode": "FATF",
+        "flag": "🌐",
+        "systemName": "FATF勧告第16条 (Recommendation 16 - Travel Rule for VASPs)",
+        "statusOrLevel": "すべての暗号資産サービスプロバイダー (VASP) に対する送金人・受取人情報の通知義務基準",
+        "keyFeature": "金融活動作業部会（FATF）が世界統一基準として策定。暗号資産の移転に伴い、送金人の氏名・口座番号・住所/本人確認情報、および受取人の氏名・口座情報を即座に安全共有することを全加盟国に要求。",
+        "source": {
+          "organization": "金融活動作業部会 (FATF)",
+          "title": "Targeted Update on Implementation of the FATF Standards on Virtual Assets and VASPs",
+          "url": "https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Targeted-update-virtual-assets-vasps-2023.html"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "資金移動規則 (Transfer of Funds Regulation - TFR / 規則(EU) 2023/1113)",
+        "statusOrLevel": "送金額の閾値なし（1ユーロから）すべての暗号資産送金にトラベルルールを適用",
+        "keyFeature": "MiCA規則と連動。従来の法定通貨送金と異なり、最低送金額の免除基準を設けず、すべての暗号資産取引において送受金者データの完全な付帯と検証を暗号資産交換業者に法定義務化（2024年末全面適用）。",
+        "source": {
+          "organization": "欧州銀行監督機構 (EBA)",
+          "title": "Regulatory technical standards on the Travel Rule for crypto transfers",
+          "url": "https://www.eba.europa.eu/regulation-and-policy/anti-money-laundering-and-countering-financing-terrorism"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "銀行秘密法 (BSA) ＆ FinCEN 暗号資産トラベルルール (31 CFR § 1010.410)",
+        "statusOrLevel": "3,000ドル以上の暗号資産送金における送受金者情報の保管・通知義務（250ドルへ引下げ検討）",
+        "keyFeature": "金融犯罪取締ネットワーク（FinCEN）が管轄。暗号資産交換業者（MSB）に対し、顧客身元確認（KYC）情報の電子送信を義務付け。OFAC（外国資産管理室）の制裁対象アドレスへの送金を瞬時に遮断・凍結します。",
+        "source": {
+          "organization": "米金融犯罪取締ネットワーク (FinCEN)",
+          "title": "Advisory on Illicit Activity Involving Convertible Virtual Currency",
+          "url": "https://www.fincen.gov/"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "決済サービス法 (Payment Services Act 2019) ＆ MAS通知 PSN02",
+        "statusOrLevel": "すべてのデジタル決済トークン（DPT）サービス事業者に対する厳格なAML規制",
+        "keyFeature": "シンガポール金融管理局（MAS）が指導。すべての暗号資産送金におけるトラベルルールの完全遵守に加え、個人所有のプライベートウォレット（Non-custodial Wallet）との送金に対しても強化された顧客デューデリジェンスを義務付け。",
+        "source": {
+          "organization": "シンガポール金融管理局 (MAS)",
+          "title": "Notice PSN02 Prevention of Money Laundering for Digital Payment Token Services",
+          "url": "https://www.mas.gov.sg/regulation/notices/psn02-aml-cft-notice---digital-payment-token-service"
+        }
+      }
+    ]
+  }
 }

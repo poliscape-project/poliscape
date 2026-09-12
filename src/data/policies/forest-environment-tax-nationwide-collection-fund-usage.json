@@ -179,5 +179,63 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Scale"
     }
-  ]
+  ],
+  "international": {
+    "title": "森林環境税・炭素吸収源対策基金の国際比較",
+    "comparisonSummary": "森林の間伐や路網整備、木材利用促進による温室効果ガス吸収源対策の財源として、日本でも2024年度から個人住民税均等割に年額1,000円を上乗せする『森林環境税』の国税徴収が開始されました。欧米諸国でも持続可能な森林管理や混交林転換を支援する森林税制・助成金制度が整備されており、炭素固定クレジットや生物多様性保全に対する直接支払いが手厚く行われています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "森林投資税額控除 (DEFI-Forêt / 一般租税法 第199条decies C) ＆ 国立森林局 (ONF)",
+        "statusOrLevel": "持続可能な森林経営計画（PSG）に基づく植林・間伐費用に対し最大18〜25%の所得税額控除",
+        "keyFeature": "気候変動に強い森林育成を促進するため、森林購入や間伐、作業道整備を行った所有者に対し手厚い税額控除を付与。さらに木材の売却益に対する源泉分離課税や相続税の75%減免措置を適用しています。",
+        "source": {
+          "organization": "フランス農業・食料主権省 (Ministère de l'Agriculture)",
+          "title": "Dispositifs fiscaux d'encouragement à l'investissement en forêt (DEFI)",
+          "url": "https://agriculture.gouv.fr/la-fiscalite-forestiere"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "気候適応型森林管理助成プログラム (Klimaangepasstes Waldmanagement)",
+        "statusOrLevel": "連邦気候変革基金（KTF）から数百億円を投入し、自然林転換を行う所有者へ直接給付",
+        "keyFeature": "単一樹種（トウヒ等）から気候変動に強い混交林への転換、枯死木の残置など、連邦が定める生態系基準を満たした公有林・私有林所有者に対し、ヘクタール当たり年次直接補助金（最大10年間）を交付。",
+        "source": {
+          "organization": "ドイツ連邦食糧農業省 (BMEL)",
+          "title": "Bundeswaldprogramm 2050 und Bundesförderung Klimaangepasstes Waldmanagement",
+          "url": "https://www.bmel.de/DE/themen/wald/wald-in-deutschland/bundeswaldprogramm-2020.html"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "インフレ抑制法 (IRA 2022) 森林レジリエンス助成 ＆ 森林スチュワードシップ計画",
+        "statusOrLevel": "米森林局（USFS）による非産業私有林所有者への数十億ドル規模の気候スマート林業助成",
+        "keyFeature": "連邦農務省森林局が、炭素蓄積を促進する気候スマートな森林施業や山火事リスク低減の間伐を行う私有林所有者に対し、直接のコストシェア補助金を交付。持続可能な木材利用を連邦法で後押ししています。",
+        "source": {
+          "organization": "米国農務省森林局 (USDA Forest Service)",
+          "title": "Inflation Reduction Act Forest Landowner Support and Climate-Smart Forestry",
+          "url": "https://www.fs.usda.gov/managing-land/inflation-reduction-act"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦森林法 (Loi sur les forêts - LFo) ＆ 保安林管理直接協定",
+        "statusOrLevel": "雪崩・土砂災害を防ぐ保安林管理費用を連邦・州公費で最大70〜100%直接負担",
+        "keyFeature": "国土保全における森林の重要性を憲法・連邦法に明記。森林伐採を原則禁止し、防災機能を果たす保安林の維持間伐費用を国とカントンが手厚く負担する世界有数の山林保護制度を確立しています。",
+        "source": {
+          "organization": "スイス連邦環境庁 (FOEN / BAFU)",
+          "title": "Protection des forêts et gestion des forêts protectrices",
+          "url": "https://www.bafu.admin.ch/bafu/fr/home/themes/forets.html"
+        }
+      }
+    ]
+  }
 }

@@ -231,5 +231,63 @@
         "commentStandard": "「テレワークで仕事と介護を同時に抱え込んだ結果、睡眠障害と介護うつに陥った。制度だけでなく外部サービスの受け皿が必須だ」"
       }
     ]
+  },
+  "international": {
+    "title": "家族介護休業・介護離職防止法制の国際比較",
+    "comparisonSummary": "団塊の世代が75歳以上の後期高齢者に達し、働き盛りのミドル層が親の介護のために仕事を辞める『介護離職（年間約10万人）』が深刻な社会問題となる中、日本でも改正育児・介護休業法により40歳到達時の社員に対する制度周知・面談の義務化などが導入されています。欧州主要国でも介護休業の権利や有給手当、柔軟な労働時間短縮請求権が強力に法制化されています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "介護休業法 (Pflegezeitgesetz - PflegeZG) ＆ 家族介護休業法 (FPfZG)",
+        "statusOrLevel": "急な要介護時に10日間の有給休暇 ＋ 最長24カ月の部分介護休業（週15時間以上）の法的権利",
+        "keyFeature": "急変時に年10日間の介護手当（Pflegeunterstützungsgeld・給与の90%）が公費給付。さらに最長24カ月間にわたり週15時間まで労働時間を短縮する権利を保持し、連邦家族省から利子ゼロの公的融資を受けて生活費を補填できます。",
+        "source": {
+          "organization": "ドイツ連邦家族・高齢者・女性・青少年省 (BMFSFJ)",
+          "title": "Gesetzliche Regelungen zur Pflegezeit und Familienpflegezeit",
+          "url": "https://www.wege-zur-pflege.de/themen/pflege-und-beruf"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "2023年介護者休暇法 (Carer's Leave Act 2023 / 2024年4月施行)",
+        "statusOrLevel": "入社初日（Day One）からすべての従業員に年5日間の介護休暇取得の法的権利を保障",
+        "keyFeature": "長期的な要介護の家族を持つすべての労働者に対し、入社初日から年5日間の介護休暇を保障。雇用主は休暇取得を理由とした解雇や不利益取扱いを厳格に禁じられ、事前の証明書提出も不要とされています。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "Unpaid carer's leave: statutory rights for employees",
+          "url": "https://www.gov.uk/carers-leave"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "近親者介護休暇 (Congé de proche aidant) ＆ 介護者日当手当 (AJPA / 労働法典)",
+        "statusOrLevel": "最長1年間の介護休業権利 ＆ 家族手当基金（CAF）から日額約64ユーロの手当を最長66日間給付",
+        "keyFeature": "重度の要介護家族をケアする従業員に最長1年間の雇用継続休業権利を付与。休業中の無給期間に対し、CAFから日額約64ユーロの公的手当（AJPA）が通算最大66日間直接支給されます。",
+        "source": {
+          "organization": "フランス公共サービス公式 (Service-Public.fr)",
+          "title": "Congé de proche aidant et allocation journalière du proche aidant (AJPA)",
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F16920"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦家族医療休暇法 (FMLA 1993) ＆ 州有給家族介護休暇 (PFL)",
+        "statusOrLevel": "連邦FMLAによる最長12週間の無給雇用保護 ＋ カリフォルニア州等での賃金60〜70%有給給付",
+        "keyFeature": "連邦FMLAにより年12週間の解雇禁止を保障。さらにカリフォルニア州、ニューヨーク州など13以上の州では、州公的保険制度から賃金の60〜70%（最大週千数百ドル）が給付される有給介護休暇（Paid Family Leave）を義務化しています。",
+        "source": {
+          "organization": "米国労働省 (DOL / Wage and Hour Division)",
+          "title": "Family and Medical Leave Act (FMLA) and State Paid Family Leave Programs",
+          "url": "https://www.dol.gov/agencies/whd/fmla"
+        }
+      }
+    ]
   }
 }

@@ -147,5 +147,63 @@
       "text": "ノンリコース型で相続人保護",
       "color": "bg-teal-50 text-teal-800"
     }
-  ]
+  ],
+  "international": {
+    "title": "リバースモーゲージ（高齢者の持ち家担保融資）の国際比較",
+    "comparisonSummary": "高齢者が自宅に住み続けながら持ち家を担保に老後資金や介護資金を借り入れ、本人の死亡後に住宅を売却して一括返済する『リバースモーゲージ』の普及が日本でも進んでいます。米国では連邦住宅局（FHA）が債務不履行保険を付帯する公的標準プログラム（HECM）が確立しており、英国でも業界ルールの『マイナス残高ゼロ保証（ノンリコース）』が徹底されるなど、長寿リスクから高齢者を保護する仕組みが整備されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "住宅価値転換抵当ローン (Home Equity Conversion Mortgage - HECM)",
+        "statusOrLevel": "連邦政府（HUD/FHA）による公的保険付きリバースモーゲージが市場のほぼ100%を占有",
+        "keyFeature": "62歳以上のシニア向けにFHAが保証。不動産価値が下落して借入残高が売却額を上回っても、差額を遺族が請求されない『ノンリコース（非遡及型）』を連邦法で保証。事前に第三者のHUD公認カウンセリング受講が法律上義務付けられています。",
+        "source": {
+          "organization": "米国住宅都市開発省 (HUD / FHA)",
+          "title": "Home Equity Conversion Mortgages for Seniors",
+          "url": "https://www.hud.gov/program_offices/housing/sfh/hecm/hecmhome"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "エクイティ・リリース (Equity Release / 生涯住宅ローン Lifetime Mortgage)",
+        "statusOrLevel": "金融行動監視機構 (FCA) 監督 ＆ 業界標準の『マイナス残高ゼロ保証』の義務付け",
+        "keyFeature": "55歳以上の持家居住者が利用可能。業界団体Equity Release Councilの自主基準により、売却価格以上の負債を遺族に残さない『No Negative Equity Guarantee』が全加盟社に義務化され、独立弁護士による対面法的助言の受領が必須です。",
+        "source": {
+          "organization": "英国金融行動監視機構 (FCA / GOV.UK)",
+          "title": "Equity release mortgages and consumer protection rules",
+          "url": "https://www.fca.org.uk/consumers/equity-release"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "政府住宅公平アクセス制度 (Home Equity Access Scheme - HEAS)",
+        "statusOrLevel": "連邦政府（Services Australia）が直接運営する公的リバースモーゲージ",
+        "keyFeature": "年金受給資格を持つシニアに対し、オーストラリア政府が持ち家を担保に隔週で公的年金額の最大150%まで低金利で現金上乗せ融資を行う公的制度。民間銀行を通さず国が直接運営するため手数料が安く安全性が極めて高いのが特徴です。",
+        "source": {
+          "organization": "オーストラリア連邦政府 (Services Australia)",
+          "title": "Home Equity Access Scheme (HEAS) for Australian seniors",
+          "url": "https://www.servicesaustralia.gov.au/home-equity-access-scheme"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "終身抵当ローン (Prêt viager hypothécaire / 消費者法典 第L315-1条以下)",
+        "statusOrLevel": "民法・消費者法典に法定されたノンリコース型公的老後住宅担保融資",
+        "keyFeature": "持ち家の所有権を維持しながら一時金または定期年金として資金調達。借入残高が将来の住宅売却額を上回った場合でも、金融機関は担保不動産の売却代金以上の返済を相続人に請求できないことが法律で明定されています。",
+        "source": {
+          "organization": "フランス公共サービス公式 (Service-Public.fr)",
+          "title": "Prêt viager hypothécaire : caractéristiques et garantie",
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F16142"
+        }
+      }
+    ]
+  }
 }

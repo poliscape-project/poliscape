@@ -217,5 +217,63 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "サイバーセキュリティ・ソフトウェア部品表（SBOM）導入義務化の国際比較",
+    "comparisonSummary": "サプライチェーン攻撃やオープンソースソフトウェア（Log4j等）の脆弱性リスクに対処するため、ソフトウェアの全構成要素やライブラリを透明化する『ソフトウェア部品表（SBOM）』の導入が世界で急速に義務化されています。日本でも経済産業省が導入手引を作成し医療機器等での適用を進めていますが、米国は大統領令で連邦調達要件化を完了させ、EUもサイバーレジリエンス法（CRA）で全デジタル製品に法定義務を課しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国家サイバーセキュリティ改善大統領令 (EO 14028) ＆ CISA SBOMガイダンス",
+        "statusOrLevel": "連邦調達ソフトウェアに対する機械可読SBOM（SPDX/CycloneDX）提出の完全義務化",
+        "keyFeature": "ホワイトハウス大統領令に基づき、連邦政府に納入されるすべてのソフトウェア製品に対しSBOM提供を義務化。サイバーセキュリティ庁（CISA）がフォーマット標準を策定し、未知の脆弱性発覚時に数時間以内で影響範囲を特定する体制を確立。",
+        "source": {
+          "organization": "米国サイバーセキュリティ・社会基盤安全保障庁 (CISA)",
+          "title": "Software Bill of Materials (SBOM) Resources and Implementation",
+          "url": "https://www.cisa.gov/sbom"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EUサイバーレジリエンス法 (Cyber Resilience Act - CRA 2024)",
+        "statusOrLevel": "全EU市場に流通するすべてのハード・ソフトウェア製品へのSBOM作成・維持の法定義務化",
+        "keyFeature": "2024年成立の画期的EU規則。EU域内で販売されるすべてのデジタル接続製品に対し、製造者がSBOMを作成・定期更新し、脆弱性情報を欧州サイバーセキュリティ機関（ENISA）に24時間以内に報告することを義務付け（最高1500万ユーロの制裁金）。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Cyber Resilience Act: new EU rules on cybersecurity for digital products",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦情報セキュリティ庁 (BSI) 技術ガイドライン (BSI TR-03183)",
+        "statusOrLevel": "重要インフラおよび医療機関・サプライチェーン向けソフトウェアのSBOM標準規定",
+        "keyFeature": "BSIがソフトウェアサプライチェーンセキュリティの技術仕様（TR-03183）を発行。連邦政府機関や病院、エネルギー企業向けシステム調達において、SBOMの自動生成・脆弱性スキャンツールの統合を推奨基準化。",
+        "source": {
+          "organization": "ドイツ連邦情報セキュリティ庁 (BSI)",
+          "title": "BSI TR-03183 Cyber Resilience Requirements for Software and Hardware",
+          "url": "https://www.bsi.bund.de/"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国家サイバーセキュリティセンター (NCSC) ソフトウェア開発安全原則",
+        "statusOrLevel": "重要国家インフラ (CNI) および政府調達におけるオープンソース依存関係の透明化",
+        "keyFeature": "NCSCがサプライチェーンリスク管理指針を策定。オープンソースコンポーネントのライセンスおよび既知脆弱性の追跡のため、サプライヤーに対しSBOMの提出と定期的な脆弱性開示ポリシーの策定を要請。",
+        "source": {
+          "organization": "英国国家サイバーセキュリティセンター (NCSC / GOV.UK)",
+          "title": "Principles of secure software development and supply chain security",
+          "url": "https://www.ncsc.gov.uk/collection/developers-collection/principles/secure-supply-chains"
+        }
+      }
+    ]
+  }
 }

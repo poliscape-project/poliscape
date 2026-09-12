@@ -185,5 +185,63 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Clock"
     }
-  ]
+  ],
+  "international": {
+    "title": "私的年金（確定拠出年金・iDeCo）の加入年齢・拠出枠の国際比較",
+    "comparisonSummary": "公的年金を補完する資産形成の柱として、個人型確定拠出年金（iDeCo）の加入可能年齢を65歳から70歳へ引き上げることや、月額拠出限度額の拡大が日本で議論されています。米国では401(k)やIRAの拠出年齢上限が撤廃され年間数百万円規模の非課税枠が認められており、英国でも75歳まで年金拠出が可能で自動加入制度により爆発的に普及するなど、主要国では引退直前・引退後の長期資産形成が税制面から手厚く支援されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "401(k)プラン ＆ 伝統的IRA (SECURE 2.0 Act 2022)",
+        "statusOrLevel": "拠出年齢上限の完全撤廃 ＆ 年間最大23,000ドル（＋シニア追加枠1万ドル）の非課税枠",
+        "keyFeature": "2019年・2022年のSECURE法改正により、IRAの拠出可能年齢上限（従来70.5歳）が完全撤廃され、就労所得があれば何歳でも拠出可能。401(k)の年拠出枠は23,000ドル、60〜63歳には年10,000ドルのキャッチアップ拠出枠が上乗せされます。",
+        "source": {
+          "organization": "米国税庁 (IRS)",
+          "title": "Retirement Topics - Catch-Up Contributions and IRA limits",
+          "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-catch-up-contributions"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "職場年金自動加入制度 (Auto-Enrolment) ＆ 個人年金 (SIPP)",
+        "statusOrLevel": "75歳まで税額控除拠出が可能 ＆ 年間最大60,000ポンド（約1,160万円）の拠出非課税枠",
+        "keyFeature": "企業にすべての適格労働者を職場年金に自動加入させることを義務付け（オプトアウト方式）。年金拠出金には所得税率相当の税金払戻し（最低20%）が国から付与され、年間最大60,000ポンドまで手厚い非課税枠が認められています。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC / GOV.UK)",
+          "title": "Workplace pensions and tax relief on pension contributions",
+          "url": "https://www.gov.uk/tax-on-your-private-pension"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "登録退職貯蓄プラン (RRSP / Registered Retirement Savings Plan)",
+        "statusOrLevel": "71歳到達年末まで拠出可能 ＆ 前年所得の18%（最大約31,560ドル）＋未使用枠繰越",
+        "keyFeature": "71歳になる年末まで所得控除を受けながら拠出可能。前年所得の18%まで拠出でき、過去に使い切れなかった未使用拠出枠は生涯にわたって無期限で将来へ繰り越せる極めて柔軟な税制優遇が特徴です。",
+        "source": {
+          "organization": "カナダ歳入庁 (CRA)",
+          "title": "Registered Retirement Savings Plan (RRSP) contribution limits and rules",
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/registered-retirement-savings-plan-rrsp.html"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "リースター年金 (Riester-Rente) ＆ 職域年金 (Betriebliche Altersversorgung - bAV)",
+        "statusOrLevel": "公的年金受給開始（最長67歳）まで国庫直接助成金（Grundzulage）と所得控除を併給",
+        "keyFeature": "所得に応じた所得控除だけでなく、国から毎年直接の補助金（本人年175ユーロ、子ども1人につき最大300ユーロ）が年金口座へ直接振り込まれる仕組み。低所得者や多子世帯ほど自己拠出比率が低くても手厚く資産形成できます。",
+        "source": {
+          "organization": "ドイツ連邦財務省 (BMF)",
+          "title": "Altersvorsorge: Die Riester-Rente und staatliche Förderung",
+          "url": "https://www.bundesfinanzministerium.de"
+        }
+      }
+    ]
+  }
 }

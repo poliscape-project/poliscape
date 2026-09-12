@@ -225,5 +225,63 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Home"
     }
-  ]
+  ],
+  "international": {
+    "title": "ストーカー規制法（GPS無断取付・位置情報取得規制）の国際比較",
+    "comparisonSummary": "車両や所持品にGPS機器やスマートタグ（AirTag等）を無断で取り付けて位置情報を取得するハイテクつきまとい行為に対し、日本でも2021年のストーカー規制法改正でGPS機器の無断取付や位置情報取得が処罰対象に追加されました。海外主要国でも電子機器による追跡を独立した犯罪類型または重罪として厳罰化しており、警察による即時接近禁止命令（SPO）や加害者へのGPS電子アンクレット装着命令が広く運用されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦サイバーストーカー法 (18 U.S.C. § 2261A) ＆ 各州電子的追跡禁止法",
+        "statusOrLevel": "同意なき電子的追跡・GPS装着を連邦法・州法上の『重罪（Felony）』として厳罰処罰",
+        "keyFeature": "カリフォルニア州やテキサス州等では、本人の明示的同意なく車両や私物にGPSやAirTag等の追跡機器を設置する行為を独立の犯罪として規定。連邦法でも州境を越えた電子的監視に対して最高5年〜終身刑の厳罰が科されます。",
+        "source": {
+          "organization": "米国司法省 (DOJ / Office on Violence Against Women)",
+          "title": "Federal Stalking Laws and Electronic Surveillance Prohibitions",
+          "url": "https://www.justice.gov/ovw"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "2012年自由保護法 (Protection of Freedoms Act) ＆ ストーカー保護命令 (SPO)",
+        "statusOrLevel": "電子的監視・位置情報追跡を独立のストーカー罪として規定（最高10年の禁錮刑）",
+        "keyFeature": "GPS追跡やオンライン監視を『恐怖や苦痛を与えるストーカー行為』として明文化。刑事起訴前であっても、警察の申請により裁判所が即座にストーカー保護命令（SPO）を発令し、接近禁止や位置情報の提出を強制できます。",
+        "source": {
+          "organization": "英国警察大学校 (College of Policing / GOV.UK)",
+          "title": "Stalking Protection Orders (SPO) statutory guidance",
+          "url": "https://www.college.police.uk/app/major-investigation-and-public-protection/stalking-or-harassment"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ドイツ刑法第238条 (StGB § 238 Nachstellung / つきまとい罪)",
+        "statusOrLevel": "技術的手段を用いた位置情報の不正取得・監視行為を犯罪化（最高3〜5年の自由刑）",
+        "keyFeature": "2021年の刑法改正により、スパイウェアやGPS機器、追跡タグを用いて他人の位置情報を継続的・反復的に把握する行為を処罰構成要件に明記。被害者の生活に重大な影響が生じるおそれがあるだけで成立します。",
+        "source": {
+          "organization": "ドイツ連邦司法省 (BMJ)",
+          "title": "Strafgesetzbuch § 238 Nachstellung (Stalking-Bekämpfung)",
+          "url": "https://www.gesetze-im-internet.de/stgb/__238.html"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "各州家庭内暴力防止法 (DV Orders) ＆ 加害者GPS電子監視制度",
+        "statusOrLevel": "加害者へのGPS電子アンクレット装着命令 ＆ 被害者接近時の自動警報システムの義務化",
+        "keyFeature": "ニューサウスウェールズ州等では、ストーカーやDV接近禁止命令に違反したハイリスク加害者に対し、GPSトラッカー付き足輪の常時装着を裁判所が命令。被害者の所持端末と連動し、接近時に警察へ自動通報されます。",
+        "source": {
+          "organization": "オーストラリア連邦司法省 (Attorney-General's Department)",
+          "title": "National Plan to End Violence against Women and Children",
+          "url": "https://www.ag.gov.au/families-and-marriage/families/family-violence"
+        }
+      }
+    ]
+  }
 }

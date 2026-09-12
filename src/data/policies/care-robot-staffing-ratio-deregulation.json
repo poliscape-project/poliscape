@@ -231,5 +231,63 @@
         "commentStandard": "「配置基準の緩和が単なる人員削減の口実となり、1人あたりの受け持ち人数が増加してさらなる過密労働と離職を招く恐れがある」"
       }
     ]
+  },
+  "international": {
+    "title": "介護ロボット・見守りセンサー導入に伴う人員配置基準緩和の国際比較",
+    "comparisonSummary": "介護人材の深刻な不足に対応しつつケアの質を維持するため、日本政府は見守りセンサーやインカム、移乗介助ロボットを導入した介護施設に対し、従来の『入所者3人に対し職員1人（3:1）』の人員配置基準を実質的に『3:0.9』等へ緩和する特例を導入しました。ドイツやデンマークでも介護現場のデジタル化・ロボット導入に対する公的助成金制度が整備される一方、過度な人員削減を防ぐ最低看護基準の維持とのバランスが議論されています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "デジタル介護法 (DVG) ＆ デジタル介護支援補助金 (Pflege-Digitalförderung)",
+        "statusOrLevel": "介護施設・在宅ケアのデジタル化・センサー導入費用を最大12,000ユーロ公費助成",
+        "keyFeature": "公的介護保険基金から、見守りセンサーやWi-Fiインフラ、音声記録ツールの導入費用を直接補助。職員の事務・見守り負担を激減させ、直接の対人ケア時間にシフトさせる政策を推進しています。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG)",
+          "title": "Digitalisierung in der Pflege: Förderung und Digitale Pflegeanwendungen",
+          "url": "https://www.bundesgesundheitsministerium.de/themen/pflege/online-ratgeber-pflege/digitalisierung-in-der-pflege.html"
+        }
+      },
+      {
+        "country": "デンマーク",
+        "countryCode": "DK",
+        "flag": "🇩🇰",
+        "systemName": "高齢者福祉テクノロジー国家戦略 (Velfærdsteknologi)",
+        "statusOrLevel": "自治体介護施設における天井走行リフト・自動排泄処理ロボットの100%標準導入",
+        "keyFeature": "『高齢者の自立支援』と『介護職員の腰痛・労災ゼロ』を掲げ、全自治体で移乗リフトやスマートセンサーを導入。夜間の見守り巡回を自動化しつつ、日中の対話やリハビリに手厚い人員を配置する合理化に成功しています。",
+        "source": {
+          "organization": "デンマーク保健省 (Sundhedsministeriet)",
+          "title": "Velfærdsteknologi i ældreplejen og sundhedsvæsenet",
+          "url": "https://sum.dk/"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "成人ソーシャルケア・テクノロジー基金 (Digitising Social Care Programme)",
+        "statusOrLevel": "ソーシャルケア事業者の80%に電子ケア記録・センサー見守りを導入する国家基金",
+        "keyFeature": "NHS Englandと保健省が数千万ポンドを助成。見守りセンサー（Acoustic Monitoring）導入により夜間の睡眠を妨げる目視巡回を減らし、転倒事故の未然防止と職員の夜勤負担軽減を両立させています。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS England)",
+          "title": "Digitising Social Care - Transforming adult social care technology",
+          "url": "https://www.digitisingsocialcare.co.uk/"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "メディケア・メディケイド・サービス庁 (CMS) 介護施設最低人員配置規則 (2024年新基準)",
+        "statusOrLevel": "テクノロジー導入を推奨しつつ、入所者1人当たり日3.48時間の直接ケア人員配置を法定義務化",
+        "keyFeature": "自動センサー等のIT導入を後押しする一方で、ロボットを理由とした過度な人員削減によるケアの質低下を防ぐため、24時間常駐正看護師（RN）と入所者1人あたり日3.48時間の直接対人看護時間を全米施設に義務付けました。",
+        "source": {
+          "organization": "米メディケア・メディケイド・サービス庁 (CMS)",
+          "title": "Medicare and Medicaid Programs: Minimum Staffing Standards for Long-Term Care Facilities",
+          "url": "https://www.cms.gov/newsroom/fact-sheets/medicare-and-medicaid-programs-minimum-staffing-standards-long-term-care-facilities"
+        }
+      }
+    ]
   }
 }

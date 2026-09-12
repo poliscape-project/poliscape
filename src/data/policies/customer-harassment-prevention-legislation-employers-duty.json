@@ -185,5 +185,63 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "UserCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "カスタマーハラスメント（カスハラ）防止法制化の国際比較",
+    "comparisonSummary": "顧客や取引先からの暴言・土下座強要・長時間の不当な拘束など、いわゆる『カスハラ』から労働者を守るため、東京都が全国初のカスハラ防止条例を制定し、国レベルでも労働施策総合推進法等の改正による事業者の防止措置義務化が検討されています。欧米主要国では、労働安全衛生法やモラルハラスメント防止法に基づき、顧客からの暴力・暴言・心理的加害から従業員を守る安全配慮義務が雇用主に厳格に義務付けられており、無制限の罰金や是正命令が科されます。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "労働安全衛生法 (HSAWA 1974) ＆ 職場暴力防止ガイドライン",
+        "statusOrLevel": "顧客・公衆からの暴力・暴言から従業員を保護する雇用主の安全義務を明文化",
+        "keyFeature": "英国安全衛生庁（HSE）の法規定に基づき、顧客からの暴言、脅迫、身体的暴力を明確に『職場の安全リスク』と定義。雇用主に対しリスクアセスメントの実施、通報制度、毅然とした警察通報の整備を義務付け。違反企業には是正命令や高額罰金が科されます。",
+        "source": {
+          "organization": "英国安全衛生庁 (HSE)",
+          "title": "Work-related violence: legal duties and prevention guide",
+          "url": "https://www.hse.gov.uk/violence/"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "労働法典 モラルハラスメント防止義務 (Code du travail 第L1152-1条〜第L1152-4条)",
+        "statusOrLevel": "第三者（顧客・来客）による精神的ハラスメントからも労働者を保護する法的安全義務",
+        "keyFeature": "雇用主はすべての従業員の身体的・精神的健康を守る『結果債務（Obligation de sécurité）』を負っており、社内だけでなく顧客からの反復的嫌がらせや侮辱に対しても即座に介入・排除する義務を保持。怠った場合は損害賠償責任を負います。",
+        "source": {
+          "organization": "フランス労働省 (Ministère du Travail)",
+          "title": "Harcèlement moral au travail : obligations de l'employeur",
+          "url": "https://travail-emploi.gouv.fr/droit-du-travail/harcelement-au-travail/"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "OSHA 一般義務条項 (OSH Act Section 5(a)(1)) ＆ 小売・医療業職場暴力防止指針",
+        "statusOrLevel": "顧客からの暴力・嫌がらせリスクを認識しながら放置した企業に対する連邦罰則",
+        "keyFeature": "連邦労働安全衛生局（OSHA）の一般義務条項に基づき、顧客対応に伴う予測可能な暴力・脅迫リスクに対し、防犯バリア設置や警備員配置、暴力対応プロトコル策定を指導。カリフォルニア州等では2024年より包括的職場暴力防止計画（WVPP）作成が州法で全企業に義務化されました。",
+        "source": {
+          "organization": "米国労働安全衛生局 (OSHA)",
+          "title": "Workplace Violence in Healthcare and Retail Services Guidelines",
+          "url": "https://www.osha.gov/workplace-violence"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "労働安全衛生規則 (WHS Regulations 2022) 心理社会的リスク管理義務",
+        "statusOrLevel": "顧客による暴言・攻撃を『心理的危害（Psychosocial Hazard）』として法制管理義務化",
+        "keyFeature": "2022年のWHS規則改正により、顧客や患者からの攻撃的行動（Aggression and Violence）を職場の心理的危険因子として法定。雇用主はリスク特定・リスク低減措置・従業員支援（EAP）を講じる法的義務を負い、違反には最高数億円規模の制裁金が科されます。",
+        "source": {
+          "organization": "セーフ・ワーク・オーストラリア (Safe Work Australia)",
+          "title": "Managing psychosocial hazards at work - Code of Practice",
+          "url": "https://www.safeworkaustralia.gov.au/safety-topic/managing-health-and-safety/mental-health/psychosocial-hazards"
+        }
+      }
+    ]
+  }
 }

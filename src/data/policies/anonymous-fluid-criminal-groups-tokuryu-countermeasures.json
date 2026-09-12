@@ -205,5 +205,63 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Wallet"
     }
-  ]
+  ],
+  "international": {
+    "title": "匿名・流動型犯罪グループ（トクリュウ・闇バイト）対策の国際比較",
+    "comparisonSummary": "SNSの『闇バイト』で実行犯（受け子・出し子・叩き）を使い捨てにし、TelegramやSignal等の暗号化アプリで遠隔指示を出す『匿名・流動型犯罪グループ（トクリュウ）』の凶悪化に対し、警察庁は合同特別捜査隊を新設し取締りを強化しています。米国ではRICO法や通信傍受・潜入捜査が威力を発揮し、英国でも重大犯罪防止命令（SCPO）により通信機器や口座の利用を裁判所命令で制限するなど、組織犯罪の上位首謀者を壊滅させる強力な法体系が運用されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "組織犯罪規制法 (RICO法 / 18 U.S.C. § 1961以下) ＆ 潜入捜査・通信傍受法 (Title III)",
+        "statusOrLevel": "暗号アプリで指示を出す上位首謀者まで組織犯罪として包括起訴 ＆ 最高20年禁錮刑",
+        "keyFeature": "末端の実行犯が別々の募集であっても、全体を一つの『犯罪企業（Enterprise）』とみなし、首謀者を包括起訴可能。司法取引（Plea Bargain）による上位者の証言獲得や、連邦裁判所の令状に基づく電子通信傍受が日常的に活用されます。",
+        "source": {
+          "organization": "米国連邦捜査局 (FBI) / 司法省",
+          "title": "Racketeer Influenced and Corrupt Organizations (RICO) Act Enforcement",
+          "url": "https://www.fbi.gov/investigate/organized-crime"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "重大犯罪防止命令 (Serious Crime Prevention Orders - SCPO / 2007年重大犯罪法)",
+        "statusOrLevel": "犯罪組織の指示役やリクルーターに対し、通信機器・口座利用・移動を裁判所命令で厳格制限",
+        "keyFeature": "国家犯罪対策庁（NCA）が運用。起訴前や刑期終了後であっても、裁判所がSCPOを発令して『特定の暗号化アプリの利用禁止』『携帯電話は1台のみ所持』『金融口座の常時監視』を強制可能（違反は懲役5年）。",
+        "source": {
+          "organization": "英国国家犯罪対策庁 (NCA)",
+          "title": "Serious Crime Prevention Orders (SCPO) and lifetime offender management",
+          "url": "https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/serious-and-organised-crime"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ドイツ刑法第129条 (StGB § 129 犯罪結社結成罪) ＆ 連邦刑事庁 (BKA) オンライン捜査",
+        "statusOrLevel": "匿名チャット等を用いた犯罪組織の結成・加入・勧誘・支援行為自体の厳罰化",
+        "keyFeature": "実行犯を直接知らなくても、組織の目的を認識して募集・指示に関与した者は犯罪結社罪で処罰。刑事訴訟法に基づき、国家型トロイの木馬（Quellen-TKÜ）を用いてエンドツーエンド暗号化通信を端末側で傍受する権限を保持。",
+        "source": {
+          "organization": "ドイツ連邦刑事庁 (BKA)",
+          "title": "Bekämpfung der schweren und organisierten Kriminalität (OK)",
+          "url": "https://www.bka.de/"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "通信・重要法改正法 (TOLA Act 2018) ＆ オンライン安全法 (Online Safety Act 2021)",
+        "statusOrLevel": "暗号化通信の復号支援要請権限 ＆ SNS上の違法闇バイト広告の即時強制削除命令",
+        "keyFeature": "法執行機関（AFP）がハイテク企業に対し、暗号通信の技術的解読支援を命じる権限（Technical Assistance Notice）を保持。さらにeSafetyコミッショナーがSNSプラットフォーム上の犯罪リクルート投稿を24時間以内に強制削除させます。",
+        "source": {
+          "organization": "オーストラリア連邦警察 (AFP)",
+          "title": "Transnational Serious and Organised Crime Operations",
+          "url": "https://www.afp.gov.au/what-we-do/crime-types/transnational-serious-and-organised-crime"
+        }
+      }
+    ]
+  }
 }

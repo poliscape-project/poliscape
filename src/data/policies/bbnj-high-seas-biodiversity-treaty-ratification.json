@@ -185,5 +185,63 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "国連公海生物多様性協定（BBNJ協定）批准と公海保護区の国際比較",
+    "comparisonSummary": "国の主権が及ばない公海（地球の海の約3分の2）において、海洋生物多様性の保全と持続可能な利用、海洋保護区（MPA）の設立、海洋遺伝資源（MGR）の公正な利益配分を定める歴史的な『BBNJ協定（公海条約）』が国連で採択され、日本も国会承認を経て早期批准を目指しています。欧州連合やチリが先行批准を完了させ、公海海洋保護区の設立を主導しています。",
+    "countries": [
+      {
+        "country": "国際連合",
+        "countryCode": "UN",
+        "flag": "🌐",
+        "systemName": "国家管轄権外区域の海洋生物多様性協定 (BBNJ Agreement / 2023年国連採択)",
+        "statusOrLevel": "公海における海洋保護区 (MPA) 設置と環境影響評価 (EIA) を義務付ける世界初の法的枠組み",
+        "keyFeature": "『30 by 30（2030年までに海の30%を保護）』目標達成の中核条約。公海における環境影響評価の実施義務、深海微生物などの海洋遺伝資源の商業利用から得られる利益の途上国との公平な分配を規定。",
+        "source": {
+          "organization": "国際連合 (United Nations - Oceans & Law of the Sea)",
+          "title": "Agreement on Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ)",
+          "url": "https://www.un.org/bbnj/"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州連合によるBBNJ協定先行批准 (理事会決定 (EU) 2024年)",
+        "statusOrLevel": "全EU加盟国に先立ち欧州連合として正式批准 ＆ 途上国支援へ4,000万ユーロを拠出",
+        "keyFeature": "海洋ガバナンスの世界的リーダーシップを掲げ、条約の早期発効（60カ国批准要件）を推進。国際公海保護区の指定を共同提案し、世界的な乱獲防止と海洋生態系の回復を強力に後押ししています。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - Maritime Affairs)",
+          "title": "EU ratifies the historic High Seas Treaty for ocean protection",
+          "url": "https://oceans-and-fisheries.ec.europa.eu/ocean/international-ocean-governance/protecting-ocean-bbnj-agreement_en"
+        }
+      },
+      {
+        "country": "チリ",
+        "countryCode": "CL",
+        "flag": "🇨🇱",
+        "systemName": "チリ国会全会一致によるBBNJ協定批准 (2024年1月) ＆ 常設事務局誘致",
+        "statusOrLevel": "世界で2番目・南米で最初の批准国 ＆ バルパライソへのBBNJ条約事務局本部の誘致",
+        "keyFeature": "広大な太平洋に面する海洋国家として、太平洋公海保護区ネットワークの構築を牽引。国会で満場一致で批准を可決し、条約の常設事務局（Secretariat）を自国に誘致することを公式表明しています。",
+        "source": {
+          "organization": "チリ外務省 (Ministerio de Relaciones Exteriores de Chile)",
+          "title": "Chile ratifica el Acuerdo BBNJ para la protección de la alta mar",
+          "url": "https://www.minrel.gob.cl/"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "米国政府によるBBNJ協定署名 (2023年9月) ＆ 上院承認手続き準備",
+        "statusOrLevel": "国連海洋法条約（UNCLOS）未批准であるものの、海洋保護・科学調査の公正性のため協定に署名",
+        "keyFeature": "バイデン政権が国連総会で正式署名。海洋科学調査データの自由な共有と海洋保護区の国際基準策定を支持し、深海底開発における安全保障上の利益と環境保護の両立を図っています。",
+        "source": {
+          "organization": "米国務省 (U.S. Department of State - OES)",
+          "title": "United States Signs the High Seas Treaty (BBNJ Agreement)",
+          "url": "https://www.state.gov/signing-of-the-bbnj-agreement/"
+        }
+      }
+    ]
+  }
 }

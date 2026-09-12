@@ -185,5 +185,63 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "第三者提供生殖（精子・卵子）と子どもの「出自を知る権利」の国際比較",
+    "comparisonSummary": "第三者からの精子・卵子提供や代理懐胎によって生まれた子どもが、自らの遺伝上の親の身元情報を知る『出自を知る権利』について、日本では法制化に向けた議論が続いています。国際的には、1985年に世界で初めてスウェーデンが提供者の匿名性を法律で廃止して以降、英国やドイツ、豪州など多くの国で提供者の匿名性を完全撤廃し、中央登録簿を通じて一定年齢に達した子どもに身元を開示する制度が定着しています。",
+    "countries": [
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "1984年人工授精法 (Lag om insemination / 現・遺伝子技術医療法)",
+        "statusOrLevel": "世界初の提供者匿名性の完全廃止（1985年施行）・出自を知る権利を法律で保障",
+        "keyFeature": "生殖補助医療におけるドナーの完全匿名性を世界で初めて禁止。提供によって生まれた子どもは、十分な成熟に達した段階（通常18歳）で、病院に保管された記録からドナーの氏名や個人情報を閲覧する権利が法律上保障されています。",
+        "source": {
+          "organization": "スウェーデン国家保健福祉庁 (Socialstyrelsen)",
+          "title": "Assisterad befruktning och rätt till information om donator",
+          "url": "https://www.socialstyrelsen.se/"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ヒト受精・胚研究法 (HFEA Act 2005年改正法)",
+        "statusOrLevel": "2005年以降の全ドナーの完全実名登録 ＆ 18歳到達時の身元開示請求権",
+        "keyFeature": "2005年4月よりドナーの匿名性を完全廃止。英ヒト受精・胚研究機構（HFEA）が中央台帳で一元管理し、子どもが18歳（本人の希望により16歳から非特定情報）に達すると、ドナーの氏名、生年月日、最終住所の開示を受けられます。",
+        "source": {
+          "organization": "英国ヒト受精・胚研究機構 (HFEA)",
+          "title": "Donor-conceived people and their rights to access donor information",
+          "url": "https://www.hfea.gov.uk/donation/donor-conceived-people-and-their-parents/"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "精子ドナー登録法 (Samenspenderregistergesetz - SaRegG 2018)",
+        "statusOrLevel": "連邦医薬品医療機器研究所（BfArM）による中央台帳登録 ＆ 16歳からの身元開示権",
+        "keyFeature": "連邦憲法裁判所の判例（知る権利は人格権の不可欠な要素）に基づき制定。ドナー情報はBfArMで110年間厳重に保管され、16歳に達した提供児はいつでもドナーの身元特定情報を請求できます。ドナーへの扶養義務や相続権は免除されます。",
+        "source": {
+          "organization": "ドイツ連邦医薬品医療機器研究所 (BfArM)",
+          "title": "Samenspenderregister: Recht auf Kenntnis der Abstammung",
+          "url": "https://www.bfarm.de/DE/Das-BfArM/Aufgaben/Samenspenderregister/_node.html"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "ビクトリア州不妊治療法 (Assisted Reproductive Treatment Act 2008 / 2017年改正)",
+        "statusOrLevel": "過去の全ドナー情報に遡及して出自開示を義務付けた世界で最も進んだ権利保障",
+        "keyFeature": "法改正以前の『匿名条件で提供された過去のドナー』であっても、子どもが出自を知る権利を優先し、遡及して実名開示を可能とする画期的な法律を施行。州政府機関VARTAがドナーと子どもの繊細な仲介支援を実施。",
+        "source": {
+          "organization": "ビクトリア州不妊治療庁 (VARTA)",
+          "title": "Accessing donor records and historical donor registers",
+          "url": "https://www.varta.org.au/"
+        }
+      }
+    ]
+  }
 }

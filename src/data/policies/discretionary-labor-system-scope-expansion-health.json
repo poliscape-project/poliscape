@@ -185,5 +185,63 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Clock"
     }
-  ]
+  ],
+  "international": {
+    "title": "裁量労働制の対象業務拡大と健康確保措置の国際比較",
+    "comparisonSummary": "実働時間ではなく成果や契約時間で労働を評価する『裁量労働制（専門業務型・企画業務型）』について、日本では対象業務の拡大や本人の同意撤回手続き、勤務間インターバル等の健康確保措置の義務化（2024年4月改正労働基準法施行規則）が進められています。米国ではホワイトカラー・エグゼンプトが広く定着している一方、欧州では労働時間記録の完全義務化と厳格な休息時間規制が両立されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "公正労働基準法 (FLSA) エグゼンプト制度 (White Collar Exemptions)",
+        "statusOrLevel": "年収基準（年約58,656ドル以上）と職務要件を満たす幹部・専門職の時間外手当適用除外",
+        "keyFeature": "管理職（Executive）、専門職（Professional）、高度IT職（Computer Professional）に対し、残業代の支払いを免除する完全成果主義。2024年に労働省が給与基準額を大幅に引き上げ、低所得層の濫用を防止しています。",
+        "source": {
+          "organization": "米国労働省 (DOL / Wage and Hour Division)",
+          "title": "Overtime Pay and White Collar Exemptions under FLSA",
+          "url": "https://www.dol.gov/agencies/whd/overtime"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "信託労働時間制 (Vertrauensarbeitszeit) ＆ 労働時間法 (ArbZG 第16条)",
+        "statusOrLevel": "勤務時間の配分を労働者に一任しつつ、1日最高10時間上限と客観的労働時間記録を義務化",
+        "keyFeature": "何時に出社・退勤するかを完全に労働者の裁量に委ねる信託制を認めつつ、欧州司法裁判所（ECJ）判決に基づき、過重労働防止のため全労働時間の電子的記録と11時間の連続休息確保を雇用主に完全義務付け。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS)",
+          "title": "Arbeitszeitgesetz und Urteil zur Arbeitszeiterfassung",
+          "url": "https://www.bmas.de/DE/Arbeit/Arbeitsrecht/Arbeitszeit/arbeitszeit.html"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "年間日数包括協約 (Forfait annuel en jours / 労働法典 第L3121-58条以下)",
+        "statusOrLevel": "自律的裁量を持つ幹部・専門職に対し、時間管理を撤廃し年間労働日数（最大218日）で管理",
+        "keyFeature": "1日の労働時間制限（35時間制）を適用せず年間日数（218日）のみで管理。ただし雇用主は『つながらない権利』の保障、年1回以上の業務量・健康面談、11時間のインターバル遵守の監視が法的に義務付けられます。",
+        "source": {
+          "organization": "フランス労働省 (Ministère du Travail)",
+          "title": "Les forfaits en heures ou en jours sur l'année",
+          "url": "https://travail-emploi.gouv.fr/le-forfait-en-jours"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "労働時間規則 (Working Time Regulations 1998) 48時間Opt-out制度",
+        "statusOrLevel": "週平均48時間の労働時間上限から個別従業員が書面合意で除外（オプトアウト）可能",
+        "keyFeature": "高度専門職や管理職に限らず、従業員が自発的に書面合意することで週48時間の上限規制を外せる柔軟な制度。ただし雇用主による強制は禁止され、従業員はいつでも3カ月前の通知で合意を撤回できます。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "Maximum weekly working hours and 48-hour opt-out agreements",
+          "url": "https://www.gov.uk/maximum-weekly-working-hours"
+        }
+      }
+    ]
+  }
 }

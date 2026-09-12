@@ -225,5 +225,63 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "ShieldAlert"
     }
-  ]
+  ],
+  "international": {
+    "title": "不当寄附勧誘・悪質献金被害救済法制（反セクト法・家族取消権）の国際比較",
+    "comparisonSummary": "宗教団体等による霊感商法やマインドコントロール下での高額献金被害、家族の困窮を防ぐため、日本でも2022年に『不当寄附勧誘防止法（被害救済法）』が制定され、家族による取消権や借入れ・不動産処分による寄附要求の禁止が導入されました。フランスでは強力な『反セクト法（アバ＝ピカール法）』により心理的従属状態を悪用した詐取が刑事処罰され、ドイツでも反憲法的団体への厳格な憲法擁護庁監視が行われています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "反セクト法 (アバ＝ピカール法 2001年) ＆ 2024年セクト的逸脱防止強化法",
+        "statusOrLevel": "心理的従属状態（精神操作・洗脳）の悪用による財産的・身体的被害を刑事罰化",
+        "keyFeature": "判断力を喪失させる心理的従属状態を意図的に作り出し、過度な金銭を拠出させる行為を『心理的従属の悪用罪（Abus de faiblesse / 刑法第223-15-2条）』として最高5〜7年の禁錮刑と重額罰金で処罰。首相直属のMIVILUDESが常時監視。",
+        "source": {
+          "organization": "フランス内務省セクト的逸脱関係省庁間警戒本部 (MIVILUDES)",
+          "title": "Lutte contre les dérives sectaires et cadre législatif",
+          "url": "https://www.miviludes.interieur.gouv.fr/"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ドイツ民法第138条（公序良俗違反・暴利行為）＆ 連邦憲法擁護庁 (BfV) 監視",
+        "statusOrLevel": "信者の困窮や経験不足に付け込んだ不当な献金契約の民法上の無効化",
+        "keyFeature": "基本法が保障する信教の自由を尊重しつつも、精神的依存や困窮状態を不当に利用して著しく過大な財産を寄贈させる契約は民法138条（Sittenwidrigkeit）により無効となり全額返還請求が可能。反民主主義的なセクトはBfVの監視対象となります。",
+        "source": {
+          "organization": "ドイツ連邦憲法擁護庁 (BfV)",
+          "title": "Schutz der Verfassungsordnung vor extremen Bestrebungen und Sekten",
+          "url": "https://www.verfassungsschutz.de/"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "チャリティ法 (Charities Act 2011) ＆ 不当威圧法理 (Undue Influence)",
+        "statusOrLevel": "公益慈善団体の厳格な公益性審査 ＆ 精神的威圧下での遺言・寄附の司法取消",
+        "keyFeature": "宗教団体が税制優遇を受けるチャリティ登録を行う際、独立機関『チャリティ委員会』が公益性（Public Benefit）を厳格審査。信者からの不当な威圧（Undue Influence）によって行われた寄付や遺贈は、裁判所で全額取消が認められます。",
+        "source": {
+          "organization": "英国チャリティ委員会 (Charity Commission / GOV.UK)",
+          "title": "Charity requirements and investigating abusive donation practices",
+          "url": "https://www.gov.uk/government/organisations/charity-commission"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "不当威圧法理 (Undue Influence) ＆ 連邦電信詐欺罪 (Wire Fraud / 18 U.S.C. § 1343)",
+        "statusOrLevel": "信教の自由（修正第1条）の厳格保護と虚偽の告知による金銭詐取に対する刑事起訴",
+        "keyFeature": "教義そのものの正否には司法は介入しない一方、虚偽の事実や病気治療の偽りの約束により信者から巨額の金銭を騙し取った場合は、連邦郵便・電信詐欺罪や高齢者経済的虐待法（Elder Financial Abuse）により厳格に処罰されます。",
+        "source": {
+          "organization": "米国司法省 (DOJ / Consumer Protection Branch)",
+          "title": "Elder Justice and Financial Exploitation Statutes",
+          "url": "https://www.justice.gov/civil/consumer-protection-branch"
+        }
+      }
+    ]
+  }
 }

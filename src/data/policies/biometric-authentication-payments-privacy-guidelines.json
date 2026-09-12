@@ -211,5 +211,63 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Globe"
     }
-  ]
+  ],
+  "international": {
+    "title": "生体認証（顔・指紋等）決済とプライバシー保護規制の国際比較",
+    "comparisonSummary": "手ぶら決済や自動改札での顔認証・静脈認証決済の導入が進む一方、生体情報はパスワードのように『流出しても変更できない』究極の機微データであるため、プライバシー侵害や漏洩リスクへの懸念が高まっています。欧州連合（EU）はAI法やGDPRで生体データの収集・公共空間利用に世界で最も厳しい規制を敷いており、米国でもイリノイ州のBIPA法により同意のない生体データ収集に巨額の損害賠償が科されています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU一般データ保護規則 (GDPR 第9条) ＆ EU人工知能法 (AI Act 2024)",
+        "statusOrLevel": "生体データを『特別カテゴリの機微情報』と規定 ＆ 明示的同意なしの処理を原則全面禁止",
+        "keyFeature": "生体データは本人の明示的かつ自由な同意（Explicit Consent）がない限り処理が違法。さらに2024年のAI法では、公共空間での無差別な顔認証スキャンを重大な人権侵害として原則禁止し、決済用途でも生体特徴量の不可逆暗号化が義務付けられます。",
+        "source": {
+          "organization": "欧州データ保護会議 (EDPB)",
+          "title": "Guidelines on the processing of biometric data and facial recognition",
+          "url": "https://edpb.europa.eu/"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "イリノイ州生体情報プライバシー法 (BIPA) ＆ 連邦取引委員会 (FTC) 生体方針声明",
+        "statusOrLevel": "事前の書面同意なき生体データ収集・保管の禁止 ＆ 違反1件あたり最大5,000ドルの懲罰賠償",
+        "keyFeature": "全米最強の州法BIPAに基づき、事前の利用目的開示・書面同意・破棄計画のない生体データ取得を違法化。私的訴権が認められておりテック大手に対し数千億円規模の集団訴訟和解が多発。FTCも不当な生体データ利用に取締りを強化しています。",
+        "source": {
+          "organization": "米連邦取引委員会 (FTC)",
+          "title": "FTC Biometric Information Policy Statement and Enforcement",
+          "url": "https://www.ftc.gov/business-guidance/blog/2023/05/biometric-information-policy-statement"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "顔認証技術応用安全管理規定 (2023年国家インターネット情報弁公室 CAC規定)",
+        "statusOrLevel": "顔認証以外の代替認証手段（非生体手段）の提供義務化 ＆ 生体データの集中保管制限",
+        "keyFeature": "決済や施設入場において、顔認証の利用を強制することを法律上禁止し、必ずパスワードや身分証等の非生体認証を選択肢として提供する義務を規定。生体データのローカル暗号化処理を義務付け、集中サーバー保存を制限しています。",
+        "source": {
+          "organization": "中国国家インターネット情報弁公室 (CAC)",
+          "title": "人脸识别技术应用安全管理规定（试行）",
+          "url": "http://www.cac.gov.cn/"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "データ保護法 (UK GDPR / DPA 2018) ＆ ICO生体データガイダンス",
+        "statusOrLevel": "生体認証決済導入時のデータ保護影響評価 (DPIA) 義務付け ＆ 厳格な比例性原則",
+        "keyFeature": "情報コミッショナーオフィス（ICO）の指針により、生体決済事業者は生体特徴量のハッシュ化（生画像の非保存）と厳格なセキュリティ対策を立証するDPIAの事前実施が義務。安全性が担保されない技術の導入には即時停止命令が下されます。",
+        "source": {
+          "organization": "英国情報コミッショナーオフィス (ICO / GOV.UK)",
+          "title": "Biometric data guidance for organisations and payment providers",
+          "url": "https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/special-category-data/biometric-data/"
+        }
+      }
+    ]
+  }
 }

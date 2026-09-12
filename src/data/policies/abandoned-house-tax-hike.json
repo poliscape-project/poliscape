@@ -247,5 +247,63 @@
         "commentStandard": "「職員の現場判断による主観性が残るため、勧告通知を巡る住民からの抗議対応に苦慮している」"
       }
     ]
+  },
+  "international": {
+    "title": "管理不全空き家の固定資産税特例解除・空き家対策税の国際比較",
+    "comparisonSummary": "倒壊の危険や景観悪化を招く放置空き家の解消を促すため、日本では2023年の改正空家等対策特別措置法により、管理不全空き家に対する固定資産税の住宅用地特例（税額1/6への減額）の解除が導入されました。英国では空き家に対して通常の最大4倍の地方税を課すプレミアム重課が運用され、フランスでも空き家税（TLV）が導入されるなど、主要国では放置不動産への強力な税制ペナルティが敷かれています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "地方税空き家プレミアム (Council Tax Empty Homes Premium / 2023年法)",
+        "statusOrLevel": "空き家期間に応じて通常の地方税の『最大200〜400%（2〜4倍）』を自治体が加重徴収",
+        "keyFeature": "2024年の法改正により、1年以上空き家となっている住宅に対し最大200%（2倍）、5年以上で最大300%、10年以上で最大400%のカウンシル・タックスを課税。放置不動産の賃貸市場や売却への放出を強力に誘導しています。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "Council Tax for empty homes and empty homes premium charges",
+          "url": "https://www.gov.uk/council-tax/second-homes-and-empty-properties"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "空き家税 (Taxe sur les logements vacants - TLV / 一般租税法 第232条)",
+        "statusOrLevel": "住宅逼迫地域で1年以上空室の住宅に対し、みなし賃料の17〜34%を毎年課税",
+        "keyFeature": "パリやリヨンなどの住宅需要過密地域（Zone Tendue）で空室となっている住宅に課税。空室初年度はみなし賃貸価値の17%、2年目以降は34%を課税し、投機目的の空き家放置を抑止しています。",
+        "source": {
+          "organization": "フランス公共サービス公式 (Service-Public.fr)",
+          "title": "Taxe sur les logements vacants (TLV) : champ d'application et calcul",
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F2847"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦建築法典 (BauGB 第176条・第177条) 建築・修繕命令 ＆ 空き家解体支援",
+        "statusOrLevel": "自治体による放置空き家所有者への修繕・撤去命令権限 ＆ 従わない場合の強制収用",
+        "keyFeature": "周囲の景観や安全を著しく損なう空き家に対し、自治体が期限を定めて修繕命令や解体命令を発令。所有者が対応しない場合は自治体が代執行するか、都市開発公社が買い取って再開発を行う強力な介入権限を保持。",
+        "source": {
+          "organization": "ドイツ連邦司法省 (BMJ)",
+          "title": "Baugesetzbuch § 176 Baugebot und § 177 Modernisierungs- und Instandsetzungsgebot",
+          "url": "https://www.gesetze-im-internet.de/bbaug/__176.html"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "公的ランドバンク制度 (Land Bank Authorities) ＆ 空き家登録条例 (Vacant Property Registration)",
+        "statusOrLevel": "放置空き家の年次登録料徴収 ＆ 税金滞納荒廃物件の迅速な公的収用・再利用",
+        "keyFeature": "デトロイトやクリーブランド等で各州法に基づき設立された準公的機関ランドバンクが、税金滞納や放置された荒廃空き家を迅速に差し押さえ・取得。コミュニティガーデンや手頃な住宅として再生する仕組みを確立。",
+        "source": {
+          "organization": "米国住宅都市開発省 (HUD)",
+          "title": "Community Development and Land Bank Strategies for Vacant Properties",
+          "url": "https://www.hud.gov/program_offices/comm_planning"
+        }
+      }
+    ]
   }
 }

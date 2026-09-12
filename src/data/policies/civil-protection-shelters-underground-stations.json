@@ -205,5 +205,63 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Clock"
     }
-  ]
+  ],
+  "international": {
+    "title": "国民保護・地下シェルター（地下駅舎等）整備の国際比較",
+    "comparisonSummary": "弾道ミサイル攻撃や大規模災害の脅威に対処するため、日本でも国民保護法に基づき、地下鉄駅や地下街を『緊急一時避難施設』に指定する動きや、先島諸島などでの公的シェルター整備が加速しています。スイスでは全国民100%分の防空核シェルター整備が法律で義務付けられており、フィンランドやシンガポールでも地下鉄駅が防毒・防爆の公設避難所として完璧に機能するよう法定義務化されています。",
+    "countries": [
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦民間防衛法 (LPPCr 第60条・第61条) ＆ 全国民収容核シェルター義務",
+        "statusOrLevel": "すべての国民に対し自宅または近隣に防空核シェルター枠を100%確保することを法律で義務化",
+        "keyFeature": "全国に約36万箇所以上、収容率100%を超える防護シェルター（Schutzraum）を完備。一定規模以上の住宅新築時に防毒換気装置・厚さ30cm以上の鉄筋コンクリート製シェルター設置が義務付けられています。",
+        "source": {
+          "organization": "スイス連邦民間防衛庁 (FOCP / BABS)",
+          "title": "Obligation de construire et gérer les abris de protection civile",
+          "url": "https://www.babs.admin.ch/en/schutzbauten/pflicht.html"
+        }
+      },
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "救助法 (Pelastuslaki 379/2011 第71条〜第76条) 民間防護シェルター基準",
+        "statusOrLevel": "床面積1,200平米以上の建物にシェルター設置義務化 ＆ 全人口の約85%（5万人超の施設）を収容可能",
+        "keyFeature": "ロシアとの長い国境を持つ歴史から、ヘルシンキ市内の地下鉄駅や地下駐車場、プール施設などが巨大な防爆・放射能防護シェルター（Väestönsuoja）として日常活用され、有事には72時間以内に避難所へ転換されます。",
+        "source": {
+          "organization": "フィンランド内務省救助局 (Pelastustoimi)",
+          "title": "Civil defence shelters and structural emergency preparedness in Finland",
+          "url": "https://pelastustoimi.fi/en/civil-defence/civil-defence-shelters"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "民間防衛シェルター法 (Civil Defence Shelter Act 1997)",
+        "statusOrLevel": "すべての地下鉄（MRT）駅および公営住宅（HDB）に防護シェルター設置を完全義務化",
+        "keyFeature": "新設されるすべての地下鉄駅に爆風防護扉や空気ろ過装置を備えた公的シェルターの設置を法定。有事にはシンガポール民間防衛隊（SCDF）の指揮下で1駅あたり数千人規模の住民避難が即時可能となります。",
+        "source": {
+          "organization": "シンガポール民間防衛隊 (SCDF)",
+          "title": "Civil Defence Public MRT Shelters and Household Shelters",
+          "url": "https://www.scdf.gov.sg/home/civil-defence-shelter/types-of-shelters"
+        }
+      },
+      {
+        "country": "イスラエル",
+        "countryCode": "IL",
+        "flag": "🇮🇱",
+        "systemName": "民間防衛法 (Civil Defence Law 1951) ＆ 住宅防護空間 (Mamad) 義務化",
+        "statusOrLevel": "1992年以降の新築住宅・アパートすべてに耐ミサイル防護室（Mamad）設置を義務付け",
+        "keyFeature": "ロケット弾攻撃から数秒〜数十秒で避難できるよう、各戸内に厚い鉄筋コンクリート壁と気密防爆ドア・窓を備えた安全部屋（Mamad）を法定設置。軍の後方司令部（Home Front Command）が厳格に基準検査。",
+        "source": {
+          "organization": "イスラエル国防軍後方司令部 (Home Front Command)",
+          "title": "Mamad and Protected Spaces Regulations",
+          "url": "https://www.oref.org.il/en"
+        }
+      }
+    ]
+  }
 }

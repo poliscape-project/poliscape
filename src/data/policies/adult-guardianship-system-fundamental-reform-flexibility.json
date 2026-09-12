@@ -185,5 +185,63 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Scale"
     }
-  ]
+  ],
+  "international": {
+    "title": "成年後見制度の抜本見直し（本人の自己決定尊重・後見人交代柔軟化）の国際比較",
+    "comparisonSummary": "認知症高齢者や知的・精神障害者の財産管理と権利擁護を担う『成年後見制度』において、一度選任されると原則本人の死亡まで解任・終了できず、専門職後見人の高額報酬や本人の意思が無視される硬直性が日本で深刻な批判を浴びています。海外先進国では『本人の自己決定権』を最優先とし、後見人の解任・終了の柔軟化や、後見に頼らない意思決定支援（Supported Decision-Making）への大転換が進んでいます。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "2023年成年後見・世話法抜本大改革 (Reform des Betreuungsrechts 2023)",
+        "statusOrLevel": "本人の意思と自己決定（Selbstbestimmung）を最優先原則とし、後見人の終了・変更を柔軟化",
+        "keyFeature": "2023年1月施行の大改革。従来の『客観的利益のための保護』から『本人の希望と意思の実現』へ大転換。本人の意思に反する後見人の選任を原則禁止し、本人の希望による後見人の交代や、支援が不要になった場合の即時終了を法律で明定。",
+        "source": {
+          "organization": "ドイツ連邦司法省 (BMJ)",
+          "title": "Das neue Betreuungsrecht: Mehr Selbstbestimmung für Betroffene",
+          "url": "https://www.bmj.de/DE/themen/vorsorge_betreuungsrecht/betreuungsrecht/betreuungsrecht_node.html"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "2005年意思決定能力法 (Mental Capacity Act 2005) ＆ 持続的委任状 (LPA)",
+        "statusOrLevel": "能力推定の原則 ＆ 裁判所による包括後見を最小限にし、本人が指定した任意後見（LPA）を推奨",
+        "keyFeature": "すべての人は能力を欠いていると証明されない限り能力を持つと推定。包括的な後見人（Deputy）を裁判所が任命するのは最終手段に限定し、本人が元気なうちに選んだ代理人による持続的委任状（LPA）を公施設後見人局（OPG）が登録・監督。",
+        "source": {
+          "organization": "英国公施設後見人局 (OPG / GOV.UK)",
+          "title": "Mental Capacity Act Code of Practice and Lasting Power of Attorney",
+          "url": "https://www.gov.uk/government/organisations/office-of-the-public-guardian"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "良き人制度 (God Man) ＆ 管財人制度 (Förvaltare / 親子法典 第11章)",
+        "statusOrLevel": "本人の同意に基づく『良き人（God Man）』が主流・本人の法的行為能力を一切制限しない",
+        "keyFeature": "本人の権利を剥奪しない支援関係。良き人は本人の同意なしには一切の財産処分ができず、本人が希望すればいつでも自治体後見委員会（Överförmyndarnämnden）へ解任・終了を申請可能。極めて自由度の高い制度設計です。",
+        "source": {
+          "organization": "スウェーデン国家裁判所管理局 (Domstolverket)",
+          "title": "God man och förvaltare: uppdrag och rättsliga förutsättningar",
+          "url": "https://www.domstol.se/amnen/familj/god-man-och-forvaltare/"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "統一成人後見・保護決定法 (UGPPA) ＆ 意思決定支援協定 (Supported Decision-Making - SDM)",
+        "statusOrLevel": "後見人を置かずに本人が信頼するサポーターと決定を行う『SDM』の法制化が各州で急速拡大",
+        "keyFeature": "テキサス州やニューヨーク州等でSDM法が成立。本人が契約能力や権利を一切奪われることなく、支援者と情報共有して自ら意思決定できる法協定を認定し、人権侵害となりがちな包括成年後見（Guardianship）を回避する改革が主流化。",
+        "source": {
+          "organization": "米国法曹協会高齢者法委員会 (ABA Commission on Law and Aging)",
+          "title": "Supported Decision-Making and Guardianship Alternatives",
+          "url": "https://www.americanbar.org/groups/law_aging/resources/guardianship_law_practice/"
+        }
+      }
+    ]
+  }
 }

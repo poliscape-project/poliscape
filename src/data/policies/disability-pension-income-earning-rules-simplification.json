@@ -217,5 +217,63 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Laptop"
     }
-  ]
+  ],
+  "international": {
+    "title": "障害年金受給者の就労・所得制限ルールの国際比較",
+    "comparisonSummary": "障害を持つ当事者が就労して自立を目指す際、就労による収入が増えると障害年金が減額・支給停止されてしまう『就労の罠（Disincentive to Work）』を解消するため、障害年金の所得制限や等級認定基準の明確化・柔軟化が日本で求められています。英国では就労有無や所得にかかわらず受給できる自立手当（PIP）が確立しており、米国でも年金を減額されずに就労を試せる『Ticket to Work』制度が運用されています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "個人自立手当 (Personal Independence Payment - PIP / 2012年福祉改革法)",
+        "statusOrLevel": "就労の有無や所得・資産の多寡に一切関係なく（非資産調査型）、障害の程度に応じて全額支給",
+        "keyFeature": "障害に伴う日常生活の追加コストを補填する給付。どれだけ就労して高い所得を得ても手当は1ポンドも減額されないため、障害者が安心して就労・キャリア形成に挑戦できる環境が保障されています。",
+        "source": {
+          "organization": "英国労働年金省 (DWP / GOV.UK)",
+          "title": "Personal Independence Payment (PIP) eligibility and in-work rules",
+          "url": "https://www.gov.uk/pip"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "社会保障障害保険 (SSDI) 就労促進制度 (Ticket to Work / 試行就労期間 TWP)",
+        "statusOrLevel": "就労開始後最長9カ月間の『試行就労期間（TWP）』中は年金全額を減額なしで受給可能",
+        "keyFeature": "障害者が職場復帰を試みる際、9カ月間はどれだけ給与を稼いでもSSDI年金が全額支給。さらにその後36カ月間は所得が基準を下回った月に即座に年金が自動復活する強力なセーフティネットを提供しています。",
+        "source": {
+          "organization": "米国社会保障庁 (SSA)",
+          "title": "Ticket to Work and Work Incentives for SSDI Beneficiaries",
+          "url": "https://www.ssa.gov/work/"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "稼働能力低下年金 (Erwerbsminderungsrente / 社会法典第6編 SGB VI)",
+        "statusOrLevel": "残余就労能力（日3時間未満／日3〜6時間）に応じた年金給付 ＆ 年間副業限度額の大幅引き上げ",
+        "keyFeature": "医学的障害ではなく『一般労働市場で1日何時間働けるか』で完全年金と部分年金を区別。2023年の改革により、障害年金を受給しながら就労して得られる非減額の副業所得上限が大幅に引き上げられました。",
+        "source": {
+          "organization": "ドイツ連邦年金保険 (Deutsche Rentenversicherung)",
+          "title": "Rente bei Erwerbsminderung und Hinzuverdienstgrenzen",
+          "url": "https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Allgemeine-Informationen/Rentenarten-und-Leistungen/Erwerbsminderungsrente/erwerbsminderungsrente_node.html"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "活動手当 (Aktivitetsersättning) ＆ 疾病補償 (Sjukersättning / 社会保険法典)",
+        "statusOrLevel": "就労能力に応じた4段階（100%、75%、50%、25%）の部分給付 ＆ 就労リハビリ連携",
+        "keyFeature": "障害の度合いに応じて年金を25%刻みで柔軟に給付。残りの労働能力を活かしてパートタイム就労することを積極的に推奨し、手当と就労収入の合計が最大化されるよう設計されています。",
+        "source": {
+          "organization": "スウェーデン社会保険庁 (Försäkringskassan)",
+          "title": "Aktivitetsersättning vid nedsatt arbetsförmåga och deltidsarbete",
+          "url": "https://www.forsakringskassan.se/privatperson/funktionsnedsattning/aktivitetsersattning"
+        }
+      }
+    ]
+  }
 }

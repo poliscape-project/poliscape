@@ -186,5 +186,63 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "クレジットカード・不正送金・フィッシング詐欺被害の補償ルールの国際比較",
+    "comparisonSummary": "巧妙化するフィッシング詐欺や偽サイト、SMSスミッシングによって暗証番号やワンタイムパスワードが詐取され、不正利用・不正送金された被害に対し、被害者への全額補償を行うガイドライン策定や金融機関の責任強化が日本で求められています。英国では2024年10月より詐欺被害の原則全額・5日以内自動補償が法定化され、米国やEUでも消費者の責任上限を法律で極小に抑える強力な保護が敷かれています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "決済システム規制機関 (PSR) 認定プッシュ決済 (APP) 詐欺義務的補償規則 (2024年10月施行)",
+        "statusOrLevel": "フィッシング等の送金詐欺被害に対し、金融機関による『原則全額・5営業日以内』の自動補償を法定完全義務化",
+        "keyFeature": "被害者が騙されて自ら送金した場合（APP詐欺）でも、重大な過失（Gross negligence）がない限り最大85,000ポンドまで全額補償を金融機関に義務付け。送金側と受取側の銀行が補償額を50%ずつ折半負担します。",
+        "source": {
+          "organization": "英国決済システム規制機関 (PSR)",
+          "title": "Authorised push payment (APP) scams mandatory reimbursement requirement",
+          "url": "https://www.psr.org.uk/our-work/app-scams/"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "決済サービス指令 (PSD2 / PSD3改定指令案) ＆ 強力な顧客認証 (SCA)",
+        "statusOrLevel": "不正決済に対する消費者の自己負担上限を最大50ユーロに制限 ＆ 銀行の立証責任",
+        "keyFeature": "不正利用された場合、重大な過失を銀行側が立証できない限り、消費者の負担は最大50ユーロ（約8,000円）に制限され即時返金。PSD3案では、銀行員を装ったなりすましスプーフィング詐欺に対しても銀行の全額返金義務を拡大。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - Banking and finance)",
+          "title": "Payment services: revised directive (PSD3) and fraud protection rules",
+          "url": "https://finance.ec.europa.eu/consumer-finance-and-payments/payment-services/payment-services_en"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "電子資金移動法 (EFTA / 規則E - 12 CFR Part 1005) ＆ 真実貸付法 (TILA / 規則Z)",
+        "statusOrLevel": "クレジットカードの不正利用責任上限は『最大50ドル（多くの銀行で0ドル保証）』に連邦法で制限",
+        "keyFeature": "連邦法に基づき、クレジットカードの不正請求に対する消費者の責任は最大50ドル。2営業日以内の通知でデビットカードの不正送金責任も50ドルに制限され、銀行は10営業日以内の仮返金と調査義務を負います。",
+        "source": {
+          "organization": "米消費者金融保護局 (CFPB)",
+          "title": "Regulation E: Electronic Fund Transfers and Consumer Liability Rules",
+          "url": "https://www.consumerfinance.gov/rules-policy/regulations/1005/"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "金融管理局 (MAS) フィッシング詐欺共同責任枠組み (Shared Responsibility Framework - SRF)",
+        "statusOrLevel": "銀行と通信事業者がセキュリティ義務を怠った場合、被害者へ100%全額返金を義務付け",
+        "keyFeature": "MASと通信情報庁が共同策定。銀行（緊急停止キルスイッチ提供義務・即時通知）および通信事業者（SMSなりすましフィルター義務）が義務を怠った場合、金融機関側が全額損失を補填する厳格な制度を導入。",
+        "source": {
+          "organization": "シンガポール金融管理局 (MAS)",
+          "title": "Shared Responsibility Framework for Phishing Scams Consultation Paper",
+          "url": "https://www.mas.gov.sg/news/media-releases/2023/mas-and-imda-publish-joint-consultation-paper-on-shared-responsibility-framework-for-phishing-scams"
+        }
+      }
+    ]
+  }
 }

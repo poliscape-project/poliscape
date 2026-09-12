@@ -217,5 +217,63 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Trees"
     }
-  ]
+  ],
+  "international": {
+    "title": "深海鉱物資源（海底レアアース）開発と海洋環境保全法制の国際比較",
+    "comparisonSummary": "EV用蓄電池やハイテク産業に不可欠なレアアース・コバルト・ニッケルを自国調達するため、南鳥島沖の排他的経済水域（EEZ）で深海底レアアース泥の商業揚泥に向けた実証実験が進んでいます。一方、国際海底機構（ISA）では深海生態系破壊を防ぐ採掘基準をめぐり激しい対立が続いており、ノルウェーが世界に先駆けて探査を国会承認した一方、EUやフランスなどはモラトリアム（一時停止）を主張しています。",
+    "countries": [
+      {
+        "country": "国際海底機構",
+        "countryCode": "ISA",
+        "flag": "🌐",
+        "systemName": "国連海洋法条約 (UNCLOS) 深海底鉱物資源探査開発規則 (Exploration Regulations)",
+        "statusOrLevel": "公海深海底（人類の共同の財産）における環境影響評価（EIA）基準と商業採掘コードの策定",
+        "keyFeature": "国連条約に基づきジャマイカに本部を置く国際機関。深海熱水鉱床やマンガン団塊の開発ライセンスを管理。環境保護と資源開発のバランスを巡り、商業採掘基準（Exploitation Code）の策定交渉を主導しています。",
+        "source": {
+          "organization": "国際海底機構 (International Seabed Authority - ISA)",
+          "title": "Deep Seabed Mineral Mining Codes and Environmental Impact Assessment Guidelines",
+          "url": "https://www.isa.org.jm/exploration-contracts/"
+        }
+      },
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "海底鉱物資源法 (Havbunnsmineralloven 2019) ＆ 2024年深海商業探査開議会決定",
+        "statusOrLevel": "世界で初めて大陸棚深海鉱物資源の商業探査海域の開放を国会で可決承認",
+        "keyFeature": "グリーン移行に必要な銅やリチウムを確保するため、自国大陸棚（約28万平方キロメートル）の深海採掘探査の開放を2024年1月に国会承認。段階的開発と厳格な環境モニタリングデータの提出を事業者に義務付けています。",
+        "source": {
+          "organization": "ノルウェー海洋総局 (Norwegian Offshore Directorate - SODIR)",
+          "title": "Seabed minerals exploration and opening process on the Norwegian continental shelf",
+          "url": "https://www.sodir.no/en/our-services/seabed-minerals/"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州議会・欧州委員会 深海採掘国際モラトリアム方針 (2024年決議)",
+        "statusOrLevel": "深海生態系への科学的影響が完全に解明されるまでの商業深海採掘の一時停止を公式支持",
+        "keyFeature": "フランス、ドイツ、スペインなどEU主要国が主導。海洋生態系の不可逆的破壊を防ぐため、採掘禁止または科学的モラトリアムを支持。重要原材料法（CRMA）では海底採掘よりも地上リサイクル技術を最優先としています。",
+        "source": {
+          "organization": "欧州議会 (European Parliament)",
+          "title": "Resolution on the EU position on deep-sea mining and call for a moratorium",
+          "url": "https://www.europarl.europa.eu/news/en/press-room/20240112IPR16781/parliament-calls-for-a-moratorium-on-deep-sea-mining"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "海底深部硬質鉱物資源法 (DSHMRA 1980) ＆ 連邦海洋大気庁 (NOAA) 監督",
+        "statusOrLevel": "国連条約未批准の立場から連邦法に基づき公海深海底探査ライセンスを直接付与",
+        "keyFeature": "UNCLOS未批准であるため、米国内法DSHMRAに基づき米企業に探査許可を付与。国防総省（DOD）も中国依存脱却のため海底コバルト・ニッケル調達のフィージビリティ調査を推進しています。",
+        "source": {
+          "organization": "米国海洋大気庁 (NOAA)",
+          "title": "Deep Seabed Hard Mineral Resources Act (DSHMRA) Regulations",
+          "url": "https://www.noaa.gov/"
+        }
+      }
+    ]
+  }
 }
