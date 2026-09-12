@@ -185,5 +185,63 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "ShieldAlert"
     }
-  ]
+  ],
+  "international": {
+    "title": "世帯合算・子育て減税（N分N乗方式）の国際比較",
+    "comparisonSummary": "子どもの数が多いほど世帯の所得税負担を軽減する『N分N乗方式（世帯除数制）』は、フランスが1945年に導入した『家族除数制（Quotient familial）』が世界的に有名です。世帯全体の課税所得を家族係数（N）で除算して累進税率を適用し、その税額にNを乗じることで、多子世帯の限界税率を大幅に引き下げます。ドイツや米国は夫婦分割（2分2乗）を基本とし、英米圏では個人課税を基本としつつ税額控除（児童税額控除等）で支援する方式が主流です。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "家族除数制 (Quotient familial / フランス一般租税法 第194条)",
+        "statusOrLevel": "元祖N分N乗方式（単身1、夫婦2、第1・2子各0.5、第3子以降各1.0加算）",
+        "keyFeature": "世帯の合計所得を家族係数（大人1人=1、子ども2人まで0.5、3人目以降1.0）で割り、その金額に累進税率を掛けた後、再び係数を乗じる方式。多子世帯の税負担を劇的に軽減し、フランスの出生率回復を支えた中核税制。高所得者への過度な優遇を防ぐため減税額上限（Plafond）が設定されています。",
+        "source": {
+          "organization": "フランス公共サービス公式 (Service-Public.fr) / 財務省",
+          "title": "Quotient familial et nombre de parts fiscales de l'impôt sur le revenu",
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F2702"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "夫婦分割課税 (Ehegattensplitting / 所得税法 EStG 第32a条)",
+        "statusOrLevel": "2分2乗方式（夫婦合算分割）＋ 児童手当/児童控除の併用",
+        "keyFeature": "夫婦の所得を合算して2で割り、税額を計算した後に2倍する方式。所得格差のある夫婦間で大きな節税効果を発揮。子どもに対しては税率除算ではなく、児童手当（Kindergeld）または児童控除（Kinderfreibetrag）のいずれか有利な方を適用する二重構造を採用しています。",
+        "source": {
+          "organization": "ドイツ連邦財務省 (BMF)",
+          "title": "Das Ehegattensplitting - Einkommensteuergesetz (EStG § 32a)",
+          "url": "https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Familienleistungsausgleich/ehegattensplitting.html"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "夫婦合算申告 (Married Filing Jointly) ＋ 児童税額控除 (CTC)",
+        "statusOrLevel": "夫婦合算申告（ブラケットが単身の2倍）＋ 子ども1人最大$2,000税額控除",
+        "keyFeature": "既婚者は合算申告を選択でき、所得税率のブラケット幅が単身者の2倍に設定（2分2乗と類似の効果）。子どもの扶養に対してはN分N乗ではなく、内国歳入法第24条に基づくChild Tax Credit（児童税額控除：所得制限付きで税額から直接差し引く還付可能控除）で手厚く支援しています。",
+        "source": {
+          "organization": "米国税庁 (IRS)",
+          "title": "Child Tax Credit - Internal Revenue Code § 24",
+          "url": "https://www.irs.gov/credits-deductions/individuals/child-tax-credit"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "完全個人単位課税 ＋ 結婚手当 (Marriage Allowance)",
+        "statusOrLevel": "個人課税原則（世帯合算なし、低所得配偶者からの基礎控除10%移転のみ）",
+        "keyFeature": "1990年に夫婦合算課税を完全廃止し、個人の自立と女性就業を阻害しない個人単位課税を採用。N分N乗方式は共働き率の低下や格差拡大を招くとして導入せず、高所得でない夫婦間で基礎控除の10%（最大1,260ポンド）を移転できる結婚手当と児童給付（Child Benefit）で調整しています。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC / GOV.UK)",
+          "title": "Marriage Allowance - Transfer Personal Allowance",
+          "url": "https://www.gov.uk/marriage-allowance"
+        }
+      }
+    ]
+  }
 }

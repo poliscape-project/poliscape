@@ -241,5 +241,63 @@
         "commentStandard": "「制度の対象業務や年収要件が緩和され、一般社員にまで定額働かせ放題が広がる懸念」"
       }
     ]
+  },
+  "international": {
+    "title": "高度プロフェッショナル制度（残業代適用除外）の国際比較",
+    "comparisonSummary": "一定水準以上の高年収と専門職を対象に、実労働時間ではなく成果で評価し労働時間規制（残業代や休日労働手当）を適用除外とする制度（ホワイトカラー・エグゼンプション）は、米国が世界的な発祥です。米国では年収基準と職務要件を満たせば広範な専門職・管理職が残業代の対象外となります。欧州では労働者の健康保護（インターバル規制等）を原則としつつ、裁量労働協約（フランスの年間日数協約など）により実質的な自律労働が認められています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "公正労働基準法 (Fair Labor Standards Act - FLSA) Exempt従業員制度",
+        "statusOrLevel": "ホワイトカラー・エグゼンプションの元祖（専門職・管理職・外勤営業を適用除外）",
+        "keyFeature": "週給基準（年収約4.4万ドル以上、順次引上げ）と職務要件（高度な裁量と判断を要する専門職等）を満たす場合、時間外労働割増賃金（1.5倍）の支払い義務が免除。成果に応じた柔軟な働き方の標準基盤として定着しています。",
+        "source": {
+          "organization": "米国労働省 (U.S. Department of Labor - WHD)",
+          "title": "FLSA Overtime Exemption Rules for Executive, Administrative, and Professional Employees",
+          "url": "https://www.dol.gov/agencies/whd/overtime"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Working Time Regulations 1998 (週48時間上限オプトアウト合意)",
+        "statusOrLevel": "労働者個人の書面合意による週48時間規制の適用除外（オプトアウト）",
+        "keyFeature": "EU労働時間指令由来の週48時間労働上限規制に対し、労働者が自主的に除外を合意できるオプトアウト制度を運用。高収入エグゼクティブや専門職の多くが雇用契約時にオプトアウトに合意し、柔軟な長時間裁量労働を行っています。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "Maximum weekly working hours and Opting out of the 48-hour week",
+          "url": "https://www.gov.uk/maximum-weekly-working-hours/weekly-maximum-48-hours-and-opting-out"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "年間日数労働協約 (Forfait-jours / 労働法典 第L.3121-58条)",
+        "statusOrLevel": "1日の労働時間上限を撤廃し、年間労働日数（原則年218日）のみで管理",
+        "keyFeature": "労働時間を時間単位ではなく年間日数（上限218日）で管理する協約。自律的に業務を遂行する幹部社員（カードル）等に適用され、週35時間労働制や残業手当の対象外となる一方、1日11時間の休息インターバルと健康診断は依然義務付けられます。",
+        "source": {
+          "organization": "フランス労働省 (Ministère du Travail)",
+          "title": "Le forfait en jours sur l'année - Code du travail Art L3121-58",
+          "url": "https://travail-emploi.gouv.fr/le-forfait-en-jours"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "経営指導的従業員 (Leitende Angestellte / 労働時間法 ArbZG 第18条)",
+        "statusOrLevel": "独立した採用・解雇権や重要権限を有する上級幹部を労働時間法から除外",
+        "keyFeature": "自らの責任で人事権や重要決定権を行使する指導的従業員に対し、労働時間の上限規制や休憩・休日規定の適用を除外。ただし適用要件は日本の高プロ制度よりも厳格で、真の経営幹部層に限定して運用されています。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ)",
+          "title": "Arbeitszeitgesetz (ArbZG § 18 Nichtanwendung des Gesetzes)",
+          "url": "https://www.gesetze-im-internet.de/arbzg/__18.html"
+        }
+      }
+    ]
   }
 }

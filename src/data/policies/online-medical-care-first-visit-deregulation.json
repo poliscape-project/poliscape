@@ -185,5 +185,63 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "ShieldAlert"
     }
-  ]
+  ],
+  "international": {
+    "title": "オンライン診療の初診解禁・遠隔医療ルールの国際比較",
+    "comparisonSummary": "スマートフォンやPCを通じたオンライン診療において、対面を経ない『初診からのオンライン診療』を認めるかどうかは国によって方針が分かれています。米国ではコロナ禍前から民間の遠隔医療プラットフォームや薬の即日配送が普及し、初診解禁が一般的です。イギリス（NHS）でもGP（家庭医）のオンライン相談トリアージが標準運用されています。一方、欧州主要国では医療の質と安全性を保つため『かかりつけ医による対面履歴の存在』を原則としつつ、段階的に初診緩和を進めています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Telehealth Services & 州法規制（民間主導・メディケア/メディケイド保険適用）",
+        "statusOrLevel": "初診からのオンライン診療・処方が広範に解禁・日常化",
+        "keyFeature": "TeladocやAmazon Clinicなど民間大手が全国展開し、風邪やメンタルヘルス、皮膚疾患等の初診オンライン診療・電子処方箋・薬の宅配が定着。メディケア（高齢者向け公的保険）でも連邦緊急事態法制等により初診遠隔医療の恒久化・適用拡大が進められています。",
+        "source": {
+          "organization": "米国保健福祉省 (HHS / Telehealth.HHS.gov)",
+          "title": "Telehealth Policy Changes and Guidelines",
+          "url": "https://telehealth.hhs.gov/providers/policy-changes-during-the-covid-19-public-health-emergency"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS England Digital First Primary Care (オンライン相談・eConsult)",
+        "statusOrLevel": "初診トリアージ・オンラインGP受診がNHS公的医療の標準仕様",
+        "keyFeature": "すべてのNHS登録患者が、オンラインポータル（NHS AppやeConsult）から症状を入力して初診相談を受けることが可能。AIや医療スタッフによるトリアージを経て、チャット、ビデオ診療、または緊急対面受診へと自動的に振り分けられるデジタルファースト体制が確立しています。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS England)",
+          "title": "Digital first primary care specification and guidance",
+          "url": "https://www.england.nhs.uk/gp/digital-first-primary-care/"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Télémédecine (フランス公的健康保険法典 第L.6316-1条)",
+        "statusOrLevel": "公的保険100%適用（原則として過去12カ月以内に対面診察歴のある主治医等）",
+        "keyFeature": "2018年よりオンライン診療に通常診察と同額の保険償還を導入。安全確保のため、原則として『過去12カ月以内に対面診療歴があるかかりつけ医』を受診する協調医療経路（Parcours de soins）が求められますが、医師不足地域（医療砂漠）や緊急時には初診遠隔診療も特例承認されています。",
+        "source": {
+          "organization": "フランス公的健康保険 (Ameli.fr)",
+          "title": "La téléconsultation : principes et modalités de prise en charge",
+          "url": "https://www.ameli.fr/assure/remboursements/rembourse/teleconsultation"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Healthcare Services Act (HCSA) - 遠隔医療サービス許認可制度",
+        "statusOrLevel": "公的ライセンス制のもとで初診オンライン診療を適正管理・解禁",
+        "keyFeature": "保健省（MOH）が策定したNational Telemedicine Guidelinesに基づき、遠隔医療事業者に対する正式な許認可ライセンス制度（HCSA法）を運用。一定の適正診断プロトコルを遵守することを条件に初診オンライン受診を合法化し、国家主導のデジタルヘルス基盤を整備しています。",
+        "source": {
+          "organization": "シンガポール保健省 (Ministry of Health Singapore - MOH)",
+          "title": "National Telemedicine Guidelines and Licensing",
+          "url": "https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/national-telemedicine-guidelines"
+        }
+      }
+    ]
+  }
 }

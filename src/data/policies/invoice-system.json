@@ -241,5 +241,63 @@
         "commentStandard": "「小規模事業者への配慮が足りず、立場の弱いフリーランスへの実質的な増税になっている」"
       }
     ]
+  },
+  "international": {
+    "title": "インボイス制度（適格請求書・VAT免税点）の国際比較",
+    "comparisonSummary": "複数税率下での仕入税額控除の正確性を担保する『インボイス（適格請求書）制度』は、欧州連合（EU）をはじめとする付加価値税（VAT）導入国のほぼ全域で数十年以上前から標準仕様として運用されています。一方で、中小零細事業者やフリーランスへの事務負担・税負担の配慮として『免税点（VAT登録義務が生じる売上高基準）』がどのように設定されているかは国によって大きく異なり、英国のように非常に高い免税点を設けて零細企業を徹底保護する国と、フランスやドイツのように電子インボイスを義務化し脱税防止を強化する国があります。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "英国付加価値税 (Value Added Tax - VAT) 登録基準制度",
+        "statusOrLevel": "VAT免税点が年商90,000ポンド（約1,750万円）と世界最高水準",
+        "keyFeature": "仕入税額控除にはVATインボイスが不可欠ですが、小規模事業者の保護を最重視し、年間売上高が9万ポンド（2024年改定）未満の事業者はVAT登録義務が免除。零細フリーランスがインボイス登録を強制される事態を防ぐ世界で最も寛容な免税枠を設けています。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "Register for VAT - VAT taxable turnover thresholds",
+          "url": "https://www.gov.uk/register-for-vat"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU付加価値税指令 (EU VAT Directive 2006/112/EC) ＆ ViDA構想",
+        "statusOrLevel": "インボイス保存方式が数十年からの大前提（電子インボイス義務化推進中）",
+        "keyFeature": "EU域内のVAT制度は設立当初からインボイス保存方式が原則。現在は税収漏れ（VAT Gap）を防ぐため『デジタル時代のVAT（ViDA: VAT in the Digital Age）』指令案に基づき、EU域内取引における標準化された電子インボイス（e-Invoicing）の義務化が進められています。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - DG TAXUD)",
+          "title": "VAT in the Digital Age (ViDA) - Invoicing rules",
+          "url": "https://taxation-customs.ec.europa.eu/taxation-1/value-added-tax-vat/vat-digital-age_en"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "電子インボイス義務化法制 (Facturation électronique 2026年〜)",
+        "statusOrLevel": "小規模事業者免税枠（Franchise en base）＋ B2B電子インボイスの全面義務化",
+        "keyFeature": "物品販売8.5万ユーロ、サービス提供3.7万ユーロ以下の小規模免税枠を維持しつつ、2026年より全企業間のB2B取引において国営ポータル（PPF）または認証民間プラットフォーム（PDP）を通じた電子インボイス発行・受領を段階的に完全義務化します。",
+        "source": {
+          "organization": "フランス公共サービス公式 (Service-Public.fr) / 財務省",
+          "title": "Généralisation de la facturation électronique entre entreprises",
+          "url": "https://www.service-public.fr/professionnels-entreprises/vosdroits/F36611"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "売上税法 (Umsatzsteuergesetz - UStG) 小規模事業者特例 (§ 19)",
+        "statusOrLevel": "小規模事業者特例 (Kleinunternehmerregelung: 前年売上2.2万ユーロ以下)",
+        "keyFeature": "前年の売上高が22,000ユーロ（約350万円）以下かつ当年見込みが50,000ユーロ以下の事業者は、売上税の納税が免除される小規模事業者特例を選択可能。その場合、インボイスに税額を記載することはできず仕入控除も行えないというシンプルな割り切り運用が行われています。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ)",
+          "title": "Umsatzsteuergesetz (UStG § 19 Besteuerung der Kleinunternehmer)",
+          "url": "https://www.gesetze-im-internet.de/ustg_1980/__19.html"
+        }
+      }
+    ]
   }
 }

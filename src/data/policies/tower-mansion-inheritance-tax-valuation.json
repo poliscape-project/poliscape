@@ -205,5 +205,63 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "タワマン節税の是正・不動産評価額算定の国際比較",
+    "comparisonSummary": "タワーマンションの高層階において『実勢取引価格』と『固定資産税・相続税評価額』との間に生じる大幅な乖離を利用した過度な節税スキーム（タワマン節税）に対し、日本政府は2024年度税制改正で乖離率に応じた補正率を導入しました。海外の主要先進国（米・英・仏・星）では、相続税や富裕税の算定において最初から『独立鑑定士による実勢市場価格（Fair Market Value）』を用いるか、印紙税・取得税で重加算する制度設計が取られており、タワマン特有の評価乖離による租税回避が生じにくい構造となっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦遺産税 (Federal Estate Tax) - 公正市場価値 (Fair Market Value) 原則",
+        "statusOrLevel": "完全な市場実勢価格（Fair Market Value）に基づく資産評価が法律上の原則",
+        "keyFeature": "内国歳入法（IRC）に基づき、高層コンドミニアムを含むすべての不動産は死亡時点における独立した専門鑑定士の鑑定評価額（公正市場価格）で申告する義務があり、行政評価額による実勢価格との乖離を利用した節税は認められません。",
+        "source": {
+          "organization": "米国税庁 (IRS)",
+          "title": "Frequently Asked Questions on Estate Taxes - Valuation of Real Estate",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-estate-taxes"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "相続税 (Inheritance Tax - IHT) - 公正市場価値 (Open Market Value) 評価",
+        "statusOrLevel": "王立公認鑑定士協会 (RICS) の規格に基づく公正規格市場価格で申告",
+        "keyFeature": "不動産の相続税評価は、独立鑑定士（RICS公認鑑定士）が算定した自由市場での売却想定価格（Open Market Value）を用いることが歳入関税庁（HMRC）により義務付けられており、高級ペントハウス等の市場価格がそのまま課税ベースとなります。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC / GOV.UK)",
+          "title": "Valuing the estate of someone who died - Property and Open Market Value",
+          "url": "https://www.gov.uk/valuing-estate-of-someone-who-died/estimate-estate-value"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "不動産富裕税 (Impôt sur la Fortune Immobilière - IFI)",
+        "statusOrLevel": "1月1日時点の実勢純資産価値（Valeur vénale）申告 ＋ 厳格な税務調査",
+        "keyFeature": "不動産資産純額が130万ユーロを超える富裕層に対し毎年課税されるIFIにおいて、パリ等の高級アパルトマンは実勢市場価格（Valeur vénale）での自主申告が原則。近隣取引事例データベース（DVF）と照合され、過少申告には追徴課税が科されます。",
+        "source": {
+          "organization": "フランス公共サービス公式 (Service-Public.fr)",
+          "title": "Impôt sur la fortune immobilière (IFI) : déclaration et évaluation",
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F563"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "追加買主印紙税 (Additional Buyer's Stamp Duty - ABSD)",
+        "statusOrLevel": "市場価格または購入価格の高い方で即時課税（外国人投資家には最大60%課税）",
+        "keyFeature": "相続税を2008年に全廃した代わりに、高級コンドミニアムへの投機的資金流入を防ぐため強烈な印紙税制を導入。高層タワー物件の取引価格または当局査定市場価格のいずれか高い方をベースに、外国人購入者には一律60%、複数住宅保有の自国民にも最大30%超を課税しています。",
+        "source": {
+          "organization": "シンガポール内国歳入庁 (IRAS)",
+          "title": "Additional Buyer's Stamp Duty (ABSD) Rates and Assessment",
+          "url": "https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/additional-buyer's-stamp-duty-(absd)"
+        }
+      }
+    ]
+  }
 }

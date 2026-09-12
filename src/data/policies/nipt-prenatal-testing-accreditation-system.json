@@ -185,5 +185,63 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Building"
     }
-  ]
+  ],
+  "international": {
+    "title": "新型出生前診断（NIPT）の公費適用・認証体制の国際比較",
+    "comparisonSummary": "母体血を用いて胎児の染色体異常（21トリソミー等）の可能性を高精度に調べる新型出生前診断（NIPT）は、欧米主要国において公的医療保険や国家スクリーニングプログラムに組み込まれ、公費負担（無料〜低廉な自己負担）での提供が進んでいます。一方、遺伝カウンセリングの実施体制や生命の選別につながる倫理的懸念から、無分別な商業利用を防止するための認証制度や適応基準の厳格化が各国で図られています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS Fetal Anomaly Screening Programme (FASP)",
+        "statusOrLevel": "NHS公費プログラムで高リスク妊婦へNIPT完全無償提供",
+        "keyFeature": "妊娠初期の複合スクリーニング検査（超音波＋血液）で異常リスクが1/150以上と判定された全妊婦に対し、確定診断（羊水検査等）の前の非侵襲的検査としてNIPTをNHS公費（自己負担ゼロ）で提供。専門の遺伝カウンセリングがセットで義務付けられています。",
+        "source": {
+          "organization": "英国公衆衛生庁 (UKHSA) / NHS England",
+          "title": "Fetal anomaly screening programme (FASP) standards",
+          "url": "https://www.gov.uk/government/publications/fetal-anomaly-screening-programme-standards"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "フランス公的健康保険 (Assurance Maladie) NIPT全額保険給付",
+        "statusOrLevel": "高リスク判定者に対し公的保険から100%全額給付（自己負担なし）",
+        "keyFeature": "2019年より、妊娠第1期の母体血清マーカースクリーニングでリスクが1/1000〜1/51と算出された妊婦に対し、公的健康保険がNIPT費用を100%全額償還。生命倫理法（Loi de bioéthique）に基づき、認可を受けた指定検査機関でのみ実施が許可されています。",
+        "source": {
+          "organization": "フランス高等保健機構 (Haute Autorité de Santé - HAS) / Ameli.fr",
+          "title": "Diagnostic prénatal : place du test ADN libre circulant de la trisomie 21",
+          "url": "https://www.has-sante.fr/jcms/c_2769062/fr/diagnostic-prenatal-du-syndrome-de-down-trisomie-21"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "国家スクリーニングプログラム (TRIDENT-2 プログラム)",
+        "statusOrLevel": "2023年4月より全妊婦を対象に公費負担でNIPT提供（完全無償化）",
+        "keyFeature": "政府委託の臨床研究TRIDENT-2を経て、2023年4月以降、希望するすべての妊婦が公的費用（自己負担なし）で初期NIPTを受けられる体制に移行。検査前に独立した助産師等による十分な説明と意思決定カウンセリングが義務化されています。",
+        "source": {
+          "organization": "オランダ国立公衆衛生環境研究所 (RIVM)",
+          "title": "Prenatal screening: Non-Invasive Prenatal Test (NIPT)",
+          "url": "https://www.pns.nl/nipt"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦合同委員会 (G-BA) 決定に基づく公的健康保険適用",
+        "statusOrLevel": "医学的適応・医師の指示がある場合に公的健康保険が適用",
+        "keyFeature": "2022年7月より、特別な医学的適応や妊婦が強い不安を抱える場合に公的医療保険（GKV）の適用対象に指定。画一的な集団検診化を避け、生命倫理への配慮から『十分な情報提供パンフレットの交付と医師による対面相談』を受検の必須条件としています。",
+        "source": {
+          "organization": "ドイツ連邦合同委員会 (Gemeinsamer Bundesausschuss - G-BA)",
+          "title": "Nicht-invasive Pränataldiagnostik (NIPD) zur Bestimmung des Risikos von Trisomien",
+          "url": "https://www.g-ba.de/themen/methodenbewertung/ambulant/nicht-invasive-praenataldiagnostik/"
+        }
+      }
+    ]
+  }
 }

@@ -231,5 +231,63 @@
         "commentStandard": "「基本法に基づく計画策定や見守りSOSネットワークの運営には財源が必要だが、過疎自治体への国の財政支援が不十分だ」"
       }
     ]
+  },
+  "international": {
+    "title": "認知症基本法・共生社会づくりの国際比較",
+    "comparisonSummary": "高齢化の進展に伴い認知症の人が尊厳を保ちながら希望を持って暮らし続けられる『共生社会』の実現に向け、主要先進国は国家レベルの認知症戦略（National Dementia Strategy）を策定・法制化しています。英国は『認知症サポーター（Dementia Friends）』運動の発祥地として地域社会の包摂に成功し、フランスやドイツは医療・介護連携と当事者の意思決定支援を国家計画として推進しています。日本でも2024年1月に『共生社会の実現を推進するための認知症基本法』が施行され、本人の意思尊重と社会参加が法定義務づけられました。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "英国国家認知症戦略 (Living well with dementia: A National Dementia Strategy)",
+        "statusOrLevel": "認知症フレンド運動の発祥国・地域包括ケアと社会包摂の国家推進",
+        "keyFeature": "2009年に国家認知症戦略を策定し、早期診断・偏見撲滅・地域支援の包括プログラムを展開。アルツハイマー協会が主導する『Dementia Friends（認知症サポーター）』運動は世界中に波及し、認知症にやさしいまちづくり（Dementia Friendly Communities）を国策として確立しました。",
+        "source": {
+          "organization": "英国保健省 (Department of Health and Social Care / GOV.UK)",
+          "title": "Living well with dementia: a national dementia strategy",
+          "url": "https://www.gov.uk/government/publications/living-well-with-dementia-a-national-dementia-strategy"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "国家アルツハイマー・神経変性疾患計画 (Plan Maladies Neurodégénératives)",
+        "statusOrLevel": "当事者の自己決定権保障と専門チーム（Équipe Spécialisée Alzheimer）による在宅支援",
+        "keyFeature": "大統領直属の優先課題として策定された歴代の国家計画に基づき、認知症患者専門の在宅支援チーム（ESA）を全国展開。本人の意思決定能力を尊重する成年後見法制の整備や、介護者のレスパイト（休息）ケアを権利として保障しています。",
+        "source": {
+          "organization": "フランス保健省 (Ministère de la Santé)",
+          "title": "Le plan maladies neuro-dégénératives (PMND)",
+          "url": "https://sante.gouv.fr/soins-et-maladies/maladies/maladies-neurodegeneratives/article/le-plan-maladies-neuro-degeneratives"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "国家認知症戦略 (Nationale Demenzstrategie)",
+        "statusOrLevel": "連邦保健省および連邦家族省による連邦・州・自治体・市民社会の国家協定",
+        "keyFeature": "2020年に連邦政府主導で採択された包括戦略。地域社会における受容性の向上、患者および家族へのアドバイス拠点の拡充、介護保険制度（Pflegeversicherung）による認知症対応給付の拡充など、27の具体的な国家目標を法制支援とともに実行しています。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG)",
+          "title": "Nationale Demenzstrategie für Deutschland",
+          "url": "https://www.bundesgesundheitsministerium.de/themen/pflege/demenz/nationale-demenzstrategie.html"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国家アルツハイマー病プロジェクト法 (National Alzheimer's Project Act - NAPA)",
+        "statusOrLevel": "オバマ大統領署名による連邦法制化（公法 Public Law 111-375）",
+        "keyFeature": "2011年に連邦法として超党派で成立。保健福祉省（HHS）長官に対し、予防・治療法の開発のみならず、患者と家族の生活の質（QOL）向上、尊厳の保持、臨床ケアの改善に関する国家戦略計画（National Plan）の年次報告を法的に義務付けています。",
+        "source": {
+          "organization": "米国保健福祉省 (HHS / ASPE)",
+          "title": "National Alzheimer's Project Act (NAPA) - Public Law 111-375",
+          "url": "https://aspe.hhs.gov/national-alzheimers-project-act"
+        }
+      }
+    ]
   }
 }

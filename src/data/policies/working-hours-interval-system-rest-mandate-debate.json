@@ -185,5 +185,63 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "HeartPulse"
     }
-  ]
+  ],
+  "international": {
+    "title": "勤務間インターバル制度（休息時間確保）の国際比較",
+    "comparisonSummary": "終業から次の始業までの間に一定時間以上の休息（インターバル）を確保する制度は、欧州連合（EU）で1993年の労働時間指令により『24時間ごとに最低連続11時間』が加盟国共通の最低基準として法律上義務付けられています。違反企業には罰則が科されます。一方、日本では2019年施行の働き方改革関連法において『努力義務』にとどまっており、過労死防止や睡眠不足改善の観点から欧州型の法制義務化が議論されています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU労働時間指令 (Working Time Directive 2003/88/EC)",
+        "statusOrLevel": "24時間につき最低連続11時間の休息を加盟国全域で法律上義務化",
+        "keyFeature": "EU全域で労働者の健康と安全を守るため、すべての労働者に24時間ごとに最低連続11時間の休息時間を付与することを義務付け。当直や夜勤交替時などの例外措置を適用する場合でも、代償休息（Compensatory Rest）の即時付与が必須要件となっています。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - DG EMPL)",
+          "title": "Working Time Directive (2003/88/EC) - Daily rest",
+          "url": "https://employment-social-affairs.ec.europa.eu/policies-and-activities/working-conditions/working-time-directive_en"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "フランス労働法典 (Code du travail) 第L.3131-1条",
+        "statusOrLevel": "連続11時間の日次休息義務（違反には刑事罰・過料）",
+        "keyFeature": "法定労働時間週35時間制とともに、原則としてすべての労働者に11時間以上の連続休息が義務化。労使協定による短縮例外も最大9時間までかつ緊急業務等に限定され、企業の労務管理において最優先のコンプライアンス項目として定着しています。",
+        "source": {
+          "organization": "フランス労働省 (Ministère du Travail) / Légifrance",
+          "title": "Code du travail - Article L3131-1 (Repos quotidien)",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902498"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "労働時間法 (Arbeitszeitgesetz - ArbZG) 第5条",
+        "statusOrLevel": "原則11時間の連続休息義務（例外業種も代償休息必須）",
+        "keyFeature": "終業後の連続11時間の休息を法律で厳格に義務付け。病院、飲食店、交通機関など例外業種では10時間までの短縮が認められるものの、1カ月以内に他日の休息を12時間に延長する等による代償調整が法定義務となっています。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS) / 連邦法制ポータル",
+          "title": "Gesetz über die Durchführung von Maßnahmen des Arbeitsschutzes (ArbZG § 5)",
+          "url": "https://www.gesetze-im-internet.de/arbzg/__5.html"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Working Time Regulations 1998 (日次休息権 Daily Rest)",
+        "statusOrLevel": "24時間ごとに連続11時間の休息権を法律上保障",
+        "keyFeature": "EU離脱後もWorking Time Regulationsが維持され、成人は24時間ごとに最低連続11時間、若年労働者（18歳未満）は最低12時間の休息権を法定。雇用主がこれを拒否した場合、雇用審判所（Employment Tribunal）への救済申立てが可能です。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "Rest breaks at work - Daily rest",
+          "url": "https://www.gov.uk/rest-breaks-work"
+        }
+      }
+    ]
+  }
 }

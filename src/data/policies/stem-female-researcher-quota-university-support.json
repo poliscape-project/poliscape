@@ -217,5 +217,63 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "理工系（STEM）女性研究者支援・女子枠クオータ制の国際比較",
+    "comparisonSummary": "大学や研究機関の理工系分野におけるジェンダーギャップを是正するため、欧米主要国では助成金受給要件にジェンダー平等計画を義務付けるなど構造的な是正措置（ポジティブ・アクション）が定着しています。EUのHorizon Europeでは女性活躍計画の策定がグラント採択の必須要件であり、北欧諸国では学術ポストや意思決定層に法的なクオータ（割当）制が適用されています。日本では近年、東京科学大学（旧東工大）などを皮切りに入学者選抜での『女子枠』設置が急速に拡大しています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "Horizon Europe 性平等計画要件 (Gender Equality Plan - GEP)",
+        "statusOrLevel": "955億ユーロの研究助成金応募にGEP策定を『必須の参加適格要件』化",
+        "keyFeature": "EUの巨大研究開発枠組みHorizon Europeでは、大学・研究機関が公募に応募するための必須条件として、組織的なジェンダー平等計画（GEP）の公表とデータ収集を義務化。女性リーダー比率の向上や無意識バイアス研修の実施が研究費獲得の前提となっています。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - Research and Innovation)",
+          "title": "Gender equality in research and innovation - GEP eligibility",
+          "url": "https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/democracy-and-rights/gender-equality-research-and-innovation_en"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "女性教授登用プログラム (Professorinnenprogramm des Bundes und der Länder)",
+        "statusOrLevel": "連邦・州共同で5億ユーロ超を投じる大学への女性教授採用補助金制度",
+        "keyFeature": "2008年より継続する連邦政府と各州の共同国家プログラム。大学が男女平等推進計画を策定し女性教授を採用した場合、国と州が1人あたり最大数千万円の人件費等を直接助成。これにより高等教育機関での女性教授比率は倍増（約27%超へ）しました。",
+        "source": {
+          "organization": "ドイツ連邦教育研究省 (BMBF)",
+          "title": "Das Professorinnenprogramm von Bund und Ländern",
+          "url": "https://www.bmbf.de/bmbf/de/forschung/das-wissenschaftssystem/das-professorinnenprogramm/das-professorinnenprogramm.html"
+        }
+      },
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "男女平等差別禁止法 (Likestillings- og diskrimineringsloven) ＆ ポジティブ・アクション",
+        "statusOrLevel": "世界初の大規模クオータ制（法制化）および選考時の積極的優遇措置",
+        "keyFeature": "大学教員や公的委員会の選考において、応募者の能力・資格が同等である場合、著しく過少代表となっている性別（理工系の場合は女性）を優先的に採用することを法的に承認・義務付け。女性比率向上に向けた世界最先端の法的枠組みを有します。",
+        "source": {
+          "organization": "ノルウェー研究評議会 (Forskningsrådet)",
+          "title": "Gender balance and diversity in Norwegian research",
+          "url": "https://www.forskningsradet.no/en/about-the-research-council/equality-diversity/"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Title IX (教育改正法第9条) ＆ NSF ADVANCEプログラム",
+        "statusOrLevel": "連邦補助金交付における性差別全面禁止 ＋ STEM女性教授育成助成",
+        "keyFeature": "教育改正法第9条に基づき、性差別を行う教育機関への連邦財政援助を停止。さらに全米科学財団（NSF）が展開するADVANCEプログラムを通じて、STEM分野の女性教員・研究者を体系的に育成・登用するための組織変革助成金を大学に交付しています。",
+        "source": {
+          "organization": "全米科学財団 (National Science Foundation - NSF)",
+          "title": "NSF ADVANCE: Organizational Change for Gender Equity in STEM",
+          "url": "https://new.nsf.gov/funding/opportunities/advance-organizational-change-gender-equity-stem-academic-professions"
+        }
+      }
+    ]
+  }
 }

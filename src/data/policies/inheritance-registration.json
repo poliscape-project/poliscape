@@ -247,5 +247,63 @@
         "commentStandard": "「遺産分割協議がまとまらない場合の申出登記手続きなど、一般市民には制度が複雑でわかりにくい」"
       }
     ]
+  },
+  "international": {
+    "title": "相続登記の義務化・所有者不明土地対策の国際比較",
+    "comparisonSummary": "不動産の所有権変動時に登記を法律上義務付けるかどうかは、大陸法（ドイツ・フランス）と英米法（イギリス・米国）で制度設計が異なります。ドイツでは登記に絶対的な公信力（Glaubwürdigkeit）があり登記なしには所有権移転の対抗力が生じないため所有者不明土地は極めて稀です。フランスでは公証人（Notaire）が相続調書を作成し地籍と連動させる仕組みが徹底されています。日本は長年任意登記でしたが、所有者不明土地問題が深刻化したため2024年4月より相続登記が法的に義務化されました。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "土地登記法 (Grundbuchordnung - GBO) & 民法第873条",
+        "statusOrLevel": "絶対的公信力を持つ土地登記簿（Grundbuch）への厳格な登記義務",
+        "keyFeature": "不動産の権利変動は土地登記簿への登記によって初めて効力を生じる『効力発生要件主義』を採用。相続発生時も相続人は遅滞なく登記簿の更正を申請する義務があり、放置した場合は登記所（Grundbuchamt）から過料（Zwangsgeld）が科されるため、所有者不明土地が構造的に発生しません。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ)",
+          "title": "Grundbuchordnung (GBO) - Grundbuchberichtigung § 82",
+          "url": "https://www.gesetze-im-internet.de/gbo/"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "不動産公示法 (Décret n°55-22 du 4 janvier 1955) & 公証人制度",
+        "statusOrLevel": "公証人による相続証明（Acte de notoriété）と不動産登記の一体義務",
+        "keyFeature": "不動産の相続には国家資格を持つ公証人（Notaire）の関与が法律上必須。公証人が相続人を確定して公証人調書を作成し、土地広報局（Service de la publicité foncière）へ登録する手続きを一括執行するため、未登記のまま放置される余地がありません。",
+        "source": {
+          "organization": "フランス公証人最高評議会 (Conseil supérieur du notariat) / Légifrance",
+          "title": "Règlement d'une succession immobilière et publicité foncière",
+          "url": "https://www.notaires.fr/fr/donation-succession/succession/les-etapes-du-reglement-dune-succession"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Land Registration Act 2002 (土地登記法2002)",
+        "statusOrLevel": "所有権移転・相続時のHM Land Registryへの登録義務",
+        "keyFeature": "イングランドおよびウェールズでは、売買や相続による不動産移転時に女王陛下土地登記所（HM Land Registry）への登録が義務付けられており、未登録のままだと法的所有権（Legal Title）が移転せず信託的権利にとどまるという強力な私法上の制約が課されます。",
+        "source": {
+          "organization": "英国土地登記所 (HM Land Registry / GOV.UK)",
+          "title": "Land Registration Act 2002 - Compulsory registration",
+          "url": "https://www.gov.uk/government/organisations/land-registry"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "郡登記官制度 (County Recorder / Deeds Registration) & タイトル保険",
+        "statusOrLevel": "証書登記制度（Recording Act）と民間タイトル保険による権利保全",
+        "keyFeature": "各郡（County）の登記官事務所に証書（Deed）を記録する制度。登記自体は法的な強制ではないものの、第三者への対抗力を確保し権原瑕疵（タイトル欠陥）を防ぐため、不動産取引においてタイトル保険会社（Title Insurance）を通じた登記と権利調査が実質100%不可欠となっています。",
+        "source": {
+          "organization": "米国土地権原協会 (American Land Title Association - ALTA)",
+          "title": "Land Records and Title Insurance Fundamentals",
+          "url": "https://www.alta.org/about-title-insurance/"
+        }
+      }
+    ]
   }
 }
