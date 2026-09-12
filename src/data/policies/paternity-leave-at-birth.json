@@ -217,5 +217,67 @@
         "commentStandard": "「育児スキルのないまま休むだけの『取るだけ育休』になり、かえって負担が増えるケースもある」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国の男性育休・父親向け育児休業ルール",
+    "comparisonSummary": "ユニセフ（国連児童基金）の国際比較報告書によると、日本の男性育休制度は「期間の長さ（最長1年）」と「給付の手厚さ（実質手取り10割）」の双方でOECD首位クラスの極めて高い評価を受けています。一方、北欧やフランスでは「父親が取らないと給付権利が消滅する割当制（クオータ）」や「法律による取得義務化」によって男性取得率8〜9割超を達成しており、制度の利用促進アプローチに違いがあります。",
+    "countries": [
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "Föräldrapenning & Papparadag (両親手当と父親枠クオータ)",
+        "amount": "両親合計480日、給与の約80%を支給（最高上限あり）",
+        "incomeLimit": "親の雇用形態・所得に関わらず受給可能",
+        "keyFeature": "480日のうち「90日間」は父親専用枠（パパ・クオータ）と定められており、父親が取得しなければ権利が消滅し母親に譲渡できません。この強力な仕組みにより男性の育休取得率は約9割に達し、「育児をする父親（ラテパパ）」が社会文化として完全に定着しています。",
+        "source": {
+          "organization": "スウェーデン社会保険庁 (Försäkringskassan)",
+          "title": "Föräldrapenning (両親保険公式制度ガイド)",
+          "url": "https://www.forsakringskassan.se"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Congé de paternité et d'accueil de l'enfant (父親育児休業)",
+        "amount": "28日間取得可能（出産休暇3日 ＋ 父親育休25日）、日額手当支給",
+        "incomeLimit": "最初の7日間は「法律上の取得義務（就労禁止）」",
+        "keyFeature": "2021年の大改革により期間を14日から28日へ倍増。最大の特徴は、出産直後の7日間を「取得義務化」した点にあります。この期間に父親を働かせた企業には労働法違反として罰則が科されるため、職場の同調圧力に負けずに休める環境が法的に保障されています。",
+        "source": {
+          "organization": "フランス政府公式ポータル (Service-Public.fr)",
+          "title": "Congé de paternité et d'accueil de l'enfant d'un salarié",
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F3156"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Basiselterngeld & Partnermonate (両親手当・パートナー月数)",
+        "amount": "休業前純所得の65〜67%（月最大1,800ユーロ、非課税）",
+        "incomeLimit": "父親が最低2ヶ月取得すると受給期間が12ヶ月から14ヶ月に延長",
+        "keyFeature": "父親が育休を取ると受給期間が2ヶ月分ボーナス延長される「パートナー月数」制度を導入。これにより導入前は数%に過ぎなかった男性の育休取得率が50%近くまで急伸し、父親の育児参加の決定的な起爆剤となりました。",
+        "source": {
+          "organization": "ドイツ連邦家族・高齢者・女性・青少年省 (BMFSFJ)",
+          "title": "Familienportal: Elterngeld (両親手当公式ポータル)",
+          "url": "https://familienportal.de/familienportal/familienleistungen/elterngeld"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "FMLA & State Paid Family Leave (連邦法・州法による育休)",
+        "amount": "連邦法上は「無給（手当なし）」、一部州のみ有給手当あり",
+        "incomeLimit": "従業員50人以上の企業で1年以上勤務した人のみ対象",
+        "keyFeature": "先進国で唯一、連邦法レベルでの有給育休制度が存在しません。家族医療休業法（FMLA）で保障されるのは「12週間の無給の解雇保護」のみ。カリフォルニア州など一部の進歩的な州や大手ハイテク企業が自前で有給育休を提供するにとどまり、激しい格差が存在します。",
+        "source": {
+          "organization": "米国労働省 (U.S. Department of Labor)",
+          "title": "Family and Medical Leave Act (FMLA公式解説)",
+          "url": "https://www.dol.gov/agencies/whd/fmla"
+        }
+      }
+    ]
   }
 }

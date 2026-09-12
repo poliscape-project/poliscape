@@ -185,5 +185,67 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要同盟国のセキュリティ・クリアランス（適格性評価）制度比較",
+    "comparisonSummary": "米国や英国、オーストラリアなどのファイブ・アイズ（Five Eyes）諸国やG7諸国では、軍事・防衛だけでなく先端技術（量子・AI・半導体・宇宙）にアクセスする民間企業や研究者に対してもセキュリティ・クリアランス（適格性評価）の取得が法律上必須とされてきました。日本は長年制度が存在しなかったため「国際共同開発から日本企業が締め出される」事態に直面し、2024年の重要経済安保法でようやく国際標準に合流しました。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "National Industrial Security Program (連邦セキュリティクリアランス)",
+        "amount": "Confidential / Secret / Top Secret (TS/SCI) の3段階",
+        "incomeLimit": "国防防衛安全保障局 (DCSA) が身辺背景調査を統括",
+        "keyFeature": "政府職員だけでなく、防衛・宇宙・サイバー関連の民間企業社員や大学研究者など約400万人がクリアランスを保持。犯罪歴、資産状況、外国政府との繋がり、薬物・精神疾患歴まで詳細に調査され、TS資格保持者は就職・転職市場で極めて高い給与プレミアムが付きます。",
+        "source": {
+          "organization": "米国防防衛安全保障局 (DCSA)",
+          "title": "Security Clearances (連邦身元審査公式ガイド)",
+          "url": "https://www.dcsa.mil/Personnel-Security/Background-Investigations-for-Applicants/"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "National Security Vetting (国家安全保障適格性審査)",
+        "amount": "BPSS / CTC / Security Check (SC) / Developed Vetting (DV) の4段階",
+        "incomeLimit": "内閣府直属の英国安全保障審査局 (UKSV) が一元審査",
+        "keyFeature": "最上位のDV（Developed Vetting）では、本人だけでなく配偶者や親族の資産、借金、海外渡航歴、友人の証言調査、詳細な個人面談が実施されます。クリアランス取得者は機密保持義務を生涯負い、無断漏洩には官房機密保護法（Official Secrets Act）で重刑が科されます。",
+        "source": {
+          "organization": "英国政府内閣府 (Cabinet Office / UKSV)",
+          "title": "United Kingdom Security Vetting: Applicant guide (公式申請者手引)",
+          "url": "https://www.gov.uk/government/organisations/uk-security-vetting"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "AGSVA Security Clearance (豪州政府安全保障審査)",
+        "amount": "Baseline / Negative Vetting 1 / NV2 / Positive Vetting (PV) の4水準",
+        "incomeLimit": "国防省傘下の豪州政府安全保障審査局 (AGSVA) が集中管理",
+        "keyFeature": "米英豪の安全保障枠組み「AUKUS（オーカス）」による原子力潜水艦や極超音速ミサイルの共同開発において、同盟国基準のセキュリティクリアランス保持が絶対条件。オーストラリア全土の政府機関と民間契約企業を一括審査しています。",
+        "source": {
+          "organization": "オーストラリア国防省 (Department of Defence / AGSVA)",
+          "title": "Australian Government Security Vetting Agency (AGSVA公式)",
+          "url": "https://www.defence.gov.au/security/clearances"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Sicherheitsüberprüfungsgesetz (SÜG / 安全審査法)",
+        "amount": "Ü1（初級） / Ü2（拡大） / Ü3（最高機密・身辺拡大審査）の3水準",
+        "incomeLimit": "連邦内務省および連邦憲法擁護庁 (BfV) による審査",
+        "keyFeature": "ナチスや東独秘密警察の歴史的教訓から個人のプライバシー保護意識が極めて高いドイツですが、安全審査法に基づき軍事・サボタージュ対策重要施設で厳格審査を実施。特に「極右・極左など反憲法勢力との関係」が重点的にチェックされます。",
+        "source": {
+          "organization": "ドイツ連邦内務省 (BMI) / 連邦憲法擁護庁 (BfV)",
+          "title": "Sicherheitsüberprüfung (安全審査法公式解説)",
+          "url": "https://www.verfassungsschutz.de"
+        }
+      }
+    ]
+  }
 }

@@ -217,5 +217,67 @@
         "commentStandard": "「お小遣いのない高校生が通学中に違反した場合の家庭内の金銭トラブルや警察の摘発基準が心配」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国の自転車交通ルール・罰則・ヘルメット義務化比較",
+    "comparisonSummary": "日本が自転車を「原則車道・例外的に歩道走行可」と曖昧に位置づけ、違反取締りも長年「指導・警告」にとどめてきたのに対し、欧米では「自転車は完全な車両」として極めて厳しい交通反則金や免許停止処分を科しています。一方でオランダのように「完全分離された自転車専用道路ネットワーク」を国家戦略として整備し、車道走行の安全を担保するインフラ投資がセットになっています。",
+    "countries": [
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "Boetes voor fietsers (自転車罰金制度と専用道路網)",
+        "amount": "走行中のスマホ操作で即座に160ユーロ（約2.6万円）の罰金",
+        "incomeLimit": "歩道走行は一切厳禁、夜間の無灯火は70ユーロの罰金",
+        "keyFeature": "世界一の自転車大国。走行中のスマートフォン操作やイヤホン使用には即座に高額罰金が科されます。ただしオランダが厳しい規制を運用できる背景には、車道とも歩道とも完全に物理分離された総延長3万5,000km超の「自転車専用高速道路（Fietspad）」の存在があります。",
+        "source": {
+          "organization": "オランダ政府司法治安省検察庁 (OM)",
+          "title": "Boetebase: Boetes voor fietsers (自転車反則金公式データベース)",
+          "url": "https://www.om.nl/onderwerpen/boetebase"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Bußgeldkatalog Fahrrad (自転車反則金と自動車免許連動)",
+        "amount": "反則金20〜350ユーロ ＋ 自動車運転免許の違反点数（Flensburg点）加算",
+        "incomeLimit": "飲酒運転（血中アルコール1.6‰以上）で車の免許即時取り消し",
+        "keyFeature": "自転車での交通違反（赤信号無視・スマホ・酒気帯び）が「自動車の運転免許証」の違反点数に直接加算される強力な連動システムを採用。自転車で重大違反を繰り返すと、自動車の運転免許が停止・取り消し処分となり、心理適性検査（MPU）が課されます。",
+        "source": {
+          "organization": "ドイツ連邦自動車交通局 (KBA)",
+          "title": "Bundeseinheitlicher Tatbestandskatalog (公式反則金・点数基準)",
+          "url": "https://www.kba.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Mandatory Bicycle Helmet Law (ヘルメット全年齢完全義務化)",
+        "amount": "ヘルメット未着用で116〜344豪ドル（約1.1万〜3.4万円）の罰金",
+        "incomeLimit": "大人も子どもも例外なく全年齢で完全義務化",
+        "keyFeature": "1990年代に世界で初めて「自転車ヘルメットの全年齢着用義務」を全国法制化。警察による取り締まりが極めて厳格で、街頭で警察官に止められ高額な反則金切符を切られるため、全国での着用率は90%以上を維持しています。",
+        "source": {
+          "organization": "ニューサウスウェールズ州運輸局 (Transport for NSW)",
+          "title": "Bicycle rider rules and penalties (公式自転車規則と罰則)",
+          "url": "https://www.transport.nsw.gov.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Code de la route vélo (道路交通法における自転車規制)",
+        "amount": "12歳未満のヘルメット未着用で同伴親に135ユーロ（約2.2万円）の過料",
+        "incomeLimit": "走行中のイヤホン・ヘッドホン装着は一律135ユーロの罰金",
+        "keyFeature": "子どもの頭部外傷を防ぐため12歳未満にはヘルメットを法定義務化。また、周囲の音が聞こえなくなる「イヤホンやヘッドホンを耳に装着しての運転」を法律で固く禁止しており、警察による摘発対象となっています。",
+        "source": {
+          "organization": "フランス政府公式ポータル (Service-Public.fr)",
+          "title": "Équipements obligatoires à vélo (自転車必須装備と禁止事項公式ルール)",
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F34169"
+        }
+      }
+    ]
   }
 }

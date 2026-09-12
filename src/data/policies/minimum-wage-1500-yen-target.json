@@ -205,5 +205,67 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国の最低賃金水準と決定ルール比較",
+    "comparisonSummary": "OECD（経済協力開発機構）の統計において、日本の最低賃金（加重平均1,055円）は物価高を受けた引き上げが進むものの、欧州主要国（約2,000円）やオーストラリア（約2,400円）と比較して依然として大幅な開きがあります。また、「国全体で一律水準を定める国（豪・独・韓）」と「地域や都市、職種ごとに大きな格差を許容する国（日・米）」という制度設計の違いも鮮明です。",
+    "countries": [
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "National Minimum Wage (公正労働委員会による全国一律最賃)",
+        "amount": "時給24.10豪ドル（約2,400円、世界最高水準）",
+        "incomeLimit": "地域格差のない全国一律適用（カジュアル雇用は25%割増）",
+        "keyFeature": "独立機関である公正労働委員会（FWC）が毎年インフレ率と生活コストを考慮して改定。パートや短期雇用（カジュアル雇用）には雇用の不安定さを補償するため25%の割増手当（時給30豪ドル超＝約3,000円）が法律で義務付けられています。",
+        "source": {
+          "organization": "オーストラリア公正労働委員会 (Fair Work Commission)",
+          "title": "National Minimum Wage Orders (全国最低賃金公式改定表)",
+          "url": "https://www.fwc.gov.au/agreements-awards/minimum-wages-and-conditions/national-minimum-wage-orders"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Gesetzlicher Mindestlohn (連邦法定最低賃金法)",
+        "amount": "時給12.41ユーロ（約2,000円、2025年に12.82ユーロへ）",
+        "incomeLimit": "旧東独・西独の格差を解消する連邦一律基準",
+        "keyFeature": "2015年に初めて法定最低賃金を導入。2022年にはショルツ政権の公約として一挙に「時給12ユーロ」への政治主導による大幅引き上げを断行。労使委員会の反発を招きつつも、低賃金層の底上げと購買力向上を実現しました。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS)",
+          "title": "Der Mindestlohn (法定最低賃金公式ガイド)",
+          "url": "https://www.bmas.de/DE/Arbeit/Arbeitsrecht/Mindestlohn/mindestlohn.html"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Federal vs State Minimum Wage (連邦と州・都市の二重構造)",
+        "amount": "連邦基準7.25ドル（約1,100円） / カリフォルニア州ファストフード20ドル（約3,100円）",
+        "incomeLimit": "連邦議会の対立で連邦基準は2009年以来据え置き",
+        "keyFeature": "連邦法基準は時給7.25ドルで15年以上凍結されたままですが、各州や自治体が独自に上乗せ。ワシントン州（16.28ドル）やカリフォルニア州（16ドル・ファストフード労働者は法改正で20ドル義務化）など、全米で激しい地域間・職種間格差が生じています。",
+        "source": {
+          "organization": "米国労働省 (U.S. Department of Labor)",
+          "title": "State Minimum Wage Laws (全米各州最低賃金公式一覧表)",
+          "url": "https://www.dol.gov/agencies/whd/minimum-wage/state"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "最低賃金法 (全国一律・審議会決定方式)",
+        "amount": "時給10,030ウォン（約1,100円、史上初の1万ウォン突破）",
+        "incomeLimit": "全国一律基準（業種別区分の導入を巡り激論継続）",
+        "keyFeature": "文在寅政権下の急激な引き上げを経て、2025年度に念願の「1万ウォン大台」を突破。しかし自営業者・小規模事業主の比率がOECD平均より突出して高いため、「人件費に耐えられずアルバイトを雇えない」という零細店舗の悲鳴と雇用減が深刻な社会問題となっています。",
+        "source": {
+          "organization": "大韓民国最低賃金委員会 (Minimum Wage Commission)",
+          "title": "最低賃金決定現況 (公式公表資料)",
+          "url": "http://www.minimumwage.go.kr"
+        }
+      }
+    ]
+  }
 }

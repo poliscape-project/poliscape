@@ -225,5 +225,67 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Car"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要観光先進国のオーバーツーリズム対策と観光税・二重価格ルール",
+    "comparisonSummary": "インバウンド急増に伴う住民生活の破壊（騒音、ゴミ、家賃高騰、交通パンク）に対し、欧米やアジアの観光都市は「単なる受け入れ拡大」から「強硬な総量規制・経済的課税」へと大きく舵を切っています。日帰り客への入場料徴収や民泊の完全禁止、観光客と地元民の価格を分ける二重価格など、観光地の持続可能性を守るためのラディカルな手法が次々と導入されています。",
+    "countries": [
+      {
+        "country": "イタリア（ベネチア）",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "Contributo di accesso (日帰り観光客向け旧市街入場料)",
+        "amount": "繁忙期の日帰り客1人あたり5ユーロ（約850円）の入場料徴収",
+        "incomeLimit": "宿泊客（宿泊税納税者）やベネト州住民・学生・通勤者は免除",
+        "keyFeature": "世界遺産の都市として世界で初めて「街全体への入場有料化」に踏み切りました。ピークシーズンの指定日（年間約30日）に旧市街に入る日帰り客に事前予約とQRコード提示を義務付け、未納者には最大300ユーロの過料を科す厳格なシステムを運用しています。",
+        "source": {
+          "organization": "ベネチア市公式ポータル (Comune di Venezia)",
+          "title": "Venice Access Fee (ベネチア入場料公式プラットフォーム)",
+          "url": "https://cda.ve.it"
+        }
+      },
+      {
+        "country": "スペイン（バルセロナ）",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "Pla d'Allotjaments Turístics (民泊完全全廃と観光税引き上げ)",
+        "amount": "市独自の宿泊税を最高1泊8ユーロ（約1,300円）超へ引き上げ",
+        "incomeLimit": "2028年11月までに市内の観光用アパート（約1万戸）の営業許可を完全失効",
+        "keyFeature": "観光客急増による家賃高騰（過去10年で7割上昇）で地元住民が街を追われる「住宅危機」を止めるため、市長が2028年までに市内の合法民泊約1万戸を「1軒残らず全廃」して一般賃貸住宅へ戻すという前代未聞の強硬条例を可決しました。",
+        "source": {
+          "organization": "バルセロナ市役所 (Ajuntament de Barcelona)",
+          "title": "Turisme i Allotjament (観光・住宅政策公式ポータル)",
+          "url": "https://www.barcelona.cat"
+        }
+      },
+      {
+        "country": "アメリカ（ハワイ）",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Green Fee & Non-resident Pricing (気候環境保護手数料と二重価格)",
+        "amount": "州外観光客向けの自然公園入場料・駐車料金の差別化（住民は無料）",
+        "incomeLimit": "州外居住者のみに高額料金を課す公認の二重価格制度",
+        "keyFeature": "ハナウマ湾やダイヤモンドヘッドなど人気州立自然公園で、地元住民は完全無料とする一方、州外観光客には高額な入場料（1人数十ドル）と事前予約を義務付ける「内外二重価格」を確立。さらに観光客から直接環境保全税を徴収するグリーンフィー法案を推進しています。",
+        "source": {
+          "organization": "ハワイ州土地自然資源省 (DLNR)",
+          "title": "State Parks Non-Resident Fees (州立公園非居住者料金規定)",
+          "url": "https://dlnr.hawaii.gov/dsp/fees/"
+        }
+      },
+      {
+        "country": "インドネシア（バリ島）",
+        "countryCode": "ID",
+        "flag": "🇮🇩",
+        "systemName": "International Tourist Levy (バリ島外国人観光税)",
+        "amount": "外国人観光客1人あたり一律15万ルピア（約1,500円）",
+        "incomeLimit": "入国時または専用アプリ（Love Bali）を通じて全外国人から徴収",
+        "keyFeature": "マナーの悪い外国人観光客による聖地でのトラブルや深刻なゴミ問題に対処するため、2024年2月より一律課税をスタート。税収は伝統文化の保護と島内のゴミ処理・道路インフラ整備に充当され、観光公害対策の財源として活用されています。",
+        "source": {
+          "organization": "バリ州政府公式 (Provinsi Bali)",
+          "title": "Love Bali - Official Tourist Levy System",
+          "url": "https://lovebali.baliprov.go.id"
+        }
+      }
+    ]
+  }
 }

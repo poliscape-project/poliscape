@@ -149,5 +149,67 @@
       "text": "#7119相談窓口推奨",
       "color": "bg-teal-50 text-teal-800"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国の救急車・緊急搬送の費用ルール",
+    "comparisonSummary": "日本の救急車（119番）が「全国どこでも完全無料」であるのに対し、海外では「搬送自体が数十万円の高額有料（米国）」や「重症は無料だが軽症と判定されたら高額請求（シンガポール）」など、救急資源のパンクを防ぐための経済的インセンティブ（費用徴収）を組み込んでいる国が多数派です。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Ground Ambulance Billing (民間救急会社・消防局)",
+        "amount": "1回あたり平均1,200〜2,000ドル超（約18万〜30万円）",
+        "incomeLimit": "医療保険のネットワーク外（Out-of-network）だと全額自己負担",
+        "keyFeature": "消防局直営または委託民間会社が搬送を行い、基本料金＋マイル加算＋投薬処置費が細かく請求されます。民間保険が適用外の場合、突然の高額請求（サプライズ・ビリング）で破産する市民が後を絶たず、連邦法での保護議論が続いています。",
+        "source": {
+          "organization": "米国メディケア・メディケイド・サービス庁 (CMS)",
+          "title": "Ground Ambulance Data Collection System (公的救急搬送費用データ)",
+          "url": "https://www.cms.gov/medicare/payment/fee-schedules/ground-ambulance-services"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "SCDF Emergency Medical Services (トリアージ連動課金制度)",
+        "amount": "緊急・重症時は「無料」 / 軽症・非緊急判定時は280ドル（約3.2万円）",
+        "incomeLimit": "病院到着後に救急医が客観的トリアージで判定",
+        "keyFeature": "救急隊ではなく、病院到着後に「医師」が患者の状態を客観判定する画期的な仕組み。心筋梗塞や重傷事故などの緊急患者は全額国費で無料ですが、単なる風邪や擦り傷などの「非緊急」と判定された場合のみ280ドルの罰則的費用が科されます。",
+        "source": {
+          "organization": "シンガポール民間防衛庁 (SCDF)",
+          "title": "Emergency Medical Services (救急搬送公式基準と利用料金)",
+          "url": "https://www.scdf.gov.sg/home/about-us/information-and-services/emergency-medical-services"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "SAMU / SMUR (医師同乗型救急医療体制)",
+        "amount": "重篤救急は国費全額無料 / 通常救急は公的保険で65%カバー（自己負担数十ユーロ）",
+        "incomeLimit": "15番（救急コール）で通信指令医が緊急度を事前判定",
+        "keyFeature": "15番に電話するとまず「医師」が電話に出て問診を行い、緊急度に応じて医師同乗の高度救急車（SMUR）を出すか、民間救急車か、一般タクシー受診かを振り分けます。重症時の救命医療は無料ですが、軽症者の安易な出動要請は電話口で厳格に遮断されます。",
+        "source": {
+          "organization": "フランス公的健康保険機構 (Ameli.fr)",
+          "title": "Frais de transport en ambulance (救急搬送費用と保険償還公式ガイド)",
+          "url": "https://www.ameli.fr/assure/remboursements/rembourse/transport/frais-transport-ambulance"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Rettungsdienst (法定保険連動救急システム)",
+        "amount": "搬送費用は法定健康保険が全額負担（患者負担は1回一律10ユーロのみ）",
+        "incomeLimit": "医師の搬送指示（Transportverordnung）または112番緊急出動",
+        "keyFeature": "実費は1回数百ユーロ（約5万〜10万円）かかりますが、国民の約9割が加入する公的健康保険（GKV）から直接支払われるため、患者本人の窓口負担は一律10ユーロ（約1,600円）の少額自己負担金に抑えられています。",
+        "source": {
+          "organization": "ドイツ法定健康保険連盟 (GKV-Spitzenverband)",
+          "title": "Fahrkosten und Rettungsdienst (救急搬送費用の公的保険負担規則)",
+          "url": "https://www.gkv-spitzenverband.de"
+        }
+      }
+    ]
+  }
 }

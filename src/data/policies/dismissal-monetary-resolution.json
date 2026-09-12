@@ -217,5 +217,67 @@
         "commentStandard": "「年齢差別禁止や職種別賃金など再就職セーフティネットが未成熟な日本での導入は時期尚早だ」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国の解雇法制と金銭解決（解決金・解雇補償）ルール",
+    "comparisonSummary": "OECD（経済協力開発機構）の雇用保護指標において、日本の正規雇用に対する解雇規制は加盟国中トップクラスの厳しさと評価されています。特に「裁判で解雇無効となっても原職復帰が原則で、金銭解決の法制度がない」国は主要先進国で日本と韓国などごく少数派です。欧米では勤続年数に応じた「法定の解決金テーブル」を整備し、企業の雇用流動性と労働者の金銭補償の予見可能性を高めています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Employment-at-Will (随意雇用の原則)",
+        "amount": "退職金・解雇手当・解決金の支払義務は法律上ゼロ",
+        "incomeLimit": "差別（人種・性別・年齢・障害等）や内部告発報復は違法",
+        "keyFeature": "「雇用主も労働者もいつでも自由に契約解除できる」という徹底した市場自由主義。企業は事前通告なしに即日解雇可能で、退職金の支払い義務もありません。ただし雇用差別訴訟のリスクを避けるため、大企業は数か月分の給与（Severance Pay）と引き換えに訴訟放棄合意を結ぶのが通例です。",
+        "source": {
+          "organization": "米国労働省 (U.S. Department of Labor)",
+          "title": "Termination | U.S. Department of Labor (解雇に関する公式労働法)",
+          "url": "https://www.dol.gov/general/topic/termination"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Kündigungsschutzgesetz (解雇制限法と法定解決金)",
+        "amount": "標準解決金: 勤続1年あたり月給の0.5か月分（最長12〜18か月分）",
+        "incomeLimit": "従業員10人超の企業で6か月以上勤務した正社員が対象",
+        "keyFeature": "経営上の理由等で解雇する際、企業が「訴訟を起こさなければ月給×勤続年数×0.5か月の解決金（Abfindung）を支払う」と提示できる制度が法律（解雇制限法1条a）に明記されています。労働裁判所に持ち込まれた場合も、裁判官が迅速に金銭和解を斡旋するのが標準です。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS)",
+          "title": "Kündigungsschutz (解雇保護制度公式ガイド)",
+          "url": "https://www.bmas.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Barème Macron (マクロン改革による不当解雇補償表)",
+        "amount": "勤続年数に応じた賠償金の下限（0.5〜3か月）と上限（1〜20か月）",
+        "incomeLimit": "労働裁判所（Conseil de prud'hommes）による判決基準",
+        "keyFeature": "かつて裁判所によって賠償額がバラバラで企業の雇用抑制を招いていたため、2017年のマクロン労働改革で勤続年数ごとの「賠償金の上限・下限テーブル」を法律で固定化。企業の法的リスクを予測可能にすることで正社員採用を促すモデルとして注目されました。",
+        "source": {
+          "organization": "フランス労働省 (Ministère du Travail)",
+          "title": "Indemnité de licenciement (解雇手当および裁判補償金基準)",
+          "url": "https://travail-emploi.gouv.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Unfair Dismissal & Statutory Redundancy (雇用審判所制度)",
+        "amount": "法定解雇手当（年功別週給）＋ 雇用審判所の損害賠償（上限約11万ポンド）",
+        "incomeLimit": "2年以上継続勤務した労働者が不公正解雇を申立て可能",
+        "keyFeature": "不公正解雇（Unfair Dismissal）の救済手段として、職場復帰（Reinstatement）を命じるケースは全体の1%未満に過ぎず、独立機関である雇用審判所（Employment Tribunal）が金銭補償を命じて関係を終了させるのが圧倒的多数派です。",
+        "source": {
+          "organization": "英国政府 (GOV.UK) / 労使調停仲裁局 (Acas)",
+          "title": "Unfair dismissal - GOV.UK (不公正解雇公式ガイド)",
+          "url": "https://www.gov.uk/dismissal/unfair-and-constructive-dismissal"
+        }
+      }
+    ]
   }
 }
