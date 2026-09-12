@@ -127,5 +127,63 @@
       "type": "official_document",
       "typeLabel": "国税庁タックスアンサー"
     }
-  ]
+  ],
+  "international": {
+    "title": "住宅ローン減税・省エネ基準適合義務化の国際比較",
+    "comparisonSummary": "家庭部門の二酸化炭素排出削減に向け、住宅ローン減税などの税制優遇の対象を『一定以上の断熱・省エネ性能を持つ住宅（ZEH水準等）』に限定・義務付ける政策が日本で2024年度から本格導入されました（一般住宅の控除廃止）。欧米主要国でも、建物のエネルギー性能証明書（EPC）やパッシブハウス基準に連動した『グリーン住宅ローン（金利引き下げ）』や、巨額の政府利子補給・減税措置が強力に推進されています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "復興金融公庫 (KfW) エコ住宅建設助成 (Klimafreundlicher Neubau - KFN)",
+        "statusOrLevel": "エネルギー効率基準（EH40）を満たす住宅にのみ数万ユーロの超低利融資と補助金",
+        "keyFeature": "建物エネルギー法（GEG）に基づき、連邦政府出資のKfW公庫がEH40（従来基準比でエネルギー消費40%以下の超高断熱住宅）新築に対し超低金利ローンと巨額の返済免除助成を給付。基準を満たさない一般住宅は公的金融支援から完全除外されます。",
+        "source": {
+          "organization": "ドイツ復興金融公庫 (KfW)",
+          "title": "Klimafreundlicher Neubau Wohngebäude - Förderprogramm (297/298)",
+          "url": "https://www.kfw.de/inlandsfoerderung/Privatpersonen/Neubau/F%C3%B6rderprodukte/Klimafreundlicher-Neubau-Wohngeb%C3%A4ude-(297-298)/"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "環境ゼロ利子住宅ローン (Éco-PTZ) ＆ 新築ゼロ利子ローン (PTZ)",
+        "statusOrLevel": "高性能住宅および省エネ断熱改修に対し利子全額を国が負担する無利子ローン",
+        "keyFeature": "エネルギー診断（DPE）で高ランクの省エネ住宅を取得または改修する場合、最大5万ユーロまで利子を国が全額肩代わりするÉco-PTZを提供。さらに2024年よりDPEの低評価物件（G/Fランク）は賃貸市場から法律上段階的に締め出されます。",
+        "source": {
+          "organization": "フランス公共サービス公式 (Service-Public.fr) / 生態移行省",
+          "title": "Éco-prêt à taux zéro (Éco-PTZ) et rénovation énergétique",
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F19905"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "グリーン・モーゲージ (Green Mortgages) ＆ エネルギー性能証明書 (EPC)",
+        "statusOrLevel": "EPC格付けAまたはBの高省エネ住宅購入者に対し金利優遇・キャッシュバック",
+        "keyFeature": "大手銀行（バークレイズ、ロイズ等）が政府と連携し、エネルギー性能証明書（EPC）がA〜Bの高断熱住宅に対し住宅ローン金利の引き下げや数百ポンドのキャッシュバックを標準提供。住宅金融市場全体が省エネ住宅に誘導されています。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "Energy Performance Certificates (EPCs) and Green Mortgages",
+          "url": "https://www.gov.uk/buy-sell-your-home/energy-performance-certificates"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦住宅局エネルギー効率住宅ローン (FHA Energy Efficient Mortgage - EEM)",
+        "statusOrLevel": "省エネ改修費用を住宅ローン借入枠に上乗せできる連邦保証制度 ＆ IRA税額控除",
+        "keyFeature": "住宅都市開発省（HUD）傘下のFHAが保証。エネルギー監査で認定された断熱材やヒートポンプ導入費用を通常融資枠を超えて住宅ローンに組み込み可能。さらにインフレ抑制法（Section 25C/45L）により最大3,200ドルの省エネ税額控除が上乗せされます。",
+        "source": {
+          "organization": "米国住宅都市開発省 (HUD)",
+          "title": "Energy Efficient Mortgage Program (EEM)",
+          "url": "https://www.hud.gov/program_offices/housing/sfh/eem/energy-r"
+        }
+      }
+    ]
+  }
 }

@@ -225,5 +225,63 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "DollarSign"
     }
-  ]
+  ],
+  "international": {
+    "title": "へき地・離島ドローン医療配送（レベル4飛行）の国際比較",
+    "comparisonSummary": "医師・物流ドライバー不足や災害時の孤立リスクを抱える過疎地・離島において、輸血用血液や処方薬、検体をドローンで自律搬送する『レベル4（有人地帯での目視外飛行）』の実装が進んでいます。アフリカのルワンダやガーナでは米Zipline社が国家契約を結び全国規模で日常配送網を確立。米国でもFAA Part 135認証による商用配送が拡大し、豪州や欧州でも遠隔地医療ドローンの規制緩和が進んでいます。日本でも2022年航空法改正によりレベル4が解禁され、離島・山間部での定期空輸が始まっています。",
+    "countries": [
+      {
+        "country": "ルワンダ",
+        "countryCode": "RW",
+        "flag": "🇷🇼",
+        "systemName": "ルワンダ民間航空局 (RCAA) 国家ドローン医療配送プログラム (Zipline)",
+        "statusOrLevel": "世界初の国家規模自律ドローン輸血網（全国の輸血用血液の75%以上をドローン空輸）",
+        "keyFeature": "2016年より保健省とZipline社が官民連携。病院からのスマホ注文後、固定翼自律ドローンが平均30分以内に山間部や離島の診療所上空へ飛来しパラシュート投下。年間数十万件以上の緊急救命実績を誇る世界最大の商用実装国です。",
+        "source": {
+          "organization": "ルワンダ民間航空局 (RCAA) / Zipline",
+          "title": "National Drone Delivery Program for Blood and Medical Supplies",
+          "url": "https://flyzipline.com/global-impact"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦航空局 (FAA) Part 135 小型航空運送事業者認証",
+        "statusOrLevel": "FAA Part 135認証による長距離・目視外（BVLOS）処方薬商用配送の承認",
+        "keyFeature": "Zipline、Alphabet傘下のWing、UPS Flight ForwardなどがFAAより航空会社と同等のPart 135認可を取得。病院ネットワーク（Intermountain Health等）や大手薬局と提携し、患者宅の庭先やへき地診療所への処方薬即時配送を実用化しています。",
+        "source": {
+          "organization": "米国連邦航空局 (FAA)",
+          "title": "Package Delivery by Drone under Part 135",
+          "url": "https://www.faa.gov/uas/advanced_operations/package_delivery_drone"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "民間航空安全局 (CASA) 遠隔操縦航空機システム (RPAS) 規制体系",
+        "statusOrLevel": "遠隔地・アウトバック向け目視外（BVLOS）医療配送の包括的承認",
+        "keyFeature": "広大な無人地帯や島嶼部を抱える豪州では、CASAが世界に先駆けて柔軟なBVLOS承認枠組みを導入。先住民族コミュニティや孤立集落への救急医薬品、ヘビ毒血清、病理検体の迅速空輸が官民で日常運用されています。",
+        "source": {
+          "organization": "オーストラリア民間航空安全局 (CASA)",
+          "title": "Beyond visual line of sight (BVLOS) operations for RPAS",
+          "url": "https://www.casa.gov.au/drones/drone-rules/beyond-visual-line-sight"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州航空安全庁 (EASA) ドローン運航規制 (Specific/Certifiedカテゴリ)",
+        "statusOrLevel": "リスク評価（SORA）に基づく目視外医療品飛行承認 ＆ U-Space空域管理",
+        "keyFeature": "EASA規則に基づき、特定カテゴリ（Specific Category）において医療品ドローン配送の型式証明・安全認証を統一。低高度空域をデジタル管理する『U-Space』の導入により、有人機との衝突を防ぎつつ過疎地への空輸を安全管理しています。",
+        "source": {
+          "organization": "欧州航空安全庁 (EASA)",
+          "title": "Civil Drones Operations in the Specific Category and U-Space",
+          "url": "https://www.easa.europa.eu/en/domains/civil-drones-rpas/specific-category-civil-drones"
+        }
+      }
+    ]
+  }
 }

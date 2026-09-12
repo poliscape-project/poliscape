@@ -127,5 +127,63 @@
       "type": "white_paper",
       "typeLabel": "国会調査資料"
     }
-  ]
+  ],
+  "international": {
+    "title": "食料品の「消費税（付加価値税）ゼロ」引き下げの国際比較",
+    "comparisonSummary": "物価高騰による家計負担を軽減するため、食料品にかかる消費税率を時限的または恒久的に『ゼロ』へ引き下げるべきだという議論が日本で活発に行われています。国際的には、英国やオーストラリアのように生活必需食料品を最初から『VATゼロ税率（またはGST非課税）』として税負担を一切課さない国がある一方、フランスやドイツのように軽減税率（5.5%〜7%）を維持しつつ低所得者への直接給付で対応する国があり、税制設計の哲学が大きく分かれています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "英国付加価値税ゼロ税率制度 (Zero-rated VAT / 1994年VAT法 スケジュール8)",
+        "statusOrLevel": "人間の消費するほぼすべての基本食料品に対する『VATゼロ税率（0%）』の恒久適用",
+        "keyFeature": "肉、魚介類、野菜、果物、パン、牛乳などの未加工・生活基本食料品はすべて付加価値税が0%（Zero-rated）。菓子類や外食、アルコール類のみ標準税率20%を課すという徹底した食卓保護の税制哲学が数十年間維持されています。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC / GOV.UK)",
+          "title": "Food products and VAT (VAT Notice 701/14) - Zero-rating rules",
+          "url": "https://www.gov.uk/guidance/food-products-and-vat-notice-70114"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "物品サービス税非課税制度 (GST-free Food / A New Tax System Act 1999)",
+        "statusOrLevel": "新鮮・未調理の食料品全般に対する『GST完全非課税（0%）』の法定",
+        "keyFeature": "2000年のGST導入時からの大原則。果物、野菜、生肉、卵、パン等の基本食料品には10%のGSTが一切課税されません。包装された調理済み食品や外食、テイクアウトのみに課税する明確な生活防衛ラインを敷いています。",
+        "source": {
+          "organization": "オーストラリア国税庁 (ATO)",
+          "title": "GST-free basic food items and beverages",
+          "url": "https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/your-industry/food-and-beverage/gst-and-food"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "売上税法 (Umsatzsteuergesetz - UStG 第12条 軽減税率)",
+        "statusOrLevel": "食料品に7%の軽減税率適用（標準税率19%） ＆ 食料品ゼロ税率導入の見送り",
+        "keyFeature": "ほぼすべての食料品に7%の軽減税率を適用。近年のインフレ下で食料品のゼロ税率化（0%）も提案されましたが、富裕層ほど絶対的な減税額が大きくなり逆進性対策として非効率であるとして見送られ、定額エネルギー手当などの直接給付で支援しました。",
+        "source": {
+          "organization": "ドイツ連邦財務省 (BMF)",
+          "title": "Der ermäßigte Steuersatz für Lebensmittel im Umsatzsteuergesetz",
+          "url": "https://www.bundesfinanzministerium.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "付加価値税超軽減税率 (Taux réduit de TVA à 5,5% / 一般租税法 第278-0 bis条)",
+        "statusOrLevel": "ほぼすべての人間消費用食料品に『5.5%』の超軽減税率を適用（標準税率20%）",
+        "keyFeature": "生活必需食料品、水、給食用食品に対し、標準税率20%を大幅に下回る5.5%の特別軽減税率を適用。ゼロ税率の導入はせず、インフレ時には低所得世帯向けにエネルギー小切手（Chèque énergie）やインフレ手当を直接配布する方式を併用しています。",
+        "source": {
+          "organization": "フランス公共サービス公式 (Service-Public.fr) / 財務省",
+          "title": "Taux de TVA pour les produits alimentaires de première nécessité",
+          "url": "https://www.service-public.fr/professionnels-entreprises/vosdroits/F23567"
+        }
+      }
+    ]
+  }
 }

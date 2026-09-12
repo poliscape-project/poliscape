@@ -127,5 +127,63 @@
       "type": "white_paper",
       "typeLabel": "国交省交通白書"
     }
-  ]
+  ],
+  "international": {
+    "title": "高齢ドライバーの運転適性検査・実車試験の国際比較",
+    "comparisonSummary": "高齢運転者によるアクセルとブレーキの踏み間違いや逆走事故を防ぐため、日本では2022年より75歳以上で一定の違反歴があるドライバーに対し、免許更新時の『運転技能検査（実車試験）』が義務化され、サポカー限定免許も創設されました。海外でも高齢者の運転適性確認制度が厳格に運用されており、オーストラリアでは75歳や85歳での毎年の医師診断や実車試験、イギリスや米国でも年齢に応じた更新期間の短縮や対面視力・認知機能検査が義務付けられています。",
+    "countries": [
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "高齢運転者免許管理制度 (Older Driver Licensing Scheme - NSW州等)",
+        "statusOrLevel": "75歳から毎年の医師医療診断書提出 ＆ 85歳から2年ごとの路上実車試験を義務化",
+        "keyFeature": "ニューサウスウェールズ州等では、75歳以降は毎年医師の運転適性診断書の提出が義務。85歳に達すると、2年ごとの路上技能試験（Practical Driving Test）に合格するか、自宅周辺のみ運転可能な地域限定免許（Modified Licence）を選択しなければなりません。",
+        "source": {
+          "organization": "ニューサウスウェールズ州運輸局 (Transport for NSW)",
+          "title": "Older driver licensing schemes and practical driving tests",
+          "url": "https://www.nsw.gov.uk/driving-boating-and-transport/driver-licences/older-driver-licences"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "高齢者運転免許更新制度 (Driver and Vehicle Licensing Agency - DVLA)",
+        "statusOrLevel": "70歳到達時に免許が自動失効 ＆ 3年ごとの更新・健康状態自己申告義務",
+        "keyFeature": "70歳の誕生日に免許証が失効し、更新には認知機能や視力、持病（てんかん、心臓疾患、糖尿病等）に関する厳格な自己申告が必要。虚偽申告や不申告で事故を起こした場合は最大1,000ポンドの罰金や刑事責任が科されます。",
+        "source": {
+          "organization": "英国運転免許庁 (DVLA / GOV.UK)",
+          "title": "Renew your driving licence if you're 70 or over",
+          "url": "https://www.gov.uk/renew-driving-licence-at-70"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "カリフォルニア州DMV シニア運転者安全プログラム (Senior Driver Safety)",
+        "statusOrLevel": "70歳以上は郵送・オンライン更新不可（対面出頭・視力検査・知識試験義務）",
+        "keyFeature": "70歳以上の運転者はDMVオフィスへの対面出頭が必須。視力検査に加え、加齢による認知機能低下や医師・家族からの通報があった場合には、追加の路上運転技能試験（Behind-the-Wheel Drive Test）が命じられます。",
+        "source": {
+          "organization": "カリフォルニア州車両管理局 (California DMV)",
+          "title": "Senior Driver Safety and License Renewal Guidelines",
+          "url": "https://www.dmv.ca.gov/portal/driver-education-and-safety/special-interest-driver-guides/senior-drivers/"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "ニュージーランド交通局 (NZTA) 高齢者免許更新制度",
+        "statusOrLevel": "75歳、80歳、以降2年ごとの医師による医療適性証明書（Medical Certificate）提出",
+        "keyFeature": "75歳および80歳到達時、その後は2年ごとに医師による詳細な健康・認知機能審査を受け、発行された運転適性証明書を提出しなければ免許の更新が認められません。医師の判断により路上適性検査が課されます。",
+        "source": {
+          "organization": "ニュージーランド交通局 (NZ Transport Agency Waka Kotahi)",
+          "title": "Renewing your driver licence at 75 and over",
+          "url": "https://www.nzta.govt.nz/driver-licences/renewing-replacing-and-updating/renewing-for-seniors/"
+        }
+      }
+    ]
+  }
 }

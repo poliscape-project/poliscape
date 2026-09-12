@@ -217,5 +217,63 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Laptop"
     }
-  ]
+  ],
+  "international": {
+    "title": "ひとり親世帯向け給付（児童扶養手当・所得制限）の国際比較",
+    "comparisonSummary": "低所得のひとり親家庭の生活の安定と子どもの貧困防止を目的とする『児童扶養手当』において、日本では2024年11月より所得制限限度額の引き上げや第3子以降の加算額倍増などの拡充が行われました。欧米諸国では、税額控除を通じた就労支援と最低所得保障を組み合わせた制度（英国のユニバーサルクレジットや米国の給付付き税額控除CTC/EITC、ドイツの児童追加手当など）により、ひとり親の就労と子どもの生活底上げを包括的に支援しています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ユニバーサル・クレジット (Universal Credit - 児童要素 Child Element)",
+        "statusOrLevel": "低所得ひとり親世帯へ月額手厚い児童加算 ＋ 託児費用最大85%補助",
+        "keyFeature": "6つの福祉給付を統合した単一給付。ひとり親世帯に対し基本給付に加え第1子・第2子への児童手当を加算支給。さらに就労している親に対しては、保育・託児所費用の最大85%（子ども1人最大月1,014ポンド）を国が直接給付して就労を後押しします。",
+        "source": {
+          "organization": "英国労働年金省 (DWP / GOV.UK)",
+          "title": "Universal Credit for single parents - Child Element",
+          "url": "https://www.gov.uk/universal-credit/what-youll-get"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "児童追加手当 (Kinderzuschlag - KiZ / 連邦児童手当法 BKGG)",
+        "statusOrLevel": "通常の児童手当に最大月292ユーロ（約4.8万円）上乗せ支給",
+        "keyFeature": "就労収入はあるものの生活保護水準に近いひとり親・低所得世帯に対し、通常の児童手当（子ども1人月250ユーロ）に加えて子ども1人最大292ユーロのKiZを上乗せ支給。さらに保育料の免除や学校給食・学用品費用の全額補助が自動適用されます。",
+        "source": {
+          "organization": "ドイツ連邦雇用庁家族基金 (Familienkasse)",
+          "title": "Kinderzuschlag: Anspruch, Höhe, Dauer",
+          "url": "https://www.arbeitsagentur.de/familie-und-kinder/kinderzuschlag-verstehen/kinderzuschlag-anspruch-hoehe-dauer"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "家族扶助手当 (ASF) ＆ 連帯積極所得 (RSA - 単身親加算)",
+        "statusOrLevel": "片親で子どもを育てる親に対しCAFから月約195ユーロ給付 ＋ 最低生活保障",
+        "keyFeature": "配偶者と死別・離婚・未婚で1人で子どもを育てる親に対し、家族手当基金（CAF）が月額約195ユーロのASFを支給。就労していない、または低所得の親にはRSAのひとり親加算により手厚い最低限度の生活保障を提供します。",
+        "source": {
+          "organization": "フランス家族手当基金 (CAF)",
+          "title": "Allocation de soutien familial (ASF) pour parent isolé",
+          "url": "https://www.caf.fr/allocataires/droits-et-prestations/s-informer-sur-les-aides/solidarite-et-insertion/l-allocation-de-soutien-familial-asf"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "貧困家庭一時扶助 (TANF) ＆ 勤労所得税額控除 (EITC)",
+        "statusOrLevel": "連邦・州共同の現金給付プログラム ＋ 就労ひとり親への最大数千ドルの還付型税制優遇",
+        "keyFeature": "極度の困窮家庭への生活保護現金給付（TANF）に加え、就労するひとり親に対しては内国歳入法に基づくEITC（最大約4,000〜7,400ドル）とChild Tax Credit（CTC）の還付により、就労インセンティブを維持しつつ貧困を脱却させる仕組みを採用しています。",
+        "source": {
+          "organization": "米国保健福祉省 (HHS / ACF)",
+          "title": "Temporary Assistance for Needy Families (TANF) and EITC support",
+          "url": "https://www.acf.hhs.gov/ofa/programs/tanf"
+        }
+      }
+    ]
+  }
 }

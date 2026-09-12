@@ -185,5 +185,63 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Calculator"
     }
-  ]
+  ],
+  "international": {
+    "title": "病院・医療法人の経営情報公開義務化・病床再編の国際比較",
+    "comparisonSummary": "地域医療構想の推進と公的医療保険財政の効率化のため、日本でも2023年改正医療法に基づき、すべての医療法人・病院に対し財務諸表や経営情報の都道府県への年次報告・公表が義務化されました。米国では非営利病院に対する詳細な税務財務開示（Form 990 Schedule H）が課され、英国やフランスでも公的監査法人による全病院の財務公開と中央統制による病床再編が徹底されています。ドイツも2024年に病院改革法（Krankenhausreform）を可決し、過剰病床の整理と経営情報透明化を進めています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "内国歳入法第501(c)(3)条 Schedule H ＆ CMS病院価格透明性規則",
+        "statusOrLevel": "非営利病院の全財務・地域利益貢献（Community Benefit）の一般完全公開義務",
+        "keyFeature": "免税措置を受ける全非営利病院に対し、IRS Form 990のSchedule Hで財務諸表、幹部報酬、無料医療提供額をインターネット公開することを義務付け。さらにCMSの規則により、全標準診療価格の機械可読ファイル公開が義務付けられています。",
+        "source": {
+          "organization": "米国税庁 (IRS)",
+          "title": "Schedule H (Form 990) Hospitals Transparency Rules",
+          "url": "https://www.irs.gov/forms-pubs/about-schedule-h-form-990"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS Trust 年次報告・財務監査基準 (NHS Foundation Trusts Accounting Manual)",
+        "statusOrLevel": "独立監査法人による監査済み財務諸表の英国議会への提出・全数公表",
+        "keyFeature": "すべてのNHSトラスト・財団病院は、NHS Englandの統制下で厳格な会計基準（GAM）に基づき年次財務報告書を作成。議会に提出されるとともに一般公開され、経営赤字の病院は中央政府の特別監督チームによる経営再建介入を受けます。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS England)",
+          "title": "NHS foundation trust annual reporting manual and financial transparency",
+          "url": "https://www.england.nhs.uk/financial-accounting-and-reporting/"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "病院財政法 (KHG) ＆ 2024年連邦病院改革法 (Krankenhausreform)",
+        "statusOrLevel": "全病院の質・財務データの国家ポータル公開 ＆ 医療グループ別の再編支援",
+        "keyFeature": "2024年成立の抜本改革。過度な出来高払い競争を抑えるため固定費用の基本予算制（Vorhaltevergütung）を導入し、連邦保健省（BMG）の『連邦病院アトラス』で全病院の専門診療実績・人員配置・財務健全性を国民向けに透明化しました。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG)",
+          "title": "Krankenhausreform: Mehr Qualität und Transparenz im Bundes-Klinik-Atlas",
+          "url": "https://www.bundesgesundheitsministerium.de/themen/gesundheitswesen/krankenhausreform.html"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "全国病院情報機関 (ATIH) ＆ 地域保健機構 (ARS) による財務監督",
+        "statusOrLevel": "公的・民間病院の全医療活動・財務データのATIH一元集約・公開",
+        "keyFeature": "ATIHが全国の病院の活動記録（PMSI）と財務会計データを集約。地域保健機構（ARS）が地域の病床過不足と各病院の経営状態を常時監査し、赤字病院に対しては公的資金による再編・ダウンサイジングを命令・執行します。",
+        "source": {
+          "organization": "フランス全国病院情報機関 (ATIH)",
+          "title": "Données financières et d'activité hospitalière",
+          "url": "https://www.atih.sante.fr/"
+        }
+      }
+    ]
+  }
 }

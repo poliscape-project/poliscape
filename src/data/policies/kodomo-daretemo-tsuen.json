@@ -247,5 +247,63 @@
         "commentStandard": "「本格的な就労やリスキリングには利用枠が少なすぎ、月30時間以上への拡充を望む」"
       }
     ]
+  },
+  "international": {
+    "title": "就学前保育・無条件通園アクセス権の国際比較",
+    "comparisonSummary": "親の就労要件（共働き等）を問わず、生後6カ月から満3歳未満の未就学児が月一定時間まで保育所等を利用できる『こども誰でも通園制度』が日本で創設されました。欧州主要国ではさらに進んでおり、スウェーデンやドイツでは1歳に達したすべての子どもに対し、親の就労状況に関係なく保育所枠を公費で保障する『法的な通園請求権（Rechtsanspruch）』が確立しています。フランスも3歳からの幼児教育を完全義務化しており、保育を『親の就労支援』から『子どもの基本的権利』と捉える国際潮流が強まっています。",
+    "countries": [
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "就学前学校制度 (Förskola / 教育法典 第8章)",
+        "statusOrLevel": "親の就労不問・1歳からすべての子どもに通園権利を法律上保障（週15時間無料）",
+        "keyFeature": "親が失業中や育児休業中であっても、1歳に達した全児童に自治体が4カ月以内に就学前学校（Förskola）の枠を提供する法定義務を規定。3歳以上は年間525時間（週15時間）が完全無償、利用料も所得に応じた上限規制（Maxtaxa）が徹底されています。",
+        "source": {
+          "organization": "スウェーデン国家教育庁 (Skolverket)",
+          "title": "Rätt till förskola - Utbildningsdepartementet",
+          "url": "https://www.skolverket.se/regler-och-ansvar/ansvar-i-skolfragor/ratt-till-forskola"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "保育所法約請求権 (Rechtsanspruch auf einen Kita-Platz / 社会法典第8編 SGB VIII 第24条)",
+        "statusOrLevel": "1歳以上の子どもに対する保育所（Kita）利用枠の法的請求権を明文化",
+        "keyFeature": "2013年8月施行。1歳から就学前までのすべての子どもは、親が働いているかどうかにかかわらず、保育所または保育ママ（Kindertagespflege）の枠を自治体に法的に請求する権利を保持。自治体が枠を用意できない場合、私立利用費用の補填や損害賠償が裁判で認められます。",
+        "source": {
+          "organization": "ドイツ連邦家族・高齢者・女性・青少年省 (BMFSFJ)",
+          "title": "Rechtsanspruch auf Kindertagesbetreuung ab dem 1. Geburtstag",
+          "url": "https://www.bmfsfj.de/bmfsfj/themen/familie/kinderbetreuung/rechtsanspruch-kindertagesbetreuung-73892"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "幼児学校義務教育化 (École maternelle / 2019年信頼できる学校のための法律)",
+        "statusOrLevel": "3歳からの全児童の学校通園を完全義務教育化（学費完全無料）",
+        "keyFeature": "2019年9月より義務教育開始年齢を6歳から3歳へ引き下げ、3歳児の幼児学校就学率ほぼ100%を公費で達成。3歳未満の乳幼児に対しても公立保育所（Crèche）へのアクセスが親の就労有無にかかわらず自治体割り当てで提供されます。",
+        "source": {
+          "organization": "フランス国民教育省 (Ministère de l'Éducation nationale)",
+          "title": "L'école maternelle et l'abaissement de l'instruction obligatoire à 3 ans",
+          "url": "https://www.education.gouv.fr/l-ecole-maternelle-11534"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "公費無償保育枠 (15 to 30 hours free childcare scheme)",
+        "statusOrLevel": "全3〜4歳児に週15時間の無償保育枠 ＋ 就労親には週30時間へ拡大",
+        "keyFeature": "イングランドでは親の就労に関係なく、すべての3〜4歳児に年間38週・週15時間の公費無償保育枠（Universal Entitlement）を提供。さらに就労家庭には週30時間まで拡大し、2024年以降は9カ月児からの段階的無償化が進行しています。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "Help paying for childcare - 15 and 30 hours free childcare schemes",
+          "url": "https://www.gov.uk/help-with-childcare-costs/free-childcare-and-education-for-2-to-4-year-olds"
+        }
+      }
+    ]
   }
 }

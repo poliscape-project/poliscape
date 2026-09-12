@@ -241,5 +241,63 @@
         "commentStandard": "「過熱したポイント合戦の是正はやむを得ないが、お得感が減った印象は否めない」"
       }
     ]
+  },
+  "international": {
+    "title": "ふるさと納税（寄付金税制・返礼品規制）の国際比較",
+    "comparisonSummary": "自治体へ寄付を行うことで所得税・住民税が控除され、地域の特産品等の返礼品を受け取れる日本の『ふるさと納税』は、地方創生や税の使途選択という側面を持つ一方、豪華返礼品競争や仲介サイトのポイント付与による過度な歪みが問題化し、ポイント付与禁止（2025年10月）や経費5割ルールの厳格化が進められています。欧米の寄付金控除税制では『個人的な見返り（Quid pro quo / 反対給付）』の受領は厳格に禁止または寄付額から控除除外されるのが大前提となっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "慈善寄付金控除 (Charitable Contribution Deductions / IRC § 170)",
+        "statusOrLevel": "返礼品の見返り（Quid Pro Quo）の価値は寄付控除対象から厳格に除外",
+        "keyFeature": "寄付に伴い物品やサービスを受け取った場合、受け取ったものの公正市場価値（Fair Market Value）を寄付総額から差し引いた差額のみが所得税控除の対象。75ドルを超える見返りがある場合、寄付受領団体に見返り価値の書面開示が連邦税法で義務付けられています。",
+        "source": {
+          "organization": "米国税庁 (IRS)",
+          "title": "Charitable Contributions: Substantiation and Disclosure - Quid Pro Quo",
+          "url": "https://www.irs.gov/charities-non-profits/charitable-contributions-quid-pro-quo-contributions"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ギフトエイド制度 (Gift Aid / 2007年所得税法 ITA Part 8)",
+        "statusOrLevel": "政府が寄付受領団体へ25%直接上乗せ給付 ＆ 個人的見返りの厳格な上限規制",
+        "keyFeature": "納税者の寄付に対し政府が税金を払い戻して受領団体へ直接25%上乗せ送金。寄付者に提供できる見返り（特典・記念品）は寄付額に応じて厳格なパーセンテージ上限（寄付100ポンド超は最大5%かつ上限2,500ポンド）が法律で定められています。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC / GOV.UK)",
+          "title": "Claiming Gift Aid as a charity: donor benefit rules",
+          "url": "https://www.gov.uk/claim-gift-aid/donor-benefits"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "公益寄付金税額控除 (Réduction d'impôt pour don / 一般租税法 第200条)",
+        "statusOrLevel": "寄付額の66〜75%を手厚く税額控除 ＆ 反対給付物品は最大65ユーロ以下に制限",
+        "keyFeature": "公益団体や非営利団体への寄付金に対し、所得税額から直接66%（困窮者支援は75%）を差し引く強力な控除。ただし寄付への見返り物品（Contrapartie）は寄付額の25%以下かつ年間65ユーロ以下という象徴的な記念品に限定されています。",
+        "source": {
+          "organization": "フランス公共サービス公式 (Service-Public.fr) / 財務省",
+          "title": "Réduction d'impôt pour les dons aux associations et organismes d'intérêt général",
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F426"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "寄付金特別支出控除 (Spendenabzug / 所得税法 EStG 第10条b)",
+        "statusOrLevel": "公益寄付の所得控除（最大所得の20%まで） ＆ 個人的反対給付（返礼品）は完全禁止",
+        "keyFeature": "慈善目的や学術・地域振興への寄付金は所得の最大20%まで課税所得から控除可能。ただし税務署（Finanzamt）の厳格な規律により、寄付に伴って寄付者が個人的な経済的利益や返礼品を受け取ることは原則として一切禁止されています。",
+        "source": {
+          "organization": "ドイツ連邦財務省 (BMF)",
+          "title": "Steuerliche Absetzbarkeit von Spenden - Einkommensteuergesetz § 10b",
+          "url": "https://www.bundesfinanzministerium.de"
+        }
+      }
+    ]
   }
 }

@@ -217,5 +217,63 @@
         "commentStandard": "「職務質問のたびにマイナンバーまで提示させられる構造になり、プライバシー侵害の懸念がある」"
       }
     ]
+  },
+  "international": {
+    "title": "在留カードと国家デジタルIDの一体化の国際比較",
+    "comparisonSummary": "日本に中長期滞在する外国人に対し、出入国在留管理庁が発行する『在留カード』と総務省の『マイナンバーカード』を1枚に統合する『特定在留カード』の創設法が2024年に成立しました。海外の先進国では、在留許可証に生体認証チップを組み込み、行政サービスポータルや銀行口座開設、納税システムと一体化したデジタルIDカードとして運用することが標準仕様となっています。",
+    "countries": [
+      {
+        "country": "エストニア",
+        "countryCode": "EE",
+        "flag": "🇪🇪",
+        "systemName": "在留外国人デジタルIDカード (Digital Identity Card for Residents)",
+        "statusOrLevel": "居住許可（Residence Permit）と国家PKI電子署名IDの完全一体化カード",
+        "keyFeature": "滞在許可を持つすべての外国人にICチップ搭載のデジタルIDカードを発行。エストニア国民と全く同一のインフラ（X-Road）を通じて、確定申告、処方箋受け取り、銀行口座開設、法人登記などあらゆる行政サービスをオンライン完結できます。",
+        "source": {
+          "organization": "エストニア警察・国境警備局 (Politsei- ja Piirivalveamet)",
+          "title": "Residence permit card and digital identification",
+          "url": "https://www.politsei.ee/en/instructions/residence-permit-card"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU統一滞在許可証規則 (Regulation (EC) No 1030/2002 ＆ 2017年改正)",
+        "statusOrLevel": "全EU加盟国で生体認証（指紋・顔写真）チップ搭載の共通統一フォーマットカード",
+        "keyFeature": "第三国出身者に対する滞在許可証の偽造・不正利用を防ぐため、生体認証データを格納した安全性の高い統一ICカード規格を全加盟国に義務付け。域内シェンゲン協定エリア内での出入国審査や警察照会と完全連動しています。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - Migration and Home Affairs)",
+          "title": "Uniform format for residence permits for third-country nationals",
+          "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/legal-migration-and-integration/residence-documents-non-eu-nationals_en"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "雇用パスカード (Employment Pass / S Pass) ＆ Singpass連携",
+        "statusOrLevel": "人材開発省（MOM）発行のIC身分証 ＋ 国家デジタルID Singpassへの即時登録",
+        "keyFeature": "就労ビザ保持者に対し生体認証登録済みのICパスカードを交付。このFIN（外国籍登録番号）を用いて即座に国家認証基盤Singpassのアカウントが開設され、公的医療や税務、民間銀行取引が一元的デジタル認証で処理されます。",
+        "source": {
+          "organization": "シンガポール人材開発省 (Ministry of Manpower - MOM)",
+          "title": "Work passes and Singpass digital access for foreign employees",
+          "url": "https://www.mom.gov.sg/passes-and-permits"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "永住者カード (Green Card / Form I-551) ＆ 社会保障番号 (SSN) 連携",
+        "statusOrLevel": "連邦移民局（USCIS）による高セキュリティ生体認証カード ＆ 就労・納税管理",
+        "keyFeature": "合法的永住権（LPR）保持者に発行されるGreen Cardは、ホログラムや光学的可変インクを用いた最高水準の身分証。社会保障庁（SSA）のSSNカードと連動し、全米の就労資格確認システム（E-Verify）で瞬時に合法性が照合されます。",
+        "source": {
+          "organization": "米国市民権・移民局 (USCIS)",
+          "title": "Permanent Resident Card (Green Card) Security Features",
+          "url": "https://www.uscis.gov/green-card"
+        }
+      }
+    ]
   }
 }

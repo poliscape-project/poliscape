@@ -217,5 +217,63 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Heart"
     }
-  ]
+  ],
+  "international": {
+    "title": "特別養子縁組制度・社会的養護の国際比較",
+    "comparisonSummary": "生みの親との法的な親子関係を解消し、育ての親（養親）との間に実子と同等の法的親子関係を成立させる『特別養子縁組制度』は、家庭に恵まれない子どもの権利を守るための制度です。日本は2020年の民法改正で対象年齢の上限を『原則6歳未満』から『原則15歳未満』へ大幅に引き上げました。欧米主要国では施設養護よりも里親・特別養子縁組などの家庭養護（Family-based Care）が圧倒的に優先されており、米国のオープン・アドプションや英国の地方自治体主導の縁組制度が確立しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "養子縁組安全家族法 (Adoption and Safe Families Act - ASFA 1997)",
+        "statusOrLevel": "フォスターケア（里親制度）からの養子縁組推進 ＆ オープン・アドプションの普及",
+        "keyFeature": "社会的養護の児童が施設ではなく家庭で育つことを連邦法で義務付け。フォスターケアに預けられた子どもの実親への親権回復が困難と判断された場合、迅速に養子縁組へ移行させる手続きを確立。生みの親との交流を一定程度保つオープン・アドプションも広く定着しています。",
+        "source": {
+          "organization": "米国保健福祉省 (HHS / ACF - Children's Bureau)",
+          "title": "Adoption and Safe Families Act of 1997 (ASFA)",
+          "url": "https://www.acf.hhs.gov/cb/laws-policies/adoption-safe-families-act"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "2002年養子縁組及び児童法 (Adoption and Children Act 2002)",
+        "statusOrLevel": "地方自治体主導の公的養子縁組 ＆ 『子どもの最善の利益』を生涯にわたり最優先",
+        "keyFeature": "裁判所および自治体は、養子縁組の決定において子どもの福祉と最善の利益を生涯にわたる最優先事項として考慮。養親家庭に対する養育費補助（Adoption Support Fund）や専門的な心理セラピー支援が手厚く制度化されています。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "Child adoption legal process and Adoption Support Fund",
+          "url": "https://www.gov.uk/child-adoption"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "完全養子縁組 (Adoption plénière / 民法典 第343条以下)",
+        "statusOrLevel": "実親との親子関係を完全に断絶し実子と同一の身分を付与（2022年養子縁組改革法）",
+        "keyFeature": "完全養子縁組により、元の血族関係が完全に解消され、新たな養親との間に強固な親子関係を創設。2022年改正により未婚の同棲カップルやPACS（連帯市民協約）カップルにも養子縁組の資格が拡大されました。",
+        "source": {
+          "organization": "フランス公共サービス公式 (Service-Public.fr)",
+          "title": "Adoption plénière d'un enfant : conditions et procédure",
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F15246"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "養子縁組仲介法 (Adoptionsvermittlungsgesetz - AdVermiG) ＆ 民法第1741条",
+        "statusOrLevel": "公認機関（青年局または認可民間団体）による公的仲介の独占・営利仲介の完全禁止",
+        "keyFeature": "子どもの人身売買を防ぐため、養子縁組の仲介は公立の青年局（Jugendamt）または国が認可した非営利団体のみに厳格に限定。裁判所が養親の適格性と子どもの福祉を総合的に判断し、実親との関係を完全に断つ縁組が成立します。",
+        "source": {
+          "organization": "ドイツ連邦家族・高齢者・女性・青少年省 (BMFSFJ)",
+          "title": "Adoptionsvermittlung und Rechtsgrundlagen",
+          "url": "https://www.bmfsfj.de/bmfsfj/themen/familie/chancen-und-foerderung/adoption"
+        }
+      }
+    ]
+  }
 }
