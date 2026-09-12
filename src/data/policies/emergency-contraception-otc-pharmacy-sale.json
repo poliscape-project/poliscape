@@ -237,7 +237,7 @@
         "source": {
           "organization": "英国国民保健サービス (NHS)",
           "title": "Emergency contraception (morning after pill, IUD)",
-          "url": "https://www.nhs.uk/contraception/methods-of-contraception/emergency-contraception/"
+          "url": "https://www.nhs.uk/contraception/methods-of-contraception"
         }
       },
       {
@@ -267,7 +267,7 @@
         "source": {
           "organization": "ドイツ連邦医薬品医療機器研究所 (BfArM) / 連邦保健省",
           "title": "Rezeptfreie Bereitstellung der Notfallkontrazeptiva",
-          "url": "https://www.bfarm.de/DE/Arzneimittel/Pharmakovigilanz/Risikobewertungsverfahren/Pille-danach/_node.html"
+          "url": "https://www.bfarm.de/DE/Arzneimittel/Pharmakovigilanz"
         }
       }
     ]

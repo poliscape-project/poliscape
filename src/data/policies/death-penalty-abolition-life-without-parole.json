@@ -200,7 +200,7 @@
         "source": {
           "organization": "フランス法務省 (Ministère de la Justice) / 憲法評議会",
           "title": "Loi n° 81-908 du 9 octobre 1981 portant abolition de la peine de mort",
-          "url": "https://www.justice.gouv.fr/actualites/actualite/labolition-peine-mort-france"
+          "url": "https://www.justice.gouv.fr/actualites"
         }
       },
       {
@@ -239,7 +239,7 @@
         "source": {
           "organization": "米国司法省 (DOJ) / 死刑情報センター (DPIC)",
           "title": "Bureau of Justice Statistics: Capital Punishment",
-          "url": "https://bjs.ojp.gov/topics/courts/capital-punishment"
+          "url": "https://bjs.ojp.gov/topics/courts"
         }
       }
     ]
