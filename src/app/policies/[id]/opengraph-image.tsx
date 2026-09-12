@@ -5,125 +5,136 @@ export const runtime = "nodejs";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
-// カテゴリ別カラーテーマ（背景色そのものが大きく変化）
+// カテゴリ別カラーテーマ（鮮やかさを大幅UP＆白文字を保護するジュエルトーン設計）
 const categoryThemes: Record<
   string,
   {
     bgGradient: string;
+    glowTopRight: string;
+    glowBottomLeft: string;
+    logoColor: string;
     badgeBg: string;
-    badgeText: string;
     badgeBorder: string;
-    accentBorder: string;
-    glowColor: string;
     label: string;
   }
 > = {
   childcare: {
-    bgGradient: "linear-gradient(135deg, #064e3b 0%, #022c22 65%, #011710 100%)", // 深いエメラルドグリーン
-    badgeBg: "#05966944",
-    badgeText: "#6ee7b7",
-    badgeBorder: "#34d399",
-    accentBorder: "#10b98166",
-    glowColor: "#10b98133",
+    // 鮮やかで温かみのあるエメラルドグリーン
+    bgGradient: "linear-gradient(135deg, #059669 0%, #047857 50%, #064e3b 100%)",
+    glowTopRight: "rgba(110, 231, 183, 0.45)",
+    glowBottomLeft: "rgba(16, 185, 129, 0.3)",
+    logoColor: "#047857",
+    badgeBg: "rgba(255, 255, 255, 0.22)",
+    badgeBorder: "rgba(255, 255, 255, 0.9)",
     label: "子育て・家族",
   },
   tax: {
-    bgGradient: "linear-gradient(135deg, #78350f 0%, #451a03 65%, #230b01 100%)", // 深いゴールド・アンバー
-    badgeBg: "#d9770644",
-    badgeText: "#fde68a",
-    badgeBorder: "#fbbf24",
-    accentBorder: "#f59e0b66",
-    glowColor: "#f59e0b33",
+    // 鮮やかなゴールド・リッチアンバー
+    bgGradient: "linear-gradient(135deg, #d97706 0%, #b45309 50%, #78350f 100%)",
+    glowTopRight: "rgba(253, 230, 138, 0.45)",
+    glowBottomLeft: "rgba(245, 158, 11, 0.3)",
+    logoColor: "#b45309",
+    badgeBg: "rgba(255, 255, 255, 0.22)",
+    badgeBorder: "rgba(255, 255, 255, 0.9)",
     label: "税金・お金",
   },
   economy: {
-    bgGradient: "linear-gradient(135deg, #0e7490 0%, #083344 65%, #021a24 100%)", // 深いオーシャンシアン
-    badgeBg: "#0891b244",
-    badgeText: "#a5f3fc",
-    badgeBorder: "#22d3ee",
-    accentBorder: "#06b6d466",
-    glowColor: "#06b6d433",
+    // 鮮やかなオーシャンシアン・ティール
+    bgGradient: "linear-gradient(135deg, #0284c7 0%, #0369a1 50%, #0c4a6e 100%)",
+    glowTopRight: "rgba(125, 211, 252, 0.45)",
+    glowBottomLeft: "rgba(14, 165, 233, 0.3)",
+    logoColor: "#0369a1",
+    badgeBg: "rgba(255, 255, 255, 0.22)",
+    badgeBorder: "rgba(255, 255, 255, 0.9)",
     label: "経済・産業",
   },
   healthcare: {
-    bgGradient: "linear-gradient(135deg, #881337 0%, #4c0519 65%, #24020a 100%)", // 深いワインローズ
-    badgeBg: "#e11d4844",
-    badgeText: "#fecdd3",
-    badgeBorder: "#fb7185",
-    accentBorder: "#f43f5e66",
-    glowColor: "#f43f5e33",
+    // 鮮やかで品のあるルビーローズ
+    bgGradient: "linear-gradient(135deg, #e11d48 0%, #be123c 50%, #881337 100%)",
+    glowTopRight: "rgba(254, 205, 211, 0.45)",
+    glowBottomLeft: "rgba(244, 63, 94, 0.3)",
+    logoColor: "#be123c",
+    badgeBg: "rgba(255, 255, 255, 0.22)",
+    badgeBorder: "rgba(255, 255, 255, 0.9)",
     label: "医療・健康・福祉",
   },
   pension: {
-    bgGradient: "linear-gradient(135deg, #581c87 0%, #2e1065 65%, #150630 100%)", // 深いロイヤルパープル
-    badgeBg: "#9333ea44",
-    badgeText: "#e9d5ff",
-    badgeBorder: "#c084fc",
-    accentBorder: "#a855f766",
-    glowColor: "#a855f733",
+    // 鮮やかなロイヤルバイオレット
+    bgGradient: "linear-gradient(135deg, #7c3aed 0%, #6d28d9 50%, #4c1d95 100%)",
+    glowTopRight: "rgba(216, 180, 254, 0.45)",
+    glowBottomLeft: "rgba(168, 85, 247, 0.3)",
+    logoColor: "#6d28d9",
+    badgeBg: "rgba(255, 255, 255, 0.22)",
+    badgeBorder: "rgba(255, 255, 255, 0.9)",
     label: "年金・社会保障",
   },
   labor: {
-    bgGradient: "linear-gradient(135deg, #9a3412 0%, #431407 65%, #240802 100%)", // 深いウォームオレンジ
-    badgeBg: "#ea580c44",
-    badgeText: "#fed7aa",
-    badgeBorder: "#fb923c",
-    accentBorder: "#f9731666",
-    glowColor: "#f9731633",
+    // 明るく活力のあるビビッドオレンジ
+    bgGradient: "linear-gradient(135deg, #ea580c 0%, #c2410c 50%, #7c2d12 100%)",
+    glowTopRight: "rgba(254, 215, 170, 0.45)",
+    glowBottomLeft: "rgba(249, 115, 22, 0.3)",
+    logoColor: "#c2410c",
+    badgeBg: "rgba(255, 255, 255, 0.22)",
+    badgeBorder: "rgba(255, 255, 255, 0.9)",
     label: "働き方・雇用",
   },
   education: {
-    bgGradient: "linear-gradient(135deg, #1e3a8a 0%, #172554 65%, #091026 100%)", // 深いコバルトブルー
-    badgeBg: "#2563eb44",
-    badgeText: "#bfdbfe",
-    badgeBorder: "#60a5fa",
-    accentBorder: "#3b82f666",
-    glowColor: "#3b82f633",
+    // 知的で鮮烈なコバルトブルー
+    bgGradient: "linear-gradient(135deg, #2563eb 0%, #1d4ed8 50%, #1e3a8a 100%)",
+    glowTopRight: "rgba(191, 219, 254, 0.45)",
+    glowBottomLeft: "rgba(59, 130, 246, 0.3)",
+    logoColor: "#1d4ed8",
+    badgeBg: "rgba(255, 255, 255, 0.22)",
+    badgeBorder: "rgba(255, 255, 255, 0.9)",
     label: "教育・研究・文化",
   },
   digital: {
-    bgGradient: "linear-gradient(135deg, #0369a1 0%, #082f49 65%, #021726 100%)", // 深いスカイブルー
-    badgeBg: "#0284c744",
-    badgeText: "#bae6fd",
-    badgeBorder: "#38bdf8",
-    accentBorder: "#0ea5e966",
-    glowColor: "#0ea5e933",
+    // 先進的なエレクトリックシアン
+    bgGradient: "linear-gradient(135deg, #0284c7 0%, #0369a1 50%, #075985 100%)",
+    glowTopRight: "rgba(186, 230, 253, 0.45)",
+    glowBottomLeft: "rgba(14, 165, 233, 0.3)",
+    logoColor: "#0284c7",
+    badgeBg: "rgba(255, 255, 255, 0.22)",
+    badgeBorder: "rgba(255, 255, 255, 0.9)",
     label: "デジタル・IT・AI",
   },
   transport: {
-    bgGradient: "linear-gradient(135deg, #854d0e 0%, #422006 65%, #1f0e02 100%)", // 深いテラコッタ・アンバー
-    badgeBg: "#ca8a0444",
-    badgeText: "#fef08a",
-    badgeBorder: "#facc15",
-    accentBorder: "#eab30866",
-    glowColor: "#eab30833",
+    // 活発なイエローゴールド・テラコッタ
+    bgGradient: "linear-gradient(135deg, #ca8a04 0%, #a16207 50%, #713f12 100%)",
+    glowTopRight: "rgba(254, 240, 138, 0.45)",
+    glowBottomLeft: "rgba(234, 179, 8, 0.3)",
+    logoColor: "#a16207",
+    badgeBg: "rgba(255, 255, 255, 0.22)",
+    badgeBorder: "rgba(255, 255, 255, 0.9)",
     label: "交通・モビリティ・物流",
   },
   environment: {
-    bgGradient: "linear-gradient(135deg, #14532d 0%, #052e16 65%, #02170a 100%)", // 深いフォレストグリーン
-    badgeBg: "#16a34a44",
-    badgeText: "#bbf7d0",
-    badgeBorder: "#4ade80",
-    accentBorder: "#22c55e66",
-    glowColor: "#22c55e33",
+    // 瑞々しいフォレストライムグリーン
+    bgGradient: "linear-gradient(135deg, #16a34a 0%, #15803d 50%, #14532d 100%)",
+    glowTopRight: "rgba(187, 247, 208, 0.45)",
+    glowBottomLeft: "rgba(34, 197, 94, 0.3)",
+    logoColor: "#15803d",
+    badgeBg: "rgba(255, 255, 255, 0.22)",
+    badgeBorder: "rgba(255, 255, 255, 0.9)",
     label: "環境・エネルギー・防災",
   },
   society: {
-    bgGradient: "linear-gradient(135deg, #334155 0%, #0f172a 65%, #020617 100%)", // 深いスレートネイビー
-    badgeBg: "#47556944",
-    badgeText: "#e2e8f0",
-    badgeBorder: "#94a3b8",
-    accentBorder: "#64748b66",
-    glowColor: "#64748b33",
+    // モダンで重厚感のあるディープスレート
+    bgGradient: "linear-gradient(135deg, #475569 0%, #334155 50%, #1e293b 100%)",
+    glowTopRight: "rgba(226, 232, 240, 0.45)",
+    glowBottomLeft: "rgba(100, 116, 139, 0.3)",
+    logoColor: "#334155",
+    badgeBg: "rgba(255, 255, 255, 0.22)",
+    badgeBorder: "rgba(255, 255, 255, 0.9)",
     label: "社会・安全保障・司法",
   },
   default: {
-    bgGradient: "linear-gradient(135deg, #0e7490 0%, #083344 65%, #021a24 100%)",
-    badgeBg: "#0891b244",
-    badgeText: "#a5f3fc",
-    badgeBorder: "#22d3ee",
-    accentBorder: "#06b6d466",
-    glowColor: "#06b6d433",
+    bgGradient: "linear-gradient(135deg, #0284c7 0%, #0369a1 50%, #0c4a6e 100%)",
+    glowTopRight: "rgba(125, 211, 252, 0.45)",
+    glowBottomLeft: "rgba(14, 165, 233, 0.3)",
+    logoColor: "#0369a1",
+    badgeBg: "rgba(255, 255, 255, 0.22)",
+    badgeBorder: "rgba(255, 255, 255, 0.9)",
     label: "政策",
   },
 };
@@ -143,11 +154,11 @@ export default async function Image({ params }: Props) {
           style={{
             width: "1200px",
             height: "630px",
-            background: "linear-gradient(135deg, #0f172a 0%, #1e293b 100%)",
+            background: "linear-gradient(135deg, #064e3b 0%, #022c22 100%)",
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
-            color: "#94a3b8",
+            color: "#ffffff",
             fontSize: "48px",
             fontWeight: "bold",
           }}
@@ -175,25 +186,38 @@ export default async function Image({ params }: Props) {
           background: theme.bgGradient,
           display: "flex",
           flexDirection: "column",
-          padding: "60px 72px",
+          padding: "54px 68px",
           position: "relative",
           fontFamily: "sans-serif",
         }}
       >
-        {/* 装飾：右上の光（カテゴリ色） */}
+        {/* 装飾光1：右上の大きな光（鮮やかさUP） */}
         <div
           style={{
             position: "absolute",
-            top: "-100px",
-            right: "-100px",
-            width: "500px",
-            height: "500px",
+            top: "-120px",
+            right: "-120px",
+            width: "600px",
+            height: "600px",
             borderRadius: "50%",
-            background: `radial-gradient(circle, ${theme.glowColor} 0%, transparent 70%)`,
+            background: `radial-gradient(circle, ${theme.glowTopRight} 0%, transparent 68%)`,
           }}
         />
 
-        {/* ロゴ行（文字化けなしのクリーンなデザイン） */}
+        {/* 装飾光2：左下の補助光（リッチな奥行き） */}
+        <div
+          style={{
+            position: "absolute",
+            bottom: "-100px",
+            left: "-100px",
+            width: "450px",
+            height: "450px",
+            borderRadius: "50%",
+            background: `radial-gradient(circle, ${theme.glowBottomLeft} 0%, transparent 70%)`,
+          }}
+        />
+
+        {/* ロゴ行（高コントラスト＆クリーン） */}
         <div
           style={{
             display: "flex",
@@ -204,16 +228,17 @@ export default async function Image({ params }: Props) {
         >
           <div
             style={{
-              width: "36px",
-              height: "36px",
-              borderRadius: "8px",
-              background: theme.badgeText,
+              width: "38px",
+              height: "38px",
+              borderRadius: "10px",
+              background: "#ffffff",
               display: "flex",
               alignItems: "center",
               justifyContent: "center",
-              color: "#022c22",
-              fontSize: "22px",
+              color: theme.logoColor,
+              fontSize: "24px",
               fontWeight: "900",
+              boxShadow: "0 4px 12px rgba(0,0,0,0.25)",
             }}
           >
             P
@@ -221,27 +246,30 @@ export default async function Image({ params }: Props) {
           <span
             style={{
               color: "#ffffff",
-              fontSize: "24px",
-              fontWeight: "800",
+              fontSize: "25px",
+              fontWeight: "900",
               letterSpacing: "0.02em",
+              textShadow: "0 2px 6px rgba(0,0,0,0.35)",
             }}
           >
             PoliScape
           </span>
           <span
             style={{
-              color: "#ffffff99",
-              fontSize: "18px",
-              fontWeight: "500",
+              color: "#ffffffdd",
+              fontSize: "19px",
+              fontWeight: "600",
+              textShadow: "0 2px 6px rgba(0,0,0,0.35)",
             }}
           >
             ポリスケープ
           </span>
           <span
             style={{
-              color: "#ffffff66",
+              color: "#ffffffb0",
               fontSize: "16px",
               marginLeft: "8px",
+              textShadow: "0 1px 4px rgba(0,0,0,0.3)",
             }}
           >
             | 公的データ政策プラットフォーム
@@ -249,19 +277,21 @@ export default async function Image({ params }: Props) {
         </div>
 
         {/* メインコンテンツ */}
-        <div style={{ display: "flex", flexDirection: "column", gap: "22px" }}>
+        <div style={{ display: "flex", flexDirection: "column", gap: "20px" }}>
           {/* カテゴリ・ステータスバッジ */}
           <div style={{ display: "flex", gap: "14px", alignItems: "center" }}>
             <div
               style={{
                 background: theme.badgeBg,
                 border: `2px solid ${theme.badgeBorder}`,
-                borderRadius: "20px",
-                padding: "8px 22px",
-                color: theme.badgeText,
-                fontSize: "20px",
-                fontWeight: "800",
-                letterSpacing: "0.02em",
+                borderRadius: "24px",
+                padding: "8px 24px",
+                color: "#ffffff",
+                fontSize: "21px",
+                fontWeight: "900",
+                letterSpacing: "0.03em",
+                boxShadow: "0 4px 14px rgba(0,0,0,0.2)",
+                textShadow: "0 1px 3px rgba(0,0,0,0.4)",
               }}
             >
               {theme.label}
@@ -269,13 +299,14 @@ export default async function Image({ params }: Props) {
             {statusLabel ? (
               <div
                 style={{
-                  background: "#ffffff1f",
-                  border: "1.5px solid #ffffff44",
-                  borderRadius: "20px",
+                  background: "rgba(0, 0, 0, 0.25)",
+                  border: "1.5px solid rgba(255, 255, 255, 0.4)",
+                  borderRadius: "24px",
                   padding: "8px 20px",
-                  color: "#e2e8f0",
+                  color: "#ffffff",
                   fontSize: "17px",
-                  fontWeight: "500",
+                  fontWeight: "600",
+                  textShadow: "0 1px 3px rgba(0,0,0,0.4)",
                 }}
               >
                 {statusLabel}
@@ -283,32 +314,34 @@ export default async function Image({ params }: Props) {
             ) : null}
           </div>
 
-          {/* タイトル */}
+          {/* タイトル（白文字を際立たせる二重ドロップシャドウ） */}
           <div
             style={{
               color: "#ffffff",
-              fontSize: title.length > 20 ? "50px" : "60px",
+              fontSize: title.length > 20 ? "52px" : "62px",
               fontWeight: "900",
-              lineHeight: "1.22",
+              lineHeight: "1.2",
               letterSpacing: "-0.02em",
-              textShadow: "0 2px 10px rgba(0,0,0,0.3)",
+              textShadow: "0 3px 14px rgba(0,0,0,0.65), 0 1px 4px rgba(0,0,0,0.9)",
             }}
           >
             {title}
           </div>
 
-          {/* キャッチフレーズ */}
+          {/* キャッチフレーズ（鮮明なホワイト＋シャドウ） */}
           {catchphrase ? (
             <div
               style={{
-                color: "#e2e8f0e0",
+                color: "#ffffff",
                 fontSize: "24px",
-                lineHeight: "1.55",
-                maxWidth: "960px",
+                lineHeight: "1.5",
+                maxWidth: "980px",
+                textShadow: "0 2px 8px rgba(0,0,0,0.6), 0 1px 2px rgba(0,0,0,0.9)",
+                fontWeight: "500",
               }}
             >
-              {catchphrase.length > 60
-                ? catchphrase.slice(0, 60) + "…"
+              {catchphrase.length > 62
+                ? catchphrase.slice(0, 62) + "…"
                 : catchphrase}
             </div>
           ) : null}
@@ -322,16 +355,17 @@ export default async function Image({ params }: Props) {
             justifyContent: "space-between",
             marginTop: "auto",
             paddingTop: "24px",
-            borderTop: `1.5px solid ${theme.accentBorder}`,
+            borderTop: "2px solid rgba(255, 255, 255, 0.3)",
           }}
         >
           <div
             style={{
               display: "flex",
-              gap: "24px",
-              color: "#ffffffaa",
-              fontSize: "17px",
-              fontWeight: "500",
+              gap: "28px",
+              color: "#ffffffdd",
+              fontSize: "18px",
+              fontWeight: "700",
+              textShadow: "0 1px 4px rgba(0,0,0,0.4)",
             }}
           >
             <span>✔ 公的データ一次情報</span>
@@ -340,10 +374,11 @@ export default async function Image({ params }: Props) {
           </div>
           <div
             style={{
-              color: theme.badgeText,
-              fontSize: "20px",
-              fontWeight: "700",
-              letterSpacing: "0.02em",
+              color: "#ffffff",
+              fontSize: "22px",
+              fontWeight: "800",
+              letterSpacing: "0.03em",
+              textShadow: "0 2px 8px rgba(0,0,0,0.5)",
             }}
           >
             poliscape.vercel.app
