@@ -241,5 +241,63 @@
         "commentStandard": "「43兆円枠の使途精査が不十分で、米国製高額兵器の言い値購入など予算の無駄遣い懸念」"
       }
     ]
+  },
+  "international": {
+    "title": "防衛費の対GDP比2%目標と防衛財源確保の国際比較",
+    "comparisonSummary": "安全保障環境の激変に伴い、防衛費をGDP比2%以上へ増額する目標はNATO加盟国を中心に世界的な国際標準となっています。ドイツは憲法（基本法）を改正して1,000億ユーロの特別防衛基金を設立し、公約を達成しました。長年対GDP比約2.6〜2.8%を維持する韓国や、約3.4%を投じる米国など、財源調達の手法（特別国債、既存歳出改革、防衛増税等）は各国で異なります。日本は長年の『GDP比1%枠』から2%への倍増方針を決めましたが、法人税・所得税・たばこ税の増税時期を巡り政治的対立が続いています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦軍特別基金 (Sondervermögen Bundeswehr) ＆ 時代転換 (Zeitenwende)",
+        "statusOrLevel": "憲法（基本法第115条）改正により1,000億ユーロ（約16兆円）の特別防衛基金を設立",
+        "keyFeature": "ロシアのウクライナ侵略を受け、ショルツ首相が『時代転換』を宣言。債務ブレーキ（借入制限）の例外とする憲法改正を超党派で可決し、一般予算とは別枠で1,000億ユーロの特別借款基金を創設。即座に防衛費GDP比2%目標を達成しました。",
+        "source": {
+          "organization": "ドイツ連邦国防省 (BMVg)",
+          "title": "Das Sondervermögen Bundeswehr und das Zwei-Prozent-Ziel",
+          "url": "https://www.bmvg.de/de/themen/dossiers/sondervermoegen-bundeswehr"
+        }
+      },
+      {
+        "country": "北大西洋条約機構",
+        "countryCode": "NATO",
+        "flag": "🌐",
+        "systemName": "NATO国防投資誓約 (Wales Summit Declaration & Vilnius Summit 2023)",
+        "statusOrLevel": "国防費対GDP比2%を『上限ではなく最低基準（Floor）』とする誓約",
+        "keyFeature": "2014年のウェールズ首脳会議で合意された『GDP2%目標』を、2023年のビリニュス首脳会議で『持続的に投資すべき最低限の基準』へと格上げ。現在では加盟32カ国中23カ国以上がGDP比2%以上を達成し、装備品近代化に20%以上を充当しています。",
+        "source": {
+          "organization": "北大西洋条約機構 (NATO)",
+          "title": "Defence expenditures and NATO’s 2% guideline",
+          "url": "https://www.nato.int/cps/en/natohq/topics_49198.htm"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "韓国国防中期計画 ＆ 国防予算編成",
+        "statusOrLevel": "長年にわたりGDP比約2.6〜2.8%の防衛費を維持（G20先進国上位）",
+        "keyFeature": "休戦状態にある北朝鮮との軍事的対峙を背景に、歴代政権を通じて高水準の防衛予算を計上。兵力削減を補うためのキルチェーン構築や国産先端兵器（K2戦車、KF-21戦闘機等）開発に重点投資し、一般国家財政から安定的に歳出されています。",
+        "source": {
+          "organization": "大韓民国国防部 (MND)",
+          "title": "2024-2028 Defense Mid-Term Plan and Defense Budget",
+          "url": "https://www.mnd.go.kr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国防授権法 (National Defense Authorization Act - NDAA)",
+        "statusOrLevel": "世界最大の防衛費（年間約8,500億ドル超・対GDP比約3.4%）",
+        "keyFeature": "連邦議会が毎年NDAAを可決し予算を配分。世界規模の同盟網維持と抑止力確保のため、社会保障費に次ぐ連邦裁量的経費の最大シェアを占め、連邦債務拡大の議論を抱えつつも超党派で高水準の軍事支出が維持されています。",
+        "source": {
+          "organization": "米国国防総省 (U.S. Department of Defense)",
+          "title": "Department of Defense Budget Materials and NDAA",
+          "url": "https://www.defense.gov/Spotlights/FY2025-Defense-Budget/"
+        }
+      }
+    ]
   }
 }

@@ -225,5 +225,63 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Globe"
     }
-  ]
+  ],
+  "international": {
+    "title": "公益通報者保護法・報復禁止・報奨金制度の国際比較",
+    "comparisonSummary": "企業の不正や不祥事を内部告発した労働者を保護する制度は、米国やEUにおいて強力な法執行メカニズムとセットで運用されています。米国では証券取引委員会（SEC）が通報者に巨額の報奨金（回収制裁金の10〜30%）を支給し、報復企業には厳罰を科します。EU指令では通報窓口設置の義務付けに加え、不利益取扱い時の立証責任を雇用主側に転換しています。日本では2022年改正で窓口設置が義務化（300人超）されたものの、通報者への報復に対する直罰規定（刑事罰）がなく実効性の強化が議論されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "SECホイッスルブロワー・プログラム (ドッド・フランク法 / サーベンス・オクスリー法)",
+        "statusOrLevel": "回収した制裁金の10〜30%を通報者へ報奨金支給 ＋ 強力な民事救済",
+        "keyFeature": "連邦証券取引委員会（SEC）が不正摘発に貢献した内部通報者に対し数億円〜数十億円規模の報奨金を支給する制度を確立（累計支給額10億ドル超）。通報者への報復解雇や嫌がらせを行った企業には、倍額のバックペイ（未払賃金）支払いや復職命令が下されます。",
+        "source": {
+          "organization": "米国証券取引委員会 (SEC - Office of the Whistleblower)",
+          "title": "Dodd-Frank Whistleblower Program and Protections",
+          "url": "https://www.sec.gov/whistleblower"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU公益通報者保護指令 (Whistleblowing Directive 2019/1937)",
+        "statusOrLevel": "従業員50人以上の全企業に窓口設置義務 ＋ 立証責任の転換",
+        "keyFeature": "EU全域で50人以上の民間企業および公共部門に通報窓口設置を義務付け。通報者が解雇や降格等の不利益を受けた場合、それが通報への報復ではないことの立証責任を雇用主側が負う『立証責任の転換（Reversal of burden of proof）』を規定しています。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - DG JUST)",
+          "title": "EU Whistleblowing Directive (Directive 2019/1937)",
+          "url": "https://commission.europa.eu/law/law-topic/justice-and-fundamental-rights/rule-law/whistleblowing_en"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "公益開示法 (Public Interest Disclosure Act 1998 - PIDA)",
+        "statusOrLevel": "雇用審判所による上限なしの損害賠償・不当解雇無効判決",
+        "keyFeature": "雇用権利法（ERA 1996）に組み込まれたPIDAに基づき、公共の利益に関わる不正を通報した労働者が解雇された場合、通常の不当解雇賠償上限（約10万ポンド）が撤廃され、損害額全額（無制限の賠償請求）が認められる強力な司法保護が与えられます。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "Whistleblowing for employees - Public Interest Disclosure Act",
+          "url": "https://www.gov.uk/whistleblowing"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "通報者保護法 (Hinweisgeberschutzgesetz - HinSchG 2023)",
+        "statusOrLevel": "EU指令を国内法化・報復行為に対する最大5万ユーロの過料規定",
+        "keyFeature": "2023年7月施行。従業員50人以上の事業所に内部通報窓口の設置を義務付け。通報者に対する解雇や懲戒等の報復措置を明文で禁止し、違反した事業者には最大50,000ユーロの過料（行政罰）を科すとともに、通報者への損害賠償責任を義務付けています。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ)",
+          "title": "Gesetz für einen besseren Schutz hinweisgebender Personen (Hinweisgeberschutzgesetz)",
+          "url": "https://www.bmj.de/DE/themen/wirtschaft_finanzen/hinweisgeberschutz/hinweisgeberschutz_node.html"
+        }
+      }
+    ]
+  }
 }

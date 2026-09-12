@@ -185,5 +185,63 @@
       "badgeColor": "bg-slate-100 text-slate-700",
       "icon": "MapPin"
     }
-  ]
+  ],
+  "international": {
+    "title": "PFAS（有機フッ素化合物）水質基準・全廃規制の国際比較",
+    "comparisonSummary": "発がん性や免疫毒性が懸念される『永遠の化学物質（PFAS）』に関し、米国環境保護庁（EPA）は2024年にPFOAおよびPFOSの飲用水基準値を4ppt（4ng/L）という極めて厳しい法的強制力のある全国基準として公布しました。欧州連合（EU）も飲用水指令で総量規制を義務付け、全PFASの一括使用禁止（REACH規則制限案）を審議中です。一方、日本の水道水基準は法的拘束力のない暫定目標値（PFOA+PFOS合算で50ng/L）にとどまっており、基準強化と土壌・河川の浄化責任が問われています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "EPA国家一次飲用水規則 (National Primary Drinking Water Regulation - NPDWR)",
+        "statusOrLevel": "PFOA/PFOSを4ppt（4ng/L）とする法的拘束力のある連邦最高水準基準",
+        "keyFeature": "2024年4月、環境保護庁（EPA）が安全飲料水法に基づき全米初の拘束力あるPFAS基準を策定。PFOA・PFOSの最大許容汚染値（MCL）を測定限界に近い4pptに設定。全国の水道事業者に対し、5年以内の水質検査と基準超過時の除去装置導入を義務付けました。",
+        "source": {
+          "organization": "米国環境保護庁 (EPA)",
+          "title": "Per- and Polyfluoroalkyl Substances (PFAS) - Final PFAS National Primary Drinking Water Regulation",
+          "url": "https://www.epa.gov/sdwa/and-polyfluoroalkyl-substances-pfas"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU飲用水指令 (Drinking Water Directive 2020/2184) & REACH規則",
+        "statusOrLevel": "全PFAS合計0.50μg/L、個別指定20種PFAS合計0.10μg/Lの法定基準",
+        "keyFeature": "飲用水指令において全加盟国にPFAS上限値の遵守を義務付け。さらに欧州化学物質庁（ECHA）において、代替が不可能な必須用途を除き、1万種以上のPFASの製造・使用・上市を一括して全面禁止する世界最大の包括規制案を審議しています。",
+        "source": {
+          "organization": "欧州環境機関 (EEA) / 欧州委員会",
+          "title": "PFAS in Europe's environment and drinking water standards",
+          "url": "https://www.eea.europa.eu/publications/zero-pollution/cross-cutting-stories/pfas"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "新飲料水令 (Trinkwasserverordnung - TrinkwV 2023)",
+        "statusOrLevel": "2026年より4種PFAS合計20ng/L、2028年より全PFAS合計100ng/Lを施行",
+        "keyFeature": "EU指令を先取りし、連邦環境庁（UBA）のリスク評価に基づき2026年1月より4種類の主要PFAS合計で20ng/L（0.02μg/L）という厳しい国内法定上限値を適用。超過した場合は給水停止や活性炭フィルター導入が義務化されます。",
+        "source": {
+          "organization": "ドイツ連邦環境庁 (Umweltbundesamt - UBA)",
+          "title": "Die neue Trinkwasserverordnung - Grenzwerte für PFAS",
+          "url": "https://www.umweltbundesamt.de/themen/wasser/trinkwasser/trinkwasserqualitaet/gesetze-richtlinien-empfehlungen/die-neue-trinkwasserverordnung"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "オーストラリア飲用水ガイドライン (ADWG) & PFAS国家環境管理計画",
+        "statusOrLevel": "健康基準値（PFOS+PFHxS合計70ng/L、PFOA 560ng/L）の順次厳格化改定中",
+        "keyFeature": "国立保健医療研究評議会（NHMRC）が水質ガイドラインを策定。米EPAの最新科学的知見を受け、基準値を大幅に引き下げる改定作業を進行中。国防施設や空港周辺での泡消火剤汚染土壌・地下水の浄化プログラムを国家規模で展開しています。",
+        "source": {
+          "organization": "オーストラリア国立保健医療研究評議会 (NHMRC)",
+          "title": "Australian Drinking Water Guidelines - PFAS Review",
+          "url": "https://www.nhmrc.gov.au/about-us/publications/australian-drinking-water-guidelines"
+        }
+      }
+    ]
+  }
 }

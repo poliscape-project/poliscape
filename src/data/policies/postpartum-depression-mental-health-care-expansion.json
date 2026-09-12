@@ -211,5 +211,63 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Home"
     }
-  ]
+  ],
+  "international": {
+    "title": "産後ケア事業・産後うつスクリーニングの国際比較",
+    "comparisonSummary": "出産直後の孤立やホルモンバランスの変化による『産後うつ』や育児不安を予防するため、先進諸国は退院後の手厚い専門家サポート体制を法制化しています。韓国では民間の産後ケア施設『産後調理院』が普及し、自治体による公費助成が進んでいます。フランスでは出産した全女性に対し、理学療法士による骨盤底筋リハビリ（10回）を公的保険100%全額給付。オランダでは専門看護職（Kraamzorg）が自宅に派遣され家事と母子ケアを公費で担います。日本でも改正母子保健法により産後ケアが自治体の努力義務とされ、ショートステイ等の助成が拡大しています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "産後リハビリテーション (Rééducation périnéale et abdominale)",
+        "statusOrLevel": "出産した全女性に対し理学療法士による骨盤底筋リハビリ10回を100%保険給付",
+        "keyFeature": "フランス公的健康保険（Ameli）により、産後6〜8週間後に助産師または理学療法士による10回の骨盤底筋リハビリテーションが全額自己負担なしで提供。身体機能の回復を通じて産後の心身の健康とQOLを国家として公的に支える仕組みが定着しています。",
+        "source": {
+          "organization": "フランス公的健康保険 (Ameli.fr)",
+          "title": "La rééducation périnéale après l'accouchement - Prise en charge à 100%",
+          "url": "https://www.ameli.fr/assure/sante/themes/grossesse/apres-accouchement-suites/reeducation-perineale"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "母子保健法に基づく産後調理院（サヌチョリウォン）支援事業",
+        "statusOrLevel": "利用率8割超の滞在型産後ケア施設 ＋ 自治体による費用公費助成（50万〜100万ウォン）",
+        "keyFeature": "出産後に助産師・看護師が常駐するホテル型施設（産後調理院）に2週間程度滞在し、完全な休養と母子ケアを受ける文化が定着。ソウル市等ではすべての出産家庭にバウチャー（100万ウォン相当）を支給し、利用費用を直接助成しています。",
+        "source": {
+          "organization": "大韓民国保健福祉部 (MOHW) / ソウル市家庭ポータル",
+          "title": "Postpartum Care Center Support and Maternal Health Policies",
+          "url": "https://www.mohw.go.kr"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "家庭派遣型産後ケア制度 (Kraamzorg - クラーモゾルフ)",
+        "statusOrLevel": "基本健康保険（Basisverzekering）により最低24〜最大80時間の専門ケア派遣",
+        "keyFeature": "出産直後から専門の産後ケア専門員（Kraamverzorgende）が自宅を訪問。新生児の体重測定や授乳指導、母親の体温・傷口チェックだけでなく、家族の食事作りや洗濯、上の子の世話までを包括的にサポートする世界最高峰の在宅支援体制です。",
+        "source": {
+          "organization": "オランダ保健・福祉・スポーツ省 (VWS) / Zorginstituut Nederland",
+          "title": "Maternity care (Kraamzorg) - Basic health insurance package",
+          "url": "https://www.zorginstituutnederland.nl/verzekerde-zorg/kraamzorg"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS Health Visiting Service (国民保健サービス家庭訪問支援)",
+        "statusOrLevel": "すべての出産家庭に対し専門保健師（Health Visitor）が最低5回の無料家庭訪問",
+        "keyFeature": "NHSが公費で運用。出産後から就学前までの乳幼児がいる全世帯に対し、専門資格を持つヘルスビジターが定期訪問。産後うつのスクリーニング（エジンバラ産後うつ質問票等）や授乳・睡眠相談、虐待予防トリアージを完全無償で提供しています。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS)",
+          "title": "Your baby's health and development reviews - NHS Health Visiting",
+          "url": "https://www.nhs.uk/conditions/baby/babys-development/height-weight-and-reviews/baby-reviews/"
+        }
+      }
+    ]
+  }
 }

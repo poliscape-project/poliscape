@@ -127,5 +127,63 @@
       "type": "white_paper",
       "typeLabel": "内閣府AI戦略資料"
     }
-  ]
+  ],
+  "international": {
+    "title": "生成AIと著作権法（機械学習データの利用）の国際比較",
+    "comparisonSummary": "生成AIのモデル開発における学習データ利用と著作権の関係は、国ごとに法解釈が大きく分かれています。日本は2018年著作権法改正（第30条の4）により『思想・感情の享受を目的としない利用』であれば原則として著作権者の許諾なく営利・非営利を問わず学習可能であり、世界で最もAI学習に寛容な法制度と評されます。一方、欧州連合（EU）は権利者のオプトアウト権（機械可読な拒絶意思表示）を保障しAI法で学習データの詳細概要開示を義務付け、米国では司法判断（フェアユースの成否）を巡り訴訟が集中しています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU AI法 (AI Act 2024) ＆ デジタル単一市場著作権指令 (DSM指令 第4条)",
+        "statusOrLevel": "権利者のオプトアウト権（拒否権）保障 ＋ 学習データ概要の開示義務",
+        "keyFeature": "DSM指令第4条により、権利者が機械可読な形式（robots.txt等）でテキスト＆データマイニング（TDM）を拒絶（オプトアウト）した場合、AI学習での無許諾利用を禁止。さらにEU AI法により、汎用AI（GPAI）モデル提供者に学習データの詳細な要約文書の公開を義務付けました。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "EU AI Act - Rules for General-Purpose AI and Copyright",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "合衆国法典第17編107条 (フェアユース原則 Fair Use) ＆ 司法判例",
+        "statusOrLevel": "著作権法の明文例外はなく、裁判所が個別にフェアユース（公正利用）を判断",
+        "keyFeature": "日本やEUのようなAI特化の条文立法ではなく、利用目的の変形性（Transformativeness）や市場価値への影響等を総合考慮するフェアユース条項を適用。ニューヨーク・タイムズ紙や作家協会等によるAI企業への大規模訴訟が相次ぎ、司法主導でルールが形成されています。",
+        "source": {
+          "organization": "米国著作権局 (U.S. Copyright Office)",
+          "title": "Copyright and Artificial Intelligence - Public Study",
+          "url": "https://www.copyright.gov/ai/"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Copyright, Designs and Patents Act 1988 (第29条A - TDM例外)",
+        "statusOrLevel": "非営利研究目的のTDMのみ例外免除（商用AI利用には著作権者許諾が必要）",
+        "keyFeature": "現行法上のデータマイニング例外は『非営利の研究』に限定。知的所有権庁（IPO）が商用AIを含む広範な例外創設を検討したものの、クリエイター・出版業界の激しい反発を受け撤回。商用学習には権利者とのライセンス契約を基本とする方針を維持しています。",
+        "source": {
+          "organization": "英国知的所有権庁 (Intellectual Property Office - GOV.UK)",
+          "title": "Exceptions to copyright - Text and data mining",
+          "url": "https://www.gov.uk/guidance/exceptions-to-copyright#text-and-data-mining"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "著作権法 第30条の4 (情報解析等の利用) ＆ 文化庁AI著作権考え方",
+        "statusOrLevel": "享受目的でない利用は原則無許諾・営利利用も可能（世界で最も寛容な規定）",
+        "keyFeature": "著作物に表現された思想・感情の享受を目的としない場合、営利目的の商用AI開発であっても原則として著作権者の許諾なくデータ学習が可能。ただし『著作権者の利益を不当に害することとなる場合』の解釈について文化庁がガイドラインを策定し境界を画定しています。",
+        "source": {
+          "organization": "文化庁 (Agency for Cultural Affairs)",
+          "title": "AIと著作権に関する考え方について（令和6年3月）",
+          "url": "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf/94025101_01.pdf"
+        }
+      }
+    ]
+  }
 }

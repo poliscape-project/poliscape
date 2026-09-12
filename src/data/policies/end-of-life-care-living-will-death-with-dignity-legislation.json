@@ -185,5 +185,63 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "終末期医療・尊厳死（リビングウィル）法制化の国際比較",
+    "comparisonSummary": "回復の見込みがない終末期において、人工呼吸器や胃ろう等の延命治療を本人の意思で差し控え・中止できる『尊厳死（自然死）』の法制化は、欧米主要国で『事前指示書（リビングウィル）』に法的な絶対拘束力を与える形で整備されています。医師が患者の意思に従って延命処置を停止しても民事・刑事の責任を問われない免責規定が法律で明記されています。日本では尊厳死法が存在せず、厚生労働省のガイドラインのみに依存しているため、現場の医師が法的リスクを恐れて延命を中止しにくい課題があります。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "患者遺言法 (Patientenverfügungsgesetz / 民法 BGB 第1827条)",
+        "statusOrLevel": "本人の書面意思（患者遺言）に絶対的法的拘束力を付与（医師・後見人は従う義務）",
+        "keyFeature": "2009年施行。判断能力がある間に作成された患者遺言（Patientenverfügung）は、病状の段階にかかわらず医師や成年後見人を法的に拘束。本人が延命措置の不開始・中止を望んでいた場合、医師がそれに従うことは法定義務であり、違法性が完全に阻却されます。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ)",
+          "title": "Bürgerliches Gesetzbuch (BGB § 1827 Patientenverfügung)",
+          "url": "https://www.bmj.de/DE/themen/vorsorge_betreuung/patientenverfuegung/patientenverfuegung_node.html"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "患者自己決定法 (Patient Self-Determination Act 1990) ＆ 各州自然死法",
+        "statusOrLevel": "全米50州でリビングウィルが法制化・医療機関での事前指示書確認が連邦義務",
+        "keyFeature": "メディケア等に参加する全医療機関に対し、入院時に患者へ事前指示書（Living Will / 医療代理人指定）の権利を説明・記録することを連邦法で義務付け。本人の意思に基づく延命治療中止に関与した医療従事者の免責が州法で保障されています。",
+        "source": {
+          "organization": "米国国立衛生研究所 (NIH / NLM)",
+          "title": "Patient Self-Determination Act and Advance Directives",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK539824/"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "クレイ・レオネッティ法 (Loi Claeys-Leonetti 2016 / 公衆衛生法典)",
+        "statusOrLevel": "事前指示書（Directives anticipées）の拘束力明記 ＋ 深い持続的鎮静権の法定",
+        "keyFeature": "治癒不能で苦痛を伴う終末期の患者に対し、死に至るまで意識を消失させる『深い持続的鎮静（Sédation profonde et continue）』を受ける権利を法律上保障。事前指示書は緊急救命時等を除き医師を拘束し、無益な延命治療（不合理な執着）を法的に禁止しています。",
+        "source": {
+          "organization": "フランス公衆衛生高等評議会 / Légifrance",
+          "title": "Loi n° 2016-87 du 2 février 2016 créant de nouveaux droits en faveur des malades et des personnes en fin de vie",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000031963593"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "事前医療指示書 (Advance Care Directives - ACD) 州法体系",
+        "statusOrLevel": "全州で法制化（本人の治療拒否権を法的に保護・従わない医療者を処罰）",
+        "keyFeature": "本人が終末期における蘇生措置拒否（DNR）や延命治療の停止を文書で指定した場合、法的な拘束力を持ちます。正当な理由なく指示書に反して治療を強行した医療者は暴行罪（Battery）に問われる一方、指示に従った医師は民事・刑事責任が免責されます。",
+        "source": {
+          "organization": "オーストラリア連邦保健省 (Advance Care Planning Australia)",
+          "title": "Advance care planning legislation in Australia",
+          "url": "https://www.advancecareplanning.org.au/resources/advance-care-planning-legislation"
+        }
+      }
+    ]
+  }
 }

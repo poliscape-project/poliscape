@@ -127,5 +127,63 @@
       "type": "white_paper",
       "typeLabel": "労働政策研究資料"
     }
-  ]
+  ],
+  "international": {
+    "title": "「つながらない権利」（勤務時間外連絡拒否）の国際比較",
+    "comparisonSummary": "退勤後や休日にメールやチャット等の業務連絡への対応を拒否できる『つながらない権利（Right to Disconnect）』は、フランスが2016年に世界で初めて法制化しました。オーストラリアも2024年に改正公正労働法を施行し、正当な理由のない時間外連絡の拒否を法律上の権利として保護し違反企業に罰則を設けています。スペインやベルギーでも法整備が進む一方、日本ではテレワークガイドラインでの言及にとどまり、法制化の是非が議論されています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "労働法典 第L.2242-17条 (2016年エル・ゴムリ法)",
+        "statusOrLevel": "従業員50人以上の企業に『つながらない権利』の労使協約義務化",
+        "keyFeature": "世界で初めて法制化。従業員50人以上の企業に対し、デジタル機器の利用規律および労働者の休息・プライベート生活の尊重を確保するための年次労使交渉（合意できない場合は企業が憲章を策定）を義務付け。時間外連絡への対応義務を免除しています。",
+        "source": {
+          "organization": "フランス労働省 (Ministère du Travail) / Légifrance",
+          "title": "Code du travail - Article L2242-17 (Droit à la déconnexion)",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020612"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Fair Work Legislation Amendment (Closing Loopholes No. 2) Act 2024",
+        "statusOrLevel": "労働者の時間外連絡拒否権を法律上明記（違反企業には罰則金）",
+        "keyFeature": "2024年8月施行。労働者は業務時間外における雇用主や第三者（取引先等）からの連絡の確認・応答を拒否する法的権利を持つと規定。労使間での紛争は公正労働委員会（FWC）が調停し、従わない企業には最大約9.4万豪ドルの民事制裁金が科されます。",
+        "source": {
+          "organization": "オーストラリア公正労働オンブズマン (Fair Work Ombudsman)",
+          "title": "Right to disconnect - Closing Loopholes legislation",
+          "url": "https://www.fairwork.gov.au/about-us/workplace-laws/legislation-changes/closing-loopholes/right-to-disconnect"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "データ保護及びデジタル権利保障基本法 (LOPDGDD) 第88条",
+        "statusOrLevel": "労働者のデジタル環境における切断の権利を法定",
+        "keyFeature": "2018年制定法および2021年のリモートワーク法において、すべての労働者が休息時間、休暇、私生活の親密性を保つために業務連絡から切断する権利を保障。企業には労働者代表と協議の上で社内ポリシー策定と研修実施を義務付けています。",
+        "source": {
+          "organization": "スペイン官報 (BOE) / 労働社会経済省",
+          "title": "Ley Orgánica 3/2018 - Artículo 88. Derecho a la desconexión digital en el ámbito laboral",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673"
+        }
+      },
+      {
+        "country": "ベルギー",
+        "countryCode": "BE",
+        "flag": "🇧🇪",
+        "systemName": "2022年労働協定法 (Loi portant des dispositions diverses relatives au travail)",
+        "statusOrLevel": "従業員20人以上の民間企業に切断ポリシーの策定を義務付け",
+        "keyFeature": "公務員部門への先行導入に続き、2023年4月より民間企業（20人以上規模）に対しても、労働協約または就業規則においてデジタル機器の切断手順や指針を明記することを法定義務化しました。",
+        "source": {
+          "organization": "ベルギー連邦雇用・労働・社会対話省 (FPS Employment)",
+          "title": "Droit à la déconnexion dans le secteur privé",
+          "url": "https://emploi.belgique.be/fr/themes/reglementation-du-travail"
+        }
+      }
+    ]
+  }
 }

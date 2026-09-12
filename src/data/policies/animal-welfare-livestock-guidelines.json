@@ -261,5 +261,63 @@
         "commentStandard": "「日本のバタリーケージはフンと卵を瞬時に隔離してサルモネラ菌を防ぐ世界最高の衛生設備。平飼いは感染リスクが高まる」"
       }
     ]
+  },
+  "international": {
+    "title": "アニマルウェルフェア（家畜福祉・ケージフリー）の国際比較",
+    "comparisonSummary": "採卵鶏を狭いワイヤーケージに閉じ込める『バタリーケージ』の禁止や、母豚の妊娠ストール制限など、家畜の苦痛を軽減するアニマルウェルフェア（動物福祉）規制は欧州連合（EU）や米国の一部州で法的義務となっています。EUは2012年にバタリーケージを完全禁止し、市民イニシアチブに基づき全ケージ飼育の全廃へ向けて法改正を準備中です。米カリフォルニア州のProposition 12（ケージ飼育由来の畜産物販売禁止）も連邦最高裁で合憲と認められました。一方、日本の採卵鶏農場は9割以上がバタリーケージ飼育であり、農水省の指針改訂にとどまっています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU採卵鶏指令 (Council Directive 1999/74/EC) ＆ End the Cage Age",
+        "statusOrLevel": "従来のバタリーケージを2012年に完全禁止・エンリッチドケージも全廃方針",
+        "keyFeature": "従来のワイヤーバタリーケージの使用を域内全域で禁止。止まり木や巣箱を備えた改善ケージへの移行を義務付けた後、140万人分の署名を集めた欧州市民イニシアチブ（ECI）を受け、採卵鶏・豚・子牛などすべての家畜のケージ飼育を段階的に全廃する法案を審議しています。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - Food Safety)",
+          "title": "Animal welfare - Laying hens directive and End the Cage Age initiative",
+          "url": "https://food.ec.europa.eu/animals/animal-welfare/animal-welfare-practice/farm_en"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "カリフォルニア州 Proposition 12 (農場動物監禁防止法) ＆ 連邦最高裁判決",
+        "statusOrLevel": "ケージ飼育卵・豚肉・仔牛肉の州内流通・販売を法律で全面禁止",
+        "keyFeature": "2018年州民投票で可決。採卵鶏を完全にケージから解放（ケージフリー）し、母豚にも十分な運動スペースを義務付け。州外から持ち込まれる畜産物にも同基準を適用することを定め、全米畜産業界の訴訟に対し2023年に合衆国最高裁が合憲判決を下しました。",
+        "source": {
+          "organization": "カリフォルニア州食糧農業省 (CDFA)",
+          "title": "Animal Care Program - Proposition 12 Implementation",
+          "url": "https://www.cdfa.ca.gov/ahfss/animalcare/"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "動物保護家畜飼養令 (TierSchNutztV) ＆ 雄ひよこ殺処分禁止法",
+        "statusOrLevel": "2025年までにエンリッチドケージを含め完全廃止・雄ひよこの殺処分を世界初禁止",
+        "keyFeature": "EU基準を上回り、改善型ケージ（Kleingruppenhaltung）も2025年末までに完全全廃を法定。さらに2022年には、卵を産まない雄のひよこを孵化直後に殺処分することを世界で初めて法律で全面禁止し、孵卵段階での性別判別技術導入を義務付けました。",
+        "source": {
+          "organization": "ドイツ連邦食料農業省 (BMEL)",
+          "title": "Haltung von Legehennen und Verbot des Kükentötens",
+          "url": "https://www.bmel.de/DE/themen/tiere/tierschutz/tierschutz-tierhaltung/legehennenhaltung.html"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "スイス動物保護法 (Tierschutzgesetz - TSchG)",
+        "statusOrLevel": "世界で最も厳格な動物福祉法（1992年にバタリーケージを世界初全面禁止）",
+        "keyFeature": "1981年法に基づき、1992年という極めて早い段階で採卵鶏のケージ飼育を世界で初めて全面禁止。現在スイス国内の採卵鶏は100%ケージフリー（平飼い・放牧）で飼育されており、動物の尊厳（Dignity of Animals）が憲法上明記されています。",
+        "source": {
+          "organization": "スイス連邦食品安全獣医局 (BLV)",
+          "title": "Tierschutz in der Nutztierhaltung - Geflügel",
+          "url": "https://www.blv.admin.ch/blv/de/home/tiere/tierschutz/nutztierhaltung.html"
+        }
+      }
+    ]
   }
 }

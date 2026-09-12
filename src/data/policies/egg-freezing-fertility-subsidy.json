@@ -127,5 +127,63 @@
       "type": "official_document",
       "typeLabel": "学会公式見解"
     }
-  ]
+  ],
+  "international": {
+    "title": "「卵子凍結」への公費助成・不妊治療支援の国際比較",
+    "comparisonSummary": "将来の妊娠・出産に備えて若年期に未受精卵を保存する『社会的卵子凍結（ノンメディカル卵子凍結）』は、少子化対策や女性のキャリア形成支援として世界的注目を集めています。イスラエルは国家レベルで認可・助成し、フランスも2021年に社会的卵子凍結を解禁して公的保険適用としました。米国では大手テック企業が福利厚生（最大数万ドル給付）として普及を牽引し、州法で保険適用を義務付ける動きもあります。日本では東京都が2023年度より最大30万円の独自助成を開始し利用者が急増しています。",
+    "countries": [
+      {
+        "country": "イスラエル",
+        "countryCode": "IL",
+        "flag": "🇮🇱",
+        "systemName": "国家生殖補助医療法制 (Public Health Regulations 2011)",
+        "statusOrLevel": "30〜41歳女性の社会的卵子凍結を国家が認可・公的医療バスケットで支援",
+        "keyFeature": "世界で最も生殖医療に積極的な国。医学的理由がない女性でも、30歳から41歳まで最大4回の採卵または20個の卵子凍結保存を法律上承認。国営健康保険機構（Kupat Holim）を通じて低廉な費用で受けられる体制が整っています。",
+        "source": {
+          "organization": "イスラエル保健省 (Ministry of Health Israel)",
+          "title": "Egg Freezing Regulations and Age Criteria",
+          "url": "https://www.gov.il/en/departments/general/egg-freezing"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "生命倫理法2021年改正 (Loi de bioéthique n°2021-1017)",
+        "statusOrLevel": "29〜37歳の全女性に対し社会的卵子凍結を解禁・公的健康保険が100%全額負担",
+        "keyFeature": "従来はがん治療等の医学的理由に限定されていた配偶子（卵子）保存を、29歳以上37歳未満のすべての女性に自己決定権として解禁。採卵やホルモン治療にかかる費用はフランス公的健康保険（Assurance Maladie）が100%全額給付（年間の保管料のみ自己負担）します。",
+        "source": {
+          "organization": "フランス公的健康保険 (Ameli.fr) / 公共サービス公式",
+          "title": "Autoconservation des ovocytes sans motif médical - Assurance Maladie",
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F36125"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "民間企業福利厚生（Fertility Benefits）＆ 州法不妊治療保険義務化",
+        "statusOrLevel": "大企業福利厚生として定着（Google/Apple/Meta等で最大$20,000〜全額補助）",
+        "keyFeature": "連邦レベルの公的給付はないものの、大手企業の多くが優秀な人材獲得のため卵子凍結・体外受精の費用全額補助を福利厚生に導入。さらにニューヨーク州やイリノイ州など20以上の州が、民間健康保険に対し不妊治療や配偶子保存の保険適用を法律で義務付けています。",
+        "source": {
+          "organization": "米国生殖医学会 (American Society for Reproductive Medicine - ASRM)",
+          "title": "State Mandates and Infertility Coverage Overview",
+          "url": "https://www.asrm.org/advocacy-and-policy/state-advocacy/"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Health and Care Act 2022 (卵子凍結保存期間の法改正)",
+        "statusOrLevel": "未受精卵の最大保管期間を10年から『最長55年』へ大幅延長",
+        "keyFeature": "従来の10年間という保存上限期間を撤廃し、10年ごとに本人が更新意思を確認することを条件に最長55年間まで法的に保管可能とする法改正を断行。若年期に凍結した卵子を40代以降のキャリア成熟期に使用できる長期的な自己決定権を保障しました。",
+        "source": {
+          "organization": "英国ヒト受精・胚研究機構 (HFEA / GOV.UK)",
+          "title": "Storage limits for eggs, sperm and embryos - Health and Care Act 2022",
+          "url": "https://www.hfea.gov.uk/treatments/fertility-preservation/egg-freezing/"
+        }
+      }
+    ]
+  }
 }

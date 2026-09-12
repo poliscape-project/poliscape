@@ -217,5 +217,63 @@
         "commentStandard": "「パワコンの定期更新費用や台風被害、将来の鉛や有害物質を含むパネル廃棄・リサイクル網が不透明」"
       }
     ]
+  },
+  "international": {
+    "title": "新築住宅の太陽光パネル設置義務化の国際比較",
+    "comparisonSummary": "カーボンニュートラル実現に向け、新築建物への太陽光発電（PV）設置を法律や条例で義務付ける動きが世界中で加速しています。米国カリフォルニア州は2020年に全米で初めて新築戸建住宅へのソーラー設置を義務化しました。ドイツのベルリン州やフランスでも新築および一定規模以上の建築物・駐車場への設置が義務付けられています。EUも建物エネルギー性能指令（EPBD）で2030年までの段階的義務化を可決。日本でも東京都や川崎市が条例で義務化し、全国展開の議論が続いています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "カリフォルニア州 Title 24 Building Energy Efficiency Standards",
+        "statusOrLevel": "全米初・新築戸建住宅および低層集合住宅への太陽光発電設置義務化",
+        "keyFeature": "2020年1月施行。新築されるすべての戸建住宅および3階建て以下の集合住宅に対し、年間消費電力量に見合う太陽光発電システムの設置を義務付け。日照不足等の構造的例外を除き、クリーンエネルギー標準仕様化を全米に先駆けて達成しました。",
+        "source": {
+          "organization": "カリフォルニア州エネルギー委員会 (CEC)",
+          "title": "2022 Building Energy Efficiency Standards - Solar Mandate",
+          "url": "https://www.energy.ca.gov/programs-and-topics/programs/building-energy-efficiency-standards"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ベルリン州太陽光法 (Solargesetz Berlin 2023)",
+        "statusOrLevel": "新築建物および大幅な屋根改修を行う既存建物へのPV設置を法律上義務化",
+        "keyFeature": "2023年施行。延床面積50平方メートル超の新築建物、および屋根の大規模改修を行う既存建物に対し、利用可能屋根面積の30%以上に太陽光発電システムを設置することを義務付け。バーデン＝ヴュルテンベルク州やハンブルク州等にも同様の法制が波及しています。",
+        "source": {
+          "organization": "ベルリン州上院環境・移動・気候保護局 (Senatsverwaltung Berlin)",
+          "title": "Solargesetz Berlin - Pflicht zur Installation von Photovoltaikanlagen",
+          "url": "https://www.berlin.de/sen/uvk/klimaschutz/klimaschutz-in-der-praxis/solarcity-masterplan/solargesetz-berlin/"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "気候回復力法 (Loi Climat et Résilience 2021) ＆ 再エネ加速法",
+        "statusOrLevel": "商業施設屋根および80台以上の屋外駐車場へのソーラーキャノピー義務化",
+        "keyFeature": "商業ビルや産業施設の一定規模以上の新築屋根に太陽光または緑化を義務付けるとともに、2023年の再エネ加速法（Loi APER）により、80台以上の収容能力を持つ既存・新設の屋外駐車場に対し、面積の50%以上に太陽光パネル屋根の設置を義務付けました。",
+        "source": {
+          "organization": "フランス生態移行・国土結束省 (MTE) / Légifrance",
+          "title": "Loi n° 2023-175 du 10 mars 2023 relative à l'accélération de la production d'énergies renouvelables",
+          "url": "https://www.ecologie.gouv.fr/politiques-publiques/energies-renouvelables-loi-dacceleration-production"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "建物エネルギー性能指令 (EPBD 2024年改正 - EU Solar Standard)",
+        "statusOrLevel": "2026年〜2030年にかけ公共・商業・新築住宅へ段階的ソーラー義務化",
+        "keyFeature": "EU域内の脱炭素化を加速するため、技術的・経済的に適切なすべての新築公共・商業建築物（2026年〜）、既存商業施設（2027年〜）、および2030年までにすべての新築住宅に対し太陽光パネルの設置を段階的に義務付ける指令を採択しました。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - DG ENER)",
+          "title": "Energy Performance of Buildings Directive - Solar standard for buildings",
+          "url": "https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficient-buildings/energy-performance-buildings-directive_en"
+        }
+      }
+    ]
   }
 }
