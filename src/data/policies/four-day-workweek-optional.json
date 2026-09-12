@@ -127,5 +127,67 @@
       "type": "white_paper",
       "typeLabel": "厚労省働き方調査"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の「週休3日制（週4日労働）」導入ルールと実証実験",
+    "comparisonSummary": "日本で導入される週休3日制の多くは「休日が増える分、給料が2割減る（給与減額型）」か「1日の労働時間を10時間に延ばす（総労働時間維持型）」が主流です。一方、欧州（イギリス・アイスランド等）では「給与100%維持・労働時間80%・成果100%維持」を掲げる国家規模の実証実験が相次ぎ、離職率の激減や従業員のメンタル改善、企業の増収が確認され、働き方改革の世界的トレンドとなっています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "The 4-Day Week Pilot UK (世界最大規模の実証実験)",
+        "amount": "「給料100%維持 ＋ 労働時間80% ＋ 生産性100%」の100-80-100モデル",
+        "incomeLimit": "61社・約2,900人の従業員が参加した国家実験",
+        "keyFeature": "ケンブリッジ大学やボストン大学の研究チームが主導。半年間の実験後、参加企業の92%が週休3日制の継続を決定。従業員の39%でストレス軽減、71%でバーンアウト（燃え尽き）減少が確認され、企業の売上高も平均35%増加するという劇的な成果を上げました。",
+        "source": {
+          "organization": "4 Day Week Global / ケンブリッジ大学",
+          "title": "The UK Four-Day Week Pilot: Research Results (公式研究成果報告書)",
+          "url": "https://www.4dayweek.com/uk-pilot-results"
+        }
+      },
+      {
+        "country": "アイスランド",
+        "countryCode": "IS",
+        "flag": "🇮🇸",
+        "systemName": "Working Time Reduction (国家規模の労働時間短縮改革)",
+        "amount": "給与を一切減額せずに週所定労働時間を35〜36時間に短縮",
+        "incomeLimit": "全就業人口の約86%が時短労働協約の適用対象へ拡大",
+        "keyFeature": "2015〜2019年に政府とレイキャビク市が公務員2,500人を対象に実験。「圧倒的成功」と評価されたことで労働組合と経営者団体が合意し、国全体で給与据え置きのまま労働時間を短縮する権利が労働者の8割以上に確立されました。",
+        "source": {
+          "organization": "アイスランド政府首相府 (Government of Iceland)",
+          "title": "Working Time Reduction in Iceland (公式評価レポート)",
+          "url": "https://www.government.is"
+        }
+      },
+      {
+        "country": "ベルギー",
+        "countryCode": "BE",
+        "flag": "🇧🇪",
+        "systemName": "Labor Deal 2022 (週休3日制の法定選択権法)",
+        "amount": "週労働時間（38時間）はそのまま、1日9.5時間×4日勤務",
+        "incomeLimit": "労働者の申請に対し企業は正当な理由なく拒否できない",
+        "keyFeature": "2022年の労働改革法により、労働者に「週4日勤務」を要求する法的権利を付与。ただし給与も総労働時間も減らさず、1日の労働時間を最長9.5〜10時間に引き延ばす「圧縮労働型」であるため、子育て中や体力面での向き不向きが議論されています。",
+        "source": {
+          "organization": "ベルギー連邦雇用・労働・社会対話省 (FPS ELSD)",
+          "title": "La semaine de 4 jours (週4日労働制公式法制ガイド)",
+          "url": "https://emploi.belgique.be/fr/themes/contrats-de-travail/organisation-du-travail/la-semaine-de-4-jours"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "Jornada laboral de 4 días (中小企業向け政府補助金制度)",
+        "amount": "給与据え置きで労働時間を最低10%削減する企業に助成金",
+        "incomeLimit": "政府が1社あたり最大15万ユーロ（約2,400万円）を補助",
+        "keyFeature": "産業省が中小製造業を対象にパイロットプログラムを実施。週休3日制の導入初期にかかる業務効率化やDX設備投資のコストを政府が補助金で補填することで、中小企業でも賃金カットなしで時短に踏み切れるモデルを検証しています。",
+        "source": {
+          "organization": "スペイン産業・観光省 (Ministerio de Industria y Turismo)",
+          "title": "Ayudas a proyectos de reducción de la jornada laboral (時短助成金公式要綱)",
+          "url": "https://www.mintur.gob.es"
+        }
+      }
+    ]
+  }
 }

@@ -247,5 +247,71 @@
         "commentStandard": "「様々な事情で2人しか持てない世帯との格差が開きすぎて不公平に感じる」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国の大学授業料・高等教育無償化ルール",
+    "comparisonSummary": "OECD（経済協力開発機構）の統計によると、日本の高等教育費に対する公財政支出の割合はOECD平均を大幅に下回り、長年「家計の自己負担」に依存してきました。ヨーロッパ大陸諸国（ドイツ・北欧等）では高等教育を「公共財（社会の共通資本）」と位置づけ原則無料とする一方、英米圏では「教育を受けた個人が将来高い収入を得る（受益者負担）」という思想に基づき高額学費と学生ローン制度を設計しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Gebührenfreies Studium (大学授業料無償制)",
+        "amount": "原則無料（公立大学の学期運営費・交通パス代年約5〜10万円のみ）",
+        "ageLimit": "学部・修士課程ともに無料（留学生も一部州を除き無料）",
+        "incomeLimit": "なし（親の所得に関わらず全学生無料）",
+        "keyFeature": "2006年前後に一部の州で授業料導入が試みられたものの、学生運動や世論の猛反発を受け、2014年までに全16州で公立大学の授業料が完全撤廃されました。さらに低所得世帯の学生には生活費を支援する連邦教育支援法（BAföG / 半額給付・半額無利子融資）が適用されます。",
+        "source": {
+          "organization": "ドイツ連邦教育研究省 (BMBF)",
+          "title": "BAföG und Studienfinanzierung (学業資金調達公式ガイド)",
+          "url": "https://www.bmbf.de/bmbf/de/bildung/studium/bafoeg/bafoeg_node.html"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "Studiemedel (高等教育無償制と生活手当)",
+        "amount": "授業料完全無料 ＋ 月約15万円の生活費支援（給付＋融資）",
+        "ageLimit": "最長240週間（約6年分）受給可能",
+        "incomeLimit": "親の所得制限なし（学生本人の所得のみ審査）",
+        "keyFeature": "EU/EEA市民であれば大学・大学院の学費はすべて国費負担で無料。さらに「子どもは18歳で経済的に親から完全独立する」という社会哲学に基づき、親の年収に関係なく学生本人に対して手厚い生活費補助（CSN制度）が支給されます。",
+        "source": {
+          "organization": "スウェーデン学生金融機構 (CSN)",
+          "title": "Studiemedel - bidrag och lån för studier (学業給付金・ローン公式情報)",
+          "url": "https://www.csn.se"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Higher Education Pricing & Student Aid (受益者負担と連邦奨学金)",
+        "amount": "公立州立大: 年平均約1.1万ドル / 私立大: 年約4万ドル超",
+        "ageLimit": "FAFSA（連邦学生援助無料出願）による審査",
+        "incomeLimit": "低所得者向けペル・グラント（返済不要奨学金）あり",
+        "keyFeature": "「高度な専門教育を受けた本人が利益を得る」という徹底した受益者負担主義。巨額の学費を賄うための学生ローン債務総額は1.7兆ドル（約260兆円）に達し、若者の結婚・住宅購入を阻む深刻な社会問題として連邦政府の債務免除策が激しい政治対立となっています。",
+        "source": {
+          "organization": "米国教育省連邦学生援助局 (Federal Student Aid)",
+          "title": "Understanding Financial Aid | Federal Student Aid",
+          "url": "https://studentaid.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Tuition Fee Loans (授業料ローン制度)",
+        "amount": "イングランド公立大: 年最大9,250ポンド（約180万円）",
+        "ageLimit": "卒業後の所得連動返済（Income-contingent repayment）",
+        "incomeLimit": "在学中の支払いはゼロ、卒業後に一定年収超で返済開始",
+        "keyFeature": "1998年まで無料だった大学授業料を有償化。在学中の自己負担はなく全額政府系ローンで賄い、卒業後に年収が閾値（約2.7万ポンド）を超えた場合のみ超過分の9%を給与天引きで返済する仕組み（40年経過で残債免除）を採用しています。",
+        "source": {
+          "organization": "英国政府 (GOV.UK)",
+          "title": "Student finance for undergraduates (英国学生金融公式)",
+          "url": "https://www.gov.uk/student-finance"
+        }
+      }
+    ]
   }
 }

@@ -135,5 +135,67 @@
       "type": "diet_minutes",
       "typeLabel": "国会審議録"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の離婚後親権（共同親権・単独親権）ルール",
+    "comparisonSummary": "欧米諸国では「離婚しても親である責任は変わらない」という理念に基づき、離婚後も両親が法的権利・義務を持つ「共同親権（Joint Custody）」が原則として定着しています。しかし近年は、共同親権を原則化したがゆえにDV（家庭内暴力）や虐待の被害親が逃げられなくなる深刻な弊害が社会問題化しており、オーストラリアやアメリカ各州では「子どもの安全確保を最優先にした例外規定（単独親権への転換）」を強化する見直しが進んでいます。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Joint Legal & Physical Custody (各州家族法)",
+        "amount": "「法的親権（重要事項決定権）」と「身上監護権（同居）」の分離",
+        "incomeLimit": "子どもの最善の利益（Best Interests of the Child）を基準に裁判所が決定",
+        "keyFeature": "教育・医療などの重要決定を行う「法的親権」と、日常の世話をする「監護権」を明確に区別。多くの州で共同親権が原則ですが、カリフォルニア州ファミリーコード第3044条のように「過去5年以内にDV加害歴がある親には親権を与えない強力な推定規定」を設けて虐待被害者を保護しています。",
+        "source": {
+          "organization": "カリフォルニア州裁判所 (California Courts)",
+          "title": "Child Custody and Visitation Basics (公的裁判所ガイド)",
+          "url": "https://selfhelp.courts.ca.gov/child-custody"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Gemeinsame elterliche Sorge (ドイツ民法第1687条)",
+        "amount": "離婚後も原則として両親の共同親権が自動継続",
+        "incomeLimit": "一方の親の申立てにより家裁が単独親権へ変更可能",
+        "keyFeature": "1998年の家族法大改革により「共同親権原則」へ移行。進学や手術など「子にとって重大な事項」は両親の合意が必要ですが、日々の食事や生活などの「日常的事項」は同居親が単独で決定できます。父母の対立が激しく合意不能な場合は家裁が単独親権を命じます。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ)",
+          "title": "Elterliche Sorge (親権・監護権の公式法制解説)",
+          "url": "https://www.bmj.de/DE/themen/gesellschaft_familie/sorge_und_umgangsrecht/elterliche_sorge/elterliche_sorge_node.html"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Exercice conjoint de l'autorité parentale (フランス民法第372条)",
+        "amount": "離婚によって親権行使は影響を受けない（共同行使が原則）",
+        "incomeLimit": "重大な事由（虐待・遺棄等）がある場合のみ単独行使",
+        "keyFeature": "親権（Autorité parentale）は親の婚姻状況と無関係に継続するという考え方。住居を週替わりや隔週で行き来する「交代居住（Résidence alternée）」が約3割の家庭で採用されている一方、精神的DVや対立が続く家庭での子どもの心理的負担が課題として議論されています。",
+        "source": {
+          "organization": "フランス政府公式ポータル (Service-Public.fr)",
+          "title": "Séparation des parents : autorité parentale (親の離婚と親権公式情報)",
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F3159"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Family Law Amendment 2023 (家族法改革・共同親権の是正)",
+        "amount": "「対等な親の責任」の画一的推定を2024年に法改正で撤廃",
+        "incomeLimit": "家庭内暴力（DV）と子どもの安全・リスクを最優先審査",
+        "keyFeature": "2006年に「両親の対等な責任分担」の推定規定を導入したところ、DV被害者が無理やり面会や共同決定を強いられる悲劇が多発。激しい批判を受け、2024年施行の改正法で画一的な共同親権推定を廃止し、「子どもの安全・DV防止」を絶対的最優先事項に回帰させました。",
+        "source": {
+          "organization": "オーストラリア司法省 (Attorney-General's Department)",
+          "title": "Family Law Amendment Act 2023 (家族法大改革公式解説)",
+          "url": "https://www.ag.gov.au/families-and-marriage/families/family-law-system/family-law-amendment-act-2023"
+        }
+      }
+    ]
+  }
 }

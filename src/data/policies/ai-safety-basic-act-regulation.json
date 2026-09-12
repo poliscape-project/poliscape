@@ -205,5 +205,67 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Scale"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国・地域の人工知能（AI）法規制アプローチ",
+    "comparisonSummary": "AI技術の爆発的進化に対し、世界は「厳格な事前規制で基本的人権を守る欧州（EU）」、「イノベーション速度と国際覇権を最優先する米国」、「国家による情報統制と安全を重視する中国」、そして「既存法とガイドラインで柔軟に対処する英国・日本」へとアプローチが明確に分かれています。どの方式が産業競争力と安全性を両立できるか、国家間の制度競争が激化しています。",
+    "countries": [
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU AI Act (欧州人工知能法)",
+        "amount": "違反企業に最大3,500万ユーロ（約57億円）または世界売上7%の巨額制裁金",
+        "incomeLimit": "「許容不可（全面禁止）」「高リスク」「汎用AI」「低リスク」の4段階分類",
+        "keyFeature": "世界初の包括的・法的拘束力を持つAI規制法。市民の認知行動操作やリアルタイム生体識別など人権侵害リスクのあるAIを全面禁止。医療や重要インフラに用いる「高リスクAI」には厳格な適合性評価とデータ品質管理を義務付けています。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "EU AI Act: first regulation on artificial intelligence (欧州公式ポータル)",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Safe, Secure, and Trustworthy AI (大統領令14110号・NIST枠組み)",
+        "amount": "超大規模モデル開発企業に政府への安全性試験（レッドチーム演習）結果報告を義務付け",
+        "incomeLimit": "計算資源量（10^26 FLOPS以上）による基準値設定",
+        "keyFeature": "包括的な連邦法でスタートアップや開発を縛ることを避け、NIST（国立標準技術研究所）のAIリスクマネジメントフレームワーク（AI RMF）を軸とした自主規制と標準化を推進。国防・生物兵器等に直結するフロンティアモデルのみ国防生産法に基づき監視する方針です。",
+        "source": {
+          "organization": "米国商務省標準技術研究所 (NIST)",
+          "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+          "url": "https://www.nist.gov/itl/ai-risk-management-framework"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "生成式人工知能服務管理暫行弁法 (国家インターネット情報弁公室等公布)",
+        "amount": "一般向け提供前に当局へのアルゴリズム登録・セキュリティ審査が義務",
+        "incomeLimit": "コンテンツは社会主義的核心価値観を遵守することが法規上必須",
+        "keyFeature": "一般大衆向けに生成AIサービスを提供する前に、国家当局による厳格な事前審査とアルゴリズムの登録・届出（備案）を義務付け。虚偽情報の拡散防止や実名制の徹底、国家政権の転覆や国家主権を侵害する内容の出力を法律で厳格に禁じています。",
+        "source": {
+          "organization": "中国国家インターネット情報弁公室 (CAC)",
+          "title": "生成式人工智能服務管理暫行規定 (公式法令全文)",
+          "url": "http://www.cac.gov.cn"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Pro-innovation approach to AI regulation (白書・AI安全研究所)",
+        "amount": "単一の包括規制法を作らず、既存の個別監督当局が所管分野ごとに対応",
+        "incomeLimit": "イノベーション阻害を避けるため硬直的な法的制限を留保",
+        "keyFeature": "「AIの世界的ハブ」を目指し、EUのような重い法規制を避ける方針。世界初の「英国AI安全研究所（AI Safety Institute）」を政府直属で設立し、先端モデルの安全性評価を政府自ら行いつつ、金融・通信・競争などの個別既存法で柔軟に監督しています。",
+        "source": {
+          "organization": "英国科学・イノベーション・技術省 (DSIT)",
+          "title": "A pro-innovation approach to AI regulation (AI規制白書公式)",
+          "url": "https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach"
+        }
+      }
+    ]
+  }
 }

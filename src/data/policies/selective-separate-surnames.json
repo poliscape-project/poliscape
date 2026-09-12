@@ -247,5 +247,67 @@
         "commentStandard": "「学校や地域社会で親子の名字が異なる場合の偏見や、子どもの姓の選択を巡る家庭内の対立が懸念される」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国の婚姻と氏名（夫婦の姓）ルール",
+    "comparisonSummary": "国連女子差別撤廃委員会（CEDAW）等から日本に対し度々是正勧告が出されている通り、民法で「夫婦どちらかの同姓」を一律に義務付けている国は先進国（OECD諸国）の中で日本のみとなっています。欧米では同姓・別姓・結合姓の自由選択が標準である一方、東アジア（韓国・中国）では伝統的な血統重視の観点から「夫婦別姓」が原則とされるなど、文化と歴史による多様性があります。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Ehename und Geburtsname (ドイツ民法第1355条)",
+        "amount": "同姓・別姓・結合姓（Doppelname）から自由に選択",
+        "incomeLimit": "同姓義務は1990年代に違憲判決を経て法改正",
+        "keyFeature": "結婚時に「共通の家族姓（夫または妻の姓）」を決めることも、各自の「旧姓を維持」することも可能。さらに自分の旧姓をハイフンで繋ぐ「結合姓（例: ミュラー＝シュミット）」も認められており、2024年の氏名法改正で子どもへの結合姓付与も可能になりました。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ)",
+          "title": "Reform des Namensrechts (氏名法改革・選択的夫婦別姓の公式解説)",
+          "url": "https://www.bmj.de/DE/themen/gesellschaft_familie/namensrecht/namensrecht_node.html"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Name Change upon Marriage (各州法・コモンロー)",
+        "amount": "完全自由（改姓・別姓・結合姓・新姓の創設まで可能）",
+        "incomeLimit": "州法による（連邦法での統一義務なし）",
+        "keyFeature": "法的な同姓義務は一切存在しません。妻が夫の姓に変える伝統的な慣習も根強く残る一方、キャリアや自立を重視して別姓を維持する人や、夫婦の姓を合体させて全く新しい姓を名乗るカップルなど、個人のアイデンティティに応じた選択が尊重されています。",
+        "source": {
+          "organization": "米国社会保障局 (SSA)",
+          "title": "Legal Name Change on Social Security Card",
+          "url": "https://www.ssa.gov/personal-record/change-name-on-social-security-card"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "夫婦別姓原則 (大韓民国民法・家族関係登録法)",
+        "amount": "原則として「夫婦別姓」（婚姻後も各自の姓を維持）",
+        "incomeLimit": "同姓を名乗る制度自体が存在しない（別姓が法律上必須）",
+        "keyFeature": "儒教の血統重視思想に基づき「姓は先祖から受け継ぐ一代限りのもの」と考えられているため、結婚しても姓は変わりません。かつては家父長的な戸主制度がありましたが2005年に違憲判決で廃止され、個人の「家族関係登録簿」に移行しました。子どもは原則父の姓ですが母の姓も選択可能です。",
+        "source": {
+          "organization": "大韓民国法制処 (MOLEG)",
+          "title": "国家法令情報センター: 大韓民国民法第781条（子の氏と本）",
+          "url": "https://www.law.go.kr"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Nom de famille et nom d'usage (フランス民法)",
+        "amount": "法的な姓（出生名）は一生不変、配偶者姓は「通称」扱い",
+        "incomeLimit": "民法上、戸籍上の正式な姓を変えることは原則不可",
+        "keyFeature": "1794年の革命法以来「何人も出生証明書に記載された名以外の名を用いて公文書を作成できない」と規定されており、結婚しても戸籍上の本名は一生変わりません。ただし日常生活や公的手続きでは配偶者の姓を通称名（Nom d'usage）として名乗る自由が保障されています。",
+        "source": {
+          "organization": "フランス政府公式ポータル (Service-Public.fr)",
+          "title": "Nom d'usage : utilisation du nom de son époux ou de son épouse",
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F868"
+        }
+      }
+    ]
   }
 }

@@ -247,5 +247,67 @@
         "commentStandard": "「ノーヘルでの転倒による重症頭部外傷の搬送が急増。交通ルールの啓発と取り締まり強化が急務」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国・都市の電動キックボード（マイクロモビリティ）規制ルール",
+    "comparisonSummary": "日本が2023年に「16歳以上・免許不要・ヘルメット努力義務・条件付き歩道走行可」という大幅な規制緩和へ踏み切ったのに対し、先行して普及した欧米やアジアの主要都市では、歩行者との衝突事故多発や放置車両への市民の怒りから「歩道走行の全面禁止」や「自治体レベルでの営業全面禁止」など、規制強化・逆戻りの動きが顕著となっています。",
+    "countries": [
+      {
+        "country": "フランス（パリ）",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Interdiction des trottinettes en libre-service (市民投票による全面禁止)",
+        "amount": "シェア型電動キックボードの営業を2023年9月に完全廃止・撤退",
+        "incomeLimit": "私有キックボードのみ歩道禁止・車道20km/h制限で許可",
+        "keyFeature": "事故やマナー違反の横行、歩道放置への市民の不満が爆発し、2023年4月に異例の住民投票を実施。反対票が約89%に達したため、パリ市は3大シェア事業者の営業許可を更新せず、約1万5,000台を街から完全追放しました。",
+        "source": {
+          "organization": "パリ市公式ポータル (Ville de Paris)",
+          "title": "Fin des trottinettes en libre-service à Paris (公式発表)",
+          "url": "https://www.paris.fr"
+        }
+      },
+      {
+        "country": "イギリス（ロンドン）",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "E-scooter trials & Private prohibition (政府公認実証実験のみ)",
+        "amount": "私有キックボードの公道走行は原則「違法」（罰金300ポンド・違反点数）",
+        "incomeLimit": "TfL公認のレンタル車両のみ、普通免許所持者限定で許可",
+        "keyFeature": "量販店等で購入した私有の電動キックボードを公道や歩道で走らせることは法律上固く禁じられており、警察による取り締まりと車両押収が実施されています。ロンドン交通局（TfL）が認可したGPS速度制御付きレンタル車両のみ走行が認められています。",
+        "source": {
+          "organization": "英国運輸省 (DfT)",
+          "title": "E-scooter trials: guidance for users (公式利用者ガイドライン)",
+          "url": "https://www.gov.uk/guidance/e-scooter-trials-guidance-for-users"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Active Mobility Act (アクティブ・モビリティ法)",
+        "amount": "歩道走行違反で最大2,000ドル（約23万円）の罰金または禁錮刑",
+        "incomeLimit": "最高速度25km/h、専用理論試験（Theory Test）合格必須",
+        "keyFeature": "歩行者との接触死亡事故が発生したことを契機に、2019年に全土の歩道での電動キックボード走行を電撃的に全面禁止。走行可能な場所は自転車専用道（Park Connector Network）のみに限定され、違反者には厳しい刑事罰が科されます。",
+        "source": {
+          "organization": "シンガポール陸上交通庁 (LTA)",
+          "title": "Rules & Code of Conduct for Active Mobility (公式規則)",
+          "url": "https://www.lta.gov.sg/content/ltagov/en/getting_around/active_mobility/rules_and_code_of_conduct.html"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Elektrokleinstfahrzeuge-Verordnung (eKFV / 小型電気車両規則)",
+        "amount": "14歳以上、運転免許不要、ヘルメット任意、自賠責保険シール必須",
+        "incomeLimit": "歩道・歩行者天国は完全走行禁止（手押しのみ）",
+        "keyFeature": "日本の法改正のモデルの一つとなった制度。最高時速20km/hに制限され、公道走行には車のナンバーに相当する小型保険シールの貼付が必須。ただし日本と決定的に異なり「歩道走行モード（6km/h）」といった例外は一切認めず、歩道走行は完全禁止です。",
+        "source": {
+          "organization": "ドイツ連邦デジタル・交通省 (BMDV)",
+          "title": "Elektrokleinstfahrzeuge - eKFV (小型電気車両公式法令解説)",
+          "url": "https://bmdv.bund.de/SharedDocs/DE/Artikel/StV/Strassenverkehr/elektrokleinstfahrzeuge-verordnung.html"
+        }
+      }
+    ]
   }
 }
