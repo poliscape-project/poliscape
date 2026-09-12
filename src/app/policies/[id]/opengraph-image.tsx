@@ -282,11 +282,10 @@ export default async function Image({ params }: Props) {
           <div style={{ display: "flex", gap: "14px", alignItems: "center" }}>
             <div
               style={{
-                background: theme.badgeBg,
-                border: `2px solid ${theme.badgeBorder}`,
+                background: "#ffffff",
                 borderRadius: "24px",
                 padding: "8px 24px",
-                color: "#ffffff",
+                color: theme.logoColor,
                 fontSize: "21px",
                 fontWeight: "900",
                 letterSpacing: "0.03em",
