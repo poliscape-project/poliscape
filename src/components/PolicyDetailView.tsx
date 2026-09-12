@@ -243,37 +243,35 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
           isSimpleMode={isSimpleMode}
         />
 
-        {/* 5. 【国際比較】主要先進国のルール比較（データがある政策のみ表示） */}
-        {policy.international && (
-          <PolicyInternationalCard
-            comparison={policy.international}
-            isSimpleMode={isSimpleMode}
-          />
-        )}
-
-        {/* 5. 【段階的開示】詳しい制度変更・経緯・一次情報（気になる人だけ展開） */}
+        {/* 5. 【段階的開示】詳しい制度変更・海外ルール・経緯・一次情報（気になる人だけ展開） */}
         <div className="pt-2">
           <div className="bg-white rounded-2xl border border-slate-200/80 p-4 sm:p-5 text-center shadow-xs">
             <div className="max-w-md mx-auto">
               <div className="text-xs font-bold text-slate-700 mb-1">
-                {policy.status === "discussing" || policy.status === "proposed"
+                {policy.international
+                  ? "制度変更の詳細、海外主要国のルール、根拠法、一次情報を確認したいですか？"
+                  : policy.status === "discussing" || policy.status === "proposed"
                   ? "現行制度と見直し案の詳細、根拠法、一次情報を確認したいですか？"
                   : "制度変更の詳細、根拠法、一次情報を確認したいですか？"}
               </div>
               <p className="text-[11px] text-slate-500 mb-3">
-                {policy.status === "discussing" || policy.status === "proposed"
+                {policy.international
+                  ? "新旧対照（ビフォーアフター）、海外主要国のルール比較、国会での決定経緯タイムライン、根拠法、官公庁の公式一次資料をご覧いただけます。"
+                  : policy.status === "discussing" || policy.status === "proposed"
                   ? "現行制度と議論されている見直し案の対照、国会での審議タイムライン、根拠法・基本制度の解説、官公庁の公式一次資料をご覧いただけます。"
                   : "新旧対照（ビフォーアフター）、国会での決定経緯タイムライン、根拠法・基本制度の解説、官公庁の公式一次資料をご覧いただけます。"}
               </p>
               <button
                 type="button"
                 onClick={() => setShowDeepDive((prev) => !prev)}
-                className="inline-flex items-center gap-2 bg-slate-900 hover:bg-slate-800 text-white text-xs font-bold px-5 py-2.5 rounded-xl transition-all shadow-sm"
+                className="inline-flex items-center gap-2 bg-slate-900 hover:bg-slate-800 text-white text-xs font-bold px-5 py-2.5 rounded-xl transition-all shadow-sm cursor-pointer"
               >
                 <FileText className="w-3.5 h-3.5" />
                 <span>
                   {showDeepDive
                     ? "詳しい解説を閉じる ▲"
+                    : policy.international
+                    ? "新旧対照・海外ルール・タイムライン・根拠法・一次情報を見る ▼"
                     : policy.status === "discussing" || policy.status === "proposed"
                     ? "現行と見直し案の対照・審議経緯・根拠法・一次情報を見る ▼"
                     : "新旧対照・タイムライン・根拠法・一次情報を見る ▼"}
@@ -286,6 +284,14 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
               <div className="mt-6 pt-6 border-t border-slate-100 text-left space-y-6 animate-in fade-in duration-300">
                 {/* 新旧対照（詳しいビフォーアフター表） */}
                 <PolicyChangesCard changes={policy.changes} isSimpleMode={isSimpleMode} status={policy.status} />
+
+                {/* 🌍 海外主要国のルール比較（国際比較データがある政策のみ） */}
+                {policy.international && (
+                  <PolicyInternationalCard
+                    comparison={policy.international}
+                    isSimpleMode={isSimpleMode}
+                  />
+                )}
 
                 {/* タイムライン */}
                 <PolicyTimeline timeline={policy.timeline} isSimpleMode={isSimpleMode} />
