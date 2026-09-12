@@ -125,5 +125,19 @@
       "title": "北方対策本部（内閣府）",
       "url": "https://www8.cao.go.jp/hoppo/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "北方領土・平和条約凍結",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "元島民の高齢化（88歳超）",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "人道墓参再開を要請",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

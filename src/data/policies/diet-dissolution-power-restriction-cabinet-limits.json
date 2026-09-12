@@ -125,5 +125,19 @@
       "title": "憲法審査会における統治機構・解散権の議論（参議院）",
       "url": "https://www.sangiin.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "首相の衆院解散権制限論",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "抜き打ち解散・600億円選挙費",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "国会事前同意・立憲統制",
+      "color": "bg-blue-50 text-blue-800"
+    }
   ]
 }

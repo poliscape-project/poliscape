@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "政府統一ガイドライン"
     }
+  ],
+  "badges": [
+    {
+      "text": "計算資源（GPU）を国が集中支援",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "日本の制度・文化に特化した学習",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "国内DC完結でデータ主権を死守",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

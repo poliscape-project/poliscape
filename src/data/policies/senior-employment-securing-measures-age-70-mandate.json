@@ -119,5 +119,19 @@
       "title": "高年齢者の雇用状況集計結果（厚生労働省）",
       "url": "https://www.mhlw.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "70歳就業義務化論",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "生涯現役社会",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "業務委託・創業支援",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

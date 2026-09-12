@@ -125,5 +125,19 @@
       "title": "ITER（国際熱核融合実験炉）計画と日本の取り組み（文部科学省）",
       "url": "https://www.mext.go.jp/a_menu/shinkou/iter/"
     }
+  ],
+  "badges": [
+    {
+      "text": "核融合国家戦略",
+      "color": "bg-purple-50 text-purple-800"
+    },
+    {
+      "text": "暴走なし・海水燃料",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "2030年代実証へ",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

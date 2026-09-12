@@ -119,5 +119,19 @@
       "title": "就活ハラスメント防止対策企業事例集（厚生労働省）",
       "url": "https://www.mhlw.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "就活セクハラ防止",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "就活生法的保護",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "オワハラ規制",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    }
   ]
 }

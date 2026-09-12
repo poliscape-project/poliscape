@@ -126,5 +126,19 @@
       "title": "文化財修繕用原材料の確保対策（文化庁）",
       "url": "https://www.bunka.go.jp/seisaku/bunkazai/shuzai/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "伝統工芸後継者緊急支援",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "国産漆・和紙原料の保護",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "修行期間の生活保障手当",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

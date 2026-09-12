@@ -141,5 +141,19 @@
       "title": "オリジネーター・プロファイル（OP）技術研究組合",
       "url": "https://originator-profile.org/"
     }
+  ],
+  "badges": [
+    {
+      "text": "OP発信者出自証明技術",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "ディープフェイク偽動画対策",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "AI生成物への電子透かし",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

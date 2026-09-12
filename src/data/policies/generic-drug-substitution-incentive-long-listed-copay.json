@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "業界指針"
     }
+  ],
+  "badges": [
+    {
+      "text": "先発薬の差額1/4が自己負担に",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "成分名処方への評価引き上げ",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "医療上の必要性がある時は免除",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

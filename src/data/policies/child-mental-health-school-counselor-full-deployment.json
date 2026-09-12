@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "支援指針"
     }
+  ],
+  "badges": [
+    {
+      "text": "非常勤から常勤・正規公務員職への転換推進",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "予約不要の即時面談・常駐アクセス",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "SSW主導の福祉機関連携・即時介入",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

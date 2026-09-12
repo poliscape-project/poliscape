@@ -119,5 +119,19 @@
       "title": "リフィル処方箋の仕組みと活用について（日本薬剤師会）",
       "url": "https://www.nichiyaku.or.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "電子処方箋",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "リフィル最大3回",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "重複投薬防止",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

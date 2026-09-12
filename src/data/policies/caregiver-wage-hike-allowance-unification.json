@@ -141,5 +141,19 @@
       "title": "社会保障審議会（介護給付費分科会）審議報告",
       "url": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126707.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "処遇改善3加算を1本化",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "基本給ベースアップ義務化",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "全産業月5〜7万円格差是正",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

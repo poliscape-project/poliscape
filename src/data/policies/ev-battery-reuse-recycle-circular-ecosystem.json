@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "環境白書資料"
     }
+  ],
+  "badges": [
+    {
+      "text": "電池パスポートの義務化",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "メーカーの回収・再資源化義務",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "定置用リユース安全基準",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    }
   ]
 }

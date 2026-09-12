@@ -141,5 +141,19 @@
       "title": "重要土地等利用規制法の区域指定状況（防衛省関係施設）",
       "url": "https://www.mod.go.jp/j/approach/agenda/meeting/tochi/"
     }
+  ],
+  "badges": [
+    {
+      "text": "重要土地等利用規制法の運用",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "基地周辺1km・国境離島指定",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "外資買収調査・事前届出義務",
+      "color": "bg-amber-100 text-amber-900"
+    }
   ]
 }

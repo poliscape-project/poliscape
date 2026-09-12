@@ -125,5 +125,19 @@
       "title": "系統用蓄電池の導入拡大に向けた取り組み（経済産業省）",
       "url": "https://www.meti.go.jp/shingikai/energy_environment/denryoku_gas/denryoku_gas/system_kento/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "系統用巨大蓄電池",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "再エネ出力制御防止",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "数兆円海底送電網",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

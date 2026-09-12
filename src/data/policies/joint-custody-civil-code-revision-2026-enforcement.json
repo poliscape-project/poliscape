@@ -125,5 +125,19 @@
       "title": "法制審議会 家族法制部会（法務省）",
       "url": "https://www.moj.go.jp/shingi1/shingi04900001_00062.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "共同親権2026年施行",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "77年ぶり民法改正",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "DV時は単独親権",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    }
   ]
 }

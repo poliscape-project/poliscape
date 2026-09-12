@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "日弁連警告資料"
     }
+  ],
+  "badges": [
+    {
+      "text": "意思表示から2週間で法律上成立",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "就業規則の代行禁止条項を無効化",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "違法な無資格業者の排除",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

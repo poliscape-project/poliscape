@@ -125,5 +125,19 @@
       "title": "企業内容等の開示に関する内閣府令等の改正（金融庁）",
       "url": "https://www.fsa.go.jp/news/r4/sonota/20230131/20230131.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "男女賃金格差開示",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "有報人的資本3指標",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "女性管理職登用加速",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

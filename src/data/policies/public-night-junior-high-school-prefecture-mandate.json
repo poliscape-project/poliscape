@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "研究会資料"
     }
+  ],
+  "badges": [
+    {
+      "text": "全都道府県への設置を推進",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "不登校の若者や外国籍へ拡大",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "授業料無料・教科書無償",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    }
   ]
 }

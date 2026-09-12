@@ -125,5 +125,19 @@
       "title": "マンション政策の現状と課題（国土交通省）",
       "url": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000045.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "建替え要件4/5緩和",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "老朽マンション対策",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "所在不明者除外新設",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

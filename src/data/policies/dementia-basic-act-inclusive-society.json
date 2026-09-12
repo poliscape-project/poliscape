@@ -141,5 +141,19 @@
       "title": "日本認知症本人ワーキンググループ（JDWG）提言資料",
       "url": "https://www.jdwg.org/"
     }
+  ],
+  "badges": [
+    {
+      "text": "認知症基本法施行（共生社会）",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "高齢者5人に1人の時代へ",
+      "color": "bg-purple-50 text-purple-800"
+    },
+    {
+      "text": "徘徊賠償の自治体公費保険",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

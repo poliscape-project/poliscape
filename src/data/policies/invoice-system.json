@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "財務省公式"
     }
+  ],
+  "badges": [
+    {
+      "text": "激変緩和の2割特例",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "免税80%控除の経過措置",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "BtoCは免税維持も",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

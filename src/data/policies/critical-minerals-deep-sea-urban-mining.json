@@ -171,5 +171,19 @@
       "type": "diet_minutes",
       "typeLabel": "国会審議録"
     }
+  ],
+  "badges": [
+    {
+      "text": "南鳥島水深6,000mレアアース",
+      "color": "bg-blue-50 text-blue-800"
+    },
+    {
+      "text": "中国独占打破へ試掘実験",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "EV廃電池都市鉱山リサイクル",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

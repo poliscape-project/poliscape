@@ -125,5 +125,19 @@
       "title": "政策提言：持続可能な医療保険制度の構築に向けて（健康保険組合連合会）",
       "url": "https://www.kenporen.com/include/press/2023/20231025.pdf"
     }
+  ],
+  "badges": [
+    {
+      "text": "OTC類似薬保険見直し",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "湿布・花粉症薬自費化",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "医療費47兆円抑制",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

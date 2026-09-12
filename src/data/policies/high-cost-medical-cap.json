@@ -127,5 +127,19 @@
       "type": "official_document",
       "typeLabel": "公的給付解説"
     }
+  ],
+  "badges": [
+    {
+      "text": "中間層上限引き上げ検討",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "国民医療費47兆円突破",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "多数回該当4.4万円維持",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

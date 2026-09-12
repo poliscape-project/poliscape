@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "委員会見解指針"
     }
+  ],
+  "badges": [
+    {
+      "text": "完全な手ぶら決済が実現",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "顔画像の保存禁止・特徴量暗号化",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "事前オプトイン同意の義務化",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

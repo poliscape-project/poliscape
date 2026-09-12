@@ -125,5 +125,19 @@
       "title": "地方公共団体の基幹業務システムの統一・標準化（デジタル庁）",
       "url": "https://www.digital.go.jp/policies/local_governments"
     }
+  ],
+  "badges": [
+    {
+      "text": "全国コンビニ即時交付",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "自治体システム標準化（ガバクラ）",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "役所窓口待ち時間ゼロへ",
+      "color": "bg-blue-50 text-blue-800"
+    }
   ]
 }

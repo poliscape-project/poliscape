@@ -145,5 +145,19 @@
       "url": "https://www.bousai.go.jp/taisaku/hinanjo/toilet.html",
       "organization": "内閣府"
     }
+  ],
+  "badges": [
+    {
+      "text": "避難所TKB基準法制化",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "段ボールベッド・温食",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "災害関連死ゼロ目標",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    }
   ]
 }

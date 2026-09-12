@@ -125,5 +125,19 @@
       "title": "男性におけるHPV関連疾患とワクチン（日本小児科学会）",
       "url": "https://www.jpeds.or.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "男子への公費全額助成",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "中咽頭がん等の予防",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "男女接種で集団免疫",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

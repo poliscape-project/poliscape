@@ -125,5 +125,19 @@
       "title": "深夜割引の見直しに関するお知らせ（NEXCO各社）",
       "url": "https://www.e-nexco.co.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "深夜実走行距離の3割引",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "0時待ち危険待機を根絶",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "対象時間22時〜5時拡大",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

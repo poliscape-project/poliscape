@@ -119,5 +119,19 @@
       "title": "国家安全保障戦略（内閣官房）",
       "url": "https://www.cas.go.jp/jp/siryou/221216anzenhosho/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "能動的サイバー防御",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "先制アクセス無害化",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "通信の秘密と相克",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    }
   ]
 }

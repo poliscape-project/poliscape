@@ -165,5 +165,19 @@
       "type": "official_document",
       "typeLabel": "消防庁通知"
     }
+  ],
+  "badges": [
+    {
+      "text": "警戒と注意の行動基準を明確化",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "過剰な計画運休・休業の防止指針",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "流通業界との連携と冷静な購買誘導",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    }
   ]
 }

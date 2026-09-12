@@ -125,5 +125,19 @@
       "title": "インターネット活用業務の実施基準について（NHK）",
       "url": "https://www.nhk.or.jp/pr/keiei/otherpress/"
     }
+  ],
+  "badges": [
+    {
+      "text": "ネット必須業務化",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "アプリ登録で受信料",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "テレビなし世帯対象",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    }
   ]
 }

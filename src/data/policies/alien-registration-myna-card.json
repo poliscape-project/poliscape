@@ -127,5 +127,19 @@
       "type": "white_paper",
       "typeLabel": "デジタル庁広報資料"
     }
+  ],
+  "badges": [
+    {
+      "text": "在留カードとマイナ統合",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "市役所訪問が不要に",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "偽造カード不法就労撲滅",
+      "color": "bg-purple-50 text-purple-800"
+    }
   ]
 }

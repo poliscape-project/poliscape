@@ -171,5 +171,19 @@
       "type": "diet_minutes",
       "typeLabel": "国会審議録"
     }
+  ],
+  "badges": [
+    {
+      "text": "JAXAに10年1兆円基金",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "民間小型ロケット・衛星量産",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "2030年代宇宙産業8兆円へ",
+      "color": "bg-blue-50 text-blue-800"
+    }
   ]
 }

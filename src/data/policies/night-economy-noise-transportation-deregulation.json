@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "経産省調査報告"
     }
+  ],
+  "badges": [
+    {
+      "text": "夜間イベント営業届出の簡素化",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "深夜交通アクセスの拡充",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "騒音・治安共生パトロール",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

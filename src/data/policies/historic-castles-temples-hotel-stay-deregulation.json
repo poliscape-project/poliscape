@@ -126,5 +126,19 @@
       "title": "文化財の宿泊施設への活用について（文化庁）",
       "url": "https://www.bunka.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "城泊・寺泊特区",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "天守1泊100万円貸切",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "宿泊収益で城郭修繕",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

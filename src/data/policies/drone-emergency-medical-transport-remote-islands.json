@@ -125,5 +125,19 @@
       "title": "ドローンを活用した医薬品配送に関するガイドライン（厚生労働省・国土交通省）",
       "url": "https://www.mhlw.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "離島への処方薬ドローン空輸",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "有人地帯レベル4目視外飛行",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "オンライン診療即日受取",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

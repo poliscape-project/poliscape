@@ -157,5 +157,19 @@
       "type": "official_document",
       "typeLabel": "省公式解説"
     }
+  ],
+  "badges": [
+    {
+      "text": "店頭10〜15円/L抑制",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "国費投入累計6兆円超",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "トリガー条項凍結継続",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

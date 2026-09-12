@@ -141,5 +141,19 @@
       "title": "特定入所者介護サービス費（居住費・食費の負担限度額）の見直し（厚生労働省）",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000188411_00015.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "特養相部屋に月約8,000円室料",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "ユニット個室との公平性",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "低年金高齢者の退所リスク",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

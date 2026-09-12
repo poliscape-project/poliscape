@@ -141,5 +141,19 @@
       "title": "社会保障審議会 介護保険部会 議論の整理",
       "url": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126727.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "要介護1・2の総合事業移行案",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "軽度者の保険給付外し議論",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "早期重度化・家族負担の懸念",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

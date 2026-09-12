@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "行政施策資料"
     }
+  ],
+  "badges": [
+    {
+      "text": "再婚後の出生は現夫の子に",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "女性の再婚禁止期間を全廃",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "母と子本人にも否認権を付与",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

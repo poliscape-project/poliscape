@@ -141,5 +141,19 @@
       "title": "グローバル戦闘航空プログラム（GCAP）について（防衛省）",
       "url": "https://www.mod.go.jp/j/approach/surround/gcap.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "次期戦闘機GCAP第三国輸出",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "防衛装備移転三原則改定",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "平和主義と量産コスト低減",
+      "color": "bg-amber-100 text-amber-900"
+    }
   ]
 }

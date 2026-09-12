@@ -125,5 +125,19 @@
       "title": "リスキリングを通じたキャリアアップ支援事業（経済産業省）",
       "url": "https://careerup.reskilling.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "リスキリング最大80%",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "5年1兆円枠",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "個人直接給付",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    }
   ]
 }

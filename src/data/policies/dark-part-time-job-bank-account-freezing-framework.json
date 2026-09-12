@@ -165,5 +165,19 @@
       "type": "press_release",
       "typeLabel": "全銀協指針"
     }
+  ],
+  "badges": [
+    {
+      "text": "数分〜数時間の即時口座凍結ネットワーク",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "全銀行での新規口座開設・利用の全面拒否",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "高齢者口座のATM振込制限・不正防止",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    }
   ]
 }

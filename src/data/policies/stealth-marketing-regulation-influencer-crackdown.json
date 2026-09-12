@@ -126,5 +126,19 @@
       "title": "事例で分かるステルスマーケティング告示ガイドブック（消費者庁）",
       "url": "https://www.caa.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "ステマ（やらせ広告）全面違法化",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "違反広告主の社名公表・措置命令",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "明瞭な#PR表記義務",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

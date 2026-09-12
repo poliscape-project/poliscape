@@ -125,5 +125,19 @@
       "title": "災害時におけるふるさと納税を活用した被災自治体支援（総務省通知）",
       "url": "https://www.soumu.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "被災地の寄付事務を代行",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "返礼品なしの純粋支援",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "能登地震で数十億円調達",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

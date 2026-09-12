@@ -165,5 +165,19 @@
       "type": "diet_minutes",
       "typeLabel": "国会議事録"
     }
+  ],
+  "badges": [
+    {
+      "text": "103万円（税の壁）",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "106万・130万（社保の壁）",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "手取りの崖解消へ",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

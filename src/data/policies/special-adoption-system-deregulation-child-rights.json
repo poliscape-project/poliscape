@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "社会的養護白書"
     }
+  ],
+  "badges": [
+    {
+      "text": "対象年齢を原則6歳未満から15歳未満へ拡大",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "二段階審判導入による実親の同意撤回トラブル防止",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "民間あっせん事業者の完全許可制と監督強化",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    }
   ]
 }

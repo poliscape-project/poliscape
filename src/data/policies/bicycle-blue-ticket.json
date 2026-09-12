@@ -127,5 +127,19 @@
       "type": "white_paper",
       "typeLabel": "政府交通安全白書"
     }
+  ],
+  "badges": [
+    {
+      "text": "ながらスマホ反則金1.2万",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "16歳以上（高校生対象）",
+      "color": "bg-blue-50 text-blue-800"
+    },
+    {
+      "text": "期日納付で前科なし",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

@@ -127,5 +127,19 @@
       "type": "white_paper",
       "typeLabel": "規制改革会議公表資料"
     }
+  ],
+  "badges": [
+    {
+      "text": "解雇無効時の金銭解決",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "補償金3〜18ヶ月相当",
+      "color": "bg-blue-50 text-blue-800"
+    },
+    {
+      "text": "労働者申立型が有力",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

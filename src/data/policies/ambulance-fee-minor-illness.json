@@ -135,5 +135,19 @@
       "type": "official_document",
       "typeLabel": "厚労省検討会報告"
     }
+  ],
+  "badges": [
+    {
+      "text": "軽症選定療養費7,700円",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "救急出動パンク抑止",
+      "color": "bg-red-50 text-red-800"
+    },
+    {
+      "text": "#7119相談窓口推奨",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

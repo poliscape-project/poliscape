@@ -157,5 +157,19 @@
       "type": "official_document",
       "typeLabel": "庁公式資料"
     }
+  ],
+  "badges": [
+    {
+      "text": "公立小中月約5,000円無料",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "多子世帯年間10万超軽減",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "全国一律国費負担議論",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

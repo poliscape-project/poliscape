@@ -125,5 +125,19 @@
       "title": "取締役会の多様性（ジェンダー・国際性等）の推進（東京証券取引所）",
       "url": "https://www.jpx.co.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "東証プライム2030年30%",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "男性中心ガバナンス刷新",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "女性幹部パイプライン育成",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

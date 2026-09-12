@@ -125,5 +125,19 @@
       "title": "水道水における有機フッ素化合物（PFAS）の対応（国土交通省水管理・国土保全局）",
       "url": "https://www.mlit.go.jp/mizukokudo/mizsei/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "永遠の化学物質PFAS",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "水道水暫定目標50ng/L",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "活性炭フィルター浄水",
+      "color": "bg-slate-100 text-slate-700"
+    }
   ]
 }

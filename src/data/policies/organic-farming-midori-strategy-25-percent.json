@@ -145,5 +145,19 @@
       "url": "https://www.maff.go.jp/j/kanbo/kankyo/seisaku/midori/houritu.html",
       "organization": "農林水産省 大臣官房環境バイオマス政策課"
     }
+  ],
+  "badges": [
+    {
+      "text": "みどりの食料戦略",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "有機農業面積25%目標",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "化学農薬・肥料大幅削減",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

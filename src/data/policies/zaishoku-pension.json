@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "年金機構解説"
     }
+  ],
+  "badges": [
+    {
+      "text": "支給停止基準 月50万円",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "超過分の1/2カット",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "基礎年金は全額支給",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

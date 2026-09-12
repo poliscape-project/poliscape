@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "実態調査報告"
     }
+  ],
+  "badges": [
+    {
+      "text": "全部支給所得上限を年収約190万円へ引き上げ",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "第3子以降加算額を月1万750円へ倍増",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "一部支給上限枠の引き上げと就労意欲の保護",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

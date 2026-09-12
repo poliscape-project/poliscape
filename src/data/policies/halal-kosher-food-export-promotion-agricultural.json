@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "市場調査報告"
     }
+  ],
+  "badges": [
+    {
+      "text": "認証取得・更新費用の最大半額補助",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "ハラール対応専用屠畜場・加工ラインの整備",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "相手国公的機関との認証相互承認の推進",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

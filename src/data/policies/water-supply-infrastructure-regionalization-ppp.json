@@ -125,5 +125,19 @@
       "title": "ウォーターPPPの導入ガイドライン（内閣府民間資金等活用事業推進室）",
       "url": "https://www8.cao.go.jp/pfi/"
     }
+  ],
+  "badges": [
+    {
+      "text": "老朽水道管の破裂多発",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "隣接自治体との水道統合",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "ウォーターPPP官民連携",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

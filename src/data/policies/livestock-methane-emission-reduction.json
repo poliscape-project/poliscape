@@ -171,5 +171,19 @@
       "type": "white_paper",
       "typeLabel": "国家インベントリ報告書"
     }
+  ],
+  "badges": [
+    {
+      "text": "牛のゲップメタン2〜3割減",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "海藻・カシューナッツ油添加",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "ふん尿バイオガス発電",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

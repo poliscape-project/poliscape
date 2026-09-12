@@ -157,5 +157,19 @@
       "type": "press_release",
       "typeLabel": "経済界提言"
     }
+  ],
+  "badges": [
+    {
+      "text": "同姓・別姓自由選択",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "改姓・名義変更コストゼロ",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "経団連が早期法改正要望",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "統計調査"
     }
+  ],
+  "badges": [
+    {
+      "text": "教職調整額を4%から10%以上へ拡充",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "サポートスタッフの全校配備",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "自治体直収による集金負担ゼロ化",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

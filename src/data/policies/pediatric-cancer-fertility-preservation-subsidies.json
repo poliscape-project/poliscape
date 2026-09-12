@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "診療ガイドライン"
     }
+  ],
+  "badges": [
+    {
+      "text": "卵子・卵巣組織等の凍結保存費用を公費助成",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "寛解後の生殖補助医療（体外受精）への助成拡大",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "がん治療開始前の緊急妊孕性カウンセリング体制",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

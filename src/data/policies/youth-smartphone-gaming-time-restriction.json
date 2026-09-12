@@ -141,5 +141,19 @@
       "title": "ネット・ゲーム依存症対策について（厚生労働省・精神保健福祉）",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000149274.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "未成年スマホ・SNS利用指針",
+      "color": "bg-amber-100 text-amber-900"
+    },
+    {
+      "text": "海外16歳未満禁止法の波及",
+      "color": "bg-purple-50 text-purple-800"
+    },
+    {
+      "text": "年齢確認技術の実装義務化",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

@@ -171,5 +171,19 @@
       "type": "diet_minutes",
       "typeLabel": "国会審議録"
     }
+  ],
+  "badges": [
+    {
+      "text": "自動運転・ドローン普及",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "即時償却・長期低利融資",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "2024年10月新法施行",
+      "color": "bg-blue-50 text-blue-800"
+    }
   ]
 }

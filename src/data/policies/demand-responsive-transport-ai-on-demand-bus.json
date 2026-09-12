@@ -145,5 +145,19 @@
       "url": "https://www.mlit.go.jp/",
       "organization": "国土交通省"
     }
+  ],
+  "badges": [
+    {
+      "text": "AIオンデマンド交通",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "予約即時最適配車",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "空白地域の足確保",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

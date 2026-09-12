@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "全国実態調査"
     }
+  ],
+  "badges": [
+    {
+      "text": "ヤングケアラーの国法初明記と支援責務化",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "家庭への家事・介護ヘルパー公費派遣事業",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "学校スクリーニングと専門支援ネットワーク直結",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

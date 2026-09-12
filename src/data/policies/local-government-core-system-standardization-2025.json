@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "財政支援報告"
     }
+  ],
+  "badges": [
+    {
+      "text": "基幹20業務の全国統一仕様準拠システム化",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "ガバメントクラウドへの全庁データ移行",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "ベンダーロックインの完全打破と競争調達",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

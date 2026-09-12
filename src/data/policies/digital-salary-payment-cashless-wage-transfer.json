@@ -125,5 +125,19 @@
       "title": "労働基準法施行規則の一部を改正する省令（厚生労働省）",
       "url": "https://www.mhlw.go.jp/content/001011681.pdf"
     }
+  ],
+  "badges": [
+    {
+      "text": "給与デジタル払い",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "PayPay等へ直送金",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "上限20万・全額保証",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

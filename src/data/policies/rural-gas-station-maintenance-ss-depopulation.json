@@ -145,5 +145,19 @@
       "url": "https://www.meti.go.jp/",
       "organization": "経済産業省"
     }
+  ],
+  "badges": [
+    {
+      "text": "過疎地SS維持支援",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "灯油配達・給油所確保",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "給油難民ゼロ対策",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

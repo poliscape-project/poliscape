@@ -127,5 +127,19 @@
       "type": "white_paper",
       "typeLabel": "こども未来戦略方針"
     }
+  ],
+  "badges": [
+    {
+      "text": "実質手取り10割（100%）",
+      "color": "bg-pink-50 text-pink-800"
+    },
+    {
+      "text": "産後8週に最大4週間",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "100人超企業に公表義務",
+      "color": "bg-blue-50 text-blue-800"
+    }
   ]
 }

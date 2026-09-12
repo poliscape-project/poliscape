@@ -171,5 +171,19 @@
       "type": "diet_minutes",
       "typeLabel": "国会審議録"
     }
+  ],
+  "badges": [
+    {
+      "text": "製造ライン国有化特例",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "目標利益率最大15%保障",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "防衛撤退100社超の抑止",
+      "color": "bg-blue-50 text-blue-800"
+    }
   ]
 }

@@ -141,5 +141,19 @@
       "type": "press_release",
       "typeLabel": "事業者リリース"
     }
+  ],
+  "badges": [
+    {
+      "text": "仲介サイト還元禁止",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "2025年10月施行",
+      "color": "bg-slate-100 text-slate-800"
+    },
+    {
+      "text": "自治体の手数料是正",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

@@ -125,5 +125,19 @@
       "title": "スポーツ・ベッティングを巡る諸課題（日本スポーツ仲裁機構）",
       "url": "https://www.jsaa.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "プロ野球・Jリーグ賭博案",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "部活・施設改修の巨額財源",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "八百長・依存症リスク",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

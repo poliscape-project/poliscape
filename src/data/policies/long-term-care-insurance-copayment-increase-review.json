@@ -125,5 +125,19 @@
       "title": "介護保険制度の見直しに向けた議論の整理（厚生労働省）",
       "url": "https://www.mhlw.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "介護自己負担2割",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "現役世代負担減",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "2027年改定焦点",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    }
   ]
 }

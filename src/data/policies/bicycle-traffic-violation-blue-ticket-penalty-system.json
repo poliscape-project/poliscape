@@ -119,5 +119,19 @@
       "title": "自転車の安全利用の促進（警察庁）",
       "url": "https://www.npa.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "自転車青切符導入",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "反則金5000円〜",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "16歳以上110違反",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    }
   ]
 }

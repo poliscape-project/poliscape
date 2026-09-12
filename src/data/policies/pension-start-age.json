@@ -145,5 +145,19 @@
       "type": "official_document",
       "typeLabel": "厚労省公式"
     }
+  ],
+  "badges": [
+    {
+      "text": "選択幅 60〜75歳",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "最大+84%増額（75歳）",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "損益分岐点 約82歳",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

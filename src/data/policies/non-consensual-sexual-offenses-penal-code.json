@@ -141,5 +141,19 @@
       "title": "性的姿態撮影等処罰法の概要（警察庁）",
       "url": "https://www.npa.go.jp/bureau/safetylife/seikatsukankyo/satsueizai/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "不同意性交等罪の施行",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "性的同意年齢16歳へ",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "盗撮処罰法（撮影罪）新設",
+      "color": "bg-purple-50 text-purple-800"
+    }
   ]
 }

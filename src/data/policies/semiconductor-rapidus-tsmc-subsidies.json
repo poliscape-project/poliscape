@@ -171,5 +171,19 @@
       "type": "diet_minutes",
       "typeLabel": "国会会議録"
     }
+  ],
+  "badges": [
+    {
+      "text": "TSMC熊本へ1.2兆円助成",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "Rapidus千歳2ナノ量産",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "総額5兆円の投資・顧客リスク",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

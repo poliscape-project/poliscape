@@ -125,5 +125,19 @@
       "title": "公立義務教育諸学校等の教育職員の給与等に関する特別措置法（e-Gov法令検索）",
       "url": "https://laws.e-gov.go.jp/law/346AC0000000077"
     }
+  ],
+  "badges": [
+    {
+      "text": "教職調整額10%超へ",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "給特法50年ぶり改定",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "定額働かせ放題論争",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    }
   ]
 }

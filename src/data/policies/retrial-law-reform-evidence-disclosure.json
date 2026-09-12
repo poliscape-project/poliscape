@@ -141,5 +141,19 @@
       "title": "刑事訴訟法における再審に関する検討（法務省法制審議会資料）",
       "url": "https://www.moj.go.jp/shingi1/housei_index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "袴田事件無罪確定",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "未提出証拠の開示義務化",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "検察の抗告禁止を要求",
+      "color": "bg-amber-100 text-amber-900"
+    }
   ]
 }

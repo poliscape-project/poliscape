@@ -127,5 +127,19 @@
       "type": "white_paper",
       "typeLabel": "経産省・国交省合同資料"
     }
+  ],
+  "badges": [
+    {
+      "text": "有人地帯レベル4自律飛行",
+      "color": "bg-sky-50 text-sky-800"
+    },
+    {
+      "text": "過疎地配送70〜80%短縮",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "国家操縦資格の新設",
+      "color": "bg-blue-50 text-blue-800"
+    }
   ]
 }

@@ -125,5 +125,19 @@
       "title": "タワーマンション等の適正な評価に関する有識者会議（国税庁）",
       "url": "https://www.nta.go.jp/about/council/mansion_hyoka/index.htm"
     }
+  ],
+  "badges": [
+    {
+      "text": "タワマン節税適正化",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "時価6割最低ライン",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "4要素補正算定式",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

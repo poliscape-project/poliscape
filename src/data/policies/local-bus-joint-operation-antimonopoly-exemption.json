@@ -125,5 +125,19 @@
       "title": "基盤的サービスの維持のための独占禁止法特例法（公正取引委員会）",
       "url": "https://www.jftc.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "バス会社同士の協定特例",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "重複路線廃止・等間隔運行",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "共通定期券・過疎路線維持",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

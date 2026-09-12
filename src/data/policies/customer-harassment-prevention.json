@@ -157,5 +157,19 @@
       "type": "official_document",
       "typeLabel": "都公式条例資料"
     }
+  ],
+  "badges": [
+    {
+      "text": "土下座強要・暴言を明文化",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "企業の防止措置義務化へ",
+      "color": "bg-slate-100 text-slate-800"
+    },
+    {
+      "text": "名札名字・イニシャル化",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

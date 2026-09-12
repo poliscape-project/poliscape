@@ -141,5 +141,19 @@
       "title": "海上保安庁の防衛体制と自衛隊との連携（海上保安レポート）",
       "url": "https://www.kaiho.mlit.go.jp/info/books/report2023/"
     }
+  ],
+  "badges": [
+    {
+      "text": "海保の防衛相統制要領",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "自衛隊法80条の手続き初策定",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "住民避難・海難救助に特化",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

@@ -125,5 +125,19 @@
       "title": "メディア芸術・映画振興に関する検討（文化庁）",
       "url": "https://www.bunka.go.jp/seisaku/bunkashingikai/chousakuken/"
     }
+  ],
+  "badges": [
+    {
+      "text": "文化クオータ制",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "外資に国内制作投資",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "アニメ・映画振興",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

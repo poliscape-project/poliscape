@@ -126,5 +126,19 @@
       "title": "津波避難タワー等の整備指針（国土交通省）",
       "url": "https://www.mlit.go.jp/toshi/toshi_tobou_fr_000007.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "日本海溝・千島海溝巨大地震",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "厳冬期対応型津波避難タワー",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "国庫補助最大3分の2",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

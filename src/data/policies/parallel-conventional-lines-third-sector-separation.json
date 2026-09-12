@@ -125,5 +125,19 @@
       "title": "整備新幹線と並行在来線（全国知事会）",
       "url": "https://www.nga.gr.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "新幹線延伸と並行在来線",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "地元自治体の赤字三セク化",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "高校生通学定期の値上げ",
+      "color": "bg-slate-100 text-slate-700"
+    }
   ]
 }

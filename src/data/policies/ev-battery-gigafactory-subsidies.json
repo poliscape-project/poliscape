@@ -171,5 +171,19 @@
       "type": "diet_minutes",
       "typeLabel": "国会会議録"
     }
+  ],
+  "badges": [
+    {
+      "text": "国内電池工場へ1兆円支援",
+      "color": "bg-blue-50 text-blue-800"
+    },
+    {
+      "text": "全固体電池2020年代実用化",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "EV踊り場・HV優位の市場",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

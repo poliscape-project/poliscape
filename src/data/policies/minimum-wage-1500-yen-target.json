@@ -141,5 +141,19 @@
       "title": "中小企業・小規模事業者の賃上げ支援（中小企業庁）",
       "url": "https://www.chusho.meti.go.jp/koukai/yosan/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "全国平均1,500円目標前倒し",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "2024年1,055円へ大幅改定",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "中小企業業務改善助成金9割",
+      "color": "bg-amber-100 text-amber-900"
+    }
   ]
 }

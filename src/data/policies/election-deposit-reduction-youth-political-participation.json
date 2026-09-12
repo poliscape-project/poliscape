@@ -125,5 +125,19 @@
       "title": "各国の選挙供託金制度の比較（国立国会図書館調査及び立法考査局）",
       "url": "https://www.ndl.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "選挙供託金（300万〜600万円）",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "若者・女性の参入障壁打破",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "売名候補乱立防止との両立",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

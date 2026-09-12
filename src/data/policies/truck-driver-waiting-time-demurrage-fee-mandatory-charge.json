@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "3省合同指針"
     }
+  ],
+  "badges": [
+    {
+      "text": "拘束時間年3300時間へ短縮",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "荷待ち時間料の別建て請求義務化",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "悪質荷主の社名公表処分",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

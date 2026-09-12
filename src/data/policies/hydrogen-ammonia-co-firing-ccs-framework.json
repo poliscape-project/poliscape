@@ -125,5 +125,19 @@
       "title": "水素基本戦略（エネルギー・環境会議）",
       "url": "https://www.cas.go.jp/jp/seisaku/suiso_kihon/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "水素アンモニア混焼",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "CCS地中貯留法制",
+      "color": "bg-blue-50 text-blue-800"
+    },
+    {
+      "text": "石炭火力延命批判",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

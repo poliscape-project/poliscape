@@ -125,5 +125,19 @@
       "title": "グローバル・ミニマム課税関係情報（国税庁）",
       "url": "https://www.nta.go.jp/publication/pamph/hojin/kaisei_gaiyo2023/index.htm"
     }
+  ],
+  "badges": [
+    {
+      "text": "最低法人税率15%",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "タックスヘイブン封殺",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "OECD第2の柱適用",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

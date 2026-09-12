@@ -125,5 +125,19 @@
       "title": "外国人住民に係るマイナンバーカードの取扱い（デジタル庁）",
       "url": "https://www.digital.go.jp/policies/mynumber"
     }
+  ],
+  "badges": [
+    {
+      "text": "特定在留カード",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "入管・自治体一体化",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "偽造在留カード撲滅",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

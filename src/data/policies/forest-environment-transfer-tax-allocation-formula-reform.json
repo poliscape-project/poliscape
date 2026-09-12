@@ -165,5 +165,19 @@
       "type": "official_document",
       "typeLabel": "税制改正解説"
     }
+  ],
+  "badges": [
+    {
+      "text": "森林面積重視へ配分比率を是正",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "2024年度より年1,000円課税開始",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "荒廃林の間伐と花粉症対策の重点化",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    }
   ]
 }

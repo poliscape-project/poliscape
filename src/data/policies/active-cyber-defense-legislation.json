@@ -141,5 +141,19 @@
       "title": "国家安全保障戦略について（内閣総理大臣官邸）",
       "url": "https://www.kantei.go.jp/jp/singi/anzenhosyou/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "能動的サイバー防御ACD",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "通信の秘密と先制中和",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "重要インフラ防衛司令部新設",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

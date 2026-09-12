@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "政府広報解説"
     }
+  ],
+  "badges": [
+    {
+      "text": "一定所得以上は2割負担",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "一般層約8割は1割維持",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "緩和措置終了・本格運用",
+      "color": "bg-slate-100 text-slate-700"
+    }
   ]
 }

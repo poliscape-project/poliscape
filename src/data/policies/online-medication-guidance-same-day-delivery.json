@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "政府工程表"
     }
+  ],
+  "badges": [
+    {
+      "text": "スマホで服薬指導を完了",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "最短即日自宅へ配送",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "ドローンによる医薬品空輸",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

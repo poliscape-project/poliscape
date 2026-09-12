@@ -141,5 +141,19 @@
       "title": "外国人介護職員の受入れと活躍支援に関する調査研究",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000147775.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "2040年介護職員57万人不足",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "育成就労制度で転籍容認へ",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "円安下の国際人材獲得競争",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

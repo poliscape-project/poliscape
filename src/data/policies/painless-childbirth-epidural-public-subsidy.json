@@ -125,5 +125,19 @@
       "title": "無痛分娩関係学会・団体連絡協議会（JALA）",
       "url": "https://www.jalasite.org/"
     }
+  ],
+  "badges": [
+    {
+      "text": "無痛分娩の費用助成検討",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "産後うつ予防・早期回復",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "24時間麻酔体制の確保",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

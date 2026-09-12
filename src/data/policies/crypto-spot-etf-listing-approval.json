@@ -125,5 +125,19 @@
       "title": "自民党web3ホワイトペーパー（デジタル社会推進本部）",
       "url": "https://www.jimin.jp/policy/pamphlet/"
     }
+  ],
+  "badges": [
+    {
+      "text": "証券口座でビットコイン",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "20%申告分離課税化",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "NISA投資の可能性",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

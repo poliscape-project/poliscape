@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "資源開発白書"
     }
+  ],
+  "badges": [
+    {
+      "text": "深海底専用の採掘権設定・公募制度の法制化",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "深海生態系アセスメント基準の厳格義務化",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "深海連続採掘ロボット実用化への集中投資",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

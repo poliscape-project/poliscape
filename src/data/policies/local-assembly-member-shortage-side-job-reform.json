@@ -125,5 +125,19 @@
       "title": "町村議会の現状と課題（全国町村議会議長会）",
       "url": "https://www.nactva.gr.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "町村議員の無投票防止",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "サラリーマン兼業300万緩和",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "夜間・休日議会の開催",
+      "color": "bg-slate-100 text-slate-700"
+    }
   ]
 }

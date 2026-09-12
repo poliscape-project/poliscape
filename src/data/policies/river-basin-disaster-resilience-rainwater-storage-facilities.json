@@ -126,5 +126,19 @@
       "title": "特定都市河川浸水被害対策法（国土交通省）",
       "url": "https://www.mlit.go.jp/river/"
     }
+  ],
+  "badges": [
+    {
+      "text": "流域治水関連法",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "地下調整池の設置義務化",
+      "color": "bg-blue-50 text-blue-800"
+    },
+    {
+      "text": "田んぼダム全国展開",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

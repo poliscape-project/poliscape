@@ -157,5 +157,19 @@
       "type": "press_release",
       "typeLabel": "就業環境指針"
     }
+  ],
+  "badges": [
+    {
+      "text": "口頭発注の完全禁止・電磁的明示義務化",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "納品後60日以内の支払期日義務化",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "継続取引における育児・介護両立配慮の義務化",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    }
   ]
 }

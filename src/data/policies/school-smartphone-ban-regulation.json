@@ -141,5 +141,19 @@
       "type": "press_release",
       "typeLabel": "専門医療学会提言"
     }
+  ],
+  "badges": [
+    {
+      "text": "欧米で校内全面禁止拡大",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "集中力向上・ネットいじめ抑止",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "災害連絡・デジタル教育との両立",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

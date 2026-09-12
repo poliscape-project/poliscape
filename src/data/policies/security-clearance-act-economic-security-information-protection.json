@@ -125,5 +125,19 @@
       "title": "経済安全保障分野におけるセキュリティ・クリアランス制度等に関する有識者会議",
       "url": "https://www.cas.go.jp/jp/seisaku/keizai_anzen_hosyo_sc/"
     }
+  ],
+  "badges": [
+    {
+      "text": "セキュリティクリアランス",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "身辺調査・適性評価",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "漏洩最高5年懲役",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    }
   ]
 }

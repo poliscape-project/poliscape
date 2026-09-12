@@ -157,5 +157,19 @@
       "type": "official_document",
       "typeLabel": "庁公式報告"
     }
+  ],
+  "badges": [
+    {
+      "text": "年1,000円住民税上乗せ",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "納税者約6,000万人",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "都市部の基金積立問題",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

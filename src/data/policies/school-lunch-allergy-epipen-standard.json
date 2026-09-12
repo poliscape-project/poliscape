@@ -125,5 +125,19 @@
       "title": "アレルギー疾患対策の推進（厚生労働省）",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/allergy/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "食物アレルギー誤食ゼロ",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "おかわり禁止・専用皿",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "全教員のエピペン訓練",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

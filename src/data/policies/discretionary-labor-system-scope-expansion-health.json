@@ -125,5 +125,19 @@
       "title": "労働基準法における裁量労働制の概要（厚生労働省）",
       "url": "https://www.mhlw.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "裁量労働同意必須",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "M&A・企画追加",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "インターバル義務",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

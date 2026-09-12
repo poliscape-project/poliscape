@@ -157,5 +157,19 @@
       "type": "official_document",
       "typeLabel": "助成金利用手引"
     }
+  ],
+  "badges": [
+    {
+      "text": "企業へ1人最大50万円助成",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "手当支給で手取り減ゼロ",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "厚生年金加入で将来増額",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

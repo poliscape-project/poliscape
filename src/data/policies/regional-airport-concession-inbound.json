@@ -141,5 +141,19 @@
       "title": "地方空港の利用促進・受入環境整備（観光庁）",
       "url": "https://www.mlit.go.jp/kankocho/seisaku_seido/kiban/airport.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "地方空港コンセッション",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "国際線LCC直行便誘致",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "滑走路・ターミナル一体運営",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

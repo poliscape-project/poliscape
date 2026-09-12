@@ -141,5 +141,19 @@
       "title": "JR西日本 ローカル線に関する課題認識と情報開示",
       "url": "https://www.westjr.co.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "赤字ローカル線再構築",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "BRT・上下分離方式",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "国主導の再構築協議会",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

@@ -125,5 +125,19 @@
       "title": "選択的週休3日制の導入推進（厚生労働省）",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000148322_00043.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "週休3日制公務員先行",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "フレックス時間維持",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "給与据置か減額か",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    }
   ]
 }

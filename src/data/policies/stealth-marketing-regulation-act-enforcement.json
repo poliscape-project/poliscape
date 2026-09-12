@@ -145,5 +145,19 @@
       "url": "https://www.caa.go.jp/",
       "organization": "消費者庁"
     }
+  ],
+  "badges": [
+    {
+      "text": "ステマ告示規制・厳罰化",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "「PR」「広告」表記必須",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "措置命令・事業者名公表",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

@@ -126,5 +126,19 @@
       "title": "高経年化炉の新たな安全規制制度（原子力規制委員会）",
       "url": "https://www.nra.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "原発60年超運転認可",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "停止期間カウント除外",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "10年ごと特別点検",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

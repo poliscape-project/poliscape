@@ -141,5 +141,19 @@
       "title": "改正少年法の施行と実名報道に関する見解（日本新聞協会）",
       "url": "https://www.pressnet.or.jp/statement/"
     }
+  ],
+  "badges": [
+    {
+      "text": "特定少年（18・19歳）",
+      "color": "bg-amber-100 text-amber-900"
+    },
+    {
+      "text": "起訴後の実名報道解禁",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "原則逆送対象の大幅拡大",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

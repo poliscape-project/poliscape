@@ -141,5 +141,19 @@
       "title": "医療法等の一部を改正する法律の概要（厚生労働省医政局）",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/kakaritsuke/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "かかりつけ医機能報告制度",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "休日夜間・在宅看取り機能の公表",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "大病院受診の選定療養費引き上げ",
+      "color": "bg-amber-100 text-amber-900"
+    }
   ]
 }

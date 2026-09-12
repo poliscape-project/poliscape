@@ -145,5 +145,19 @@
       "url": "https://www.maff.go.jp/j/nousin/gibier/index.html",
       "organization": "農林水産省"
     }
+  ],
+  "badges": [
+    {
+      "text": "鳥獣被害特措法",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "ジビエ消費拡大・解体施設",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "ハンター高齢化対策・ICT罠",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    }
   ]
 }

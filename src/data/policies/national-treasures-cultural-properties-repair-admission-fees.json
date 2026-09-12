@@ -126,5 +126,19 @@
       "title": "文化観光の推進（観光庁・文化庁）",
       "url": "https://www.mlit.go.jp/kankocho/"
     }
+  ],
+  "badges": [
+    {
+      "text": "国宝・重文の修繕危機",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "保存から「稼ぐ公開」へ",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "拝観料適正化・民間MICE",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

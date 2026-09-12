@@ -157,5 +157,19 @@
       "type": "official_document",
       "typeLabel": "有識者会議答申"
     }
+  ],
+  "badges": [
+    {
+      "text": "人材確保と育成を明確な目的に",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "1〜2年で本人の希望転職を容認",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "特定技能へ直結、長期定着可能に",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

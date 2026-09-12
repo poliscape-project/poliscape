@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "宇宙国家戦略"
     }
+  ],
+  "badges": [
+    {
+      "text": "既存の通常スマホでそのまま衛星通信可能に",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "地上携帯周波数の宇宙利用（周波数共用）解禁",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "被災孤立集落での通信ブラックアウト解消",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

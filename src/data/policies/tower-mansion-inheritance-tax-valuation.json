@@ -141,5 +141,19 @@
       "title": "マンションの相続税評価の見直しについて（財務省税制調査会）",
       "url": "https://www.mof.go.jp/tax_policy/summary/itn/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "タワマン節税の見直し",
+      "color": "bg-amber-100 text-amber-900"
+    },
+    {
+      "text": "実勢価格の最低6割へ補正",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "高層階ほど評価額引き上げ",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

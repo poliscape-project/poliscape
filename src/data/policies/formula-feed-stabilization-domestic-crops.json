@@ -171,5 +171,19 @@
       "type": "diet_minutes",
       "typeLabel": "国会会議録"
     }
+  ],
+  "badges": [
+    {
+      "text": "濃厚飼料75%輸入依存",
+      "color": "bg-slate-50 text-slate-800"
+    },
+    {
+      "text": "安定基金の枯渇危機",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "子実用トウモロコシ国産化",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

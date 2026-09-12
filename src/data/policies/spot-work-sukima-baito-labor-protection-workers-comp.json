@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "業界自主基準"
     }
+  ],
+  "badges": [
+    {
+      "text": "直接雇用として労基法を完全適用",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "数時間勤務でも即時労災適用",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "手数料なしでの即日全額振込",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

@@ -157,5 +157,19 @@
       "type": "official_document",
       "typeLabel": "省公式資料"
     }
+  ],
+  "badges": [
+    {
+      "text": "健保上乗せ月約450円",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "総枠3.6兆円全額還元",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "実質負担ゼロ議論",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

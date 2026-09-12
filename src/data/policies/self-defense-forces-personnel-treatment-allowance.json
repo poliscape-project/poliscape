@@ -125,5 +125,19 @@
       "title": "自衛官の処遇・執務環境の改善及び新たな生涯設計の確立に関する関係閣僚会議（首相官邸）",
       "url": "https://www.kantei.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "自衛官の危険手当増額",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "採用充足率5割割れ危機",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "全隊舎の個室・エアコン化",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

@@ -141,5 +141,19 @@
       "title": "グリーンイノベーション基金事業 次世代型太陽電池の開発（NEDO）",
       "url": "https://green-innovation.nedo.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "次世代ペロブスカイト",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "ビル壁面・曲面設置",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "ヨウ素の国産サプライ",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

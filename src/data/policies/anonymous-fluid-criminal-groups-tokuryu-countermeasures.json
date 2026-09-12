@@ -145,5 +145,19 @@
       "url": "https://www.npa.go.jp/",
       "organization": "警察庁"
     }
+  ],
+  "badges": [
+    {
+      "text": "トクリュウ・闇バイト根絶",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "指示役の特定と重罰化",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "通信傍受・口座凍結強化",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

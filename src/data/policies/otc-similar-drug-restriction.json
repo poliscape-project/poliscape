@@ -127,5 +127,19 @@
       "type": "white_paper",
       "typeLabel": "財政審建議"
     }
+  ],
+  "badges": [
+    {
+      "text": "湿布・保湿剤差額自腹化",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "年間数千億円の公費是正",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "重症アトピー等は3割維持",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

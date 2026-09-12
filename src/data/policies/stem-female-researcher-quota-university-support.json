@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "白書・調査"
     }
+  ],
+  "badges": [
+    {
+      "text": "理工系・情報系での女子特別推薦枠の公認",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "女性活躍推進大学への助成金傾斜配分",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "研究支援員の配置補助とポスト確保",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

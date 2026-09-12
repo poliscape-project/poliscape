@@ -133,5 +133,19 @@
       "type": "official_document",
       "typeLabel": "環境省公式ガイドライン"
     }
+  ],
+  "badges": [
+    {
+      "text": "10kW以上外部積立義務",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "2030年代大量廃棄対策",
+      "color": "bg-slate-100 text-slate-800"
+    },
+    {
+      "text": "パネル放置・投棄を抑止",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

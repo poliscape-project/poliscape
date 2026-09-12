@@ -119,5 +119,19 @@
       "title": "プラスチックに係る資源循環の促進等に関する法律の概要（経済産業省）",
       "url": "https://www.meti.go.jp/policy/energy_environment/recycle/plastic/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "使い捨てプラ12品目",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "スプーン有料化",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "製品プラ一括回収",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

@@ -145,5 +145,19 @@
       "url": "https://www.env.go.jp/policy/hakusyo/",
       "organization": "環境省"
     }
+  ],
+  "badges": [
+    {
+      "text": "ごみ袋指定・有料化",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "家庭ごみ10〜20%減量",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "焼却炉維持費削減",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

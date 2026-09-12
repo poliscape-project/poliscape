@@ -125,5 +125,19 @@
       "title": "住宅セーフティネット制度の改正について（国土交通省）",
       "url": "https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000055.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "単身高齢者の賃貸入居",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "死後の残置物処理委任",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "孤独死の入居拒否ゼロへ",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

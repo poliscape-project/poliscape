@@ -125,5 +125,19 @@
       "title": "投票環境の向上に向けた取組（総務省選挙部）",
       "url": "https://www.soumu.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "在外邦人ネット投票導入論",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "マイナ公的認証・スマホ投票",
+      "color": "bg-blue-50 text-blue-800"
+    },
+    {
+      "text": "秘密投票・買収防止の壁",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

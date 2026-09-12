@@ -119,5 +119,19 @@
       "title": "SNS等を通じた闇バイトへの注意喚起（警察庁）",
       "url": "https://www.npa.go.jp/bureau/safetylife/yamibaito/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "トクリュウ重点対策",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "通信傍受対象拡大",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "SNS募集即時削除",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    }
   ]
 }

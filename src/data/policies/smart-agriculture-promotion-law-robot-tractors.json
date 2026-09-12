@@ -145,5 +145,19 @@
       "url": "https://www.affrc.maff.go.jp/",
       "organization": "農林水産省 農林水産技術会議"
     }
+  ],
+  "badges": [
+    {
+      "text": "スマート農業促進法",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "自動運転トラクター",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "ドローン農薬散布・省人化",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

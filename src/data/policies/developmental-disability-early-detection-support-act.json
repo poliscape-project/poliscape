@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "全国実態調査"
     }
+  ],
+  "badges": [
+    {
+      "text": "5歳児健康診査の全国公費助成化",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "受給者証のマイナポータル即時発行・DX化",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "専門職による個別療育重視への報酬改定",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

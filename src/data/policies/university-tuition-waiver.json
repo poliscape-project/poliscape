@@ -157,5 +157,19 @@
       "type": "official_document",
       "typeLabel": "申請手続き・給付基準"
     }
+  ],
+  "badges": [
+    {
+      "text": "私立 年約70万円免除",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "所得制限なし",
+      "color": "bg-slate-100 text-slate-700"
+    },
+    {
+      "text": "3人扶養で全員対象",
+      "color": "bg-amber-100 text-amber-900"
+    }
   ]
 }

@@ -145,5 +145,19 @@
       "url": "https://www.bunka.go.jp/",
       "organization": "文化庁・消費者庁・警察庁"
     }
+  ],
+  "badges": [
+    {
+      "text": "チケット転売法強化",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "公式リセール義務化へ",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "価格変動制（変動料金）",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

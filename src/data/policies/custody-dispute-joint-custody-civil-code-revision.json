@@ -165,5 +165,19 @@
       "type": "press_release",
       "typeLabel": "日弁連声明"
     }
+  ],
+  "badges": [
+    {
+      "text": "共同親権・単独親権の選択制導入",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "DV・虐待時は単独親権を義務付け",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "日常決定は単独可・重要事項は共同",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "スポーツ政策"
     }
+  ],
+  "badges": [
+    {
+      "text": "民間オッズ・リアルタイム賭けの解禁構想",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "売上の一定比率を競技連盟へ直接還流",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "AI監視による独立第三者機関の設置",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    }
   ]
 }

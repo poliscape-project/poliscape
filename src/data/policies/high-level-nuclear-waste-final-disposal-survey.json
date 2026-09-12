@@ -141,5 +141,19 @@
       "title": "原子力発電環境整備機構（NUMO）公式サイト",
       "url": "https://www.numo.or.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "核のごみ最終処分",
+      "color": "bg-purple-50 text-purple-800"
+    },
+    {
+      "text": "玄海町が文献調査",
+      "color": "bg-amber-100 text-amber-900"
+    },
+    {
+      "text": "地下300m地層処分",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

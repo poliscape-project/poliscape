@@ -141,5 +141,19 @@
       "title": "国立健康危機管理研究機構の創設について（厚生労働省）",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000188411_00078.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "内閣感染症危機管理統括庁",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "日本版CDC（JIHS）発足",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "病床確保の指示・命令権創設",
+      "color": "bg-purple-50 text-purple-800"
+    }
   ]
 }

@@ -125,5 +125,19 @@
       "title": "デジタル教科書の効果的な活用に関する実証研究（文部科学省）",
       "url": "https://www.mext.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "小中英語から先行無償化",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "音声読み上げ・文字拡大",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "紙とデジタルの二重負担",
+      "color": "bg-slate-100 text-slate-700"
+    }
   ]
 }

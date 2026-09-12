@@ -125,5 +125,19 @@
       "title": "能登半島地震におけるペット同行避難の対応事例（内閣府防災）",
       "url": "https://www.bousai.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "ペット同行避難の体制化",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "車中泊死の二次被害防止",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "アレルギー完全分離区画",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

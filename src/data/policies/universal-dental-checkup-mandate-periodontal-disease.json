@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "関係団体提言"
     }
+  ],
+  "badges": [
+    {
+      "text": "毎年の歯科健診を推進",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "低廉な自己負担で受診可能に",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "健診結果をデジタル管理",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

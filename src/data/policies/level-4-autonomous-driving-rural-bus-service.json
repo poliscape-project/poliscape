@@ -119,5 +119,19 @@
       "title": "自動運転移動サービス（国土交通省）",
       "url": "https://www.mlit.go.jp/jidosha/jidosha_tk7_000018.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "レベル4完全無人バス",
+      "color": "bg-cyan-50 text-cyan-700 border-cyan-200"
+    },
+    {
+      "text": "遠隔監視システム",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "過疎地交通維持",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

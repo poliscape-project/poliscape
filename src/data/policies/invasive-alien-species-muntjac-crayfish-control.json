@@ -125,5 +125,19 @@
       "title": "千葉県キョン防除実施計画（千葉県環境生活部）",
       "url": "https://www.pref.chiba.lg.jp/shizen/kyon/"
     }
+  ],
+  "badges": [
+    {
+      "text": "特定外来生物キョン8万頭",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "首都圏防衛ライン",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "ザリガニ野外放流禁止",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

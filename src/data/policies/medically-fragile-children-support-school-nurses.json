@@ -125,5 +125,19 @@
       "title": "学校における医療的ケアの実施に関するガイドライン（文部科学省）",
       "url": "https://www.mext.go.jp/a_menu/shotou/tokubetu/material/1418706.htm"
     }
+  ],
+  "badges": [
+    {
+      "text": "学校への看護師配置責務",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "親の終日付き添い慣行廃止",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "普通学校で共に学ぶ教育",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

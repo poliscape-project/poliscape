@@ -125,5 +125,19 @@
       "title": "成年後見制度利用促進ポータルサイト（厚生労働省）",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seinenkouken/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "成年後見の抜本見直し",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "スポット・期間後見",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "意思決定支援転換",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

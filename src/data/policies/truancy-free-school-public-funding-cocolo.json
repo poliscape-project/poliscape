@@ -141,5 +141,19 @@
       "title": "児童生徒の問題行動・不登校等生徒指導上の諸課題に関する調査（文部科学省）",
       "url": "https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302902.htm"
     }
+  ],
+  "badges": [
+    {
+      "text": "不登校過去最多34万人突破",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "COCOLOプラン・多様な学び",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "フリースクール利用料助成",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

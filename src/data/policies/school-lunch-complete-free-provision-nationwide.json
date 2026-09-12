@@ -125,5 +125,19 @@
       "title": "こども未来戦略（こども家庭庁）",
       "url": "https://www.cfa.go.jp/policies/kodomo-mirai"
     }
+  ],
+  "badges": [
+    {
+      "text": "給食完全無償化論",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "年5万円負担解消",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "全国一律国費支援",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

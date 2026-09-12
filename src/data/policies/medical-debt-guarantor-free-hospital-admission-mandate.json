@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "政府合同指針"
     }
+  ],
+  "badges": [
+    {
+      "text": "保証人不在を理由とする入院拒絶の完全違法化",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "自治体連携による未払い医療費の公的保全",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "家族不在時の医師団合議による治療決定ルール確立",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    }
   ]
 }

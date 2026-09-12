@@ -157,5 +157,19 @@
       "type": "press_release",
       "typeLabel": "導入状況公表"
     }
+  ],
+  "badges": [
+    {
+      "text": "処方箋のデジタル一元化",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "重複投薬の自動チェック",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "オンライン診療・服薬完結",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    }
   ]
 }

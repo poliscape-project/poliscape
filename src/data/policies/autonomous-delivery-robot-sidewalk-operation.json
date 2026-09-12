@@ -125,5 +125,19 @@
       "title": "自動配送ロボットの社会実装に向けた取組（経済産業省）",
       "url": "https://www.meti.go.jp/policy/mono_info_service/mono/robot/delivery_robot.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "自動配送ロボの歩道走行解禁",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "最高時速6kmの遠隔監視",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "物流2024年問題の解決",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

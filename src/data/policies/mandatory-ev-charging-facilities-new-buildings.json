@@ -125,5 +125,19 @@
       "title": "充電インフラ整備促進に関する検討会（経済産業省）",
       "url": "https://www.meti.go.jp/shingikai/mono_info_service/charging_infrastructure/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "新築EV充電器義務化",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "マンション2割設置",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "都条例2025年4月施行",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

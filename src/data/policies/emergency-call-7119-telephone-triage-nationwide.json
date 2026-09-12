@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "検討会報告書"
     }
+  ],
+  "badges": [
+    {
+      "text": "24時間体制の#7119ダイヤル",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "重症患者への到着時間を短縮",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "全国人口カバー率ほぼ100%へ",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    }
   ]
 }

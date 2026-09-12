@@ -125,5 +125,19 @@
       "title": "戦略的イノベーション創造プログラム（SIP）海洋安全保障（科学技術振興機構）",
       "url": "https://www.jst.go.jp/sip/"
     }
+  ],
+  "badges": [
+    {
+      "text": "南鳥島深海6000m採掘",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "数百年分の国産レアアース",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "中国依存からの完全脱却",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

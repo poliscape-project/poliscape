@@ -125,5 +125,19 @@
       "title": "高速道路の大規模更新・修繕計画（国土交通省）",
       "url": "https://www.mlit.go.jp/road/renewal/"
     }
+  ],
+  "badges": [
+    {
+      "text": "高速料金2115年まで",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "最長50年延長法改正",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "老朽橋梁床版更新",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

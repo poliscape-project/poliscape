@@ -171,5 +171,19 @@
       "type": "diet_minutes",
       "typeLabel": "国会会議録"
     }
+  ],
+  "badges": [
+    {
+      "text": "乳牛1頭15万円淘汰補助",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "牛乳廃棄パニック回避",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "飲用乳価の引き上げ",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

@@ -125,5 +125,19 @@
       "title": "労働基準法第116条第2項の見直しに関する議論（厚生労働省）",
       "url": "https://www.mhlw.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "労基法適用へ",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "70年ぶり見直し",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "待機時間適正化",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

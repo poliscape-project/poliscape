@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "こども家庭庁"
     }
+  ],
+  "badges": [
+    {
+      "text": "実質手取り10割",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "給付率80%へ引上げ",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "最大28日間・両親取得",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

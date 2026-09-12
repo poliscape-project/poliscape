@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "航空政策白書"
     }
+  ],
+  "badges": [
+    {
+      "text": "配送時間を数時間から数十分に激減",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "2〜6℃常時監視のIoTスマート保冷コンテナ義務化",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "緊急用務ドローンとしての優先運航権の確立",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

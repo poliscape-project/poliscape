@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "研究開発成果報告"
     }
+  ],
+  "badges": [
+    {
+      "text": "送電線・河川上空を空の道に指定",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "上空での5G利用規制を緩和",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "UTMクラウドで空中衝突を自動防止",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

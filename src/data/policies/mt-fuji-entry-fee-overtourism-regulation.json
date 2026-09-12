@@ -141,5 +141,19 @@
       "title": "富士山の適正利用（登山規制）に関する取り組み（環境省 関東地方環境事務所）",
       "url": "https://kanto.env.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "富士山通行料2,000円",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "1日4,000人弾力規制",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "弾丸登山・遭難防止",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

@@ -165,5 +165,19 @@
       "type": "official_document",
       "typeLabel": "自主規制規則"
     }
+  ],
+  "badges": [
+    {
+      "text": "送金者・受取人氏名の通知完全義務化",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "個人ウォレット所有者申告の義務化",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "国際制裁リストとのリアルタイム照合",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    }
   ]
 }

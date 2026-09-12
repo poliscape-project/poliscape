@@ -157,5 +157,19 @@
       "type": "official_document",
       "typeLabel": "通達文書"
     }
+  ],
+  "badges": [
+    {
+      "text": "クマの指定管理鳥獣追加と国の全額交付金支援",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "警察連携による市街地緊急発砲の適法化",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "危険出動手当の増額と公費賠償保険の整備",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    }
   ]
 }

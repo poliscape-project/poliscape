@@ -127,5 +127,19 @@
       "type": "white_paper",
       "typeLabel": "税制調査会報告書"
     }
+  ],
+  "badges": [
+    {
+      "text": "1億円の壁是正",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "税率25〜30%案",
+      "color": "bg-blue-50 text-blue-800"
+    },
+    {
+      "text": "新NISAは完全非課税",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

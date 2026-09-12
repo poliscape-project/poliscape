@@ -125,5 +125,19 @@
       "title": "iDeCo公式サイト（国民年金基金連合会）",
       "url": "https://www.ideco-koushiki.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "iDeCo70歳引上げ",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "全額所得控除維持",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "拠出限度額拡大",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

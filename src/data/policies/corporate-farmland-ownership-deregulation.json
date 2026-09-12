@@ -171,5 +171,19 @@
       "type": "official_document",
       "typeLabel": "規制改革推進会議答申"
     }
+  ],
+  "badges": [
+    {
+      "text": "一般企業の農地所有解禁",
+      "color": "bg-purple-50 text-purple-800"
+    },
+    {
+      "text": "耕作放棄地40万ha再生",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "産廃転用・投機への懸念",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

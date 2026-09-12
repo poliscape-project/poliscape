@@ -141,5 +141,19 @@
       "title": "インターネット配信の必須業務化に向けた取組（NHK経営情報）",
       "url": "https://www.nhk.or.jp/pr/keiei/"
     }
+  ],
+  "badges": [
+    {
+      "text": "NHKネット配信の必須業務化",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "登録者にネット受信料新設",
+      "color": "bg-amber-100 text-amber-900"
+    },
+    {
+      "text": "テレビ保有世帯は追加負担なし",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

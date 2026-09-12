@@ -125,5 +125,19 @@
       "title": "自民党デジタル社会推進本部 Web3ホワイトペーパー",
       "url": "https://www.jimin.jp/policy/policy_topics/206385.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "暗号資産20%分離課税",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "3年損失繰越控除",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "最大55%総合脱却",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

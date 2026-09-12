@@ -165,5 +165,19 @@
       "type": "white_paper",
       "typeLabel": "政府決定"
     }
+  ],
+  "badges": [
+    {
+      "text": "新幹線の専用荷物車両・座席荷物輸送",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "地方から大都市へ最短3〜4時間即日配送",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "CO2排出量を約90%削減",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

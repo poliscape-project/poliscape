@@ -157,5 +157,19 @@
       "type": "official_document",
       "typeLabel": "自治体指導指針"
     }
+  ],
+  "badges": [
+    {
+      "text": "火葬場の稼働枠拡大",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "民間保管施設の衛生安全基準",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "近隣説明と立地調和ルール",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    }
   ]
 }

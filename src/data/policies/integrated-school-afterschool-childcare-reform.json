@@ -145,5 +145,19 @@
       "url": "https://www.mext.go.jp/a_menu/ikusei/houkago/index.htm",
       "organization": "文部科学省"
     }
+  ],
+  "badges": [
+    {
+      "text": "小1の壁打破",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "学校施設一体運営",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "待機児童ゼロ目標",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

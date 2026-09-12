@@ -157,5 +157,19 @@
       "type": "official_document",
       "typeLabel": "省公式解説"
     }
+  ],
+  "badges": [
+    {
+      "text": "70歳まで加入延長検討",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "DB併図月2万円へ増枠",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "掛金全額所得控除メリット",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

@@ -157,5 +157,19 @@
       "type": "official_document",
       "typeLabel": "省公式資料"
     }
+  ],
+  "badges": [
+    {
+      "text": "20年超70万枠見直し",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "一律40万平準化議論",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "1/2課税は維持方針",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "日弁連意見書"
     }
+  ],
+  "badges": [
+    {
+      "text": "スマホ・PCでの遺言作成を容認",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "動画による意思確認を補助証拠化",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "法務局クラウド保管で検認不要",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    }
   ]
 }

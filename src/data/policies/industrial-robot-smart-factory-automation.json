@@ -171,5 +171,19 @@
       "type": "diet_minutes",
       "typeLabel": "国会審議録"
     }
+  ],
+  "badges": [
+    {
+      "text": "2030年熟練工38万人不足",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "カタログ型省力化補助金",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "安全柵なし協働ロボット解禁",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

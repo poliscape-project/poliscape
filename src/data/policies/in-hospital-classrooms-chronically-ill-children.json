@@ -145,5 +145,19 @@
       "url": "https://www.mext.go.jp/a_menu/shotou/tokubetu/material/1418388.htm",
       "organization": "文部科学省"
     }
+  ],
+  "badges": [
+    {
+      "text": "院内オンライン授業",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "元の学校と出席認定",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "アバター・遠隔通学",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

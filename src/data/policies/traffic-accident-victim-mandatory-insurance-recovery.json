@@ -165,5 +165,19 @@
       "type": "white_paper",
       "typeLabel": "事業報告"
     }
+  ],
+  "badges": [
+    {
+      "text": "1台あたり年最大150円の賦課金新設",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "国の特別会計への計画的返還義務化",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "専門病床の維持と在宅介護支援金保障",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

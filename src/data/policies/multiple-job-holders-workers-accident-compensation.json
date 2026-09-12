@@ -119,5 +119,19 @@
       "title": "副業・兼業の促進に関するガイドライン（厚生労働省）",
       "url": "https://www.mhlw.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "副業労災全合算",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "複数賃金補償",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "過労死合算判定",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

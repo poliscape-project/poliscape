@@ -141,5 +141,19 @@
       "title": "防災都市づくり推進計画・不燃化特区（東京都都市整備局）",
       "url": "https://www.toshiseibi.metro.tokyo.lg.jp/bosai/tokku/"
     }
+  ],
+  "badges": [
+    {
+      "text": "木造密集地域（木密）解消",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "特定防災道路の拡幅整備",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "解体費全額助成・固定資産税免除",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

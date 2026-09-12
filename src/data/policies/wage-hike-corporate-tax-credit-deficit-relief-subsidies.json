@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "財務省税制大綱"
     }
+  ],
+  "badges": [
+    {
+      "text": "給与増加額の最大45%を減税",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "赤字企業も使える5年繰越控除",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "子育て・女性支援でさらに5%上乗せ",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    }
   ]
 }

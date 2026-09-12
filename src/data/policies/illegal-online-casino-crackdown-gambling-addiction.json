@@ -125,5 +125,19 @@
       "title": "オンラインカジノに関する注意喚起（消費者庁）",
       "url": "https://www.caa.go.jp/notice/entry/030765/"
     }
+  ],
+  "badges": [
+    {
+      "text": "国内接続は明白な賭博罪",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "決済代行業者の一斉摘発",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "闇バイト連鎖の遮断",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

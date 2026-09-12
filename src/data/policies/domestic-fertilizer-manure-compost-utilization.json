@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "下水資源白書"
     }
+  ],
+  "badges": [
+    {
+      "text": "輸入肥料原料の2割低減目標の設定",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "下水処理場リン回収設備整備への国費重点投資",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "国内堆肥・ペレット利用への直接交付金支援",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

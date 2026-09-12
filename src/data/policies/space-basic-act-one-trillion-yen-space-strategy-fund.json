@@ -125,5 +125,19 @@
       "title": "宇宙基本計画（内閣府 宇宙開発戦略推進事務局）",
       "url": "https://www8.cao.go.jp/space/plan/plan.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "宇宙戦略基金1兆円",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "民生ロケット支援",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "デュアルユース推進",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

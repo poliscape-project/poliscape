@@ -125,5 +125,19 @@
       "title": "高齢化の進展に伴う顧客の金融取引のあり方（一般社団法人全国銀行協会）",
       "url": "https://www.zenginkyo.or.jp/article/tag-f/10574/"
     }
+  ],
+  "badges": [
+    {
+      "text": "認知症基本法施行",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "金融バリアフリー",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "口座凍結の柔軟化",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    }
   ]
 }

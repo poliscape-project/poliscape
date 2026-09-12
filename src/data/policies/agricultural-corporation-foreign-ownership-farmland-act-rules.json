@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "実態調査白書"
     }
+  ],
+  "badges": [
+    {
+      "text": "法人出資比率の柔軟化",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "実質的株主の事前審査",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "耕作放棄時の取消要件厳格化",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

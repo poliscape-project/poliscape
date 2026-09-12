@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "技術手引き"
     }
+  ],
+  "badges": [
+    {
+      "text": "NIST SP800-171相当の国際基準へ",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "下請け中小サプライヤーまで義務化",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "防衛省による実地検査を導入",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

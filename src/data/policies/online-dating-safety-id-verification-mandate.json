@@ -145,5 +145,19 @@
       "url": "https://www.m-s-p-j.org/",
       "organization": "一般社団法人 結婚・婚活応援プロジェクト"
     }
+  ],
+  "badges": [
+    {
+      "text": "マッチングアプリ公的身元確認",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "SNS投資詐欺排除",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "マイナカードeKYC導入",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

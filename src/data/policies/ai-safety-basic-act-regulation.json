@@ -141,5 +141,19 @@
       "title": "AIセーフティ・インスティテュート（IPA）",
       "url": "https://www.ipa.go.jp/security/aisi/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "AI安全法制・基本法",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "AIセーフティ機構AISI",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "フロンティアAIモデル規制",
+      "color": "bg-purple-50 text-purple-800"
+    }
   ]
 }

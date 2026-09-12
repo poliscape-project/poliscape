@@ -141,5 +141,19 @@
       "type": "press_release",
       "typeLabel": "経済団体提言書"
     }
+  ],
+  "badges": [
+    {
+      "text": "高裁で違憲判決相次ぐ",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "相続権・共同親権の平等",
+      "color": "bg-pink-50 text-pink-800"
+    },
+    {
+      "text": "憲法24条改正論争",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

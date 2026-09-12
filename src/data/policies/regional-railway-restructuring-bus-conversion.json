@@ -145,5 +145,19 @@
       "url": "https://www.mlit.go.jp/",
       "organization": "国土交通省"
     }
+  ],
+  "badges": [
+    {
+      "text": "地域鉄道再構築法",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "輸送密度1000未満協議",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "バス転換・上下分離",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

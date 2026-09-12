@@ -125,5 +125,19 @@
       "title": "死刑廃止に関する基本方針（日本弁護士連合会）",
       "url": "https://www.nichibenren.or.jp/activity/human/death_penalty.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "終身刑創設の議論",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "冤罪不可逆性の防止",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "国民世論8割容認",
+      "color": "bg-slate-100 text-slate-700"
+    }
   ]
 }

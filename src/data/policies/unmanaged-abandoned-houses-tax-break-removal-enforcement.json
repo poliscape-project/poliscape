@@ -119,5 +119,19 @@
       "title": "令和5年住宅・土地統計調査（総務省統計局）",
       "url": "https://www.stat.go.jp/data/jyutaku/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "管理不全空家6倍増税",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "特定空家代執行",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "900万戸対策",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

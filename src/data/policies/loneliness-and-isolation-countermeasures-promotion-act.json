@@ -157,5 +157,19 @@
       "type": "official_document",
       "typeLabel": "相談ポータル"
     }
+  ],
+  "badges": [
+    {
+      "text": "政策の基本理念を法制化",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "地方協議会の設置促進",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "24時間相談ダイヤル整備",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

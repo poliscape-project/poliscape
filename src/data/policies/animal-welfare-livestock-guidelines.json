@@ -171,5 +171,19 @@
       "type": "diet_minutes",
       "typeLabel": "国会会議録"
     }
+  ],
+  "badges": [
+    {
+      "text": "バタリーケージ改善指針",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "母豚ストールフリー推奨",
+      "color": "bg-purple-50 text-purple-800"
+    },
+    {
+      "text": "卵・肉の価格上昇懸念",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

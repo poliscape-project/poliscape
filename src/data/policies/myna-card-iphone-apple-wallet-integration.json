@@ -125,5 +125,19 @@
       "title": "Apple Walletでの身分証明書機能について（Apple公式）",
       "url": "https://www.apple.com/jp/newsroom/"
     }
+  ],
+  "badges": [
+    {
+      "text": "iPhoneウォレット搭載",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "実物カード持ち歩き不要",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "Face IDで瞬時認証",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

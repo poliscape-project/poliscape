@@ -119,5 +119,19 @@
       "title": "規制改革推進会議におけるライドシェア等に関する議論（内閣府）",
       "url": "https://www8.cao.go.jp/kisei-kaikaku/"
     }
+  ],
+  "badges": [
+    {
+      "text": "ライドシェア全面解禁",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "IT企業参入議論",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "タクシー不足解消",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

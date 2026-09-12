@@ -145,5 +145,19 @@
       "url": "https://www.npa.go.jp/bureau/traffic/inscheck/supportcar.html",
       "organization": "警察庁"
     }
+  ],
+  "badges": [
+    {
+      "text": "免許返納・サポカー限定",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "運転経歴証明書交付",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "高齢者事故防止と移動権",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    }
   ]
 }

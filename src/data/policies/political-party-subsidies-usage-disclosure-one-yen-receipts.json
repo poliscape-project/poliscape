@@ -126,5 +126,19 @@
       "title": "政治資金規正法等の見直しに関する論点（国会衆議院調査局）",
       "url": "https://www.shugiin.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "政党交付金315億円の透明化",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "政策活動費の完全廃止",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "1円単位領収書オンライン公開",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

@@ -125,5 +125,19 @@
       "title": "AI事業者ガイドライン（経済産業省・総務省）",
       "url": "https://www.meti.go.jp/press/2024/04/20240419004/20240419004.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "ディープフェイク規制",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "選挙偽情報対策",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "真正性証明技術",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

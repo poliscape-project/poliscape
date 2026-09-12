@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "審議会報告"
     }
+  ],
+  "badges": [
+    {
+      "text": "3加算の一本化と申請手続きの大幅簡素化",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "加算額の8割以上を月額基本給アップへ配分義務化",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "ケアマネ・看護師・他職種への柔軟な配分容認",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    }
   ]
 }

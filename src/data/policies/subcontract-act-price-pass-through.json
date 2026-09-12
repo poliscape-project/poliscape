@@ -171,5 +171,19 @@
       "type": "diet_minutes",
       "typeLabel": "国会会議録"
     }
+  ],
+  "badges": [
+    {
+      "text": "価格転嫁Gメン全国巡回",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "協議拒否大手の実名公表",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "約束手形2026年全廃方針",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

@@ -125,5 +125,19 @@
       "title": "医療機関における情報セキュリティと遠隔医療（厚生労働省）",
       "url": "https://www.mhlw.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "初診恒久化",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "処方薬宅配",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "不適切処方防止",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    }
   ]
 }

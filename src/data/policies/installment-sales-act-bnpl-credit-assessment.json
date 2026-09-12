@@ -145,5 +145,19 @@
       "url": "https://www.kokusen.go.jp/",
       "organization": "独立行政法人 国民生活センター"
     }
+  ],
+  "badges": [
+    {
+      "text": "後払い決済BNPL規制",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "若者の過重債務防止",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "割賦販売法・信用調査",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

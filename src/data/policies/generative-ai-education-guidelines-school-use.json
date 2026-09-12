@@ -119,5 +119,19 @@
       "title": "大学・高専における生成AIの取扱いについて（文部科学省）",
       "url": "https://www.mext.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "学校AIガイドライン",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "探究・英語対話",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "感想文丸写し禁止",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    }
   ]
 }

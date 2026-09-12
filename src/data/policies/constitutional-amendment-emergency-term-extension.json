@@ -125,5 +125,19 @@
       "title": "参議院憲法審査会公式記録",
       "url": "https://www.sangiin.go.jp/japanese/kenpou/"
     }
+  ],
+  "badges": [
+    {
+      "text": "大災害時の議員任期延長",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "国会機能の空白防止",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "2/3特別多数の歯止め",
+      "color": "bg-slate-100 text-slate-700"
+    }
   ]
 }

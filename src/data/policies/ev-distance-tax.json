@@ -127,5 +127,19 @@
       "type": "white_paper",
       "typeLabel": "財務省税制資料"
     }
+  ],
+  "badges": [
+    {
+      "text": "1km数円の走行税",
+      "color": "bg-blue-50 text-blue-800"
+    },
+    {
+      "text": "EV道路維持負担",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "地方負担増の批判",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

@@ -141,5 +141,19 @@
       "title": "姫路城の管理運営と入城料の見直しについて（姫路市）",
       "url": "https://www.city.himeji.lg.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "外国人向け二重価格",
+      "color": "bg-amber-100 text-amber-900"
+    },
+    {
+      "text": "内外価格差と地域還元",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "便乗値上げの監視",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

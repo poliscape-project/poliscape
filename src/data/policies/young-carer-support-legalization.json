@@ -141,5 +141,19 @@
       "title": "子ども・若者育成支援推進法の一部を改正する法律（条文・概要）",
       "url": "https://www.cfa.go.jp/laws/"
     }
+  ],
+  "badges": [
+    {
+      "text": "ヤングケアラー支援の法制化",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "中高生17〜24人に1人の実態",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "学校・福祉連携とヘルパー派遣",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

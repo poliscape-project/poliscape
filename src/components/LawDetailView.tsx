@@ -6,7 +6,6 @@ import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { FoundationLaw } from "@/types/law";
 import { PolicyTopic } from "@/types/policy";
-import { badgeMap } from "@/lib/badges";
 import {
   Landmark,
   ExternalLink,
@@ -213,7 +212,7 @@ export const LawDetailView: React.FC<LawDetailViewProps> = ({
           ) : (
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               {relatedPolicies.map((policy) => {
-                const badges = badgeMap[policy.id] || [
+                const badges = policy.badges || [
                   { text: policy.categoryLabel, color: "bg-teal-50 text-teal-800" },
                   { text: policy.statusLabel, color: "bg-slate-100 text-slate-700" },
                 ];

@@ -165,5 +165,19 @@
       "type": "press_release",
       "typeLabel": "現況報告"
     }
+  ],
+  "badges": [
+    {
+      "text": "新規住宅開発・要配慮者施設の新設禁止",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "解体・新居取得に最大800万円超の補助",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "跡地買い取りと税制支援",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

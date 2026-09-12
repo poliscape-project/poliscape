@@ -145,5 +145,19 @@
       "url": "https://www.mext.go.jp/a_menu/sports/syokuiku/08110511.htm",
       "organization": "文部科学省"
     }
+  ],
+  "badges": [
+    {
+      "text": "給食の地産地消",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "有機食材利用拡大",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "食育・地元農家支援",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

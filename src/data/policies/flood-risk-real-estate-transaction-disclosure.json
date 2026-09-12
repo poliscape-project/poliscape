@@ -145,5 +145,19 @@
       "url": "https://disaportal.gsi.go.jp/",
       "organization": "国土地理院・国土交通省"
     }
+  ],
+  "badges": [
+    {
+      "text": "水害リスク重説義務化",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "洪水・内水・高潮マップ提示",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "購入・賃貸前のリスク把握",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

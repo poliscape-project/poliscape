@@ -145,5 +145,19 @@
       "url": "https://www.soumu.go.jp/",
       "organization": "総務省 情報流通行政局"
     }
+  ],
+  "badges": [
+    {
+      "text": "スマホ原則持込禁止",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "授業中シャットアウト",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "端末依存・いじめ防止",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    }
   ]
 }

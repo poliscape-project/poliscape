@@ -141,5 +141,19 @@
       "title": "スポットワークの現状と課題（経済産業省・労働市場WG）",
       "url": "https://www.meti.go.jp/shingikai/economy/labor_market/"
     }
+  ],
+  "badges": [
+    {
+      "text": "スキマバイト登録2,000万人",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "面接なし・即日給与払い定着",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "労災・雇用保険セーフティネット",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

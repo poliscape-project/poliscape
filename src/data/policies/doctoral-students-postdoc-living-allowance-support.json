@@ -119,5 +119,19 @@
       "title": "科学技術・イノベーション基本計画（内閣府）",
       "url": "https://www8.cao.go.jp/cstp/kihonkeikaku/index6.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "博士生活費年240万",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "SPRING事業3倍",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "研究力再生",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

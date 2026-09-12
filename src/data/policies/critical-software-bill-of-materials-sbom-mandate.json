@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "医療安全指針"
     }
+  ],
+  "badges": [
+    {
+      "text": "重要システム・医療機器へのSBOM添付義務化",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "数分以内の脆弱性箇所自動特定",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "医療機器プログラム薬事承認におけるSBOM必須化",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    }
   ]
 }

@@ -125,5 +125,19 @@
       "title": "デジタルインフラ整備計画（経済産業省）",
       "url": "https://www.meti.go.jp/policy/it_policy/digital-infra/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "DC・海底ケーブル地方分散",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "東京一極集中の全滅回避",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "北海道・日本海側新拠点",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

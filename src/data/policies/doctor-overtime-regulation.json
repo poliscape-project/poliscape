@@ -127,5 +127,19 @@
       "type": "white_paper",
       "typeLabel": "日本医師会報告書"
     }
+  ],
+  "badges": [
+    {
+      "text": "年960時間上限義務化",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "当直明け休息インターバル",
+      "color": "bg-blue-50 text-blue-800"
+    },
+    {
+      "text": "地域救急維持の課題",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

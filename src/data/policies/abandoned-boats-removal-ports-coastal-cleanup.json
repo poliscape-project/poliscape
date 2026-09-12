@@ -145,5 +145,19 @@
       "url": "https://www.marine-jbia.or.jp/",
       "organization": "一般社団法人 日本マリン事業協会"
     }
+  ],
+  "badges": [
+    {
+      "text": "放置艇・プレジャーボート対策",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "放置禁止区域・代執行撤去",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "係留施設整備・マリーナ化",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

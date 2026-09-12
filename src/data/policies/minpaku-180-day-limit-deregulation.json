@@ -141,5 +141,19 @@
       "title": "規制改革推進会議 投資・観光・地域活性化ワーキング・グループ",
       "url": "https://www8.cao.go.jp/kisei-kaikaku/"
     }
+  ],
+  "badges": [
+    {
+      "text": "民泊180日制限見直し",
+      "color": "bg-amber-100 text-amber-900"
+    },
+    {
+      "text": "住宅宿泊事業法改正",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "ヤミ民泊・騒音取締",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

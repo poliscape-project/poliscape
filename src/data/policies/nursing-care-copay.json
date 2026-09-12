@@ -157,5 +157,19 @@
       "type": "official_document",
       "typeLabel": "審議会資料"
     }
+  ],
+  "badges": [
+    {
+      "text": "大半9割は1割負担維持",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "2割負担拡大検討継続",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "高額介護費上限ガード",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

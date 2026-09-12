@@ -125,5 +125,19 @@
       "title": "貨物鉄道の現状と課題（国土交通省）",
       "url": "https://www.mlit.go.jp/tetudo/tetudo_tk2_000022.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "赤字3島会社への巨額支援",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "北海道農産物貨物の死守",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "赤字ローカル線のバス転換",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

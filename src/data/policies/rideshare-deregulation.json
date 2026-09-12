@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "デジタル庁公式"
     }
+  ],
+  "badges": [
+    {
+      "text": "タクシー同等運賃",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "タクシー会社が安全管理",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "不足時間帯・エリア限定",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

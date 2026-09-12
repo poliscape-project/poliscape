@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "政令改正資料"
     }
+  ],
+  "badges": [
+    {
+      "text": "最高限度額が年106万円超へ",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "中間層の急激な保険料増を緩和",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "低所得軽減の判定基準見直し",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

@@ -126,5 +126,19 @@
       "title": "大規模災害時における災害廃棄物処理の広域連携（環境省環境再生・資源循環局）",
       "url": "https://www.env.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "震災がれき全国広域処理協定",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "鉄道・海上コンテナ大量輸送",
+      "color": "bg-blue-50 text-blue-800"
+    },
+    {
+      "text": "仮置き場の事前安全指定",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

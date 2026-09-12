@@ -126,5 +126,19 @@
       "title": "下水道管路のストックマネジメント（国土交通省水管理・国土保全局）",
       "url": "https://www.mlit.go.jp/mizukokudo/sewerage/"
     }
+  ],
+  "badges": [
+    {
+      "text": "道路陥没事故防止・AI路面下探査",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "老朽下水道管の予防保全",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "掘らずに直す管更生工法",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

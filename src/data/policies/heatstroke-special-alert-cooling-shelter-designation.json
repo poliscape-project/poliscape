@@ -165,5 +165,19 @@
       "type": "white_paper",
       "typeLabel": "統計報告"
     }
+  ],
+  "badges": [
+    {
+      "text": "最上位の「特別警戒アラート」新設",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "クーリングシェルターの法的位置付け・義務化",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "大手スーパー等の民間店舗の避難所指定",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

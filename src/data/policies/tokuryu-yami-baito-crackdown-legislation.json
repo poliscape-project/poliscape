@@ -141,5 +141,19 @@
       "title": "「闇バイト」は犯罪実行者の募集です（警察庁・広報啓発）",
       "url": "https://www.npa.go.jp/bureau/safetylife/yamibaito/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "トクリュウ・闇バイト対策",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "AIによる募集検知・DM警告",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "口座・SIMの即時凍結",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

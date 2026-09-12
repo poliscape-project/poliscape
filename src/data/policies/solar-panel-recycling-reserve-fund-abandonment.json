@@ -125,5 +125,19 @@
       "title": "使用済再生可能エネルギー発電設備の適正処理・リサイクル推進（環境省）",
       "url": "https://www.env.go.jp/recycle/recycling/solar/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "太陽光廃棄積立義務",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "売電収入から天引き",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "放置・不法投棄防止",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

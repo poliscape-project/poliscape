@@ -141,5 +141,19 @@
       "title": "密漁を許さない！漁業法改正による罰則強化（海上保安庁）",
       "url": "https://www.kaiho.mlit.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "水産流通適正化法",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "アワビ・ナマコ密漁罰則",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "漁獲証明番号義務化",
+      "color": "bg-amber-100 text-amber-900"
+    }
   ]
 }

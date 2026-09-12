@@ -125,5 +125,19 @@
       "title": "航空機燃料の脱炭素化に向けた取り組み（資源エネルギー庁）",
       "url": "https://www.enecho.meti.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "EEZ洋上風力解禁",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "浮体式で沖合活用",
+      "color": "bg-blue-50 text-blue-800"
+    },
+    {
+      "text": "漁業調整・送電網コスト",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

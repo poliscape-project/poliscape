@@ -126,5 +126,19 @@
       "title": "持続可能な観光地域づくり（日本政府観光局 JNTO）",
       "url": "https://www.jnto.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "二重価格（内外価格差）",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "観光公害・住民生活防衛",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "富士山入山料・独自宿泊税",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

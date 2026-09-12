@@ -141,5 +141,19 @@
       "title": "訪問介護事業者の倒産動向調査（東京商工リサーチ）",
       "url": "https://www.tsr-net.co.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "訪問介護基本報酬2〜3%減",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "ヘルパー求人倍率15倍超",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "事業所倒産・休廃業が過去最多",
+      "color": "bg-purple-50 text-purple-800"
+    }
   ]
 }

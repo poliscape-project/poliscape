@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "政府戦略資料"
     }
+  ],
+  "badges": [
+    {
+      "text": "隊員数1万人体制へ拡大",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "起業支援金最大100万円",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "事業承継型の隊員募集を強化",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    }
   ]
 }

@@ -171,5 +171,19 @@
       "type": "diet_minutes",
       "typeLabel": "国会審議録"
     }
+  ],
+  "badges": [
+    {
+      "text": "12特定重要物資を指定",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "国内工場新増設に最大2/3補助",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "脱中国依存と経済的威圧抑止",
+      "color": "bg-purple-50 text-purple-800"
+    }
   ]
 }

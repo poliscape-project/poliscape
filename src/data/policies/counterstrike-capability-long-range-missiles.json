@@ -141,5 +141,19 @@
       "title": "スタンド・オフ防衛能力の整備について（防衛白書）",
       "url": "https://www.mod.go.jp/j/publication/wp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "反撃能力（敵基地攻撃能力）",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "トマホーク400発前倒し調達",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "国産12式改長射程ミサイル",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

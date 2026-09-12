@@ -3,7 +3,6 @@
 import React, { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
 import { getAllPolicies } from "@/lib/policies";
-import { badgeMap, PolicyBadge } from "@/lib/badges";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import {
@@ -225,7 +224,7 @@ export default function HomePage() {
       const summaryMatch =
         policy.summary?.standard?.some((s) => s.toLowerCase().includes(q)) ||
         policy.summary?.simple?.some((s) => s.toLowerCase().includes(q));
-      const badges = badgeMap[policy.id] || [];
+      const badges = policy.badges || [];
       const badgeMatch = badges.some((b) => b.text.toLowerCase().includes(q));
       const changesMatch = policy.changes?.some(
         (c) =>
@@ -596,7 +595,7 @@ export default function HomePage() {
           {viewMode === "grid" && sortedPolicies.length > 0 && (
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
               {visiblePolicies.map((policy) => {
-                const badges = badgeMap[policy.id] || [
+                const badges = policy.badges || [
                   { text: policy.categoryLabel, color: "bg-teal-50 text-teal-800" },
                   { text: policy.statusLabel, color: "bg-slate-100 text-slate-700" },
                 ];
@@ -669,7 +668,7 @@ export default function HomePage() {
           {viewMode === "compact" && sortedPolicies.length > 0 && (
             <div className="space-y-2 pt-2">
               {visiblePolicies.map((policy) => {
-                const badges = badgeMap[policy.id] || [
+                const badges = policy.badges || [
                   { text: policy.categoryLabel, color: "bg-teal-50 text-teal-800" },
                   { text: policy.statusLabel, color: "bg-slate-100 text-slate-700" },
                 ];

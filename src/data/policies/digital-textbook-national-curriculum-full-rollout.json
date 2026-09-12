@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "検討会報告"
     }
+  ],
+  "badges": [
+    {
+      "text": "英語・算数等の主要教科で国費無償化",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "ワンタッチ拡大・読み上げの標準装備",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "紙とデジタルのハイブリッド運用",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    }
   ]
 }

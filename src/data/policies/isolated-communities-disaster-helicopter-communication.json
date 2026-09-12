@@ -145,5 +145,19 @@
       "url": "https://www.soumu.go.jp/main_sosiki/cybersecurity/telecom/",
       "organization": "総務省 総合通信基盤局"
     }
+  ],
+  "badges": [
+    {
+      "text": "孤立集落対策・能登の教訓",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "Starlink衛星通信配備",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "ヘリ離着陸場・備蓄強化",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

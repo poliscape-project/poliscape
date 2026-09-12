@@ -145,5 +145,19 @@
       "url": "https://www.mlit.go.jp/",
       "organization": "国土交通省"
     }
+  ],
+  "badges": [
+    {
+      "text": "水道広域化・老朽管更新",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "官民連携コンセッション",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "将来水道料金値上げ抑制",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

@@ -125,5 +125,19 @@
       "title": "下水道と浄化槽の連携による汚水処理の推進（国土交通省）",
       "url": "https://www.mlit.go.jp/mizukokudo/sewerage/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "過疎地下水道の縮小撤退",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "高性能合併浄化槽へ転換",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "設置費用8〜9割補助",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

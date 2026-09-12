@@ -125,5 +125,19 @@
       "title": "エネルギー基本計画の見直し（資源エネルギー庁）",
       "url": "https://www.enecho.meti.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "次世代革新炉・SMR",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "受動的冷却安全性",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "核のゴミ処分地未定",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

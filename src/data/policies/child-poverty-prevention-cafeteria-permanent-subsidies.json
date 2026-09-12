@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "全国実態調査"
     }
+  ],
+  "badges": [
+    {
+      "text": "現在と将来の幸福を明記",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "子ども食堂への安定公費助成",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "夏休み等の食料無料配布を拡充",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

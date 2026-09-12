@@ -145,5 +145,19 @@
       "url": "https://www.mext.go.jp/a_menu/koutou/koushin/1418296_00007.htm",
       "organization": "文部科学省"
     }
+  ],
+  "badges": [
+    {
+      "text": "理系学部3000億円基金",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "理系割合5割目標",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "デジタル・脱炭素人材",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

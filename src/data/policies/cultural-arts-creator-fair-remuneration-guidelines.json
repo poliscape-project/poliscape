@@ -126,5 +126,19 @@
       "title": "特定受託事業者に係る取引の適正化等に関する法律（公正取引委員会）",
       "url": "https://www.jftc.go.jp/freelance/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "クリエイター適正契約指針",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "買い叩き・著作権強奪禁止",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "フリーランス新法連携",
+      "color": "bg-blue-50 text-blue-800"
+    }
   ]
 }

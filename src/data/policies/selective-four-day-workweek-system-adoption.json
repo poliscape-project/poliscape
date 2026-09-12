@@ -125,5 +125,19 @@
       "title": "経済財政運営と改革の基本方針（内閣府）",
       "url": "https://www5.cao.go.jp/keizai-shimon/kaigi/cabinet/honebuto/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "正社員の週休3日制選択",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "育児・介護・学び直し両立",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "給与2割減か総時間維持か",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

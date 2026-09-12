@@ -141,5 +141,19 @@
       "title": "特定都市河川浸水被害対策法について（国土交通省）",
       "url": "https://www.mlit.go.jp/river/kasen/tokutei_toshi/"
     }
+  ],
+  "badges": [
+    {
+      "text": "流域治水・特定都市河川",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "田んぼダム・地下調整池",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "水害危険地域からの高台移転",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

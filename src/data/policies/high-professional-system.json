@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "適用実態報告"
     }
+  ],
+  "badges": [
+    {
+      "text": "年収1,075万円以上",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "時間規制除外・残業代ゼロ",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "年間104日休日＋医師面接",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

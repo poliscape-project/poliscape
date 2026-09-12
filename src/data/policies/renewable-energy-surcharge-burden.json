@@ -133,5 +133,19 @@
       "type": "diet_minutes",
       "typeLabel": "国会審議録"
     }
+  ],
+  "badges": [
+    {
+      "text": "賦課金3.49円/kWh改定",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "電気代激変緩和補助",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "FIP市場連動型へ移行",
+      "color": "bg-blue-50 text-blue-800"
+    }
   ]
 }

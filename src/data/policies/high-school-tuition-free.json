@@ -157,5 +157,19 @@
       "type": "official_document",
       "typeLabel": "都公式発表"
     }
+  ],
+  "badges": [
+    {
+      "text": "都府で私立も全額支援",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "国基準年収910万制限",
+      "color": "bg-slate-100 text-slate-700"
+    },
+    {
+      "text": "全国一律化の議論",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

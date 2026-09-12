@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "水田政策方針"
     }
+  ],
+  "badges": [
+    {
+      "text": "不作リスクに対応した主食用米の安定供給方針",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "5年水張り要件の柔軟化と交付金ルールの再検討",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "エサ米から高付加価値な輸出用米への補助シフト",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

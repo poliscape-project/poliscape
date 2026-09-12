@@ -125,5 +125,19 @@
       "title": "子どもの権利救済機関のあり方に関する研究（日本弁護士連合会）",
       "url": "https://www.nichibenren.or.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "政府・学校から完全独立",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "いじめ隠蔽の強制立ち入り",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "子どもが直接SOS申立",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

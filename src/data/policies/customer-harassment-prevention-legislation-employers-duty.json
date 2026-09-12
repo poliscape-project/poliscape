@@ -125,5 +125,19 @@
       "title": "東京都カスタマー・ハラスメント防止条例（東京都産業労働局）",
       "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/plan/harassment/"
     }
+  ],
+  "badges": [
+    {
+      "text": "カスハラ防止法制化",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "接客・対応拒否公認",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "名札フルネーム廃止",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

@@ -165,5 +165,19 @@
       "type": "official_document",
       "typeLabel": "学術提言"
     }
+  ],
+  "badges": [
+    {
+      "text": "eVTOL専用の型式証明基準を新設",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "新操縦ライセンスと自動運航移行枠組み",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "都市ビル屋上バーティポート基準策定",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

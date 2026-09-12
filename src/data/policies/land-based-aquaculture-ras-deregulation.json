@@ -141,5 +141,19 @@
       "title": "水産白書（持続可能な養殖業の発展）（水産庁）",
       "url": "https://www.jfa.maff.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "循環式陸上養殖RAS",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "サーモン・エビ内陸生産",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "海面養殖区画の緩和",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

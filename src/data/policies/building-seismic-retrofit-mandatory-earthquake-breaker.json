@@ -126,5 +126,19 @@
       "title": "感震ブレーカーの普及啓発（内閣府防災・経済産業省）",
       "url": "https://www.bousai.go.jp/jishin/syuto/kanshin/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "旧耐震ビルの診断・改修義務",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "感震ブレーカー設置全額補助",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "通電火災・大火の根絶",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

@@ -141,5 +141,19 @@
       "title": "居宅介護支援費の利用者負担導入に関する声明（日本介護支援専門員協会）",
       "url": "https://www.jcma.or.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "ケアマネ作成費の1割負担案",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "現在自己負担0円（全額給付）",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "セルフネグレクト・孤立死懸念",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

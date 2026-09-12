@@ -126,5 +126,19 @@
       "title": "海賊版対策総合ポータル（文化庁）",
       "url": "https://www.bunka.go.jp/seisaku/chosakuken/kaizoku/"
     }
+  ],
+  "badges": [
+    {
+      "text": "海賊版撲滅・国際共同摘発",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "世界同時多言語配信DX",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "アニメーター対価還元",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

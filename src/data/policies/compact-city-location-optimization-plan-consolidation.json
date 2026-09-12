@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "審議会答申"
     }
+  ],
+  "badges": [
+    {
+      "text": "中心部へ生活機能を集約",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "安全な中心部への移住補助",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "危険区域への居住誘導を禁止",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    }
   ]
 }

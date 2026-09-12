@@ -141,5 +141,19 @@
       "title": "緊急避妊薬の適正な使用に関する見解（日本産婦人科医会）",
       "url": "https://www.jaog.or.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "緊急避妊薬の処方箋なし薬局販売",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "72時間以内の早期アクセス",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "全国145薬局での試験運用",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

@@ -158,5 +158,19 @@
       "type": "white_paper",
       "typeLabel": "運用報告書"
     }
+  ],
+  "badges": [
+    {
+      "text": "年数百億円・最長25年間の超長期助成",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "学外有識者が過半数の合議体を設置",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "生活費支援と安定ポスト創出",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    }
   ]
 }

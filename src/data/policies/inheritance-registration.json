@@ -157,5 +157,19 @@
       "type": "official_document",
       "typeLabel": "専門家団体解説"
     }
+  ],
+  "badges": [
+    {
+      "text": "取得から3年以内義務",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "正当理由なし過料10万",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "申出登記で過料回避",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

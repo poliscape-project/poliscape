@@ -75,4 +75,7 @@ export interface PolicyTopic {
 
   // 一次情報ソース（透明性・信頼性の担保）
   sources: PolicySource[];
+
+  // バッジ（トップページのカードに表示する要約タグ）
+  badges?: { text: string; color: string }[];
 }

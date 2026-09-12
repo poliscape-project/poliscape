@@ -159,5 +159,19 @@
       "type": "diet_minutes",
       "typeLabel": "国会議事録"
     }
+  ],
+  "badges": [
+    {
+      "text": "紙保険証は失効",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "資格確認書は要申請",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "限度額認定が全自動",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

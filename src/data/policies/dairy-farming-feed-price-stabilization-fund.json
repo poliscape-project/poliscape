@@ -145,5 +145,19 @@
       "url": "https://www.maff.go.jp/j/chikusan/kikaku/lin/",
       "organization": "農林水産省"
     }
+  ],
+  "badges": [
+    {
+      "text": "配合飼料価格安定基金",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "酪農経営安定・離農抑止",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "国産飼料（子実コーン）推進",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

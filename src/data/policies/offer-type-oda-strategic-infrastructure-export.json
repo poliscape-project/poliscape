@@ -125,5 +125,19 @@
       "title": "オファー型開発協力の推進（JICA 国際協力機構）",
       "url": "https://www.jica.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "オファー型提案ODA",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "要請主義から先手提案へ",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "インフラ輸出・経済安保",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

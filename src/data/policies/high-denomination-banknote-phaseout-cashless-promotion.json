@@ -125,5 +125,19 @@
       "title": "キャッシュレス・ロードマップ（経済産業省）",
       "url": "https://www.meti.go.jp/policy/mono_info_service/cashless/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "高額紙幣廃止論",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "100兆円タンス預金",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "地下経済・脱税撲滅",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

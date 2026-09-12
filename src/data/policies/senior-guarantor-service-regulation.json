@@ -133,5 +133,19 @@
       "type": "official_document",
       "typeLabel": "総務省行政勧告書"
     }
+  ],
+  "badges": [
+    {
+      "text": "おひとりさま高齢者支援",
+      "color": "bg-pink-50 text-pink-800"
+    },
+    {
+      "text": "預託金信託保全ルール",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "身元保証なし入院拒否是正",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

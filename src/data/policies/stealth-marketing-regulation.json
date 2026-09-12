@@ -127,5 +127,19 @@
       "type": "white_paper",
       "typeLabel": "公取委調査報告"
     }
+  ],
+  "badges": [
+    {
+      "text": "景品表示法で全面禁止",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "#PR #広告の明記義務",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "違反企業は社名公表処分",
+      "color": "bg-slate-100 text-slate-800"
+    }
   ]
 }

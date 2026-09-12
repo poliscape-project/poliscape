@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "政府調査報告書"
     }
+  ],
+  "badges": [
+    {
+      "text": "20代新婚世帯に最大60万円",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "世帯所得500万円未満へ緩和",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "購入・リフォーム・引越し代も対象",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    }
   ]
 }

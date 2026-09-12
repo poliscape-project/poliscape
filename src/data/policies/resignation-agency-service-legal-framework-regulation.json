@@ -119,5 +119,19 @@
       "title": "弁護士法第72条（非弁護士の法律事務の取扱い等の禁止）（日本弁護士連合会）",
       "url": "https://www.nichibenren.or.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "退職代行法規制",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "非弁行為線引き",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "即日退職の自由",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

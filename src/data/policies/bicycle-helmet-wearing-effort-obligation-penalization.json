@@ -165,5 +165,19 @@
       "type": "official_document",
       "typeLabel": "政府基本計画"
     }
+  ],
+  "badges": [
+    {
+      "text": "全年齢でのヘルメット着用努力義務化",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "自転車への青切符（反則金制度）新設",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "ながらスマホ・酒気帯びの即時厳罰化",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    }
   ]
 }

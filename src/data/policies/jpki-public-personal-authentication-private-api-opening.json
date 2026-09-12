@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "機構公式仕様書"
     }
+  ],
+  "badges": [
+    {
+      "text": "ICチップ読み取りで即時完了",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "本人確認コストを最大9割削減",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "偽造身分証詐欺を完全遮断",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    }
   ]
 }

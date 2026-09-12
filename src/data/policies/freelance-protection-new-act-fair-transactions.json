@@ -125,5 +125,19 @@
       "title": "フリーランスとして業務を行う方・フリーランスの方に業務を委託する事業者の方へ（厚生労働省）",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyoukintou/zaitaku/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "フリーランス新法",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "書面交付・60日払込",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "買いたたき即時是正",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    }
   ]
 }

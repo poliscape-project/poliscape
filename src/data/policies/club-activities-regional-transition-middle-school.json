@@ -119,5 +119,19 @@
       "title": "文化部活動の地域移行（文化庁）",
       "url": "https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/bunkabukatsudo/"
     }
+  ],
+  "badges": [
+    {
+      "text": "部活動地域移行",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "教員休日負担ゼロ",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "地域クラブ会費制",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    }
   ]
 }

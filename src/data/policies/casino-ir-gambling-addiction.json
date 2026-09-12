@@ -141,5 +141,19 @@
       "type": "official_document",
       "typeLabel": "自治体公表協定書"
     }
+  ],
+  "badges": [
+    {
+      "text": "大阪・夢洲2030年秋開業",
+      "color": "bg-purple-50 text-purple-800"
+    },
+    {
+      "text": "日本人入場料6,000円",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "マイナ顔認証・回数制限",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

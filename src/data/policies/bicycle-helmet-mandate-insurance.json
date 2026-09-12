@@ -133,5 +133,19 @@
       "type": "diet_minutes",
       "typeLabel": "国会審議録"
     }
+  ],
+  "badges": [
+    {
+      "text": "全年齢努力義務化",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "青切符反則金2026年〜",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "個人賠償責任保険義務",
+      "color": "bg-blue-50 text-blue-800"
+    }
   ]
 }

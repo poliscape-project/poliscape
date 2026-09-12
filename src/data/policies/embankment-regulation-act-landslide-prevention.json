@@ -141,5 +141,19 @@
       "title": "危険な盛土の総点検結果と対策（静岡県・熱海市検証報告）",
       "url": "https://www.pref.shizuoka.jp/kurashikankyo/bousai/"
     }
+  ],
+  "badges": [
+    {
+      "text": "盛土規制法の全国運用",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "熱海土石流の教訓・総点検",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "違反法人に最高3億円重罰",
+      "color": "bg-purple-50 text-purple-800"
+    }
   ]
 }

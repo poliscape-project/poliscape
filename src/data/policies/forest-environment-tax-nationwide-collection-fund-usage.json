@@ -119,5 +119,19 @@
       "title": "森林環境税の創設（総務省）",
       "url": "https://www.soumu.go.jp/main_sosiki/jichi_zeisei/czaisei/czaisei_seido/149817.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "森林税年1000円",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "放置林間伐整備",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "使途公表義務化",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    }
   ]
 }

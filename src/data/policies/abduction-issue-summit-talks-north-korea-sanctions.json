@@ -125,5 +125,19 @@
       "title": "日本の対北朝鮮措置（外務省）",
       "url": "https://www.mofa.go.jp/mofaj/area/n_korea/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "全拉致被害者の即時奪還",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "独自制裁（輸出入全面禁止）",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "無条件首脳会談模索",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

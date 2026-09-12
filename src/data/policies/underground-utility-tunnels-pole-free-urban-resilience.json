@@ -145,5 +145,19 @@
       "url": "https://www.mlit.go.jp/road/road/traffic/chicyuka/keikaku.html",
       "organization": "国土交通省"
     }
+  ],
+  "badges": [
+    {
+      "text": "無電柱化推進法",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "緊急輸送道路の新設禁止",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "倒壊ゼロ・景観向上",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

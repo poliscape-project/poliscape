@@ -145,5 +145,19 @@
       "url": "https://www.rinya.maff.go.jp/j/riyou/honbu/",
       "organization": "内閣官房 木材利用促進本部"
     }
+  ],
+  "badges": [
+    {
+      "text": "公共建築物木造化",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "都市に第2の森林創出",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "国産材・CLT活用推進",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

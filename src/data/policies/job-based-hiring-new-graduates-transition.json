@@ -141,5 +141,19 @@
       "title": "採用と大学教育の未来に関する産学協議会報告書（経団連）",
       "url": "https://www.keidanren.or.jp/policy/2022/039.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "インターン採用直結の解禁",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "新卒ジョブ型・配属ガチャ解消",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "就活超早期化と学業への懸念",
+      "color": "bg-amber-100 text-amber-900"
+    }
   ]
 }

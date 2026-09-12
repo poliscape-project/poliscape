@@ -141,5 +141,19 @@
       "title": "通信障害時等の事業者間ローミングの実現に向けた取組（電気通信事業者協会：TCA）",
       "url": "https://www.tca.or.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "携帯4社の緊急ローミング",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "119番緊急通報を優先確保",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "大規模障害・災害時の相互接続",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

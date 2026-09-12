@@ -125,5 +125,19 @@
       "title": "出自を知る権利に関する提言（日本産科婦人科学会）",
       "url": "https://www.jsog.or.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "子どもの出自を知る権利",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "ドナー情報の公的保管",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "第三者生殖医療の行方",
+      "color": "bg-slate-100 text-slate-700"
+    }
   ]
 }

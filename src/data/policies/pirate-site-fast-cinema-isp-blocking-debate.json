@@ -125,5 +125,19 @@
       "title": "知的財産推進計画（首相官邸知的財産戦略推進事務局）",
       "url": "https://www.kantei.go.jp/jp/singi/titeki2/"
     }
+  ],
+  "badges": [
+    {
+      "text": "海賊版アクセス強制遮断",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "コンテンツ産業の死活問題",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "通信の秘密・憲法21条",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

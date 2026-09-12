@@ -145,5 +145,19 @@
       "url": "https://www.bousai.go.jp/oukyu/hinanjouhou/r3_hinanjouhou_guideline/",
       "organization": "内閣府（防災担当）"
     }
+  ],
+  "badges": [
+    {
+      "text": "線状降水帯半日前予測",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "キキクル危険度マップ",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "警戒レベル4避難指示前倒し",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    }
   ]
 }

@@ -141,5 +141,19 @@
       "title": "10兆円規模の大学ファンド（科学技術振興機構：JST）",
       "url": "https://www.jst.go.jp/funds/"
     }
+  ],
+  "badges": [
+    {
+      "text": "10兆円大学ファンド",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "東北大学を第1号認定",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "年数百億円の長期助成",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

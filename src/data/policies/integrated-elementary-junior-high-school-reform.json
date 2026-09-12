@@ -145,5 +145,19 @@
       "url": "https://www.mext.go.jp/a_menu/shotou/ikkan/1376882.htm",
       "organization": "文部科学省 初等中等教育局"
     }
+  ],
+  "badges": [
+    {
+      "text": "小中一貫9年教育",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "中1ギャップ解消",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "4・3・2制等の弾力化",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    }
   ]
 }

@@ -135,5 +135,19 @@
       "type": "press_release",
       "typeLabel": "自治体協議会提言"
     }
+  ],
+  "badges": [
+    {
+      "text": "休日の部活を地域移行",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "教員の過重労働解消",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "月謝負担・地域格差課題",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

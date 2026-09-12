@@ -126,5 +126,19 @@
       "title": "防災基本計画と孤立集落対策（内閣府防災担当）",
       "url": "https://www.bousai.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "孤立集落にスターリンク事前配備",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "蓄電池・ソーラーで自立電源",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "能登の教訓・初動SOS確保",
+      "color": "bg-blue-50 text-blue-800"
+    }
   ]
 }

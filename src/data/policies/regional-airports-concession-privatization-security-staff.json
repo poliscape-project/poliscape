@@ -125,5 +125,19 @@
       "title": "航空保安検査の高度化・円滑化に関する取組（国土交通省航空局）",
       "url": "https://www.mlit.go.jp/koku/koku_fr5_000007.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "空港民営化・コンセ",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "保安検査員不足・行列",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "CTスマートレーン",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

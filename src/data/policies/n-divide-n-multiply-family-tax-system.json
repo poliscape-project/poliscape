@@ -125,5 +125,19 @@
       "title": "こども未来戦略（内閣官房）",
       "url": "https://www.cas.go.jp/jp/seisaku/kodomo_mirai/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "フランス流世帯課税",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "多子世帯ほど低税率",
+      "color": "bg-amber-50 text-amber-900"
+    },
+    {
+      "text": "数兆円の減税規模",
+      "color": "bg-slate-100 text-slate-700"
+    }
   ]
 }

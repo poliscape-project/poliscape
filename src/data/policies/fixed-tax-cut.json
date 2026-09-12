@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "総務省公式"
     }
+  ],
+  "badges": [
+    {
+      "text": "1人あたり4万円減税",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "扶養家族・子ども全員",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "不足分は調整給付金",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

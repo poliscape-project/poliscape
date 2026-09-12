@@ -165,5 +165,19 @@
       "type": "white_paper",
       "typeLabel": "経済界提言"
     }
+  ],
+  "badges": [
+    {
+      "text": "301人以上企業に通報窓口設置義務化",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "情報漏洩への刑事罰（罰金刑）新設",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "報復人事への刑事罰導入議論",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

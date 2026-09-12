@@ -125,5 +125,19 @@
       "title": "国家安全保障戦略（内閣官房）",
       "url": "https://www.cas.go.jp/jp/siryou/221216anzenhosho/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "同志国軍事支援OSA",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "沿岸レーダー等無償供与",
+      "color": "bg-blue-50 text-blue-800"
+    },
+    {
+      "text": "非軍事原則の転換",
+      "color": "bg-rose-50 text-rose-800"
+    }
   ]
 }

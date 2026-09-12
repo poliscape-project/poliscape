@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "統計調査資料"
     }
+  ],
+  "badges": [
+    {
+      "text": "管理不全の段階で早期指定",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "住宅特例解除で税額最大6倍",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "自治体の所有者調査権限を拡大",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

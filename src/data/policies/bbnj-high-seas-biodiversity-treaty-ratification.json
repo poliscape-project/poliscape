@@ -125,5 +125,19 @@
       "title": "BBNJ条約と海洋保護区（環境省・水産庁）",
       "url": "https://www.env.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "BBNJ公海生物多様性条約",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "海の30%保護区化",
+      "color": "bg-blue-50 text-blue-800"
+    },
+    {
+      "text": "遠洋漁業への影響懸念",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

@@ -133,5 +133,19 @@
       "type": "diet_minutes",
       "typeLabel": "国会審議録"
     }
+  ],
+  "badges": [
+    {
+      "text": "11分野に大幅拡大",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "在留期限上限なし・永住道",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "配偶者・子どもの帯同可",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

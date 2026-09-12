@@ -119,5 +119,19 @@
       "title": "地域公共交通の活性化及び再生に関する法律（国土交通省）",
       "url": "https://www.mlit.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "再構築協議会",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "輸送密度1000人未満",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "BRT専用道転換",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

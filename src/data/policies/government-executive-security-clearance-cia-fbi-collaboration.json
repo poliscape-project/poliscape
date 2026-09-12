@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "戦略白書"
     }
+  ],
+  "badges": [
+    {
+      "text": "攻撃元サーバーへの侵入・無力化権限の付与",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "脅威メタデータ監視の適法化と厳格な限定",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "裁判所の令状審査と独立第三者監査の導入",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

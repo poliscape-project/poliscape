@@ -141,5 +141,19 @@
       "title": "国土形成計画（全国計画）について（国土交通省国土政策局）",
       "url": "https://www.mlit.go.jp/kokudokeikaku/kokudokeikaku_tk2_000049.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "地方移住支援金最大300万円",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "子ども1人加算100万円",
+      "color": "bg-amber-100 text-amber-900"
+    },
+    {
+      "text": "転職なきテレワーク移住",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

@@ -141,5 +141,19 @@
       "title": "再生可能エネルギーの出力制御について（資源エネルギー庁）",
       "url": "https://www.enecho.meti.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "出力制御の多発",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "地域間連系線投資",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "海底直流送電HVDC",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

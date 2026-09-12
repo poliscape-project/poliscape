@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "政府手引き"
     }
+  ],
+  "badges": [
+    {
+      "text": "オンライン総会・電磁決議を解禁",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "紙の回覧板からアプリ配信へ",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "会費集金のキャッシュレス化",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

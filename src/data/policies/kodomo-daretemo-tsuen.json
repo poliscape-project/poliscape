@@ -157,5 +157,19 @@
       "type": "official_document",
       "typeLabel": "省公式調査"
     }
+  ],
+  "badges": [
+    {
+      "text": "就労要件なし誰でも",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "月10時間枠を創設",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "1時間約300円",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

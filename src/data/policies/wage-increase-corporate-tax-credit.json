@@ -141,5 +141,19 @@
       "title": "中小企業向け賃上げ促進税制のご案内（中小企業庁）",
       "url": "https://www.chusho.meti.go.jp/zaimu/zeisei/chinagezeisei.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "賃上げ促進税制最大45%減税",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "赤字中小向け5年繰越控除新設",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "春闘5%賃上げの原動力",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

@@ -119,5 +119,19 @@
       "title": "通常の学級に在籍する特別な教育的支援を必要とする児童生徒に関する調査（文部科学省）",
       "url": "https://www.mext.go.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "特別支援員7万人",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "インクルーシブ教育",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "通常学級サポート",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

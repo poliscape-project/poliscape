@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "統計報告書"
     }
+  ],
+  "badges": [
+    {
+      "text": "就労のみを理由とする等級引き下げの防止徹底",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "就労意欲を削がない緩やかな所得制限への移行",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "全国統一審査による不当な地域格差の完全是正",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }

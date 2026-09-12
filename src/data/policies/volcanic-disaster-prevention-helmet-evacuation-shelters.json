@@ -126,5 +126,19 @@
       "title": "火山調査研究推進本部（文部科学省）",
       "url": "https://www.mext.go.jp/a_menu/bunkasports/kazan/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "火山調査研究推進本部の創設",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "山頂噴石シェルター整備",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "登山届義務・ヘルメット携行",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

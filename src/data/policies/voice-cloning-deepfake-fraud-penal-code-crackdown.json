@@ -151,5 +151,19 @@
       "type": "official_document",
       "typeLabel": "総務省審議資料"
     }
+  ],
+  "badges": [
+    {
+      "text": "AI悪用詐欺の法定刑引き上げ検討",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "合成音声を自動検知して警告",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "音声合成ツールへの本人確認義務化",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    }
   ]
 }

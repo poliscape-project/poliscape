@@ -141,5 +141,19 @@
       "title": "水産白書（水産庁）",
       "url": "https://www.jfa.maff.go.jp/j/kikaku/wpaper/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "TAC漁獲枠8割へ",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "個別割当（IQ）方式",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "魚種交代への対応",
+      "color": "bg-amber-100 text-amber-900"
+    }
   ]
 }

@@ -125,5 +125,19 @@
       "title": "国立・国定公園内における地熱開発の取扱いについて（環境省）",
       "url": "https://www.env.go.jp/nature/intro/chounai/chinetsu.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "国立公園地熱掘削緩和",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "世界3位資源活用",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "温泉街との共生協定",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    }
   ]
 }

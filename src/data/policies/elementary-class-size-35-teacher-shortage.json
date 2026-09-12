@@ -141,5 +141,19 @@
       "title": "「教師不足」に関する実態調査（文部科学省）",
       "url": "https://www.mext.go.jp/a_menu/shotou/kyoin/1414407_00003.htm"
     }
+  ],
+  "badges": [
+    {
+      "text": "小学校全学年で35人学級完成",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "全国的教員不足の深刻化",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "担任未配置・採用倍率低下",
+      "color": "bg-amber-100 text-amber-900"
+    }
   ]
 }

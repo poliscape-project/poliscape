@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "安全保障方針"
     }
+  ],
+  "badges": [
+    {
+      "text": "日本海側・地方への陸揚げ拠点分散",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "日本周回海底光ファイバー網の完成",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "陸揚げ局直結・再エネ型データセンターの誘致",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

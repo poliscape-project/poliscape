@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "研究開発白書"
     }
+  ],
+  "badges": [
+    {
+      "text": "日米重要鉱物協定の締結と輸出規制相互禁止",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "日米欧による重要鉱物多国間共同備蓄メカニズム",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "南鳥島沖深海レアアース泥の自国採掘実証",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

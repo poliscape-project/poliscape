@@ -141,5 +141,19 @@
       "title": "公衆浴場や旅館・ホテルにおける男女の取扱いについて（厚生労働省通知）",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194607.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "生殖不能手術要件の違憲",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "最高裁大法廷決定",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "公衆浴場は身体特徴基準",
+      "color": "bg-amber-100 text-amber-900"
+    }
   ]
 }

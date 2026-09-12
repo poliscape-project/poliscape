@@ -135,5 +135,19 @@
       "type": "press_release",
       "typeLabel": "日弁連会長声明"
     }
+  ],
+  "badges": [
+    {
+      "text": "国家秘密適性評価法",
+      "color": "bg-slate-100 text-slate-800"
+    },
+    {
+      "text": "サプライチェーン防衛",
+      "color": "bg-blue-50 text-blue-800"
+    },
+    {
+      "text": "民間社員身辺調査とプライバシー",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

@@ -141,5 +141,19 @@
       "title": "電力システム改革の検証と今後の課題（経済産業省）",
       "url": "https://www.meti.go.jp/shingikai/enecho/denki_gas/denki_gas/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "容量市場拠出金",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "新電力の倒産急増",
+      "color": "bg-amber-100 text-amber-900"
+    },
+    {
+      "text": "レベニューキャップ",
+      "color": "bg-teal-50 text-teal-800"
+    }
   ]
 }

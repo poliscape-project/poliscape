@@ -141,5 +141,19 @@
       "title": "規制改革推進会議 健康・医療・介護ワーキング・グループ取りまとめ",
       "url": "https://www8.cao.go.jp/kisei-kaikaku/"
     }
+  ],
+  "badges": [
+    {
+      "text": "センサー導入で3:1配置緩和",
+      "color": "bg-purple-50 text-purple-800"
+    },
+    {
+      "text": "夜間見守り巡回負担を半減",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "アラーム疲労・安全性の懸念",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

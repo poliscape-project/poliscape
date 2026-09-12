@@ -125,5 +125,19 @@
       "title": "終末期医療と尊厳死を考える（公益社団法人日本医師会）",
       "url": "https://www.med.or.jp/doctor/rinri/i_rinri/000078.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "尊厳死・延命中止議論",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "リビングウィル法制化",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "医師免責と生命倫理",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    }
   ]
 }

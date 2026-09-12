@@ -157,5 +157,19 @@
       "type": "press_release",
       "typeLabel": "対策速報"
     }
+  ],
+  "badges": [
+    {
+      "text": "悪質買収者の厳格審査と排除情報網の整備",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "手数料算定根拠の事前明示と登録制の義務化",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "事業譲渡時の経営者保証解除の原則化",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

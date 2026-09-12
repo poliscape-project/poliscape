@@ -141,5 +141,19 @@
       "title": "漁具管理及び海洋プラスチック問題への対応（水産庁）",
       "url": "https://www.jfa.maff.go.jp/j/gyoko_gyozyo/g_soukou/plastic.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "ゴーストギア流失漁具",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "海洋生分解性プラスチック",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "漁港での無償引き取り",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

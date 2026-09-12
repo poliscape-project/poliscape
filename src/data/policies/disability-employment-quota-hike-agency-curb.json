@@ -141,5 +141,19 @@
       "title": "障害者雇用率制度・障害者雇用納付金制度（厚生労働省）",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/shougaishakoyou/04.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "法定雇用率2.7%へ段階引き上げ",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "週10時間超短時間雇用の解禁",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "貸し農園代行ビジネスの規制",
+      "color": "bg-amber-100 text-amber-900"
+    }
   ]
 }

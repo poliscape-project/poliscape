@@ -141,5 +141,19 @@
       "title": "仕事と介護の両立支援に関する調査研究報告書",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyoukintou/ryouritsu/kaigo/"
     }
+  ],
+  "badges": [
+    {
+      "text": "40歳到達時の面談義務化",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "年間10万人の介護離職防止",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "テレワーク等柔軟措置の義務化",
+      "color": "bg-indigo-50 text-indigo-800"
+    }
   ]
 }

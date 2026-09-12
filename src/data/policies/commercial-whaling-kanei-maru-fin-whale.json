@@ -141,5 +141,19 @@
       "title": "共同船舶株式会社 公式サイト（関鯨丸について）",
       "url": "https://www.kyodo-senpaku.co.jp/"
     }
+  ],
+  "badges": [
+    {
+      "text": "商業捕鯨・関鯨丸就航",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "ナガスクジラ追加",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "水産食文化の継承",
+      "color": "bg-amber-100 text-amber-900"
+    }
   ]
 }

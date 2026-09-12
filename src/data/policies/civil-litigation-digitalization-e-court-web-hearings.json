@@ -126,5 +126,19 @@
       "title": "裁判手続のIT化（裁判所 Courts in Japan）",
       "url": "https://www.courts.go.jp/it_ka/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "民事裁判完全IT化（eコート）",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "自宅・事務所からウェブ口頭弁論",
+      "color": "bg-blue-50 text-blue-800"
+    },
+    {
+      "text": "24時間電子記録閲覧・訴状提出",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

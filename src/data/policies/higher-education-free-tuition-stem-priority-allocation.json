@@ -125,5 +125,19 @@
       "title": "大学・高専機能強化支援事業（大学改革支援・学位授与機構）",
       "url": "https://www.niad.ac.jp/fund/"
     }
+  ],
+  "badges": [
+    {
+      "text": "理系無償化年収600万",
+      "color": "bg-cyan-50 text-cyan-700 border-cyan-200"
+    },
+    {
+      "text": "文理差額上乗せ",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "理系学生比率5割へ",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    }
   ]
 }

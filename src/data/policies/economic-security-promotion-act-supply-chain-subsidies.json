@@ -157,5 +157,19 @@
       "type": "white_paper",
       "typeLabel": "戦略方針"
     }
+  ],
+  "badges": [
+    {
+      "text": "特定重要物資12物資への最大半額設備助成",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "14分野の基幹インフラ設備事前審査の義務化",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "安全保障上機微な特許の出願非公開制度導入",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    }
   ]
 }

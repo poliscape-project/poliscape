@@ -165,5 +165,19 @@
       "type": "official_document",
       "typeLabel": "法令解説"
     }
+  ],
+  "badges": [
+    {
+      "text": "GPS・位置情報の無断取得を明確禁止",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    },
+    {
+      "text": "SNSのDM等の連続送信も規制対象",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "危険時の即時緊急禁止命令制度",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    }
   ]
 }

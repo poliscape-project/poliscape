@@ -126,5 +126,19 @@
       "title": "税制改正大綱におけるインバウンド免税改革（財務省）",
       "url": "https://www.mof.go.jp/tax_policy/tax_reform/outline/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "免税リファンド（後払い戻し）",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "空港で現物確認・脱税阻止",
+      "color": "bg-rose-50 text-rose-800"
+    },
+    {
+      "text": "数百億円の不正転売根絶",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

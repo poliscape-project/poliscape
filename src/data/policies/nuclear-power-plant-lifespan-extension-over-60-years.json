@@ -165,5 +165,19 @@
       "type": "white_paper",
       "typeLabel": "閣議決定方針"
     }
+  ],
+  "badges": [
+    {
+      "text": "60年超の運転を可能に",
+      "color": "bg-purple-50 text-purple-700 border-purple-200"
+    },
+    {
+      "text": "安全審査等の停止期間を除外",
+      "color": "bg-amber-50 text-amber-700 border-amber-200"
+    },
+    {
+      "text": "30年以降は10年ごとに厳格審査",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    }
   ]
 }

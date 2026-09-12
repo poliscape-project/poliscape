@@ -125,5 +125,19 @@
       "title": "信託のしくみと遺言代用信託（一般社団法人信託協会）",
       "url": "https://www.shintaku-kyokai.or.jp/trust/type/individual/will.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "おひとりさま信託",
+      "color": "bg-teal-50 text-teal-700 border-teal-200"
+    },
+    {
+      "text": "死後事務・遺品整理",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    },
+    {
+      "text": "身寄りなし高齢支援",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+    }
   ]
 }

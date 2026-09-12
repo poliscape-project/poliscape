@@ -171,5 +171,19 @@
       "type": "diet_minutes",
       "typeLabel": "国会審議録"
     }
+  ],
+  "badges": [
+    {
+      "text": "産業CO2の4割を削減へ",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "GX20兆円移行債で支援",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "水素不足と産業空洞化懸念",
+      "color": "bg-amber-50 text-amber-900"
+    }
   ]
 }

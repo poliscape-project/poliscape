@@ -125,5 +125,19 @@
       "title": "経済安全保障推進法とサプライチェーン強靱化（内閣府）",
       "url": "https://www.cao.go.jp/keizai_anzen_hosho/index.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "経済的威圧（嫌がらせ）対抗",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "G7共同支援プラットフォーム",
+      "color": "bg-blue-50 text-blue-800"
+    },
+    {
+      "text": "サプライチェーン買い支え",
+      "color": "bg-emerald-50 text-emerald-800"
+    }
   ]
 }

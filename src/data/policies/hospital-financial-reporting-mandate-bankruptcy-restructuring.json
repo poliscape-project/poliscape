@@ -125,5 +125,19 @@
       "title": "地域医療構想及び医療計画について（厚生労働省）",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000080850.html"
     }
+  ],
+  "badges": [
+    {
+      "text": "病院経営情報開示義務",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+    },
+    {
+      "text": "赤字倒産過去最多水準",
+      "color": "bg-rose-50 text-rose-700 border-rose-200"
+    },
+    {
+      "text": "地域医療再編統合",
+      "color": "bg-blue-50 text-blue-700 border-blue-200"
+    }
   ]
 }
