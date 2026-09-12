@@ -255,5 +255,71 @@
         "commentStandard": "「限られた財源なら、富裕層より本当に困っている困窮家庭へ集中すべき」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国の児童手当・家族支援ルール",
+    "comparisonSummary": "欧州（フランス・ドイツ）は子育てコストを社会全体で分担する理念が強く、原則として親の所得制限を設けないか高所得者のみ逓減させる設計が主流です。一方、アメリカは毎月の手当ではなく確定申告時の税額控除（CTC）が中心であり、イギリスは高所得世帯から税金で手当を回収するなど、各国の税制や社会思想によって支援の形は大きく異なります。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Allocations familiales (家族手当)",
+        "amount": "第2子から支給（2人で月額約2.3万〜4.7万円）",
+        "ageLimit": "20歳未満まで",
+        "incomeLimit": "原則なし（所得階層に応じて3段階で減額）",
+        "keyFeature": "第1子には原則支給されない一方、第2子以降が手厚い設計。さらに、子どもの数が多いほど世帯の所得税率が劇的に下がる「N分N乗課税方式」や、ほぼ無料の公立保育学校（エコール・マテルネル）とセットで少子化に歯止めをかけています。",
+        "source": {
+          "organization": "フランス家族手当金庫 (CAF)",
+          "title": "Les allocations familiales (公式手当解説)",
+          "url": "https://www.caf.fr/allocataires/droits-et-prestations/s-informer-sur-les-aides/enfance-et-jeunesse/les-allocations-familiales"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Kindergeld (児童手当)",
+        "amount": "子ども1人あたり一律 月額250ユーロ（約4万円）",
+        "ageLimit": "原則18歳まで（修学・職業訓練中は最長25歳まで）",
+        "incomeLimit": "完全撤廃（全世帯一律支給）",
+        "keyFeature": "第1子から親の年収に関わらず全員に月額約4万円という高額が一律支給されます。大学進学や職業訓練を続けている若者であれば25歳まで支給が継続される点が極めて手厚く、子どもの自立・高等教育支援の柱となっています。",
+        "source": {
+          "organization": "ドイツ連邦家族・高齢者・女性・青少年省 (BMFSFJ)",
+          "title": "Familienportal: Kindergeld (公式ポータル)",
+          "url": "https://familienportal.de/familienportal/familienleistungen/kindergeld"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Child Benefit (児童手当)",
+        "amount": "第1子: 週25.60ポンド（月約2万円） / 第2子以降: 週16.95ポンド",
+        "ageLimit": "16歳まで（認定された教育・訓練継続で最長20歳）",
+        "incomeLimit": "あり（高所得者課税制度 HICBC）",
+        "keyFeature": "全世帯が申請可能ですが、父母いずれかの年収が6万ポンド（約1,150万円）を超えると税務申告を通じて手当が段階的に回収され、8万ポンドで全額返納となります。「申請は全員可能だが富裕層には実質支給しない」という税制連動方式です。",
+        "source": {
+          "organization": "英国政府 (GOV.UK)",
+          "title": "Claim Child Benefit: Make a claim (GOV.UK公式)",
+          "url": "https://www.gov.uk/child-benefit"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Child Tax Credit (児童税額控除)",
+        "amount": "子ども1人あたり最大 年2,000ドル（税額控除方式）",
+        "ageLimit": "17歳未満まで",
+        "incomeLimit": "あり（一定年収以上で段階的に縮小）",
+        "keyFeature": "連邦政府による毎月の定額現金給付制度は原則存在せず、確定申告（タックスリターン）時の所得税控除として機能します。税額控除額が納税額を上回る低所得世帯向けには一部還付（Additional CTC）される仕組みが用意されています。",
+        "source": {
+          "organization": "米国内国歳入庁 (IRS)",
+          "title": "Child Tax Credit | Internal Revenue Service",
+          "url": "https://www.irs.gov/credits-deductions/individuals/child-tax-credit"
+        }
+      }
+    ]
   }
 }

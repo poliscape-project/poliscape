@@ -48,6 +48,7 @@ import { ViewCounter } from "@/components/ViewCounter";
 
 import { PolicyHighlightCards } from "@/components/PolicyHighlightCards";
 import { PolicyPerspectives } from "@/components/PolicyPerspectives";
+import { PolicyInternationalCard } from "@/components/PolicyInternationalCard";
 import { PolicyChangesCard } from "@/components/PolicyChangesCard";
 import { PolicySummaryCard } from "@/components/PolicySummaryCard";
 import { PolicyTimeline } from "@/components/PolicyTimeline";
@@ -241,6 +242,14 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
           challenges={policy.perspectives.challenges}
           isSimpleMode={isSimpleMode}
         />
+
+        {/* 5. 【国際比較】主要先進国のルール比較（データがある政策のみ表示） */}
+        {policy.international && (
+          <PolicyInternationalCard
+            comparison={policy.international}
+            isSimpleMode={isSimpleMode}
+          />
+        )}
 
         {/* 5. 【段階的開示】詳しい制度変更・経緯・一次情報（気になる人だけ展開） */}
         <div className="pt-2">

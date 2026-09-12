@@ -241,5 +241,71 @@
         "commentStandard": "「タクシー会社が遠隔点呼するとはいえ、ドライバーの質や密室でのトラブル防止策に課題」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国のライドシェア・自家用有償旅客運送ルール",
+    "comparisonSummary": "アメリカや東南アジア（シンガポール等）ではプラットフォーム（Uber・Grab等）を通じた一般ドライバーの参入が全面解禁され、都市交通インフラとして定着しています。一方、ヨーロッパ（ドイツ・フランス）や日本は利用者の安全確保と既存タクシー産業の保護を重視し、一般自家用車の自由運行を厳しく制限・管理下に置く「抑制的モデル」を採っており、世界でも明確な二極化が見られます。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "TNC (Transportation Network Companies) 制度",
+        "amount": "需給に応じた変動運賃（ダイナミックプライシング）",
+        "ageLimit": "各州の運転適格年齢（通常21歳以上・運転歴1〜3年）",
+        "incomeLimit": "参入自由（ギグワーカー・個人事業主として稼働）",
+        "keyFeature": "カリフォルニア州などを皮切りに全米ほぼすべての州で新法（TNC法）が整備され全面解禁。Uber等の一般個人ドライバーが自家用車で自由に営業できます。近年はドライバーの労働者保護（最低報酬保証や医療手当）を巡る法廷闘争が活発です。",
+        "source": {
+          "organization": "カリフォルニア州公益事業委員会 (CPUC)",
+          "title": "Transportation Network Companies (TNC規制公式ページ)",
+          "url": "https://www.cpuc.ca.gov/regulatory-services/licensing/transportation-licensing/transportation-network-companies"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Point-to-Point (P2P) 旅客運送規制法",
+        "amount": "アプリによる事前確定運賃（需給連動あり）",
+        "ageLimit": "30歳以上・シンガポール市民限定（外国人不可）",
+        "incomeLimit": "専用職業運転免許（PDVL）の取得が必須",
+        "keyFeature": "東南アジア最大手Grabのお膝元ですが、無秩序な解禁ではなく陸上交通庁（LTA）が包括的に統制。ドライバーには健康診断・犯罪歴チェック・研修受講を義務付け、車両にも登録ステッカー掲示を義務付けるなど厳格な安全基準を敷いています。",
+        "source": {
+          "organization": "シンガポール陸上交通庁 (LTA)",
+          "title": "Point-to-Point Transport (P2P規制公式ポータル)",
+          "url": "https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/regulations_licensing/point_to_point_transport.html"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Personenbeförderungsgesetz (PBefG / 旅客運送法)",
+        "amount": "メーター運賃（タクシー）または事前予約制ハイヤー運賃",
+        "ageLimit": "営業用旅客運送免許（P-Schein）取得者",
+        "incomeLimit": "個人自家用車での一般営業は原則違法（禁止）",
+        "keyFeature": "白タク行為を極めて厳しく禁止しており、Uber等のアプリ事業者は「提携ハイヤー会社（Mietwagen）」を通じてしか営業できません。走行終了後は営業所へ戻らなければならない「帰庫義務（Rückkehrpflicht）」が課され、既存タクシーを強力に保護しています。",
+        "source": {
+          "organization": "ドイツ連邦デジタル・交通省 (BMDV)",
+          "title": "Modernisierung des Personenbeförderungsrechts (旅客運送法近代化解説)",
+          "url": "https://bmdv.bund.de/SharedDocs/DE/Artikel/G/personenbefoerderungsgesetz.html"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Private Hire Vehicle (PHV) ライセンス制度",
+        "amount": "事前予約・見積もり運賃（流し営業はブラックキャブのみ）",
+        "ageLimit": "21歳以上・運転歴3年以上",
+        "incomeLimit": "犯罪歴（DBSチェック）・英語力テスト合格が必須",
+        "keyFeature": "ロンドン交通局（TfL）が管理する事前予約制ハイヤー（PHV）の枠組みにUberを組み込んでいます。ドライバーは個人事業主とされていましたが、2021年の英国最高裁判決により「労働者（Worker）」としての権利（最低賃金・有給休暇）が認められました。",
+        "source": {
+          "organization": "ロンドン交通局 (TfL)",
+          "title": "Private hire driver licensing (PHV公式ライセンス基準)",
+          "url": "https://tfl.gov.uk/info-for/taxis-and-private-hire/licensing/private-hire-driver-licence"
+        }
+      }
+    ]
   }
 }

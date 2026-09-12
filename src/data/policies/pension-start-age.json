@@ -235,5 +235,71 @@
         "commentStandard": "「選択肢の拡大と言いつつ、将来的に受給開始標準年齢を67〜68歳へ引き上げる布石では」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国の公的年金・支給開始年齢ルール",
+    "comparisonSummary": "少子高齢化と長寿化に直面する先進諸国では、年金財政の維持のために「受給開始年齢の67歳への引き上げ」が国際的な共通トレンドとなっています。日本は「原則65歳」を維持しつつ60〜75歳まで自由に選べる柔軟な仕組みを採用していますが、欧米では標準年齢そのものを法定引き上げする国が多く、退職文化や労働環境の違いから激しい政治的対立を生んでいます。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Social Security (公的社会保障年金)",
+        "amount": "満額受給時: 平均月額約1,900ドル（約29万円）",
+        "ageLimit": "標準受給年齢 67歳（1960年以降生まれ）",
+        "incomeLimit": "繰上げ期間中に働いて一定以上稼ぐと一部支給停止",
+        "keyFeature": "満額もらえる標準年齢（Full Retirement Age）がすでに67歳へ引き上げ済み。最速62歳から繰上げ受給できますが最大30%永久減額され、70歳まで繰り下げると年8%ずつ（最大24%）増額されます。",
+        "source": {
+          "organization": "米国社会保障局 (SSA)",
+          "title": "Starting Your Retirement Benefits Early (公式受給ルール)",
+          "url": "https://www.ssa.gov/benefits/retirement/planner/agereduction.html"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Gesetzliche Rentenversicherung (法定年金保険)",
+        "amount": "標準年金（45年加入）: 月額約1,600〜1,700ユーロ（約26万円）",
+        "ageLimit": "標準受給年齢 65歳から67歳へ段階引き上げ中（2031年完了）",
+        "incomeLimit": "早期受給時の所得制限は2023年に完全撤廃",
+        "keyFeature": "1964年以降生まれの標準受給年齢は67歳になります。ただし、保険料を「45年間」納めた長期保険加入者は、減額なしで63〜65歳から受給できる特例制度（特に長期の被保険者のための老齢年金）が手厚く設けられています。",
+        "source": {
+          "organization": "ドイツ年金保険連合 (Deutsche Rentenversicherung)",
+          "title": "Regelaltersgrenze (標準老齢年金受給年齢の段階引き上げ公式解説)",
+          "url": "https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Allgemeine-Informationen/Rentenarten-und-Leistungen/Altersrente-fuer-langjaehrig-Versicherte/altersrente-fuer-langjaehrig-versicherte_node.html"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Retraite de base (基礎年金制度)",
+        "amount": "満額受給時: 直近高所得25年の平均給与の50%",
+        "ageLimit": "最低受給年齢 62歳から64歳へ引き上げ（2023年年金改革法）",
+        "incomeLimit": "満額受給要件（43年間の拠出）に未達の場合は減額",
+        "keyFeature": "ヨーロッパの中でも突出して受給開始が早かったフランスですが、2023年のマクロン政権による年金改革で受給開始年齢が62歳から64歳へ、満額拠出期間が43年間へ引き上げられ、全土で数百万規模の大規模ストライキ・抗議デモに発展しました。",
+        "source": {
+          "organization": "フランス政府公式ポータル (Service-Public.fr)",
+          "title": "Âge de départ à la retraite (年金受給開始年齢公式情報)",
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F13890"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "State Pension (新国家年金)",
+        "amount": "満額: 週221.20ポンド（月約18万円）",
+        "ageLimit": "現在66歳（2026〜28年に67歳へ引き上げ予定）",
+        "incomeLimit": "なし（一律定額支給、ただし35年の国民保険拠出が必要）",
+        "keyFeature": "自営業も会社員も一律の新国家年金制度。受給開始年齢は男女ともに66歳となっており、今後67歳、さらに将来的な68歳への引き上げが法律で規定されています。早期受給の仕組みはなく、遅らせる繰下げ受給（年約5.8%増）のみ選べます。",
+        "source": {
+          "organization": "英国政府 (GOV.UK)",
+          "title": "Check your State Pension age (GOV.UK公式受給開始年齢チェッカー)",
+          "url": "https://www.gov.uk/state-pension-age"
+        }
+      }
+    ]
   }
 }
