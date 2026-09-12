@@ -1,4 +1,4 @@
-﻿import { ImageResponse } from "next/og";
+import { ImageResponse } from "next/og";
 import { getPolicyById } from "@/lib/policies";
 
 export const runtime = "nodejs";
@@ -7,21 +7,16 @@ export const contentType = "image/png";
 
 const categoryColors: Record<string, { accent: string; label: string }> = {
   childcare:   { accent: "#34d399", label: "子育て・家族" },
-  education:   { accent: "#60a5fa", label: "教育・研究" },
-  tax:         { accent: "#f59e0b", label: "税制・家計" },
+  healthcare:  { accent: "#f472b6", label: "医療・健康・福祉" },
   pension:     { accent: "#a78bfa", label: "年金・社会保障" },
-  healthcare:  { accent: "#f472b6", label: "医療・健康" },
-  labor:       { accent: "#34d399", label: "労働・雇用" },
-  economy:     { accent: "#fb923c", label: "経済・産業" },
-  environment: { accent: "#4ade80", label: "環境・エネルギー" },
-  security:    { accent: "#94a3b8", label: "安全保障" },
-  digital:     { accent: "#22d3ee", label: "デジタル・IT" },
-  transport:   { accent: "#f97316", label: "交通・インフラ" },
-  agriculture: { accent: "#86efac", label: "農業・食料" },
-  welfare:     { accent: "#c084fc", label: "福祉・介護" },
-  housing:     { accent: "#fbbf24", label: "住宅・都市" },
-  justice:     { accent: "#818cf8", label: "司法・人権" },
-  tourism:     { accent: "#2dd4bf", label: "観光・地域" },
+  tax:         { accent: "#f59e0b", label: "税金・お金" },
+  labor:       { accent: "#fb923c", label: "働き方・雇用" },
+  education:   { accent: "#60a5fa", label: "教育・研究・文化" },
+  economy:     { accent: "#06b6d4", label: "経済・産業" },
+  digital:     { accent: "#22d3ee", label: "デジタル・IT・AI" },
+  transport:   { accent: "#f97316", label: "交通・モビリティ・物流" },
+  environment: { accent: "#4ade80", label: "環境・エネルギー・防災" },
+  society:     { accent: "#94a3b8", label: "社会・安全保障・司法" },
   default:     { accent: "#06b6d4", label: "政策" },
 };
 

@@ -1,4 +1,4 @@
-export type PolicyCategory = "childcare" | "education" | "tax" | "pension" | "economy" | "environment" | "healthcare" | "defense" | "transport" | "labor" | "digital" | "society";
+export type PolicyCategory = "childcare" | "education" | "tax" | "pension" | "economy" | "environment" | "healthcare" | "transport" | "labor" | "digital" | "society";
 
 export type PolicyStatus = "enacted" | "discussing" | "proposed";
 

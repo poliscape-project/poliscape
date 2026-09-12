@@ -64,31 +64,22 @@ const SIMULATOR_POLICY_IDS = new Set([
   "stealth-marketing-regulation"
 ]);
 
-// カテゴリごとの表示名称とアイコンのマッピング設定（全20カテゴリ完全対応）
+// カテゴリごとの表示名称とアイコンのマッピング設定（全11カテゴリ）
 const CATEGORY_CONFIG: Record<
   string,
   { label: string; icon: React.ElementType; order: number }
 > = {
-  economy: { label: "経済・産業・消費", icon: Scale, order: 1 },
+  economy: { label: "経済・産業", icon: Scale, order: 1 },
   tax: { label: "税金・お金", icon: Wallet, order: 2 },
   childcare: { label: "子育て・家族", icon: Baby, order: 3 },
   healthcare: { label: "医療・健康・福祉", icon: HeartPulse, order: 4 },
-  pension: { label: "年金・老後資産", icon: Wallet, order: 5 },
-  education: { label: "教育・学生・人づくり", icon: GraduationCap, order: 6 },
+  pension: { label: "年金・社会保障", icon: Wallet, order: 5 },
+  education: { label: "教育・研究・文化", icon: GraduationCap, order: 6 },
   labor: { label: "働き方・雇用", icon: Briefcase, order: 7 },
-  employment: { label: "雇用環境・労働法", icon: Briefcase, order: 8 },
-  digital: { label: "デジタル・IT・AI", icon: Smartphone, order: 9 },
-  transport: { label: "交通・地域・モビリティ", icon: Car, order: 10 },
-  traffic: { label: "交通安全・物流", icon: Car, order: 11 },
-  environment: { label: "環境・エネルギー", icon: Leaf, order: 12 },
-  living: { label: "住まい・土地・防災", icon: Trees, order: 13 },
-  regional: { label: "地方創生・都市", icon: Hotel, order: 14 },
-  defense: { label: "外交・安全保障", icon: Shield, order: 15 },
-  security: { label: "防衛・国家安全", icon: Shield, order: 16 },
-  society: { label: "社会・共生・司法", icon: Users, order: 17 },
-  social: { label: "司法・社会規範", icon: Scale, order: 18 },
-  governance: { label: "政治・統治改革", icon: Landmark, order: 19 },
-  medical: { label: "先端医療・薬事", icon: HeartPulse, order: 20 },
+  digital: { label: "デジタル・IT・AI", icon: Smartphone, order: 8 },
+  transport: { label: "交通・モビリティ・物流", icon: Car, order: 9 },
+  environment: { label: "環境・エネルギー・防災", icon: Leaf, order: 10 },
+  society: { label: "社会・安全保障・司法", icon: Shield, order: 11 },
 };
 
 export type SortOption = "latest" | "oldest" | "effective" | "simulators" | "title";
