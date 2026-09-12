@@ -185,5 +185,67 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "国政選挙における選挙供託金制度・立候補ハードルの国際比較",
+    "comparisonSummary": "日本の公職選挙法が定める国政選挙の供託金（小選挙区300万円、比例代表600万円）は世界で突出して高額であり、一定割合（有効票の10%）を得られなければ全額没収されます。若者や女性、一般市民の政治参入を阻む巨大な障壁として違憲訴訟が提起されています。世界主要国では供託金ゼロ（署名推薦制）または数万円〜数十万円程度が主流であり、カナダでは司法が供託金を違憲無効と判決するなど、被選挙権保障のあり方が大きく異なります。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Candidature sans caution (供託金ゼロ制度 / 選挙法典)",
+        "amount": "供託金: 0ユーロ（完全無料）",
+        "statusOrLevel": "立候補手数料なし（有権者署名・政党公認のみ）",
+        "keyFeature": "国民議会（下院）選挙における供託金制度は一切存在せず、費用ゼロで立候補可能。大統領選挙のみ500人以上の公選職（市長や国会議員等）からの推薦署名（Parrainages）が必要ですが、金銭的な担保を要求して被選挙権を制限することは憲法上の平等の観点から認められていません。",
+        "source": {
+          "organization": "フランス内務・海外領土省 (Ministère de l'Intérieur)",
+          "title": "Élections législatives : dépôt des candidatures",
+          "url": "https://www.interieur.gouv.fr/actualites/dossiers/elections-legislatives-2024"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Ballot Access Laws (投票用紙掲載資格法 / 署名要件)",
+        "amount": "連邦議員選挙の供託金ゼロ（一定数の有権者署名）",
+        "statusOrLevel": "署名集め（Petition）による立候補資格取得",
+        "keyFeature": "連邦下院・上院議員選挙において金銭の供託義務はありません。代わりに選挙区内の登録有権者から一定数（数千人程度）の署名を集めることで投票用紙に名前が記載（Ballot Access）されます。合衆国最高裁は高額な立候補手数料を違憲と判断しています。",
+        "source": {
+          "organization": "連邦選挙委員会 (FEC)",
+          "title": "Filing for Congress: Qualifications and Ballot Access",
+          "url": "https://www.fec.gov/"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Parliamentary election deposit (下院選挙供託金)",
+        "amount": "500ポンド（約10万円）",
+        "statusOrLevel": "有効投票の5%以上で全額返還",
+        "keyFeature": "庶民院（下院）選挙の供託金は500ポンド（約10万円）と日本の小選挙区（300万円）の30分の1の低水準。さらに没収ラインも有効投票の5%と日本（10%）より低く設定されており、有権者10人の署名と少額の手数料で誰もが国政に挑戦できます。",
+        "source": {
+          "organization": "英国選挙委員会 (The Electoral Commission)",
+          "title": "Standing as a candidate at a UK Parliamentary election",
+          "url": "https://www.electoralcommission.org.uk/guidance-candidates-and-agents-uk-parliamentary-general-elections"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "Elections Canada / 連邦裁判所違憲判決 (2017年)",
+        "amount": "供託金: 0カナダドル（違憲判決により完全廃止）",
+        "statusOrLevel": "裁判所が供託金1,000ドルを違憲無効化",
+        "keyFeature": "従来1,000カナダドルの供託金が義務付けられていましたが、オンタリオ州高等裁判所が『金銭的要件による被選挙権の制限はカナダ権利自由憲章（憲法）第3条違反』と判決。連邦選挙局（Elections Canada）は2017年に供託金制度を完全廃止し、現在は100人の有権者署名のみで立候補可能です。",
+        "source": {
+          "organization": "カナダ連邦選挙局 (Elections Canada)",
+          "title": "Nomination of Candidates - Removal of Deposit Requirement",
+          "url": "https://www.elections.ca/content.aspx?section=pol&document=index&dir=can&lang=e"
+        }
+      }
+    ]
+  }
 }

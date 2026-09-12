@@ -185,5 +185,67 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Clock"
     }
-  ]
+  ],
+  "international": {
+    "title": "無痛分娩（硬膜外麻酔分娩）の費用助成・保険適用の国際比較",
+    "comparisonSummary": "硬膜外麻酔を用いて陣痛を和らげる無痛分娩は、欧米では7〜8割の妊婦が利用する標準的医療サービスとして普及し、公的保険で全額カバーされる国も多数あります。一方、日本の普及率は約9%にとどまり、10万〜20万円の追加自費負担や24時間対応できる麻酔専門医の不足が大きな壁となっています。出産の身体的トラウマ軽減や産後うつ予防の観点から、公費助成や保険適用の是非が注目されています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Péridurale prise en charge à 100% (社会保障100%全額給付)",
+        "amount": "100%完全無料（公的保険全額負担）",
+        "statusOrLevel": "普及率80%超（標準的な出産方法として定着）",
+        "keyFeature": "フランスの公的健康保険（Assurance Maladie）では、妊娠6ヶ月以降のすべての出産関連医療費（入院費・分娩費・硬膜外麻酔費・産後ケア）が100%全額給付され、自己負担ゼロ。すべての公立産科病院に24時間体制の麻酔医が常駐し、妊婦の希望で自由に選択できます。",
+        "source": {
+          "organization": "フランス公的健康保険機構 (Ameli.fr)",
+          "title": "Prise en charge de la grossesse et de l'accouchement (Ameli)",
+          "url": "https://www.ameli.fr/assure/droits-demarches/famille/maternite-paternite-adoption/grossesse"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS Maternity Services (国民保健サービスによる無料提供)",
+        "amount": "NHS病院での分娩・麻酔費用は完全無料",
+        "statusOrLevel": "普及率約30〜40%（助産師主導分娩と並行）",
+        "keyFeature": "国民保健サービス（NHS）の公立病院において、硬膜外麻酔（Epidural）を含むすべての分娩費用が無料。専任の産科麻酔医が配置されており、妊婦が出産プラン（Birth Plan）に基づき自然分娩、水中分娩、無痛分娩を費用負担なく選択できます。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS)",
+          "title": "Pain relief in labour - NHS",
+          "url": "https://www.nhs.uk/pregnancy/labour-and-birth/what-happens/pain-relief-in-labour/"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Private Insurance Coverage & Medicaid",
+        "amount": "民間保険および公的メディケイドで保険適用",
+        "statusOrLevel": "普及率約70〜75%（米国産科婦人科学会 ACOG 推奨）",
+        "keyFeature": "CDCの統計で初産婦の7割以上が無痛分娩を利用。民間保険（ACA準拠プラン）および低所得者向けメディケイドにおいて、硬膜外麻酔は標準的な医療給付としてカバーされます。産科麻酔専門医の24時間院内待機体制が病院認可の基本基準となっています。",
+        "source": {
+          "organization": "米国疾病予防管理センター (CDC) / ACOG",
+          "title": "CDC/NCHS - Epidural and Spinal Anesthesia Use During Labor",
+          "url": "https://www.cdc.gov/nchs/products/databriefs/db400.htm"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Gesetzliche Krankenversicherung (GKV) Leistungsübernahme",
+        "amount": "公的健康保険（GKV）により医学的適応時全額給付",
+        "statusOrLevel": "普及率約30〜40%",
+        "keyFeature": "公的健康保険（GKV）により、医師や助産師が医学的に必要と判断した硬膜外麻酔（PDA）の費用は全額保険給付されます。母子手帳（Mutterpass）による妊娠初期からの計画的管理と、院内助産所（Hebammenkreißsaal）の併設が進んでいます。",
+        "source": {
+          "organization": "ドイツ連邦健康教育センター (BZgA)",
+          "title": "Schmerzlinderung bei der Geburt - familienplanung.de",
+          "url": "https://www.familienplanung.de/schwangerschaft/geburt/schmerzlinderung/"
+        }
+      }
+    ]
+  }
 }

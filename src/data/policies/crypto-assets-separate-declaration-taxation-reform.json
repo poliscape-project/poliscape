@@ -185,5 +185,63 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Globe"
     }
-  ]
+  ],
+  "international": {
+    "title": "暗号資産（仮想通貨）取引利益への課税方式の国際比較",
+    "comparisonSummary": "ビットコイン等の暗号資産取引で生じた利益に対し、日本は現行法上『雑所得（総合課税）』として給与所得等と合算され最高55%の税率が適用されます。他方で損失の翌年繰越控除も認められていません。Web3産業の育成や投資家の海外流出阻止のため、上場株式と同様の『申告分離課税20%』への見直しが強く要望されています。海外主要国では、1年保有で完全非課税とするドイツ、キャピタルゲイン非課税のシンガポール、株式と同等課税のアメリカなど、明確な優遇・整備が進んでいます。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Einkommensteuergesetz § 23 (所得税法第23条・私的譲渡取引)",
+        "statusOrLevel": "1年以上保有で売却益が完全に『非課税 (0%)』",
+        "keyFeature": "ビットコイン等の暗号資産を1年以上長期保有してから売却・交換した場合、得られた利益は税務上完全に非課税（税率0%）。1年未満の短期売買のみ個人所得税率（最高45%）が課されますが、年間600ユーロ（改正で1,000ユーロ）までの少額利益は免税です。長期投資家を世界中から惹きつける明確な税制です。",
+        "source": {
+          "organization": "ドイツ連邦財務省 (BMF)",
+          "title": "Einzelfragen zur ertragsteuerlichen Behandlung von virtuellen Währungen",
+          "url": "https://www.bundesfinanzministerium.de/"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Inland Revenue Authority of Singapore (IRAS) Guidelines",
+        "statusOrLevel": "キャピタルゲイン非課税（個人投資家は0%）",
+        "keyFeature": "シンガポール税法にはキャピタルゲイン課税が存在しないため、個人が長期投資目的で売買した暗号資産の含み益・売却益は所得税が一切課税されません（0%）。法人の事業所得や暗号資産トレーダーとしての反復取引のみ通常の法人税（17%）や所得税の対象となります。",
+        "source": {
+          "organization": "シンガポール内国歳入庁 (IRAS)",
+          "title": "Income Tax Treatment of Digital Tokens (IRAS)",
+          "url": "https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/digital-payment-tokens"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "IRS Notice 2014-21 (資産Propertyとしての長期・短期課税)",
+        "statusOrLevel": "株式と同等のキャピタルゲイン課税（長期は最大20%+NIIT）",
+        "keyFeature": "内国歳入庁（IRS）は暗号資産を通貨ではなく『資産（Property）』と位置づけ。1年超保有した売却益には長期キャピタルゲイン税率（0%/15%/20%＋NIIT 3.8%）が適用され、株式投資と全く同等に扱われます。年3,000ドルの損失控除や無期限の損失繰越も株式と同様に認められています。",
+        "source": {
+          "organization": "米国内国歳入庁 (IRS)",
+          "title": "Digital Assets | Internal Revenue Service",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/digital-assets"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Cryptoassets: tax for individuals (HMRCマニュアル)",
+        "statusOrLevel": "キャピタルゲイン税 (CGT) 適用（基本10%・上位20%）",
+        "keyFeature": "株式や不動産と同様にキャピタルゲイン税（CGT）の枠組みで課税。個人には年間の免税枠（Annual Exempt Amount）が与えられ、それを超えた純利益に対してのみ10%または上位所得者20%（最新改定で18%/24%）が課されます。損失は翌年以降に繰り越して他の投資利益と相殺可能です。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC / GOV.UK)",
+          "title": "Check if you need to pay tax when you sell cryptoassets",
+          "url": "https://www.gov.uk/guidance/check-if-you-need-to-pay-tax-when-you-sell-cryptoassets"
+        }
+      }
+    ]
+  }
 }

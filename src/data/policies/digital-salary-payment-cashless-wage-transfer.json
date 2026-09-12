@@ -185,5 +185,64 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "UserCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "給与のデジタル払い（キャッシュレス送金）の国際比較",
+    "comparisonSummary": "労働基準法が定める『賃金通貨払いの原則』の例外として、日本は2023年に厚生労働大臣が指定した資金移動業者（PayPay等）の口座への給与直接送金を解禁しました。上限20万円、破綻時の全額保証信託、月1回のATM無料出金が条件です。世界ではアメリカの給与カード（Payroll Card）や中国のモバイル決済送金が先行し、銀行口座を持たない低所得者や外国人労働者の金融包摂（ファイナンシャル・インクルージョン）と資産保全のバランスが追求されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Payroll Cards (給与カード / 連邦規則 Regulation E)",
+        "statusOrLevel": "2000年代より広く普及・CFPBによる消費者保護",
+        "keyFeature": "銀行口座を持たない労働者（アンバンクト層）向けに、給与が直接チャージされるプリペイドカード『Payroll Card』が全米で広く普及。消費者金融保護局（CFPB）の規則（Regulation E）に基づき、企業が給与カードの受け取りを強制することは禁止されており、月最低1回の無料ATM出金や明細無料提供が義務付けられています。",
+        "source": {
+          "organization": "米国消費者金融保護局 (CFPB)",
+          "title": "Payroll card rules and employee rights | CFPB",
+          "url": "https://www.consumerfinance.gov/compliance/compliance-resources/deposit-accounts-resources/prepaid-rule/"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "デジタル人民元 (e-CNY) 給与支給 & モバイルウォレット送金",
+        "statusOrLevel": "江蘇省常熟市等で公務員給与100%デジタル人民元支給",
+        "keyFeature": "アリペイやウィーチャットペイでの民間給与受取が広く定着しているほか、中国人民銀行が発行する中央銀行デジタル通貨（CBDC）『デジタル人民元（e-CNY）』を活用し、一部のパイロット都市（常熟市等）において公務員や公的機関職員の給与全額をデジタル人民元で支給する実証運用が本格化しています。",
+        "source": {
+          "organization": "中国人民銀行 (PBOC)",
+          "title": "Progress of Research & Development of E-CNY in China",
+          "url": "http://www.pbc.gov.cn/en/3688110/3688172/4157443/index.html"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Employment Rights Act 1996 & 電子マネー機関 (EMI) 規制",
+        "statusOrLevel": "BACS銀行口座振込が標準・ネオバンク台頭",
+        "keyFeature": "雇用権利法により銀行振込または小切手が原則。RevolutやMonzoなどのネオバンクでの給与受取が急増していますが、電子マネー機関（EMI）は英金融サービス補償スキーム（FSCS）の預金保険対象外であるため、金融行動監視機構（FCA）により顧客資金を分別信託保管する厳格なセーフガーディング規制が課されています。",
+        "source": {
+          "organization": "英国金融行動監視機構 (FCA)",
+          "title": "Payment services and electronic money - FCA",
+          "url": "https://www.fca.org.uk/firms/payment-services-electronic-money"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Code du travail Art. L.3241-1 (労働法典・賃金支払原則)",
+        "amount": "月額1,500ユーロ超は現金払い禁止",
+        "statusOrLevel": "銀行振込または線引小切手が法律上必須",
+        "keyFeature": "マネーロンダリング防止と脱税阻止のため、月給が1,500ユーロ（約24万円）を超える場合は現金手渡しが法律で禁止され、銀行振込または線引小切手での支払いが義務化。2021年の法改正（Rixain法）により、家庭内暴力や経済的DVを防ぐため配偶者名義口座への送金を禁止し『労働者本人名義の口座』への支払いが義務付けられました。",
+        "source": {
+          "organization": "フランス政府公式法制ポータル (Légifrance)",
+          "title": "Article L3241-1 du Code du travail (Mode de paiement du salaire)",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044567280"
+        }
+      }
+    ]
+  }
 }

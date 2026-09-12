@@ -205,5 +205,63 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "FileText"
     }
-  ]
+  ],
+  "international": {
+    "title": "刑事裁判のやり直し（再審法・証拠開示ルール）の国際比較",
+    "comparisonSummary": "冤罪被害者を迅速に救済するための『再審（裁判のやり直し）』手続きについて、日本の刑事訴訟法は1948年制定以来ほとんど改正されず、再審請求審における検察官の証拠開示義務が条文上存在しません（裁判官の個別裁量）。袴田事件の半世紀に及ぶ審理遅延を受け法改正論争が過熱しています。英国は独立した公的調査機関（CCRC）を創設し、ドイツは再審開始への検察官抗告を禁止するなど、冤罪救済のための手続保障が進んでいます。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Criminal Cases Review Commission (刑事事件再審委員会 / CCRC)",
+        "statusOrLevel": "1997年設立・国家独立再審調査機関",
+        "keyFeature": "冤罪事件（バーミンガム・シックス等）を機に設立された世界初の独立公的機関。警察や検察、鑑識機関に対し、未開示の証拠資料や内部記録の強制提出を命令可能。独自の調査権限で新証拠を発掘し、委員会が再審の相当性を認めた場合は裁判所に直接事件を送致（控訴審が再審開始）します。",
+        "source": {
+          "organization": "英国刑事事件再審委員会 (CCRC / GOV.UK)",
+          "title": "Criminal Cases Review Commission - GOV.UK",
+          "url": "https://www.gov.uk/government/organisations/criminal-cases-review-commission"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Strafprozessordnung (刑事訴訟法 第359条〜第373条a)",
+        "statusOrLevel": "再審開始決定に対する検察官の即時抗告禁止",
+        "keyFeature": "刑事訴訟法に再審手続きが詳細に明文化。裁判所が再審開始を決定した場合、検察官がこれに不服を申し立てる（抗告して審理を長期化させる）ことが法律（StPO第372条）で明文禁止されています。一度無実の合理的疑いが生じた場合は直ちに再審公判を開くことが鉄則とされています。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ)",
+          "title": "Strafprozessordnung (StPO) - Fünftes Buch: Wiederaufnahme",
+          "url": "https://www.gesetze-im-internet.de/stpo/__359.html"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Brady rule (有利証拠開示義務) & 地方検察Conviction Integrity Unit",
+        "statusOrLevel": "全米多数の検察庁に冤罪審査部門（CIU）設置",
+        "keyFeature": "1963年の合衆国最高裁判決（Brady v. Maryland）により、検察官は被告人に有利なすべての証拠（免責証拠）を開示する憲法上の義務を負います。違反した場合は判決破棄。さらにフィラデルフィアやブルックリン等の地方検察庁に『有罪性審査部門（CIU）』が常設され、検察自らが過去の冤罪を再調査して公訴を取り下げています。",
+        "source": {
+          "organization": "アメリカ合衆国司法省 (DOJ) / 国立免責登録簿 (NRE)",
+          "title": "Brady v. Maryland Doctrine / Conviction Integrity Units",
+          "url": "https://www.justice.gov/archives/jm/criminal-resource-manual-165-brady-rule"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Cour de révision et de réexamen (再審・再検討裁判所)",
+        "statusOrLevel": "破毀院（最高裁）内に独立専任部を設置",
+        "keyFeature": "2014年の法改正により、破毀院内に刑事再審専門の『再審・再検討裁判所』を創設。申立人からの請求に基づき、予備調査判事（Commission d'instruction）が警察や公的機関に強制捜査・証拠提出命令を下し、隠された証拠を開示させる強力な調査権限を行使します。",
+        "source": {
+          "organization": "フランス破毀院 (Cour de cassation)",
+          "title": "La révision d'une condamnation pénale (Cour de cassation)",
+          "url": "https://www.courdecassation.fr/acces-aux-justiciables/la-cour-de-revision-et-de-reexamen"
+        }
+      }
+    ]
+  }
 }

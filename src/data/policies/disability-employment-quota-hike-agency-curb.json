@@ -205,5 +205,64 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "障がい者法定雇用率・クオータ制と就労代行規制の国際比較",
+    "comparisonSummary": "障がい者の社会参加と経済的自立を保障するため、一定割合の雇用を法律で企業に義務付ける『法定雇用率（クオータ制）』は欧州や日本を中心に定着しています。日本は2024年に2.5%、2026年に2.7%へと段階的に引き上げを進める一方、本業に関係のない郊外の『貸し農園代行ビジネス』の急増が倫理的議論を呼んでいます。ドイツの5%義務やフランスの6%義務、クオータ制をとらず差別禁止と合理的配慮を徹底する米国など、各国の制度設計が分かれています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Sozialgesetzbuch IX (社会法典第9編 第154条: 雇用義務率5%)",
+        "amount": "未達成調整金: 不足1人あたり月140〜720ユーロ",
+        "statusOrLevel": "従業員20人以上の全企業に『5%』義務化",
+        "keyFeature": "従業員20人以上の民間・公的雇用主に対し『5%』という極めて高い雇用率を義務付け。未達成企業には『調整金（Ausgleichsabgabe）』が厳格に徴収され、1人も雇用していない悪質企業には2024年から月額720ユーロ（約12万円）に増額。集まった資金は障害者を雇用する企業の設備改善助成金に100%再配分されます。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS) / 連邦雇用庁",
+          "title": "Beschäftigungspflicht schwerbehinderter Menschen (BMAS)",
+          "url": "https://www.bmas.de/DE/Teilhabe/Inklusionsbetriebe/beschaeftigungspflicht.html"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Obligation d'emploi des travailleurs handicapés (OETH / 労働法典)",
+        "statusOrLevel": "従業員20人以上の企業に『6%』義務化",
+        "keyFeature": "従業員20人以上の企業に対し、従業員の『6%』を障害者とする義務を課す（欧州最高水準）。直接雇用に加え、保護就労施設（ESAT）や自立障害者への外注契約も上限付きで雇用率算定にカウント可能。未達成企業はAGEFIPH（障害者雇用開発基金）へ最高で法定最低賃金1,500倍規模の拠出金を納付します。",
+        "source": {
+          "organization": "フランス労働・保健省 (Ministère du Travail) / Agefiph",
+          "title": "L'obligation d'emploi des travailleurs handicapés (OETH)",
+          "url": "https://travail-emploi.gouv.fr/lemploi-et-le-recrutement-des-personnes-en-situation-de-handicap"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Americans with Disabilities Act (ADA / 障害を持つアメリカ人法 1990)",
+        "statusOrLevel": "クオータ制非採用・差別禁止と合理的配慮の義務化",
+        "keyFeature": "数値目標（雇用率割当）を課すクオータ制は『逆差別』や『トークニズム（見せかけ雇用）』を生むとして採用せず、ADAに基づき採用・昇進・給与におけるあらゆる障害差別を厳格に禁止。企業には『過度の負担（Undue Hardship）』がない限り、職場環境の調整（合理的配慮）を提供する絶対的法的義務が課されます。",
+        "source": {
+          "organization": "米国雇用機会均等委員会 (EEOC) / 司法省",
+          "title": "The Americans with Disabilities Act: A Primer for Small Business",
+          "url": "https://www.eeoc.gov/laws/guidance/americans-disabilities-act-primer-small-business"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Equality Act 2010 (平等法) & Disability Confident 認証スキーム",
+        "statusOrLevel": "法定雇用率を1995年廃止・政府認定認証制度へ移行",
+        "keyFeature": "かつて3%の法定雇用率がありましたが実効性に乏しく1995年に廃止。現在は平等法による差別禁止と、労働年金省（DWP）による自主的認証制度『Disability Confident』を運用。レベル1〜3の認定を取得した企業が政府調達等で優遇され、企業の自発的インクルージョンを促進しています。",
+        "source": {
+          "organization": "英国労働年金省 (DWP / GOV.UK)",
+          "title": "Disability Confident employer scheme (DWP)",
+          "url": "https://www.gov.uk/government/collections/disability-confident-campaign"
+        }
+      }
+    ]
+  }
 }

@@ -185,5 +185,63 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Ban"
     }
-  ]
+  ],
+  "international": {
+    "title": "死刑制度の存廃・最高刑（終身刑）の国際比較",
+    "comparisonSummary": "国家による死刑制度は、国際人権規約（自由権規約第2選択議定書）やEU加盟基準において廃止が基本原則とされ、世界約110カ国以上で法律上廃止（事実上の廃止国を含めると約140カ国超）されています。G7（主要先進国）の中で死刑を維持しているのは日本と米国（連邦および一部の州）のみです。欧州では冤罪時の不可逆性や人間の尊厳を理由に完全廃止され、仮釈放のない終身刑（Whole Life Order等）が最高刑として運用されています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Abolition de la peine de mort (1981年死刑廃止法 / 憲法第66-1条)",
+        "statusOrLevel": "完全廃止（憲法上明記）",
+        "keyFeature": "1981年にロベール・バダンテール法相のもと、ギロチンによる死刑執行を全面的に廃止。2007年にはシラク大統領のもとでフランス憲法第66条の1に『何人も死刑に処されない』と明記され、いかなる緊急事態下でも死刑の復活が不可能な最高法規レベルの保障となっています。",
+        "source": {
+          "organization": "フランス法務省 (Ministère de la Justice) / 憲法評議会",
+          "title": "Loi n° 81-908 du 9 octobre 1981 portant abolition de la peine de mort",
+          "url": "https://www.justice.gouv.fr/actualites/actualite/labolition-peine-mort-france"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Grundgesetz Art. 102 (連邦共和国基本法 第102条)",
+        "statusOrLevel": "1949年憲法制定時に完全廃止",
+        "keyFeature": "ナチス時代の司法殺害への深い反省から、1949年に西ドイツ基本法（憲法）第102条に『死刑はこれを廃止する（Die Todesstrafe ist abgeschafft.）』と規定。最高刑は無期自由刑（Lebenslange Freiheitsstrafe）ですが、連邦憲法裁判所判例により受刑者にも社会復帰の希望が保障されなければならないとされています。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ)",
+          "title": "Grundgesetz für die Bundesrepublik Deutschland - Art 102",
+          "url": "https://www.gesetze-im-internet.de/gg/art_102.html"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Murder (Abolition of Death Penalty) Act 1965 & 人権法1998",
+        "statusOrLevel": "全犯罪について完全廃止・終身刑運用",
+        "keyFeature": "1965年に殺人罪に対する死刑を停止し、1998年の人権法（Human Rights Act）制定時に戦時反逆罪等を含むすべての犯罪で完全廃止。最凶悪犯罪に対しては、内相や裁判官が『仮釈放なしの真の終身刑（Whole Life Order）』を宣告する仕組みが確立しています。",
+        "source": {
+          "organization": "英国議会 (UK Parliament) / 司法省",
+          "title": "Murder (Abolition of Death Penalty) Act 1965",
+          "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/laworder/court/overview/murderabolition/"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "州法および連邦法（27州で維持、23州で廃止）",
+        "statusOrLevel": "州ごとに大きく二極化（薬物注射方式主流）",
+        "keyFeature": "連邦政府および27州（テキサス、フロリダ等）が死刑を維持する一方、23州が法律で廃止。合衆国最高裁は精神障害者や犯行時未成年者への死刑を違憲（修正第8条残虐刑禁止）と判断。薬物注射用薬剤の調達難や冤罪判明による執行停止が全米で相次いでいます。",
+        "source": {
+          "organization": "米国司法省 (DOJ) / 死刑情報センター (DPIC)",
+          "title": "Bureau of Justice Statistics: Capital Punishment",
+          "url": "https://bjs.ojp.gov/topics/courts/capital-punishment"
+        }
+      }
+    ]
+  }
 }

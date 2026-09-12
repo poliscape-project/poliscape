@@ -185,5 +185,63 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "企業の男女賃金格差開示・同一労働同一賃金規制の国際比較",
+    "comparisonSummary": "OECD加盟国の中で男女間賃金格差が約21.3%と依然として大きい日本は、2022年から常時301人以上の企業に対し男女賃金格差（有価証券報告書およびWebサイト）の公表を義務付けました。欧州では一歩進み、全企業への詳細データの政府専用ポータル公表義務（英国）、法律による同一賃金の監査認証義務（アイスランド）、格差未是正企業への売上高比例の巨額罰則（フランス）など、実効的なペナルティを伴う法制化が主流となっています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Gender Pay Gap reporting regulations 2017 (平等法2010年規則)",
+        "statusOrLevel": "従業員250人以上の全企業に政府サイト公開義務化",
+        "keyFeature": "民間・公共部門の従業員250人以上の全組織に対し、毎年男女の平均賃金差、中央値差、ボーナス支給差、四分位ごとの男女比率を政府専用ポータルに登録・公開することを義務化。データは誰でも検索・比較可能で、違反企業には平等人権委員会（EHRC）が調査・是正措置命令を下します。",
+        "source": {
+          "organization": "英国政府 (GOV.UK) / 平等人権委員会 (EHRC)",
+          "title": "Gender pay gap reporting: guidance for employers",
+          "url": "https://www.gov.uk/guidance/gender-pay-gap-reporting-overview"
+        }
+      },
+      {
+        "country": "アイスランド",
+        "countryCode": "IS",
+        "flag": "🇮🇸",
+        "systemName": "Equal Pay Standard (同一賃金認証法 / 法律第56/2017号)",
+        "statusOrLevel": "2018年世界初施行・同一賃金認証の完全義務化",
+        "keyFeature": "従業員25人以上のすべての企業・機関に対し、『同等の価値の労働に対して男女に同等の賃金を支払っていること』を独立した外部監査機関から審査を受け、政府公認の『同一賃金認証（Equal Pay Certification）』を取得することを法律で義務化。認証を取得しない企業には1日あたり最大5万クローナの罰金が科されます。",
+        "source": {
+          "organization": "アイスランド首相府 / 平等センター (Jafnréttisstofa)",
+          "title": "Equal Pay Certification in Iceland",
+          "url": "https://www.government.is/topics/human-rights-and-equality/equal-pay-certification/"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Index de l'égalité professionnelle (男女職業平等指数)",
+        "statusOrLevel": "従業員50人以上の全企業に義務化（罰則付き）",
+        "keyFeature": "賃金格差や昇給・昇進格差など5指標を100点満点で採点する『男女平等指数』を毎年公表。75点未満の企業には3年以内の是正計画の策定を義務付け、期限内に改善しなかった場合は人件費（または売上高）の最大1%に及ぶ多額の罰金を労働監督署が科します。",
+        "source": {
+          "organization": "フランス労働・保健・連帯省 (Ministère du Travail)",
+          "title": "Index de l'égalité professionnelle femmes-hommes",
+          "url": "https://travail-emploi.gouv.fr/index-de-legalite-professionnelle-femmes-hommes"
+        }
+      },
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU Pay Transparency Directive (EU賃金透明性指令 2023/970)",
+        "statusOrLevel": "2023年成立・2026年全加盟国国内法制化期限",
+        "keyFeature": "求人募集時の給与範囲（提示額）の明示義務化、採用面接での『前職の給与質問の禁止』、賃金格差が5%以上あり正当な理由がない場合の共同賃金評価（労使合同調査）を義務化。立証責任を労働者から企業側に転換し、賃金差別の司法救済を大幅に強化します。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Pay transparency: EU rules on equal pay for equal work",
+          "url": "https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/justice-and-fundamental-rights/gender-equality/equal-pay_en"
+        }
+      }
+    ]
+  }
 }

@@ -205,5 +205,63 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "洋上風力発電の排他的経済水域（EEZ）展開・公募制度の国際比較",
+    "comparisonSummary": "領海内（沿岸12海里以内）にとどまらず、広大な排他的経済水域（EEZ）へ洋上風力発電を展開することは、カーボンニュートラルと海洋国家のエネルギー安全保障の鍵です。日本は2024年に再エネ海域利用法を改正し、深海に適した浮体式洋上風力のEEZ設置基準を策定しています。北海油田の知見を活かして世界を牽引するイギリス、世界初の洋上風力ハブや人工島を推進するデンマーク、浮体式の大規模商用化を進めるノルウェーなど、先行国の制度設計が注目されています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "The Crown Estate 海底リース公募 & 差額決済契約 (CfD)",
+        "statusOrLevel": "欧州最大の洋上風力設備容量（北海大規模開発）",
+        "keyFeature": "王室財産管理機関（Crown Estate）がEEZを含む海底の利用権を一元的に管理し、透明性の高い競争入札（Leasing Round）を実施。さらに政府が『差額決済契約（Contracts for Difference: CfD）』により最長15年間の売電価格（ストライクプライス）を保証することで、事業者の投資リスクを排除し急速な大量導入を実現しました。",
+        "source": {
+          "organization": "英国エネルギー安全保障・ネットゼロ省 (DESNZ) / Crown Estate",
+          "title": "Offshore wind: Contracts for Difference (CfD) and leasing rounds",
+          "url": "https://www.thecrownestate.co.uk/our-business/marine/offshore-wind"
+        }
+      },
+      {
+        "country": "デンマーク",
+        "countryCode": "DK",
+        "flag": "🇩🇪",
+        "systemName": "Energiøer (洋上エネルギー島構想) / デンマークエネルギー庁 (DEA)",
+        "statusOrLevel": "1991年世界初洋上風力発祥国・EEZ人工島プロジェクト",
+        "keyFeature": "世界で初めて洋上風力発電所を建設した先駆国。国が事前に風況・海洋調査や環境アセスメントを完了させてから民間に入札させる『ワンストップショップ方式（DEA方式）』を確立。北海に数十ギガワット級の洋上風力を集約し水素製造も行う『洋上エネルギー人工島（Energy Island）』を国家プロジェクトとして推進しています。",
+        "source": {
+          "organization": "デンマークエネルギー庁 (Danish Energy Agency / DEA)",
+          "title": "Offshore Wind and Energy Islands in Denmark",
+          "url": "https://ens.dk/en/our-responsibilities/wind-power/energy-islands"
+        }
+      },
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "Havenergilova (洋上エネルギー法) / 浮体式洋上風力開発",
+        "statusOrLevel": "世界最大の浮体式洋上風力（Hywind Tampen 88MW）操業",
+        "keyFeature": "水深の深いフィヨルドと北海環境に適応するため、海底に杭を打たない『浮体式（Floating Offshore Wind）』に特化。石油大手Equinor社が世界最大の浮体式プロジェクト『Hywind Tampen』を商用運用し、海洋石油・ガスプラットフォームへ電力を供給。EEZにおける漁業権調整と国際送電網接続の先駆的ルールを運用しています。",
+        "source": {
+          "organization": "ノルウェーエネルギー省 (Ministry of Energy / NVE)",
+          "title": "Offshore wind in Norway - Norwegian Offshore Directorate",
+          "url": "https://www.nve.no/energi/energisystem/vindkraft/havvind/"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "BOEM Outer Continental Shelf Renewable Energy Program",
+        "statusOrLevel": "内務省海洋エネルギー管理局 (BOEM) による外大陸棚リース",
+        "keyFeature": "外大陸棚土地法（OCSLA）に基づき、連邦政府の内務省海洋エネルギー管理局（BOEM）が連邦管轄水域（領海外のEEZ外大陸棚）の風力発電リース入札を一括管理。東海岸の大規模着床式開発に加え、水深の深い西海岸（カリフォルニア州・オレゴン州沖）で大規模な浮体式洋上風力の海域リースを公募しています。",
+        "source": {
+          "organization": "米国海洋エネルギー管理局 (BOEM / DOI)",
+          "title": "Renewable Energy on the Outer Continental Shelf | BOEM",
+          "url": "https://www.boem.gov/renewable-energy"
+        }
+      }
+    ]
+  }
 }

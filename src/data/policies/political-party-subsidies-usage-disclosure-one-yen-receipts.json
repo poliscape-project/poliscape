@@ -186,5 +186,63 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "政党交付金・政治資金の使途公開・領収書開示の国際比較",
+    "comparisonSummary": "国民の税金を原資とする政党交付金（政党助成金）や政治資金の使途の透明性は、民主主義の根幹に関わる問題です。日本は年間約315億円（国民1人250円）の交付金を支給しながら、使途を公開しない『政策活動費』の存在や領収書の10年後公開案が激しい国民的批判を浴びています。欧米では独立公認会計士による厳格な監査、全領収書のオンライン即時公開、企業献金の禁止と公的助成のセット運用など、税金の不正使用を防ぐ厳格な制度が確立しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Parteiengesetz (政党法 第23条〜第31条: 会計報告義務)",
+        "statusOrLevel": "公認会計士監査済み年次決算報告書の連邦議会全面公開",
+        "keyFeature": "憲法（基本法第21条）および政党法により、政党は財産の出所と使途を公に報告する義務を負います。独立した監査法人による厳格な監査を受けた決算報告書を連邦議会議長に提出し、全額が官報およびインターネットで公表されます。使途不明金や違法な寄附受領に対しては、受領額の2〜3倍の罰金を国庫へ納付させる強力なペナルティが存在します。",
+        "source": {
+          "organization": "ドイツ連邦議会 (Deutscher Bundestag)",
+          "title": "Rechenschaftsberichte der Parteien - Deutscher Bundestag",
+          "url": "https://www.bundestag.de/parlament/praesidium/parteienfinanzierung/rechenschaftsberichte"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Political Parties, Elections and Referendums Act 2000 (PPERA)",
+        "statusOrLevel": "独立選挙委員会 (Electoral Commission) による完全開示",
+        "keyFeature": "公的な選挙委員会が全政党の四半期ごとの寄附受領記録および年次支出報告を完全データベース化し、Web上で誰でも即座に検索可能。使途不明な手渡し金などは一切認められず、政治資金ルール違反に対しては委員会が直接調査し民事制裁金を科すとともに刑事訴追を勧告します。",
+        "source": {
+          "organization": "英国選挙委員会 (The Electoral Commission)",
+          "title": "Political party spending and donations data",
+          "url": "https://www.electoralcommission.org.uk/political-registration-and-regulation/financial-reporting"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Federal Election Campaign Act (連邦選挙運動法 / FECA)",
+        "statusOrLevel": "連邦選挙委員会 (FEC) によるitemized支出・即時公開",
+        "keyFeature": "大統領候補や議員の政治委員会（PAC）は、200ドルを超えるすべての寄附者の氏名・住所・職業・勤務先、およびすべての支出先・使途目的をFECに報告する義務を負います。FEC.govのデータベースで即座に全国民に公開され、機械判読可能なAPIでもデータが提供されています。",
+        "source": {
+          "organization": "連邦選挙委員会 (FEC)",
+          "title": "Campaign finance data and disclosure reports (FEC.gov)",
+          "url": "https://www.fec.gov/data/"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Commission nationale des comptes de campagne (CNCCFP)",
+        "statusOrLevel": "企業・団体献金の完全禁止 & 選挙収支の全額監査",
+        "keyFeature": "1995年法により、企業や労働組合などの法人による政治献金を全面的に禁止（個人献金のみ年4,600ユーロ上限）。選挙費用は独立した国家選挙収支・政治資金委員会（CNCCFP）が全領収書を精査し、1ユーロでも違反があれば公費払い戻しを没収し候補者の当選無効や公民権停止を宣告します。",
+        "source": {
+          "organization": "フランス国家選挙収支・政治資金委員会 (CNCCFP)",
+          "title": "La Commission nationale des comptes de campagne et des financements politiques",
+          "url": "https://www.cnccfp.fr/"
+        }
+      }
+    ]
+  }
 }
