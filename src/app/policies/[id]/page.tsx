@@ -1,4 +1,4 @@
-import React from "react";
+﻿import React from "react";
 import { notFound } from "next/navigation";
 import { getAllPolicies, getPolicyById } from "@/lib/policies";
 import { PolicyDetailView } from "@/components/PolicyDetailView";
@@ -30,20 +30,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     openGraph: {
       title: `${policy.title} | ポリスケープ`,
       description: policy.catchphrase,
-      images: [
-        {
-          url: "/og-image.png",
-          width: 1200,
-          height: 630,
-          alt: policy.title,
-        },
-      ],
     },
     twitter: {
       card: "summary_large_image",
       title: `${policy.title} | ポリスケープ`,
       description: policy.catchphrase,
-      images: ["/og-image.png"],
     },
   };
 }
