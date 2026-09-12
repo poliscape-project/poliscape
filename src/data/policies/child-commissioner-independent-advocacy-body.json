@@ -185,5 +185,63 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "こどもコミッショナー（子どもの権利擁護・独立救済機関）の国際比較",
+    "comparisonSummary": "国連子どもの権利条約の履行を監視し、虐待やいじめ、制度の不備から子どもの権利を守るため、政府から独立して調査・是正勧告を行う『こどもコミッショナー（子どもオンブズマン）』は、世界40カ国以上で設置されています。1981年にノルウェーが世界で初めて法制化し、英国やフランスでも強力な調査権限を持つ独立機関が活動しています。日本では2023年にこども基本法が施行されましたが、政府から完全に独立した調査・勧告機関の創設は見送られ、今後の設置が議論されています。",
+    "countries": [
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "こどもオンブズマン (Barneombudet / 1981年こどもオンブズマン法)",
+        "statusOrLevel": "世界初の独立こどもオンブズパーソン（議会・政府から完全独立）",
+        "keyFeature": "1981年に世界で初めて法律で設置。あらゆる公私機関（学校、児童福祉施設、警察等）に自由に立ち入り調査し、秘密情報にアクセスする強力な法的権限を保持。子ども本人からの直接の相談・通報を受け付け、政府や議会に法改正や予算措置を直接要求します。",
+        "source": {
+          "organization": "ノルウェーこどもオンブズマン (Barneombudet)",
+          "title": "Om Barneombudet - The Ombudsman for Children in Norway",
+          "url": "https://www.barneombudet.no/for-voksne/om-barneombudet"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "イングランドこどもコミッショナー (Children's Commissioner / 2004年児童法)",
+        "statusOrLevel": "2004年児童法および2014年児童家族法に基づく法定独立機関",
+        "keyFeature": "子どもの権利条約に基づき、すべての子ども（特に社会的養護下の子ども）の権利と利益を促進。児童保護施設や少年院等への無通告立入り調査権を持ち、公共機関に対して子どもの権利に関するデータの開示を強制命令できます。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK) / Children's Commissioner",
+          "title": "Children's Commissioner for England - Role and Powers",
+          "url": "https://www.childrenscommissioner.gov.uk/"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "権利擁護官 (Défenseur des droits) ＆ 子どもの権利担当副擁護官",
+        "statusOrLevel": "憲法第71条の1に基づく独立憲法機関（元子どもの権利擁護官を統合）",
+        "keyFeature": "大統領や議会からも指示を受けない憲法上の独立機関。虐待、教育拒否、障がい児排除などの人権侵害に対し、司法・行政への介入、公的召喚、立入り調査を行い、関係機関に是正命令や制裁を勧告します。",
+        "source": {
+          "organization": "フランス権利擁護官 (Défenseur des droits)",
+          "title": "Défense des droits de l'enfant et missions institutionnelles",
+          "url": "https://www.defenseurdesdroits.fr/defense-des-droits-de-lenfant-127"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家小児コミッショナー (National Children's Commissioner / AHRC法)",
+        "statusOrLevel": "豪人権委員会（AHRC）法に基づく法定コミッショナー",
+        "keyFeature": "児童虐待、少年司法、先住民族の子どもの福祉格差等について全国調査を実施。連邦議会に年次報告書を提出する義務があり、法案や国家政策が子どもの最善の利益（Best interests of the child）に合致しているかを厳格に審査します。",
+        "source": {
+          "organization": "オーストラリア人権委員会 (AHRC)",
+          "title": "National Children's Commissioner - Protecting Children's Rights",
+          "url": "https://humanrights.gov.au/our-work/childrens-rights"
+        }
+      }
+    ]
+  }
 }

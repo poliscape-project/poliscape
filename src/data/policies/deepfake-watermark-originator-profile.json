@@ -205,5 +205,63 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Building"
     }
-  ]
+  ],
+  "international": {
+    "title": "ディープフェイク・生成AI偽情報対策（電子透かし・出所証明）の国際比較",
+    "comparisonSummary": "生成AIによって巧妙に作られたフェイク動画・画像・音声を用いた選挙妨害や金融詐欺、名誉毀損を防ぐため、AI生成物に識別用マーク（電子透かし）を埋め込む法制化が急速に進んでいます。欧州連合（EU）はAI法で違反に巨額の制裁金を科す義務を課し、中国も世界に先駆けて目に見えるマークと不可視メタデータの二重付与を義務化しました。米国でも大統領令や州法で法制化が進んでいます。日本ではオリジネーター・プロファイル（OP）等の民間技術実証が進みつつ、法規制のあり方が議論されています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU AI法 (AI Act 2024 第50条 透明性義務)",
+        "statusOrLevel": "ディープフェイクおよびAI生成コンテンツに対する機械可読な透かし付与を法律上義務化",
+        "keyFeature": "AI生成された画像・音声・テキストについて、機械可読な形式（C2PA規格等のメタデータ）でAI生成物であると判別できる透かし（Watermarking）を埋め込むことを事業者に義務付け。違反した巨大テック企業には最大3,500万ユーロまたは全世界売上高の7%の制裁金が科されます。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "EU AI Act - Transparency obligations for generative AI and deep fakes",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "インターネット情報サービス深層合成管理規定 (2023年国家インターネット情報弁公室令第12号)",
+        "statusOrLevel": "AI生成物への『目に見える顕著な標識』＋『暗号化された不可視メタデータ』の二重義務化",
+        "keyFeature": "世界で最も先駆的かつ厳格な透かし法制。ディープフェイク画像・動画には公衆が容易に識別できる顕著なロゴ・透かしの表示を義務付けるとともに、ファイル内部に生成者名や生成日時を記録したメタデータの埋め込みを法定義務化しました。",
+        "source": {
+          "organization": "中国国家インターネット情報弁公室 (CAC)",
+          "title": "互联网信息服务深度合成管理规定 (深度合成标识要求)",
+          "url": "http://www.cac.gov.cn/2022-12/11/c_1672221349363623.htm"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "安全で安心かつ信頼できるAIに関する大統領令 (EO 14110) ＆ カリフォルニア州AB 2655",
+        "statusOrLevel": "商務省NISTによる電子透かしガイダンス策定 ＆ 選挙ディープフェイク禁止州法",
+        "keyFeature": "バイデン大統領令に基づき、国立標準技術研究所（NIST）が電子透かしとコンテンツ認証（Provenance）の技術基準を策定。さらにカリフォルニア州は2024年にAB 2655を可決し、選挙日前後の候補者に関する虚偽AI動画の拡散禁止と削除義務をプラットフォームに課しました。",
+        "source": {
+          "organization": "米国商務省国立標準技術研究所 (NIST)",
+          "title": "NIST Guidelines on Watermarking and AI Generated Content",
+          "url": "https://www.nist.gov/artificial-intelligence/executive-order-safe-secure-and-trustworthy-artificial-intelligence"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "オンライン安全法 (Online Safety Act 2023) ＆ 刑事司法法改正",
+        "statusOrLevel": "ディープフェイクポルノの無同意作成・共有に対する刑事罰（禁錮刑）の導入",
+        "keyFeature": "本人の同意なく性的なディープフェイク画像を作成・共有する行為を犯罪化し、作成者およびプラットフォームに対する刑事罰を明文化。英国AI安全研究所（AISI）が透かし技術や検出ツールの有効性評価を主導しています。",
+        "source": {
+          "organization": "英国科学・イノベーション・技術省 (DSIT / GOV.UK)",
+          "title": "Online Safety Act 2023 - Deepfake and illegal content provisions",
+          "url": "https://www.gov.uk/government/publications/online-safety-act-explainer"
+        }
+      }
+    ]
+  }
 }

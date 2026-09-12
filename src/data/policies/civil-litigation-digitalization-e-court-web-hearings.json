@@ -186,5 +186,63 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "民事裁判の完全IT化（eコート・オンライン訴訟）の国際比較",
+    "comparisonSummary": "裁判手続きの迅速化とアクセス向上を目指し、訴状提出から証拠提出、口頭弁論、判決受領までの全プロセスをオンライン完結させる『民事裁判のIT化（eコート）』は、海外主要国で10年以上前から標準基盤として定着しています。韓国やシンガポールではほぼ100%の民事訴訟がオンラインで処理され、米国連邦裁判所でもPACER/CM-ECFが完全に普及しています。日本は2022年民事訴訟法改正により、ウェブ期日の導入から2025〜2026年にかけたオンライン申立・電子記録化の全面施行を進めています。",
+    "countries": [
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "電子訴訟システム (eLitigation) ＆ 司法DX戦略",
+        "statusOrLevel": "最高裁・国家裁判所の全民事裁判で完全ペーパーレス・24時間オンライン完結",
+        "keyFeature": "2013年に旧システムを刷新したeLitigationを全面稼働。弁護士や当事者は24時間365日オンラインで訴状提出や証拠開示、審理日程の予約が可能。法廷での審理もZoom連携やハイブリッド法廷が標準化され、国際司法ハブの地位を確立しています。",
+        "source": {
+          "organization": "シンガポール裁判所 (Singapore Courts)",
+          "title": "eLitigation platform for civil proceedings",
+          "url": "https://www.judiciary.gov.sg/services/elitigation"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "大韓民国裁判所 電子訴訟システム (e-Court)",
+        "statusOrLevel": "2011年開始・全国の民事事件の90%以上がオンラインで申立・記録閲覧",
+        "keyFeature": "大法院（最高裁）が主導し、訴状の作成・電子署名・手数料納付から判決書の電子送達までを単一ポータルで統合。弁護士の電子訴訟利用は法律上義務化されており、世界最高水準の電子司法インフラとして世界銀行の司法ランキングでも高く評価されています。",
+        "source": {
+          "organization": "大韓民国大法院 (Supreme Court of Korea)",
+          "title": "大韓民国裁判所 電子訴訟サービス",
+          "url": "https://ecfs.scourt.go.kr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦裁判所事件管理・電子提出システム (CM/ECF) ＆ PACER",
+        "statusOrLevel": "全米の連邦地方裁判所・控訴裁判所・破産裁判所で電子提出・公開閲覧が完全標準",
+        "keyFeature": "全米の連邦裁判所において、弁護士による訴状や申立書の提出はCM/ECFを通じた電子提出が原則義務。提出されたすべての記録は公的データベースPACERを通じて国民やメディアに即時公開される高度な司法の透明性を実現しています。",
+        "source": {
+          "organization": "米国連邦裁判所事務局 (Administrative Office of the U.S. Courts)",
+          "title": "Case Management/Electronic Case Files (CM/ECF)",
+          "url": "https://www.uscourts.gov/court-records/electronic-filing-cmecf"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "女王陛下裁判所・審判所事務局 (HMCTS) オンライン民事裁判改革",
+        "statusOrLevel": "10億ポンドを投じた司法デジタル化（Online Civil Money Claims ＆ CE-File）",
+        "keyFeature": "少額金銭債権訴訟をオンラインで自動調停・迅速処理するOCMCや、高等法院での電子記録提出システム（CE-File）を全面展開。法廷に出頭することなくオンラインで審理と和解が成立する体制を確立しました。",
+        "source": {
+          "organization": "英国裁判所・審判所事務局 (HMCTS / GOV.UK)",
+          "title": "HMCTS Reform Programme - Civil jurisdiction online services",
+          "url": "https://www.gov.uk/guidance/the-hmcts-reform-programme"
+        }
+      }
+    ]
+  }
 }

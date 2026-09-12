@@ -205,5 +205,63 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "MapPin"
     }
-  ]
+  ],
+  "international": {
+    "title": "有機農業の拡大目標（みどりの食料システム戦略）の国際比較",
+    "comparisonSummary": "環境負荷の低減と持続可能な食料生産に向け、農薬や化学肥料を使用しない『有機農業（オーガニック農業）』を拡大する国家目標は、欧州連合（EU）が先導しています。EUはFarm to Fork戦略で『2030年までに農地の25%を有機農業化』する法定義務的目標を掲げ、オーストリア等はすでに目標を達成しています。米国やスイスも手厚い直接支払い交付金で支援しています。日本は『みどりの食料システム法』で2050年までに25%（100万ha）へ拡大する目標を掲げましたが、現状の有機農地比率は約0.3%にとどまっており、劇的な転換策が問われています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "Farm to Fork戦略 (農場から食卓まで) ＆ 有機行動計画 (Action Plan for Organic)",
+        "statusOrLevel": "2030年までにEU域内の全農地の『25%を有機農業化』する共通目標",
+        "keyFeature": "共通農業政策（CAP）予算の約25%を環境エコスキームに配分し、有機農業への転換および維持を行う農家に面積あたりの直接助成金を給付。さらに公共調達（学校給食等）での有機食品購入基準を義務付け、需要側の拡大も同時推進しています。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - DG AGRI)",
+          "title": "Organic action plan: 25% of agricultural land under organic farming by 2030",
+          "url": "https://agriculture.ec.europa.eu/farming/organic-farming/organic-action-plan_en"
+        }
+      },
+      {
+        "country": "オーストリア",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "systemName": "オーストリア農業環境プログラム (ÖPUL) ＆ 国家有機農業戦略",
+        "statusOrLevel": "EU最高峰の有機農地比率『約27%超』を達成（全国の農地の4分の1以上がオーガニック）",
+        "keyFeature": "1990年代からÖPULを通じて有機農家に対する長期手厚い環境直接支払いを継続。全国のスーパーマーケットで有機食品が低価格かつ標準的に流通し、ウィーン市などでは公立学校給食の有機食材割合を50%以上とする条例を運用しています。",
+        "source": {
+          "organization": "オーストリア連邦農業・地域・水管理省 (BML)",
+          "title": "Biologische Landwirtschaft in Österreich (ÖPUL)",
+          "url": "https://info.bml.gv.at/themen/landwirtschaft/bio-landwirtschaft.html"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦農業法 (Landwirtschaftsgesetz) ＆ 直接支払い指令 (Direktzahlungsverordnung)",
+        "statusOrLevel": "農地全体の約18%がBio Suisse認定 ＋ 憲法上の多面的機能直接補填",
+        "keyFeature": "憲法第104条に基づき、環境保全型農業を行う農家に対して国が手厚い直接支払い給付（Direct Payments）を保障。農薬使用削減や有機栽培への移行に対する補助金水準が世界で最も高く、農家の経営安定と景観保全を両立させています。",
+        "source": {
+          "organization": "スイス連邦農業局 (BLW)",
+          "title": "Bio-Landbau und Direktzahlungen für umweltgerechte Landwirtschaft",
+          "url": "https://www.blw.admin.ch/blw/de/home/nachhaltige-produktion/bio-landbau.html"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "全米有機プログラム (National Organic Program - NOP) ＆ 有機移行支援 (TOPP)",
+        "statusOrLevel": "厳格なUSDA Organic認証制度 ＋ 3億ドルの有機移行イニシアチブ",
+        "keyFeature": "農務省（USDA）が連邦規則（7 CFR Part 205）で全米統一認証基準を管理。2022年に3億ドルを投じる『有機移行イニシアチブ（TOPP）』を開始し、慣行農法から有機農法への移行期間中（3年間）の減収補填や技術メンターシップを直接支援しています。",
+        "source": {
+          "organization": "米国農務省 (USDA - Agricultural Marketing Service)",
+          "title": "National Organic Program and Organic Transition Initiative",
+          "url": "https://www.ams.usda.gov/about-ams/programs-offices/national-organic-program"
+        }
+      }
+    ]
+  }
 }

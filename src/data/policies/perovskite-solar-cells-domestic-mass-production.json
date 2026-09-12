@@ -186,5 +186,63 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "ペロブスカイト太陽電池の量産支援・次世代PV覇権争いの国際比較",
+    "comparisonSummary": "薄型・軽量・柔軟で『ビルの壁面や耐荷重の小さい屋根』にも設置できる次世代太陽電池『ペロブスカイト太陽電池』は、日本発の革新技術であり、国土が狭く適地が不足する日本の再エネ主電源化の切り札とされています。日本政府はGX経済移行債等を活用し2030年以前の商用化・公共施設率先導入を急ぐ一方、巨大な製造サプライチェーンと補助金を誇る中国や、インフレ抑制法（IRA）で国内製造を優遇する米国、欧州連合（EU）との間で熾烈な量産投資・覇権争いが勃発しています。",
+    "countries": [
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "第14次5カ年国家エネルギー技術革新計画 ＆ 工業情報化部製造支援",
+        "statusOrLevel": "100MW〜GW級のペロブスカイト量産パイロットライン建設を国家主導で支援",
+        "keyFeature": "世界最大の太陽光パネル製造シェアを背景に、極電光能（UtmoLight）や協鑫光電（GCL）等の企業がメガワット級・ギガワット級の量産実証工場を相次いで稼働。国家開発改革委員会と工業情報化部が先行導入プロジェクトに補助金を支給し、圧倒的な低コスト量産を目指しています。",
+        "source": {
+          "organization": "中国国家能源局 (NEA)",
+          "title": "“十四五”能源领域科技创新规划 - 钙钛矿太阳能电池",
+          "url": "http://www.nea.gov.cn"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "ネットゼロ産業法 (Net-Zero Industry Act - NZIA) ＆ Horizon Europe",
+        "statusOrLevel": "2030年までに域内再エネ需要の40%を欧州製で賄う目標 ＋ タンデム電池支援",
+        "keyFeature": "中国製シリコンパネルへの依存脱却を図るため、欧州ソーラーPV産業アライアンス（ESIA）を設立。Horizon Europeを通じて、高効率なペロブスカイト・シリコン積層（タンデム型）セルの商業量産化プロジェクトに数千万ユーロ規模の直接助成を投入しています。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - DG GROW)",
+          "title": "Net-Zero Industry Act - Scaling up clean tech manufacturing",
+          "url": "https://single-market-economy.ec.europa.eu/industry/sustainability/net-zero-industry-act_en"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "インフレ抑制法 (IRA Section 45X) ＆ エネルギー省太陽光技術局 (SETO)",
+        "statusOrLevel": "国内先進太陽光セル製造に対する手厚い税額控除 ＋ SETO研究開発助成",
+        "keyFeature": "エネルギー省（DOE）のSETOがペロブスカイトの耐久性・商用化コンソーシアム（US-MAP）に巨額資金を助成。さらにIRA第45X条の先端製造税額控除により、米国内で製造されたセルやモジュールに対して手厚い減税インセンティブを提供し国内サプライチェーンを構築しています。",
+        "source": {
+          "organization": "米国エネルギー省 (U.S. Department of Energy - SETO)",
+          "title": "Perovskite Photovoltaics Research and Manufacturing Tax Credits",
+          "url": "https://www.energy.gov/eere/solar/perovskite-solar-cells"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国家研究イノベーション機構 (UKRI) ＆ 商業タンデムセル量産展開",
+        "statusOrLevel": "オックスフォード大学発スタートアップ（Oxford PV）による商業量産出荷",
+        "keyFeature": "ペロブスカイト研究の世界拠点であるオックスフォード大学の成果を基に、英国政府系ファンドが支援するOxford PVがドイツ工場でシリコン・ペロブスカイトタンデムセルの商業量産・初出荷を達成。知財保有と商業化の両面で先行しています。",
+        "source": {
+          "organization": "英国研究・イノベーション機構 (UKRI)",
+          "title": "Commercialising perovskite solar technology with Oxford PV",
+          "url": "https://www.ukri.org/"
+        }
+      }
+    ]
+  }
 }

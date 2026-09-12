@@ -127,5 +127,63 @@
       "type": "official_document",
       "typeLabel": "法務省基準資料"
     }
-  ]
+  ],
+  "international": {
+    "title": "「日本版DBS（こども性暴力防止法）」の国際比較",
+    "comparisonSummary": "学校や保育所、学習塾等で子どもと接する職に就く者の性犯罪歴を確認し、前科のある者を排除する『日本版DBS』法が2024年に成立しました。本家である英国の『DBS（Disclosure and Barring Service）』は、前科だけでなく不起訴情報や警察の非犯罪情報（Soft Information）も含めて審査し、就業禁止リストを公的に運用しています。米国ではメーガン法等に基づく登録・通知制度があり、フランスやドイツでも教育機関採用時の犯罪登録簿照会が法定義務化されています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "犯罪歴確認・就業制限機構 (Disclosure and Barring Service - DBS)",
+        "statusOrLevel": "DBS制度の元祖（前科・警察情報を含む審査 ＆ 法的就業禁止リスト Barred Lists）",
+        "keyFeature": "2006年保護対象者保護法（SVGA）等に基づき運用。子どもや脆弱な成人と接する業務（Regulated Activity）に従事する際、Enhanced DBSチェックが法律上義務化。有罪判決だけでなく警察が保持する嫌疑情報も審査され、就業禁止リスト収載者の就業・雇用双方に刑事罰が科されます。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "Disclosure and Barring Service (DBS) checks and barred lists",
+          "url": "https://www.gov.uk/government/organisations/disclosure-and-barring-service"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "性犯罪者・暴力犯罪者国家自動登録簿 (FIJAISV) 照会義務",
+        "statusOrLevel": "学校・保育・スポーツ指導員等の採用時に内務省登録簿の自動照会を法律上義務付け",
+        "keyFeature": "司法省・内務省が管理するFIJAISV（性犯罪等の登録簿）に基づき、教育、保育、少年スポーツ団体等の雇用主は採用時に前歴照会を行うことが法定義務。登録されている者は子どもと接する一切の公私活動への就業が法律上禁止されます。",
+        "source": {
+          "organization": "フランス内務省 (Ministère de l'Intérieur)",
+          "title": "Fichier judiciaire automatisé des auteurs d'infractions sexuelles ou violentes (FIJAISV)",
+          "url": "https://www.interieur.gouv.fr/actualites/dossiers/fijaisv-fichier-judiciaire-automatise-des-auteurs-dinfractions-sexuelles-ou"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "メーガン法 (Megan's Law) ＆ アダム・ウォルシュ児童保護・安全法",
+        "statusOrLevel": "全国性犯罪者公表レジストリ (NSOPW) ＆ 指紋ベースFBI身元調査",
+        "keyFeature": "全米50州で性犯罪者の氏名・住所・写真をオンライン一般公開（NSOPW）。学校や児童福祉施設での採用時には、FBIの全国犯罪情報センター（NCIC）による指紋照合バックグラウンドチェックが連邦法および州法で厳格に義務付けられています。",
+        "source": {
+          "organization": "米国司法省 (U.S. Department of Justice - SMART Office)",
+          "title": "Sex Offender Registration and Notification Act (SORNA)",
+          "url": "https://smart.ojp.gov/legislation/sorna"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦中央登録簿法 (BZRG) - 拡大無犯罪証明書 (Erweitertes Führungszeugnis)",
+        "statusOrLevel": "青少年保護関連職種の従事者に拡大無犯罪証明書の定期提出を法定義務化",
+        "keyFeature": "社会法典第8編（SGB VIII）第72条aに基づき、児童福祉施設やスポーツクラブで子どもを指導するすべての職員・ボランティアに対し、性犯罪等の前科が詳細に記載される『拡大無犯罪証明書』の提出が義務化。罰金刑以上の性犯罪前歴がある者の就業を厳格に排除しています。",
+        "source": {
+          "organization": "ドイツ連邦法務庁 (BfJ)",
+          "title": "Erweitertes Führungszeugnis für kinder- und jugendnahe Tätigkeiten",
+          "url": "https://www.bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/ErweitertesFuehrungszeugnis/ErweitertesFuehrungszeugnis_node.html"
+        }
+      }
+    ]
+  }
 }

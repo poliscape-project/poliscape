@@ -185,5 +185,63 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Calendar"
     }
-  ]
+  ],
+  "international": {
+    "title": "グローバル・ミニマム課税（多国籍企業への最低税率15%）の国際比較",
+    "comparisonSummary": "タックスヘイブンを利用した多国籍企業の過度な節税（利益移転）を防ぎ、国家間の法人税引き下げ競争に歯止めをかけるため、OECD/G20で合意された『グローバル・ミニマム課税（第2の柱: 国別実効税率15%以上）』が世界各国で一斉に発効しました。欧州連合（EU）は指令により全加盟国に義務付け、英国や韓国も2024年に先行導入しました。日本も2024年4月開始事業年度より対象多国籍企業（連結売上高7.5億ユーロ以上）への適用を開始しています。",
+    "countries": [
+      {
+        "country": "経済協力開発機構",
+        "countryCode": "OECD",
+        "flag": "🌐",
+        "systemName": "OECD/G20 BEPS包摂的枠組み 第2の柱 (Pillar Two Global Anti-Base Erosion - GloBE)",
+        "statusOrLevel": "世界140カ国以上が合意した歴史的国際合意（最低税率15%基準）",
+        "keyFeature": "年間連結売上高7億5,000万ユーロ（約1,200億円）以上の巨大多国籍企業グループを対象に、進出先国の実効税率が15%を下回る場合、親会社所在国がその差額分を合算課税（IIR: 所得合算ルール）して徴収する国際税制の大改革です。",
+        "source": {
+          "organization": "経済協力開発機構 (OECD)",
+          "title": "Pillar Two Model Rules (GloBE Rules) - 15% Minimum Tax",
+          "url": "https://www.oecd.org/tax/beps/pillar-two-model-rules-in-a-nutshell.pdf"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU最低法人課税指令 (Council Directive (EU) 2022/2523)",
+        "statusOrLevel": "全EU加盟国で2023年末までに国内法化・2024年1月より一律施行",
+        "keyFeature": "OECD合意を域内全27カ国で拘束力あるEU法として成立。所得合算ルール（IIR）に加え、未負担税額に対する軽課税支払ルール（UTPR）や国内最低上乗せ税（QDMTT）の導入を加盟国共通の義務としています。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - DG TAXUD)",
+          "title": "Minimum Corporate Taxation - Directive (EU) 2022/2523",
+          "url": "https://taxation-customs.ec.europa.eu/taxation-1/corporate-taxation/minimum-corporate-taxation_en"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "多国籍トップアップ税 (Multinational Top-up Tax / 2023年財政法 第2号)",
+        "statusOrLevel": "2023年12月31日以降開始事業年度より正式導入・QDMTTも同時施行",
+        "keyFeature": "2023年財政法において第2の柱を国内法化。英国内に所在する多国籍企業の子会社が軽課税とならないよう自国で課税する国内最低上乗せ税（DTT）も併せて導入し、税収の海外流出を防ぐ税制防衛を行っています。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC / GOV.UK)",
+          "title": "Introduction of the new Multinational Top-up Tax and Domestic Top-up Tax",
+          "url": "https://www.gov.uk/government/publications/introduction-of-the-new-multinational-top-up-tax"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "国際租税調整に関する法律 改正 (グローバル最低韓課税)",
+        "statusOrLevel": "アジア主要国で最速となる2024年1月1日より施行",
+        "keyFeature": "サムスン電子や現代自動車など世界的グローバル企業を抱える韓国は、アジアで最も早くOECDモデルルールに完全準拠した国内法を可決。2024年開始事業年度より所得合算ルール（IIR）を適用開始しました。",
+        "source": {
+          "organization": "大韓民国企画財政部 (MOEF) / 国税庁 (NTS)",
+          "title": "Global Minimum Tax Act and Implementation Regulations",
+          "url": "https://www.moef.go.kr"
+        }
+      }
+    ]
+  }
 }

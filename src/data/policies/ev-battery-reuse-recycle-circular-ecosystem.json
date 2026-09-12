@@ -217,5 +217,63 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Factory"
     }
-  ]
+  ],
+  "international": {
+    "title": "EV車載用バッテリーのリサイクル義務化・電池パスポートの国際比較",
+    "comparisonSummary": "電気自動車（EV）の普及に伴い、使用済みリチウムイオン電池の廃棄による環境汚染防止と、希少金属（リチウム、コバルト、ニッケル）の安全保障・資源循環を確保するため、バッテリーのライフサイクル追跡（電池パスポート）やリサイクル材利用の義務化が進んでいます。欧州連合（EU）は新電池規則により世界で最も先進的な法規制を施行し、米国もインフレ抑制法（IRA）でリサイクル材料要件を導入。中国も国家プラットフォームで全数追跡を義務付けています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "新EU電池規則 (EU Batteries Regulation 2023/1542)",
+        "statusOrLevel": "2027年からの「電池パスポート」義務化 ＆ 再生材最低含有率の段階的義務付け",
+        "keyFeature": "2kWh以上の全EV・産業用バッテリーに対し、QRコードで二酸化炭素排出量（カーボンフットプリント）やサプライチェーン、リサイクル材料比率を記録する『電池パスポート』を義務化。2031年以降、コバルト16%、鉛85%、リチウム6%、ニッケル6%の再生材使用を法定義務化します。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - DG ENV)",
+          "title": "New EU Batteries Regulation (2023/1542) - Circular economy for batteries",
+          "url": "https://environment.ec.europa.eu/topics/waste-and-recycling/batteries_en"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "インフレ抑制法 (IRA 第30D条 クリーン車両税額控除)",
+        "statusOrLevel": "北米でリサイクルされた重要鉱物調達を最大7,500ドルの税額控除要件に設定",
+        "keyFeature": "EV購入時の税額控除（最大$7,500）の要件として、バッテリーに含まれる重要鉱物の一定割合（順次80%へ引き上げ）を米国またはFTA締結国で抽出または『北米でリサイクル』することを義務付け。国内バッテリーリサイクル産業への巨額投資を誘導しています。",
+        "source": {
+          "organization": "米国内国歳入庁 (IRS)",
+          "title": "Clean Vehicle Credit Critical Mineral and Battery Component Requirements",
+          "url": "https://www.irs.gov/credits-deductions/clean-vehicle-credit-seller-or-dealer-requirements"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "新エネルギー車動力蓄電池回収利用溯源総合管理国家プラットフォーム",
+        "statusOrLevel": "バッテリー製造から廃車・リサイクルまで全過程のID一元コード登録を義務化",
+        "keyFeature": "工業情報化部（MIIT）が2018年にトレーサビリティ管理プラットフォームを構築。自動車メーカーや電池メーカーに対し、製造時の固有ID刻印から販売、回収、解体、二次利用（リユース）に至るすべての履歴を国家システムへリアルタイム登録することを義務付けています。",
+        "source": {
+          "organization": "中国工業情報化部 (MIIT)",
+          "title": "新能源汽车动力蓄电池回收利用溯源管理暂行规定",
+          "url": "http://www.miit.gov.cn"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "バッテリーパスポート・コンソーシアム (Battery Pass Consortium) ＆ Catena-X",
+        "statusOrLevel": "連邦経済気候保護省（BMWK）主導のデータスペース標準規格プロジェクト",
+        "keyFeature": "BMWKが数千万ユーロを拠出し、VW、BMW、BASF等と産学官で共同策定。EU電池規則に完全準拠するデータ交換の共通オープン標準規格（Catena-Xアライアンスと連携）を主導し、欧州型サーキュラーエコノミーのデジタル基盤を設計しています。",
+        "source": {
+          "organization": "ドイツ連邦経済・気候保護省 (BMWK)",
+          "title": "Battery Pass - Demonstrating the EU Digital Product Passport",
+          "url": "https://thebatterypass.eu/"
+        }
+      }
+    ]
+  }
 }

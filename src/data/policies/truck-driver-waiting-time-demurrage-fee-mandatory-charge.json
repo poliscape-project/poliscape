@@ -211,5 +211,63 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Smartphone"
     }
-  ]
+  ],
+  "international": {
+    "title": "トラック運転手の労働時間規制（2024年問題）と荷待ち課金の国際比較",
+    "comparisonSummary": "トラックドライバーの深刻な人手不足と物流崩壊（2024年問題）への対策として、日本では2024年4月より時間外労働上限（年960時間）が適用され、長時間の『荷待ち時間・荷役作業』の是正や待機料の義務化が図られています。欧米では数十年前からデジタルタコグラフ等による運転・拘束時間の厳格な法的上限が定められており、ドライバーを拘束した荷主・荷受人に対する待機料金（デマレージ）の自動請求や、サプライチェーン全体への連帯責任（荷主責任）が確立しています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EUモビリティパッケージ (Mobility Package I - 規則 Regulation (EC) 561/2006)",
+        "statusOrLevel": "スマートタコグラフ義務化 ＆ 連続運転最大4.5時間・週最大運転56時間厳格制限",
+        "keyFeature": "全トラックにGPS・通信機能付きスマートタコグラフの搭載を義務付け。4.5時間運転ごとに最低45分休憩、週休（45時間の正規休息）はトラックのキャビン内での取得を法律で禁止し、雇用主負担での宿泊施設利用を義務付けています。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - DG MOVE)",
+          "title": "Mobility Package I - Driving times and rest periods",
+          "url": "https://transport.ec.europa.eu/transport-modes/road/mobility-package-i_en"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦自動車運送安全局 (FMCSA) 運行時間基準 (Hours of Service - HOS) ＆ 荷待ち料",
+        "statusOrLevel": "電子記録装置（ELD）全車義務化 ＆ 1日運転最大11時間・2時間超過待機料金の標準化",
+        "keyFeature": "連邦法に基づきエンジンと直結した電子ログ装置（ELD）で拘束時間を監視。物流業界では荷主施設での積み下ろし待機が2時間を超えた場合、1時間あたり数十〜100ドル前後の待機課金（Detention Fee）を荷主へ請求する商慣習・契約条項が定着しています。",
+        "source": {
+          "organization": "米国運輸省連邦自動車運送安全局 (FMCSA)",
+          "title": "Hours of Service (HOS) Regulations and Detention Time",
+          "url": "https://www.fmcsa.dot.gov/regulations/hours-of-service"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "重車両国家法 (Heavy Vehicle National Law - HVNL) 責任の連鎖 (CoR)",
+        "statusOrLevel": "ドライバーだけでなく荷主・荷受人・元請け全員に過労運転防止の法定連帯責任",
+        "keyFeature": "国家重車両規制庁（NHVR）が執行。『責任の連鎖（Chain of Responsibility - CoR）』原則により、不当な荷待ちや非現実的な納期指定で運転手にスピード違反や過労運転を強いた場合、運送会社だけでなく荷主や物流施設運営者にも重い刑事罰が科されます。",
+        "source": {
+          "organization": "オーストラリア国家重車両規制庁 (NHVR)",
+          "title": "Chain of Responsibility (CoR) laws for heavy vehicles",
+          "url": "https://www.nhvr.gov.au/safety-accreditation-compliance/chain-of-responsibility"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "運転要員令 (Fahrpersonalverordnung - FPersV) ＆ 連邦物流・移動庁 (BALM)",
+        "statusOrLevel": "連邦物流庁（BALM）による高速道路デジタル検問 ＆ 荷主への連帯過料処分",
+        "keyFeature": "EU規則に基づき、連邦物流・移動庁（BALM）の検査官が高速道路上で無線通信による遠隔タコグラフ検問を実施。過積載や運転時間超過が見つかった場合、運送事業者のみならず指示を出した荷主に対しても高額な過料（Bußgeld）を執行します。",
+        "source": {
+          "organization": "ドイツ連邦物流・移動庁 (BALM)",
+          "title": "Kontrollen des Bundesamtes für Logistik und Mobilität",
+          "url": "https://www.balm.bund.de/DE/Themen/Rechtsvorschriften/rechtsvorschriften_node.html"
+        }
+      }
+    ]
+  }
 }

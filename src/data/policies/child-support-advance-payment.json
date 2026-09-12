@@ -127,5 +127,63 @@
       "type": "white_paper",
       "typeLabel": "厚労省統計白書"
     }
-  ]
+  ],
+  "international": {
+    "title": "養育費不払い解消・国による立替払い・給与天引きの国際比較",
+    "comparisonSummary": "ひとり親家庭の貧困防止に向け、離婚後の養育費の不払いを防ぐ公的介入制度は欧米で高度に整備されています。ドイツやスウェーデンでは国が養育費を子どもに『立替払い（前払い給付）』し、国が不払い親から強制回収する制度が数十年前から定着しています。米国では連邦児童扶養執行プログラムにより給与からの自動天引きやパスポート・運転免許の停止等の強力な強制徴収が実施されています。日本では養育費受給率が約28%にとどまり、自治体の立替払い試行から国の制度化が議論されています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "養育費立替法 (Unterhaltsvorschussgesetz - UVG)",
+        "statusOrLevel": "親から養育費が支払われない場合、18歳未満まで国が満額立替支給（国が後から強制回収）",
+        "keyFeature": "1979年制定。別居親から養育費が支払われない場合、青年局（Jugendamt）が最低養育費相当額（月額約200〜400ユーロ超）を全額公費で立替支給。国が子どもから債権を引き継ぎ、元配偶者の給与差し押さえ等により厳格に求償・回収します。",
+        "source": {
+          "organization": "ドイツ連邦家族・高齢者・女性・青少年省 (BMFSFJ)",
+          "title": "Unterhaltsvorschuss für Alleinerziehende",
+          "url": "https://www.bmfsfj.de/bmfsfj/themen/familie/familienleistungen/unterhaltsvorschuss/unterhaltsvorschuss-73558"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "養育費立替給付制度 (Underhållsstöd / 社会保険法典 第17〜19章)",
+        "statusOrLevel": "社会保険庁（Försäkringskassan）による全国一括立替払いと自動回収",
+        "keyFeature": "別居親が養育費を支払わない、または不十分な場合、社会保険庁が直接子どもを養育する親に立替給付（子ども1人月額約1,600〜2,200クローナ）を実施。同時に支払義務のある親の所得を税務署データと連携して捕捉し、給与天引き等で回収します。",
+        "source": {
+          "organization": "スウェーデン社会保険庁 (Försäkringskassan)",
+          "title": "Underhållsstöd - Bidrag när barnet bor hos en förälder",
+          "url": "https://www.forsakringskassan.se/privatperson/foralder/skilsmassa-eller-separation/underhallsstod"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦児童扶養執行プログラム (Child Support Enforcement - IV-Dプログラム)",
+        "statusOrLevel": "全米規模での給与強制天引き（Wage Garnishment） ＆ 免許・パスポート停止",
+        "keyFeature": "社会保障法タイトルIV-Dに基づき連邦保健福祉省（ACF/OCSE）が管轄。養育費支払命令が出ると雇用主に直接通知され給与から自動天引き。悪質な滞納者には還付申告金の差し押さえ、運転免許・専門職ライセンスの停止、パスポート発給拒否など強力な執行が行われます。",
+        "source": {
+          "organization": "米国保健福祉省 (HHS / ACF - OCSE)",
+          "title": "Office of Child Support Enforcement - Employer Wage Withholding",
+          "url": "https://www.acf.hhs.gov/css"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "養育費回収・立替機関 (ARIPA / 家族手当基金 CAF)",
+        "statusOrLevel": "CAFによる養育費立替手当（ASF: 子ども1人月約195ユーロ） ＋ 公的徴収代行",
+        "keyFeature": "2020年よりCAF傘下のARIPAによる『養育費公的仲介制度』が全離婚家庭に標準化。支払親がCAFに支払い、CAFが受取親へ送金。未払いが発生した場合は即座に家族扶助手当（ASF）が立替支給され、CAFが銀行口座や給与から強制徴収します。",
+        "source": {
+          "organization": "フランス家族手当基金 (CAF / ARIPA)",
+          "title": "ARIPA - Agence de recouvrement et d'intermédiation des pensions alimentaires",
+          "url": "https://www.pension-alimentaire.caf.fr/"
+        }
+      }
+    ]
+  }
 }
