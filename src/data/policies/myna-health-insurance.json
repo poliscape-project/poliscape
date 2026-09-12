@@ -249,5 +249,63 @@
         "commentStandard": "「4桁の暗証番号を忘れてしまったり、施設で大勢のカードと暗証番号を預かる責任が重すぎて現場が混乱している」"
       }
     ]
+  },
+  "international": {
+    "title": "公的医療保険証のデジタル化・国民ID統合の国際比較",
+    "comparisonSummary": "日本は2024年12月に従来の健康保険証の新規発行を終了し、マイナンバーカード一体型の『マイナ保険証』へ完全移行しました（不所持者には資格確認書を発行）。北欧や欧州では早くからICカード型保険証や国民IDカードへの医療データ統合が進んでおり、エストニアでは国民IDカードで処方箋から医療履歴まで100%デジタル完結。フランスは30年の歴史を持つ『カルト・ヴィタル』を運用し、ドイツは健康保険カード（eGK）の電子処方箋化を法認するなど、各国が医療DXとプライバシー保護の両立を進めています。",
+    "countries": [
+      {
+        "country": "エストニア",
+        "countryCode": "EE",
+        "flag": "🇪🇪",
+        "systemName": "e-Prescription & e-Health record (国民IDカード連携)",
+        "statusOrLevel": "国民IDカードに完全統合（普及率99%超）",
+        "keyFeature": "独自の保険証は存在せず、国民IDカード（またはMobile-ID / Smart-ID）が健康保険証・処方箋・カルテの鍵として機能。処方箋の99%以上が電子処方箋（e-Prescription）であり、患者は薬局でIDカードを提示するだけで薬を受け取れます。患者ポータル（Terviseportaal）で自身の医療データを閲覧でき、医師のアクセス履歴もすべてブロック・確認可能です。",
+        "source": {
+          "organization": "エストニア健康保険基金 (Tervisekassa) / e-Estonia",
+          "title": "e-Prescription and Electronic Health Record (Tervisekassa)",
+          "url": "https://www.tervisekassa.ee/en/partner/e-health"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Carte Vitale (カルト・ヴィタル / 電子健康保険証)",
+        "statusOrLevel": "1998年導入・全住民へ専用ICカード無料交付",
+        "keyFeature": "包括的国民IDとは別に、医療専用のマイクロチップ入りICカード『カルト・ヴィタル』を16歳以上の全住民に交付。医療機関窓口で提示することで医療費払い戻し請求が即座に電子処理され、窓口での自己負担分のみの支払いで済みます。近年はスマートフォンに保存するアプリ版『Carte Vitale sur smartphone』の全国普及が進んでいます。",
+        "source": {
+          "organization": "フランス公的健康保険機構 (Ameli.fr) / Service-Public",
+          "title": "Carte Vitale : obtention et utilisation (Ameli)",
+          "url": "https://www.ameli.fr/assure/remboursements/carte-vitale-carte-europeenne"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "elektronische Gesundheitskarte (eGK / 電子健康カード)",
+        "statusOrLevel": "法定健康保険の全被保険者に義務化",
+        "keyFeature": "写真付きの専用ICカード『eGK』を法定医療保険会社（AOK等）が発行。テレマティクス・インフラストラクチャー（TI）に接続され、電子処方箋（E-Rezept）や電子患者カルテ（ePA）と連携。プライバシーに極めて敏感な国民世論を反映し、データ共有は患者本人の同意（オプトイン／オプトアウト）が厳格に法制化されています。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG) / gematik",
+          "title": "Die elektronische Gesundheitskarte (eGK)",
+          "url": "https://www.bundesgesundheitsministerium.de/themen/digitalisierung/elektronische-gesundheitskarte.html"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "民間保険会社ごとのデジタル保険証 & Medicare card",
+        "statusOrLevel": "公的国民皆保険なし・民間アプリ中心",
+        "keyFeature": "国民皆保険制度が存在しないため、高齢者向けメディケアを除き、加入している民間医療保険会社（UnitedHealthcare、Kaiser等）のスマホアプリでデジタル会員証を提示するのが標準。社会保障番号（SSN）はなりすまし被害防止のため保険証IDとしては使用が厳格に禁止されています。",
+        "source": {
+          "organization": "米国メディケア・メディケイド・サービス庁 (CMS)",
+          "title": "Your Medicare Card | Medicare.gov",
+          "url": "https://www.medicare.gov/basics/get-started-with-medicare/using-medicare/your-medicare-card"
+        }
+      }
+    ]
   }
 }

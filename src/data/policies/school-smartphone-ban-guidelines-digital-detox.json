@@ -205,5 +205,63 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "HeartPulse"
     }
-  ]
+  ],
+  "international": {
+    "title": "小中学校・義務教育学校におけるスマートフォン校内利用・持込み規制の国際比較",
+    "comparisonSummary": "子どもの集中力低下、睡眠障害、SNSを介したいじめやメンタルヘルスの悪化を防ぐため、欧米を中心に初等・中等教育機関におけるスマートフォンの校内利用や持ち込みを『法律・国家指針で全面禁止』する動きが急速に拡大しています。フランスが2018年に教育法を改正して先陣を切り、英国、オランダ、アメリカ複数州（フロリダ・カリフォルニア等）が続々と追随。日本が『原則禁止としつつ各学校・自治体の裁量や防犯目的の条件付き許可』をとるのに対し、法律による一律規制へ舵を切る国が増えています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Loi n° 2018-698 (学校携帯電話利用禁止法 / 教育法第L.511-5条)",
+        "statusOrLevel": "2018年施行（幼稚園・小学校・中学校で校内全面禁止）",
+        "keyFeature": "教育法を改正し、15歳以下が通う幼稚園・小学校・中学校の敷地内において、授業中だけでなく休み時間や昼休みを含むすべての時間で携帯電話・スマートフォンの利用を法律で全面禁止。さらに2024年秋からは登校時にロッカー等に預けさせる『デジタルポーズ（完全隔離）』の実証実験を全国の中学校で開始しました。",
+        "source": {
+          "organization": "フランス国民教育・青少年省 (Ministère de l'Éducation nationale)",
+          "title": "Interdiction du téléphone portable dans les écoles et les collèges",
+          "url": "https://www.education.gouv.fr/interdiction-du-telephone-portable-dans-les-ecoles-et-les-colleges-2634"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Mobile phones in schools guidance (文部省全国学校ガイダンス)",
+        "statusOrLevel": "2024年2月策定（全校での終日利用禁止要請）",
+        "keyFeature": "教育省（DfE）が全国の学校に向けて指針を発表。授業中だけでなく休憩時間・昼休みも含め『学校の敷地内での携帯電話使用を一切禁止』することを標準化。登校時に学校へ預ける、専用の施錠ロッカーに保管する、またはカバンから一切取り出さないルールを学校に義務付け、違反時の没収権限を法的に保護しています。",
+        "source": {
+          "organization": "英国教育省 (Department for Education / GOV.UK)",
+          "title": "Mobile phones in schools: guidance for schools",
+          "url": "https://www.gov.uk/government/publications/mobile-phones-in-schools"
+        }
+      },
+      {
+        "country": "アメリカ（フロリダ州・カリフォルニア州）",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Florida HB 379 / California AB 3216 (Phone-Free School Act)",
+        "statusOrLevel": "州法による公立学校スマホ利用禁止の義務付け",
+        "keyFeature": "フロリダ州が2023年に全米初の州法（HB 379）を施行し、公立学校の授業中のスマホ利用と学校Wi-FiでのSNSアクセスを全面禁止。さらにカリフォルニア州も2024年に『Phone-Free School Act』を成立させ、2026年までにすべての学区で授業中のスマホ利用を制限・禁止する規則の策定を義務付けました。",
+        "source": {
+          "organization": "フロリダ州教育省 / カリフォルニア州議会",
+          "title": "Florida House Bill 379 / California AB-3216",
+          "url": "https://www.flsenate.gov/Session/Bill/2023/379"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "Nationwide guidelines on mobile devices in schools",
+        "statusOrLevel": "中等学校（2024年1月〜）・小学校（2024年秋〜）全面禁止",
+        "keyFeature": "教育省、教員組合、保護者団体が合意し、中等学校および小学校においてスマホ、タブレット、スマートウォッチの教室への持ち込みを全国規模で原則禁止。デジタルスキルの授業や医学的・障害支援の特別な理由がある場合を除き、授業中の持ち込みを禁止することで集中力と対面コミュニケーションの回復を図っています。",
+        "source": {
+          "organization": "オランダ政府 (Government of the Netherlands / Rijksoverheid)",
+          "title": "Mobile phones in the classroom (Mobieltjes in de klas)",
+          "url": "https://www.government.nl/topics/secondary-education/mobile-phones-in-the-classroom"
+        }
+      }
+    ]
+  }
 }

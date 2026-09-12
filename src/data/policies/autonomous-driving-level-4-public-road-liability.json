@@ -211,5 +211,63 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "MapPin"
     }
-  ]
+  ],
+  "international": {
+    "title": "自動運転レベル4（特定自動運行）の公道商用運行と事故責任法制の国際比較",
+    "comparisonSummary": "運転席にドライバーが乗らない『自動運転レベル4』の商用運行は、過疎地の高齢者移動支援や深刻な運転手不足の解決策として世界で開発競争が進んでいます。日本は2023年施行の改正道路交通法で世界に先駆けて『特定自動運行』許可制度を創設しました。一方、米国では民間（Waymo等）による無人ロボタクシーの有料商用運行が日常化し、ドイツは2021年に世界初の包括的自動運転法を制定するなど、公道認可要件と事故発生時の責任分担（運行者・システム製造者責任）の法制化が進んでいます。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Autonomes-Fahren-Gesetz (世界初の自動運転レベル4包括法制)",
+        "statusOrLevel": "2021年成立・通常公道での運行許可（全国法）",
+        "keyFeature": "世界で初めて、特定の試験特区ではなく全国の公道においてレベル4車両の定期運行を認める法律を制定。車内に運転手はいませんが、外部から通信で車両を停止・介入できる『技術監視者（Technischer Aufsicht）』の設置を義務付け。事故時の責任は運行者責任（保有者責任法）と自動車製造物責任の枠組みで整理されています。",
+        "source": {
+          "organization": "ドイツ連邦デジタル・交通省 (BMDV)",
+          "title": "Gesetz zum autonomen Fahren in Kraft getreten",
+          "url": "https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/gesetz-zum-autonomen-fahren.html"
+        }
+      },
+      {
+        "country": "アメリカ（カリフォルニア州・アリゾナ州）",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "CPUC Driverless AV Permitting & NHTSA Guidelines",
+        "statusOrLevel": "Waymo等による無人ロボタクシー有料商用運行が日常化",
+        "keyFeature": "連邦運輸省（NHTSA）が基本方針を示し、カリフォルニア州（CPUC/DMV）やアリゾナ州が商用認可を発給。サンフランシスコやフェニックス等で運転席無人のロボタクシーが一般市民向けに24時間有料運行。事故発生時のデータ報告（SGO）が義務付けられ、責任は運行事業者と保険会社が一次的に負う構造です。",
+        "source": {
+          "organization": "カリフォルニア州公益事業委員会 (CPUC) / NHTSA",
+          "title": "Autonomous Vehicle Passenger Service (CPUC)",
+          "url": "https://www.cpuc.ca.gov/regulatory-services/licensing/transportation-licensing/autonomous-vehicle-programs"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "スマートコネクテッドカー公道試験・モデル応用管理規範",
+        "statusOrLevel": "武漢市・北京市等で数千台規模の無人ロボタクシー商用運行",
+        "keyFeature": "工業情報化部・公安部・交通運輸部が共同規則を策定。武漢市などではBaidu（百度）の『Apollo Go』など数千台の完全無人タクシーが低料金で日常運行。事故責任については原則として車載システムの運行主体（企業）が過失責任を負い、重大事故時は遠隔安全員やプラットフォームに賠償を命じる法体系を整備しています。",
+        "source": {
+          "organization": "中華人民共和国工業情報化部 (MIIT) / 交通運輸部",
+          "title": "智能网联汽车准入和上路通行试点 (MIIT)",
+          "url": "https://www.miit.gov.cn/"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Automated Vehicles Act 2024 (自動運転車両法)",
+        "statusOrLevel": "2024年成立（2026年全面施行予定）",
+        "keyFeature": "自動運転モード稼働中の事故について『運転席に座る乗員を免責し、認可事業者（ASO）またはメーカーが全刑事・民事責任を負う』ことを明文化した画期的な新法。運転手がスマホを見たり本を読んだりしていても事故責任を問われない法的枠組みを世界で初めて明確に定義しました。",
+        "source": {
+          "organization": "英国政府 (GOV.UK)",
+          "title": "Automated Vehicles Act 2024: laws for self-driving vehicles",
+          "url": "https://www.gov.uk/government/news/self-driving-revolution-to-begin-as-landmark-legislation-passed"
+        }
+      }
+    ]
+  }
 }

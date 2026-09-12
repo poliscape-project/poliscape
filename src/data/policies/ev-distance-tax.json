@@ -217,5 +217,63 @@
         "commentStandard": "「日本のEV普及率は世界に大きく出遅れている。普及途上で走行税を課すのは脱炭素政策の逆行だ」"
       }
     ]
+  },
+  "international": {
+    "title": "電気自動車（EV）普及に伴う走行距離課税（道路利用税）の国際比較",
+    "comparisonSummary": "ガソリン車から電気自動車（EV）へのシフトが進むと、道路整備や橋梁維持の主要財源であるガソリン税（揮発油税・燃料諸税）の税収が世界的に激減します。さらにEVはバッテリー重量により道路損耗が大きいため、従来の『燃料消費量に応じた課税』から『走った距離（1km単位）に応じた走行距離課税（VMT: Vehicle Miles Traveled tax）』への移行が議論されています。日本でも与党税調で検討が始まりましたが地方の反発が根強く、海外でもアイスランドが全国導入、米国オレゴン州の実証、豪州での違憲判決など、公平性とプライバシーを巡る攻防が続いています。",
+    "countries": [
+      {
+        "country": "アイスランド",
+        "countryCode": "IS",
+        "flag": "🇮🇸",
+        "systemName": "Kílómetragjald (走行キロメーター税 / 道路利用課税法)",
+        "statusOrLevel": "2024年1月世界初・全国民義務化施行",
+        "keyFeature": "EVおよびプラグインハイブリッド車（PHEV）を対象に、走った距離に応じた課税を世界で初めて全国民に完全義務化。EVは1kmあたり6アイスランド・クローナ（約6.7円）、PHEVは2クローナが課税されます。ドライバーは定期的に公的Webポータル（Ísland.is）にオドメーター（総走行距離計）の数値を入力・申告して納税する仕組みです。",
+        "source": {
+          "organization": "アイスランド歳入税務局 (Skatturinn)",
+          "title": "Kilometre fee on electric and plug-in hybrid cars",
+          "url": "https://www.skatturinn.is/kilometragjald/"
+        }
+      },
+      {
+        "country": "アメリカ（オレゴン州・連邦プログラム）",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "OReGO (オレゴン州走行距離課税プログラム) & 連邦IIJA実証",
+        "statusOrLevel": "2015年運用開始（任意参加型VMTプログラム）",
+        "keyFeature": "全米に先駆けて『OReGO』を導入。登録ドライバーは車載通信機（OBD-IIポート接続）を装着し、走行1マイルあたり約2セントを納付（代わりに納付済みの州ガソリン税は全額還付）。GPS位置情報を追跡しないプライバシー配慮型デバイスも選択可能。連邦レベルでもインフラ投資雇用法（IIJA）に基づき全米パイロット実証が進められています。",
+        "source": {
+          "organization": "オレゴン州運輸局 (ODOT) / MyOReGO",
+          "title": "OReGO - Oregon's Road Usage Charge Program",
+          "url": "https://www.myorego.org/"
+        }
+      },
+      {
+        "country": "オーストラリア（ビクトリア州・連邦最高裁判決）",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "ZLEV (ゼロ・低排出車道路利用税) / 豪連邦最高裁違憲判決",
+        "statusOrLevel": "2021年州法導入 → 2023年連邦最高裁で違憲無効判断",
+        "keyFeature": "ビクトリア州がEV走行1kmあたり約2.6豪セントを課す新税を導入しましたが、EV所有者が『州による物品税の創設は憲法第90条違反（連邦の専権事項）』として提訴。2023年10月にオーストラリア連邦最高裁判所が違憲判決を下し州法が無効化。今後は連邦政府主導での包括的な道路利用税制への再編が迫られています。",
+        "source": {
+          "organization": "オーストラリア連邦最高裁判所 (High Court of Australia)",
+          "title": "Vanderstock & Anor v. The State of Victoria [2023] HCA 30",
+          "url": "https://www.hcourt.gov.au/cases/case_m61-2021"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "Road User Charges (RUC / 道路利用者課税法)",
+        "statusOrLevel": "2024年4月よりEV・PHEVへの課税適用開始",
+        "keyFeature": "従来EV普及促進のため免除されていた道路利用者課税（RUC）の免除特例を2024年4月に終了し、EVにも内燃機関車と同等の課税を適用。EVドライバーは事前に走行距離（1,000km単位）のライセンスを購入してフロントガラス等に表示するシステム（1,000kmあたり76NZドル、約7,000円）で道路整備財源を確保しています。",
+        "source": {
+          "organization": "ニュージーランド運輸庁 (NZTA / Waka Kotahi)",
+          "title": "Road user charges for electric vehicles (NZ Transport Agency)",
+          "url": "https://www.nzta.govt.nz/vehicles/road-user-charges/ruc-for-electric-vehicles/"
+        }
+      }
+    ]
   }
 }

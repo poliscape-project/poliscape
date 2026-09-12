@@ -247,5 +247,70 @@
         "commentStandard": "「無償化に伴う一食あたりの予算枠の硬直化で、地産地消や栄養バランス豊かなメニュー維持が難しくなるリスク」"
       }
     ]
+  },
+  "international": {
+    "title": "義務教育・学校給食の無償化（給食費国費負担）の国際比較",
+    "comparisonSummary": "子育て世帯の経済的負担軽減と子どもの貧困対策・食育推進のため、公立小中学校の給食を完全に無償化する政策が注目されています。日本は自治体独自の財政力に依存した部分無償化（自治体の約3割）が先行し、全国一律無償化に向けた国費財源（約4,500億〜5,000億円）の確保が焦点となっています。世界では北欧（フィンランド・スウェーデン）が70年以上前から小中高校生全員に完全無償給食を提供し、韓国がソウル等で全面無償化を達成するなど、教育権の不可欠な要素として無償化する国が増加しています。",
+    "countries": [
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "Maksuton kouluruokailu (学校給食法に基づく完全無償給食)",
+        "amount": "全小中高校生に100%無料提供（自己負担ゼロ）",
+        "ageLimit": "6歳〜18歳（就学前教育から高校・職業学校まで）",
+        "incomeLimit": "なし（親の所得制限一切なし・全生徒対象）",
+        "keyFeature": "1948年に世界で初めて法律で全国民向けの無償学校給食を義務化。親の所得に関わらず、すべての児童・生徒に温かい栄養バランスの取れた給食が毎日無料で提供されます。給食は単なる食事ではなく教育課程（カリキュラム）の一環と位置づけられ、自治体と国の教育予算で100%賄われています。",
+        "source": {
+          "organization": "フィンランド国家教育委員会 (EDUFI)",
+          "title": "School meals in Finland (EDUFI)",
+          "url": "https://www.oph.fi/en/education-and-qualifications/school-meals-finland"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "Kostnadsfria skolmåltider (教育法に基づく無料給食)",
+        "amount": "全小中学生に100%無料提供",
+        "ageLimit": "義務教育期間（小学校〜中学校、多くの高校も実施）",
+        "incomeLimit": "なし（完全ユニバーサル給付）",
+        "keyFeature": "教育法（Skollagen）第10章第10条により、自治体は義務教育学校の生徒に対し無償で栄養価の高い食事を提供することが法律上義務付けられています。さらに2011年の法改正により『栄養基準』を満たすことが法定化され、質の担保も厳格です。",
+        "source": {
+          "organization": "スウェーデン国家教育庁 (Skolverket) / 国民食品庁",
+          "title": "Näringsriktiga skolmåltider - Skolverket",
+          "url": "https://www.skolverket.se/regler-och-ansvar/ansvar-i-skolfragor/skolmat"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "無償給食制度 (学校給食法・地方教育庁条例)",
+        "amount": "公立小・中・高校生に無償提供",
+        "ageLimit": "初等・中等・高等教育段階",
+        "incomeLimit": "なし（ソウル市等で全面無償化完了）",
+        "keyFeature": "2010年代初頭の『無償給食論争』とソウル市長住民投票を経て、給食は選別的福祉ではなく『義務教育の不可欠な一部』との合意が確立。地方自治体と市道教育庁が費用を折半し、小中学校だけでなく高校まで親の所得制限なしで無償給食が全国の大部分で定着しました。",
+        "source": {
+          "organization": "大韓民国教育部 (Ministry of Education) / ソウル市教育庁",
+          "title": "学校給食法および無償給食推進状況",
+          "url": "https://www.moe.go.kr/"
+        }
+      },
+      {
+        "country": "アメリカ（カリフォルニア州・連邦）",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Universal Meals Program (全生徒無料給食法) & 連邦NSLP",
+        "amount": "全公立学校生徒に朝食・昼食を無料提供（州内全域）",
+        "incomeLimit": "なし（所得審査なし）",
+        "keyFeature": "連邦政府の全国学校昼食プログラム（NSLP）は低所得世帯向け無料・減額給付が基本ですが、カリフォルニア州は2022年に全米で初めて『Universal Meals Program』を法制化。親の年収に関わらず、すべての公立小中高校生に毎日の朝食と昼食を完全無料で提供しています。",
+        "source": {
+          "organization": "カリフォルニア州教育省 (CDE) / 米国農務省 (USDA)",
+          "title": "California Universal Meals Program (CDE)",
+          "url": "https://www.cde.ca.gov/ls/nu/sn/cauniversalmeals.asp"
+        }
+      }
+    ]
   }
 }

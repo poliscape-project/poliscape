@@ -217,5 +217,63 @@
         "commentStandard": "「義務教育費の地方負担分が重く、教員の増員やサポートスタッフ配置に手が回らなくなる恐れがある」"
       }
     ]
+  },
+  "international": {
+    "title": "公立学校教員の労働時間管理・残業手当制度の国際比較",
+    "comparisonSummary": "日本の公立学校教員は、1971年制定の『給特法』により残業代が一切支払われない代わりに月給の4%（教職調整額）が一律上乗せされる仕組みとなっています。しかしこれが現場での月80時間超の残業や部活動指導といった『定額働かせ放題』の元凶とされ、教職調整額の10%超引き上げや抜本改革が議論されています。欧米では『職務記述書（Job Description）』による労働時間の厳格管理、超過勤務手当の支給、あるいは『週の授業コマ数』での明確な管理が行われており、日本の制度設計の特殊性が際立っています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Service d'enseignement hebdomadaire (週当たり授業時数管理制)",
+        "statusOrLevel": "授業コマ数で厳格管理・超過分は手当支給",
+        "keyFeature": "教員の義務労働時間は『週当たりの授業時数』として法律（教育法典）で厳格に定められています（中学校・高校の教員は週15〜18コマ）。部活動の顧問業務や校内清掃などの業務は存在せず、規定の授業コマ数を超えて指導した場合は『追加授業手当（HSA / HSE）』が時間単位で確実に全額支給されます。",
+        "source": {
+          "organization": "フランス国民教育・青少年省 (Ministère de l'Éducation nationale)",
+          "title": "Le temps de travail des enseignants du second degré",
+          "url": "https://www.education.gouv.fr/le-temps-de-travail-des-enseignants-du-second-degre-7347"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Deputatsstunden (州公務員法に基づく授業コマ数義務制)",
+        "statusOrLevel": "州ごとの授業時間割り当て制（週約24〜28時間）",
+        "keyFeature": "教員の大半は州の公務員（Beamte）であり、州法によって週の授業担当時間（Deputat: 約24〜27コマ）が厳密に定められています。授業外の校務負担を減らすため事務職員やITサポーターが別途配置され、法定授業コマ数を超える代講や超過勤務には超過手当（Mehrarbeitsvergütung）が支払われます。",
+        "source": {
+          "organization": "ドイツ各州文部大臣会議 (KMK) / 連邦教育研究省",
+          "title": "Arbeitszeit der Lehrkräfte an allgemeinbildenden Schulen (KMK)",
+          "url": "https://www.kmk.org/"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "School Teachers' Pay and Conditions Document (STPCD)",
+        "statusOrLevel": "年間1,265時間の上限管理（有給労働時間明記）",
+        "keyFeature": "教育省が定める『STPCD』により、教員が学校で拘束される指導可能時間は『年間195日、1,265時間』と法律で厳格に上限が規定されています。さらに、授業準備や採点のための時間（PPAタイム: 授業時間の10%以上）を時間割内に確保することが義務付けられており、無制限の残業は禁止されています。",
+        "source": {
+          "organization": "英国教育省 (Department for Education / GOV.UK)",
+          "title": "School teachers' pay and conditions document (STPCD)",
+          "url": "https://www.gov.uk/government/publications/school-teachers-pay-and-conditions"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Collective Bargaining Agreement (教員組合との労働協約 CBA)",
+        "statusOrLevel": "契約時間（1日約7.5時間）の厳格管理・超過分はStipend手当",
+        "keyFeature": "全米教育協会（NEA）などの教員組合と各学区の教育委員会が締結する協約（CBA）により、1日の勤務時間（例: 午前8時〜午後3時30分）が分単位で定義。放課後のスポーツ指導や課外活動を担当する場合は、基本給とは別に『追加手当（Stipend: 年間数千ドル）』の支給契約が個別に結ばれます。",
+        "source": {
+          "organization": "全米教育協会 (NEA) / 米国労働統計局 (BLS)",
+          "title": "Collective Bargaining and Teacher Contracts (NEA)",
+          "url": "https://www.nea.gov/"
+        }
+      }
+    ]
   }
 }

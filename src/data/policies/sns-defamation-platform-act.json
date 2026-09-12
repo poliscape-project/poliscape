@@ -127,5 +127,63 @@
       "type": "white_paper",
       "typeLabel": "警察庁白書"
     }
-  ]
+  ],
+  "international": {
+    "title": "SNS上の誹謗中傷・偽情報に対するプラットフォーム規制の国際比較",
+    "comparisonSummary": "インターネット上での誹謗中傷、プライバシー侵害、著名人なりすまし投資詐欺広告の急増に対し、プラットフォーム企業（Meta、X、Google等）に迅速なコンテンツ削除や被害者救済を義務付ける法規制が世界中で進んでいます。日本は2024年に『情報流通プラットフォーム対処法』を成立させ、大規模事業者に対する削除窓口設置と迅速な判断通知を義務付けました。一方、ドイツは2017年のNetzDGで24時間以内の削除義務を先行導入し、EUは包括的なデジタルサービス法（DSA）で巨額制裁金を科すなど、表現の自由への配慮と違法コンテンツ排除のせめぎ合いが続いています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Netzwerkdurchsetzungsgesetz (ネットワーク執行法: NetzDG)",
+        "statusOrLevel": "2017年世界初施行・24時間以内削除義務",
+        "keyFeature": "登録ユーザー数200万人以上のSNSに対し、明白に違法な投稿（名誉毀損、ヘイトスピーチ、脅迫等）を通報から『24時間以内』に削除または遮断することを義務付け。半年ごとの透明性レポートの公表を義務化し、組織的な対応怠慢には最大5,000万ユーロ（約80億円）の過料を科す世界で最も厳格な先駆的法律です。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ) / 連邦司法庁 (BfJ)",
+          "title": "Netzwerkdurchsetzungsgesetz (NetzDG) - BfJ",
+          "url": "https://www.bundesjustizamt.de/DE/Themen/Buergerdienste/NetzDG/NetzDG_node.html"
+        }
+      },
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "Digital Services Act (デジタルサービス法 / DSA)",
+        "statusOrLevel": "2024年全面適用（超大規模プラットフォーム VLOP 規制）",
+        "keyFeature": "月間アクティブユーザー4,500万人以上の超大規模プラットフォームに対し、違法コンテンツの迅速な通報・削除メカニズムや年次のリスク評価を義務付け。なりすまし広告や偽情報対策の怠慢に対し、全世界年間売上高の最大6%の巨額制裁金を欧州委員会が直接科す権限を持ちます。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "The Digital Services Act package",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Online Safety Act 2021 (オンライン安全法) / eSafety Commissioner",
+        "statusOrLevel": "国家独立機関による24時間以内削除命令制度",
+        "keyFeature": "世界初の国家オンライン安全監視機関『eSafetyコミッショナー』を創設。深刻なオンラインいじめや中傷、性的画像被害について、被害者からの通報を受けコミッショナーがプラットフォーム企業に『24時間以内の削除通知』を命令可能。従わない企業には最高数百万元の民事罰金を科します。",
+        "source": {
+          "organization": "オーストラリア・eSafetyコミッショナー",
+          "title": "Online Safety Act 2021 | eSafety Commissioner",
+          "url": "https://www.esafety.gov.au/about-us/who-we-are/our-legislative-functions"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Communications Decency Act Section 230 (通信品位法第230条免責)",
+        "statusOrLevel": "プラットフォーム免責条項の修正を巡る連邦議会論争",
+        "keyFeature": "第230条に基づき、第三者が投稿したコンテンツに関してプラットフォーム企業は原則として法的責任（民事責任）を免責されています。これによりビッグテックが急成長した一方、中傷や詐欺広告の放置が深刻化。超党派で230条の免責特権を縮小する法案（KOSA：子どものオンライン安全法等）が激しく審議されています。",
+        "source": {
+          "organization": "アメリカ合衆国連邦議会 (Congress.gov)",
+          "title": "47 U.S. Code § 230 - Protection for private blocking and screening of offensive material",
+          "url": "https://www.law.cornell.edu/uscode/text/47/230"
+        }
+      }
+    ]
+  }
 }

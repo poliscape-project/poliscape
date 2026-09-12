@@ -179,5 +179,67 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "HPVワクチン（子宮頸がん・中咽頭がん等予防）男性接種の国際比較",
+    "comparisonSummary": "ヒトパピローマウイルス（HPV）は女性の子宮頸がんだけでなく、男性の中咽頭がん、肛門がん、尖圭コンジローマなどの直接の原因となります。さらに男性が接種することで女性への感染を防ぎ、集団免疫による『子宮頸がん撲滅』を加速させます。世界保健機関（WHO）や主要先進国では男女双方への定期接種が常識となっており、世界約50カ国以上で男子も国家プログラムで無料接種が実施されています。日本は女性への積極的勧奨が長年中断した歴史を経て、現在男子への定期接種化（無料化）の審議が大詰めを迎えています。",
+    "countries": [
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "National Immunisation Program (NIP) - HPV Vaccine",
+        "amount": "男女とも100%無料（公費全額負担）",
+        "ageLimit": "12〜13歳（学校接種プログラム） / 26歳まで無料キャッチアップ",
+        "keyFeature": "2007年に世界に先駆けて女子への公費接種を開始し、2013年には世界で初めて男子も国家予防接種プログラム（NIP）に正式追加。学校での集団接種により男女ともに高い接種率（80%超）を達成。HPV感染率が激減し、世界で最も早く『子宮頸がんを公衆衛生上の脅威から根絶できる最初の国』と予測されています。",
+        "source": {
+          "organization": "オーストラリア保健・高齢者福祉省",
+          "title": "Human papillomavirus (HPV) vaccine - National Immunisation Program",
+          "url": "https://www.health.gov.au/topics/immunisation/vaccines/human-papillomavirus-hpv-immunisation-service"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "CDC Advisory Committee on Immunization Practices (ACIP) 推奨",
+        "amount": "民間保険またはVFCプログラム（無保険者無料プログラム）で無料",
+        "ageLimit": "男女ともに11〜12歳を標準推奨（26歳まで推奨）",
+        "keyFeature": "CDC（疾病対策予防センター）の諮問委員会が2011年に男子への定期接種推奨を決定。医療保険改革法（ACA）により、予防接種推奨リストに入ったワクチンは民間医療保険でも自己負担ゼロ（無料）で接種することが法律で義務付けられており、男女同等の予防接種として定着しています。",
+        "source": {
+          "organization": "アメリカ疾病予防管理センター (CDC)",
+          "title": "HPV Vaccine Schedule and Dosing | CDC",
+          "url": "https://www.cdc.gov/vaccines/vpd/hpv/hcp/schedules-recommendations.html"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS HPV vaccination programme",
+        "amount": "NHSにより完全無料提供",
+        "ageLimit": "男女ともに8年生（12〜13歳） / 25歳未満無料",
+        "keyFeature": "2019年9月から女子に加え、すべての男子生徒を対象にNHSの定期接種プログラムへ組み入れ。学校での巡回接種で実施され、現在は最新の9価ワクチン（Gardasil 9）の1回接種スケジュールが導入され、中咽頭がんや尖圭コンジローマの予防に大きな効果を上げています。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS)",
+          "title": "HPV vaccine - NHS",
+          "url": "https://www.nhs.uk/vaccinations/hpv-vaccine/"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "STIKO (予防接種常設委員会) HPVワクチン推奨",
+        "amount": "公的医療保険（GKV）により全額負担（無料）",
+        "ageLimit": "男女ともに9歳〜14歳（17歳までキャッチアップ無料）",
+        "keyFeature": "ロベルト・コッホ研究所（RKI）のSTIKOが2018年に男子へのHPVワクチン定期接種を正式推奨。これに基づき、すべての公的健康保険組合に対し男子の接種費用を全額負担することが法律で義務付けられました。",
+        "source": {
+          "organization": "ロベルト・コッホ研究所 (RKI) / ドイツ連邦保健省",
+          "title": "RKI - Impfungen A-Z - HPV-Impfung für Jungen und Mädchen",
+          "url": "https://www.rki.de/DE/Content/Infekt/Impfen/ImpfungenAZ/HPV/HPV.html"
+        }
+      }
+    ]
+  }
 }
