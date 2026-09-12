@@ -47,14 +47,23 @@ export const metadata: Metadata = {
 };
 
 import KeyboardWidgetNav from "@/components/KeyboardWidgetNav";
+import { generateWebsiteJsonLd } from "@/lib/jsonld";
 
 export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const websiteJsonLd = generateWebsiteJsonLd();
+
   return (
     <html lang="ja" className={`${geistSans.variable} ${geistMono.variable}`}>
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+        />
+      </head>
       <body className="min-h-screen bg-slate-50 text-slate-900 antialiased">
         <KeyboardWidgetNav />
         {children}

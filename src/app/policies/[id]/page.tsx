@@ -1,7 +1,8 @@
-﻿import React from "react";
+import React from "react";
 import { notFound } from "next/navigation";
 import { getAllPolicies, getPolicyById } from "@/lib/policies";
 import { PolicyDetailView } from "@/components/PolicyDetailView";
+import { generatePolicyJsonLd } from "@/lib/jsonld";
 import type { Metadata } from "next";
 
 export async function generateStaticParams() {
@@ -47,5 +48,15 @@ export default async function PolicyDetailPage({ params }: PageProps) {
     notFound();
   }
 
-  return <PolicyDetailView policy={policy} />;
+  const jsonLd = generatePolicyJsonLd(policy);
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <PolicyDetailView policy={policy} />
+    </>
+  );
 }
