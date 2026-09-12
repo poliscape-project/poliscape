@@ -141,5 +141,81 @@
       "text": "地方負担増の批判",
       "color": "bg-amber-50 text-amber-900"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "走った分だけ取られる税金",
+      "labelStandard": "想定走行距離課税額",
+      "value": "約 3〜5",
+      "unit": "円 / km",
+      "oldValue": "EVはガソリン税（約53.8円/L）ゼロ",
+      "descriptionSimple": "1キロ走るごとに数円の税金を検討！",
+      "descriptionStandard": "EV普及による燃料税収減の穴埋め新税",
+      "badge": "1km数円案",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Car"
+    },
+    {
+      "labelSimple": "年1万km走る人の負担",
+      "labelStandard": "年間想定新税額",
+      "value": "約 3〜5",
+      "unit": "万円 / 年",
+      "oldValue": "ガソリン車は年間約3.6万円の燃料税",
+      "descriptionSimple": "年1万キロで数万円の新税負担！",
+      "descriptionStandard": "ガソリン税廃止または並行課税の設計論",
+      "badge": "年間数万円負担",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "地方の負担は？",
+      "labelStandard": "地方住民の走行距離",
+      "value": "都市部の 2倍超",
+      "unit": "（地方集中）",
+      "oldValue": "公共交通がなく車が必須の地方",
+      "descriptionSimple": "田舎ほど税負担が重くなる！",
+      "descriptionStandard": "生活必需の地方住民に対する実質的増税批判",
+      "badge": "地方格差の懸念",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "どうやって測る？",
+      "labelStandard": "走行距離の把握技術",
+      "value": "車検メーター",
+      "unit": "またはGPS",
+      "oldValue": "給油メーターのみで把握",
+      "descriptionSimple": "走った距離を機械やGPSで確認！",
+      "descriptionStandard": "車載通信器による位置情報追跡とプライバシー課題",
+      "badge": "プライバシー論争",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "道路維持にあたる自治体職員",
+        "commentSimple": "「重い電気自動車が道路を傷めているのに、ガソリン税を払っていないのはどう考えても不公平です」",
+        "commentStandard": "「老朽化した橋やトンネルの修繕費が底をつく。EVオーナーにも道路維持の応分負担をしてもらう必要がある」"
+      },
+      {
+        "speaker": "ガソリン車オーナー",
+        "commentSimple": "「高いガソリン税を払っている自分たちだけが道路を直すお金を背負わされるのは納得がいかない」",
+        "commentStandard": "「EVだけエコカー減税で無税なのは不公平。走った距離に応じてみんなで分担するのが筋だ」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "地方在住のマイカー通勤者",
+        "commentSimple": "「電車もバスもない田舎で毎日何十キロも走るのに、距離で税金を取られたら生きていけない！」",
+        "commentStandard": "「生活必需品として長距離を走らざるを得ない地方住民への事実上の懲罰増税だ。到底受け入れられない」"
+      },
+      {
+        "speaker": "脱炭素・EV普及団体",
+        "commentSimple": "「せっかく高いお金を出して環境のためにEVを買ったのに、新しい税金を取られたら誰も買わなくなる」",
+        "commentStandard": "「日本のEV普及率は世界に大きく出遅れている。普及途上で走行税を課すのは脱炭素政策の逆行だ」"
+      }
+    ]
+  }
 }

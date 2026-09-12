@@ -179,5 +179,51 @@
       "text": "書面不備時の無期限クーリングオフ",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "モノなしマルチ（役務・情報）への規制",
+      "labelStandard": "モノなしマルチ（役務・情報）への規制",
+      "value": "情報商材・投資サロンもマルチ規制対象",
+      "unit": "",
+      "oldValue": "これまで: 商品が存在しない投資ノウハウやサロンは連鎖販売取引の該当性を巡り争いがあった",
+      "description": "形のない情報商材・投資プログラム・暗号資産役務も連鎖販売取引として完全規制",
+      "badge": "情報商材・投資サロンもマルチ規制対象",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "目的を隠した呼び出し（ブラインド勧誘）",
+      "labelStandard": "目的を隠した呼び出し（ブラインド勧誘）",
+      "value": "目的を隠したカフェ等への呼出禁止",
+      "unit": "",
+      "oldValue": "これまで: 「サークル仲間」「お茶しよう」と誘い出して勧誘する手口が横行",
+      "description": "勧誘目的であることを事前に告げずに公衆の出入りしない場所へ呼び出す行為を厳格処罰",
+      "badge": "目的を隠したカフェ等への呼出禁止",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Ban"
+    },
+    {
+      "labelSimple": "クーリングオフ（無条件解約）期間",
+      "labelStandard": "クーリングオフ（無条件解約）期間",
+      "value": "書面不備時の無期限クーリングオフ",
+      "unit": "",
+      "oldValue": "これまで: 法定書面受領から20日間が経過すると解約が著しく困難だった",
+      "description": "書面の不備や電子契約の落とし穴がある場合、期間経過後も契約解除・返金請求が可能",
+      "badge": "書面不備時の無期限クーリングオフ",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "若者への借金強要（クレカ枠・消費者金融）",
+      "labelStandard": "若者への借金強要（クレカ枠・消費者金融）",
+      "value": "借金を指示・同行する勧誘を違法化",
+      "unit": "",
+      "oldValue": "これまで: 勧誘者がATMや無人契約機に同行して学生に借金させる手口が野放し",
+      "description": "年収を偽らせて借入れを指示する行為を違法な不当勧誘として行政処分・逮捕対象化",
+      "badge": "借金を指示・同行する勧誘を違法化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "DollarSign"
+    }
   ]
 }

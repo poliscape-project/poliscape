@@ -171,5 +171,51 @@
       "text": "医療機器プログラム薬事承認におけるSBOM必須化",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "ソフトウェア構成の開示義務",
+      "labelStandard": "ソフトウェア構成の開示義務",
+      "value": "重要システム・医療機器へのSBOM添付義務化",
+      "unit": "",
+      "oldValue": "これまで: 納品された完成品プログラムの中身（内包ライブラリ）はブラックボックス",
+      "description": "機械可読なSBOM（SPDX/CycloneDX）の添付を調達契約および薬事承認で義務化",
+      "badge": "重要システム・医療機器へのSBOM添付義務化",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "FileText"
+    },
+    {
+      "labelSimple": "新脆弱性発見時の特定スピード",
+      "labelStandard": "新脆弱性発見時の特定スピード",
+      "value": "数分以内の脆弱性箇所自動特定",
+      "unit": "",
+      "oldValue": "これまで: ソースコードを手動で調査するため特定までに数週間〜数ヶ月を要し被弾",
+      "description": "SBOM解析ツールにより脆弱性公表から数分〜数時間以内に影響箇所を特定",
+      "badge": "数分以内の脆弱性箇所自動特定",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "医療機器プログラム（SaMD）の審査",
+      "labelStandard": "医療機器プログラム（SaMD）の審査",
+      "value": "医療機器プログラム薬事承認におけるSBOM必須化",
+      "unit": "",
+      "oldValue": "これまで: サイバーセキュリティに関する成分表審査はなく出荷後の管理が形骸化",
+      "description": "厚労省薬事承認においてSBOM作成と継続的脆弱性監視体制を必須要件化",
+      "badge": "医療機器プログラム薬事承認におけるSBOM必須化",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Heart"
+    },
+    {
+      "labelSimple": "オープンソースライセンス違反の防止",
+      "labelStandard": "オープンソースライセンス違反の防止",
+      "value": "OSSライセンス違反・知財紛争の自動防止",
+      "unit": "",
+      "oldValue": "これまで: 意図せず商用利用禁止ライセンス（GPL等）が混入し法的な訴訟リスクに直面",
+      "description": "SBOMによるライセンス情報の自動監査で知財リスクや規約違反を未然防止",
+      "badge": "OSSライセンス違反・知財紛争の自動防止",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

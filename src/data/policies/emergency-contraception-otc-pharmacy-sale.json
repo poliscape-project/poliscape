@@ -155,5 +155,55 @@
       "text": "全国145薬局での試験運用",
       "color": "bg-emerald-50 text-emerald-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "OTC化モデル事業",
+      "labelStandard": "薬局での購入条件",
+      "value": "処方箋なし",
+      "unit": "で対面販売",
+      "oldValue": "産婦人科を受診し医師の処方箋が必須",
+      "descriptionSimple": "研修済み薬剤師による相談と面前服用が条件",
+      "descriptionStandard": "研修済み薬剤師による相談と面前服用が条件",
+      "badge": "OTC化モデル事業",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "72時間以内",
+      "labelStandard": "服用のタイムリミット",
+      "value": "72",
+      "unit": "時間以内（必須）",
+      "oldValue": "病院の休診日で受診が間に合わない事態多発",
+      "descriptionSimple": "性交後早期に飲むほど高い妊娠阻止率を発揮",
+      "descriptionStandard": "性交後早期に飲むほど高い妊娠阻止率を発揮",
+      "badge": "72時間以内",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "価格引き下げ",
+      "labelStandard": "薬局での販売価格",
+      "value": "7,000〜9,000",
+      "unit": "円程度",
+      "oldValue": "病院の自由診療で1万〜2万円と高額",
+      "descriptionSimple": "アクセス改善と薬価の低減を両立",
+      "descriptionStandard": "アクセス改善と薬価の低減を両立",
+      "badge": "価格引き下げ",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "国際標準化",
+      "labelStandard": "世界の解禁状況",
+      "value": "世界90カ国",
+      "unit": "以上で市販薬",
+      "oldValue": "日本は主要国で唯一処方箋必須を継続",
+      "descriptionSimple": "WHOが必須医薬品に指定する国際水準へ",
+      "descriptionStandard": "WHOが必須医薬品に指定する国際水準へ",
+      "badge": "国際標準化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Globe"
+    }
   ]
 }

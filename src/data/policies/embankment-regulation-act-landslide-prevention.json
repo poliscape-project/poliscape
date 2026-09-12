@@ -155,5 +155,55 @@
       "text": "違反法人に最高3億円重罰",
       "color": "bg-purple-50 text-purple-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "人災の教訓",
+      "labelStandard": "熱海土石流の崩落土砂量",
+      "value": "約5.6万",
+      "unit": "m³",
+      "oldValue": "排水設備もないまま産業廃棄物混じりで造成",
+      "descriptionSimple": "死者・行方不明者28名の大惨事の元凶",
+      "descriptionStandard": "死者・行方不明者28名の大惨事の元凶",
+      "badge": "人災の教訓",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "法人重罰3億円",
+      "labelStandard": "違反法人への最高罰金",
+      "value": "最高 3",
+      "unit": "億円",
+      "oldValue": "これまでの宅造法 最高50万円程度",
+      "descriptionSimple": "悪質造成業者に対する600倍の破格重罰",
+      "descriptionStandard": "悪質造成業者に対する600倍の破格重罰",
+      "badge": "法人重罰3億円",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "縦割り撤廃",
+      "labelStandard": "規制対象エリアの指定",
+      "value": "土地用途を",
+      "unit": "問わず指定",
+      "oldValue": "「宅地」のみ限定で山林・農地は隙間だった",
+      "descriptionSimple": "森林・農地を含め人家に影響する区域を網羅",
+      "descriptionStandard": "森林・農地を含め人家に影響する区域を網羅",
+      "badge": "縦割り撤廃",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "トレーサビリティ",
+      "labelStandard": "建設発生土の追跡管理",
+      "value": "土砂マニ",
+      "unit": "フェスト義務化",
+      "oldValue": "ダンプの行き先が不明で不法投棄が横行",
+      "descriptionSimple": "工事現場から受入地まで電子管理を義務付け",
+      "descriptionStandard": "工事現場から受入地まで電子管理を義務付け",
+      "badge": "トレーサビリティ",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Layers"
+    }
   ]
 }

@@ -155,5 +155,55 @@
       "text": "大病院受診の選定療養費引き上げ",
       "color": "bg-amber-100 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "2025年4月始動",
+      "labelStandard": "制度の本格施行日",
+      "value": "2025年4月",
+      "unit": "施行",
+      "oldValue": "どの診療所がどんな機能を持つか不透明だった",
+      "descriptionSimple": "医療法改正に基づくかかりつけ医機能報告制度",
+      "descriptionStandard": "医療法改正に基づくかかりつけ医機能報告制度",
+      "badge": "2025年4月始動",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "機能の可視化",
+      "labelStandard": "公表される重要機能",
+      "value": "夜間・在宅",
+      "unit": "看取り等",
+      "oldValue": "単なる診療時間や標榜科目の看板のみ",
+      "descriptionSimple": "24時間対応や往診、介護連携の有無を可視化",
+      "descriptionStandard": "24時間対応や往診、介護連携の有無を可視化",
+      "badge": "機能の可視化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "選定療養費引き上げ",
+      "labelStandard": "大病院初診の定額負担",
+      "value": "初診 7,000",
+      "unit": "円以上義務化",
+      "oldValue": "紹介状なしでも数千円で受診できた",
+      "descriptionSimple": "身近なかかりつけ医を受診するよう動線誘導",
+      "descriptionStandard": "身近なかかりつけ医を受診するよう動線誘導",
+      "badge": "選定療養費引き上げ",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "重複投薬防止",
+      "labelStandard": "多剤投薬（重複）防止",
+      "value": "お薬手帳",
+      "unit": "一元管理",
+      "oldValue": "複数のクリニックから同じ薬が処方される",
+      "descriptionSimple": "ポリファーマシーによる副作用・転倒を防止",
+      "descriptionStandard": "ポリファーマシーによる副作用・転倒を防止",
+      "badge": "重複投薬防止",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "HeartPulse"
+    }
   ]
 }

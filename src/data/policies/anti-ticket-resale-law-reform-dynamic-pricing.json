@@ -159,5 +159,51 @@
       "text": "価格変動制（変動料金）",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "転売ヤーへの罰則",
+      "labelStandard": "特定興行チケット転売罰則",
+      "value": "懲役1年",
+      "unit": "・罰金100万円",
+      "oldValue": "これまで ボット買い占めと高額転売が横行",
+      "description": "業として行う不正転売を厳罰に取り締まり",
+      "badge": "転売厳罰化",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Ticket"
+    },
+    {
+      "labelSimple": "行けなくなったとき",
+      "labelStandard": "公式リセールの義務化・推奨",
+      "value": "定価トレード",
+      "unit": "の標準整備",
+      "oldValue": "これまで 体調不良でも払い戻し不可・泣き寝入り",
+      "description": "行けない人が定価で譲れる公式リセールを普及",
+      "badge": "公式リセール",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "CreditCard"
+    },
+    {
+      "labelSimple": "人気の変動価格制",
+      "labelStandard": "ダイナミックプライシング",
+      "value": "価格変動制",
+      "unit": "の主催者導入",
+      "oldValue": "これまで 転売サイトだけが不当な暴利",
+      "description": "公式が需要に応じて価格設定し転売利ざやを消滅",
+      "badge": "適正価格",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "スマホの入場確認",
+      "labelStandard": "電子チケットと本人認証",
+      "value": "顔認証・SMS",
+      "unit": "で名義貸し防止",
+      "oldValue": "これまで 紙チケットの名義偽称が容易",
+      "description": "生体認証やスマホ1台1枚管理で不正入場を遮断",
+      "badge": "本人確認",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Smartphone"
+    }
   ]
 }

@@ -139,5 +139,51 @@
       "text": "4要素補正算定式",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "相続税評価額の最低ライン",
+      "labelStandard": "時価に対する評価額比率",
+      "value": "60",
+      "unit": "%水準以上へ強制引き上げ",
+      "oldValue": "これまで 時価の3割前後まで極端に圧縮",
+      "description": "時価と評価額の大きな乖離を是正",
+      "badge": "時価の6割最低保証",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "税額を決める4つの指標",
+      "labelStandard": "客観的補正算定式の導入",
+      "value": "4",
+      "unit": "要素（総階数・所在階・築年数等）",
+      "oldValue": "これまで 階数に関わらず一律の土地割合",
+      "description": "高層階プレミアムを数式で客観計算",
+      "badge": "合理的算定式",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Calculator"
+    },
+    {
+      "labelSimple": "新しいルールが始まった日",
+      "labelStandard": "新評価ルールの適用開始",
+      "value": "2024",
+      "unit": "年1月1日以降の相続・贈与",
+      "oldValue": "税務署の個別否認（総則6項）で紛争多発",
+      "description": "全国一律の客観基準で予見可能性を確保",
+      "badge": "新基準施行中",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Calendar"
+    },
+    {
+      "labelSimple": "税金の公平さの回復",
+      "labelStandard": "富裕層の租税回避封殺",
+      "value": "公平",
+      "unit": "性の回復（一戸建てとの格差是正）",
+      "oldValue": "数億円のタワマン購入で税金ゼロ逃れ",
+      "description": "納税者の納得感と税制の信頼を回復",
+      "badge": "課税公平性回復",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Scale"
+    }
   ]
 }

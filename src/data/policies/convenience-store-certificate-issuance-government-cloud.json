@@ -139,5 +139,51 @@
       "text": "役所窓口待ち時間ゼロへ",
       "color": "bg-blue-50 text-blue-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "取れる場所",
+      "labelStandard": "全国コンビニ即時交付の拠点数",
+      "value": "全国5万店",
+      "unit": "マルチコピー機",
+      "oldValue": "これまで 平日昼に役所窓口へ出頭",
+      "description": "セブン・ファミマ・ローソン等で土日夜間も住民票発行",
+      "badge": "コンビニ交付",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "かかる時間",
+      "labelStandard": "証明書取得の待ち時間",
+      "value": "1分完了",
+      "unit": "待ち時間ゼロ",
+      "oldValue": "これまで 窓口で数十分〜1時間待ち",
+      "description": "マイナンバーカードをタッチして暗証番号入力で即印刷",
+      "badge": "タイパ革命",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "役所のクラウド",
+      "labelStandard": "自治体システム標準化（ガバクラ）",
+      "value": "基幹20業務",
+      "unit": "共通基盤移行",
+      "oldValue": "これまで 1,741自治体がバラバラ独自開発",
+      "description": "デジタル庁共通基盤でシステム維持管理費を3割削減",
+      "badge": "ガバクラ統一",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "コンビニの値段",
+      "labelStandard": "コンビニ交付の手数料割引",
+      "value": "100〜200円",
+      "unit": "窓口より安価",
+      "oldValue": "これまで 窓口と同額設定",
+      "description": "コンビニ利用を促すため多くの自治体でディスカウント",
+      "badge": "割引特典",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Coins"
+    }
   ]
 }

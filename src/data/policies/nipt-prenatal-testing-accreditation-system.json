@@ -139,5 +139,51 @@
       "text": "命の選別とカウンセリング",
       "color": "bg-rose-50 text-rose-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "検査の安全性",
+      "labelStandard": "検査の安全性",
+      "value": "採血のみ",
+      "unit": "（流産リスク0%）",
+      "oldValue": "羊水検査は約0.3%の流産リスク",
+      "description": "お腹に針を刺さず母体採血だけで判定",
+      "badge": "安心安全",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "自費検査の費用",
+      "labelStandard": "自費検査の費用",
+      "value": "10〜20",
+      "unit": "万円前後",
+      "oldValue": "保険適用外（全額自費負担）",
+      "description": "高額なため経済格差が生じている",
+      "badge": "自費高額負担",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "陽性確定後の中絶率",
+      "labelStandard": "陽性確定後の中絶率",
+      "value": "約 9",
+      "unit": "割（中絶選択）",
+      "oldValue": "長年高い中絶選択率が継続",
+      "description": "「命の選別」をめぐる生命倫理論争",
+      "badge": "命の選別懸念",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "認証施設の拡大",
+      "labelStandard": "認証施設の拡大",
+      "value": "地域の産科",
+      "unit": "クリニックへ拡大",
+      "oldValue": "大学病院等ごく一部の大病院に限定",
+      "description": "専門医による丁寧なカウンセリング必須",
+      "badge": "認証クリニック拡大",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Building"
+    }
   ]
 }

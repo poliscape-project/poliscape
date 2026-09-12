@@ -139,5 +139,51 @@
       "text": "老朽橋梁床版更新",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "高速道路が有料のままの期間",
+      "labelStandard": "料金徴収期間の再延長期限",
+      "value": "2115",
+      "unit": "年まで最長50年間さらに延長",
+      "oldValue": "民営化時の約束は「2050年（後に2065年）無料化」",
+      "description": "老朽化した道路や橋を直し続けるための大延長",
+      "badge": "2115年まで有料",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "古い橋やトンネルの修理代",
+      "labelStandard": "高速道路大規模更新事業費",
+      "value": "数兆",
+      "unit": "円規模（コンクリート床版取替等）",
+      "oldValue": "笹子トンネル事故後に判明した想定外の劣化",
+      "description": "巨大地震が起きても橋が落ちないよう造り直す",
+      "badge": "大規模更新投資",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "対面通行で危険な区間の解消",
+      "labelStandard": "暫定2車線区間の4車線化推進",
+      "value": "4車線",
+      "unit": "化へ料金原資を重点投入",
+      "oldValue": "ポール1本で正面衝突死亡事故が多発",
+      "description": "地方の高速道路を安全で渋滞のない道へ改良",
+      "badge": "4車線化加速",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Car"
+    },
+    {
+      "labelSimple": "「無料にする約束」の行方",
+      "labelStandard": "高速道路無料化公約の後退批判",
+      "value": "永久",
+      "unit": "有料化への道と国民負担の継続",
+      "oldValue": "「借金を返し終えたら無料開放」の国民約束",
+      "description": "トラック輸送費や地方の交通費が高止まり",
+      "badge": "無料化公約破綻",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Scale"
+    }
   ]
 }

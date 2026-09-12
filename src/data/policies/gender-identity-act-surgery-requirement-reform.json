@@ -155,5 +155,55 @@
       "text": "公衆浴場は身体特徴基準",
       "color": "bg-amber-100 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "最高裁違憲",
+      "labelStandard": "生殖不能手術要件の判断",
+      "value": "違憲無効",
+      "unit": "（全員一致）",
+      "oldValue": "卵巣や精巣の摘出手術が絶対条件だった",
+      "descriptionSimple": "最高裁大法廷が憲法13条違反と歴史的決定",
+      "descriptionStandard": "最高裁大法廷が憲法13条違反と歴史的決定",
+      "badge": "最高裁違憲",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "身体負担解放",
+      "labelStandard": "性別変更の手術費用負担",
+      "value": "数百",
+      "unit": "万円の削減",
+      "oldValue": "高額な性別適合手術（全額自費）が必要",
+      "descriptionSimple": "身体への不可逆な侵襲と金銭的障壁を解消",
+      "descriptionStandard": "身体への不可逆な侵襲と金銭的障壁を解消",
+      "badge": "身体負担解放",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Heart"
+    },
+    {
+      "labelSimple": "安心ガイドライン",
+      "labelStandard": "公衆浴場の利用ルール",
+      "value": "身体的特徴",
+      "unit": "で判断",
+      "oldValue": "明確な国の通知指針が未整備だった",
+      "descriptionSimple": "厚労省が外見の性別で区分する通知を徹底",
+      "descriptionStandard": "厚労省が外見の性別で区分する通知を徹底",
+      "badge": "安心ガイドライン",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "要件見直し",
+      "labelStandard": "戸籍上の性別変更者数",
+      "value": "累計1万",
+      "unit": "人以上",
+      "oldValue": "2003年特例法成立以降徐々に増加",
+      "descriptionSimple": "手術要件撤廃に伴う新要件の法制化協議中",
+      "descriptionStandard": "手術要件撤廃に伴う新要件の法制化協議中",
+      "badge": "要件見直し",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Users"
+    }
   ]
 }

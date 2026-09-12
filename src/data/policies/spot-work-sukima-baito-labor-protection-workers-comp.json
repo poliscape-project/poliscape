@@ -165,5 +165,51 @@
       "text": "手数料なしでの即日全額振込",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "法的な契約形態の位置付け",
+      "labelStandard": "法的な契約形態の位置付け",
+      "value": "直接雇用として労基法を完全適用",
+      "unit": "",
+      "oldValue": "これまで: 業務委託（ギグワーカー）か直接雇用かが曖昧で法適用が不安定",
+      "description": "アプリ上のマッチングであっても事業主と労働者の「直接雇用契約」と明確化",
+      "badge": "直接雇用として労基法を完全適用",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Briefcase"
+    },
+    {
+      "labelSimple": "仕事中の怪我（労災保険）",
+      "labelStandard": "仕事中の怪我（労災保険）",
+      "value": "数時間勤務でも即時労災適用",
+      "unit": "",
+      "oldValue": "これまで: 数時間の勤務だからと事業主が労災手続きを怠り、患者の自費にされる被害",
+      "description": "1時間勤務でも発効、アプリから簡単に労災事故を報告・申請できる仕組み",
+      "badge": "数時間勤務でも即時労災適用",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "即時給与振込と手数料",
+      "labelStandard": "即時給与振込と手数料",
+      "value": "手数料なしでの即日全額振込",
+      "unit": "",
+      "oldValue": "これまで: 勤務終了後の即時振込時に高額な振込手数料を天引きするトラブル",
+      "description": "賃金全額払いの原則（労基法24条）に基づき、手数料を労働者に負担させず即日支給",
+      "badge": "手数料なしでの即日全額振込",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "悪質求人・闇バイトの監視",
+      "labelStandard": "悪質求人・闇バイトの監視",
+      "value": "求人審査義務化で闇バイトを排除",
+      "unit": "",
+      "oldValue": "これまで: 掲載料目当てで審査が甘く、強盗や特殊詐欺の受け子募集が混入",
+      "description": "求人企業の登記・実体審査を義務付け、不審なキーワードをAIで自動ブロック",
+      "badge": "求人審査義務化で闇バイトを排除",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldAlert"
+    }
   ]
 }

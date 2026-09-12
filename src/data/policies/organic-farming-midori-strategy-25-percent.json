@@ -159,5 +159,51 @@
       "text": "化学農薬・肥料大幅削減",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "有機農業の田畑の広さ",
+      "labelStandard": "有機農業の面積割合目標",
+      "value": "25",
+      "unit": "%へ拡大（2050年）",
+      "oldValue": "これまで 約0.6%（2.5万ha）と極めて少数",
+      "description": "100万ヘクタールへの拡大を目指す食料戦略",
+      "badge": "有機25%目標",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Leaf"
+    },
+    {
+      "labelSimple": "化学農薬の削減目標",
+      "labelStandard": "化学農薬使用量の低減",
+      "value": "50",
+      "unit": "%低減を目指す",
+      "oldValue": "これまで 慣行農業で高頻度の農薬散布",
+      "description": "天敵利用や耐病性品種で農薬依存から脱却",
+      "badge": "農薬半減",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "輸入肥料への依存",
+      "labelStandard": "化学肥料使用量の低減",
+      "value": "30",
+      "unit": "%低減と堆肥活用",
+      "oldValue": "これまで 海外輸入の化学肥料に過度依存",
+      "description": "下水汚泥や家畜堆肥を活用し国内資源循環",
+      "badge": "肥料削減",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "街ぐるみでの取り組み",
+      "labelStandard": "オーガニックビレッジ創出",
+      "value": "全国数百",
+      "unit": "市町村で推進",
+      "oldValue": "これまで 個別農家の孤軍奮闘にとどまる",
+      "description": "地域ぐるみの生産と学校給食への供給を連携",
+      "badge": "地域ぐるみ",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "MapPin"
+    }
   ]
 }

@@ -139,5 +139,51 @@
       "text": "医療費47兆円抑制",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "膨らみ続ける国の医療費",
+      "labelStandard": "年間国民医療費の総額",
+      "value": "約47",
+      "unit": "兆円（毎年1兆円ペースで増加）",
+      "oldValue": "現役世代の健康保険料率が限界に到達",
+      "description": "市販薬と同じ薬の保険見直しで財源確保",
+      "badge": "医療費47兆円抑制",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "見直しの対象となるお薬",
+      "labelStandard": "OTC類似薬の対象品目",
+      "value": "湿布・花粉",
+      "unit": "薬・保湿剤ヒルドイド等",
+      "oldValue": "処方箋があれば原則1〜3割負担で支給",
+      "description": "薬局で買える薬は全額自費や差額負担を検討",
+      "badge": "市販類似薬対象",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "保険から浮くお金の推計",
+      "labelStandard": "給付費削減効果（健保連試算）",
+      "value": "約4,000",
+      "unit": "億円規模の削減効果",
+      "oldValue": "軽微な症状に多額の公費・保険料を投入",
+      "description": "高額な先進医療やがん新薬へ財源を集中",
+      "badge": "保険財政健全化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "PiggyBank"
+    },
+    {
+      "labelSimple": "湿布をもらえる枚数の制限",
+      "labelStandard": "湿布薬の1処方上限枚数",
+      "value": "63",
+      "unit": "枚まで（厳格な制限運用）",
+      "oldValue": "これまで 1回で何百枚も安価にもらえた",
+      "description": "不要な大量処方と薬の無駄遣いを防止",
+      "badge": "処方上限規制",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "FileCheck"
+    }
   ]
 }

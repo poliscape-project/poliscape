@@ -141,5 +141,81 @@
       "text": "新NISAは完全非課税",
       "color": "bg-emerald-50 text-emerald-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "お金持ちの株の税率",
+      "labelStandard": "金融所得の新税率検討",
+      "value": "25〜30",
+      "unit": "%",
+      "oldValue": "これまで一律 20.315%",
+      "descriptionSimple": "大金持ちの株の税金を高くする！",
+      "descriptionStandard": "「1億円の壁」打破に向け段階引き上げ論議",
+      "badge": "最大30%案",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "ふつうの人の新NISA",
+      "labelStandard": "一般投資家のNISA口座",
+      "value": "完全非課税",
+      "unit": "維持",
+      "oldValue": "現行のまま非課税枠1,800万円堅持",
+      "descriptionSimple": "一般の人のNISAは増税されない！",
+      "descriptionStandard": "庶民の資産形成枠は増税対象外を明記",
+      "badge": "非課税を死守",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "国に入る税金",
+      "labelStandard": "想定増税税収",
+      "value": "数千億円",
+      "unit": "規模 / 年",
+      "oldValue": "金融所得の分離課税で税収伸び悩み",
+      "descriptionSimple": "お金持ちから集めて子育て等に使う！",
+      "descriptionStandard": "富の再分配と社会保障・少子化対策財源へ",
+      "badge": "再分配の強化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "株価への影響は？",
+      "labelStandard": "市場冷え込みリスク",
+      "value": "投資意欲減退",
+      "unit": "懸念",
+      "oldValue": "国内外マネーの逃避リスク",
+      "descriptionSimple": "株が売られて株価が下がる心配も！",
+      "descriptionStandard": "「貯蓄から投資へ」に冷や水を浴びせる反対論",
+      "badge": "市場動向に警戒",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "給与天引きに悩む会社員",
+        "commentSimple": "「真面目に働いて高い税金を払っている会社員より、株で儲けたお金持ちの税金が安いのは絶対におかしい！」",
+        "commentStandard": "「給与所得には最大55%もかかるのに金融所得が一律20%なのは不公平。格差是正のために見直すべきだ」"
+      },
+      {
+        "speaker": "社会保障財源を求める識者",
+        "commentSimple": "「新NISAの非課税枠を守れば一般人には無関係。富裕層から取った税金を子育てや教育に回してほしい」",
+        "commentStandard": "「庶民の資産形成に配慮しつつ、年間金融所得数千万円以上の超富裕層に適正課税すれば巨額の財源になる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "個人投資家",
+        "commentSimple": "「株は損をするリスクを背負っているのに、儲かった時だけ税金を高くされたら投資する気が失せる」",
+        "commentStandard": "「元本保証がない自己責任のリスクマネーに増税すれば、『貯蓄から投資へ』の流れが完全に止まってしまう」"
+      },
+      {
+        "speaker": "証券市場関係者",
+        "commentSimple": "「日本の株の税金を高くしたら、世界中の投資家が日本株を売って海外へ逃げてしまう！」",
+        "commentStandard": "「金融所得増税を口にするだけで株価が急落する。企業の資金調達や日本経済の活力を奪う愚策だ」"
+      }
+    ]
+  }
 }

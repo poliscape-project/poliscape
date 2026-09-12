@@ -155,5 +155,55 @@
       "text": "魚種交代への対応",
       "color": "bg-amber-100 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "管理枠拡大",
+      "labelStandard": "TAC管理の対象比率",
+      "value": "漁獲量 8割",
+      "unit": "へ拡大",
+      "oldValue": "主要8魚種（約6割）にとどまる",
+      "descriptionSimple": "科学的エビデンスに基づく総枠制限を強化",
+      "descriptionStandard": "科学的エビデンスに基づく総枠制限を強化",
+      "badge": "管理枠拡大",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "乱獲防止",
+      "labelStandard": "漁獲枠の配分方式",
+      "value": "個別割当",
+      "unit": "（IQ方式）",
+      "oldValue": "早い者勝ちのオリンピック方式",
+      "descriptionSimple": "船や会社ごとに年間の上限枠を割り当て",
+      "descriptionStandard": "船や会社ごとに年間の上限枠を割り当て",
+      "badge": "乱獲防止",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Ship"
+    },
+    {
+      "labelSimple": "歴史的不漁",
+      "labelStandard": "サンマ・サケの漁獲量",
+      "value": "ピークの1/3",
+      "unit": "以下へ激減",
+      "oldValue": "大衆魚として安価に食卓へ供給",
+      "descriptionSimple": "海洋温暖化と外国船の公海先取りが直撃",
+      "descriptionStandard": "海洋温暖化と外国船の公海先取りが直撃",
+      "badge": "歴史的不漁",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "2030年目標",
+      "labelStandard": "水産資源回復目標",
+      "value": "444万",
+      "unit": "トン",
+      "oldValue": "現在 約380万トンまで低迷",
+      "descriptionSimple": "持続可能な資源管理による2030年目標",
+      "descriptionStandard": "持続可能な資源管理による2030年目標",
+      "badge": "2030年目標",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "TrendingUp"
+    }
   ]
 }

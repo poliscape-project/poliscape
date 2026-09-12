@@ -171,5 +171,51 @@
       "text": "水素還元製鉄開発への巨額公費助成",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "輸出企業へのCO2算定義務",
+      "labelStandard": "輸出企業へのCO2算定義務",
+      "value": "製品単位の排出量開示・報告の義務化",
+      "unit": "",
+      "oldValue": "これまで: 欧州向け輸出時に製品ごとの厳密な炭素排出量データ報告義務は存在せず",
+      "description": "鉄鋼やアルミ等6品目の製造・サプライチェーン全体での排出量開示を義務付け",
+      "badge": "製品単位の排出量開示・報告の義務化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "FileText"
+    },
+    {
+      "labelSimple": "炭素課税の二重課税控除交渉",
+      "labelStandard": "炭素課税の二重課税控除交渉",
+      "value": "日欧間での炭素価格相互承認・控除合意の追求",
+      "unit": "",
+      "oldValue": "これまで: 日本国内での地球温暖化対策税やGX負担金が欧州CBAMで控除されるか不透明",
+      "description": "日本のGX-ETSや賦課金の負担額を欧州CBAM課税額から全額控除させる交渉",
+      "badge": "日欧間での炭素価格相互承認・控除合意の追求",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "水素還元製鉄・大型電炉への助成",
+      "labelStandard": "水素還元製鉄・大型電炉への助成",
+      "value": "水素還元製鉄開発への巨額公費助成",
+      "unit": "",
+      "oldValue": "これまで: 高炉による石炭燃焼が主体の製鉄プロセスで莫大なCO2を排出",
+      "description": "GX経済移行債から数千億円規模を投じ水素還元技術と大型電炉化を集中支援",
+      "badge": "水素還元製鉄開発への巨額公費助成",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "グリーンスチールの規格標準化",
+      "labelStandard": "グリーンスチールの規格標準化",
+      "value": "日本版グリーンスチール国際認証規格の創設",
+      "unit": "",
+      "oldValue": "これまで: 「環境配慮型鉄鋼」の客観的基準がなく国際的なプレミアム価格がつきにくい",
+      "description": "政府主導でグリーンスチールの算定・第三者認証基準を統一し国際標準化",
+      "badge": "日本版グリーンスチール国際認証規格の創設",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "CheckCircle2"
+    }
   ]
 }

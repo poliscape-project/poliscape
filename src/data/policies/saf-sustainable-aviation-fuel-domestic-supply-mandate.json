@@ -139,5 +139,51 @@
       "text": "漁業調整・送電網コスト",
       "color": "bg-amber-50 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "風車を置ける海",
+      "labelStandard": "設置可能な海域範囲",
+      "value": "200",
+      "unit": "海里（EEZ）",
+      "oldValue": "これまで 領海12海里（約22km）",
+      "description": "沖合へ拡大し利用可能面積が約10倍へ",
+      "badge": "EEZ法改正",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Anchor"
+    },
+    {
+      "labelSimple": "発電の方式",
+      "labelStandard": "主流の発電技術",
+      "value": "浮体式",
+      "unit": "深海対応",
+      "oldValue": "これまで 浅い海の着床式中心",
+      "description": "水深100m超でも海面に浮かべて係留",
+      "badge": "日本海域適応",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "2040年発電目標",
+      "labelStandard": "洋上風力導入目標",
+      "value": "4,500万",
+      "unit": "kW",
+      "oldValue": "これまで 原発数基分未満",
+      "description": "原発約45基分相当の巨大クリーン電源",
+      "badge": "国家目標",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "送電線の費用",
+      "labelStandard": "海底送電網の投資規模",
+      "value": "数兆",
+      "unit": "円規模",
+      "oldValue": "これまで 沖合から陸への連系線なし",
+      "description": "直流送電（HVDC）ケーブル整備費",
+      "badge": "コスト課題",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Coins"
+    }
   ]
 }

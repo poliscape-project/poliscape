@@ -165,5 +165,51 @@
       "text": "違法な無資格業者の排除",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "退職の申し出と効力発生",
+      "labelStandard": "退職の申し出と効力発生",
+      "value": "意思表示から2週間で法律上成立",
+      "unit": "",
+      "oldValue": "これまで: 会社の承諾（退職届の受理）がなければ辞められないと誤認・拘束",
+      "description": "民法627条に基づき、退職の意思表示が到達してから2週間経過で自動的に退職成立",
+      "badge": "意思表示から2週間で法律上成立",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "就業規則での代行禁止条項",
+      "labelStandard": "就業規則での代行禁止条項",
+      "value": "就業規則の代行禁止条項を無効化",
+      "unit": "",
+      "oldValue": "これまで: 「本人の直接面談を要する」「代行業者を介した退職は認めない」規定の乱立",
+      "description": "代理人（弁護士・労組）を通じた退職通知の拒否を無効とする司法判断・指針の明確化",
+      "badge": "就業規則の代行禁止条項を無効化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Ban"
+    },
+    {
+      "labelSimple": "代行業者の法的位置付け",
+      "labelStandard": "代行業者の法的位置付け",
+      "value": "違法な無資格業者の排除",
+      "unit": "",
+      "oldValue": "これまで: 無資格の民間業者が有給消化や退職金交渉を行い非弁行為（弁護士法違反）が横行",
+      "description": "弁護士法72条の厳格運用により、交渉を伴う場合は弁護士・適格労組に限定",
+      "badge": "違法な無資格業者の排除",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "会社からの損害賠償請求脅し",
+      "labelStandard": "会社からの損害賠償請求脅し",
+      "value": "損害賠償脅迫への是正勧告強化",
+      "unit": "",
+      "oldValue": "これまで: 「突然辞めたら損害賠償を起こす」と脅して退職を強引に撤回させる",
+      "description": "労働基準法16条（賠償予定の禁止）に基づき、違法な賠償脅迫への労基署監督を強化",
+      "badge": "損害賠償脅迫への是正勧告強化",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "ShieldAlert"
+    }
   ]
 }

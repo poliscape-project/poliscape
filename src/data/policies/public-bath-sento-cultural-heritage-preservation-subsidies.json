@@ -171,5 +171,51 @@
       "text": "歴史的建築・文化財保全",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "公的役割の再定義",
+      "labelStandard": "公的役割の再定義",
+      "value": "公的役割の再定義",
+      "unit": "",
+      "oldValue": "これまで: 衛生確保のための物価統制令下の統制価格管理が中心",
+      "description": "地域コミュニティ・孤立防止・災害時支援の指定拠点として多面的評価",
+      "badge": "公的役割の再定義",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "HeartHandshake"
+    },
+    {
+      "labelSimple": "燃料費・設備更新の緊急支援",
+      "labelStandard": "燃料費・設備更新の緊急支援",
+      "value": "燃料費・設備更新の緊急支援",
+      "unit": "",
+      "oldValue": "これまで: 自治体ごとの小規模補助に限られ重油・ガス高騰に対応不能",
+      "description": "国・都道県の協調基金による高効率ボイラー更新と燃料費激変緩和",
+      "badge": "燃料費・設備更新の緊急支援",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Flame"
+    },
+    {
+      "labelSimple": "歴史的建築・文化財保全",
+      "labelStandard": "歴史的建築・文化財保全",
+      "value": "歴史的建築・文化財保全",
+      "unit": "",
+      "oldValue": "これまで: 宮造り建築やペンキ絵の老朽改修費用が全額事業者負担",
+      "description": "登録有形文化財指定の推進と耐震改修・外観維持への助成",
+      "badge": "歴史的建築・文化財保全",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Landmark"
+    },
+    {
+      "labelSimple": "健康見守り・地域医療連携",
+      "labelStandard": "健康見守り・地域医療連携",
+      "value": "健康見守り・地域医療連携",
+      "unit": "",
+      "oldValue": "これまで: 民間の独立営業で地域包括ケアとの公的連携が希薄",
+      "description": "包括支援センターと連携した高齢者見守りポイントや健康相談の実施",
+      "badge": "健康見守り・地域医療連携",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Users"
+    }
   ]
 }

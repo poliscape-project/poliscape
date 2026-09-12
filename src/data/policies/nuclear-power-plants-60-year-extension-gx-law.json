@@ -140,5 +140,51 @@
       "text": "10年ごと特別点検",
       "color": "bg-rose-50 text-rose-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "運転できる年数",
+      "labelStandard": "実質的な運転可能期間",
+      "value": "60年超",
+      "unit": "運転容認",
+      "oldValue": "これまで 原則40年・最長60年廃炉",
+      "description": "裁判や点検での停止期間をカウントから除外",
+      "badge": "GX電源法",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "安全チェック",
+      "labelStandard": "高経年化審査の頻度",
+      "value": "10年ごと",
+      "unit": "定期審査",
+      "oldValue": "これまで 40年目に1回審査のみ",
+      "description": "30年超の全炉に対し10年ごとに認可義務付け",
+      "badge": "特別点検",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "ルールを決める役所",
+      "labelStandard": "運転期間の所管法",
+      "value": "経産省",
+      "unit": "電気事業法",
+      "oldValue": "これまで 原子力規制委員会が一元管理",
+      "description": "エネルギー政策（経産省）と安全規制を分離",
+      "badge": "所管移管",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "一番の心配",
+      "labelStandard": "老朽化による事故懸念",
+      "value": "金属脆化",
+      "unit": "疲労リスク",
+      "oldValue": "これまで 60年で確実に引退",
+      "description": "中性子照射による原子炉圧力容器の劣化懸念",
+      "badge": "老朽原発論争",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
   ]
 }

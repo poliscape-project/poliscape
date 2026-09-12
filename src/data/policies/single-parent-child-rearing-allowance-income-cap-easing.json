@@ -171,5 +171,51 @@
       "text": "一部支給上限枠の引き上げと就労意欲の保護",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "全部支給の所得制限上限",
+      "labelStandard": "全部支給の所得制限上限",
+      "value": "全部支給所得上限を年収約190万円へ引き上げ",
+      "unit": "",
+      "oldValue": "これまで: 年収約160万円（所得87万円）を超えると一部支給へ減額",
+      "description": "年収約190万円（所得107万円）まで全額支給（月4万5500円）を維持",
+      "badge": "全部支給所得上限を年収約190万円へ引き上げ",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "第3子以降の加算額",
+      "labelStandard": "第3子以降の加算額",
+      "value": "第3子以降加算額を月1万750円へ倍増",
+      "unit": "",
+      "oldValue": "これまで: 月額6450円（全部支給時）と第2子加算（月1万750円）の約半額に据え置き",
+      "description": "第2子と同額の月額1万750円へ倍増（多子世帯の加算格差是正）",
+      "badge": "第3子以降加算額を月1万750円へ倍増",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Heart"
+    },
+    {
+      "labelSimple": "一部支給の所得上限枠",
+      "labelStandard": "一部支給の所得上限枠",
+      "value": "一部支給上限枠の引き上げと就労意欲の保護",
+      "unit": "",
+      "oldValue": "これまで: 年収約365万円で手当が完全打ち切りとなり手取り逆転現象が発生",
+      "description": "一部支給の対象上限を年収約385万円水準へ拡大し滑らかな激変緩和",
+      "badge": "一部支給上限枠の引き上げと就労意欲の保護",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "現況届と申請手続きのオンライン化",
+      "labelStandard": "現況届と申請手続きのオンライン化",
+      "value": "オンライン現況届による窓口負担・待機の解消",
+      "unit": "",
+      "oldValue": "これまで: 毎年8月に猛暑の中、自治体窓口へ紙の証明書類を持参して長時間待機",
+      "description": "マイナポータルを通じたオンライン現況届の導入を全国自治体へ順次展開",
+      "badge": "オンライン現況届による窓口負担・待機の解消",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Laptop"
+    }
   ]
 }

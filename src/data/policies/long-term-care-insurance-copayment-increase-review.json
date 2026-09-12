@@ -139,5 +139,51 @@
       "text": "2027年改定焦点",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "介護の自己負担割合",
+      "labelStandard": "自己負担引き上げ案",
+      "value": "2",
+      "unit": "割へ対象拡大",
+      "oldValue": "現在 約9割の利用者が1割負担",
+      "description": "一定所得者の基準引き下げを議論",
+      "badge": "2割負担拡大",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "膨らむ介護の費用",
+      "labelStandard": "全国介護給付費推移",
+      "value": "約15兆",
+      "unit": "円規模へ急増",
+      "oldValue": "2000年開始時 約3.6兆円",
+      "description": "団塊世代の75歳到達で財政圧迫",
+      "badge": "給付費4倍",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "現役世代の負担",
+      "labelStandard": "現役の介護保険料",
+      "value": "月6千円",
+      "unit": "超（労使折半）",
+      "oldValue": "制度開始時 月2,000円台",
+      "description": "現役世代の手取りを大きく圧迫",
+      "badge": "現役負担増",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "次の改定の判断年",
+      "labelStandard": "制度改正の結論時期",
+      "value": "2027年",
+      "unit": "度改定で決着へ",
+      "oldValue": "2024年 国民生活配慮で先送り",
+      "description": "ケアプラン有料化と合わせて再審議",
+      "badge": "継続審議",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Clock"
+    }
   ]
 }

@@ -185,5 +185,81 @@
       "text": "水素不足と産業空洞化懸念",
       "color": "bg-amber-50 text-amber-900"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "鉄作りから出る温室ガス",
+      "labelStandard": "産業CO2に占める鉄鋼の割合",
+      "value": "約 40",
+      "unit": "%（排出の約12%）",
+      "oldValue": "石炭コークスを高炉で燃やして鉄を還元",
+      "descriptionSimple": "日本の工場から出る温室ガスの4割が鉄作り！",
+      "descriptionStandard": "産業部門最大の二酸化炭素排出源の脱炭素化が必須",
+      "badge": "最大排出源",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "国が出す脱炭素のお金",
+      "labelStandard": "GX経済移行債の発行規模",
+      "value": "20",
+      "unit": "兆円（10年間）",
+      "oldValue": "排出削減は民間企業の自己負担が基本だった",
+      "descriptionSimple": "工場をきれいにするため国が20兆円の債券を発行！",
+      "descriptionStandard": "水素製鉄や電炉転換などの長期研究・設備投資を支援",
+      "badge": "GX20兆円債",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "水素を使った新しい鉄作り",
+      "labelStandard": "水素還元製鉄の削減効果",
+      "value": "最大 100",
+      "unit": "%削減（実質ゼロ）",
+      "oldValue": "高炉法では鉄1トンあたり約2トンのCO2排出",
+      "descriptionSimple": "石炭のかわりに水素を使ってCO2を出さない！",
+      "descriptionStandard": "煙突から水蒸気しか出ない究極のグリーンスチール",
+      "badge": "CO2排出ゼロ",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "工場を変える莫大なお金",
+      "labelStandard": "製鉄設備転換の総投資規模",
+      "value": "数兆〜十数兆",
+      "unit": "円",
+      "oldValue": "安価な石炭高炉が日本の産業基盤を支えてきた",
+      "descriptionSimple": "新しい巨大な炉に建て替えるには何兆円もかかる！",
+      "descriptionStandard": "電気代・水素コスト高騰による産業空洞化リスク",
+      "badge": "巨額更新費",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Layers"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "製鉄所の環境技術エンジニア",
+        "commentSimple": "「石炭の代わりに水素で鉄をつくれば、煙突から出るのは水だけになり地球温暖化を止められる」",
+        "commentStandard": "「産業部門CO2排出の4割を占める製鉄を水素還元に置き換えることは、日本の脱炭素目標達成の決定打となる」"
+      },
+      {
+        "speaker": "GX移行債を評価するエコノミスト",
+        "commentSimple": "「脱炭素の鉄を世界に先駆けて作れれば、海外の厳しい環境ルールでも日本の鉄が選ばれ続ける」",
+        "commentStandard": "「欧州CBAM等の国境炭素税を見据え、グリーンスチールで先行することは日本鉄鋼業のグローバル競争力を守る」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "重工業労組の役員",
+        "commentSimple": "「工場を作り直すのに何兆円もかかる。鉄の値段が上がって車やビルの値段も跳ね上がってしまう」",
+        "commentStandard": "「既存高炉の改修と水素インフラに数兆円規模が必要で、製造コスト上昇が自動車・建設など下流産業の重荷になる」"
+      },
+      {
+        "speaker": "エネルギー政策の専門家",
+        "commentSimple": "「きれいな水素を安く大量に手に入れる道筋がまだできていないのに、本当に間に合うのか不安」",
+        "commentStandard": "「グリーン水素の安価かつ安定的な調達網が未確立な中、設備投資だけが先行して座礁するリスクを抱えている」"
+      }
+    ]
+  }
 }

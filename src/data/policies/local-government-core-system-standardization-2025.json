@@ -171,5 +171,51 @@
       "text": "ベンダーロックインの完全打破と競争調達",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "行政システムの仕様・設計",
+      "labelStandard": "行政システムの仕様・設計",
+      "value": "基幹20業務の全国統一仕様準拠システム化",
+      "unit": "",
+      "oldValue": "これまで: 各自治体が独自の条例や運用に合わせて個別発注しカスタマイズが横行",
+      "description": "国が定めた統一仕様書に基づく「標準準拠パッケージシステム」の利用義務化",
+      "badge": "基幹20業務の全国統一仕様準拠システム化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "FileText"
+    },
+    {
+      "labelSimple": "インフラ基盤の運用形態",
+      "labelStandard": "インフラ基盤の運用形態",
+      "value": "ガバメントクラウドへの全庁データ移行",
+      "unit": "",
+      "oldValue": "これまで: 市役所の地下サーバー室や地元データセンターでのオンプレミス運用",
+      "description": "国のガバメントクラウド（安全基準認定クラウド）上への全面集約",
+      "badge": "ガバメントクラウドへの全庁データ移行",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "システム調達・ベンダー依存",
+      "labelStandard": "システム調達・ベンダー依存",
+      "value": "ベンダーロックインの完全打破と競争調達",
+      "unit": "",
+      "oldValue": "これまで: 既存ベンダーしか仕様が分からず競争入札が機能しない「ロックイン」",
+      "description": "共通仕様化により他社パッケージへの乗り換えが容易になり調達価格を抑制",
+      "badge": "ベンダーロックインの完全打破と競争調達",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "移行期限の柔軟運用",
+      "labelStandard": "移行期限の柔軟運用",
+      "value": "自治体の実情に応じた移行期限の柔軟な猶予認定",
+      "unit": "",
+      "oldValue": "これまで: 2025年度末までの全自治体・全業務一律移行を義務付け",
+      "description": "ベンダー逼迫や困難な事情がある自治体に2026年度以降の計画的猶予を容認",
+      "badge": "自治体の実情に応じた移行期限の柔軟な猶予認定",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Clock"
+    }
   ]
 }

@@ -165,5 +165,81 @@
       "text": "経費5割ルールの厳格化",
       "color": "bg-slate-100 text-slate-700"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "実質の自己負担額",
+      "labelStandard": "寄附金控除の最低自己負担",
+      "value": "2,000",
+      "unit": "円",
+      "oldValue": "上限額内なら何自治体でも2,000円",
+      "descriptionSimple": "自己負担2千円でいろんな特産品が！",
+      "descriptionStandard": "住民税等の税額控除を受ける最低負担額",
+      "badge": "実質2,000円",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Gift"
+    },
+    {
+      "labelSimple": "ポータルサイトのポイント",
+      "labelStandard": "仲介サイトのポイント付与",
+      "value": "全面禁止",
+      "unit": "（2025/10〜）",
+      "oldValue": "以前は10〜20%還元も横行",
+      "descriptionSimple": "サイト独自ポイントは付かなくなりました",
+      "descriptionStandard": "総務省告示により自治体契約サイトで禁止",
+      "badge": "新ルール施行",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "もらえる返礼品の目安",
+      "labelStandard": "返礼品調達割合ルール",
+      "value": "3割",
+      "unit": "以下",
+      "oldValue": "寄附金額に対する仕入れ価格基準",
+      "descriptionSimple": "寄附した額の3割相当の品が届く",
+      "descriptionStandard": "地場産品基準および返礼品調達費3割制限",
+      "badge": "3割基準",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "町の経費の上限",
+      "labelStandard": "募集経費5割ルールの厳格化",
+      "value": "5割",
+      "unit": "以下",
+      "oldValue": "ワンストップ特例事務費等も合算",
+      "descriptionSimple": "寄附金の半分は確実に地域づくりへ！",
+      "descriptionStandard": "隠れ経費の排除により制度の健全化を徹底",
+      "badge": "経費適正化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "FileCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "返礼品を活用する一般納税者",
+        "commentSimple": "「自己負担2,000円で日本各地の美味しいお米やお肉が届いて家計が大助かり！」",
+        "commentStandard": "「自分が応援したい地方の自治体に直接納税でき、返礼品で地域産業を支えられる」"
+      },
+      {
+        "speaker": "過疎地域の自治体関係者",
+        "commentSimple": "「町の予算の何倍もの寄附が集まり、学校給食無償化や子育て施設をつくれた」",
+        "commentStandard": "「過疎化に悩む地方にとって、独自の財源を確保して地域おこしを進める貴重な柱」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "大都市（東京・横浜等）の市民・行政",
+        "commentSimple": "「何百億円も住民税が流出して、地元の保育園や道路の予算が削られている…」",
+        "commentStandard": "「行政サービスを提供する自治体に税金が入らず、受益と負担の関係が歪んでいる」"
+      },
+      {
+        "speaker": "ポータルサイト利用者",
+        "commentSimple": "「2025年10月からサイトのポイントがつかなくなったのは正直かなり残念…」",
+        "commentStandard": "「過熱したポイント合戦の是正はやむを得ないが、お得感が減った印象は否めない」"
+      }
+    ]
+  }
 }

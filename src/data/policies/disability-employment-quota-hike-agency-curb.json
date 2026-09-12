@@ -155,5 +155,55 @@
       "text": "貸し農園代行ビジネスの規制",
       "color": "bg-amber-100 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "2.7%へ引き上げ",
+      "labelStandard": "法定雇用率の段階的引き上げ",
+      "value": "2.7",
+      "unit": "%へ（2026年）",
+      "oldValue": "2.3%（従業員43.5人以上の企業）",
+      "descriptionSimple": "2024年4月に2.5%、2026年7月に2.7%へ拡大",
+      "descriptionStandard": "2024年4月に2.5%、2026年7月に2.7%へ拡大",
+      "badge": "2.7%へ引き上げ",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "対象企業拡大",
+      "labelStandard": "対象企業の規模要件",
+      "value": "従業員 37.5",
+      "unit": "人以上",
+      "oldValue": "従業員43.5人以上の中堅・大企業",
+      "descriptionSimple": "中小企業にも障がい者雇用の義務が拡大",
+      "descriptionStandard": "中小企業にも障がい者雇用の義務が拡大",
+      "badge": "対象企業拡大",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "超短時間雇用",
+      "labelStandard": "超短時間雇用の新設",
+      "value": "週10〜20",
+      "unit": "時間未満も算定",
+      "oldValue": "週20時間以上の勤務者のみカウント",
+      "descriptionSimple": "重度障がい者や精神障がい者の就労枠を0.5人算定",
+      "descriptionStandard": "重度障がい者や精神障がい者の就労枠を0.5人算定",
+      "badge": "超短時間雇用",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "代行ビジネス是正",
+      "labelStandard": "貸し農園代行ビジネス",
+      "value": "指導基準",
+      "unit": "を策定",
+      "oldValue": "本業と無関係な数字合わせ雇用が野放し",
+      "descriptionSimple": "キャリア形成や合理的配慮の有無を厚労省が点検",
+      "descriptionStandard": "キャリア形成や合理的配慮の有無を厚労省が点検",
+      "badge": "代行ビジネス是正",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    }
   ]
 }

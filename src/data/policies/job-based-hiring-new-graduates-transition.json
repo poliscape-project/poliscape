@@ -155,5 +155,55 @@
       "text": "就活超早期化と学業への懸念",
       "color": "bg-amber-100 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "就活ルール転換",
+      "labelStandard": "インターン採用直結の解禁",
+      "value": "5日以上の",
+      "unit": "実務型（タイプ3）",
+      "oldValue": "採用選考へのインターン利用は全面禁止",
+      "descriptionSimple": "大学3年夏の職場評価を採用に公式利用可能へ",
+      "descriptionStandard": "大学3年夏の職場評価を採用に公式利用可能へ",
+      "badge": "就活ルール転換",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "配属ガチャ解消",
+      "labelStandard": "新卒の契約形態",
+      "value": "ジョブ型",
+      "unit": "（職種別採用）",
+      "oldValue": "配属先が分からない「総合職一括採用」",
+      "descriptionSimple": "IT、財務、研究開発など職務と勤務地を特定",
+      "descriptionStandard": "IT、財務、研究開発など職務と勤務地を特定",
+      "badge": "配属ガチャ解消",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Briefcase"
+    },
+    {
+      "labelSimple": "横並び撤廃",
+      "labelStandard": "優秀層への初任給待遇",
+      "value": "年俸600〜1,000",
+      "unit": "万円超提示",
+      "oldValue": "全社一律月額21〜23万円の横並び",
+      "descriptionSimple": "高度IT・AI人材への破格の初任給年俸制",
+      "descriptionStandard": "高度IT・AI人材への破格の初任給年俸制",
+      "badge": "横並び撤廃",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "学業との両立",
+      "labelStandard": "就活早期化の弊害",
+      "value": "大学2年",
+      "unit": "から準備過熱",
+      "oldValue": "大学4年の春から一斉スタート",
+      "descriptionSimple": "学業や留学がおろそかになる大学の空洞化懸念",
+      "descriptionStandard": "学業や留学がおろそかになる大学の空洞化懸念",
+      "badge": "学業との両立",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Clock"
+    }
   ]
 }

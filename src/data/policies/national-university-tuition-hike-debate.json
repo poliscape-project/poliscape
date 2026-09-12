@@ -155,5 +155,55 @@
       "text": "年収900万円まで免除拡充",
       "color": "bg-teal-50 text-teal-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "年約11万円増",
+      "labelStandard": "東大の新授業料（年額）",
+      "value": "約64.3",
+      "unit": "万円/年",
+      "oldValue": "国の標準額 53万5,800円（約20年据置）",
+      "descriptionSimple": "文科省省令の上限枠いっぱいの20%値上げ",
+      "descriptionStandard": "文科省省令の上限枠いっぱいの20%値上げ",
+      "badge": "年約11万円増",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "中間層救済",
+      "labelStandard": "独自免除の拡大年収枠",
+      "value": "年収 900",
+      "unit": "万円まで",
+      "oldValue": "世帯年収約400万円以下に限定",
+      "descriptionSimple": "中間層世帯の学生を独自予算で全額・半額免除",
+      "descriptionStandard": "中間層世帯の学生を独自予算で全額・半額免除",
+      "badge": "中間層救済",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "交付金削減のツケ",
+      "labelStandard": "運営費交付金の削減総額",
+      "value": "累計1,000",
+      "unit": "億円超減",
+      "oldValue": "2004年国立大学法人化時の予算規模",
+      "descriptionSimple": "基盤経費が削られ光熱費高騰で大学経営が疲弊",
+      "descriptionStandard": "基盤経費が削られ光熱費高騰で大学経営が疲弊",
+      "badge": "交付金削減のツケ",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "全国波及論争",
+      "labelStandard": "他大学への波及リスク",
+      "value": "全国86",
+      "unit": "国立大へ議論拡大",
+      "oldValue": "東工大・一橋大など数校が先行値上げ",
+      "descriptionSimple": "地方国立大生への負担転嫁と教育格差の懸念",
+      "descriptionStandard": "地方国立大生への負担転嫁と教育格差の懸念",
+      "badge": "全国波及論争",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "GraduationCap"
+    }
   ]
 }

@@ -171,5 +171,51 @@
       "text": "OECD準拠の実体研究開発要件（ネクサス基準）",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "知財所得に対する優遇税率",
+      "labelStandard": "知財所得に対する優遇税率",
+      "value": "対象特許・AI所得の30%特別控除導入",
+      "unit": "",
+      "oldValue": "これまで: 通常の法人税実効税率（約30%）が一律適用され知財への優遇なし",
+      "description": "対象所得の30%を所得控除し、実質的な法人税負担率を約15%前後に軽減",
+      "badge": "対象特許・AI所得の30%特別控除導入",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "対象となる知的財産の範囲",
+      "labelStandard": "対象となる知的財産の範囲",
+      "value": "特許権およびAI著作権の対象指定",
+      "unit": "",
+      "oldValue": "これまで: 制度自体が存在せず、すべての知的財産所得が一般事業所得と合算",
+      "description": "国内で自ら研究開発した特許権およびAI関連ソフトウェア著作権を対象指定",
+      "badge": "特許権およびAI著作権の対象指定",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "減税適用の厳格要件（ネクサス比率）",
+      "labelStandard": "減税適用の厳格要件（ネクサス比率）",
+      "value": "OECD準拠の実体研究開発要件（ネクサス基準）",
+      "unit": "",
+      "oldValue": "これまで: なし（国際的租税回避地への知財移転が放置）",
+      "description": "自社国内研究開発費／総研究開発費の比率（ネクサス比率）に応じて減税額を算出",
+      "badge": "OECD準拠の実体研究開発要件（ネクサス基準）",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "既存の研究開発税制との組み合わせ",
+      "labelStandard": "既存の研究開発税制との組み合わせ",
+      "value": "研究投資時と知財収益時のハイブリッド優遇",
+      "unit": "",
+      "oldValue": "これまで: 研究開発投資時の税額控除のみで、成果が出た後の所得優遇は存在せず",
+      "description": "「投資時（研究費減税）」と「収益化時（知財所得減税）」の二段構え支援へ進化",
+      "badge": "研究投資時と知財収益時のハイブリッド優遇",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "TrendingUp"
+    }
   ]
 }

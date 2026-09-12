@@ -185,5 +185,81 @@
       "text": "備蓄米の機動的放出議論",
       "color": "bg-emerald-50 text-emerald-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国がためているお米",
+      "labelStandard": "政府備蓄米保有量",
+      "value": "約 100",
+      "unit": "万トン",
+      "oldValue": "これまで「大凶作時のみ」厳格運用",
+      "descriptionSimple": "ピンチのときに早くお店に届けるか議論！",
+      "descriptionStandard": "流通逼迫・異常高騰時の機動的放出を検討",
+      "badge": "有事の砦",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "お米をへらすお金",
+      "labelStandard": "転作助成（減反方針）",
+      "value": "最大 10.5",
+      "unit": "万円/10a",
+      "oldValue": "飼料用米等への転作を強力誘導",
+      "descriptionSimple": "「コメを作るな」というルールの見直し！",
+      "descriptionStandard": "需給に応じた柔軟な作付け支援への転換",
+      "badge": "減反見直し",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "お米のねだん上昇",
+      "labelStandard": "新米価格の前年比",
+      "value": "最大 +50",
+      "unit": "%超",
+      "oldValue": "2024年夏に令和の米騒動が発生",
+      "descriptionSimple": "スーパーからお米が消えて高騰！",
+      "descriptionStandard": "猛暑被害・資材高騰と流通混乱が直撃",
+      "badge": "価格急騰",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "1人が食べるお米の量",
+      "labelStandard": "年間1人あたり消費量",
+      "value": "約 50",
+      "unit": "kg/年",
+      "oldValue": "ピーク時（昭和37年）は118kg",
+      "descriptionSimple": "日本人が食べるお米は年々減少中",
+      "descriptionStandard": "人口減少と食の多様化で需要は構造的減少",
+      "badge": "需要半減",
+      "badgeColor": "bg-slate-100 text-slate-700",
+      "icon": "Users"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "子育て世帯の保護者",
+        "commentSimple": "「お米は毎日のごはんの命。お店から消えたり高くなったりしたら、国のお米をすぐに安く出してほしい！」",
+        "commentStandard": "「主食の価格高騰は子育て世帯の家計を直撃する。100万トンもある備蓄米を機動的に放出して安定供給を最優先にすべき」"
+      },
+      {
+        "speaker": "外食・中食チェーン経営者",
+        "commentSimple": "「お米が足りなくてお店で出せなくなったら困る。国が『作るな』と止めるのをやめて自由に作らせて」",
+        "commentStandard": "「業務用米の逼迫で仕入れ値が高騰し死活問題。減反ありきではなく、需要に応じた柔軟な増産を認めるべき」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "東北の稲作専業農家",
+        "commentSimple": "「肥料や機械がすごく高くなっているのに、国がお米を出しすぎて値段が暴落したら赤字で倒産してしまう」",
+        "commentStandard": "「普段は『余るから作るな』と減反させ、高くなると備蓄米で価格を叩くのでは、米農家は誰も生き残れない」"
+      },
+      {
+        "speaker": "食料安全保障の専門家",
+        "commentSimple": "「国のお米は、大地震や本当の戦争で食べ物がなくなったときの最後の命綱。簡単に使ってはいけない」",
+        "commentStandard": "「平時の流通不足で備蓄米を放出すれば、本物の大凶作や海外からの輸入途絶時に国民を飢餓から守れなくなる」"
+      }
+    ]
+  }
 }

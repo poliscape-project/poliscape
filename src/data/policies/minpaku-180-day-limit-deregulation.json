@@ -155,5 +155,55 @@
       "text": "ヤミ民泊・騒音取締",
       "color": "bg-rose-50 text-rose-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "180日規制",
+      "labelStandard": "民泊の営業日数制限",
+      "value": "年間 180",
+      "unit": "日ルール",
+      "oldValue": "旅館業法の許可がなければ営業不可",
+      "descriptionSimple": "住宅宿泊事業法の年間上限緩和を巡る論争",
+      "descriptionStandard": "住宅宿泊事業法の年間上限緩和を巡る論争",
+      "badge": "180日規制",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "利用拡大",
+      "labelStandard": "訪日客の民泊利用率",
+      "value": "約15〜20",
+      "unit": "%へ急伸",
+      "oldValue": "ホテル・旅館が宿泊の大半",
+      "descriptionSimple": "ホテル不足と宿泊費高騰で民泊が急成長",
+      "descriptionStandard": "ホテル不足と宿泊費高騰で民泊が急成長",
+      "badge": "利用拡大",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "違法取締",
+      "labelStandard": "ヤミ民泊への罰則",
+      "value": "最高100",
+      "unit": "万円罰金",
+      "oldValue": "罰則が甘く違法民泊が野放しだった",
+      "descriptionSimple": "無許可営業に対する自治体の立ち入り強化",
+      "descriptionStandard": "無許可営業に対する自治体の立ち入り強化",
+      "badge": "違法取締",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "住民摩擦",
+      "labelStandard": "自治体独自の上乗せ条例",
+      "value": "全国多数",
+      "unit": "の自治体",
+      "oldValue": "平日営業禁止や住居専用地域規制",
+      "descriptionSimple": "ゴミ放置・騒音を嫌う住民による反対運動",
+      "descriptionStandard": "ゴミ放置・騒音を嫌う住民による反対運動",
+      "badge": "住民摩擦",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Scale"
+    }
   ]
 }

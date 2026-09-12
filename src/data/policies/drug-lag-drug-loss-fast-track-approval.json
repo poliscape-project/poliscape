@@ -165,5 +165,51 @@
       "text": "迅速導入への薬価優遇",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "日本人追加治験の原則",
+      "labelStandard": "日本人追加治験の原則",
+      "value": "国内独自治験の原則撤廃",
+      "unit": "",
+      "oldValue": "これまで: 国内で日本人を対象とした事前の第1相試験（安全性確認）が原則必須",
+      "description": "海外データを原則受け入れ、国際共同治験への早期合流を認める指針へ転換",
+      "badge": "国内独自治験の原則撤廃",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "承認審査期間の短縮",
+      "labelStandard": "承認審査期間の短縮",
+      "value": "審査期間を最短6か月に",
+      "unit": "",
+      "oldValue": "これまで: 欧米の承認から日本での承認まで数年以上のタイムラグ（遅れ）が常態化",
+      "description": "優先審査・条件付き早期承認の適用拡大で審査期間を最短6〜9か月に短縮",
+      "badge": "審査期間を最短6か月に",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "日本早期導入への薬価評価",
+      "labelStandard": "日本早期導入への薬価評価",
+      "value": "迅速導入への薬価優遇",
+      "unit": "",
+      "oldValue": "これまで: 毎年の薬価改定で薬価が下がり続け、外資バイオが日本進出を躊躇",
+      "description": "日本で世界最速または同時期に申請・導入した場合の薬価加算（インセンティブ）新設",
+      "badge": "迅速導入への薬価優遇",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "小児・難病用医薬品の開発支援",
+      "labelStandard": "小児・難病用医薬品の開発支援",
+      "value": "小児・難病薬の開発義務化",
+      "unit": "",
+      "oldValue": "これまで: 市場規模が小さく採算が取れないため、国内開発が放置されがち",
+      "description": "開発助成金の拡充と、成人用医薬品の開発時に小児用治験計画策定を努力義務化",
+      "badge": "小児・難病薬の開発義務化",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "HeartPulse"
+    }
   ]
 }

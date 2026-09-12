@@ -139,5 +139,51 @@
       "text": "北海道・日本海側新拠点",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "首都圏データセンター集中",
+      "labelStandard": "首都圏データセンター集中",
+      "value": "約 8",
+      "unit": "割（千葉印西等に偏重）",
+      "oldValue": "大消費地・東京近くに集中立地",
+      "description": "首都直下・南海トラフでネット壊滅の危機",
+      "badge": "8割が首都圏集中",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "海底ケーブル陸揚げ局",
+      "labelStandard": "海底ケーブル陸揚げ局",
+      "value": "太平洋側 6",
+      "unit": "割（南房総等）",
+      "oldValue": "太平洋ルートに依存",
+      "description": "日本海側や北海道・沖縄へ新ルート敷設",
+      "badge": "日本海側新ルート",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Anchor"
+    },
+    {
+      "labelSimple": "寒冷地冷却の省エネ効果",
+      "labelStandard": "寒冷地冷却の省エネ効果",
+      "value": "電力 30",
+      "unit": "%削減（北海道等）",
+      "oldValue": "首都圏火力発電の電力を莫大消費",
+      "description": "雪や外気で冷やすグリーンデータセンター",
+      "badge": "3割省エネ冷却",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "通信遅延（レイテンシ）",
+      "labelStandard": "通信遅延（レイテンシ）",
+      "value": "十数ミリ秒",
+      "unit": "の往復遅延",
+      "oldValue": "東京近郊なら数ミリ秒以内で通信",
+      "description": "株取引やゲーム会社が地方移転を敬遠",
+      "badge": "通信遅延の壁",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Clock"
+    }
   ]
 }

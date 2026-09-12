@@ -139,5 +139,51 @@
       "text": "女性幹部パイプライン育成",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "2030年の女性役員目標",
+      "labelStandard": "2030年の女性役員目標",
+      "value": "30",
+      "unit": "%以上（プライム企業）",
+      "oldValue": "日本は長年10%台前半でG7最下位級",
+      "description": "女性版骨太の方針による国家数値目標",
+      "badge": "2030年30%目標",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "2025年マイルストーン",
+      "labelStandard": "2025年マイルストーン",
+      "value": "役員ゼロ",
+      "unit": "企業の完全撲滅",
+      "oldValue": "プライム企業の約2割で女性役員ゼロ",
+      "description": "全社最低1名以上の女性役員登用を達成",
+      "badge": "ゼロ撲滅達成",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "海外投資家の投資基準",
+      "labelStandard": "海外投資家の投資基準",
+      "value": "反対票",
+      "unit": "（多様性欠如の企業）",
+      "oldValue": "男性単一の取締役会でも容認されていた",
+      "description": "ESG投資ファンドが役員選任案に反対行使",
+      "badge": "ESG投資呼び込み",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Globe"
+    },
+    {
+      "labelSimple": "社内の育成パイプライン",
+      "labelStandard": "社内の育成パイプライン",
+      "value": "幹部候補",
+      "unit": "の女性が社内不足",
+      "oldValue": "過去の女性採用・登用の遅れが直撃",
+      "description": "数合わせの社外取兼任ラッシュが課題",
+      "badge": "育成パイプライン壁",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Briefcase"
+    }
   ]
 }

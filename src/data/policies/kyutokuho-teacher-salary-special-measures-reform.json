@@ -139,5 +139,51 @@
       "text": "定額働かせ放題論争",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "先生の一律手当の割合",
+      "labelStandard": "教職調整額の引き上げ",
+      "value": "10",
+      "unit": "%以上（現行4%）",
+      "oldValue": "1971年以来 半世紀以上4％固定",
+      "description": "中教審答申に基づき50年ぶり引き上げ",
+      "badge": "10％超へ改定",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "先生の残業代の決まり",
+      "labelStandard": "給特法の残業代不支給",
+      "value": "ゼロ",
+      "unit": "円（定額手当制）",
+      "oldValue": "「定額働かせ放題」と強い批判継続",
+      "description": "時間外勤務手当を払わない例外法",
+      "badge": "給特法見直し",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "先生の採用倍率",
+      "labelStandard": "小学校教員採用倍率",
+      "value": "2倍台",
+      "unit": "前半（過去最低水準）",
+      "oldValue": "かつて 5〜10倍超の人気職種",
+      "description": "ブラック労働イメージで志願者激減",
+      "badge": "教員不足危機",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "手取り年収の増加",
+      "labelStandard": "処遇改善による給与増",
+      "value": "年数十万",
+      "unit": "円の底上げ効果",
+      "oldValue": "月給4%（数千円〜1万円台）にとどまる",
+      "description": "担任手当増額とともに全教員を底上げ",
+      "badge": "手取り年収増",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Wallet"
+    }
   ]
 }

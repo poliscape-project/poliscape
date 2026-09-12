@@ -139,5 +139,51 @@
       "text": "都条例2025年4月施行",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "新築マンションの充電器の数",
+      "labelStandard": "EV充電設備の義務化割合",
+      "value": "約20",
+      "unit": "%（駐車区画の2割に整備義務）",
+      "oldValue": "これまで デベロッパーの任意設置（数%）",
+      "description": "新築分譲マンションに最初から充電器を設置",
+      "badge": "新築2割設置義務",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "条例がスタートする時期",
+      "labelStandard": "東京都改正環境確保条例の施行",
+      "value": "2025",
+      "unit": "年4月1日より全面施行",
+      "oldValue": "集合住宅でEVが充電できないため買えない壁",
+      "description": "東京を皮切りに全国の建築基準へ波及検討",
+      "badge": "2025年4月施行",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Calendar"
+    },
+    {
+      "labelSimple": "将来ぜんぶの車を充電するための配管",
+      "labelStandard": "全駐車区画への先行空配管",
+      "value": "全台",
+      "unit": "対応可能な電気配管の事前埋設",
+      "oldValue": "完成後にアスファルトを掘り返す巨額工事",
+      "description": "将来安価に充電器を増やせるよう準備",
+      "badge": "将来全台増設対応",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "全国へのルールの広がり",
+      "labelStandard": "建築物省エネ法等での標準化",
+      "value": "全国",
+      "unit": "展開へ法制化・基準化の議論",
+      "oldValue": "東京都など一部自治体の条例にとどまる",
+      "description": "日本のモビリティ電動化をインフラで後押し",
+      "badge": "全国標準化へ",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Building"
+    }
   ]
 }

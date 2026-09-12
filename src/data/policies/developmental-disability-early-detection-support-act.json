@@ -171,5 +171,51 @@
       "text": "専門職による個別療育重視への報酬改定",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "5歳児健康診査の全国展開",
+      "labelStandard": "5歳児健康診査の全国展開",
+      "value": "5歳児健康診査の全国公費助成化",
+      "unit": "",
+      "oldValue": "これまで: 3歳児健診以降は就学時健診（6歳秋）まで公的健診がなく発見が遅延",
+      "description": "5歳児健診への国費補助を制度化し全国の自治体で悉皆（原則全員）健診へ",
+      "badge": "5歳児健康診査の全国公費助成化",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Heart"
+    },
+    {
+      "labelSimple": "通所受給者証の発行手続き",
+      "labelStandard": "通所受給者証の発行手続き",
+      "value": "受給者証のマイナポータル即時発行・DX化",
+      "unit": "",
+      "oldValue": "これまで: 医師の意見書を紙で集め市役所窓口で申請し交付まで2〜3ヶ月待機",
+      "description": "マイナポータルでのオンライン申請と診断データ連携で即時審査・交付",
+      "badge": "受給者証のマイナポータル即時発行・DX化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "児童発達支援の報酬基準",
+      "labelStandard": "児童発達支援の報酬基準",
+      "value": "専門職による個別療育重視への報酬改定",
+      "unit": "",
+      "oldValue": "これまで: 子どもを車で送迎して預かるだけの「預かり型」事業所が乱立し質が低下",
+      "description": "言語聴覚士（ST）や作業療法士（OT）による個別訓練の実施を義務化・評価",
+      "badge": "専門職による個別療育重視への報酬改定",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "就学時の小学校への情報引き継ぎ",
+      "labelStandard": "就学時の小学校への情報引き継ぎ",
+      "value": "保育・療育から小学校へのデジタル支援引き継ぎ",
+      "unit": "",
+      "oldValue": "これまで: 幼稚園・保育園での療育情報が小学校に届かず小1でパニック・不登校",
+      "description": "保護者の同意のもとデジタル「個別の教育支援計画」を小学校へ自動共有",
+      "badge": "保育・療育から小学校へのデジタル支援引き継ぎ",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "CheckCircle2"
+    }
   ]
 }

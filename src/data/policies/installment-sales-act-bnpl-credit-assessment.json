@@ -159,5 +159,51 @@
       "text": "割賦販売法・信用調査",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "後払いの審査チェック",
+      "labelStandard": "BNPL与信審査の義務化",
+      "value": "CIC照会",
+      "unit": "で多重債務防止",
+      "oldValue": "これまで 電話とメアドだけで即時利用可能",
+      "description": "信用情報機関の照会で延滞者や多重利用を制限",
+      "badge": "与信審査",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "FileSpreadsheet"
+    },
+    {
+      "labelSimple": "使える金額の上限",
+      "labelStandard": "若年層・初回の限度額管理",
+      "value": "上限設定",
+      "unit": "で使いすぎ抑止",
+      "oldValue": "これまで 複数アプリ併用で数十万円の借金",
+      "description": "若者や新規利用者の限度額を低く抑制",
+      "badge": "限度額管理",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "手数料の分かりやすさ",
+      "labelStandard": "実質年率換算の表示義務",
+      "value": "年率換算",
+      "unit": "の明瞭表示",
+      "oldValue": "これまで 手数料や遅延金が高率でも気づかず",
+      "description": "分割払い手数料を年利表示し借金自覚を促す",
+      "badge": "手数料透明化",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "CreditCard"
+    },
+    {
+      "labelSimple": "18歳新成人の保護",
+      "labelStandard": "学校教育での金融教育",
+      "value": "金融リテラシー",
+      "unit": "授業の推進",
+      "oldValue": "これまで クレジットの仕組みを知らず多重債務",
+      "description": "デジタルツケ払いのリスク周知と相談体制強化",
+      "badge": "若者保護",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "GraduationCap"
+    }
   ]
 }

@@ -139,5 +139,51 @@
       "text": "全国一律国費支援",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "親が払う給食費",
+      "labelStandard": "児童生徒1人あたり給食費",
+      "value": "年約5万",
+      "unit": "円の保護者負担",
+      "oldValue": "学校給食法11条で保護者負担原則",
+      "description": "子ども複数人で年10万〜15万円の支出",
+      "badge": "年5万円の負担",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "全国一律の無償化",
+      "labelStandard": "全国完全無償化の財源",
+      "value": "約5,000",
+      "unit": "億円/年（国費試算）",
+      "oldValue": "自治体の独自財源頼みで地域格差",
+      "description": "国費による一律負担へ向け法制化議論",
+      "badge": "年5千億円枠",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "今タダにしている自治体",
+      "labelStandard": "独自無償化自治体割合",
+      "value": "約3",
+      "unit": "割の市町村（格差）",
+      "oldValue": "東京23区等は全額無償、地方は有償",
+      "description": "住む場所による子育て支援格差を是正",
+      "badge": "地域格差解消",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "先生の集金作業",
+      "labelStandard": "給食費の未納・督促事務",
+      "value": "完全ゼロ",
+      "unit": "化（事務全廃）",
+      "oldValue": "教員が督促電話や集金集計で残業",
+      "description": "無償化で先生の事務負担を一掃",
+      "badge": "徴収事務ゼロ",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

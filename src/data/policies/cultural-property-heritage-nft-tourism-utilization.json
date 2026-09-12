@@ -171,5 +171,51 @@
       "text": "観光利益の修繕積立金への強制還元",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "文化財の利用・公開基準",
+      "labelStandard": "文化財の利用・公開基準",
+      "value": "城泊・体験型高級観光の公式解禁",
+      "unit": "",
+      "oldValue": "これまで: 厳格な現状保存を最優先とし飲食や宿泊などの商業利用は原則禁止",
+      "description": "一定の防災・保存要件を満たせば城泊・寺泊・夜間貸切等の活用を公認",
+      "badge": "城泊・体験型高級観光の公式解禁",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "修繕資金の調達手段",
+      "labelStandard": "修繕資金の調達手段",
+      "value": "NFT・CFによるグローバル修繕資金調達",
+      "unit": "",
+      "oldValue": "これまで: 国や自治体の補助金と所有者の私費・地元住民の寄進頼みで資金不足",
+      "description": "クラウドファンディングやブロックチェーンNFTサポーター証で世界から資金調達",
+      "badge": "NFT・CFによるグローバル修繕資金調達",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "観光収益の還元義務",
+      "labelStandard": "観光収益の還元義務",
+      "value": "観光利益の修繕積立金への強制還元",
+      "unit": "",
+      "oldValue": "これまで: 観光利益が建造物の修繕に還元される法的担保が不十分だった",
+      "description": "事業収益の一定割合を修繕基金や積立金に直接回すことを認可条件に設定",
+      "badge": "観光利益の修繕積立金への強制還元",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "CheckCircle2"
+    },
+    {
+      "labelSimple": "防災設備と歴史的意匠の両立",
+      "labelStandard": "防災設備と歴史的意匠の両立",
+      "value": "文化財専用の柔軟な防災・耐震新基準",
+      "unit": "",
+      "oldValue": "これまで: 近代の建築基準法や消防法を一律適用すると意匠が破壊されるジレンマ",
+      "description": "景観を損なわない隠蔽型スプリンクラーや木造専用消火基準を標準化",
+      "badge": "文化財専用の柔軟な防災・耐震新基準",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

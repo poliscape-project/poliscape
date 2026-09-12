@@ -133,5 +133,51 @@
       "text": "未成魚保護",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "日本の魚の漁獲量",
+      "labelStandard": "年間国内漁獲量",
+      "value": "約300万",
+      "unit": "トン（ピークの1/4）",
+      "oldValue": "1984年 ピーク時1,280万トン",
+      "description": "サンマやイカの歴史的不漁が常態化",
+      "badge": "漁獲量1/4激減",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "上限枠を決める目標",
+      "labelStandard": "TAC対象魚種の割合",
+      "value": "80",
+      "unit": "%（漁獲量ベース目標）",
+      "oldValue": "従来 サンマ等8魚種のみに限定",
+      "description": "ブリやマダイなど主要魚種を順次追加",
+      "badge": "枠管理8割へ",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Shield"
+    },
+    {
+      "labelSimple": "船ごとの割り当て",
+      "labelStandard": "IQ（個別割当方式）",
+      "value": "船ごと",
+      "unit": "に漁獲枠を設定",
+      "oldValue": "早い者勝ちで小さな魚まで獲り尽くす",
+      "description": "旬の時期に高値で計画的に水揚げ",
+      "badge": "個別割当IQ",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Ship"
+    },
+    {
+      "labelSimple": "魚の値段の変化",
+      "labelStandard": "稼げる水産業への転換",
+      "value": "魚価高",
+      "unit": "と燃料代の節約",
+      "oldValue": "値崩れ・赤字操業で漁業離れが加速",
+      "description": "獲りすぎを防ぎ高い単価で売るモデル",
+      "badge": "魚価向上",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    }
   ]
 }

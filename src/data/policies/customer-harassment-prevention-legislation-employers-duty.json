@@ -139,5 +139,51 @@
       "text": "名札フルネーム廃止",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "会社に従業員を守らせる",
+      "labelStandard": "カスハラ防止措置の義務化",
+      "value": "義務",
+      "unit": "化（相談窓口・マニュアル策定）",
+      "oldValue": "これまで 店員個人の我慢や平謝りに依存",
+      "description": "理不尽な迷惑客から組織全体で従業員を保護",
+      "badge": "企業義務化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "理不尽な迷惑客への対応",
+      "labelStandard": "接客・サービス拒否の公認",
+      "value": "拒否",
+      "unit": "可能（暴言・土下座強要に対処）",
+      "oldValue": "「お客様は神様」として理不尽も丸呑み",
+      "description": "悪質行為にはサービスを打ち切り警察通報",
+      "badge": "接客拒否合法化",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Ban"
+    },
+    {
+      "labelSimple": "全国で最初にルールを作った街",
+      "labelStandard": "東京都カスハラ防止条例",
+      "value": "2025",
+      "unit": "年4月1日より条例施行",
+      "oldValue": "これまで 自治体レベルでの法的根拠なし",
+      "description": "都の先行条例に続き国レベルでの法制化へ",
+      "badge": "都条例先行施行",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "店員さんの名前を守る",
+      "labelStandard": "名札のフルネーム表示見直し",
+      "value": "名字のみ",
+      "unit": "やイニシャル化の推進",
+      "oldValue": "名札から本名特定・SNS晒し被害多発",
+      "description": "現場スタッフのプライバシーを徹底保護",
+      "badge": "プライバシー保護",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "UserCheck"
+    }
   ]
 }

@@ -159,5 +159,51 @@
       "text": "警戒レベル4避難指示前倒し",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "豪雨の予測タイミング",
+      "labelStandard": "線状降水帯の予測発表",
+      "value": "半日前",
+      "unit": "から早期警戒情報",
+      "oldValue": "これまで 発生後の事後情報発表にとどまる",
+      "description": "スーパーコンピュータ富岳を活用し発生可能性を予告",
+      "badge": "半日前予測",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "地図での危険度チェック",
+      "labelStandard": "キキクル（危険度分布）の活用",
+      "value": "5色の地図",
+      "unit": "で直感リアルタイム",
+      "oldValue": "これまで 雨量ミリ数だけでは危険度が分からず",
+      "description": "土砂崩れや洪水の危険度を色別マップで即座に把握",
+      "badge": "キキクル表示",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "MapPin"
+    },
+    {
+      "labelSimple": "避難を始める時期",
+      "labelStandard": "明るいうちの避難指示発令",
+      "value": "前倒し発令",
+      "unit": "で逃げ遅れゼロ",
+      "oldValue": "これまで 夜間の猛烈な雨で避難できず被災",
+      "description": "空振りを恐れず夕方の明るい段階で高齢者等避難",
+      "badge": "避難前倒し",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "スマホへの緊急連絡",
+      "labelStandard": "エリアメール・自治体速報",
+      "value": "即時警報",
+      "unit": "で対象地域へ配信",
+      "oldValue": "これまで 屋外スピーカーが豪雨の轟音で聞こえず",
+      "description": "危険地域の全スマホへダイレクトに緊急避難を促す",
+      "badge": "スマホ速報",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Smartphone"
+    }
   ]
 }

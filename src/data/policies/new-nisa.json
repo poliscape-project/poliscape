@@ -165,5 +165,81 @@
       "text": "売却枠の翌年再利用",
       "color": "bg-indigo-50 text-indigo-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "一生で非課税にできる上限",
+      "labelStandard": "生涯非課税保有限度額",
+      "value": "1,800",
+      "unit": "万円",
+      "oldValue": "旧つみたてNISA最大800万円",
+      "descriptionSimple": "売れば枠が復活して再利用可能！",
+      "descriptionStandard": "簿価（買付残高）ベースで枠再利用可",
+      "badge": "生涯枠拡大",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "PiggyBank"
+    },
+    {
+      "labelSimple": "税金がタダになる期間",
+      "labelStandard": "非課税保有期間",
+      "value": "無期限",
+      "unit": "（恒久化）",
+      "oldValue": "旧制度は5年または20年限定",
+      "descriptionSimple": "一生涯ずっと税金ゼロで運用！",
+      "descriptionStandard": "ロールオーバー手続き不要で完全恒久化",
+      "badge": "恒久化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "1年間に投資できる上限",
+      "labelStandard": "年間投資枠",
+      "value": "360",
+      "unit": "万円/年",
+      "oldValue": "旧制度は年40万〜120万円",
+      "descriptionSimple": "つみたてと成長枠を一緒に使える！",
+      "descriptionStandard": "つみたて120万＋成長投資240万の併用",
+      "badge": "併用可能",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "浮く税金の割合",
+      "labelStandard": "非課税メリット率",
+      "value": "20.315",
+      "unit": "%",
+      "oldValue": "通常口座は利益の2割を課税",
+      "descriptionSimple": "本来引かれる税金がまるまる手元に",
+      "descriptionStandard": "所得税15.315%＋住民税5%が全額免除",
+      "badge": "まるまる手取り",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Wallet"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "資産形成を始めた20代・30代会社員",
+        "commentSimple": "「ずっと非課税で枠も1,800万あるから、将来のための投資がすごくやりやすい！」",
+        "commentStandard": "「無期限化と1,800万円の枠再利用のおかげで、住宅購入や教育費の出金後も再投資できる」"
+      },
+      {
+        "speaker": "定年間近のミドル世代",
+        "commentSimple": "「成長投資枠で年間240万円使えるから、退職金の一部を非課税で運用できる」",
+        "commentStandard": "「年間最大360万円まで投資できるため、まとまった資金をスピーディーに非課税枠へ移管できる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "金融教育の専門家・FP",
+        "commentSimple": "「株が暴落したときに慌てて売って、損をしてやめてしまう人が出ないか心配」",
+        "commentStandard": "「元本割れリスクへの理解が浅いまま過度な集中投資を行い、調整局面でパニック売りする懸念」"
+      },
+      {
+        "speaker": "日々の生活費で手いっぱいの市民",
+        "commentSimple": "「投資に回すお金がある人だけが得をして、貯金できない人との格差が広がりそう」",
+        "commentStandard": "「投資余力のない低所得世帯には恩恵がなく、資産所得格差が一段と拡大するのでは」"
+      }
+    ]
+  }
 }

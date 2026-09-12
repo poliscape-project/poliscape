@@ -139,5 +139,51 @@
       "text": "高額薬価管理",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "助成対象の難病数",
+      "labelStandard": "国の指定難病数",
+      "value": "340",
+      "unit": "疾患超",
+      "oldValue": "2014年 旧制度下では56疾患",
+      "description": "医学的基準に基づき対象を大幅拡充",
+      "badge": "助成拡大",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "月の自己負担上限",
+      "labelStandard": "医療費窓口上限額",
+      "value": "2,500〜",
+      "unit": "30,000円",
+      "oldValue": "助成なし 数十万〜百万円の負担",
+      "description": "所得に応じた自己負担上限を設定",
+      "badge": "上限管理",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "国のゲノム解析",
+      "labelStandard": "全ゲノム解析実行計画",
+      "value": "10万",
+      "unit": "症例規模",
+      "oldValue": "これまで 研究機関ごとにデータ分断",
+      "description": "患者遺伝子データを集約し創薬支援",
+      "badge": "国家計画",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "最新の遺伝子新薬",
+      "labelStandard": "超高額薬剤の薬価",
+      "value": "数千万〜",
+      "unit": "億円超/回",
+      "oldValue": "従来 治せない難病が多数",
+      "description": "画期的治療と保険財政維持の両立",
+      "badge": "薬価管理",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "ShieldAlert"
+    }
   ]
 }

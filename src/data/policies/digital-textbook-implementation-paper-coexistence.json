@@ -139,5 +139,51 @@
       "text": "紙とデジタルの二重負担",
       "color": "bg-slate-100 text-slate-700"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "先行導入教科",
+      "labelStandard": "先行導入教科",
+      "value": "小5〜中3",
+      "unit": "「英語」から無償化",
+      "oldValue": "紙の教科書のみ全額無償配布",
+      "description": "算数・数学等への拡大と効果検証中",
+      "badge": "英語から先行無償",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "BookOpen"
+    },
+    {
+      "labelSimple": "特別な支援機能",
+      "labelStandard": "特別な支援機能",
+      "value": "音声読上げ",
+      "unit": "・文字拡大標準装備",
+      "oldValue": "弱視児等に特注拡大本が必要だった",
+      "description": "ディスレクシアや外国人児童の学びを保障",
+      "badge": "アクセシビリティ",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "児童生徒の視力低下",
+      "labelStandard": "児童生徒の視力低下",
+      "value": "過去最悪",
+      "unit": "（視力1.0未満急増）",
+      "oldValue": "紙中心の学習環境",
+      "description": "長時間の画面凝視による近視化を懸念",
+      "badge": "視力低下の懸念",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "紙とデジタルの二重予算",
+      "labelStandard": "紙とデジタルの二重予算",
+      "value": "年数百億",
+      "unit": "円（財務省見直し要求）",
+      "oldValue": "紙の無償給与予算は約460億円",
+      "description": "財政難の中で将来の紙廃止論争が激化",
+      "badge": "二重負担の財源論",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Coins"
+    }
   ]
 }

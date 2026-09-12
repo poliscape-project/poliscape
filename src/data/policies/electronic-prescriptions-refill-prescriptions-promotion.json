@@ -133,5 +133,51 @@
       "text": "重複投薬防止",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "リフィル利用回数",
+      "labelStandard": "リフィル処方箋上限",
+      "value": "最大3",
+      "unit": "回まで",
+      "oldValue": "これまで 毎回医師の診察が必要",
+      "description": "症状安定なら診察なしで薬局直行",
+      "badge": "反復利用",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "重複投薬のチェック",
+      "labelStandard": "併用禁忌・重複処方",
+      "value": "自動",
+      "unit": "検知システム",
+      "oldValue": "これまで 紙のお薬手帳で目視",
+      "description": "他院での処方薬との相互作用を防止",
+      "badge": "リアルタイム",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "自分の履歴確認",
+      "labelStandard": "マイナポータル連携",
+      "value": "スマホ",
+      "unit": "で一元管理",
+      "oldValue": "これまで 紙の手帳を紛失しがち",
+      "description": "過去の薬剤・特定健診データを統合",
+      "badge": "データ連携",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "減らせる残薬・医療費",
+      "labelStandard": "薬剤費適正化効果",
+      "value": "数千億",
+      "unit": "円規模",
+      "oldValue": "これまで 飲み忘れ・過剰投薬が多発",
+      "description": "ポリファーマシー解消で財政改善",
+      "badge": "医療費抑制",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    }
   ]
 }

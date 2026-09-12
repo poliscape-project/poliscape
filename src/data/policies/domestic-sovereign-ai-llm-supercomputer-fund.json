@@ -165,5 +165,51 @@
       "text": "国内DC完結でデータ主権を死守",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "AI学習用計算資源の提供",
+      "labelStandard": "AI学習用計算資源の提供",
+      "value": "計算資源（GPU）を国が集中支援",
+      "unit": "",
+      "oldValue": "これまで: 最新GPU（NVIDIA製等）の調達難と巨額費用で国内開発が立ち往生",
+      "description": "国費数十億円〜百億円超を投じ、最新GPUクラウド環境を開発者へ直接補助",
+      "badge": "計算資源（GPU）を国が集中支援",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "日本語・日本文化の理解力",
+      "labelStandard": "日本語・日本文化の理解力",
+      "value": "日本の制度・文化に特化した学習",
+      "unit": "",
+      "oldValue": "これまで: 英語データ中心の学習により、日本の法律や商習慣での誤答（ハルシネーション）多発",
+      "description": "国会図書館データや公的判例、高品質な日本語テキストを集積して学習",
+      "badge": "日本の制度・文化に特化した学習",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "BookOpen"
+    },
+    {
+      "labelSimple": "データ主権と情報管理",
+      "labelStandard": "データ主権と情報管理",
+      "value": "国内DC完結でデータ主権を死守",
+      "unit": "",
+      "oldValue": "これまで: 入力した機密データが海外サーバーへ送信され再学習されるリスク",
+      "description": "日本国内のデータセンターで完結し、国外へデータが出ないソブリンAIを確立",
+      "badge": "国内DC完結でデータ主権を死守",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "公的スーパーコンピュータの性能",
+      "labelStandard": "公的スーパーコンピュータの性能",
+      "value": "ABCI 3.0などAIスパコン増強",
+      "unit": "",
+      "oldValue": "これまで: 産総研のABCI 2.0等では生成AIの大規模モデル学習にパワー不足",
+      "description": "ABCI 3.0の新設など、国内最高峰のAI特化型スパコン基盤を増強",
+      "badge": "ABCI 3.0などAIスパコン増強",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Zap"
+    }
   ]
 }

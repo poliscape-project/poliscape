@@ -179,5 +179,51 @@
       "text": "船上事前審査による着岸即下船の実現",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "出入国審査の方式",
+      "labelStandard": "出入国審査の方式",
+      "value": "顔認証ゲートによるウォークスルー審査",
+      "unit": "",
+      "oldValue": "これまで: 審査官による対面審査でパスポート目視・スタンプ押印（1人1〜2分以上）",
+      "description": "顔認証バイオメトリクス自動化ゲートによるウォークスルー審査（1人数秒）",
+      "badge": "顔認証ゲートによるウォークスルー審査",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Camera"
+    },
+    {
+      "labelSimple": "税関の携帯品申告",
+      "labelStandard": "税関の携帯品申告",
+      "value": "スマホQRコードと顔認証による税関自動化",
+      "unit": "",
+      "oldValue": "これまで: 紙の「携帯品・別送品申告書」を全員が手書きで提出",
+      "description": "Visit Japan WebのQRコードと顔認証端末による電子申告ゲートの通過",
+      "badge": "スマホQRコードと顔認証による税関自動化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "航海中の事前審査（プレクリアランス）",
+      "labelStandard": "航海中の事前審査（プレクリアランス）",
+      "value": "船上事前審査による着岸即下船の実現",
+      "unit": "",
+      "oldValue": "これまで: 港に着岸してから全乗客の審査を一斉に開始",
+      "description": "前港を出港した航海中に審査官が乗船して事前審査を完了させ、着岸即下船を可能に",
+      "badge": "船上事前審査による着岸即下船の実現",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Ship"
+    },
+    {
+      "labelSimple": "地方港湾ターミナルのWi-Fi・デジタル設備",
+      "labelStandard": "地方港湾ターミナルのWi-Fi・デジタル設備",
+      "value": "移動式CIQ端末と衛星通信による地方支援",
+      "unit": "",
+      "oldValue": "これまで: 地方の岸壁にテントを張った仮設プレハブで通信環境が貧弱",
+      "description": "大容量光回線やStarlink衛星通信、移動式CIQ端末を配備したスマートターミナル化",
+      "badge": "移動式CIQ端末と衛星通信による地方支援",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Laptop"
+    }
   ]
 }

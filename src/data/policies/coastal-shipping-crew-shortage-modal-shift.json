@@ -159,5 +159,51 @@
       "text": "自動運航船・労務改善",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "トラックから船へ",
+      "labelStandard": "海運モーダルシフト推進",
+      "value": "長距離転換",
+      "unit": "でCO2大幅削減",
+      "oldValue": "これまで 長距離トラック輸送に過度依存",
+      "description": "2024年問題対策と脱炭素を海運輸送で解決",
+      "badge": "モーダルシフト",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Ship"
+    },
+    {
+      "labelSimple": "船員さんの高齢化",
+      "labelStandard": "船員不足・労働環境改善",
+      "value": "50",
+      "unit": "%以上が50代以上",
+      "oldValue": "これまで 過酷な乗船勤務で若手が定着せず",
+      "description": "船内Wi-Fi整備や交代制休暇の充実を推進",
+      "badge": "労務改善",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "無人で動く船",
+      "labelStandard": "自動運航船の実用化",
+      "value": "AI自動航行",
+      "unit": "で離着桟も補助",
+      "oldValue": "これまで 操船・見張りの過酷な当直勤務",
+      "description": "自動運航技術で船員の負荷を大幅軽減",
+      "badge": "自動運航",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "港の待ち時間",
+      "labelStandard": "港湾荷役のDX・効率化",
+      "value": "手続電子化",
+      "unit": "で荷役時間半減",
+      "oldValue": "これまで 紙伝票や手作業で長時間の待機",
+      "description": "サイバーポート導入で港湾物流をスムーズ化",
+      "badge": "港湾DX",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Clock"
+    }
   ]
 }

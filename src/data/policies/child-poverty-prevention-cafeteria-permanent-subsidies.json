@@ -165,5 +165,51 @@
       "text": "夏休み等の食料無料配布を拡充",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "法律の基本理念と目的",
+      "labelStandard": "法律の基本理念と目的",
+      "value": "現在と将来の幸福を明記",
+      "unit": "",
+      "oldValue": "これまで: 子どもの将来の自立に向けた「教育支援」が中心",
+      "description": "「子どもの現在及び将来の幸福（ウェルビーイング）」を基本理念に格上げ",
+      "badge": "現在と将来の幸福を明記",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Heart"
+    },
+    {
+      "labelSimple": "子ども食堂等への公費支援",
+      "labelStandard": "子ども食堂等への公費支援",
+      "value": "子ども食堂への安定公費助成",
+      "unit": "",
+      "oldValue": "これまで: 民間有志の善意や寄附金、単年度の不安定な助成金頼み",
+      "description": "自治体を通じた拠点運営費や食材購入費の恒久的な財政支援枠を創設",
+      "badge": "子ども食堂への安定公費助成",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "長期休暇中の給食代替支援",
+      "labelStandard": "長期休暇中の給食代替支援",
+      "value": "夏休み等の食料無料配布を拡充",
+      "unit": "",
+      "oldValue": "これまで: 夏休み・冬休みになると給食がなくなり、体重が減る貧困児童が多発",
+      "description": "長期休暇中のフードパントリー（食料無料配布）や給食代替ミールクーポンを配布",
+      "badge": "夏休み等の食料無料配布を拡充",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "ヤングケアラーの支援位置付け",
+      "labelStandard": "ヤングケアラーの支援位置付け",
+      "value": "ヤングケアラー支援を法制化",
+      "unit": "",
+      "oldValue": "これまで: 子どもの貧困と家族介護問題が縦割りで把握漏れ多発",
+      "description": "ヤングケアラー支援を貧困対策・子ども支援の重要施策として法的に明記",
+      "badge": "ヤングケアラー支援を法制化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Users"
+    }
   ]
 }

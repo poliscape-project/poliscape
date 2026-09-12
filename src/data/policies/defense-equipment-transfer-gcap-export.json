@@ -155,5 +155,55 @@
       "text": "平和主義と量産コスト低減",
       "color": "bg-amber-100 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "日英伊共同開発",
+      "labelStandard": "共同開発の参加3カ国",
+      "value": "日・英・伊",
+      "unit": "連合",
+      "oldValue": "米国主導の開発・ライセンス生産に依存",
+      "descriptionSimple": "第6世代ステルス戦闘機GCAPを2035年配備へ",
+      "descriptionStandard": "第6世代ステルス戦闘機GCAPを2035年配備へ",
+      "badge": "日英伊共同開発",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Globe"
+    },
+    {
+      "labelSimple": "輸出解禁",
+      "labelStandard": "第三国輸出の解禁",
+      "value": "完成品輸出",
+      "unit": "を閣議決定",
+      "oldValue": "殺傷能力のある兵器の輸出は全面禁止",
+      "descriptionSimple": "防衛装備移転三原則の運用指針を大改定",
+      "descriptionStandard": "防衛装備移転三原則の運用指針を大改定",
+      "badge": "輸出解禁",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Ship"
+    },
+    {
+      "labelSimple": "量産効果",
+      "labelStandard": "機体調達コスト削減",
+      "value": "量産で数百",
+      "unit": "億円/機削減",
+      "oldValue": "日本単独（数十機）では1機数百億円に高騰",
+      "descriptionSimple": "海外輸出による量産効果で防衛予算を圧縮",
+      "descriptionStandard": "海外輸出による量産効果で防衛予算を圧縮",
+      "badge": "量産効果",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "厳格歯止め",
+      "labelStandard": "輸出の歯止め要件",
+      "value": "個別閣議決定",
+      "unit": "を必須化",
+      "oldValue": "紛争国への武器輸出は国是として全面禁止",
+      "descriptionSimple": "現に戦闘中の国を除外する安全弁を設定",
+      "descriptionStandard": "現に戦闘中の国を除外する安全弁を設定",
+      "badge": "厳格歯止め",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Scale"
+    }
   ]
 }

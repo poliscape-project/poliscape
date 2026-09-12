@@ -155,5 +155,55 @@
       "text": "水産食文化の継承",
       "color": "bg-amber-100 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "新母船就航",
+      "labelStandard": "新型捕鯨母船の建造費",
+      "value": "約75",
+      "unit": "億円",
+      "oldValue": "築70年超の日新丸（老朽化）",
+      "descriptionSimple": "最新鋭「関鯨丸」が2024年に就航",
+      "descriptionStandard": "最新鋭「関鯨丸」が2024年に就航",
+      "badge": "新母船就航",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Ship"
+    },
+    {
+      "labelSimple": "大型種解禁",
+      "labelStandard": "捕獲対象への新規追加",
+      "value": "ナガスクジラ",
+      "unit": "（大型種）",
+      "oldValue": "ミンク、ニタリ、イワシの3種のみ",
+      "descriptionSimple": "商業捕鯨の採算性向上に向け対象拡大",
+      "descriptionStandard": "商業捕鯨の採算性向上に向け対象拡大",
+      "badge": "大型種解禁",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "科学的管理",
+      "labelStandard": "年間捕獲枠（ナガス）",
+      "value": "年 59",
+      "unit": "頭（EEZ内）",
+      "oldValue": "捕獲ゼロ頭（調査捕鯨のみ）",
+      "descriptionSimple": "水産庁が科学的資源評価に基づき上限設定",
+      "descriptionStandard": "水産庁が科学的資源評価に基づき上限設定",
+      "badge": "科学的管理",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "消費低迷",
+      "labelStandard": "国内クジラ消費量",
+      "value": "年約1,000",
+      "unit": "トン台",
+      "oldValue": "1960年代 年20万トン超（国民食）",
+      "descriptionSimple": "消費者の鯨肉離れと採算確保が最大の課題",
+      "descriptionStandard": "消費者の鯨肉離れと採算確保が最大の課題",
+      "badge": "消費低迷",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "TrendingDown"
+    }
   ]
 }

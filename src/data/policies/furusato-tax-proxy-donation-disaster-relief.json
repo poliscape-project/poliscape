@@ -139,5 +139,51 @@
       "text": "能登地震で数十億円調達",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "能登地震での調達額",
+      "labelStandard": "能登地震での調達額",
+      "value": "数十億",
+      "unit": "円超を即座に集約",
+      "oldValue": "被災地役場がパンクし寄付受付不能",
+      "description": "全国数百の自治体が代理受付を敢行",
+      "badge": "数十億円調達",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "HeartHandshake"
+    },
+    {
+      "labelSimple": "返礼品の有無",
+      "labelStandard": "返礼品の有無",
+      "value": "返礼品なし",
+      "unit": "（純粋義援金）",
+      "oldValue": "豪華返礼品目的の寄付が主流",
+      "description": "全額控除の税制メリットで善意を最大化",
+      "badge": "返礼品ゼロ支援",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Gift"
+    },
+    {
+      "labelSimple": "被災自治体の事務負担",
+      "labelStandard": "被災自治体の事務負担",
+      "value": "ゼロ",
+      "unit": "（代理自治体が代行）",
+      "oldValue": "領収書印刷・電話対応で職員が疲弊",
+      "description": "人命救助や避難所運営に100%専念可能に",
+      "badge": "事務負担ゼロ",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "ポータル手数料",
+      "labelStandard": "ポータル手数料",
+      "value": "完全無償",
+      "unit": "（プラットフォーム協力）",
+      "oldValue": "通常数%〜10%の手数料支払い",
+      "description": "民間サイトも寄付全額を被災地へ送金",
+      "badge": "手数料ゼロ協力",
+      "badgeColor": "bg-slate-100 text-slate-700",
+      "icon": "ShieldCheck"
+    }
   ]
 }

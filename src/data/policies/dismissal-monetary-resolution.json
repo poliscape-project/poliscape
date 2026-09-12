@@ -141,5 +141,81 @@
       "text": "労働者申立型が有力",
       "color": "bg-teal-50 text-teal-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "解決金の目安",
+      "labelStandard": "想定補償水準",
+      "value": "給与 3〜18",
+      "unit": "ヶ月分相当",
+      "oldValue": "職場復帰判決（実態は自主退職多発）",
+      "descriptionSimple": "お給料の数ヶ月〜1年半分をもらって合意！",
+      "descriptionStandard": "勤続年数・年齢に応じた標準補償レンジを法定化",
+      "badge": "月給3〜18ヶ月",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "裁判で勝っても復帰できる？",
+      "labelStandard": "職場復帰困難率",
+      "value": "約 90",
+      "unit": "%",
+      "oldValue": "地位確認判決が出ても元の職場に居場所なし",
+      "descriptionSimple": "勝っても9割の人が結局辞めている現実！",
+      "descriptionStandard": "泥沼の労使対立を金銭で迅速救済する立法趣旨",
+      "badge": "現実的救済",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Briefcase"
+    },
+    {
+      "labelSimple": "誰が請求できる？",
+      "labelStandard": "制度の申立主体",
+      "value": "労働者側",
+      "unit": "（使用者申立は激論）",
+      "oldValue": "明確な法制ルールなし",
+      "descriptionSimple": "働く側から『お金で解決して』と言える！",
+      "descriptionStandard": "「企業からのお金でクビ」は首切り自由化と反発大",
+      "badge": "労働者申立型が先行",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "次の仕事への支援",
+      "labelStandard": "リスキリング連動",
+      "value": "再就職支援",
+      "unit": "セット化",
+      "oldValue": "失業手当のみの受給",
+      "descriptionSimple": "お金と学び直しで次の成長企業へ！",
+      "descriptionStandard": "退職金＋公的教育訓練給付金でスムーズな労働移動",
+      "badge": "セーフティネット",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Sparkles"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "不当解雇と闘った元社員",
+        "commentSimple": "「何年も裁判で争うのは心がボロボロになる。まとまったお金をもらって次の会社へ早く動けるなら助かる」",
+        "commentStandard": "「解雇無効判決が出ても元の職場に復帰できるはずがない。法的に正当な解決金が支払われる制度は必要だ」"
+      },
+      {
+        "speaker": "成長産業のスタートアップ経営者",
+        "commentSimple": "「正社員を雇うリスクが減れば、若い人をどんどん高い給料で採用して挑戦させることができる！」",
+        "commentStandard": "「解雇規制の厳しさが非正規依存を生んできた。金銭解決により雇用の流動化と正社員雇用の拡大が進む」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "中高年社員・労働組合",
+        "commentSimple": "「手切れ金さえ払えば会社が自由に正社員をクビにできるようになる『首切り自由化法』だ！」",
+        "commentStandard": "「給与が高い中高年社員の追い出しや経営者の恣意的なリストラに悪用される危険が極めて高い」"
+      },
+      {
+        "speaker": "労働問題専門の弁護士",
+        "commentSimple": "「日本は欧米と違って年をとってからの転職がとても難しい。お金を少しもらっても生活が破綻する」",
+        "commentStandard": "「年齢差別禁止や職種別賃金など再就職セーフティネットが未成熟な日本での導入は時期尚早だ」"
+      }
+    ]
+  }
 }

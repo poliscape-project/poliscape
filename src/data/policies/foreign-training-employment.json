@@ -141,5 +141,81 @@
       "text": "3年で特定技能1号へ直結",
       "color": "bg-emerald-50 text-emerald-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "前の会社から転職できる？",
+      "labelStandard": "本人意向による転籍要件",
+      "value": "1〜2年超",
+      "unit": "就労＋日本語力",
+      "oldValue": "原則禁止（パワハラでも転職できず失踪）",
+      "descriptionSimple": "1〜2年働いて日本語ができれば転職できる！",
+      "descriptionStandard": "同一業務区分内での条件付き転職を法的に解禁",
+      "badge": "転職の自由解禁",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Briefcase"
+    },
+    {
+      "labelSimple": "次のステップ",
+      "labelStandard": "特定技能1号への移行期間",
+      "value": "3年間",
+      "unit": "の育成修了で移行",
+      "oldValue": "技能実習は最長5年で原則母国へ帰国",
+      "descriptionSimple": "3年真面目に働けばもっと長く日本で働ける！",
+      "descriptionStandard": "育成期間を経て即戦力枠へ無試験または円滑移行",
+      "badge": "特定技能へ直結",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "GraduationCap"
+    },
+    {
+      "labelSimple": "ずっと日本に住める？",
+      "labelStandard": "特定技能2号（永住可能）",
+      "value": "家族帯同可",
+      "unit": "・在留更新無制限",
+      "oldValue": "家族の連れ添いは一切認められず",
+      "descriptionSimple": "試験に受かれば家族と一緒にずっと暮らせる！",
+      "descriptionStandard": "高度熟練者への家族帯同と無期限在留の道筋を明示",
+      "badge": "永住・家族帯同へ",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "地方の心配ごと",
+      "labelStandard": "都市部への人材流出懸念",
+      "value": "地方から東京へ",
+      "unit": "流出リスク",
+      "oldValue": "地方に固定化（移動不可）",
+      "descriptionSimple": "地方でお金をかけて育てた人が都会に逃げる？",
+      "descriptionStandard": "受入れ初期費用を負担した地方企業・農家の悲鳴",
+      "badge": "地方保護が課題",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "外国人支援を行うNPO代表",
+        "commentSimple": "「ひどい扱いをする会社から別の会社へ移れるようになり、失踪や不当な搾取が劇的に減る！」",
+        "commentStandard": "「人権侵害と批判された転職禁止が撤廃され、国際水準に合致した労働者保護が前進した」"
+      },
+      {
+        "speaker": "介護施設の人事担当者",
+        "commentSimple": "「3年で特定技能へ移行し長く日本で働ける道ができたので、真面目な若手人材を呼び込める」",
+        "commentStandard": "「アジア各国との人材獲得競争の中で、キャリアアップと永住の道筋を示せる魅力的な制度になった」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "地方の農業・町工場の経営者",
+        "commentSimple": "「何十万円もかけて海外から連れてきて仕事を教えたのに、1年で東京の会社に逃げられたらたまらない」",
+        "commentStandard": "「地方で費用をかけて育てて都会の大手に引き抜かれる構造になれば、地方の産業は全滅する」"
+      },
+      {
+        "speaker": "地域社会の自治会長",
+        "commentSimple": "「家族を連れて永住する外国人が増えるなら、ゴミ出しや言葉の壁など地域の共生ルール作りが急務だ」",
+        "commentStandard": "「事実上の移民解禁政策であるにもかかわらず、治安や社会保障の公平性についての国民合意が薄い」"
+      }
+    ]
+  }
 }

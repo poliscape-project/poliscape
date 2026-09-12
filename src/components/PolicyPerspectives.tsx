@@ -2,12 +2,12 @@
 "use client";
 
 import React, { useState } from "react";
-import { PolicyPerspectiveItem } from "@/types/policy";
+import { PolicyPerspectiveItem, VoiceSetItem } from "@/types/policy";
 import { ThumbsUp, HelpCircle, Scale, ChevronDown, ChevronUp, MessageSquare } from "lucide-react";
-import { getVoices } from "@/lib/voices";
 
 interface PolicyPerspectivesProps {
   policyId?: string;
+  voices?: VoiceSetItem;
   benefitsTitle: string;
   benefits: PolicyPerspectiveItem[];
   challengesTitle: string;
@@ -16,7 +16,7 @@ interface PolicyPerspectivesProps {
 }
 
 export const PolicyPerspectives: React.FC<PolicyPerspectivesProps> = ({
-  policyId = "child-allowance-expansion",
+  voices: customVoices,
   benefitsTitle,
   benefits,
   challengesTitle,
@@ -33,14 +33,12 @@ export const PolicyPerspectives: React.FC<PolicyPerspectivesProps> = ({
     }));
   };
 
-
-  const rawVoices = getVoices(policyId);
-  const voices = rawVoices ? {
-    benefits: rawVoices.benefits.map((v: any) => ({
+  const formattedVoices = customVoices ? {
+    benefits: customVoices.benefits.map((v: any) => ({
       speaker: v.speaker,
       comment: isSimpleMode ? v.commentSimple : v.commentStandard
     })),
-    challenges: rawVoices.challenges.map((v: any) => ({
+    challenges: customVoices.challenges.map((v: any) => ({
       speaker: v.speaker, 
       comment: isSimpleMode ? v.commentSimple : v.commentStandard
     }))
@@ -54,8 +52,9 @@ export const PolicyPerspectives: React.FC<PolicyPerspectivesProps> = ({
       comment: isSimpleMode ? `「${c.simpleDetail || c.summary}」` : `「${c.summary}」`,
     })),
   };
-  const benefitVoices = voices.benefits || [];
-  const challengeVoices = voices.challenges || [];
+
+  const benefitVoices = formattedVoices.benefits || [];
+  const challengeVoices = formattedVoices.challenges || [];
 
   return (
     <section className="bg-white rounded-2xl border border-slate-200/80 shadow-sm p-5 sm:p-7">
@@ -78,77 +77,97 @@ export const PolicyPerspectives: React.FC<PolicyPerspectivesProps> = ({
         </p>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-        {/* メリット */}
-        <div className="bg-emerald-50/50 rounded-2xl p-4 border border-emerald-200/60 flex flex-col justify-between">
+      {/* ふきだし形式：推進側 vs 慎重側 */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6 mb-6">
+        {/* 推進・期待する声 */}
+        <div className="bg-gradient-to-b from-teal-50/50 to-slate-50/50 border border-teal-200/60 rounded-2xl p-4 sm:p-5 flex flex-col justify-between">
           <div>
-            <div className="flex items-center gap-1.5 text-xs font-bold text-emerald-900 mb-3">
-              <span className="w-5 h-5 rounded-full bg-emerald-600 text-white flex items-center justify-center">
-                <ThumbsUp className="w-3 h-3" />
+            <div className="flex items-center justify-between mb-3">
+              <span className="inline-flex items-center gap-1.5 text-xs font-bold text-teal-900 bg-teal-100/80 px-2.5 py-1 rounded-full">
+                <ThumbsUp className="w-3.5 h-3.5 text-teal-700" />
+                <span>{isSimpleMode ? "いいな！助かる！という声" : "期待・推進側の主な視点"}</span>
               </span>
-              <span>{benefitsTitle}</span>
+              <span className="text-[11px] text-teal-700 font-medium">
+                {benefitVoices.length}つの視点
+              </span>
             </div>
 
-            <div className="space-y-2.5">
+            <div className="space-y-3">
               {benefitVoices.map((voice: any, idx: number) => (
-                <div
-                  key={idx}
-                  className="bg-white p-3 rounded-xl border border-emerald-100 shadow-2xs relative text-xs leading-relaxed text-slate-800"
-                >
-                  <div className="text-[10px] font-bold text-emerald-700 mb-1 flex items-center gap-1">
-                    <MessageSquare className="w-3 h-3" />
-                    {voice.speaker}
+                <div key={idx} className="bg-white p-3.5 rounded-xl border border-teal-100 shadow-2xs">
+                  <div className="flex items-center gap-1.5 mb-1.5">
+                    <span className="w-1.5 h-1.5 rounded-full bg-teal-500"></span>
+                    <span className="text-[11px] font-bold text-slate-700">{voice.speaker}</span>
                   </div>
-                  <div className="font-semibold text-slate-900">{voice.comment}</div>
+                  <p className="text-xs sm:text-sm text-slate-800 leading-relaxed font-medium">
+                    {voice.comment}
+                  </p>
                 </div>
               ))}
             </div>
           </div>
+
+          <div className="mt-4 pt-3 border-t border-teal-100/80 flex items-center justify-between text-[11px] text-teal-800 font-medium">
+            <span>期待される主な効果</span>
+            <span className="truncate max-w-[200px] text-right text-slate-600 font-normal">
+              {benefitsTitle}
+            </span>
+          </div>
         </div>
 
-        {/* 課題・懸念 */}
-        <div className="bg-amber-50/50 rounded-2xl p-4 border border-amber-200/60 flex flex-col justify-between">
+        {/* 慎重・懸念する声 */}
+        <div className="bg-gradient-to-b from-amber-50/50 to-slate-50/50 border border-amber-200/60 rounded-2xl p-4 sm:p-5 flex flex-col justify-between">
           <div>
-            <div className="flex items-center gap-1.5 text-xs font-bold text-amber-900 mb-3">
-              <span className="w-5 h-5 rounded-full bg-amber-600 text-white flex items-center justify-center">
-                <HelpCircle className="w-3 h-3" />
+            <div className="flex items-center justify-between mb-3">
+              <span className="inline-flex items-center gap-1.5 text-xs font-bold text-amber-900 bg-amber-100/80 px-2.5 py-1 rounded-full">
+                <HelpCircle className="w-3.5 h-3.5 text-amber-700" />
+                <span>{isSimpleMode ? "大丈夫？心配だな…という声" : "慎重・検討課題の主な視点"}</span>
               </span>
-              <span>{challengesTitle}</span>
+              <span className="text-[11px] text-amber-700 font-medium">
+                {challengeVoices.length}つの視点
+              </span>
             </div>
 
-            <div className="space-y-2.5">
+            <div className="space-y-3">
               {challengeVoices.map((voice: any, idx: number) => (
-                <div
-                  key={idx}
-                  className="bg-white p-3 rounded-xl border border-amber-100 shadow-2xs relative text-xs leading-relaxed text-slate-800"
-                >
-                  <div className="text-[10px] font-bold text-amber-700 mb-1 flex items-center gap-1">
-                    <MessageSquare className="w-3 h-3" />
-                    {voice.speaker}
+                <div key={idx} className="bg-white p-3.5 rounded-xl border border-amber-100 shadow-2xs">
+                  <div className="flex items-center gap-1.5 mb-1.5">
+                    <span className="w-1.5 h-1.5 rounded-full bg-amber-500"></span>
+                    <span className="text-[11px] font-bold text-slate-700">{voice.speaker}</span>
                   </div>
-                  <div className="font-semibold text-slate-900">{voice.comment}</div>
+                  <p className="text-xs sm:text-sm text-slate-800 leading-relaxed font-medium">
+                    {voice.comment}
+                  </p>
                 </div>
               ))}
             </div>
+          </div>
+
+          <div className="mt-4 pt-3 border-t border-amber-100/80 flex items-center justify-between text-[11px] text-amber-800 font-medium">
+            <span>主な検討課題・論点</span>
+            <span className="truncate max-w-[200px] text-right text-slate-600 font-normal">
+              {challengesTitle}
+            </span>
           </div>
         </div>
       </div>
 
-      {/* 詳しい論点アコーディオン */}
-      <div className="mt-5 pt-4 border-t border-slate-100 text-center">
+      {/* くわしい議論を見るトグル */}
+      <div className="pt-2 border-t border-slate-100">
         <button
           type="button"
           onClick={() => setShowDetailedDebate((prev) => !prev)}
-          className="inline-flex items-center gap-1.5 text-xs font-bold text-slate-600 hover:text-teal-700 bg-slate-100 hover:bg-slate-200 px-4 py-2 rounded-xl transition-all"
+          className="w-full flex items-center justify-center gap-1.5 py-2.5 px-4 text-xs font-bold text-slate-600 bg-slate-50 hover:bg-slate-100 rounded-xl transition-all border border-slate-200/80 cursor-pointer"
         >
-          <span>{showDetailedDebate ? "詳しい議論をたたむ" : "公的審議会での詳しい論点を見る（＋3項目ずつ）"}</span>
+          <MessageSquare className="w-3.5 h-3.5 text-slate-500" />
+          <span>{showDetailedDebate ? "詳細な論点解説をたたむ" : "各省庁や審議会での具体的な論点・根拠を見る"}</span>
           {showDetailedDebate ? <ChevronUp className="w-3.5 h-3.5" /> : <ChevronDown className="w-3.5 h-3.5" />}
         </button>
 
         {showDetailedDebate && (
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 mt-4 text-left animate-in fade-in duration-200">
+          <div className="mt-4 grid grid-cols-1 md:grid-cols-2 gap-4 animate-in fade-in duration-200">
             <div className="space-y-2.5">
-              <div className="text-xs font-bold text-emerald-800 mb-1">公的データ上の期待効果:</div>
+              <div className="text-xs font-bold text-teal-800 mb-1">公式審議会での推進論拠:</div>
               {benefits.map((item) => {
                 const isExpanded = !!expandedItems[item.id];
                 return (
@@ -161,7 +180,7 @@ export const PolicyPerspectives: React.FC<PolicyPerspectivesProps> = ({
                     <button
                       type="button"
                       onClick={() => toggleExpand(item.id)}
-                      className="text-[11px] font-medium text-teal-700 hover:underline flex items-center gap-0.5"
+                      className="text-[11px] font-medium text-teal-700 hover:underline flex items-center gap-0.5 cursor-pointer"
                     >
                       {isExpanded ? "解説をたたむ ▲" : "くわしい根拠 ▼"}
                     </button>
@@ -189,7 +208,7 @@ export const PolicyPerspectives: React.FC<PolicyPerspectivesProps> = ({
                     <button
                       type="button"
                       onClick={() => toggleExpand(item.id)}
-                      className="text-[11px] font-medium text-amber-700 hover:underline flex items-center gap-0.5"
+                      className="text-[11px] font-medium text-amber-700 hover:underline flex items-center gap-0.5 cursor-pointer"
                     >
                       {isExpanded ? "解説をたたむ ▲" : "くわしい根拠 ▼"}
                     </button>

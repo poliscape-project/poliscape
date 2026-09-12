@@ -165,5 +165,51 @@
       "text": "病床削減支援金を交付",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "病院同士のグループ化",
+      "labelStandard": "病院同士のグループ化",
+      "value": "病院連合で一体運営が可能に",
+      "unit": "",
+      "oldValue": "これまで: 各病院が個別の医療法人・公立自治体としてライバル関係で独立運営",
+      "description": "「地域医療連携推進法人」を設立し、医師派遣や病床融通を一体的に運営",
+      "badge": "病院連合で一体運営が可能に",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "病床の役割分担",
+      "labelStandard": "病床の役割分担",
+      "value": "急性期を集約、回復期へ転換",
+      "unit": "",
+      "oldValue": "これまで: どの病院も急性期病床を多く抱え、空床や医師不足が慢性化",
+      "description": "中心病院に急性期を集約し、周辺病院はリハビリ・在宅療養（回復期）に特化",
+      "badge": "急性期を集約、回復期へ転換",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "病床削減への公的補助金",
+      "labelStandard": "病床削減への公的補助金",
+      "value": "病床削減支援金を交付",
+      "unit": "",
+      "oldValue": "これまで: 病床を減らすと診療報酬収入が減るため、病院側が病床削減を躊躇",
+      "description": "病床削減支援給付金（1床あたり一定額）を支給し経営の痛みを緩和",
+      "badge": "病床削減支援金を交付",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "医師・医療機器の共同利用",
+      "labelStandard": "医師・医療機器の共同利用",
+      "value": "高額医療機器・医師を共有",
+      "unit": "",
+      "oldValue": "これまで: 高額医療機器（MRI・CT等）を各院が重複購入し採算割れ",
+      "description": "医療機器の共同利用や電子カルテの共有、医師の弾力的兼務を推進",
+      "badge": "高額医療機器・医師を共有",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    }
   ]
 }

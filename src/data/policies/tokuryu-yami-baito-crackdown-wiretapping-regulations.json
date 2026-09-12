@@ -133,5 +133,51 @@
       "text": "SNS募集即時削除",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "凶悪強盗グループ",
+      "labelStandard": "トクリュウ重点指定",
+      "value": "治安上の",
+      "unit": "重大脅威に指定",
+      "oldValue": "個別の暴力団・特殊詐欺対策で対応",
+      "description": "匿名・流動型犯罪グループを全国合同捜査",
+      "badge": "トクリュウ対策",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "SNSの闇バイト募集",
+      "labelStandard": "闇バイト募集のAI遮断",
+      "value": "即時削除",
+      "unit": "義務化と警告",
+      "oldValue": "高額報酬・ホワイト案件で若者を勧誘",
+      "description": "応募者へ直接警告DMを送り加担を阻止",
+      "badge": "SNS募集即時遮断",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "警察の盗聴捜査ルール",
+      "labelStandard": "通信傍受法の適用拡大",
+      "value": "強盗・詐欺",
+      "unit": "への拡大審議",
+      "oldValue": "銃器・薬物・組織殺人等の4犯罪に限定",
+      "description": "暗号アプリ（Signal等）の指示役を特定",
+      "badge": "通信傍受拡大",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "騙された若者の脱退",
+      "labelStandard": "警察による保護・自首支援",
+      "value": "安全保護",
+      "unit": "で強盗加担を防止",
+      "oldValue": "「家族に危害」と脅され抜け出せない",
+      "description": "脅迫されている実行役を自首・保護",
+      "badge": "若者保護支援",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

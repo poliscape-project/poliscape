@@ -155,5 +155,55 @@
       "text": "レベニューキャップ",
       "color": "bg-teal-50 text-teal-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "倒産急増",
+      "labelStandard": "新電力の倒産・撤退数",
+      "value": "累計200",
+      "unit": "社超",
+      "oldValue": "電力自由化で700社以上が参入",
+      "descriptionSimple": "燃料高と容量市場負担で経営破綻が続出",
+      "descriptionStandard": "燃料高と容量市場負担で経営破綻が続出",
+      "badge": "倒産急増",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "巨額拠出金",
+      "labelStandard": "容量市場の総約定額",
+      "value": "年約1.6",
+      "unit": "兆円規模",
+      "oldValue": "これまで 発電した電気の市場取引のみ",
+      "descriptionSimple": "将来の発電維持（kW価値）への公費課金",
+      "descriptionStandard": "将来の発電維持（kW価値）への公費課金",
+      "badge": "巨額拠出金",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "寡占回帰",
+      "labelStandard": "新電力の市場シェア",
+      "value": "約2割",
+      "unit": "で頭打ち",
+      "oldValue": "急成長し一時は25%に迫っていた",
+      "descriptionSimple": "大手電力（旧一電）への顧客回帰が加速",
+      "descriptionStandard": "大手電力（旧一電）への顧客回帰が加速",
+      "badge": "寡占回帰",
+      "badgeColor": "bg-slate-100 text-slate-700",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "新送電料金",
+      "labelStandard": "託送料金制度改革",
+      "value": "レベニュー",
+      "unit": "キャップ",
+      "oldValue": "総括原価方式による認可制",
+      "descriptionSimple": "送電網の維持費を上限規制し効率化",
+      "descriptionStandard": "送電網の維持費を上限規制し効率化",
+      "badge": "新送電料金",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Zap"
+    }
   ]
 }

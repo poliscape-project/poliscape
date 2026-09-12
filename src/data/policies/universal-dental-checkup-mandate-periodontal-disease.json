@@ -165,5 +165,51 @@
       "text": "健診結果をデジタル管理",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "成人の定期歯科健診の機会",
+      "labelStandard": "成人の定期歯科健診の機会",
+      "value": "毎年の歯科健診を推進",
+      "unit": "",
+      "oldValue": "これまで: 一部の自治体による節目健診（40歳・50歳等）にとどまり受診率は1割未満",
+      "description": "職場の健康診断への歯科健診追加や、健保組合による毎年の受診勧奨を推進",
+      "badge": "毎年の歯科健診を推進",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Calendar"
+    },
+    {
+      "labelSimple": "受診費用の公費・健保補助",
+      "labelStandard": "受診費用の公費・健保補助",
+      "value": "低廉な自己負担で受診可能に",
+      "unit": "",
+      "oldValue": "これまで: 予防目的の歯科検診や歯石除去は原則として保険適用外（全額自費負担）",
+      "description": "自治体や健保組合の補助により、ワンコイン（500円）や無料での受診枠を拡大",
+      "badge": "低廉な自己負担で受診可能に",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "歯科健診結果のマイナポータル管理",
+      "labelStandard": "歯科健診結果のマイナポータル管理",
+      "value": "健診結果をデジタル管理",
+      "unit": "",
+      "oldValue": "これまで: 歯科健診結果は紙の用紙で渡され、過去の推移や他院との共有が困難",
+      "description": "歯式や歯周ポケットの深さ等のデータをマイナポータルに連携・可視化",
+      "badge": "健診結果をデジタル管理",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "内科と歯科の医科歯科連携",
+      "labelStandard": "内科と歯科の医科歯科連携",
+      "value": "医科歯科の連携診療を強化",
+      "unit": "",
+      "oldValue": "これまで: 糖尿病内科と歯科クリニックが分断され、情報共有がほとんど行われない",
+      "description": "内科医が糖尿病患者に歯科受診を指示・紹介した場合の診療報酬評価を新設",
+      "badge": "医科歯科の連携診療を強化",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "HeartPulse"
+    }
   ]
 }

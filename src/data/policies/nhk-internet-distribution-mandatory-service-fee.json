@@ -139,5 +139,51 @@
       "text": "テレビなし世帯対象",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "NHKのネット配信",
+      "labelStandard": "ネット配信の法的位置付け",
+      "value": "必須",
+      "unit": "業務（本来業務へ）",
+      "oldValue": "これまで 任意で行う「補完業務」扱い",
+      "description": "テレビと同格の公共メディアに位置付け",
+      "badge": "必須業務化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "アプリを使う人の料金",
+      "labelStandard": "ネット受信料の負担額",
+      "value": "同額",
+      "unit": "（地上契約と同水準）",
+      "oldValue": "これまで ネット単独の受信料契約なし",
+      "description": "アプリで視聴登録した世帯が支払い対象",
+      "badge": "費用負担公平化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "ネットを見るだけの負担",
+      "labelStandard": "登録しない場合の費用",
+      "value": "0",
+      "unit": "円（請求なし）",
+      "oldValue": "スマホ所持者全員徴収への警戒感",
+      "description": "能動的にアプリ利用登録しない限り無料",
+      "badge": "非登録は無料",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "新しい仕組みの開始",
+      "labelStandard": "改正放送法の施行時期",
+      "value": "2025",
+      "unit": "年10月新サービス開始",
+      "oldValue": "これまで テレビ受像機設置者のみ対象",
+      "description": "ネット専用アプリの提供と契約運用",
+      "badge": "サービス開始",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Calendar"
+    }
   ]
 }

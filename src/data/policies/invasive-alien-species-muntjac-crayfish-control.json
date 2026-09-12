@@ -139,5 +139,51 @@
       "text": "ザリガニ野外放流禁止",
       "color": "bg-rose-50 text-rose-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "房総半島のキョン生息数",
+      "labelStandard": "房総半島のキョン生息数",
+      "value": "8万",
+      "unit": "頭超（爆発的増加）",
+      "oldValue": "観光施設から逃げ出した少数個体",
+      "description": "利根川を越えて首都圏拡散の危機",
+      "badge": "8万頭大繁殖",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "放流禁止の罰則",
+      "labelStandard": "放流禁止の罰則",
+      "value": "最高 3",
+      "unit": "年以下の懲役",
+      "oldValue": "アメリカザリガニ等の野外遺棄は野放し",
+      "description": "外来生物法による厳罰化（条件付特定指定）",
+      "badge": "放流厳罰化",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Ban"
+    },
+    {
+      "labelSimple": "ハイテク捕獲体制",
+      "labelStandard": "ハイテク捕獲体制",
+      "value": "AIカメラ",
+      "unit": "・熱ドローン投入",
+      "oldValue": "高齢猟友会のボランティアわな頼み",
+      "description": "探索犬とICTわなによる集中駆除作戦",
+      "badge": "ハイテク駆除",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "捕獲キョンのジビエ化",
+      "labelStandard": "捕獲キョンのジビエ化",
+      "value": "高級レザー",
+      "unit": "・肉の有効活用",
+      "oldValue": "捕獲後は焼却・埋設処分が中心",
+      "description": "最高級セーム革やペットフードで産業化",
+      "badge": "ジビエ産業化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Gift"
+    }
   ]
 }

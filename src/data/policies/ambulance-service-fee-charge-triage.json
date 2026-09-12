@@ -133,5 +133,51 @@
       "text": "#7119全国網羅",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "全国の救急出動数",
+      "labelStandard": "年間救急出動件数",
+      "value": "763万",
+      "unit": "件（過去最多）",
+      "oldValue": "10年前 約590万件",
+      "description": "猛暑・高齢化で出動が過去最高へ",
+      "badge": "出動激増",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "現場までの到着時間",
+      "labelStandard": "全国平均現場到着時間",
+      "value": "10.3",
+      "unit": "分に延伸",
+      "oldValue": "20年前 約6.3分で到着",
+      "description": "出動過多で重症者への到着が遅延",
+      "badge": "到着遅延",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "入院しない軽い症状",
+      "labelStandard": "軽症搬送者の割合",
+      "value": "約48",
+      "unit": "%（約半数）",
+      "oldValue": "理想 重症・中等症の優先搬送",
+      "description": "タクシー代わりの安易な利用が深刻",
+      "badge": "軽症が半数",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Shield"
+    },
+    {
+      "labelSimple": "先行導入の負担金",
+      "labelStandard": "軽症者選定療養費",
+      "value": "7,700",
+      "unit": "円/回",
+      "oldValue": "これまで 全国一律で完全無料",
+      "description": "松阪市等で入院不要の軽症者から徴収",
+      "badge": "費用徴収",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Coins"
+    }
   ]
 }

@@ -139,5 +139,51 @@
       "text": "重複処方・転売防止",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "毎月役所でもらっていた紙",
+      "labelStandard": "紙の「医療券」の原則廃止",
+      "value": "廃止",
+      "unit": "（マイナ保険証で即時受診）",
+      "oldValue": "受診のたびに福祉事務所で紙券を発行・郵送",
+      "description": "カードリーダーにかざすだけで病院にかかれる",
+      "badge": "紙の医療券廃止",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "CreditCard"
+    },
+    {
+      "labelSimple": "生活保護で使われる医療費",
+      "labelStandard": "医療扶助の年間公費負担規模",
+      "value": "約1.5",
+      "unit": "兆円（生活保護費全体の約半分）",
+      "oldValue": "全額公費（自己負担ゼロ）での過剰受診懸念",
+      "description": "税金の無駄遣いを防ぎ適正な医療を届ける",
+      "badge": "年間1.5兆円適正化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "睡眠薬などの不正な転売防止",
+      "labelStandard": "重複処方・はしご受診の検知",
+      "value": "リアルタイム",
+      "unit": "自動検知で不正転売を遮断",
+      "oldValue": "数ヶ月後の書類審査まで不正処方が見抜けず",
+      "description": "複数の病院から薬を大量にもらう行為を阻止",
+      "badge": "薬の転売防止",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "新しい仕組みが始まった時期",
+      "labelStandard": "オンライン資格確認の本格稼働",
+      "value": "2024",
+      "unit": "年3月より全国で順次スタート",
+      "oldValue": "全国数十万件の膨大な紙事務に追殺",
+      "description": "ケースワーカーが本来の自立相談に専念",
+      "badge": "全国本格稼働中",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Calendar"
+    }
   ]
 }

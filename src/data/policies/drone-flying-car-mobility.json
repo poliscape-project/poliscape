@@ -141,5 +141,81 @@
       "text": "国家操縦資格の新設",
       "color": "bg-blue-50 text-blue-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "人の上を飛べるルール",
+      "labelStandard": "航空法改正（レベル4飛行）",
+      "value": "市街地上空",
+      "unit": "自律飛行解禁",
+      "oldValue": "無人地帯での飛行（レベル3）まで",
+      "descriptionSimple": "住宅地の上を自動で飛べるようになった！",
+      "descriptionStandard": "有人地帯での目視外自律飛行の国家ライセンス制度創設",
+      "badge": "レベル4解禁",
+      "badgeColor": "bg-sky-100 text-sky-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "荷物が届くまでの時間",
+      "labelStandard": "過疎地・離島配送短縮",
+      "value": "約 70〜80",
+      "unit": "% 時間短縮",
+      "oldValue": "船や軽トラ迂回で半日〜1日以上",
+      "descriptionSimple": "車で何時間もかかる山奥へ数十分で届く！",
+      "descriptionStandard": "直線飛行により処方薬や緊急物資を即日デリバリー",
+      "badge": "最大80%短縮",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "操縦する人の資格",
+      "labelStandard": "国家操縦資格の新設",
+      "value": "一等・二等",
+      "unit": "無人航空機操縦士",
+      "oldValue": "民間の修了証のみ（公的資格なし）",
+      "descriptionSimple": "国の厳しいテストに受かったプロが操縦する！",
+      "descriptionStandard": "安全運行を担保する国家ライセンスと型式認証の義務化",
+      "badge": "国家資格化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "一番心配なこと",
+      "labelStandard": "事故・騒音リスクへの懸念",
+      "value": "落下・騒音",
+      "unit": "住民の不安",
+      "oldValue": "実験段階での飛行",
+      "descriptionSimple": "頭の上に落ちてこないか住民の心配も！",
+      "descriptionStandard": "パラシュート義務化と飛行航路直下の合意形成が課題",
+      "badge": "安全対策が必須",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "離島・山間部の診療所の医師",
+        "commentSimple": "「船や車で何時間もかかっていた緊急の血液製剤や薬を、30分で空から届けられるので命が救える！」",
+        "commentStandard": "「土砂崩れで陸路が寸断されても空から生活物資を届けて集落の孤立を防げる強力なインフラだ」"
+      },
+      {
+        "speaker": "物流クライシスに悩む運送会社",
+        "commentSimple": "「ドライバー不足が深刻な中で、軽めの荷物をドローンが自動で運んでくれるのは物流の救世主」",
+        "commentStandard": "「過疎地のラストワンマイル配送コストを削減し、全国一律の配送網を維持するための切り札になる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "住宅街に住む住民・PTA",
+        "commentSimple": "「突風や故障で通学路や子どもの頭の上に落ちてこないか、安全性がどうしても心配になる」",
+        "commentStandard": "「重いバッテリーを積んだ大型ドローンが頭上を飛び交うことへの不安や、騒音への配慮が必要だ」"
+      },
+      {
+        "speaker": "地域交通の経済アナリスト",
+        "commentSimple": "「機体価格や運航オペレーション費用が高く、補助金が切れたあとに民間採算が合うのか疑問」",
+        "commentStandard": "「トラック配送より運賃が高ければ定着しない。ビジネスモデルとしての持続可能性が問われている」"
+      }
+    ]
+  }
 }

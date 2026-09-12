@@ -141,5 +141,81 @@
       "text": "偽造カード不法就労撲滅",
       "color": "bg-purple-50 text-purple-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "持っているカードの数",
+      "labelStandard": "外国人住民のカード統合",
+      "value": "2枚 → 1枚",
+      "unit": "（特定在留カード）",
+      "oldValue": "在留カードとマイナカードの2枚持ち",
+      "descriptionSimple": "2枚あったカードが1枚に合体する！",
+      "descriptionStandard": "在留カードとマイナンバーカードを一体化した新カード",
+      "badge": "2枚を1枚に統合",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "CreditCard"
+    },
+    {
+      "labelSimple": "役所に行く回数",
+      "labelStandard": "窓口手続きのワンストップ化",
+      "value": "市役所訪問",
+      "unit": "が不要に",
+      "oldValue": "入管で更新後、さらに市役所へ行く必要あり",
+      "descriptionSimple": "入国管理局に行けば市役所に行く必要がなくなる！",
+      "descriptionStandard": "在留更新と同時にマイナンバー期限も自動連動更新",
+      "badge": "二度手間を解消",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "節約できる時間",
+      "labelStandard": "更新手続きの短縮時間",
+      "value": "約 5時間",
+      "unit": "節約 / 1回",
+      "oldValue": "入管待ち時間＋市役所待ち時間で丸1日消費",
+      "descriptionSimple": "有給休暇を潰さずに手続きが終わる！",
+      "descriptionStandard": "外国人本人と受け入れ企業の労務コストを大幅カット",
+      "badge": "約5時間短縮",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "ニセモノのカード防止",
+      "labelStandard": "ICチップ暗号照合（JPKI）",
+      "value": "偽造を撲滅",
+      "unit": "（1秒で判別）",
+      "oldValue": "精巧な偽造在留カードでの不法就労が多発",
+      "descriptionSimple": "スマホをかざすだけでニセモノかすぐ見破れる！",
+      "descriptionStandard": "公的個人認証と入管データベースのリアルタイム照合",
+      "badge": "不法就労を防止",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "日本で働くITエンジニア（外国人）",
+        "commentSimple": "「入国管理局と市役所の両方に仕事を休んで並ぶ地獄が終わって、本当に助かります！」",
+        "commentStandard": "「カードが1枚にまとまり、在留資格更新とマイナンバー有効期限が自動連動するのは画期的だ」"
+      },
+      {
+        "speaker": "企業の外国人採用担当者",
+        "commentSimple": "「スマホでICチップを読み取るだけで本物の在留資格か1秒で確認でき、安心して採用できる」",
+        "commentStandard": "「精巧な偽造在留カードによる不法就労に巻き込まれるリスクをデジタル認証で完全に排除できる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "外国人支援の弁護士",
+        "commentSimple": "「入管の審査が長引いたせいでカードが急に使えなくなり、健康保険や銀行が止まるトラブルが心配」",
+        "commentStandard": "「在留審査遅延時のマイナンバー失効救済ルールが不十分だと、合法滞在者の生活が脅かされる」"
+      },
+      {
+        "speaker": "人権擁護団体の関係者",
+        "commentSimple": "「在留カードの常時携帯義務とマイナンバーが一体化し、警察による個人情報の過剰監視にならないか」",
+        "commentStandard": "「職務質問のたびにマイナンバーまで提示させられる構造になり、プライバシー侵害の懸念がある」"
+      }
+    ]
+  }
 }

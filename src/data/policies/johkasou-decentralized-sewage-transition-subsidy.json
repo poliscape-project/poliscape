@@ -139,5 +139,51 @@
       "text": "設置費用8〜9割補助",
       "color": "bg-amber-50 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "過疎地下水道の撤退",
+      "labelStandard": "過疎地下水道の撤退",
+      "value": "分散型浄化槽",
+      "unit": "へ方針転換",
+      "oldValue": "全地域に何百億円もかけて下水道敷設",
+      "description": "無駄な借金をストップし自治体財政再建",
+      "badge": "下水道撤退・転換",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "設置費用の公費助成",
+      "labelStandard": "設置費用の公費助成",
+      "value": "最大 8〜9",
+      "unit": "割（国・自治体補助）",
+      "oldValue": "各家庭の100万円超全額自己負担",
+      "description": "最新の合併処理浄化槽へスムーズに更新",
+      "badge": "最大9割補助",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "古い単独浄化槽の全廃",
+      "labelStandard": "古い単独浄化槽の全廃",
+      "value": "350万",
+      "unit": "基の順次撤去",
+      "oldValue": "台所やお風呂の排水をそのまま川へ垂れ流し",
+      "description": "川の悪臭をなくし魚やホタルが棲める水質へ",
+      "badge": "単独槽全廃へ",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Leaf"
+    },
+    {
+      "labelSimple": "毎年の維持点検費用",
+      "labelStandard": "毎年の維持点検費用",
+      "value": "年 3〜5",
+      "unit": "万円（自己負担）",
+      "oldValue": "下水道は公共料金のみで自己点検不要",
+      "description": "法定検査・清掃を怠る放置浄化槽が問題",
+      "badge": "毎年の維持費",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Coins"
+    }
   ]
 }

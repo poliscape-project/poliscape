@@ -171,5 +171,81 @@
       "text": "全国一律国費負担議論",
       "color": "bg-indigo-50 text-indigo-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "毎月の給食代",
+      "labelStandard": "公立小中学校給食費（平均）",
+      "value": "約5,000",
+      "unit": "円/月・人",
+      "oldValue": "小学校約4,500円・中学校約5,200円",
+      "descriptionSimple": "子ども1人あたり年間約5〜6万円の負担",
+      "descriptionStandard": "保護者が銀行口座振替等で毎月負担",
+      "badge": "月約5千円",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "2人・3人兄弟の家計",
+      "labelStandard": "年間軽減額（子ども2人）",
+      "value": "年10〜12万",
+      "unit": "円の負担減",
+      "oldValue": "全額保護者の家計負担",
+      "descriptionSimple": "給食費がタダになると毎月1万円以上浮く！",
+      "descriptionStandard": "多子世帯ほど直接的な生活防衛・子育て支援効果大",
+      "badge": "家計直接支援",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "いまタダになっている自治体",
+      "labelStandard": "無償化先行自治体率",
+      "value": "約30",
+      "unit": "％が実施",
+      "oldValue": "財政力のある自治体のみ独自実施",
+      "descriptionSimple": "住んでいる街によって給食代が違う問題が発生",
+      "descriptionStandard": "自治体間格差の是正を求め全国一律化を要望",
+      "badge": "地域格差是正",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "全国でタダにする国の予算",
+      "labelStandard": "全国無償化の所要財源",
+      "value": "約4,500億",
+      "unit": "円/年",
+      "oldValue": "地方自治体の単独持ち出し",
+      "descriptionSimple": "国のお金で全国いっせいにタダにする議論が進行",
+      "descriptionStandard": "文部科学省・国会で国費負担の一律無償化を議論中",
+      "badge": "国費投入議論",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "GraduationCap"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "小中学生を育てる保護者",
+        "commentSimple": "「物価が高くて大変な中、毎月確実に取られていた給食代がタダになるのは本当にありがたい！」",
+        "commentStandard": "「子ども2人なら年間約12万円の浮いたお金を塾代や教材費に回せ、生活防衛として最も実感がある」"
+      },
+      {
+        "speaker": "公立小中学校の教職員",
+        "commentSimple": "「給食費の未納家庭への催促や集金管理の精神的負担がなくなり、授業準備に集中できる」",
+        "commentStandard": "「教員の多忙化の原因だった給食費の集金・未納催促業務がゼロになり、本来の教育指導に専念できる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "地方自治体の財政担当者",
+        "commentSimple": "「国からのお金がないと、町の予算が足りなくなって学校の体育館や遊具を直せなくなってしまう」",
+        "commentStandard": "「国の恒久財源がないまま地方単独で実施すると一般財源を圧迫し、他の公共投資や教育費を削る羽目に」"
+      },
+      {
+        "speaker": "学校栄養士・食育推進有識者",
+        "commentSimple": "「予算が固定されたまま食材価格が高騰すると、デザートやお肉を減らすなど給食の質が落ちないか心配」",
+        "commentStandard": "「無償化に伴う一食あたりの予算枠の硬直化で、地産地消や栄養バランス豊かなメニュー維持が難しくなるリスク」"
+      }
+    ]
+  }
 }

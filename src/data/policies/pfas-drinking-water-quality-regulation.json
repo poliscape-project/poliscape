@@ -139,5 +139,51 @@
       "text": "活性炭フィルター浄水",
       "color": "bg-slate-100 text-slate-700"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "現行の暫定目標値",
+      "labelStandard": "現行の暫定目標値",
+      "value": "合算 50",
+      "unit": "ng/L（水道水）",
+      "oldValue": "明確な水質基準なしで推移",
+      "description": "より厳しい法定「水質基準」への格上げ検討",
+      "badge": "基準厳格化へ",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "米国EPAの新基準",
+      "labelStandard": "米国EPAの新基準",
+      "value": "各 4",
+      "unit": "ng/L（世界最高峰）",
+      "oldValue": "日本より10倍以上厳しい規制値",
+      "description": "日本の基準引き下げへの強烈な圧力に",
+      "badge": "米国は各4ng",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Globe"
+    },
+    {
+      "labelSimple": "浄水フィルター設置費",
+      "labelStandard": "浄水フィルター設置費",
+      "value": "数億〜数十",
+      "unit": "億円（浄水場）",
+      "oldValue": "通常の砂ろ過設備のみ",
+      "description": "活性炭交換コストが水道代に跳ね返る懸念",
+      "badge": "巨額ろ過コスト",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "原因特定の外交障壁",
+      "labelStandard": "原因特定の外交障壁",
+      "value": "米軍基地",
+      "unit": "立入りの壁",
+      "oldValue": "日米地位協定により立ち入り制限",
+      "description": "泡消火剤汚染源の調査手続き改善を要求",
+      "badge": "地位協定の壁",
+      "badgeColor": "bg-slate-100 text-slate-700",
+      "icon": "MapPin"
+    }
   ]
 }

@@ -155,5 +155,55 @@
       "text": "中小企業業務改善助成金9割",
       "color": "bg-amber-100 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "1,500円目標",
+      "labelStandard": "最低賃金の目標金額",
+      "value": "全国平均 1,500",
+      "unit": "円",
+      "oldValue": "2023年にようやく1,000円台（1,004円）到達",
+      "descriptionSimple": "政府目標「2030年代半ば」から2020年代中へ前倒し",
+      "descriptionStandard": "政府目標「2030年代半ば」から2020年代中へ前倒し",
+      "badge": "1,500円目標",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "全国平均1,055円",
+      "labelStandard": "2024年の改定引き上げ額",
+      "value": "過去最大 51",
+      "unit": "円（1,055円へ）",
+      "oldValue": "毎年の引き上げ額は数十円程度",
+      "descriptionSimple": "物価高に対応し年率5.0%の大幅引き上げ",
+      "descriptionStandard": "物価高に対応し年率5.0%の大幅引き上げ",
+      "badge": "全国平均1,055円",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "省力化助成金",
+      "labelStandard": "中小企業向け助成率",
+      "value": "最大 9",
+      "unit": "割補助",
+      "oldValue": "業務改善助成金の申請手続きが煩雑だった",
+      "descriptionSimple": "セルフレジ・省力化DX設備投資を強力支援",
+      "descriptionStandard": "セルフレジ・省力化DX設備投資を強力支援",
+      "badge": "省力化助成金",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "中小の悲鳴",
+      "labelStandard": "人件費高騰による倒産",
+      "value": "年間数百",
+      "unit": "件（過去最多）",
+      "oldValue": "原材料高による倒産が中心だった",
+      "descriptionSimple": "価格転嫁できない地方中小企業の廃業危機",
+      "descriptionStandard": "価格転嫁できない地方中小企業の廃業危機",
+      "badge": "中小の悲鳴",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
   ]
 }

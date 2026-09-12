@@ -155,5 +155,55 @@
       "text": "弾丸登山・遭難防止",
       "color": "bg-rose-50 text-rose-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "通行料義務化",
+      "labelStandard": "富士山吉田口の通行料",
+      "value": "1人 2,000",
+      "unit": "円義務化",
+      "oldValue": "任意寄付金（保全協力金1,000円）のみ",
+      "descriptionSimple": "山梨県条例により通行料の義務徴収を開始",
+      "descriptionStandard": "山梨県条例により通行料の義務徴収を開始",
+      "badge": "通行料義務化",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "入場規制",
+      "labelStandard": "1日の登山者上限人数",
+      "value": "最大4,000",
+      "unit": "人規制",
+      "oldValue": "人数制限なし（大渋滞・すし詰め）",
+      "descriptionSimple": "山小屋予約のない弾丸登山者をゲートで遮断",
+      "descriptionStandard": "山小屋予約のない弾丸登山者をゲートで遮断",
+      "badge": "入場規制",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "夜間ゲート閉鎖",
+      "labelStandard": "夜間通行規制の時間帯",
+      "value": "午後4時〜",
+      "unit": "翌朝3時閉鎖",
+      "oldValue": "24時間いつでも登山可能だった",
+      "descriptionSimple": "夜通し登る危険な弾丸登山を物理的に排除",
+      "descriptionStandard": "夜通し登る危険な弾丸登山を物理的に排除",
+      "badge": "夜間ゲート閉鎖",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "遭難低減",
+      "labelStandard": "山頂付近の遭難救助件数",
+      "value": "約3割",
+      "unit": "減少（初年）",
+      "oldValue": "軽装・低体温症の搬送が多発",
+      "descriptionSimple": "安全対策とマナー向上に即効性",
+      "descriptionStandard": "安全対策とマナー向上に即効性",
+      "badge": "遭難低減",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

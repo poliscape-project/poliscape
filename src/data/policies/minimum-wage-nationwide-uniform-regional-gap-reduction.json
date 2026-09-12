@@ -165,5 +165,51 @@
       "text": "地域間格差の縮小を優先",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "最低賃金の全国平均目標",
+      "labelStandard": "最低賃金の全国平均目標",
+      "value": "全国平均1500円目標へ前倒し",
+      "unit": "",
+      "oldValue": "これまで: 全国平均1,000円が長年の目標（2023年度に達成）",
+      "description": "「全国加重平均1,500円」を早期に達成する目標へ前倒し",
+      "badge": "全国平均1500円目標へ前倒し",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "目安ランク区分の集約",
+      "labelStandard": "目安ランク区分の集約",
+      "value": "ランク集約で地方へ高額配分",
+      "unit": "",
+      "oldValue": "これまで: 経済実態に応じた4ランク（A・B・C・D）で格差が固定化",
+      "description": "3ランク（A・B・C）を経て2ランクへの統合・地方高額配分を推進",
+      "badge": "ランク集約で地方へ高額配分",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "最高額と最低額の金額差",
+      "labelStandard": "最高額と最低額の金額差",
+      "value": "地域間格差の縮小を優先",
+      "unit": "",
+      "oldValue": "これまで: 東京と地方で時給220円超の巨大な格差が存在",
+      "description": "地方の引上げ率を都市部より高く設定し、格差を段階的に縮小",
+      "badge": "地域間格差の縮小を優先",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "MapPin"
+    },
+    {
+      "labelSimple": "中小企業への業務改善助成金",
+      "labelStandard": "中小企業への業務改善助成金",
+      "value": "設備投資を最大9割補助",
+      "unit": "",
+      "oldValue": "これまで: 賃上げ支援の助成金要件が厳格で利用件数が低迷",
+      "description": "「業務改善助成金」の助成率引き上げ（最大9割補助）と機械投資支援",
+      "badge": "設備投資を最大9割補助",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Wallet"
+    }
   ]
 }

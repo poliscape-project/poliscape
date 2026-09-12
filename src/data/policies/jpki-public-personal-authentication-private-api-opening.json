@@ -165,5 +165,51 @@
       "text": "偽造身分証詐欺を完全遮断",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "オンライン本人確認の手法",
+      "labelStandard": "オンライン本人確認の手法",
+      "value": "ICチップ読み取りで即時完了",
+      "unit": "",
+      "oldValue": "これまで: 運転免許証の表裏・厚み撮影＋本人の顔写真撮影（審査に数時間〜数日）",
+      "description": "スマホのNFCでマイナカードのICチップを読み取り即時完了（数秒で完了）",
+      "badge": "ICチップ読み取りで即時完了",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "事業者の本人確認コスト",
+      "labelStandard": "事業者の本人確認コスト",
+      "value": "本人確認コストを最大9割削減",
+      "unit": "",
+      "oldValue": "これまで: 目視チェック人件費や郵送確認で1件あたり数百円〜2,000円超",
+      "description": "API利用料数十円のみで完結し、事業者の確認コストを最大9割削減",
+      "badge": "本人確認コストを最大9割削減",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "偽造身分証への耐性",
+      "labelStandard": "偽造身分証への耐性",
+      "value": "偽造身分証詐欺を完全遮断",
+      "unit": "",
+      "oldValue": "これまで: 精巧な偽造免許証やAI加工された顔画像によるすり抜け被害が多発",
+      "description": "国の公開鍵暗号基盤（PKI）による電子署名検証のため偽造が技術的に不可能",
+      "badge": "偽造身分証詐欺を完全遮断",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "引っ越し時の住所変更連携",
+      "labelStandard": "引っ越し時の住所変更連携",
+      "value": "引越し後の住所変更を自動更新",
+      "unit": "",
+      "oldValue": "これまで: 転居のたびに銀行、生保、クレカ各社へ個別に住所変更手続き",
+      "description": "J-LISの最新住所変更情報とAPI連携し、ワンストップで自動更新可能に",
+      "badge": "引越し後の住所変更を自動更新",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Home"
+    }
   ]
 }

@@ -140,5 +140,51 @@
       "text": "24時間電子記録閲覧・訴状提出",
       "color": "bg-emerald-50 text-emerald-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "裁判の行き方",
+      "labelStandard": "口頭弁論への参加方法",
+      "value": "出頭不要",
+      "unit": "Teamsウェブ裁判",
+      "oldValue": "これまで 遠くの裁判所へ出張必須",
+      "description": "事務所や自宅からパソコンのビデオ通話で裁判に参加",
+      "badge": "e法廷",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "訴状の出し方",
+      "labelStandard": "訴状・証拠のオンライン提出",
+      "value": "e提出",
+      "unit": "PDFネット提出",
+      "oldValue": "これまで 紙の訴状を持参・ファックス",
+      "description": "最高裁ポータルサイトから24時間いつでも提出可能",
+      "badge": "ペーパーレス",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "記録の閲覧",
+      "labelStandard": "裁判記録のクラウド電子閲覧",
+      "value": "24時間",
+      "unit": "クラウド閲覧",
+      "oldValue": "これまで 裁判所閲覧室で手めくりコピー",
+      "description": "事件の全記録を自宅PCから即座にダウンロード",
+      "badge": "24時間アクセス",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "裁判費用の変化",
+      "labelStandard": "弁護士費用・交通費の削減効果",
+      "value": "費用大幅減",
+      "unit": "迅速なトラブル解決",
+      "oldValue": "これまで 地方出張の日当・新幹線代",
+      "description": "弁護士の移動時間がゼロになり審理期間も大幅短縮",
+      "badge": "訴訟コスト減",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Coins"
+    }
   ]
 }

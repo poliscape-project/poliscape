@@ -155,5 +155,55 @@
       "text": "フリースクール利用料助成",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国家的課題",
+      "labelStandard": "不登校児童生徒の総数",
+      "value": "過去最多 34万",
+      "unit": "人突破",
+      "oldValue": "10年前は約12万人程度だった",
+      "descriptionSimple": "11年連続増加、1クラスに1〜2人の割合",
+      "descriptionStandard": "11年連続増加、1クラスに1〜2人の割合",
+      "badge": "国家的課題",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "COCOLOプラン",
+      "labelStandard": "学びの多様化学校目標",
+      "value": "全国 500",
+      "unit": "校設置",
+      "oldValue": "全国でわずか数十校にとどまっていた",
+      "descriptionSimple": "授業時間やカリキュラムを柔軟に決められる公立校",
+      "descriptionStandard": "授業時間やカリキュラムを柔軟に決められる公立校",
+      "badge": "COCOLOプラン",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "自治体助成試行",
+      "labelStandard": "フリースクール利用料助成",
+      "value": "月最大 2万",
+      "unit": "円（東京都等）",
+      "oldValue": "全額保護者の自己負担（月3万〜5万円）",
+      "descriptionSimple": "経済的理由で居場所を奪われない公費支援試行",
+      "descriptionStandard": "経済的理由で居場所を奪われない公費支援試行",
+      "badge": "自治体助成試行",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "孤立防止急務",
+      "labelStandard": "完全孤立している児童数",
+      "value": "約11万",
+      "unit": "人が無支援",
+      "oldValue": "相談機関やフリースクールに繋がれない",
+      "descriptionSimple": "家庭内での孤立を防ぐ校内教育支援センター整備",
+      "descriptionStandard": "家庭内での孤立を防ぐ校内教育支援センター整備",
+      "badge": "孤立防止急務",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "HeartHandshake"
+    }
   ]
 }

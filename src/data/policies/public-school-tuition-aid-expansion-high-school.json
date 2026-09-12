@@ -159,5 +159,51 @@
       "text": "私立高支援上限拡充",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "年収による制限",
+      "labelStandard": "高等学校就学支援金",
+      "value": "所得制限撤廃",
+      "unit": "へ拡充",
+      "oldValue": "これまで 年収約910万円上限で支給除外",
+      "description": "全世帯の高校生を実質無償化対象へ",
+      "badge": "所得制限撤廃",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "私立高校への支援",
+      "labelStandard": "私立高校支援上限額",
+      "value": "年45万",
+      "unit": "円以上へ拡大推進",
+      "oldValue": "これまで 年約11.8万〜39.6万円の加算",
+      "description": "都県上乗せと国費拡充で学校間格差是正",
+      "badge": "私学無償化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "GraduationCap"
+    },
+    {
+      "labelSimple": "支援対象の生徒",
+      "labelStandard": "支援対象生徒の範囲",
+      "value": "全国全域",
+      "unit": "の高校生へ展開",
+      "oldValue": "これまで 中堅〜高所得世帯が除外",
+      "description": "教育費の重い現役世代の負担を軽減",
+      "badge": "子育て支援",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "国の必要予算",
+      "labelStandard": "制度拡充の所要財源",
+      "value": "数千億円",
+      "unit": "規模の財源確保",
+      "oldValue": "これまで 自治体間の財政力格差が存在",
+      "description": "国による恒久財源の確保が主要論点",
+      "badge": "財源確保",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "PiggyBank"
+    }
   ]
 }

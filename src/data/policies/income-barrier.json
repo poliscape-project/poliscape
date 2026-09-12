@@ -179,5 +179,81 @@
       "text": "手取りの崖解消へ",
       "color": "bg-teal-50 text-teal-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "税金がとられるライン",
+      "labelStandard": "103万円の壁（所得税）",
+      "value": "103",
+      "unit": "万円",
+      "oldValue": "30年間据え置きの基準",
+      "descriptionSimple": "178万円へ引き上げの議論中！",
+      "descriptionStandard": "178万円等への引上げを審議中",
+      "badge": "税制改正議論",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "保険に入るライン（大企業）",
+      "labelStandard": "106万円の壁（社会保険）",
+      "value": "106",
+      "unit": "万円",
+      "oldValue": "従業員51人以上の企業等",
+      "descriptionSimple": "超えると手取りがガクンと減る",
+      "descriptionStandard": "厚生年金・健保の加入義務",
+      "badge": "手取りの崖①",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "扶養から外れるライン",
+      "labelStandard": "130万円の壁（扶養外れ）",
+      "value": "130",
+      "unit": "万円",
+      "oldValue": "全企業共通の扶養基準",
+      "descriptionSimple": "親や夫の保険から完全に外れる",
+      "descriptionStandard": "国民年金・国保の自己負担発生",
+      "badge": "手取りの崖②",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "急に減ってしまう手取り",
+      "labelStandard": "社保加入時の手取り減",
+      "value": "約 16",
+      "unit": "万円",
+      "oldValue": "年金＋健康保険料（年間）",
+      "descriptionSimple": "このために仕事を休む人が続出",
+      "descriptionStandard": "働き控えの最大の原因",
+      "badge": "逆転現象",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "パート勤務の主婦・学生アルバイト",
+        "commentSimple": "「年末に『シフト入れません』って仕事を断らなくて済むなら最高！」",
+        "commentStandard": "「10〜12月に手取りを減らさないためにシフトを削るストレスから解放されたい」"
+      },
+      {
+        "speaker": "現役世代の会社員",
+        "commentSimple": "「物価がすごく上がっているから、税金が減って手取りが増えるのは助かる」",
+        "commentStandard": "「30年間最低賃金は上がったのに103万が据え置きなのは不自然。手取り増に直結してほしい」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "地方自治体の関係者・市民",
+        "commentSimple": "「町の税金が何兆円も減って、ゴミ収集や道路・学校のお金が足りなくならない？」",
+        "commentStandard": "「国・地方あわせて7〜8兆円の減税になると、公共サービスや福祉の予算が削られるのでは」"
+      },
+      {
+        "speaker": "社会保障の専門家",
+        "commentSimple": "「いま保険料を払わないと、お年寄りになった時にもらえる年金がすごく少なくなっちゃうよ」",
+        "commentStandard": "「目先の手取りのために社保加入を遅らせると、将来の年金受給額が低くなる老後貧困リスクがある」"
+      }
+    ]
+  }
 }

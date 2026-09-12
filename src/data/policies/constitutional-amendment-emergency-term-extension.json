@@ -139,5 +139,51 @@
       "text": "2/3特別多数の歯止め",
       "color": "bg-slate-100 text-slate-700"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "任期延長の対象",
+      "labelStandard": "任期延長の対象",
+      "value": "衆参両院",
+      "unit": "議員（国会空白防止）",
+      "oldValue": "参議院の緊急集会（暫定措置）のみ",
+      "description": "大災害・有事下での立法機能の完全維持",
+      "badge": "国会空白ゼロ",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "議決の厳格な縛り",
+      "labelStandard": "議決の厳格な縛り",
+      "value": "2/3以上",
+      "unit": "の特別多数賛成",
+      "oldValue": "規定なし",
+      "description": "政権の恣意的な任期延長・延命を防止",
+      "badge": "2/3特別多数",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "延長期間の上限",
+      "labelStandard": "延長期間の上限",
+      "value": "6ヶ月〜1",
+      "unit": "年以内（限定的）",
+      "oldValue": "規定なし",
+      "description": "事態収束後は直ちに総選挙を実施",
+      "badge": "期間上限設定",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "司法関与の導入検討",
+      "labelStandard": "司法関与の導入検討",
+      "value": "最高裁判所",
+      "unit": "による適法性審査",
+      "oldValue": "裁判所の関与なし",
+      "description": "権力濫用を防ぐ三権分立の安全装置",
+      "badge": "最高裁チェック",
+      "badgeColor": "bg-slate-100 text-slate-700",
+      "icon": "Scale"
+    }
   ]
 }

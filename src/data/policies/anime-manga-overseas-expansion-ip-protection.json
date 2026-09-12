@@ -140,5 +140,51 @@
       "text": "アニメーター対価還元",
       "color": "bg-emerald-50 text-emerald-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "アニメの海外売上",
+      "labelStandard": "アニメ産業の海外市場規模",
+      "value": "約3",
+      "unit": "兆円規模",
+      "oldValue": "これまで 国内市場中心",
+      "description": "鉄鋼を上回る日本の最重要輸出コンテンツへ",
+      "badge": "巨大輸出産業",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Globe"
+    },
+    {
+      "labelSimple": "違法サイトの被害",
+      "labelStandard": "海賊版による年間被害額",
+      "value": "数千億〜1兆",
+      "unit": "円の機会損失",
+      "oldValue": "これまで 違法タダ読みが野放し",
+      "description": "海外サーバーの海賊版に利益が奪われる深刻被害",
+      "badge": "深刻被害",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "公式配信のスピード",
+      "labelStandard": "正規版の世界同時多言語配信",
+      "value": "世界同時",
+      "unit": "配信DX",
+      "oldValue": "これまで 数ヶ月〜年遅れで海賊版増",
+      "description": "AI翻訳等で日本放送と同時に世界配信し海賊版を駆逐",
+      "badge": "同時配信",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "絵描きさんの給料",
+      "labelStandard": "制作スタジオへの利益還元",
+      "value": "還元指針",
+      "unit": "待遇改善へ",
+      "oldValue": "これまで 下請け買い叩き・低賃金",
+      "description": "海外配信の利益をアニメーター現場へ戻すルール",
+      "badge": "労働環境改善",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Users"
+    }
   ]
 }

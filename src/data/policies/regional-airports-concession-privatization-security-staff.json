@@ -139,5 +139,51 @@
       "text": "CTスマートレーン",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "空港を民間に任せる期間",
+      "labelStandard": "地方空港コンセッション契約期間",
+      "value": "30〜40",
+      "unit": "年間の長期民間運営委託",
+      "oldValue": "滑走路は国・ビルは三セクの非効率な赤字経営",
+      "description": "民間ノウハウで免税店やLCC直行便を積極誘致",
+      "badge": "空港民営化推進",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "手荷物検査の長蛇の行列",
+      "labelStandard": "保安検査員の人手不足と便遅延",
+      "value": "深刻",
+      "unit": "な人手不足（コロナ後大量離職）",
+      "oldValue": "検査場の大行列で飛行機乗り遅れが多発",
+      "description": "訪日観光客の急増にスタッフ補充が追いつかず",
+      "badge": "保安員不足危機",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "カバンからパソコンを出さない機械",
+      "labelStandard": "スマート保安（CT検査レーン）",
+      "value": "速度2倍",
+      "unit": "（PC・水筒を入れたまま通過）",
+      "oldValue": "荷物を一つずつ手作業で出して開ける遅延",
+      "description": "3次元CT画像で爆発物検知と時間短縮両立",
+      "badge": "スマート検査機",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "検査員さんの給料を上げる",
+      "labelStandard": "警備委託単価の引上げと待遇改善",
+      "value": "賃上げ",
+      "unit": "支援（適正な契約単価の徹底）",
+      "oldValue": "国家資格が必要なのに時給1,000円台の買い叩き",
+      "description": "命を守る保安スタッフが辞めない職場環境へ",
+      "badge": "保安員待遇改善",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "UserCheck"
+    }
   ]
 }

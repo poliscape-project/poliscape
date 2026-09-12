@@ -171,5 +171,81 @@
       "text": "名札名字・イニシャル化",
       "color": "bg-teal-50 text-teal-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "迷惑なお客さんの行為",
+      "labelStandard": "カスハラの行為類型",
+      "value": "著しい迷惑行為",
+      "unit": "（明文化）",
+      "oldValue": "「お客様は神様」で我慢させられていた",
+      "descriptionSimple": "土下座強要・暴言・SNS晒しは明確にダメ！",
+      "descriptionStandard": "強要罪・業務妨害罪に抵触する行為を定義化",
+      "badge": "行為の明文化",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Ban"
+    },
+    {
+      "labelSimple": "守るためのルール",
+      "labelStandard": "条例・法制化の動向",
+      "value": "企業の防止義務",
+      "unit": "（全国拡大）",
+      "oldValue": "企業の自主対応マニュアル止まり",
+      "descriptionSimple": "東京都が条例施行、国も全国義務化を審議中",
+      "descriptionStandard": "パワハラ防止法に準じ従業員保護措置を義務付け",
+      "badge": "防止義務化へ",
+      "badgeColor": "bg-slate-100 text-slate-700",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "店員さんの名札",
+      "labelStandard": "名札の実名表記見直し",
+      "value": "名字・番号化",
+      "unit": "（推奨）",
+      "oldValue": "フルネーム実名表示が当たり前だった",
+      "descriptionSimple": "ネットに名前や顔を晒されるのを防ぐ！",
+      "descriptionStandard": "名字のみやイニシャル・スタッフ番号表示を推進",
+      "badge": "プライバシー保護",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "お店の対応ルール",
+      "labelStandard": "組織対応の徹底",
+      "value": "複数人＋録音",
+      "unit": "（警察通報）",
+      "oldValue": "担当者が1人で謝らされていた",
+      "descriptionSimple": "1人で謝らせず、上司が同席して通話も録音！",
+      "descriptionStandard": "現場スタッフを孤立させない組織防衛を義務付け",
+      "badge": "組織対応義務",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Users"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "コンビニ・スーパーのレジ店員",
+        "commentSimple": "「理不尽に大声で怒鳴られたり土下座を迫られても、お店が毅然と断って守ってくれるようになり安心！」",
+        "commentStandard": "「スタッフを理不尽な攻撃から守る組織対応が義務化され、安心して笑顔で働けるようになった」"
+      },
+      {
+        "speaker": "企業の労務管理担当者",
+        "commentSimple": "「名札を名字やスタッフ番号にしたことで、ネットに個人情報を晒される被害が激減した」",
+        "commentStandard": "「従業員のメンタル疾患や離職を防ぎ、深刻な人手不足の中で採用力を高める大きな武器になる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "消費者団体の関係者",
+        "commentSimple": "「本当に商品が壊れていたのに、文句を言ったら『カスハラだ』と追い返されないか心配…」",
+        "commentStandard": "「悪質な要求と正当な苦情の境界線が曖昧で、消費者の正当な権利行使まで萎縮する恐れがある」"
+      },
+      {
+        "speaker": "接客業の中小企業経営者",
+        "commentSimple": "「迷惑客を直接取り締まる罰則がないため、結局警察を呼ぶまでの現場の負担は変わらない」",
+        "commentStandard": "「マニュアル作成や研修のコストが中小企業には重く、悪質客への直接的な抑止力には限界がある」"
+      }
+    ]
+  }
 }

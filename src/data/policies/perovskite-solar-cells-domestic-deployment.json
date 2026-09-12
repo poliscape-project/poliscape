@@ -155,5 +155,55 @@
       "text": "ヨウ素の国産サプライ",
       "color": "bg-emerald-50 text-emerald-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "超軽量・柔軟",
+      "labelStandard": "電池の薄さと重量",
+      "value": "従来の1/10",
+      "unit": "以下の軽さ",
+      "oldValue": "重いシリコン製ガラスパネル",
+      "descriptionSimple": "曲げられ建物の壁面や窓にも設置可能",
+      "descriptionStandard": "曲げられ建物の壁面や窓にも設置可能",
+      "badge": "超軽量・柔軟",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Sun"
+    },
+    {
+      "labelSimple": "純国産資源",
+      "labelStandard": "主原料ヨウ素の日本シェア",
+      "value": "世界第 2",
+      "unit": "位（約3割）",
+      "oldValue": "シリコン原材料は中国産に依存",
+      "descriptionSimple": "純国産の資源サプライチェーンを確立",
+      "descriptionStandard": "純国産の資源サプライチェーンを確立",
+      "badge": "純国産資源",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Globe"
+    },
+    {
+      "labelSimple": "官民投資支援",
+      "labelStandard": "政府の量産導入目標",
+      "value": "2030年",
+      "unit": "までに普及",
+      "oldValue": "研究所での実験段階にとどまる",
+      "descriptionSimple": "公共施設や鉄道駅の壁面へ先導導入",
+      "descriptionStandard": "公共施設や鉄道駅の壁面へ先導導入",
+      "badge": "官民投資支援",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "技術課題",
+      "labelStandard": "現在の耐久性（寿命）",
+      "value": "10〜15",
+      "unit": "年（改善中）",
+      "oldValue": "シリコン太陽電池 約20〜30年",
+      "descriptionSimple": "水や熱への弱さを克服する封止技術が急務",
+      "descriptionStandard": "水や熱への弱さを克服する封止技術が急務",
+      "badge": "技術課題",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Activity"
+    }
   ]
 }

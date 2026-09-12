@@ -179,5 +179,51 @@
       "text": "報復人事への刑事罰導入議論",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "社内通報窓口の設置義務",
+      "labelStandard": "社内通報窓口の設置義務",
+      "value": "301人以上企業に通報窓口設置義務化",
+      "unit": "",
+      "oldValue": "これまで: 企業の自主的な取り組みに任され、窓口がない企業も多かった",
+      "description": "常時雇用301人以上の企業に通報窓口の設置と専任従事者の指定を完全義務化",
+      "badge": "301人以上企業に通報窓口設置義務化",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "通報者情報の漏洩に対する罰則",
+      "labelStandard": "通報者情報の漏洩に対する罰則",
+      "value": "情報漏洩への刑事罰（罰金刑）新設",
+      "unit": "",
+      "oldValue": "これまで: 情報が社内に漏洩しても守秘義務違反に対する罰則は存在しなかった",
+      "description": "通報対応従事者が通報者の特定情報を漏らした場合、刑事罰（30万円以下の罰金）を新設",
+      "badge": "情報漏洩への刑事罰（罰金刑）新設",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "報復解雇・不利益取り扱いへの処分",
+      "labelStandard": "報復解雇・不利益取り扱いへの処分",
+      "value": "報復人事への刑事罰導入議論",
+      "unit": "",
+      "oldValue": "これまで: 民事上の「無効」にとどまり、会社側への行政処分や刑事罰はなかった",
+      "description": "解雇や減給等の報復行為を行った役員・企業に対する直罰（懲役・罰金）の導入を検討",
+      "badge": "報復人事への刑事罰導入議論",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "警察・監督官庁・マスコミへの外部通報要件",
+      "labelStandard": "警察・監督官庁・マスコミへの外部通報要件",
+      "value": "外部機関・マスコミ通報の要件緩和",
+      "unit": "",
+      "oldValue": "これまで: 社内通報を先に行わないと外部通報の保護が受けられない厳しい縛り",
+      "description": "証拠隠滅の恐れや幹部関与がある場合、最初から外部通報しても保護されるよう要件緩和",
+      "badge": "外部機関・マスコミ通報の要件緩和",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Globe"
+    }
   ]
 }

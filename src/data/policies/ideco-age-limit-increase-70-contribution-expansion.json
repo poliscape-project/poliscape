@@ -139,5 +139,51 @@
       "text": "拠出限度額拡大",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "お金を積み立てられる年齢",
+      "labelStandard": "iDeCo加入可能年齢の上限",
+      "value": "70",
+      "unit": "歳未満まで延長",
+      "oldValue": "これまで 原則65歳未満まで",
+      "description": "70歳現役社会に合わせ積立期間を拡大",
+      "badge": "70歳まで積立可",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Calendar"
+    },
+    {
+      "labelSimple": "毎月の掛け金の税金優遇",
+      "labelStandard": "掛金の全額所得控除",
+      "value": "全額",
+      "unit": "所得控除（税金大幅軽減）",
+      "oldValue": "これまで 65歳で節税メリット終了",
+      "description": "働いて得た給与の所得税・住民税を節約",
+      "badge": "強力な節税効果",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "毎月積み立てられる限度額",
+      "labelStandard": "会社員等の拠出枠拡大",
+      "value": "増額",
+      "unit": "（企業年金枠の統合推進）",
+      "oldValue": "これまで 月1.2万〜2万円と小枠に制限",
+      "description": "より多くの老後資金を効率的に形成可能に",
+      "badge": "拠出枠拡大",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "もらい始める時期の自由度",
+      "labelStandard": "年金受給開始時期の選択",
+      "value": "75",
+      "unit": "歳まで受取開始を繰下げ可能",
+      "oldValue": "これまで 60歳〜70歳の間で受給",
+      "description": "リタイア時期に合わせて非課税で増やす",
+      "badge": "柔軟な受取設計",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Clock"
+    }
   ]
 }

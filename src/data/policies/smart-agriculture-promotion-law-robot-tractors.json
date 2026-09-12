@@ -159,5 +159,51 @@
       "text": "ドローン農薬散布・省人化",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "無人のトラクター",
+      "labelStandard": "ロボット農機の自動走行",
+      "value": "レベル3",
+      "unit": "（完全無人走行）",
+      "oldValue": "これまで 運転席へのオペレーター搭乗が必須",
+      "description": "農地内での完全無人自動運転を法的に位置付け",
+      "badge": "無人トラクター",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "ドローンの農薬散布",
+      "labelStandard": "ドローン空中散布の省力化",
+      "value": "80",
+      "unit": "%の時間短縮を実現",
+      "oldValue": "これまで 重いタンクを手作業で背負い散布",
+      "description": "高精度GPSとカメラでピンポイント自動散布",
+      "badge": "作業8割減",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "高額な機械の購入支援",
+      "labelStandard": "スマート農機導入補助・税制",
+      "value": "集中投資",
+      "unit": "支援と低利融資",
+      "oldValue": "これまで 数百〜数千万円の導入費が巨大な壁",
+      "description": "計画認定を受けた農家に税制優遇と補助金",
+      "badge": "導入支援",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "農業データの共有",
+      "labelStandard": "農業データ連携基盤（WAGRI）",
+      "value": "オープン連携",
+      "unit": "で収量予測",
+      "oldValue": "これまで 農機メーカーごとにデータが孤立",
+      "description": "気象や生育データを一元化し収穫量を最大化",
+      "badge": "データ農業",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Laptop"
+    }
   ]
 }

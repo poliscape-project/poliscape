@@ -159,5 +159,51 @@
       "text": "秘密保持と遺族開示の両立",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "亡くなった方のネット口座",
+      "labelStandard": "法定相続人の照会請求権",
+      "value": "開示請求権",
+      "unit": "の法制化",
+      "oldValue": "これまで パスワード不明で預金凍結・埋没",
+      "description": "遺族からの申請に基づきネット銀行口座を開示",
+      "badge": "口座開示",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "ビットコイン等の相続",
+      "labelStandard": "暗号資産の秘密鍵と税務",
+      "value": "秘密鍵管理",
+      "unit": "と相続税申告ガイド",
+      "oldValue": "これまで 秘密鍵紛失で巨額資産が永久消失",
+      "description": "相続財産としての評価基準と引継ぎ手続きを整理",
+      "badge": "暗号資産承継",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "SNSの残ったアカウント",
+      "labelStandard": "追悼アカウント・削除請求",
+      "value": "追悼・削除",
+      "unit": "の規約標準化",
+      "oldValue": "これまで 一身専属とされ遺族でも削除不可",
+      "description": "遺族によるアカウント閉鎖や追悼化を推進",
+      "badge": "アカウント整理",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "UserCheck"
+    },
+    {
+      "labelSimple": "生前の準備サポート",
+      "labelStandard": "デジタル終活ガイドライン",
+      "value": "遺言書連携",
+      "unit": "でパスワード保管",
+      "oldValue": "これまで 家族に何も知らせず突然の死で困惑",
+      "description": "法務局保管遺言やエンディングノートでの記録推奨",
+      "badge": "終活支援",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "FileCheck"
+    }
   ]
 }

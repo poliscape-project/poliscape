@@ -171,5 +171,51 @@
       "text": "オンライン診療・服薬完結",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "処方箋のデジタル一元化",
+      "labelStandard": "処方箋のデジタル一元化",
+      "value": "処方箋のデジタル一元化",
+      "unit": "",
+      "oldValue": "これまで: 紙の処方箋を薬局窓口へ持参し目視で確認・調剤",
+      "description": "マイナ保険証・電子処方箋サービス経由で調剤室へ即時連携",
+      "badge": "処方箋のデジタル一元化",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "FileText"
+    },
+    {
+      "labelSimple": "重複投薬の自動チェック",
+      "labelStandard": "重複投薬の自動チェック",
+      "value": "重複投薬の自動チェック",
+      "unit": "",
+      "oldValue": "これまで: お薬手帳の提示忘れによる重複投薬・禁忌薬の見落としリスク",
+      "description": "処方・調剤時にリアルタイムで過去の服用履歴と突合し警告",
+      "badge": "重複投薬の自動チェック",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "オンライン診療・服薬完結",
+      "labelStandard": "オンライン診療・服薬完結",
+      "value": "オンライン診療・服薬完結",
+      "unit": "",
+      "oldValue": "これまで: 処方箋原本の薬局郵送が必要で即日配送が困難",
+      "description": "診察から処方・服薬指導・薬の宅配まで完全オンライン完結",
+      "badge": "オンライン診療・服薬完結",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "医療機関・薬局導入支援",
+      "labelStandard": "医療機関・薬局導入支援",
+      "value": "医療機関・薬局導入支援",
+      "unit": "",
+      "oldValue": "これまで: システム改修費の自己負担が重く地方診療所で導入停滞",
+      "description": "改修費補助の拡充と医療DX推進診療報酬での加算付与",
+      "badge": "医療機関・薬局導入支援",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "CheckCircle2"
+    }
   ]
 }

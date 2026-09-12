@@ -139,5 +139,51 @@
       "text": "オンライン診療即日受取",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "離島への医薬品空輸",
+      "labelStandard": "離島への医薬品空輸",
+      "value": "10〜30",
+      "unit": "分（直線飛行）",
+      "oldValue": "フェリー欠航時は数日届かず",
+      "description": "荒波を飛び越えて緊急の薬や血液をお届け",
+      "badge": "30分で空輸",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Car"
+    },
+    {
+      "labelSimple": "飛行の法的ランク",
+      "labelStandard": "飛行の法的ランク",
+      "value": "レベル 4",
+      "unit": "（有人地帯目視外）",
+      "oldValue": "無人地帯のみ（レベル3）に制限",
+      "description": "操縦者の視界外でも住宅地上空を自律航行",
+      "badge": "レベル4完全解禁",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "フルデジタル受診完結",
+      "labelStandard": "フルデジタル受診完結",
+      "value": "診察から薬",
+      "unit": "まで自宅受取",
+      "oldValue": "船で往復して遠くの大病院に通院",
+      "description": "オンライン診療・服薬指導と即日ドローン連動",
+      "badge": "通院不要DX",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "気象による運航制限",
+      "labelStandard": "気象による運航制限",
+      "value": "風速 10m",
+      "unit": "以上で欠航",
+      "oldValue": "台風・強風時はドローンも飛行不可",
+      "description": "悪天候時の全天候運航が今後の技術課題",
+      "badge": "強風・台風の壁",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    }
   ]
 }

@@ -155,5 +155,55 @@
       "text": "春闘5%賃上げの原動力",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "最大45%減税",
+      "labelStandard": "中小企業の最大税額控除",
+      "value": "最大 45",
+      "unit": "%控除",
+      "oldValue": "最大40%の税額控除だった",
+      "descriptionSimple": "給与2.5%増＋教育訓練＋女性活躍で最大減税",
+      "descriptionStandard": "給与2.5%増＋教育訓練＋女性活躍で最大減税",
+      "badge": "最大45%減税",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "5年間繰越控除",
+      "labelStandard": "赤字中小向け繰越期間",
+      "value": "最長 5",
+      "unit": "年間の繰越新設",
+      "oldValue": "当期が赤字なら減税枠は全額切り捨て消滅",
+      "descriptionSimple": "将来黒字化した際に減税を使えるように救済",
+      "descriptionStandard": "将来黒字化した際に減税を使えるように救済",
+      "badge": "5年間繰越控除",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "33年ぶり高水準",
+      "labelStandard": "2024年春闘の賃上げ実績",
+      "value": "平均 5.10",
+      "unit": "%（33年ぶり）",
+      "oldValue": "長年1〜2%台の低迷が続いていた",
+      "descriptionSimple": "賃上げ促進税制が企業のベア決断を後押し",
+      "descriptionStandard": "賃上げ促進税制が企業のベア決断を後押し",
+      "badge": "33年ぶり高水準",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "赤字企業格差",
+      "labelStandard": "日本の赤字法人割合",
+      "value": "全体の約6",
+      "unit": "割",
+      "oldValue": "法人税を払っていないため減税の恩恵ゼロ",
+      "descriptionSimple": "赤字零細企業への実効性拡大が依然として課題",
+      "descriptionStandard": "赤字零細企業への実効性拡大が依然として課題",
+      "badge": "赤字企業格差",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    }
   ]
 }

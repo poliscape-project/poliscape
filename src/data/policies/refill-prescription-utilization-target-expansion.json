@@ -165,5 +165,51 @@
       "text": "薬剤師による健康チェック義務",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "処方箋の反復利用回数",
+      "labelStandard": "処方箋の反復利用回数",
+      "value": "最大3回まで通院不要",
+      "unit": "",
+      "oldValue": "これまで: 毎回の受診ごとに処方箋の発行が必要（長期処方は残薬・管理面で懸念）",
+      "description": "1枚の処方箋で最大3回まで薬局での調剤が可能（医師の判断に基づく）",
+      "badge": "最大3回まで通院不要",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "政府の普及数値目標",
+      "labelStandard": "政府の普及数値目標",
+      "value": "国の普及数値目標を設定",
+      "unit": "",
+      "oldValue": "これまで: 制度導入のみで具体的な数値目標やフォローアップが不足",
+      "description": "骨太の方針等で公的普及目標を設定し、保険者（健保組合等）へのインセンティブ付与",
+      "badge": "国の普及数値目標を設定",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "調剤薬局での継続管理",
+      "labelStandard": "調剤薬局での継続管理",
+      "value": "薬剤師による健康チェック義務",
+      "unit": "",
+      "oldValue": "これまで: 薬局は処方箋通りの調剤と服薬指導が中心",
+      "description": "2回目・3回目の調剤時に副作用や症状変化を確認し、疑義があれば医師へ連絡義務",
+      "badge": "薬剤師による健康チェック義務",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "患者の再診料負担",
+      "labelStandard": "患者の再診料負担",
+      "value": "再診料分の窓口負担を節約",
+      "unit": "",
+      "oldValue": "これまで: 薬をもらうためだけに毎月再診料・処方料を窓口で支払い",
+      "description": "2回目・3回目は再診料がかからず、窓口自己負担が軽減",
+      "badge": "再診料分の窓口負担を節約",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Wallet"
+    }
   ]
 }

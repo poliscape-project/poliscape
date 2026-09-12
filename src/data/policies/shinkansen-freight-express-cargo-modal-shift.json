@@ -179,5 +179,51 @@
       "text": "CO2排出量を約90%削減",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "新幹線車内での荷物積載",
+      "labelStandard": "新幹線車内での荷物積載",
+      "value": "新幹線の専用荷物車両・座席荷物輸送",
+      "unit": "",
+      "oldValue": "これまで: 乗客の手荷物のみが対象で、商業貨物の大量輸送は想定外だった",
+      "description": "1両まるごと荷物専用車にする「貨客混載専用車両」や専用座席固定ベルトの運用",
+      "badge": "新幹線の専用荷物車両・座席荷物輸送",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Train"
+    },
+    {
+      "labelSimple": "遠隔地からの輸送スピード",
+      "labelStandard": "遠隔地からの輸送スピード",
+      "value": "地方から大都市へ最短3〜4時間即日配送",
+      "unit": "",
+      "oldValue": "これまで: トラック輸送で翌日・翌々日着（半日〜2日以上の所要時間）",
+      "description": "北海道や東北、北陸、九州から東京まで最短3〜4時間で即日配達完了",
+      "badge": "地方から大都市へ最短3〜4時間即日配送",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "輸送時のCO2排出量",
+      "labelStandard": "輸送時のCO2排出量",
+      "value": "CO2排出量を約90%削減",
+      "unit": "",
+      "oldValue": "これまで: 大型ディーゼルトラックによる多量のCO2排出",
+      "description": "鉄道輸送への転換により1トンキロあたりのCO2排出量を約9割削減",
+      "badge": "CO2排出量を約90%削減",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Leaf"
+    },
+    {
+      "labelSimple": "駅構内での荷物搬送荷役",
+      "labelStandard": "駅構内での荷物搬送荷役",
+      "value": "駅構内の自動搬送ロボット・物流ハブ化",
+      "unit": "",
+      "oldValue": "これまで: 駅員や作業員が階段やエレベーターを手動台車で運搬",
+      "description": "東京駅等での深夜・早朝の自動搬送ロボットや専用リフトによる積み下ろし自動化",
+      "badge": "駅構内の自動搬送ロボット・物流ハブ化",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Wrench"
+    }
   ]
 }

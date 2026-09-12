@@ -141,5 +141,81 @@
       "text": "多数回該当4.4万円維持",
       "color": "bg-emerald-50 text-emerald-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "中間層の病院代月上限",
+      "labelStandard": "高額療養費（一般区分）",
+      "value": "約 8〜9",
+      "unit": "万円 / 月",
+      "oldValue": "約80,100円 ＋ 1%上乗せ",
+      "descriptionSimple": "毎月の病院代の上限が少し上がる検討！",
+      "descriptionStandard": "年収約370万〜770万円世帯の月額上限見直し",
+      "badge": "月数千円〜1万円増",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "年間国民医療費",
+      "labelStandard": "医療保険の給付総額",
+      "value": "47兆円超",
+      "unit": "（過去最高更新）",
+      "oldValue": "超高額な新薬や高齢化で年1兆円ペース急増",
+      "descriptionSimple": "国の医療費がパンクしそうになっている！",
+      "descriptionStandard": "現役世代の保険料高騰を抑えるためのやむなき改革",
+      "badge": "過去最大規模",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "4ヶ月目以降の割引",
+      "labelStandard": "多数回該当の据え置き",
+      "value": "44,400",
+      "unit": "円 / 月",
+      "oldValue": "1年間に4回以上該当した場合の定額減額",
+      "descriptionSimple": "長く治療する人の上限は安く保たれる！",
+      "descriptionStandard": "抗がん剤・人工透析など長期難病患者のセーフティネット",
+      "badge": "長期患者を保護",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "高所得者の負担",
+      "labelStandard": "富裕層の上限区分",
+      "value": "最大 30万円超",
+      "unit": "（応分負担強化）",
+      "oldValue": "現行上限は約25.2万円 / 月",
+      "descriptionSimple": "お金持ちの人ほど病院代を多く払う！",
+      "descriptionStandard": "負担能力に応じた細分化で財政健全化を図る",
+      "badge": "富裕層の応分負担",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Wallet"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "毎月保険料を払う現役会社員",
+        "commentSimple": "「給料から引かれる健康保険料がこれ以上上がったら生活できない。お金のある人には負担してほしい」",
+        "commentStandard": "「医療費の膨張が止まらず現役世代の手取りを圧迫している。上限額の見直しは制度崩壊を防ぐため不可欠」"
+      },
+      {
+        "speaker": "医療経済の専門家",
+        "commentSimple": "「1人年間数千万円もする最新の抗がん剤をみんなで使い続けるには、ルールの見直しが必要だ」",
+        "commentStandard": "「国民皆保険を守りつつ画期的な新薬を保険適用し続けるためのやむを得ない痛みの分担だ」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "抗がん剤治療を続けるがん患者",
+        "commentSimple": "「病気で働けなくなって収入が減っているのに、病院代の上限まで上げられたら治療を諦めるしかない」",
+        "commentStandard": "「毎月数万円の負担増は長期療養患者にとって死活問題。命に関わるセーフティネットを削らないでほしい」"
+      },
+      {
+        "speaker": "病院の医療ソーシャルワーカー",
+        "commentSimple": "「お金が払えなくて必要な手術や入院をためらう患者さんが増えてしまわないかとても心配です」",
+        "commentStandard": "「公的医療保険の頼もしさが損なわれ、民間がん保険に入れない低・中所得層の医療格差が広がる」"
+      }
+    ]
+  }
 }

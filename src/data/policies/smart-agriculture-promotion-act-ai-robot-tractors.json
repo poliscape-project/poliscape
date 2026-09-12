@@ -139,5 +139,51 @@
       "text": "税制・低利融資",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "無人トラクターの走行",
+      "labelStandard": "自動運転農機レベル",
+      "value": "完全無人",
+      "unit": "（レベル3実装へ）",
+      "oldValue": "これまで 人間が乗って運転が必須",
+      "description": "遠隔監視で夜間や複数台を自動耕作",
+      "badge": "自動運転農機",
+      "badgeColor": "bg-cyan-100 text-cyan-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "農家さんの平均年齢",
+      "labelStandard": "基幹的農業従事者年齢",
+      "value": "68.7",
+      "unit": "歳（高齢化深刻）",
+      "oldValue": "20年間で従事者数が半減",
+      "description": "先端技術で人手不足崩壊を食い止める",
+      "badge": "高齢化打破",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "国の新法の施行",
+      "labelStandard": "スマート農業促進法",
+      "value": "2024年",
+      "unit": "10月本格施行",
+      "oldValue": "個別の補助金事業に依存",
+      "description": "開発企業と生産者を一体で集中支援",
+      "badge": "新法成立",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "購入時の国のサポート",
+      "labelStandard": "金融・税制特例措置",
+      "value": "長期低利",
+      "unit": "融資・特別償却",
+      "oldValue": "高額な機器代が農家の重荷に",
+      "description": "日本公庫の低利融資と税額控除を適用",
+      "badge": "税制融資特例",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Coins"
+    }
   ]
 }

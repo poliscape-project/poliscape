@@ -165,5 +165,51 @@
       "text": "悪質荷主の社名公表処分",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "年間拘束時間・残業の上限",
+      "labelStandard": "年間拘束時間・残業の上限",
+      "value": "拘束時間年3300時間へ短縮",
+      "unit": "",
+      "oldValue": "これまで: 残業規制の適用除外、年間拘束時間最大3,516時間で過労死多発",
+      "description": "時間外労働年960時間上限、年間拘束時間原則3,300時間へ短縮",
+      "badge": "拘束時間年3300時間へ短縮",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "荷待ち（待機）時間の料金化",
+      "labelStandard": "荷待ち（待機）時間の料金化",
+      "value": "荷待ち時間料の別建て請求義務化",
+      "unit": "",
+      "oldValue": "これまで: 運賃に含まれるとして何時間待たされても追加料金ゼロ",
+      "description": "30分〜1時間を超える待機に対して明確な待機時間料の請求・支払いを義務化",
+      "badge": "荷待ち時間料の別建て請求義務化",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "荷主（発注元）へのペナルティ",
+      "labelStandard": "荷主（発注元）へのペナルティ",
+      "value": "悪質荷主の社名公表処分",
+      "unit": "",
+      "oldValue": "これまで: 違反は運送会社のみが処分され、荷主はお咎めなし",
+      "description": "長時間の荷待ちを強いる悪質荷主に対し、国交省が「勧告・企業名公表」を実施",
+      "badge": "悪質荷主の社名公表処分",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "トラックバース予約システム",
+      "labelStandard": "トラックバース予約システム",
+      "value": "バース予約システムで待ち時間ゼロへ",
+      "unit": "",
+      "oldValue": "これまで: 早い者勝ちで朝からトラックが道路に長蛇の列を作って待機",
+      "description": "倉庫への入出場をスマホ・クラウドで事前時間指定予約するシステム導入",
+      "badge": "バース予約システムで待ち時間ゼロへ",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Smartphone"
+    }
   ]
 }

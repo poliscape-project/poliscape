@@ -171,5 +171,51 @@
       "text": "被災孤立集落での通信ブラックアウト解消",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "衛星通信に必要な端末",
+      "labelStandard": "衛星通信に必要な端末",
+      "value": "既存の通常スマホでそのまま衛星通信可能に",
+      "unit": "",
+      "oldValue": "これまで: 数十万円する専用のイリジウム衛星電話や大型アンテナキットが必須",
+      "description": "利用者が現在使っている市販の一般的なスマートフォン（4G/5G）をそのまま利用",
+      "badge": "既存の通常スマホでそのまま衛星通信可能に",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "電波利用ルールと周波数割当て",
+      "labelStandard": "電波利用ルールと周波数割当て",
+      "value": "地上携帯周波数の宇宙利用（周波数共用）解禁",
+      "unit": "",
+      "oldValue": "これまで: 地上携帯用と衛星通信用で周波数が厳格に分離され共用は電波法上不可",
+      "description": "地上と衛星での同一周波数干渉防止技術基準を策定し携帯帯域の共用を解禁",
+      "badge": "地上携帯周波数の宇宙利用（周波数共用）解禁",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Satellite"
+    },
+    {
+      "labelSimple": "被災地・集落孤立時の通信手段",
+      "labelStandard": "被災地・集落孤立時の通信手段",
+      "value": "被災孤立集落での通信ブラックアウト解消",
+      "unit": "",
+      "oldValue": "これまで: 基地局倒壊・光回線切断により集落全体が数週間完全通信途絶",
+      "description": "空が見える場所であれば発災直後から自治体・住民が即座に外部連絡可能",
+      "badge": "被災孤立集落での通信ブラックアウト解消",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "領海・山岳地帯のカバー率",
+      "labelStandard": "領海・山岳地帯のカバー率",
+      "value": "国土・排他的経済水域のカバー率100%達成",
+      "unit": "",
+      "oldValue": "これまで: 沿岸から数キロ離れた海域や山岳遭難現場はすべて携帯電話「圏外」",
+      "description": "日本の全領土・排他的経済水域（EEZ）のほぼ100%を空からエリア化",
+      "badge": "国土・排他的経済水域のカバー率100%達成",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Globe"
+    }
   ]
 }

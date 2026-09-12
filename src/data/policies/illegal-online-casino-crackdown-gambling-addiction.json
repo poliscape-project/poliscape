@@ -139,5 +139,51 @@
       "text": "闇バイト連鎖の遮断",
       "color": "bg-teal-50 text-teal-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国内市場推計規模",
+      "labelStandard": "国内市場推計規模",
+      "value": "数千億",
+      "unit": "〜1兆円超",
+      "oldValue": "海外サイトとして水面下で急拡大",
+      "description": "年間莫大な国富が海外マフィアへ流出",
+      "badge": "巨額市場流出",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "国内接続の法的判断",
+      "labelStandard": "国内接続の法的判断",
+      "value": "明白な",
+      "unit": "賭博罪（犯罪）",
+      "oldValue": "「海外合法ライセンスだから安全」の嘘",
+      "description": "警察庁・消費者庁が一斉警告・摘発",
+      "badge": "違法性断定",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "決済代行業者の摘発",
+      "labelStandard": "決済代行業者の摘発",
+      "value": "共犯逮捕",
+      "unit": "（賭博ほう助等）",
+      "oldValue": "通常の銀行振込感覚で入出金可能だった",
+      "description": "国内送金パイプラインを強制遮断",
+      "badge": "送金網遮断",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Ban"
+    },
+    {
+      "labelSimple": "闇バイトへの転落連鎖",
+      "labelStandard": "闇バイトへの転落連鎖",
+      "value": "多額借金",
+      "unit": "から強盗・詐欺加担",
+      "oldValue": "個人の趣味ギャンブルと軽視",
+      "description": "トクリュウ犯罪の温床として撲滅強化",
+      "badge": "治安防衛",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Smartphone"
+    }
   ]
 }

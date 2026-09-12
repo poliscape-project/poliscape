@@ -140,5 +140,51 @@
       "text": "危険地からの計画的撤退",
       "color": "bg-amber-50 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "家を建てるルール",
+      "labelStandard": "レッドゾーン内の住宅建築",
+      "value": "原則禁止",
+      "unit": "許可制厳格化",
+      "oldValue": "これまで 擁壁等を作れば建築可能",
+      "description": "土石流が直撃する危険区域での新規住宅をシャットアウト",
+      "badge": "建築禁止",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Ban"
+    },
+    {
+      "labelSimple": "安全な場所へ引越し",
+      "labelStandard": "防災集団移転・がけ地移転補助",
+      "value": "解体・移転費",
+      "unit": "最大数百万円補助",
+      "oldValue": "これまで 自己資金での住み替えのみ",
+      "description": "古い家の解体費や安全な高台への引っ越し代を補助",
+      "badge": "移転支援",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "計画的な撤退",
+      "labelStandard": "危険地域からのリトリート",
+      "value": "安全地帯へ",
+      "unit": "コンパクトシティ",
+      "oldValue": "これまで 被災するたびに現地復旧",
+      "description": "病院や買い物が近い安全な中心街へ居住地を集約",
+      "badge": "都市計画",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "MapPin"
+    },
+    {
+      "labelSimple": "住民の苦しみ",
+      "labelStandard": "私有地の資産価値暴落と売却難",
+      "value": "資産ゼロ化",
+      "unit": "売却不能の壁",
+      "oldValue": "これまで 土地を売って引越し資金に",
+      "description": "レッド指定で土地の買い手がつかず引越しできない悲劇",
+      "badge": "私権制限",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    }
   ]
 }

@@ -171,5 +171,51 @@
       "text": "学校の枠を超えた合同クラブ化",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "休日の部活動指導の担い手",
+      "labelStandard": "休日の部活動指導の担い手",
+      "value": "教員の休日部活指導の義務免除",
+      "unit": "",
+      "oldValue": "これまで: 教員が休日手当（日額数百円〜数千円）で土日返上で引率・指導",
+      "description": "地域のスポーツ少年団や民間指導者が主体となり教員の休日指導は完全任意化",
+      "badge": "教員の休日部活指導の義務免除",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "活動費用と保護者負担",
+      "labelStandard": "活動費用と保護者負担",
+      "value": "月謝制導入と困窮世帯への補助クーポン",
+      "unit": "",
+      "oldValue": "これまで: 学校教育の一環として年間数千円程度の部費のみで実質無償運用",
+      "description": "月謝（数千円程度）の受益者負担を基本とし困窮家庭には公費補助クーポン支給",
+      "badge": "月謝制導入と困窮世帯への補助クーポン",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "チームの編成単位",
+      "labelStandard": "チームの編成単位",
+      "value": "学校の枠を超えた合同クラブ化",
+      "unit": "",
+      "oldValue": "これまで: 学校単位での活動のため少子化により単独チームが組めず廃部が頻発",
+      "description": "市町村単位で学校の枠を超えた合同地域クラブを編成し活動を継続",
+      "badge": "学校の枠を超えた合同クラブ化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "CheckCircle2"
+    },
+    {
+      "labelSimple": "指導者の資質と安全基準",
+      "labelStandard": "指導者の資質と安全基準",
+      "value": "認定指導員ライセンスと安全保険の適用",
+      "unit": "",
+      "oldValue": "これまで: 専門外の教員が見よう見まねで指導し怪我や熱中症のリスクが存在",
+      "description": "研修を受けた有資格の認定指導員が指導しハラスメント防止と保険適用を徹底",
+      "badge": "認定指導員ライセンスと安全保険の適用",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

@@ -179,5 +179,51 @@
       "text": "危険時の即時緊急禁止命令制度",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "GPS機器等の無断取り付け規制",
+      "labelStandard": "GPS機器等の無断取り付け規制",
+      "value": "GPS・位置情報の無断取得を明確禁止",
+      "unit": "",
+      "oldValue": "これまで: 直接相手の近くをうろつく行為が中心で、GPS機器の設置自体は処罰規定が曖昧だった",
+      "description": "相手の所持品や自動車等に承諾なくGPSを取り付ける行為、位置情報を取得する行為を明確に禁止",
+      "badge": "GPS・位置情報の無断取得を明確禁止",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "デジタル通信・SNSでのつきまとい",
+      "labelStandard": "デジタル通信・SNSでのつきまとい",
+      "value": "SNSのDM等の連続送信も規制対象",
+      "unit": "",
+      "oldValue": "これまで: 電子メールの連続送信のみが対象で、新興SNSや位置情報アプリは対象外だった",
+      "description": "SNSのDM、メッセンジャーアプリ、ブログ等のあらゆる電磁的記録による連続送信を規制",
+      "badge": "SNSのDM等の連続送信も規制対象",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "禁止命令の手続き迅速化",
+      "labelStandard": "禁止命令の手続き迅速化",
+      "value": "危険時の即時緊急禁止命令制度",
+      "unit": "",
+      "oldValue": "これまで: 加害者への事前弁明（聴聞）が必要で、命令発令まで日数を要した",
+      "description": "被害者の生命・身体に急迫した危険がある場合、聴聞なしで即時に緊急禁止命令を発令可能",
+      "badge": "危険時の即時緊急禁止命令制度",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "被害者の避難・情報保護支援",
+      "labelStandard": "被害者の避難・情報保護支援",
+      "value": "住民票閲覧制限と避難費用の公費支援",
+      "unit": "",
+      "oldValue": "これまで: 住民票の閲覧制限手続きが煩雑で転居先が知られるリスク",
+      "description": "マイナンバーカード連携等による住民票交付制限の迅速化と一時避難ホテルの公費助成",
+      "badge": "住民票閲覧制限と避難費用の公費支援",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Home"
+    }
   ]
 }

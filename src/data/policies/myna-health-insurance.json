@@ -173,5 +173,81 @@
       "text": "限度額認定が全自動",
       "color": "bg-teal-50 text-teal-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "昔の保険証のあつかい",
+      "labelStandard": "従来の健康保険証",
+      "value": "完全失効",
+      "unit": "（利用不可）",
+      "oldValue": "2024年12月に新規発行終了",
+      "descriptionSimple": "いまはもう昔の保険証は使えません",
+      "descriptionStandard": "紙・プラスチック保険証はすべて失効",
+      "badge": "完全終了",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "CreditCard"
+    },
+    {
+      "labelSimple": "1年間のゆうよ期間",
+      "labelStandard": "経過措置（猶予期間）",
+      "value": "終了済",
+      "unit": "（2025/12/1）",
+      "oldValue": "最長1年間の経過措置期間",
+      "descriptionSimple": "手元の保険証が使えた期間も終了！",
+      "descriptionStandard": "2025年12月1日をもって猶予終了",
+      "badge": "完全移行済",
+      "badgeColor": "bg-slate-100 text-slate-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "マイナを使わない人の受診",
+      "labelStandard": "「資格確認書」の手続き",
+      "value": "要申請",
+      "unit": "（会社・役所）",
+      "oldValue": "待っていても届かないため申請が必要",
+      "descriptionSimple": "申請すればこれまで通り受診OK！",
+      "descriptionStandard": "健保や自治体に申請して交付を受ける",
+      "badge": "健保・役所へ申請",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "高額な医療費の手続き",
+      "labelStandard": "限度額適用認定証",
+      "value": "事前申請",
+      "unit": "なし（マイナ）",
+      "oldValue": "マイナなら窓口同意で自動適用",
+      "descriptionSimple": "マイナなら数十万円の立て替えゼロ！",
+      "descriptionStandard": "資格確認書は従来通り事前申請が必要",
+      "badge": "マイナの利点",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "FileCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "通院・服薬が多い患者とその家族",
+        "commentSimple": "「合わない薬や飲み合わせを病院や薬局で自動でチェックしてくれるから安心！」",
+        "commentStandard": "「お薬手帳を忘れても、医師が過去の処方薬やアレルギーを画面で確認して重複を防いでくれるので安心」"
+      },
+      {
+        "speaker": "急な入院・手術を経験した患者",
+        "commentSimple": "「入院のときに何十万円も一時立て替えしなくてよくなり、窓口の手続きがとてもラク！」",
+        "commentStandard": "「事前に限度額適用認定証を健保から取り寄せる手間がなくなり、窓口で何十万円も立て替えずに済むのは助かる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "マイナ保険証を使わない市民",
+        "commentSimple": "「待ってても『資格確認書』が届かないから、わざわざ役所や会社に申請しに行くのが大変だった…」",
+        "commentStandard": "「マイナ保険証を使わない場合、待っているだけでは届かず自分で健保や役所に申請しないと手に入らないのは不便」"
+      },
+      {
+        "speaker": "高齢の親をもつ家族・介護施設スタッフ",
+        "commentSimple": "「おじいちゃんおばあちゃんが4ケタの暗証番号を忘れてしまわないか心配…」",
+        "commentStandard": "「4桁の暗証番号を忘れてしまったり、施設で大勢のカードと暗証番号を預かる責任が重すぎて現場が混乱している」"
+      }
+    ]
+  }
 }

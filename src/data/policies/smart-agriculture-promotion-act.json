@@ -185,5 +185,81 @@
       "text": "2024年10月新法施行",
       "color": "bg-blue-50 text-blue-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "農家さんの平均ねんれい",
+      "labelStandard": "農業者の平均年齢",
+      "value": "68.7",
+      "unit": "歳",
+      "oldValue": "基幹従事者は20年で半減（約116万人）",
+      "descriptionSimple": "おじいちゃん農家が引退の危機！",
+      "descriptionStandard": "70代以上が過半数、急速な担い手喪失",
+      "badge": "担い手急減",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "機械の税金が安くなる",
+      "labelStandard": "先端機械の税制特例",
+      "value": "即時償却",
+      "unit": "（全額経費）",
+      "oldValue": "通常は何年もかけて減価償却",
+      "descriptionSimple": "ロボットやドローンを買ったら税金がトク！",
+      "descriptionStandard": "認定計画に基づく投資を初年度全額経費化",
+      "badge": "即時償却",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "お金をかりやすく",
+      "labelStandard": "日本政策金融公庫融資",
+      "value": "超低利",
+      "unit": "長期貸付",
+      "oldValue": "民間銀行では農業融資に慎重審査",
+      "descriptionSimple": "国からとても安い利子でお金を借りられる！",
+      "descriptionStandard": "スマート農機導入資金を長期で強力バックアップ",
+      "badge": "低利融資",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "お仕事にかかる時間",
+      "labelStandard": "作業時間・労働負担",
+      "value": "最大 50",
+      "unit": "%削減",
+      "oldValue": "炎天下の草刈り・重労働が深刻",
+      "descriptionSimple": "ドローンや自動運転で仕事が半分に！",
+      "descriptionStandard": "無人農機とAI画像診断による省力化革命",
+      "badge": "省力化革命",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Cpu"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "大規模農業法人の代表",
+        "commentSimple": "「自動で動くトラクターやドローンのおかげで、真夏のつらい草むしりや消毒がすごく楽になった！」",
+        "commentStandard": "「税金の即時償却と低利融資の後押しで、数十ヘクタールの水田管理をわずかな人手で黒字化できている」"
+      },
+      {
+        "speaker": "非農家出身の新規就農者",
+        "commentSimple": "「おじいちゃんの『長年のカン』をAIやスマホが教えてくれるから、初めてでもおいしい野菜が作れた」",
+        "commentStandard": "「土壌センサーと自動給水のおかげで、経験不足をデータで補い、家族との時間を確保しながら営農できている」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "中山間地の棚田農家",
+        "commentSimple": "「ロボットやドローンは高すぎて小さなおうちの農家には買えない。山あいの田んぼは見捨てられたのか」",
+        "commentStandard": "「1台数千万円の農機は平野部の大規模農家向け。狭く傾斜のある棚田では電波も届かず恩恵が届かない」"
+      },
+      {
+        "speaker": "農業機械の整備士",
+        "commentSimple": "「ハイテクすぎて農家さんが自分で修理できず、故障するたびに高いお金がかかってしまう」",
+        "commentStandard": "「通信障害や集中豪雨時のセンサー故障など、自然相手の現場でデジタルに過度依存するリスクは大きい」"
+      }
+    ]
+  }
 }

@@ -141,5 +141,81 @@
       "text": "地域救急維持の課題",
       "color": "bg-rose-50 text-rose-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "お医者さんの残業上限",
+      "labelStandard": "一般病院の年残業上限（A水準）",
+      "value": "年 960",
+      "unit": "時間（月100h未満）",
+      "oldValue": "事実上の青天井（年2,000時間超も横行）",
+      "descriptionSimple": "普通の病院の先生は年960時間までに制限！",
+      "descriptionStandard": "過労死ラインを大幅に引き下げる強制力のある罰則付き上限",
+      "badge": "年960時間制限",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "当直あけの休み時間",
+      "labelStandard": "勤務間インターバル",
+      "value": "9〜11",
+      "unit": "時間の休息義務",
+      "oldValue": "当直明けにそのまま昼間の手術を執刀",
+      "descriptionSimple": "当直で徹夜した先生に必ず休みをあげる！",
+      "descriptionStandard": "連続勤務時間制限（原則28時間）と睡眠確保を義務付け",
+      "badge": "当直明け休息義務",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "救急病院の特例",
+      "labelStandard": "地域医療特例（B水準）",
+      "value": "年 1,860",
+      "unit": "時間上限（縮小中）",
+      "oldValue": "特例なしの無制限労働",
+      "descriptionSimple": "救急病院はまだ忙しいが2035年までに減らす！",
+      "descriptionStandard": "地域救急や産科・小児科を維持するための暫定水準",
+      "badge": "2035年度廃止目標",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "看護師さんへのバトンタッチ",
+      "labelStandard": "タスクシフト・シェア",
+      "value": "特定看護師",
+      "unit": "などへ業務移管",
+      "oldValue": "採血や書類作成も医師が一人で抱え込み",
+      "descriptionSimple": "お医者さんしかできないことだけに集中する！",
+      "descriptionStandard": "クラーク配置やチーム医療で医師の負担を3割削減",
+      "badge": "チーム医療の推進",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Users"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "若手の勤務医",
+        "commentSimple": "「当直明けで寝ずに昼間の手術をするような危険な働き方がやっと禁止されて、生き返った思いです」",
+        "commentStandard": "「極度の疲労による医療過誤を防ぎ、医師自身が健康で長く臨床を続けられる環境になった」"
+      },
+      {
+        "speaker": "子育て中の女性医師",
+        "commentSimple": "「残業が青天井だった頃は育児との両立を諦めるしかなかったが、上限ができて復職できた」",
+        "commentStandard": "「当直免除や時間外管理が進むことで、多様な医師が離職せずにキャリアを積めるようになった」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "地方公立病院の院長",
+        "commentSimple": "「大学病院からの医師派遣が引き揚げられ、当直医が集まらず夜間救急を休止せざるを得ない」",
+        "commentStandard": "「年960時間規制を守るため地方病院の宿日直が回らない。地方の地域医療崩壊が現実化している」"
+      },
+      {
+        "speaker": "救急搬送を頼る地域住民",
+        "commentSimple": "「夜中に子どもが急病になったとき、近くの救急病院で受け入れを断られないか本当に不安」",
+        "commentStandard": "「いつでもすぐ診てもらえる日本の手厚い医療体制が維持できなくなる覚悟が必要なのかもしれない」"
+      }
+    ]
+  }
 }

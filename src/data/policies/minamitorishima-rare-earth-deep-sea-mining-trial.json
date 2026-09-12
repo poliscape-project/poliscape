@@ -139,5 +139,51 @@
       "text": "中国依存からの完全脱却",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "眠っている深さ",
+      "labelStandard": "レアアース泥の採掘水深",
+      "value": "水深6,000",
+      "unit": "mの深海",
+      "oldValue": "これまで 陸上鉱山からの採取",
+      "description": "光も届かない超深海600気圧の極限環境",
+      "badge": "超深海採掘",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Anchor"
+    },
+    {
+      "labelSimple": "埋まっている量",
+      "labelStandard": "国内消費量に対する埋蔵量",
+      "value": "数百年分",
+      "unit": "世界屈指の宝",
+      "oldValue": "これまで 中国から輸入依存",
+      "description": "EVモーターや風力に不可欠な重希土類が大量",
+      "badge": "資源大国へ",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "実験の船",
+      "labelStandard": "地球深部探査船「ちきゅう」",
+      "value": "ちきゅう",
+      "unit": "揚泥実証",
+      "oldValue": "これまで 学術的サンプル採取のみ",
+      "description": "深海からパイプで泥を吸い上げる技術実験",
+      "badge": "国家実証",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Ship"
+    },
+    {
+      "labelSimple": "商業化の課題",
+      "labelStandard": "採掘・輸送の経済コスト",
+      "value": "採算性",
+      "unit": "中国産対抗",
+      "oldValue": "これまで 陸上採掘より莫大高コスト",
+      "description": "1,900km離れた絶海からの輸送・精錬採算の壁",
+      "badge": "コストの壁",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Coins"
+    }
   ]
 }

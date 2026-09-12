@@ -171,5 +171,51 @@
       "text": "学校スクリーニングと専門支援ネットワーク直結",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "ヤングケアラーの法的位置づけ",
+      "labelStandard": "ヤングケアラーの法的位置づけ",
+      "value": "ヤングケアラーの国法初明記と支援責務化",
+      "unit": "",
+      "oldValue": "これまで: 法律上の定義がなく行政の福祉支援の対象外として放置",
+      "description": "子ども・若者育成支援推進法に「ヤングケアラー」を明記し国の支援を義務化",
+      "badge": "ヤングケアラーの国法初明記と支援責務化",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "家事・介護の直接的代替支援",
+      "labelStandard": "家事・介護の直接的代替支援",
+      "value": "家庭への家事・介護ヘルパー公費派遣事業",
+      "unit": "",
+      "oldValue": "これまで: 子どもが自力で食事作りや排泄介助を行い学業や睡眠時間を圧迫",
+      "description": "自治体から家事支援ヘルパーや訪問介護を無償派遣し負担を肩代わり",
+      "badge": "家庭への家事・介護ヘルパー公費派遣事業",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Heart"
+    },
+    {
+      "labelSimple": "学校での早期発見体制",
+      "labelStandard": "学校での早期発見体制",
+      "value": "学校スクリーニングと専門支援ネットワーク直結",
+      "unit": "",
+      "oldValue": "これまで: 「親孝行な子」「単なる遅刻・宿題忘れ」と見過ごされ孤立化",
+      "description": "チェックシートによる早期スクリーニングとスクールソーシャルワーカー直結",
+      "badge": "学校スクリーニングと専門支援ネットワーク直結",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "進路・学習支援と奨学金",
+      "labelStandard": "進路・学習支援と奨学金",
+      "value": "進学断念を防ぐ給付型奨学金優先枠の創設",
+      "unit": "",
+      "oldValue": "これまで: 介護離職ならぬ「介護進学断念」で高卒・中退を余儀なくされる構造",
+      "description": "給付型奨学金の優先枠設定や個別学習指導ボランティアを配備",
+      "badge": "進学断念を防ぐ給付型奨学金優先枠の創設",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "GraduationCap"
+    }
   ]
 }

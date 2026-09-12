@@ -155,5 +155,81 @@
       "text": "テレワーク等柔軟措置の義務化",
       "color": "bg-indigo-50 text-indigo-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "辞めてしまう人の数",
+      "labelStandard": "年間の介護離職者",
+      "value": "約10万人",
+      "unit": "（働き盛り世代）",
+      "oldValue": "40〜50代の中核社員が突然退職する事態が常態化",
+      "descriptionSimple": "毎年10万人もの人が親の介護で仕事を諦めている！",
+      "descriptionStandard": "管理職や熟練社員の流出による企業損失は深刻",
+      "badge": "年10万人離職",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "面談する年齢",
+      "labelStandard": "事前周知・面談義務",
+      "value": "40歳",
+      "unit": "到達時（全社員）",
+      "oldValue": "親が倒れて休業を申し出たときだけ事後対応",
+      "descriptionSimple": "40歳になったら会社が必ず休みの仕組みを教えてくれる！",
+      "descriptionStandard": "介護保険加入の40歳時点で制度周知と意向確認を義務化",
+      "badge": "40歳面談義務",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "UserCheck"
+    },
+    {
+      "labelSimple": "柔軟な働き方",
+      "labelStandard": "テレワーク等の選択",
+      "value": "義務化",
+      "unit": "（企業措置）",
+      "oldValue": "短時間勤務のみで、在宅勤務は企業の任意",
+      "descriptionSimple": "親の介護がある人は、家で仕事ができるように！",
+      "descriptionStandard": "テレワーク、時差出勤、フレックス制の選択肢を義務付け",
+      "badge": "テレワーク措置",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "法律の休み（介護休業）",
+      "labelStandard": "介護休業の本来の目的",
+      "value": "通算93日",
+      "unit": "（賃金67%給付）",
+      "oldValue": "「自分が親を介護するための休み」と誤解されていた",
+      "descriptionSimple": "親を介護する休みではなく、ヘルパーを手配する準備期間！",
+      "descriptionStandard": "ケアマネと体制を作り仕事と両立するための準備休業",
+      "badge": "通算93日休業",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Calendar"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "40歳で介護面談を受けた中堅社員",
+        "commentSimple": "「親の介護は自分で抱え込まず、ヘルパーさんを探すための休みを取ればいいと知って本当に心が軽くなった」",
+        "commentStandard": "「40歳面談で介護休業が『体制を整えるための準備期間』だと教わり、いざ親が倒れても慌てずに仕事を辞めずに済んだ」"
+      },
+      {
+        "speaker": "製造業の人事労務担当役員",
+        "commentSimple": "「40〜50代の頼れるリーダーが急に仕事を辞めてしまうのを防ぎ、テレワークなどで活躍し続けてもらえる」",
+        "commentStandard": "「ベテラン管理職の突発的な離職は数千万円の損失。早期の情報提供と柔軟な働き方の整備で中核人材を確実に守れる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "中小企業（町工場）の社長",
+        "commentSimple": "「工場で働く仕事は家でパソコン作業ができない。人が抜けたら他の社員が大変で、大企業のような休みは難しい」",
+        "commentStandard": "「製造ラインや運送業ではテレワークの代替がきかない。従業員数人の現場で長期の短時間勤務をされるとしわ寄せが限界に達する」"
+      },
+      {
+        "speaker": "両立に悩む介護経験者",
+        "commentSimple": "「家で仕事をしながら認知症の親の面倒を見るのは、四六時中気が休まらなくて心がパンクしそうになる」",
+        "commentStandard": "「テレワークで仕事と介護を同時に抱え込んだ結果、睡眠障害と介護うつに陥った。制度だけでなく外部サービスの受け皿が必須だ」"
+      }
+    ]
+  }
 }

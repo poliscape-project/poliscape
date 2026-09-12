@@ -171,5 +171,51 @@
       "text": "裁判所の令状審査と独立第三者監査の導入",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "攻撃元サーバーへの先制対処権限",
+      "labelStandard": "攻撃元サーバーへの先制対処権限",
+      "value": "攻撃元サーバーへの侵入・無力化権限の付与",
+      "unit": "",
+      "oldValue": "これまで: 受動的防御のみで、攻撃元が判明していても不正アクセス禁止法により手を出せない",
+      "description": "重大なサイバー攻撃の急迫時に攻撃元サーバーへアクセスし無力化措置を認可",
+      "badge": "攻撃元サーバーへの侵入・無力化権限の付与",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "通信事業者との連携・パケット監視",
+      "labelStandard": "通信事業者との連携・パケット監視",
+      "value": "脅威メタデータ監視の適法化と厳格な限定",
+      "unit": "",
+      "oldValue": "これまで: 憲法の「通信の秘密」により通信事業者が脅威通信データを政府へ提供不能",
+      "description": "マルウェア拡散等の悪意ある通信メタデータに限定した監視・情報提供を法制化",
+      "badge": "脅威メタデータ監視の適法化と厳格な限定",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Lock"
+    },
+    {
+      "labelSimple": "令状主義と第三者監査機関",
+      "labelStandard": "令状主義と第三者監査機関",
+      "value": "裁判所の令状審査と独立第三者監査の導入",
+      "unit": "",
+      "oldValue": "これまで: 体系的な制度自体が存在せず運用基準が不透明",
+      "description": "裁判官による事前令状審査の導入と独立第三者委員会による事後監査の義務化",
+      "badge": "裁判所の令状審査と独立第三者監査の導入",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "国家サイバー対処司令部",
+      "labelStandard": "国家サイバー対処司令部",
+      "value": "統合サイバー防衛司令部の創設と五眼（ファイブアイズ）連携",
+      "unit": "",
+      "oldValue": "これまで: NISC（内閣）、警察庁、防衛省、総務省の縦割りが深く迅速な指揮が不能",
+      "description": "一元的に指揮命令を行う「国家サイバー防衛司令部」を創設し米英と連携強化",
+      "badge": "統合サイバー防衛司令部の創設と五眼（ファイブアイズ）連携",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Cpu"
+    }
   ]
 }

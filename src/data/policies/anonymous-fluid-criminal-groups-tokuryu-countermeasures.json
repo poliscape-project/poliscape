@@ -159,5 +159,51 @@
       "text": "通信傍受・口座凍結強化",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "警察の捜査体制",
+      "labelStandard": "トクリュウ合同捜査本部",
+      "value": "全国連携",
+      "unit": "で首謀者を追尾",
+      "oldValue": "これまで 都道府県警ごとに個別捜査で寸断",
+      "description": "警察庁直轄のサイバー捜査隊と全国の警察が連携",
+      "badge": "合同捜査",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "指示役への厳罰",
+      "labelStandard": "組織犯罪処罰法の厳格適用",
+      "value": "重罰化",
+      "unit": "で上層部を壊滅",
+      "oldValue": "これまで 現場の実行役（捨て駒）のみ逮捕",
+      "description": "秘匿通信解析により指示役・首謀者を特定・摘発",
+      "badge": "指示役摘発",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "SNSの闇バイト募集",
+      "labelStandard": "闇バイト募集投稿の削除要請",
+      "value": "AI監視削除",
+      "unit": "で入口を封鎖",
+      "oldValue": "これまで SNS上に甘言の募集が公然と放置",
+      "description": "プラットフォーム事業者への即時削除・アカウント凍結",
+      "badge": "入口遮断",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Ban"
+    },
+    {
+      "labelSimple": "犯罪マネーの凍結",
+      "labelStandard": "不正送金口座の即時凍結",
+      "value": "即時凍結",
+      "unit": "で資金回収阻止",
+      "oldValue": "これまで 買取り口座や暗号資産で即座に分散",
+      "description": "金融機関と連携し疑わしい取引を自動で止める",
+      "badge": "マネロン阻止",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Wallet"
+    }
   ]
 }

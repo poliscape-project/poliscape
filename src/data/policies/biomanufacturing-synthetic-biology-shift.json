@@ -185,5 +185,81 @@
       "text": "海中生分解プラ・人工クモ糸",
       "color": "bg-purple-50 text-purple-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "バイオ産業を助けるお金",
+      "labelStandard": "バイオものづくり革命推進事業",
+      "value": "約 3,000",
+      "unit": "億円規模",
+      "oldValue": "試験管レベルの基礎研究にとどまっていた",
+      "descriptionSimple": "石油のかわりに微生物にプラスチックを作らせる！",
+      "descriptionStandard": "大規模発酵タンクを持つ実証拠点を国費で整備",
+      "badge": "3,000億円基金",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "植物から作るプラスチック",
+      "labelStandard": "2030年 バイオプラ導入目標",
+      "value": "200",
+      "unit": "万トン",
+      "oldValue": "市場の99%以上が石油由来の通常プラスチック",
+      "descriptionSimple": "2030年までにたくさんのプラスチックを植物生まれに！",
+      "descriptionStandard": "温室効果ガス排出ゼロに向けた素材の大転換ロードマップ",
+      "badge": "200万トン目標",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Leaf"
+    },
+    {
+      "labelSimple": "海の中で自然に溶ける",
+      "labelStandard": "海洋生分解性バイオプラスチック",
+      "value": "100",
+      "unit": "%生分解（カネカ等）",
+      "oldValue": "海に流出したプラゴミが数百年分解されず魚を脅かす",
+      "descriptionSimple": "海に落ちてもお魚を傷つけず水と二酸化炭素に還る！",
+      "descriptionStandard": "世界中の海洋プラゴミ規制を突破する革新的新素材",
+      "badge": "海中生分解性",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "二酸化炭素を食べる微生物",
+      "labelStandard": "水素細菌による直接物質生産",
+      "value": "CO2から",
+      "unit": "直接プラスチック",
+      "oldValue": "サトウキビ等を使うため食料生産と土地の奪い合いに",
+      "descriptionSimple": "工場の煙を食べて便利なプラスチックを作る驚きの菌！",
+      "descriptionStandard": "食料と競合せず温室効果ガスを直接資源化する技術",
+      "badge": "CO2直接資源化",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Zap"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "バイオテクノロジー研究所の主任研究員",
+        "commentSimple": "「石油の代わりに微生物にプラスチックや繊維をつくらせることで、ゴミやCO2を大幅に減らせる」",
+        "commentStandard": "「合成生物学とゲノム編集によるバイオ生産は、石油依存からの完全脱却とサーキュラーエコノミーを実現する革新技術だ」"
+      },
+      {
+        "speaker": "化学素材メーカーの経営企画担当",
+        "commentSimple": "「石油がない日本でも、バイオの力を使えば自前で高機能な素材を生み出す世界トップの国になれる」",
+        "commentStandard": "「精密発酵技術による医薬品原薬や高機能ポリマーの国内生産は、素材立国日本の新たな成長エンジンになる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "消費者団体の代表",
+        "commentSimple": "「人工的に遺伝子を変えた微生物が工場の外に出てしまわないか、安全管理をしっかりしてほしい」",
+        "commentStandard": "「遺伝子組み換え微生物の環境流出リスクや、バイオ食品・素材の長期的な人体影響に対する不安を払拭できていない」"
+      },
+      {
+        "speaker": "石油化学コンビナートの管理者",
+        "commentSimple": "「微生物で大量に安くモノをつくるのはまだ難しく、いまある巨大な化学工場を急に変えることはできない」",
+        "commentStandard": "「スケールアップ（大型発酵槽での量産）の壁が高く、既存の石油化学製品に対する圧倒的なコスト競争力で太刀打ちできない」"
+      }
+    ]
+  }
 }

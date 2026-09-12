@@ -185,5 +185,81 @@
       "text": "総額5兆円の投資・顧客リスク",
       "color": "bg-amber-50 text-amber-900"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "TSMCを呼ぶ国のお金",
+      "labelStandard": "TSMC熊本工場への助成額",
+      "value": "約 1.2",
+      "unit": "兆円規模",
+      "oldValue": "これまで国内半導体工場への支援は小規模",
+      "descriptionSimple": "世界一の半導体工場を日本に呼ぶ大きな決断！",
+      "descriptionStandard": "第1・第2工場への巨額助成でサプライチェーン確保",
+      "badge": "TSMC誘致",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "ラピダスが作るチップ",
+      "labelStandard": "Rapidus量産目標性能",
+      "value": "2",
+      "unit": "ナノメートル",
+      "oldValue": "日本の製造技術は40ナノ（約15年前）で停滞",
+      "descriptionSimple": "世界最先端の超すごいチップを北海道で作る！",
+      "descriptionStandard": "2027年の2ナノ本格量産へ向け技術的跳躍に挑戦",
+      "badge": "2ナノ量産",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "国が使う税金の総額",
+      "labelStandard": "半導体支援の国費総額",
+      "value": "約 4",
+      "unit": "兆円規模",
+      "oldValue": "かつて世界シェア50%から10%未満へ没落",
+      "descriptionSimple": "自動車やAIが止まらないよう国が本気で支援！",
+      "descriptionStandard": "経済安全保障の核心として異例の巨額予算を集中投下",
+      "badge": "過去最大支援",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "これからの心配ごと",
+      "labelStandard": "事業成功への最大の課題",
+      "value": "5兆円",
+      "unit": "の資金・顧客確保",
+      "oldValue": "海外大手ファウンドリが顧客を寡占中",
+      "descriptionSimple": "「作ったあと誰が買ってくれるか」が一番の勝負！",
+      "descriptionStandard": "巨額投資の採算性と米ビッグテック顧客開拓の壁",
+      "badge": "採算性リスク",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "半導体装置メーカーのエンジニア",
+        "commentSimple": "「先端の半導体をつくる工場ができると、周りの会社や若者の仕事もたくさん増えて街が元気になる」",
+        "commentStandard": "「最先端2nmチップの国内量産とTSMC誘致は、サプライチェーン強靱化と日本の製造業の復権に不可欠な投資だ」"
+      },
+      {
+        "speaker": "半導体誘致自治体の職員",
+        "commentSimple": "「工場ができたことで若い人の給料が上がり、新しい家やお店がどんどん建っている」",
+        "commentStandard": "「関連企業の進出や地価上昇、高賃金雇用の創出により、過疎に悩んでいた地域経済が劇的に活性化している」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "経済政策の財政アナリスト",
+        "commentSimple": "「何兆円もの税金を使っても、もし外国の強い会社に勝てなかったら大損になってしまう」",
+        "commentStandard": "「ラピダス等に数兆円規模の国費を投じるが、民間資金の集まりや量産後の顧客獲得には不透明感が強く、座礁投資のリスクがある」"
+      },
+      {
+        "speaker": "周辺工場の経営者",
+        "commentSimple": "「大手工場に人が集まってしまい、うちのような町工場では給料が高すぎて人が雇えない」",
+        "commentStandard": "「半導体バブルによる人件費高騰で地元中小企業の人手不足が加速しており、地域インフラや地下水への負荷も心配だ」"
+      }
+    ]
+  }
 }

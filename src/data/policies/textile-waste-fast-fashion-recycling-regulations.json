@@ -139,5 +139,51 @@
       "text": "拡大生産者責任EPR",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "日本でゴミになる服の量",
+      "labelStandard": "年間衣服廃棄量（焼却・埋立）",
+      "value": "約50万",
+      "unit": "トン（供給80万トンの過半数）",
+      "oldValue": "ファストファッションによる大量消費・大量廃棄",
+      "description": "製造時の莫大なCO2排出と水資源浪費を抑制",
+      "badge": "年50万トン廃棄",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "売れ残った新品を捨てること",
+      "labelStandard": "売れ残り新品衣料の廃棄禁止",
+      "value": "禁止",
+      "unit": "化（EUエコデザイン規則モデル）",
+      "oldValue": "ブランド価値維持のため新品を公然と焼却",
+      "description": "再販や寄付を義務付け無駄な廃棄をゼロへ",
+      "badge": "新品廃棄の禁止",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Ban"
+    },
+    {
+      "labelSimple": "服を作った会社のゴミ回収責任",
+      "labelStandard": "拡大生産者責任（EPR制度の導入）",
+      "value": "負担",
+      "unit": "義務化（回収・リサイクル費用）",
+      "oldValue": "捨てられた服の処分コストは税金（自治体）任せ",
+      "description": "アパレル企業自らが回収の責任を負う",
+      "badge": "生産者回収義務",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "服からまた新しい服を作る技術",
+      "labelStandard": "ケミカルリサイクル（水平循環）",
+      "value": "循環",
+      "unit": "型（服から服へ完全再生）",
+      "oldValue": "混ざった繊維を分けられず雑巾や固形燃料化",
+      "description": "ポリエステルを分子レベルで分解し新品服へ",
+      "badge": "水平リサイクル",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Layers"
+    }
   ]
 }

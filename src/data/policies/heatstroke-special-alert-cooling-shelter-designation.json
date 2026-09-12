@@ -179,5 +179,51 @@
       "text": "大手スーパー等の民間店舗の避難所指定",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "警戒情報のランクと発令基準",
+      "labelStandard": "警戒情報のランクと発令基準",
+      "value": "最上位の「特別警戒アラート」新設",
+      "unit": "",
+      "oldValue": "これまで: 暑さ指数（WBGT）33以上を予測した「熱中症警戒アラート」のみ",
+      "description": "都道府県内全地点でWBGT 35以上を予測した際に「熱中症特別警戒アラート」を新設",
+      "badge": "最上位の「特別警戒アラート」新設",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Sun"
+    },
+    {
+      "labelSimple": "指定暑熱避難施設（クーリングシェルター）",
+      "labelStandard": "指定暑熱避難施設（クーリングシェルター）",
+      "value": "クーリングシェルターの法的位置付け・義務化",
+      "unit": "",
+      "oldValue": "これまで: 自治体ごとの任意な「涼みどころ」開放で法的根拠なし",
+      "description": "気候変動適応法に基づき市町村が冷房施設を指定し、特別警報時に無償開放を義務化",
+      "badge": "クーリングシェルターの法的位置付け・義務化",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Wind"
+    },
+    {
+      "labelSimple": "民間商業施設との連携",
+      "labelStandard": "民間商業施設との連携",
+      "value": "大手スーパー等の民間店舗の避難所指定",
+      "unit": "",
+      "oldValue": "これまで: 公共施設（役所や公民館）の平日開館時間内に限定",
+      "description": "イオン、ドラッグストア、コンビニ、郵便局等の民間店舗と協定を結び休日・夜間も開放",
+      "badge": "大手スーパー等の民間店舗の避難所指定",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "学校行事・野外イベント等の対応",
+      "labelStandard": "学校行事・野外イベント等の対応",
+      "value": "特別警報時の野外活動・行事の中止要請",
+      "unit": "",
+      "oldValue": "これまで: 主催者の個別判断に委ねられ部活動等で重症事故が発生",
+      "description": "特別アラート発令時は原則として野外イベントや運動の中止・延期を強く要請",
+      "badge": "特別警報時の野外活動・行事の中止要請",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Sparkles"
+    }
   ]
 }

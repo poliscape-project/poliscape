@@ -171,5 +171,81 @@
       "text": "厚生年金加入で将来増額",
       "color": "bg-indigo-50 text-indigo-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "会社がもらえる国の補助金",
+      "labelStandard": "キャリアアップ助成金",
+      "value": "最大 50",
+      "unit": "万円/人支給",
+      "oldValue": "手取り補填に対する国の補助なし",
+      "descriptionSimple": "パートの手取りを減らさない会社にお金が出る！",
+      "descriptionStandard": "社会保険適用時処遇改善コースで最長2年支援",
+      "badge": "1人最大50万円",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "パートさんの手取り",
+      "labelStandard": "手取り補填（手当支給）",
+      "value": "全額補填",
+      "unit": "（手取り減ゼロ）",
+      "oldValue": "106万で社保天引きされ手取り約15%急減",
+      "descriptionSimple": "会社から手当が出て手取りが減らない！",
+      "descriptionStandard": "社会保険適用促進手当により「手取りの崖」解消",
+      "badge": "手取り減ゼロ",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "将来もらえる年金",
+      "labelStandard": "厚生年金加入メリット",
+      "value": "年金増額",
+      "unit": "（将来の受取プラス）",
+      "oldValue": "国民年金（第3号）のみで受給が少なかった",
+      "descriptionSimple": "手取りは減らずに将来もらえる年金が増える！",
+      "descriptionStandard": "手取り維持のまま厚生年金と傷病手当金の権利獲得",
+      "badge": "将来年金アップ",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "いつまで続く？",
+      "labelStandard": "支援措置の適用期間",
+      "value": "最長 2年間",
+      "unit": "（時限措置）",
+      "oldValue": "なし",
+      "descriptionSimple": "2年の間に時給を上げたり働く時間を増やす！",
+      "descriptionStandard": "抜本的な年金制度改革までの暫定激変緩和パッケージ",
+      "badge": "最長2年の時限措置",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Clock"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "スーパーで働く主婦パート",
+        "commentSimple": "「『これ以上働くと損する』とシフトを減らさなくてよくなって、手取りも減らず将来の年金も増えて最高！」",
+        "commentStandard": "「会社の手当で社会保険料天引き分が補填され、手取りを維持したまま厚生年金に入れる安心感がある」"
+      },
+      {
+        "speaker": "飲食店・流通チェーンの店長",
+        "commentSimple": "「年末の忙しい時期にパートさんが一斉に休んでしまう問題がなくなり、お店がしっかり回るようになった」",
+        "commentStandard": "「繁忙期の人手不足が解消し、従業員が意欲的に労働時間を延ばしてくれる職場の活気が戻った」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "期限切れを心配するパート従業員",
+        "commentSimple": "「国の補助金は最長2年間だけ。2年後に会社が手当をやめたら結局手取りが激減しちゃうのでは…」",
+        "commentStandard": "「2年の暫定期間が終わった後、会社が手当を打ち切って手取りの崖が再来しないか不安が残る」"
+      },
+      {
+        "speaker": "小規模事業所の経営者",
+        "commentSimple": "「助成金の申請書類や就業規則の変更が難しすぎて、社労士さんに頼まないと申請できない」",
+        "commentStandard": "「行政手続きの事務負担が過重で、制度を利用したくても手が回らない中小零細企業が多い」"
+      }
+    ]
+  }
 }

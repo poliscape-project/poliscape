@@ -139,5 +139,51 @@
       "text": "孤独死の入居拒否ゼロへ",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "家主の入居拒否感",
+      "labelStandard": "家主の入居拒否感",
+      "value": "約 7",
+      "unit": "割が敬遠していた",
+      "oldValue": "孤独死・遺品放置の法的恐怖",
+      "description": "モデル契約で安心感を提供し解消へ",
+      "badge": "入居拒否打破",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "死亡後の契約解除",
+      "labelStandard": "死亡後の契約解除",
+      "value": "死後迅速",
+      "unit": "に解約可能",
+      "oldValue": "相続人全員の同意が必要で数ヶ月放置",
+      "description": "生前に委任された受託者が即代行",
+      "badge": "迅速解約",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "残置物の廃棄・換価",
+      "labelStandard": "残置物の廃棄・換価",
+      "value": "一定期間",
+      "unit": "保管後処分可能",
+      "oldValue": "勝手に捨てると損害賠償訴訟リスク",
+      "description": "契約条項に基づき合法的に明渡し完了",
+      "badge": "遺品整理公認",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "単身高齢世帯数",
+      "labelStandard": "単身高齢世帯数",
+      "value": "700万",
+      "unit": "世帯突破",
+      "oldValue": "家族同居が主流だった",
+      "description": "居住セーフティネットの最重要課題",
+      "badge": "高齢化直面",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Heart"
+    }
   ]
 }

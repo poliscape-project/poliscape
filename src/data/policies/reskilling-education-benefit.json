@@ -171,5 +171,81 @@
       "text": "在職中休業給付新設",
       "color": "bg-indigo-50 text-indigo-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国からのキャッシュバック",
+      "labelStandard": "最大給付率（ハローワーク）",
+      "value": "最大 80",
+      "unit": "％支給",
+      "oldValue": "従来 最大70%（受講中50%＋修了20%）",
+      "descriptionSimple": "学費の最大80%が戻ってくる神制度！",
+      "descriptionStandard": "資格取得＋賃金5%アップ要件達成で80%へ拡充",
+      "badge": "最大80%拡充",
+      "badgeColor": "bg-violet-100 text-violet-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "1年にもらえる上限",
+      "labelStandard": "年間給付上限額",
+      "value": "年最大 64",
+      "unit": "万円（3年192万）",
+      "oldValue": "従来 年最大56万円（3年168万円）",
+      "descriptionSimple": "高額なITスクールの学費もほぼカバー！",
+      "descriptionStandard": "専門実践教育訓練で年間上限が引き上げ",
+      "badge": "年最大64万円",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "勉強中の生活費サポート",
+      "labelStandard": "教育訓練休暇給付金",
+      "value": "休業給付新設",
+      "unit": "（生活費補助）",
+      "oldValue": "退職して失業保険をもらうしかなかった",
+      "descriptionSimple": "仕事を辞めなくても給付金をもらって休める",
+      "descriptionStandard": "会社を休業して本格的に学び直す間の生活費を補助",
+      "badge": "休業給付新設",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "BookOpen"
+    },
+    {
+      "labelSimple": "どんな講座が学べる？",
+      "labelStandard": "対象講座の重点分野",
+      "value": "AI・DX講座",
+      "unit": "大幅拡充",
+      "oldValue": "簿記や宅建などの伝統的資格中心だった",
+      "descriptionSimple": "AI・データサイエンス・プログラミングが充実！",
+      "descriptionStandard": "人手不足の成長産業へ向けた講座が多数指定",
+      "badge": "AI・DX重点",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Sparkles"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "IT講座を受講した転職者",
+        "commentSimple": "「70万円もするプログラミング教室が実質14万円で通えて、給料の良い会社に転職できた！」",
+        "commentStandard": "「費用の最大80%を雇用保険から出してもらえるため、自己投資のハードルが劇的に下がった」"
+      },
+      {
+        "speaker": "労働市場アナリスト",
+        "commentSimple": "「成長産業に必要なスキルを身につけて、働く人の自律的な賃上げを国が強力に後押しする」",
+        "commentStandard": "「人手不足のデジタル・脱炭素分野への円滑な労働移動を促し、日本全体の生産性を底上げできる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "貯蓄に余裕がない非正規雇用者",
+        "commentSimple": "「給付金は後から戻ってくる仕組みだから、最初に数十万円を自腹で払えないと申し込めない…」",
+        "commentStandard": "「初期費用の立替払いが重く、本当に学び直しが必要な低所得層が取り残される恐れがある」"
+      },
+      {
+        "speaker": "キャリアコンサルタント",
+        "commentSimple": "「せっかく勉強して資格を取っても、実務経験がないと転職できずお給料も上がらない落とし穴がある」",
+        "commentStandard": "「高額な民間講座を修了しただけで満足し、実際の社内昇給や希望転職に結びつかないミスマッチが多発」"
+      }
+    ]
+  }
 }

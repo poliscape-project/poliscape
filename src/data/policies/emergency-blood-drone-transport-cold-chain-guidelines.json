@@ -171,5 +171,51 @@
       "text": "緊急用務ドローンとしての優先運航権の確立",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "離島・へき地への血液配送時間",
+      "labelStandard": "離島・へき地への血液配送時間",
+      "value": "配送時間を数時間から数十分に激減",
+      "unit": "",
+      "oldValue": "これまで: 定期船や救急車で2〜4時間以上かかり、夜間や悪天候時は翌日まで搬送不能",
+      "description": "直線ルートを時速100kmで飛行するドローンにより30分〜1時間以内に急送",
+      "badge": "配送時間を数時間から数十分に激減",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "血液の品質・温度管理",
+      "labelStandard": "血液の品質・温度管理",
+      "value": "2〜6℃常時監視のIoTスマート保冷コンテナ義務化",
+      "unit": "",
+      "oldValue": "これまで: 保冷バッグ詰めのみで輸送中の温度逸脱や振動による溶血リスクが不明",
+      "description": "IoTセンサー付き専用コンテナで2〜6℃を常時ロギングし到着時に即時品質認証",
+      "badge": "2〜6℃常時監視のIoTスマート保冷コンテナ義務化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Heart"
+    },
+    {
+      "labelSimple": "運航空域の優先権",
+      "labelStandard": "運航空域の優先権",
+      "value": "緊急用務ドローンとしての優先運航権の確立",
+      "unit": "",
+      "oldValue": "これまで: 一般の小型無人機と同じ扱いで、天候審査や空域調整に時間がかかった",
+      "description": "救急防災ヘリに準ずる「緊急用務ドローン」として空域優先権を付与",
+      "badge": "緊急用務ドローンとしての優先運航権の確立",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "輸血適合試験（クロスマッチ）",
+      "labelStandard": "輸血適合試験（クロスマッチ）",
+      "value": "O型緊急輸血プロトコルと即時出動の連動",
+      "unit": "",
+      "oldValue": "これまで: 血液型検査と交差適合試験の検体輸送に往復の時間が浪費されていた",
+      "description": "O型陰性（万能供血用）の緊急発注プロトコルとデジタル事前適合判定を連携",
+      "badge": "O型緊急輸血プロトコルと即時出動の連動",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "CheckCircle2"
+    }
   ]
 }

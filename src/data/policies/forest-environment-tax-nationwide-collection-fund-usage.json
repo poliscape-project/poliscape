@@ -133,5 +133,51 @@
       "text": "使途公表義務化",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "住民税の上乗せ額",
+      "labelStandard": "森林環境税の課税額",
+      "value": "年1,000",
+      "unit": "円/人（均等割）",
+      "oldValue": "復興特別住民税（年1,000円）終了と入替",
+      "description": "2024年度から国民約6千万人へ課税",
+      "badge": "新国税開始",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "集まる税金の総額",
+      "labelStandard": "年間税収（譲与税枠）",
+      "value": "約600億",
+      "unit": "円/年",
+      "oldValue": "地方の森林整備予算が枯渇",
+      "description": "放置人工林の間伐や路網整備に配分",
+      "badge": "年600億円",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Trees"
+    },
+    {
+      "labelSimple": "スギ花粉への効果",
+      "labelStandard": "花粉発生源対策",
+      "value": "伐採・",
+      "unit": "少花粉スギ植替",
+      "oldValue": "国民病の花粉症が放置・被害拡大",
+      "description": "林野庁主導で伐採面積を大幅拡大",
+      "badge": "花粉症対策",
+      "badgeColor": "bg-green-100 text-green-800",
+      "icon": "Leaf"
+    },
+    {
+      "labelSimple": "都会に配られる問題",
+      "labelStandard": "配分基準の見直し",
+      "value": "森林面積",
+      "unit": "重視へシフト",
+      "oldValue": "人口割で森林のない都会に巨額配分",
+      "description": "基金として使われず放置されるのを是正",
+      "badge": "使途透明化",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Scale"
+    }
   ]
 }

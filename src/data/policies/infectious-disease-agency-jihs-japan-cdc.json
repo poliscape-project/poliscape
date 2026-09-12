@@ -155,5 +155,55 @@
       "text": "病床確保の指示・命令権創設",
       "color": "bg-purple-50 text-purple-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "官邸直属司令塔",
+      "labelStandard": "内閣官房の新司令塔",
+      "value": "統括庁",
+      "unit": "創設（2023年）",
+      "oldValue": "厚労省と内閣官房の縦割り・連絡協議",
+      "descriptionSimple": "内閣感染症危機管理統括庁が首相直属で一元指揮",
+      "descriptionStandard": "内閣感染症危機管理統括庁が首相直属で一元指揮",
+      "badge": "官邸直属司令塔",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "日本版CDC",
+      "labelStandard": "日本版CDCの創設",
+      "value": "JIHS",
+      "unit": "発足（2025年）",
+      "oldValue": "感染研（基礎研究）とNCGM（病院）が分断",
+      "descriptionSimple": "国立健康危機管理研究機構が研究と治験を統合",
+      "descriptionStandard": "国立健康危機管理研究機構が研究と治験を統合",
+      "badge": "日本版CDC",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "病床確保命令権",
+      "labelStandard": "全国の病床確保協定数",
+      "value": "約 5万",
+      "unit": "床を平時確保",
+      "oldValue": "知事からの協力要請止まりで病床逼迫",
+      "descriptionSimple": "知事による医療機関への指示・命令権を新設",
+      "descriptionStandard": "知事による医療機関への指示・命令権を新設",
+      "badge": "病床確保命令権",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Activity"
+    },
+    {
+      "labelSimple": "創薬基盤確立",
+      "labelStandard": "国産ワクチン開発期間",
+      "value": "数ヶ月",
+      "unit": "での治験目標",
+      "oldValue": "海外製ワクチン輸入に完全依存していた",
+      "descriptionSimple": "平時からの創薬治験ネットワークで国産化推進",
+      "descriptionStandard": "平時からの創薬治験ネットワークで国産化推進",
+      "badge": "創薬基盤確立",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "HeartPulse"
+    }
   ]
 }

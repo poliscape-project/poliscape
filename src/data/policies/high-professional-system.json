@@ -165,5 +165,81 @@
       "text": "年間104日休日＋医師面接",
       "color": "bg-emerald-50 text-emerald-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "対象になる年収の条件",
+      "labelStandard": "年収要件（平均給与3倍水準）",
+      "value": "1,075",
+      "unit": "万円以上",
+      "oldValue": "法改正時の基準（当面維持）",
+      "descriptionSimple": "高年収のプロフェッショナルだけが対象！",
+      "descriptionStandard": "明確に高所得な労働者に限定された制度",
+      "badge": "年収1,075万円",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Briefcase"
+    },
+    {
+      "labelSimple": "時間のルール・残業代",
+      "labelStandard": "労働時間規制・割増賃金",
+      "value": "適用除外",
+      "unit": "（残業代なし）",
+      "oldValue": "1日8時間、週40時間、深夜割増除外",
+      "descriptionSimple": "働く時間ではなく仕事の成果で評価！",
+      "descriptionStandard": "裁量労働制と異なり労働時間の概念自体を除外",
+      "badge": "成果主義",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "いやなら断れる権利",
+      "labelStandard": "本人の書面同意・撤回権",
+      "value": "撤回自由",
+      "unit": "（いつでも可）",
+      "oldValue": "会社が無理やり適用することは違法",
+      "descriptionSimple": "自分の意志でサインし、いつでもやめられる！",
+      "descriptionStandard": "労使委員会の決議＋本人の自由な同意が必須要件",
+      "badge": "同意撤回権",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "健康を守るための義務",
+      "labelStandard": "健康管理時間の義務的措置",
+      "value": "年 104",
+      "unit": "日以上の休日",
+      "oldValue": "週40時間超が月100時間で医師面接",
+      "descriptionSimple": "働きすぎを防ぐ病院チェックが法律で義務！",
+      "descriptionStandard": "在社時間の把握とインターバル規制等の義務化",
+      "badge": "医師面接義務",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "HeartPulse"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "外資系アナリスト・金融ディーラー",
+        "commentSimple": "「机に座っている時間ではなく、成果で正当に評価されるので自由に働けて最高」",
+        "commentStandard": "「無駄な残業や時間拘束から解放され、短時間で高い成果を出して休暇を楽しめる」"
+      },
+      {
+        "speaker": "グローバル先端技術の研究開発者",
+        "commentSimple": "「深夜でも海外チームとミーティングしたり、自分のペースで集中的に研究できる」",
+        "commentStandard": "「画一的な労働時間管理では対応できない、国際競争力のある働き方が実現できる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "過労死問題に取り組む弁護士・遺族",
+        "commentSimple": "「残業代が出ないのをいいことに、深夜まで無限に働かされて過労死する人が出ないか怖い」",
+        "commentStandard": "「労働時間の上限規制が撤廃されるため、成果を求めるプレッシャーによる健康破壊リスク」"
+      },
+      {
+        "speaker": "一般労働組合・市民",
+        "commentSimple": "「いまは年収1,075万以上だけど、将来年収の基準がどんどん下げられて残業代ゼロが広がるのでは？」",
+        "commentStandard": "「制度の対象業務や年収要件が緩和され、一般社員にまで定額働かせ放題が広がる懸念」"
+      }
+    ]
+  }
 }

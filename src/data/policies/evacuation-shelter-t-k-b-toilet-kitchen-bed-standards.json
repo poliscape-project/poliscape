@@ -159,5 +159,51 @@
       "text": "災害関連死ゼロ目標",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "避難所の生活基準",
+      "labelStandard": "TKB（トイレ・台所・ベッド）",
+      "value": "48時間以内",
+      "unit": "配備を法制化",
+      "oldValue": "これまで 体育館の雑魚寝と冷たいおにぎり",
+      "description": "国際スフィア基準に準拠した人道的な避難所環境",
+      "badge": "TKB基準",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "冷たい床の改善",
+      "labelStandard": "段ボールベッドの標準配備",
+      "value": "関連死防止",
+      "unit": "へ標準設置",
+      "oldValue": "これまで 床からの底冷えと粉塵で誤嚥性肺炎",
+      "description": "エコノミークラス症候群を防ぎ健康を維持",
+      "badge": "段ボールベッド",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "温かい食事の提供",
+      "labelStandard": "キッチンカー・移動炊飯協定",
+      "value": "温かい食事",
+      "unit": "を発災直後から",
+      "oldValue": "これまで 乾パンや冷えた弁当が数週間続く",
+      "description": "民間事業者との協定で発災直後から温食を提供",
+      "badge": "温食提供",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "トイレの衛生",
+      "labelStandard": "快適トイレ・トレーラートイレ",
+      "value": "洋式・水洗",
+      "unit": "を緊急配備",
+      "oldValue": "これまで 暗く汚い仮設トイレで水分我慢",
+      "description": "バリアフリーで衛生的なマンホールトイレ等を配備",
+      "badge": "トイレ快適化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

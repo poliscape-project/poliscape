@@ -159,5 +159,51 @@
       "text": "国産材・CLT活用推進",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "木造にするビルの範囲",
+      "labelStandard": "木材利用促進の対象建築物",
+      "value": "民間ビル",
+      "unit": "・中高層へ全面拡大",
+      "oldValue": "これまで 低層の公共建築物のみが対象",
+      "description": "オフィスや大型商業施設の木造化を推進",
+      "badge": "木造化拡大",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "燃えにくく強い新木材",
+      "labelStandard": "CLT（直交集成板）技術",
+      "value": "高耐火・耐震",
+      "unit": "木造技術の確立",
+      "oldValue": "これまで 木造は火災や強度で不利とされた",
+      "description": "鉄骨並みの強度と断熱性でカーボンを固定",
+      "badge": "CLT活用",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Trees"
+    },
+    {
+      "labelSimple": "日本の木を使う割合",
+      "labelStandard": "国産材自給率の目標",
+      "value": "50",
+      "unit": "%超の達成・定着",
+      "oldValue": "これまで 安価な輸入木材に押され国内林業が衰退",
+      "description": "伐採期を迎えた人工林の計画的な循環利用",
+      "badge": "国産材利用",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Leaf"
+    },
+    {
+      "labelSimple": "建てるときのルール",
+      "labelStandard": "建築基準法の規制合理化",
+      "value": "基準緩和",
+      "unit": "で木造設計を容易に",
+      "oldValue": "これまで 防火・構造計算の認可が極めて複雑",
+      "description": "法改正により中高層木造の設計自由度を向上",
+      "badge": "規制緩和",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "FileCheck"
+    }
   ]
 }

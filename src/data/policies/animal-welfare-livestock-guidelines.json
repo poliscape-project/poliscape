@@ -185,5 +185,81 @@
       "text": "卵・肉の価格上昇懸念",
       "color": "bg-amber-50 text-amber-900"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "狭いカゴで飼う割合",
+      "labelStandard": "バタリーケージ飼育比率",
+      "value": "約 9",
+      "unit": "割以上",
+      "oldValue": "効率と衛生のため日本で広く普及",
+      "descriptionSimple": "羽を広げられない狭い鳥かごの改善が求められる",
+      "descriptionStandard": "欧米では法的に禁止、国際基準（WOAH）が改定",
+      "badge": "過密飼育批判",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "お部屋を直すお金",
+      "labelStandard": "平飼い移行の設備投資額",
+      "value": "数千万〜数億",
+      "unit": "円/農場",
+      "oldValue": "既存のケージ設備を全廃棄する必要",
+      "descriptionSimple": "広くてキレイなお部屋に建て替える莫大なお金",
+      "descriptionStandard": "家族経営農家には耐えがたい巨額借金リスク",
+      "badge": "巨額改修費",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "飼えるニワトリの数",
+      "labelStandard": "同面積あたりの収容羽数",
+      "value": "最大 1/3",
+      "unit": "に減少",
+      "oldValue": "上下多段ケージで高密度飼育",
+      "descriptionSimple": "広い部屋にすると飼えるニワトリが大幅に減る！",
+      "descriptionStandard": "生産羽数の激減により卵の供給不足と値上がり懸念",
+      "badge": "生産性低下",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "国の新しいルール",
+      "labelStandard": "農水省 飼養管理指針",
+      "value": "2023",
+      "unit": "年7月策定",
+      "oldValue": "業界の自主努力に委ねられていた",
+      "descriptionSimple": "止まり木を作ったり広いお部屋にする新ルール！",
+      "descriptionStandard": "止まり木設置や母豚の群飼いを国が公式推奨",
+      "badge": "新指針策定",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Heart"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "動物保護NGOの代表",
+        "commentSimple": "「お肉や卵になる動物たちだからこそ、生きている間はつらい思いをさせず大切に育てるべき」",
+        "commentStandard": "「羽も広げられない過密ケージから解放することは、命をいただく人間の最低限の倫理的責任だ」"
+      },
+      {
+        "speaker": "外資系ホテルの総料理長",
+        "commentSimple": "「世界中のお客さんに選んでもらうためには、動物にやさしい育て方をした卵やお肉がどうしても必要」",
+        "commentStandard": "「グローバル企業調達ではケージフリーが常識。国際水準の福祉を満たさなければ、日本産食材は選ばれなくなる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "採卵養鶏農家の経営者",
+        "commentSimple": "「カゴを捨てて平飼いにするお金なんてない。卵の値段が何倍にもなって普通の家庭が買えなくなってしまう」",
+        "commentStandard": "「平飼いに移行すれば設備費に数億円かかり、羽数は3分の1に激減する。卵が1パック500円以上になり誰も買えなくなる」"
+      },
+      {
+        "speaker": "家畜衛生の専門家",
+        "commentSimple": "「カゴで飼うからこそ日本は生のまま卵かけご飯が食べられる。地面で飼うと食中毒や病気のリスクが高まる」",
+        "commentStandard": "「日本のバタリーケージはフンと卵を瞬時に隔離してサルモネラ菌を防ぐ世界最高の衛生設備。平飼いは感染リスクが高まる」"
+      }
+    ]
+  }
 }

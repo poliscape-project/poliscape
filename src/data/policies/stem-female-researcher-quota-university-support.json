@@ -171,5 +171,51 @@
       "text": "研究支援員の配置補助とポスト確保",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "理工系学部の入試区分",
+      "labelStandard": "理工系学部の入試区分",
+      "value": "理工系・情報系での女子特別推薦枠の公認",
+      "unit": "",
+      "oldValue": "これまで: 性別不問の一般選抜が主流で、工学部等の女子比率は10〜15%程度に低迷",
+      "description": "総合型・学校推薦型選抜等で「女子枠」を明示的に定員設定（数十人規模）",
+      "badge": "理工系・情報系での女子特別推薦枠の公認",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "GraduationCap"
+    },
+    {
+      "labelSimple": "大学への国の財政支援",
+      "labelStandard": "大学への国の財政支援",
+      "value": "女性活躍推進大学への助成金傾斜配分",
+      "unit": "",
+      "oldValue": "これまで: 女子学生の比率改善に対する直接的なインセンティブ交付金は存在せず",
+      "description": "女子枠新設や女性教員採用を進めた大学に運営費交付金・助成金を傾斜配分",
+      "badge": "女性活躍推進大学への助成金傾斜配分",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "研究と出産・育児の両立支援",
+      "labelStandard": "研究と出産・育児の両立支援",
+      "value": "研究支援員の配置補助とポスト確保",
+      "unit": "",
+      "oldValue": "これまで: 出産・育児により実験や論文執筆がストップし研究ポストを喪失する事例が多発",
+      "description": "研究支援員（実験代行スタッフ）の雇用費用を国が助成しキャリア断絶を防止",
+      "badge": "研究支援員の配置補助とポスト確保",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Heart"
+    },
+    {
+      "labelSimple": "中高生向け理系進路ガイダンス",
+      "labelStandard": "中高生向け理系進路ガイダンス",
+      "value": "ロールモデル提示による理系進路誘導バイアス解消",
+      "unit": "",
+      "oldValue": "これまで: 「女子は数学が苦手」という無意識の偏見により文系進路に誘導されがち",
+      "description": "女性エンジニアによる中高生向け出前授業や体験型ワークショップを義務化",
+      "badge": "ロールモデル提示による理系進路誘導バイアス解消",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Users"
+    }
   ]
 }

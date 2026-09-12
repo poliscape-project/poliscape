@@ -171,5 +171,81 @@
       "text": "高額介護費上限ガード",
       "color": "bg-teal-50 text-teal-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "いま1割負担の人",
+      "labelStandard": "1割負担利用者の割合",
+      "value": "約90",
+      "unit": "％が1割",
+      "oldValue": "単身年収280万円未満等は原則1割",
+      "descriptionSimple": "大半のおじいちゃん・おばあちゃんは1割",
+      "descriptionStandard": "現行制度では8割強〜9割弱の利用者が1割負担",
+      "badge": "大半が1割",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "2割負担の対象拡大案",
+      "labelStandard": "見直し検討対象ライン",
+      "value": "単身280万未満",
+      "unit": "への引下げ議論",
+      "oldValue": "現行は単身280万円以上のみ2割",
+      "descriptionSimple": "年金が多い人の窓口負担を増やす議論が継続",
+      "descriptionStandard": "財政審議会等で提起されるも激変緩和で慎重判断",
+      "badge": "検討継続",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "65歳以上の介護保険料",
+      "labelStandard": "全国平均基準保険料",
+      "value": "月6,225",
+      "unit": "円/月",
+      "oldValue": "制度開始当初（2000年）約2,911円",
+      "descriptionSimple": "お年寄りが増えて毎月の保険料は右肩上がり",
+      "descriptionStandard": "第9期計画（2024〜2026年度）で過去最高を更新",
+      "badge": "過去最高",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Calculator"
+    },
+    {
+      "labelSimple": "月の支払い上限制度",
+      "labelStandard": "高額介護サービス費上限",
+      "value": "月44,400",
+      "unit": "円/月（一般）",
+      "oldValue": "所得区分に応じた月額上限設定",
+      "descriptionSimple": "どんなに使っても上限を超えた分は戻る！",
+      "descriptionStandard": "2割負担になっても高額介護サービス費で上限ガード",
+      "badge": "上限ストッパー",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "現役世代の会社員",
+        "commentSimple": "「高齢者が増えて介護のお金が足りない中、現役世代の保険料ばかり高くなるのを防ぐため必要」",
+        "commentStandard": "「少子化の中で現役世代の介護保険料負担は限界に達しており、余裕のある高齢者の応能負担は不可避」"
+      },
+      {
+        "speaker": "厚生労働省・制度担当者",
+        "commentSimple": "「将来自分たちが高齢者になったときも介護サービスを安心して受けられるようにする仕組み」",
+        "commentStandard": "「団塊ジュニアが高齢化する2040年に向け、介護保険財政の破綻を防ぎ持続可能性を高める措置」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "在宅介護を受ける高齢者・家族",
+        "commentSimple": "「年金は上がらないのにデイサービスやヘルパーさんの負担が2倍になったら通えなくなってしまう…」",
+        "commentStandard": "「年金生活で医療費も上がっている中、介護自己負担が倍増すればサービス利用を控えるしかない」"
+      },
+      {
+        "speaker": "ケアマネジャー・介護事業者",
+        "commentSimple": "「負担が増えてサービス利用をやめた人が、自宅で転倒したり認知症が悪化して倒れるのが一番怖い」",
+        "commentStandard": "「利用控えによって要介護度が重度化し、結果として医療費や救急搬送の増加を招く本末転倒の懸念」"
+      }
+    ]
+  }
 }

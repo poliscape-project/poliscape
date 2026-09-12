@@ -141,5 +141,81 @@
       "text": "停電時1500W非常給電",
       "color": "bg-teal-50 text-teal-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "新築住宅の設置割合",
+      "labelStandard": "ハウスメーカーの義務基準",
+      "value": "原則 85",
+      "unit": "%以上",
+      "oldValue": "個人の自由（設置率わずか2〜3割）",
+      "descriptionSimple": "新築の一戸建てはほぼ標準でパネルが載る！",
+      "descriptionStandard": "大手住宅メーカーへの年間供給目標義務付け",
+      "badge": "原則標準装備化",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Sun"
+    },
+    {
+      "labelSimple": "元が取れるまでの年数",
+      "labelStandard": "初期費用回収年数",
+      "value": "約 6〜8",
+      "unit": "年で回収",
+      "oldValue": "補助金なしで10〜15年以上かかっていた",
+      "descriptionSimple": "都の補助金と電気代節約で6〜8年で元が取れる！",
+      "descriptionStandard": "高騰する電気代の自家消費＋売電で早期回収可能",
+      "badge": "約6〜8年で回収",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "家を建てる初期費用",
+      "labelStandard": "建築時の上乗せ価格",
+      "value": "約 100〜150",
+      "unit": "万円上乗せ",
+      "oldValue": "初期費用ゼロ",
+      "descriptionSimple": "マイホームを買う費用が100万円以上高くなる！",
+      "descriptionStandard": "建築費高騰の中で子育て世代の住宅購入負担を圧迫",
+      "badge": "初期負担増",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "停電のとき使える？",
+      "labelStandard": "災害時の自立発電",
+      "value": "1,500",
+      "unit": "Wまで使用可",
+      "oldValue": "停電時は家庭内の電気がすべてストップ",
+      "descriptionSimple": "昼間の停電でも冷蔵庫やスマホが動かせる！",
+      "descriptionStandard": "自立運転コンセントにより災害在宅避難を強力支援",
+      "badge": "停電時も安心",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Zap"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "新築一戸建てを購入した夫婦",
+        "commentSimple": "「電気代が高騰している中、自分の家で作った電気を使えるので毎月の光熱費がすごく浮いている！」",
+        "commentStandard": "「都の手厚い補助金もあり7年程度で元が取れる試算。その後の20年間は家計の大きなプラスになる」"
+      },
+      {
+        "speaker": "防災意識の高い住民",
+        "commentSimple": "「大地震で街が停電しても、太陽が出ている間は冷蔵庫やスマホを動かせるので安心感が全然違う」",
+        "commentStandard": "「送電網が寸断された際の在宅避難を支える自立電源として、都市の防災力向上に大きく貢献する」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "マイホームを検討中の子育て世帯",
+        "commentSimple": "「土地も建築費も高すぎてギリギリなのに、パネル代でさらに100万円以上高くなるのはキツすぎる」",
+        "commentStandard": "「住宅価格の高騰に拍車をかけ、若い世代のマイホーム購入のハードルをさらに引き上げている」"
+      },
+      {
+        "speaker": "住宅リフォーム業者",
+        "commentSimple": "「15年後の機械の交換費用や、将来家を解体するときにパネルを捨てる費用が高くて心配」",
+        "commentStandard": "「パワコンの定期更新費用や台風被害、将来の鉛や有害物質を含むパネル廃棄・リサイクル網が不透明」"
+      }
+    ]
+  }
 }

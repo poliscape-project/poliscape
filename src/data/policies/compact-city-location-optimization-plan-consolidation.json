@@ -165,5 +165,51 @@
       "text": "危険区域への居住誘導を禁止",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "都市の誘導区域設定",
+      "labelStandard": "都市の誘導区域設定",
+      "value": "中心部へ生活機能を集約",
+      "unit": "",
+      "oldValue": "これまで: 郊外の農地や山林に住宅や大型商業施設が無秩序に拡散",
+      "description": "「居住誘導区域」「都市機能誘導区域」を定め、医療・商業を中心部に集約",
+      "badge": "中心部へ生活機能を集約",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "中心部への住み替え支援",
+      "labelStandard": "中心部への住み替え支援",
+      "value": "安全な中心部への移住補助",
+      "unit": "",
+      "oldValue": "これまで: 郊外から中心部への移住に対する支援制度がなく放置",
+      "description": "居住誘導区域内への引越し・住宅取得に補助金や固定資産税減免措置",
+      "badge": "安全な中心部への移住補助",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "防災指針と危険区域の除外",
+      "labelStandard": "防災指針と危険区域の除外",
+      "value": "危険区域への居住誘導を禁止",
+      "unit": "",
+      "oldValue": "これまで: 水害ハザードエリアでも規制なく宅地開発が行われ被災多発",
+      "description": "浸水深の深い区域や土砂崩れ危険区域を居住誘導区域から原則除外",
+      "badge": "危険区域への居住誘導を禁止",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "公共交通との一体整備",
+      "labelStandard": "公共交通との一体整備",
+      "value": "LRT・路線バス網と一体整備",
+      "unit": "",
+      "oldValue": "これまで: 車社会で路線バスが廃止され、免許返納者が移動難民化",
+      "description": "LRT（次世代路面電車）やコミュニティバスを中心部と結ぶ網の再編",
+      "badge": "LRT・路線バス網と一体整備",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Car"
+    }
   ]
 }

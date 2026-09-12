@@ -141,5 +141,81 @@
       "text": "100人超企業に公表義務",
       "color": "bg-blue-50 text-blue-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "パパ育休中の手取り",
+      "labelStandard": "実質手取り補償水準",
+      "value": "実質 10割",
+      "unit": "（100%相当）",
+      "oldValue": "給付金67%（手取り実質8割止まり）",
+      "descriptionSimple": "休んでもいつものお給料とほぼ同じ額がもらえる！",
+      "descriptionStandard": "出生後休業支援給付金＋社保全額免除で手取り100%",
+      "badge": "手取り10割化",
+      "badgeColor": "bg-pink-100 text-pink-800",
+      "icon": "Baby"
+    },
+    {
+      "labelSimple": "休める期間",
+      "labelStandard": "産後パパ育休の取得枠",
+      "value": "産後8週内に",
+      "unit": "最大 4週間",
+      "oldValue": "通常の育休のみ（1ヶ月前申請・分割不可）",
+      "descriptionSimple": "赤ちゃんが生まれてすぐ2回に分けて休める！",
+      "descriptionStandard": "2回分割取得可能・2週間前申請で柔軟取得",
+      "badge": "最大4週間・2分割",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Calendar"
+    },
+    {
+      "labelSimple": "男性の育休取得率",
+      "labelStandard": "民間企業の男性取得率",
+      "value": "30% 超",
+      "unit": "へ急上昇中",
+      "oldValue": "わずか数％台で「男は休めない」時代",
+      "descriptionSimple": "男性が育休を取るのが当たり前の社会へ！",
+      "descriptionStandard": "政府目標50%に向けて法改正と公表義務化が牽引",
+      "badge": "取得率過去最高",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "会社の公表義務",
+      "labelStandard": "育休取得率の公表対象",
+      "value": "100人超",
+      "unit": "の全企業に拡大",
+      "oldValue": "従業員1,000人超の大企業のみ義務",
+      "descriptionSimple": "中小企業もパパが育休を取ったか公表する！",
+      "descriptionStandard": "企業の採用力・ESG評価に直結し意識改革が定着",
+      "badge": "100人超へ拡大",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "産後パパ育休を取った父親",
+        "commentSimple": "「お給料の手取りが100%もらえたので、お金の心配を一切せずに妻と赤ちゃんの育児に専念できた！」",
+        "commentStandard": "「給付金非課税と社保免除で普段の手取りと全く変わらず助かった。夫婦の絆が一生モノになった」"
+      },
+      {
+        "speaker": "出産を終えたばかりの母親",
+        "commentSimple": "「体が一番ボロボロな産後1ヶ月に夫がいてくれたおかげで、産後うつにならずに乗り越えられた」",
+        "commentStandard": "「夜泣き対応や沐浴、家事を最初から分担できたことでワンオペ育児の恐怖から解放された」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "残された部署の同僚社員",
+        "commentSimple": "「パパ育休は素晴らしいが、人手が足りない中で1ヶ月抜けられると同僚の仕事が倍になってパンクする」",
+        "commentStandard": "「育休を取る本人は手取り10割だが、穴埋めで過密労働になる残された社員への手当が不十分だ」"
+      },
+      {
+        "speaker": "育休パパに不満をもつ妻",
+        "commentSimple": "「会社を休んだのにゲームばかりして家事も育児もせず、余計にイライラしてストレスが増えた…」",
+        "commentStandard": "「育児スキルのないまま休むだけの『取るだけ育休』になり、かえって負担が増えるケースもある」"
+      }
+    ]
+  }
 }

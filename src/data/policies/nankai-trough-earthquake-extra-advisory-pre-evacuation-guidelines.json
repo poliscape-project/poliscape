@@ -179,5 +179,51 @@
       "text": "流通業界との連携と冷静な購買誘導",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "臨時情報の種類と国民の行動基準",
+      "labelStandard": "臨時情報の種類と国民の行動基準",
+      "value": "警戒と注意の行動基準を明確化",
+      "unit": "",
+      "oldValue": "これまで: 「巨大地震警戒」と「巨大地震注意」の基準が国民に十分浸透していなかった",
+      "description": "警戒（津波浸水域の要配慮者は1週間事前避難）と注意（日頃の備えの再確認と通常生活継続）の違いを明確化",
+      "badge": "警戒と注意の行動基準を明確化",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "鉄道・宿泊・観光業の事業継続（BCP）",
+      "labelStandard": "鉄道・宿泊・観光業の事業継続（BCP）",
+      "value": "過剰な計画運休・休業の防止指針",
+      "unit": "",
+      "oldValue": "これまで: 各事業者の判断により新幹線等の大幅徐行運転や旅館の一斉休業が発生",
+      "description": "安全確認を前提に原則として運行・営業を継続するための統一指針を策定",
+      "badge": "過剰な計画運休・休業の防止指針",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "物資買い占め・買い急ぎへの対策",
+      "labelStandard": "物資買い占め・買い急ぎへの対策",
+      "value": "流通業界との連携と冷静な購買誘導",
+      "unit": "",
+      "oldValue": "これまで: 店頭から水・非常食・カセットコンロ等が一時的に枯渇するパニックが発生",
+      "description": "小売業界と連携したサプライチェーン増産体制と、平時からの分散備蓄呼びかけ強化",
+      "badge": "流通業界との連携と冷静な購買誘導",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "警戒期間の解除と社会復帰",
+      "labelStandard": "警戒期間の解除と社会復帰",
+      "value": "解除後の平時防災への移行ルール",
+      "unit": "",
+      "oldValue": "これまで: 発令から1週間経過後の解除基準や「地震発生リスクがゼロになったわけではない」ことの周知不足",
+      "description": "1週間の呼びかけ終了後も平時からの耐震・備蓄を定着させるフォローアップ指針の策定",
+      "badge": "解除後の平時防災への移行ルール",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Sparkles"
+    }
   ]
 }

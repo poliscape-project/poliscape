@@ -141,5 +141,81 @@
       "text": "期日納付で前科なし",
       "color": "bg-emerald-50 text-emerald-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "ながらスマホの反則金",
+      "labelStandard": "携帯電話使用の青切符",
+      "value": "約 12,000",
+      "unit": "円",
+      "oldValue": "口頭指導または即刑事罰（赤切符）",
+      "descriptionSimple": "スマホを見ながら運転すると1万円超の罰金！",
+      "descriptionStandard": "画面注視・通話への厳格な青切符適用",
+      "badge": "重点取締り項目",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "何歳から対象？",
+      "labelStandard": "青切符の適用年齢",
+      "value": "16歳",
+      "unit": "以上（高校生含む）",
+      "oldValue": "刑事責任年齢（14歳以上）",
+      "descriptionSimple": "高校生も青切符でお金を取られる！",
+      "descriptionStandard": "原付免許取得可能年齢に合わせて16歳以上を一律対象化",
+      "badge": "16歳以上対象",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "反則金の相場",
+      "labelStandard": "主な違反の反則金額",
+      "value": "5,000〜1.2万",
+      "unit": "円",
+      "oldValue": "信号無視や逆走もほとんどお咎めなし",
+      "descriptionSimple": "信号無視や逆走は5,000円〜6,000円！",
+      "descriptionStandard": "約110種類の危険違反行為に自動車並みの反則金",
+      "badge": "反則金一律基準",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "前科はつく？",
+      "labelStandard": "青切符と前科",
+      "value": "前科なし",
+      "unit": "（期日内納付時）",
+      "oldValue": "赤切符は送検・起訴で前科リスク",
+      "descriptionSimple": "期限内にお金を払えば前科はつかない！",
+      "descriptionStandard": "反則金を無視し続けると通常の刑事裁判へ移行",
+      "badge": "行政処分で解決",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "ベビーカーを押す子育て中の親",
+        "commentSimple": "「歩道をスマホ見ながら猛スピードで走ってくる自転車が本当に怖かったので、絶対に取り締まってほしい！」",
+        "commentStandard": "「歩行者優先が守られていない。反則金という痛みを伴う取り締まりでマナーを改善してほしい」"
+      },
+      {
+        "speaker": "交通安全協会の指導員",
+        "commentSimple": "「注意するだけでは誰も直さなかった。前科がつかない反則金なら警察も現場でしっかり切れる」",
+        "commentStandard": "「これまでの指導警告は形骸化していた。自動車並みの青切符制度により抑止力が格段に高まる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "毎日自転車で通勤する会社員",
+        "commentSimple": "「車道はトラックが近くて危ないし、自転車専用レーンもないのに『車道を走れ』は無理がある」",
+        "commentStandard": "「走る場所のインフラ整備を怠ったまま、取り締まりと反則金だけを厳しくするのは順番が逆だ」"
+      },
+      {
+        "speaker": "高校生の保護者",
+        "commentSimple": "「16歳の高校生がいきなり1万円近い反則金を取られたら払えない。学校での指導が先決では」",
+        "commentStandard": "「お小遣いのない高校生が通学中に違反した場合の家庭内の金銭トラブルや警察の摘発基準が心配」"
+      }
+    ]
+  }
 }

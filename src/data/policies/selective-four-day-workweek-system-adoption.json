@@ -139,5 +139,51 @@
       "text": "給与2割減か総時間維持か",
       "color": "bg-amber-50 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "休日の選択肢",
+      "labelStandard": "休日の選択肢",
+      "value": "週休 3",
+      "unit": "日制（週4日勤務）",
+      "oldValue": "週休2日（週40時間）一律固定",
+      "description": "正社員の身分のまま多様な生き方を選択",
+      "badge": "週休3日選択",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Calendar"
+    },
+    {
+      "labelSimple": "給与と労働時間の設計",
+      "labelStandard": "給与と労働時間の設計",
+      "value": "給与2割減",
+      "unit": "または1日10時間",
+      "oldValue": "フルタイムか短時間の二者択一",
+      "description": "給与据え置き型と給与比例減額型の選択肢",
+      "badge": "選べる給与設計",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "介護離職の防止効果",
+      "labelStandard": "介護離職の防止効果",
+      "value": "年10万",
+      "unit": "人の介護離職を防ぐ",
+      "oldValue": "親の通院・介護で仕事を諦めていた",
+      "description": "平日の空いた丸1日で介護や育児を両立",
+      "badge": "介護離職防止",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Heart"
+    },
+    {
+      "labelSimple": "中小企業の導入難",
+      "labelStandard": "中小企業の導入難",
+      "value": "人手不足",
+      "unit": "で休ませられない現実",
+      "oldValue": "大企業中心の導入にとどまる",
+      "description": "業務のしわ寄せや残された同僚の過労懸念",
+      "badge": "業務しわ寄せ懸念",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Clock"
+    }
   ]
 }

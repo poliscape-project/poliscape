@@ -171,5 +171,51 @@
       "text": "ケアマネ・看護師・他職種への柔軟な配分容認",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "加算構造の一本化・簡素化",
+      "labelStandard": "加算構造の一本化・簡素化",
+      "value": "3加算の一本化と申請手続きの大幅簡素化",
+      "unit": "",
+      "oldValue": "これまで: 3つの異なる処遇改善加算が乱立し別々の実績報告書作成が必要で事務パンク",
+      "description": "「介護職員等新処遇改善加算」に一本化し申請・実績報告書式を大幅スリム化",
+      "badge": "3加算の一本化と申請手続きの大幅簡素化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "FileText"
+    },
+    {
+      "labelSimple": "基本給への充当義務割合",
+      "labelStandard": "基本給への充当義務割合",
+      "value": "加算額の8割以上を月額基本給アップへ配分義務化",
+      "unit": "",
+      "oldValue": "これまで: 期末一時金（ボーナス）での一括支給が容認され月給アップが実感できず",
+      "description": "加算額の80%以上を毎月の基本給または決まって支払われる手当に充当義務化",
+      "badge": "加算額の8割以上を月額基本給アップへ配分義務化",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "対象職種の配分ルール",
+      "labelStandard": "対象職種の配分ルール",
+      "value": "ケアマネ・看護師・他職種への柔軟な配分容認",
+      "unit": "",
+      "oldValue": "これまで: 勤続10年以上の介護福祉士を最優先とする厳格配分ルールで他職種に不満",
+      "description": "事業所の判断でケアマネや看護師、調理員、事務職にも柔軟に配分可能",
+      "badge": "ケアマネ・看護師・他職種への柔軟な配分容認",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "職場環境等要件の重点化",
+      "labelStandard": "職場環境等要件の重点化",
+      "value": "見守りセンサー・ICT導入とハラスメント防止の義務化",
+      "unit": "",
+      "oldValue": "これまで: チェックボックスに印をつけるだけの形骸化した環境整備要件",
+      "description": "介護ロボット・ICT導入やハラスメント防止対策の具体的実施を必須化",
+      "badge": "見守りセンサー・ICT導入とハラスメント防止の義務化",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Laptop"
+    }
   ]
 }

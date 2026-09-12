@@ -155,5 +155,55 @@
       "text": "外資買収調査・事前届出義務",
       "color": "bg-amber-100 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "重要区域指定",
+      "labelStandard": "指定される重要区域",
+      "value": "周囲 1",
+      "unit": "km・国境離島",
+      "oldValue": "外資による土地買収を把握する法律がなかった",
+      "descriptionSimple": "自衛隊・米軍基地、原発の周囲を注視区域に指定",
+      "descriptionStandard": "自衛隊・米軍基地、原発の周囲を注視区域に指定",
+      "badge": "重要区域指定",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "MapPin"
+    },
+    {
+      "labelSimple": "事前届出義務",
+      "labelStandard": "土地売買の事前届出義務",
+      "value": "200m²",
+      "unit": "以上の取引",
+      "oldValue": "契約成立後の事後届出（国土利用計画法）のみ",
+      "descriptionSimple": "特別注視区域では氏名・国籍・利用目的を事前審査",
+      "descriptionStandard": "特別注視区域では氏名・国籍・利用目的を事前審査",
+      "badge": "事前届出義務",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "利用停止命令",
+      "labelStandard": "機能阻害行為への罰則",
+      "value": "懲役2年・200",
+      "unit": "万円罰金",
+      "oldValue": "電波妨害や監視構造物の撤去命令を出せなかった",
+      "descriptionSimple": "勧告・命令に従わない違反者に刑事罰を適用",
+      "descriptionStandard": "勧告・命令に従わない違反者に刑事罰を適用",
+      "badge": "利用停止命令",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "全国調査展開",
+      "labelStandard": "全国の指定区域数",
+      "value": "数百カ所",
+      "unit": "規模",
+      "oldValue": "北海道の水源地や対馬の基地周辺が不安視された",
+      "descriptionSimple": "内閣府専従組織が住民基本台帳・登記を調査",
+      "descriptionStandard": "内閣府専従組織が住民基本台帳・登記を調査",
+      "badge": "全国調査展開",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

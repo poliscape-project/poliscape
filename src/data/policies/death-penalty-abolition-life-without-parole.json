@@ -139,5 +139,51 @@
       "text": "国民世論8割容認",
       "color": "bg-slate-100 text-slate-700"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国民世論の死刑容認率",
+      "labelStandard": "国民世論の死刑容認率",
+      "value": "約 8",
+      "unit": "割（内閣府調査）",
+      "oldValue": "長年8割前後で高止まり",
+      "description": "凶悪犯罪への応報感情が根強い",
+      "badge": "世論8割容認",
+      "badgeColor": "bg-slate-100 text-slate-700",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "G7での死刑維持国",
+      "labelStandard": "G7での死刑維持国",
+      "value": "日・米",
+      "unit": "の2カ国のみ",
+      "oldValue": "かつては主要国も死刑を保持",
+      "description": "英仏独伊加は全廃、国際人権勧告継続",
+      "badge": "国際的孤立",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Globe"
+    },
+    {
+      "labelSimple": "袴田事件の無罪確定",
+      "labelStandard": "袴田事件の無罪確定",
+      "value": "58",
+      "unit": "年目の再審無罪",
+      "oldValue": "死刑囚として半世紀拘置",
+      "description": "冤罪の不可逆性が社会に大衝撃",
+      "badge": "再審無罪確定",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "新設議論の終身刑",
+      "labelStandard": "新設議論の終身刑",
+      "value": "仮釈放なし",
+      "unit": "重無期刑の構想",
+      "oldValue": "無期懲役は30年前後で仮釈放可能",
+      "description": "死刑代替案として法制化模索",
+      "badge": "終身刑案",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Ban"
+    }
   ]
 }

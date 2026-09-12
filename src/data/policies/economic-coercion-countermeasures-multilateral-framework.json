@@ -139,5 +139,51 @@
       "text": "サプライチェーン買い支え",
       "color": "bg-emerald-50 text-emerald-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "いじめへの対抗",
+      "labelStandard": "G7共同対抗プラットフォーム",
+      "value": "G7共同",
+      "unit": "早期警戒枠組",
+      "oldValue": "これまで 標的国が孤立無援で耐える",
+      "description": "貿易を使った不当な圧力を全員で買い支え支援",
+      "badge": "集団防衛",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Shield"
+    },
+    {
+      "labelSimple": "標的物資の支援",
+      "labelStandard": "サプライチェーン防衛",
+      "value": "買い支え",
+      "unit": "販路代替開拓",
+      "oldValue": "これまで 単一国への輸出依存",
+      "description": "輸入停止された物資を同志国間で融通",
+      "badge": "相互融通",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "日本の被害事例",
+      "labelStandard": "水産物全面禁輸への対抗",
+      "value": "ホタテ支援",
+      "unit": "国内＆米欧転換",
+      "oldValue": "これまで 中国向け輸出が過半",
+      "description": "国内給食消費とベトナム・米国加工へ転換成功",
+      "badge": "実例克服",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Anchor"
+    },
+    {
+      "labelSimple": "世界的なリスク",
+      "labelStandard": "貿易戦争と経済分断",
+      "value": "ブロック化",
+      "unit": "インフレ懸念",
+      "oldValue": "これまで 自由で開かれた通商秩序",
+      "description": "関税の報復合戦による世界的な物価高騰リスク",
+      "badge": "懸念点",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
   ]
 }

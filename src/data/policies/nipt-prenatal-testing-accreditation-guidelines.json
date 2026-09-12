@@ -133,5 +133,51 @@
       "text": "無認証対策",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "検査の方法",
+      "labelStandard": "NIPT検査の手法",
+      "value": "母体採血",
+      "unit": "のみで判定",
+      "oldValue": "羊水検査 流産リスク（約0.3%）",
+      "description": "お腹に針を刺さず血液だけで安全",
+      "badge": "非侵襲検査",
+      "badgeColor": "bg-pink-100 text-pink-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "調べる染色体の数",
+      "labelStandard": "基本対象トリソミー",
+      "value": "主要3",
+      "unit": "疾患（21,18,13）",
+      "oldValue": "無認証 全染色体や性別まで判定",
+      "description": "医学的妥当性のある対象に限定",
+      "badge": "対象限定",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "専門医への相談",
+      "labelStandard": "遺伝カウンセリング",
+      "value": "必須化",
+      "unit": "（検査前後）",
+      "oldValue": "無認証 カウンセリングなし郵送のみ",
+      "description": "陽性時の心のケアと福祉情報を支援",
+      "badge": "相談義務",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "UserCheck"
+    },
+    {
+      "labelSimple": "自費の検査費用",
+      "labelStandard": "検査費用（全額自己負担）",
+      "value": "10万〜",
+      "unit": "20万円程度",
+      "oldValue": "保険適用なし 高額な自由診療",
+      "description": "経済的理由による無認証受診が課題",
+      "badge": "自由診療",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Coins"
+    }
   ]
 }

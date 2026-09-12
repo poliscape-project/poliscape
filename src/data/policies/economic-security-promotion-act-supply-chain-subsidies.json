@@ -171,5 +171,51 @@
       "text": "安全保障上機微な特許の出願非公開制度導入",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "特定重要物資の国内増産支援",
+      "labelStandard": "特定重要物資の国内増産支援",
+      "value": "特定重要物資12物資への最大半額設備助成",
+      "unit": "",
+      "oldValue": "これまで: 自由貿易任せで、抗菌薬原料（中国依存100%近傍）や半導体の海外依存が放置",
+      "description": "半導体・蓄電池・永久磁石・抗菌薬など12物資を指定し設備投資の最大半額を補助",
+      "badge": "特定重要物資12物資への最大半額設備助成",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "基幹インフラ設備の事前審査",
+      "labelStandard": "基幹インフラ設備の事前審査",
+      "value": "14分野の基幹インフラ設備事前審査の義務化",
+      "unit": "",
+      "oldValue": "これまで: 各事業者の調達基準任せで、安価な海外製通信機器・サーバーが導入されていた",
+      "description": "電力・通信・金融など14分野で悪意あるプログラム混入リスクを国が事前審査",
+      "badge": "14分野の基幹インフラ設備事前審査の義務化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "軍事転用可能特許の保全・非公開",
+      "labelStandard": "軍事転用可能特許の保全・非公開",
+      "value": "安全保障上機微な特許の出願非公開制度導入",
+      "unit": "",
+      "oldValue": "これまで: 出願されたすべての特許が1年6ヶ月後に全世界へ自動公開されていた",
+      "description": "極超音速飛行や核関連など国家安全保障に関わる特許を非公開化（保全指定）",
+      "badge": "安全保障上機微な特許の出願非公開制度導入",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Lock"
+    },
+    {
+      "labelSimple": "先端重要技術の研究開発支援",
+      "labelStandard": "先端重要技術の研究開発支援",
+      "value": "5000億円基金による先端技術重点開発",
+      "unit": "",
+      "oldValue": "これまで: 各省庁の縦割り予算で先端技術の安全保障的視点での育成が遅延",
+      "description": "5000億円規模の「経済安全保障重要技術育成プログラム（K Program）」で集中投資",
+      "badge": "5000億円基金による先端技術重点開発",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "TrendingUp"
+    }
   ]
 }

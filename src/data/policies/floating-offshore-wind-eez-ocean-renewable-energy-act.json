@@ -179,5 +179,51 @@
       "text": "浮体式技術による深海展開",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "洋上風力の設置可能エリア",
+      "labelStandard": "洋上風力の設置可能エリア",
+      "value": "EEZ沖合まで設置エリアを拡大",
+      "unit": "",
+      "oldValue": "これまで: 領海および内水（海岸から12海里・約22km以内）に限定",
+      "description": "排他的経済水域（EEZ・海岸から200海里・約370km）まで設置可能エリアを拡大",
+      "badge": "EEZ沖合まで設置エリアを拡大",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Compass"
+    },
+    {
+      "labelSimple": "占用・開発の許可手続き",
+      "labelStandard": "占用・開発の許可手続き",
+      "value": "仮許可・本許可の2段階審査",
+      "unit": "",
+      "oldValue": "これまで: 促進区域の指定後に国が一括して公募入札を実施",
+      "description": "事前調査のための「仮許可」と、調査結果を踏まえた「本許可」の2段階許可制度を新設",
+      "badge": "仮許可・本許可の2段階審査",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "導入する風力発電の方式",
+      "labelStandard": "導入する風力発電の方式",
+      "value": "浮体式技術による深海展開",
+      "unit": "",
+      "oldValue": "これまで: 海底に基礎を埋め込む着床式（水深50m未満）が中心",
+      "description": "水深100m超の深海でも稼働する「浮体式洋上風力」の大量商用導入を推進",
+      "badge": "浮体式技術による深海展開",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "海洋利用・漁業者との合意形成",
+      "labelStandard": "海洋利用・漁業者との合意形成",
+      "value": "国主導での漁業協調と海域管理",
+      "unit": "",
+      "oldValue": "これまで: 沿岸漁協との個別協議が長期化する課題",
+      "description": "海洋権益保護や国際法上の位置づけを整理し、国主導で漁業協調枠組みを構築",
+      "badge": "国主導での漁業協調と海域管理",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Users"
+    }
   ]
 }

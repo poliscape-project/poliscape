@@ -165,5 +165,51 @@
       "text": "効果が出た時だけ支払う検討",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "再生医療・遺伝子治療の薬価水準",
+      "labelStandard": "再生医療・遺伝子治療の薬価水準",
+      "value": "1回数千万円〜数億円水準",
+      "unit": "",
+      "oldValue": "これまで: 従来の低分子医薬品は数円〜数万円が主流、高くても数百万円",
+      "description": "1回の投与で数千万円〜数億円（ゾルゲンスマ約1.67億円など）の製品が登場",
+      "badge": "1回数千万円〜数億円水準",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "費用対効果評価（HTA）の適用",
+      "labelStandard": "費用対効果評価（HTA）の適用",
+      "value": "費用対効果による薬価引下げ",
+      "unit": "",
+      "oldValue": "これまで: 薬価は類似薬比較方式や原価計算方式で算定され、費用対効果は加味されず",
+      "description": "一定額以上の超高額薬には費用対効果評価を義務付け、効果に見合わなければ薬価引下げ",
+      "badge": "費用対効果による薬価引下げ",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "成果連動型支払いの導入検討",
+      "labelStandard": "成果連動型支払いの導入検討",
+      "value": "効果が出た時だけ支払う検討",
+      "unit": "",
+      "oldValue": "これまで: 投与した時点で効果の有無にかかわらず全額を保険者が一括支払い",
+      "description": "一定期間後の症状改善や生存確認を条件に分割・後払いするモデルの検討",
+      "badge": "効果が出た時だけ支払う検討",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "患者の窓口自己負担額",
+      "labelStandard": "患者の窓口自己負担額",
+      "value": "高額療養費で月数万円に",
+      "unit": "",
+      "oldValue": "これまで: 億単位の治療費は一般庶民には受療不可能",
+      "description": "「高額療養費制度」の適用により、一般所得者なら月額数万〜数十万円の上限で受療可能",
+      "badge": "高額療養費で月数万円に",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

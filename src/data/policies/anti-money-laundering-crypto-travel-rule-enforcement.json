@@ -179,5 +179,51 @@
       "text": "国際制裁リストとのリアルタイム照合",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "暗号資産送金時の顧客情報通知",
+      "labelStandard": "暗号資産送金時の顧客情報通知",
+      "value": "送金者・受取人氏名の通知完全義務化",
+      "unit": "",
+      "oldValue": "これまで: ブロックチェーン上のアドレスのみで送金可能で、送受金者の実名は通知されなかった",
+      "description": "送金側取引所が受取側取引所に対し、送金者・受取人の氏名、住所、アドレスを電子的通知",
+      "badge": "送金者・受取人氏名の通知完全義務化",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "個人ウォレット（MetaMask等）への送金",
+      "labelStandard": "個人ウォレット（MetaMask等）への送金",
+      "value": "個人ウォレット所有者申告の義務化",
+      "unit": "",
+      "oldValue": "これまで: 本人確認なしで制限なく外部ウォレットへ自由に出金可能だった",
+      "description": "出金先のウォレット所有者情報の申告を義務付け、高リスクアドレスへの送金を遮断",
+      "badge": "個人ウォレット所有者申告の義務化",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "制裁対象国・テロリストのスクリーニング",
+      "labelStandard": "制裁対象国・テロリストのスクリーニング",
+      "value": "国際制裁リストとのリアルタイム照合",
+      "unit": "",
+      "oldValue": "これまで: 事後的な追跡が困難で北朝鮮等のハッカー集団に資金が流出",
+      "description": "OFAC（米財務省外国資産管理室）等の国際制裁リストとリアルタイム照合し即時凍結",
+      "badge": "国際制裁リストとのリアルタイム照合",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Globe"
+    },
+    {
+      "labelSimple": "取引所のコンプライアンス基準",
+      "labelStandard": "取引所のコンプライアンス基準",
+      "value": "認可ソリューション導入業者間のみ送金",
+      "unit": "",
+      "oldValue": "これまで: 海外の無登録業者への送金が野放し状態だった",
+      "description": "トラベルルール対応ソリューション（TRUSTやSygna等）を導入した業者間のみ送金を認可",
+      "badge": "認可ソリューション導入業者間のみ送金",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "CheckCircle"
+    }
   ]
 }

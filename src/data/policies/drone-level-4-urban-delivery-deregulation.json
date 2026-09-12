@@ -139,5 +139,51 @@
       "text": "物流危機・即時配送",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "飛べる場所の広がり",
+      "labelStandard": "飛行カテゴリー（レベル4）",
+      "value": "有人",
+      "unit": "地帯の目視外飛行解禁",
+      "oldValue": "これまで 山や離島などの無人地帯限定",
+      "description": "住宅街や都市部上空を自動で飛行",
+      "badge": "住宅地上空解禁",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "操縦者の国家資格",
+      "labelStandard": "操縦士国家資格制度",
+      "value": "一等",
+      "unit": "無人航空機操縦士（国交省）",
+      "oldValue": "これまで 民間スクールの認定証のみ",
+      "description": "厳格な実技試験と機体認証を義務化",
+      "badge": "操縦士国家資格",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "GraduationCap"
+    },
+    {
+      "labelSimple": "荷物が届くまでの時間",
+      "labelStandard": "即時配送ネットワーク",
+      "value": "数十分",
+      "unit": "で即座にお届け",
+      "oldValue": "これまで トラックによる翌日配送中心",
+      "description": "医薬品や緊急物資のラストワンマイル",
+      "badge": "即時空輸配送",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "空の交通整理システム",
+      "labelStandard": "運航管理システム（UTM）",
+      "value": "リアルタイム",
+      "unit": "自動管制",
+      "oldValue": "これまで 事業者ごとの個別飛行計画",
+      "description": "複数のドローンが衝突しないよう集中管理",
+      "badge": "空の集中管制",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Cpu"
+    }
   ]
 }

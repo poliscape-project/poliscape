@@ -171,5 +171,51 @@
       "text": "民間あっせん事業者の完全許可制と監督強化",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "特別養子縁組の対象年齢",
+      "labelStandard": "特別養子縁組の対象年齢",
+      "value": "対象年齢を原則6歳未満から15歳未満へ拡大",
+      "unit": "",
+      "oldValue": "これまで: 原則6歳未満（就学前の幼児のみ）に厳しく制限されていた",
+      "description": "原則15歳未満（15歳未満で申立てを行っていれば18歳未満まで）へ大幅拡大",
+      "badge": "対象年齢を原則6歳未満から15歳未満へ拡大",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "家庭裁判所の審判手続き",
+      "labelStandard": "家庭裁判所の審判手続き",
+      "value": "二段階審判導入による実親の同意撤回トラブル防止",
+      "unit": "",
+      "oldValue": "これまで: 養親候補との試験養育（半年）の末に実親が同意を撤回して破談になる悲劇が多発",
+      "description": "実親の同意を先行決定する二段階審判により養親の精神的負担を遮断",
+      "badge": "二段階審判導入による実親の同意撤回トラブル防止",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "民間あっせん事業者の規制",
+      "labelStandard": "民間あっせん事業者の規制",
+      "value": "民間あっせん事業者の完全許可制と監督強化",
+      "unit": "",
+      "oldValue": "これまで: 届出制で法外な手数料や海外への無秩序な養子あっせんが放置",
+      "description": "都道府県による厳格な「許可制」とし収支報告の公開と立ち入り検査を義務化",
+      "badge": "民間あっせん事業者の完全許可制と監督強化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "FileText"
+    },
+    {
+      "labelSimple": "養子の出自を知る権利（ルーツ探し）",
+      "labelStandard": "養子の出自を知る権利（ルーツ探し）",
+      "value": "出自を知る権利の保障と情報開示支援体制整備",
+      "unit": "",
+      "oldValue": "これまで: 実親の情報が隠蔽され養子が自らの出自を知る権利の保障が不十分",
+      "description": "児童相談所や家裁において出自情報の適正管理と成人後の開示相談支援を義務化",
+      "badge": "出自を知る権利の保障と情報開示支援体制整備",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Heart"
+    }
   ]
 }

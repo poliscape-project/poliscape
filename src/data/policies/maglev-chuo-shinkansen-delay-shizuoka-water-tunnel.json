@@ -139,5 +139,51 @@
       "text": "2034年以降へ延期",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "リニアが開通する時期",
+      "labelStandard": "品川〜名古屋間の開業目標見直し",
+      "value": "2034",
+      "unit": "年以降へ延期（2027年断念）",
+      "oldValue": "2027年の品川〜名古屋開業を目指し工事推進",
+      "description": "静岡工区未着工により工期約10年を再試算",
+      "badge": "2034年以降延期",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "新幹線の倍の超スピード",
+      "labelStandard": "リニアの最高速度と所要時間",
+      "value": "500",
+      "unit": "km/h・品川〜名古屋40分",
+      "oldValue": "東海道新幹線「のぞみ」で約1時間30分",
+      "description": "東京と名古屋・大阪を1つの巨大都市に直結",
+      "badge": "最高時速500km",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "静岡県が心配している川の水",
+      "labelStandard": "大井川水資源保全対策",
+      "value": "全量",
+      "unit": "戻し（田代ダム取水抑制合意）",
+      "oldValue": "山の下を掘って地下水が県外へ流出する危機",
+      "description": "お茶栽培や60万人の飲み水を守る協定を運用",
+      "badge": "命の水保全対策",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "大地震で新幹線が止まったとき",
+      "labelStandard": "大動脈の二重系化（バックアップ）",
+      "value": "安全弁",
+      "unit": "（南海トラフ地震時の大動脈防衛）",
+      "oldValue": "東海道新幹線が止まると日本の動脈が完全切断",
+      "description": "山の中を走るもう1本の大動脈で国家麻痺防ぐ",
+      "badge": "防災リダンダンシー",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

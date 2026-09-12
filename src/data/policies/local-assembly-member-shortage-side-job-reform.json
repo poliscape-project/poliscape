@@ -139,5 +139,51 @@
       "text": "夜間・休日議会の開催",
       "color": "bg-slate-100 text-slate-700"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "町村議会の無投票当選率",
+      "labelStandard": "町村議会の無投票当選率",
+      "value": "約 3",
+      "unit": "割（定員割れ続出）",
+      "oldValue": "選挙が行われず形骸化",
+      "description": "地方民主主義の崩壊を防ぐ緊急改革",
+      "badge": "無投票3割の危機",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "兼業・請負制限の緩和",
+      "labelStandard": "兼業・請負制限の緩和",
+      "value": "年 300",
+      "unit": "万円以下は解禁",
+      "oldValue": "自治体と1円でも取引あれば失職",
+      "description": "自営業・フリーランスが立候補可能に",
+      "badge": "年300万円緩和",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Briefcase"
+    },
+    {
+      "labelSimple": "夜間・休日議会の開催",
+      "labelStandard": "夜間・休日議会の開催",
+      "value": "仕事と両立",
+      "unit": "（有給取らず登庁）",
+      "oldValue": "平日昼間に役場集合が絶対原則",
+      "description": "会社員や子育て世代の議員就任を後押し",
+      "badge": "夜間休日開会",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "町村議員の平均報酬",
+      "labelStandard": "町村議員の平均報酬",
+      "value": "月額十数万",
+      "unit": "円（兼業必須の低額）",
+      "oldValue": "専業議員としては生活不能",
+      "description": "副業サラリーマン前提の制度設計へ",
+      "badge": "低報酬の現実",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Wallet"
+    }
   ]
 }

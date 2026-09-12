@@ -140,5 +140,51 @@
       "text": "新B1基準・街なか再開発",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "アリーナの使い方",
+      "labelStandard": "施設の設計思想・稼働日数",
+      "value": "365日稼働",
+      "unit": "黒字エンタメ",
+      "oldValue": "これまで 年数回の運動会で赤字体育館",
+      "description": "プロバスケ新B1や音楽コンサートで年中賑わう",
+      "badge": "アリーナ改革",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "お金の出し手",
+      "labelStandard": "建設・運営資金の調達",
+      "value": "民間PFI",
+      "unit": "コンセッション",
+      "oldValue": "これまで 全額市税・借金で建設",
+      "description": "民間企業がお金を出して運営・税金の無駄をゼロに",
+      "badge": "公費抑制",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "最新の設備",
+      "labelStandard": "スマートアリーナの仕様",
+      "value": "超大型画面",
+      "unit": "完全キャッシュレス",
+      "oldValue": "これまで アナログ設備のみ",
+      "description": "VIP席・飲食店・高速Wi-Fiで観客体験を革新",
+      "badge": "最先端DX",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "市民の不満",
+      "labelStandard": "利用料高騰と部活締め出し",
+      "value": "利用料高騰",
+      "unit": "一般利用制限",
+      "oldValue": "これまで 市民が数百円で使えた",
+      "description": "プロ仕様で高くなり市民大会や部活が使いにくい懸念",
+      "badge": "課題",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Users"
+    }
   ]
 }

@@ -139,5 +139,51 @@
       "text": "待機時間適正化",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "法律の適用除外期間",
+      "labelStandard": "労基法116条2項除外",
+      "value": "77年",
+      "unit": "ぶりの大見直し",
+      "oldValue": "1947年制定以来 労基法の対象外",
+      "description": "家事使用人への労基法適用を提言",
+      "badge": "70年ぶり見直し",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "夜間の待機時間の扱い",
+      "labelStandard": "手待ち時間の評価",
+      "value": "労働時間",
+      "unit": "として適正管理",
+      "oldValue": "これまで 24時間拘束・夜間無給",
+      "description": "呼び出し対応時間も賃金支給対象へ",
+      "badge": "過労死防止",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "守られる権利",
+      "labelStandard": "基本的労働権の保障",
+      "value": "有休・休",
+      "unit": "日・割増賃金",
+      "oldValue": "これまで 契約自由の名の下で過酷",
+      "description": "最低賃金・労災保険・休憩を徹底",
+      "badge": "労働者保護",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "頼む家庭の料金",
+      "labelStandard": "サービス利用料金影響",
+      "value": "上昇",
+      "unit": "懸念（人件費増）",
+      "oldValue": "これまで 安価な住み込み介護に依存",
+      "description": "要介護家庭への支援制度拡充が課題",
+      "badge": "利用料への影響",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "TrendingDown"
+    }
   ]
 }

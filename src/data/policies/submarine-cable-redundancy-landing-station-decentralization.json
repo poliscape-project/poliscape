@@ -171,5 +171,51 @@
       "text": "陸揚げ局直結・再エネ型データセンターの誘致",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国際ケーブル陸揚げ局の配置",
+      "labelStandard": "国際ケーブル陸揚げ局の配置",
+      "value": "日本海側・地方への陸揚げ拠点分散",
+      "unit": "",
+      "oldValue": "これまで: 房総半島と志摩半島の2大拠点に全国の国際通信容量の8割以上が集中",
+      "description": "日本海側（秋田・新潟・富山・島根等）や北海道・九州へ国費助成で拠点分散",
+      "badge": "日本海側・地方への陸揚げ拠点分散",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Globe"
+    },
+    {
+      "labelSimple": "日本列島周回ネットワーク",
+      "labelStandard": "日本列島周回ネットワーク",
+      "value": "日本周回海底光ファイバー網の完成",
+      "unit": "",
+      "oldValue": "これまで: 太平洋側の幹線ルートに依存し日本海側の幹線容量が極めて脆弱",
+      "description": "日本列島を一周する大容量海底光ケーブル網を整備し太平洋寸断時も迂回可能に",
+      "badge": "日本周回海底光ファイバー網の完成",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "地方データセンター拠点化",
+      "labelStandard": "地方データセンター拠点化",
+      "value": "陸揚げ局直結・再エネ型データセンターの誘致",
+      "unit": "",
+      "oldValue": "これまで: 国内データセンターの8割超が東京圏と大阪圏に過密集中",
+      "description": "陸揚げ局の至近に洋上風力等の再エネと直結した中核データセンターを建設",
+      "badge": "陸揚げ局直結・再エネ型データセンターの誘致",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "海底インフラの物理防衛体制",
+      "labelStandard": "海底インフラの物理防衛体制",
+      "value": "重要海底ケーブルの安全保障的監視強化",
+      "unit": "",
+      "oldValue": "これまで: 民間通信会社任せで敵対勢力による潜水艇でのケーブル切断・盗聴に無防備",
+      "description": "海上保安庁・自衛隊との情報共有体制と音響センサーによる常時監視体制を構築",
+      "badge": "重要海底ケーブルの安全保障的監視強化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

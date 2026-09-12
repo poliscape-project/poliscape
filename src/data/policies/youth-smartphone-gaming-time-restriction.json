@@ -155,5 +155,55 @@
       "text": "年齢確認技術の実装義務化",
       "color": "bg-teal-50 text-teal-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "長時間利用",
+      "labelStandard": "青少年の平日ネット利用時間",
+      "value": "平均4.5〜6",
+      "unit": "時間",
+      "oldValue": "10年前は平均1〜2時間程度",
+      "descriptionSimple": "スマホ・SNS・ゲームの利用が過密化",
+      "descriptionStandard": "スマホ・SNS・ゲームの利用が過密化",
+      "badge": "長時間利用",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "合憲判決",
+      "labelStandard": "香川県ゲーム条例の目安",
+      "value": "平日 60",
+      "unit": "分まで",
+      "oldValue": "利用時間に関する公的基準なし",
+      "descriptionSimple": "高松地裁・高裁で「合憲判決」が確定",
+      "descriptionStandard": "高松地裁・高裁で「合憲判決」が確定",
+      "badge": "合憲判決",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "国際的厳罰化",
+      "labelStandard": "海外のSNS年齢制限潮流",
+      "value": "16歳",
+      "unit": "未満全面禁止",
+      "oldValue": "生年月日の自己申告のみで登録可能",
+      "descriptionSimple": "豪州で世界初の未成年SNS禁止法が可決",
+      "descriptionStandard": "豪州で世界初の未成年SNS禁止法が可決",
+      "badge": "国際的厳罰化",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Globe"
+    },
+    {
+      "labelSimple": "健康への影響",
+      "labelStandard": "子どもの視力・近視率",
+      "value": "小学生 約3割",
+      "unit": "が視力1.0未満",
+      "oldValue": "過去最高の近視率を更新中",
+      "descriptionSimple": "外遊び減少とスクリーンタイム増大の健康被害",
+      "descriptionStandard": "外遊び減少とスクリーンタイム増大の健康被害",
+      "badge": "健康への影響",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Activity"
+    }
   ]
 }

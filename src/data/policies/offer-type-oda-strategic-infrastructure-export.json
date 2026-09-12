@@ -139,5 +139,51 @@
       "text": "インフラ輸出・経済安保",
       "color": "bg-amber-50 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "提案のやり方",
+      "labelStandard": "案件形成のアプローチ",
+      "value": "オファー型",
+      "unit": "先手提案",
+      "oldValue": "これまで 相手国からの要請待ち",
+      "description": "日本の優れた技術をパッケージで能動提案",
+      "badge": "大綱改定",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "決まるスピード",
+      "labelStandard": "案件成立までの期間",
+      "value": "約半分",
+      "unit": "迅速化",
+      "oldValue": "これまで 要請待ちで数年要した",
+      "description": "競合国（中国等）に先を越されないスピード感",
+      "badge": "迅速意思決定",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "重点の分野",
+      "labelStandard": "戦略的投資ターゲット",
+      "value": "経済安保",
+      "unit": "基幹インフラ",
+      "oldValue": "これまで 基礎人道・教育中心",
+      "description": "港湾・海底ケーブル・脱炭素サプライチェーン",
+      "badge": "戦略ODA",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "心配な点",
+      "labelStandard": "相手国ニーズとの乖離",
+      "value": "押し売り",
+      "unit": "批判リスク",
+      "oldValue": "これまで 相手国の主権最優先",
+      "description": "日本企業が儲かる大型事業ばかり優先の懸念",
+      "badge": "ニーズ調整",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Scale"
+    }
   ]
 }

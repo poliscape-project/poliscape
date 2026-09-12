@@ -179,5 +179,51 @@
       "text": "高齢者口座のATM振込制限・不正防止",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "犯罪利用口座の凍結スピード",
+      "labelStandard": "犯罪利用口座の凍結スピード",
+      "value": "数分〜数時間の即時口座凍結ネットワーク",
+      "unit": "",
+      "oldValue": "これまで: 警察の正式要請や裁判所の令状を待つ必要があり、凍結まで数日かかり金が抜かれた",
+      "description": "AIによる不正検知と疑わしい取引の自動抽出により、数分〜数時間以内の即時一時凍結を実現",
+      "badge": "数分〜数時間の即時口座凍結ネットワーク",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "口座売買者（名義貸し）へのペナルティ",
+      "labelStandard": "口座売買者（名義貸し）へのペナルティ",
+      "value": "全銀行での新規口座開設・利用の全面拒否",
+      "unit": "",
+      "oldValue": "これまで: 少額の罰金で済むことが多く、若者が安易に口座を売却",
+      "description": "犯収法違反での摘発と、全銀協のブラックリスト共有による全金融機関での口座開設拒否",
+      "badge": "全銀行での新規口座開設・利用の全面拒否",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Ban"
+    },
+    {
+      "labelSimple": "高齢者・新規口座のATM振込制限",
+      "labelStandard": "高齢者・新規口座のATM振込制限",
+      "value": "高齢者口座のATM振込制限・不正防止",
+      "unit": "",
+      "oldValue": "これまで: ATMで1回あたり数百万円の即時送金が可能だった",
+      "description": "一定期間利用のない高齢者口座や新規開設口座のATM送金限度額を引き下げ・顔認証導入",
+      "badge": "高齢者口座のATM振込制限・不正防止",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "CreditCard"
+    },
+    {
+      "labelSimple": "闇バイト募集投稿への対策",
+      "labelStandard": "闇バイト募集投稿への対策",
+      "value": "AIサイバーパトロールと警告DM送信",
+      "unit": "",
+      "oldValue": "これまで: 通報を受けてから削除する受動的な対応にとどまっていた",
+      "description": "警察による能動的なAIサイバーパトロール、プロバイダへの即時削除要請、応募者への警告DM",
+      "badge": "AIサイバーパトロールと警告DM送信",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Laptop"
+    }
   ]
 }

@@ -139,5 +139,51 @@
       "text": "数週間滞在の空気ろ過",
       "color": "bg-emerald-50 text-emerald-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国内の本格シェルター普及",
+      "labelStandard": "国内の本格シェルター普及",
+      "value": "ほぼ 0",
+      "unit": "%（スイスは100%超）",
+      "oldValue": "木造や地上の簡易避難施設のみ",
+      "description": "Jアラートが鳴っても逃げ場がない現実",
+      "badge": "普及率ほぼゼロ",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "最前線への先行整備",
+      "labelStandard": "最前線への先行整備",
+      "value": "沖縄先島",
+      "unit": "諸島（与那国等）",
+      "oldValue": "有事避難のインフラなし",
+      "description": "数週間滞在可能な公共地下シェルター建設",
+      "badge": "先島諸島に先行",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "MapPin"
+    },
+    {
+      "labelSimple": "大都市地下鉄の活用",
+      "labelStandard": "大都市地下鉄の活用",
+      "value": "主要地下駅",
+      "unit": "を長期避難所に格上げ",
+      "oldValue": "数時間の一時待機場所にとどまる",
+      "description": "空気ろ過・非常電源・食料備蓄を配備",
+      "badge": "地下鉄駅をシェルター化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "ミサイル爆風の致死率",
+      "labelStandard": "ミサイル爆風の致死率",
+      "value": "9割以上",
+      "unit": "低減可能",
+      "oldValue": "地上建物は爆風と破片で倒壊",
+      "description": "地下深くに退避することで国民の命を死守",
+      "badge": "致死率9割激減",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Shield"
+    }
   ]
 }

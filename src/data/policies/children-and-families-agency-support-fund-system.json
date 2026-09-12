@@ -171,5 +171,51 @@
       "text": "児童手当の所得制限撤廃・高校生延長・第3子倍増",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "少子化対策財源の徴収方法",
+      "labelStandard": "少子化対策財源の徴収方法",
+      "value": "医療保険料への支援金上乗せ徴収の新設",
+      "unit": "",
+      "oldValue": "これまで: 一般会計の消費税・国債および既存の子ども手当予算枠組みに依存",
+      "description": "公的医療保険の保険料と一体で「子ども・子育て支援金」を毎月上乗せ徴収",
+      "badge": "医療保険料への支援金上乗せ徴収の新設",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "支援金の総額と1人あたり負担額",
+      "labelStandard": "支援金の総額と1人あたり負担額",
+      "value": "2028年度までに年総額1兆円の確保",
+      "unit": "",
+      "oldValue": "これまで: 新設の支援金制度は存在せず",
+      "description": "2026年度から段階徴収し2028年度に年1兆円規模（1人平均月数百円）",
+      "badge": "2028年度までに年総額1兆円の確保",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "支援金で拡充される子育て給付",
+      "labelStandard": "支援金で拡充される子育て給付",
+      "value": "児童手当の所得制限撤廃・高校生延長・第3子倍増",
+      "unit": "",
+      "oldValue": "これまで: 所得制限あり・中学生まで（第3子以降も月1.5万円）",
+      "description": "所得制限撤廃・高校生まで月1万円延長・第3子以降月3万円へ倍増",
+      "badge": "児童手当の所得制限撤廃・高校生延長・第3子倍増",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Heart"
+    },
+    {
+      "labelSimple": "保育利用要件の抜本改革",
+      "labelStandard": "保育利用要件の抜本改革",
+      "value": "就労要件不問の誰でも通園制度創設",
+      "unit": "",
+      "oldValue": "これまで: 両親の就労証明がないと認可保育所を利用できない「就労要件の壁」",
+      "description": "親の就労に関わらず月一定時間（10時間等）利用できる「こども誰でも通園制度」",
+      "badge": "就労要件不問の誰でも通園制度創設",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    }
   ]
 }

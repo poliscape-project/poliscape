@@ -139,5 +139,51 @@
       "text": "所在不明者除外新設",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "建て替えに必要な賛成の割合",
+      "labelStandard": "建替え決議要件の緩和水準",
+      "value": "3/4",
+      "unit": "または2/3へ引き下げ法改正",
+      "oldValue": "これまで 住民と議決権の「4/5（80%）」以上",
+      "description": "老朽マンションの再生をスピードアップ",
+      "badge": "要件を3/4へ緩和",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "連絡がつかない行方不明の住民",
+      "labelStandard": "所在不明区分所有者の母数除外",
+      "value": "除外",
+      "unit": "（裁判所の決定で頭数から外す）",
+      "oldValue": "連絡不能者が自動的に反対票になり決議膠着",
+      "description": "音信不通の空き部屋があっても決議を通せる",
+      "badge": "所在不明者除外",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "築40年を超える古いマンション",
+      "labelStandard": "築40年超マンションの戸数",
+      "value": "120万",
+      "unit": "戸超（20年後に400万戸へ急増）",
+      "oldValue": "これまでの建替え実績は全国で累計約300件",
+      "description": "大地震で崩れたりスラム化するのを防ぐ",
+      "badge": "築40年超急増",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "お金がないお年寄りの心配",
+      "labelStandard": "建替え費用負担と高齢者居住権",
+      "value": "数千万",
+      "unit": "円の負担金を払えない高齢者の追放懸念",
+      "oldValue": "住み慣れた家を多数決で奪われる恐怖",
+      "description": "年金暮らしの住民を守る仕組みづくりが課題",
+      "badge": "高齢者居住権配慮",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Users"
+    }
   ]
 }

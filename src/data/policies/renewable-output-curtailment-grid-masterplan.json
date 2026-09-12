@@ -155,5 +155,55 @@
       "text": "海底直流送電HVDC",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "制御急増",
+      "labelStandard": "再エネ出力制御量",
+      "value": "年数十億",
+      "unit": "kWh",
+      "oldValue": "数年前 ほぼゼロだった",
+      "descriptionSimple": "九州や四国でせっかくの電気が捨てられる",
+      "descriptionStandard": "九州や四国でせっかくの電気が捨てられる",
+      "badge": "制御急増",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "2050年目標",
+      "labelStandard": "マスタープラン投資額",
+      "value": "6〜7.9",
+      "unit": "兆円規模",
+      "oldValue": "これまで 各地域電力ごとの限定投資",
+      "descriptionSimple": "日本列島を結ぶ広域連系線の増強",
+      "descriptionStandard": "日本列島を結ぶ広域連系線の増強",
+      "badge": "2050年目標",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "海底ケーブル",
+      "labelStandard": "海底直流送電（HVDC）",
+      "value": "200万",
+      "unit": "kW送電",
+      "oldValue": "これまで 北海道と本州の連系線不足",
+      "descriptionSimple": "北海道の風力を東京へ運ぶ大動脈",
+      "descriptionStandard": "北海道の風力を東京へ運ぶ大動脈",
+      "badge": "海底ケーブル",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "家計影響",
+      "labelStandard": "託送料金（国民負担）",
+      "value": "月数百",
+      "unit": "円増加",
+      "oldValue": "送電網投資は電力会社単独負担",
+      "descriptionSimple": "レベニューキャップ通じた電気代転嫁",
+      "descriptionStandard": "レベニューキャップ通じた電気代転嫁",
+      "badge": "家計影響",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Coins"
+    }
   ]
 }

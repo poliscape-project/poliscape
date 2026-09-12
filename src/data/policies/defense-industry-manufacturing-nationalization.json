@@ -185,5 +185,81 @@
       "text": "防衛撤退100社超の抑止",
       "color": "bg-blue-50 text-blue-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "工場を国が買い取るルール",
+      "labelStandard": "防衛製造ラインの国有化特例",
+      "value": "国による",
+      "unit": "買い取り支援",
+      "oldValue": "企業がやめたら製造設備は破棄され調達不能に",
+      "descriptionSimple": "会社がやめても工場を国が引き継いで武器を作る！",
+      "descriptionStandard": "事業継続困難な重要ラインを政府保有・民間運営化",
+      "badge": "ライン国有化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "会社の儲けを約束する割合",
+      "labelStandard": "防衛調達の目標利益率",
+      "value": "最大 15",
+      "unit": "%（実質二桁）",
+      "oldValue": "実質2〜3%の低利益で赤字ギリギリの操業",
+      "descriptionSimple": "しっかり利益が出るようにして赤字を防ぐ！",
+      "descriptionStandard": "適正利益の付与で優秀な技術者・民間参入を誘致",
+      "badge": "利益率15%へ",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "防衛をやめてしまった会社",
+      "labelStandard": "防衛事業から撤退した企業数",
+      "value": "100",
+      "unit": "社超が撤退",
+      "oldValue": "小松製作所（装甲車）や三井E&Sなどが撤退",
+      "descriptionSimple": "儲からないからと100社以上が逃げ出していた！",
+      "descriptionStandard": "サプライチェーン崩壊を食い止める緊急法制",
+      "badge": "撤退抑止",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "日本の防衛装備を世界へ",
+      "labelStandard": "装備移転（輸出）支援基金",
+      "value": "仕様変更",
+      "unit": "を国が助成",
+      "oldValue": "防衛装備の輸出は原則全面禁止だった",
+      "descriptionSimple": "日本の飛行機やレーダーを外国に売るお手伝い！",
+      "descriptionStandard": "量産効果で調達コストを引き下げ防衛基盤を強化",
+      "badge": "装備移転基金",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Globe"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "防衛装備品メーカーの技術部長",
+        "commentSimple": "「日本の空や海を守る飛行機や船を自前で作る技術を守り、国を守る力を強く保てる」",
+        "commentStandard": "「防衛装備移転の緩和や生産基盤支援により、撤退が続いていた国内防衛サプライチェーンを再構築できる」"
+      },
+      {
+        "speaker": "精密機械加工の職人",
+        "commentSimple": "「防衛の仕事は国が適正な利益を保証してくれるようになり、高い技術を持つ工場を続けられる」",
+        "commentStandard": "「国の国有化オプションや利益率改善策により、特殊技能と高度な品質管理能力を持つ下請け網の廃業を防げる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "平和運動団体の代表",
+        "commentSimple": "「武器を作って外国に売る国になってしまうと、戦争に巻き込まれる心配が高まる」",
+        "commentStandard": "「武器輸出の緩和や軍需産業の優遇は平和憲法の精神を形骸化させ、地域の緊張を高める死の商人化につながる」"
+      },
+      {
+        "speaker": "行政刷新の監視委員",
+        "commentSimple": "「民間の工場を国がお金を出して買い取ったり維持したりするのは、無駄遣いになりやすい」",
+        "commentStandard": "「撤退企業工場の国有化措置はモラルハザードを生み、競争原理が働かない非効率な軍需財政の肥大化を招く」"
+      }
+    ]
+  }
 }

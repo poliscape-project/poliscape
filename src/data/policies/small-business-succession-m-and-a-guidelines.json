@@ -171,5 +171,51 @@
       "text": "事業譲渡時の経営者保証解除の原則化",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "悪質買収者の排除スキーム",
+      "labelStandard": "悪質買収者の排除スキーム",
+      "value": "悪質買収者の厳格審査と排除情報網の整備",
+      "unit": "",
+      "oldValue": "これまで: 買収者の身元審査が甘く、資金抜き・計画倒産目的の悪徳ブローカーが横行",
+      "description": "最終買収者の資金力・事業実態の開示義務化と疑わしい買収者の情報共有",
+      "badge": "悪質買収者の厳格審査と排除情報網の整備",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "仲介業者の手数料・利益相反規制",
+      "labelStandard": "仲介業者の手数料・利益相反規制",
+      "value": "手数料算定根拠の事前明示と登録制の義務化",
+      "unit": "",
+      "oldValue": "これまで: 両手仲介で売り手・買い手双方から法外な成功報酬を二重取りし利益相反が放置",
+      "description": "手数料計算基準の事前書面明示を義務化し登録制M&A支援機関制度で監査",
+      "badge": "手数料算定根拠の事前明示と登録制の義務化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "旧経営者の個人連帯保証解除",
+      "labelStandard": "旧経営者の個人連帯保証解除",
+      "value": "事業譲渡時の経営者保証解除の原則化",
+      "unit": "",
+      "oldValue": "これまで: 会社を売却・譲渡しても銀行融資の個人保証が外れず元社長が倒産リスクを背負う",
+      "description": "承継時の経営者保証解除を原則化し解除に応じない金融機関に理由説明を義務付け",
+      "badge": "事業譲渡時の経営者保証解除の原則化",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "CheckCircle2"
+    },
+    {
+      "labelSimple": "買収代金の決済保全（ホールドバック）",
+      "labelStandard": "買収代金の決済保全（ホールドバック）",
+      "value": "代金留保・エスクローによる資産持ち逃げ防止",
+      "unit": "",
+      "oldValue": "これまで: 契約締結時に即座に経営権と印鑑を渡し、直後に会社資産を着服されるリスク",
+      "description": "一定期間の売却代金留保（ホールドバック）や第三者預託の推奨ルール導入",
+      "badge": "代金留保・エスクローによる資産持ち逃げ防止",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Lock"
+    }
   ]
 }

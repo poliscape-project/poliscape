@@ -139,5 +139,51 @@
       "text": "上限20万・全額保証",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "アプリに入れられる上限",
+      "labelStandard": "アカウント口座残高上限",
+      "value": "20",
+      "unit": "万円（超過分は銀行へ）",
+      "oldValue": "これまで 銀行口座で無制限に受取り",
+      "description": "生活費決済に必要な範囲に制限し安全確保",
+      "badge": "上限20万円",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "アプリ会社が倒産したとき",
+      "labelStandard": "経営破綻時の資金保全",
+      "value": "100",
+      "unit": "%全額迅速弁済の義務付け",
+      "oldValue": "これまで 預金保険制度（1,000万円まで）",
+      "description": "保証機関との契約で確実に全額保護",
+      "badge": "破綻時全額保証",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "現金をおろすときの手数料",
+      "labelStandard": "ATM出金手数料の免除",
+      "value": "月1",
+      "unit": "回以上の無料出金を義務化",
+      "oldValue": "これまで 引き出すたびに手数料負担",
+      "description": "現金が必要な労働者の不利益を防止",
+      "badge": "月1回無料出金",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "CreditCard"
+    },
+    {
+      "labelSimple": "本人が選べるかどうか",
+      "labelStandard": "労働者の同意と選択権",
+      "value": "完全同意",
+      "unit": "（強制は違法）",
+      "oldValue": "これまで 通貨（現金）払いの原則",
+      "description": "希望者のみ労使協定を経てアプリ送金",
+      "badge": "完全自由意志",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "UserCheck"
+    }
   ]
 }

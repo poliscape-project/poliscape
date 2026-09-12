@@ -155,5 +155,55 @@
       "text": "原則逆送対象の大幅拡大",
       "color": "bg-teal-50 text-teal-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "特定少年新設",
+      "labelStandard": "18・19歳の新しい法的区分",
+      "value": "特定少年",
+      "unit": "と定義",
+      "oldValue": "20歳未満は一律「保護優先の少年」",
+      "descriptionSimple": "成人年齢引き下げに合わせた責任強化",
+      "descriptionStandard": "成人年齢引き下げに合わせた責任強化",
+      "badge": "特定少年新設",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "実名報道解禁",
+      "labelStandard": "起訴後の実名報道",
+      "value": "公判請求で",
+      "unit": "解禁",
+      "oldValue": "少年法61条により実名・顔写真全面禁止",
+      "descriptionSimple": "重大事件で正式起訴された段階で氏名公表",
+      "descriptionStandard": "重大事件で正式起訴された段階で氏名公表",
+      "badge": "実名報道解禁",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "FileText"
+    },
+    {
+      "labelSimple": "逆送対象拡大",
+      "labelStandard": "原則逆送（成人裁判）の対象",
+      "value": "短期1年",
+      "unit": "以上の懲役刑",
+      "oldValue": "被害者を死亡させた重大罪（殺人等）限定",
+      "descriptionSimple": "強盗罪や強制性交等罪も原則大人と同じ裁判",
+      "descriptionStandard": "強盗罪や強制性交等罪も原則大人と同じ裁判",
+      "badge": "逆送対象拡大",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "更生との両立",
+      "labelStandard": "少年の更生プログラム",
+      "value": "保護処分",
+      "unit": "も一部維持",
+      "oldValue": "少年院送致が中心の矯正教育",
+      "descriptionSimple": "大人の刑務所での服役による悪影響の懸念",
+      "descriptionStandard": "大人の刑務所での服役による悪影響の懸念",
+      "badge": "更生との両立",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Users"
+    }
   ]
 }

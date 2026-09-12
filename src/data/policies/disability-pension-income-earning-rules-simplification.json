@@ -171,5 +171,51 @@
       "text": "全国統一審査による不当な地域格差の完全是正",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "就労実態と等級認定の関係",
+      "labelStandard": "就労実態と等級認定の関係",
+      "value": "就労のみを理由とする等級引き下げの防止徹底",
+      "unit": "",
+      "oldValue": "これまで: 「働いている＝症状が軽い」と機械的に判断され更新時に減額・不支給が多発",
+      "description": "職場の配慮（残業免除・指導員配置）や業務内容を詳細評価し就労のみで落とさない基準へ",
+      "badge": "就労のみを理由とする等級引き下げの防止徹底",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "CheckCircle2"
+    },
+    {
+      "labelSimple": "20歳前障害年金の所得制限",
+      "labelStandard": "20歳前障害年金の所得制限",
+      "value": "就労意欲を削がない緩やかな所得制限への移行",
+      "unit": "",
+      "oldValue": "これまで: 年収約370万円超で2分の1停止、470万円超で全額支給停止という崖（クリフ）",
+      "description": "所得の増加に応じて滑らかに減額する逓減方式や所得上限の引き上げを検討",
+      "badge": "就労意欲を削がない緩やかな所得制限への移行",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "障害認定の地域格差是正",
+      "labelStandard": "障害認定の地域格差是正",
+      "value": "全国統一審査による不当な地域格差の完全是正",
+      "unit": "",
+      "oldValue": "これまで: 都道府県ごとに精神障害の不支給割合に最大数倍の格差が存在していた",
+      "description": "全国統一の「精神の障害に係る等級判定ガイドライン」の厳格運用と本部集中審査",
+      "badge": "全国統一審査による不当な地域格差の完全是正",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "障害状態確認届の電子化",
+      "labelStandard": "障害状態確認届の電子化",
+      "value": "年金診断書のオンライン電子申請・作成支援",
+      "unit": "",
+      "oldValue": "これまで: 複写式の巨大な紙の診断書を医師に依頼し発行まで1〜2ヶ月待機",
+      "description": "医療機関の電子カルテから日本年金機構への診断書オンライン電子送付を解禁",
+      "badge": "年金診断書のオンライン電子申請・作成支援",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Laptop"
+    }
   ]
 }

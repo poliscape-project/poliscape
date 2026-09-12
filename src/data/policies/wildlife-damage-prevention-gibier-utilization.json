@@ -159,5 +159,51 @@
       "text": "ハンター高齢化対策・ICT罠",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "農作物へのイノシシ被害",
+      "labelStandard": "鳥獣被害額の削減目標",
+      "value": "150億円",
+      "unit": "から被害大幅減へ",
+      "oldValue": "これまで シカやイノシシによる食害が全国常態化",
+      "description": "侵入防止柵の整備と捕獲強化で農業被害を阻止",
+      "badge": "食害防止",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "お肉のジビエ利用",
+      "labelStandard": "ジビエ消費の拡大目標",
+      "value": "20",
+      "unit": "%以上の利用率へ",
+      "oldValue": "これまで 捕獲した個体の9割を埋設廃棄",
+      "description": "衛生管理基準に適合した解体施設を全国整備",
+      "badge": "ジビエ活用",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "ハンターさんの処遇",
+      "labelStandard": "鳥獣被害対策実施隊の処遇",
+      "value": "手当改善",
+      "unit": "と身分保障",
+      "oldValue": "これまで 猟友会のボランティア頼みで高齢化深刻",
+      "description": "市町村の公務員的非常勤隊員として活動費を支給",
+      "badge": "処遇改善",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "ハイテク罠の見回り",
+      "labelStandard": "ICT捕獲罠・ドローン捜索",
+      "value": "スマホ通知",
+      "unit": "で見回り時間激減",
+      "oldValue": "これまで 毎日の見回りでハンターが疲弊",
+      "description": "センサー検知で捕獲時にメール自動送信",
+      "badge": "スマート捕獲",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Smartphone"
+    }
   ]
 }

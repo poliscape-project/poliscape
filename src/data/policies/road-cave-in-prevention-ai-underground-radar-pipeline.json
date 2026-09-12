@@ -140,5 +140,51 @@
       "text": "掘らずに直す管更生工法",
       "color": "bg-emerald-50 text-emerald-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "突然崩れる事故",
+      "labelStandard": "全国の年間道路陥没事故件数",
+      "value": "約9,000",
+      "unit": "件/年（全国）",
+      "oldValue": "これまで 穴が空いてから対処",
+      "description": "老朽下水道管から土砂が吸い込まれ道路下が空洞化",
+      "badge": "陥没多発",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "AI地面スキャン",
+      "labelStandard": "AI車載型路面下レーダー探査",
+      "value": "時速50km",
+      "unit": "走行探査",
+      "oldValue": "これまで 手押しレーダー（1日数百m）",
+      "description": "車を走らせながらAIが地下の空洞を自動検知",
+      "badge": "AI透視探査",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "道路を掘らない修理",
+      "labelStandard": "非開削管更生工法",
+      "value": "掘らずに補強",
+      "unit": "夜間短時間工事",
+      "oldValue": "これまで 道路を掘り返し大渋滞",
+      "description": "マンホールから樹脂を入れて水道管の内側を強化",
+      "badge": "非開削工法",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Car"
+    },
+    {
+      "labelSimple": "水道管の修理代",
+      "labelStandard": "全国50万キロの更新費用",
+      "value": "数十兆",
+      "unit": "円規模の不足",
+      "oldValue": "これまで 寿命50年超の管が急増",
+      "description": "地方自治体の下水道会計赤字と土木技術者不足が深刻",
+      "badge": "財政危機",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Coins"
+    }
   ]
 }

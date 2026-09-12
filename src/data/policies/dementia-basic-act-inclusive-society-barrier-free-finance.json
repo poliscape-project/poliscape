@@ -139,5 +139,51 @@
       "text": "口座凍結の柔軟化",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "認知症になる高齢者の割合",
+      "labelStandard": "高齢者の認知症発症推計",
+      "value": "5人に1人",
+      "unit": "（2025年以降500万人超）",
+      "oldValue": "一部の人だけの特別な病気という認識",
+      "description": "誰もが直面する国民的課題に位置付け",
+      "badge": "超高齢社会の現実",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "銀行口座の引き出しルール",
+      "labelStandard": "認知症発症時の口座凍結緩和",
+      "value": "柔軟",
+      "unit": "対応（親族による医療費払出し）",
+      "oldValue": "認知症になった途端に口座が完全凍結",
+      "description": "全銀協指針で介護・施設費の払出しを容認",
+      "badge": "金融バリアフリー",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "CreditCard"
+    },
+    {
+      "labelSimple": "新しい法律が目指す社会",
+      "labelStandard": "共生社会の推進と尊厳尊重",
+      "value": "共生",
+      "unit": "と本人の意思決定を最優先",
+      "oldValue": "病院や施設に隔離・保護する古い政策",
+      "description": "認知症になっても自分らしく街で暮らす",
+      "badge": "尊厳ある共生",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "HeartHandshake"
+    },
+    {
+      "labelSimple": "法律がスタートした日",
+      "labelStandard": "認知症基本法の施行時期",
+      "value": "2024",
+      "unit": "年1月1日全面施行",
+      "oldValue": "これまで 認知症に特化した基本法が存在せず",
+      "description": "全都道府県・市町村で推進計画づくりが加速",
+      "badge": "基本法施行中",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Calendar"
+    }
   ]
 }

@@ -140,5 +140,51 @@
       "text": "拝観料適正化・民間MICE",
       "color": "bg-emerald-50 text-emerald-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "修理代の値上がり",
+      "labelStandard": "国宝・重文の修繕費高騰",
+      "value": "数倍",
+      "unit": "資材・職人高騰",
+      "oldValue": "これまで 文化庁補助金でカバー",
+      "description": "ヒノキ・漆・金箔の高騰と宮大工不足で危機",
+      "badge": "修繕危機",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "公開のルール",
+      "labelStandard": "文化財行政の方針転換",
+      "value": "稼ぐ公開",
+      "unit": "保存と両立",
+      "oldValue": "これまで 傷めないため非公開が原則",
+      "description": "観光客に見せて稼いだお金で修理する好循環へ",
+      "badge": "活用へ転換",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "BookOpen"
+    },
+    {
+      "labelSimple": "特別ツアー料金",
+      "labelStandard": "プレミアム拝観・MICE活用",
+      "value": "数千〜数万",
+      "unit": "円の特別拝観",
+      "oldValue": "これまで 数百円の低額拝観料",
+      "description": "夜間貸切や解説付きで富裕層から修繕資金を確保",
+      "badge": "高付加価値化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "一般市民の心配",
+      "labelStandard": "市民のアクセス制限懸念",
+      "value": "文化離れ",
+      "unit": "料金高騰懸念",
+      "oldValue": "これまで 気軽に訪れられた寺社",
+      "description": "拝観料が高すぎて学生や地元住民が行けなくなる恐れ",
+      "badge": "アクセス格差",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Users"
+    }
   ]
 }

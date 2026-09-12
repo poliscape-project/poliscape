@@ -171,5 +171,51 @@
       "text": "AI・データサイエンス・MBAへ拡充",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "受講費用の最大給付率",
+      "labelStandard": "受講費用の最大給付率",
+      "value": "受講費用の最大80%を給付",
+      "unit": "",
+      "oldValue": "これまで: 受講中50%＋修了後就職で20%の合計最大70%（年間上限56万円）",
+      "description": "賃金5%上昇等の要件達成でさらに10%加算され、最大80%（年間上限64万円）",
+      "badge": "受講費用の最大80%を給付",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "賃金上昇連動インセンティブ",
+      "labelStandard": "賃金上昇連動インセンティブ",
+      "value": "賃金5%増で追加10%上乗せ",
+      "unit": "",
+      "oldValue": "これまで: 就職したかどうかの結果のみを評価",
+      "description": "訓練修了後に実際に賃金が5%以上引き上がった実績を評価して追加給付",
+      "badge": "賃金5%増で追加10%上乗せ",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "対象となる指定講座の分野",
+      "labelStandard": "対象となる指定講座の分野",
+      "value": "AI・データサイエンス・MBAへ拡充",
+      "unit": "",
+      "oldValue": "これまで: 看護師や社会福祉士等の伝統的な国家資格が中心",
+      "description": "生成AIプロンプト、データサイエンス、サイバー防衛、MBA等へ大幅拡充",
+      "badge": "AI・データサイエンス・MBAへ拡充",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "受講中の生活支援給付金",
+      "labelStandard": "受講中の生活支援給付金",
+      "value": "学んでいる間の生活費も手厚く支援",
+      "unit": "",
+      "oldValue": "これまで: 仕事を辞めて全日制で学ぶ際の生活費不安が受講の壁",
+      "description": "45歳未満の離職者を対象に、雇用保険の基本手当（失業給付）相当額を訓練中も支給",
+      "badge": "学んでいる間の生活費も手厚く支援",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "HeartPulse"
+    }
   ]
 }

@@ -165,5 +165,51 @@
       "text": "会社が保険料の半分を折半負担",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "対象となる企業の規模要件",
+      "labelStandard": "対象となる企業の規模要件",
+      "value": "企業規模要件の完全撤廃へ",
+      "unit": "",
+      "oldValue": "これまで: 従業員51人以上の企業に勤務するパート・アルバイトに限定",
+      "description": "50人以下の企業規模要件を完全撤廃し、中小・零細・個人事業所まで全面適用",
+      "badge": "企業規模要件の完全撤廃へ",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "将来もらえる年金の種類",
+      "labelStandard": "将来もらえる年金の種類",
+      "value": "厚生年金が上乗せされ将来安心",
+      "unit": "",
+      "oldValue": "これまで: 国民年金（基礎年金・月約6.8万円）のみで低年金リスク",
+      "description": "厚生年金（報酬比例部分）が一生涯上乗せされ、遺族・障害年金も手厚く保障",
+      "badge": "厚生年金が上乗せされ将来安心",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "PiggyBank"
+    },
+    {
+      "labelSimple": "保険料の会社負担",
+      "labelStandard": "保険料の会社負担",
+      "value": "会社が保険料の半分を折半負担",
+      "unit": "",
+      "oldValue": "これまで: 国保や国民年金は全額自己負担（または扶養内でゼロ）",
+      "description": "厚生年金・健康保険料の半分を会社（雇用主）が折半して負担",
+      "badge": "会社が保険料の半分を折半負担",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "いわゆる「106万円の壁」",
+      "labelStandard": "いわゆる「106万円の壁」",
+      "value": "制度間格差の是正と就労促進",
+      "unit": "",
+      "oldValue": "これまで: 大企業に勤めるパートのみ社会保険加入で手取り逆転が起きる不公平",
+      "description": "全企業一律適用となることで制度間の不公平を是正し就労抑制を解消",
+      "badge": "制度間格差の是正と就労促進",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Scale"
+    }
   ]
 }

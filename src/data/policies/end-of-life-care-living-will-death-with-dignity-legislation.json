@@ -139,5 +139,51 @@
       "text": "医師免責と生命倫理",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "元気なうちに残す希望の書面",
+      "labelStandard": "リビングウィル（生前指示書）",
+      "value": "法的効力",
+      "unit": "付与の是非を議論",
+      "oldValue": "これまで ガイドラインの参考扱いにとどまる",
+      "description": "無理な延命治療を拒否する意思を法律で尊重",
+      "badge": "本人の意思尊重",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "治療を止めたお医者さんの責任",
+      "labelStandard": "医師の刑事責任・民事免責",
+      "value": "免責",
+      "unit": "規定の明文化（要件充足時）",
+      "oldValue": "呼吸器停止で殺人罪書類送検される法的恐怖",
+      "description": "患者の願い通りに看取れる安心をお医者さんへ",
+      "badge": "医師の免責法制化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "家族と最期を話し合う時間",
+      "labelStandard": "人生会議（ACP）の普及",
+      "value": "平時",
+      "unit": "からの対話プロセス推進",
+      "oldValue": "死の話題を避け突然の意識不明で混乱",
+      "description": "かかりつけ医と望む看取りを事前に共有",
+      "badge": "人生会議推進",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "HeartHandshake"
+    },
+    {
+      "labelSimple": "慎重派が心配していること",
+      "labelStandard": "命の選別・死の同調圧力防止",
+      "value": "弱者保護",
+      "unit": "（迷惑かけまいと遠慮する危険）",
+      "oldValue": "経済的・介護負担から死を選ばされる懸念",
+      "description": "どんな命も大切に守る安全策が不可欠",
+      "badge": "生命倫理の壁",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
   ]
 }

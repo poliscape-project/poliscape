@@ -139,5 +139,51 @@
       "text": "就業調整・壁打破",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "主婦が働き控えする原因",
+      "labelStandard": "配偶者手当の年収基準",
+      "value": "103万",
+      "unit": "・130万円（手当喪失の壁）",
+      "oldValue": "多くの企業で妻の年収制限付き手当支給",
+      "description": "年末にパートがシフトを減らす温床を解消",
+      "badge": "年収の壁打破",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "浮いた手当のお金の使い道",
+      "labelStandard": "子ども手当・基本給への移行",
+      "value": "子ども",
+      "unit": "手当や全社員の基本給へ再配分",
+      "oldValue": "専業主婦がいる世帯のみへの偏重手当",
+      "description": "共働き時代に合った公平な給与体系へ",
+      "badge": "子ども手当へ移行",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "手当を見直す会社への助成金",
+      "labelStandard": "キャリアアップ助成金（手当見直し）",
+      "value": "数十万",
+      "unit": "円規模（中小企業へ助成）",
+      "oldValue": "これまで 制度改定の企業支援なし",
+      "description": "就業規則改定や賃上げを行う企業を応援",
+      "badge": "国の財政助成",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "お店や工場の働き手不足",
+      "labelStandard": "パート就業調整の解消効果",
+      "value": "解消",
+      "unit": "へ（年末のシフト崩壊を防ぐ）",
+      "oldValue": "繁忙期の11月・12月に人手が消える混乱",
+      "description": "意欲あるパートが長く働ける環境を実現",
+      "badge": "人手不足解消",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Briefcase"
+    }
   ]
 }

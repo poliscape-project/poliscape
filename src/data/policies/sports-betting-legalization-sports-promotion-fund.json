@@ -171,5 +171,51 @@
       "text": "AI監視による独立第三者機関の設置",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "賭けの対象と民間ライセンス",
+      "labelStandard": "賭けの対象と民間ライセンス",
+      "value": "民間オッズ・リアルタイム賭けの解禁構想",
+      "unit": "",
+      "oldValue": "これまで: JリーグやBリーグを対象とした公営くじ（toto・WINNER）のみに限定",
+      "description": "民間ライセンス事業者による多様なリアルタイムベッティングの解禁を検討",
+      "badge": "民間オッズ・リアルタイム賭けの解禁構想",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "競技団体への還元ルール",
+      "labelStandard": "競技団体への還元ルール",
+      "value": "売上の一定比率を競技連盟へ直接還流",
+      "unit": "",
+      "oldValue": "これまで: くじの余剰金からJSCを通じて限定的な公的助成金を配分",
+      "description": "売上の数%を「インテグリティ料・データ料」として連盟・クラブへ直接還元",
+      "badge": "売上の一定比率を競技連盟へ直接還流",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "八百長・不正防止の監視体制",
+      "labelStandard": "八百長・不正防止の監視体制",
+      "value": "AI監視による独立第三者機関の設置",
+      "unit": "",
+      "oldValue": "これまで: 各リーグの内部通報制度や警察の個別捜査頼みで事前検知が困難",
+      "description": "AIが異常な賭け金の偏りを24時間検知する独立インテグリティ監視組織を新設",
+      "badge": "AI監視による独立第三者機関の設置",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "ギャンブル依存症対策",
+      "labelStandard": "ギャンブル依存症対策",
+      "value": "公的身分証連携による賭け金上限設定",
+      "unit": "",
+      "oldValue": "これまで: 19歳未満購入禁止などの基本ルールのみでオンライン制限が不十分",
+      "description": "マイナンバーを活用した月額入金限度額の強制設定と自己排除システムの導入",
+      "badge": "公的身分証連携による賭け金上限設定",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Lock"
+    }
   ]
 }

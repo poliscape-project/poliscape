@@ -171,5 +171,81 @@
       "text": "実質負担ゼロ議論",
       "color": "bg-amber-50 text-amber-900"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "毎月の平均上乗せ",
+      "labelStandard": "平均徴収額（見込み）",
+      "value": "約450",
+      "unit": "円/月",
+      "oldValue": "これまで 0円（負担なし）",
+      "descriptionSimple": "健保連動で2026年4月から開始",
+      "descriptionStandard": "医療保険料と合わせて段階的に徴収開始",
+      "badge": "健保上乗せ",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "集めたお金の使い道",
+      "labelStandard": "子育て支援総枠",
+      "value": "3.6兆",
+      "unit": "円/年",
+      "oldValue": "これまでの支援予算枠",
+      "descriptionSimple": "手当や給付の財源として全額還元",
+      "descriptionStandard": "児童手当拡充・育休手取り10割等の恒久財源",
+      "badge": "全額還元",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "PiggyBank"
+    },
+    {
+      "labelSimple": "年収600万円の人の負担",
+      "labelStandard": "年収600万世帯（試算）",
+      "value": "約600",
+      "unit": "円/月",
+      "oldValue": "労使折半で会社も半額負担",
+      "descriptionSimple": "お給料が多い人ほど負担する仕組み",
+      "descriptionStandard": "収入に応じた拠出額（健康保険組合により差異）",
+      "badge": "所得比例",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Calculator"
+    },
+    {
+      "labelSimple": "実質の負担",
+      "labelStandard": "政府試算による実質負担",
+      "value": "ゼロ",
+      "unit": "（歳出改革）",
+      "oldValue": "社会保険料の負担増批判あり",
+      "descriptionSimple": "社会保障の節約と賃上げで相殺説明",
+      "descriptionStandard": "社会保障改革等で実質的な追加負担は生じないと説明",
+      "badge": "歳出改革相殺",
+      "badgeColor": "bg-slate-100 text-slate-700",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "子育て世帯（乳幼児の親）",
+        "commentSimple": "「児童手当の高校生延長や第3子3万円をずっと続けるためのお金ができるのは安心！」",
+        "commentStandard": "「児童手当拡充や育休手当10割の確実な財源ができ、途中で打ち切られる心配が減った」"
+      },
+      {
+        "speaker": "社会保障・財政有識者",
+        "commentSimple": "「国の借金を増やさずに、みんなで子どもを支え合う仕組みとして一歩前進」",
+        "commentStandard": "「赤字国債への依存を抑え、社会全体で子育てコストを公平に分担する持続可能な仕組み」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "単身・子なし会社員",
+        "commentSimple": "「子どもがいないのに、毎月のお給料から引かれる保険料が増えるのは納得いかない…」",
+        "commentStandard": "「支援金という名目だが実質的な健康保険料引き上げで、可処分所得がさらに減る」"
+      },
+      {
+        "speaker": "経済アナリスト",
+        "commentSimple": "「政府は実質負担ゼロと言うけれど、物価高の中で毎月の手取りが減るのは痛い」",
+        "commentStandard": "「歳出改革と賃上げで相殺という政府試算は楽観的で、現役世代の負担感は確実に増す」"
+      }
+    ]
+  }
 }

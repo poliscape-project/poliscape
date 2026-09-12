@@ -139,5 +139,51 @@
       "text": "全教員のエピペン訓練",
       "color": "bg-emerald-50 text-emerald-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "学校給食事故ゼロ維持",
+      "labelStandard": "学校給食事故ゼロ維持",
+      "value": "アナフィラキシー",
+      "unit": "死亡事故ゼロ",
+      "oldValue": "2012年調布市で誤食死亡事故発生",
+      "description": "徹底した配膳指針で子どもの命を死守",
+      "badge": "事故死ゼロ達成",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "誤配膳防止ルール",
+      "labelStandard": "誤配膳防止ルール",
+      "value": "専用トレイ",
+      "unit": "・おかわり全面禁止",
+      "oldValue": "児童の自己申告任せで誤食が多発",
+      "description": "調理場から色分け個別密閉容器で配給",
+      "badge": "おかわり完全禁止",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Ban"
+    },
+    {
+      "labelSimple": "エピペン注射の教員代行",
+      "labelStandard": "エピペン注射の教員代行",
+      "value": "法的に合法",
+      "unit": "（医師法違反なし）",
+      "oldValue": "教員が医療行為を恐れて注射を躊躇",
+      "description": "救急車到着前に教員が躊躇なく注射可能",
+      "badge": "教員の緊急注射公認",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "全教職員の年次訓練",
+      "labelStandard": "全教職員の年次訓練",
+      "value": "全員受講",
+      "unit": "（毎年実技訓練）",
+      "oldValue": "養護教諭（保健室）のみの知識だった",
+      "description": "校長から全担任まで緊急蘇生シミュレーション",
+      "badge": "毎年全員実技訓練",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Users"
+    }
   ]
 }

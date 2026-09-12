@@ -171,5 +171,51 @@
       "text": "危険出動手当の増額と公費賠償保険の整備",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "指定管理鳥獣へのクマ追加",
+      "labelStandard": "指定管理鳥獣へのクマ追加",
+      "value": "クマの指定管理鳥獣追加と国の全額交付金支援",
+      "unit": "",
+      "oldValue": "これまで: シカとイノシシのみが対象で、クマ対策は自治体の単独予算頼みで財源不足",
+      "description": "ヒグマ・ツキノワグマを指定管理鳥獣に追加し国費交付金で捕獲・調査を集中支援",
+      "badge": "クマの指定管理鳥獣追加と国の全額交付金支援",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "市街地での猟銃使用ルール",
+      "labelStandard": "市街地での猟銃使用ルール",
+      "value": "警察連携による市街地緊急発砲の適法化",
+      "unit": "",
+      "oldValue": "これまで: 鳥獣保護法および銃刀法により住宅密集地での銃発砲は原則厳禁（違反時は免許剥奪）",
+      "description": "警察官の現場命令と安全確認のもとで緊急射殺を認める特例法制を施行",
+      "badge": "警察連携による市街地緊急発砲の適法化",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "ハンター（猟友会）の報酬・保険",
+      "labelStandard": "ハンター（猟友会）の報酬・保険",
+      "value": "危険出動手当の増額と公費賠償保険の整備",
+      "unit": "",
+      "oldValue": "これまで: 日当数千円〜1万円程度のボランティア扱いで、事故時の賠償責任も個人負担",
+      "description": "危険手当の大幅増額（日額数万円水準）と公費による専用損害賠償保険の付保",
+      "badge": "危険出動手当の増額と公費賠償保険の整備",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "里山環境整備とハイテク捕獲",
+      "labelStandard": "里山環境整備とハイテク捕獲",
+      "value": "AI赤外線カメラ監視と里山バッファゾーン整備",
+      "unit": "",
+      "oldValue": "これまで: 山林のヤブが放置されクマが市街地まで隠れて進入しやすい環境",
+      "description": "刈り払いによる見通しの良い緩衝帯（バッファゾーン）整備とAI赤外線カメラ監視",
+      "badge": "AI赤外線カメラ監視と里山バッファゾーン整備",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Trees"
+    }
   ]
 }

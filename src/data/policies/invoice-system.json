@@ -165,5 +165,81 @@
       "text": "BtoCは免税維持も",
       "color": "bg-emerald-50 text-emerald-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "小規模事業者の特別ルール",
+      "labelStandard": "2割特例（激変緩和措置）",
+      "value": "売上税額の20%",
+      "unit": "のみ納税",
+      "oldValue": "本来は仕入税額控除の計算が必要",
+      "descriptionSimple": "売上の約1.8%の税金を納めればOK！",
+      "descriptionStandard": "免税から課税転換した事業者の負担軽減",
+      "badge": "特例措置",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "FileSpreadsheet"
+    },
+    {
+      "labelSimple": "登録しない場合の猶予",
+      "labelStandard": "仕入税額控除の経過措置",
+      "value": "80%控除",
+      "unit": "（〜2026/9）",
+      "oldValue": "免税事業者からの仕入でも控除可能",
+      "descriptionSimple": "取引先もいきなり全額負担にはならない",
+      "descriptionStandard": "2026年10月以降は50%控除へ段階的縮小",
+      "badge": "経過措置中",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "一般の消費者を相手にする人",
+      "labelStandard": "一般消費者向け（BtoC）",
+      "value": "免税維持",
+      "unit": "も可能",
+      "oldValue": "客がインボイスを求めない場合",
+      "descriptionSimple": "相手が会社でなければ登録しなくてOK！",
+      "descriptionStandard": "美容院・飲食店・一般向け整体等の選択肢",
+      "badge": "BtoCは免税可",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "登録した人の手続き",
+      "labelStandard": "確定申告・帳簿保存義務",
+      "value": "年1回",
+      "unit": "消費税申告",
+      "oldValue": "これまで免税なら申告不要だった",
+      "descriptionSimple": "所得税とは別に消費税の計算が必要",
+      "descriptionStandard": "簡易課税や2割特例での申告手続きが発生",
+      "badge": "事務負担増",
+      "badgeColor": "bg-slate-100 text-slate-800",
+      "icon": "FileCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "発注側企業の経理担当者",
+        "commentSimple": "「誰が適格請求書かハッキリして、仕入税額控除の処理が法令通り適正にできる」",
+        "commentStandard": "「複数税率（8%・10%）における消費税の不正や計算ミスを防ぐ国際標準の仕組み」"
+      },
+      {
+        "speaker": "2割特例を利用した個人事業主",
+        "commentSimple": "「2割特例のおかげで、売上の約1.8%の納税で済んで取引先も切られずに済んだ」",
+        "commentStandard": "「激変緩和の2割特例により簡易課税よりも税負担が抑えられ、ソフト対応も進んだ」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "一人親方・フリーランス・クリエイター",
+        "commentSimple": "「免税のままだと値引きや契約解除を迫られ、登録すると税金と確定申告が増えて辛い」",
+        "commentStandard": "「益税批判はあるが、実質的な所得減少とインボイス発行の煩雑な事務負担が重くのしかかる」"
+      },
+      {
+        "speaker": "声優・アニメ・出版業界の関係者",
+        "commentSimple": "「若いクリエイターや下請けの芽が摘まれて、業界全体が衰退しないか心配」",
+        "commentStandard": "「小規模事業者への配慮が足りず、立場の弱いフリーランスへの実質的な増税になっている」"
+      }
+    ]
+  }
 }

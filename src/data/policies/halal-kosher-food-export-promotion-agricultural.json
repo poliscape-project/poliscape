@@ -171,5 +171,51 @@
       "text": "相手国公的機関との認証相互承認の推進",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "認証取得にかかる費用補助",
+      "labelStandard": "認証取得にかかる費用補助",
+      "value": "認証取得・更新費用の最大半額補助",
+      "unit": "",
+      "oldValue": "これまで: 数百万円に及ぶ審査・更新費用が全額自己負担で中小食品メーカーが断念",
+      "description": "ハラールおよびコーシャ認証取得・更新費用の最大2分の1を国費補助",
+      "badge": "認証取得・更新費用の最大半額補助",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "ハラール専用屠畜・加工設備",
+      "labelStandard": "ハラール専用屠畜・加工設備",
+      "value": "ハラール対応専用屠畜場・加工ラインの整備",
+      "unit": "",
+      "oldValue": "これまで: 一般牛と同一ラインで処理され宗教的要件を満たせず輸出が遮断",
+      "description": "イスラム法に則った専用屠畜ラインやアルコールフリー洗浄設備の改修助成",
+      "badge": "ハラール対応専用屠畜場・加工ラインの整備",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "相手国認証機関との相互承認",
+      "labelStandard": "相手国認証機関との相互承認",
+      "value": "相手国公的機関との認証相互承認の推進",
+      "unit": "",
+      "oldValue": "これまで: マレーシア（JAKIM）やインドネシア（BPJPH）ごとに認証が異なり重複取得が必要",
+      "description": "日本国内の認証機関と相手国政府機関との相互承認協定（MOU）を政府主導で締結",
+      "badge": "相手国公的機関との認証相互承認の推進",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "訪日客向け原材料表示ピクトグラム",
+      "labelStandard": "訪日客向け原材料表示ピクトグラム",
+      "value": "統一原材料ピクトグラムによる食の安心提供",
+      "unit": "",
+      "oldValue": "これまで: 日本語表記のみで豚由来エキスやみりんの混入が分からず外国人観光客が飲食を敬遠",
+      "description": "豚肉・アルコール不使用をひと目で示す統一ピクトグラムの飲食店普及支援",
+      "badge": "統一原材料ピクトグラムによる食の安心提供",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Eye"
+    }
   ]
 }

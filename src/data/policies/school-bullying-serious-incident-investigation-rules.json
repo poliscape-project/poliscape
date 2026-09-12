@@ -171,5 +171,51 @@
       "text": "調査記録の原則全面開示と進捗説明",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "重大事態の調査主体",
+      "labelStandard": "重大事態の調査主体",
+      "value": "首長直轄の独立調査組織を法制化",
+      "unit": "",
+      "oldValue": "これまで: 学校や教育委員会が主導し、身内調査による忖度や隠蔽が頻発",
+      "description": "首長部局が直接弁護士・専門家を任命する完全独立の第三者委員会を設置",
+      "badge": "首長直轄の独立調査組織を法制化",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "警察への通報・相談基準",
+      "labelStandard": "警察への通報・相談基準",
+      "value": "犯罪該当事案の即時警察連携義務化",
+      "unit": "",
+      "oldValue": "これまで: 「教育的配慮」を名目に校内処理し、深刻な傷害・恐喝事案でも通報を躊躇",
+      "description": "刑罰法令違反の疑いがある事態は躊躇なく即時に警察相談・情報共有を義務化",
+      "badge": "犯罪該当事案の即時警察連携義務化",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "PhoneCall"
+    },
+    {
+      "labelSimple": "被害者・遺族への情報開示",
+      "labelStandard": "被害者・遺族への情報開示",
+      "value": "調査記録の原則全面開示と進捗説明",
+      "unit": "",
+      "oldValue": "これまで: 個人情報保護を理由に生徒アンケート等を黒塗り・非開示にして対立",
+      "description": "被害者側に配慮した原則全面開示ルールを確立し月次で進捗を説明",
+      "badge": "調査記録の原則全面開示と進捗説明",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "FileText"
+    },
+    {
+      "labelSimple": "調査報告の期限管理",
+      "labelStandard": "調査報告の期限管理",
+      "value": "概ね6ヶ月以内の報告取りまとめ目標",
+      "unit": "",
+      "oldValue": "これまで: 調査終了まで1〜3年も放置され児童生徒が卒業してしまう事態が常態化",
+      "description": "着手から概ね6ヶ月以内（複雑事案でも1年以内）の中間・最終報告を義務化",
+      "badge": "概ね6ヶ月以内の報告取りまとめ目標",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Clock"
+    }
   ]
 }

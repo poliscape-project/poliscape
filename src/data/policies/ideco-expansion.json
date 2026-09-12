@@ -171,5 +171,81 @@
       "text": "掛金全額所得控除メリット",
       "color": "bg-indigo-50 text-indigo-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "加入できる年齢の上限",
+      "labelStandard": "加入可能年齢の上限",
+      "value": "70歳",
+      "unit": "まで延長検討",
+      "oldValue": "2022年法改正で65歳まで拡大済み",
+      "descriptionSimple": "シニアで働いている間もずっと積み立て可能に",
+      "descriptionStandard": "高齢期の就労長期化に合わせた非課税枠の拡大議論",
+      "badge": "70歳まで",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "企業年金がある人の上限",
+      "labelStandard": "DB併図時の拠出限度額",
+      "value": "月2.0万",
+      "unit": "円/月に引上げ",
+      "oldValue": "これまで 月1.2万円の上限だった",
+      "descriptionSimple": "2024年12月から会社員の上限が月2万円にアップ！",
+      "descriptionStandard": "企業型年金規約ごとの不公平を解消し一律2万円へ",
+      "badge": "限度額拡大",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "うれしい税金の割引",
+      "labelStandard": "3重の税制優遇メリット",
+      "value": "トリプル",
+      "unit": "節税効果",
+      "oldValue": "一般預金は利息・受取時に課税",
+      "descriptionSimple": "積み立て・運用・受け取りの全部で税金が安くなる",
+      "descriptionStandard": "掛金全額所得控除＋運用益非課税＋受取時退職・年金控除",
+      "badge": "トリプル節税",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "PiggyBank"
+    },
+    {
+      "labelSimple": "お金を引き出せないルール",
+      "labelStandard": "原則引出不可ルール",
+      "value": "60歳まで",
+      "unit": "ロック",
+      "oldValue": "老後資金形成目的のため原則中途解約不可",
+      "descriptionSimple": "急なお金が必要になっても60歳まで出せない",
+      "descriptionStandard": "資金拘束（流動性リスク）がある点には注意が必要",
+      "badge": "60歳拘束",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "将来の資産形成を進める会社員",
+        "commentSimple": "「掛け金の分だけ今年の住民税と所得税が即安くなるのが、ほかの投資にはない一番の魅力！」",
+        "commentStandard": "「拠出金全額が所得控除になるため節税効果が絶大で、運用益も非課税なので老後資金作りには最強」"
+      },
+      {
+        "speaker": "60代以降も働くシニア就労者",
+        "commentSimple": "「定年後も長く働きながら、自分年金を非課税で積み増せる期間が長くなるのはとても心強い」",
+        "commentStandard": "「70歳までの加入拡大により、健康寿命の延伸とシニア再雇用に合わせた柔軟な老後資金形成が可能になる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "20〜30代の若手層",
+        "commentSimple": "「60歳まで絶対に引き出せないから、結婚や住宅購入でお金が必要になったとき使えないのが不安」",
+        "commentStandard": "「原則60歳まで解約・引出不可という強力な資金ロックがあり、予期せぬ出費への対応力が落ちる」"
+      },
+      {
+        "speaker": "金融リテラシーに自信がない市民",
+        "commentSimple": "「投資信託で元本割れする心配もあるし、毎月口座管理の手数料が引かれ続けるのが気になる」",
+        "commentStandard": "「商品選び次第で元本割れリスクがあり、毎月数百円の口座管理手数料や受取時の退職控除上限にも注意が必要」"
+      }
+    ]
+  }
 }

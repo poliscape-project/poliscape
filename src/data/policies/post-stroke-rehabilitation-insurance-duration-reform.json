@@ -171,5 +171,51 @@
       "text": "装着型歩行支援ロボットの回復期加算新設",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "保険リハビリ算定日数制限の運用",
+      "labelStandard": "保険リハビリ算定日数制限の運用",
+      "value": "改善見込み患者に対する180日制限の例外適用拡充",
+      "unit": "",
+      "oldValue": "これまで: 発症180日を超えると一律に月13単位（月数時間）へ大幅削減され退院を強制",
+      "description": "FIM（機能的自立度評価表）等で改善が証明されれば継続算定を認める要件を緩和",
+      "badge": "改善見込み患者に対する180日制限の例外適用拡充",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Heart"
+    },
+    {
+      "labelSimple": "医療から介護保険リハビリへの移行",
+      "labelStandard": "医療から介護保険リハビリへの移行",
+      "value": "退院時のリハビリ空白期間ゼロ化スキーム",
+      "unit": "",
+      "oldValue": "これまで: 退院時に介護保険への引継ぎが途切れ数ヶ月間リハビリ空白期間が発生",
+      "description": "退院前からの訪問リハ事業所との合同カンファレンスと即日リハ継続を評価",
+      "badge": "退院時のリハビリ空白期間ゼロ化スキーム",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "CheckCircle2"
+    },
+    {
+      "labelSimple": "歩行支援ロボット等の保険適用",
+      "labelStandard": "歩行支援ロボット等の保険適用",
+      "value": "装着型歩行支援ロボットの回復期加算新設",
+      "unit": "",
+      "oldValue": "これまで: 高額な装着型ロボット（HAL等）や電気刺激装置は一部大学病院に限定",
+      "description": "回復期リハ病棟での先進リハビリロボット使用加算の新設・普及支援",
+      "badge": "装着型歩行支援ロボットの回復期加算新設",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "民間自費リハビリ施設との連携",
+      "labelStandard": "民間自費リハビリ施設との連携",
+      "value": "保険医療と民間自費リハの公式情報連携指針",
+      "unit": "",
+      "oldValue": "これまで: 病院外の自費リハビリ施設は野放しで医師との情報共有が存在せず",
+      "description": "医師の診療情報提供書に基づく自費リハ連携ガイドラインを策定",
+      "badge": "保険医療と民間自費リハの公式情報連携指針",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "TrendingUp"
+    }
   ]
 }

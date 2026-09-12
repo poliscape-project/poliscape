@@ -155,5 +155,55 @@
       "text": "便乗値上げの監視",
       "color": "bg-rose-50 text-rose-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "二重価格",
+      "labelStandard": "外国人観光客向け価格差",
+      "value": "1.5〜2",
+      "unit": "倍の設定",
+      "oldValue": "日本人・外国人を問わず一律同額",
+      "descriptionSimple": "内外価格差を設け混雑緩和と地域還元",
+      "descriptionStandard": "内外価格差を設け混雑緩和と地域還元",
+      "badge": "二重価格",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "世界遺産・観光地",
+      "labelStandard": "導入施設の代表例",
+      "value": "姫路城・飲食店",
+      "unit": "等",
+      "oldValue": "一律の入場料体系",
+      "descriptionSimple": "外国人料金を値上げし地元住民は割引維持",
+      "descriptionStandard": "外国人料金を値上げし地元住民は割引維持",
+      "badge": "世界遺産・観光地",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "外貨獲得",
+      "labelStandard": "インバウンド消費総額",
+      "value": "年 7〜8",
+      "unit": "兆円規模",
+      "oldValue": "コロナ前 年4.8兆円",
+      "descriptionSimple": "円安を背景に外国人旅行者消費が急拡大",
+      "descriptionStandard": "円安を背景に外国人旅行者消費が急拡大",
+      "badge": "外貨獲得",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "法務ガイドライン",
+      "labelStandard": "法的な差別リスク",
+      "value": "国籍制限の",
+      "unit": "回避指針",
+      "oldValue": "明確な法的ガイドラインなし",
+      "descriptionSimple": "「住民割」形式により差別批判を回避",
+      "descriptionStandard": "「住民割」形式により差別批判を回避",
+      "badge": "法務ガイドライン",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Scale"
+    }
   ]
 }

@@ -133,5 +133,51 @@
       "text": "みどりの食料戦略",
       "color": "bg-green-50 text-green-700 border-green-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国のオーガニック目標",
+      "labelStandard": "2050年有機農業割合",
+      "value": "25",
+      "unit": "%（100万ha）",
+      "oldValue": "現在 約0.6％（欧州の10分の1）",
+      "description": "みどりの食料システム戦略の大目標",
+      "badge": "25％目標",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Leaf"
+    },
+    {
+      "labelSimple": "学校給食での活用",
+      "labelStandard": "オーガニック給食自治体",
+      "value": "100",
+      "unit": "市町村超へ拡大",
+      "oldValue": "これまで 価格優先で慣行・輸入米",
+      "description": "地場産有機米を子どもたちの給食へ",
+      "badge": "学校給食連携",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "農薬・化学肥料の削減",
+      "labelStandard": "化学農薬・肥料削減目標",
+      "value": "最大50",
+      "unit": "%削減（2050年）",
+      "oldValue": "化石燃料由来の化学肥料に依存",
+      "description": "土壌炭素貯留と生態系の保全を両立",
+      "badge": "脱化学農薬",
+      "badgeColor": "bg-green-100 text-green-800",
+      "icon": "Trees"
+    },
+    {
+      "labelSimple": "普通の野菜との価格差",
+      "labelStandard": "有機食材の調達コスト",
+      "value": "1.5〜2",
+      "unit": "倍の価格差",
+      "oldValue": "給食費値上げか自治体補助の二者択一",
+      "description": "公費支援と安定した年間契約が不可欠",
+      "badge": "調達コスト差",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Coins"
+    }
   ]
 }

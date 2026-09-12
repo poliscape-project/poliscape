@@ -171,5 +171,51 @@
       "text": "深海連続採掘ロボット実用化への集中投資",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "深海底鉱物資源の採掘許可制",
+      "labelStandard": "深海底鉱物資源の採掘許可制",
+      "value": "深海底専用の採掘権設定・公募制度の法制化",
+      "unit": "",
+      "oldValue": "これまで: 陸上鉱山を前提とした旧来の鉱業法のみで大水深海底の採掘権設定基準が曖昧",
+      "description": "水深1000〜6000mの深海底に特化した海洋採掘権の公募・認可制度を創設",
+      "badge": "深海底専用の採掘権設定・公募制度の法制化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "深海環境影響評価（アセスメント）",
+      "labelStandard": "深海環境影響評価（アセスメント）",
+      "value": "深海生態系アセスメント基準の厳格義務化",
+      "unit": "",
+      "oldValue": "これまで: 深海固有の生態系影響に関する統一的な測定・評価ガイドラインが存在せず",
+      "description": "採掘前・採掘中・採掘後の長期モニタリングと濁泥拡散防止基準の義務化",
+      "badge": "深海生態系アセスメント基準の厳格義務化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "深海揚鉱技術への国費助成",
+      "labelStandard": "深海揚鉱技術への国費助成",
+      "value": "深海連続採掘ロボット実用化への集中投資",
+      "unit": "",
+      "oldValue": "これまで: JOGMECやJAMSTECによる散発的な研究航海にとどまり民間参入が困難",
+      "description": "深海連続採鉱ロボットや垂直揚鉱パイプラインの実用化へ数千億円規模の支援",
+      "badge": "深海連続採掘ロボット実用化への集中投資",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "海洋保護区（MPA）との調和",
+      "labelStandard": "海洋保護区（MPA）との調和",
+      "value": "海洋保護区と採掘エリアの明確なゾーニング",
+      "unit": "",
+      "oldValue": "これまで: 資源有望海域と生態系保全海域の境界線が未整理で環境団体と対立",
+      "description": "生物多様性のホットスポットを恒久保護区に指定し採掘可能エリアを明示",
+      "badge": "海洋保護区と採掘エリアの明確なゾーニング",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Trees"
+    }
   ]
 }

@@ -171,5 +171,51 @@
       "text": "耕作放棄時の取消要件厳格化",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "法人出資比率の柔軟化",
+      "labelStandard": "法人出資比率の柔軟化",
+      "value": "法人出資比率の柔軟化",
+      "unit": "",
+      "oldValue": "これまで: 農地所有適格法人の一般企業出資枠は議決権の半分未満に限定",
+      "description": "一定要件を満たす国内農業参入企業に出資比率引き上げを容認",
+      "badge": "法人出資比率の柔軟化",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "実質的株主の事前審査",
+      "labelStandard": "実質的株主の事前審査",
+      "value": "実質的株主の事前審査",
+      "unit": "",
+      "oldValue": "これまで: 農地取得時の審査で多重持ち株を通じた外資支配の把握が不十分",
+      "description": "実質的支配者の国籍・資本関係の事前届出と審査を法制化",
+      "badge": "実質的株主の事前審査",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Eye"
+    },
+    {
+      "labelSimple": "耕作放棄時の取消要件厳格化",
+      "labelStandard": "耕作放棄時の取消要件厳格化",
+      "value": "耕作放棄時の取消要件厳格化",
+      "unit": "",
+      "oldValue": "これまで: 参入後の営農チェックが甘く放置農地の買戻しに長期間要する",
+      "description": "営農計画から逸脱して放置した場合の是正勧告と買戻しを迅速化",
+      "badge": "耕作放棄時の取消要件厳格化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "スマート農業特区との連携",
+      "labelStandard": "スマート農業特区との連携",
+      "value": "スマート農業特区との連携",
+      "unit": "",
+      "oldValue": "これまで: 一律規制のため自動トラクターや植物工場の参入ハードルが高い",
+      "description": "特区制度を活用し先端IT農業コンソーシアムの参入支援を拡充",
+      "badge": "スマート農業特区との連携",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Cpu"
+    }
   ]
 }

@@ -171,5 +171,51 @@
       "text": "騒音・治安共生パトロール",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "夜間イベント営業届出の簡素化",
+      "labelStandard": "夜間イベント営業届出の簡素化",
+      "value": "夜間イベント営業届出の簡素化",
+      "unit": "",
+      "oldValue": "これまで: 風営法等の手続きが煩雑で美術館・劇場の夜間開館や音楽イベントに制約",
+      "description": "特定振興区域における夜間文化イベントの営業届出を簡素化",
+      "badge": "夜間イベント営業届出の簡素化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Music"
+    },
+    {
+      "labelSimple": "深夜交通アクセスの拡充",
+      "labelStandard": "深夜交通アクセスの拡充",
+      "value": "深夜交通アクセスの拡充",
+      "unit": "",
+      "oldValue": "これまで: 終電後の移動手段がタクシーに偏り帰宅困難や交通混雑が発生",
+      "description": "主要繁華街とターミナルを結ぶ深夜オンデマンドバスやライドシェア運行支援",
+      "badge": "深夜交通アクセスの拡充",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Bus"
+    },
+    {
+      "labelSimple": "騒音・治安共生パトロール",
+      "labelStandard": "騒音・治安共生パトロール",
+      "value": "騒音・治安共生パトロール",
+      "unit": "",
+      "oldValue": "これまで: 路上飲酒や店舗前騒音に対する行政の介入権限が分散",
+      "description": "夜間首長（ナイトメイヤー）や民間BIDと警察・自治体の合同巡回",
+      "badge": "騒音・治安共生パトロール",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "夜間文化振興補助枠の創設",
+      "labelStandard": "夜間文化振興補助枠の創設",
+      "value": "夜間文化振興補助枠の創設",
+      "unit": "",
+      "oldValue": "これまで: 昼間の文化施設向け助成が中心で夜間プログラム支援が皆無",
+      "description": "夜間限定のライトアップや伝統芸能・音楽公演に対する特別助成を創設",
+      "badge": "夜間文化振興補助枠の創設",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Sparkles"
+    }
   ]
 }

@@ -133,5 +133,51 @@
       "text": "研究力再生",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "博士学生への生活費",
+      "labelStandard": "SPRING事業等の生活費",
+      "value": "年180〜",
+      "unit": "240万円相当支給",
+      "oldValue": "無給・バイト漬けで借金奨学金",
+      "description": "月15万〜20万円支給で研究専念",
+      "badge": "生活費相当給付",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "支援をもらえる割合",
+      "labelStandard": "生活費受給学生の割合",
+      "value": "3人に1",
+      "unit": "人へ大幅拡充",
+      "oldValue": "従来 全体の1割（特別研究員等）のみ",
+      "description": "科学技術基本計画で約2.5万人目標",
+      "badge": "受給者3倍へ",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "GraduationCap"
+    },
+    {
+      "labelSimple": "日本のトップ論文",
+      "labelStandard": "トップ10％論文数順位",
+      "value": "過去最低",
+      "unit": "水準（13位前後）",
+      "oldValue": "かつて 世界4位の科学技術大国",
+      "description": "若手研究者困窮による研究力凋落を阻止",
+      "badge": "研究力再生",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "卒業後の就職先",
+      "labelStandard": "民間企業での博士採用",
+      "value": "初任給",
+      "unit": "引き上げ・ジョブ型",
+      "oldValue": "日本企業が学士・修士を偏重採用",
+      "description": "高度専門人材としての処遇改善を要請",
+      "badge": "キャリアパス",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Briefcase"
+    }
   ]
 }

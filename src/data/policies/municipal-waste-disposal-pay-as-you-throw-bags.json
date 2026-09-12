@@ -159,5 +159,51 @@
       "text": "焼却炉維持費削減",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "指定ごみ袋の料金",
+      "labelStandard": "家庭ごみの有料指定袋制",
+      "value": "有料化約7割",
+      "unit": "の自治体が導入",
+      "oldValue": "これまで 税金で無料回収・排出抑制が困難",
+      "description": "1枚数十円の指定袋購入で減量インセンティブ",
+      "badge": "ごみ袋有料化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "ごみの減量効果",
+      "labelStandard": "ごみ排出量の削減実績",
+      "value": "10〜20",
+      "unit": "%の排出量削減",
+      "oldValue": "これまで 分別意識が薄く大量焼却が続く",
+      "description": "分別が進みプラスチックや紙のリサイクルが増加",
+      "badge": "大幅減量",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "焼却炉の寿命",
+      "labelStandard": "焼却施設の延命・経費節減",
+      "value": "炉の延命化",
+      "unit": "と最終処分場保護",
+      "oldValue": "これまで 炉の建て替えに数百億円の負担",
+      "description": "焼却灰の減少で埋立処分場の寿命を長期延伸",
+      "badge": "施設延命",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "ポイ捨て・不法投棄",
+      "labelStandard": "不法投棄防止パトロール",
+      "value": "監視カメラ",
+      "unit": "と厳格な罰則",
+      "oldValue": "これまで 有料化に伴う公園や山林投棄の懸念",
+      "description": "防犯カメラ設置と警察連携で悪質投棄を防止",
+      "badge": "環境保全",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "ShieldAlert"
+    }
   ]
 }

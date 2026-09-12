@@ -155,5 +155,81 @@
       "text": "学校・福祉連携とヘルパー派遣",
       "color": "bg-indigo-50 text-indigo-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "困っている子どもの割合",
+      "labelStandard": "ヤングケアラー実態",
+      "value": "約17人中1人",
+      "unit": "（中学生で約5.7%）",
+      "oldValue": "家庭内のプライベートな事情・美談とされ放置",
+      "descriptionSimple": "クラスに1〜2人は家族のお世話で毎日ヘトヘトな子がいる！",
+      "descriptionStandard": "高校生でも約24人に1人（約4.1%）が日常的に介護",
+      "badge": "クラスに1〜2人",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "法律での位置づけ",
+      "labelStandard": "支援責務の法制化",
+      "value": "初めて明記",
+      "unit": "（法改正）",
+      "oldValue": "法律上の定義がなく自治体ごとの対応に任されていた",
+      "descriptionSimple": "国や町が「必ず助けなければならない」と法律で宣言！",
+      "descriptionStandard": "子ども・若者育成支援推進法に定義と自治体責務を新設",
+      "badge": "初の法律明記",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "助けてくれるプロ",
+      "labelStandard": "学校・福祉連携",
+      "value": "スクールSW",
+      "unit": "等の配置拡充",
+      "oldValue": "学校の先生だけでは家庭の福祉問題に踏み込めなかった",
+      "descriptionSimple": "学校と役所が協力して、悩んでいる子どもを見つけ出す！",
+      "descriptionStandard": "スクールソーシャルワーカーや支援地域協議会が介入",
+      "badge": "連携ネット",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "HeartHandshake"
+    },
+    {
+      "labelSimple": "代わりのお手伝い",
+      "labelStandard": "家事・介護ヘルパー",
+      "value": "直接派遣",
+      "unit": "（公費支援）",
+      "oldValue": "子どもがいるからと大人の介護サービスが断られることも",
+      "descriptionSimple": "子どもの代わりに家事やお世話をする人を家に送る！",
+      "descriptionStandard": "子どもの学習時間や睡眠・進路を守る代替サービス",
+      "badge": "家事代行派遣",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "ヤングケアラー支援を行うスクールソーシャルワーカー",
+        "commentSimple": "「法律に国や町の責任が書かれたことで、学校と役所が堂々と連携して困っている子どもを助けに行けるようになった」",
+        "commentStandard": "「子どもの権利侵害として法律に明記されたことで、学校から福祉窓口への通報・介入がスムーズになり早期支援が可能になった」"
+      },
+      {
+        "speaker": "ヤングケアラーを経験した大学生",
+        "commentSimple": "「家族の世話で勉強ができず夢を諦めかけていた。ヘルパーさんが家に来てくれたら、みんな進学を諦めずにすむ」",
+        "commentStandard": "「『えらいね』と美談にされ孤立していた過去の自分に届けたい。家事代替支援や奨学金によって子どもの未来が救われる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "中学校の生徒指導担当教諭",
+        "commentSimple": "「家庭の中のことなので親が嫌がって隠してしまったり、子ども自身も『これが当たり前』と思っていて見つけにくい」",
+        "commentStandard": "「家庭内のプライベートに踏み込む難しさがあり、親の拒否や子どもの無自覚がある中で、信頼関係を崩さず介入するのは困難を極める」"
+      },
+      {
+        "speaker": "地域の訪問介護ステーション管理者",
+        "commentSimple": "「子どもの代わりにヘルパーを行かせたいけれど、地域のヘルパーが足りなくて派遣できないのが現実」",
+        "commentStandard": "「法律で支援が義務化されても、現場で派遣できる訪問介護員が枯渇している。受け皿の人手不足を解消しなければ実効性がない」"
+      }
+    ]
+  }
 }

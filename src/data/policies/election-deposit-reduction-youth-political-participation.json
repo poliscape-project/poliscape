@@ -139,5 +139,51 @@
       "text": "売名候補乱立防止との両立",
       "color": "bg-amber-50 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "立候補のお金",
+      "labelStandard": "国政選挙の供託金額",
+      "value": "300万/600万",
+      "unit": "円（世界最高額）",
+      "oldValue": "これまで 30年間同額据え置き",
+      "description": "小選挙区300万、比例代表600万という高額の壁",
+      "badge": "世界最高額",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "引き下げの提案",
+      "labelStandard": "供託金引き下げ案と署名推薦制",
+      "value": "100万円",
+      "unit": "または署名制",
+      "oldValue": "これまで 金銭納付のみを条件化",
+      "description": "英（10万円）や仏（ゼロ）のように署名集めで出馬可能に",
+      "badge": "引き下げ論",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "若い人の政治参加",
+      "labelStandard": "世襲・高齢化の打破効果",
+      "value": "若者挑戦",
+      "unit": "借金ゼロで出馬",
+      "oldValue": "これまで 資金力ある世襲・高齢者優位",
+      "description": "普通の若いサラリーマンや女性が立候補できるように",
+      "badge": "世襲打破",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "安くした時の心配",
+      "labelStandard": "売名候補の乱立リスク",
+      "value": "おふざけ出馬",
+      "unit": "乱立・選挙混乱",
+      "oldValue": "これまで 供託金没収で抑止",
+      "description": "YouTube宣伝やポスタージャックなど選挙妨害の懸念",
+      "badge": "乱立懸念",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    }
   ]
 }

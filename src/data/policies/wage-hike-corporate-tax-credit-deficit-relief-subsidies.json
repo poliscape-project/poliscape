@@ -165,5 +165,51 @@
       "text": "子育て・女性支援でさらに5%上乗せ",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "法人税からの最大控除率",
+      "labelStandard": "法人税からの最大控除率",
+      "value": "給与増加額の最大45%を減税",
+      "unit": "",
+      "oldValue": "これまで: 中小企業で給与増額分の最大40%（大企業最大30%）",
+      "description": "中小企業で給与増額分の最大45%（大企業最大35%）へ引き上げ",
+      "badge": "給与増加額の最大45%を減税",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "赤字中小企業への救済措置",
+      "labelStandard": "赤字中小企業への救済措置",
+      "value": "赤字企業も使える5年繰越控除",
+      "unit": "",
+      "oldValue": "これまで: 当年度に法人税が発生しない赤字企業は減税の恩恵ゼロで失効",
+      "description": "控除しきれなかった税額控除を最長5年間にわたり繰越控除可能に",
+      "badge": "赤字企業も使える5年繰越控除",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "子育て両立支援への上乗せ",
+      "labelStandard": "子育て両立支援への上乗せ",
+      "value": "子育て・女性支援でさらに5%上乗せ",
+      "unit": "",
+      "oldValue": "これまで: 賃上げ率と教育訓練費のみが控除率アップの要件",
+      "description": "くるみん認定やプラチナえるぼし取得など、子育て・女性活躍で控除率5%上乗せ",
+      "badge": "子育て・女性支援でさらに5%上乗せ",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Baby"
+    },
+    {
+      "labelSimple": "各種ものづくり補助金の加点",
+      "labelStandard": "各種ものづくり補助金の加点",
+      "value": "補助金の優先採択・加点措置",
+      "unit": "",
+      "oldValue": "これまで: 税制と公的補助金の連動が限定的",
+      "description": "賃上げを宣言した企業に対し、ものづくり補助金やIT導入補助金で優先採択・加点",
+      "badge": "補助金の優先採択・加点措置",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Sparkles"
+    }
   ]
 }

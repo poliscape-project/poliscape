@@ -155,5 +155,55 @@
       "text": "テレビ保有世帯は追加負担なし",
       "color": "bg-teal-50 text-teal-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "放送法大改正",
+      "labelStandard": "ネット配信の法的格付け",
+      "value": "必須業務",
+      "unit": "へ昇格",
+      "oldValue": "テレビ放送の「補完業務（任意）」",
+      "descriptionSimple": "スマホ・PC向け配信がNHKの本来業務に",
+      "descriptionStandard": "スマホ・PC向け配信がNHKの本来業務に",
+      "badge": "放送法大改正",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "新受信料",
+      "labelStandard": "ネット専用受信料の金額",
+      "value": "月額 約1,100",
+      "unit": "円程度（想定）",
+      "oldValue": "テレビ受像機がなければ課金ゼロ",
+      "descriptionSimple": "地上契約と同額程度でアプリ利用者に課金",
+      "descriptionStandard": "地上契約と同額程度でアプリ利用者に課金",
+      "badge": "新受信料",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "追加費用なし",
+      "labelStandard": "既存テレビ契約者への影響",
+      "value": "追加負担 ゼロ",
+      "unit": "円",
+      "oldValue": "NHKプラスを無料追加利用中",
+      "descriptionSimple": "すでに受信料を払っている家庭はそのまま視聴可能",
+      "descriptionStandard": "すでに受信料を払っている家庭はそのまま視聴可能",
+      "badge": "追加費用なし",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "テレビ離れ対応",
+      "labelStandard": "単身世帯のテレビ非保有率",
+      "value": "3割",
+      "unit": "突破",
+      "oldValue": "ほぼ100%の家庭にテレビ受像機が存在",
+      "descriptionSimple": "若年層のテレビ離れに対応した新財源モデル",
+      "descriptionStandard": "若年層のテレビ離れに対応した新財源モデル",
+      "badge": "テレビ離れ対応",
+      "badgeColor": "bg-slate-100 text-slate-700",
+      "icon": "Laptop"
+    }
   ]
 }

@@ -133,5 +133,51 @@
       "text": "過労死合算判定",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "ケガのときの給料計算",
+      "labelStandard": "休業補償の算定基礎",
+      "value": "全社合算",
+      "unit": "の総収入で算出",
+      "oldValue": "これまで 事故のあった1社のみ計算",
+      "description": "副業先でのケガでも本業分を補償",
+      "badge": "賃金合算",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "過労死の判定方法",
+      "labelStandard": "過労死残業時間判定",
+      "value": "全就業先",
+      "unit": "の時間を合算",
+      "oldValue": "各社単体で過労死ラインを判定",
+      "description": "複数社トータルでの過重負荷を評価",
+      "badge": "過労死合算",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "もらえる補償の割合",
+      "labelStandard": "労災休業補償給付率",
+      "value": "約80",
+      "unit": "%（給与合算）",
+      "oldValue": "副業分のみ（月数万円）で生活困窮",
+      "description": "療養中の生活破綻を確実に防止",
+      "badge": "生活保障",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "もう一つの会社への影響",
+      "labelStandard": "他社の保険料ペナルティ",
+      "value": "なし",
+      "unit": "（悪影響なし）",
+      "oldValue": "他社の労災事故で保険料が上がる懸念",
+      "description": "企業が副業を解禁しやすい設計",
+      "badge": "副業解禁後押し",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Briefcase"
+    }
   ]
 }

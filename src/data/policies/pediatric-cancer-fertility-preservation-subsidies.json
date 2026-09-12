@@ -171,5 +171,51 @@
       "text": "がん治療開始前の緊急妊孕性カウンセリング体制",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "妊孕性温存（採取・凍結）への助成",
+      "labelStandard": "妊孕性温存（採取・凍結）への助成",
+      "value": "卵子・卵巣組織等の凍結保存費用を公費助成",
+      "unit": "",
+      "oldValue": "これまで: 全額自己負担（自由診療）で数十万〜100万円かかり経済的理由で断念",
+      "description": "未受精卵子凍結で1回最高20万円、卵巣組織凍結で最高40万円等の公費助成",
+      "badge": "卵子・卵巣組織等の凍結保存費用を公費助成",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "寛解後の生殖補助医療への助成",
+      "labelStandard": "寛解後の生殖補助医療への助成",
+      "value": "寛解後の生殖補助医療（体外受精）への助成拡大",
+      "unit": "",
+      "oldValue": "これまで: 凍結した卵子を解凍して体外受精・胚移植する費用は対象外",
+      "description": "がん治癒後の妊娠・出産に向けた胚移植等に1回最高数十万円を追加助成",
+      "badge": "寛解後の生殖補助医療（体外受精）への助成拡大",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Heart"
+    },
+    {
+      "labelSimple": "がん治療医と産婦人科の連携",
+      "labelStandard": "がん治療医と産婦人科の連携",
+      "value": "がん治療開始前の緊急妊孕性カウンセリング体制",
+      "unit": "",
+      "oldValue": "これまで: がん治療の開始が最優先され生殖機能温存の説明がなされないまま治療開始",
+      "description": "拠点病院に「妊孕性温存ナビゲーター」を配置し受診後数日以内に産婦人科へ紹介",
+      "badge": "がん治療開始前の緊急妊孕性カウンセリング体制",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "CheckCircle2"
+    },
+    {
+      "labelSimple": "初経前の小児患者への技術適用",
+      "labelStandard": "初経前の小児患者への技術適用",
+      "value": "小児（初経前）対応の卵巣組織凍結を公式助成",
+      "unit": "",
+      "oldValue": "これまで: 排卵がない思春期前女児には卵子採取ができず温存の手段がなかった",
+      "description": "思春期前でも可能な「卵巣組織凍結」を公費対象とし小児がん患者を救済",
+      "badge": "小児（初経前）対応の卵巣組織凍結を公式助成",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "TrendingUp"
+    }
   ]
 }

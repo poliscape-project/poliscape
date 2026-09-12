@@ -139,5 +139,51 @@
       "text": "数兆円の減税規模",
       "color": "bg-slate-100 text-slate-700"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "世帯の家族係数",
+      "labelStandard": "世帯の家族係数",
+      "value": "子ども",
+      "unit": "0.5〜1加算",
+      "oldValue": "これまで 個人単位課税",
+      "description": "家族の人数で割って低税率を適用",
+      "badge": "フランス方式",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Calculator"
+    },
+    {
+      "labelSimple": "子2人世帯の減税",
+      "labelStandard": "子2人世帯の減税",
+      "value": "最大100万",
+      "unit": "円超の手取り増",
+      "oldValue": "これまで 扶養控除縮小で増税感",
+      "description": "中間〜高所得層で劇的な減税効果",
+      "badge": "手取り急増",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "国の税収への影響",
+      "labelStandard": "国の税収への影響",
+      "value": "年2〜4",
+      "unit": "兆円規模の減収",
+      "oldValue": "これまで 現行所得税収を維持",
+      "description": "財源確保と単身者との公平性が課題",
+      "badge": "巨額財源",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "低所得世帯への効果",
+      "labelStandard": "低所得世帯への効果",
+      "value": "ほぼ0",
+      "unit": "円（恩恵薄い）",
+      "oldValue": "非課税層は減税の恩恵なし",
+      "description": "逆進性・富裕層優遇批判の根拠",
+      "badge": "格差拡大懸念",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    }
   ]
 }

@@ -139,5 +139,51 @@
       "text": "非軍事原則の転換",
       "color": "bg-rose-50 text-rose-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "支援する相手",
+      "labelStandard": "供与対象組織",
+      "value": "同志国軍隊",
+      "unit": "無償供与",
+      "oldValue": "これまで 文民組織・民間のみ",
+      "description": "フィリピン軍等へ防衛器材を直接プレゼント",
+      "badge": "OSA創設",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Shield"
+    },
+    {
+      "labelSimple": "渡す装備品",
+      "labelStandard": "主な供与資機材",
+      "value": "沿岸レーダー",
+      "unit": "警備艇等",
+      "oldValue": "これまで 道路や学校のインフラ",
+      "description": "海の監視能力（MDA）を高め力による変更を抑止",
+      "badge": "海洋安保",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Anchor"
+    },
+    {
+      "labelSimple": "法律の仕組み",
+      "labelStandard": "支援の法的枠組み",
+      "value": "外務省所管",
+      "unit": "新無償資金",
+      "oldValue": "これまで ODA（軍事用途厳格禁止）",
+      "description": "ODAとは明確に切り離した安全保障支援枠",
+      "badge": "新枠組み",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "懸念される点",
+      "labelStandard": "平和国家理念との整合性",
+      "value": "軍拡加担",
+      "unit": "批判リスク",
+      "oldValue": "これまで 非軍事支援に徹する国是",
+      "description": "供与品が悪用されたり横流しされないか",
+      "badge": "国是論争",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
   ]
 }

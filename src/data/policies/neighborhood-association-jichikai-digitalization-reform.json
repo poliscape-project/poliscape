@@ -165,5 +165,51 @@
       "text": "会費集金のキャッシュレス化",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "総会の開催・議決方法",
+      "labelStandard": "総会の開催・議決方法",
+      "value": "オンライン総会・電磁決議を解禁",
+      "unit": "",
+      "oldValue": "これまで: 公民館等での対面総会が原則で、書面委任状集めに多大な労力",
+      "description": "地方自治法改正により、オンライン総会やスマホでの電磁的議決を公認",
+      "badge": "オンライン総会・電磁決議を解禁",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "回覧板・お知らせの共有",
+      "labelStandard": "回覧板・お知らせの共有",
+      "value": "紙の回覧板からアプリ配信へ",
+      "unit": "",
+      "oldValue": "これまで: 紙の回覧板を順番に手渡し（不在や雨で遅延、ポスト投函の手間）",
+      "description": "LINE公式アカウントや地域ポータルアプリで一斉配信・アンケート",
+      "badge": "紙の回覧板からアプリ配信へ",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "町内会費の集金方法",
+      "labelStandard": "町内会費の集金方法",
+      "value": "会費集金のキャッシュレス化",
+      "unit": "",
+      "oldValue": "これまで: 役員が休日に一軒一軒訪問して現金を徴収し領収書発行",
+      "description": "口座振替やPayPay等のQR決済・クレジット決済導入を自治体が補助",
+      "badge": "会費集金のキャッシュレス化",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "CreditCard"
+    },
+    {
+      "labelSimple": "加入とゴミステーション利用",
+      "labelStandard": "加入とゴミステーション利用",
+      "value": "任意加入とゴミ利用ルールの整理",
+      "unit": "",
+      "oldValue": "これまで: 非加入者に対するゴミ集積所の利用拒否トラブルや裁判が頻発",
+      "description": "ゴミ収集は行政の責務であることを明確化し、加入の任意性と合意形成を促進",
+      "badge": "任意加入とゴミ利用ルールの整理",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

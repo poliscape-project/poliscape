@@ -185,5 +185,81 @@
       "text": "ふん尿バイオガス発電",
       "color": "bg-indigo-50 text-indigo-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "牛のゲップが占める割合",
+      "labelStandard": "農業メタン排出シェア",
+      "value": "約 28",
+      "unit": "%",
+      "oldValue": "日本の農業由来温室効果ガスの最大排出源",
+      "descriptionSimple": "牛のゲップが地球を温める大きな原因に！",
+      "descriptionStandard": "牛の消化管発酵で生じるメタン（CO2の約28倍）",
+      "badge": "最大排出源",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "ゲップのガスをへらす効果",
+      "labelStandard": "飼料添加による削減効果",
+      "value": "20〜30",
+      "unit": "%削減",
+      "oldValue": "通常飼料ではメタン削減は困難だった",
+      "descriptionSimple": "特別な油や海藻を混ぜるとゲップのガスが減る！",
+      "descriptionStandard": "カシューナッツ殻油や海藻成分で胃内発酵を制御",
+      "badge": "ゲップ抑制",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Leaf"
+    },
+    {
+      "labelSimple": "メタンガスの強さ",
+      "labelStandard": "メタンの地球温暖化係数",
+      "value": "約 28",
+      "unit": "倍（対CO2）",
+      "oldValue": "20年間スケールでは80倍以上の強さ",
+      "descriptionSimple": "二酸化炭素よりもずっと地球を温める力が強い！",
+      "descriptionStandard": "国際的に早急な排出削減が求められる重要ガス",
+      "badge": "強温室効果",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "牛のウンチで電気を作る",
+      "labelStandard": "家畜ふん尿バイオガス発電",
+      "value": "電気・熱",
+      "unit": "を地域自給",
+      "oldValue": "堆肥化での悪臭や水質汚濁が地域課題に",
+      "descriptionSimple": "においを消しながら町の電気やお湯を作る！",
+      "descriptionStandard": "FIT/FIP活用で地域循環型再生エネルギーを創出",
+      "badge": "ふん尿発電",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Zap"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "環境農政の研究員",
+        "commentSimple": "「牛のゲップは地球を温める大きな原因。エサを少し工夫するだけでゲップのガスを減らせるのは素晴らしい技術」",
+        "commentStandard": "「牛の胃内発酵メタンはCO2の28倍の温室効果がある。飼料添加で20〜30%削減できれば世界に誇る環境畜産になる」"
+      },
+      {
+        "speaker": "バイオガス発電を運営する酪農家",
+        "commentSimple": "「牛のウンチから電気を作れるようになり、クサイにおいも消えて町の人たちにも喜ばれている」",
+        "commentStandard": "「ふん尿の悪臭が消え、地域の電気と真冬の暖房熱を自給できる。地域に愛される循環型酪農に生まれ変わった」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "肉牛・酪農の経営者",
+        "commentSimple": "「エサ代が高くて苦しいのに、地球のためにさらに高いエサを買えと言われても払えない」",
+        "commentStandard": "「エサ代高騰で赤字に苦しむ農家に、環境配慮の添加物コストまで自己負担させるのは酷だ。十分な公費支援がなければ導入できない」"
+      },
+      {
+        "speaker": "スーパーの精肉バイヤー",
+        "commentSimple": "「地球にやさしいお肉でも、値段が高ければお客さんは買ってくれないのが今のスーパーの現実」",
+        "commentStandard": "「物価高で家計が防衛的な中、環境配慮を理由に100g数十円高い牛肉を買う消費者はごく一部。農家の投資回収が難しい」"
+      }
+    ]
+  }
 }

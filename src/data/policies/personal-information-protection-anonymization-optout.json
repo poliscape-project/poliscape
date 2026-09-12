@@ -159,5 +159,51 @@
       "text": "仮名加工情報の産業活用",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "ネットの足跡追跡",
+      "labelStandard": "Cookie同意バナーの義務化",
+      "value": "事前同意",
+      "unit": "（オプトイン）原則",
+      "oldValue": "これまで 無断で行動履歴を追跡・広告に利用",
+      "description": "ターゲティング広告の第三者提供には同意が必須",
+      "badge": "Cookie規制",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Globe"
+    },
+    {
+      "labelSimple": "ビッグデータの活用",
+      "labelStandard": "仮名加工情報の産業活用",
+      "value": "医療・AI",
+      "unit": "への安全なデータ連携",
+      "oldValue": "これまで 個人特定リスクでデータ活用が停滞",
+      "description": "氏名を安全に削除した加工データでイノベーション",
+      "badge": "データ利活用",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "情報漏洩へのペナルティ",
+      "labelStandard": "漏洩企業への課徴金検討",
+      "value": "売上連動",
+      "unit": "の課徴金導入議論",
+      "oldValue": "これまで 是正命令にとどまり抑止力不足",
+      "description": "大規模漏洩事故に対する巨額ペナルティで対策促す",
+      "badge": "漏洩抑止",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "自分のデータの削除",
+      "labelStandard": "利用停止・消去の簡単請求",
+      "value": "ワンクリック",
+      "unit": "でデータ削除請求",
+      "oldValue": "これまで 郵送申請や手数料で請求困難",
+      "description": "ウェブ上で簡単に利用停止や削除を求められる権利",
+      "badge": "権利強化",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "UserCheck"
+    }
   ]
 }

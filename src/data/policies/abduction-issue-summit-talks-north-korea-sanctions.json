@@ -139,5 +139,51 @@
       "text": "無条件首脳会談模索",
       "color": "bg-amber-50 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "被害者の救出",
+      "labelStandard": "日本政府の基本目標",
+      "value": "即時一括",
+      "unit": "全員帰国",
+      "oldValue": "これまで 5名のみ帰国（2002年）",
+      "description": "横田めぐみさんら全被害者の奪還が最重要課題",
+      "badge": "最重要課題",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "UserCheck"
+    },
+    {
+      "labelSimple": "日本独自の制裁",
+      "labelStandard": "対北朝鮮独自制裁の内容",
+      "value": "全面禁止",
+      "unit": "2年ごと延長",
+      "oldValue": "これまで 一部貿易許可の時期も",
+      "description": "輸出入の全面禁止と北朝鮮船の入港完全禁止",
+      "badge": "独自制裁",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Ban"
+    },
+    {
+      "labelSimple": "首脳会談の提案",
+      "labelStandard": "日朝トップ対話の方針",
+      "value": "前提条件なし",
+      "unit": "会談呼びかけ",
+      "oldValue": "これまで 進展を首脳会談の前提条件に",
+      "description": "金正恩総書記との無条件直接会談を模索",
+      "badge": "外交模索",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "家族の残された時間",
+      "labelStandard": "被害者家族の親世代現状",
+      "value": "親世代",
+      "unit": "残りわずか",
+      "oldValue": "これまで 横田滋さんら相次ぎ逝去",
+      "description": "再会を果たせないまま亡くなる悲劇の阻止へ",
+      "badge": "時間との闘い",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
   ]
 }

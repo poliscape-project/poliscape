@@ -159,5 +159,51 @@
       "text": "倒壊ゼロ・景観向上",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "緊急道路の電柱",
+      "labelStandard": "緊急輸送道路の新設電柱",
+      "value": "原則禁止",
+      "unit": "を法令で規定",
+      "oldValue": "これまで 地震・台風で電柱倒壊し救助活動が寸断",
+      "description": "災害時の救急搬送・支援ルートの通行を死守",
+      "badge": "新設禁止",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "工事コストの削減",
+      "labelStandard": "低コスト埋設手法の採用",
+      "value": "3〜5割",
+      "unit": "の工事費縮減へ",
+      "oldValue": "これまで 1kmあたり数億円の巨額費用が壁",
+      "description": "浅層埋設や小型ボックス活用で整備ピッチを加速",
+      "badge": "コスト削減",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "街の見た目と歩きやすさ",
+      "labelStandard": "景観美化とバリアフリー歩道",
+      "value": "歩道拡幅",
+      "unit": "でベビーカーも安心",
+      "oldValue": "これまで 狭い歩道に電柱が立ち並び通行を妨害",
+      "description": "電線がなくなり空が開け、歩行者の安全を確保",
+      "badge": "景観・安全",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "電柱の全体数",
+      "labelStandard": "全国の電柱の純減化",
+      "value": "純減ペース",
+      "unit": "への転換を目指す",
+      "oldValue": "これまで 年間数万本ずつ全国で新設増が続く",
+      "description": "電力・通信事業者との連携で電柱総数を減少へ",
+      "badge": "電柱純減",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Zap"
+    }
   ]
 }

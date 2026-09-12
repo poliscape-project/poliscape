@@ -139,5 +139,51 @@
       "text": "加盟店負担軽減へ",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "隠されていた手数料の公開",
+      "labelStandard": "インターチェンジフィー公開",
+      "value": "標準料率",
+      "unit": "（約1%〜2%）を公表",
+      "oldValue": "これまで 完全非公開のブラックボックス",
+      "description": "国際ブランドが業種別標準料率を開示",
+      "badge": "料率の透明化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "FileText"
+    },
+    {
+      "labelSimple": "お店が払う決済手数料",
+      "labelStandard": "加盟店手数料の引き下げ",
+      "value": "低下",
+      "unit": "へ交渉力向上",
+      "oldValue": "これまで 売上の3%〜5%が手数料負担",
+      "description": "中小店舗の手数料負担を抑えて利益改善",
+      "badge": "店舗負担軽減",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "小さなお店でのカード利用",
+      "labelStandard": "キャッシュレス導入促進",
+      "value": "拡大",
+      "unit": "（個人店・飲食店の導入加速）",
+      "oldValue": "手数料が高すぎて現金のみ営業が多数",
+      "description": "どこでもカードやスマホで払える社会へ",
+      "badge": "キャッシュレス推進",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "CreditCard"
+    },
+    {
+      "labelSimple": "私たちの買い物ポイント",
+      "labelStandard": "カード還元率への影響",
+      "value": "見直し",
+      "unit": "・ポイント改悪の懸念",
+      "oldValue": "1%〜1.5%の高還元サービス",
+      "description": "カード会社の収益減で還元縮小の恐れ",
+      "badge": "ポイント影響",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Coins"
+    }
   ]
 }

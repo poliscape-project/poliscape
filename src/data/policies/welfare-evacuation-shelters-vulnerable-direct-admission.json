@@ -179,5 +179,51 @@
       "text": "受入費用の全額公費負担・職員派遣",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "福祉避難所への避難ルート",
+      "labelStandard": "福祉避難所への避難ルート",
+      "value": "一般避難所を経由しない直接避難",
+      "unit": "",
+      "oldValue": "これまで: 一般避難所に一度避難し、保健師等の判定を受けてから福祉避難所へ移送",
+      "description": "平時に指定された要配慮者とその家族が、発災直後から直接福祉避難所へ避難可能に",
+      "badge": "一般避難所を経由しない直接避難",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "CornerDownRight"
+    },
+    {
+      "labelSimple": "個別避難計画の作成義務",
+      "labelStandard": "個別避難計画の作成義務",
+      "value": "個別避難計画と施設事前マッチング",
+      "unit": "",
+      "oldValue": "これまで: 自治体の努力義務にとどまり作成率が低迷",
+      "description": "ケアマネジャーや福祉専門職と連携した個別避難計画の作成と事前施設マッチングを推進",
+      "badge": "個別避難計画と施設事前マッチング",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "受入介護施設への公費支援",
+      "labelStandard": "受入介護施設への公費支援",
+      "value": "受入費用の全額公費負担・職員派遣",
+      "unit": "",
+      "oldValue": "これまで: 施設側の持ち出しが多く、人手不足を理由に受入を拒否する施設が多発",
+      "description": "災害救助法に基づく受入日当・人件費の国庫負担基準を拡充し応援スタッフを迅速派遣",
+      "badge": "受入費用の全額公費負担・職員派遣",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "一般住民の殺到防止（受入対象の限定）",
+      "labelStandard": "一般住民の殺到防止（受入対象の限定）",
+      "value": "対象者を限定した非公表・直接受入",
+      "unit": "",
+      "oldValue": "これまで: 避難所名が公表されると一般住民が押し寄せて福祉機能がパンク",
+      "description": "あらかじめ指定・通知された要配慮者本人と家族のみを受け入れる「限定公開型」を制度化",
+      "badge": "対象者を限定した非公表・直接受入",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Sparkles"
+    }
   ]
 }

@@ -140,5 +140,51 @@
       "text": "宿泊収益で城郭修繕",
       "color": "bg-emerald-50 text-emerald-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "お城に泊まる値段",
+      "labelStandard": "天守貸切の宿泊単価",
+      "value": "1泊100万",
+      "unit": "円超（殿様体験）",
+      "oldValue": "これまで 歴史的史跡での宿泊禁止",
+      "description": "大洲城や平戸城で木造天守を一晩まるごと貸切",
+      "badge": "城泊特区",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Hotel"
+    },
+    {
+      "labelSimple": "法律の許可",
+      "labelStandard": "旅館業法・消防法の特例",
+      "value": "特例公認",
+      "unit": "可逆設備条件",
+      "oldValue": "これまで スプリンクラー設置基準不可",
+      "description": "建物を傷つけず夜間監視をつける条件で宿泊解禁",
+      "badge": "規制改革",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "お金の使い道",
+      "labelStandard": "宿泊収益の使途",
+      "value": "城郭修繕",
+      "unit": "基金へ直結",
+      "oldValue": "これまで 全額自治体税金で石垣修理",
+      "description": "お金持ちからの宿泊代でお城の石垣や屋根を修理",
+      "badge": "自立財源化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "一番の危険",
+      "labelStandard": "火災・文化財損傷リスク",
+      "value": "火災リスク",
+      "unit": "尊厳の毀損",
+      "oldValue": "これまで 住民の誇り・神聖な場所",
+      "description": "万一の出火で全焼する恐れや俗悪化への住民反発",
+      "badge": "安全管理課題",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
   ]
 }

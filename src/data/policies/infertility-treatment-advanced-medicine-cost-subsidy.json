@@ -165,5 +165,51 @@
       "text": "子ごとに回数リセット可能",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "体外受精・顕微授精の窓口負担",
+      "labelStandard": "体外受精・顕微授精の窓口負担",
+      "value": "3割負担＋高額療養費が適用",
+      "unit": "",
+      "oldValue": "これまで: 全額自己負担（自由診療）で1回あたり40万〜100万円超",
+      "description": "原則3割負担＋高額療養費制度適用（一般的な所得なら月額数万〜十数万円上限）",
+      "badge": "3割負担＋高額療養費が適用",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "先進医療（併用検査等）への助成",
+      "labelStandard": "先進医療（併用検査等）への助成",
+      "value": "先進医療の自己負担を最大全額助成",
+      "unit": "",
+      "oldValue": "これまで: 先進医療を併用すると全額自費負担が上乗せ（1回5万〜30万円超）",
+      "description": "国と自治体が連携し、先進医療費の7〜10割を助成金で補填",
+      "badge": "先進医療の自己負担を最大全額助成",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "保険適用の回数・年齢要件",
+      "labelStandard": "保険適用の回数・年齢要件",
+      "value": "子ごとに回数リセット可能",
+      "unit": "",
+      "oldValue": "これまで: 助成金時代は妻の年齢43歳未満・通算最大6回まで（40歳未満）",
+      "description": "治療開始時の妻の年齢43歳未満、子ども1人につき最大6回（40歳未満）等",
+      "badge": "子ごとに回数リセット可能",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Calendar"
+    },
+    {
+      "labelSimple": "職場での不妊治療休暇",
+      "labelStandard": "職場での不妊治療休暇",
+      "value": "不妊治療休暇の導入企業へ助成",
+      "unit": "",
+      "oldValue": "これまで: 通院日程が直前に決まるため年休を使い果たし離職する女性が多発",
+      "description": "不妊治療休暇の創設企業への「両立支援等助成金」支給と周知",
+      "badge": "不妊治療休暇の導入企業へ助成",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Briefcase"
+    }
   ]
 }

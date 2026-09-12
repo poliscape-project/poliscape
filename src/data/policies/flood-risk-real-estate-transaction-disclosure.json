@@ -159,5 +159,51 @@
       "text": "購入・賃貸前のリスク把握",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "お家を借りる・買うとき",
+      "labelStandard": "水害ハザードマップ重要事項説明",
+      "value": "契約前説明",
+      "unit": "を宅建法で義務化",
+      "oldValue": "これまで 水害リスクを知らずに契約し被災",
+      "description": "洪水・内水・高潮の各マップを提示して事前説明",
+      "badge": "重説義務化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "浸水する深さの確認",
+      "labelStandard": "浸水想定区域と水深の明示",
+      "value": "物件所在地",
+      "unit": "の浸水深を明示",
+      "oldValue": "これまで 「安全だと思っていた」と後悔する住民多数",
+      "description": "どの程度の深さまで水没する可能性があるかを明示",
+      "badge": "浸水深明示",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "MapPin"
+    },
+    {
+      "labelSimple": "住まい選びの安全意識",
+      "labelStandard": "防災を意識した立地選択",
+      "value": "安全性重視",
+      "unit": "の住まい選びへ",
+      "oldValue": "これまで 駅近や価格だけを重視しリスク軽視",
+      "description": "水害リスクを納得した上での安心な取引を促進",
+      "badge": "立地適正化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "最新のハザードマップ",
+      "labelStandard": "想定最大規模降雨の図面",
+      "value": "1000年確率",
+      "unit": "の最新図面を使用",
+      "oldValue": "これまで 過去の小さな降雨基準の古い図面を使用",
+      "description": "想定しうる最大規模の降雨に基づく最新マップを活用",
+      "badge": "最新マップ",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "AlertTriangle"
+    }
   ]
 }

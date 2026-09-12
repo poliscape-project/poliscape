@@ -155,5 +155,55 @@
       "text": "口座・SIMの即時凍結",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "治安最優先",
+      "labelStandard": "トクリュウ関係者の摘発数",
+      "value": "年間1万",
+      "unit": "人規模",
+      "oldValue": "指定暴力団の構成員が中心だった",
+      "descriptionSimple": "匿名・流動型犯罪グループの台頭と摘発",
+      "descriptionStandard": "匿名・流動型犯罪グループの台頭と摘発",
+      "badge": "治安最優先",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "AI自動検知",
+      "labelStandard": "闇バイト募集のAI検知",
+      "value": "24時間",
+      "unit": "自動パトロール",
+      "oldValue": "市民からの通報後に手動で削除要請",
+      "descriptionSimple": "「高額報酬」「ホワイト案件」を検知し警告DM",
+      "descriptionStandard": "「高額報酬」「ホワイト案件」を検知し警告DM",
+      "badge": "AI自動検知",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "即時口座凍結",
+      "labelStandard": "不正利用口座・SIM凍結",
+      "value": "即時停止",
+      "unit": "へ連携",
+      "oldValue": "銀行・通信会社への照会に数週間",
+      "descriptionSimple": "犯罪インフラを24時間以内に強制遮断",
+      "descriptionStandard": "犯罪インフラを24時間以内に強制遮断",
+      "badge": "即時口座凍結",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "若者緊急保護",
+      "labelStandard": "警察相談窓口の保護体制",
+      "value": "「#9110」",
+      "unit": "で通報保護",
+      "oldValue": "「脅されて抜け出せない」若者の孤立",
+      "descriptionSimple": "応募して個人情報を握られた若者の緊急保護",
+      "descriptionStandard": "応募して個人情報を握られた若者の緊急保護",
+      "badge": "若者緊急保護",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "HeartHandshake"
+    }
   ]
 }

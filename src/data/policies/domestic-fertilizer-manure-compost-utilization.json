@@ -171,5 +171,51 @@
       "text": "国内堆肥・ペレット利用への直接交付金支援",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "化学肥料原料の輸入依存度目標",
+      "labelStandard": "化学肥料原料の輸入依存度目標",
+      "value": "輸入肥料原料の2割低減目標の設定",
+      "unit": "",
+      "oldValue": "これまで: リン・カリウムのほぼ100%を特定国からの輸入に依存し供給途絶に無防備",
+      "description": "2030年までに輸入原料使用割合を2割低減し国内資源利用割合を倍増",
+      "badge": "輸入肥料原料の2割低減目標の設定",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "下水汚泥からのリン回収・肥料化",
+      "labelStandard": "下水汚泥からのリン回収・肥料化",
+      "value": "下水処理場リン回収設備整備への国費重点投資",
+      "unit": "",
+      "oldValue": "これまで: 多くが産業廃棄物として焼却・埋め立て処分され貴重なリンが廃棄されていた",
+      "description": "下水処理場へのリン抽出プラント整備を公費補助し公認肥料として流通拡大",
+      "badge": "下水処理場リン回収設備整備への国費重点投資",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "国内堆肥利用農家への助成",
+      "labelStandard": "国内堆肥利用農家への助成",
+      "value": "国内堆肥・ペレット利用への直接交付金支援",
+      "unit": "",
+      "oldValue": "これまで: 化学肥料に比べ散布手間がかかり重いため農家が利用を敬遠",
+      "description": "堆肥ペレット散布機の導入補助や国内肥料使用への環境交付金支給",
+      "badge": "国内堆肥・ペレット利用への直接交付金支援",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "肥料公定規格と安全性基準",
+      "labelStandard": "肥料公定規格と安全性基準",
+      "value": "安全安心を担保する新肥料公定規格の策定",
+      "unit": "",
+      "oldValue": "これまで: 「汚泥」という名称に対する風評被害やカドミウム・水銀汚染への不安",
+      "description": "重金属基準を厳格化した「菌体肥料」「汚泥発酵肥料」規格の整備と情報開示",
+      "badge": "安全安心を担保する新肥料公定規格の策定",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

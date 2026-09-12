@@ -171,5 +171,81 @@
       "text": "3人扶養で全員対象",
       "color": "bg-amber-100 text-amber-900"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "免除されるお金",
+      "labelStandard": "授業料の減免上限",
+      "value": "約 70",
+      "unit": "万円/年",
+      "oldValue": "私立大は約70万、国公立は約54万円",
+      "descriptionSimple": "大学の授業料が無料に！",
+      "descriptionStandard": "国が定める上限まで免除",
+      "badge": "私立年70万円",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "GraduationCap"
+    },
+    {
+      "labelSimple": "対象になる条件",
+      "labelStandard": "対象世帯",
+      "value": "3人",
+      "unit": "扶養",
+      "oldValue": "子ども3人以上を同時に扶養",
+      "descriptionSimple": "3人以上育てている家庭",
+      "descriptionStandard": "多子世帯の全兄弟が対象",
+      "badge": "多子世帯限定",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "親のきゅうりょう制限",
+      "labelStandard": "所得制限",
+      "value": "なし",
+      "unit": "（撤廃）",
+      "oldValue": "これまで年収約380万円未満のみ",
+      "descriptionSimple": "年収に関係なく使える！",
+      "descriptionStandard": "どの年収層でも利用可能",
+      "badge": "完全撤廃",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "いつから始まる？",
+      "labelStandard": "制度の開始時期",
+      "value": "2025",
+      "unit": "年4月〜",
+      "oldValue": "令和7年度から正式スタート",
+      "descriptionSimple": "在学生も新入生も対象！",
+      "descriptionStandard": "2025年度春学期から適用",
+      "badge": "令和7年度〜",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Clock"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "高校生と中学生の3児の親",
+        "commentSimple": "「子ども3人分の大学の学費は無理だと絶望してたから、本当に助かる！」",
+        "commentStandard": "「私立大学で年間70万円の免除は本当に大きい。3人全員の進学を諦めずに済む」"
+      },
+      {
+        "speaker": "共働き中間層世帯",
+        "commentSimple": "「親の給料に関係なく、だれでも学費が安くなるのはうれしい」",
+        "commentStandard": "「所得制限でこれまで支援対象外だった中間層・共働き家庭も救われる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "長男が大学4年生の家庭",
+        "commentSimple": "「一番上の子が就職したら、下の兄弟は急に学費を払わなきゃいけないの？」",
+        "commentStandard": "「長男が卒業して扶養を外れると、下の子たちが突然無償化から外れる『崖』が怖い」"
+      },
+      {
+        "speaker": "子どもが1人・2人の家庭",
+        "commentSimple": "「子どもが1人や2人の家には何もないのに、3人の家だけ全額免除はずるい…」",
+        "commentStandard": "「様々な事情で2人しか持てない世帯との格差が開きすぎて不公平に感じる」"
+      }
+    ]
+  }
 }

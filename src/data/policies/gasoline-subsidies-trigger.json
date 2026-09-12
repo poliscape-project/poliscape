@@ -171,5 +171,81 @@
       "text": "トリガー条項凍結継続",
       "color": "bg-rose-50 text-rose-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "補助金による値引き",
+      "labelStandard": "店頭価格抑制幅",
+      "value": "約10〜15",
+      "unit": "円/L抑制",
+      "oldValue": "全国平均175円/Lを目安に激変緩和",
+      "descriptionSimple": "ガソリンスタンドの急激な値上がりを抑制",
+      "descriptionStandard": "元売りへの補助金で給油所販売価格を抑制中",
+      "badge": "価格抑制",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "使われた税金の総額",
+      "labelStandard": "国費投入累計額",
+      "value": "約6兆",
+      "unit": "円以上",
+      "oldValue": "予備費等を充当して延長を継続",
+      "descriptionSimple": "国の予備費などから巨額の税金が使われた",
+      "descriptionStandard": "財政再建や脱炭素の観点から賛否が分かれる規模",
+      "badge": "巨額財源",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "ガソリンにかかる旧暫定税率",
+      "labelStandard": "当分の間税率（暫定分）",
+      "value": "25.1",
+      "unit": "円/L",
+      "oldValue": "本則税率28.7円＋暫定分25.1円",
+      "descriptionSimple": "ガソリンには税金にさらに消費税がかかる",
+      "descriptionStandard": "旧暫定税率が維持され二重課税との批判も根強い",
+      "badge": "暫定税率",
+      "badgeColor": "bg-slate-100 text-slate-700",
+      "icon": "Calculator"
+    },
+    {
+      "labelSimple": "トリガー条項の発動基準",
+      "labelStandard": "トリガー条項基準価格",
+      "value": "160",
+      "unit": "円/L（3ヶ月）",
+      "oldValue": "震災復興財源法により凍結中",
+      "descriptionSimple": "法律では160円超で減税されるはずが凍結中",
+      "descriptionStandard": "凍結解除なら25.1円即減税だが流通混乱懸念で維持",
+      "badge": "凍結継続",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "地方在住の車通勤者・ドライバー",
+        "commentSimple": "「車がないとスーパーにも病院にも行けないから、ガソリンが200円を超えないのは本当に助かる！」",
+        "commentStandard": "「地方の車社会にとってガソリンは生活インフラそのものであり、店頭価格抑制は死活問題として歓迎」"
+      },
+      {
+        "speaker": "ガソリンスタンド経営者",
+        "commentSimple": "「補助金のおかげで急な値上げによる客離れや仕入れ値の急激な乱高下を防げて営業が安定する」",
+        "commentStandard": "「トリガー解除だと買い控えや現場の価格改定オペレーションが混乱するため元売り補助が現実的」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "財政規律・環境重視の有識者",
+        "commentSimple": "「何兆円もの税金を使ってガソリンを安くし続けるのは、国の借金も増えるし環境にも逆行する」",
+        "commentStandard": "「累計6兆円以上の巨額国費を化石燃料の消費維持に投じるのは脱炭素方針とも矛盾し財政がもたない」"
+      },
+      {
+        "speaker": "消費者団体・野党側",
+        "commentSimple": "「元売り会社に税金を配るより、ガソリン税の余計な上乗せ（暫定税率25円）を直接安くしてほしい！」",
+        "commentStandard": "「税金にさらに消費税をかける二重課税と当分の間税率（25.1円）をトリガー条項で即時撤廃すべき」"
+      }
+    ]
+  }
 }

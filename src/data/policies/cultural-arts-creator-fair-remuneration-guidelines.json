@@ -140,5 +140,51 @@
       "text": "フリーランス新法連携",
       "color": "bg-blue-50 text-blue-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "クリエイターの年収",
+      "labelStandard": "文化芸術関係者の年収実態",
+      "value": "約半数",
+      "unit": "年収300万円未満",
+      "oldValue": "これまで やりがい搾取と低賃金",
+      "description": "アニメやイラストの若手クリエイターが困窮",
+      "badge": "実態改善へ",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "契約書のルール",
+      "labelStandard": "発注時の書面交付義務",
+      "value": "100%",
+      "unit": "書面化義務",
+      "oldValue": "これまで 口頭やDMでの曖昧発注",
+      "description": "報酬額や修正回数・期日を書面で出すよう法律で義務化",
+      "badge": "フリーランス法",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "作品の権利",
+      "labelStandard": "著作権の買い叩き禁止",
+      "value": "権利強奪NG",
+      "unit": "二次利用対価",
+      "oldValue": "これまで 著作権をタダで全譲渡強要",
+      "description": "大ヒット時のグッズ化・海外配信ロイヤリティ還元",
+      "badge": "著作権保護",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "違反した会社",
+      "labelStandard": "違反企業へのペナルティ",
+      "value": "社名公表",
+      "unit": "公取委是正命令",
+      "oldValue": "これまで 泣き寝入りが多数",
+      "description": "買い叩きや無償修正を強要した悪質企業を公表",
+      "badge": "行政指導",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "ShieldAlert"
+    }
   ]
 }

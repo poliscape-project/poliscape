@@ -185,5 +185,81 @@
       "text": "子実用トウモロコシ国産化",
       "color": "bg-emerald-50 text-emerald-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "外国からのエサ頼み",
+      "labelStandard": "濃厚飼料の輸入依存度",
+      "value": "約 75",
+      "unit": "%",
+      "oldValue": "トウモロコシのほぼ全量を北米等から輸入",
+      "descriptionSimple": "船が止まれば日本の家畜がごはんを食べられない！",
+      "descriptionStandard": "地政学リスク・円安に直結する日本の食の急所",
+      "badge": "輸入依存",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "日本で作るエサの目標",
+      "labelStandard": "2030年 飼料自給率目標",
+      "value": "34",
+      "unit": "%（現状25%）",
+      "oldValue": "濃厚飼料の自給率はわずか約13%",
+      "descriptionSimple": "田んぼを活用して自分たちでエサを作る！",
+      "descriptionStandard": "子実用トウモロコシ等の国産化で自給率引き上げ",
+      "badge": "国産化目標",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Trees"
+    },
+    {
+      "labelSimple": "エサ代のねだん",
+      "labelStandard": "配合飼料価格水準",
+      "value": "過去最高",
+      "unit": "水準",
+      "oldValue": "2020年比で約1.5倍に急騰",
+      "descriptionSimple": "保険の基金が足りなくなるほど高騰が長期化",
+      "descriptionStandard": "通常補てん・異常補てんの発動が相次ぎ財源危機",
+      "badge": "基金枯渇危機",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "田んぼで作るトウモロコシ",
+      "labelStandard": "子実用トウモロコシ支援",
+      "value": "重点",
+      "unit": "助成対象",
+      "oldValue": "お米の減反は「飼料用米」中心だった",
+      "descriptionSimple": "牛やニワトリが大好きな粒トウモロコシを田んぼで作る！",
+      "descriptionStandard": "水田転作の新たな柱として機械収穫・助成を強化",
+      "badge": "水田転作",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Leaf"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "飼料用トウモロコシを作る米農家",
+        "commentSimple": "「田んぼで牛のエサを作って、牛のウンチの良い肥料をもらうことで、お互いに助け合えるようになった」",
+        "commentStandard": "「余った田んぼで子実用トウモロコシを作り、地域の畜産農家に届けて堆肥を還元する理想の耕畜連携ができた」"
+      },
+      {
+        "speaker": "食料安全保障のアナリスト",
+        "commentSimple": "「外国からエサが届かなくなったらお肉も卵も消えてしまう。日本の中でエサを作る仕組みが絶対に必要」",
+        "commentStandard": "「濃厚飼料の75%を輸入に頼る畜産は砂上の楼閣。水田を活用した飼料自給率の向上こそが国家防衛の基本だ」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "配合飼料メーカーの役員",
+        "commentSimple": "「外国の安いエサに比べて日本で作るとお金がかかる。トウモロコシを乾燥させる大きな工場も足りない」",
+        "commentStandard": "「輸入飼料との価格差が大きく、乾燥調製施設や専用コンバインの不足もあり、多額の補助金なしでは採算が合わない」"
+      },
+      {
+        "speaker": "中規模の養豚農家",
+        "commentSimple": "「ピンチのときにお金をもらえても、あとで毎月払う保険料が高くなってしまい、やりくりが苦しい」",
+        "commentStandard": "「基金から補てん金が出ても、次年度以降の積立金引き上げで農家負担が増え、赤字経営の資金繰りが一向に楽にならない」"
+      }
+    ]
+  }
 }

@@ -139,5 +139,51 @@
       "text": "買いたたき即時是正",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "報酬が振り込まれる期限",
+      "labelStandard": "法定支払期日（60日ルール）",
+      "value": "60",
+      "unit": "日以内（納品日から厳守）",
+      "oldValue": "これまで 数ヶ月後の支払いや未払いが多発",
+      "description": "資金繰りの悪化や買い叩きを未然に防止",
+      "badge": "60日以内入金",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "仕事内容とお金の約束",
+      "labelStandard": "取引条件の書面等明示義務",
+      "value": "書面",
+      "unit": "またはメール等の即時交付義務",
+      "oldValue": "これまで 口約束やチャットのみの曖昧発注",
+      "description": "言った言わないのトラブルを国家が防止",
+      "badge": "契約書面交付義務",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "FileText"
+    },
+    {
+      "labelSimple": "悪い会社へのペナルティ",
+      "labelStandard": "違反企業への行政処分・罰則",
+      "value": "最高50万",
+      "unit": "円の罰金・社名公表",
+      "oldValue": "法的根拠がなく口頭注意にとどまる",
+      "description": "公取委・厚労省が立ち入り検査・是正命令",
+      "badge": "罰則付き取締り",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "法律がスタートした日",
+      "labelStandard": "フリーランス新法の全面施行日",
+      "value": "2024",
+      "unit": "年11月1日より全面施行",
+      "oldValue": "労働基準法の保護対象外で泣き寝入り",
+      "description": "全国の個人事業主を守る新法が本格稼働",
+      "badge": "新法全面施行中",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Calendar"
+    }
   ]
 }

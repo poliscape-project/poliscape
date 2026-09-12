@@ -155,5 +155,55 @@
       "text": "転職なきテレワーク移住",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "最大300万円",
+      "labelStandard": "地方移住支援金の最大額",
+      "value": "最大 300",
+      "unit": "万円",
+      "oldValue": "基本単身60万円・世帯100万円のみ",
+      "descriptionSimple": "子ども2人以上の家族が地方移住した場合",
+      "descriptionStandard": "子ども2人以上の家族が地方移住した場合",
+      "badge": "最大300万円",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "子育て加算拡大",
+      "labelStandard": "子育て世帯の加算額",
+      "value": "子1人 100",
+      "unit": "万円",
+      "oldValue": "子ども1人あたり30万円加算にとどまった",
+      "descriptionSimple": "少子化是正のため加算額を3倍超に増額",
+      "descriptionStandard": "少子化是正のため加算額を3倍超に増額",
+      "badge": "子育て加算拡大",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Baby"
+    },
+    {
+      "labelSimple": "リモートワーク",
+      "labelStandard": "テレワーク移住の適用",
+      "value": "転職なき移住",
+      "unit": "を満額対象化",
+      "oldValue": "地方企業への再就職や起業が必須要件",
+      "descriptionSimple": "東京の仕事を続けながら地方に暮らす支援",
+      "descriptionStandard": "東京の仕事を続けながら地方に暮らす支援",
+      "badge": "リモートワーク",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "一極集中の歪み",
+      "labelStandard": "東京都の合計特殊出生率",
+      "value": "0.99",
+      "unit": "（全国最低）",
+      "oldValue": "全国平均 1.20前後",
+      "descriptionSimple": "若年層の東京集中が日本の少子化を加速",
+      "descriptionStandard": "若年層の東京集中が日本の少子化を加速",
+      "badge": "一極集中の歪み",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "TrendingDown"
+    }
   ]
 }

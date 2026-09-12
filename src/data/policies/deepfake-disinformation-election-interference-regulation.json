@@ -139,5 +139,51 @@
       "text": "真正性証明技術",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "選挙直前の偽情報対策",
+      "labelStandard": "選挙期間のディープフェイク",
+      "value": "迅速",
+      "unit": "削除・厳罰化の推進",
+      "oldValue": "これまで 名誉毀損による事後立件のみ",
+      "description": "AI偽動画による選挙妨害と世論操作防止",
+      "badge": "選挙妨害防止",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "AIで作った証拠表示",
+      "labelStandard": "AI生成コンテンツ表示義務",
+      "value": "明示",
+      "unit": "ラベル・電子透かし",
+      "oldValue": "これまで 未表示で自由に拡散可能",
+      "description": "本物と見分けがつかない偽動画に警告",
+      "badge": "真正性証明",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "SNS会社の対応スピード",
+      "labelStandard": "プラットフォーム削除義務",
+      "value": "即応",
+      "unit": "体制の法制化検討",
+      "oldValue": "これまで 事業者の自主的規約に依存",
+      "description": "選挙管理委員会等の通知に迅速対応",
+      "badge": "迅速削除義務",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "表現の自由とのバランス",
+      "labelStandard": "言論統制・検閲の防止",
+      "value": "厳格",
+      "unit": "な基準と司法審査",
+      "oldValue": "政府による批判封殺のディストピア懸念",
+      "description": "正当な政治批判やパロディ表現を保護",
+      "badge": "表現の自由保護",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Scale"
+    }
   ]
 }

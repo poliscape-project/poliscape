@@ -140,5 +140,51 @@
       "text": "登山届義務・ヘルメット携行",
       "color": "bg-amber-50 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "火山の司令塔",
+      "labelStandard": "火山調査研究推進本部の新設",
+      "value": "火山本部",
+      "unit": "文科省に創設",
+      "oldValue": "これまで 気象庁・大学に分断",
+      "description": "地震本部と同列の専門組織を作り観測を一元化",
+      "badge": "司令塔創設",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Shield"
+    },
+    {
+      "labelSimple": "山頂のシェルター",
+      "labelStandard": "耐噴石シェルター（退避壕）整備",
+      "value": "コンクリート製",
+      "unit": "山頂付近配備",
+      "oldValue": "これまで 木造山小屋のみで倒壊",
+      "description": "時速数百キロで飛んでくる噴石の直撃に耐える避難壕",
+      "badge": "シェルター整備",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "登山者の装備",
+      "labelStandard": "ヘルメット携行と登山届提出",
+      "value": "ヘルメット",
+      "unit": "携行努力義務",
+      "oldValue": "これまで 個人の完全な自由",
+      "description": "頭部を守るヘルメット着用と登山届提出を条例義務化",
+      "badge": "ヘルメット推奨",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "山頂工事のお金",
+      "labelStandard": "山岳シェルターの建設費用",
+      "value": "数億円",
+      "unit": "ヘリ輸送費高騰",
+      "oldValue": "これまで 予算不足で整備停滞",
+      "description": "高山帯での過酷な工事費と国立公園の自然景観保護",
+      "badge": "建設・景観課題",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    }
   ]
 }

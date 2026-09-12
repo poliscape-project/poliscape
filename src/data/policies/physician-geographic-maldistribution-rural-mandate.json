@@ -155,5 +155,55 @@
       "text": "大都市開業規制と地方手当加算",
       "color": "bg-teal-50 text-teal-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "地域格差拡大",
+      "labelStandard": "東京と地方の医師格差",
+      "value": "1.5〜2",
+      "unit": "倍の偏在比率",
+      "oldValue": "大都市圏・美容医療へ若手医師が集中",
+      "descriptionSimple": "青森・岩手・新潟・埼玉などで医師不足深刻",
+      "descriptionStandard": "青森・岩手・新潟・埼玉などで医師不足深刻",
+      "badge": "地域格差拡大",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "ペナルティ厳格化",
+      "labelStandard": "医学部「地域枠」の義務",
+      "value": "地方勤務 9",
+      "unit": "年間",
+      "oldValue": "奨学金返還だけで途中で離脱する抜け道",
+      "descriptionSimple": "正当な理由なき離脱者に専門医資格を認めない制裁",
+      "descriptionStandard": "正当な理由なき離脱者に専門医資格を認めない制裁",
+      "badge": "ペナルティ厳格化",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "開業規制協議",
+      "labelStandard": "医師過剰地域での開業",
+      "value": "新規開業",
+      "unit": "要件厳格化",
+      "oldValue": "医師免許があれば全国どこでも開業自由",
+      "descriptionSimple": "夜間救急や在宅医療の引き受けを義務付け検討",
+      "descriptionStandard": "夜間救急や在宅医療の引き受けを義務付け検討",
+      "badge": "開業規制協議",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "地方手当加算",
+      "labelStandard": "地方勤務医師への優遇",
+      "value": "診療報酬手当",
+      "unit": "加算創設",
+      "oldValue": "勤務地による公的手当の差が乏しかった",
+      "descriptionSimple": "過疎地勤務を公立病院長就任の必須要件化",
+      "descriptionStandard": "過疎地勤務を公立病院長就任の必須要件化",
+      "badge": "地方手当加算",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    }
   ]
 }

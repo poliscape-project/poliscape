@@ -185,5 +185,81 @@
       "text": "産廃転用・投機への懸念",
       "color": "bg-rose-50 text-rose-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "草だらけになった畑",
+      "labelStandard": "全国の耕作放棄地面積",
+      "value": "約 40",
+      "unit": "万ha",
+      "oldValue": "高齢化と後継者難で年々拡大中",
+      "descriptionSimple": "滋賀県と同じくらいの広さの畑が放置！",
+      "descriptionStandard": "有効活用されない荒廃農地の再生が急務",
+      "badge": "滋賀県と同規模",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Trees"
+    },
+    {
+      "labelSimple": "農業をしている会社",
+      "labelStandard": "企業の農業参入数",
+      "value": "4,000",
+      "unit": "社超",
+      "oldValue": "2009年農地法改正でリース解禁",
+      "descriptionSimple": "いまは畑を「借りて」会社が参入！",
+      "descriptionStandard": "賃貸借方式で全国4,000社以上が営農中",
+      "badge": "参入急増",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "議論されているポイント",
+      "labelStandard": "解禁をめぐる焦点",
+      "value": "所有権",
+      "unit": "の取得",
+      "oldValue": "現行は「賃貸借（リース）」のみ",
+      "descriptionSimple": "会社が畑を「買い取れる」ようにするか？",
+      "descriptionStandard": "担保融資による大規模投資 vs 投機懸念",
+      "badge": "所有権解禁論",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "会社がやめたときのルール",
+      "labelStandard": "農地保全の安全弁",
+      "value": "買戻し",
+      "unit": "権の義務化",
+      "oldValue": "倒産時の転売・産廃化リスクが懸念",
+      "descriptionSimple": "やめたら畑を自治体が買い戻して守る！",
+      "descriptionStandard": "原状回復義務・自治体の先買権で乱開発抑止",
+      "badge": "安全弁措置",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "農業参入企業の責任者",
+        "commentSimple": "「土地が自分のものになれば、銀行からもお金が借りやすくなり、巨大なハイテク温室を安心して建てられる」",
+        "commentStandard": "「自社所有できれば長期担保設定が可能になり、数十億円規模の先端投資と地元での安定した正社員雇用を生み出せる」"
+      },
+      {
+        "speaker": "過疎自治体の農政担当者",
+        "commentSimple": "「誰も作らなくなって草だらけになるくらいなら、お金と技術がある会社に畑をきれいに再生してほしい」",
+        "commentStandard": "「高齢化で地域の農家だけでは農地を守り切れない。民間資本の参入で耕作放棄地を食い止める必要がある」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "地方農協の組合長・地元農家",
+        "commentSimple": "「もし会社が倒産したとき、畑がゴミ捨て場や太陽光パネルに勝手に変えられてしまうのが一番怖い」",
+        "commentStandard": "「現行の『借りる（リース）』方式で十分参入できるのに、なぜ買い取りまで認めて農地秩序を壊すのか」"
+      },
+      {
+        "speaker": "農地法・農政の法学者",
+        "commentSimple": "「会社に一度土地を売ってしまうと、あとでやめてほしくても土地を取り戻すのがとても難しくなる」",
+        "commentStandard": "「憲法の財産権があるため企業の撤退時に行政が買い戻すのは至難。外資や投機マネーの参入にも歯止めが利かない」"
+      }
+    ]
+  }
 }

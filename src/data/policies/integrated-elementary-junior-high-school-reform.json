@@ -159,5 +159,51 @@
       "text": "4・3・2制等の弾力化",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "学年の連続性",
+      "labelStandard": "教育課程の連続性",
+      "value": "9",
+      "unit": "年一貫カリキュラム",
+      "oldValue": "これまで 6・3制で進学時に分断",
+      "description": "中1ギャップの解消と弾力的学年設定",
+      "badge": "小中一貫",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "GraduationCap"
+    },
+    {
+      "labelSimple": "先生の教え方",
+      "labelStandard": "教科担任制の導入",
+      "value": "小学校高学年",
+      "unit": "から乗り入れ",
+      "oldValue": "これまで 学級担任がほぼ全教科を担当",
+      "description": "中学教員の指導で専門性と質を向上",
+      "badge": "教科担任制",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "行事や部活動",
+      "labelStandard": "学校行事・部活動の接続",
+      "value": "合同",
+      "unit": "開催・体験推進",
+      "oldValue": "これまで 中学進学で環境が急変",
+      "description": "合同部活や学校行事で不安を軽減",
+      "badge": "適応支援",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "HeartHandshake"
+    },
+    {
+      "labelSimple": "校舎の形",
+      "labelStandard": "施設一体型・少子化対応",
+      "value": "一体型",
+      "unit": "校舎の整備加速",
+      "oldValue": "これまで 小中独立・過疎で統廃合加速",
+      "description": "空き教室削減と教育環境充実を両立",
+      "badge": "施設有効活用",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Building"
+    }
   ]
 }

@@ -159,5 +159,51 @@
       "text": "担い手への大区画化",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "プロ農家への農地集約",
+      "labelStandard": "農地中間管理機構（農地バンク）",
+      "value": "80",
+      "unit": "%の集積率目標",
+      "oldValue": "これまで 小規模分散で効率的な農業が困難",
+      "description": "農地バンクが間に入り担い手へまとめて集積",
+      "badge": "集積率8割",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Briefcase"
+    },
+    {
+      "labelSimple": "草ぼうぼうの荒れた畑",
+      "labelStandard": "耕作放棄地の解消対策",
+      "value": "再生利用",
+      "unit": "へ国費補助",
+      "oldValue": "これまで 高齢化で28万haもの農地が放置",
+      "description": "抜根や土壌改良を行い優良な農地へ復元",
+      "badge": "荒廃地解消",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "持ち主が分からない土地",
+      "labelStandard": "所有者不明農地の裁定制度",
+      "value": "知事裁定",
+      "unit": "で利用権設定可能",
+      "oldValue": "これまで 相続未登記で誰にも貸せず放置",
+      "description": "手続きを簡素化し迅速に耕作希望者へ貸し出し",
+      "badge": "不明地活用",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "田んぼを大きく合体",
+      "labelStandard": "基盤整備と大区画化推進",
+      "value": "1ha超",
+      "unit": "への大区画化",
+      "oldValue": "これまで 細かいあぜ道で大型ロボット農機入らず",
+      "description": "スマート農業がフル稼働できる大区画農地を整備",
+      "badge": "大区画化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Building"
+    }
   ]
 }

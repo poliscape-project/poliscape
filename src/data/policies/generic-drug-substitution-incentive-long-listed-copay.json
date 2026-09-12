@@ -165,5 +165,51 @@
       "text": "医療上の必要性がある時は免除",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "先発医薬品の自己負担額",
+      "labelStandard": "先発医薬品の自己負担額",
+      "value": "先発薬の差額1/4が自己負担に",
+      "unit": "",
+      "oldValue": "これまで: 先発薬でも通常の保険負担割合（1〜3割）のみで差額負担なし",
+      "description": "患者希望で先発薬を選ぶ場合、後発薬最高価格との差額の1/4が自費追加（選定療養）",
+      "badge": "先発薬の差額1/4が自己負担に",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "一般名処方加算の評価",
+      "labelStandard": "一般名処方加算の評価",
+      "value": "成分名処方への評価引き上げ",
+      "unit": "",
+      "oldValue": "これまで: 商品名指定の処方が多く、薬局でのジェネリック変更に手間",
+      "description": "一般名（成分名）処方に対する医師への加算を引き上げ、薬局での代替調剤を促進",
+      "badge": "成分名処方への評価引き上げ",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "追加負担が免除される例外",
+      "labelStandard": "追加負担が免除される例外",
+      "value": "医療上の必要性がある時は免除",
+      "unit": "",
+      "oldValue": "これまで: 例外規定なし",
+      "description": "医師が医療上の必要性（アレルギー・効果差等）を認めた場合や薬局の在庫切れ時は免除",
+      "badge": "医療上の必要性がある時は免除",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "ジェネリック供給網の再編",
+      "labelStandard": "ジェネリック供給網の再編",
+      "value": "供給不安解消への業界再編",
+      "unit": "",
+      "oldValue": "これまで: 小規模メーカーが乱立し、1社の不祥事で全国的な供給停止が頻発",
+      "description": "業界再編や製造ライン集約を促し、供給不安を解消する構造改革を推進",
+      "badge": "供給不安解消への業界再編",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Building"
+    }
   ]
 }

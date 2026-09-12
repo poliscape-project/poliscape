@@ -159,5 +159,51 @@
       "text": "ミサイル攻撃・爆風防護",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "ミサイルからの避難場所",
+      "labelStandard": "地下指定避難施設の指定",
+      "value": "地下鉄駅・地下街",
+      "unit": "等を重点指定",
+      "oldValue": "これまで 地上の木造家屋やRC建物にとどまる",
+      "description": "弾道ミサイルの爆風や破片を防ぐ強固な地下空間",
+      "badge": "地下指定避難",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "地下での避難生活",
+      "labelStandard": "非常用電源・換気フィルター",
+      "value": "滞在機能強化",
+      "unit": "で数日滞在可能へ",
+      "oldValue": "これまで 一時的な一時退避のみ想定",
+      "description": "非常用発電機や物資備蓄を完備したシェルター化",
+      "badge": "滞在機能",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Shield"
+    },
+    {
+      "labelSimple": "離島の本格シェルター",
+      "labelStandard": "特定退避施設の緊急新設",
+      "value": "新設支援",
+      "unit": "（南西諸島など重点）",
+      "oldValue": "これまで 日本国内に本格シェルターがほぼゼロ",
+      "description": "堅牢なコンクリート構造の防護施設を新設整備",
+      "badge": "シェルター新設",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "Jアラート時の避難訓練",
+      "labelStandard": "避難行動の周知と実地訓練",
+      "value": "数分で避難",
+      "unit": "する行動マニュアル",
+      "oldValue": "これまで サイレンが鳴っても逃げ場所が不明",
+      "description": "最寄りの地下施設への避難誘導ルートを案内",
+      "badge": "避難訓練",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Clock"
+    }
   ]
 }

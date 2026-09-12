@@ -165,5 +165,81 @@
       "text": "不足分は調整給付金",
       "color": "bg-amber-50 text-amber-900"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "1人あたりの減税合計額",
+      "labelStandard": "定額減税（所得税＋住民税）",
+      "value": "40,000",
+      "unit": "円/人",
+      "oldValue": "所得税3万円＋住民税1万円",
+      "descriptionSimple": "家族の人数分だけ手取りが増える！",
+      "descriptionStandard": "納税者本人＋扶養家族1人につき4万円",
+      "badge": "1人4万円",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Calculator"
+    },
+    {
+      "labelSimple": "子ども・配偶者のカウント",
+      "labelStandard": "扶養親族の対象",
+      "value": "16歳未満",
+      "unit": "も含む",
+      "oldValue": "税法上の年少扶養も人数に合算",
+      "descriptionSimple": "赤ちゃんや子どもも全員対象！",
+      "descriptionStandard": "同一生計配偶者および扶養親族全員",
+      "badge": "子どもも対象",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "税金が足りない人の救済",
+      "labelStandard": "調整給付金（補足給付）",
+      "value": "1万円単位",
+      "unit": "で切り上げ",
+      "oldValue": "税額不足分は現金で振込",
+      "descriptionSimple": "引ききれない分は自治体から届く！",
+      "descriptionStandard": "減税しきれない差額を切り上げ給付",
+      "badge": "現金給付",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "税金を払っていない世帯",
+      "labelStandard": "低所得・非課税世帯措置",
+      "value": "7〜10",
+      "unit": "万円/世帯",
+      "oldValue": "減税の代わりに先行給付",
+      "descriptionSimple": "住民税非課税世帯には別途給付金！",
+      "descriptionStandard": "子ども加算（1人5万円）等の物価高給付",
+      "badge": "重点支援給付",
+      "badgeColor": "bg-slate-100 text-slate-800",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "子育て中の現役世代",
+        "commentSimple": "「家族4人で16万円の手取り増は、物価高のなか本当に助かった！」",
+        "commentStandard": "「子どもを含めて1人4万円の減税は、夏のボーナスや毎月の手取り増として実感できた」"
+      },
+      {
+        "speaker": "住宅ローン返済中の会社員",
+        "commentSimple": "「税金が引けない分も給付金でちゃんと口座に振り込まれて安心した」",
+        "commentStandard": "「住宅ローン控除で所得税がゼロだったが、調整給付金として満額支給されて公平だった」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "中小企業の給与計算・総務担当者",
+        "commentSimple": "「給与明細に書くルールが複雑すぎて、残業とシステム改修で死ぬほど大変だった…」",
+        "commentStandard": "「従業員ごとの扶養確認、月次減税と年末調整の二重処理など企業の事務負担が重すぎた」"
+      },
+      {
+        "speaker": "財政の専門家・市民",
+        "commentSimple": "「1回限りの減税に何兆円も使うなら、消費税を下げるか恒久的な支援にしてほしかった」",
+        "commentStandard": "「国債発行による一時的なバラマキに終わり、根本的な実質賃金の向上にはつながらなかった」"
+      }
+    ]
+  }
 }

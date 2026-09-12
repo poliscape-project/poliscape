@@ -139,5 +139,51 @@
       "text": "地域医療再編統合",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "病院の売上や給料の提出",
+      "labelStandard": "全医療法人の経営情報報告義務化",
+      "value": "義務",
+      "unit": "化（施設別財務データの電子報告）",
+      "oldValue": "これまで 病院の細かい台所事情は非公開",
+      "description": "損益や職種別給与を国へ年次報告させる",
+      "badge": "経営データ公開",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "FileText"
+    },
+    {
+      "labelSimple": "赤字で潰れる病院の数",
+      "labelStandard": "病院・診療所の倒産・休廃業",
+      "value": "過去最多",
+      "unit": "ペースで急増（物価高・人件費）",
+      "oldValue": "コロナ禍の補助金で維持されていた経営",
+      "description": "電気代高騰と看護師賃上げで赤字病院が続出",
+      "badge": "倒産急増の危機",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "地方の病院のまとめ直し",
+      "labelStandard": "地域医療構想・病床再編統合",
+      "value": "集約",
+      "unit": "化（拠点病院への医師・機能集中）",
+      "oldValue": "人口減少地域での小さな赤字病院の乱立",
+      "description": "共倒れを防ぎ高度な手術ができる拠点を作る",
+      "badge": "地域医療再編",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "診療報酬を決める根拠",
+      "labelStandard": "エビデンスに基づく診療報酬改定",
+      "value": "客観的",
+      "unit": "データに基づく適正配分",
+      "oldValue": "一部サンプルの抽出調査による政治改定",
+      "description": "本当に困っている救急や看護師へ重点配分",
+      "badge": "データ重視改定",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Calculator"
+    }
   ]
 }

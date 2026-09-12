@@ -159,5 +159,51 @@
       "text": "端末依存・いじめ防止",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "校内でのスマホ",
+      "labelStandard": "小中学校内の私物スマホ",
+      "value": "原則禁止",
+      "unit": "の明確化",
+      "oldValue": "これまで 各自治体や学校の判断に一任",
+      "description": "授業への集中力維持といじめ・トラブル抑止",
+      "badge": "持込禁止",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Ban"
+    },
+    {
+      "labelSimple": "緊急時の連絡",
+      "labelStandard": "災害時・登下校の見守り",
+      "value": "ロッカー保管",
+      "unit": "等で柔軟対応",
+      "oldValue": "これまで 登下校の防犯と校内利用の矛盾",
+      "description": "校内では電源OFFやロッカー保管を徹底",
+      "badge": "緊急時配慮",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "学び用端末との差",
+      "labelStandard": "GIGAスクール端末の活用",
+      "value": "1人1台PC",
+      "unit": "を学習に特化",
+      "oldValue": "これまで 私物スマホと授業用端末の混同",
+      "description": "学習用と娯楽用を厳格に分けて指導",
+      "badge": "学習特化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "子どもの健康",
+      "labelStandard": "デジタルデトックス効果",
+      "value": "睡眠・視力",
+      "unit": "の保護と改善",
+      "oldValue": "これまで 深夜利用で睡眠不足や学力低下",
+      "description": "家庭内ルール設定の啓発と健康維持",
+      "badge": "健康保護",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "HeartPulse"
+    }
   ]
 }

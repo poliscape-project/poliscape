@@ -139,5 +139,51 @@
       "text": "スマートメーター見守り",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "家で一人で亡くなる人の数",
+      "labelStandard": "年間変死者中の孤立死推計",
+      "value": "約6.8万",
+      "unit": "人（警察庁初集計・自宅死）",
+      "oldValue": "これまで 全国規模の公式統計が存在せず",
+      "description": "うち65歳以上の高齢者が約5.4万人を占める",
+      "badge": "年6.8万人孤立死",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "お年寄りの住まいを守る組織",
+      "labelStandard": "居住支援法人の業務法制化",
+      "value": "見守り",
+      "unit": "＋残置物処分をワンストップ保証",
+      "oldValue": "大家が「孤独死が怖い」と部屋を貸さない",
+      "description": "部屋の片付けまで保証してお年寄りの入居促進",
+      "badge": "居住支援拡充",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "電気や水道での見守り",
+      "labelStandard": "スマートメーターAI異変検知",
+      "value": "24時間",
+      "unit": "使用量データから自動検知",
+      "oldValue": "新聞がたまるまで何日も気づけない悲劇",
+      "description": "電気や水道が止まったら即座に安否確認",
+      "badge": "センサー見守り",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "病死は事故物件にしないルール",
+      "labelStandard": "国交省・死の告知ガイドライン",
+      "value": "不要",
+      "unit": "（病気や老衰の自然死は告知不要）",
+      "oldValue": "自然死でも事故物件扱いされ家賃下落を警戒",
+      "description": "早く発見されれば事故物件にならず大家も安心",
+      "badge": "自然死は告知不要",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "FileCheck"
+    }
   ]
 }

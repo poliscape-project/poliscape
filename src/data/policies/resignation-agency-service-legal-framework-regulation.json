@@ -133,5 +133,51 @@
       "text": "即日退職の自由",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "辞められる法律の権利",
+      "labelStandard": "民法627条の退職の自由",
+      "value": "2週間",
+      "unit": "で契約終了可能",
+      "oldValue": "ブラック企業の違法な引き止め横行",
+      "description": "労働者の退職意思を法的に伝達",
+      "badge": "退職の自由",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "法律違反になる行為",
+      "labelStandard": "弁護士法72条（非弁行為）",
+      "value": "交渉禁止",
+      "unit": "（一般民間業者）",
+      "oldValue": "無資格業者が残業代交渉しトラブル",
+      "description": "民間は伝達のみ、交渉は弁護士に限定",
+      "badge": "非弁規制",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "代行にかかる費用",
+      "labelStandard": "民間代行サービスの相場",
+      "value": "約2万〜",
+      "unit": "5万円程度",
+      "oldValue": "上司のパワハラで自力退職不能",
+      "description": "LINE等で即日相談・連絡を代行",
+      "badge": "即日対応",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "職場のトラブル",
+      "labelStandard": "引き継ぎ放棄と突然欠員",
+      "value": "モラル",
+      "unit": "ハザードの指摘",
+      "oldValue": "突然出社停止で残された同僚が過労",
+      "description": "最低限のオンライン引き継ぎ指針を策定",
+      "badge": "業務引き継ぎ",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "FileText"
+    }
   ]
 }

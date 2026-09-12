@@ -179,5 +179,51 @@
       "text": "治水とクリーン電力増発の両立",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "事前放流の対象ダムと協定",
+      "labelStandard": "事前放流の対象ダムと協定",
+      "value": "利水・発電ダムを含む全国統合放流",
+      "unit": "",
+      "oldValue": "これまで: 国土交通省直轄の治水ダムが中心で、民間電力ダムや農業用ダムは対象外が多かった",
+      "description": "一級水系を中心に全国の発電用・農業用ダムとも協定を締結し、大雨前の事前放流を一体運用",
+      "badge": "利水・発電ダムを含む全国統合放流",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "放流タイミングと気象予測技術",
+      "labelStandard": "放流タイミングと気象予測技術",
+      "value": "AI降雨予測による精密な事前放流",
+      "unit": "",
+      "oldValue": "これまで: 気象予測の不確実性が高く、放流後に雨が降らず水不足になるリスクを恐れて躊躇",
+      "description": "スーパーコンピュータ「富岳」やAIを用いた高精度アンサンブル降雨予測による動的放流判断",
+      "badge": "AI降雨予測による精密な事前放流",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "水力発電能力の増強（ハイブリッド化）",
+      "labelStandard": "水力発電能力の増強（ハイブリッド化）",
+      "value": "治水とクリーン電力増発の両立",
+      "unit": "",
+      "oldValue": "これまで: 事前放流で捨てた水は発電に使われず無駄になっていた",
+      "description": "放流後の急激な貯水を活かして高落差で発電し、揚水発電や再エネ出力制御の受け皿として活用",
+      "badge": "治水とクリーン電力増発の両立",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "既存ダムの施設改造・再生",
+      "labelStandard": "既存ダムの施設改造・再生",
+      "value": "かさ上げ・放流管増設によるダム再生",
+      "unit": "",
+      "oldValue": "これまで: 既存施設のまま運用するため放流能力に構造的限界",
+      "description": "堤体のかさ上げ、低位放流管の新設、堆砂除去による有効貯水容量の恒久的大幅拡大",
+      "badge": "かさ上げ・放流管増設によるダム再生",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Wrench"
+    }
   ]
 }

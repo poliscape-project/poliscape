@@ -155,5 +155,55 @@
       "text": "住民避難・海難救助に特化",
       "color": "bg-emerald-50 text-emerald-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "歴史的初策定",
+      "labelStandard": "自衛隊法第80条の手続き",
+      "value": "70年ぶり初",
+      "unit": "策定",
+      "oldValue": "「防衛相が海保を指揮できる」規定のみで放置",
+      "descriptionSimple": "武力攻撃事態における具体的な統制要領を完成",
+      "descriptionStandard": "武力攻撃事態における具体的な統制要領を完成",
+      "badge": "歴史的初策定",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "非戦闘・人命救助",
+      "labelStandard": "海上保安庁の有事任務",
+      "value": "住民避難",
+      "unit": "・海難救助特化",
+      "oldValue": "戦闘に巻き込まれるのか任務が曖昧だった",
+      "descriptionSimple": "直接戦闘は行わず島民の輸送と航路管制に専念",
+      "descriptionStandard": "直接戦闘は行わず島民の輸送と航路管制に専念",
+      "badge": "非戦闘・人命救助",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Ship"
+    },
+    {
+      "labelSimple": "南西諸島避難",
+      "labelStandard": "先島諸島の避難想定人数",
+      "value": "約 12万",
+      "unit": "人（島民＋観光客）",
+      "oldValue": "台湾有事における避難輸送船が不足",
+      "descriptionSimple": "海保巡視船フリートによる迅速ピストン輸送",
+      "descriptionStandard": "海保巡視船フリートによる迅速ピストン輸送",
+      "badge": "南西諸島避難",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "非軍事性の堅持",
+      "labelStandard": "海保法第25条の非軍事性",
+      "value": "軍隊化の否定",
+      "unit": "を堅持",
+      "oldValue": "「海保はいかなる軍隊としても組織されない」",
+      "descriptionSimple": "国際人道法上の文民保護と軍事目標化の懸念",
+      "descriptionStandard": "国際人道法上の文民保護と軍事目標化の懸念",
+      "badge": "非軍事性の堅持",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Scale"
+    }
   ]
 }

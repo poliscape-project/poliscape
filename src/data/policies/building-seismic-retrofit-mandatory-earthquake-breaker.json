@@ -140,5 +140,51 @@
       "text": "通電火災・大火の根絶",
       "color": "bg-amber-50 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "ビルの耐震化",
+      "labelStandard": "旧耐震ビルの診断・改修義務",
+      "value": "改修命令",
+      "unit": "危険ビル公表",
+      "oldValue": "これまで 所有者の努力義務のみ",
+      "description": "倒れて道路を塞ぐ危険なビルの耐震診断・改修を命令",
+      "badge": "耐震化義務",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "火事を防ぐ装置",
+      "labelStandard": "感震ブレーカーの作動基準",
+      "value": "揺れ遮断",
+      "unit": "震度5強以上",
+      "oldValue": "これまで 停電復旧時に通電火災多発",
+      "description": "大きな揺れで電気を自動遮断し電気火災を根絶",
+      "badge": "大火根絶",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "ブレーカーの補助",
+      "labelStandard": "木密地域での設置補助",
+      "value": "最大全額",
+      "unit": "公費補助・無償配布",
+      "oldValue": "これまで 普及率1割未満",
+      "description": "木造住宅密集地域の火災旋風を防ぐ重点支援",
+      "badge": "重点補助",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "高齢者マンション",
+      "labelStandard": "耐震工事費用の合意形成",
+      "value": "積立金不足",
+      "unit": "数千万〜数億円",
+      "oldValue": "これまで 5分の4の賛成が必要",
+      "description": "年金暮らしの高齢住民が工事費の一時金を払えない問題",
+      "badge": "合意の壁",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
   ]
 }

@@ -133,5 +133,51 @@
       "text": "受診先公表",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "新制度の施行時期",
+      "labelStandard": "かかりつけ医機能報告",
+      "value": "2025年",
+      "unit": "4月施行",
+      "oldValue": "これまで 医療機関の機能が不透明",
+      "description": "都道府県へ対応機能を定期報告",
+      "badge": "法制化施行",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Calendar"
+    },
+    {
+      "labelSimple": "身近な病院の検索",
+      "labelStandard": "住民向け情報公表",
+      "value": "全国",
+      "unit": "ネット公開",
+      "oldValue": "これまで 口コミや看板頼み",
+      "description": "夜間往診や在宅介護連携を見える化",
+      "badge": "透明化",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "FileText"
+    },
+    {
+      "labelSimple": "病院を選ぶ自由",
+      "labelStandard": "患者の受診アクセス",
+      "value": "自由",
+      "unit": "受診を維持",
+      "oldValue": "海外 事前登録・受診制限（英国等）",
+      "description": "フリーアクセスを守りつつ機能分化",
+      "badge": "受診の自由",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "UserCheck"
+    },
+    {
+      "labelSimple": "大病院の役割",
+      "labelStandard": "医療機能分化と救急",
+      "value": "高度",
+      "unit": "急性期に集中",
+      "oldValue": "これまで 軽症外来で勤務医過労",
+      "description": "大病院は重症手術・救急に特化",
+      "badge": "役割分担",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Building"
+    }
   ]
 }

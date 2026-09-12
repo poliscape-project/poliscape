@@ -155,5 +155,55 @@
       "text": "海面養殖区画の緩和",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "内陸型エコ養殖",
+      "labelStandard": "循環式陸上養殖の節水率",
+      "value": "99",
+      "unit": "%水再利用",
+      "oldValue": "かけ流し式で大量の排水が必要だった",
+      "descriptionSimple": "内陸の廃校や工場跡地で魚を育てるRAS",
+      "descriptionStandard": "内陸の廃校や工場跡地で魚を育てるRAS",
+      "badge": "内陸型エコ養殖",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "食料安保",
+      "labelStandard": "サーモン・エビの自給率",
+      "value": "数十",
+      "unit": "%向上へ",
+      "oldValue": "輸入サーモン・輸入エビに9割依存",
+      "descriptionSimple": "生食可能な安心の国産サーモンを周年出荷",
+      "descriptionStandard": "生食可能な安心の国産サーモンを周年出荷",
+      "badge": "食料安保",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "ルール適正化",
+      "labelStandard": "民間参入の届出義務化",
+      "value": "2023年4月",
+      "unit": "法改正施行",
+      "oldValue": "無届で誰でも自由に養殖可能だった",
+      "descriptionSimple": "水産資源保護と感染症防止のため届出制へ",
+      "descriptionStandard": "水産資源保護と感染症防止のため届出制へ",
+      "badge": "ルール適正化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "巨額投資",
+      "labelStandard": "初期設備投資額",
+      "value": "数十〜百",
+      "unit": "億円規模",
+      "oldValue": "海面養殖はイケス網数十万円",
+      "descriptionSimple": "巨大水槽と電気代負担が最大の参入障壁",
+      "descriptionStandard": "巨大水槽と電気代負担が最大の参入障壁",
+      "badge": "巨額投資",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Coins"
+    }
   ]
 }

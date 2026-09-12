@@ -155,5 +155,81 @@
       "text": "徘徊賠償の自治体公費保険",
       "color": "bg-teal-50 text-teal-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "認知症になる人の割合",
+      "labelStandard": "2025年以降の推計",
+      "value": "5人に1人",
+      "unit": "（約700万人弱）",
+      "oldValue": "一部の病気や特別な状態と考えられがちだった",
+      "descriptionSimple": "高齢者の5人に1人！だれでも認知症になりうる時代へ",
+      "descriptionStandard": "超高齢社会で誰もが当事者・家族になる国民的課題",
+      "badge": "5人に1人",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "政策の合言葉",
+      "labelStandard": "基本理念の転換",
+      "value": "共生",
+      "unit": "（尊厳と希望）",
+      "oldValue": "「治す・防ぐ」予防や施設隔離が中心だった",
+      "descriptionSimple": "防ぐことばかり言わず、病気になっても楽しく暮らせる街へ！",
+      "descriptionStandard": "認知症になっても本人が尊厳を持って地域で生きる社会",
+      "badge": "共生社会の推進",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Heart"
+    },
+    {
+      "labelSimple": "道に迷ったときの保険",
+      "labelStandard": "徘徊事故の賠償保険",
+      "value": "公費全額",
+      "unit": "（自治体保険普及）",
+      "oldValue": "電車を止めたら家族に数千万円の損害賠償請求の恐怖",
+      "descriptionSimple": "事故があっても町が代わりに払ってくれるから閉じ込めない！",
+      "descriptionStandard": "自治体が保険料を負担し最高数億円まで損害賠償を補償",
+      "badge": "自治体賠償保険",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "政策への参加",
+      "labelStandard": "本人の会議参画",
+      "value": "義務化",
+      "unit": "（意見反映）",
+      "oldValue": "医者や役人だけで決められ、本人の声は聞かれなかった",
+      "descriptionSimple": "認知症のご本人が直接役所の会議に出て意見を言える！",
+      "descriptionStandard": "国・自治体の施策策定会議に当事者本人の参加を義務付け",
+      "badge": "当事者参画",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "UserCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "認知症当事者ワーキンググループのメンバー",
+        "commentSimple": "「病気になっても人生はおしまいじゃない。私たちの意見を役所の会議で直接言えるようになったのがとても嬉しい」",
+        "commentStandard": "「予防や隔離の対象ではなく、希望を持って生きる主体として基本法に位置づけられた。当事者の声が政策を変える時代になった」"
+      },
+      {
+        "speaker": "徘徊高齢者を見守る自治体の福祉課長",
+        "commentSimple": "「町全体で保険に入ったことで、線路に入って電車を止めても損害賠償を補償でき、家族が安心して暮らせる」",
+        "commentStandard": "「最高裁の賠償判決以降恐れられていたリスクを公費保険でカバーでき、鍵をかけて閉じ込める人権侵害を未然に防止できている」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "重度の認知症の親を一人で介護する家族",
+        "commentSimple": "「暴れたり夜中に叫んだりする親を前に『共生』と言われてもきれいごとに聞こえる。早く施設に入れたい」",
+        "commentStandard": "「中重度でBPSD（周辺症状）が激しい親を24時間抱える家庭にとって、理念先行の基本法は救いにならない。レスパイトと施設拡充が先だ」"
+      },
+      {
+        "speaker": "財政難に苦しむ過疎地の町長",
+        "commentSimple": "「都会のようにお金がないので、徘徊保険やGPSの補助金を町単独で出すのは難しく、地域格差になってしまう」",
+        "commentStandard": "「基本法に基づく計画策定や見守りSOSネットワークの運営には財源が必要だが、過疎自治体への国の財政支援が不十分だ」"
+      }
+    ]
+  }
 }

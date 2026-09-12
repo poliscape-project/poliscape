@@ -159,5 +159,51 @@
       "text": "給油難民ゼロ対策",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "ガソリンスタンドなしの街",
+      "labelStandard": "過疎地SSの減少実態",
+      "value": "300",
+      "unit": "超の町村で危機",
+      "oldValue": "これまで 採算悪化でSSの廃業ラッシュが続く",
+      "description": "給油所ゼロまたは1箇所の町村が急増し生活脅かす",
+      "badge": "生活インフラ",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "設備改修の国費補助",
+      "labelStandard": "地下タンク改修費用の補助",
+      "value": "最大2/3",
+      "unit": "を国が補助",
+      "oldValue": "これまで 数百〜1千万円の工事費が重荷で廃業",
+      "description": "漏洩防止工事や計量器更新を集中支援",
+      "badge": "国庫補助",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Shield"
+    },
+    {
+      "labelSimple": "冬の灯油配達",
+      "labelStandard": "灯油の安定配送網維持",
+      "value": "見守り兼務",
+      "unit": "で配送網確保",
+      "oldValue": "これまで 採算割れで灯油の配達が困難化",
+      "description": "高齢者世帯への冬季燃料供給と安否確認を両立",
+      "badge": "灯油防衛",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "新しい役割",
+      "labelStandard": "複合サービス拠点化",
+      "value": "EV充電・売店",
+      "unit": "を併設推進",
+      "oldValue": "これまで 給油専業で人口減少とともに赤字",
+      "description": "充電設備や地域直売所を併設し拠点機能を強化",
+      "badge": "拠点複合化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Zap"
+    }
   ]
 }

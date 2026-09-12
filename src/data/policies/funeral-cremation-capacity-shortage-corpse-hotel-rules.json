@@ -171,5 +171,51 @@
       "text": "近隣説明と立地調和ルール",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "火葬場の稼働枠拡大",
+      "labelStandard": "火葬場の稼働枠拡大",
+      "value": "火葬場の稼働枠拡大",
+      "unit": "",
+      "oldValue": "これまで: 公営火葬場の定員逼迫と友引休業で1週間超の火葬待ちが頻発",
+      "description": "友引日の開場・夜間受入枠の増設および広域利用枠の相互融通を促進",
+      "badge": "火葬場の稼働枠拡大",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "民間保管施設の衛生安全基準",
+      "labelStandard": "民間保管施設の衛生安全基準",
+      "value": "民間保管施設の衛生安全基準",
+      "unit": "",
+      "oldValue": "これまで: 一時保管施設に関する明確な法規制がなく墓埋法の盲点に",
+      "description": "専用保冷庫・防臭換気・感染防止対策を義務付ける安全基準を策定",
+      "badge": "民間保管施設の衛生安全基準",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "近隣説明と立地調和ルール",
+      "labelStandard": "近隣説明と立地調和ルール",
+      "value": "近隣説明と立地調和ルール",
+      "unit": "",
+      "oldValue": "これまで: 住宅街への突然の施設進出により近隣住民との摩擦が頻発",
+      "description": "自治体条例に基づく事前説明会や建築協議手続きを指針化",
+      "badge": "近隣説明と立地調和ルール",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "遺族の保管費負担の軽減",
+      "labelStandard": "遺族の保管費負担の軽減",
+      "value": "遺族の保管費負担の軽減",
+      "unit": "",
+      "oldValue": "これまで: 安置日数の長期化に伴うドライアイス代・保冷料が遺族を圧迫",
+      "description": "料金の事前明示義務と公営安置キャパシティの拡充を支援",
+      "badge": "遺族の保管費負担の軽減",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Coins"
+    }
   ]
 }

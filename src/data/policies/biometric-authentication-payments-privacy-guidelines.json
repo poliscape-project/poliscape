@@ -165,5 +165,51 @@
       "text": "事前オプトイン同意の義務化",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "決済時の持ち物",
+      "labelStandard": "決済時の持ち物",
+      "value": "完全な手ぶら決済が実現",
+      "unit": "",
+      "oldValue": "これまで: クレジットカード、現金、またはスマホアプリ（QR/タッチ）の携帯が必須",
+      "description": "何も持たずに顔を向けるか手のひらをかざすだけで本人確認・即時決済",
+      "badge": "完全な手ぶら決済が実現",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "UserCheck"
+    },
+    {
+      "labelSimple": "生体データの保存形式",
+      "labelStandard": "生体データの保存形式",
+      "value": "顔画像の保存禁止・特徴量暗号化",
+      "unit": "",
+      "oldValue": "これまで: 生体画像（顔写真等）がそのままサーバーに保管され漏洩の懸念",
+      "description": "不可逆な数値データ（特徴量ハッシュ）に変換し、元画像を即時破棄する義務化",
+      "badge": "顔画像の保存禁止・特徴量暗号化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "利用者の同意取得ルール",
+      "labelStandard": "利用者の同意取得ルール",
+      "value": "事前オプトイン同意の義務化",
+      "unit": "",
+      "oldValue": "これまで: 利用規約の奥深くに同意条項が埋め込まれ、無意識に顔をスキャン",
+      "description": "生体データ利用の明確な個別同意（オプトイン）とワンクリック登録解除の義務化",
+      "badge": "事前オプトイン同意の義務化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "異なる事業者間の相互連携",
+      "labelStandard": "異なる事業者間の相互連携",
+      "value": "全国共通規格での相互利用推進",
+      "unit": "",
+      "oldValue": "これまで: 店舗チェーンごとに個別アプリ・別々の顔登録が必要で不便",
+      "description": "共通API・標準規格の整備により、1度の登録で複数系列店舗で利用可能に",
+      "badge": "全国共通規格での相互利用推進",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Globe"
+    }
   ]
 }

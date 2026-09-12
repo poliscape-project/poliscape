@@ -171,5 +171,81 @@
       "text": "都市部の基金積立問題",
       "color": "bg-amber-50 text-amber-900"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "1人あたりの税金",
+      "labelStandard": "年間税額（国税）",
+      "value": "年 1,000",
+      "unit": "円/人",
+      "oldValue": "復興特別住民税（年1,000円）終了",
+      "descriptionSimple": "住民税と一緒に毎年1,000円が引かれる",
+      "descriptionStandard": "個人住民税均等割に恒久的に上乗せ徴収",
+      "badge": "年1,000円上乗せ",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "税金を払う人の数",
+      "labelStandard": "全国の納税義務者数",
+      "value": "約6,000万",
+      "unit": "人（住民税納税者）",
+      "oldValue": "地方独自の間伐税等のみだった",
+      "descriptionSimple": "日本で働くほぼすべての人が対象",
+      "descriptionStandard": "全国一律国税として約600億円の財源を確保",
+      "badge": "約6,000万人",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "自治体へのお金の配り方",
+      "labelStandard": "配分基準（譲与税）",
+      "value": "面積5割・人口3割",
+      "unit": "（林業就業者2割）",
+      "oldValue": "省庁の補助金採択方式だった",
+      "descriptionSimple": "森林の広さだけでなく人口の多さでも配分",
+      "descriptionStandard": "森林環境譲与税として全国市区町村へ交付",
+      "badge": "配分基準",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Trees"
+    },
+    {
+      "labelSimple": "使われていないお金",
+      "labelStandard": "都市部の基金積立問題",
+      "value": "数百億円",
+      "unit": "が基金に眠る",
+      "oldValue": "配分なし",
+      "descriptionSimple": "山がない大都会でお金が余って貯金されている",
+      "descriptionStandard": "大都市自治体での使途不足と配分基準見直し議論",
+      "badge": "基金積立問題",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "山間地の林業従事者・山村自治体",
+        "commentSimple": "「手入れができず荒れていた山を間伐して、大雨で土砂崩れが起きないように守るお金ができた！」",
+        "commentStandard": "「放置林の間伐や作業路の整備が進み、水源涵養と土砂災害防止の確実な予算がついた」"
+      },
+      {
+        "speaker": "環境政策担当・脱炭素推進派",
+        "commentSimple": "「木を元気に育てて二酸化炭素をたくさん吸ってもらい、地球温暖化を止める大切な財源」",
+        "commentStandard": "「国際公約である森林吸収源対策を安定的に進め、公共施設の木造化需要も喚起できる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "大都市に暮らす納税者",
+        "commentSimple": "「震災の復興増税が終わったと思ったら、同じ金額の税金が名前を変えて上乗せされて結局安くならない…」",
+        "commentStandard": "「手取りが増えるはずだった均等割が同額で据え置かれ、国民に気づかせないステルス増税に感じる」"
+      },
+      {
+        "speaker": "財政学者・行政監査関係者",
+        "commentSimple": "「山が全くない大都会に多額のお金が配られ、使い道がなくて基金に眠っているのは配分基準が歪んでいる」",
+        "commentStandard": "「人口割で配分された大都市自治体で数十億円が基金に死蔵されており、真に必要な山村に回っていない」"
+      }
+    ]
+  }
 }

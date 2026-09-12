@@ -171,5 +171,51 @@
       "text": "下請法・独禁法に基づく悪質発注企業の社名公表",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "労務費転嫁の協議義務",
+      "labelStandard": "労務費転嫁の協議義務",
+      "value": "発注側からの定期的な労務費転嫁協議申し入れ義務化",
+      "unit": "",
+      "oldValue": "これまで: 原材料費の値上げは一部認められても「人件費（賃上げ分）の値上げ」は拒否",
+      "description": "発注企業側から年1回以上の価格転嫁協議を申し入れることを強く義務付け",
+      "badge": "発注側からの定期的な労務費転嫁協議申し入れ義務化",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "下請代金法の適用対象範囲",
+      "labelStandard": "下請代金法の適用対象範囲",
+      "value": "IT・運送・サービス業への下請法適用拡大",
+      "unit": "",
+      "oldValue": "これまで: 資本金要件の隙間を突かれ、ITやコンサル、物流の委託取引が法規制の対象外",
+      "description": "役務提供全般やスタートアップ取引を包括的に保護対象とする法改正を審議",
+      "badge": "IT・運送・サービス業への下請法適用拡大",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "協議拒否企業へのペナルティ",
+      "labelStandard": "協議拒否企業へのペナルティ",
+      "value": "下請法・独禁法に基づく悪質発注企業の社名公表",
+      "unit": "",
+      "oldValue": "これまで: 注意喚起のみで秘密裏に処理され、大企業に改善の緊張感が乏しかった",
+      "description": "価格交渉に十分応じない企業名を公正取引委員会が実名公表（社名公表）",
+      "badge": "下請法・独禁法に基づく悪質発注企業の社名公表",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Eye"
+    },
+    {
+      "labelSimple": "下請Gメンによる重点調査",
+      "labelStandard": "下請Gメンによる重点調査",
+      "value": "下請Gメンによる大規模匿名ヒアリング調査",
+      "unit": "",
+      "oldValue": "これまで: 下請企業が報復取引停止を恐れて公取委に通報できない構造",
+      "description": "300名超の「下請Gメン」による年間数万件の匿名ヒアリングと実地調査",
+      "badge": "下請Gメンによる大規模匿名ヒアリング調査",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    }
   ]
 }

@@ -179,5 +179,51 @@
       "text": "2030年目標を30万口へ倍増",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "充電器の出力基準",
+      "labelStandard": "充電器の出力基準",
+      "value": "150kW級超急速充電器を標準化",
+      "unit": "",
+      "oldValue": "これまで: 40〜50kWの低出力が中心で、フル充電まで時間がかかった",
+      "description": "高速道路上は90kW〜150kW級超急速充電器の設置を原則標準化",
+      "badge": "150kW級超急速充電器を標準化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "1拠点あたりの設置口数",
+      "labelStandard": "1拠点あたりの設置口数",
+      "value": "最低6口以上の複数口設置義務化",
+      "unit": "",
+      "oldValue": "これまで: 多くのSA/PAで1口〜2口のみで故障時に充電不能に",
+      "description": "主要SA/PAで最低6口以上、最大十数口以上の同時充電マルチポート化を義務化",
+      "badge": "最低6口以上の複数口設置義務化",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "BatteryCharging"
+    },
+    {
+      "labelSimple": "2030年の全国充電インフラ目標",
+      "labelStandard": "2030年の全国充電インフラ目標",
+      "value": "2030年目標を30万口へ倍増",
+      "unit": "",
+      "oldValue": "これまで: 2030年までに全国15万口の整備目標",
+      "description": "目標を倍増させ「2030年までに全国30万口」へ引き上げ、国費補助を大幅増額",
+      "badge": "2030年目標を30万口へ倍増",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "充電課金と決済の簡素化",
+      "labelStandard": "充電課金と決済の簡素化",
+      "value": "挿すだけ自動決済（Plug & Charge）推進",
+      "unit": "",
+      "oldValue": "これまで: 複数のカード会社や専用アプリでの認証が煩雑",
+      "description": "ケーブルを挿すだけで自動認証・自動課金される「Plug & Charge」やクレカ即時決済の導入",
+      "badge": "挿すだけ自動決済（Plug & Charge）推進",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "CreditCard"
+    }
   ]
 }

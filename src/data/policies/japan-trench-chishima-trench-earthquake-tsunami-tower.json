@@ -140,5 +140,51 @@
       "text": "国庫補助最大3分の2",
       "color": "bg-amber-50 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "救える命の数",
+      "labelStandard": "死者想定の削減目標",
+      "value": "8割減",
+      "unit": "約16万人救命",
+      "oldValue": "これまで 最悪19.9万人死亡想定",
+      "description": "早期避難とタワー整備で冬の津波死者を激減",
+      "badge": "死者8割減",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "国のお金の割合",
+      "labelStandard": "避難タワー建設の国庫補助率",
+      "value": "最大2/3",
+      "unit": "国費補助",
+      "oldValue": "これまで 通常の1/2補助",
+      "description": "特別強化地域のタワー・避難道路整備を国が強力支援",
+      "badge": "特措法支援",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "タワーの寒さ対策",
+      "labelStandard": "厳冬期津波対応タワー仕様",
+      "value": "密閉暖房",
+      "unit": "毛布・非常電源",
+      "oldValue": "これまで 吹きさらしの鉄骨階段",
+      "description": "氷点下や吹雪でも凍死・低体温症にならない構造",
+      "badge": "厳冬期仕様",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "町の負担",
+      "labelStandard": "過疎自治体の財政負担",
+      "value": "残り1/3",
+      "unit": "地方負担と修繕費",
+      "oldValue": "これまで 予算不足で建設難航",
+      "description": "塩害によるサビ止め塗装など将来の維持費が重荷",
+      "badge": "財政課題",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    }
   ]
 }

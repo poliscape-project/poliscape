@@ -139,5 +139,51 @@
       "text": "2030年代実証へ",
       "color": "bg-amber-50 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "燃料の資源",
+      "labelStandard": "核融合の燃料調達",
+      "value": "海水",
+      "unit": "無尽蔵",
+      "oldValue": "これまで ウラン・石油の輸入依存",
+      "description": "海水から重水素を採取・完全自給可能",
+      "badge": "究極の電源",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Globe"
+    },
+    {
+      "labelSimple": "暴走事故の危険",
+      "labelStandard": "核分裂との安全性差異",
+      "value": "暴走ゼロ",
+      "unit": "物理的停止",
+      "oldValue": "これまで 連鎖反応の暴走リスク",
+      "description": "燃料供給停止で瞬時に火が消える構造",
+      "badge": "固有の安全",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "ゴミの危険度",
+      "labelStandard": "発生する放射性廃棄物",
+      "value": "低レベル",
+      "unit": "短期間管理",
+      "oldValue": "これまで 数万年の高レベル廃棄物",
+      "description": "100年程度で再利用できる低レベル廃棄物",
+      "badge": "低環境負荷",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Leaf"
+    },
+    {
+      "labelSimple": "発電の目標年",
+      "labelStandard": "原型炉による発電実証目標",
+      "value": "2030年代",
+      "unit": "実証試験",
+      "oldValue": "これまで 2050年以降の長期計画",
+      "description": "国家戦略で実用化スケジュールを大幅前倒し",
+      "badge": "国家戦略",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Clock"
+    }
   ]
 }

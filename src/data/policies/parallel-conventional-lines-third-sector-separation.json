@@ -139,5 +139,51 @@
       "text": "高校生通学定期の値上げ",
       "color": "bg-slate-100 text-slate-700"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "在来線の経営移管",
+      "labelStandard": "在来線の経営移管",
+      "value": "第三セクター",
+      "unit": "へ分離（地元出資）",
+      "oldValue": "JRが新幹線・在来線を一括黒字運行",
+      "description": "特急を失った普通列車赤字路線を引き受け",
+      "badge": "三セク化分離",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "自治体の赤字補填",
+      "labelStandard": "自治体の赤字補填",
+      "value": "年数億〜数十",
+      "unit": "億円（税金補填）",
+      "oldValue": "JR社内での内部補助で相殺",
+      "description": "沿線県や市の財政を重く圧迫し続ける",
+      "badge": "地元税金補填",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "運賃水準の改定",
+      "labelStandard": "運賃水準の改定",
+      "value": "1.1〜1.3",
+      "unit": "倍（値上げ改定）",
+      "oldValue": "JR一律の全国幹線運賃テーブル",
+      "description": "高校生通学定期の値上げが家計を直撃",
+      "badge": "運賃値上げ",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Ticket"
+    },
+    {
+      "labelSimple": "新幹線の時間短縮効果",
+      "labelStandard": "新幹線の時間短縮効果",
+      "value": "数時間短縮",
+      "unit": "（東京直結）",
+      "oldValue": "在来線特急と乗り換えが必要だった",
+      "description": "観光客急増とビジネス出張の劇的効率化",
+      "badge": "新幹線効果絶大",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Zap"
+    }
   ]
 }

@@ -171,5 +171,81 @@
       "text": "固定資産税実質最大6倍",
       "color": "bg-rose-100 text-rose-900"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "新しくできた警告区分",
+      "labelStandard": "新設された指定区分",
+      "value": "管理不全空家",
+      "unit": "（早期指導）",
+      "oldValue": "倒壊寸前の「特定空家」のみだった",
+      "descriptionSimple": "窓割れ・草ぼうぼうの段階で警告される！",
+      "descriptionStandard": "放置すれば危険になる前の段階で自治体が勧告",
+      "badge": "早期指導新設",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "警告された後の税金",
+      "labelStandard": "固定資産税の増税倍率",
+      "value": "実質最大6倍",
+      "unit": "（住宅特例解除）",
+      "oldValue": "住宅用地特例で1/6減額が続いていた",
+      "descriptionSimple": "勧告を受けると税金の割引が即座に消滅！",
+      "descriptionStandard": "小規模住宅用地の課税標準1/6特例が取り消し",
+      "badge": "実質最大6倍",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "家を壊す費用の相場",
+      "labelStandard": "解体工事費の相場",
+      "value": "約150〜250万",
+      "unit": "円（木造家屋）",
+      "oldValue": "放置した方が税金が安かった",
+      "descriptionSimple": "自治体の解体補助金（最大数十万円）を活用",
+      "descriptionStandard": "放置増税を払い続けるより更地化・売却が有利に",
+      "badge": "解体費用の壁",
+      "badgeColor": "bg-slate-100 text-slate-700",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "日本の空き家の数",
+      "labelStandard": "全国の空き家総数",
+      "value": "約900万",
+      "unit": "戸（過去最高）",
+      "oldValue": "年々増加して社会問題化",
+      "descriptionSimple": "全国で過去最多。国が対策を本気で強化中",
+      "descriptionStandard": "所有者不明土地法や空家特措法で活用を促進",
+      "badge": "過去最高",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "TrendingUp"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "危険空き家の隣に住む近隣住民",
+        "commentSimple": "「台風で屋根や壁が飛んできそうで怖かったから、役所が強く注意してくれて本当に安心！」",
+        "commentStandard": "「害虫や放火の温床となっていた放置空き家に対し、行政が法的に是正勧告できるのは心強い」"
+      },
+      {
+        "speaker": "空き家再生・不動産業者",
+        "commentSimple": "「税金を安くするためだけに放置していた人が売りに出すようになり、街のリノベーションが進む」",
+        "commentStandard": "「更地にすると税金が上がるという長年の制度の矛盾が解消され、中古住宅流通が活性化する」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "地方の実家を相続した遺族",
+        "commentSimple": "「家を壊すお金が200万円もなくて困っているのに、税金まで6倍に跳ね上がったらどうすればいいのか…」",
+        "commentStandard": "「売ろうにも買い手がつかない過疎地の土地で、解体費用も出せない年金暮らしに増税は過酷すぎる」"
+      },
+      {
+        "speaker": "自治体の空き家対策担当者",
+        "commentSimple": "「どこからが『管理不全』かの線引きが難しく、所有者と役所の間でトラブルになりやすい」",
+        "commentStandard": "「職員の現場判断による主観性が残るため、勧告通知を巡る住民からの抗議対応に苦慮している」"
+      }
+    ]
+  }
 }

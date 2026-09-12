@@ -165,5 +165,51 @@
       "text": "法務局クラウド保管で検認不要",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "遺言本文の作成方法",
+      "labelStandard": "遺言本文の作成方法",
+      "value": "スマホ・PCでの遺言作成を容認",
+      "unit": "",
+      "oldValue": "これまで: 財産目録を除き、本文・日付・氏名のすべてを手書き（自書）しなければ無効",
+      "description": "スマホアプリやPCでのテキスト入力、マイナンバーカード電子署名を公認",
+      "badge": "スマホ・PCでの遺言作成を容認",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "動画・音声データの活用",
+      "labelStandard": "動画・音声データの活用",
+      "value": "動画による意思確認を補助証拠化",
+      "unit": "",
+      "oldValue": "これまで: ビデオレターや音声録音は法的な遺言としての効力が一切認められず",
+      "description": "本人の認知能力や自由な意思を確認するための公的補足データとして認定",
+      "badge": "動画による意思確認を補助証拠化",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "遺言書の保管・検認手続き",
+      "labelStandard": "遺言書の保管・検認手続き",
+      "value": "法務局クラウド保管で検認不要",
+      "unit": "",
+      "oldValue": "これまで: 自宅保管（紛失・偽造・家庭裁判所の検認必須）か法務局への紙持参",
+      "description": "法務局の遺言保管クラウドに直接アップロード、死後の家庭裁判所検認を不要化",
+      "badge": "法務局クラウド保管で検認不要",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "改ざん・偽造防止技術",
+      "labelStandard": "改ざん・偽造防止技術",
+      "value": "ブロックチェーン等で改ざん防止",
+      "unit": "",
+      "oldValue": "これまで: 筆跡鑑定に頼るため、親族間での「本人が書いたか」の泥沼裁判が頻発",
+      "description": "ブロックチェーンによるタイムスタンプと電子証明書で偽造を技術的に阻止",
+      "badge": "ブロックチェーン等で改ざん防止",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

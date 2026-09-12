@@ -171,5 +171,81 @@
       "text": "ヘルメット努力義務",
       "color": "bg-slate-100 text-slate-700"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "運転できる条件",
+      "labelStandard": "運転免許の要否",
+      "value": "免許不要",
+      "unit": "（16歳以上）",
+      "oldValue": "これまで 原付免許が必須だった",
+      "descriptionSimple": "16歳以上なら免許なしで乗れるように！",
+      "descriptionStandard": "特定小型原動機付自転車として免許不要化",
+      "badge": "免許不要",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "走れるスピード",
+      "labelStandard": "最高速度（車道 / 歩道）",
+      "value": "20km / 6km",
+      "unit": "最高時速",
+      "oldValue": "歩道走行は一切不可だった",
+      "descriptionSimple": "緑ランプ点滅モード（6km/h）なら歩道も可",
+      "descriptionStandard": "特例特定小型原動機付自転車モードで一部歩道走行可",
+      "badge": "歩道特例あり",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Car"
+    },
+    {
+      "labelSimple": "ヘルメットのルール",
+      "labelStandard": "ヘルメット着用義務",
+      "value": "努力義務",
+      "unit": "（推奨）",
+      "oldValue": "これまで 道路交通法で着用義務",
+      "descriptionSimple": "かぶることがおすすめだけど罰則なし",
+      "descriptionStandard": "自転車と同様に着用努力義務（着用強く推奨）",
+      "badge": "努力義務",
+      "badgeColor": "bg-slate-100 text-slate-700",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "公道を走るためのルール",
+      "labelStandard": "必須装備・保安基準",
+      "value": "ナンバー＋自賠責",
+      "unit": "必須",
+      "oldValue": "一般原付の保安基準",
+      "descriptionSimple": "緑色の最高速度表示灯と自賠責保険が必須！",
+      "descriptionStandard": "最高速度表示灯・ナンバープレート・自賠責加入義務",
+      "badge": "装備必須",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "都市部の若手会社員・シェア利用者",
+        "commentSimple": "「駅から遠いカフェや目的地へ、免許がなくてもスマホですぐ借りてスーッと行けるのが超快適！」",
+        "commentStandard": "「駅から徒歩15分のラストワンマイルを5分で移動でき、都市部の新しい短距離モビリティとして定着」"
+      },
+      {
+        "speaker": "観光地・地域振興関係者",
+        "commentSimple": "「観光客が街の路地や商店街を気軽に巡ってくれるようになり、観光の活性化に大きく役立っている」",
+        "commentStandard": "「公共交通の便が悪い観光エリアでの周遊性が飛躍的に高まり、オーバーツーリズムの分散にも寄与」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "歩行者・子連れの親",
+        "commentSimple": "「歩道をすごいスピードで走ってきたり、信号無視や逆走をする人が多くて子どもと歩くのが怖い！」",
+        "commentStandard": "「歩道走行モードを守らない暴走やすり抜け運転が横行しており、歩行者の安全が脅かされている」"
+      },
+      {
+        "speaker": "救急救命医・警察関係者",
+        "commentSimple": "「ヘルメットをかぶらずに転んで頭に大ケガをする事故や、駅前の放置キックボードが深刻な問題」",
+        "commentStandard": "「ノーヘルでの転倒による重症頭部外傷の搬送が急増。交通ルールの啓発と取り締まり強化が急務」"
+      }
+    ]
+  }
 }

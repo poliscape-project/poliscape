@@ -185,5 +185,81 @@
       "text": "安全柵なし協働ロボット解禁",
       "color": "bg-indigo-50 text-indigo-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "いなくなる職人さんの数",
+      "labelStandard": "2030年の熟練工不足予測",
+      "value": "約 38",
+      "unit": "万人不足",
+      "oldValue": "ベテラン職人の手作業・勘に頼ってきた工場現場",
+      "descriptionSimple": "おじいちゃん職人さんが引退して人手が足りない！",
+      "descriptionStandard": "ものづくり現場の労働力蒸発をロボットで防ぐ",
+      "badge": "38万人不足",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "ロボットを買う国のお金",
+      "labelStandard": "省力化投資補助金（カタログ型）",
+      "value": "最大 1,500",
+      "unit": "万円補助",
+      "oldValue": "複雑な申請書類が必要で中小企業が敬遠していた",
+      "descriptionSimple": "カタログから選ぶだけでロボット代を半分補助！",
+      "descriptionStandard": "総額5,000億円規模の即効性ある省力化・自動化支援",
+      "badge": "カタログ補助",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "日本が強いロボットのシェア",
+      "labelStandard": "日本の産業用ロボット世界シェア",
+      "value": "約 45",
+      "unit": "%（世界一）",
+      "oldValue": "ファナック、安川電機等が世界をリード",
+      "descriptionSimple": "世界で動く工場のロボットの半分は日本の技術！",
+      "descriptionStandard": "世界屈指のロボット開発力を国内中小工場へ浸透",
+      "badge": "世界シェア45%",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "人間と一緒に働くロボット",
+      "labelStandard": "協働ロボット（コボット）",
+      "value": "安全柵なし",
+      "unit": "設置解禁",
+      "oldValue": "鉄の柵で囲って人間と隔離しなければならなかった",
+      "descriptionSimple": "ぶつかると自動で止まる安全なロボットがとなりに！",
+      "descriptionStandard": "狭い町工場でも導入できる人と協働する自律マシン",
+      "badge": "安全柵撤廃",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "人手不足に悩む金属加工工場の工場長",
+        "commentSimple": "「ロボットが重い荷物や夜の作業をやってくれるおかげで、若者がいなくても工場を休まず動かせる」",
+        "commentStandard": "「溶接やパレタイジングのロボット化とIoT導入により、人手不足を克服しながら生産性を2倍に引き上げられた」"
+      },
+      {
+        "speaker": "産業用ロボットメーカーの営業幹部",
+        "commentSimple": "「日本のロボット技術を中小企業まで広げることで、ものづくりの強さをもう一度世界に示すことができる」",
+        "commentStandard": "「スマート工場化の投資減税と標準化支援により、国内ロボット産業の市場拡大と製造業全体のDXが一気に進む」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "熟練のベテラン工員",
+        "commentSimple": "「ロボットやパソコンの使い方が難しく、長年培った手作業のカンや技が受け継がれなくなるのが悲しい」",
+        "commentStandard": "「デジタル化についていけないベテランの雇用の場が奪われ、手作業特有の繊細な職人技がデジタル化できず途絶える恐れがある」"
+      },
+      {
+        "speaker": "小規模町工場の経営者",
+        "commentSimple": "「補助金があっても最初の何千万円もの機械代は払えないし、ITの専門家も社内にいない」",
+        "commentStandard": "「自動化システムの導入・保守には高度なIT人材と多額の自己資金が必要で、中小・零細企業間の格差がさらに広がる」"
+      }
+    ]
+  }
 }

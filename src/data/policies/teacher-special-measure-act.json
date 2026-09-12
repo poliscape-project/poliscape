@@ -141,5 +141,81 @@
       "text": "部活地域移行セット",
       "color": "bg-blue-50 text-blue-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "先生のお給料上乗せ",
+      "labelStandard": "教職調整額の引き上げ",
+      "value": "4% → 10%超",
+      "unit": "（基本給比）",
+      "oldValue": "1971年以来50年以上「4%」で固定",
+      "descriptionSimple": "基本給の4%だった手当が10%以上に！",
+      "descriptionStandard": "残業代ゼロの代わりに支給される調整額の抜本改定",
+      "badge": "53年ぶり引き上げ",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "GraduationCap"
+    },
+    {
+      "labelSimple": "先生の年収アップ額",
+      "labelStandard": "年間給与増額目安",
+      "value": "約 40〜60",
+      "unit": "万円 / 年",
+      "oldValue": "時間外手当（残業代）は一切出ず",
+      "descriptionSimple": "年収が平均50万円ほど底上げ！",
+      "descriptionStandard": "ボーナス（期末勤勉手当）にも反映され大幅昇給",
+      "badge": "年40万〜60万増",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "過労死ラインの先生",
+      "labelStandard": "月80時間超残業の割合",
+      "value": "中学の 約6割",
+      "unit": "（深刻な過重労働）",
+      "oldValue": "土日の部活動や行事で際限なく残業",
+      "descriptionSimple": "先生の残業を減らさないと倒れてしまう！",
+      "descriptionStandard": "「定額働かせ放題」温存批判と部活地域移行の急務",
+      "badge": "業務削減が命題",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "先生になりたい人",
+      "labelStandard": "採用倍率の改善目標",
+      "value": "3倍以上",
+      "unit": "回復目標",
+      "oldValue": "一部自治体で1倍台・なり手不足崩壊寸前",
+      "descriptionSimple": "お給料を上げて若い先生を増やす！",
+      "descriptionStandard": "質の高い教師確保に向けた待遇と職場環境の再生",
+      "badge": "志望者回復へ",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Users"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "教員採用試験を受ける教育学部生",
+        "commentSimple": "「先生の給料が月数万円も増えるなら、夢を諦めずに学校の先生を目指したいと思える！」",
+        "commentStandard": "「教職調整額が10%以上に上がれば初任給・年収が大きく改善する。教員志望者の回復につながるはずだ」"
+      },
+      {
+        "speaker": "小学生の子をもつ保護者",
+        "commentSimple": "「先生不足で授業が自習になるのは困る。ちゃんとお給料を払って良い先生をたくさん集めてほしい」",
+        "commentStandard": "「先生が心身ともに余裕を持って子どもたちと向き合えるよう、待遇改善と部活地域移行を応援したい」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "現役の中学校教諭",
+        "commentSimple": "「手当が少し増えても、土日の部活や夜遅くまでの残業が減らなければ身体が持たない…」",
+        "commentStandard": "「残業代が出ない『定額働かせ放題』の根本構造は変わっていない。本当に仕事を減らして定時に帰りたい」"
+      },
+      {
+        "speaker": "地方自治体の財政担当者",
+        "commentSimple": "「日本中の先生の給料を増やすお金は数千億円もかかる。お金のない自治体は財政が厳しい」",
+        "commentStandard": "「義務教育費の地方負担分が重く、教員の増員やサポートスタッフ配置に手が回らなくなる恐れがある」"
+      }
+    ]
+  }
 }

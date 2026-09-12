@@ -159,5 +159,51 @@
       "text": "食育・地元農家支援",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "地元野菜の割合",
+      "labelStandard": "学校給食の地場産物割合",
+      "value": "30",
+      "unit": "%以上を目標化",
+      "oldValue": "これまで 安価な輸入・遠方産食材が主流",
+      "description": "地域農産物の優先調達で地産地消と食育を推進",
+      "badge": "地産地消",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Leaf"
+    },
+    {
+      "labelSimple": "有機米などの導入",
+      "labelStandard": "有機・減農薬米の利用",
+      "value": "全自治体",
+      "unit": "への普及促進",
+      "oldValue": "これまで コスト差額が重く導入困難",
+      "description": "国の交付金や自治体補助で差額を補填",
+      "badge": "有機拡大",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "給食費の保護者負担",
+      "labelStandard": "給食費の公費支援",
+      "value": "据置き",
+      "unit": "・値上げ抑制",
+      "oldValue": "これまで 食材費高騰が保護者負担に直結",
+      "description": "食材高騰分を公費補助し保護者負担を軽減",
+      "badge": "家計保護",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "農家との連携",
+      "labelStandard": "安定集荷と契約栽培",
+      "value": "一括集荷",
+      "unit": "の物流網整備",
+      "oldValue": "これまで 少量多品種の配送手配がネック",
+      "description": "地元JAや生産者団体との定例配送網を構築",
+      "badge": "農家支援",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Users"
+    }
   ]
 }

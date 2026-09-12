@@ -139,5 +139,51 @@
       "text": "普通学校で共に学ぶ教育",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "学校看護師の配置",
+      "labelStandard": "学校看護師の配置",
+      "value": "自治体の責務",
+      "unit": "（法定義務化）",
+      "oldValue": "自治体の努力目標で看護師ゼロが多数",
+      "description": "公立小中学校・保育所への配置を国費支援",
+      "badge": "看護師配置責務化",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "親の終日付き添い慣行",
+      "labelStandard": "親の終日付き添い慣行",
+      "value": "原則ゼロ",
+      "unit": "へ（付き添い廃止）",
+      "oldValue": "母親が毎日教室の後ろに座り待機",
+      "description": "親の付き添いなしで普通学校へ通学可能に",
+      "badge": "付き添い廃止",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "母親のキャリア支援",
+      "labelStandard": "母親のキャリア支援",
+      "value": "付き添い離職",
+      "unit": "を完全防止",
+      "oldValue": "子どもの入学で仕事を辞めざるを得ず",
+      "description": "母親が仕事を辞めずに働き続けられる社会へ",
+      "badge": "離職防止・社会参加",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Briefcase"
+    },
+    {
+      "labelSimple": "最大の課題（採用難）",
+      "labelStandard": "最大の課題（採用難）",
+      "value": "学校看護師",
+      "unit": "の深刻な人手不足",
+      "oldValue": "病院より給与が低く非常勤契約が中心",
+      "description": "急変判断のプレッシャーで応募が集まらず",
+      "badge": "看護師採用難",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "HeartPulse"
+    }
   ]
 }

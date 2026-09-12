@@ -159,5 +159,51 @@
       "text": "デジタル・脱炭素人材",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国の支援基金",
+      "labelStandard": "大学構造改革・理系転換",
+      "value": "3000",
+      "unit": "億円の基金創設",
+      "oldValue": "これまで 各大学の自己資金頼みで転換難",
+      "description": "10年間の継続的支援で設備と教員を強化",
+      "badge": "巨額基金",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "PiggyBank"
+    },
+    {
+      "labelSimple": "理系の学生比率",
+      "labelStandard": "理系学生比率の目標",
+      "value": "50",
+      "unit": "%へ大幅引き上げ",
+      "oldValue": "これまで 約35%とOECD加盟国最低水準",
+      "description": "デジタル・脱炭素を担う高度理工系を育成",
+      "badge": "5割目標",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "大学への補助期間",
+      "labelStandard": "継続助成の最長期間",
+      "value": "最長10",
+      "unit": "年間の集中支援",
+      "oldValue": "これまで 単年度の短期補助金にとどまる",
+      "description": "学部再編から卒業生輩出まで息長く支援",
+      "badge": "長期支援",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Calendar"
+    },
+    {
+      "labelSimple": "文系学部の見直し",
+      "labelStandard": "文理融合・定員シフト",
+      "value": "定員再編",
+      "unit": "と文理横断",
+      "oldValue": "これまで 定員維持で構造転換が進まず",
+      "description": "データサイエンスやリスキリングを融合",
+      "badge": "定員再編",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "BookOpen"
+    }
   ]
 }

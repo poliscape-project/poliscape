@@ -159,5 +159,51 @@
       "text": "国産飼料（子実コーン）推進",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "エサ代が高騰したとき",
+      "labelStandard": "配合飼料価格安定基金",
+      "value": "差額補填",
+      "unit": "で経営急変緩和",
+      "oldValue": "これまで 輸入トウモロコシ高騰で赤字転落",
+      "description": "積立基金から飼料価格の急激な上昇分を自動交付",
+      "badge": "飼料補填",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "牛乳の余り・不足",
+      "labelStandard": "生乳の需給調整支援",
+      "value": "加工支援",
+      "unit": "で廃棄危機を回避",
+      "oldValue": "これまで 学校休み等で大量廃棄の危機",
+      "description": "バターや脱脂粉乳への加工・保管費用を国が支援",
+      "badge": "需給調整",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "国産のエサを増やす",
+      "labelStandard": "国産飼料（子実用コーン）推進",
+      "value": "水田転作",
+      "unit": "で自給率向上",
+      "oldValue": "これまで 家畜のエサのほぼ全量を海外輸入",
+      "description": "主食用米からの転作で国産飼料の生産を拡大",
+      "badge": "飼料自給",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Leaf"
+    },
+    {
+      "labelSimple": "休みが取れる牧場へ",
+      "labelStandard": "自動搾乳ロボットの導入",
+      "value": "省力化投資",
+      "unit": "で離農を抑止",
+      "oldValue": "これまで 365日休みなしの重労働で後継者難",
+      "description": "搾乳や給餌の自動化で労働環境を劇的改善",
+      "badge": "自動搾乳",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Cpu"
+    }
   ]
 }

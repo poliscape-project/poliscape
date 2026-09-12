@@ -171,5 +171,81 @@
       "text": "混雑バス・美化財源",
       "color": "bg-emerald-50 text-emerald-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "1泊あたりの税金",
+      "labelStandard": "宿泊税額の目安",
+      "value": "100〜2,000円超",
+      "unit": "1人1泊あたり",
+      "oldValue": "東京100〜200円等",
+      "descriptionSimple": "ホテルのグレードや街によって金額が変わる",
+      "descriptionStandard": "京都市最高1,000円、ニセコ町最高2,000円など",
+      "badge": "1泊100〜2,000円",
+      "badgeColor": "bg-sky-100 text-sky-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "導入している街の数",
+      "labelStandard": "導入・検討自治体数",
+      "value": "全国30以上",
+      "unit": "の自治体",
+      "oldValue": "東京、大阪、京都など一部都市のみ",
+      "descriptionSimple": "全国の人気観光地で導入がどんどん拡大中！",
+      "descriptionStandard": "北海道、福岡、金沢、長崎など全国に波及",
+      "badge": "全国30自治体超",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "MapPin"
+    },
+    {
+      "labelSimple": "集めたお金の使い道",
+      "labelStandard": "税金の主な使途",
+      "value": "混雑・ゴミ対策",
+      "unit": "（観光公害防止）",
+      "oldValue": "観光客を呼ぶプロモーション中心だった",
+      "descriptionSimple": "観光バスを増やしたりきれいなトイレを作る！",
+      "descriptionStandard": "観光特急バス増便・多言語標識・美化清掃に充当",
+      "badge": "オーバーツーリズム対策",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "だれが払う？",
+      "labelStandard": "課税対象と二重価格議論",
+      "value": "内外二重価格",
+      "unit": "の議論台頭",
+      "oldValue": "外国人も日本人も一律課税",
+      "descriptionSimple": "日本の出張サラリーマンの免除などが議論中",
+      "descriptionStandard": "外国人富裕層と国内ビジネス客の区分議論が浮上",
+      "badge": "二重価格議論",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Users"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "観光公害に悩む京都・浅草の住民",
+        "commentSimple": "「観光客で満員だったバスに地元専用便が出たり、道路のゴミが片付いて生活が落ち着いた」",
+        "commentStandard": "「観光客の急増で圧迫されていた市民生活のインフラ整備に、観光客自身が負担してくれるのは当然」"
+      },
+      {
+        "speaker": "観光都市の財政担当者",
+        "commentSimple": "「市民の住民税に頼ることなく、清潔な公衆トイレや多言語案内板を整備する自前の財源ができた」",
+        "commentStandard": "「受益者負担の原則に基づき、オーバーツーリズム対策と観光地の高品質化を両立できる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "国内出張の多い会社員",
+        "commentSimple": "「外国人のお金持ち対策のはずなのに、仕事で安いホテルに泊まる自分まで毎回税金を取られるのは納得いかない」",
+        "commentStandard": "「インバウンド目的の税金が、国内の家族旅行や出張サラリーマンにも一律課税される不満がある」"
+      },
+      {
+        "speaker": "温泉街の老舗旅館経営者",
+        "commentSimple": "「宿泊客から数百円を集めて役所に申告・納税する事務がとても重く、フロントでの説明も大変」",
+        "commentStandard": "「小規模事業者にとってシステム改修費用や代理徴収の手間が重荷で、客離れも心配」"
+      }
+    ]
+  }
 }

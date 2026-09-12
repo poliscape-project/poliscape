@@ -139,5 +139,51 @@
       "text": "男女接種で集団免疫",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "男子への公費助成",
+      "labelStandard": "男子への公費助成",
+      "value": "全額無料",
+      "unit": "（東京都等）",
+      "oldValue": "全額自己負担（3回で5万〜10万円）",
+      "description": "自治体独自助成から国の定期接種へ審議",
+      "badge": "無料化拡大中",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "男性自身の予防疾患",
+      "labelStandard": "男性自身の予防疾患",
+      "value": "中咽頭がん",
+      "unit": "・肛門がん等",
+      "oldValue": "子宮頸がん（女子専用）との誤解",
+      "description": "近年急増する男性頭頸部がんを確実に阻止",
+      "badge": "男性のがん予防",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "集団免疫による効果",
+      "labelStandard": "集団免疫による効果",
+      "value": "ウイルス撲滅",
+      "unit": "（社会全体）",
+      "oldValue": "女性だけに接種負担を偏重",
+      "description": "男女双方が打つことで感染経路を遮断",
+      "badge": "集団免疫獲得",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "海外の導入実績",
+      "labelStandard": "海外の導入実績",
+      "value": "40",
+      "unit": "カ国以上で標準",
+      "oldValue": "日本は女子の積極勧奨も長年停滞",
+      "description": "豪州や欧米では男女無料接種が常識",
+      "badge": "世界標準へ",
+      "badgeColor": "bg-slate-100 text-slate-700",
+      "icon": "Globe"
+    }
   ]
 }

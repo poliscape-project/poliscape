@@ -234,6 +234,7 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
         {/* 4. 【共感理解】一言フキダシでわかる両論併記（メリット vs 課題） */}
         <PolicyPerspectives
           policyId={policy.id}
+          voices={policy.voices}
           benefitsTitle={policy.perspectives.benefitsTitle}
           benefits={policy.perspectives.benefits}
           challengesTitle={policy.perspectives.challengesTitle}

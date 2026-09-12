@@ -185,5 +185,81 @@
       "text": "国の手当金・再建支援",
       "color": "bg-blue-50 text-blue-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "殺処分されたニワトリ",
+      "labelStandard": "過去最多の殺処分羽数",
+      "value": "1,771",
+      "unit": "万羽",
+      "oldValue": "2022-2023年シーズン（全国採卵鶏の約1割）",
+      "descriptionSimple": "過去最悪の鳥インフルエンザが大流行！",
+      "descriptionStandard": "全国26道県で発生、卵供給が全国で大逼迫",
+      "badge": "過去最悪",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "卵の最高値（エッグショック）",
+      "labelStandard": "東京鶏卵卸売価格ピーク",
+      "value": "350",
+      "unit": "円超/kg",
+      "oldValue": "平時の卸売価格は約150〜200円/kg",
+      "descriptionSimple": "スーパーから卵が消えて高値が続いた！",
+      "descriptionStandard": "マヨネーズや外食の卵メニュー休止が相次ぐ",
+      "badge": "エッグショック",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "農家さんを助けるお金",
+      "labelStandard": "国の殺処分手当金",
+      "value": "評価額",
+      "unit": "を全額補償",
+      "oldValue": "処分された家畜の市場価格を国が手当",
+      "descriptionSimple": "ニワトリを処分された農家が破産しないよう国が助ける",
+      "descriptionStandard": "空舎期間の固定費補助や特別交付税措置で再開支援",
+      "badge": "手当金補償",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "部屋ごとに分けるルール",
+      "labelStandard": "分割管理（スプリット方式）",
+      "value": "鶏舎単位",
+      "unit": "の処分容認",
+      "oldValue": "1羽でも出たら農場全体の数十万羽を一律全処分",
+      "descriptionSimple": "病気が出たお部屋だけ処分して他を守れるように！",
+      "descriptionStandard": "認定農場で全滅を防ぎ供給ショックを緩和する新基準",
+      "badge": "分割管理容認",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Sparkles"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "都道府県の家畜防疫官",
+        "commentSimple": "「ウイルスは一瞬で広がるため、病気が出たらすぐに処分しないとお隣の町のニワトリまで全滅してしまう」",
+        "commentStandard": "「致死率100%の高病原性ウイルスは初動が命。24時間以内の殺処分こそが地域全体の養鶏と国民の食を守る防波堤だ」"
+      },
+      {
+        "speaker": "養鶏団体の役員",
+        "commentSimple": "「別々のお部屋でしっかり消毒していれば、病気が出たお部屋だけ処分して他を守れるルールができて助かる」",
+        "commentStandard": "「スプリット管理（分割管理）が認められたことで、百万羽規模の農場全体が一発で全滅する悪夢を回避できる道が開けた」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "派遣された自治体職員・作業員",
+        "commentSimple": "「防護服を着て何日も徹夜でニワトリを処分し続ける仕事は、心が張り裂けそうになるほどつらい」",
+        "commentStandard": "「極寒の鶏舎で何十万羽もの命を奪い袋詰めする作業は過酷を極め、作業員の精神的トラウマ（PTSD）が深刻だ」"
+      },
+      {
+        "speaker": "発生地域の周辺住民",
+        "commentSimple": "「何十万羽ものニワトリを近くに埋められたら、井戸水や川が汚れてしまわないかとても不安だ」",
+        "commentStandard": "「死骸を埋める場所が足りず、地下水汚染や悪臭の懸念から埋却地探しが各地で紛糾している現実を直視すべきだ」"
+      }
+    ]
+  }
 }

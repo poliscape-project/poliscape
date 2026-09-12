@@ -165,5 +165,51 @@
       "text": "全国人口カバー率ほぼ100%へ",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "相談窓口の番号と体制",
+      "labelStandard": "相談窓口の番号と体制",
+      "value": "24時間体制の#7119ダイヤル",
+      "unit": "",
+      "oldValue": "これまで: 迷ったら直接119番にかけるか、我慢して夜間放置するしかなかった",
+      "description": "「#7119」に電話すれば24時間365日看護師や医師が電話トリアージ",
+      "badge": "24時間体制の#7119ダイヤル",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "救急車の現場到着時間",
+      "labelStandard": "救急車の現場到着時間",
+      "value": "重症患者への到着時間を短縮",
+      "unit": "",
+      "oldValue": "これまで: 軽症出動の多発により、通報から到着まで全国平均10分超へ延伸",
+      "description": "#7119による軽症抑制と直通119連携で、重症事案への到着を迅速化",
+      "badge": "重症患者への到着時間を短縮",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "全国の人口カバー率",
+      "labelStandard": "全国の人口カバー率",
+      "value": "全国人口カバー率ほぼ100%へ",
+      "unit": "",
+      "oldValue": "これまで: 大都市圏中心の導入にとどまり、地方・過疎県では未実施地域が散在",
+      "description": "全都道府県での導入を目標化し、県域統合コールセンター等で全国カバー",
+      "badge": "全国人口カバー率ほぼ100%へ",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "MapPin"
+    },
+    {
+      "labelSimple": "夜間休日の受診先案内",
+      "labelStandard": "夜間休日の受診先案内",
+      "value": "夜間受診先をリアルタイム案内",
+      "unit": "",
+      "oldValue": "これまで: どの病院が開いているか分からず自力で何軒も電話確認",
+      "description": "緊急度判定と同時に、今すぐ受診可能な休日夜間診療所をリアルタイム案内",
+      "badge": "夜間受診先をリアルタイム案内",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Building"
+    }
   ]
 }

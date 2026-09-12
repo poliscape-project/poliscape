@@ -155,5 +155,55 @@
       "text": "国産12式改長射程ミサイル",
       "color": "bg-teal-50 text-teal-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "射程1,000km超",
+      "labelStandard": "反撃ミサイルの射程距離",
+      "value": "1,000",
+      "unit": "km超",
+      "oldValue": "自衛隊ミサイルは射程100〜200kmのみ",
+      "descriptionSimple": "相手の脅威圏外から基地を叩くスタンド・オフ火力",
+      "descriptionStandard": "相手の脅威圏外から基地を叩くスタンド・オフ火力",
+      "badge": "射程1,000km超",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "トマホーク前倒し",
+      "labelStandard": "トマホーク調達数",
+      "value": "最大 400",
+      "unit": "発（米製）",
+      "oldValue": "保有ゼロ（防空迎撃ミサイルのみ）",
+      "descriptionSimple": "イージス護衛艦へ前倒しで2025年から配備開始",
+      "descriptionStandard": "イージス護衛艦へ前倒しで2025年から配備開始",
+      "badge": "トマホーク前倒し",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Ship"
+    },
+    {
+      "labelSimple": "防衛費43兆円",
+      "labelStandard": "防衛費の増額水準",
+      "value": "GDP比 2",
+      "unit": "%へ倍増",
+      "oldValue": "長年「GDP比1%枠」に抑えられていた",
+      "descriptionSimple": "5年間で43兆円の歴史的防衛力強化予算",
+      "descriptionStandard": "5年間で43兆円の歴史的防衛力強化予算",
+      "badge": "防衛費43兆円",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "国産ミサイル量産",
+      "labelStandard": "国産ミサイル開発",
+      "value": "12式改・高速",
+      "unit": "滑空弾",
+      "oldValue": "近距離の島嶼迎撃能力に限定",
+      "descriptionSimple": "三菱重工等による国産打撃力の量産配備",
+      "descriptionStandard": "三菱重工等による国産打撃力の量産配備",
+      "badge": "国産ミサイル量産",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

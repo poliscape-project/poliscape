@@ -165,5 +165,51 @@
       "text": "再エネ豊富な地方DCと直結",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国際ケーブルの陸揚げ拠点",
+      "labelStandard": "国際ケーブルの陸揚げ拠点",
+      "value": "北海道・九州・日本海側へ分散",
+      "unit": "",
+      "oldValue": "これまで: 房総半島（千葉県）と志摩半島（三重県）の2大拠点に全体の8割以上が集中",
+      "description": "北海道（苫小牧・石狩）、九州（北九州等）、日本海側（秋田・新潟）へ分散",
+      "badge": "北海道・九州・日本海側へ分散",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Anchor"
+    },
+    {
+      "labelSimple": "日本周回海底ケーブル網",
+      "labelStandard": "日本周回海底ケーブル網",
+      "value": "日本周回ルートで陸上寸断を回避",
+      "unit": "",
+      "oldValue": "これまで: 陸上の主要幹線（光ファイバー）が東名阪の道路・鉄道沿いに偏重",
+      "description": "日本列島をぐるりと海沿いに一周する国内光ファイバー網を整備",
+      "badge": "日本周回ルートで陸上寸断を回避",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Globe"
+    },
+    {
+      "labelSimple": "地方データセンター（DC）誘致",
+      "labelStandard": "地方データセンター（DC）誘致",
+      "value": "再エネ豊富な地方DCと直結",
+      "unit": "",
+      "oldValue": "これまで: 通信遅延を嫌い、データセンターの大部分が首都圏・関西圏に集中",
+      "description": "再エネ電源が豊富な北海道や東北に陸揚げ局直結のハイパースケールDCを建設",
+      "badge": "再エネ豊富な地方DCと直結",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "ケーブル敷設への公的助成",
+      "labelStandard": "ケーブル敷設への公的助成",
+      "value": "国費補助で地方敷設を後押し",
+      "unit": "",
+      "oldValue": "これまで: 巨額の敷設費用（数百億〜数千億円）のため民間通信会社任せで集中が固定化",
+      "description": "総務省の基金・補助金により、地方ルート敷設費用の最大1/3〜1/2を支援",
+      "badge": "国費補助で地方敷設を後押し",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    }
   ]
 }

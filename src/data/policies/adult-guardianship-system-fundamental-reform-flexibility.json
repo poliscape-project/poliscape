@@ -139,5 +139,51 @@
       "text": "意思決定支援転換",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "後見人を頼める期間",
+      "labelStandard": "スポット型・期限付き後見",
+      "value": "限定",
+      "unit": "利用を解禁（目的達成で終了）",
+      "oldValue": "これまで 一度頼むと本人の死亡まで継続",
+      "description": "実家売却や遺産分割が終われば終了可能に",
+      "badge": "期間の柔軟化",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "弁護士などに払う費用",
+      "labelStandard": "生涯報酬負担の大幅削減",
+      "value": "激減",
+      "unit": "（生涯数百万円の負担を回避）",
+      "oldValue": "毎月数万円の報酬を一生払い続ける義務",
+      "description": "必要な期間だけの費用で気軽に使える制度へ",
+      "badge": "経済負担軽減",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "本人の気持ちを大切にする",
+      "labelStandard": "意思決定支援への理念転換",
+      "value": "尊重",
+      "unit": "（本人の望む生き方を最優先）",
+      "oldValue": "後見人が本人の財産処分を一律禁止",
+      "description": "国連障害者権利条約に沿った人権重視へ",
+      "badge": "本人の尊厳回復",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "HeartHandshake"
+    },
+    {
+      "labelSimple": "民法が変わる時期",
+      "labelStandard": "成年後見制度民法改正時期",
+      "value": "2026",
+      "unit": "年〜2027年の法制化予定",
+      "oldValue": "2000年制定の硬直的な民法後見制度",
+      "description": "法制審議会要綱答申を経て法案提出へ",
+      "badge": "民法抜本改正へ",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Scale"
+    }
   ]
 }

@@ -139,5 +139,51 @@
       "text": "身寄りなし高齢支援",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "身寄りのない一人暮らし",
+      "labelStandard": "65歳以上単身高齢者世帯比率",
+      "value": "約20",
+      "unit": "%（急増するおひとりさま）",
+      "oldValue": "子どもや同居親族が面倒を見る家族像",
+      "description": "頼れる親戚がいない超高齢社会の現実",
+      "badge": "おひとりさま急増",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "認知症になったときの備え",
+      "labelStandard": "生前信託による自動支払",
+      "value": "安全",
+      "unit": "に施設費・医療費を管理送金",
+      "oldValue": "認知症発症で銀行預金が凍結される危機",
+      "description": "元気なうちに契約し信託銀行が確実に支払い",
+      "badge": "預金凍結防止",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "死んだ後の片付けや葬儀",
+      "labelStandard": "死後事務委任契約の一体化",
+      "value": "一括",
+      "unit": "委託（葬儀・納骨・遺品整理）",
+      "oldValue": "孤独死後に無縁仏や部屋放置のトラブル",
+      "description": "本人の希望通りの葬儀・片付けを代行",
+      "badge": "安心の死後事務",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "賃貸アパートの借りやすさ",
+      "labelStandard": "民間アパート入居拒絶の解消",
+      "value": "解決",
+      "unit": "へ（大家の孤独死不安を払拭）",
+      "oldValue": "「高齢者は孤独死が怖い」と門前払い",
+      "description": "死後の原状回復を保証し住まいを確保",
+      "badge": "住まい確保支援",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Home"
+    }
   ]
 }

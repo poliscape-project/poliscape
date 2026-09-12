@@ -165,5 +165,51 @@
       "text": "購入・リフォーム・引越し代も対象",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "支援金の支給上限額",
+      "labelStandard": "支援金の支給上限額",
+      "value": "20代新婚世帯に最大60万円",
+      "unit": "",
+      "oldValue": "これまで: 旧制度では1世帯あたり最大30万円が上限",
+      "description": "夫婦ともに29歳以下の場合は最大60万円、39歳以下の場合は最大30万円へ倍増",
+      "badge": "20代新婚世帯に最大60万円",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "対象となる世帯年収上限",
+      "labelStandard": "対象となる世帯年収上限",
+      "value": "世帯所得500万円未満へ緩和",
+      "unit": "",
+      "oldValue": "これまで: 世帯所得340万円未満（年収約400万〜500万円程度）と厳格",
+      "description": "世帯所得500万円未満（年収換算約600万〜700万円未満）へ大幅緩和",
+      "badge": "世帯所得500万円未満へ緩和",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "助成の対象となる費用",
+      "labelStandard": "助成の対象となる費用",
+      "value": "購入・リフォーム・引越し代も対象",
+      "unit": "",
+      "oldValue": "これまで: 敷金・礼金・家賃のみなど対象が限定的",
+      "description": "住宅の購入費、リフォーム費用、敷金・礼金・共益費、引越し業者費用まで網羅",
+      "badge": "購入・リフォーム・引越し代も対象",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "事業を実施する自治体数",
+      "labelStandard": "事業を実施する自治体数",
+      "value": "実施自治体数が全国拡大中",
+      "unit": "",
+      "oldValue": "これまで: 自治体負担があるため、全国の約3〜4割の自治体しか実施せず",
+      "description": "国の補助率を最大2/3〜3/4へ引き上げ、実施自治体数を全国過半数へ拡大",
+      "badge": "実施自治体数が全国拡大中",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "MapPin"
+    }
   ]
 }

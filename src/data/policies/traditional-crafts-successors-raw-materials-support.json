@@ -140,5 +140,51 @@
       "text": "修行期間の生活保障手当",
       "color": "bg-amber-50 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "伝統工芸の売上",
+      "labelStandard": "全国生産額の推移",
+      "value": "約1/6",
+      "unit": "800億円へ激減",
+      "oldValue": "これまで ピーク時5,400億円",
+      "description": "生活様式の変化で職人も売上も激減し絶滅危機",
+      "badge": "産業存亡危機",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "修業中のお給料",
+      "labelStandard": "後継者への就業生活支援",
+      "value": "月10〜15万",
+      "unit": "円の手当支給",
+      "oldValue": "これまで 修行時は無給・自己負担",
+      "description": "若い人が安心して弟子入りできるよう生活費を国が助成",
+      "badge": "修行生活保障",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "日本の木を守る",
+      "labelStandard": "国宝修繕の国産原材料義務",
+      "value": "100%",
+      "unit": "国産漆原則使用",
+      "oldValue": "これまで 9割以上中国産漆に依存",
+      "description": "国宝修理に国産漆を指定し国内の漆林育成を支援",
+      "badge": "原材料国産化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Trees"
+    },
+    {
+      "labelSimple": "木が育つ時間",
+      "labelStandard": "ウルシノキの育成期間",
+      "value": "15年",
+      "unit": "樹液採取まで",
+      "oldValue": "これまで 植える人がいなかった",
+      "description": "木を植えてから漆が採れるまで15年かかる時間の壁",
+      "badge": "育成の壁",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Clock"
+    }
   ]
 }

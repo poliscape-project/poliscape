@@ -165,5 +165,51 @@
       "text": "音声合成ツールへの本人確認義務化",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "AIなりすまし詐欺への法定刑",
+      "labelStandard": "AIなりすまし詐欺への法定刑",
+      "value": "AI悪用詐欺の法定刑引き上げ検討",
+      "unit": "",
+      "oldValue": "これまで: 通常の刑法詐欺罪（懲役10年以下）として一括処理",
+      "description": "AI偽装・ディープフェイク悪用の組織詐欺に対する法定刑上限引き上げを検討",
+      "badge": "AI悪用詐欺の法定刑引き上げ検討",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "通信キャリアでのAI音声検知",
+      "labelStandard": "通信キャリアでのAI音声検知",
+      "value": "合成音声を自動検知して警告",
+      "unit": "",
+      "oldValue": "これまで: 電話回線の音声は暗号化・無加工でそのまま受話器へ伝達",
+      "description": "通信キャリア網内で合成音声特有の周波数歪みをAIが検知し警告表示",
+      "badge": "合成音声を自動検知して警告",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "音声合成AIツールの提供元規制",
+      "labelStandard": "音声合成AIツールの提供元規制",
+      "value": "音声合成ツールへの本人確認義務化",
+      "unit": "",
+      "oldValue": "これまで: 誰でも匿名・無料で他人の声をクローンできるツールがウェブに放置",
+      "description": "商用音声クローン事業者にユーザーの公的身元確認（KYC）と同意ログ保持を義務化",
+      "badge": "音声合成ツールへの本人確認義務化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "UserCheck"
+    },
+    {
+      "labelSimple": "AI生成音声への透かし埋め込み",
+      "labelStandard": "AI生成音声への透かし埋め込み",
+      "value": "AI音声への電子透かし義務付け",
+      "unit": "",
+      "oldValue": "これまで: 生成された音声データが本物かAI製かを判別する手立てがない",
+      "description": "耳には聞こえない電子透かし（不可視ウォーターマーク）の埋め込みを義務化",
+      "badge": "AI音声への電子透かし義務付け",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "FileCheck"
+    }
   ]
 }

@@ -139,5 +139,51 @@
       "text": "通信の秘密・憲法21条",
       "color": "bg-amber-50 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "出版界の年間被害推計",
+      "labelStandard": "出版界の年間被害推計",
+      "value": "数千億",
+      "unit": "〜1兆円規模",
+      "oldValue": "漫画村摘発後も後継サイト乱立",
+      "description": "海賊版タダ読みでクリエイターが困窮",
+      "badge": "数千億円被害",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "ISPによる接続遮断",
+      "labelStandard": "ISPによる接続遮断",
+      "value": "DNSブロック",
+      "unit": "の法制化議論",
+      "oldValue": "削除要請が届かない海外サーバー",
+      "description": "国内プロバイダで通信を水際強制切断",
+      "badge": "ブロッキング論争",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Ban"
+    },
+    {
+      "labelSimple": "憲法上の対立論点",
+      "labelStandard": "憲法上の対立論点",
+      "value": "憲法21条",
+      "unit": "「通信の秘密」侵害",
+      "oldValue": "児童ポルノのみ例外的に自主遮断",
+      "description": "全ユーザーの通信監視・検閲社会への懸念",
+      "badge": "通信の秘密侵害",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "技術的な回避手段",
+      "labelStandard": "技術的な回避手段",
+      "value": "VPN",
+      "unit": "で簡単にすり抜け可能",
+      "oldValue": "DNS設定変更で回避可能",
+      "description": "一般人だけ監視され実効性が薄い批判",
+      "badge": "VPN回避の限界",
+      "badgeColor": "bg-slate-100 text-slate-700",
+      "icon": "Smartphone"
+    }
   ]
 }

@@ -139,5 +139,51 @@
       "text": "ウォーターPPP官民連携",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "法定耐用年数超え水道管",
+      "labelStandard": "法定耐用年数超え水道管",
+      "value": "約 20",
+      "unit": "%以上（全国放置）",
+      "oldValue": "40年を超えた管路が年間2万件破損",
+      "description": "道路陥没や突然の大規模断水が続発",
+      "badge": "老朽管20%超",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "将来の料金値上げ予測",
+      "labelStandard": "将来の料金値上げ予測",
+      "value": "全国 9",
+      "unit": "割の自治体で値上げへ",
+      "oldValue": "人口減少で水道料金収入が激減",
+      "description": "2040年までに数割〜数倍の値上げ試算",
+      "badge": "9割の自治体値上げ",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "広域化とウォーターPPP",
+      "labelStandard": "広域化とウォーターPPP",
+      "value": "隣接統合",
+      "unit": "・包括民間委託推進",
+      "oldValue": "市町村ごとに1,300の零細水道局が乱立",
+      "description": "技術職員不足をシェアし最新DXで更新",
+      "badge": "官民連携・広域化",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "所管官庁の一元化",
+      "labelStandard": "所管官庁の一元化",
+      "value": "国土交通省",
+      "unit": "へ完全移管完了",
+      "oldValue": "厚生労働省が公衆衛生で所管",
+      "description": "下水道・道路・河川インフラと一体整備",
+      "badge": "国交省へ移管",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Layers"
+    }
   ]
 }

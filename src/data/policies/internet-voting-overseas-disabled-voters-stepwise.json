@@ -139,5 +139,51 @@
       "text": "秘密投票・買収防止の壁",
       "color": "bg-rose-50 text-rose-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "先行する人たち",
+      "labelStandard": "在外邦人ネット投票の対象",
+      "value": "約100万人",
+      "unit": "在外有権者",
+      "oldValue": "これまで 飛行機で大使館へ行く必要",
+      "description": "海外に住む日本人がスマホから国政選挙に投票可能に",
+      "badge": "在外先行",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Globe"
+    },
+    {
+      "labelSimple": "本人確認の技術",
+      "labelStandard": "公的個人認証（JPKI）＋生体認証",
+      "value": "マイナンバー",
+      "unit": "＋顔認証",
+      "oldValue": "これまで 郵送や対面目視確認",
+      "description": "スマホのICチップ読み取りと顔認証でなりすまし防止",
+      "badge": "厳格認証",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "投票所の困りごと",
+      "labelStandard": "移動困難者の参政権保障",
+      "value": "投票所難民",
+      "unit": "ゼロへ",
+      "oldValue": "これまで 寝たきり・障害で投票困難",
+      "description": "障害者や過疎地高齢者が自宅ベッドから投票可能へ",
+      "badge": "参政権保障",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "一番心配なこと",
+      "labelStandard": "秘密投票侵害と脅迫リスク",
+      "value": "のぞき見",
+      "unit": "強要リスク",
+      "oldValue": "これまで カーテンで仕切られた投票箱",
+      "description": "家族や上司に画面を監視され投票を強制される危険",
+      "badge": "秘密投票侵害",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
   ]
 }

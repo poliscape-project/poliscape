@@ -179,5 +179,51 @@
       "text": "アプリ事前マッチングによる相乗り割引",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "タクシー料金の決定方式",
+      "labelStandard": "タクシー料金の決定方式",
+      "value": "乗車前の事前確定運賃制度の完全解禁",
+      "unit": "",
+      "oldValue": "これまで: 走行中のメーター計算のみで、降りるまで最終運賃が不明だった",
+      "description": "アプリ上で最短ルートに基づき乗車前に確定運賃を提示・決済完了",
+      "badge": "乗車前の事前確定運賃制度の完全解禁",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "需要集中時の迎車料金",
+      "labelStandard": "需要集中時の迎車料金",
+      "value": "混雑に応じた変動迎車料金（ダイナミック）",
+      "unit": "",
+      "oldValue": "これまで: 定額迎車料金（300〜500円程度）に固定されていた",
+      "description": "雨天や深夜などの混雑度に応じて迎車料金を上下させる変動価格制を容認",
+      "badge": "混雑に応じた変動迎車料金（ダイナミック）",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "他人同士の相乗り（シェア）",
+      "labelStandard": "他人同士の相乗り（シェア）",
+      "value": "アプリ事前マッチングによる相乗り割引",
+      "unit": "",
+      "oldValue": "これまで: 法令上、個別契約の相乗りは禁止され割り勘ができなかった",
+      "description": "アプリマッチングによる乗合運賃制度を創設し、1人あたり運賃を3〜4割安く",
+      "badge": "アプリ事前マッチングによる相乗り割引",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "決済と領収書のデジタル化",
+      "labelStandard": "決済と領収書のデジタル化",
+      "value": "到着即降車の車内決済レス化",
+      "unit": "",
+      "oldValue": "これまで: 車内での現金・端末決済で降車時に時間がかかった",
+      "description": "ネット決済（GO Pay等）により到着即降車（GOスルー）とインボイス対応PDF領収書",
+      "badge": "到着即降車の車内決済レス化",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "CreditCard"
+    }
   ]
 }

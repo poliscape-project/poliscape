@@ -159,5 +159,51 @@
       "text": "措置命令・事業者名公表",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "誰が責任を取るか",
+      "labelStandard": "広告主への直接責任",
+      "value": "事業者（広告主）",
+      "unit": "を法的処分",
+      "oldValue": "これまで 法律上の位置付けなく野放し",
+      "description": "インフルエンサーではなく依頼元企業を処分",
+      "badge": "広告主処罰",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "広告の明示ルール",
+      "labelStandard": "「PR」「広告」の明瞭表示",
+      "value": "一目で判別",
+      "unit": "できる表記義務",
+      "oldValue": "これまで 小さなハッシュタグや隠蔽表記",
+      "description": "消費者が広告だと即座に分かる配置を義務化",
+      "badge": "PR明記",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "FileText"
+    },
+    {
+      "labelSimple": "違反したときの処分",
+      "labelStandard": "行政処分と企業名の公表",
+      "value": "措置命令",
+      "unit": "＋企業名公開",
+      "oldValue": "これまで 行政指導止まりで名前も隠蔽",
+      "description": "消費者庁が是正命令を下しウェブで企業名を公表",
+      "badge": "社名公表",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "やらせ口コミ対策",
+      "labelStandard": "サクラレビュー・星5操作の禁止",
+      "value": "やらせ厳禁",
+      "unit": "（自作自演も対象）",
+      "oldValue": "これまで 社員や報酬による好意的口コミ工作",
+      "description": "口コミサイトでの自作自演や買収レビューを規制",
+      "badge": "サクラ排除",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Sparkles"
+    }
   ]
 }

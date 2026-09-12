@@ -139,5 +139,51 @@
       "text": "全隊舎の個室・エアコン化",
       "color": "bg-emerald-50 text-emerald-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "自衛官候補生の採用率",
+      "labelStandard": "自衛官候補生の採用率",
+      "value": "約 5",
+      "unit": "割（過去最低更新）",
+      "oldValue": "定員充足が当たり前だった",
+      "description": "少子化と民間の賃上げで若者が集まらず",
+      "badge": "採用5割割れ危機",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "危険手当・航海手当",
+      "labelStandard": "危険手当・航海手当",
+      "value": "大幅引き上げ",
+      "unit": "（命の対価）",
+      "oldValue": "一般行政職公務員とほぼ同列の基準",
+      "description": "災害派遣や洋上勤務の過酷さを正当評価",
+      "badge": "手当大幅増額",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "隊舎・官舎の改修",
+      "labelStandard": "隊舎・官舎の改修",
+      "value": "全室個室",
+      "unit": "・Wi-Fiエアコン完備",
+      "oldValue": "築50年の大部屋・エアコンなしも存在",
+      "description": "プライバシーを守る快適な居住空間へ",
+      "badge": "個室Wi-Fi完備",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "防衛予算の規模",
+      "labelStandard": "防衛予算の規模",
+      "value": "GDP比 2",
+      "unit": "%（年8〜9兆円）",
+      "oldValue": "長年1%枠（年5兆円台）で推移",
+      "description": "装備品だけでなく「人」への投資を最優先",
+      "badge": "人的基盤強化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Building"
+    }
   ]
 }

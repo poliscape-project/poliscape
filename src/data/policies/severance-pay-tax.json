@@ -171,5 +171,81 @@
       "text": "1/2課税は維持方針",
       "color": "bg-teal-50 text-teal-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "20年目までの非課税枠",
+      "labelStandard": "勤続20年以下（年あたり）",
+      "value": "年40万",
+      "unit": "円/年",
+      "oldValue": "勤続1年ごとに40万円控除",
+      "descriptionSimple": "20年働くと800万円まで税金ゼロ",
+      "descriptionStandard": "勤続年数×40万円の非課税枠を付与",
+      "badge": "現行維持",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "20年超の現行優遇枠",
+      "labelStandard": "勤続20年超（年あたり）",
+      "value": "年70万",
+      "unit": "円/年",
+      "oldValue": "21年目以降は控除枠が急拡大",
+      "descriptionSimple": "長く勤めるほど税金の割引が大きかった",
+      "descriptionStandard": "長期勤続優遇として年70万円の控除枠",
+      "badge": "現行優遇",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Calculator"
+    },
+    {
+      "labelSimple": "見直し議論の内容",
+      "labelStandard": "一律平準化議論",
+      "value": "年40万",
+      "unit": "一律化案",
+      "oldValue": "20年超の70万円枠",
+      "descriptionSimple": "転職しやすくするため一律にする案で議論",
+      "descriptionStandard": "長期優遇を廃止し全勤続年数を一律40万円案で検討",
+      "badge": "見直し論点",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "退職金の税金ルール",
+      "labelStandard": "退職所得の1/2課税",
+      "value": "1/2課税",
+      "unit": "維持方針",
+      "oldValue": "控除後を半分にして超低税率課税",
+      "descriptionSimple": "他の給料と別にして安くする仕組みは継続",
+      "descriptionStandard": "分離課税かつ1/2課税の恩恵は基本的に維持の見通し",
+      "badge": "低税率継続",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "キャリアアップを目指す転職者・若手",
+        "commentSimple": "「途中で会社を変わっても税金で損しなくなるのは、新しいチャレンジがしやすくて嬉しい！」",
+        "commentStandard": "「1つの会社に居続ける人だけを過度に優遇する昭和の税制を是正し、キャリアチェンジを後押しする」"
+      },
+      {
+        "speaker": "経済学者・産業界",
+        "commentSimple": "「成長産業に人が移りやすくなり、日本経済全体の新陳代謝と賃金上昇につながる」",
+        "commentStandard": "「雇用の流動化を阻んでいた税制上の歪みを解消し、成長分野への円滑な労働移動を促進できる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "定年間近の勤続30年会社員",
+        "commentSimple": "「定年まで同じ会社で真面目に働いてきたのに、引退直前に税金を増やすなんてハシゴ外しだ！」",
+        "commentStandard": "「長年の会社貢献と退職金をもとに老後資金を設計してきたのに、直前での課税強化は納得できない」"
+      },
+      {
+        "speaker": "労働組合・法曹関係者",
+        "commentSimple": "「大企業の転職組はいいけれど、中小企業で地道に定年を迎える人の老後資金が減ってしまう」",
+        "commentStandard": "「退職金は賃金の後払い的性格が強く、実質的なサラリーマン増税につながると強い警戒感がある」"
+      }
+    ]
+  }
 }

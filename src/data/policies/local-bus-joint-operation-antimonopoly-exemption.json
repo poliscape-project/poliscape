@@ -139,5 +139,51 @@
       "text": "共通定期券・過疎路線維持",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "独禁法の適用除外",
+      "labelStandard": "独禁法の適用除外",
+      "value": "カルテル公認",
+      "unit": "（特例法で合法化）",
+      "oldValue": "ダイヤや運賃の調整は独禁法違反で処罰",
+      "description": "過疎路線の共倒れを防ぐ共同経営計画",
+      "badge": "独禁法特例法",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Briefcase"
+    },
+    {
+      "labelSimple": "重複便のダイヤ調整",
+      "labelStandard": "重複便のダイヤ調整",
+      "value": "等間隔運行",
+      "unit": "（15分ヘッド等）",
+      "oldValue": "同じ行き先のバスが2台続いて来て長時間待機",
+      "description": "駅前でのイライラ待ち時間を大幅短縮",
+      "badge": "等間隔運行",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "共通定期券の導入",
+      "labelStandard": "共通定期券の導入",
+      "value": "どちらの社も",
+      "unit": "1枚の定期でOK",
+      "oldValue": "会社ごとに別々の定期券購入が必要だった",
+      "description": "利用者の利便性を飛躍的に向上",
+      "badge": "共通定期券",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Ticket"
+    },
+    {
+      "labelSimple": "全国バス事業者の赤字比率",
+      "labelStandard": "全国バス事業者の赤字比率",
+      "value": "8割以上",
+      "unit": "（赤字経営）",
+      "oldValue": "内部補助で維持していた",
+      "description": "運転手不足による路線全廃を水際で回避",
+      "badge": "赤字8割の危機",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    }
   ]
 }

@@ -179,5 +179,51 @@
       "text": "観光客向け二重価格・急行運賃を公認",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "特定観光地での入域料・通行料",
+      "labelStandard": "特定観光地での入域料・通行料",
+      "value": "富士山等での入域料徴収と人数制限",
+      "unit": "",
+      "oldValue": "これまで: 自然公園や登山道は原則通行無料で、入山マナー違反が多発",
+      "description": "富士山（山梨県側2,000円徴収・人数制限4,000人）など、条例による強制徴収制度を解禁",
+      "badge": "富士山等での入域料徴収と人数制限",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "宿泊税の導入基準",
+      "labelStandard": "宿泊税の導入基準",
+      "value": "全国観光自治体での宿泊税・訪問税拡大",
+      "unit": "",
+      "oldValue": "これまで: 東京・京都など一部の大都市に限定されていた",
+      "description": "北海道ニセコ町や長野県白馬村、広島県廿日市市（宮島）など全国数十自治体へ拡大",
+      "badge": "全国観光自治体での宿泊税・訪問税拡大",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Hotel"
+    },
+    {
+      "labelSimple": "外国人・観光客と住民の二重価格",
+      "labelStandard": "外国人・観光客と住民の二重価格",
+      "value": "観光客向け二重価格・急行運賃を公認",
+      "unit": "",
+      "oldValue": "これまで: 内外無差別が原則とされ、観光客向けの高価格設定は不当と批判された",
+      "description": "混雑緩和を目的とする観光客向け急行バス高額運賃や、住民優遇パスの併用を国が公認",
+      "badge": "観光客向け二重価格・急行運賃を公認",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "生活バスと観光客の動線分離",
+      "labelStandard": "生活バスと観光客の動線分離",
+      "value": "観光特急バス新設と住民生活路線の分離",
+      "unit": "",
+      "oldValue": "これまで: 観光客と地元住民が同じ一般路線バスに殺到し乗り切れない事態",
+      "description": "主要観光地直行の「観光特急バス」新設と、住民専用生活路線の確保",
+      "badge": "観光特急バス新設と住民生活路線の分離",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Car"
+    }
   ]
 }

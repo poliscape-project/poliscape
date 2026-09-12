@@ -140,5 +140,51 @@
       "text": "数百億円の不正転売根絶",
       "color": "bg-emerald-50 text-emerald-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "免税のお金の返し方",
+      "labelStandard": "還付方式の抜本転換",
+      "value": "リファンド",
+      "unit": "空港で後払い戻し",
+      "oldValue": "これまで 店頭でその場10%引き",
+      "description": "店頭では税込満額払い、空港で荷物確認後に返金",
+      "badge": "リファンド方式",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "CreditCard"
+    },
+    {
+      "labelSimple": "防ぐ脱税の額",
+      "labelStandard": "不正転売の根絶効果",
+      "value": "数百億円",
+      "unit": "脱税阻止",
+      "oldValue": "これまで 国内転売で消費税ネコババ",
+      "description": "荷物を持たずに出国したら1円も返さず脱税完全封じ",
+      "badge": "転売撲滅",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "お金の戻し方",
+      "labelStandard": "還付金の受取方法",
+      "value": "電子還付",
+      "unit": "クレカ・電子マネー",
+      "oldValue": "これまで 店頭現金値引き",
+      "description": "自動キオスクで即座にクレジットカード等へ返金",
+      "badge": "キャッシュレス",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "空港の心配",
+      "labelStandard": "空港カウンター大混雑リスク",
+      "value": "空港大行列",
+      "unit": "フライト遅延懸念",
+      "oldValue": "これまで 店頭で手続き完了",
+      "description": "税関での荷物確認に時間がかかり飛行機遅延の恐れ",
+      "badge": "混雑対策課題",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
   ]
 }

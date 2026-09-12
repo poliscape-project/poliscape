@@ -139,5 +139,51 @@
       "text": "売上高20%課徴金",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "違反したときの罰金",
+      "labelStandard": "違反企業への課徴金算定率",
+      "value": "20",
+      "unit": "%（再違反時は30%）",
+      "oldValue": "これまで 独禁法の数%水準にとどまる",
+      "description": "自社優遇や外部排除に巨額ペナルティ",
+      "badge": "巨額課徴金",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "アプリの手数料",
+      "labelStandard": "アプリストア・決済手数料",
+      "value": "引下げ",
+      "unit": "へ競争促進",
+      "oldValue": "これまで 最大30%のApple税・Google税",
+      "description": "他社製ストアや外部決済を解禁義務化",
+      "badge": "手数料引き下げ",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "ルールが始まる時期",
+      "labelStandard": "法律の全面施行期限",
+      "value": "2025",
+      "unit": "年12月までに施行",
+      "oldValue": "これまで 巨大IT企業の自由裁量",
+      "description": "公取委が対象事業者を指定し監視開始",
+      "badge": "新法全面施行",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Calendar"
+    },
+    {
+      "labelSimple": "セキュリティの基準",
+      "labelStandard": "安全性・プライバシー確保",
+      "value": "客観的",
+      "unit": "基準の公表義務",
+      "oldValue": "これまで 自社ストア審査による囲い込み",
+      "description": "マルウェアや詐欺対策の厳格基準を維持",
+      "badge": "安全性両立",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

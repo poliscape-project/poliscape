@@ -155,5 +155,55 @@
       "text": "地下300m地層処分",
       "color": "bg-teal-50 text-teal-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "10万年隔離",
+      "labelStandard": "最終処分場の埋設深度",
+      "value": "地下300",
+      "unit": "m以深",
+      "oldValue": "原発敷地内の一時保管プール",
+      "descriptionSimple": "10万年間安全に隔離する地層処分",
+      "descriptionStandard": "10万年間安全に隔離する地層処分",
+      "badge": "10万年隔離",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "第1段階交付金",
+      "labelStandard": "文献調査受入の交付金",
+      "value": "最大20",
+      "unit": "億円",
+      "oldValue": "一般の過疎地域交付金のみ",
+      "descriptionSimple": "2年間の机上調査受け入れ自治体へ交付",
+      "descriptionStandard": "2年間の机上調査受け入れ自治体へ交付",
+      "badge": "第1段階交付金",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "本州初調査へ",
+      "labelStandard": "文献調査受け入れ自治体",
+      "value": "全国 3",
+      "unit": "自治体",
+      "oldValue": "寿都町・神恵内村の2町村",
+      "descriptionSimple": "佐賀県玄海町が全国3例目として応募",
+      "descriptionStandard": "佐賀県玄海町が全国3例目として応募",
+      "badge": "本州初調査へ",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "MapPin"
+    },
+    {
+      "labelSimple": "処分地難航",
+      "labelStandard": "ガラス固化体の総本数",
+      "value": "約2.6万",
+      "unit": "本（想定）",
+      "oldValue": "青森県六ヶ所村等で貯蔵中",
+      "descriptionSimple": "最終処分地が決まらない「トイレなきマンション」",
+      "descriptionStandard": "最終処分地が決まらない「トイレなきマンション」",
+      "badge": "処分地難航",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
   ]
 }

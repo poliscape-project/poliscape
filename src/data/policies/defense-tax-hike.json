@@ -165,5 +165,81 @@
       "text": "たばこ税1本3円増税",
       "color": "bg-amber-50 text-amber-900"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国がめざす防衛費の大きさ",
+      "labelStandard": "防衛関係予算の規模目標",
+      "value": "GDP比 2",
+      "unit": "%",
+      "oldValue": "従来のGDP比1%枠（約5.4兆円）",
+      "descriptionSimple": "日本の防衛予算を今までの2倍水準へ！",
+      "descriptionStandard": "年間約8.9兆円規模（5年間で43兆円枠）",
+      "badge": "GDP比2%目標",
+      "badgeColor": "bg-slate-100 text-slate-800",
+      "icon": "Shield"
+    },
+    {
+      "labelSimple": "お給料の税金（所得税）",
+      "labelStandard": "所得税付加税（税率1%）",
+      "value": "実質据置",
+      "unit": "（相殺措置）",
+      "oldValue": "復興特別所得税を1%引下げて相殺",
+      "descriptionSimple": "毎月の手取り税金は当面増えない工夫！",
+      "descriptionStandard": "課税期間を延長して防衛財源に付け替え",
+      "badge": "当面据え置き",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "たばこ1箱あたりの値上がり",
+      "labelStandard": "たばこ税の段階的引き上げ",
+      "value": "約 60",
+      "unit": "円/箱",
+      "oldValue": "1本あたり3円相当の増税",
+      "descriptionSimple": "たばこを吸う人の負担が増加",
+      "descriptionStandard": "段階的に1本3円（1箱60円）を引き上げ",
+      "badge": "段階増税",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "会社の税金（法人税）",
+      "labelStandard": "法人税付加税（4〜4.5%）",
+      "value": "500万円控除",
+      "unit": "（中小企業配慮）",
+      "oldValue": "法人税額から500万円を控除",
+      "descriptionSimple": "中小企業には負担がかからない仕組み！",
+      "descriptionStandard": "黒字の大企業を中心に防衛財源を分担",
+      "badge": "中小企業控除",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Briefcase"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "外交・安全保障の専門家・市民",
+        "commentSimple": "「ロシアや中国、北朝鮮の脅威があるから、日本の平和を守るために防衛力強化は絶対に必要」",
+        "commentStandard": "「ウクライナ侵略や台湾有事リスクを鑑み、抑止力を高めるGDP比2%は同盟国との国際標準」"
+      },
+      {
+        "speaker": "自衛隊員の家族・自治体関係者",
+        "commentSimple": "「自衛隊の弾薬不足やボロボロの宿舎が改善され、隊員が安全に活動できるようになってほしい」",
+        "commentStandard": "「継戦能力やスタンドオフミサイルの配備など、専守防衛の実効性を高める装備更新は不可欠」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "物価高に苦しむ一般家庭・納税者",
+        "commentSimple": "「給料が上がらないのに防衛費ばかり増やして、増税や社会保障カットされるのは困る！」",
+        "commentStandard": "「物価高で家計が悲鳴を上げている時に、たばこ税や法人税・所得税の増税議論は納得できない」"
+      },
+      {
+        "speaker": "財政学者・野党側",
+        "commentSimple": "「増税できないからと復興特別所得税を流用したり、赤字国債に頼るのは筋が通らない」",
+        "commentStandard": "「43兆円枠の使途精査が不十分で、米国製高額兵器の言い値購入など予算の無駄遣い懸念」"
+      }
+    ]
+  }
 }

@@ -139,5 +139,51 @@
       "text": "睡眠確保・過労死防ぐ",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "仕事が終わってから次の仕事まで",
+      "labelStandard": "連続休息時間（インターバル）",
+      "value": "11",
+      "unit": "時間（EU共通の法定基準）",
+      "oldValue": "終電帰りから翌朝8時出社などの過酷労働",
+      "description": "確実な睡眠時間を確保し健康を保護",
+      "badge": "連続11時間休息",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "翌日の出勤時間を遅らせても",
+      "labelStandard": "翌朝繰下げ時の給与保障",
+      "value": "全額",
+      "unit": "給与保障（減額・遅刻扱いなし）",
+      "oldValue": "遅く出勤すると給料カットの理不尽",
+      "description": "11時間休むまで翌朝の始業時間を後ろ倒し",
+      "badge": "給与カットなし",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "日本の会社の導入状況",
+      "labelStandard": "現行の制度導入企業割合",
+      "value": "約6",
+      "unit": "%（努力義務のため低迷）",
+      "oldValue": "罰則がないため大半の企業が導入見送り",
+      "description": "過労死防止に向け法定義務化の議論が加速",
+      "badge": "法定義務化議論",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "過労死を防ぐ最大の武器",
+      "labelStandard": "睡眠不足の根絶と過労死防止",
+      "value": "睡眠",
+      "unit": "時間確保で心疾患・うつ病防ぐ",
+      "oldValue": "睡眠4時間未満の慢性疲労で突然死や自殺",
+      "description": "働く人の命と尊厳を守る究極のルール",
+      "badge": "過労死ゼロへ",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "HeartPulse"
+    }
   ]
 }

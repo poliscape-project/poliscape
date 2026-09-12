@@ -155,5 +155,55 @@
       "text": "水害危険地域からの高台移転",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "気候変動リスク",
+      "labelStandard": "温暖化による降水量予測",
+      "value": "1.1倍（洪水2倍）",
+      "unit": "へ激増",
+      "oldValue": "過去数十年の一級河川データ基準",
+      "descriptionSimple": "堤防を高くするだけでは防ぎきれない限界",
+      "descriptionStandard": "堤防を高くするだけでは防ぎきれない限界",
+      "badge": "気候変動リスク",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "指定急拡大",
+      "labelStandard": "特定都市河川の指定拡大",
+      "value": "全国主要",
+      "unit": "水系へ",
+      "oldValue": "鶴見川など大都市圏のごく一部に限定",
+      "descriptionSimple": "球磨川、阿武隈川、最上川などへ一挙拡大",
+      "descriptionStandard": "球磨川、阿武隈川、最上川などへ一挙拡大",
+      "badge": "指定急拡大",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "流域治水",
+      "labelStandard": "雨水の一時貯留対策",
+      "value": "田んぼダム",
+      "unit": "・地下調整池",
+      "oldValue": "川の中に水を流し切る治水アプローチ",
+      "descriptionSimple": "農地や都市公園を総動員してピークを削る",
+      "descriptionStandard": "農地や都市公園を総動員してピークを削る",
+      "badge": "流域治水",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Leaf"
+    },
+    {
+      "labelSimple": "住まい方改革",
+      "labelStandard": "危険地域からの居住誘導",
+      "value": "高台移転",
+      "unit": "補助金新設",
+      "oldValue": "浸水危険区域でも無制限に宅地分譲",
+      "descriptionSimple": "浸水被害防止区域での開発規制と集団移転",
+      "descriptionStandard": "浸水被害防止区域での開発規制と集団移転",
+      "badge": "住まい方改革",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Building"
+    }
   ]
 }

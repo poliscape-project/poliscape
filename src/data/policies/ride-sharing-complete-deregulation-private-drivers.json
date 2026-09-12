@@ -133,5 +133,51 @@
       "text": "タクシー不足解消",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "今の日本版ルール",
+      "labelStandard": "日本版ライドシェア",
+      "value": "タクシー会社",
+      "unit": "の管理下で運行",
+      "oldValue": "自家用車による有償運送は完全禁止（白タク）",
+      "description": "2024年4月より特定時間・地域限定で解禁",
+      "badge": "日本版運用中",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Car"
+    },
+    {
+      "labelSimple": "議論されている全面解禁",
+      "labelStandard": "新法による全面解禁論",
+      "value": "IT企業",
+      "unit": "の直接参入を容認へ",
+      "oldValue": "タクシー会社の管理に限定される現状",
+      "description": "Uber等のプラットフォームが直接管理",
+      "badge": "新法・全面解禁",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "混雑時の料金",
+      "labelStandard": "ダイナミックプライシング",
+      "value": "需給変動",
+      "unit": "制の導入審議",
+      "oldValue": "認可タクシー運賃と同額・固定",
+      "description": "雨天や深夜に料金を上げて車を呼ぶ",
+      "badge": "価格変動制",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "心配されている問題",
+      "labelStandard": "治安・性犯罪・事故リスク",
+      "value": "安全担保",
+      "unit": "と点呼・整備責任",
+      "oldValue": "海外でドライバー犯罪や事故トラブル多発",
+      "description": "地方タクシーの倒産・地域交通崩壊も警戒",
+      "badge": "安全性と既存産業",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    }
   ]
 }

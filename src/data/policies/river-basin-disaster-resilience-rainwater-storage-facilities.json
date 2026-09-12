@@ -140,5 +140,51 @@
       "text": "田んぼダム全国展開",
       "color": "bg-emerald-50 text-emerald-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "雨水をためる場所",
+      "labelStandard": "治水の対象範囲",
+      "value": "街全体",
+      "unit": "流域全体で貯留",
+      "oldValue": "これまで 川の堤防とダムのみ",
+      "description": "住宅地・公園・工場・田んぼ全体で雨水を一時保持",
+      "badge": "流域治水法",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "地下プールの義務",
+      "labelStandard": "雨水貯留施設の設置義務規模",
+      "value": "500平米",
+      "unit": "以上の開発",
+      "oldValue": "これまで 1ヘクタール以上のみ",
+      "description": "マンションや工場の敷地地下に雨水タンク設置を義務化",
+      "badge": "開発規制",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "田んぼの活用",
+      "labelStandard": "田んぼダムへの協力交付金",
+      "value": "田んぼダム",
+      "unit": "雨水を一時貯留",
+      "oldValue": "これまで 雨水は即座に川へ排水",
+      "description": "水田の堰板で雨水をためて川の水位上昇を抑える",
+      "badge": "農地連携",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Leaf"
+    },
+    {
+      "labelSimple": "工事の追加費用",
+      "labelStandard": "民間事業者の建築負担",
+      "value": "数百〜数千万",
+      "unit": "円の調整池工事",
+      "oldValue": "これまで 調整池工事なし",
+      "description": "地下調整池の工事費が住宅や倉庫の価格に跳ね返る",
+      "badge": "コスト増課題",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Coins"
+    }
   ]
 }

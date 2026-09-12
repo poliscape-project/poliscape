@@ -155,5 +155,81 @@
       "text": "早期重度化・家族負担の懸念",
       "color": "bg-amber-50 text-amber-900"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "外すか議論される人",
+      "labelStandard": "移行対象（提案）",
+      "value": "要介護1・2",
+      "unit": "の生活援助",
+      "oldValue": "これまでは全国一律の介護保険給付",
+      "descriptionSimple": "軽めのお年寄りの掃除やご飯作りが保険から外される？",
+      "descriptionStandard": "財務省が市町村「総合事業」への移管を強力に要求",
+      "badge": "給付外し議論",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "介護保険の費用",
+      "labelStandard": "総給付費の急増",
+      "value": "約14兆",
+      "unit": "円（当初3.6兆円）",
+      "oldValue": "2000年創設時は 3.6兆円",
+      "descriptionSimple": "介護にかかるお金が最初の4倍近くまで膨らんだ！",
+      "descriptionStandard": "現役世代の保険料高騰を抑えるための見直し圧力",
+      "badge": "4倍に膨張",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "お世話の代わり",
+      "labelStandard": "主な支援の担い手",
+      "value": "ボランティア",
+      "unit": "や住民互助",
+      "oldValue": "介護福祉士など専門職ヘルパーが訪問",
+      "descriptionSimple": "プロではなく、町のご近所さんやNPOがお手伝い",
+      "descriptionStandard": "地域住民主体の通いの場や有償ボランティアを活用",
+      "badge": "互助への移行",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "心配されていること",
+      "labelStandard": "早期重度化リスク",
+      "value": "寝たきり",
+      "unit": "化の懸念",
+      "oldValue": "プロの気づきで認知症や衰弱を予防",
+      "descriptionSimple": "プロが来なくなることで、急に病気やボケが悪化する！",
+      "descriptionStandard": "早期発見が遅れ、かえって医療費・施設費が急増する恐れ",
+      "badge": "重度化懸念",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldAlert"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "国の財政再建を提言するエコノミスト",
+        "commentSimple": "「軽い人の掃除や買い物まで国の保険で全部面倒を見るのは限界。本当に重い病気の人にお金を集めるべき」",
+        "commentStandard": "「14兆円に達した給付費を抑えるには、日常生活の家事援助を地域の互助へ移行し、中重度の医療介護へ資源を集中すべきだ」"
+      },
+      {
+        "speaker": "シニアボランティアの参加者（70代）",
+        "commentSimple": "「ご近所のちょっとしたお困りごとを手伝うことで、自分自身の健康づくりや生きがいにもなって楽しい」",
+        "commentStandard": "「定年後に地域の支え合い活動に参加し、同世代の買い出しや見守りを行うことで、地域の絆と自身の介護予防が両立できている」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "日本介護福祉士会の幹部",
+        "commentSimple": "「プロだからこそ認知症の初期症状やケガの危険に気づける。ボランティア任せにすれば一気に寝たきりになる」",
+        "commentStandard": "「生活援助は単なる家事ではなく重度化防止の専門的アセスメント。給付から外せば認知症が悪化し医療・特養費が爆発する」"
+      },
+      {
+        "speaker": "親の介護をしながら働く会社員（50代）",
+        "commentSimple": "「デイサービスやヘルパーさんが減らされたら、自分が仕事を休んで親の面倒を見るしかなくなり会社を辞める羽目になる」",
+        "commentStandard": "「要介護1の母が日中通所できなくなれば見守りが不可能になり、介護離職ゼロを掲げる国の労働政策と完全に矛盾している」"
+      }
+    ]
+  }
 }

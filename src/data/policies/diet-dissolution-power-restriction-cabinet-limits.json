@@ -139,5 +139,51 @@
       "text": "国会事前同意・立憲統制",
       "color": "bg-blue-50 text-blue-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "解散の決め方",
+      "labelStandard": "首相の衆院解散権限（憲法7条解散）",
+      "value": "首相専権",
+      "unit": "フリーハンド",
+      "oldValue": "これまで 慣例でいつでも自由に解散",
+      "description": "首相の判断一つでいつでも国会を強制終了できる権力",
+      "badge": "伝家の宝刀",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "選挙の税金",
+      "labelStandard": "衆院総選挙の公費費用",
+      "value": "約600",
+      "unit": "億円/回",
+      "oldValue": "これまで 短期解散で国費支出多発",
+      "description": "1回の抜き打ち選挙で約600億円の税金が使われる現実",
+      "badge": "巨額公費",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "制限する提案",
+      "labelStandard": "国会の事前同意・制限法制化",
+      "value": "国会事前同意",
+      "unit": "不信任時のみ",
+      "oldValue": "これまで 首相が党利党略で抜き打ち",
+      "description": "英独のように議会の承認がなければ解散できないルール",
+      "badge": "解散制限論",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Shield"
+    },
+    {
+      "labelSimple": "制限への反対意見",
+      "labelStandard": "民意を問う政治的機能",
+      "value": "民意直結",
+      "unit": "膠着打破機能",
+      "oldValue": "これまで 郵政民営化等で国民投票的機能",
+      "description": "国会が対立して動かない時に国民に白黒つけてもらう権利",
+      "badge": "解散権擁護",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Users"
+    }
   ]
 }

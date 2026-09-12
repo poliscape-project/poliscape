@@ -171,5 +171,51 @@
       "text": "紙とデジタルのハイブリッド運用",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "無償給与の対象教科",
+      "labelStandard": "無償給与の対象教科",
+      "value": "英語・算数等の主要教科で国費無償化",
+      "unit": "",
+      "oldValue": "これまで: 一部の自治体での実証事業や有料ライセンス購入による限定的利用",
+      "description": "全国の小5〜中3の英語で国費無償給与を開始し、算数・数学へ順次拡大",
+      "badge": "英語・算数等の主要教科で国費無償化",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "BookOpen"
+    },
+    {
+      "labelSimple": "学習困難児への合理的配慮",
+      "labelStandard": "学習困難児への合理的配慮",
+      "value": "ワンタッチ拡大・読み上げの標準装備",
+      "unit": "",
+      "oldValue": "これまで: 拡大教科書や点字版の個別発注に数ヶ月を要し調達が困難だった",
+      "description": "全端末で文字サイズ拡大、ルビ表示、音声読み上げが瞬時に設定可能",
+      "badge": "ワンタッチ拡大・読み上げの標準装備",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Eye"
+    },
+    {
+      "labelSimple": "紙教科書との位置づけ",
+      "labelStandard": "紙教科書との位置づけ",
+      "value": "紙とデジタルのハイブリッド運用",
+      "unit": "",
+      "oldValue": "これまで: 法律上は紙の教科書のみが「正規の教科書」として定められていた",
+      "description": "紙とデジタルを併用するハイブリッド教育を公式な授業形態として容認",
+      "badge": "紙とデジタルのハイブリッド運用",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "眼の健康・視力低下予防対策",
+      "labelStandard": "眼の健康・視力低下予防対策",
+      "value": "視力保護のための健康ガイドライン策定",
+      "unit": "",
+      "oldValue": "これまで: 端末利用時間や画面との距離に関する統一的な安全基準が未整備",
+      "description": "30分に1回は遠くを見る「30-20-20ルール」等の健康指導指針を策定",
+      "badge": "視力保護のための健康ガイドライン策定",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Heart"
+    }
   ]
 }

@@ -185,5 +185,81 @@
       "text": "EV廃電池都市鉱山リサイクル",
       "color": "bg-emerald-50 text-emerald-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "南鳥島の深海のレアアース",
+      "labelStandard": "南鳥島沖 レアアース泥の深度",
+      "value": "水深 6,000",
+      "unit": "m海底",
+      "oldValue": "学術調査船による少量の泥採取レベルだった",
+      "descriptionSimple": "世界中が何百年も使える宝の泥が日本の海に眠っている！",
+      "descriptionStandard": "超高圧・深海から1日数万トン揚泥する世界初の実証",
+      "badge": "水深6,000m採掘",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Anchor"
+    },
+    {
+      "labelSimple": "中国が握っている割合",
+      "labelStandard": "中国のレアアース精錬シェア",
+      "value": "約 70〜90",
+      "unit": "%独占",
+      "oldValue": "日本は重要鉱物の大部分を中国からの輸入に依存",
+      "descriptionSimple": "中国に材料を止められたら電気自動車が作れない！",
+      "descriptionStandard": "モーター用ジスプロシウム等の独占を打破する自給戦略",
+      "badge": "中国寡占打破",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "ゴミから取り出す金属",
+      "labelStandard": "日本の都市鉱山埋蔵量",
+      "value": "世界有数",
+      "unit": "の規模",
+      "oldValue": "使用済み家電やスマホが海外に流出・破棄されていた",
+      "descriptionSimple": "捨てられたスマホや車から大切な金属をリサイクル！",
+      "descriptionStandard": "金・リチウム・コバルトを回収する完全循環経済",
+      "badge": "都市鉱山再生",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "古い車の電池を全部集める",
+      "labelStandard": "EV廃バッテリー回収義務化",
+      "value": "全量リサイクル",
+      "unit": "法制化へ",
+      "oldValue": "廃車解体業者まかせで発火事故や不法転売が横行",
+      "descriptionSimple": "使わなくなった電気自動車のバッテリーを全部再利用！",
+      "descriptionStandard": "デジタルパスポートで追跡しレアメタルを100%再資源化",
+      "badge": "回収義務化",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "深海探査の海洋研究者",
+        "commentSimple": "「日本の深い海の底に眠るレアアースを採れるようになれば、資源を外国に頼らなくてよくなる」",
+        "commentStandard": "「南鳥島沖合のマンガン団結やレアアース泥の国産化は、資源小国ニッポンをエネルギー・ハイテク資源大国へと変貌させる」"
+      },
+      {
+        "speaker": "廃家電リサイクル工場の工場長",
+        "commentSimple": "「捨てられたスマートフォンや車から金やリチウムを取り出す都市鉱山は、環境にも優しく有望な宝の山だ」",
+        "commentStandard": "「国内に眠る約7,000トンの都市鉱山回収と製錬技術の革新により、クローズドループの資源循環を確立できる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "海洋生態系を研究する環境保護団体",
+        "commentSimple": "「何千メートルもの深い海の底を掘り起こすと、見たこともない貴重な海の生き物を壊してしまう心配がある」",
+        "commentStandard": "「深海6,000mでの採掘活動は、固有の深海生態系や熱水鉱床の環境に不可逆的な破壊をもたらす恐れがある」"
+      },
+      {
+        "speaker": "鉱山開発の投資家",
+        "commentSimple": "「海の底から引き上げるのには莫大なお金がかかる。地上で普通に買うより高くなっては商売にならない」",
+        "commentStandard": "「過酷な深海環境での商業採掘コストは未知数であり、市況の価格変動に耐えられず多額の国費が沈没する懸念がある」"
+      }
+    ]
+  }
 }

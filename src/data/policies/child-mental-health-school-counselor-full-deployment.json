@@ -171,5 +171,51 @@
       "text": "SSW主導の福祉機関連携・即時介入",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "専門職の勤務形態・雇用身分",
+      "labelStandard": "専門職の勤務形態・雇用身分",
+      "value": "非常勤から常勤・正規公務員職への転換推進",
+      "unit": "",
+      "oldValue": "これまで: 週1回・数時間の非常勤（会計年度任用職員）で毎年契約更新の不安",
+      "description": "拠点校や中学校区単位で「常勤職員・正規専門職」としての任用を順次拡大",
+      "badge": "非常勤から常勤・正規公務員職への転換推進",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "児童生徒の相談アクセス性",
+      "labelStandard": "児童生徒の相談アクセス性",
+      "value": "予約不要の即時面談・常駐アクセス",
+      "unit": "",
+      "oldValue": "これまで: 完全予約制で数週間待ちになり突発的なSOSに対応不能",
+      "description": "平日常駐体制により予約なしでいつでも立ち寄れる保健室的アクセスを実現",
+      "badge": "予約不要の即時面談・常駐アクセス",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Heart"
+    },
+    {
+      "labelSimple": "行政・福祉機関とのネットワーク",
+      "labelStandard": "行政・福祉機関とのネットワーク",
+      "value": "SSW主導の福祉機関連携・即時介入",
+      "unit": "",
+      "oldValue": "これまで: 担任教員が不慣れな福祉手続きを抱え込み児相への通報が遅延",
+      "description": "SSWが要となり福祉課・児童相談所・警察・医療機関と即座に連携",
+      "badge": "SSW主導の福祉機関連携・即時介入",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "CheckCircle2"
+    },
+    {
+      "labelSimple": "教職員のメンタル支援機能",
+      "labelStandard": "教職員のメンタル支援機能",
+      "value": "教員のメンタルケア・助言業務の公式化",
+      "unit": "",
+      "oldValue": "これまで: 生徒対応のみに追われ、精神的重圧に悩む担任教員のケアが希薄",
+      "description": "教員への学級経営助言や教職員自身のメンタル相談を正式業務に位置づけ",
+      "badge": "教員のメンタルケア・助言業務の公式化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

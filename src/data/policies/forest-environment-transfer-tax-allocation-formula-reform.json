@@ -179,5 +179,51 @@
       "text": "荒廃林の間伐と花粉症対策の重点化",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "譲与税の配分算定基準",
+      "labelStandard": "譲与税の配分算定基準",
+      "value": "森林面積重視へ配分比率を是正",
+      "unit": "",
+      "oldValue": "これまで: 私有林人工林面積50%、林業就業者数20%、人口30%で配分（都市偏重）",
+      "description": "私有林人工林面積の比率を引き上げ、人口割を引き下げて山間部自治体へ傾斜配分",
+      "badge": "森林面積重視へ配分比率を是正",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "森林環境税の課税スタート",
+      "labelStandard": "森林環境税の課税スタート",
+      "value": "2024年度より年1,000円課税開始",
+      "unit": "",
+      "oldValue": "これまで: 復興特別住民税（年1,000円）が2023年度で終了",
+      "description": "2024年度から個人住民税均等割に上乗せして年1,000円の森林環境税（国税）を全徴収",
+      "badge": "2024年度より年1,000円課税開始",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "税金の使い道と花粉症対策",
+      "labelStandard": "税金の使い道と花粉症対策",
+      "value": "荒廃林の間伐と花粉症対策の重点化",
+      "unit": "",
+      "oldValue": "これまで: 木材利用促進の木造公共施設建築やPRイベントなどに偏重",
+      "description": "放置されたスギ人工林の伐採・間伐、作業道整備、花粉の少ない苗木への植替えを重点化",
+      "badge": "荒廃林の間伐と花粉症対策の重点化",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Trees"
+    },
+    {
+      "labelSimple": "使途の透明化と基金積立制限",
+      "labelStandard": "使途の透明化と基金積立制限",
+      "value": "使途公表の義務化と基金滞留防止",
+      "unit": "",
+      "oldValue": "これまで: 使途が定まらず自治体の基金に何億円も眠ったまま放置される事例が多発",
+      "description": "自治体ごとの使途公表の厳格義務化と、合理的な理由のない基金長期滞留の指導",
+      "badge": "使途公表の義務化と基金滞留防止",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Sparkles"
+    }
   ]
 }

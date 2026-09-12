@@ -159,5 +159,51 @@
       "text": "ヘリ離着陸場・備蓄強化",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "途切れないネット通信",
+      "labelStandard": "Starlink（衛星通信）の配備",
+      "value": "衛星通信",
+      "unit": "で即座に情報確保",
+      "oldValue": "これまで 地上回線や基地局が被災し完全孤立",
+      "description": "発災直後から避難所で通話・ネット環境を即時復旧",
+      "badge": "衛星通信配備",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Satellite"
+    },
+    {
+      "labelSimple": "空からの救助ルート",
+      "labelStandard": "臨時ヘリポートの事前指定",
+      "value": "ヘリ搬送",
+      "unit": "で重症者を即救命",
+      "oldValue": "これまで 唯一の道路が崩落し救助隊が到着不能",
+      "description": "ヘリやドローンによる物資補給と緊急搬送ルート確保",
+      "badge": "空路搬送",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "集落内の備蓄の量",
+      "labelStandard": "孤立集落の自主防災備蓄",
+      "value": "1週間分",
+      "unit": "の食料・燃料備蓄",
+      "oldValue": "これまで 3日分の備蓄で物資が底をつく",
+      "description": "長期孤立を前提とした発電機や飲用水の分散備蓄",
+      "badge": "備蓄強化",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "道路の二重化工事",
+      "labelStandard": "緊急迂回路・法面補強",
+      "value": "アクセス二重化",
+      "unit": "で寸断を防ぐ",
+      "oldValue": "これまで 1本しかない生活道路の崩落で長期孤立",
+      "description": "危険法面の崩落防止工事と代替林道・バイパス整備",
+      "badge": "二重化整備",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "MapPin"
+    }
   ]
 }

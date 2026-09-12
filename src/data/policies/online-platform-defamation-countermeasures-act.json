@@ -139,5 +139,51 @@
       "text": "詐欺広告・中傷撲滅",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "削除結果を知らせる期限",
+      "labelStandard": "削除申出への判断期間",
+      "value": "原則1",
+      "unit": "週間以内に対処通知",
+      "oldValue": "これまで 数ヶ月放置や無返答が常態化",
+      "description": "誹謗中傷被害者を迅速に救済",
+      "badge": "1週間以内判断",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "偽の有名人詐欺広告",
+      "labelStandard": "投資詐欺広告への事前審査",
+      "value": "審査",
+      "unit": "厳格化と掲載責任",
+      "oldValue": "これまで 広告主確認が甘く詐欺が横行",
+      "description": "なりすまし投資広告を徹底排除",
+      "badge": "詐欺広告撲滅",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "削除ルールのオープン化",
+      "labelStandard": "モデレーション基準公表",
+      "value": "義務",
+      "unit": "化と年次実績報告",
+      "oldValue": "これまで 企業の独自基準でブラックボックス",
+      "description": "総務省への年次報告と是正命令を導入",
+      "badge": "基準の透明化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "FileText"
+    },
+    {
+      "labelSimple": "日本語での相談窓口",
+      "labelStandard": "国内代表者・日本語窓口",
+      "value": "常設",
+      "unit": "（大規模SNSに義務化）",
+      "oldValue": "これまで 海外本社宛の英語フォームのみ",
+      "description": "被害者が日本語で直接申請可能に",
+      "badge": "日本語窓口設置",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "UserCheck"
+    }
   ]
 }

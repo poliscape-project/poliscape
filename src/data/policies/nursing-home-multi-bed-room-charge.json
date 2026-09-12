@@ -155,5 +155,81 @@
       "text": "低年金高齢者の退所リスク",
       "color": "bg-rose-50 text-rose-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "相部屋の部屋代",
+      "labelStandard": "特養多床室の室料",
+      "value": "月約8,000",
+      "unit": "円負担（日額約270円）",
+      "oldValue": "室料ゼロ（光熱水費等の実費のみ）",
+      "descriptionSimple": "タダだった相部屋でも毎月家賃が取られるように！",
+      "descriptionStandard": "一定所得以上の入所者に月額約8,000円相当を導入",
+      "badge": "室料新設",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "比べられる部屋",
+      "labelStandard": "個室との公平性",
+      "value": "月3万〜6万",
+      "unit": "円（個室室料）",
+      "oldValue": "個室は全額自己負担、相部屋は全額給付で歪み",
+      "descriptionSimple": "高い個室代を払っている人との不公平をなくすため",
+      "descriptionStandard": "ユニット型個室入所者とのホテルコスト負担を平準化",
+      "badge": "公平性の確保",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "生活が苦しい人",
+      "labelStandard": "補足給付の継続",
+      "value": "免除維持",
+      "unit": "（非課税世帯等）",
+      "oldValue": "低所得層へのセーフティネットが存在",
+      "descriptionSimple": "年金がとても少ない人は国が助けてくれるから安心",
+      "descriptionStandard": "住民税非課税世帯（第1〜第3段階）は自己負担ゼロを維持",
+      "badge": "低所得者減免",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "心配されていること",
+      "labelStandard": "在宅逆戻りと破綻",
+      "value": "退所危機",
+      "unit": "・老老介護",
+      "oldValue": "月数万円の年金でなんとか施設に入所できていた",
+      "descriptionSimple": "年金ギリギリの人がお金を払えず施設を出される心配！",
+      "descriptionStandard": "80代の家族が自宅へ引き取り共倒れになるリスク",
+      "badge": "在宅崩壊リスク",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "介護老人福祉施設を管轄する政策担当者",
+        "commentSimple": "「高い家賃を払って1人部屋に入っている人との不公平をなくし、介護保険の財政を長持ちさせるための見直し」",
+        "commentStandard": "「ユニット型個室利用者が全額負担している室料について、多床室でも応能負担を求めることで施設間の公平性と財政健全化を図る」"
+      },
+      {
+        "speaker": "個室型特養に入所する高齢者の家族",
+        "commentSimple": "「私たちは毎月何万円も高い部屋代を払っているので、相部屋だけ家賃がタダだったのは少し不公平に感じていた」",
+        "commentStandard": "「個室の高額なホテルコスト負担に苦しんできた家族から見れば、一定の所得がある相部屋利用者の室料負担は妥当な是正だ」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "低年金で特養の相部屋を利用する家族",
+        "commentSimple": "「基礎年金だけでギリギリ暮らしているのに、月8,000円も余計に取られたら施設を出されるしかなくなってしまう」",
+        "commentStandard": "「月額8,000円の負担増は国民年金受給者には致命的。支払えずに退所を迫られ、老老介護の共倒れ家庭が続出する恐れがある」"
+      },
+      {
+        "speaker": "特別養護老人ホームの相談員",
+        "commentSimple": "「カーテンで仕切られただけの落ち着かない相部屋なのに、ちゃんとした家賃を取られることに利用者の納得感がない」",
+        "commentStandard": "「相部屋はプライバシーがなく音や臭いも我慢して生活している環境。そこにホテルコストを請求することに現場も強い違和感を持つ」"
+      }
+    ]
+  }
 }

@@ -139,5 +139,51 @@
       "text": "漏洩最高5年懲役",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "秘密を扱う人の身辺調査",
+      "labelStandard": "適性評価（セキュリティ審査）",
+      "value": "調査",
+      "unit": "実施（犯罪歴・借金・家族国籍等）",
+      "oldValue": "民間技術者に対する国の公的身元確認制度なし",
+      "description": "国の同意のもと信頼できる人物のみを指定",
+      "badge": "身辺調査制度化",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "UserCheck"
+    },
+    {
+      "labelSimple": "秘密を漏らしたときの罰則",
+      "labelStandard": "重要経済安保情報漏洩の罰則",
+      "value": "最高5",
+      "unit": "年以下の懲役（罰金500万円）",
+      "oldValue": "民間技術の情報漏洩に対する甘い処罰",
+      "description": "AIや半導体などの最先端国家機密を鉄壁防衛",
+      "badge": "最高5年懲役",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "外国との共同開発への参加",
+      "labelStandard": "同盟国との先端共同研究参入",
+      "value": "参入",
+      "unit": "解禁（米英・NATO水準へ到達）",
+      "oldValue": "資格制度がなく日本企業が国際開発から排除",
+      "description": "防衛・量子・宇宙開発で日本企業が受注拡大",
+      "badge": "国際共同研究へ",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Globe"
+    },
+    {
+      "labelSimple": "調査を断った人の権利を守る",
+      "labelStandard": "不同意者への不利益取扱いの禁止",
+      "value": "禁止",
+      "unit": "（解雇や不当な左遷を法で制止）",
+      "oldValue": "身辺調査拒否による職場差別への強い不安",
+      "description": "プライバシーを守る個人の選択権を保障",
+      "badge": "職場差別防止",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

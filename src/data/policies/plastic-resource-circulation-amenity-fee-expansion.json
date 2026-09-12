@@ -133,5 +133,51 @@
       "text": "製品プラ一括回収",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "配るのを減らす品目",
+      "labelStandard": "特定使い捨てプラ品目",
+      "value": "12",
+      "unit": "品目を指定",
+      "oldValue": "コンビニやホテルで全量無料配布",
+      "description": "スプーン、歯ブラシ、カミソリ等を削減",
+      "badge": "12品目指定",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "お店の削減ルール",
+      "labelStandard": "店舗の対応策",
+      "value": "有料化",
+      "unit": "・木製・辞退確認",
+      "oldValue": "自動的に袋に入れられるのが当たり前",
+      "description": "ポイント還元やバイオマス代替品へ",
+      "badge": "有料化・代替品",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "家からのゴミの集め方",
+      "labelStandard": "製品プラスチック回収",
+      "value": "一括",
+      "unit": "回収へ移行",
+      "oldValue": "容器包装マーク以外は燃えるゴミ扱い",
+      "description": "おもちゃや文具もまとめてリサイクル",
+      "badge": "一括分別回収",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "日本の1人あたり廃棄",
+      "labelStandard": "容器包装プラ廃棄量",
+      "value": "世界2",
+      "unit": "位（米に次ぐ多さ）",
+      "oldValue": "過剰包装による使い捨て文化の定着",
+      "description": "マイカトラリー習慣で脱炭素推進",
+      "badge": "世界ワースト2位",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
   ]
 }

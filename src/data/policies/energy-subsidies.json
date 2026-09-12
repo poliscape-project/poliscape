@@ -171,5 +171,81 @@
       "text": "再エネ賦課金と相殺",
       "color": "bg-rose-50 text-rose-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "電気代の国からの値引き",
+      "labelStandard": "電気料金の激変緩和補助金",
+      "value": "最大 4.0",
+      "unit": "円/kWh",
+      "oldValue": "猛暑・酷暑乗り切り緊急支援等",
+      "descriptionSimple": "毎月の電気代が自動的に安くなる！",
+      "descriptionStandard": "標準世帯で月1,400円前後の直接値引き",
+      "badge": "自動値引き",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "ガス代の国からの値引き",
+      "labelStandard": "都市ガス料金の補助金",
+      "value": "最大 17.5",
+      "unit": "円/m³",
+      "oldValue": "家庭用都市ガス使用量に応じた支援",
+      "descriptionSimple": "お風呂やキッチンのガス代も補助！",
+      "descriptionStandard": "月30m³使用の家庭で月約500円の値引き",
+      "badge": "ガス代軽減",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "面倒な申請手続き",
+      "labelStandard": "補助金の受け取り手続き",
+      "value": "申請不要",
+      "unit": "（全自動）",
+      "oldValue": "電力会社・ガス会社が請求書で減額",
+      "descriptionSimple": "何もしなくても請求額から引かれます！",
+      "descriptionStandard": "事業者が国に一括請求し、消費者は請求書で割引",
+      "badge": "手続きゼロ",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "電気代に上乗せされる国民負担",
+      "labelStandard": "再エネ発電促進賦課金",
+      "value": "約 3.49",
+      "unit": "円/kWh",
+      "oldValue": "全国民の電気料金に自動加算",
+      "descriptionSimple": "自然エネルギーのため全国民で負担中",
+      "descriptionStandard": "補助金と相殺される形で電気代を押し上げる要因",
+      "badge": "国民負担金",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "夏場にエアコンをフル稼働する家庭",
+        "commentSimple": "「猛暑のなか電気代が高すぎてエアコンを我慢していたから、国が引いてくれて命拾いした！」",
+        "commentStandard": "「熱中症予防のため電気代の負担軽減は必須。申請不要で請求書から自動で引かれるのも親切」"
+      },
+      {
+        "speaker": "飲食店・町工場などの事業者",
+        "commentSimple": "「業務用ガスや電気を大量に使うので、月数万円規模のコスト抑制になり倒産を防げた」",
+        "commentStandard": "「エネルギー価格高騰による価格転嫁が追いつかない中小企業の緊急避難として有効だった」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "エネルギー経済・脱炭素の専門家",
+        "commentSimple": "「補助金を出して電気を安くすると、みんなが省エネや節電をしなくなってしまうのでは？」",
+        "commentStandard": "「化石燃料の価格を下げる補助金は脱炭素政策と逆行し、毎兆円単位の財政赤字を垂れ流す」"
+      },
+      {
+        "speaker": "毎月の電気代明細を見る市民",
+        "commentSimple": "「国が補助金で引いてくれても、再エネ賦課金でまた取られているから結局高いまま…」",
+        "commentStandard": "「補助金はいつか終わる一時しのぎ。再エネ賦課金や送配電コストの根本的見直しが必要」"
+      }
+    ]
+  }
 }

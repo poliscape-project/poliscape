@@ -165,5 +165,51 @@
       "text": "低所得軽減の判定基準見直し",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "年間の保険料（税）最高限度額",
+      "labelStandard": "年間の保険料（税）最高限度額",
+      "value": "最高限度額が年106万円超へ",
+      "unit": "",
+      "oldValue": "これまで: 医療分・支援金分・介護分を合わせて年間約99万〜104万円程度",
+      "description": "段階的に引き上げられ、合計で年間106万〜110万円水準へ改定",
+      "badge": "最高限度額が年106万円超へ",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "中間層世帯の保険料への影響",
+      "labelStandard": "中間層世帯の保険料への影響",
+      "value": "中間層の急激な保険料増を緩和",
+      "unit": "",
+      "oldValue": "これまで: 限度額据え置きの場合、中間層の所得割率・均等割額が引き上げられる圧力",
+      "description": "高所得層の負担増により、中間層の保険料率上昇を一定程度緩和",
+      "badge": "中間層の急激な保険料増を緩和",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "低所得者向け軽減措置の判定基準",
+      "labelStandard": "低所得者向け軽減措置の判定基準",
+      "value": "低所得軽減の判定基準見直し",
+      "unit": "",
+      "oldValue": "これまで: 物価高や最低賃金引き上げに判定基準が追いつかず軽減除外のリスク",
+      "description": "7割・5割・2割軽減の所得判定基準を物価・賃金動向に合わせて見直し",
+      "badge": "低所得軽減の判定基準見直し",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "都道府県内の保険料水準の統一",
+      "labelStandard": "都道府県内の保険料水準の統一",
+      "value": "自治体間格差の是正推進",
+      "unit": "",
+      "oldValue": "これまで: 同じ都道府県でも住む市町村によって保険料に大きな格差が存在",
+      "description": "都道府県が財政運営の責任主体となり、将来的な保険料率統一を推進",
+      "badge": "自治体間格差の是正推進",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Scale"
+    }
   ]
 }

@@ -159,5 +159,51 @@
       "text": "マイナカードeKYC導入",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "身元の確認方法",
+      "labelStandard": "公的身元確認（eKYC）",
+      "value": "マイナ・免許",
+      "unit": "で厳格確認義務化",
+      "oldValue": "これまで 偽造画像や保険証等で審査をすり抜け",
+      "description": "ICチップ読み取りや顔照合でなりすましを排除",
+      "badge": "厳格身元確認",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "UserCheck"
+    },
+    {
+      "labelSimple": "怪しい投資への誘導",
+      "labelStandard": "外部SNS誘導・投資話の監視",
+      "value": "AI自動検知",
+      "unit": "でメッセージ遮断",
+      "oldValue": "これまで LINE誘導からロマンス詐欺に誘導",
+      "description": "投資勧誘や暗号資産キーワードを即時ブロック",
+      "badge": "詐欺排除",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "安心マークの付与",
+      "labelStandard": "独身・年収証明の連携",
+      "value": "公的証明",
+      "unit": "提出ユーザー認証",
+      "oldValue": "これまで 既婚者や身元偽称トラブルが多発",
+      "description": "独身証明書や源泉徴収票提出で信頼度バッジ付与",
+      "badge": "信頼マーク",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "悪質ユーザーの追放",
+      "labelStandard": "悪質業者の即時アカウント停止",
+      "value": "業界情報共有",
+      "unit": "で再登録阻止",
+      "oldValue": "これまで 退会・再登録で被害が繰り返し発生",
+      "description": "アプリ事業者間での要注意端末情報の連携強化",
+      "badge": "再登録阻止",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    }
   ]
 }

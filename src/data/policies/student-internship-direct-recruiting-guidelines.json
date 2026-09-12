@@ -159,5 +159,51 @@
       "text": "就活超早期化の懸念",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "就活へのデータ利用",
+      "labelStandard": "採用選考への情報活用",
+      "value": "公式解禁",
+      "unit": "（5日以上実務）",
+      "oldValue": "これまで 建前上は選考への利用を禁止",
+      "description": "実務を伴うインターンシップの評価を採用に直結",
+      "badge": "採用直結",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Briefcase"
+    },
+    {
+      "labelSimple": "参加する日数",
+      "labelStandard": "対象インターンの要件",
+      "value": "5",
+      "unit": "日以上の実務体験",
+      "oldValue": "これまで 1日の会社説明型セミナーが主流",
+      "description": "半数以上を職場での就業体験に充てる規定",
+      "badge": "実務重視",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "内定を出す時期",
+      "labelStandard": "内定出しの早期化実態",
+      "value": "大学3年冬",
+      "unit": "以降に前倒し",
+      "oldValue": "これまで 大学4年6月解禁ルールが形骸化",
+      "description": "実態に即した公式ルールの再整理",
+      "badge": "ルール改定",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Calendar"
+    },
+    {
+      "labelSimple": "学業との両立",
+      "labelStandard": "授業への配慮要請",
+      "value": "休暇中開催",
+      "unit": "を原則化",
+      "oldValue": "これまで 平日開催で授業欠席が問題化",
+      "description": "夏休み等の長期休暇中開催を企業に要請",
+      "badge": "学業優先",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "GraduationCap"
+    }
   ]
 }

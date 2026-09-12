@@ -155,5 +155,81 @@
       "text": "事業所倒産・休廃業が過去最多",
       "color": "bg-purple-50 text-purple-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "訪問介護の基本料金",
+      "labelStandard": "基本報酬の改定",
+      "value": "▲2〜3",
+      "unit": "%削減",
+      "oldValue": "これまで 現行の基本単価を維持",
+      "descriptionSimple": "国が決める訪問介護の基本料金が引き下げに…",
+      "descriptionStandard": "サ高住併設の大手利益率を理由に基本報酬減額",
+      "badge": "報酬削減",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "ヘルパーの足りなさ",
+      "labelStandard": "有効求人倍率",
+      "value": "15倍",
+      "unit": "超（全国平均）",
+      "oldValue": "全職種平均は 約1.2〜1.3倍",
+      "descriptionSimple": "15社の求人に1人しか応募者が来ない異常事態！",
+      "descriptionStandard": "他産業への流出と高齢化で史上最悪の人手不足",
+      "badge": "人材枯渇",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "事業所の倒産",
+      "labelStandard": "年間倒産・休廃業",
+      "value": "過去最多",
+      "unit": "ペース",
+      "oldValue": "年間数十件レベルで推移していた",
+      "descriptionSimple": "地域の小さなお店が耐えきれず次々つぶれている！",
+      "descriptionStandard": "一般住宅を回る地域の中小訪問介護事業所が直撃",
+      "badge": "倒産急増",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "ヘルパーの平均年齢",
+      "labelStandard": "従事者の超高齢化",
+      "value": "54歳",
+      "unit": "超（4人に1人65歳〜）",
+      "oldValue": "若年層の参入が完全に途絶",
+      "descriptionSimple": "おばあちゃんヘルパーがお年寄りを助ける老老介護！",
+      "descriptionStandard": "10年後の引退ラッシュで在宅崩壊の瀬戸際",
+      "badge": "平均54歳超",
+      "badgeColor": "bg-slate-100 text-slate-800",
+      "icon": "Clock"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "介護保険の財政制度担当者",
+        "commentSimple": "「同じ建物の中だけを回ってたくさん儲けていた大きな会社の利益を抑え、みんなの保険料を守るために必要」",
+        "commentStandard": "「移動コストのかからないサ高住併設型の大手事業所が生んでいた過大な利潤を是正し、制度の持続可能性を保つ改革だ」"
+      },
+      {
+        "speaker": "処遇改善新加算を取得した大規模法人",
+        "commentSimple": "「基本の料金は減ったけれど、給料アップの新しい仕組みをしっかり取ったのでトータルではプラスになった」",
+        "commentStandard": "「基本報酬の引き下げ幅以上に新加算Iの上乗せ率が大きいため、しっかり賃上げ要件を満たせば事業所収益は改善できる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "地域の訪問介護ステーション代表（ヘルパー）",
+        "commentSimple": "「雨でも雪でも自転車で一軒ずつ遠くの家を回っているのに、料金を減らされたら赤字で会社を畳むしかない」",
+        "commentStandard": "「サ高住併設の大手と一軒家を巡回する地域密着の事業所を同一視した改定の誤り。赤字に耐えきれず廃業に追い込まれている」"
+      },
+      {
+        "speaker": "一人暮らしの要介護80代高齢者",
+        "commentSimple": "「いつも来てくれていたヘルパーさんが会社をつぶして来られなくなったら、ご飯もお風呂もどうしたらいいのか」",
+        "commentStandard": "「近所の訪問介護が撤退して代わりの事業所も見つからず、週3日の掃除や入浴支援が途絶えて自宅で生活できなくなる恐怖がある」"
+      }
+    ]
+  }
 }

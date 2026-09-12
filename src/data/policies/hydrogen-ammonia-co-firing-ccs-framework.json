@@ -139,5 +139,51 @@
       "text": "石炭火力延命批判",
       "color": "bg-rose-50 text-rose-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "混ぜて燃やす割合",
+      "labelStandard": "アンモニア混焼実証",
+      "value": "20",
+      "unit": "%混焼",
+      "oldValue": "これまで 石炭100%燃焼",
+      "description": "火力発電のCO2排出を即座に2割削減",
+      "badge": "ゼロエミ火力",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "CO2を埋める深さ",
+      "labelStandard": "CCS地中貯留の深度",
+      "value": "数千",
+      "unit": "mの地層深部",
+      "oldValue": "これまで 地中埋設の法ルールなし",
+      "description": "CCS事業法で永久貯留の権利関係を確立",
+      "badge": "CCS新法",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "高い燃料の補助",
+      "labelStandard": "価格差補助の支援期間",
+      "value": "15年",
+      "unit": "支援枠",
+      "oldValue": "これまで 高額燃料は全額自己負担",
+      "description": "既存化石燃料との価格差を国が補填",
+      "badge": "水素推進法",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "海外からの批判",
+      "labelStandard": "石炭火力延命への国際世論",
+      "value": "化石賞",
+      "unit": "批判リスク",
+      "oldValue": "これまで 日本独自の移行計画",
+      "description": "欧米から「見せかけの脱炭素」と批判も",
+      "badge": "国際論争",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
   ]
 }

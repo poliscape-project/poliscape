@@ -139,5 +139,51 @@
       "text": "個別の更生教育重視",
       "color": "bg-emerald-50 text-emerald-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "刑罰体系の変革",
+      "labelStandard": "刑罰体系の変革",
+      "value": "115",
+      "unit": "年ぶりの歴史的刷新",
+      "oldValue": "明治40年以来「懲役」と「禁錮」",
+      "description": "両者を廃止し「拘禁刑」に一本化",
+      "badge": "明治以来初",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "刑務作業の位置付け",
+      "labelStandard": "刑務作業の位置付け",
+      "value": "作業義務",
+      "unit": "から教育指導へ",
+      "oldValue": "1日8時間の画一的な工場作業",
+      "description": "特性に応じた更生・学習プログラムへ",
+      "badge": "教育重視",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "BookOpen"
+    },
+    {
+      "labelSimple": "高齢受刑者の比率",
+      "labelStandard": "高齢受刑者の比率",
+      "value": "約 15",
+      "unit": "%（65歳以上）",
+      "oldValue": "若年層中心の労働力編成",
+      "description": "認知症・リハビリ・介護処遇を公認",
+      "badge": "高齢化対応",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "再犯防止への期待",
+      "labelStandard": "再犯防止への期待",
+      "value": "再犯率",
+      "unit": "低下を目指す",
+      "oldValue": "出所後5年以内の再犯率が高止まり",
+      "description": "読み書き・依存症治療で社会復帰",
+      "badge": "更生モデル",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "ShieldCheck"
+    }
   ]
 }

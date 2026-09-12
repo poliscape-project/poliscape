@@ -179,5 +179,51 @@
       "text": "短期講習の係員乗務への資格要件緩和",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "自動運転の認可レベル",
+      "labelStandard": "自動運転の認可レベル",
+      "value": "運転士免許不要のGoA2.5/GoA3を認可",
+      "unit": "",
+      "oldValue": "これまで: 運転士免許を持つ者が運転台に座る「GoA2（半自動運転）」のみ認可",
+      "description": "運転台に運転士が不在で係員のみ乗務する「GoA2.5 / GoA3（添乗員付きドライバレス）」を公認",
+      "badge": "運転士免許不要のGoA2.5/GoA3を認可",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Train"
+    },
+    {
+      "labelSimple": "踏切・線路上の障害物検知",
+      "labelStandard": "踏切・線路上の障害物検知",
+      "value": "ミリ波レーダー・AIによる障害物自動停止",
+      "unit": "",
+      "oldValue": "これまで: 運転士の肉眼による前方注視と手動ブレーキに依存",
+      "description": "ミリ波レーダー、LiDAR、AIカメラを統合した前方障害物自動検知ブレーキの義務化",
+      "badge": "ミリ波レーダー・AIによる障害物自動停止",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "乗務員に求められる要件",
+      "labelStandard": "乗務員に求められる要件",
+      "value": "短期講習の係員乗務への資格要件緩和",
+      "unit": "",
+      "oldValue": "これまで: 動力車操縦者運転免許（国家資格）が必須",
+      "description": "避難誘導や非常ブレーキ操作の短期講習を受けた係員（車掌等）で乗務可能に緩和",
+      "badge": "短期講習の係員乗務への資格要件緩和",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "UserCheck"
+    },
+    {
+      "labelSimple": "地方ローカル線の維持コスト",
+      "labelStandard": "地方ローカル線の維持コスト",
+      "value": "運行コスト削減による路線存続支援",
+      "unit": "",
+      "oldValue": "これまで: 運転士人件費の高騰で赤字が膨らみ廃線議論が加速",
+      "description": "ワンマン・省人化運転の実現により運行コストを削減し運行本数を維持",
+      "badge": "運行コスト削減による路線存続支援",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "TrendingDown"
+    }
   ]
 }

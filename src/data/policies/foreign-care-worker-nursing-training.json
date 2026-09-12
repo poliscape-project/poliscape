@@ -155,5 +155,81 @@
       "text": "円安下の国際人材獲得競争",
       "color": "bg-rose-50 text-rose-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "2040年に足りない人",
+      "labelStandard": "介護人材不足の予測",
+      "value": "約57万人",
+      "unit": "（全国推計）",
+      "oldValue": "日本人の若者を採用しようとしても応募ゼロが多発",
+      "descriptionSimple": "日本人だけでは足りず、介護の現場が持たない！",
+      "descriptionStandard": "少子化の中で外国人介護人材の受入れ拡大が不可欠に",
+      "badge": "57万人不足",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "新しい仕組み",
+      "labelStandard": "育成就労制度への移行",
+      "value": "新制度",
+      "unit": "（技能実習を解消）",
+      "oldValue": "実習生は職場を変えられず（転職不可）国際批判",
+      "descriptionSimple": "ひどい職場から別の施設へ移れるようになって人権を守る！",
+      "descriptionStandard": "1〜2年勤務後に本人の意向で転籍を容認する新制度へ",
+      "badge": "転籍の容認",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Briefcase"
+    },
+    {
+      "labelSimple": "ずっと住めるチャンス",
+      "labelStandard": "特定技能・介護福祉士",
+      "value": "家族帯同",
+      "unit": "・永住可能",
+      "oldValue": "3年の実習期間が終われば母国へ帰国させられていた",
+      "descriptionSimple": "試験に合格すれば家族を連れてずっと日本で暮らせる！",
+      "descriptionStandard": "特定技能2号や介護福祉士資格の取得で長期リーダーへ",
+      "badge": "永住ルート",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "GraduationCap"
+    },
+    {
+      "labelSimple": "一番のライバル",
+      "labelStandard": "円安と国際獲得競争",
+      "value": "アジア争奪",
+      "unit": "（韓国・台湾等）",
+      "oldValue": "「日本で稼げる」と多くの若者が集まっていた",
+      "descriptionSimple": "円安でお給料が減り、韓国やオーストラリアに取られてしまう！",
+      "descriptionStandard": "給与の高い近隣諸国に流出し、日本が選ばれなくなる危機",
+      "badge": "円安・人材流出",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Globe"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "外国人スタッフを受け入れた介護施設の理事長",
+        "commentSimple": "「明るく優しい東南アジアの若いスタッフが来てくれて、人手不足で困っていたお年寄りのお世話がしっかりできている」",
+        "commentStandard": "「育成就労への移行で3年後の特定技能・介護福祉士への道が拓け、長期的に日本の福祉を支える幹部人材として育成できる」"
+      },
+      {
+        "speaker": "技能実習・育成就労を支援する国際弁護士",
+        "commentSimple": "「ブラックな施設から別の職場へ移れる転籍の自由が認められたことで、人権侵害や低賃金を防ぐことができる」",
+        "commentStandard": "「職場変更が認められることで悪質な監理団体や施設が淘汰され、国際基準に合致した人権擁護と健全な受入れ体制が確立する」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "東南アジアからの留学生を受け出す送り出し機関",
+        "commentSimple": "「日本の円安でお給料が減ってしまったので、若者たちは給料が高い韓国やオーストラリアに行きたがっている」",
+        "commentStandard": "「1ドル150円超の円安により、母国送金額が激減。最低賃金が高く英語圏の国々との獲得競争に日本は完全に負け始めている」"
+      },
+      {
+        "speaker": "地方の社会福祉法人の採用担当",
+        "commentSimple": "「苦労してお金を出して日本語や技術を教えたのに、1年で給料の高い東京の施設に移籍されてしまっては困る」",
+        "commentStandard": "「転籍解禁により、地方でコストをかけて育てた人材が大都市圏へ流出するリスクが高く、地方施設の採用意欲を削ぐ懸念がある」"
+      }
+    ]
+  }
 }

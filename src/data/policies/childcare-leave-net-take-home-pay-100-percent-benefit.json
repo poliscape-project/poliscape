@@ -171,5 +171,51 @@
       "text": "生後直後の最大28日間が対象",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "育休給付金の支給割合",
+      "labelStandard": "育休給付金の支給割合",
+      "value": "手取り実質100%を支給",
+      "unit": "",
+      "oldValue": "これまで: 休業前賃金の67%支給（社会保険料免除を含め手取り約8割相当）",
+      "description": "賃金の80%を支給（社保免除・非課税により手取り実質10割・100%相当）",
+      "badge": "手取り実質100%を支給",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "受給のための条件",
+      "labelStandard": "受給のための条件",
+      "value": "両親ともに14日以上取得が原則",
+      "unit": "",
+      "oldValue": "これまで: 片親のみの取得でも67%が支給",
+      "description": "原則として両親ともに14日以上の育休を取得することが要件（配偶者が専業主婦等なら単独可）",
+      "badge": "両親ともに14日以上取得が原則",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "10割給付の対象期間",
+      "labelStandard": "10割給付の対象期間",
+      "value": "生後直後の最大28日間が対象",
+      "unit": "",
+      "oldValue": "これまで: 制度なし",
+      "description": "出生直後（産後パパ育休等）の最大28日間を対象に支給",
+      "badge": "生後直後の最大28日間が対象",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Calendar"
+    },
+    {
+      "labelSimple": "復職後の時短勤務への給付",
+      "labelStandard": "復職後の時短勤務への給付",
+      "value": "時短勤務時も給与の10%上乗せ",
+      "unit": "",
+      "oldValue": "これまで: 時短勤務を選択すると労働時間短縮分だけ給与が単純にカット",
+      "description": "2歳未満の子を育てながら時短勤務する場合、賃金の10%を上乗せ支給（育児時短就業給付）",
+      "badge": "時短勤務時も給与の10%上乗せ",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Clock"
+    }
   ]
 }

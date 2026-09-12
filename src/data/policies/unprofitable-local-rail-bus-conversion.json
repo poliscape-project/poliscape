@@ -155,5 +155,55 @@
       "text": "国主導の再構築協議会",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "再構築基準",
+      "labelStandard": "協議会設置の基準収支率",
+      "value": "輸送密度1,000",
+      "unit": "人未満",
+      "oldValue": "赤字でも鉄道会社単独で維持負担",
+      "descriptionSimple": "国主導の「再構築協議会」設置目安",
+      "descriptionStandard": "国主導の「再構築協議会」設置目安",
+      "badge": "再構築基準",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "利便性向上",
+      "labelStandard": "バス高速輸送システム",
+      "value": "BRT転換",
+      "unit": "推進",
+      "oldValue": "老朽化した単線ディーゼル車",
+      "descriptionSimple": "専用道バス化で運行本数を数倍に増発",
+      "descriptionStandard": "専用道バス化で運行本数を数倍に増発",
+      "badge": "利便性向上",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Car"
+    },
+    {
+      "labelSimple": "公費負担",
+      "labelStandard": "インフラと運行の分離",
+      "value": "上下分離",
+      "unit": "方式",
+      "oldValue": "JRが線路・踏切の維持費を全額負担",
+      "descriptionSimple": "自治体が線路を保有し会社は運行に専念",
+      "descriptionStandard": "自治体が線路を保有し会社は運行に専念",
+      "badge": "公費負担",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "全国協議中",
+      "labelStandard": "全国の対象候補区間",
+      "value": "数十路線",
+      "unit": "（JR各社）",
+      "oldValue": "廃線反対で協議が膠着状態だった",
+      "descriptionSimple": "芸備線・只見線・留萌線など各地で存廃審議",
+      "descriptionStandard": "芸備線・只見線・留萌線など各地で存廃審議",
+      "badge": "全国協議中",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "MapPin"
+    }
   ]
 }

@@ -159,5 +159,51 @@
       "text": "バス転換・上下分離",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国の協議会設置",
+      "labelStandard": "再構築協議会の対象基準",
+      "value": "1000",
+      "unit": "人未満（輸送密度）",
+      "oldValue": "これまで 鉄道会社と自治体が平行線で膠着",
+      "description": "国が主導して存廃や運営形態を抜本協議",
+      "badge": "国主導協議",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "バスへの転換",
+      "labelStandard": "BRT・路線バスへの転換",
+      "value": "増便可能",
+      "unit": "な柔軟運行",
+      "oldValue": "これまで 1日数列車の赤字路線を無理に維持",
+      "description": "専用道BRTやバス転換で便数と利便性を向上",
+      "badge": "利便性改善",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Car"
+    },
+    {
+      "labelSimple": "線路の管理方法",
+      "labelStandard": "上下分離方式の導入",
+      "value": "公有民営",
+      "unit": "で負担軽減",
+      "oldValue": "これまで 鉄道会社が施設維持費を全額負担",
+      "description": "自治体がレールや施設を保有し運行を委託",
+      "badge": "上下分離",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "地域の交通計画",
+      "labelStandard": "地域公共交通計画の策定",
+      "value": "全自治体",
+      "unit": "に策定義務化",
+      "oldValue": "これまで 路線単体での議論に終始",
+      "description": "まちづくりと一体で持続可能な移動を設計",
+      "badge": "網の再編",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "MapPin"
+    }
   ]
 }

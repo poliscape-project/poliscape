@@ -139,5 +139,51 @@
       "text": "対象時間22時〜5時拡大",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "割引適用の計算ルール",
+      "labelStandard": "割引適用の計算ルール",
+      "value": "実走行分",
+      "unit": "のみ3割引（距離連動）",
+      "oldValue": "0時通過で全区間3割引（待ち伏せ発生）",
+      "description": "走った時間帯だけ公平に割り引く仕組みへ",
+      "badge": "実走行距離連動",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Car"
+    },
+    {
+      "labelSimple": "料金所手前の危険待機",
+      "labelStandard": "料金所手前の危険待機",
+      "value": "完全根絶",
+      "unit": "（0時待ち消滅）",
+      "oldValue": "23時台に路肩にトラックがハザード駐車",
+      "description": "待機するメリットがなくなり安全確保",
+      "badge": "危険駐車ゼロへ",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "対象時間帯の拡大",
+      "labelStandard": "対象時間帯の拡大",
+      "value": "22時〜5時",
+      "unit": "（7時間に拡大）",
+      "oldValue": "0時〜4時（4時間のみ）",
+      "description": "22時から割引が効くためドライバー早く就寝",
+      "badge": "3時間拡大",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "運送会社の費用負担",
+      "labelStandard": "運送会社の費用負担",
+      "value": "昼間走行分",
+      "unit": "の割引縮小",
+      "oldValue": "昼から走った全区間が安くなっていた",
+      "description": "実質的な高速代増額となる会社への緩和策",
+      "badge": "運送コスト影響",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Coins"
+    }
   ]
 }

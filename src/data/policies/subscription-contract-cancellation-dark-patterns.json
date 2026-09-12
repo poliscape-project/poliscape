@@ -159,5 +159,51 @@
       "text": "ワンクリック解約義務化",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "サブスクの解約方法",
+      "labelStandard": "解約手続きのクリック数",
+      "value": "ワンクリック",
+      "unit": "解約を義務化",
+      "oldValue": "これまで 迷路化や電話限定で解約妨害",
+      "description": "申込時と同等の簡単な手順での解約を法制化",
+      "badge": "解約妨害禁止",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Ban"
+    },
+    {
+      "labelSimple": "無料体験の後の請求",
+      "labelStandard": "自動更新・縛りの明示義務",
+      "value": "総額事前明示",
+      "unit": "の徹底",
+      "oldValue": "これまで 初回実質ゼロ円で年縛り契約",
+      "description": "期間満了前の事前通知と解約条件の明示を義務化",
+      "badge": "縛り明示",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "悪質な事業者への罰",
+      "labelStandard": "ダークパターンへの課徴金",
+      "value": "業務停止命令",
+      "unit": "と課徴金適用",
+      "oldValue": "これまで 行政指導止まりで逃げ得が横行",
+      "description": "特商法改正で欺瞞的なUIデザインに厳罰",
+      "badge": "厳罰化",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "相談トラブル件数",
+      "labelStandard": "消費者相談件数の抑制",
+      "value": "相談急増に歯止め",
+      "unit": "をかける法整備",
+      "oldValue": "これまで サブスク関連の相談が年間数万件",
+      "description": "国民生活センターの被害事例をもとに迅速対処",
+      "badge": "消費者保護",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "HeartHandshake"
+    }
   ]
 }

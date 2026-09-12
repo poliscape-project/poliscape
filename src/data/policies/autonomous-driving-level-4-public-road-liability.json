@@ -165,5 +165,51 @@
       "text": "システム欠陥と運行責任を法的に整理",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "運転席のドライバー配置",
+      "labelStandard": "運転席のドライバー配置",
+      "value": "車内完全無人の公道走行を解禁",
+      "unit": "",
+      "oldValue": "これまで: 公道を走行する車両には、運転席に免許保持者が座ることが必須（レベル2〜3）",
+      "description": "一定のルート・速度等の条件下で、車内完全無人（レベル4特定自動運行）を許可",
+      "badge": "車内完全無人の公道走行を解禁",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Car"
+    },
+    {
+      "labelSimple": "遠隔監視体制の義務付け",
+      "labelStandard": "遠隔監視体制の義務付け",
+      "value": "遠隔監視者の配置を義務化",
+      "unit": "",
+      "oldValue": "これまで: 車内運転者がすべての安全確認と緊急停止を担当",
+      "description": "遠隔監視者（特定自動運行主任者）がカメラ映像で常時監視し緊急停止命令",
+      "badge": "遠隔監視者の配置を義務化",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "事故発生時の損害賠償責任",
+      "labelStandard": "事故発生時の損害賠償責任",
+      "value": "システム欠陥と運行責任を法的に整理",
+      "unit": "",
+      "oldValue": "これまで: ハンドルを握る運転者の過失責任（自動車損害賠償保障法第3条）が中心",
+      "description": "運行供用者責任（自賠法）を基本としつつ、システム欠陥は製造物責任（PL法）で処理",
+      "badge": "システム欠陥と運行責任を法的に整理",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "全国展開の導入目標",
+      "labelStandard": "全国展開の導入目標",
+      "value": "全国50カ所での社会実装へ",
+      "unit": "",
+      "oldValue": "これまで: フェンスで囲われた限定区域での実証実験にとどまる",
+      "description": "福井県永平寺町等を皮切りに、全国50カ所以上の市町村での本格実装を推進",
+      "badge": "全国50カ所での社会実装へ",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "MapPin"
+    }
   ]
 }

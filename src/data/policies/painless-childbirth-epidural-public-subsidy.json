@@ -139,5 +139,51 @@
       "text": "24時間麻酔体制の確保",
       "color": "bg-amber-50 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国内の無痛分娩普及率",
+      "labelStandard": "国内の無痛分娩普及率",
+      "value": "約 9",
+      "unit": "%（過去最高）",
+      "oldValue": "2020年頃までは5%未満にとどまる",
+      "description": "欧米（7〜8割）に比べ依然として低水準",
+      "badge": "希望者急増中",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "追加の自費負担額",
+      "labelStandard": "追加の自費負担額",
+      "value": "10〜20",
+      "unit": "万円の実費",
+      "oldValue": "通常出産費用に追加請求",
+      "description": "公的保険適用や費用助成の議論が進行",
+      "badge": "追加費用負担",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "産後うつ予防効果",
+      "labelStandard": "産後うつ予防効果",
+      "value": "体力温存",
+      "unit": "・早期回復",
+      "oldValue": "激痛による疲労困憊で産後うつリスク",
+      "description": "出産直後から元気に育児へ向き合える",
+      "badge": "産後うつ予防",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Heart"
+    },
+    {
+      "labelSimple": "最大の医療ボトルネック",
+      "labelStandard": "最大の医療ボトルネック",
+      "value": "麻酔科医",
+      "unit": "不足（地方格差）",
+      "oldValue": "平日昼間しか対応できない病院多数",
+      "description": "24時間対応できる専門医の確保が急務",
+      "badge": "医師不足の壁",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Clock"
+    }
   ]
 }

@@ -139,5 +139,51 @@
       "text": "核のゴミ処分地未定",
       "color": "bg-rose-50 text-rose-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "新型炉の出力",
+      "labelStandard": "小型モジュール炉（SMR）の出力",
+      "value": "約30万",
+      "unit": "kW以下",
+      "oldValue": "これまで 100万kW超の大型炉",
+      "description": "工場でユニット製造・工期大幅短縮",
+      "badge": "小型炉SMR",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "冷却の仕組み",
+      "labelStandard": "受動的安全性",
+      "value": "自然循環",
+      "unit": "電源不要",
+      "oldValue": "これまで 非常用ディーゼルポンプ",
+      "description": "重力と自然対流で全電源喪失時も冷却",
+      "badge": "受動的安全",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "完成の目標",
+      "labelStandard": "実証炉の運転開始目標",
+      "value": "2030年代",
+      "unit": "前半稼働",
+      "oldValue": "これまで 新増設・建て替え停止",
+      "description": "GX脱炭素電源法で開発支援を法制化",
+      "badge": "国家戦略",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "核のゴミ",
+      "labelStandard": "高レベル放射性廃棄物",
+      "value": "未定",
+      "unit": "処分地難航",
+      "oldValue": "これまで 最終処分地が決まらず",
+      "description": "数万年管理が必要なゴミの行き場",
+      "badge": "最大課題",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
   ]
 }

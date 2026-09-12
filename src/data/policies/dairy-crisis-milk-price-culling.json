@@ -185,5 +185,81 @@
       "text": "飲用乳価の引き上げ",
       "color": "bg-teal-50 text-teal-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "牛をへらす国のお金",
+      "labelStandard": "乳牛早期淘汰緊急支援",
+      "value": "1頭 15",
+      "unit": "万円",
+      "oldValue": "これまで増頭・規模拡大を補助金で奨励",
+      "descriptionSimple": "牛乳が余るのを防ぐため牛を処分する苦しい対策",
+      "descriptionStandard": "全国4万頭規模の早期淘汰で需給を引き締め",
+      "badge": "早期淘汰補助",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "へらす牛の数",
+      "labelStandard": "生乳需給調整目標",
+      "value": "約 4",
+      "unit": "万頭規模",
+      "oldValue": "バター不足を受けた畜産クラスターで増産",
+      "descriptionSimple": "牛乳をドバドバ捨てる事態を絶対に防ぐ！",
+      "descriptionStandard": "生乳廃棄パニックを回避するための緊急枠",
+      "badge": "頭数削減",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "牛乳のねだん値上げ",
+      "labelStandard": "飲用乳価の店頭反映",
+      "value": "+10〜20",
+      "unit": "円/本 値上げ",
+      "oldValue": "スーパーの特売目玉として安売り",
+      "descriptionSimple": "酪農家さんを助けるため少し高くなった牛乳",
+      "descriptionStandard": "コスト高騰を正当に反映する適正価格への転嫁",
+      "badge": "乳価転嫁",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "牛のごはん代の割合",
+      "labelStandard": "酪農生産費に占める飼料費",
+      "value": "約 50〜60",
+      "unit": "%",
+      "oldValue": "平時のエサ代は現在の約6割程度",
+      "descriptionSimple": "牛乳を作れば作るほど赤字になる原因！",
+      "descriptionStandard": "輸入配合飼料の記録的高騰が酪農経営を直撃",
+      "badge": "飼料費高騰",
+      "badgeColor": "bg-slate-100 text-slate-700",
+      "icon": "Wallet"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "指定生乳生産者団体の幹部",
+        "commentSimple": "「牛乳をドバドバ捨てる最悪の事態を防ぐため、牛を減らすのはとてもつらいけれど絶対に必要な決断だった」",
+        "commentStandard": "「生乳を川に捨てる事態だけは回避しなければならなかった。苦渋の選択だが需給均衡と価格維持への必須策」"
+      },
+      {
+        "speaker": "酪農専門の獣医師",
+        "commentSimple": "「今まで牛乳は安すぎました。酪農家さんが倒産しないよう、エサ代が高くなった分をみんなで支え合うべき」",
+        "commentStandard": "「エサ代や光熱費が高騰した分を牛乳価格に正当に転嫁できる商慣行が定着しなければ、日本の酪農は全滅する」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "北海道の家族経営酪農家",
+        "commentSimple": "「国に『牛を増やせ』と言われて大借金したのに、急に『牛を処分しろ』とお金を配るなんて無責任すぎる」",
+        "commentStandard": "「増産号令を信じて数億円の借金をしたのに、需給が緩むと『牛を殺せ』と迫る朝令暮改の農政に涙が止まらない」"
+      },
+      {
+        "speaker": "子育て世帯の保護者",
+        "commentSimple": "「子どもが毎日牛乳を飲むので、これ以上高くなると家計がきつい。買うのを我慢するしかない」",
+        "commentStandard": "「牛乳の相次ぐ値上げで食費の負担が重い。豆乳やPB商品に切り替える家庭が増え、かえって牛乳離れが進むのでは」"
+      }
+    ]
+  }
 }

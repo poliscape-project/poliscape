@@ -179,5 +179,51 @@
       "text": "転居費用補助と公営住宅優先入居",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国の犯罪被害給付金額",
+      "labelStandard": "国の犯罪被害給付金額",
+      "value": "給付金最低額を大幅増額・迅速支給",
+      "unit": "",
+      "oldValue": "これまで: 収入や年齢により最低数百万円程度にとどまるケースが多く、生活再建に不十分だった",
+      "description": "遺族給付金の最低保障額を大幅に引き上げ（数千万円規模への拡充）、迅速支給を制度化",
+      "badge": "給付金最低額を大幅増額・迅速支給",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "DollarSign"
+    },
+    {
+      "labelSimple": "弁護士費用の自己負担",
+      "labelStandard": "弁護士費用の自己負担",
+      "value": "被害者専任弁護士を国費で派遣",
+      "unit": "",
+      "oldValue": "これまで: 被害者自身が高額な着手金や報酬を自己負担して弁護士を雇う必要があった",
+      "description": "「国選被害者弁護士制度」を創設し、事件直後から裁判参加・損害賠償まで全額公費負担",
+      "badge": "被害者専任弁護士を国費で派遣",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "転居・住まい支援",
+      "labelStandard": "転居・住まい支援",
+      "value": "転居費用補助と公営住宅優先入居",
+      "unit": "",
+      "oldValue": "これまで: 現場となった自宅からの退去・引越し費用は全額自己負担だった",
+      "description": "一時避難所や民間賃貸への引っ越し費用補助（最大数十万円）と公営住宅の優先入居",
+      "badge": "転居費用補助と公営住宅優先入居",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "自治体のワンストップ相談窓口",
+      "labelStandard": "自治体のワンストップ相談窓口",
+      "value": "全自治体でのワンストップ窓口必置",
+      "unit": "",
+      "oldValue": "これまで: 警察、市役所、福祉、医療機関を被害者が自分でたらい回しにされる課題",
+      "description": "全自治体に専任コーディネーターを配置し、行政手続きや生活支援を一括窓口対応",
+      "badge": "全自治体でのワンストップ窓口必置",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Users"
+    }
   ]
 }

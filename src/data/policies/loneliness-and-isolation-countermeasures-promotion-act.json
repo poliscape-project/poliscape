@@ -171,5 +171,51 @@
       "text": "24時間相談ダイヤル整備",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "政策の基本理念を法制化",
+      "labelStandard": "政策の基本理念を法制化",
+      "value": "政策の基本理念を法制化",
+      "unit": "",
+      "oldValue": "これまで: 困窮・高齢・不登校など縦割り対応で孤立そのものの法的位置づけなし",
+      "description": "孤独・孤立対策推進法に基づき基本方針を策定し総合推進",
+      "badge": "政策の基本理念を法制化",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "地方協議会の設置促進",
+      "labelStandard": "地方協議会の設置促進",
+      "value": "地方協議会の設置促進",
+      "unit": "",
+      "oldValue": "これまで: 相談窓口が担当部署ごとに分散し包括的支援が困難",
+      "description": "地方孤独・孤立対策地域協議会の設置を自治体の努力義務化",
+      "badge": "地方協議会の設置促進",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "24時間相談ダイヤル整備",
+      "labelStandard": "24時間相談ダイヤル整備",
+      "value": "24時間相談ダイヤル整備",
+      "unit": "",
+      "oldValue": "これまで: 平日の日中電話相談が中心で若年層の利用が低調",
+      "description": "SNS・チャットを活用した24時間365日対応の統一相談を常設",
+      "badge": "24時間相談ダイヤル整備",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "MessageSquare"
+    },
+    {
+      "labelSimple": "居場所づくりへの継続助成",
+      "labelStandard": "居場所づくりへの継続助成",
+      "value": "居場所づくりへの継続助成",
+      "unit": "",
+      "oldValue": "これまで: ボランティアやNPOの自主財源に依存した不安定な運営",
+      "description": "国と自治体が連携した交付金で子ども食堂・多世代交流を継続支援",
+      "badge": "居場所づくりへの継続助成",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Home"
+    }
   ]
 }

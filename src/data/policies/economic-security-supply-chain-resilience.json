@@ -185,5 +185,81 @@
       "text": "脱中国依存と経済的威圧抑止",
       "color": "bg-purple-50 text-purple-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国が指定した超重要グループ",
+      "labelStandard": "特定重要物資の指定数",
+      "value": "12",
+      "unit": "分野",
+      "oldValue": "民間企業の海外自由調達にすべて委ねていた",
+      "descriptionSimple": "半導体、磁石、工作機械、お薬の原料などを指定！",
+      "descriptionStandard": "国民生活・経済活動に不可欠な戦略物資を法制指定",
+      "badge": "12物資指定",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "工場を日本に戻すお金",
+      "labelStandard": "国内工場新設への補助率",
+      "value": "最大 2/3",
+      "unit": "補助",
+      "oldValue": "コスト削減のため工場の海外流出が加速していた",
+      "descriptionSimple": "日本に工場を建て直す会社にお金をたくさん助成！",
+      "descriptionStandard": "数兆円規模の基金から設備投資を重点強力支援",
+      "badge": "国内回帰支援",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "外国に頼りすぎるリスク",
+      "labelStandard": "特定国へのサプライチェーン偏在",
+      "value": "最大 7〜9",
+      "unit": "割（特定国依存）",
+      "oldValue": "コロナ禍でのマスク不足・半導体不足が発生",
+      "descriptionSimple": "相手の国に輸入を止められたら日本中が止まる！",
+      "descriptionStandard": "経済的威圧やシーレーン封鎖による国家麻痺を防止",
+      "badge": "脱中国依存",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "仲良しの国との協力",
+      "labelStandard": "同志国フレンドショアリング",
+      "value": "G7・QUAD",
+      "unit": "連携",
+      "oldValue": "サプライチェーンの多角化・安全基準が未確立",
+      "descriptionSimple": "アメリカやヨーロッパ、オーストラリアとお互いに助け合う！",
+      "descriptionStandard": "信頼できるパートナー国間での重要物資融通網を構築",
+      "badge": "同志国連携",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Globe"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "素材メーカーの調達本部長",
+        "commentSimple": "「外国のトラブルで材料が入らなくなって工場が止まる危険を、国の手助けで防ぐことができる」",
+        "commentStandard": "「特定国へのサプライチェーン依存脱却と備蓄支援により、地政学リスク下でも安定操業を維持できる」"
+      },
+      {
+        "speaker": "安全保障の政策担当者",
+        "commentSimple": "「医療品や電子部品など、命や生活に絶対必要なものを日本でしっかり作れるようにする大切な政策」",
+        "commentStandard": "「半導体、医薬品、重要鉱物などのチョークポイントを自前化・多角化することは国家主権の防衛そのものである」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "グローバル商社の役員",
+        "commentSimple": "「材料を買い集める国を変えたり日本に戻したりすると、モノをつくるコストが高くなってしまう」",
+        "commentStandard": "「脱・特定国依存を進めることで調達コストが跳ね上がり、国際市場での価格競争力を失うジレンマがある」"
+      },
+      {
+        "speaker": "国際法・通商の専門家",
+        "commentSimple": "「どの会社を助けるかのルールが不透明だと、国が特定の企業だけをひいきすることになりかねない」",
+        "commentStandard": "「特定重要物資の指定や補助金交付の基準が恣意化し、自由貿易体制を歪め相手国からの報復措置を招く恐れがある」"
+      }
+    ]
+  }
 }

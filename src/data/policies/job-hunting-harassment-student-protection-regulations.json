@@ -133,5 +133,52 @@
       "text": "オワハラ規制",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "就活生の被害経験",
+      "labelStandard": "就活ハラスメント経験率",
+      "value": "約4人に1",
+      "unit": "人が被害遭遇",
+      "oldValue": "実態が見過ごされ泣き寝入り多発",
+      "description": "面接官やOBからの性被害・暴言",
+      "badge": "被害深刻",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "法律の保護の対象",
+      "labelStandard": "労施協法等の保護範囲",
+      "before": "雇用関係のある自社労働者のみ",
+      "value": "求職者",
+      "unit": "・インターン追加",
+      "oldValue": "これまで 学生は法の空白地帯",
+      "description": "就活生を法的保護対象に明記へ",
+      "badge": "法制化検討",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "会社の相談ルール",
+      "labelStandard": "企業の相談窓口義務",
+      "value": "必須化",
+      "unit": "へ指針強化",
+      "oldValue": "これまで 窓口なし・隠蔽多発",
+      "description": "通報窓口設置と迅速な調査を義務付け",
+      "badge": "窓口義務",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "辞退強要の禁止",
+      "labelStandard": "オワハラ（終業強要）",
+      "value": "明文禁止",
+      "unit": "・是正勧告",
+      "oldValue": "「他社を断れ」と脅す行為が横行",
+      "description": "不当な囲い込みをハラスメント認定",
+      "badge": "オワハラ規制",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Ban"
+    }
   ]
 }

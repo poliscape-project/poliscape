@@ -139,5 +139,51 @@
       "text": "地方分権後退懸念",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国の命令の新ルール",
+      "labelStandard": "国の補充的指示権",
+      "value": "新設",
+      "unit": "（改正地方自治法）",
+      "oldValue": "2000年分権改革 国と地方は対等協力",
+      "description": "個別法に規定なき非常時も指示可能",
+      "badge": "指示権新設",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "命令が出せる条件",
+      "labelStandard": "指示権発動の法的手続き",
+      "value": "閣議決定",
+      "unit": "＋自治体意見聴取",
+      "oldValue": "コロナ禍等で指示根拠がなく対応遅延",
+      "description": "国民の生命保護の緊急事態に限定",
+      "badge": "閣議決定義務",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "地方側の心配",
+      "labelStandard": "地方分権への懸念",
+      "value": "主従関係",
+      "unit": "への後退リスク",
+      "oldValue": "自治体の自主的判断と地方自治の尊重",
+      "description": "国の都合による指示乱用への警戒感",
+      "badge": "分権後退の危惧",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "納得できないときの審査",
+      "labelStandard": "不服審査申し立て制度",
+      "value": "係争処理",
+      "unit": "委員会へ審査請求",
+      "oldValue": "国の指示に従うか法廷闘争の2択",
+      "description": "第三者機関による違法性チェックを維持",
+      "badge": "不服審査枠組み",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

@@ -141,5 +141,81 @@
       "text": "違反企業は社名公表処分",
       "color": "bg-slate-100 text-slate-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "ステマをやった会社の罰則",
+      "labelStandard": "措置命令とペナルティ",
+      "value": "社名公表",
+      "unit": "（社会的制裁）",
+      "oldValue": "業界の自主ルールのみで処分なし",
+      "descriptionSimple": "ヤラセ宣伝をした会社名がニュースで晒される！",
+      "descriptionStandard": "消費者庁による措置命令と違反事実の全国公表",
+      "badge": "社名公表の厳罰",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Ban"
+    },
+    {
+      "labelSimple": "広告と書く義務",
+      "labelStandard": "表示の明瞭基準",
+      "value": "#PR #広告",
+      "unit": "の明記必須",
+      "oldValue": "文字を小さくしたりタグに隠して偽装",
+      "descriptionSimple": "誰が見てもハッキリわかる場所に書かないと違反！",
+      "descriptionStandard": "文頭や冒頭で一般消費者が広告と一目で認識できること",
+      "badge": "明確な表記義務",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "罰せられるのは誰？",
+      "labelStandard": "規制対象の所在",
+      "value": "企業側",
+      "unit": "（広告主の責任）",
+      "oldValue": "投稿者個人のモラル問題とされていた",
+      "descriptionSimple": "宣伝を頼んだ会社にすべての責任がある！",
+      "descriptionStandard": "インフルエンサーではなく発注元事業者が処分の対象",
+      "badge": "広告主に全責任",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "摘発事例の推移",
+      "labelStandard": "行政処分件数",
+      "value": "全国で続々",
+      "unit": "摘発加速中",
+      "oldValue": "法制化前は摘発ゼロ件",
+      "descriptionSimple": "大手クリニックや有名メーカーが次々処分！",
+      "descriptionStandard": "景品表示法指定後、実際に措置命令が相次ぎ抑止力向上",
+      "badge": "実効性が向上",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "AlertTriangle"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "ネット通販をよく使う消費者",
+        "commentSimple": "「サクラやヤラセの星5レビューに騙されて使えない商品を買わされる被害がなくなって嬉しい！」",
+        "commentStandard": "「何が純粋な口コミで何が広告なのかが一目でわかるようになり、安心してネットで買い物できる」"
+      },
+      {
+        "speaker": "クリーンな専業インフルエンサー",
+        "commentSimple": "「堂々と『#PR』と書いて良いものを正直に紹介するクリエイターが正当に評価される時代になった」",
+        "commentStandard": "「怪しい裏取引が排除され、法令を遵守してタイアップする発信者の社会的信用が高まった」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "企業のSNS運用担当者",
+        "commentSimple": "「社員がプライベートで自社商品を褒めただけでもステマと叩かれないか、過剰に萎縮してしまう」",
+        "commentStandard": "「金銭授受がないファンの純粋な好意投稿との線引きが難しく、公式SNSでのコミュニケーションが窮屈になった」"
+      },
+      {
+        "speaker": "国内のEC事業者",
+        "commentSimple": "「日本の会社ばかり厳しく取り締まられて、海外の悪質なサクラ業者のレビューが野放しなのは不公平」",
+        "commentStandard": "「海外出品者の越境ステマを取り締まる実効性が乏しく、真面目な国内メーカーが不利になっている」"
+      }
+    ]
+  }
 }

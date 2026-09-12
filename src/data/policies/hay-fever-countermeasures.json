@@ -171,5 +171,81 @@
       "text": "舌下免疫療法薬の増産",
       "color": "bg-indigo-50 text-indigo-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "スギの木を切るスピード",
+      "labelStandard": "スギ人工林伐採ペース",
+      "value": "年 7万",
+      "unit": "haへ加速（4割増）",
+      "oldValue": "年間約5万ヘクタールのペースだった",
+      "descriptionSimple": "国が本気でスギの木を切り倒して減らす！",
+      "descriptionStandard": "30年で花粉発生量を半減させる10年計画推進中",
+      "badge": "伐採4割加速",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Trees"
+    },
+    {
+      "labelSimple": "新しく植える木",
+      "labelStandard": "少花粉スギ苗木の割合",
+      "value": "9割超",
+      "unit": "へ引き上げ",
+      "oldValue": "通常のスギ苗木が多く植えられていた",
+      "descriptionSimple": "切った後は花粉が出ない木に植え替える！",
+      "descriptionStandard": "花粉の少ない優良品種への転換を強力推進",
+      "badge": "少花粉苗木9割",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "アレルギーを根本から治す薬",
+      "labelStandard": "舌下免疫療法（SLIT）薬",
+      "value": "供給量倍増",
+      "unit": "（約8割改善）",
+      "oldValue": "薬が品薄で治療を始めにくかった",
+      "descriptionSimple": "保険適用で治療薬が増産され始めやすくなった",
+      "descriptionStandard": "3年間の服薬で約8割の患者で症状が消失・軽減",
+      "badge": "根本治療薬倍増",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "社会の経済的な損",
+      "labelStandard": "経済損失の奪還効果",
+      "value": "年数千億円",
+      "unit": "の損失防止",
+      "oldValue": "春の集中力低下・医療費で大打撃",
+      "descriptionSimple": "春に仕事や勉強が手につかない損を取り戻す！",
+      "descriptionStandard": "労働生産性の改善と医療費抑制による国家効果",
+      "badge": "経済損失防止",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "TrendingDown"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "重度の花粉症に悩む会社員",
+        "commentSimple": "「舌下免疫療法で春の目のかゆみと鼻水が消えて、仕事に集中できるようになり人生が変わった！」",
+        "commentStandard": "「アレルギーを根本から治す薬が増産され、毎年の耳鼻科通院や薬代の出費から解放された」"
+      },
+      {
+        "speaker": "林業振興・地域創生関係者",
+        "commentSimple": "「切ったスギを住宅や家具にたくさん使うことで、山にお金と雇用が生まれる好循環ができた」",
+        "commentStandard": "「スギ人工林の伐採加速と花粉の少ない苗木への植え替えにより、森林再生と産業育成が両立する」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "今まさに苦しんでいる市民",
+        "commentSimple": "「花粉が半分になるまでに30年もかかるなんて、今つらい自分には長すぎて待てないよ…」",
+        "commentStandard": "「スギの伐採と植え替えには数十年単位の年月が必要で、短期的な症状緩和には直接結びつかない」"
+      },
+      {
+        "speaker": "アレルギー専門医",
+        "commentSimple": "「舌下免疫療法は毎日3年間薬を飲み続けないといけないから、途中で面倒になってやめちゃう人が多い」",
+        "commentStandard": "「根気強い長期服薬が必要であり、アナフィラキシーのリスク管理と患者への継続指導が不可欠」"
+      }
+    ]
+  }
 }

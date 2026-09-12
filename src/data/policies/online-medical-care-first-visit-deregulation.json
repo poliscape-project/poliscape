@@ -139,5 +139,51 @@
       "text": "不適切処方防止",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "初診の受診方法",
+      "labelStandard": "初診オンライン診療",
+      "value": "恒久化",
+      "unit": "",
+      "oldValue": "これまで 原則対面のみ",
+      "description": "スマホで受診・薬も自宅へ配送",
+      "badge": "初診解禁",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "通院にかかる時間",
+      "labelStandard": "通院・移動待ち時間",
+      "value": "0",
+      "unit": "分に短縮",
+      "oldValue": "これまで 半日〜数時間の負担",
+      "description": "へき地や多忙な現役世代を支援",
+      "badge": "時間短縮",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "処方薬の受け取り",
+      "labelStandard": "服薬指導と薬配送",
+      "value": "自宅",
+      "unit": "へ宅配",
+      "oldValue": "これまで 薬局窓口で対面",
+      "description": "電子処方箋と連動し完全非対面",
+      "badge": "薬の宅配",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "初診で出せない薬",
+      "labelStandard": "不適切処方禁止薬",
+      "value": "麻薬等",
+      "unit": "初診禁止",
+      "oldValue": "これまで ガイドライン違反の横行",
+      "description": "向精神薬等の安全基準を厳格化",
+      "badge": "安全対策",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    }
   ]
 }

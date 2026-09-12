@@ -155,5 +155,55 @@
       "text": "災害時・救急搬送の即時カルテ参照",
       "color": "bg-emerald-50 text-emerald-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "ペーパーレス",
+      "labelStandard": "処方箋の完全デジタル化",
+      "value": "電子処方箋",
+      "unit": "普及加速",
+      "oldValue": "紙の処方箋を手渡しし薬局で手入力",
+      "descriptionSimple": "クラウド上で即時照合し紙を撤廃",
+      "descriptionStandard": "クラウド上で即時照合し紙を撤廃",
+      "badge": "ペーパーレス",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "医療安全向上",
+      "labelStandard": "危険な飲み合わせ防止",
+      "value": "併用禁忌",
+      "unit": "自動リアルタイム警告",
+      "oldValue": "お薬手帳の目視確認で見落としリスク",
+      "descriptionSimple": "全国の直近調剤データと照合し事故をゼロへ",
+      "descriptionStandard": "全国の直近調剤データと照合し事故をゼロへ",
+      "badge": "医療安全向上",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "全国カルテ基盤",
+      "labelStandard": "電子カルテの全国共有",
+      "value": "3文書6情報",
+      "unit": "共有（2025年〜）",
+      "oldValue": "病院ごとにカルテ規格がバラバラで分断",
+      "descriptionSimple": "紹介状・退院サマリー・健診結果を全国共有",
+      "descriptionStandard": "紹介状・退院サマリー・健診結果を全国共有",
+      "badge": "全国カルテ基盤",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "救急即時救命",
+      "labelStandard": "災害時・救急搬送の救命",
+      "value": "意識不明時",
+      "unit": "も病歴参照可能",
+      "oldValue": "津波でカルテ流出、持病の薬が不明で困窮",
+      "descriptionSimple": "マイナカード認証でアレルギーや常用薬を即特定",
+      "descriptionStandard": "マイナカード認証でアレルギーや常用薬を即特定",
+      "badge": "救急即時救命",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "HeartPulse"
+    }
   ]
 }

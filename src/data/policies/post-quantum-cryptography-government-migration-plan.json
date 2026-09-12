@@ -165,5 +165,51 @@
       "text": "盗聴不可能な量子通信網の構築",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "採用する暗号アルゴリズム",
+      "labelStandard": "採用する暗号アルゴリズム",
+      "value": "耐量子暗号（PQC）へ切り替え",
+      "unit": "",
+      "oldValue": "これまで: RSA暗号や楕円曲線暗号（ECC）など、因数分解の困難性に依存",
+      "description": "格子暗号など量子計算でも解けない「耐量子暗号（PQC）」へ全面移行",
+      "badge": "耐量子暗号（PQC）へ切り替え",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "政府システムの移行期限",
+      "labelStandard": "政府システムの移行期限",
+      "value": "2030年代半ばまでに完全移行",
+      "unit": "",
+      "oldValue": "これまで: 各府省庁が個別に調達・更新し、暗号の寿命管理が不統一",
+      "description": "2030年〜2035年を目標期限とし、政府統一基準でPQC移行を義務化",
+      "badge": "2030年代半ばまでに完全移行",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Calendar"
+    },
+    {
+      "labelSimple": "量子鍵配送（QKD）の導入",
+      "labelStandard": "量子鍵配送（QKD）の導入",
+      "value": "盗聴不可能な量子通信網の構築",
+      "unit": "",
+      "oldValue": "これまで: 基礎物理実験室での短距離実証レベルにとどまる",
+      "description": "重要インフラ・金融ネットワーク間の長距離量子暗号通信網を整備",
+      "badge": "盗聴不可能な量子通信網の構築",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "民間・サプライチェーンへの波及",
+      "labelStandard": "民間・サプライチェーンへの波及",
+      "value": "重要インフラの暗号総点検",
+      "unit": "",
+      "oldValue": "これまで: 暗号技術は民間ITベンダー任せで脆弱性が放置",
+      "description": "重要インフラ事業者や防衛関連企業に対し、暗号資産管理等の点検を要請",
+      "badge": "重要インフラの暗号総点検",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Laptop"
+    }
   ]
 }

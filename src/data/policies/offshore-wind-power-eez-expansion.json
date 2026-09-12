@@ -155,5 +155,55 @@
       "text": "2040年4500万kW",
       "color": "bg-amber-100 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "2040年目標",
+      "labelStandard": "洋上風力の導入目標",
+      "value": "4,500万",
+      "unit": "kW",
+      "oldValue": "これまで 数十万kW程度",
+      "descriptionSimple": "原発45基分に相当する脱炭素電源",
+      "descriptionStandard": "原発45基分に相当する脱炭素電源",
+      "badge": "2040年目標",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "世界6位の海洋",
+      "labelStandard": "設置可能海域の拡大",
+      "value": "約370",
+      "unit": "km沖合まで",
+      "oldValue": "これまで 領海内（約22km）限定",
+      "descriptionSimple": "排他的経済水域（EEZ）へ全面解禁",
+      "descriptionStandard": "排他的経済水域（EEZ）へ全面解禁",
+      "badge": "世界6位の海洋",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Ship"
+    },
+    {
+      "labelSimple": "長期安定投資",
+      "labelStandard": "新設の占用許可期間",
+      "value": "最長30",
+      "unit": "年間",
+      "oldValue": "これまで 自治体ごとの短期占用",
+      "descriptionSimple": "事業者の長期投資を国が法的に保障",
+      "descriptionStandard": "事業者の長期投資を国が法的に保障",
+      "badge": "長期安定投資",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "コスト課題",
+      "labelStandard": "浮体式の発電コスト",
+      "value": "20〜30",
+      "unit": "円/kWh",
+      "oldValue": "着床式 10円台前半",
+      "descriptionSimple": "深海設置のための初期コスト低減が課題",
+      "descriptionStandard": "深海設置のための初期コスト低減が課題",
+      "badge": "コスト課題",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Coins"
+    }
   ]
 }

@@ -140,5 +140,51 @@
       "text": "国産ヨウ素で自給",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "貼れる場所",
+      "labelStandard": "設置場所の柔軟性",
+      "value": "ビルの壁",
+      "unit": "曲面もOK",
+      "oldValue": "これまで 平地や頑丈な屋根限定",
+      "description": "薄く曲がるフィルム型・建物の壁面発電",
+      "badge": "設置場所革命",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "材料の国産率",
+      "labelStandard": "主原料ヨウ素の国内産出",
+      "value": "世界2位",
+      "unit": "国産シェア3割",
+      "oldValue": "これまで シリコン8割中国依存",
+      "description": "千葉県などで産出・完全自給サプライチェーン",
+      "badge": "経済安保",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "パネルの重さ",
+      "labelStandard": "従来シリコン比の重量",
+      "value": "約1/10",
+      "unit": "超軽量",
+      "oldValue": "これまで 1枚15〜20kgの重量",
+      "description": "耐荷重の低い体育館や古い倉庫にも貼れる",
+      "badge": "超軽量",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "電気代の目標",
+      "labelStandard": "2030年発電コスト目標",
+      "value": "14",
+      "unit": "円/kWh以下",
+      "oldValue": "これまで 初期開発で高コスト",
+      "description": "量産化で既存の太陽光と同等以下へ",
+      "badge": "量産支援",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Coins"
+    }
   ]
 }

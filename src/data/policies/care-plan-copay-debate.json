@@ -155,5 +155,81 @@
       "text": "セルフネグレクト・孤立死懸念",
       "color": "bg-rose-50 text-rose-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "今のケアプラン代",
+      "labelStandard": "現行の利用者負担",
+      "value": "0円",
+      "unit": "（全額給付）",
+      "oldValue": "2000年の制度開始から一貫して無料",
+      "descriptionSimple": "困った人が誰でも相談できるように今はタダ！",
+      "descriptionStandard": "ゲートキーパー機能と中立性担保のため自己負担ゼロ",
+      "badge": "現行自己負担ゼロ",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "提案されている負担",
+      "labelStandard": "導入検討の自己負担",
+      "value": "原則1割",
+      "unit": "（所得に応じ2〜3割）",
+      "oldValue": "全額介護保険から居宅介護支援費として給付",
+      "descriptionSimple": "他の介護サービスと同じように少しお金を取ろうという案",
+      "descriptionStandard": "財政審が「他サービスとの公平性」を理由に要求",
+      "badge": "1割負担案",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "毎月の自己負担額",
+      "labelStandard": "推定月額負担",
+      "value": "1,000〜1,600",
+      "unit": "円程度",
+      "oldValue": "これまで 毎月0円",
+      "descriptionSimple": "要介護度によって毎月千数百円の支払いが発生",
+      "descriptionStandard": "毎月のケアプラン作成・モニタリングに対する負担",
+      "badge": "月千数百円",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Calculator"
+    },
+    {
+      "labelSimple": "もっとも怖いリスク",
+      "labelStandard": "懸念される事態",
+      "value": "利用控え",
+      "unit": "・孤独死",
+      "oldValue": "毎月ケアマネが自宅訪問して異変を察知",
+      "descriptionSimple": "貧しいお年寄りが相談をやめて、家で孤立してしまう！",
+      "descriptionStandard": "セルフネグレクトや虐待の早期発見網が崩壊する危機",
+      "badge": "孤立死リスク",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "社会保障審議会の財政規律派委員",
+        "commentSimple": "「デイサービスやお風呂にはお金を払っているのだから、計画作りだけタダなのは不公平。少し負担して無駄をなくそう」",
+        "commentStandard": "「居宅介護支援だけが利用者負担ゼロなのは制度の公平性を欠く。1割負担の導入により不要不急の過剰サービスを抑制できる」"
+      },
+      {
+        "speaker": "独立系ケアマネジャー",
+        "commentSimple": "「対価を払ってもらうことで、プロの専門職として堂々と誇りを持って質の高いケアマネジメントを提供できる」",
+        "commentStandard": "「無料の『何でも屋』扱いから脱却し、利用者から正当な報酬を得る契約関係を結ぶことで、専門職としての社会的地位が高まる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "生活困窮者を支える社会福祉士",
+        "commentSimple": "「月千円でも払えないお年寄りが相談をやめてしまい、家の中で倒れて発見が遅れる孤独死が増えてしまう」",
+        "commentStandard": "「ケアマネは生活困窮や虐待、セルフネグレクトの最前線の砦。有料化による利用控えは致命的なセーフティネットの断絶を生む」"
+      },
+      {
+        "speaker": "居宅介護支援事業所の管理者",
+        "commentSimple": "「認知症のお年寄りから毎月千円を集金したり督促する事務作業が増え、本来の介護計画を作る時間がなくなってしまう」",
+        "commentStandard": "「未払いの督促や小口の領収書発行など徴収コストが膨大で、数人規模のケアマネ事業所では事務処理がパンクして離職が起きる」"
+      }
+    ]
+  }
 }

@@ -140,5 +140,51 @@
       "text": "仮置き場の事前安全指定",
       "color": "bg-emerald-50 text-emerald-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "他県へのゴミ運搬",
+      "labelStandard": "広域処理協定の事前締結",
+      "value": "全国ブロック",
+      "unit": "平時協定締結",
+      "oldValue": "これまで 被災後に個別要請（1年遅延）",
+      "description": "他県の清掃工場やセメント工場へ鉄道・船で一斉輸送",
+      "badge": "広域連携",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Ship"
+    },
+    {
+      "labelSimple": "発生するゴミの量",
+      "labelStandard": "災害廃棄物の発生規模",
+      "value": "数年〜10年分",
+      "unit": "が一瞬で発生",
+      "oldValue": "これまで 被災自治体の焼却炉パンク",
+      "description": "東日本2,000万トン、能登240万トンの壊滅的がれき",
+      "badge": "がれき危機",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "ゴミ置き場の場所",
+      "labelStandard": "仮置き場の事前安全指定",
+      "value": "事前指定",
+      "unit": "浸水区域外へ",
+      "oldValue": "これまで 空き地に無秩序に放置",
+      "description": "洪水や津波の危険がない安全な公園をあらかじめ指定",
+      "badge": "仮置き場指定",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "MapPin"
+    },
+    {
+      "labelSimple": "受け入れる側の不安",
+      "labelStandard": "有害物質・アスベスト懸念",
+      "value": "住民反対",
+      "unit": "風評被害懸念",
+      "oldValue": "これまで がれき受け入れ拒否も発生",
+      "description": "遠くの県でがれきを燃やす際の近隣住民の理解と合意",
+      "badge": "合意課題",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Users"
+    }
   ]
 }

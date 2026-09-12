@@ -155,5 +155,55 @@
       "text": "フロンティアAIモデル規制",
       "color": "bg-purple-50 text-purple-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "公的評価機関",
+      "labelStandard": "公的AI安全性評価機関",
+      "value": "AISI",
+      "unit": "設立",
+      "oldValue": "各AI企業の自主検査・内部基準のみ",
+      "descriptionSimple": "AIセーフティ・インスティテュートによる評価",
+      "descriptionStandard": "AIセーフティ・インスティテュートによる評価",
+      "badge": "公的評価機関",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "重点規制",
+      "labelStandard": "規制対象モデルの基準",
+      "value": "フロンティア",
+      "unit": "AI",
+      "oldValue": "全てのAIを一律ガイドラインで指導",
+      "descriptionSimple": "超大規模パラメータを持つ最先端モデルを特定",
+      "descriptionStandard": "超大規模パラメータを持つ最先端モデルを特定",
+      "badge": "重点規制",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "事前安全性試験",
+      "labelStandard": "安全性テスト（事前検査）",
+      "value": "レッド",
+      "unit": "チーミング",
+      "oldValue": "リリース後の事後的なバグ報告頼み",
+      "descriptionSimple": "生物兵器やサイバー攻撃への悪用リスクを検証",
+      "descriptionStandard": "生物兵器やサイバー攻撃への悪用リスクを検証",
+      "badge": "事前安全性試験",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "国際規制調和",
+      "labelStandard": "欧州AI法の制裁金水準",
+      "value": "最大3,500万",
+      "unit": "ユーロまたは7%",
+      "oldValue": "罰則のない紳士協定中心だった",
+      "descriptionSimple": "世界的な罰則付き法規制への日本対応協議",
+      "descriptionStandard": "世界的な罰則付き法規制への日本対応協議",
+      "badge": "国際規制調和",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Scale"
+    }
   ]
 }

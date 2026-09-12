@@ -155,5 +155,55 @@
       "text": "漁港での無償引き取り",
       "color": "bg-emerald-50 text-emerald-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "最大級の汚染源",
+      "labelStandard": "海プラのゴーストギア比率",
+      "value": "容積 約5割",
+      "unit": "を占める",
+      "oldValue": "レジ袋やペットボトルだけが注目された",
+      "descriptionSimple": "海中に流失した漁網やロープの脅威",
+      "descriptionStandard": "海中に流失した漁網やロープの脅威",
+      "badge": "最大級の汚染源",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "次世代漁具",
+      "labelStandard": "自然分解する新素材",
+      "value": "海洋生分解",
+      "unit": "性樹脂",
+      "oldValue": "何百年も分解されないナイロン網",
+      "descriptionSimple": "微生物で水と二酸化炭素に還る漁具",
+      "descriptionStandard": "微生物で水と二酸化炭素に還る漁具",
+      "badge": "次世代漁具",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Leaf"
+    },
+    {
+      "labelSimple": "回収インセンティブ",
+      "labelStandard": "海ごみ回収の無償化",
+      "value": "漁港で無償",
+      "unit": "引き取り",
+      "oldValue": "漁師が自腹でゴミ処理費用を負担",
+      "descriptionSimple": "操業中に網にかかった海ごみを公費処理",
+      "descriptionStandard": "操業中に網にかかった海ごみを公費処理",
+      "badge": "回収インセンティブ",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "コスト課題",
+      "labelStandard": "生分解性漁具の価格",
+      "value": "従来の2〜3",
+      "unit": "倍の高価格",
+      "oldValue": "安価な石油由来プラスチック",
+      "descriptionSimple": "沿岸漁家の導入負担を補助金で支援",
+      "descriptionStandard": "沿岸漁家の導入負担を補助金で支援",
+      "badge": "コスト課題",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Activity"
+    }
   ]
 }

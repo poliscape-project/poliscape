@@ -159,5 +159,51 @@
       "text": "水産資源の枯渇防止",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "漁獲量の枠を管理",
+      "labelStandard": "TAC（漁獲可能量）管理魚種",
+      "value": "水揚げ8割",
+      "unit": "をカバー目標",
+      "oldValue": "これまで サンマ・サバ等8魚種のみ限定",
+      "description": "主要魚種を網羅し過剰漁獲による枯渇を防止",
+      "badge": "TAC拡大",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Anchor"
+    },
+    {
+      "labelSimple": "船ごとの漁獲枠",
+      "labelStandard": "個別割当（IQ）方式の導入",
+      "value": "船ごと割当",
+      "unit": "で乱獲競争を防止",
+      "oldValue": "これまで 早い者勝ちの獲り尽くし競争",
+      "description": "魚価の高い時期に計画的に水揚げし収入を安定化",
+      "badge": "計画操業",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "海の温度上昇対策",
+      "labelStandard": "魚種交代への適応・養殖転換",
+      "value": "養殖・新魚種",
+      "unit": "への転換支援",
+      "oldValue": "これまで サケやサンマの激減で沿岸漁業が打撃",
+      "description": "ブリやフグの北上、陸上養殖への設備投資を支援",
+      "badge": "適応支援",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Globe"
+    },
+    {
+      "labelSimple": "休漁期の漁師の収入",
+      "labelStandard": "資源管理中の漁業所得補償",
+      "value": "共済・積立",
+      "unit": "で減収補填を強化",
+      "oldValue": "これまで 獲らないと即座に生活困窮の危機",
+      "description": "魚を休ませる休漁期間中の所得を下支え",
+      "badge": "所得補償",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Wallet"
+    }
   ]
 }

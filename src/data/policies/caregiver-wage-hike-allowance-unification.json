@@ -155,5 +155,81 @@
       "text": "全産業月5〜7万円格差是正",
       "color": "bg-amber-50 text-amber-900"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "給料アップの仕組み",
+      "labelStandard": "加算の一本化",
+      "value": "3加算",
+      "unit": "統合",
+      "oldValue": "複雑な3つの加算がバラバラに併存",
+      "descriptionSimple": "3つあった難しい仕組みを1つにスッキリ整理！",
+      "descriptionStandard": "「介護職員等処遇改善加算」の4区分へ一本化",
+      "badge": "制度一本化",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "基本給の底上げ",
+      "labelStandard": "ベースアップ充当",
+      "value": "義務化",
+      "unit": "（一定割合）",
+      "oldValue": "一時金やボーナスでの支給が中心だった",
+      "descriptionSimple": "ボーナスではなく毎月のお給料がちゃんと上がる！",
+      "descriptionStandard": "新加算配分額の一定以上を毎月の基本給改善へ",
+      "badge": "ベア義務化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "他の仕事との差",
+      "labelStandard": "全産業との賃金格差",
+      "value": "約5〜7万",
+      "unit": "円低い",
+      "oldValue": "介護平均 約31万円 vs 全産業 約36万円",
+      "descriptionSimple": "格差をなくして、介護を辞める人を減らす！",
+      "descriptionStandard": "深刻な人材流出を食い止めるための継続支援",
+      "badge": "格差是正",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "手伝う他の仲間",
+      "labelStandard": "他職種への配分",
+      "value": "柔軟化",
+      "unit": "（事業所裁量）",
+      "oldValue": "介護職以外への支給は極めて厳格に制限",
+      "descriptionSimple": "ケアマネやご飯を作る人にも給料アップを分け合える！",
+      "descriptionStandard": "事業所の判断で事務職や看護師などにも配分可能",
+      "badge": "配分柔軟化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Users"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "特別養護老人ホームの介護福祉士（30代）",
+        "commentSimple": "「基本給が毎月ちゃんと上がるようになり、将来への不安が少し減って仕事を続けようと思えた」",
+        "commentStandard": "「一時金ではなく基本給のベースアップに充てられたことで、毎月の手取りと将来の年金・退職金の基礎が底上げされた」"
+      },
+      {
+        "speaker": "社会福祉法人の人事部長",
+        "commentSimple": "「別々だった複雑な書類が1つにまとまり、事務作業がとても楽になって職員と向き合える時間が増えた」",
+        "commentStandard": "「旧3加算の複雑を極めた配分ルールと実績報告が統合され、労務管理コストが半減し経営の透明性が高まった」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "中山間地の小規模デイサービス管理者",
+        "commentSimple": "「一番高い加算を取るための研修や昇給ルールを小さな施設で作るのはとても難しく、取り残されてしまう」",
+        "commentStandard": "「新加算Iのキャリアパスや職場環境要件をクリアする社労士や研修費用を捻出できず、大手に比べて格差が開いてしまう」"
+      },
+      {
+        "speaker": "年金で生活する要介護高齢者の家族",
+        "commentSimple": "「介護で働く人の給料が上がるのは嬉しいけれど、毎月の利用料も上がって家計が苦しくならないか心配」",
+        "commentStandard": "「報酬加算に伴い1〜3割の自己負担額も自動的に引き上がるため、物価高で年金が実質目減りしている高齢者世帯には重い」"
+      }
+    ]
+  }
 }

@@ -159,5 +159,51 @@
       "text": "高齢者事故防止と移動権",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "安全な車だけ運転",
+      "labelStandard": "サポートカー限定免許",
+      "value": "サポカー限定",
+      "unit": "の選択肢新設",
+      "oldValue": "これまで 全返納か通常運転の二者択一",
+      "description": "自動ブレーキや踏み間違い防止装置付きのみ運転",
+      "badge": "サポカー限定",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "返納した後の証明",
+      "labelStandard": "運転経歴証明書の交付",
+      "value": "公的身分証",
+      "unit": "として永年有効",
+      "oldValue": "これまで 免許返納で本人確認書類を喪失",
+      "description": "バス・タクシー割引や協賛店特典が付与",
+      "badge": "特典付与",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Car"
+    },
+    {
+      "labelSimple": "高齢者の更新検査",
+      "labelStandard": "75歳以上の認知機能検査",
+      "value": "実車試験",
+      "unit": "の義務付け",
+      "oldValue": "これまで 身体機能の衰えに気付かず重大事故",
+      "description": "違反歴のある高齢者に実車運転試験を義務化",
+      "badge": "事故抑止",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "返納後の買い物の足",
+      "labelStandard": "地域移動サポート体制",
+      "value": "移動権確保",
+      "unit": "で生活孤立防止",
+      "oldValue": "これまで 車を失うと通院や買い物が困難",
+      "description": "デマンド交通やボランティア輸送で孤立を防ぐ",
+      "badge": "孤立防止",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "HeartHandshake"
+    }
   ]
 }

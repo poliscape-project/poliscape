@@ -155,5 +155,55 @@
       "text": "漁獲証明番号義務化",
       "color": "bg-amber-100 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "重罰化100倍",
+      "labelStandard": "密漁行為への最高罰金",
+      "value": "最高3,000",
+      "unit": "万円",
+      "oldValue": "これまで 最高30万円程度",
+      "descriptionSimple": "法改正により100倍の破格重罰を導入",
+      "descriptionStandard": "法改正により100倍の破格重罰を導入",
+      "badge": "重罰化100倍",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "厳格指定",
+      "labelStandard": "特定水産動植物の指定",
+      "value": "アワビ・ナマコ",
+      "unit": "等",
+      "oldValue": "伝票なしで市場流通が可能だった",
+      "descriptionSimple": "密猟グループの最大の資金源を直撃",
+      "descriptionStandard": "密猟グループの最大の資金源を直撃",
+      "badge": "厳格指定",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "トレーサビリティ",
+      "labelStandard": "漁獲番号の伝達義務",
+      "value": "100",
+      "unit": "%電子管理へ",
+      "oldValue": "手書き伝票や口頭取引が常態化",
+      "descriptionSimple": "水揚げから小売・飲食店まで完全に追跡",
+      "descriptionStandard": "水揚げから小売・飲食店まで完全に追跡",
+      "badge": "トレーサビリティ",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "ウナギ保護",
+      "labelStandard": "密漁対策の対象魚種",
+      "value": "シラスウナギ",
+      "unit": "も追加",
+      "oldValue": "不透明な闇取引が放置されていた",
+      "descriptionSimple": "絶滅危惧ウナギの稚魚密輸ルートを遮断",
+      "descriptionStandard": "絶滅危惧ウナギの稚魚密輸ルートを遮断",
+      "badge": "ウナギ保護",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Ship"
+    }
   ]
 }

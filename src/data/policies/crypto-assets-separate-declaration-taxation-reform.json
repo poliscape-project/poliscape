@@ -139,5 +139,51 @@
       "text": "最大55%総合脱却",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "儲かったときの税金",
+      "labelStandard": "暗号資産の申告分離課税",
+      "value": "一律20",
+      "unit": ".315%（株式並み）",
+      "oldValue": "これまで 雑所得・最大55%の総合課税",
+      "description": "所得税15%＋住民税5%へ大幅引き下げ",
+      "badge": "20%分離課税化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "損した年の赤字の繰り越し",
+      "labelStandard": "損失の繰越控除期間",
+      "value": "3",
+      "unit": "年間の相殺を容認",
+      "oldValue": "これまで 損益通算も翌年繰越も不可",
+      "description": "翌年以降の利益から赤字分を差し引き節税",
+      "badge": "3年繰越控除",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "コイン同士の交換",
+      "labelStandard": "暗号資産間トレード時の課税",
+      "value": "繰延べ",
+      "unit": "（日本円換金時に課税）",
+      "oldValue": "これまで コイン交換ごとに利益課税発生",
+      "description": "複雑な損益計算の負担を大幅に解消",
+      "badge": "課税繰り延べ",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Calculator"
+    },
+    {
+      "labelSimple": "日本の起業家の海外逃亡",
+      "labelStandard": "Web3起業家・投資家の流出阻止",
+      "value": "国内",
+      "unit": "回帰と新産業エコシステム",
+      "oldValue": "シンガポールやドバイへ資産流出",
+      "description": "国際競争力のある税制で国富を守る",
+      "badge": "頭脳流出防止",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Globe"
+    }
   ]
 }

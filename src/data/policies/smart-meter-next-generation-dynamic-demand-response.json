@@ -171,5 +171,51 @@
       "text": "AIによるEV・エコキュートの最適自動充電",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "電力消費データの計測周期",
+      "labelStandard": "電力消費データの計測周期",
+      "value": "5分単位の高精度電力データ計測の実現",
+      "unit": "",
+      "oldValue": "これまで: 30分ごとの積算電力値のみを計測・送信（リアルタイム性に欠落）",
+      "description": "5分値での高解像度計測および家庭内機器（Bルート）との即時ミリ秒連携",
+      "badge": "5分単位の高精度電力データ計測の実現",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "電気料金の価格決定メカニズム",
+      "labelStandard": "電気料金の価格決定メカニズム",
+      "value": "市場連動ダイナミックプライシングの本格解禁",
+      "unit": "",
+      "oldValue": "これまで: 朝・昼・晩で固定された時間帯別料金や従量電灯プランが主流",
+      "description": "卸電力市場（JEPX）価格とリアルタイム連動し昼間ゼロ円・マイナス価格プランも登場",
+      "badge": "市場連動ダイナミックプライシングの本格解禁",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "家庭用蓄電池・EV充電の自動化",
+      "labelStandard": "家庭用蓄電池・EV充電の自動化",
+      "value": "AIによるEV・エコキュートの最適自動充電",
+      "unit": "",
+      "oldValue": "これまで: 利用者が手動でタイマー予約を設定する必要があり需給急変に対応不能",
+      "description": "AIがメーター情報を受信し最安値時間帯にEV充電や給湯を全自動実行",
+      "badge": "AIによるEV・エコキュートの最適自動充電",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "BatteryCharging"
+    },
+    {
+      "labelSimple": "再エネ出力制御（捨て電）の防止",
+      "labelStandard": "再エネ出力制御（捨て電）の防止",
+      "value": "需要シフトによる再エネ出力制御の大幅削減",
+      "unit": "",
+      "oldValue": "これまで: 昼間に電気が余ると大規模太陽光発電所の送電を強制遮断（出力制御）",
+      "description": "家庭の需要を一斉に引き上げる「上げDR」により余剰再エネを全量有効活用",
+      "badge": "需要シフトによる再エネ出力制御の大幅削減",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Sun"
+    }
   ]
 }

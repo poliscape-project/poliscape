@@ -155,5 +155,55 @@
       "text": "担任未配置・採用倍率低下",
       "color": "bg-amber-100 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "35人学級完成",
+      "labelStandard": "学級人数の上限改定",
+      "value": "全学年 35",
+      "unit": "人学級完成",
+      "oldValue": "小2〜小6は「40人学級」（40年間据置）",
+      "descriptionSimple": "約40年ぶりの義務教育上限改革が2025年完了",
+      "descriptionStandard": "約40年ぶりの義務教育上限改革が2025年完了",
+      "badge": "35人学級完成",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "担任未配置危機",
+      "labelStandard": "全国の教員不足数",
+      "value": "数千人",
+      "unit": "規模の未配置",
+      "oldValue": "始業式には必ず全クラスに担任がいた",
+      "descriptionSimple": "担任が見つからず副校長や保健室の先生が兼任",
+      "descriptionStandard": "担任が見つからず副校長や保健室の先生が兼任",
+      "badge": "担任未配置危機",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "志願者激減",
+      "labelStandard": "小学校採用倍率の急落",
+      "value": "全国平均 2倍",
+      "unit": "台（一部1倍台）",
+      "oldValue": "かつて倍率10倍超の人気職種だった",
+      "descriptionSimple": "給特法の残業定額働かせ放題による教職離れ",
+      "descriptionStandard": "給特法の残業定額働かせ放題による教職離れ",
+      "badge": "志願者激減",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "中学校は40人維持",
+      "labelStandard": "中学校への導入議論",
+      "value": "中1ギャップ",
+      "unit": "懸念",
+      "oldValue": "小学校に続き中学校35人化が検討された",
+      "descriptionSimple": "財源と教員不足を理由に財務省が導入に慎重",
+      "descriptionStandard": "財源と教員不足を理由に財務省が導入に慎重",
+      "badge": "中学校は40人維持",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Scale"
+    }
   ]
 }

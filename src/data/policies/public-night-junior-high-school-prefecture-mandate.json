@@ -165,5 +165,51 @@
       "text": "授業料無料・教科書無償",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "夜間中学の設置エリア",
+      "labelStandard": "夜間中学の設置エリア",
+      "value": "全都道府県への設置を推進",
+      "unit": "",
+      "oldValue": "これまで: 東京、大阪など一部の大都市圏に偏在し、地方にはほぼ皆無",
+      "description": "全都道府県・指定都市に最低1校の設置を目標化し、地方県での開校が急増",
+      "badge": "全都道府県への設置を推進",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "受け入れ生徒の対象",
+      "labelStandard": "受け入れ生徒の対象",
+      "value": "不登校の若者や外国籍へ拡大",
+      "unit": "",
+      "oldValue": "これまで: 高齢の未就学者（在日外国人や戦後引揚者）が中心",
+      "description": "不登校経験の若い世代、外国籍の労働者・子ども、学び直し希望者へ多様化",
+      "badge": "不登校の若者や外国籍へ拡大",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "学費・教材費の負担",
+      "labelStandard": "学費・教材費の負担",
+      "value": "授業料無料・教科書無償",
+      "unit": "",
+      "oldValue": "これまで: 私設の自主夜間中学ではボランティア頼みで運営費が困窮",
+      "description": "公立学校として授業料完全無料、教科書も無償給与、就学援助も適用可能",
+      "badge": "授業料無料・教科書無償",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "GraduationCap"
+    },
+    {
+      "labelSimple": "授業時間とカリキュラム",
+      "labelStandard": "授業時間とカリキュラム",
+      "value": "夜間授業・日本語指導の充実",
+      "unit": "",
+      "oldValue": "これまで: 昼間の中学校と同じ画一的な時間割で通学困難",
+      "description": "夕方17時台〜21時頃の授業、習熟度別クラス、日本語指導の充実",
+      "badge": "夜間授業・日本語指導の充実",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Clock"
+    }
   ]
 }

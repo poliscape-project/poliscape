@@ -139,5 +139,51 @@
       "text": "SC全校配置・増員",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "初めて病院で診てもらうまでの待ち時間",
+      "labelStandard": "児童精神科の初診待機期間",
+      "value": "半年待ち",
+      "unit": "（3〜6ヶ月の受診難民が多発）",
+      "oldValue": "苦しんでいる子どもをすぐに診察できない現実",
+      "description": "子どもの心の専門医と専用病床が絶対不足",
+      "badge": "初診待機解消へ",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "学校に行けない子どもの数",
+      "labelStandard": "小中学生の不登校児童生徒数",
+      "value": "約30万",
+      "unit": "人（過去最多を大幅更新）",
+      "oldValue": "心のSOSに気づけず孤立・重症化する危機",
+      "description": "うつ病や起立性調節障害の早期発見が急務",
+      "badge": "過去最多30万人",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "GraduationCap"
+    },
+    {
+      "labelSimple": "学校の心の相談員さん",
+      "labelStandard": "スクールカウンセラー全校配置",
+      "value": "全校",
+      "unit": "配置と週当たり勤務日数の拡大",
+      "oldValue": "月1〜2回の非常勤で緊急時に相談できず",
+      "description": "小中学校に専門の先生を常駐させる取り組み",
+      "badge": "SC配置拡充",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "病院への国の応援金",
+      "labelStandard": "診療報酬での小児精神医療評価",
+      "value": "手厚い",
+      "unit": "加算（カウンセリング料引き上げ）",
+      "oldValue": "成人と同等報酬で手間がかかる小児は赤字",
+      "description": "病院が子どもの精神科を開設しやすく改善",
+      "badge": "診療報酬手厚く",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "HeartPulse"
+    }
   ]
 }

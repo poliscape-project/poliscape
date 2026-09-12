@@ -171,5 +171,81 @@
       "text": "スマホ24hオンライン講習",
       "color": "bg-indigo-50 text-indigo-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "免許の更新手数料",
+      "labelStandard": "更新手数料（一体化）",
+      "value": "2,100",
+      "unit": "円",
+      "oldValue": "従来免許証 2,500円（差額400円安）",
+      "descriptionSimple": "マイナ一体化で更新料が400円お得に！",
+      "descriptionStandard": "マイナ免許証保有者は更新手数料が優遇",
+      "badge": "400円お得",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "住所変更の手間",
+      "labelStandard": "引越し時の住所変更",
+      "value": "1箇所",
+      "unit": "（ワンストップ）",
+      "oldValue": "これまで 警察署・交番に別届け出",
+      "descriptionSimple": "市役所で手続きすれば警察への届出不要！",
+      "descriptionStandard": "自治体窓口のマイナ更新で警察署変更も同時完了",
+      "badge": "ワンストップ",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "更新講習の受け方",
+      "labelStandard": "オンライン更新講習",
+      "value": "24時間",
+      "unit": "自宅受講可能",
+      "oldValue": "これまで 免許センター等で対面受講",
+      "descriptionSimple": "優良運転者はスマホで好きな時に講習！",
+      "descriptionStandard": "優良・一般運転者はマイナポータルから受講可",
+      "badge": "スマホ受講",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "持ち方のルール",
+      "labelStandard": "所持形態の選択制",
+      "value": "3通り",
+      "unit": "から選択",
+      "oldValue": "従来型免許証のみ",
+      "descriptionSimple": "一体化・従来のまま・2枚持ちから自由に選べる",
+      "descriptionStandard": "義務ではなく任意。従来の運転免許証の継続も可能",
+      "badge": "任意選択",
+      "badgeColor": "bg-slate-100 text-slate-700",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "多忙な会社員ドライバー",
+        "commentSimple": "「日曜日に免許センターで半日並ばず、夜自宅のスマホで講習を受けられるのが最高に便利！」",
+        "commentStandard": "「優良運転者のオンライン講習と事前予約で、窓口での滞在時間が劇的に短縮された」"
+      },
+      {
+        "speaker": "引っ越しが多い単身者",
+        "commentSimple": "「市役所で住所変更したら警察署に行かなくても免許の住所も一緒に変わって楽ちん！」",
+        "commentStandard": "「自治体窓口での手続きだけで免許証の住所変更も完結し、平日に警察署へ行く二度手間がなくなった」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "セキュリティ・プライバシー慎重派",
+        "commentSimple": "「もしカードを1枚落としたら、身分証明書も免許証も保険証も全部なくすのが怖い」",
+        "commentStandard": "「マイナンバーカードと免許証の一本化は便利だが、紛失時の生活・業務上のリスクが大きすぎる」"
+      },
+      {
+        "speaker": "機械操作が苦手な高齢ドライバー",
+        "commentSimple": "「スマホのアプリや暗証番号の管理が難しく、従来のカードのままの方が安心できる」",
+        "commentStandard": "「暗証番号のロックや端末の読み取りトラブルなど、デジタル弱者への窓口サポートが不可欠」"
+      }
+    ]
+  }
 }

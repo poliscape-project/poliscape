@@ -139,5 +139,51 @@
       "text": "地下経済・脱税撲滅",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "家に眠るタンス預金の額",
+      "labelStandard": "国内タンス預金の推計総額",
+      "value": "100",
+      "unit": "兆円超（現金死蔵）",
+      "oldValue": "銀行預金の超低金利で自宅保管が急増",
+      "description": "経済を回さず闇バイト強盗の標的化",
+      "badge": "100兆円死蔵",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "PiggyBank"
+    },
+    {
+      "labelSimple": "1万円札をなくす構想",
+      "labelStandard": "最高額紙幣（1万円札）廃止論",
+      "value": "廃止",
+      "unit": "構想（最高額を五千円等へ）",
+      "oldValue": "世界有数の高額紙幣流通大国",
+      "description": "欧州（500ユーロ廃止）に続く議論",
+      "badge": "1万円札廃止議論",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Ban"
+    },
+    {
+      "labelSimple": "犯罪や脱税への効果",
+      "labelStandard": "地下経済・脱税・闇バイト撲滅",
+      "value": "根絶",
+      "unit": "へ（現金の匿名性を排除）",
+      "oldValue": "現金の移動でマネロンや脱税が容易",
+      "description": "電子化により不正資金の流れを完全追跡",
+      "badge": "犯罪資金遮断",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "地震や停電時の心配",
+      "labelStandard": "大災害・停電時の決済麻痺",
+      "value": "脆弱",
+      "unit": "性対策（オフライン決済必須）",
+      "oldValue": "停電時でも現金なら買い物が可能",
+      "description": "非常時のバックアップ確保が最大の課題",
+      "badge": "災害脆弱性懸念",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "AlertTriangle"
+    }
   ]
 }

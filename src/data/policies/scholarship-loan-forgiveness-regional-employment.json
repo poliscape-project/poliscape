@@ -155,5 +155,55 @@
       "text": "介護・保育・製造業の採用支援",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "借金チャラ支援",
+      "labelStandard": "返還免除の最大補助額",
+      "value": "最大 300",
+      "unit": "万円程度",
+      "oldValue": "毎月2万〜3万円を20年間返済義務",
+      "descriptionSimple": "地方就職や特定職種勤務で借金が全額免除に",
+      "descriptionStandard": "地方就職や特定職種勤務で借金が全額免除に",
+      "badge": "借金チャラ支援",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "企業代理返還急増",
+      "labelStandard": "代理返還の導入企業数",
+      "value": "2,000",
+      "unit": "社突破",
+      "oldValue": "本人の銀行口座から引き落としのみ",
+      "descriptionSimple": "会社がJASSOへ直接返還し法人税減税優遇",
+      "descriptionStandard": "会社がJASSOへ直接返還し法人税減税優遇",
+      "badge": "企業代理返還急増",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "若者負担軽減",
+      "labelStandard": "大学生の奨学金受給率",
+      "value": "約 50",
+      "unit": "%（2人に1人）",
+      "oldValue": "平均借入総額は約300万円",
+      "descriptionSimple": "返済負担による結婚・出産先送りを防ぐ",
+      "descriptionStandard": "返済負担による結婚・出産先送りを防ぐ",
+      "badge": "若者負担軽減",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "GraduationCap"
+    },
+    {
+      "labelSimple": "地方定着条件",
+      "labelStandard": "免除要件の勤務年数",
+      "value": "5〜10",
+      "unit": "年間の定住",
+      "oldValue": "途中で転職すると免除資格が失効",
+      "descriptionSimple": "地方中小企業や介護・保育への定着を促進",
+      "descriptionStandard": "地方中小企業や介護・保育への定着を促進",
+      "badge": "地方定着条件",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Clock"
+    }
   ]
 }

@@ -3,8 +3,28 @@
 
 import React from "react";
 import { PolicyTopic } from "@/types/policy";
-import { Sparkles } from "lucide-react";
-import { getHighlightCards } from "@/lib/highlights";
+import {
+  Activity, AlertTriangle, Anchor, Baby, Ban, BatteryCharging, BookOpen, Briefcase, Building,
+  Bus, Calculator, Calendar, Camera, Car, CheckCircle, CheckCircle2, Clock, Coins, Compass,
+  CornerDownRight, Cpu, CreditCard, DollarSign, Eye, Factory, FileCheck, FileCode,
+  FileSpreadsheet, FileText, Flame, Gift, Globe, GraduationCap, Heart, HeartHandshake,
+  HeartPulse, Home, Hotel, Landmark, Laptop, Layers, Leaf, Lock, MapPin, MessageSquare,
+  Music, PhoneCall, PiggyBank, Repeat, Satellite, Scale, Send, Share2, Shield, ShieldAlert,
+  ShieldCheck, Ship, Smartphone, Sparkles, Sun, Ticket, Train, Trees, TrendingDown,
+  TrendingUp, UserCheck, Users, Wallet, Wind, Wrench, Zap
+} from "lucide-react";
+
+// アイコン名文字列からコンポーネントへのマッピング
+const ICON_MAP: Record<string, React.ElementType> = {
+  Activity, AlertTriangle, Anchor, Baby, Ban, BatteryCharging, BookOpen, Briefcase, Building,
+  Bus, Calculator, Calendar, Camera, Car, CheckCircle, CheckCircle2, Clock, Coins, Compass,
+  CornerDownRight, Cpu, CreditCard, DollarSign, Eye, Factory, FileCheck, FileCode,
+  FileSpreadsheet, FileText, Flame, Gift, Globe, GraduationCap, Heart, HeartHandshake,
+  HeartPulse, Home, Hotel, Landmark, Laptop, Layers, Leaf, Lock, MapPin, MessageSquare,
+  Music, PhoneCall, PiggyBank, Repeat, Satellite, Scale, Send, Share2, Shield, ShieldAlert,
+  ShieldCheck, Ship, Smartphone, Sparkles, Sun, Ticket, Train, Trees, TrendingDown,
+  TrendingUp, UserCheck, Users, Wallet, Wind, Wrench, Zap
+};
 
 interface PolicyHighlightCardsProps {
   policy: PolicyTopic;
@@ -17,26 +37,44 @@ export const PolicyHighlightCards: React.FC<PolicyHighlightCardsProps> = ({
 }) => {
   const isUnderDiscussion = policy.status === "discussing" || policy.status === "proposed";
 
-  // fallback: cardDataMap にエントリがない政策は policy.changes から自動生成
-  const defaultHighlights =
-    policy.changes && policy.changes.length > 0
-      ? policy.changes.slice(0, 4).map((c, idx) => ({
-          label: c.topic,
-          value: c.highlight || (isUnderDiscussion ? "見直し案" : "新制度"),
-          unit: "",
-          oldValue: isUnderDiscussion ? `現行: ${c.before}` : `これまで: ${c.before}`,
-          description: c.after,
-          badge: c.highlight || (isUnderDiscussion ? "審議中" : "新制度"),
-          badgeColor: isUnderDiscussion
-            ? "bg-amber-100 text-amber-900"
-            : idx % 2 === 0
-            ? "bg-teal-100 text-teal-800"
-            : "bg-emerald-100 text-emerald-800",
-          icon: Sparkles,
-        }))
-      : [];
+  // policy.highlights (JSON由来) がある場合はそれを整形
+  let highlights: any[] | null = null;
 
-  const highlights = getHighlightCards(policy.id, isSimpleMode) || defaultHighlights;
+  if (policy.highlights && policy.highlights.length > 0) {
+    highlights = policy.highlights.map((card) => ({
+      label: isSimpleMode ? (card.labelSimple || card.label) : (card.labelStandard || card.label),
+      value: card.value,
+      unit: card.unit,
+      oldValue: card.oldValue,
+      description: isSimpleMode
+        ? (card.descriptionSimple || card.description)
+        : (card.descriptionStandard || card.description),
+      badge: card.badge,
+      badgeColor: card.badgeColor,
+      icon: ICON_MAP[card.icon] || Sparkles,
+    }));
+  }
+
+  // fallback: highlights が未定義の政策は policy.changes から自動生成
+  if (!highlights) {
+    highlights =
+      policy.changes && policy.changes.length > 0
+        ? policy.changes.slice(0, 4).map((c, idx) => ({
+            label: c.topic,
+            value: c.highlight || (isUnderDiscussion ? "見直し案" : "新制度"),
+            unit: "",
+            oldValue: isUnderDiscussion ? `現行: ${c.before}` : `これまで: ${c.before}`,
+            description: c.after,
+            badge: c.highlight || (isUnderDiscussion ? "審議中" : "新制度"),
+            badgeColor: isUnderDiscussion
+              ? "bg-amber-100 text-amber-900"
+              : idx % 2 === 0
+              ? "bg-teal-100 text-teal-800"
+              : "bg-emerald-100 text-emerald-800",
+            icon: Sparkles,
+          }))
+        : [];
+  }
 
   return (
     <section>

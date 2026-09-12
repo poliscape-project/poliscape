@@ -171,5 +171,81 @@
       "text": "満額年92万へ底上げ",
       "color": "bg-emerald-50 text-emerald-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "保険料を払う期間",
+      "labelStandard": "保険料納付期間の延長",
+      "value": "65歳まで",
+      "unit": "（45年間へ）",
+      "oldValue": "これまで 20歳〜60歳（40年間）",
+      "descriptionSimple": "納付が5年間延長される改革案が議論中",
+      "descriptionStandard": "次期年金改革で40年から45年への延長を審議",
+      "badge": "5年延長案",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "自営業の追加の支払い",
+      "labelStandard": "第1号被保険者の追加負担",
+      "value": "約102万",
+      "unit": "円（5年合計）",
+      "oldValue": "60歳以降は任意加入のみだった",
+      "descriptionSimple": "自営業や無職の人は約100万円多く払う",
+      "descriptionStandard": "月約1.7万円×60ヶ月を全額自己負担納付",
+      "badge": "第1号約100万追加",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "将来もらえる年金（満額）",
+      "labelStandard": "将来の基礎年金（年額）",
+      "value": "年約92万",
+      "unit": "円/年（＋10.2万）",
+      "oldValue": "現行40年満額 年約81.6万円",
+      "descriptionSimple": "将来もらえる年金が月約8,500円増える！",
+      "descriptionStandard": "受給額が約1割強底上げされ高齢期貧困を防止",
+      "badge": "年金額1割増",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "元が取れる年齢",
+      "labelStandard": "損益分岐点（年数）",
+      "value": "約75歳",
+      "unit": "（受給約10年）",
+      "oldValue": "平均寿命まで生きればプラス",
+      "descriptionSimple": "受給開始から10年生きれば確実にプラス！",
+      "descriptionStandard": "平均寿命（81〜87歳）まで生きれば支払額以上を回収",
+      "badge": "75歳で元取れ",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "将来の生活を案じる単身者",
+        "commentSimple": "「将来もらえる年金が月1万円くらい増えるなら、おじいちゃんになっても安心できる！」",
+        "commentStandard": "「マクロ経済スライドで減り続ける基礎年金の給付水準が底上げされ、老後の自立を支えてくれる」"
+      },
+      {
+        "speaker": "社会保障・年金有識者",
+        "commentSimple": "「65歳まで働くのが当たり前になった時代に合わせ、将来世代の年金を確保する自然な改革」",
+        "commentStandard": "「受給から約10年（75歳前後）で元が取れる設計であり、平均寿命まで生きれば確実にプラス」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "60代前半の自営業者・無職層",
+        "commentSimple": "「会社員と違って会社が半分払ってくれないから、全額自腹で100万円払うのは苦しすぎる…」",
+        "commentStandard": "「定年後に収入が激減する中で月1.7万円の保険料を5年も払い続けるのは家計の破綻を招く」"
+      },
+      {
+        "speaker": "年金不信を持つ市民",
+        "commentSimple": "「払う期間を65歳にのばした後は、年金をもらえる年齢も70歳に遅くされるんじゃないかと疑ってしまう」",
+        "commentStandard": "「実質的な支給開始年齢引き上げへの布石ではないかという不信感が拭えない」"
+      }
+    ]
+  }
 }

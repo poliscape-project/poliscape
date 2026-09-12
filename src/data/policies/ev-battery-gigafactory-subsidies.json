@@ -185,5 +185,81 @@
       "text": "EV踊り場・HV優位の市場",
       "color": "bg-rose-50 text-rose-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "電池工場への国のお金",
+      "labelStandard": "国内蓄電池工場への支援額",
+      "value": "最大 1",
+      "unit": "兆円規模",
+      "oldValue": "民間の自己投資のみで中国・韓国に劣後",
+      "descriptionSimple": "巨大なバッテリー工場を日本に作るお手伝い！",
+      "descriptionStandard": "トヨタ・ホンダ等のギガファクトリー新設を強力支援",
+      "badge": "1兆円支援",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "BatteryCharging"
+    },
+    {
+      "labelSimple": "日本で作る電池の目標",
+      "labelStandard": "2030年 国内製造能力目標",
+      "value": "150",
+      "unit": "GWh（ギガワット時）",
+      "oldValue": "世界シェアの過半数を中国メーカーが支配",
+      "descriptionSimple": "日本の車を全部動かせるくらいの電池を作る！",
+      "descriptionStandard": "グローバル600GWh、国内150GWhの国家目標",
+      "badge": "量産目標",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "電気自動車で一番高い部品",
+      "labelStandard": "車両コストに占める電池比率",
+      "value": "約 30〜40",
+      "unit": "%",
+      "oldValue": "エンジン車ではエンジンが原価の約15%",
+      "descriptionSimple": "電池を外国に握られたら日本の自動車産業が負ける！",
+      "descriptionStandard": "自動車の付加価値の核心を自社・国内で死守",
+      "badge": "最重要部品",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "夢の次世代バッテリー",
+      "labelStandard": "全固体電池の実用化目標",
+      "value": "2020年代",
+      "unit": "後半量産化",
+      "oldValue": "現在の液系電池では航続距離・発火リスクに限界",
+      "descriptionSimple": "燃えにくく超高速で充電できる未来の電池！",
+      "descriptionStandard": "特許数世界一の日本勢によるゲームチェンジ戦略",
+      "badge": "全固体電池",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Zap"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "車載用リチウム電池の開発責任者",
+        "commentSimple": "「電気自動車の心臓であるバッテリーを日本で作れるようにすれば、未来の自動車産業でも世界と戦える」",
+        "commentStandard": "「EVシフトの勝敗を決めるのは電池の調達力。国内メガファクトリー建設で次世代全固体電池への移行期も主導権を握れる」"
+      },
+      {
+        "speaker": "自動車部品メーカーの社長",
+        "commentSimple": "「エンジンがなくなっても、電池の部品をつくる新しい仕事に切り替えて社員を守ることができる」",
+        "commentStandard": "「エンジン部品からの事業転換を図るサプライヤーにとって、国内での大規模電池生産は最大の受け皿となる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "自動車アナリスト",
+        "commentSimple": "「世界中で電気自動車の売れ行きが鈍っているのに、工場を増やしすぎて売れ残らないか心配」",
+        "commentStandard": "「EV普及の世界的な踊り場（キャズム）の中で、巨額投資した設備が稼働率低下に陥る過剰供給リスクがある」"
+      },
+      {
+        "speaker": "環境負荷を懸念する市民",
+        "commentSimple": "「古い車を大切に乗る人にも税金の負担が増えたり、廃バッテリーの処理が追いつかないのは困る」",
+        "commentStandard": "「補助金偏重でハイブリッドの強みを損なう恐れや、将来の廃電池リサイクル・環境規制への対応が後手に回る懸念がある」"
+      }
+    ]
+  }
 }

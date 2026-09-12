@@ -185,5 +185,81 @@
       "text": "みどり認定と設備減税",
       "color": "bg-blue-50 text-blue-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "体にやさしい畑の目標",
+      "labelStandard": "2050年 有機農業割合",
+      "value": "25",
+      "unit": "%（100万ha）",
+      "oldValue": "現状の有機比率はわずか約0.6%（2.5万ha）",
+      "descriptionSimple": "2050年までに畑の4分の1を有機に！",
+      "descriptionStandard": "農地全体の有機比率を約40倍へ拡大する国家目標",
+      "badge": "40倍拡大目標",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Leaf"
+    },
+    {
+      "labelSimple": "虫よけのお薬をへらす",
+      "labelStandard": "化学農薬の使用低減",
+      "value": "50",
+      "unit": "%削減",
+      "oldValue": "高温多湿な気候で病害虫防除に農薬依存",
+      "descriptionSimple": "2050年までに化学農薬を半分に！",
+      "descriptionStandard": "リスク換算で使用量を半減、生態系を回復",
+      "badge": "農薬50%減",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "外国からの肥料をへらす",
+      "labelStandard": "化学肥料の使用低減",
+      "value": "30",
+      "unit": "%削減",
+      "oldValue": "リン鉱石等の原料はほぼ100%輸入依存",
+      "descriptionSimple": "牛のフンや堆肥（たいひ）を使って自分たちで作る！",
+      "descriptionStandard": "国内資源循環型農業で海外依存を脱却",
+      "badge": "肥料30%減",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Trees"
+    },
+    {
+      "labelSimple": "がんばる農家さんのお墨付き",
+      "labelStandard": "みどり認定制度",
+      "value": "税制優遇",
+      "unit": "・融資特例",
+      "oldValue": "個別環境対策への単発補助のみ",
+      "descriptionSimple": "計画が認められたらトラクターの税金が安く！",
+      "descriptionStandard": "環境負荷低減計画の認定者に重点的政策支援",
+      "badge": "みどり認定",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Sparkles"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "学校給食に関わる保護者",
+        "commentSimple": "「子どもたちが毎日食べる給食に、お薬を使わない安心でおいしい地元の野菜が増えるのは本当に嬉しい」",
+        "commentStandard": "「農薬を減らすことで水田のホタルやメダカが戻り、子どもの健康と豊かな生態系を両立できる素晴らしい政策」"
+      },
+      {
+        "speaker": "輸出を目指す有機茶農家",
+        "commentSimple": "「外国では『環境にやさしいお茶』が高く売れる。国が応援してくれるおかげで世界に売り込める」",
+        "commentStandard": "「海外ではオーガニック基準が取引の前提。輸入化学肥料が高騰する中、国内堆肥を活かした有機農法の強みが生きる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "慣行農業のベテラン稲作農家",
+        "commentSimple": "「日本は夏にジメジメして虫や病気が多いから、お薬を半分にするなんて無理。お米が全滅して大赤字になる」",
+        "commentStandard": "「草を枯らす薬を使わない草むしりは地獄の重労働。平均70歳の集落で誰が毎日田んぼの草取りをするのか」"
+      },
+      {
+        "speaker": "食品スーパーの仕入れ担当",
+        "commentSimple": "「手間がかかった有機野菜は高くなってしまうので、物価高で節約したいお客さんが買ってくれない」",
+        "commentStandard": "「少しの虫食いや形の悪さを嫌う消費者の意識が変わらない限り、割高な有機農産物は売れ残って廃棄になってしまう」"
+      }
+    ]
+  }
 }

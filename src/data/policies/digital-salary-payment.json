@@ -141,5 +141,81 @@
       "text": "上限100万・破綻全額保証",
       "color": "bg-emerald-50 text-emerald-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "アプリに入れられる上限",
+      "labelStandard": "残高保有上限額",
+      "value": "最大 100",
+      "unit": "万円",
+      "oldValue": "銀行口座のみ（ペイオフ1,000万円）",
+      "descriptionSimple": "アプリには100万円までしか入らない！",
+      "descriptionStandard": "超過分は連携する指定銀行口座へ自動出金",
+      "badge": "上限100万円",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "勝手に決められる？",
+      "labelStandard": "労働者の同意",
+      "value": "完全自由意志",
+      "unit": "（強制禁止）",
+      "oldValue": "現金払いまたは本人口座振込",
+      "descriptionSimple": "会社が強制するのは法律違反！",
+      "descriptionStandard": "希望する社員のみ書面・電磁的同意で選択",
+      "badge": "強制は違法",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "アプリがつぶれたら？",
+      "labelStandard": "破綻時保証",
+      "value": "全額弁済",
+      "unit": "（数日以内）",
+      "oldValue": "預金保険制度（1,000万円まで保護）",
+      "descriptionSimple": "会社が倒産しても国が全額守る！",
+      "descriptionStandard": "指定保証機関により迅速に全額返金担保",
+      "badge": "セーフティネット",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "CreditCard"
+    },
+    {
+      "labelSimple": "ATMでお金をおろせる？",
+      "labelStandard": "現金引出し手数料",
+      "value": "月1回 無料",
+      "unit": "（法令義務）",
+      "oldValue": "所定のATM出金手数料が発生",
+      "descriptionSimple": "月に1回はタダで現金をおろせる！",
+      "descriptionStandard": "資金移動業者の指定要件として月1回無料出金を義務付け",
+      "badge": "月1回無料",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Wallet"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "20代キャッシュレス派社員",
+        "commentSimple": "「給料日にATMに並んでお金を下ろしてアプリにチャージする手間がなくなって最高に楽！」",
+        "commentStandard": "「普段の支払いがほぼコード決済なので、最初からアプリに振り込まれるとチャージ手数料もかからず便利」"
+      },
+      {
+        "speaker": "外国人スタッフを雇う店長",
+        "commentSimple": "「日本に来たばかりの外国人は銀行口座を作るのが大変だったが、アプリならすぐ給料を払える」",
+        "commentStandard": "「銀行口座開設のハードルが高い外国人留学生や就労者の受け入れ労務が大幅にスムーズになった」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "セキュリティに不安な社員",
+        "commentSimple": "「もしスマホを落としたりアカウントが凍結されたら、給料が使えなくなって家賃も払えなくなるのが怖い」",
+        "commentStandard": "「銀行と違って誤判定BANや不正利用のリスクがある。家賃引き落としもできないので全額受取は危険」"
+      },
+      {
+        "speaker": "中小企業の経理担当者",
+        "commentSimple": "「銀行振込とアプリ振込の両方を管理しなければならず、会社の給与計算の手間がすごく増えた」",
+        "commentStandard": "「『5万円だけPayPayで残りは銀行』といった分割振込への対応で振込手数料と労務コストがかさむ」"
+      }
+    ]
+  }
 }

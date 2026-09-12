@@ -179,5 +179,51 @@
       "text": "昇降ロープ式等の柔軟な新技術導入",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "整備費用の財源確保スキーム",
+      "labelStandard": "整備費用の財源確保スキーム",
+      "value": "1乗車あたり約10円のバリアフリー料金新設",
+      "unit": "",
+      "oldValue": "これまで: 鉄道事業者の自己資金と国・自治体の補助金のみで財源が逼迫",
+      "description": "1乗車あたり10円程度を通常運賃に上乗せ徴収できる「鉄道駅バリアフリー料金」を新設",
+      "badge": "1乗車あたり約10円のバリアフリー料金新設",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "ホームドアの優先設置基準",
+      "labelStandard": "ホームドアの優先設置基準",
+      "value": "10万人以上の駅への整備義務付け",
+      "unit": "",
+      "oldValue": "これまで: 各鉄道会社の判断に委ねられ整備に大きな遅れ",
+      "description": "利用者1日10万人以上の全駅、および3,000人以上の段差解消・ホームドア整備目標を法定義務化",
+      "badge": "10万人以上の駅への整備義務付け",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "異なる車両ドア位置への対応",
+      "labelStandard": "異なる車両ドア位置への対応",
+      "value": "昇降ロープ式等の柔軟な新技術導入",
+      "unit": "",
+      "oldValue": "これまで: 扉の位置が異なる直通運転線（3ドア・4ドア混在）では設置不能だった",
+      "description": "ワイヤーロープが垂直昇降する「昇降式ドア」や開口幅が広い軽量柵の技術開発・導入",
+      "badge": "昇降ロープ式等の柔軟な新技術導入",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Train"
+    },
+    {
+      "labelSimple": "ホームと電車の段差・隙間解消",
+      "labelStandard": "ホームと電車の段差・隙間解消",
+      "value": "くし状ゴム等による自立乗降推進",
+      "unit": "",
+      "oldValue": "これまで: 駅員が携帯スロープを持参して手動で介助する必要があった",
+      "description": "ホーム先端へのゴム製くし状部材の設置や段差解消嵩上げにより単独乗降を可能に",
+      "badge": "くし状ゴム等による自立乗降推進",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Heart"
+    }
   ]
 }

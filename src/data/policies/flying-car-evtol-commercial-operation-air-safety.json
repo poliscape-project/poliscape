@@ -179,5 +179,51 @@
       "text": "都市ビル屋上バーティポート基準策定",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "機体の安全審査（型式証明）",
+      "labelStandard": "機体の安全審査（型式証明）",
+      "value": "eVTOL専用の型式証明基準を新設",
+      "unit": "",
+      "oldValue": "これまで: 従来の大型航空機やヘリコプターの基準しかなくeVTOLを審査不能だった",
+      "description": "航空法に基づき電動マルチローター機に特化した耐空性基準・型式証明審査基準を創設",
+      "badge": "eVTOL専用の型式証明基準を新設",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "操縦ライセンスと無人飛行",
+      "labelStandard": "操縦ライセンスと無人飛行",
+      "value": "新操縦ライセンスと自動運航移行枠組み",
+      "unit": "",
+      "oldValue": "これまで: ヘリコプター操縦士免許が必要で膨大な訓練時間とコスト",
+      "description": "フライ・バイ・ワイヤ制御に適した新操縦技能証明の創設と将来の遠隔自動運航枠組み",
+      "badge": "新操縦ライセンスと自動運航移行枠組み",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "UserCheck"
+    },
+    {
+      "labelSimple": "離着陸場（バーティポート）",
+      "labelStandard": "離着陸場（バーティポート）",
+      "value": "都市ビル屋上バーティポート基準策定",
+      "unit": "",
+      "oldValue": "これまで: 既存のヘリポート基準（広大な敷地と頑丈な補強）しか存在しなかった",
+      "description": "静音性を活かしビル屋上や港湾に設置可能なバーティポートの構造・進入基準を策定",
+      "badge": "都市ビル屋上バーティポート基準策定",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "騒音基準と低高度航空管制",
+      "labelStandard": "騒音基準と低高度航空管制",
+      "value": "低騒音義務化と新低空航空管制システム",
+      "unit": "",
+      "oldValue": "これまで: 低高度での多数の航空機運航を想定した管制システムが存在しなかった",
+      "description": "ヘリ比10〜15dB静かな低騒音基準の義務付けとドローン・eVTOL統合運航管理（UTM）",
+      "badge": "低騒音義務化と新低空航空管制システム",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Wind"
+    }
   ]
 }

@@ -140,5 +140,51 @@
       "text": "明瞭な#PR表記義務",
       "color": "bg-teal-50 text-teal-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "やらせ広告の扱い",
+      "labelStandard": "景品表示法上のステマ位置付け",
+      "value": "全面違法",
+      "unit": "不当表示指定",
+      "oldValue": "これまで 業界自主ルールで野放し",
+      "description": "お金をもらっているのに隠して褒める行為を法律で禁止",
+      "badge": "ステマ違法化",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Ban"
+    },
+    {
+      "labelSimple": "怒られる人",
+      "labelStandard": "処分対象の責任主体",
+      "value": "広告主（企業）",
+      "unit": "措置命令・社名公表",
+      "oldValue": "これまで 誰の責任か曖昧で放置",
+      "description": "インフルエンサーに依頼した企業が行政処分の全責任を負う",
+      "badge": "企業責任追及",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "正しい表示",
+      "labelStandard": "PR表記のルール基準",
+      "value": "明瞭な#PR",
+      "unit": "冒頭にハッキリ表示",
+      "oldValue": "これまで タグの末尾に小さく隠蔽",
+      "description": "消費者がパッと見て「広告だ」とすぐ分かる表示を義務化",
+      "badge": "明瞭表示義務",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "ネットの良い効果",
+      "labelStandard": "口コミの信頼性回復効果",
+      "value": "偽レビュー排除",
+      "unit": "製品の真の評価へ",
+      "oldValue": "これまで 金で買った高評価が横行",
+      "description": "お金でランキングを不正操作する悪質会社を市場から排除",
+      "badge": "市場健全化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Sparkles"
+    }
   ]
 }

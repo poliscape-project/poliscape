@@ -155,5 +155,55 @@
       "text": "大規模障害・災害時の相互接続",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "キャリア連携",
+      "labelStandard": "対象となる携帯大手キャリア",
+      "value": "主要 4",
+      "unit": "キャリア",
+      "oldValue": "各社独自の囲い込みネットワーク",
+      "descriptionSimple": "ドコモ・KDDI・ソフトバンク・楽天が相互接続",
+      "descriptionStandard": "ドコモ・KDDI・ソフトバンク・楽天が相互接続",
+      "badge": "キャリア連携",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "緊急通報優先",
+      "labelStandard": "最優先確保される通信",
+      "value": "110番・119",
+      "unit": "番通報",
+      "oldValue": "自社回線ダウン時は救急通報が不可能",
+      "descriptionSimple": "他社アンテナを自動借用し緊急通報を維持",
+      "descriptionStandard": "他社アンテナを自動借用し緊急通報を維持",
+      "badge": "緊急通報優先",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "教訓から法制化",
+      "labelStandard": "過去の大規模障害影響",
+      "value": "3,091万",
+      "unit": "人に影響（KDDI）",
+      "oldValue": "最大61時間にわたり通信麻痺が発生",
+      "descriptionSimple": "社会インフラ全面停止の教訓から義務化",
+      "descriptionStandard": "社会インフラ全面停止の教訓から義務化",
+      "badge": "教訓から法制化",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "2025-26稼働",
+      "labelStandard": "本格運用の開始時期",
+      "value": "2025年度末〜",
+      "unit": "運用開始",
+      "oldValue": "事業者間の接続設備が未整備だった",
+      "descriptionSimple": "全国基地局での緊急ローミング本番稼働",
+      "descriptionStandard": "全国基地局での緊急ローミング本番稼働",
+      "badge": "2025-26稼働",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Zap"
+    }
   ]
 }

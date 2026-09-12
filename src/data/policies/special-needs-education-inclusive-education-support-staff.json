@@ -133,5 +133,51 @@
       "text": "通常学級サポート",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "通常学級の支援対象児",
+      "labelStandard": "通常学級での発達障害割合",
+      "value": "約8.8",
+      "unit": "%（11人に1人）",
+      "oldValue": "10年前 約6.5％から増加傾向",
+      "description": "読み書きや行動に困難を抱える児童",
+      "badge": "11人に1人",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "クラスを助ける先生",
+      "labelStandard": "特別支援教育支援員数",
+      "value": "全国約7万",
+      "unit": "人規模配置",
+      "oldValue": "担任教員1人でパニック等に対応",
+      "description": "通常学級で個別の学習・生活介助",
+      "badge": "支援員7万人",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "HeartHandshake"
+    },
+    {
+      "labelSimple": "国連からの勧告",
+      "labelStandard": "国連障害者権利委員会勧告",
+      "value": "是正勧告",
+      "unit": "（分離教育見直し）",
+      "oldValue": "支援学級と通常学級の制度的分断",
+      "description": "完全なインクルーシブ教育の推進要求",
+      "badge": "国連勧告",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "目指す共生社会",
+      "labelStandard": "インクルーシブ教育効果",
+      "value": "共生",
+      "unit": "社会の土台づくり",
+      "oldValue": "障害児の孤立や不登校が頻発",
+      "description": "多様性を認め合う教室環境を育成",
+      "badge": "共に学ぶ社会",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Heart"
+    }
   ]
 }

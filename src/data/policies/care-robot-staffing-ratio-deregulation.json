@@ -155,5 +155,81 @@
       "text": "アラーム疲労・安全性の懸念",
       "color": "bg-amber-50 text-amber-900"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "職員の配置ルール",
+      "labelStandard": "人員配置基準の特例",
+      "value": "3:0.9",
+      "unit": "等へ緩和",
+      "oldValue": "入所者3人に対し職員1人以上（3:1基準）を義務付け",
+      "descriptionSimple": "最新機器を入れた施設は、少し少ない人数でもOKに！",
+      "descriptionStandard": "センサーやインカム導入を条件に柔軟な職員配置を容認",
+      "badge": "配置基準緩和",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Cpu"
+    },
+    {
+      "labelSimple": "必要なハイテク機器",
+      "labelStandard": "必須ICT設備",
+      "value": "全床センサー",
+      "unit": "＋インカム等",
+      "oldValue": "定時巡回による目視確認と紙の記録",
+      "descriptionSimple": "全ベッドに起き上がりセンサーを敷いてスマホ連動！",
+      "descriptionStandard": "バイタル測定・インカム・介護記録ソフトの導入が要件",
+      "badge": "DX設備要件",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Activity"
+    },
+    {
+      "labelSimple": "夜勤スタッフの助かり",
+      "labelStandard": "夜間巡回負担",
+      "value": "大幅削減",
+      "unit": "（不要な訪室ゼロ）",
+      "oldValue": "1〜2時間ごとに眠る部屋を開けて確認",
+      "descriptionSimple": "お年寄りを起こさず、危ない部屋だけ急行できる！",
+      "descriptionStandard": "起き上がり検知で転倒を未然防止し、職員の精神的負担軽減",
+      "badge": "夜勤負担軽減",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "現場からの心配",
+      "labelStandard": "安全性と労働強化",
+      "value": "アラーム疲労",
+      "unit": "・過密化",
+      "oldValue": "手厚いスタッフによる見守り",
+      "descriptionSimple": "誤作動でアラームが鳴りやまないと見落とす危険も…",
+      "descriptionStandard": "単なる人件費削りに使われ職員の受け持ちが増える懸念",
+      "badge": "安全確認課題",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "ロボットを導入した特別養護老人ホームの施設長",
+        "commentSimple": "「夜の見回りでドアを開けてお年寄りを起こさずにすむようになり、職員も落ち着いて仕事ができるようになった」",
+        "commentStandard": "「全床見守りセンサー導入で起き上がり通知がスマホに届くため、夜間訪室が激減し、転倒防止と職員の精神的ゆとりを両立できた」"
+      },
+      {
+        "speaker": "介護テクノロジー開発企業のエンジニア",
+        "commentSimple": "「日本の高い技術で介護現場を助け、深刻な人手不足でも施設を閉鎖せずに済むモデルを作りたい」",
+        "commentStandard": "「バイタル自動記録やインカム連携で間接事務を半減させ、限られた人員でもケアの質を落とさないDXが実現できている」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "介護現場のベテラン夜勤職員",
+        "commentSimple": "「機械が何度も間違えてブザーを鳴らすと慣れてしまい、本当に危ないときに気づけない事故が起きないか心配」",
+        "commentStandard": "「アラーム疲労で注意力が散漫になり、センサーの死角での転倒や誤嚥の見落としが怖い。機械を過信した人員削減は危険だ」"
+      },
+      {
+        "speaker": "介護従事者労働組合の執行委員",
+        "commentSimple": "「現場を楽にするためではなく、経営者が人を減らして人件費を浮かすために使われ、残された人がさらに忙しくなる」",
+        "commentStandard": "「配置基準の緩和が単なる人員削減の口実となり、1人あたりの受け持ち人数が増加してさらなる過密労働と離職を招く恐れがある」"
+      }
+    ]
+  }
 }

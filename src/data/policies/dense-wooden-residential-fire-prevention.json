@@ -155,5 +155,55 @@
       "text": "解体費全額助成・固定資産税免除",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "人命被害激減",
+      "labelStandard": "首都直下の火災想定死者",
+      "value": "最大数万",
+      "unit": "人規模",
+      "oldValue": "木造密集市街地での大火災が最大原因",
+      "descriptionSimple": "同時多発火災と火災旋風の発生を阻止",
+      "descriptionStandard": "同時多発火災と火災旋風の発生を阻止",
+      "badge": "人命被害激減",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "延焼遮断目標",
+      "labelStandard": "不燃領域率の安全目標",
+      "value": "70",
+      "unit": "%以上",
+      "oldValue": "木密地域では50〜60%未満で延焼リスク大",
+      "descriptionSimple": "70%を超えると市街地大火が起きない原則",
+      "descriptionStandard": "70%を超えると市街地大火が起きない原則",
+      "badge": "延焼遮断目標",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "道路拡幅整備",
+      "labelStandard": "特定防災道路の幅員",
+      "value": "幅 15〜20",
+      "unit": "m拡幅",
+      "oldValue": "幅4m未満で消防車が入らない細街路",
+      "descriptionSimple": "延焼を遮断する都市の防火壁を形成",
+      "descriptionStandard": "延焼を遮断する都市の防火壁を形成",
+      "badge": "道路拡幅整備",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "公費全額補助",
+      "labelStandard": "老朽家屋解体支援",
+      "value": "除却費 全額",
+      "unit": "助成特例",
+      "oldValue": "解体更地化で固定資産税が最大6倍に跳ね上がった",
+      "descriptionSimple": "減免特例の継続と共同マンション建て替え",
+      "descriptionStandard": "減免特例の継続と共同マンション建て替え",
+      "badge": "公費全額補助",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    }
   ]
 }

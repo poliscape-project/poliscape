@@ -165,5 +165,51 @@
       "text": "防衛省による実地検査を導入",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "要求されるセキュリティ基準",
+      "labelStandard": "要求されるセキュリティ基準",
+      "value": "NIST SP800-171相当の国際基準へ",
+      "unit": "",
+      "oldValue": "これまで: 従来の「防衛省サイバーセキュリティ基準（自主点検中心）」",
+      "description": "米国防総省同等の「NIST SP800-171相当基準（110項目）」へ大幅厳格化",
+      "badge": "NIST SP800-171相当の国際基準へ",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "適用対象となる企業の範囲",
+      "labelStandard": "適用対象となる企業の範囲",
+      "value": "下請け中小サプライヤーまで義務化",
+      "unit": "",
+      "oldValue": "これまで: 直接契約する元請け企業（プライム企業）が主な管理対象",
+      "description": "重要装備情報を取り扱う2次・3次の下請け・孫請け中小企業まで義務拡大",
+      "badge": "下請け中小サプライヤーまで義務化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "遵守状況の検査・監査方法",
+      "labelStandard": "遵守状況の検査・監査方法",
+      "value": "防衛省による実地検査を導入",
+      "unit": "",
+      "oldValue": "これまで: チェックシートによる企業の自己申告が主流",
+      "description": "防衛省による実地立入検査や第三者認証による客観的監査の義務化",
+      "badge": "防衛省による実地検査を導入",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "中小企業への導入補助金",
+      "labelStandard": "中小企業への導入補助金",
+      "value": "中小企業へのセキュリティ補助金",
+      "unit": "",
+      "oldValue": "これまで: セキュリティ投資は下請け企業の全額自己負担",
+      "description": "防衛産業サプライチェーン強靭化補助金により、機器購入費等を最大1/2〜2/3補助",
+      "badge": "中小企業へのセキュリティ補助金",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Wallet"
+    }
   ]
 }

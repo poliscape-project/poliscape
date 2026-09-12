@@ -159,5 +159,81 @@
       "text": "損益分岐点 約82歳",
       "color": "bg-amber-50 text-amber-900"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "もらい始められる年齢の幅",
+      "labelStandard": "受給開始の選択可能年齢",
+      "value": "60〜75",
+      "unit": "歳",
+      "oldValue": "以前は60〜70歳までだった",
+      "descriptionSimple": "自分の生活に合わせて自由に決められる！",
+      "descriptionStandard": "65歳標準受給から前後15年間の選択制",
+      "badge": "60〜75歳",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Calendar"
+    },
+    {
+      "labelSimple": "75歳まで遅らせた場合の増額",
+      "labelStandard": "最大増額率（75歳受給開始）",
+      "value": "+84",
+      "unit": "%",
+      "oldValue": "1ヶ月遅らせるごとに+0.7%増",
+      "descriptionSimple": "一生もらえる年金がほぼ2倍に！",
+      "descriptionStandard": "繰下げにより生涯増額された年金を受給",
+      "badge": "最大+84%",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "60歳まで早めた場合の減額",
+      "labelStandard": "最大減額率（60歳受給開始）",
+      "value": "-24",
+      "unit": "%",
+      "oldValue": "1ヶ月早めるごとに-0.4%減",
+      "descriptionSimple": "早くもらえる代わりに一生減額される",
+      "descriptionStandard": "2022年法改正で減額率が月0.5%から0.4%へ緩和",
+      "badge": "最大-24%",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "元が取れる年齢（損益分岐点）",
+      "labelStandard": "繰下げの損益分岐年齢",
+      "value": "約 82",
+      "unit": "歳",
+      "oldValue": "受給開始から約12年で総額逆転",
+      "descriptionSimple": "長生きするなら遅らせた方がトク！",
+      "descriptionStandard": "70歳開始なら81歳11ヶ月以上生存で有利",
+      "badge": "長寿リスク対策",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Clock"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "健康で長く働いている70代シニア",
+        "commentSimple": "「70歳まで元気に働いて繰り下げたから、毎月の年金が42%も増えて老後がすごく安心！」",
+        "commentStandard": "「人生100年時代、元気に働けるうちは給料で生活し、年金を増やしておく戦略が取れる」"
+      },
+      {
+        "speaker": "自営業・フリーランスのシニア",
+        "commentSimple": "「定年がないので、75歳まで遅らせて毎月+84%に増やした年金で一生暮らす計画です」",
+        "commentStandard": "「国民年金だけでも75歳まで繰り下げれば月12万円超になり、確実な長寿保険になる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "持病があるシニア・早期退職者",
+        "commentSimple": "「82歳まで生きられないと損するなら、繰り下げるのは博打みたいで怖い…」",
+        "commentStandard": "「健康寿命と平均寿命のギャップがあり、早く亡くなった場合に受給総額で損をするリスク」"
+      },
+      {
+        "speaker": "社会保障審議会を注視する現役世代",
+        "commentSimple": "「国が受給開始をどんどん遅らせて、将来の支給額を実質的に削る口実にならない？」",
+        "commentStandard": "「選択肢の拡大と言いつつ、将来的に受給開始標準年齢を67〜68歳へ引き上げる布石では」"
+      }
+    ]
+  }
 }

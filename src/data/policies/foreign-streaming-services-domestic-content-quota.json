@@ -139,5 +139,51 @@
       "text": "アニメ・映画振興",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国内作品への投資義務",
+      "labelStandard": "売上高の国内再投資（クオータ）",
+      "value": "一定割合",
+      "unit": "の国内作品投資義務",
+      "oldValue": "これまで プラットフォームの自由裁量",
+      "description": "外資配信の売上を日本の制作現場へ環流",
+      "badge": "文化クオータ制",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "国内コンテンツの配信枠",
+      "labelStandard": "配信カタログ比率規制",
+      "value": "約30",
+      "unit": "%（欧州指令モデル）",
+      "oldValue": "これまで 国籍比率の規制は一切なし",
+      "description": "日本のアニメや映画の表示枠を確保",
+      "badge": "国内作品枠確保",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "BookOpen"
+    },
+    {
+      "labelSimple": "アニメーターの給料改善",
+      "labelStandard": "クリエイター対価還元",
+      "value": "IP保有",
+      "unit": "と収益分配ルールの策定",
+      "oldValue": "これまで 著作権買い取りによる低対価",
+      "description": "スタジオが自ら知的財産を保有し収益化",
+      "badge": "クリエイター支援",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "HeartHandshake"
+    },
+    {
+      "labelSimple": "サブスク月額料金への影響",
+      "labelStandard": "消費者料金とコンテンツ供給",
+      "value": "価格転嫁",
+      "unit": "への懸念が対立点",
+      "oldValue": "これまで 低廉な月額サブスク料金",
+      "description": "義務化による月額料金値上げリスクを検証",
+      "badge": "料金影響検証",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Wallet"
+    }
   ]
 }

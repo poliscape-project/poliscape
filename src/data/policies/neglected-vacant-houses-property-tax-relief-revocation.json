@@ -165,5 +165,51 @@
       "text": "自治体の所有者調査権限を拡大",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "指導対象の空き家基準",
+      "labelStandard": "指導対象の空き家基準",
+      "value": "管理不全の段階で早期指定",
+      "unit": "",
+      "oldValue": "これまで: 倒壊寸前の極めて危険な「特定空家」のみが税制特例解除の対象",
+      "description": "放置すれば特定空家になる恐れのある「管理不全空家」を新設し早期指定",
+      "badge": "管理不全の段階で早期指定",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "固定資産税の税額",
+      "labelStandard": "固定資産税の税額",
+      "value": "住宅特例解除で税額最大6倍",
+      "unit": "",
+      "oldValue": "これまで: 住宅が建っていれば敷地の固定資産税が1/6（小規模住宅用地）に減額",
+      "description": "勧告を受けると特例が解除され、更地並み（実質最大6倍の税額）に課税",
+      "badge": "住宅特例解除で税額最大6倍",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "所有者特定の手続き",
+      "labelStandard": "所有者特定の手続き",
+      "value": "自治体の所有者調査権限を拡大",
+      "unit": "",
+      "oldValue": "これまで: 相続登記未了や夜逃げで所有者を特定できず、自治体が手を出せず放置",
+      "description": "電力・水道の利用状況照会や戸籍・住民票情報の職権照会を強化",
+      "badge": "自治体の所有者調査権限を拡大",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "空き家の活用促進区域",
+      "labelStandard": "空き家の活用促進区域",
+      "value": "店舗・宿泊施設への転用緩和",
+      "unit": "",
+      "oldValue": "これまで: 用途地域の厳しい建築規制で、古民家カフェや宿泊施設への転用が困難",
+      "description": "空家等活用促進区域を指定し、用途規制の緩和や接道要件の弾力化を推進",
+      "badge": "店舗・宿泊施設への転用緩和",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Building"
+    }
   ]
 }

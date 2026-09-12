@@ -165,5 +165,51 @@
       "text": "全産婦が利用しやすい制度へ",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "産後健診の公費助成",
+      "labelStandard": "産後健診の公費助成",
+      "value": "産後健診2回分を公費補助",
+      "unit": "",
+      "oldValue": "これまで: 産後の健診費用（約5,000円×2回）は全額自己負担の自治体が多かった",
+      "description": "産後2週間・1か月健診への公費助成（問診＋うつ病質問票）を全国展開",
+      "badge": "産後健診2回分を公費補助",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "産後ケアの利用料金",
+      "labelStandard": "産後ケアの利用料金",
+      "value": "宿泊型ケアが1泊数千円に",
+      "unit": "",
+      "oldValue": "これまで: 宿泊型産後ケアは1泊数万円と高額で富裕層しか利用できず",
+      "description": "公費補助により1泊数千円〜数千円台、非課税世帯は無料など大幅減免",
+      "badge": "宿泊型ケアが1泊数千円に",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "利用対象者の要件緩和",
+      "labelStandard": "利用対象者の要件緩和",
+      "value": "全産婦が利用しやすい制度へ",
+      "unit": "",
+      "oldValue": "これまで: 「育児不安が特に強い人」「家族の支援がない人」など制限が厳格",
+      "description": "支援が必要な全ての産婦へ対象を拡大し、事前予約やオンライン申請に対応",
+      "badge": "全産婦が利用しやすい制度へ",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "訪問型（アウトリーチ）支援",
+      "labelStandard": "訪問型（アウトリーチ）支援",
+      "value": "助産師の自宅訪問支援を拡充",
+      "unit": "",
+      "oldValue": "これまで: 施設に出向けない重度の産後うつ患者への訪問支援が不足",
+      "description": "助産師や保健師が直接自宅を訪問し、育児相談と休養支援を行う訪問型を拡充",
+      "badge": "助産師の自宅訪問支援を拡充",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Home"
+    }
   ]
 }

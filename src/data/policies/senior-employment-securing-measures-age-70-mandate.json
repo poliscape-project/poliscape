@@ -133,5 +133,51 @@
       "text": "業務委託・創業支援",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "今の会社の決まり",
+      "labelStandard": "就業確保措置の現行規定",
+      "value": "70歳まで",
+      "unit": "努力義務",
+      "oldValue": "65歳までは法律で完全義務化",
+      "description": "約3割の企業がすでに措置を導入",
+      "badge": "努力義務中",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "議論されている見直し",
+      "labelStandard": "就業確保の完全義務化",
+      "value": "法的義務",
+      "unit": "への格上げ論",
+      "oldValue": "企業の自主努力に委ねる現状",
+      "description": "少子高齢化で深刻な人手不足に対応",
+      "badge": "義務化検討",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "雇い方・働き方の種類",
+      "labelStandard": "創業支援等措置の選択",
+      "value": "多様な5",
+      "unit": "つの選択肢",
+      "oldValue": "これまで 定年延長か再雇用のみ",
+      "description": "業務委託や社会貢献活動支援も容認",
+      "badge": "多様な選択",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Briefcase"
+    },
+    {
+      "labelSimple": "元気なシニアの割合",
+      "labelStandard": "65〜69歳の就業率",
+      "value": "50%超",
+      "unit": "が就業中",
+      "oldValue": "10年前 約38%にとどまる",
+      "description": "シニアの働く意欲と労働力確保",
+      "badge": "半数が現役",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Users"
+    }
   ]
 }

@@ -171,5 +171,81 @@
       "text": "全国一律化の議論",
       "color": "bg-amber-50 text-amber-900"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国の給料制限ライン",
+      "labelStandard": "国の所得制限基準",
+      "value": "年収約910万",
+      "unit": "円未満が対象",
+      "oldValue": "公立年11.88万・私立年最大39.6万",
+      "descriptionSimple": "910万円を超えると国の補助金はゼロ",
+      "descriptionStandard": "国の就学支援金は年収目安910万円で制限維持",
+      "badge": "国基準制限あり",
+      "badgeColor": "bg-slate-100 text-slate-700",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "東京や大阪のルール",
+      "labelStandard": "先行自治体の所得制限",
+      "value": "完全撤廃",
+      "unit": "（私立高校も全額）",
+      "oldValue": "所得制限ありの補助金だった",
+      "descriptionSimple": "親の年収に関係なく私立高校も全額支援！",
+      "descriptionStandard": "東京都・大阪府等で私立高校平均授業料を全額助成",
+      "badge": "都府で全額支援",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "浮く教育費（3年間）",
+      "labelStandard": "3年間の授業料軽減額",
+      "value": "約35〜140万",
+      "unit": "円の学費減",
+      "oldValue": "全額保護者の家計負担だった",
+      "descriptionSimple": "公立約35万円・私立最大約140万円浮く！",
+      "descriptionStandard": "高校年代の最も重い固定教育費を大幅カット",
+      "badge": "教育費大幅減",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "住む場所の格差",
+      "labelStandard": "地域間格差の課題",
+      "value": "地域差拡大",
+      "unit": "全国一律化協議",
+      "oldValue": "公立無償のみ全国一律だった",
+      "descriptionSimple": "住む街による不公平をなくす議論が進行中",
+      "descriptionStandard": "大都市と地方の教育格差是正へ国費負担を議論",
+      "badge": "全国一律化協議",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "GraduationCap"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "私立高校に通う生徒の保護者",
+        "commentSimple": "「親の給料に関係なく私立高校の授業料も助けてもらえて、生活費が本当に助かる！」",
+        "commentStandard": "「一番教育費がかかる高校時代に年40万円以上浮くため、大学進学のための貯金に回せる」"
+      },
+      {
+        "speaker": "高校の進路指導教員",
+        "commentSimple": "「学費の心配をせずに、本人が本当に行きたい特色ある私立高校を目指せるようになった」",
+        "commentStandard": "「経済的な理由で進路選択を狭められる生徒が減り、教育機会の公平性が大きく前進した」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "地方在住の保護者",
+        "commentSimple": "「お金持ちの東京だけ私立高校がタダになって、地方の私たちは学費を払うなんて不公平すぎる！」",
+        "commentStandard": "「自治体の財政力格差によって子どもの教育支援に年間何十万もの差がつくのは納得できない」"
+      },
+      {
+        "speaker": "教育財政の研究者",
+        "commentSimple": "「年収1,500万円を超えるような富裕層まで税金で学費を払うより、困っている人を助けるべき」",
+        "commentStandard": "「限られた教育予算を高所得層の私立学費補助に充てる優先順位には強い疑問がある」"
+      }
+    ]
+  }
 }

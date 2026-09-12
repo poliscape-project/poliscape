@@ -171,5 +171,51 @@
       "text": "特定技能へ直結、長期定着可能に",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "制度の法的な目的",
+      "labelStandard": "制度の法的な目的",
+      "value": "人材確保と育成を明確な目的に",
+      "unit": "",
+      "oldValue": "これまで: 「開発途上国への技術移転（国際貢献）」という建前",
+      "description": "日本の深刻な「人材確保」と「外国人材の計画的育成」を本音として明記",
+      "badge": "人材確保と育成を明確な目的に",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Briefcase"
+    },
+    {
+      "labelSimple": "本人の意向による転籍（転職）",
+      "labelStandard": "本人の意向による転籍（転職）",
+      "value": "1〜2年で本人の希望転職を容認",
+      "unit": "",
+      "oldValue": "これまで: 原則として実習生本人の希望による転籍は一切不可（実習先に拘束）",
+      "description": "1〜2年の就労と日本語能力（N5〜N4水準）を満たせば同業種内での転籍を容認",
+      "badge": "1〜2年で本人の希望転職を容認",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "将来の在留資格への接続",
+      "labelStandard": "将来の在留資格への接続",
+      "value": "特定技能へ直結、長期定着可能に",
+      "unit": "",
+      "oldValue": "これまで: 最長5年で帰国が原則（特定技能への移行は一部に限られる）",
+      "description": "3年間の育成就労修了で「特定技能1号・2号」へスムーズに昇格・長期在留",
+      "badge": "特定技能へ直結、長期定着可能に",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "GraduationCap"
+    },
+    {
+      "labelSimple": "監理団体（受入仲介組織）の監督",
+      "labelStandard": "監理団体（受入仲介組織）の監督",
+      "value": "悪質ブローカーの排除・監理強化",
+      "unit": "",
+      "oldValue": "これまで: ブローカー的な悪質監理団体が排除できず高額借金を放置",
+      "description": "外部監査人の設置を義務付けた「監理支援機関」へ改組し厳格な認可制へ",
+      "badge": "悪質ブローカーの排除・監理強化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

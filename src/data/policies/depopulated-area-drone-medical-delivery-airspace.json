@@ -179,5 +179,51 @@
       "text": "厳格な定温保冷・振動管理ガイドライン",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "ドローンの飛行規制ランク",
+      "labelStandard": "ドローンの飛行規制ランク",
+      "value": "有人地帯での目視外飛行（レベル4）解禁",
+      "unit": "",
+      "oldValue": "これまで: 操縦者の視界内（目視内）または無人地帯の目視外（レベル3）に限定",
+      "description": "有人地帯（集落や道路上空）を目視なしで自律飛行できる「レベル4飛行」の解禁",
+      "badge": "有人地帯での目視外飛行（レベル4）解禁",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Send"
+    },
+    {
+      "labelSimple": "医療アクセスの一体化",
+      "labelStandard": "医療アクセスの一体化",
+      "value": "オンライン診療とドローン配送の一体化",
+      "unit": "",
+      "oldValue": "これまで: 対面での診察と処方薬の受け取りに通院が必要だった",
+      "description": "オンライン診療・服薬指導・ドローン即日配送のシームレスな一体運用",
+      "badge": "オンライン診療とドローン配送の一体化",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "医薬品・血液の品質温度管理",
+      "labelStandard": "医薬品・血液の品質温度管理",
+      "value": "厳格な定温保冷・振動管理ガイドライン",
+      "unit": "",
+      "oldValue": "これまで: 飛行中の振動や温度変化による医薬品の変質リスクが懸念された",
+      "description": "厳格な定温保冷ボックス（2〜6℃維持）と振動吸収ドローンによる品質保証指針",
+      "badge": "厳格な定温保冷・振動管理ガイドライン",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "自治体運航への公的支援",
+      "labelStandard": "自治体運航への公的支援",
+      "value": "国の交付金による定期運航費の恒常補助",
+      "unit": "",
+      "oldValue": "これまで: 実証実験止まりで補助金終了後に事業撤退する事例が多発",
+      "description": "過疎地域持続的発展交付金や地域交通確保維持改善事業による恒常的な運航補助",
+      "badge": "国の交付金による定期運航費の恒常補助",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "DollarSign"
+    }
   ]
 }

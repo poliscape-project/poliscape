@@ -159,5 +159,51 @@
       "text": "将来水道料金値上げ抑制",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "古くなった水道管",
+      "labelStandard": "法定耐用年数超の老朽管",
+      "value": "20",
+      "unit": "%超が更新遅延",
+      "oldValue": "これまで 資金不足で年1%未満しか更新できず",
+      "description": "全国で水道管破裂や漏水事故が相次ぐ",
+      "badge": "老朽管更新",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "近隣の街と水道統合",
+      "labelStandard": "水道事業の広域連携",
+      "value": "都道府県",
+      "unit": "主導で広域化",
+      "oldValue": "これまで 市町村ごとに独立採算で料金格差",
+      "description": "浄水場統合や資材共同調達でコストを圧縮",
+      "badge": "広域統合",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "民間の力を活用",
+      "labelStandard": "コンセッション方式の導入",
+      "value": "官民連携",
+      "unit": "で経営効率化",
+      "oldValue": "これまで 自治体直営で技術継承が難航",
+      "description": "所有権は自治体、運営は民間ノウハウを活用",
+      "badge": "官民連携",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "将来の水道料金",
+      "labelStandard": "将来料金の値上げ抑制",
+      "value": "値上げ最小化",
+      "unit": "を目指す統合",
+      "oldValue": "これまで 人口減で将来最大2倍以上の試算",
+      "description": "広域化によるスケールメリットで値上げを抑える",
+      "badge": "料金抑制",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Wallet"
+    }
   ]
 }

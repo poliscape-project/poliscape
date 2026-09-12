@@ -133,5 +133,51 @@
       "text": "BRT専用道転換",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "話し合いの対象路線",
+      "labelStandard": "対象区間の輸送密度基準",
+      "value": "1,000人",
+      "unit": "未満/日（目安）",
+      "oldValue": "明確な選定基準がなく協議が長期塩漬け",
+      "description": "大量輸送の利点が失われた赤字ローカル線",
+      "badge": "1000人未満基準",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "100円稼ぐ費用",
+      "labelStandard": "ローカル線営業係数",
+      "value": "数千円〜",
+      "unit": "1万円超の区間も",
+      "oldValue": "100円稼ぐのに数千円の赤字垂れ流し",
+      "description": "JR各社の経営努力の限界を突破",
+      "badge": "巨額赤字",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "国のリーダーシップ",
+      "labelStandard": "再構築協議会の設置主体",
+      "value": "国交大臣",
+      "unit": "が直接主導組織",
+      "oldValue": "JRと自治体の押し問答で廃止が進まず",
+      "description": "3年以内を目処に存続かバスかを決着",
+      "badge": "国主導再編",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "バスに変えた後の便利さ",
+      "labelStandard": "BRT（バス高速輸送）効果",
+      "value": "本数増",
+      "unit": "・停留所増設で便利",
+      "oldValue": "1日数本の電車より柔軟な運行が可能",
+      "description": "病院や商業施設前まで直通アクセス",
+      "badge": "BRT利便性",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Car"
+    }
   ]
 }

@@ -78,4 +78,36 @@ export interface PolicyTopic {
 
   // バッジ（トップページのカードに表示する要約タグ）
   badges?: { text: string; color: string }[];
+
+  // 注目ポイントカード（特大数字・ハイライト4点）
+  highlights?: HighlightCardItem[];
+
+  // 市民・関係者の声（両論併記の具体例）
+  voices?: VoiceSetItem;
+}
+
+export interface HighlightCardItem {
+  labelSimple?: string;
+  labelStandard?: string;
+  label?: string;
+  value: string;
+  unit: string;
+  oldValue: string;
+  description?: string;
+  descriptionSimple?: string;
+  descriptionStandard?: string;
+  badge: string;
+  badgeColor: string;
+  icon: string; // Lucide icon name, e.g. "Smartphone", "Clock"
+}
+
+export interface VoiceEntryItem {
+  speaker: string;
+  commentStandard: string;
+  commentSimple: string;
+}
+
+export interface VoiceSetItem {
+  benefits: VoiceEntryItem[];
+  challenges: VoiceEntryItem[];
 }

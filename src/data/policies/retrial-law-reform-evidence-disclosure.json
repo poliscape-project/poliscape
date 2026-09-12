@@ -155,5 +155,55 @@
       "text": "検察の抗告禁止を要求",
       "color": "bg-amber-100 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "歴史的冤罪救済",
+      "labelStandard": "冤罪・再審無罪までの年数",
+      "value": "58",
+      "unit": "年間（袴田事件）",
+      "oldValue": "死刑判決確定後、半世紀以上拘置",
+      "descriptionSimple": "世界で最も長く拘禁された死刑囚の無罪",
+      "descriptionStandard": "世界で最も長く拘禁された死刑囚の無罪",
+      "badge": "歴史的冤罪救済",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "法制化争点",
+      "labelStandard": "未提出証拠の開示",
+      "value": "全面義務化",
+      "unit": "を要求",
+      "oldValue": "検察官の任意開示・裁判官の裁量次第",
+      "descriptionSimple": "検察が持つ無罪証拠の隠蔽を構造的に遮断",
+      "descriptionStandard": "検察が持つ無罪証拠の隠蔽を構造的に遮断",
+      "badge": "法制化争点",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "審理長期化防止",
+      "labelStandard": "検察官の不服申し立て",
+      "value": "抗告の禁止",
+      "unit": "を検討",
+      "oldValue": "再審開始決定後も検察の抗告で何年も遅延",
+      "descriptionSimple": "請求人の高齢化に対応する迅速救済",
+      "descriptionStandard": "請求人の高齢化に対応する迅速救済",
+      "badge": "審理長期化防止",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "70年ぶり改正へ",
+      "labelStandard": "刑訴法再審規定の放置期間",
+      "value": "70",
+      "unit": "年以上未改正",
+      "oldValue": "1948年制定のわずか19条の条文",
+      "descriptionSimple": "再審格差を解消する抜本的法改正が焦点",
+      "descriptionStandard": "再審格差を解消する抜本的法改正が焦点",
+      "badge": "70年ぶり改正へ",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "FileText"
+    }
   ]
 }

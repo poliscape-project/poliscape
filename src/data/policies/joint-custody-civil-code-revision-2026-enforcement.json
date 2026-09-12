@@ -139,5 +139,51 @@
       "text": "DV時は単独親権",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "離婚後の新しい親権の形",
+      "labelStandard": "離婚後の共同親権の選択肢",
+      "value": "共同",
+      "unit": "親権の導入（協議・家裁判断）",
+      "oldValue": "77年間どちらか一方のみの「単独親権」",
+      "description": "離婚後も両親が子どもの成長に関わる道",
+      "badge": "77年ぶり民法改正",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "暴力を振るう親への対策",
+      "labelStandard": "DV・虐待時の単独親権命令",
+      "value": "必ず",
+      "unit": "単独親権と指定（家裁義務）",
+      "oldValue": "元配偶者からの暴力や支配の継続懸念",
+      "description": "DV・虐待の恐れがある場合は共同親権を排除",
+      "badge": "DV被害者保護",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "養育費をもらえる安心",
+      "labelStandard": "養育費の法定請求権・先取特権",
+      "value": "優先",
+      "unit": "弁済・差押えの迅速化",
+      "oldValue": "全国で7割を超える養育費の不払い放置",
+      "description": "子どもの健やかな生活費を国が確実に確保",
+      "badge": "養育費確保",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "法律がスタートする時期",
+      "labelStandard": "改正民法の全面施行期限",
+      "value": "2026",
+      "unit": "年5月までに全面施行",
+      "oldValue": "2024年5月に参院本会議で可決成立",
+      "description": "家庭裁判所の運用指針整備を経て施行",
+      "badge": "2026年施行",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Calendar"
+    }
   ]
 }

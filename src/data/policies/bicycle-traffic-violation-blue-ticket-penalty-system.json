@@ -133,5 +133,51 @@
       "text": "16歳以上110違反",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "自転車の新しい罰金",
+      "labelStandard": "自転車の青切符（反則金）",
+      "value": "5,000〜",
+      "unit": "12,000円程度",
+      "oldValue": "指導警告（注意）か刑事罰（赤切符）の2択",
+      "description": "自動車と同様に反則金納付で処理",
+      "badge": "青切符導入",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "取り締まりの対象年齢",
+      "labelStandard": "反則金の適用対象年齢",
+      "value": "16歳以上",
+      "unit": "（原付免許年齢）",
+      "oldValue": "中学生以下は指導警告のみ",
+      "description": "高校生以上の悪質違反を厳格摘発",
+      "badge": "16歳以上対象",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "取り締まられる違反",
+      "labelStandard": "対象となる違反行為",
+      "value": "約110",
+      "unit": "種類の違反が対象",
+      "oldValue": "信号無視、一時停止、逆走が見逃されがち",
+      "description": "歩行者を巻き込む危険運転を重点抑止",
+      "badge": "約110違反",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "ながらスマホの罰則",
+      "labelStandard": "ながら運転の先行厳罰化",
+      "value": "懲役刑も",
+      "unit": "（6ヶ月以下/10万罰金）",
+      "oldValue": "罰則が極めて軽くスマホ操作が野放し",
+      "description": "2024年11月から先行して厳罰施行",
+      "badge": "ながら運転厳罰化",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Smartphone"
+    }
   ]
 }

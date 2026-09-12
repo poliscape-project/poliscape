@@ -165,5 +165,81 @@
       "text": "緩和措置終了・本格運用",
       "color": "bg-slate-100 text-slate-700"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "病院の窓口で払う割合",
+      "labelStandard": "一定所得以上の窓口負担割合",
+      "value": "2割",
+      "unit": "負担",
+      "oldValue": "これまで一律1割だった層の一部",
+      "descriptionSimple": "年金が多い高齢者は2割になりました",
+      "descriptionStandard": "単身年収200万円以上・複数320万円以上",
+      "badge": "2割負担導入",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "1割のままの人の割合",
+      "labelStandard": "1割負担を維持する高齢者",
+      "value": "約 8",
+      "unit": "割の世帯",
+      "oldValue": "単身年収200万円未満の一般層",
+      "descriptionSimple": "ほとんどのおじいちゃんおばあちゃんは1割！",
+      "descriptionStandard": "後期高齢者全体の約80%は1割負担のまま据置",
+      "badge": "約80%は1割",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "急激な値上げを抑える特例",
+      "labelStandard": "激変緩和措置（負担上限）",
+      "value": "終了済",
+      "unit": "（3年間特例）",
+      "oldValue": "外来の負担増月3,000円以内措置",
+      "descriptionSimple": "3年間の緩和期間が終了し本格運用へ",
+      "descriptionStandard": "制度施行から3年が経過し通常上限へ移行",
+      "badge": "本格運用へ",
+      "badgeColor": "bg-slate-100 text-slate-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "現役並みに稼いでいる人",
+      "labelStandard": "現役並み所得者の負担割合",
+      "value": "3割",
+      "unit": "負担",
+      "oldValue": "課税所得145万円以上の層",
+      "descriptionSimple": "若い人と同じ3割を支払う層",
+      "descriptionStandard": "単身年収約383万円以上は現役世代と同負担",
+      "badge": "現役並み3割",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "現役世代の会社員・子育て世帯",
+        "commentSimple": "「お年寄りの医療費を支える現役世代の保険料が上がり続けていたから、公平な改革だと思う」",
+        "commentStandard": "「現役世代の健康保険料負担が限界に達しており、負担能力のある高齢者の応分負担は必須」"
+      },
+      {
+        "speaker": "健保組合の関係者",
+        "commentSimple": "「後期高齢者支援金で赤字続きだった健保の財政が少しだけ一息ついた」",
+        "commentStandard": "「年齢ではなく『能力に応じた負担』への転換は、社会保障を持続させるための第一歩」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "年金月17万円で通院中の75歳",
+        "commentSimple": "「持病があって毎月何回も病院に行くから、負担が2倍になって生活費を切り詰めている…」",
+        "commentStandard": "「年収200万円は決して裕福ではなく、物価高と医療費2倍のダブルパンチで受診控えが起きる」"
+      },
+      {
+        "speaker": "地域医療の医師・看護師",
+        "commentSimple": "「お金が心配で病院に来るのを我慢して、病気が重症化してしまう高齢者が増えないか心配」",
+        "commentStandard": "「激変緩和措置が終了したことで、外来負担の増加による早期受診の遅れが懸念される」"
+      }
+    ]
+  }
 }

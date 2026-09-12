@@ -172,5 +172,51 @@
       "text": "生活費支援と安定ポスト創出",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "研究資金の支援規模と期間",
+      "labelStandard": "研究資金の支援規模と期間",
+      "value": "年数百億円・最長25年間の超長期助成",
+      "unit": "",
+      "oldValue": "これまで: 数億円〜数十億円規模の単年度・短期プロジェクト公募が中心で財政が不安定",
+      "description": "運用益から年数百億円規模の助成金を最長25年間にわたり長期重点支援",
+      "badge": "年数百億円・最長25年間の超長期助成",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "大学の最高意思決定機関",
+      "labelStandard": "大学の最高意思決定機関",
+      "value": "学外有識者が過半数の合議体を設置",
+      "unit": "",
+      "oldValue": "これまで: 総長・学長および学内教授会を中心とした従来型の自治・意思決定",
+      "description": "学外の外部有識者が過半数を占める「合議体（経営方針会議）」が財務・戦略を決定",
+      "badge": "学外有識者が過半数の合議体を設置",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "若手研究者・博士課程学生の処遇",
+      "labelStandard": "若手研究者・博士課程学生の処遇",
+      "value": "生活費支援と安定ポスト創出",
+      "unit": "",
+      "oldValue": "これまで: 任期付き短期雇用の常態化と博士課程学生の生活費困窮",
+      "description": "長期テニュアトラックポストの拡充と月20万円規模の生活費フェローシップ給付",
+      "badge": "生活費支援と安定ポスト創出",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "GraduationCap"
+    },
+    {
+      "labelSimple": "大学の自己資金獲得目標",
+      "labelStandard": "大学の自己資金獲得目標",
+      "value": "年3%事業成長と外部資金獲得の義務付け",
+      "unit": "",
+      "oldValue": "これまで: 国の交付金依存が高く、民間寄付や共同研究の獲得が限定的",
+      "description": "民間資金獲得や知財活用ビジネスを拡大し、事業規模を年3%成長させる目標を設定",
+      "badge": "年3%事業成長と外部資金獲得の義務付け",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "TrendingUp"
+    }
   ]
 }

@@ -139,5 +139,51 @@
       "text": "アレルギー完全分離区画",
       "color": "bg-amber-50 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "車中泊死の二次被害",
+      "labelStandard": "車中泊死の二次被害",
+      "value": "血栓症死",
+      "unit": "を防ぐ人命救助",
+      "oldValue": "ペット不可で車中泊し体調急変",
+      "description": "避難所にペットと逃げ込める体制を確立",
+      "badge": "車中泊死ゼロへ",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "避難所のゾーニング",
+      "labelStandard": "避難所のゾーニング",
+      "value": "完全別棟",
+      "unit": "・ドームテント配備",
+      "oldValue": "一般被災者と同室でトラブル多発",
+      "description": "アレルギー患者を守る完全分離スペース",
+      "badge": "アレルギー完全分離",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "飼い主の事前準備",
+      "labelStandard": "飼い主の事前準備",
+      "value": "5日分",
+      "unit": "以上のフード備蓄",
+      "oldValue": "手ぶら避難で避難所物資を圧迫",
+      "description": "ケージ慣れ・狂犬病予防接種証明の携行",
+      "badge": "飼い主の備え義務",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "避難所受入れ事前指定",
+      "labelStandard": "避難所受入れ事前指定",
+      "value": "全国自治体",
+      "unit": "で防災計画改定",
+      "oldValue": "各避難所の現場判断で拒否多発",
+      "description": "受入れ可能避難所を平時から公表",
+      "badge": "受入れ事前公表",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "MapPin"
+    }
   ]
 }

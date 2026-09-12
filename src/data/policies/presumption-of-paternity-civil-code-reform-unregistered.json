@@ -165,5 +165,51 @@
       "text": "母と子本人にも否認権を付与",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "離婚後300日出生児の推定",
+      "labelStandard": "離婚後300日出生児の推定",
+      "value": "再婚後の出生は現夫の子に",
+      "unit": "",
+      "oldValue": "これまで: 離婚後300日以内に生まれた子は、例外なく「前夫の子」と推定",
+      "description": "母が再婚していれば、離婚後300日以内でも「現夫（再婚相手）の子」と推定",
+      "badge": "再婚後の出生は現夫の子に",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Baby"
+    },
+    {
+      "labelSimple": "女性の再婚禁止期間",
+      "labelStandard": "女性の再婚禁止期間",
+      "value": "女性の再婚禁止期間を全廃",
+      "unit": "",
+      "oldValue": "これまで: 女性のみ離婚後100日間は再婚できない（父性推定の重複回避が理由）",
+      "description": "DNA鑑定等の進歩と性差別解消の観点から、女性の再婚禁止期間を全廃",
+      "badge": "女性の再婚禁止期間を全廃",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "嫡出否認の申立権者",
+      "labelStandard": "嫡出否認の申立権者",
+      "value": "母と子本人にも否認権を付与",
+      "unit": "",
+      "oldValue": "これまで: 前夫（父親側）しか嫡出否認を申し立てることができなかった",
+      "description": "母および子ども本人にも嫡出否認権を認め、提訴期間も出生から3年に延長",
+      "badge": "母と子本人にも否認権を付与",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "過去の無戸籍者への救済措置",
+      "labelStandard": "過去の無戸籍者への救済措置",
+      "value": "既存の無戸籍者への救済特例",
+      "unit": "",
+      "oldValue": "これまで: 法改正前に生まれた無戸籍者は裁判で前夫の関与が必要で救済困難",
+      "description": "施行から1年間の経過措置を設け、過去に生まれた子・母からの提訴を容認",
+      "badge": "既存の無戸籍者への救済特例",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

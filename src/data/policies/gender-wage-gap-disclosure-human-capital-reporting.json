@@ -139,5 +139,51 @@
       "text": "女性管理職登用加速",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "格差を公表する会社の規模",
+      "labelStandard": "男女賃金格差の開示義務対象",
+      "value": "301",
+      "unit": "人以上の大企業に義務化",
+      "oldValue": "これまで 給与の男女比率は社外非公開",
+      "description": "全労働者・正規・非正規別に割合を公表",
+      "badge": "大企業開示義務",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "決算書に書く大切な数字",
+      "labelStandard": "有報人的資本の法定開示",
+      "value": "3",
+      "unit": "大指標（賃金格差・女性管理職・育休）",
+      "oldValue": "これまで 財務データ中心の報告書",
+      "description": "上場企業の有価証券報告書への記載義務",
+      "badge": "有報人的資本開示",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "FileText"
+    },
+    {
+      "labelSimple": "日本全体の給料の差",
+      "labelStandard": "日本の男女間賃金格差",
+      "value": "約21",
+      "unit": "%（女性給与は男性の約8割）",
+      "oldValue": "OECD諸国の中でワーストレベルの格差",
+      "description": "可視化により女性登用と評価改革を促進",
+      "badge": "格差の可視化",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "これからのルールの広がり",
+      "labelStandard": "中小企業への対象拡大議論",
+      "value": "101",
+      "unit": "人以上の企業への拡大検討",
+      "oldValue": "300人以下の中小企業は開示義務なし",
+      "description": "中堅企業にも開示義務を広げる法改正へ",
+      "badge": "対象拡大検討",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    }
   ]
 }

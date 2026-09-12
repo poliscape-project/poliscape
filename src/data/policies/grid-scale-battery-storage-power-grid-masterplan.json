@@ -139,5 +139,51 @@
       "text": "数兆円海底送電網",
       "color": "bg-amber-50 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "巨大バッテリー",
+      "labelStandard": "系統用蓄電池の設置形態",
+      "value": "大型コンテナ",
+      "unit": "直結型",
+      "oldValue": "これまで 発電所併設のみ",
+      "description": "送電線網に直接つなぐ巨大ストレージ",
+      "badge": "系統用蓄電",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "BatteryCharging"
+    },
+    {
+      "labelSimple": "捨て電の防止",
+      "labelStandard": "再エネ出力制御の削減",
+      "value": "出力制御",
+      "unit": "大幅低減",
+      "oldValue": "これまで 晴天昼間に強制送電停止",
+      "description": "余剰再エネを充電して夜間に有効活用",
+      "badge": "無駄ゼロへ",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "事業者の収入支援",
+      "labelStandard": "長期脱炭素電源オークション",
+      "value": "20年",
+      "unit": "固定収入",
+      "oldValue": "これまで 価格差頼みで採算不安定",
+      "description": "投資回収を国が長期保証し参入を促進",
+      "badge": "公的支援",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "送電網の大工事",
+      "labelStandard": "マスタープラン投資総額",
+      "value": "約6〜7",
+      "unit": "兆円規模",
+      "oldValue": "これまで 地域分断された送電網",
+      "description": "北海道〜本州の海底直流送電網整備",
+      "badge": "電気代転嫁",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Layers"
+    }
   ]
 }

@@ -141,5 +141,81 @@
       "text": "重症アトピー等は3割維持",
       "color": "bg-emerald-50 text-emerald-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "薬局で買える薬の病院代",
+      "labelStandard": "湿布・保湿剤の自己負担",
+      "value": "選定療養",
+      "unit": "（差額自腹化）",
+      "oldValue": "一律3割負担（数百円で入手可能）",
+      "descriptionSimple": "ドラッグストアで買える薬は自己負担が増える！",
+      "descriptionStandard": "市販薬との価格差を患者が支払う見直し論議",
+      "badge": "自己負担増の検討",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "国が削れる医療費",
+      "labelStandard": "想定公費削減効果",
+      "value": "数千億円",
+      "unit": "規模 / 年",
+      "oldValue": "美容目的や大量処方で公費が浪費",
+      "descriptionSimple": "ムダな薬代を減らして本当に重い病気に使う！",
+      "descriptionStandard": "財政制度等審議会が提言するセルフメディケーション促進",
+      "badge": "公費ムダ削減",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "1回にもらえる湿布の枚数",
+      "labelStandard": "処方枚数の制限上限",
+      "value": "最大 63",
+      "unit": "枚まで（削減傾向）",
+      "oldValue": "過去70枚・制限なし時代は大量廃棄",
+      "descriptionSimple": "一度にたくさん湿布をもらうことはできない！",
+      "descriptionStandard": "重複処方や残薬防止のための厳格な数量規制",
+      "badge": "まとめ処方制限",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "本当に重い病気の人は？",
+      "labelStandard": "難病・アトピー患者の特例",
+      "value": "3割負担",
+      "unit": "を維持（例外）",
+      "oldValue": "全患者一律負担",
+      "descriptionSimple": "ひどい皮膚病や難病の人は今まで通り安く買える！",
+      "descriptionStandard": "慢性重症患者の治療継続を守る医療的セーフティネット",
+      "badge": "重症者は保護",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "健康保険組合の理事長",
+        "commentSimple": "「薬局で買える湿布を病院で安く大量にもらうムダ遣いをなくせば、貴重な保険料を守れる！」",
+        "commentStandard": "「美容目的の保湿剤処方や残薬などによる公費の浪費を是正し、真に高度な医療へ財源を集中できる」"
+      },
+      {
+        "speaker": "総合病院の勤務医",
+        "commentSimple": "「湿布をもらいに行くだけの軽症者が減れば、外来の待ち時間が減って重い患者に注力できる」",
+        "commentStandard": "「セルフメディケーションを促すことで医療現場の過密が緩和され、医師の負担軽減にも寄与する」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "アトピー性皮膚炎の子をもつ親",
+        "commentSimple": "「毎日全身に保湿剤を塗っている子どもにとって、自己負担が増えたら毎月の薬代が何倍にもなる」",
+        "commentStandard": "「ドラッグストア価格で毎日何本も買うのは家計がもたない。慢性患者を切り捨てる改悪は困る」"
+      },
+      {
+        "speaker": "整形外科の開業医",
+        "commentSimple": "「ただの腰痛だと思って市販湿布で我慢した結果、がんの骨転移などの発見が遅れる恐れがある」",
+        "commentStandard": "「受診抑制によって重大な疾患の早期発見機会が奪われるリスクを十分に考慮すべきだ」"
+      }
+    ]
+  }
 }

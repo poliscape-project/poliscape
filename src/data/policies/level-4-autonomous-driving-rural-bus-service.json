@@ -133,5 +133,51 @@
       "text": "過疎地交通維持",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "運転手さんのいないバス",
+      "labelStandard": "レベル4特定自動運行",
+      "value": "運転席無人",
+      "unit": "公道運行解禁",
+      "oldValue": "レベル2・3 必ず人が運転席に乗車",
+      "description": "遠隔監視システムで見守り運行",
+      "badge": "レベル4公道解禁",
+      "badgeColor": "bg-cyan-100 text-cyan-800",
+      "icon": "Car"
+    },
+    {
+      "labelSimple": "導入する市町村目標",
+      "labelStandard": "全国自治体実装目標",
+      "value": "100",
+      "unit": "カ所以上（2027年）",
+      "oldValue": "福井県永平寺町など一部実証のみ",
+      "description": "過疎地や新興住宅街へ定常運行拡大",
+      "badge": "全国100地区へ",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "MapPin"
+    },
+    {
+      "labelSimple": "解決する地域課題",
+      "labelStandard": "バス運転手不足対策",
+      "value": "交通弱者",
+      "unit": "の通院・買い物維持",
+      "oldValue": "2024年問題で地方路線バス廃線急増",
+      "description": "免許返納した高齢者の足を永続確保",
+      "badge": "移動の足確保",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "今の技術の弱点",
+      "labelStandard": "悪天候時の運行制限",
+      "value": "豪雪・",
+      "unit": "豪雨時のセンサー限界",
+      "oldValue": "晴天時・低速ルート（時速12km等）中心",
+      "description": "雪国での自律走行とインフラ整備が課題",
+      "badge": "悪天候対策",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "AlertTriangle"
+    }
   ]
 }

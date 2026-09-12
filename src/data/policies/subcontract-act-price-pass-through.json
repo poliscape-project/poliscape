@@ -185,5 +185,81 @@
       "text": "約束手形2026年全廃方針",
       "color": "bg-teal-50 text-teal-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "町工場をまわる調査員",
+      "labelStandard": "価格転嫁Gメンの体制",
+      "value": "300",
+      "unit": "名体制",
+      "oldValue": "書面アンケート中心で取り締まりが甘かった",
+      "descriptionSimple": "町工場の声を聞いていじめる大企業を見つける！",
+      "descriptionStandard": "年3万社へのヒアリングで不公正な据え置きを監視",
+      "badge": "転嫁Gメン",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "お給料のアップを認めるルール",
+      "labelStandard": "労務費転嫁指針の策定",
+      "value": "2023",
+      "unit": "年11月策定",
+      "oldValue": "「人件費の値上げ」を言い出すのは事実上タブー",
+      "descriptionSimple": "働く人の給料が上がった分を正当に値上げできる！",
+      "descriptionStandard": "公取委が発注側企業へ定期的な価格協議を義務付け",
+      "badge": "労務費転嫁",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "紙の手形をやめる目標",
+      "labelStandard": "約束手形の全廃方針",
+      "value": "2026",
+      "unit": "年利用廃止",
+      "oldValue": "120日後にお金が入る長期手形で町工場が苦しむ",
+      "descriptionSimple": "お金の支払いを何ヶ月も待たせるのをやめさせる！",
+      "descriptionStandard": "サイト60日以内短縮と現金（電サポ）払いへ完全移行",
+      "badge": "手形全廃へ",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "町工場で働く人の割合",
+      "labelStandard": "中小企業の雇用シェア",
+      "value": "約 70",
+      "unit": "%（就業者数）",
+      "oldValue": "大企業だけが最高益で中小賃金は30年停滞",
+      "descriptionSimple": "日本で働く多くの人にお給料アップを届ける！",
+      "descriptionStandard": "製造業の99%を占める中小の適正利潤を死守",
+      "badge": "雇用7割を救う",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Users"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "金型加工工場の二代目社長",
+        "commentSimple": "「電気代や材料代が上がった分をきちんとお客さんにお願いできるようになり、社員のお給料を増やせる」",
+        "commentStandard": "「大企業の買いたたきに対する監視と公取委の指導が強まり、適正な価格転嫁を通じて賃上げ原資を確保できた」"
+      },
+      {
+        "speaker": "中小企業診断士",
+        "commentSimple": "「下請けいじめをなくすことで、素晴らしい技を持つ町工場が倒産せずに未来に残っていける」",
+        "commentStandard": "「サプライチェーン全体でコストを分担する商慣行が定着すれば、日本のものづくりの基盤技術を守ることができる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "完成品メーカーの購買担当",
+        "commentSimple": "「すべての値上げをそのまま受け入れていると、最終製品が高くなりすぎて海外製品に負けてしまう」",
+        "commentStandard": "「グローバル市場で競合する中、すべてのコスト上昇を製品価格に転嫁すれば製品自体の販売シェアを失うリスクがある」"
+      },
+      {
+        "speaker": "零細下請け企業の経営者",
+        "commentSimple": "「ルールは厳しくなっても、強く値上げをお願いしたら仕事を切られてしまうのではないかと怖い」",
+        "commentStandard": "「制度が整備されても、取引停止を恐れて値上げ協議を切り出せないサイレントな力関係は簡単には解消しない」"
+      }
+    ]
+  }
 }

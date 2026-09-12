@@ -179,5 +179,81 @@
       "text": "第3子 月3万円",
       "color": "bg-amber-100 text-amber-900"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "もらえる年齢",
+      "labelStandard": "対象年齢の延長",
+      "value": "18歳",
+      "unit": "まで",
+      "oldValue": "これまで 15歳（中学生）",
+      "descriptionSimple": "高校生ももらえるように！",
+      "descriptionStandard": "高校生年代の3年間が追加",
+      "badge": "3年間延長",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Calendar"
+    },
+    {
+      "labelSimple": "親のきゅうりょう制限",
+      "labelStandard": "所得制限",
+      "value": "なし",
+      "unit": "（撤廃）",
+      "oldValue": "これまで 年収制限あり",
+      "descriptionSimple": "だれでも全員もらえる！",
+      "descriptionStandard": "親の年収に関わらず全員支給",
+      "badge": "完全撤廃",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "3人目のこどもの金額",
+      "labelStandard": "第3子以降の手当",
+      "value": "30,000",
+      "unit": "円/月",
+      "oldValue": "これまで 月15,000円",
+      "descriptionSimple": "3人目からは2ばいに！",
+      "descriptionStandard": "多子世帯の支援を倍増",
+      "badge": "金額が2倍",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "もらえる回数",
+      "labelStandard": "支給回数",
+      "value": "年 6",
+      "unit": "回",
+      "oldValue": "これまで 年3回（4ヶ月毎）",
+      "descriptionSimple": "2ヶ月ごとに届いて安心！",
+      "descriptionStandard": "偶数月に2ヶ月分ずつ支給",
+      "badge": "隔月支給",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Clock"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "高校生の子をもつ親",
+        "commentSimple": "「高校生はお金がすごくかかるから、本当に助かる！」",
+        "commentStandard": "「一番お金がかかる高校の塾代や学費に手当が出るのは本当にありがたい」"
+      },
+      {
+        "speaker": "共働き家庭",
+        "commentSimple": "「一生懸命働いたのに手当がゼロだったのがなくなって嬉しい」",
+        "commentStandard": "「頑張って働いて納税しても手当ゼロだった不公平感がやっと解消された」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "現役世代の会社員",
+        "commentSimple": "「配るお金のために、大人の毎月の保険料が高くなるの？」",
+        "commentStandard": "「財源のための支援金で、実質的に健康保険料の負担が増えるのでは…」"
+      },
+      {
+        "speaker": "政策の専門家・識者",
+        "commentSimple": "「お金持ちの家にもあげるより、困っている家だけにあげた方がいいのでは？」",
+        "commentStandard": "「限られた財源なら、富裕層より本当に困っている困窮家庭へ集中すべき」"
+      }
+    ]
+  }
 }

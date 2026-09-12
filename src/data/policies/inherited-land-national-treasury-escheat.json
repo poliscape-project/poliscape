@@ -139,5 +139,51 @@
       "text": "負動産の解消",
       "color": "bg-slate-100 text-slate-700"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国への引き取り負担金",
+      "labelStandard": "国への引き取り負担金",
+      "value": "原則 20",
+      "unit": "万円〜（10年分）",
+      "oldValue": "これまで 永久に固定資産税と草刈り",
+      "description": "一度払えば将来の管理責任がゼロに",
+      "badge": "約20万円で免責",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "引き取りの前提条件",
+      "labelStandard": "引き取りの前提条件",
+      "value": "完全更地",
+      "unit": "・境界確定必須",
+      "oldValue": "古家付き・山林境界不明は却下",
+      "description": "解体費数百万円が出せないと利用不可",
+      "badge": "更地化が必須",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "全国の相談・申請件数",
+      "labelStandard": "全国の相談・申請件数",
+      "value": "数万",
+      "unit": "件突破",
+      "oldValue": "制度なし（所有者不明化が進行）",
+      "description": "相続登記義務化と連動して利用増",
+      "badge": "利用急増中",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "審査手数料（1筆）",
+      "labelStandard": "審査手数料（1筆）",
+      "value": "1.4",
+      "unit": "万円",
+      "oldValue": "無料相談のみ",
+      "description": "不合格でも手数料は返金されない",
+      "badge": "審査費用",
+      "badgeColor": "bg-slate-100 text-slate-700",
+      "icon": "FileCheck"
+    }
   ]
 }

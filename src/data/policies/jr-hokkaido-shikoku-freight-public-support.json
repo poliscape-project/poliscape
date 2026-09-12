@@ -139,5 +139,51 @@
       "text": "赤字ローカル線のバス転換",
       "color": "bg-amber-50 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国による支援規模",
+      "labelStandard": "国による支援規模",
+      "value": "数千億",
+      "unit": "円規模（継続投入）",
+      "oldValue": "基金運用益頼みで利息ゼロ破綻",
+      "description": "財政投融資と無利子貸付で路線維持",
+      "badge": "数千億円支援",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "北海道農産物の鉄道輸送",
+      "labelStandard": "北海道農産物の鉄道輸送",
+      "value": "タマネギ・芋",
+      "unit": "を本州へ大量輸送",
+      "oldValue": "青函トンネルを通じて毎日定時運行",
+      "description": "トラック不足の中で国民の食卓を守る生命線",
+      "badge": "食料安全保障",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Briefcase"
+    },
+    {
+      "labelSimple": "赤字ローカル線の選別",
+      "labelStandard": "赤字ローカル線の選別",
+      "value": "バス転換",
+      "unit": "・BRT化を加速",
+      "oldValue": "地元反対で廃線協議が長期膠着",
+      "description": "乗客極少路線は鉄道を諦め道路交通へ",
+      "badge": "バス転換推進",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "納税者の負担批判",
+      "labelStandard": "納税者の負担批判",
+      "value": "終わりのない",
+      "unit": "税金補填への不満",
+      "oldValue": "国鉄民営化で自立するはずだった",
+      "description": "都市部住民から地方赤字への税金投入批判",
+      "badge": "国民負担の是非",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Coins"
+    }
   ]
 }

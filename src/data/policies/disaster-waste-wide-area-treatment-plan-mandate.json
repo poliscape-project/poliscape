@@ -171,5 +171,51 @@
       "text": "危険家屋の公費解体ファストトラック化",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "災害廃棄物の広域受け入れ体制",
+      "labelStandard": "災害廃棄物の広域受け入れ体制",
+      "value": "平時からの広域処理受入協定の義務化",
+      "unit": "",
+      "oldValue": "これまで: 発災後に環境省が全国の自治体に受け入れを要請するため調整に数ヶ月〜1年遅延",
+      "description": "平時からブロック単位・全国単位での受け入れ協定締結を全都道府県に義務化",
+      "badge": "平時からの広域処理受入協定の義務化",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "がれき仮置場のハイテク管理",
+      "labelStandard": "がれき仮置場のハイテク管理",
+      "value": "ドローン3Dスキャンと熱検知AIカメラ配備",
+      "unit": "",
+      "oldValue": "これまで: 目視で分別・誘導するため混載ごみが増えリチウム電池からの火災が多発",
+      "description": "ドローンによる三次元堆積量スキャンと赤外線カメラによる発熱・火災検知",
+      "badge": "ドローン3Dスキャンと熱検知AIカメラ配備",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "倒壊家屋の公費解体手続き",
+      "labelStandard": "倒壊家屋の公費解体手続き",
+      "value": "危険家屋の公費解体ファストトラック化",
+      "unit": "",
+      "oldValue": "これまで: 所有者全員の同意書集めや登記確認に半年以上かかり解体に着手できず",
+      "description": "被災自治体首長の職権による危険家屋緊急解体基準と同意手続きの電子化",
+      "badge": "危険家屋の公費解体ファストトラック化",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "アスベスト飛散防止と調査",
+      "labelStandard": "アスベスト飛散防止と調査",
+      "value": "アスベスト即日スクリーニング体制の確立",
+      "unit": "",
+      "oldValue": "これまで: 専門調査員不足で現地調査待ちが数ヶ月続きアスベストが屋外に飛散",
+      "description": "ポータブル分析器による即日検査と防塵散水装置の国費無償配備",
+      "badge": "アスベスト即日スクリーニング体制の確立",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

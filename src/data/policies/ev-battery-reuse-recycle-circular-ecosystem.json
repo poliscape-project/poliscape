@@ -171,5 +171,51 @@
       "text": "定置用リユース安全基準",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "電池パスポートの義務化",
+      "labelStandard": "電池パスポートの義務化",
+      "value": "電池パスポートの義務化",
+      "unit": "",
+      "oldValue": "これまで: 使用済み電池の劣化状況や残存容量を追跡する共通基盤なし",
+      "description": "QRコード・デジタルIDで性能・カーボンフットプリントを一元記録",
+      "badge": "電池パスポートの義務化",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "FileCode"
+    },
+    {
+      "labelSimple": "メーカーの回収・再資源化義務",
+      "labelStandard": "メーカーの回収・再資源化義務",
+      "value": "メーカーの回収・再資源化義務",
+      "unit": "",
+      "oldValue": "これまで: 廃車時に解体業者が個別に処理・転売し希少金属が流出",
+      "description": "自動車・電池メーカーに使用済み電池の回収・再資源化を義務付け",
+      "badge": "メーカーの回収・再資源化義務",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Repeat"
+    },
+    {
+      "labelSimple": "定置用リユース安全基準",
+      "labelStandard": "定置用リユース安全基準",
+      "value": "定置用リユース安全基準",
+      "unit": "",
+      "oldValue": "これまで: 中古EV電池の安全性や再利用基準が未整備で活用停滞",
+      "description": "住宅・メガソーラー向け定置型蓄電池としての安全基準を法制化",
+      "badge": "定置用リユース安全基準",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Zap"
+    },
+    {
+      "labelSimple": "レアメタル国内循環支援",
+      "labelStandard": "レアメタル国内循環支援",
+      "value": "レアメタル国内循環支援",
+      "unit": "",
+      "oldValue": "これまで: コバルト・リチウム等のスクラップが海外へそのまま輸出",
+      "description": "国内精錬・リサイクル設備投資への補助金と資源循環網整備",
+      "badge": "レアメタル国内循環支援",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Factory"
+    }
   ]
 }

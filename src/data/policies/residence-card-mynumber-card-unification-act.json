@@ -139,5 +139,51 @@
       "text": "偽造在留カード撲滅",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "新しくできるカード",
+      "labelStandard": "特定在留カードの創設",
+      "value": "1",
+      "unit": "枚に統合（希望者対象）",
+      "oldValue": "これまで 在留カードとマイナカードが別々",
+      "description": "入管とマイナの機能を1枚に集約",
+      "badge": "カード1本化",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "CreditCard"
+    },
+    {
+      "labelSimple": "更新の手続き",
+      "labelStandard": "在留期間更新と連動処理",
+      "value": "ワン",
+      "unit": "ストップで一括更新",
+      "oldValue": "これまで 入管と市役所の両方に通う負担",
+      "description": "入管での手続きでマイナ情報も自動更新",
+      "badge": "手続き効率化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "偽造カードの見破り",
+      "labelStandard": "ICチップ電子確認義務化",
+      "value": "確実",
+      "unit": "な電子本人確認の普及",
+      "oldValue": "これまで 目視確認による精巧な偽造横行",
+      "description": "アプリ等で本物判定し不法就労を防止",
+      "badge": "偽造カード撲滅",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "カードが使えるようになる日",
+      "labelStandard": "特定在留カードの交付時期",
+      "value": "2025",
+      "unit": "年秋より交付開始",
+      "oldValue": "これまで 改正入管法の公布・準備中",
+      "description": "全国の出入国在留管理局で順次交付",
+      "badge": "2025年秋施行",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Calendar"
+    }
   ]
 }

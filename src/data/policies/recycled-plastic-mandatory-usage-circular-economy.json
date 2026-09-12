@@ -139,5 +139,51 @@
       "text": "水平リサイクル社会へ",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "再生プラ使用目標",
+      "labelStandard": "再生プラ使用目標",
+      "value": "20〜30",
+      "unit": "%以上義務化案",
+      "oldValue": "企業の自主努力目標にとどまる",
+      "description": "ペットボトルや包装容器、家電へ適用",
+      "badge": "使用比率義務化",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Leaf"
+    },
+    {
+      "labelSimple": "2030年国内利用量",
+      "labelStandard": "2030年国内利用量",
+      "value": "200万",
+      "unit": "トン（倍増目標）",
+      "oldValue": "年間約100万トン規模",
+      "description": "サーキュラーエコノミー国家戦略",
+      "badge": "利用倍増目標",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "リサイクル材の価格",
+      "labelStandard": "リサイクル材の価格",
+      "value": "割高逆転",
+      "unit": "（新品プラより高価）",
+      "oldValue": "廃プラは安価な素材という認識",
+      "description": "洗浄加工コストがかさみ商品価格へ転嫁",
+      "badge": "コスト高騰",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "水平リサイクル転換",
+      "labelStandard": "水平リサイクル転換",
+      "value": "ボトルtoボトル",
+      "unit": "（同一製品再生）",
+      "oldValue": "大半を燃やすサーマルリサイクルに依存",
+      "description": "何度でも同じ製品に戻すマテリアル循環",
+      "badge": "水平循環へ",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Layers"
+    }
   ]
 }

@@ -133,5 +133,51 @@
       "text": "感想文丸写し禁止",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "文科省の公式ルール",
+      "labelStandard": "学校向けAIガイドライン",
+      "value": "暫定指針",
+      "unit": "を全国通知",
+      "oldValue": "全面禁止か放置か学校ごとに分断",
+      "description": "適切な場面と不適切な場面を明文化",
+      "badge": "文科省指針",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Laptop"
+    },
+    {
+      "labelSimple": "やってはいけないこと",
+      "labelStandard": "禁止されるAI利用例",
+      "value": "作文・",
+      "unit": "感想文の丸写し提出",
+      "oldValue": "AI生成文を自分の作品として提出",
+      "description": "思考力低下を防ぎ自作提出を徹底",
+      "badge": "丸写し禁止",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "おすすめの使い方",
+      "labelStandard": "推奨されるAI活用例",
+      "value": "英会話",
+      "unit": "練習・アイデア壁打ち",
+      "oldValue": "単なる検索エンジンの代替利用",
+      "description": "探究学習での議論相手として活用",
+      "badge": "探究・対話学習",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "先生の残業を減らす",
+      "labelStandard": "校務・授業準備効率化",
+      "value": "テスト案",
+      "unit": "・指導案をAI生成",
+      "oldValue": "手作業の教材作成で長時間残業",
+      "description": "個人情報を含まない事務作業を半減",
+      "badge": "教員校務効率化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Cpu"
+    }
   ]
 }

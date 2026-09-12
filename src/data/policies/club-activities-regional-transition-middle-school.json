@@ -133,5 +133,51 @@
       "text": "地域クラブ会費制",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "先生の土日の部活",
+      "labelStandard": "休日の部活動の運営",
+      "value": "学校外",
+      "unit": "へ切り離し移行",
+      "oldValue": "先生が土日も無償同然で強制指導",
+      "description": "地域のクラブや民間スポーツ団体へ委託",
+      "badge": "地域クラブ化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "先生の過労死ライン",
+      "labelStandard": "教員の月80時間超残業",
+      "value": "半減",
+      "unit": "を目指す大改革",
+      "oldValue": "中学校教員の約半数が過労死ライン",
+      "description": "週末の完全休養で教材研究にゆとり",
+      "badge": "教員過労死防止",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "部活の教えてくれる人",
+      "labelStandard": "外部指導員の指導",
+      "value": "専門家",
+      "unit": "による技術指導",
+      "oldValue": "未経験の先生が顧問でケガのリスク",
+      "description": "プロや有資格者が指導し技能向上",
+      "badge": "専門指導",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "保護者が払う会費",
+      "labelStandard": "地域クラブの月謝",
+      "value": "月数千円〜",
+      "unit": "1万円程度",
+      "oldValue": "公立校の部活はほぼ無料（年間数千円）",
+      "description": "低所得世帯への公費助成が重要課題",
+      "badge": "月謝の発生",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Coins"
+    }
   ]
 }

@@ -139,5 +139,51 @@
       "text": "収入複数化と過労防止",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "企業の副業許可原則",
+      "labelStandard": "企業の副業許可原則",
+      "value": "原則容認",
+      "unit": "（理由開示義務）",
+      "oldValue": "就業規則で「副業一律禁止」が主流",
+      "description": "不許可にする場合は正当な理由の公表必須",
+      "badge": "副業原則容認へ",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Briefcase"
+    },
+    {
+      "labelSimple": "労働時間通算ルール",
+      "labelStandard": "労働時間通算ルール",
+      "value": "労基法38条",
+      "unit": "の残業代縛り",
+      "oldValue": "本業＋副業で8時間超えると25%増し",
+      "description": "副業先が割増賃金を嫌がり雇用が進まない壁",
+      "badge": "割増賃金の壁",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "労災補償の給与合算",
+      "labelStandard": "労災補償の給与合算",
+      "value": "両社合算",
+      "unit": "額ベースで補償支給",
+      "oldValue": "事故に遭った片方の給料だけで計算（低額）",
+      "description": "複数就業者のセーフティネットを強化",
+      "badge": "労災給与合算",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "収入の複数化メリット",
+      "labelStandard": "収入の複数化メリット",
+      "value": "インフレ",
+      "unit": "防衛・手取り増",
+      "oldValue": "1つの会社の給料だけに依存",
+      "description": "月数万〜十数万円の追加収入で生活防衛",
+      "badge": "収入源の分散",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Wallet"
+    }
   ]
 }

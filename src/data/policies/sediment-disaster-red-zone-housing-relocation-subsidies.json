@@ -179,5 +179,51 @@
       "text": "跡地買い取りと税制支援",
       "color": "bg-purple-50 text-purple-700 border-purple-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "レッドゾーン内の新規建築・開発",
+      "labelStandard": "レッドゾーン内の新規建築・開発",
+      "value": "新規住宅開発・要配慮者施設の新設禁止",
+      "unit": "",
+      "oldValue": "これまで: 構造基準（頑丈なコンクリート壁等）を満たせば住宅の新築が可能だった",
+      "description": "都市計画法上の開発許可を原則不許可とし、高齢者福祉施設や学校等の新設を厳格禁止",
+      "badge": "新規住宅開発・要配慮者施設の新設禁止",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "既存住宅の移転補助額",
+      "labelStandard": "既存住宅の移転補助額",
+      "value": "解体・新居取得に最大800万円超の補助",
+      "unit": "",
+      "oldValue": "これまで: 解体費や引越し補助が限定的で自己負担が大きく移転が進まない",
+      "description": "住宅解体費（上限約200万〜300万円）に加え、新居取得の利子補給や移転費補助を大幅増額（最大800万円規模）",
+      "badge": "解体・新居取得に最大800万円超の補助",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "跡地利用と税制優遇",
+      "labelStandard": "跡地利用と税制優遇",
+      "value": "跡地買い取りと税制支援",
+      "unit": "",
+      "oldValue": "これまで: 移転後も空き地の固定資産税負担が残り更地化が進まない",
+      "description": "自治体による跡地の公有地化買い取りや固定資産税の減免制度を新設",
+      "badge": "跡地買い取りと税制支援",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "FileText"
+    },
+    {
+      "labelSimple": "不動産売買時のリスク告知",
+      "labelStandard": "不動産売買時のリスク告知",
+      "value": "物件広告段階でのハザード明示義務化",
+      "unit": "",
+      "oldValue": "これまで: 契約直前の重要事項説明で初めて知るケースが多発",
+      "description": "ポータルサイト等の物件広告段階からレッド・イエローゾーン該否の明示を義務化",
+      "badge": "物件広告段階でのハザード明示義務化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Sparkles"
+    }
   ]
 }

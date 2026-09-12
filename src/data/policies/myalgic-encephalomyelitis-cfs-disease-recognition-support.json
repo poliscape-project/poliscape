@@ -139,5 +139,51 @@
       "text": "コロナ後遺症と連動",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "苦しんでいる患者さんの数",
+      "labelStandard": "国内の推計患者数（ME/CFS）",
+      "value": "約10万",
+      "unit": "人（重症者の約3割が寝たきり）",
+      "oldValue": "「ただの疲れ・仮病」と誤診され孤立",
+      "description": "動けなくなる原因不明の重い神経難病",
+      "badge": "重症寝たきり難病",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "国の難病に指定してもらう要求",
+      "labelStandard": "指定難病（難病医療費助成）追加",
+      "value": "要望中",
+      "unit": "（国の助成対象入りを目指す）",
+      "oldValue": "指定難病外のため医療費は全額自己負担",
+      "description": "医療費負担を減らし障害福祉を受けられるよう議論",
+      "badge": "指定難病化へ",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "HeartHandshake"
+    },
+    {
+      "labelSimple": "コロナの後遺症との関係",
+      "labelStandard": "Long COVID重症化との連動研究",
+      "value": "酷似",
+      "unit": "（ブレインフォグ・激しい倦怠感）",
+      "oldValue": "認知度が低く研究費も乏しかった時代",
+      "description": "世界中でコロナ後遺症と合わせた共同研究加速",
+      "badge": "コロナ後遺症連動",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Activity"
+    },
+    {
+      "labelSimple": "難病に認めてもらうための壁",
+      "labelStandard": "客観的な診断マーカーの不在",
+      "value": "血液検査",
+      "unit": "等の確定診断基準確立が課題",
+      "oldValue": "自覚症状だけで客観的な数値が出ない壁",
+      "description": "国が認定するための科学的診断技術を探索中",
+      "badge": "診断技術開発へ",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "FileCheck"
+    }
   ]
 }

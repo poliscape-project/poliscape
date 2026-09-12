@@ -179,5 +179,81 @@
       "text": "第三者事業承継マッチング",
       "color": "bg-indigo-50 text-indigo-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国からもらえる生活のお金",
+      "labelStandard": "就農準備・経営開始資金",
+      "value": "年最大 150",
+      "unit": "万円",
+      "oldValue": "無収入の研修・赤字初期に耐えられず挫折",
+      "descriptionSimple": "研修2年＋経営3年で最大5年間お金がもらえる！",
+      "descriptionStandard": "年間最大150万円を最長5年間給付し生活を保障",
+      "badge": "最長5年給付",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "もらえる人のねんれい",
+      "labelStandard": "給付対象年齢",
+      "value": "49",
+      "unit": "歳以下",
+      "oldValue": "高齢化が進み若手就農者が極端に不足",
+      "descriptionSimple": "農業を始めたい若い人を国が応援！",
+      "descriptionStandard": "次世代を担う青年就農者への集中的インセンティブ",
+      "badge": "若手就農促進",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "機械やハウスを買うお金",
+      "labelStandard": "経営発展支援事業",
+      "value": "最大 1,000",
+      "unit": "万円補助",
+      "oldValue": "トラクターや設備に数千万円の借金を背負う",
+      "descriptionSimple": "ハウスや機械の代金を最大4分の3補助！",
+      "descriptionStandard": "新規就農時の施設・機械導入費用を大幅助成",
+      "badge": "最大3/4補助",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "おじいちゃんからの引き継ぎ",
+      "labelStandard": "第三者事業承継マッチング",
+      "value": "地域計画",
+      "unit": "目標地図",
+      "oldValue": "親族に跡継ぎがいない場合は廃業・放棄",
+      "descriptionSimple": "ビニールハウスや畑を若手にまるごとバトンタッチ！",
+      "descriptionStandard": "市町村が引退農家と新規参入者を地図上でマッチング",
+      "badge": "資産・技術承継",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Sparkles"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "脱サラして就農した若手農家",
+        "commentSimple": "「最初の数年間、国から生活費のお金が出たからこそ、家族を連れて思い切って田舎で農業を始められた」",
+        "commentStandard": "「無収入になる研修期間を年間150万円の給付金で支えてもらい、安心して技術習得に専念して自立できた」"
+      },
+      {
+        "speaker": "跡継ぎがいなかった引退農家",
+        "commentSimple": "「長年大切にしてきたビニールハウスを壊さずに、熱心な若い人にそのまま使ってもらえてホッとした」",
+        "commentStandard": "「ゼロからハウスを建てると数千万円かかる。ウチの施設と農地をそのまま引き継いでくれてお互い助かった」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "農業経営コンサルタント",
+        "commentSimple": "「国のお金が出ている間は良くても、5年でお金が切れた途端に売上が足りず、借金を残して逃げ出す人がいる」",
+        "commentStandard": "「給付金頼みで就農させても定着率は上がらない。自然災害や価格暴落に耐えうる厳格な営農計画が必要だ」"
+      },
+      {
+        "speaker": "農村集落の役員・水利組合長",
+        "commentSimple": "「『農業だけやりたい、村の草刈りや集まりには出たくない』という移住者と昔からの住民でトラブルになる」",
+        "commentStandard": "「用水路の泥上げや農道整備など、地域の共同作業に参加してくれないと村の農業インフラそのものが維持できない」"
+      }
+    ]
+  }
 }

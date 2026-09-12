@@ -139,5 +139,51 @@
       "text": "Face IDで瞬時認証",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "実物カードの携行",
+      "labelStandard": "実物カードの携行",
+      "value": "不要",
+      "unit": "（自宅保管でOK）",
+      "oldValue": "財布に入れて常に持ち歩く必要",
+      "description": "紛失や盗難の不安から完全解放",
+      "badge": "カード携帯不要",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "セキュリティ認証",
+      "labelStandard": "セキュリティ認証",
+      "value": "Face ID",
+      "unit": "（生体認証で瞬時）",
+      "oldValue": "4桁暗証番号の手入力・のぞき見不安",
+      "description": "他人が拾っても絶対に突破できない",
+      "badge": "生体認証保護",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "国内iPhoneシェア",
+      "labelStandard": "国内iPhoneシェア",
+      "value": "約 5",
+      "unit": "割（過半数）",
+      "oldValue": "Android先行でiPhoneは非対応だった",
+      "description": "米国外で世界初となる国家ID搭載",
+      "badge": "世界初搭載",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Globe"
+    },
+    {
+      "labelSimple": "利用可能シーン",
+      "labelStandard": "利用可能シーン",
+      "value": "コンビニ",
+      "unit": "・病院・行政DX",
+      "oldValue": "リーダーに差し込む手間が必要",
+      "description": "かざすだけで住民票取得や保険証利用",
+      "badge": "ピッとかざすだけ",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Zap"
+    }
   ]
 }

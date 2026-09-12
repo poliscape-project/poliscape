@@ -140,5 +140,51 @@
       "text": "富士山入山料・独自宿泊税",
       "color": "bg-amber-50 text-amber-900"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "外国人向け料金",
+      "labelStandard": "二重価格（内外価格差）容認",
+      "value": "二重価格",
+      "unit": "外国人割増",
+      "oldValue": "これまで 一律同一料金が原則",
+      "description": "姫路城や寺社・飲食店で外国人料金を設定可能に",
+      "badge": "二重価格容認",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "富士山の通行料",
+      "labelStandard": "入山規制と通行料徴収",
+      "value": "2,000",
+      "unit": "円/人（1日4千人）",
+      "oldValue": "これまで 任意協力金のみ・夜間自由",
+      "description": "ゲートを設けて弾丸登山防止と安全確保",
+      "badge": "入域料導入",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "MapPin"
+    },
+    {
+      "labelSimple": "ホテルの新税金",
+      "labelStandard": "地方自治体の独自宿泊税",
+      "value": "1泊数百",
+      "unit": "円〜千円超",
+      "oldValue": "これまで 東京・京都など大都市のみ",
+      "description": "ゴミ清掃・観光バス増便の自主財源を確保",
+      "badge": "宿泊税全国化",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Hotel"
+    },
+    {
+      "labelSimple": "心配されること",
+      "labelStandard": "外国人差別批判と風評",
+      "value": "差別批判",
+      "unit": "風評リスク",
+      "oldValue": "これまで おもてなし重視",
+      "description": "外国人から「ぼったくり」と悪評が広がる懸念",
+      "badge": "国際批判懸念",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    }
   ]
 }

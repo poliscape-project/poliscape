@@ -165,5 +165,51 @@
       "text": "離檀トラブル防止ガイドライン",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "無縁墓の公告・撤去手続き",
+      "labelStandard": "無縁墓の公告・撤去手続き",
+      "value": "無縁墓の撤去公告期間を短縮",
+      "unit": "",
+      "oldValue": "これまで: 官報掲載および墓地への立て札掲示を1年間行わなければ撤去不可",
+      "description": "公告期間の短縮や自治体の戸籍照会連携により、早期の改葬代行を可能に",
+      "badge": "無縁墓の撤去公告期間を短縮",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "樹木葬・永代供養の法的位置付け",
+      "labelStandard": "樹木葬・永代供養の法的位置付け",
+      "value": "樹木葬・合葬墓の基準を法制化",
+      "unit": "",
+      "oldValue": "これまで: 墓石を前提とした古い墓埋法の条文のため、樹木葬の許可基準が曖昧",
+      "description": "樹木葬墓地や納骨堂の構造基準、承継者不要の永代管理指針を明確化",
+      "badge": "樹木葬・合葬墓の基準を法制化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Trees"
+    },
+    {
+      "labelSimple": "離壇料（離檀料）をめぐる紛争",
+      "labelStandard": "離壇料（離檀料）をめぐる紛争",
+      "value": "離檀トラブル防止ガイドライン",
+      "unit": "",
+      "oldValue": "これまで: 寺院から法外な離檀料（数百万円等）を請求されトラブル多発",
+      "description": "消費者保護や宗教団体のガイドラインにより適正な離檀手続きを明示",
+      "badge": "離檀トラブル防止ガイドライン",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "墓籍簿のデジタル台帳化",
+      "labelStandard": "墓籍簿のデジタル台帳化",
+      "value": "墓地台帳のデジタル化推進",
+      "unit": "",
+      "oldValue": "これまで: 寺院の過去帳や霊園の紙台帳で管理され、名義人不明が放置",
+      "description": "マイナンバーや公簿連携を活用した墓地使用者データベースの電子化",
+      "badge": "墓地台帳のデジタル化推進",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Laptop"
+    }
   ]
 }

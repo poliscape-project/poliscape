@@ -185,5 +185,81 @@
       "text": "2030年代宇宙産業8兆円へ",
       "color": "bg-blue-50 text-blue-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "宇宙開発に使う国のお金",
+      "labelStandard": "JAXA宇宙戦略基金の規模",
+      "value": "10年間 1",
+      "unit": "兆円規模",
+      "oldValue": "単年度ごとのJAXA研究予算で民間支援は限定的",
+      "descriptionSimple": "民間会社がロケットを飛ばせるよう1兆円を支援！",
+      "descriptionStandard": "複数年度にわたり機動的に民間・大学へ資金配分",
+      "badge": "10年1兆円基金",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "宇宙ビジネスの目標の大きさ",
+      "labelStandard": "2030年代宇宙産業規模目標",
+      "value": "8",
+      "unit": "兆円（倍増目標）",
+      "oldValue": "現在の日本の宇宙産業規模は約4兆円",
+      "descriptionSimple": "日本の新しい大きな産業として市場を2倍に育てる！",
+      "descriptionStandard": "ロケット打ち上げ・小型衛星データ利活用で新産業創出",
+      "badge": "市場規模8兆円へ",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "月に降り立つ日本人",
+      "labelStandard": "アルテミス計画 月面着陸枠",
+      "value": "日本人 2",
+      "unit": "名着陸予定",
+      "oldValue": "これまで月面に立ったのはアメリカ人のみ",
+      "descriptionSimple": "日本人が月を歩いて、トヨタの車で探検する！",
+      "descriptionStandard": "有人月面探査車（ルナクルーザー）の開発・運用を担当",
+      "badge": "月面着陸へ",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Globe"
+    },
+    {
+      "labelSimple": "空から日本を見守る人工衛星",
+      "labelStandard": "小型衛星コンステレーション",
+      "value": "数十〜数百",
+      "unit": "機を量産配置",
+      "oldValue": "1機数百億円の大型衛星を数年に1回打ち上げ",
+      "descriptionSimple": "小さくて安い衛星をたくさん飛ばして大雨や地震を発見！",
+      "descriptionStandard": "リアルタイム地球観測・通信網を低コストで実現",
+      "badge": "衛星コンステ",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Satellite"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "民間ロケット開発ベンチャーの代表",
+        "commentSimple": "「日本からいつでもロケットを宇宙へ飛ばせるようになれば、新しいビジネスやワクワクする仕事が増える」",
+        "commentStandard": "「1兆円規模の基金によるアンカーテナンシー（政府による初期需要保証）により、民間ロケットや衛星産業が自立成長できる」"
+      },
+      {
+        "speaker": "衛星データを活用するIT起業家",
+        "commentSimple": "「宇宙からの写真や電波を防災や農業に使うことで、地球の暮らしをもっと安全で豊かにできる」",
+        "commentStandard": "「小型衛星コンステレーションの国産化が進めば、リアルタイムの災害把握や通信主権の確保が可能になる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "財政規律を重視する政策アドバイザー",
+        "commentSimple": "「ロケットの失敗が続いたらたくさんのお金が無駄になってしまう。今すぐ困っている人の支援を先にするべき」",
+        "commentStandard": "「宇宙開発は打ち上げ失敗などリスクが極めて高い。1兆円の巨額基金が一部の事業者の延命に消える懸念がある」"
+      },
+      {
+        "speaker": "射場周辺の漁業者",
+        "commentSimple": "「ロケットを打ち上げるたびに船を出せない日が増えて、魚獲りの仕事に影響が出るのが心配」",
+        "commentStandard": "「打ち上げ頻度の増大に伴う海上保安・空域規制が周辺漁業や観光に与える影響への配慮と十分な補償が不可欠だ」"
+      }
+    ]
+  }
 }

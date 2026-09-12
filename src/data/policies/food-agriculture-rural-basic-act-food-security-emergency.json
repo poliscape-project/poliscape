@@ -133,5 +133,51 @@
       "text": "コスト適正転嫁",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "日本のカロリー自給率",
+      "labelStandard": "食料自給率（カロリー）",
+      "value": "約38",
+      "unit": "%（先進国最低）",
+      "oldValue": "昭和40年代 約73%から半減",
+      "description": "主要穀物や飼料・肥料の大半を輸入",
+      "badge": "輸入依存の危機",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "食料危機時の国の命令",
+      "labelStandard": "有事の増産指示権",
+      "value": "新設",
+      "unit": "（事態対策法）",
+      "oldValue": "これまで 自発的要請にとどまる",
+      "description": "供給途絶時に米・イモ等の増産を指示",
+      "badge": "増産指示権",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Shield"
+    },
+    {
+      "labelSimple": "従わない場合の罰則",
+      "labelStandard": "計画未提出の過料",
+      "value": "最大20万",
+      "unit": "円以下の過料",
+      "oldValue": "これまで 罰則規定なし",
+      "description": "農家の経営自由侵害との批判も根強い",
+      "badge": "過料ペナルティ",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "農家を守る値段の決め方",
+      "labelStandard": "適正価格形成の法制化",
+      "value": "コスト",
+      "unit": "転嫁協議会を創設",
+      "oldValue": "安売り競争で肥料高騰分を農家負担",
+      "description": "持続可能な再生産価格を小売りへ反映",
+      "badge": "適正価格",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    }
   ]
 }

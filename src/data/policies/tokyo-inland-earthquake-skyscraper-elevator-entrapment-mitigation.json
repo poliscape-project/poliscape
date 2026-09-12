@@ -179,5 +179,51 @@
       "text": "72時間稼働の給水・生活用非常電源",
       "color": "bg-blue-50 text-blue-700 border-blue-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "エレベーターの耐震・安全装置",
+      "labelStandard": "エレベーターの耐震・安全装置",
+      "value": "P波感知型による最寄り階即時開放",
+      "unit": "",
+      "oldValue": "これまで: 主要動（S波）感知型が多く、揺れが本格化してから停止し閉じ込めが多発",
+      "description": "初期微動（P波）感知による最寄り階自動停止・戸開き機能の設置義務化と既存改修補助",
+      "badge": "P波感知型による最寄り階即時開放",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "タワマン住民の避難基本方針",
+      "labelStandard": "タワマン住民の避難基本方針",
+      "value": "避難所過密を防ぐ「在宅避難」原則",
+      "unit": "",
+      "oldValue": "これまで: 近隣の小中学校（公的避難所）へ向かい避難所が過密パンクする事態",
+      "description": "構造安全性を活かした「原則在宅避難」の徹底と地域防災計画への位置付け",
+      "badge": "避難所過密を防ぐ「在宅避難」原則",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Home"
+    },
+    {
+      "labelSimple": "非常用電源と生活インフラ維持",
+      "labelStandard": "非常用電源と生活インフラ維持",
+      "value": "72時間稼働の給水・生活用非常電源",
+      "unit": "",
+      "oldValue": "これまで: 法定の消火用非常発電機のみで家庭内コンセントや給水ポンプは停電停止",
+      "description": "72時間以上稼働する給水・排水ポンプ用非常電源の二重化・蓄電池整備を推奨・認定",
+      "badge": "72時間稼働の給水・生活用非常電源",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "BatteryCharging"
+    },
+    {
+      "labelSimple": "物資備蓄とフロア防災",
+      "labelStandard": "物資備蓄とフロア防災",
+      "value": "各フロアへの分散備蓄と階段昇降機",
+      "unit": "",
+      "oldValue": "これまで: 地下の防災倉庫にのみ備蓄がありエレベーター停止時に運搬不能",
+      "description": "中間階・各フロアへの分散備蓄倉庫や非常用階段昇降機の配備を推進",
+      "badge": "各フロアへの分散備蓄と階段昇降機",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Layers"
+    }
   ]
 }

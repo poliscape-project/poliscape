@@ -171,5 +171,51 @@
       "text": "家族不在時の医師団合議による治療決定ルール確立",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "保証人不在による入院拒絶",
+      "labelStandard": "保証人不在による入院拒絶",
+      "value": "保証人不在を理由とする入院拒絶の完全違法化",
+      "unit": "",
+      "oldValue": "これまで: 「家族がいないと入院させられない」と病院の窓口で追い返される事例が横行",
+      "description": "身元保証人の不在のみを理由とする入院・入所拒否を法令違反として厳罰指導",
+      "badge": "保証人不在を理由とする入院拒絶の完全違法化",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "医療費・利用料の未払い対策",
+      "labelStandard": "医療費・利用料の未払い対策",
+      "value": "自治体連携による未払い医療費の公的保全",
+      "unit": "",
+      "oldValue": "これまで: 患者が死亡したり認知症になった際の治療費未払いを恐れて病院が自己防衛",
+      "description": "生活保護の医療扶助や自治体公的預託金制度による病院への未払い補填枠組み",
+      "badge": "自治体連携による未払い医療費の公的保全",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "意識不明時の治療方針・同意",
+      "labelStandard": "意識不明時の治療方針・同意",
+      "value": "家族不在時の医師団合議による治療決定ルール確立",
+      "unit": "",
+      "oldValue": "これまで: 手術同意書に家族のサインがないと外科医が執刀を躊躇し救命が遅延",
+      "description": "本人の事前意思（リビングウィル・ACP）に基づく医師団の合議決定を公式ガイド化",
+      "badge": "家族不在時の医師団合議による治療決定ルール確立",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Heart"
+    },
+    {
+      "labelSimple": "民間身元保証サービスの監督",
+      "labelStandard": "民間身元保証サービスの監督",
+      "value": "民間身元保証ビジネスの許認可・信託保全義務化",
+      "unit": "",
+      "oldValue": "これまで: 法規制がなく数百万円の契約金を奪って計画倒産する悪徳業者が野放し",
+      "description": "「高齢者等終身サポート事業者ガイドライン」の策定と登録・監督基準の法制化",
+      "badge": "民間身元保証ビジネスの許認可・信託保全義務化",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "CheckCircle2"
+    }
   ]
 }

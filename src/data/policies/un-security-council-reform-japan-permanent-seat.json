@@ -139,5 +139,51 @@
       "text": "大国拒否権の乱用防止",
       "color": "bg-rose-50 text-rose-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国連への貢献",
+      "labelStandard": "日本の国連分担金割合",
+      "value": "第3位",
+      "unit": "約8%（巨額拠出）",
+      "oldValue": "これまで 米国に次ぐ世界第2位",
+      "description": "米・中に次ぐ世界トップクラスの財政支援",
+      "badge": "世界3位拠出",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "改革の仲間",
+      "labelStandard": "G4（4カ国グループ）連携",
+      "value": "G4",
+      "unit": "日独印伯",
+      "oldValue": "これまで 単独での安保理改革要請",
+      "description": "日本・ドイツ・インド・ブラジルが共同提案",
+      "badge": "常任入り提案",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Globe"
+    },
+    {
+      "labelSimple": "大国の特権",
+      "labelStandard": "拒否権の行使制限論",
+      "value": "乱用制限",
+      "unit": "説明責任義務",
+      "oldValue": "これまで 5大国が無制限に行使",
+      "description": "大国が戦争を自分で止める拒否権の乱用防止",
+      "badge": "機能回復",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "最大の壁",
+      "labelStandard": "改革実現の障害",
+      "value": "中国の反対",
+      "unit": "憲章改正の壁",
+      "oldValue": "これまで 5大国の全会一致が必要",
+      "description": "中国の拒否権と2/3以上の批准ハードル",
+      "badge": "膠着要因",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Ban"
+    }
   ]
 }

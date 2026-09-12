@@ -159,5 +159,51 @@
       "text": "係留施設整備・マリーナ化",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "勝手な係留の禁止",
+      "labelStandard": "放置禁止区域の指定拡大",
+      "value": "放置禁止",
+      "unit": "区域で命令・過料",
+      "oldValue": "これまで 係留料金逃れで河川や港に放置横行",
+      "description": "港湾や河川での無許可係留を厳格に規制",
+      "badge": "放置禁止",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Ban"
+    },
+    {
+      "labelSimple": "沈んだ船の強制撤去",
+      "labelStandard": "略式行政代執行による撤去",
+      "value": "強制撤去",
+      "unit": "と解体処分を迅速化",
+      "oldValue": "これまで 所有者不明で何年も放置され沈没",
+      "description": "自治体・港湾管理者が早期に撤去できる法枠組み",
+      "badge": "代執行撤去",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Ship"
+    },
+    {
+      "labelSimple": "台風や津波の二次被害",
+      "labelStandard": "漂流事故による施設破壊防止",
+      "value": "二次被害ゼロ",
+      "unit": "へ係留対策",
+      "oldValue": "これまで 流されたプレジャーボートが橋や堤防に衝突",
+      "description": "大災害時の漂流リスクを根本から取り除く",
+      "badge": "災害防止",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "ちゃんとした船の置き場",
+      "labelStandard": "公的簡易係留施設（ボートパーク）",
+      "value": "低料金受入",
+      "unit": "施設への収容推進",
+      "oldValue": "これまで 民間マリーナが高額・満杯で止められず",
+      "description": "適正な利用料金で停泊できる受入環境を整備",
+      "badge": "適正収容",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Anchor"
+    }
   ]
 }

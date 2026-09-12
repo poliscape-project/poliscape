@@ -165,5 +165,51 @@
       "text": "役割に応じた適正賃金への是正",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "企業の就業確保義務年齢",
+      "labelStandard": "企業の就業確保義務年齢",
+      "value": "70歳までの就業確保を義務化へ",
+      "unit": "",
+      "oldValue": "これまで: 65歳までの雇用確保が完全義務、70歳までは「努力義務」にとどまる",
+      "description": "70歳までの就業確保を完全義務化へ段階的に引き上げる法改正を検討",
+      "badge": "70歳までの就業確保を義務化へ",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "企業が選べる措置のメニュー",
+      "labelStandard": "企業が選べる措置のメニュー",
+      "value": "業務委託・社会貢献支援も容認",
+      "unit": "",
+      "oldValue": "これまで: 自社での定年延長または再雇用（嘱託契約）にほぼ限定",
+      "description": "業務委託契約（フリーランス創業）や社会貢献活動支援など5つの選択肢",
+      "badge": "業務委託・社会貢献支援も容認",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Briefcase"
+    },
+    {
+      "labelSimple": "シニア再雇用時の給与水準",
+      "labelStandard": "シニア再雇用時の給与水準",
+      "value": "役割に応じた適正賃金への是正",
+      "unit": "",
+      "oldValue": "これまで: 定年直後に給与が5割以下に激減する「定年退職崖」が常態化",
+      "description": "職務給（同一労働同一賃金）の導入により、担う役割に応じた適正処遇を指導",
+      "badge": "役割に応じた適正賃金への是正",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "高齢労働者の労働安全衛生",
+      "labelStandard": "高齢労働者の労働安全衛生",
+      "value": "転倒防止など職場環境の改善補助",
+      "unit": "",
+      "oldValue": "これまで: 若年者と同じ安全基準で、シニアの転倒・転落災害が急増",
+      "description": "「エイジフレンドリーガイドライン」に基づき、手すり設置や作業照度改善を補助",
+      "badge": "転倒防止など職場環境の改善補助",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

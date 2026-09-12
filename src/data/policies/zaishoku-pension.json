@@ -165,5 +165,81 @@
       "text": "基礎年金は全額支給",
       "color": "bg-emerald-50 text-emerald-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "年金が減らされない給料ライン",
+      "labelStandard": "支給停止基準額（月額合算）",
+      "value": "50",
+      "unit": "万円/月",
+      "oldValue": "給与（総報酬目安）＋厚生年金月額",
+      "descriptionSimple": "合計月50万円までは年金を満額もらえる！",
+      "descriptionStandard": "2024年度より基準額が50万円に改定",
+      "badge": "月50万円基準",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Briefcase"
+    },
+    {
+      "labelSimple": "50万円を超えた分のカット割合",
+      "labelStandard": "超過分の支給停止率",
+      "value": "1/2",
+      "unit": "カット",
+      "oldValue": "（総収入 - 50万円）÷ 2",
+      "descriptionSimple": "超えた分の半分だけ年金が減る仕組み",
+      "descriptionStandard": "超過分の半額が厚生年金から減額される",
+      "badge": "半分カット",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "国民年金（基礎年金）のあつかい",
+      "labelStandard": "老齢基礎年金",
+      "value": "全額支給",
+      "unit": "（減額なし）",
+      "oldValue": "どれだけ給料が高くても満額",
+      "descriptionSimple": "国民年金は1円も減らされません！",
+      "descriptionStandard": "カット対象は老齢厚生年金（報酬比例部分のみ）",
+      "badge": "100%支給",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "制度のこれからの動き",
+      "labelStandard": "制度見直しの議論動向",
+      "value": "62万円案",
+      "unit": "や撤廃検討",
+      "oldValue": "シニアの就労意欲阻害が問題視",
+      "descriptionSimple": "もっと働きやすくするルール改正を議論中",
+      "descriptionStandard": "人手不足に対応した基準引上げや廃止の審議",
+      "badge": "改正審議中",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Clock"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "65歳以上を積極採用する企業経営者",
+        "commentSimple": "「基準が50万円に引き上げられたことで、シニア社員が制限なく働いてくれて助かる」",
+        "commentStandard": "「豊かな経験を持つベテラン層にフルタイムで活躍してもらいやすくなった」"
+      },
+      {
+        "speaker": "フルタイムで働くシニア社員",
+        "commentSimple": "「月給35万＋年金15万でも合計50万以内なら年金が削られず、手取りがしっかり残る！」",
+        "commentStandard": "「以前の低基準（28万円等）に比べて、働いた分がきちんと収入になる実感がある」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "月収の高いシニア専門職・役員",
+        "commentSimple": "「一生懸命保険料を払ってきたのに、働いているというだけで年金を切られるのは納得いかない」",
+        "commentStandard": "「若手不足の中でシニアが高収入を得ると年金が半分カットされ、働く意欲が削がれる」"
+      },
+      {
+        "speaker": "制度撤廃を議論する労働政策の専門家",
+        "commentSimple": "「基準額をもっと上げるか完全撤廃しないと、シニアの働き控えは根本解決しない」",
+        "commentStandard": "「少子高齢化の中でシニアの労働参加を促すには、在職老齢年金そのものの廃止が必要」"
+      }
+    ]
+  }
 }

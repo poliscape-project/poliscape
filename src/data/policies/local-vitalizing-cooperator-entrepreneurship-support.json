@@ -165,5 +165,51 @@
       "text": "事業承継型の隊員募集を強化",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "全国の隊員数目標",
+      "labelStandard": "全国の隊員数目標",
+      "value": "隊員数1万人体制へ拡大",
+      "unit": "",
+      "oldValue": "これまで: 創設当初は数百人規模、近年は年約6,000〜7,000人前後",
+      "description": "政府目標として現役隊員数「1万人」の早期達成を推進",
+      "badge": "隊員数1万人体制へ拡大",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "起業支援金の支給額",
+      "labelStandard": "起業支援金の支給額",
+      "value": "起業支援金最大100万円",
+      "unit": "",
+      "oldValue": "これまで: 任期終了後の活動費や初期投資は個人の貯金に頼るケースが多かった",
+      "description": "任期最終年または終了翌年の起業・事業承継に対し最大100万円を補助",
+      "badge": "起業支援金最大100万円",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "事業承継（後継者不足）型",
+      "labelStandard": "事業承継（後継者不足）型",
+      "value": "事業承継型の隊員募集を強化",
+      "unit": "",
+      "oldValue": "これまで: イベント手伝いや観光案内などの曖昧な業務で任期終了後に失職",
+      "description": "伝統工芸や老舗商店、農業の「事業承継型」募集を重点支援",
+      "badge": "事業承継型の隊員募集を強化",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Briefcase"
+    },
+    {
+      "labelSimple": "任期終了後の定住率目標",
+      "labelStandard": "任期終了後の定住率目標",
+      "value": "定住率7割超へ伴走支援",
+      "unit": "",
+      "oldValue": "これまで: 受入側の放置や人間関係の軋轢で約4割が任期後に都市部へ帰還",
+      "description": "メンター配置や中間支援組織の伴走により定住率7割超を目指す",
+      "badge": "定住率7割超へ伴走支援",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "HeartHandshake"
+    }
   ]
 }

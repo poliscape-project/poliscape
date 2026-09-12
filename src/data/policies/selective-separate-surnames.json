@@ -171,5 +171,81 @@
       "text": "経団連が早期法改正要望",
       "color": "bg-amber-50 text-amber-900"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "選べる名字のルール",
+      "labelStandard": "選択制の仕組み",
+      "value": "同姓・別姓",
+      "unit": "どちらも自由",
+      "oldValue": "民法750条で夫婦どちらかの姓に強制統一",
+      "descriptionSimple": "同じ名字にしたい人はそのまま、別々も選べる",
+      "descriptionStandard": "同姓を強制せず、希望するカップルのみ別姓を選択可能",
+      "badge": "自由選択",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "名義変更の手間",
+      "labelStandard": "改姓手続きのコスト",
+      "value": "ゼロ",
+      "unit": "（別姓選択時）",
+      "oldValue": "免許・銀行口座・パスポート等数十箇所の変更",
+      "descriptionSimple": "結婚しても名前を変えなければ手続きゼロ！",
+      "descriptionStandard": "改姓に伴う各種名義変更の手間・費用・キャリア断絶ゼロ",
+      "badge": "手続きゼロ",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "子どもの名字",
+      "labelStandard": "子どもの姓の決定方法",
+      "value": "結婚時に決定",
+      "unit": "（兄弟同姓）",
+      "oldValue": "両親と同姓",
+      "descriptionSimple": "結婚するときに子どもの名字をあらかじめ決める",
+      "descriptionStandard": "法制審議会答申案では婚姻時に子どもの姓を統一決定",
+      "badge": "事前統一",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Baby"
+    },
+    {
+      "labelSimple": "経済界・企業の要望",
+      "labelStandard": "経団連の提言",
+      "value": "早期実現",
+      "unit": "要望書提出",
+      "oldValue": "通称使用の拡大で対応",
+      "descriptionSimple": "会社でもトラブルが多いので早く変えてほしい要望",
+      "descriptionStandard": "ビジネス上の不都合・海外渡航トラブル解消を経済界が要望",
+      "badge": "経済界推進",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Briefcase"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "キャリアを築いた女性・専門職",
+        "commentSimple": "「結婚しても生まれ持った名前のまま仕事ができて、銀行や免許の面倒な変更もいらなくて助かる！」",
+        "commentStandard": "「研究論文や信用実績、資格名義を途切れさせることなく、改姓に伴う膨大な手続き負担からも解放される」"
+      },
+      {
+        "speaker": "経団連・企業人事担当者",
+        "commentSimple": "「旧姓の通称使用で海外出張や海外取引でトラブルになるのを根本から解決できる！」",
+        "commentStandard": "「職場での通称使用と戸籍名の二重管理コストを解消し、グローバル取引での本人確認トラブルを防げる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "伝統的家族観を重視する市民",
+        "commentSimple": "「家族みんなで同じ名字を名乗るからこそ、家族の一体感や日本の良き伝統が守られると思う」",
+        "commentStandard": "「夫婦で姓が異なることで家族の一体感が損なわれ、親子関係や社会の絆に悪影響が出ないか心配」"
+      },
+      {
+        "speaker": "子どもの立場を心配する親世代",
+        "commentSimple": "「両親の名字が違うと、学校の連絡網や地域で子どもが説明を求められて困らないか心配」",
+        "commentStandard": "「学校や地域社会で親子の名字が異なる場合の偏見や、子どもの姓の選択を巡る家庭内の対立が懸念される」"
+      }
+    ]
+  }
 }

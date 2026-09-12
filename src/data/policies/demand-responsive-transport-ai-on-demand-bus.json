@@ -159,5 +159,51 @@
       "text": "空白地域の足確保",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "乗り物の呼び方",
+      "labelStandard": "AIオンデマンド配車方式",
+      "value": "リアルタイム",
+      "unit": "最適ルート生成",
+      "oldValue": "これまで 定時定路線のガラガラ運行",
+      "description": "スマホや電話予約に応じてAIが経路を即時算出",
+      "badge": "AI最適化",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "お迎えまでの時間",
+      "labelStandard": "平均待ち時間の短縮",
+      "value": "10〜15",
+      "unit": "分で乗車可能",
+      "oldValue": "これまで 数時間に1本しかバスが来ず不便",
+      "description": "乗り合い運行で効率的に近隣移動をカバー",
+      "badge": "待ち時間短縮",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "1回の利用料金",
+      "labelStandard": "運賃水準の目安",
+      "value": "300〜500",
+      "unit": "円（バス並み運賃）",
+      "oldValue": "これまで タクシーだと片道数千円の出費",
+      "description": "自治体補助と効率運行で低廉な運賃を実現",
+      "badge": "手頃な運賃",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "導入している街",
+      "labelStandard": "全国の導入自治体数",
+      "value": "数百都市",
+      "unit": "へ全国展開中",
+      "oldValue": "これまで 一部モデル地区での実証実験止まり",
+      "description": "過疎地から住宅街までラストワンマイルを解消",
+      "badge": "全国普及",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "MapPin"
+    }
   ]
 }

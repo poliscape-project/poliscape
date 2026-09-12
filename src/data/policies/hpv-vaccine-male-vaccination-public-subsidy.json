@@ -133,5 +133,51 @@
       "text": "集団免疫構築",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "男の子の接種費用",
+      "labelStandard": "自治体公費助成",
+      "value": "全額無料",
+      "unit": "（助成地域）",
+      "oldValue": "自費 3回で約5万〜10万円負担",
+      "description": "東京都など主要自治体が無償化開始",
+      "badge": "公費全額補助",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "男性のがん予防",
+      "labelStandard": "予防できる男性がん",
+      "value": "中咽頭等",
+      "unit": "がん・尖圭コンジローマ",
+      "oldValue": "これまで 子宮頸がん予防と誤解",
+      "description": "難治性の男性中咽頭がんを根本予防",
+      "badge": "男性がん予防",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "社会全体での効果",
+      "labelStandard": "集団免疫とウイルス排除",
+      "value": "男女接種",
+      "unit": "で感染連鎖遮断",
+      "oldValue": "女性のみ 感染源が残存する構造",
+      "description": "豪州等の先行国で子宮頸がん激減",
+      "badge": "集団免疫",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "labelSimple": "接種の対象年齢",
+      "labelStandard": "公費助成の対象学年",
+      "value": "小6〜高1",
+      "unit": "相当の男子",
+      "oldValue": "これまで 女性のみ定期接種対象",
+      "description": "国の定期接種化に向け厚労省審議中",
+      "badge": "対象学年",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Users"
+    }
   ]
 }

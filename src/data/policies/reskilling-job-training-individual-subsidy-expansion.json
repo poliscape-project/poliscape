@@ -139,5 +139,51 @@
       "text": "個人直接給付",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "国の学び直し予算",
+      "labelStandard": "「人への投資」予算",
+      "value": "1兆",
+      "unit": "円（5年間枠）",
+      "oldValue": "これまで 企業経由の助成が中心",
+      "description": "成長産業への労働移動を集中支援",
+      "badge": "1兆円規模",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "受講費の国からの補助",
+      "labelStandard": "教育訓練給付上限率",
+      "value": "最大80",
+      "unit": "%（拡充施行）",
+      "oldValue": "これまで 最大70％補助",
+      "description": "賃金アップや転職成功で追加給付",
+      "badge": "最大80％給付",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "GraduationCap"
+    },
+    {
+      "labelSimple": "支援の申請方法",
+      "labelStandard": "個人直接給付シフト",
+      "value": "個人直接",
+      "unit": "で受給可能",
+      "oldValue": "これまで 会社の命令・経由が必要",
+      "description": "会社に頼らず自発的に受講選択",
+      "badge": "主体的な学び",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "UserCheck"
+    },
+    {
+      "labelSimple": "転職・昇給サポート",
+      "labelStandard": "キャリアコンサル",
+      "value": "無料",
+      "unit": "伴走支援セット",
+      "oldValue": "これまで 受講後の放置・孤立",
+      "description": "相談から転職マッチングまで一体化",
+      "badge": "伴走支援",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Briefcase"
+    }
   ]
 }

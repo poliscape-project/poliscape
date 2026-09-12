@@ -133,5 +133,51 @@
       "text": "通信の秘密と相克",
       "color": "bg-rose-50 text-rose-700 border-rose-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "先手を打つサイバー防御",
+      "labelStandard": "能動的サイバー防御（ACD）",
+      "value": "先制",
+      "unit": "アクセス・無害化",
+      "oldValue": "攻撃を受けて被害が出るまで手が出せない",
+      "description": "攻撃準備段階で敵サーバーを遮断",
+      "badge": "先制防御合法化",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "守るべき大切なインフラ",
+      "labelStandard": "重要インフラ対象分野",
+      "value": "14",
+      "unit": "分野（電力・通信・鉄道等）",
+      "oldValue": "民間インフラへの攻撃に国家が介入困難",
+      "description": "大規模停電や病院機能停止を未然防止",
+      "badge": "重要インフラ防衛",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "憲法との大きな論点",
+      "labelStandard": "憲法21条「通信の秘密」",
+      "value": "法規範",
+      "unit": "との整合性が課題",
+      "oldValue": "通信ログの令状なし常時監視は厳格禁止",
+      "description": "一般市民への監視社会化を厳格排除",
+      "badge": "通信の秘密と相克",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "新しい国の司令塔組織",
+      "labelStandard": "国家サイバー統合組織",
+      "value": "新設",
+      "unit": "（内閣官房に創設）",
+      "oldValue": "NISC、警察、防衛省がバラバラに対応",
+      "description": "官民のエキスパートを結集し即応",
+      "badge": "国家司令塔創設",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Cpu"
+    }
   ]
 }

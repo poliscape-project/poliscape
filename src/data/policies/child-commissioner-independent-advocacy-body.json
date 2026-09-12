@@ -139,5 +139,51 @@
       "text": "子どもが直接SOS申立",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "機関の独立性",
+      "labelStandard": "機関の独立性",
+      "value": "政府・学校",
+      "unit": "から完全独立（3条機関）",
+      "oldValue": "文科省・教育委員会内部で処理",
+      "description": "いじめ隠蔽を許さない子どもの味方組織",
+      "badge": "完全独立機関",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "強制調査・勧告権限",
+      "labelStandard": "強制調査・勧告権限",
+      "value": "学校立入",
+      "unit": "・書類提出命令",
+      "oldValue": "学校が「調査中」として情報非公開",
+      "description": "被害児童のSOSを受けて即座に強制介入",
+      "badge": "強制立入調査権",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "子どもの直接申立",
+      "labelStandard": "子どもの直接申立",
+      "value": "LINE・SNS",
+      "unit": "で直接相談可能",
+      "oldValue": "親や弁護士を通さないと訴えられない",
+      "description": "虐待毒親や学校の目を盗んで逃げ込める",
+      "badge": "スマホからSOS",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "学校現場の懸念",
+      "labelStandard": "学校現場の懸念",
+      "value": "指導萎縮",
+      "unit": "・クレーマー激化の不安",
+      "oldValue": "教員の指導権が守られていた",
+      "description": "注意した生徒から逆恨み通報される恐怖",
+      "badge": "学級崩壊の心配",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "AlertTriangle"
+    }
   ]
 }

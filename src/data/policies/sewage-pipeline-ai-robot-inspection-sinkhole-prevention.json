@@ -179,5 +179,51 @@
       "text": "道路を掘らない管更生工法の主流化",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "下水管の点検・調査手法",
+      "labelStandard": "下水管の点検・調査手法",
+      "value": "AI自律ロボットによる自動診断",
+      "unit": "",
+      "oldValue": "これまで: 作業員による目視潜入調査や有線テレビカメラの手動操作が中心",
+      "description": "小型自律走行ロボットやドローン、AIによるクラック自動画像検出の活用",
+      "badge": "AI自律ロボットによる自動診断",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "維持管理の基本方針",
+      "labelStandard": "維持管理の基本方針",
+      "value": "事前リスク予測による予防保全",
+      "unit": "",
+      "oldValue": "これまで: 道路陥没や詰まりが発生した後に緊急補修する「事後保全」",
+      "description": "ビッグデータとAIリスク予測に基づく「予防保全型・ストックマネジメント」",
+      "badge": "事前リスク予測による予防保全",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "管路の修繕・更新工法",
+      "labelStandard": "管路の修繕・更新工法",
+      "value": "道路を掘らない管更生工法の主流化",
+      "unit": "",
+      "oldValue": "これまで: 道路を大規模に掘り返して管を入れ替える開削工事が主流",
+      "description": "マンホールから特殊樹脂を送り込んで内壁を新管同様に固める「管更生工法」の推進",
+      "badge": "道路を掘らない管更生工法の主流化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Wrench"
+    },
+    {
+      "labelSimple": "自治体への財政・広域化支援",
+      "labelStandard": "自治体への財政・広域化支援",
+      "value": "国の交付金補助と広域共同管理",
+      "unit": "",
+      "oldValue": "これまで: 自治体ごとの単独事業で財源や技術者が不足",
+      "description": "国交省の防災・安全交付金による手厚い補助と、複数自治体による広域共同点検を支援",
+      "badge": "国の交付金補助と広域共同管理",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Building"
+    }
   ]
 }

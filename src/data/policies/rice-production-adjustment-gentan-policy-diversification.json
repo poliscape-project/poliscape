@@ -171,5 +171,51 @@
       "text": "エサ米から高付加価値な輸出用米への補助シフト",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "主食用米の生産目標方針",
+      "labelStandard": "主食用米の生産目標方針",
+      "value": "不作リスクに対応した主食用米の安定供給方針",
+      "unit": "",
+      "oldValue": "これまで: 国内需要減少（年10万トン減）に合わせて毎年作付面積を縮小抑制",
+      "description": "気候変動による不作リスクを織り込んだ余裕ある適正増産・戦略的供給へ転換",
+      "badge": "不作リスクに対応した主食用米の安定供給方針",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "水田活用直接支払交付金の要件",
+      "labelStandard": "水田活用直接支払交付金の要件",
+      "value": "5年水張り要件の柔軟化と交付金ルールの再検討",
+      "unit": "",
+      "oldValue": "これまで: 5年間に1回も水張り（稲作）を行わない水田への交付金を原則打ち切り",
+      "description": "地域の実情に応じた柔軟な運用と、畑地化促進と水田維持のバランス再調整",
+      "badge": "5年水張り要件の柔軟化と交付金ルールの再検討",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "輸出専用米への転換助成",
+      "labelStandard": "輸出専用米への転換助成",
+      "value": "エサ米から高付加価値な輸出用米への補助シフト",
+      "unit": "",
+      "oldValue": "これまで: 国内で消費されない分は飼料用米（エサ米）として安価に処分し多額の赤字補填",
+      "description": "海外で高値で売れる輸出用主食用米の契約栽培に対し手厚い助成金を重点化",
+      "badge": "エサ米から高付加価値な輸出用米への補助シフト",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "CheckCircle2"
+    },
+    {
+      "labelSimple": "高温耐性品種への転換支援",
+      "labelStandard": "高温耐性品種への転換支援",
+      "value": "地球温暖化対応・高温耐性品種への全面移行支援",
+      "unit": "",
+      "oldValue": "これまで: コシヒカリ等の猛暑に弱い従来品種への依存で白濁米・等級低下が続出",
+      "description": "猛暑でも品質が落ちない高温耐性新品種（にじのきらめき等）への種子切替補助",
+      "badge": "地球温暖化対応・高温耐性品種への全面移行支援",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldAlert"
+    }
   ]
 }

@@ -179,5 +179,51 @@
       "text": "ながらスマホ・酒気帯びの即時厳罰化",
       "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "ヘルメットの着用義務",
+      "labelStandard": "ヘルメットの着用義務",
+      "value": "全年齢でのヘルメット着用努力義務化",
+      "unit": "",
+      "oldValue": "これまで: 保護者が13歳未満の子どもにかぶらせる努力義務のみ",
+      "description": "年齢を問わず自転車を運転するすべての国民に着用努力義務を拡大（道交法改正）",
+      "badge": "全年齢でのヘルメット着用努力義務化",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "自転車違反への取締り（青切符）",
+      "labelStandard": "自転車違反への取締り（青切符）",
+      "value": "自転車への青切符（反則金制度）新設",
+      "unit": "",
+      "oldValue": "これまで: 悪質違反は「赤切符（刑事前科）」となり起訴猶予で実質お咎めなしが多かった",
+      "description": "16歳以上の信号無視・逆走・一時不停止等に「青切符」を交付し反則金（5,000〜12,000円）を徴収",
+      "badge": "自転車への青切符（反則金制度）新設",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "ながらスマホ・酒気帯び運転",
+      "labelStandard": "ながらスマホ・酒気帯び運転",
+      "value": "ながらスマホ・酒気帯びの即時厳罰化",
+      "unit": "",
+      "oldValue": "これまで: 事故を起こさない限り取り締まりが極めて緩かった",
+      "description": "スマホ画面注視に6月以下の懲役または10万円以下の罰金、酒気帯びに3年以下の懲役新設",
+      "badge": "ながらスマホ・酒気帯びの即時厳罰化",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Smartphone"
+    },
+    {
+      "labelSimple": "ヘルメット購入補助",
+      "labelStandard": "ヘルメット購入補助",
+      "value": "自治体によるヘルメット購入費補助拡充",
+      "unit": "",
+      "oldValue": "これまで: 全額自己負担で購入",
+      "description": "自治体がSGマーク等安全基準を満たすヘルメット購入に2,000円〜数千円の補助金を支給",
+      "badge": "自治体によるヘルメット購入費補助拡充",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Coins"
+    }
   ]
 }

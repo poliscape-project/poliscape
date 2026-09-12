@@ -139,5 +139,51 @@
       "text": "OECD第2の柱適用",
       "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "世界の共通最低税率",
+      "labelStandard": "グローバル最低法人税率",
+      "value": "15",
+      "unit": "%（OECD国際合意第2の柱）",
+      "oldValue": "タックスヘイブンで実効税率0〜5%",
+      "description": "多国籍企業の過度な租税回避を世界で封殺",
+      "badge": "世界共通15%",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Globe"
+    },
+    {
+      "labelSimple": "対象となる巨大企業の規模",
+      "labelStandard": "対象多国籍グループの売上基準",
+      "value": "約1,200",
+      "unit": "億円以上（7.5億ユーロ）",
+      "oldValue": "これまで 国ごとのバラバラな税務基準",
+      "description": "世界展開する巨大コングロマリットが対象",
+      "badge": "超巨大企業対象",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "足りない税金の徴収",
+      "labelStandard": "親会社国での差額合算課税",
+      "value": "差額",
+      "unit": "を日本政府が上乗せ徴収",
+      "oldValue": "海外子会社での税逃れを課税できず",
+      "description": "15%に満たない分を親会社側で課税",
+      "badge": "所得合算ルール",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "日本の法律が始まった日",
+      "labelStandard": "日本国内の適用開始時期",
+      "value": "2024",
+      "unit": "年4月開始事業年度から",
+      "oldValue": "これまで 法人税法上の明文規定なし",
+      "description": "主要国と足並みを揃えて厳格運用中",
+      "badge": "制度本格始動",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Calendar"
+    }
   ]
 }

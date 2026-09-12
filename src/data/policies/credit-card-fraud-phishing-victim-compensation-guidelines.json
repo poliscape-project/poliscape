@@ -140,5 +140,51 @@
       "text": "EMV-3Dセキュア完全義務化",
       "color": "bg-emerald-50 text-emerald-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "年間の被害額",
+      "labelStandard": "クレカ不正利用の年間被害総額",
+      "value": "年約540",
+      "unit": "億円（過去最悪）",
+      "oldValue": "これまで 年間数百億円規模",
+      "description": "偽サイトに番号やパスワードを入力させられる被害急増",
+      "badge": "過去最悪被害",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "お金は戻るか",
+      "labelStandard": "フィッシング詐欺被害の補償基準",
+      "value": "原則補償",
+      "unit": "カード会社責任強化",
+      "oldValue": "これまで パスワード入力は自己責任で拒否",
+      "description": "巧妙な偽サイト被害はカード会社が原則全額補償へ",
+      "badge": "原則全額補償",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "本人確認の義務",
+      "labelStandard": "ネット通販のEMV-3Dセキュア導入",
+      "value": "完全義務化",
+      "unit": "全ネット加盟店",
+      "oldValue": "これまで 導入は店舗の任意",
+      "description": "ワンタイムパスとリスク分析で不正決済を強制ブロック",
+      "badge": "本人認証必須",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "FileCheck"
+    },
+    {
+      "labelSimple": "カード会員への影響",
+      "labelStandard": "補償コスト転嫁とポイント改悪",
+      "value": "ポイント減",
+      "unit": "年会費値上げ懸念",
+      "oldValue": "これまで カード会社が免責で損失回避",
+      "description": "補償負担が大きくなり一般会員の還元率が下がる恐れ",
+      "badge": "コスト転嫁",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Coins"
+    }
   ]
 }

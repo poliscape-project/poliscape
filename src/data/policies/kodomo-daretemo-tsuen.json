@@ -171,5 +171,81 @@
       "text": "1時間約300円",
       "color": "bg-emerald-50 text-emerald-800"
     }
-  ]
+  ],
+  "highlights": [
+    {
+      "labelSimple": "親のお仕事の条件",
+      "labelStandard": "就労要件の有無",
+      "value": "就労不要",
+      "unit": "（専業主婦等も対象）",
+      "oldValue": "これまで 就労証明書が必須だった",
+      "descriptionSimple": "働いていなくても誰でも利用可能に！",
+      "descriptionStandard": "すべての未就園児（0〜2歳児）を対象化",
+      "badge": "就労要件なし",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Sparkles"
+    },
+    {
+      "labelSimple": "預けられる時間",
+      "labelStandard": "利用可能時間（上限）",
+      "value": "月 10",
+      "unit": "時間/人",
+      "oldValue": "一時預かりの空き枠のみ（予約難）",
+      "descriptionSimple": "毎月一定時間の枠がもらえる！",
+      "descriptionStandard": "国が月10時間の利用枠を制度として創設",
+      "badge": "月10時間枠",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Clock"
+    },
+    {
+      "labelSimple": "1時間の利用代金",
+      "labelStandard": "利用者負担額（目安）",
+      "value": "1時間 約300",
+      "unit": "円",
+      "oldValue": "民間一時預かり 1時間1,200円以上",
+      "descriptionSimple": "公的な安い値段で気軽に使える！",
+      "descriptionStandard": "低所得世帯・非課税世帯は無償・減免措置あり",
+      "badge": "公的低料金",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Wallet"
+    },
+    {
+      "labelSimple": "いつから使える？",
+      "labelStandard": "全国本格施行時期",
+      "value": "2026年4月",
+      "unit": "本格スタート",
+      "oldValue": "2024〜2025年度 試行的事業",
+      "descriptionSimple": "日本全国の保育園で使えるように！",
+      "descriptionStandard": "改正子ども・子育て支援法に基づき本格導入",
+      "badge": "本格施行",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Baby"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "0歳児を育てる専業主婦",
+        "commentSimple": "「赤ちゃんと2人きりで息が詰まりそうだったから、少しでも預けて休めるのは本当に救い！」",
+        "commentStandard": "「ワンオペ育児で孤立していたが、通院や休息の時間を確保でき産後うつの不安が軽くなった」"
+      },
+      {
+        "speaker": "保育・発達心理専門家",
+        "commentSimple": "「おうちではできないお友達との遊びを通じて、赤ちゃんの言葉や社会性がぐんぐん育つよ」",
+        "commentStandard": "「専門職である保育士との定期的な関わりにより、未就園児の発達課題を早期に発見・支援できる」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "認可保育所の保育士",
+        "commentSimple": "「ただでさえ人手不足なのに、毎日違う赤ちゃんを短時間預かるのは事故やアレルギーがとても怖い」",
+        "commentStandard": "「慣らし保育が不十分な乳幼児の出入りが激増し、安全管理と事務負担が現場の限界を超えている」"
+      },
+      {
+        "speaker": "パート就労を考える親",
+        "commentSimple": "「月10時間だけだと2回預けたら終わっちゃうから、お仕事や面接には全然足りないよ」",
+        "commentStandard": "「本格的な就労やリスキリングには利用枠が少なすぎ、月30時間以上への拡充を望む」"
+      }
+    ]
+  }
 }

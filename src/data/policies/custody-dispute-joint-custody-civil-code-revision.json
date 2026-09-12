@@ -179,5 +179,51 @@
       "text": "日常決定は単独可・重要事項は共同",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "離婚後の親権の形態",
+      "labelStandard": "離婚後の親権の形態",
+      "value": "共同親権・単独親権の選択制導入",
+      "unit": "",
+      "oldValue": "これまで: 民法819条により父母のどちらか一方のみに親権を付与（単独親権の強制）",
+      "description": "父母の協議により「共同親権」または「単独親権」を選択可能に（法改正）",
+      "badge": "共同親権・単独親権の選択制導入",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Users"
+    },
+    {
+      "labelSimple": "DV・児童虐待事案の扱い",
+      "labelStandard": "DV・児童虐待事案の扱い",
+      "value": "DV・虐待時は単独親権を義務付け",
+      "unit": "",
+      "oldValue": "これまで: 特段の除外規定はなく調停や裁判官の裁量に委ねられていた",
+      "description": "DVや虐待のおそれがあると認める場合、家庭裁判所は必ず「単独親権」と定めなければならない",
+      "badge": "DV・虐待時は単独親権を義務付け",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "子どもの日常決定権と重要事項決定",
+      "labelStandard": "子どもの日常決定権と重要事項決定",
+      "value": "日常決定は単独可・重要事項は共同",
+      "unit": "",
+      "oldValue": "これまで: 親権者がすべての決定権を一括して保持",
+      "description": "日々の監護・急迫の事情は同居親が単独決定。進学・転居等の重要事項のみ共同決定",
+      "badge": "日常決定は単独可・重要事項は共同",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "養育費の支払い確保（法定養育費）",
+      "labelStandard": "養育費の支払い確保（法定養育費）",
+      "value": "法定養育費と差押え優先権の新設",
+      "unit": "",
+      "oldValue": "これまで: 事前の取り決めがないと不払いが放置され、回収手続きが極めて困難",
+      "description": "取り決めがなくても最低限の請求ができる「法定養育費」と先取特権（財産差押えの優先権）を創設",
+      "badge": "法定養育費と差押え優先権の新設",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "DollarSign"
+    }
   ]
 }

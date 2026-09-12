@@ -171,5 +171,51 @@
       "text": "南鳥島沖深海レアアース泥の自国採掘実証",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "有志国間の貿易枠組み",
+      "labelStandard": "有志国間の貿易枠組み",
+      "value": "日米重要鉱物協定の締結と輸出規制相互禁止",
+      "unit": "",
+      "oldValue": "これまで: 各国が個別に中国市場から調達し価格吊り上げや禁輸圧力に個別に対処",
+      "description": "日米・日欧で協定を締結し相互の輸出関税や不当な供給遮断を禁止",
+      "badge": "日米重要鉱物協定の締結と輸出規制相互禁止",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldAlert"
+    },
+    {
+      "labelSimple": "重要鉱物の国家・共同備蓄",
+      "labelStandard": "重要鉱物の国家・共同備蓄",
+      "value": "日米欧による重要鉱物多国間共同備蓄メカニズム",
+      "unit": "",
+      "oldValue": "これまで: 日本国内のJOGMEC備蓄（消費量の約60日分）のみで孤立した防衛",
+      "description": "G7・MSP（鉱物安全保障パートナーシップ）による同志国相互融通協定を策定",
+      "badge": "日米欧による重要鉱物多国間共同備蓄メカニズム",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "南鳥島深海底レアアース泥開発",
+      "labelStandard": "南鳥島深海底レアアース泥開発",
+      "value": "南鳥島沖深海レアアース泥の自国採掘実証",
+      "unit": "",
+      "oldValue": "これまで: 水深6000mからの大規模揚泥技術が未確立で基礎研究止まり",
+      "description": "地球深部探査船等を活用した世界初の大水深商業揚泥実証実験を推進",
+      "badge": "南鳥島沖深海レアアース泥の自国採掘実証",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "環境・労働基準と補助金連動",
+      "labelStandard": "環境・労働基準と補助金連動",
+      "value": "高水準ESG適合鉱物への税額控除連動",
+      "unit": "",
+      "oldValue": "これまで: 環境汚染や児童労働を伴う安価な海外鉱物が市場を席巻",
+      "description": "高い環境基準（ESG）と人権基準を満たした製錬鉱物にのみ税制優遇・補助金を付与",
+      "badge": "高水準ESG適合鉱物への税額控除連動",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "CheckCircle2"
+    }
   ]
 }

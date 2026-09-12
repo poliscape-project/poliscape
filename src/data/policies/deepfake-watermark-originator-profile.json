@@ -155,5 +155,55 @@
       "text": "AI生成物への電子透かし",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "日本発信OP",
+      "labelStandard": "発信者出自証明技術",
+      "value": "OP技術",
+      "unit": "標準化",
+      "oldValue": "アカウント名とURLだけの曖昧な確認",
+      "descriptionSimple": "ブラウザで発信者の信頼バッジを直接表示",
+      "descriptionStandard": "ブラウザで発信者の信頼バッジを直接表示",
+      "badge": "日本発信OP",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "電子透かし",
+      "labelStandard": "AI生成物の電子透かし",
+      "value": "透かし埋め込み",
+      "unit": "義務化検討",
+      "oldValue": "本物の映像かAIか見分けがつかない",
+      "descriptionSimple": "ウォーターマークによる改ざん・偽装防止",
+      "descriptionStandard": "ウォーターマークによる改ざん・偽装防止",
+      "badge": "電子透かし",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "Layers"
+    },
+    {
+      "labelSimple": "選挙防衛",
+      "labelStandard": "偽情報による選挙妨害対策",
+      "value": "即時削除",
+      "unit": "要請権限",
+      "oldValue": "削除要請手続きに数週間かかっていた",
+      "descriptionSimple": "投票日直前のディープフェイク拡散を遮断",
+      "descriptionStandard": "投票日直前のディープフェイク拡散を遮断",
+      "badge": "選挙防衛",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "メディア連合",
+      "labelStandard": "参画メディア・広告社数",
+      "value": "数十",
+      "unit": "社共同実証",
+      "oldValue": "各報道機関が個別にファクトチェック",
+      "descriptionSimple": "新聞・テレビ・ネット大手が技術組合を結成",
+      "descriptionStandard": "新聞・テレビ・ネット大手が技術組合を結成",
+      "badge": "メディア連合",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Building"
+    }
   ]
 }

@@ -155,5 +155,55 @@
       "text": "高層階ほど評価額引き上げ",
       "color": "bg-indigo-50 text-indigo-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "節税バブル",
+      "labelStandard": "従来の市場価格乖離率",
+      "value": "平均3.16",
+      "unit": "倍（最大十数倍）",
+      "oldValue": "1億円の部屋が相続税上2,000万円評価",
+      "descriptionSimple": "富裕層による極端なタワマン節税が横行",
+      "descriptionStandard": "富裕層による極端なタワマン節税が横行",
+      "badge": "節税バブル",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "2024年1月施行",
+      "labelStandard": "新基準の最低評価水準",
+      "value": "市場実勢の 6割",
+      "unit": "以上へ補正",
+      "oldValue": "固定資産税評価額の一律按分計算",
+      "descriptionSimple": "乖離率に応じた自動補正計算式を導入",
+      "descriptionStandard": "乖離率に応じた自動補正計算式を導入",
+      "badge": "2024年1月施行",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Scale"
+    },
+    {
+      "labelSimple": "階層別補正",
+      "labelStandard": "評価額の引き上げ影響",
+      "value": "高層階ほど",
+      "unit": "税負担増",
+      "oldValue": "同じ平米数なら2階も最上階も同評価",
+      "descriptionSimple": "眺望や階層の実勢プレミアムに適正課税",
+      "descriptionStandard": "眺望や階層の実勢プレミアムに適正課税",
+      "badge": "階層別補正",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "TrendingUp"
+    },
+    {
+      "labelSimple": "透明性確立",
+      "labelStandard": "対象となるマンション",
+      "value": "全国の区分",
+      "unit": "所有マンション",
+      "oldValue": "最高裁の個別否認（総則6項）頼み",
+      "descriptionSimple": "築年数や階数から客観的に自動算出",
+      "descriptionStandard": "築年数や階数から客観的に自動算出",
+      "badge": "透明性確立",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "ShieldCheck"
+    }
   ]
 }

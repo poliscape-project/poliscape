@@ -171,5 +171,51 @@
       "text": "中小企業向け助成拡充",
       "color": "bg-amber-50 text-amber-700 border-amber-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "企業規模要件の完全撤廃",
+      "labelStandard": "企業規模要件の完全撤廃",
+      "value": "企業規模要件の完全撤廃",
+      "unit": "",
+      "oldValue": "これまで: 従業員51人以上の企業のみが義務対象（小規模店は対象外）",
+      "description": "企業規模要件を全廃し、従業員数にかかわらず一律適用",
+      "badge": "企業規模要件の完全撤廃",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "年金・医療の保障拡充",
+      "labelStandard": "年金・医療の保障拡充",
+      "value": "年金・医療の保障拡充",
+      "unit": "",
+      "oldValue": "これまで: 中小・零細勤務の短時間労働者は国民年金・国保のみ",
+      "description": "労使折半で厚生年金に加入し将来の年金額が底上げ",
+      "badge": "年金・医療の保障拡充",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "中小企業向け助成拡充",
+      "labelStandard": "中小企業向け助成拡充",
+      "value": "中小企業向け助成拡充",
+      "unit": "",
+      "oldValue": "これまで: キャリアアップ助成金の時限的給付にとどまる",
+      "description": "事業主負担増に対応する給付金拡充と賃上げ税制の連動強化",
+      "badge": "中小企業向け助成拡充",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "Coins"
+    },
+    {
+      "labelSimple": "就業調整の解消後押し",
+      "labelStandard": "就業調整の解消後押し",
+      "value": "就業調整の解消後押し",
+      "unit": "",
+      "oldValue": "これまで: 106万円の壁を意識した労働時間の抑制が頻発",
+      "description": "制度的障壁を解消し希望に応じた柔軟なフルタイム化を推進",
+      "badge": "就業調整の解消後押し",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Users"
+    }
   ]
 }

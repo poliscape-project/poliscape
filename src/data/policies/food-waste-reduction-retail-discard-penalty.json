@@ -159,5 +159,51 @@
       "text": "フードバンク寄附税制",
       "color": "bg-teal-50 text-teal-700 border-teal-200"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "食べ残しや廃棄の削減",
+      "labelStandard": "食品ロス削減目標",
+      "value": "50",
+      "unit": "%半減（2030年度目標）",
+      "oldValue": "これまで 年間約470万トンの食品が廃棄処分",
+      "description": "事業系・家庭系の双方で発生量を半減",
+      "badge": "半減目標",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "TrendingDown"
+    },
+    {
+      "labelSimple": "お店の大量廃棄への対策",
+      "labelStandard": "小売・外食の定期報告義務",
+      "value": "発生抑制",
+      "unit": "の義務付け強化",
+      "oldValue": "これまで 恵方巻や惣菜の大量廃棄が問題化",
+      "description": "大手チェーンに見切り販売やリサイクルを義務化",
+      "badge": "廃棄削減義務",
+      "badgeColor": "bg-amber-100 text-amber-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "フードバンクへの寄附",
+      "labelStandard": "フードバンク寄附の免責税制",
+      "value": "免責・全額損金",
+      "unit": "算入で後押し",
+      "oldValue": "これまで 廃棄した方が税務上・責任上容易",
+      "description": "寄附食品の安全責任免責と税制上の優遇措置",
+      "badge": "寄附推進",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "HeartHandshake"
+    },
+    {
+      "labelSimple": "すぐ食べるなら手前から",
+      "labelStandard": "てまえどり国民運動の推進",
+      "value": "てまえどり",
+      "unit": "で期限切れ廃棄激減",
+      "oldValue": "これまで 奥の長い日付ばかり選ばれ手前が廃棄",
+      "description": "陳列棚の手前から取る購買行動の啓発",
+      "badge": "てまえどり",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Sparkles"
+    }
   ]
 }

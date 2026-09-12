@@ -155,5 +155,55 @@
       "text": "重要インフラ防衛司令部新設",
       "color": "bg-teal-50 text-teal-800"
     }
+  ],
+  "highlights": [
+    {
+      "labelSimple": "能動的防御",
+      "labelStandard": "先制対処（無害化）権限",
+      "value": "相手サーバー",
+      "unit": "へ侵入・無力化",
+      "oldValue": "不正アクセス禁止法により侵入は犯罪",
+      "descriptionSimple": "攻撃が着弾する前に海外拠点を先制停止",
+      "descriptionStandard": "攻撃が着弾する前に海外拠点を先制停止",
+      "badge": "能動的防御",
+      "badgeColor": "bg-indigo-100 text-indigo-800",
+      "icon": "ShieldCheck"
+    },
+    {
+      "labelSimple": "憲法21条論争",
+      "labelStandard": "通信の秘密との関係",
+      "value": "通信ログ",
+      "unit": "解析の例外容認",
+      "oldValue": "憲法21条によりプロバイダの政府提供は違法",
+      "descriptionSimple": "重要インフラ防衛のためトラフィック監視を解禁",
+      "descriptionStandard": "重要インフラ防衛のためトラフィック監視を解禁",
+      "badge": "憲法21条論争",
+      "badgeColor": "bg-rose-100 text-rose-800",
+      "icon": "AlertTriangle"
+    },
+    {
+      "labelSimple": "司令塔新設",
+      "labelStandard": "国家サイバー司令部",
+      "value": "専従新組織",
+      "unit": "を創設",
+      "oldValue": "内閣サイバーセキュリティセンター（NISC）",
+      "descriptionSimple": "警察・自衛隊・通信会社を統合指揮する司令塔",
+      "descriptionStandard": "警察・自衛隊・通信会社を統合指揮する司令塔",
+      "badge": "司令塔新設",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "Building"
+    },
+    {
+      "labelSimple": "インフラ防衛",
+      "labelStandard": "重要インフラ防護対象",
+      "value": "電力・鉄道・医療",
+      "unit": "など15分野",
+      "oldValue": "民間任せで脆弱性が放置されていた",
+      "descriptionSimple": "ウクライナ型の大規模インフラ麻痺を防止",
+      "descriptionStandard": "ウクライナ型の大規模インフラ麻痺を防止",
+      "badge": "インフラ防衛",
+      "badgeColor": "bg-amber-100 text-amber-900",
+      "icon": "Zap"
+    }
   ]
 }
