@@ -282,33 +282,44 @@ export default async function Image({ params }: Props) {
           <div style={{ display: "flex", gap: "14px", alignItems: "center" }}>
             <div
               style={{
+                display: "flex",
+                alignItems: "center",
                 background: "#ffffff",
-                borderRadius: "24px",
-                padding: "8px 24px",
-                color: theme.logoColor,
-                fontSize: "21px",
-                fontWeight: "900",
-                letterSpacing: "0.03em",
-                boxShadow: "0 4px 14px rgba(0,0,0,0.2)",
-                textShadow: "0 1px 3px rgba(0,0,0,0.4)",
+                borderRadius: "20px",
+                padding: "6px 22px",
+                boxShadow: "0 4px 12px rgba(0, 0, 0, 0.2)",
               }}
             >
-              {theme.label}
+              <span
+                style={{
+                  color: theme.logoColor,
+                  fontSize: "20px",
+                  fontWeight: "bold",
+                }}
+              >
+                {theme.label}
+              </span>
             </div>
             {statusLabel ? (
               <div
                 style={{
-                  background: "rgba(0, 0, 0, 0.25)",
-                  border: "1.5px solid rgba(255, 255, 255, 0.4)",
-                  borderRadius: "24px",
-                  padding: "8px 20px",
-                  color: "#ffffff",
-                  fontSize: "17px",
-                  fontWeight: "600",
-                  textShadow: "0 1px 3px rgba(0,0,0,0.4)",
+                  display: "flex",
+                  alignItems: "center",
+                  background: "rgba(0, 0, 0, 0.35)",
+                  border: "1.5px solid rgba(255, 255, 255, 0.5)",
+                  borderRadius: "20px",
+                  padding: "6px 18px",
                 }}
               >
-                {statusLabel}
+                <span
+                  style={{
+                    color: "#ffffff",
+                    fontSize: "16px",
+                    fontWeight: "bold",
+                  }}
+                >
+                  {statusLabel}
+                </span>
               </div>
             ) : null}
           </div>
