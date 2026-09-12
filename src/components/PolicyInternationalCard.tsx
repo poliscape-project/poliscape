@@ -72,18 +72,22 @@ export const PolicyInternationalCard: React.FC<PolicyInternationalCardProps> = (
 
               {/* 3大指標 */}
               <div className="space-y-2 mb-3.5 text-xs">
-                {/* 金額・水準 */}
-                <div className="flex items-start gap-2 bg-slate-50/60 p-2 rounded-lg">
-                  <Coins className="w-3.5 h-3.5 text-slate-500 mt-0.5 shrink-0" />
-                  <div className="flex-1 min-w-0">
-                    <span className="text-[11px] font-medium text-slate-500 block">
-                      {isSimpleMode ? "もらえるお金・ルール" : "給付額・水準"}
-                    </span>
-                    <span className="font-bold text-slate-900 leading-snug block">
-                      {item.amount}
-                    </span>
+                {/* 金額・水準 または 制度形態・運用状況 */}
+                {(item.statusOrLevel || item.amount) && (
+                  <div className="flex items-start gap-2 bg-slate-50/60 p-2 rounded-lg">
+                    <Coins className="w-3.5 h-3.5 text-slate-500 mt-0.5 shrink-0" />
+                    <div className="flex-1 min-w-0">
+                      <span className="text-[11px] font-medium text-slate-500 block">
+                        {item.statusOrLevel
+                          ? (isSimpleMode ? "制度の状況・ルール" : "法制化・運用の現状")
+                          : (isSimpleMode ? "もらえるお金・ルール" : "給付額・水準")}
+                      </span>
+                      <span className="font-bold text-slate-900 leading-snug block">
+                        {item.statusOrLevel || item.amount}
+                      </span>
+                    </div>
                   </div>
-                </div>
+                )}
 
                 {/* 年齢・要件 */}
                 {item.ageLimit && (
@@ -101,17 +105,19 @@ export const PolicyInternationalCard: React.FC<PolicyInternationalCardProps> = (
                 )}
 
                 {/* 所得制限・条件 */}
-                <div className="flex items-start gap-2 bg-slate-50/60 p-2 rounded-lg">
-                  <Scale className="w-3.5 h-3.5 text-slate-500 mt-0.5 shrink-0" />
-                  <div className="flex-1 min-w-0">
-                    <span className="text-[11px] font-medium text-slate-500 block">
-                      {isSimpleMode ? "親の給料の制限など" : "所得制限・参入条件"}
-                    </span>
-                    <span className="font-bold text-slate-800 leading-snug block">
-                      {item.incomeLimit}
-                    </span>
+                {item.incomeLimit && (
+                  <div className="flex items-start gap-2 bg-slate-50/60 p-2 rounded-lg">
+                    <Scale className="w-3.5 h-3.5 text-slate-500 mt-0.5 shrink-0" />
+                    <div className="flex-1 min-w-0">
+                      <span className="text-[11px] font-medium text-slate-500 block">
+                        {isSimpleMode ? "親の給料の制限など" : "所得制限・参入条件"}
+                      </span>
+                      <span className="font-bold text-slate-800 leading-snug block">
+                        {item.incomeLimit}
+                      </span>
+                    </div>
                   </div>
-                </div>
+                )}
               </div>
 
               {/* 日本との違い・設計思想の解説 */}

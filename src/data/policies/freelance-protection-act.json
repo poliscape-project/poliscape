@@ -135,5 +135,63 @@
       "type": "official_document",
       "typeLabel": "厚労省公式解説"
     }
-  ]
+  ],
+  "international": {
+    "title": "フリーランス・ギグワーカー保護ルールの国際比較",
+    "comparisonSummary": "フリーランスやプラットフォームワーカー（ギグワーカー）の増加に伴い、発注企業との情報格差や買いたたき、報酬未払い、労災や社会保障の欠如が世界的な政策課題となっています。日本は2024年11月に『フリーランス・事業者間取引適正化法』を施行し下請法を拡張するアプローチをとりましたが、米国ニューヨーク州では損害倍額請求を認める保護法が先行。EUでは一歩踏み込み、ギグワーカーを自営業者ではなく『労働者』と推定して最低賃金や有給休暇を保障する指令が成立するなど、雇用と自営業の線引きを巡って各国のアプローチが分かれています。",
+    "countries": [
+      {
+        "country": "アメリカ（ニューヨーク州・連邦）",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Freelance Isn't Free Act (FIFA法) / 連邦独立請負人規則",
+        "statusOrLevel": "NY州・全米複数州で施行、全米フリーランス保護法",
+        "keyFeature": "800ドル以上の取引について書面契約の締結を義務化。期日（原則30日以内）までの満額支払いを義務付け、未払いや不当な減額に対しては未払い額の2倍の賠償金（倍額賠償）と弁護士費用の支払いを企業に命じる強力な救済制度が特徴です。また連邦労働省（DOL）は、経済的実態から見て指揮命令下にある労働者の偽装個人事業主化を取り締まっています。",
+        "source": {
+          "organization": "ニューヨーク市消費者・労働者保護局 (DCWP) / NY州労働局",
+          "title": "Freelance Isn't Free Act: Worker Protections",
+          "url": "https://www.nyc.gov/site/dca/workers/workersrights/freelancer-workers.page"
+        }
+      },
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "Platform Work Directive (プラットフォーム労働指令)",
+        "statusOrLevel": "2024年欧州議会・理事会正式可決",
+        "keyFeature": "Uberや配達アプリなどのプラットフォーム事業者がアルゴリズムで仕事を割り振り評価している場合、そこで働く人を原則として自営業者ではなく『労働者（従業員）』と法的に推定（法的推定規定）。企業側が自営業であることを反証できない限り、最低賃金、労働時間規制、有給休暇、失業保険などの労働法上の手厚い保護が全面的に適用されます。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Platform Work Directive: Improving working conditions in platform work",
+          "url": "https://ec.europa.eu/social/main.jsp?catId=1572&langId=en"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Worker status (ワーカー身分) / 最高裁Uber判決",
+        "statusOrLevel": "雇用法上の三層区分（従業員・ワーカー・自営業者）",
+        "keyFeature": "イギリスには『Employee（従業員）』と『Self-employed（純粋な個人事業主）』の中間に『Worker（ワーカー）』という独自の中間身分が存在します。2021年の英最高裁によるUber運転手勝訴判決により、アプリで働くギグワーカーは『Worker』と認められ、国民最低賃金（NMW）の保障と有給休暇手当の受給権が法的に確定しました。",
+        "source": {
+          "organization": "英国政府 (GOV.UK)",
+          "title": "Employment status: Worker (GOV.UK)",
+          "url": "https://www.gov.uk/employment-status/worker"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Arbeitnehmerähnliche Personen (類似労働者) / 社会法典 (SGB VI)",
+        "statusOrLevel": "労働法・社会保障法上の手厚い保護",
+        "keyFeature": "特定の1社からの発注に売上の大半を依存している個人事業主を『労働者類似者』と定義。原則として公的年金保険（法定年金）への加入が法律で強制され、病気手当や集団的協約交渉の権利が認められます。名ばかり個人事業主（Scheinselbstständigkeit）に対しては厳しい行政監査と遡及課税が行われます。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS)",
+          "title": "Arbeitsrecht und Scheinselbstständigkeit",
+          "url": "https://www.bmas.de/DE/Arbeit/Arbeitsrecht/arbeitsrecht.html"
+        }
+      }
+    ]
+  }
 }

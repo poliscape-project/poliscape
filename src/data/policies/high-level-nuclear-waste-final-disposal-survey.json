@@ -205,5 +205,63 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "高レベル放射性廃棄物（核のごみ）地層処分場の国際比較",
+    "comparisonSummary": "原子力発電に伴って発生する使用済み核燃料・高レベル放射性廃棄物を、地下300m以上の安定した岩盤深層に10万年単位で閉じ込める『地層処分』は世界共通の基本方針です。しかし、候補地選定における住民合意と地質的安定性が最大の壁となっています。フィンランドとスウェーデンが自治体への拒否権付与と数十年にわたる徹底的な対話で合意を形成し世界に先駆けて処分場建設・稼働に到達した一方、アメリカは連邦政府主導の選定が地元の大猛反発で頓挫するなど、合意形成プロセスの成否が明暗を分かれています。",
+    "countries": [
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "Onkalo (オンカロ最終処分場 / Posiva社)",
+        "statusOrLevel": "世界初の実用処分場・2020年代半ば操業開始へ",
+        "keyFeature": "オルキルオト島の花崗岩盤地下約450mに建設された世界初の最終処分場『オンカロ』。原子力法に基づき、地元エウラヨキ自治体に『建設の絶対拒否権（Veto）』を付与した上で、数十年にわたり住民説明会と情報公開を徹底。税収・雇用創出のメリットや技術的信頼性が住民に受け入れられ、世界で唯一反対運動を克服して完成・実用化に至りました。",
+        "source": {
+          "organization": "フィンランド放射線・原子力安全機関 (STUK) / Posiva",
+          "title": "Disposal of spent nuclear fuel in Onkalo",
+          "url": "https://www.stuk.fi/en/web/en/disposal-of-spent-nuclear-fuel"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "Forsmark (フォルスマルク最終処分場 / SKB社)",
+        "statusOrLevel": "2022年政府建設承認・準備進行中",
+        "keyFeature": "複数の候補自治体（エストハンマル市とオスカシュハムン市）が誘致を競い合うという異例のプロセスを経てフォルスマルクに決定。処分事業者SKB社が独立した科学的評価を公開し、地元議会が圧倒的多数で受け入れを可決しました。銅製キャニスターとベントナイト粘土による二重三重の工学バリア（KBS-3方式）を採用しています。",
+        "source": {
+          "organization": "スウェーデン放射線安全局 (SSM)",
+          "title": "The Swedish Radiation Safety Authority: Spent nuclear fuel repository",
+          "url": "https://www.stralsakerhetsmyndigheten.se/en/areas/radioactive-waste/spent-nuclear-fuel/"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Nuclear Waste Policy Act / Yucca Mountain (計画停止)",
+        "statusOrLevel": "ネバダ州ヤッカマウンテン計画が政治的凍結",
+        "keyFeature": "1987年の連邦法改正でネバダ州ヤッカマウンテンを唯一の最終処分場候補地として特定。しかし、ネバダ州政府や地元住民の強い反対運動、オバマ政権による予算停止により計画が完全に頓挫。現在は原発敷地内の乾式キャスク等に一時保管され続け、合意に基づく新たな候補地選定（Consent-Based Siting）プロセスへ方針転換を余儀なくされています。",
+        "source": {
+          "organization": "アメリカ合衆国エネルギー省 (DOE)",
+          "title": "Consent-Based Siting Process for Spent Nuclear Fuel",
+          "url": "https://www.energy.gov/ne/consent-based-siting"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Cigéo (シジェオ深地層処分プロジェクト / Andra)",
+        "statusOrLevel": "ビュール（Bure）にて公益宣言（DUP）承認・建設申請中",
+        "keyFeature": "粘土層（泥岩盤）地下500mに設置するプロジェクト。1991年のバタイユ法に基づき、地層処分のほかにガラス固化体の再処理・分離変換や地上中間貯蔵の3方向から研究を重ね、2006年計画法でビュール地区を選定。『可逆性（処分開始後100年間は回収可能とする原則）』を法律で義務付けることで住民の心理的不安に配慮しています。",
+        "source": {
+          "organization": "フランス放射性廃棄物管理機関 (Andra)",
+          "title": "Cigéo: The deep geological disposal project",
+          "url": "https://www.andra.fr/cigeo"
+        }
+      }
+    ]
+  }
 }

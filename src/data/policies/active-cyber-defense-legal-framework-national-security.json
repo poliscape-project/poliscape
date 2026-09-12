@@ -179,5 +179,63 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Cpu"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国の能動的サイバー防御（ACD）と通信傍受・先制措置ルール",
+    "comparisonSummary": "サイバー攻撃の深刻化に対し、被害を受けてから対処する受動的防御から、重要インフラや敵対的サーバーへ先制的に潜入・無力化する『能動的サイバー防御（ACD: Active Cyber Defense）』へのシフトが主要国で進んでいます。米国や英国は軍・諜報機関と法執行機関が緊密に連携してボットネット解体やマルウェア強制駆除を実施。一方、ドイツは憲法（基本法）が定める通信の秘密やプライバシーの厳格な統制のもとで法的要件を定めており、日本の憲法21条論争の重要な比較軸となっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Defend Forward (前方防衛) / CISA・サイバー軍・FBI連携作戦",
+        "statusOrLevel": "国家サイバー戦略 (NCS) に基づく日常的執行",
+        "keyFeature": "『Defend Forward（前方防衛作戦）』戦略に基づき、米サイバー軍（USCYBERCOM）やFBIが海外の攻撃インフラに先制アクセスして悪性コードを無害化、ボットネットを司法命令のもとで強制テイクダウン（解体）します。国内民間通信への事前関与も、CISAの保護指令やインシデント報告法（CIRCIA）により官民一体の遮断作戦が法認されています。",
+        "source": {
+          "organization": "アメリカ合衆国サイバーセキュリティ庁 (CISA) / ホワイトハウス",
+          "title": "National Cybersecurity Strategy 2023",
+          "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-biden-harris-administration-announces-national-cybersecurity-strategy/"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Active Cyber Defence (ACD プログラム) / 国家サイバー部隊 (NCF)",
+        "statusOrLevel": "GCHQ / NCSCによる国家規模プログラム",
+        "keyFeature": "国家サイバーセキュリティセンター（NCSC）が官民の大規模トラフィックを分析し、悪意あるドメインのDNSブロックや詐欺サイトの自動テイクダウンを日次で数万件規模で実行。さらに軍と諜報機関が合同する国家サイバー部隊（NCF）が、敵対勢力の作戦能力を撹乱・無力化するオフェンシブサイバー活動を合法的枠組みで運用しています。",
+        "source": {
+          "organization": "英国国家サイバーセキュリティセンター (NCSC / GCHQ)",
+          "title": "Active Cyber Defence (ACD) Programme Overview",
+          "url": "https://www.ncsc.gov.uk/section/active-cyber-defence/introduction"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "BSI-Gesetz (連邦情報セキュリティ庁法) / 連邦憲法裁判所判例",
+        "statusOrLevel": "連邦法に基づく法執行・厳格な司法統制",
+        "keyFeature": "BSI（連邦情報セキュリティ庁）が通信事業者からのログ収集や攻撃パケットの分析を行いますが、連邦憲法裁判所が『ITシステムの機密性と完全性を保証する基本権』を認めているため、積極的な先制ハッキング（ハックバック等）には非常に慎重です。防御的テイクダウンや通信事業者への指示権限を中心に、基本法の枠内で司法令状を要する厳格な手続が定められています。",
+        "source": {
+          "organization": "ドイツ連邦情報セキュリティ庁 (BSI)",
+          "title": "BSI - Gesetz über das Bundesamt für Sicherheit in der Informationstechnik (BSIG)",
+          "url": "https://www.bsi.bund.de/DE/Das-BSI/Gesetzliche-Grundlagen/BSI-Gesetz/bsi-gesetz_node.html"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Security Legislation Amendment (Critical Infrastructure Protection) Act",
+        "statusOrLevel": "ASD (豪通信電子局) 緊急介入権限法",
+        "keyFeature": "重大なサイバー攻撃が発生した際、重要インフラ（エネルギー、通信、医療等）事業者に対して豪政府（ASD）がシステムに直接介入・操作して脅威を駆除できる『最後の手段としての支援介入権限（Step-in powers）』を法律で明文化しています。",
+        "source": {
+          "organization": "オーストラリア信号情報局 (ASD) / 内務省",
+          "title": "Cyber Security Strategy / Critical Infrastructure Act",
+          "url": "https://www.cyber.gov.au/"
+        }
+      }
+    ]
+  }
 }

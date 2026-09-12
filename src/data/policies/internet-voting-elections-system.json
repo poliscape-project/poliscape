@@ -127,5 +127,63 @@
       "type": "white_paper",
       "typeLabel": "国会調査レポート"
     }
-  ]
+  ],
+  "international": {
+    "title": "国政・公職選挙におけるインターネット投票（i-Voting）の国際比較",
+    "comparisonSummary": "選挙のインターネット投票は、投票率向上や在外有権者・障害者の利便性向上をもたらす反面、『買収・脅迫による秘密投票の侵害』や『サイバー攻撃・不正集計・システム監査の困難さ』が最大の技術的・憲法論的障壁となっています。電子政府の先駆者エストニアが全有権者を対象に国政選挙で過半数をネット投票化させる一方、スイスは導入と停止・再検証を繰り返しながら慎重に段階実験を行うなど、各国でセキュリティと利便性のバランスが模索されています。",
+    "countries": [
+      {
+        "country": "エストニア",
+        "countryCode": "EE",
+        "flag": "🇪🇪",
+        "systemName": "i-Voting (インターネット投票制度)",
+        "statusOrLevel": "2005年導入・国政選挙で50%超が利用",
+        "keyFeature": "世界で唯一、国政選挙・地方選挙・欧州議会選挙の全有権者にネット投票を恒常導入。国民IDカードやMobile-IDで本人認証を行い、期日前投票期間中に何度でも再投票可能（上書き可能）とすることで、『他人に強要されて投票させられても、後から自宅で秘密裏に上書きできる』仕組みにより秘密投票の原則を担保しています。紙の投票用紙を投票箱に入れた場合はネット投票が無効化されます。",
+        "source": {
+          "organization": "エストニア国家選挙管理委員会 (Valimised.ee)",
+          "title": "Internet voting in Estonia (E-voting)",
+          "url": "https://www.valimised.ee/en/internet-voting"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "Vote électronique (電子投票試験運用プログラム)",
+        "statusOrLevel": "一部カントン（州）および在外有権者限定で再開",
+        "keyFeature": "直接民主制（国民投票）が頻繁に行われるスイスでは、2000年代初頭からカントン単位でネット投票の実験を行っていましたが、2019年に暗号解読やセキュリティ上の脆弱性が専門家から指摘され全国で一時完全停止。その後、エンドツーエンドの暗号化検証可能性（ベリフィアビリティ）を備えた完全新システムを開発し、2023年からバーゼルやザンクトガレンなど限定地域で厳格な安全基準のもと再開されました。",
+        "source": {
+          "organization": "スイス連邦事務局 (Bundeskanzlei / Federal Chancellery)",
+          "title": "Vote électronique: Trials and Security Requirements",
+          "url": "https://www.bk.admin.ch/bk/en/home/politische-rechte/e-voting.html"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Vote par internet pour les Français établis hors de France",
+        "statusOrLevel": "在外フランス人議員選挙・領事選挙で運用",
+        "keyFeature": "国内の一般投票（大統領選や国民議会選）では厳格な秘密投票と改ざん防止のため紙の投票が鉄則とされていますが、広大な在外選挙区を持つフランス人（下院議員選の在外11選挙区）向けにはネット投票が認められています。サイバー攻撃リスクを理由に2017年は中止されたものの、セキュリティを強化して2022年・2024年の下院選挙で利用されました。",
+        "source": {
+          "organization": "フランス外務省 (Ministère de l'Europe et des Affaires étrangères)",
+          "title": "Modalités de vote - Élections législatives à l'étranger",
+          "url": "https://www.diplomatie.gouv.fr/fr/services-aux-francais/voter-a-l-etranger/modalites-de-vote/article/vote-par-internet"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "UOCAVA (軍人・在外有権者不在者投票) / 連邦政府ガイドライン",
+        "statusOrLevel": "一部州で軍人・障害者限定の電子提出を容認（一般有権者は不可）",
+        "keyFeature": "CISA（サイバーセキュリティ庁）やFBI、NIST（国立標準技術研究所）は『現時点の技術では、一般選挙のネット投票はサイバー攻撃や信頼失墜のリスクが高すぎる』と公式勧告を出しており、一般投票のネット化は一貫して禁止。ただしUOCAVA法に基づき、前線に展開する海外駐留米軍兵士や障害者に限り、メールや専用ポータルでのPDF送受信を認める州が存在します。",
+        "source": {
+          "organization": "米国連邦投票支援プログラム (FVAP.gov) / CISA",
+          "title": "Electronic Balloting Options for Overseas Citizens and Military",
+          "url": "https://www.fvap.gov/"
+        }
+      }
+    ]
+  }
 }

@@ -185,5 +185,63 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "巨大ITプラットフォーマーに対するスマホアプリ・決済規制の国際比較",
+    "comparisonSummary": "モバイルOS（iOS/Android）の複占と最大30%の手数料構造に対し、日米欧中韓で規制や司法判断が進展しています。欧州連合（EU）のデジタル市場法（DMA）が事前規制（ex-ante regulation）の先陣を切り、日本も2024年に同様の新法を成立させました。一方、米国では司法省や開発者による独禁法訴訟が中心であり、韓国は世界で初めてアプリ内決済の強制を法律で禁じるなど、各国のアプローチに特色があります。",
+    "countries": [
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "Digital Markets Act (デジタル市場法 / DMA)",
+        "statusOrLevel": "2024年3月全面適用（ゲートキーパー事前規制）",
+        "keyFeature": "巨大テック企業を『ゲートキーパー』に指定。他社製アプリストアの容認（サイドローディング）、外部決済誘導（アンチステアリング禁止）、自社サービスの優遇禁止を義務付け。違反した場合は全世界年間売上高の最大10%（再違反時は最大20%）という巨額の制裁金を科す強力な制度です。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "The Digital Markets Act: ensuring fair and open digital markets",
+          "url": "https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_en"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Sherman Act (独占禁止法訴訟) / Open App Markets Act 審議",
+        "statusOrLevel": "司法省 (DOJ) による提訴・Epic裁判司法命令",
+        "keyFeature": "事前包括規制法案は議会審議中ですが、司法主導で激震が走っています。Epic Games訴訟で裁判所がAppleの外部決済リンク禁止を独禁法違反と認定したほか、2024年3月には司法省と16州司法長官がAppleをスマートフォン市場の不法な独占維持で連邦地裁に提訴しました。",
+        "source": {
+          "organization": "アメリカ合衆国司法省 (DOJ)",
+          "title": "Justice Department Sues Apple for Monopolizing Smartphone Markets",
+          "url": "https://www.justice.gov/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "電気通信事業法改正（通称：インアプリ決済強制防止法）",
+        "statusOrLevel": "2021年9月世界初施行",
+        "keyFeature": "アプリストア事業者が自社の決済システム（IAP）の利用を開発者に義務付けることを世界で初めて法律で禁止。外部決済手段の提供を義務付けました。その後、事業者が外部決済時にも高率手数料（26%等）を課したことに対し、放送通信委員会（KCC）が是正命令や課徴金を科すなど実効性を巡る攻防が続いています。",
+        "source": {
+          "organization": "大韓民国放送通信委員会 (KCC) / 法制処",
+          "title": "電気通信事業法（第50条第1項第9号等）",
+          "url": "https://www.law.go.kr/"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Digital Markets, Competition and Consumers Act 2024 (DMCC法)",
+        "statusOrLevel": "2024年成立・CMA規制",
+        "keyFeature": "競争市場庁（CMA）内のデジタル市場部門（DMU）に強い権限を付与し、戦略的市場地位（SMS）を持つ企業を個別指定。オーダーメイドの行動指針（行動規範）を課し、アプリストアの公正な取引条件やデータ相互運用性を義務付けています。",
+        "source": {
+          "organization": "英国政府 (GOV.UK) / 競争市場庁 (CMA)",
+          "title": "Digital Markets, Competition and Consumers Act 2024",
+          "url": "https://www.gov.uk/government/news/new-rules-to-boost-competition-and-protect-consumers"
+        }
+      }
+    ]
+  }
 }

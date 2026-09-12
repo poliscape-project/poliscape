@@ -205,5 +205,63 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Sparkles"
     }
-  ]
+  ],
+  "international": {
+    "title": "スーパー・小売店の売れ残り食品廃棄禁止・食品ロス削減の国際比較",
+    "comparisonSummary": "日本では食品ロス削減推進法に基づき事業者の自主努力やフードバンク寄附への支援が中心ですが、欧州では『まだ食べられる食品を大型スーパーが意図的に廃棄・漂白剤等で損壊することを法律で禁止し、罰則を科す』という強行法規が定着しています。フランスの『ガルロ法』が先陣を切り、イタリアは税制優遇、韓国は生ごみ重量課税制により劇的な減量に成功するなど、規制・インセンティブ・課税の各方面から世界的な取り組みが進んでいます。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Loi Garot (ガルロ法 / 食品ロス対策法)",
+        "statusOrLevel": "2016年施行・世界初の売れ残り廃棄罰則禁止法",
+        "keyFeature": "売場面積400㎡以上の大型スーパーに対し、消費期限内の売れ残り食品の廃棄（ゴミ箱への投棄や漂白剤散布による損壊）を法律で禁止。慈善団体・フードバンクとの寄附協定締結を義務付けました。違反事業者には最高7万5,000ユーロ（約1,200万円）の罰金または2年の禁錮刑が科される強力な法律で、フランス国内のフードバンクへの食品供給量が倍増しました。",
+        "source": {
+          "organization": "フランス農業・食料主権省 (Ministère de l'Agriculture)",
+          "title": "Loi relative à la lutte contre le gaspillage alimentaire (Loi Garot)",
+          "url": "https://agriculture.gouv.fr/la-lutte-contre-le-gaspillage-alimentaire"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "生ごみ従量課税制 (RFID計量方式・ゴミ袋課税)",
+        "statusOrLevel": "全国完全義務化（生ごみの埋め立て禁止）",
+        "keyFeature": "2005年に生ごみの埋め立てを法律で全面禁止し、2013年から全国で『生ごみ従量制（Pay-as-you-throw）』を義務化。集合住宅等にRFIDチップ対応の計量収集機を設置し、住民や事業者が捨てた生ごみの重さに応じて直接課金されます。生ごみの水分を絞る意識が定着し、排出量が激減したほか、回収された生ごみの95%以上が肥料やバイオガスにリサイクルされています。",
+        "source": {
+          "organization": "大韓民国環境部 (Ministry of Environment)",
+          "title": "生ごみ減量および資源化政策 (Food Waste Management Policy)",
+          "url": "https://www.me.go.kr/"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "Legge Gadda (ガッダ法 / 食品寄附推進法 第166/2016号)",
+        "statusOrLevel": "2016年施行（インセンティブ型減税法）",
+        "keyFeature": "フランスのような罰則による強制ではなく、寄附の法的手続きを大幅に簡素化し、食品ロスを寄附した企業・スーパーに対して自治体の廃棄物税（TARI）を減免・控除する税制優遇方式を採用。企業の善意と経済的合理性を合致させることで寄附量を大幅に伸ばしました。",
+        "source": {
+          "organization": "イタリア農業食料主権森林省 (MASAF)",
+          "title": "Legge 166/2016 per la limitazione degli sprechi (Legge Gadda)",
+          "url": "https://www.politicheagricole.it/"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Bill Emerson Good Samaritan Food Donation Act (善良なサマリア人食品寄附法)",
+        "statusOrLevel": "連邦法規（寄附者の民事・刑事免責）",
+        "keyFeature": "余剰食品を寄附したスーパーやレストランに対し、受け取った側に健康被害が生じた場合でも故意または重過失がない限り法的責任を免除する免責法。さらにカリフォルニア州では『SB 1383』により、商業スーパーに対して2025年までに可食食品の20%を回収・寄附することを義務付けるなど、州法レベルで義務化が進んでいます。",
+        "source": {
+          "organization": "アメリカ合衆国農務省 (USDA) / EPA",
+          "title": "Bill Emerson Good Samaritan Food Donation Act | USDA",
+          "url": "https://www.usda.gov/our-agency/initiatives/food-loss-and-waste/donating-food"
+        }
+      }
+    ]
+  }
 }

@@ -28,12 +28,12 @@ export interface PolicyTimelineStep {
 }
 
 export interface PolicySource {
-  organization: string; // 例: こども家庭庁、内閣府、国会会議録
+  organization?: string; // 例: こども家庭庁、内閣府、国会会議録
   title: string;
   url: string;
-  date: string;
-  type: "official_document" | "press_release" | "diet_minutes" | "white_paper";
-  typeLabel: string;
+  date?: string;
+  type?: "official_document" | "press_release" | "diet_minutes" | "white_paper" | string;
+  typeLabel?: string;
 }
 
 export interface PolicyTopic {
@@ -94,9 +94,10 @@ export interface InternationalCountryData {
   countryCode: string; // 国コード（例: "FR"）
   flag: string; // 国旗絵文字（例: "🇫🇷"）
   systemName: string; // 現地制度名（例: "Allocations familiales"）
-  amount: string; // 金額・給付水準
+  amount?: string; // 金額・給付水準
   ageLimit?: string; // 対象年齢・期間
-  incomeLimit: string; // 所得制限の有無と仕組み
+  incomeLimit?: string; // 所得制限の有無と仕組み
+  statusOrLevel?: string; // 制度の運用形態や普及状況
   keyFeature: string; // 制度の設計思想・日本との違い（前提条件の解説）
   source: {
     organization: string; // 公的機関名（例: "フランス家族手当金庫 (CAF)"）

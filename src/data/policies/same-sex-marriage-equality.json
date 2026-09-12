@@ -155,5 +155,63 @@
       "text": "憲法24条改正論争",
       "color": "bg-amber-50 text-amber-900"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国・アジアにおける婚姻の平等（同性婚）法制化",
+    "comparisonSummary": "G7諸国では日本を除く6カ国（アメリカ、イギリス、フランス、ドイツ、カナダ、イタリアは法的パートナーシップ）が同性婚または同等の権利を承認しています。欧州では民法上の婚姻定義が拡張され、アメリカでは連邦最高裁判決と敬意婚姻法で全米に確立。アジアでも2019年に台湾が特別法によって同性婚を初承認するなど、世界35カ国以上で法律上の完全な平等が保障されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Respect for Marriage Act (敬意婚姻法) / 連邦最高裁判決",
+        "statusOrLevel": "全米50州で法制化完了（合憲・連邦法保障）",
+        "keyFeature": "2015年の連邦最高裁判決（Obergefell v. Hodges）により同性婚が憲法上の権利として全米で公認。さらに2022年には連邦議会が超党派で『敬意婚姻法』を成立させ、税務合算申告、遺族年金受給、配偶者控除、移民ビザなど連邦法上の1,000を超える権利が異性婚と完全に同等化されています。",
+        "source": {
+          "organization": "アメリカ合衆国連邦議会 (Congress.gov)",
+          "title": "H.R.8404 - Respect for Marriage Act (公法117-228)",
+          "url": "https://www.congress.gov/bill/117th-congress/house-bill/8404"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Ehe für alle (万人のための婚姻法 / 民法第1353条改正)",
+        "statusOrLevel": "2017年施行（異性婚と完全統合）",
+        "keyFeature": "2001年から生活パートナーシップ制度を導入して段階的に権利を認めていましたが、2017年に連邦議会が民法を改正し『婚姻は異なる性または同一の性の2人の者によって終生結ばれる』と規定。共同養子縁組権や相続税優遇も含め、法的に異性婚と完全に一体化されました。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ)",
+          "title": "Gesetz zur Einführung des Rechts auf Eheschließung für Personen gleichen Geschlechts",
+          "url": "https://www.bmj.de/DE/themen/gesellschaft_familie/ehe_lebenspartnerschaft/ehe_lebenspartnerschaft_node.html"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Mariage pour tous (万人のための婚姻法 / 民法改正第2013-404号)",
+        "statusOrLevel": "2013年施行（民法第143条）",
+        "keyFeature": "1999年に事実婚・同性カップルを公認する『民事連帯契約（PACS）』を創設して世界的に注目されましたが、共同親権や養子縁組の権利を完全に保障するため2013年に民法第143条を『婚姻は異なる性または同一の性の2人の者によって契約される』と改正。同性婚とPACSが併存し、カップルが選択できます。",
+        "source": {
+          "organization": "フランス政府公式法制ポータル (Légifrance)",
+          "title": "LOI n° 2013-404 ouvrant le mariage aux couples de personnes de même sexe",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027414540/"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "司法院釈字第七四八号解釈施行法 (特別法)",
+        "statusOrLevel": "2019年施行（アジア初の同性婚法制化）",
+        "keyFeature": "2017年に司法院大法官会議（最高裁）が『同性婚を認めない民法規定は憲法違反』と判断。特別法『司法院釈字第748号解釈施行法』を制定して2019年5月にアジア初の法制化を達成。2023年には双方に血縁のない養子縁組や国際同性婚も承認拡大されました。",
+        "source": {
+          "organization": "台湾法務部 (全国法規資料庫)",
+          "title": "司法院釋字第七四八號解釋施行法",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0000008"
+        }
+      }
+    ]
+  }
 }

@@ -205,5 +205,63 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "HeartHandshake"
     }
-  ]
+  ],
+  "international": {
+    "title": "サブスク解約阻害（ダークパターン）・Click to Cancel規制の国際比較",
+    "comparisonSummary": "「加入は1クリックなのに解約は電話受付のみ」「アンケートや引き止め画面を何重にも踏ませる」といったサブスクリプションの解約阻害（ダークパターン）に対し、欧米では『契約時と同じ容易さで解約できなければ違法』とする法的義務化が急速に進行しています。ドイツがWeb上の解約ボタンを義務付け、米国FTCがワンクリック解約（Click to Cancel）規則を最終決定するなど、罰則を伴う厳格な事前規制へシフトしています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "FTC 'Click to Cancel' Rule (ワンクリック解約規則)",
+        "statusOrLevel": "2024年10月最終決定（全米連邦規制）",
+        "keyFeature": "米連邦取引委員会（FTC）が定めた画期的な新規則。企業に対し『サインアップ（契約）した時と同じ方法・同じ手軽さで即座に解約できるようにすること』を義務化。オンライン契約ならオンライン上で簡単解約できなければならず、過度な引き止めプラン提示も制限。違反には1日あたり最大5万ドル以上の民事罰金が科されます。",
+        "source": {
+          "organization": "米連邦取引委員会 (FTC)",
+          "title": "Federal Trade Commission Announces Final 'Click-to-Cancel' Rule",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Kündigungsbutton (解約ボタン法 / 公正消費者契約法 第312条k)",
+        "statusOrLevel": "2022年7月施行（民法施行法改正）",
+        "keyFeature": "Web上で継続的契約を締結できる事業者に対し、サイト上に目立つ形で『Hier kündigen（ここで解約）』という解約ボタンの設置を法律で義務付け。ボタンを押すと1ページの入力フォームに遷移し、ログインパスワード不要で契約者情報と契約番号だけで解約申請が完結しなければならず、設置を怠った契約は消費者が即時無効を主張できます。",
+        "source": {
+          "organization": "ドイツ連邦消費者保護省 (BMUV)",
+          "title": "Schutz vor Kostenfallen und langen Vertragslaufzeiten (Kündigungsbutton)",
+          "url": "https://www.bmuv.de/themen/verbraucherschutz/digitaler-verbraucherschutz/faire-verbraucherververtraege"
+        }
+      },
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "Digital Services Act (デジタルサービス法 / DSA 第25条)",
+        "statusOrLevel": "2024年2月全面施行",
+        "keyFeature": "オンラインプラットフォームにおける『ダークパターン（消費者の自律的意思決定を歪めたり妨害したりする欺瞞的なインターフェース）』を包括的に明文禁止。解約手続きを契約手続きよりも著しく困難にすることや、拒絶ボタンを目立たなくするデザイン（偽装リンク）に対して巨額の制裁金を科します。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Digital Services Act: Protecting consumers against dark patterns",
+          "url": "https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Digital Markets, Competition and Consumers Act 2024 (サブスク契約規律)",
+        "statusOrLevel": "2024年成立・2026年施行予定",
+        "keyFeature": "無料トライアルから有料への自動移行前の事前リマインド通知を義務化。解約手段については『単一のアクションで直接解約できる明瞭な導線』を事業者に義務付け、定期購入トラップによる消費者の不本意な支出を厳罰化します。",
+        "source": {
+          "organization": "英国政府 (GOV.UK)",
+          "title": "Subscription contracts: consumer protection measures",
+          "url": "https://www.gov.uk/government/publications/digital-markets-competition-and-consumers-bill"
+        }
+      }
+    ]
+  }
 }
