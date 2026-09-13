@@ -59,6 +59,14 @@ export const PolicyHighlightCards: React.FC<PolicyHighlightCardsProps> = ({
   const tempLabel = (() => {
     if (policy.temporaryLabel) return policy.temporaryLabel;
     if (!policy.temporaryPeriod) return "時限措置";
+    const rangeMatch = policy.temporaryPeriod.match(/(\d{4})(?:年度)?(?:〜|~|-)(\d{4})(?:年度)?/);
+    if (rangeMatch) {
+      return `${rangeMatch[1]}〜${rangeMatch[2]}年度`;
+    }
+    const fiscalMatch = policy.temporaryPeriod.match(/(\d{4}年度)/);
+    if (fiscalMatch) {
+      return `${fiscalMatch[1]}限定`;
+    }
     const yearMatch = policy.temporaryPeriod.match(/(\d{4}年)/);
     if (yearMatch) return `${yearMatch[1]}限定`;
     return "時限措置";

@@ -39,10 +39,18 @@ export const PolicyChangesCard: React.FC<PolicyChangesCardProps> = ({
   const isUnderDiscussion = status === "discussing" || status === "proposed";
   const isTemporary = !!temporaryPeriod;
 
-  // 年度が限定されている場合（例: 2024年）は「2024年限定」など直感的な年度表示を優先
+  // 年度が限定されている場合（例: 2024年、2024〜2026年度）は直感的な年度表示を優先
   const tempBadgeText = (() => {
     if (temporaryLabel) return temporaryLabel;
     if (!temporaryPeriod) return "期間中の特例";
+    const rangeMatch = temporaryPeriod.match(/(\d{4})(?:年度)?(?:〜|~|-)(\d{4})(?:年度)?/);
+    if (rangeMatch) {
+      return `${rangeMatch[1]}〜${rangeMatch[2]}年度`;
+    }
+    const fiscalMatch = temporaryPeriod.match(/(\d{4}年度)/);
+    if (fiscalMatch) {
+      return `${fiscalMatch[1]}限定`;
+    }
     const yearMatch = temporaryPeriod.match(/(\d{4}年)/);
     if (yearMatch) {
       return `${yearMatch[1]}限定`;
