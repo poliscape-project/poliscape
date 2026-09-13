@@ -242,6 +242,46 @@
           "title": "Commercialising perovskite solar technology with Oxford PV",
           "url": "https://www.ukri.org/"
         }
+      },
+      {
+        "code": "DE",
+        "country": "ドイツ",
+        "system": "連邦経済気候保護省（BMWK）およびフラウンホーファー研究支援",
+        "description": "シリコン・ペロブスカイト・タンデムセルの実用化・量産化に向け公的研究開発補助金を集中投資。欧州域内での太陽光サプライチェーン再構築を主導。",
+        "source": {
+          "title": "ドイツ連邦経済・気候保護省 (BMWK) - Photovoltaik-Strategie und Förderung",
+          "url": "https://www.bmwk.de"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "国家先端戦略技術指定および次世代太陽電池タンデム量産計画",
+        "description": "産業通商資源部がペロブスカイト・シリコン複合タンデムセルを国家戦略技術に指定。大手企業と連携し2026年の世界初商用化に向け税制・設備投資支援。",
+        "source": {
+          "title": "韓国産業通商資源部 (MOTIE) - 再生可能エネルギー技術開発支援",
+          "url": "https://www.motie.go.kr"
+        }
+      },
+      {
+        "code": "CH",
+        "country": "スイス",
+        "system": "連邦エネルギー庁（BFE）およびEPFL連携高効率セル実証",
+        "description": "ローザンヌ連邦工科大学（EPFL）発のペロブスカイト特許技術を基盤に、連邦エネルギー庁が建材一体型太陽電池（BIPV）の実用化プロジェクトを支援。",
+        "source": {
+          "title": "スイス連邦エネルギー庁 (BFE) - Solar energy research and innovation",
+          "url": "https://www.bfe.admin.ch"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "オーストラリア再生可能エネルギー庁（ARENA）次世代セル助成",
+        "description": "ニューサウスウェールズ大学等の研究拠点に対し巨額のARENA公的グラントを交付し、ペロブスカイトの耐久性向上と超低コスト印刷プロセスの開発を推進。",
+        "source": {
+          "title": "オーストラリア再生可能エネルギー庁 (ARENA) - Ultra low-cost solar funding",
+          "url": "https://arena.gov.au"
+        }
       }
     ]
   }

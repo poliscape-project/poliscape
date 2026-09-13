@@ -241,6 +241,46 @@
           "title": "Australian Drinking Water Guidelines - PFAS Review",
           "url": "https://www.nhmrc.gov.au/about-us/publications/australian-drinking-water-guidelines"
         }
+      },
+      {
+        "code": "NL",
+        "country": "オランダ",
+        "system": "EU REACH規則に基づくPFAS全面製造・使用禁止共同提案",
+        "description": "ドイツ・北欧と共同で1万種以上のPFAS包括禁止案を欧州化学機関（ECHA）へ提出。国内の土壌・地下水・飲用水のモニタリング指針を厳格化。",
+        "source": {
+          "title": "オランダ国立公衆衛生環境研究所 (RIVM) - PFAS and drinking water",
+          "url": "https://www.rivm.nl/en"
+        }
+      },
+      {
+        "code": "DK",
+        "country": "デンマーク",
+        "system": "世界最厳格級の飲用水4種PFAS合算基準（2ng/L）",
+        "description": "世界に先駆け食品接触紙製品のPFAS使用を全面禁止。飲用水に対しても4物質（PFOA、PFOS、PFNA、PFHxS）の合算許容値を2ng/Lという極めて厳しい値に設定。",
+        "source": {
+          "title": "デンマーク環境省 (Miljøministeriet) - PFAS regulation and monitoring",
+          "url": "https://mim.dk"
+        }
+      },
+      {
+        "code": "SE",
+        "country": "スウェーデン",
+        "system": "飲用水新規則に基づくPFAS 4物質（4ng/L）基準の法制化",
+        "description": "国家食品庁が2026年全面適用の飲用水新規則を制定。主要4種PFASの合算値を4ng/Lに規制し、全国の浄水場における活性炭・RO膜処理を推進。",
+        "source": {
+          "title": "スウェーデン国家食品庁 (Livsmedelsverket) - Nya regler för dricksvatten och PFAS",
+          "url": "https://www.livsmedelsverket.se"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "連邦環境保護法（CEPA）に基づくPFAS一括有毒物質指定",
+        "description": "個別の代替物質への移行を防ぐため、PFAS群全体を包括的に有毒物質リストへ指定する方針を公表。飲用水中のPFAS総量目標値（30ng/L）を提示。",
+        "source": {
+          "title": "カナダ環境・気候変動省および保健省 - Per- and polyfluoroalkyl substances (PFAS)",
+          "url": "https://www.canada.ca/en/health-canada/services/chemical-substances.html"
+        }
       }
     ]
   }

@@ -267,6 +267,46 @@
           "title": "Insurance Coverage by State - Mandatory Infertility Benefits",
           "url": "https://resolve.org/learn/financial-resources-for-infertility/insurance-coverage/insurance-mandates-by-state/"
         }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "メディケア（Medicare）による体外受精（IVF）無制限公費補助",
+        "description": "医学的適応がある限り、回数や年齢に一律の上限を設けずメディケアから体外受精費用の大部分を補助。患者の生涯自己負担を大幅抑制。",
+        "source": {
+          "title": "オーストラリア連邦サービス庁 (Services Australia) - Assisted reproductive technology",
+          "url": "https://www.servicesaustralia.gov.au"
+        }
+      },
+      {
+        "code": "BE",
+        "country": "ベルギー",
+        "system": "公的健康保険による体外受精最大6サイクル完全無料給付",
+        "description": "43歳未満の女性を対象に、最大6回までの体外受精（胚移植）のラボ費用および薬剤費を公的保険が100%カバー。多胎防止の単一胚移植を義務化。",
+        "source": {
+          "title": "ベルギー国立健康障害保険機構 (INAMI/RIZIV) - Procréation médicalement assistée",
+          "url": "https://www.inami.fgov.be"
+        }
+      },
+      {
+        "code": "IL",
+        "country": "イスラエル",
+        "system": "国家医療保険法に基づく第2子までの無制限体外受精全額国費負担",
+        "description": "世界最高の体外受精実施率を誇り、45歳までの女性に対し第2子を出産するまで無制限に体外受精サイクルを公的医療保障で無料提供。",
+        "source": {
+          "title": "イスラエル保健省 (Ministry of Health) - In Vitro Fertilization (IVF) eligibility",
+          "url": "https://www.gov.il/en/departments/ministry_of_health"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "難任夫婦治療費支援事業（体外受精最大25回・自治体所得制限撤廃）",
+        "description": "国民健康保険の適用に加え、政府・自治体助成により体外受精（新鮮胚・凍結胚）最大25回まで1回あたり数十万〜百数十万ウォンの追加公費支援を実施。",
+        "source": {
+          "title": "韓国保健福祉部 (MOHW) - 難任治療費支援事業",
+          "url": "https://www.mohw.go.kr"
+        }
       }
     ]
   }

@@ -245,6 +245,46 @@
           "title": "Schmerzlinderung bei der Geburt - familienplanung.de",
           "url": "https://www.familienplanung.de/schwangerschaft/geburt/schmerzlinderung/"
         }
+      },
+      {
+        "code": "SE",
+        "country": "スウェーデン",
+        "system": "公的医療保険による無痛分娩（硬膜外麻酔）の全額公費カバー",
+        "description": "妊婦が希望すれば追加費用なしで誰でも硬膜外麻酔による無痛分娩を選択可能。助産師と麻酔科医が24時間常駐する総合病院ネットワークを構築。",
+        "source": {
+          "title": "スウェーデン国家保健福祉庁 (Socialstyrelsen) - Smärtlindring vid förlossning",
+          "url": "https://www.socialstyrelsen.se"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "メディケア（公的医療保障）に基づく無痛分娩完全無償化",
+        "description": "カナダ健康法（CHA）に基づき、公立病院で行われる分娩時の硬膜外麻酔を含むすべての医療行為を患者負担ゼロの公費で保障。",
+        "source": {
+          "title": "カナダ公衆衛生庁 (PHAC) - Pregnancy and Childbirth Care Guidelines",
+          "url": "https://www.canada.ca/en/public-health.html"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "メディケア公立病院システムによる硬膜外麻酔無料提供",
+        "description": "公立病院で出産する全オーストラリア市民・永住者に対し、麻酔科医による無痛分娩措置を追加費用なしの完全公費で提供。",
+        "source": {
+          "title": "オーストラリア連邦サービス庁 (Services Australia) - Medicare and childbirth",
+          "url": "https://www.servicesaustralia.gov.au"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "国民健康保険による無痛注射（硬膜外麻酔）の保険給付適用",
+        "description": "超少子化克服の一環として、自然分娩時の無痛分べん施術（硬膜外麻酔）に対する保険給付を拡大し、患者の自己負担率を大幅に引き下げ。",
+        "source": {
+          "title": "韓国国民健康保険公団 (NHIS) - 妊娠・出産診療費支援および保険給付",
+          "url": "https://www.nhis.or.kr"
+        }
       }
     ]
   }

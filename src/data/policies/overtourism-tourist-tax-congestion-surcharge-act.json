@@ -285,6 +285,46 @@
           "title": "Love Bali - Official Tourist Levy System",
           "url": "https://lovebali.baliprov.go.id"
         }
+      },
+      {
+        "code": "NL",
+        "country": "オランダ（アムステルダム）",
+        "system": "欧州最高水準12.5%宿泊税および大型クルーズ船入港規制",
+        "description": "中心部の過密緩和に向け宿泊税率を宿泊費の12.5%へ引き上げ。市中心部ターミナルへの大型クルーズ客船寄港禁止や新規ホテル建設停止を断行。",
+        "source": {
+          "title": "アムステルダム市役所 (City of Amsterdam) - Tourist tax and measures against overtourism",
+          "url": "https://www.amsterdam.nl/en"
+        }
+      },
+      {
+        "code": "FR",
+        "country": "フランス（パリ）",
+        "system": "宿泊滞在税（Taxe de séjour）の最大200%引き上げと民泊厳格規制",
+        "description": "公共交通機関整備と過密対策を目的に宿泊税を大幅増額。年間120日を超える住宅の短期民泊貸出を厳格に禁止し登録番号制を徹底。",
+        "source": {
+          "title": "パリ市役所 (Ville de Paris) - Taxe de séjour et meublés touristiques",
+          "url": "https://www.paris.fr"
+        }
+      },
+      {
+        "code": "NZ",
+        "country": "ニュージーランド",
+        "system": "国際訪問者保全観光税（IVL）の引き上げ（100NZドル）",
+        "description": "外国人観光客に対し入国時に徴収するIVLを2024年に35NZドルから100NZドルへ大幅増額。観光インフラ整備と国立公園の自然環境保全へ全額充当。",
+        "source": {
+          "title": "ニュージーランド移民局 (Immigration NZ) - International Visitor Conservation and Tourism Levy",
+          "url": "https://www.immigration.govt.nz"
+        }
+      },
+      {
+        "code": "GB",
+        "country": "英国（スコットランド）",
+        "system": "観光客訪問者課税法（Visitor Levy Act）による自治体観光税導入",
+        "description": "エディンバラ等の過密都市において、自治体が独自に宿泊費への上乗せ課税（観光税）を設計・徴収できる権限をスコットランド議会が法制化。",
+        "source": {
+          "title": "スコットランド政府 (Scottish Government) - Visitor Levy (Scotland) Act",
+          "url": "https://www.gov.scot"
+        }
       }
     ]
   }

@@ -277,6 +277,46 @@
           "title": "Family and Medical Leave Act (FMLA公式解説)",
           "url": "https://www.dol.gov/agencies/whd/fmla"
         }
+      },
+      {
+        "code": "NO",
+        "country": "ノルウェー",
+        "system": "父親専用育児休業クオータ制度（Fedrekvote・15週間）",
+        "description": "親手当期間のうち15週間を父親専用枠として割り当て、父親が取得しない場合は権利が消滅する仕組みにより、男性育休取得率90%超を定着。",
+        "source": {
+          "title": "ノルウェー労働福祉庁 (NAV) - Foreldrepenger og fedrekvote",
+          "url": "https://www.nav.no"
+        }
+      },
+      {
+        "code": "FI",
+        "country": "フィンランド",
+        "system": "家族休暇改革（Perhevapaauudistus・両親均等160日有給）",
+        "description": "父親と母親それぞれに160就労日ずつの有給育休手当枠を平等に配分（最大63日まで配偶者等へ譲渡可能）。手取り格差の是正を強力に推進。",
+        "source": {
+          "title": "フィンランド社会保険庁 (Kela) - Parental allowances reform",
+          "url": "https://www.kela.fi"
+        }
+      },
+      {
+        "code": "ES",
+        "country": "スペイン",
+        "system": "両親同一・譲渡不可の16週間100%有給育休制度",
+        "description": "父親にも母親と完全に同一の16週間の有給休業権を付与。給与の100%（公的上限あり）を社会保障庁から支給し、譲渡不可とすることで男性取得を義務化的に促進。",
+        "source": {
+          "title": "スペイン社会保障庁 (Seguridad Social) - Prestación por nacimiento y cuidado de menor",
+          "url": "https://www.seg-social.es"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "「6+6親育児休業制」（生後18カ月以内・給与上限引き上げ）",
+        "description": "生後18カ月以内の子に対し両親が共に育休を取得した場合、最初の6カ月間は月給の100%相当（月最大200万〜450万ウォンまで段階引き上げ）を支給。",
+        "source": {
+          "title": "韓国雇用労働部 (MOEL) - 6+6親育児休業制のご案内",
+          "url": "https://www.moel.go.kr"
+        }
       }
     ]
   }

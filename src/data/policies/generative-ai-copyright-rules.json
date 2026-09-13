@@ -183,6 +183,46 @@
           "title": "AIと著作権に関する考え方について（令和6年3月）",
           "url": "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf"
         }
+      },
+      {
+        "code": "CN",
+        "country": "中国",
+        "system": "生成式人工知能服務管理暫行弁法および著作権尊重義務",
+        "description": "AI開発者に対し知的財産権を侵害しない学習データの使用を義務付け。北京インターネット法院判決等で人間のプロンプト設計に応じた著作物性を一部承認。",
+        "source": {
+          "title": "国家インターネット情報弁公室 (CAC) - 生成式人工知能服務管理暫行弁法",
+          "url": "https://www.cac.gov.cn"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "生成AI著作権活用ガイドライン（AI生成物の非著作物原則）",
+        "description": "文化体育観光部が策定。人間の創作的寄与がないAI単独生成物は著作物として保護されない旨を明記し、学習データ利用時の権利者配慮を提示。",
+        "source": {
+          "title": "韓国文化体育観光部 (MCST) - 生成型AI著作権活用ガイドライン",
+          "url": "https://www.mcst.go.kr"
+        }
+      },
+      {
+        "code": "SG",
+        "country": "シンガポール",
+        "system": "2021年著作権法に基づく計算的データ分析（CDA）例外規定",
+        "description": "機械学習やデータマイニングを目的とする著作物の電磁的複製を合法とする明文規定を創設。合法的アクセス権があれば権利者の同意なくAI学習が可能。",
+        "source": {
+          "title": "シンガポール知的財産庁 (IPOS) - Copyright Act and Computational Data Analysis",
+          "url": "https://www.ipos.gov.sg"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "著作権法改正協議およびAI学習におけるオプトアウト検討",
+        "description": "AI学習に対する包括的フェアユース例外が存在しない中、クリエイターの権利保護と技術革新の両立に向け、権利者への対価還元モデルを検討。",
+        "source": {
+          "title": "オーストラリア連邦司法省 (Attorney-General's Department) - Copyright and Artificial Intelligence",
+          "url": "https://www.ag.gov.au"
+        }
       }
     ]
   }

@@ -299,6 +299,46 @@
           "title": "Check your State Pension age (GOV.UK公式受給開始年齢チェッカー)",
           "url": "https://www.gov.uk/state-pension-age"
         }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "カナダ年金プラン（CPP）の柔軟受給（60歳〜70歳）",
+        "description": "標準受給年齢65歳に対し、60歳への繰上げ（月0.6%減額・最大36%減）から70歳への繰下げ（月0.7%増額・最大42%増）を自由に選択可能。",
+        "source": {
+          "title": "カナダ政府 (Canada.ca) - Canada Pension Plan (CPP) retirement pension",
+          "url": "https://www.canada.ca/en/services/benefits/publicpensions.html"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "Age Pension（67歳）および就労ボーナス（Work Bonus）制度",
+        "description": "受給開始年齢を67歳に引き上げ完了。年金受給者が就労を継続しても年間一定額まで年金額が減額されない「Work Bonus」により高齢者就労を支援。",
+        "source": {
+          "title": "オーストラリア連邦サービス庁 (Services Australia) - Age Pension and Work Bonus",
+          "url": "https://www.servicesaustralia.gov.au"
+        }
+      },
+      {
+        "code": "SE",
+        "country": "スウェーデン",
+        "system": "柔軟退職年齢制（上限年齢なし・就労継続連動）",
+        "description": "所得比例年金の受給開始最低年齢を段階的引き上げ（63歳へ）つつ、受給開始の上限年齢を設けない完全柔軟制を採用。遅く受給するほど受給額が増加。",
+        "source": {
+          "title": "スウェーデン年金庁 (Pensionsmyndigheten) - När kan jag ta ut pension",
+          "url": "https://www.pensionsmyndigheten.se"
+        }
+      },
+      {
+        "code": "NL",
+        "country": "オランダ",
+        "system": "平均余命連動型基礎年金（AOW）受給開始年齢スライド制",
+        "description": "統計局の平均余命推計に基づき、AOW年金の受給開始年齢を自動的に引き上げるメカニズムを法制化。財政の持続可能性と世代間公平性を担保。",
+        "source": {
+          "title": "オランダ社会保険銀行 (SVB) - AOW pension age",
+          "url": "https://www.svb.nl/en"
+        }
       }
     ]
   }

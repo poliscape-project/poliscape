@@ -242,6 +242,46 @@
           "title": "La Commission nationale des comptes de campagne et des financements politiques",
           "url": "https://www.cnccfp.fr/"
         }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "オーストラリア選挙管理委員会（AEC）による年次財政透明性報告",
+        "description": "公的選挙資金助成（Election funding）を受ける政党に対し、収入および支出に関する年次リターン提出と監査済み明細の完全一般公開を義務化。",
+        "source": {
+          "title": "オーストラリア選挙管理委員会 (AEC) - Financial disclosure transparency",
+          "url": "https://www.aec.gov.au"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "カナダ選挙法に基づく公認政党の四半期・年次完全監査報告",
+        "description": "公的助成や寄附税額控除を受ける登録政党に対し、独立監査人の監査報告書付きで全支出明細の提出を義務付け、少額領収書の厳格保管を規定。",
+        "source": {
+          "title": "カナダ選挙管理委員会 (Elections Canada) - Political financing and disclosures",
+          "url": "https://www.elections.ca"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "政治資金法に基づく経常補助金の使途制限と領収書全面オンライン公開",
+        "description": "国家から支給される政党国庫補助金の使途を党人件費や政策開発費等に厳格限定。選挙管理委員会が領収書コピーを含む会計報告書をネットで公開。",
+        "source": {
+          "title": "韓国中央選挙管理委員会 (NEC) - 政党国庫補助金および政治資金案内",
+          "url": "https://www.nec.go.kr"
+        }
+      },
+      {
+        "code": "NO",
+        "country": "ノルウェー",
+        "system": "政党法（Partiloven）および独立政党財政委員会による公的審査",
+        "description": "国・自治体からの公的補助金が政党収入の大半を占める中、独立委員会が全政党の収入・支出の内訳を審査し、公式ポータルで誰でも検索・検証可能。",
+        "source": {
+          "title": "ノルウェー政党財政委員会 (Partilovnemnda) - Partifinansiering portal",
+          "url": "https://www.partifinansiering.no"
+        }
       }
     ]
   }
