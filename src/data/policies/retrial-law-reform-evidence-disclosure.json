@@ -261,6 +261,46 @@
           "title": "La révision d'une condamnation pénale (Cour de cassation)",
           "url": "https://www.courdecassation.fr/acces-aux-justiciables/la-cour-de-revision-et-de-reexamen"
         }
+      },
+      {
+        "code": "NZ",
+        "country": "ニュージーランド",
+        "system": "刑事事件再審査委員会（Criminal Cases Review Commission - CCRC）",
+        "description": "司法および警察から完全に独立した公的専門機関が、冤罪の疑いのある確定判決を独自に強制調査・証拠収集し、控訴裁判所へ再審勧告を行う制度。",
+        "source": {
+          "title": "ニュージーランド刑事冤罪再審査委員会 (CCRC) - Te Kāhui Tātari Ture",
+          "url": "https://www.ccrc.nz"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "独立誤判審査委員会（Miscarriages of Justice Review Commission）法",
+        "description": "従来の法務大臣による職権救済から転換し、常設の独立機関がすべての未開示証拠を職権で差し押さえ・再審査できる画期的法改正を推進。",
+        "source": {
+          "title": "カナダ法務省 (Department of Justice Canada) - Miscarriages of justice review",
+          "url": "https://www.justice.gc.ca"
+        }
+      },
+      {
+        "code": "IT",
+        "country": "イタリア",
+        "system": "刑事訴訟法第629条に基づく再審（Revisione）および証拠開示",
+        "description": "確定判決と両立しない新証拠や偽証が判明した場合に請求可能。当事者主義に基づき、被告側の防御権を保障するため検察側の手持ち証拠開示が広範に保障。",
+        "source": {
+          "title": "イタリア最高破棄院 (Corte Suprema di Cassazione) - Revisione delle sentenze penali",
+          "url": "https://www.cortedicassazione.it"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "刑事訴訟法第420条に基づく再審事由および裁判所の積極的証拠開示命令",
+        "description": "過去の国家暴力事件や冤罪事件において大法院が柔軟に再審を開始。再審請求審において裁判所が検察に対し捜査記録の全面閲覧・謄写を命じる運用が定着。",
+        "source": {
+          "title": "韓国大法院 (Supreme Court of Korea) - 刑事再審手続案内",
+          "url": "https://www.scourt.go.kr"
+        }
       }
     ]
   }

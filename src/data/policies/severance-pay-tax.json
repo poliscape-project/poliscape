@@ -303,6 +303,46 @@
           "title": "Régime fiscal des indemnités de rupture du contrat de travail",
           "url": "https://www.service-public.fr/particuliers/vosdroits/F408"
         }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "退職一時金（ETP・Employment Termination Payment）上限・低率課税制",
+        "description": "勤続年数に応じた一括控除ではなく、生涯課税上限（ETP Cap）を設定。上限額までは15〜30%の軽減税率、超過分は最高限界税率を課す合理的是正モデル。",
+        "source": {
+          "title": "オーストラリア国税庁 (ATO) - Taxation of employment termination payments",
+          "url": "https://www.ato.gov.au"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "退職手当（Retiring Allowance）の非課税登録退職貯蓄口座（RRSP）移行制度",
+        "description": "退職時に支払われる一時金について、1996年以前勤続分への一定非課税枠を維持しつつ、残余を自己のRRSP年金口座へ直接非課税移転して老後資産化を促進。",
+        "source": {
+          "title": "カナダ歳入庁 (CRA) - Transfer of retiring allowances to RRSPs",
+          "url": "https://www.canada.ca/en/revenue-agency.html"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "退職所得税制（勤続年数別累進控除および換算給与方式）",
+        "description": "長期勤続者に配慮した勤続年数控除（20年超は年120万ウォン控除）を設けつつ、退職所得を1年あたりに換算して税率を適用する平準化税制を運用。",
+        "source": {
+          "title": "韓国国税庁 (NTS) - 退職所得税の計算構造および控除案内",
+          "url": "https://www.nts.go.kr"
+        }
+      },
+      {
+        "code": "SG",
+        "country": "シンガポール",
+        "system": "退職手当（Retirement Gratuity）の資本的所得非課税原則",
+        "description": "過去の勤務に対する慰労や解雇補償として支払われる一時金は「資本の回収」とみなされ、所得税の課税対象から原則として全面除外。",
+        "source": {
+          "title": "シンガポール内国歳入庁 (IRAS) - Retrenchment benefits and retirement payouts",
+          "url": "https://www.iras.gov.sg"
+        }
       }
     ]
   }

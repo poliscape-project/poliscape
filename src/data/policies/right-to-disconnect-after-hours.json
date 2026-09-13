@@ -183,6 +183,46 @@
           "title": "Droit à la déconnexion dans le secteur privé",
           "url": "https://emploi.belgique.be/fr/themes/reglementation-du-travail"
         }
+      },
+      {
+        "code": "IT",
+        "country": "イタリア",
+        "system": "スマートワーキング法（Legge 81/2017）における切断権（Diritto alla disconnessione）",
+        "description": "アジャイル労働（テレワーク）の個別契約において、労働者の休息時間および技術的機器からの完全な切断措置（オフライン保障）の明記を法定義務化。",
+        "source": {
+          "title": "イタリア労働・社会政策省 (Ministero del Lavoro) - Lavoro agile e disconnessione",
+          "url": "https://www.lavoro.gov.it"
+        }
+      },
+      {
+        "code": "PT",
+        "country": "ポルトガル",
+        "system": "労働法改正による勤務時間外業務連絡の原則禁止（罰則付き）",
+        "description": "重大な緊急事態を除き、雇用主が勤務時間外に労働者へ電話やメール等の業務連絡を行うことを法律で禁止。違反した企業には行政制裁金を科す。",
+        "source": {
+          "title": "ポルトガル政府 (Portal do Governo) - Teletrabalho e dever de abstenção de contacto",
+          "url": "https://www.portugal.gov.pt"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ（オンタリオ州）",
+        "system": "雇用基準法（ESA）に基づく「仕事から離れる権利」ポリシー策定義務",
+        "description": "従業員25人以上の全事業者に対し、勤務時間外の電子メールや電話に応答しない権利を保障する企業方針（Disconnecting from Work Policy）の策定・周知を義務化。",
+        "source": {
+          "title": "オンタリオ州政府ポータル - Written policy on disconnecting from work",
+          "url": "https://www.ontario.ca"
+        }
+      },
+      {
+        "code": "DE",
+        "country": "ドイツ",
+        "system": "労働安全衛生法（ArbSchG）および企業労使協定（Betriebsvereinbarung）",
+        "description": "法律による一律規制ではなく、企業の経営協議会（Betriebsrat）と労使協定を締結。大手企業（フォルクスワーゲン等）が業務時間外の社内メールサーバー停止を運用。",
+        "source": {
+          "title": "ドイツ連邦労働社会省 (BMAS) - Psychische Gesundheit am Arbeitsplatz",
+          "url": "https://www.bmas.de"
+        }
       }
     ]
   }

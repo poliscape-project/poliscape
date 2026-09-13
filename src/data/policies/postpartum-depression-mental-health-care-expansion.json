@@ -267,6 +267,46 @@
           "title": "Your baby's health and development reviews - NHS Health Visiting",
           "url": "https://www.nhs.uk/conditions/baby/babys-development/height-weight-and-reviews/baby-reviews/"
         }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "全国周産期メンタルヘルスガイドラインおよび全妊産婦EPDS健診",
+        "description": "全国の母子保健システムにおいて、妊娠中および産後6〜8週時のエジンバラ産後うつ質問票（EPDS）による全数スクリーニングと専門医紹介を義務化。",
+        "source": {
+          "title": "オーストラリア連邦保健省 (Department of Health and Aged Care) - Perinatal mental health",
+          "url": "https://www.health.gov.au"
+        }
+      },
+      {
+        "code": "US",
+        "country": "アメリカ",
+        "system": "予防医療専門委員会（USPSTF）周産期うつ病予防カウンセリング推奨",
+        "description": "うつ病リスクのある妊産婦に対し、認知行動療法（CBT）などの予防的カウンセリングを医療保険者が自己負担なしで提供することを連邦推奨指定。",
+        "source": {
+          "title": "米国予防医療専門委員会 (USPSTF) - Perinatal Depression Preventive Interventions",
+          "url": "https://www.uspreventiveservicestaskforce.org"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "公衆衛生看護師による産後家庭訪問ケア（Healthy Babies Healthy Children）",
+        "description": "出産した全家庭に対し、退院後48時間以内の電話連絡と助産師・公衆衛生看護師による無料家庭訪問を実施し、産後うつの早期発見・支援を徹底。",
+        "source": {
+          "title": "カナダ公衆衛生庁 (PHAC) - Postpartum Depression and Care",
+          "url": "https://www.canada.ca/en/public-health.html"
+        }
+      },
+      {
+        "code": "SE",
+        "country": "スウェーデン",
+        "system": "BVC（児童保健センター）による産後6〜8週目の全員EPDSスクリーニング",
+        "description": "全国のBVCにおいて、生後6〜8週の全母親を対象にEPDS問診を実施。助産師や心理士が常駐し、早期のカウンセリング介入を公費無料提供。",
+        "source": {
+          "title": "スウェーデン国家保健福祉庁 (Socialstyrelsen) - Depression under och efter graviditet",
+          "url": "https://www.socialstyrelsen.se"
+        }
       }
     ]
   }

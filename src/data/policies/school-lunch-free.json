@@ -310,6 +310,46 @@
           "title": "California Universal Meals Program (CDE)",
           "url": "https://www.cde.ca.gov/ls/nu/sn/cauniversalmeals.asp"
         }
+      },
+      {
+        "code": "EE",
+        "country": "エストニア",
+        "system": "基礎教育法に基づく小中学校・高等学校の全生徒完全無料給食",
+        "description": "2006年より国家予算と基礎自治体の連携により、初等教育から中等教育までの全児童生徒に対し毎日温かい栄養バランスの取れた給食を完全無償提供。",
+        "source": {
+          "title": "エストニア教育研究省 (Haridus- ja Teadusministeerium) - School meals system",
+          "url": "https://www.hm.ee/en"
+        }
+      },
+      {
+        "code": "GB",
+        "country": "英国（ロンドン市）",
+        "system": "市長主導の全公立小学校児童無料学校給食（Universal Free School Meals）",
+        "description": "物価高騰による家庭の貧困対策として、世帯所得制限を一切設けずロンドン市内の全公立小学校児童（約28万人）を対象に公費無料給食を恒久化。",
+        "source": {
+          "title": "ロンドン市長公室 (Greater London Authority) - Free school meals for primary students",
+          "url": "https://www.london.gov.uk"
+        }
+      },
+      {
+        "code": "BR",
+        "country": "ブラジル",
+        "system": "国家学校給食プログラム（PNAE・全公立校4000万人無償提供）",
+        "description": "憲法に基づき全公立校の児童生徒に無料給食を保障。連邦法により給食食材の最低30%を地元の小規模家族農業から優先調達することを義務付け。",
+        "source": {
+          "title": "ブラジル連邦教育開発基金 (FNDE) - Programa Nacional de Alimentação Escolar (PNAE)",
+          "url": "https://www.gov.br/fnde/pt-br"
+        }
+      },
+      {
+        "code": "FR",
+        "country": "フランス",
+        "system": "貧困対策・農村自治体向け「1ユーロ給食（Cantine à 1€）」国家補助",
+        "description": "低所得世帯の自己負担を最大1ユーロに抑える自治体に対し、国が差額を財政支援。良質なオーガニック・地元食材の調達比率50%義務付け（EGalim法）と連動。",
+        "source": {
+          "title": "フランス国民教育・青少年省 (Ministère de l'Éducation nationale) - Tarification sociale des cantines",
+          "url": "https://www.education.gouv.fr"
+        }
       }
     ]
   }

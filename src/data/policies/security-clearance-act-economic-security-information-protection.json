@@ -245,6 +245,46 @@
           "title": "Sicherheitsüberprüfung (安全審査法公式解説)",
           "url": "https://www.verfassungsschutz.de"
         }
+      },
+      {
+        "code": "FR",
+        "country": "フランス",
+        "system": "国防・国家安全保障総局（SGDSN）による適性審査通達（IGI 1300）",
+        "description": "重要国家機密（Secret / Très Secret）にアクセスする公務員および民間防衛産業従事者に対し、情報機関と連携した包括的身辺調査を実施。",
+        "source": {
+          "title": "フランス国防・国家安全保障総局 (SGDSN) - Protection du secret de la défense nationale",
+          "url": "https://www.sgdsn.gouv.fr"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "連邦政府セキュリティ・スクリーニング基準（Standard on Security Screening）",
+        "description": "安全保障知能庁（CSIS）と王立騎馬警察（RCMP）が連携し、信頼性チェックから最高機密（Top Secret）までの段階的セキュリティクリアランスを運用。",
+        "source": {
+          "title": "カナダ安全保障知能庁 (CSIS) - Security Screening",
+          "url": "https://www.canada.ca/en/security-intelligence-service.html"
+        }
+      },
+      {
+        "code": "NZ",
+        "country": "ニュージーランド",
+        "system": "NZSISによる国家安全保障クリアランス（National Security Clearance）",
+        "description": "安全情報局（NZSIS）が全政府機関および指定契約企業を対象に、財務状況・外国影響力・身辺背景を精査しConfidential〜Top Secretを認証。",
+        "source": {
+          "title": "ニュージーランド安全情報局 (NZSIS) - Protective Security Requirements",
+          "url": "https://www.nzsis.govt.nz"
+        }
+      },
+      {
+        "code": "SG",
+        "country": "シンガポール",
+        "system": "内務省（MHA）および重要情報インフラ（CII）適性スクリーニング",
+        "description": "サイバーセキュリティ法および公務機密保護法に基づき、重要インフラ事業者や政府基幹システムの従事者に対する厳格な身元適性審査を法制化。",
+        "source": {
+          "title": "シンガポール内務省 (MHA) - National Security and Information Protection",
+          "url": "https://www.mha.gov.sg"
+        }
       }
     ]
   }

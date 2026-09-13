@@ -297,6 +297,46 @@
           "title": "Arbeitszeitgesetz (ArbZG § 18 Nichtanwendung des Gesetzes)",
           "url": "https://www.gesetze-im-internet.de/arbzg/__18.html"
         }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "連邦労働法典（Canada Labour Code）専門職・管理職適用除外規定",
+        "description": "高度な専門知識を要する職種（医師、弁護士、エンジニア等）や管理職に対し、標準労働時間および残業手当の規定を一律適用除外とする制度。",
+        "source": {
+          "title": "カナダ雇用・社会開発省 (ESDC) - Hours of work exemptions under Canada Labour Code",
+          "url": "https://www.canada.ca/en/employment-social-development.html"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "公正労働法高所得者免除上限（High Income Threshold）制度",
+        "description": "年間報酬が一定額（約17万豪ドル超）以上の労働者に対し、労使合意により近代賞（Modern Award）の労働時間規制や残業代規定を適用除外。",
+        "source": {
+          "title": "オーストラリア公正労働担当官 (Fair Work Ombudsman) - High income threshold",
+          "url": "https://www.fairwork.gov.au"
+        }
+      },
+      {
+        "code": "CH",
+        "country": "スイス",
+        "system": "労働法第73条に基づく自律的高所得専門職の労働時間記録免除合意",
+        "description": "年収12万スイスフラン以上の高度な自己決定権を持つ専門職に対し、書面による個別合意または労使協定により毎日の労働時間記録義務を免除。",
+        "source": {
+          "title": "スイス連邦経済管財庁 (SECO) - Arbeitszeitgesetz und Verzicht auf Arbeitszeiterfassung",
+          "url": "https://www.seco.admin.ch"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "勤労基準法第58条（裁量勤労時間制）および特別延長労働認可制",
+        "description": "研究開発や情報処理等の専門業務に対し、労使書面合意により所定時間を労働したものとみなす制度を運用。健康診断等の健康確保措置を指導。",
+        "source": {
+          "title": "韓国雇用労働部 (MOEL) - 裁量勤労時間制の運営指針",
+          "url": "https://www.moel.go.kr"
+        }
       }
     ]
   }

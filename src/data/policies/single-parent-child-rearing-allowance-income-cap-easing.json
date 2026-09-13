@@ -273,6 +273,46 @@
           "title": "Temporary Assistance for Needy Families (TANF) and EITC support",
           "url": "https://www.acf.hhs.gov/ofa/programs/tanf"
         }
+      },
+      {
+        "code": "NO",
+        "country": "ノルウェー",
+        "system": "ひとり親拡充児童手当（Utvidet barnetrygd）および前払い養育費保障",
+        "description": "ひとり親世帯に対し子どもの人数プラス1人分の児童手当を無条件上乗せ給付。別居親からの養育費未払時には公的機関（NAV）が立て替え全額前払い給付。",
+        "source": {
+          "title": "ノルウェー労働福祉庁 (NAV) - Utvidet barnetrygd for enslig forsørger",
+          "url": "https://www.nav.no"
+        }
+      },
+      {
+        "code": "SE",
+        "country": "スウェーデン",
+        "system": "児童手当多子加算（Flerbarnstillägg）および養育費援助（Underhållsstöd）",
+        "description": "所得制限のない普遍的児童手当に加え、第2子以降に手厚い多子加算を自動支給。ひとり親に対する養育費支援も国の社会保険庁が一括保証。",
+        "source": {
+          "title": "スウェーデン社会保険庁 (Försäkringskassan) - Underhållsstöd och barnbidrag",
+          "url": "https://www.forsakringskassan.se"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "子育て給付金（Parenting Payment Single）対象年齢の大幅延長",
+        "description": "シングルマザー・ファザーを支援するため、給付対象となる末子の年齢制限を従来の8歳未満から14歳未満へと大幅に引き上げ、所得支援を強化。",
+        "source": {
+          "title": "オーストラリア連邦サービス庁 (Services Australia) - Parenting Payment for single parents",
+          "url": "https://www.servicesaustralia.gov.au"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "ひとり親家族支援法に基づく児童養育費支給基準の段階的緩和",
+        "description": "基準中位所得の60%以下から63%（さらに段階的拡大）へ所得制限を緩和。満18歳未満の子ども1人あたり月21万ウォンの児童養育費を国費支給。",
+        "source": {
+          "title": "韓国女性家族部 (MOGEF) - ひとり親家族児童養育費支援事業",
+          "url": "https://www.mogef.go.kr"
+        }
       }
     ]
   }

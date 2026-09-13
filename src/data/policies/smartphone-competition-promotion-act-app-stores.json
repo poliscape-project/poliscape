@@ -241,6 +241,46 @@
           "title": "Digital Markets, Competition and Consumers Act 2024",
           "url": "https://www.gov.uk/government/news"
         }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "オーストラリア競争・消費者委員会（ACCC）デジタル市場規制提言",
+        "description": "デジタルプラットフォームサービス調査に基づき、アプリストアにおける排他的な独自決済強制の禁止やサードパーティ決済容認を義務付ける事前規制を提唱。",
+        "source": {
+          "title": "オーストラリア競争・消費者委員会 (ACCC) - Digital platform services inquiry",
+          "url": "https://www.accc.gov.au"
+        }
+      },
+      {
+        "code": "DE",
+        "country": "ドイツ",
+        "system": "競争制限禁止法（GWB）第19a条による巨大プラットフォーマー事前規制",
+        "description": "連邦カルテル庁（BKartA）が市場横断的優越的地位を持つ事業者を指定し、自己優遇やエコシステム囲い込み行為に対し立証責任を転換して迅速に差止。",
+        "source": {
+          "title": "ドイツ連邦カルテル庁 (Bundeskartellamt) - Section 19a GWB decisions",
+          "url": "https://www.bundeskartellamt.de"
+        }
+      },
+      {
+        "code": "FR",
+        "country": "フランス",
+        "system": "競争委員会（Autorité de la concurrence）によるアプリ市場法執行",
+        "description": "モバイルOSおよびアプリストアの排他性に関する徹底調査を実施し、EUデジタル市場法（DMA）と連携した国家レベルでの迅速な差止命令・制裁金を執行。",
+        "source": {
+          "title": "フランス競争委員会 (Autorité de la concurrence) - Écosystèmes mobiles et applications",
+          "url": "https://www.autoritedelaconcurrence.fr"
+        }
+      },
+      {
+        "code": "IN",
+        "country": "インド",
+        "system": "インド競争委員会（CCI）による独占的アプリ決済強制への巨額制裁",
+        "description": "OS市場の支配的地位を濫用して独自課金システム（GPBS）を義務付けた行為を独占禁止法違反と認定。サードパーティ決済およびストアの解放を命令。",
+        "source": {
+          "title": "インド競争委員会 (Competition Commission of India) - Market Study on Digital Markets",
+          "url": "https://www.cci.gov.in"
+        }
       }
     ]
   }
