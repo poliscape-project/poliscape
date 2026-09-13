@@ -9,6 +9,7 @@ interface PolicyChangesCardProps {
   isSimpleMode: boolean;
   status?: PolicyStatus;
   temporaryPeriod?: string;
+  temporaryLabel?: string;
 }
 
 const renderIcon = (name?: string) => {
@@ -31,11 +32,23 @@ export const PolicyChangesCard: React.FC<PolicyChangesCardProps> = ({
   isSimpleMode,
   status = "enacted",
   temporaryPeriod,
+  temporaryLabel,
 }) => {
   if (!changes || changes.length === 0) return null;
 
   const isUnderDiscussion = status === "discussing" || status === "proposed";
   const isTemporary = !!temporaryPeriod;
+
+  // 年度が限定されている場合（例: 2024年）は「2024年限定」など直感的な年度表示を優先
+  const tempBadgeText = (() => {
+    if (temporaryLabel) return temporaryLabel;
+    if (!temporaryPeriod) return "期間中の特例";
+    const yearMatch = temporaryPeriod.match(/(\d{4}年)/);
+    if (yearMatch) {
+      return `${yearMatch[1]}限定`;
+    }
+    return "期間中の特例";
+  })();
 
   return (
     <section className="bg-white rounded-2xl border border-slate-200/80 shadow-sm p-5 sm:p-7">
@@ -175,7 +188,7 @@ export const PolicyChangesCard: React.FC<PolicyChangesCardProps> = ({
                         : "bg-teal-600"
                     }`}
                   >
-                    {isUnderDiscussion ? "見直し案（想定）" : isTemporary ? "期間中の特例" : "これから"}
+                    {isUnderDiscussion ? "見直し案（想定）" : isTemporary ? tempBadgeText : "これから"}
                   </span>
                   <span className="font-bold text-slate-900">
                     {item.after}

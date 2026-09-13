@@ -46,6 +46,8 @@ export interface PolicyTopic {
   effectiveDate?: string;
   // 時限措置・期間限定の施策の場合の適用期間表示（例: "2024年6月実施（単年度限定）"）
   temporaryPeriod?: string;
+  // 対比カード内の特例バッジラベル（例: "2024年限定", "酷暑・厳冬期" 等。未指定時は自動判定）
+  temporaryLabel?: string;
   status: PolicyStatus;
   statusLabel: string;
 

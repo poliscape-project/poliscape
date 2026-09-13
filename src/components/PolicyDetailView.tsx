@@ -290,6 +290,7 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
                   isSimpleMode={isSimpleMode}
                   status={policy.status}
                   temporaryPeriod={policy.temporaryPeriod}
+                  temporaryLabel={policy.temporaryLabel}
                 />
 
                 {/* 🌍 海外主要国のルール比較（国際比較データがある政策のみ） */}

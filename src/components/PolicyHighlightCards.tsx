@@ -56,6 +56,13 @@ export const PolicyHighlightCards: React.FC<PolicyHighlightCardsProps> = ({
   }
 
   const isTemporary = !!policy.temporaryPeriod;
+  const tempLabel = (() => {
+    if (policy.temporaryLabel) return policy.temporaryLabel;
+    if (!policy.temporaryPeriod) return "時限措置";
+    const yearMatch = policy.temporaryPeriod.match(/(\d{4}年)/);
+    if (yearMatch) return `${yearMatch[1]}限定`;
+    return "時限措置";
+  })();
 
   // fallback: highlights が未定義の政策は policy.changes から自動生成
   if (!highlights) {
@@ -63,7 +70,7 @@ export const PolicyHighlightCards: React.FC<PolicyHighlightCardsProps> = ({
       policy.changes && policy.changes.length > 0
         ? policy.changes.slice(0, 4).map((c, idx) => ({
             label: c.topic,
-            value: c.highlight || (isUnderDiscussion ? "見直し案" : isTemporary ? "特例措置" : "新制度"),
+            value: c.highlight || (isUnderDiscussion ? "見直し案" : isTemporary ? tempLabel : "新制度"),
             unit: "",
             oldValue: isUnderDiscussion
               ? `現行: ${c.before}`
@@ -71,7 +78,7 @@ export const PolicyHighlightCards: React.FC<PolicyHighlightCardsProps> = ({
               ? `通常時: ${c.before}`
               : `これまで: ${c.before}`,
             description: c.after,
-            badge: c.highlight || (isUnderDiscussion ? "審議中" : isTemporary ? "時限措置" : "新制度"),
+            badge: c.highlight || (isUnderDiscussion ? "審議中" : isTemporary ? tempLabel : "新制度"),
             badgeColor: isUnderDiscussion
               ? "bg-amber-100 text-amber-900"
               : isTemporary
