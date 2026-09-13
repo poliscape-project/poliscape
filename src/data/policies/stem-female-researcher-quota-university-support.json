@@ -273,6 +273,58 @@
           "title": "NSF ADVANCE: Organizational Change for Gender Equity in STEM",
           "url": "https://new.nsf.gov/funding/opportunities/advance-organizational-change-gender-equity-stem-academic-professions"
         }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "高等教育法（Högskolelagen）およびジェンダー主流化義務（JiHU）",
+        "statusOrLevel": "全国立大学・高等教育機関に対する男女平等行動計画・教員採用ジェンダー目標義務化",
+        "keyFeature": "高等教育法第1条で大学運営における男女平等の推進を法定義務化。各大学はジェンダー主流化プログラム（JiHU）に基づき、教授・研究職の採用において過小代表されている性別を優先考慮するポジティブ・アクションを展開。",
+        "source": {
+          "organization": "スウェーデン高等教育機構 (Universitetskanslersämbetet - UKÄ)",
+          "title": "Jämställdhetsintegrering i högskolan (JiHU) and higher education gender equality mandates",
+          "url": "https://www.uka.se"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "アテナ・スワン憲章（Athena SWAN Charter）およびSTEM女性比率評価連動研究資金",
+        "statusOrLevel": "高等教育機関の女性研究者支援体制（金・銀・銅認証）と公的研究資金採択の連動",
+        "keyFeature": "英国高等教育機関・医学部において、女性教員比率や昇進・育児支援を審査する「Athena SWAN」認証制度を運用。国家研究資金（UKRI・NIHR等）の応募要件として一定以上の認証取得を課すことで、理工系学部の組織改革を強力に誘導。",
+        "source": {
+          "organization": "英国研究・イノベーション機構 (UK Research and Innovation - UKRI)",
+          "title": "Athena SWAN Charter and Equality, Diversity and Inclusion in STEM funding",
+          "url": "https://www.ukri.org"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "オーストラリア女性STEM国家戦略（Advancing Women in STEM Strategy）およびSAGE認定",
+        "statusOrLevel": "理工系大学・研究機関へのSAGE（Athena SWAN豪州版）導入と女子学生奨学金支援",
+        "keyFeature": "連邦産業・科学・資源省が主導し、大学の理工系学部における女子学生比率倍増と女性研究者の定着を支援。Science in Australia Gender Equity（SAGE）アクレディテーションを取得した大学に重点助成金を配分。",
+        "source": {
+          "organization": "オーストラリア連邦産業・科学・資源省 (DISR)",
+          "title": "Advancing Women in STEM strategy and national evaluation framework",
+          "url": "https://www.industry.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "女性科学技術人育成および支援に関する法律（女性科学技術人法）",
+        "statusOrLevel": "国公立大学・政府系研究機関における女性研究者採用目標比率制（30%以上）義務化",
+        "keyFeature": "2002年制定の単独法に基づき、国公立大学の理工系学部および政府出資研究機関に対し、新規任用時の女性比率目標（30%）の設定と進捗公開を義務付け。韓国女性科学技術人育成財団（WISET）が研究復帰支援資金を直接給付。",
+        "source": {
+          "organization": "韓国科学技術情報通信部 (MSIT) / WISET",
+          "title": "Act on Fostering and Supporting Women Scientists and Technicians",
+          "url": "https://www.msit.go.kr"
+        }
       }
     ]
   }

@@ -203,6 +203,58 @@
           "title": "Prêt viager hypothécaire : caractéristiques et garantie",
           "url": "https://www.service-public.fr/particuliers/vosdroits/F16142"
         }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダ住宅金融公庫（CMHC）指針およびCHIPリバースモーゲージ制度",
+        "statusOrLevel": "55歳以上の住宅所有者を対象としたノンリコース型持ち家担保融資",
+        "keyFeature": "自宅の不動産評価額の最大55%まで非課税で借入可能。生存中は元利金の返済が不要で、死亡時または住宅売却時に清算。住宅売却額が借入総額を下回っても残債が遺族に請求されないノンリコース条項（No Negative Equity Guarantee）が法的に確立。",
+        "source": {
+          "organization": "カナダ住宅ローン公庫 (Canada Mortgage and Housing Corporation - CMHC)",
+          "title": "Reverse Mortgages for Canadian Seniors: Financial considerations and consumer protection",
+          "url": "https://www.cmhc-schl.gc.ca"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "韓国住宅金融公社（HF）主宅年金（Jutaek-Yeonkeum）制度",
+        "statusOrLevel": "政府完全保証による公的リバースモーゲージ・加入者数10万世帯超",
+        "keyFeature": "高齢者の相対的貧困率が高い社会背景を受け、公的金融機関である韓国住宅金融公社が国家信用保証を提供。55歳以上の単身または夫婦に対し、生涯にわたり毎月一定額の年金方式融資を支給し、住宅価格下落リスクは政府保証基金が全額負担。",
+        "source": {
+          "organization": "韓国住宅金融公社 (Korea Housing Finance Corporation - HF)",
+          "title": "Jutaek-Yeonkeum (Government-backed reverse mortgage pension) operation guidelines",
+          "url": "https://www.hf.go.kr"
+        }
+      },
+      {
+        "country": "香港",
+        "countryCode": "HK",
+        "flag": "🇭🇰",
+        "systemName": "香港按揭証券有限公司（HKMC）リバースモーゲージ・プログラム",
+        "statusOrLevel": "政府系住宅金融公社が運営する生涯月額年金受給型制度",
+        "keyFeature": "55歳以上の居住者を対象に、持ち家を担保として終身または一定期間（10年、15年、20年）にわたり毎月の定額収入を提供。住宅資産の流動化により年金代替機能を果たし、ノンリコース保障が付帯。",
+        "source": {
+          "organization": "香港按揭証券有限公司 (The Hong Kong Mortgage Corporation - HKMC)",
+          "title": "Reverse Mortgage Programme - Lifelong annuity from residential properties",
+          "url": "https://www.hkmc.com.hk"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "中央積立基金（CPF）リース・バイバック・スキーム（Lease Buyback Scheme - LBS）",
+        "statusOrLevel": "公営HDBフラットの残余借地権を政府に売却し老後年金（CPF Life）へ組み入れ",
+        "keyFeature": "民間銀行のリバースモーゲージに代わり、住宅開発庁（HDB）が公的アパート（国民の約8割が居住）の借地期間の一部を買い取り、受取資金を高利回りの公的終身年金CPF Lifeに充当。高齢者が終生そのまま住み続けながら老後資金を確保。",
+        "source": {
+          "organization": "シンガポール住宅開発庁 (Housing & Development Board - HDB)",
+          "title": "Lease Buyback Scheme (LBS) for elderly flat owners",
+          "url": "https://www.hdb.gov.sg"
+        }
       }
     ]
   }

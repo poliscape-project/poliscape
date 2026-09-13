@@ -261,6 +261,58 @@
           "title": "National Organic Program and Organic Transition Initiative",
           "url": "https://www.ams.usda.gov/about-ams/programs-offices/national-organic-program"
         }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "国家食品戦略（National Food Strategy）および公共調達有機比率義務化",
+        "statusOrLevel": "2030年までに農地の30%を有機農業へ・公的給食での有機食材60%調達目標",
+        "keyFeature": "欧州平均を大きく上回る有機農業先進国として、学校給食や病院食などの公的調達（Public Procurement）において有機比率60%達成を義務付け。環境直接支払金（CAP補助金加算）を通じて農家の有機転換初期コストを強力に補償し、安定した国内需要を創出。",
+        "source": {
+          "organization": "スウェーデン農業庁 (Jordbruksverket)",
+          "title": "National Food Strategy and Organic Farming targets for sustainable agriculture",
+          "url": "https://jordbruksverket.se"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "有機農業将来戦略（Zukunftsstrategie ökologischer Landbau - ZöL 2030）",
+        "statusOrLevel": "2030年までに農地の30%を有機農業とする国家目標の法制化",
+        "keyFeature": "連邦食料・農業省（BMEL）が有機農業転換面積30%を達成するため、研究開発・普及員育成・有機種苗流通支援に毎年大規模な公的予算を配分。国公認の「ビオ（Bio）認証マーク」の厳格な品質管理と学校給食バイオ認証支援を実施。",
+        "source": {
+          "organization": "ドイツ連邦食料・農業省 (BMEL)",
+          "title": "Zukunftsstrategie ökologischer Landbau (ZöL 2030) - 30 Prozent Bio bis 2030",
+          "url": "https://www.bmel.de"
+        }
+      },
+      {
+        "country": "デンマーク",
+        "countryCode": "DK",
+        "flag": "🇩🇰",
+        "systemName": "オーガニック・アクション・プランおよび国家オーガニック・キュイジーヌ・ラベル",
+        "statusOrLevel": "有機農産物の国内市場シェア世界首位（12%超）・公共給食の有機化率90%（コペンハーゲン）",
+        "keyFeature": "30年以上にわたる一貫した国家支援により、世界で最も有機食品の消費シェアが高い国。政府認定のオーガニック・キュイジーヌ・ラベル（ブロンズ・シルバー・ゴールド）を導入し、公共食堂やレストランの有機食材比率を可視化して消費を牽引。",
+        "source": {
+          "organization": "デンマーク農業水産庁 (Landbrugsstyrelsen)",
+          "title": "Organic Action Plan for Denmark and Organic Cuisine Labeling",
+          "url": "https://lbst.dk"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "有機農業国家法（Legge n. 23/2022）および「バイオディストリクト（有機地区）」法制",
+        "statusOrLevel": "有機農業面積率18%（欧州主要国首位級）・地域ぐるみで推進する有機農業特区制度",
+        "keyFeature": "2022年に有機農業に特化した単独法を制定。生産者・加工業者・自治体が一体となって地域全体で有機化とエコツーリズムを進める「バイオディストリクト（有機農業特区）」に税制優遇と国家助成を付与し、南欧の農業モデルを主導。",
+        "source": {
+          "organization": "イタリア農業・食料主権・森林省 (MASAF)",
+          "title": "Legge sull'agricoltura biologica e riconoscimento dei distretti biologici",
+          "url": "https://www.politicheagricole.it"
+        }
       }
     ]
   }

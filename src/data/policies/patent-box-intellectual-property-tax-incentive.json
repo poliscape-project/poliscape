@@ -273,6 +273,58 @@
           "title": "Intellectual Property Development Incentive (IDI)",
           "url": "https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html"
         }
+      },
+      {
+        "country": "ベルギー",
+        "countryCode": "BE",
+        "flag": "🇧🇪",
+        "systemName": "イノベーション所得控除制度（Innovation Income Deduction - IID）",
+        "statusOrLevel": "特許・著作権等の対象知的財産から生じる純所得の85%を非課税（実効税率約3.75%）",
+        "keyFeature": "OECDのネクサス・アプローチ（国内R&D支出割合に応じた減税）に完全準拠し、特許権のみならず著作権で保護された革新的ソフトウェアや植物品種改良権にも適用。未使用の控除額を無期限で翌期以降に繰り越せるのが特徴。",
+        "source": {
+          "organization": "ベルギー連邦財務省 (Service Public Fédéral Finances)",
+          "title": "Innovation Income Deduction (IID) - Fiscal regime for intellectual property",
+          "url": "https://finances.belgium.be"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦税制改革法（STAF）に基づくパテントボックス制度",
+        "statusOrLevel": "特許および類似の権利から得られる純利益の最大90%を州税・市町村税で控除",
+        "keyFeature": "州レベルでの法人税制改革の一環として導入。州ごとに控除率（0〜90%）を設定可能とし、国内で行われた研究開発活動に基づく特許所得に対して大幅な減税を実施し、製薬・精密機械分野のグローバルR&D投資を誘致。",
+        "source": {
+          "organization": "スイス連邦財務省税務局 (Federal Tax Administration - FTA)",
+          "title": "Federal Act on Tax Reform and AHV Financing (STAF) - Patent Box implementation",
+          "url": "https://www.estv.admin.ch"
+        }
+      },
+      {
+        "country": "アイルランド",
+        "countryCode": "IE",
+        "flag": "🇮🇪",
+        "systemName": "ナレッジ・ディベロップメント・ボックス（Knowledge Development Box - KDB）",
+        "statusOrLevel": "認定知的財産から生じる適格所得に対する法人税率を実質半減（実効税率6.25%）",
+        "keyFeature": "OECD基準に基づく世界初の正式認定パテントボックスとして導入。アイルランド国内で行われたコンピューター・プログラムや特許発明から得られるライセンス所得や製品販売益に対して低税率を適用。",
+        "source": {
+          "organization": "アイルランド歳入庁 (Revenue Commissioners Ireland)",
+          "title": "Knowledge Development Box (KDB) - Relief for qualifying IP profits",
+          "url": "https://www.revenue.ie"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "改正パテントボックス税制（Super Patent Box / 超控除制度）",
+        "statusOrLevel": "特許・意匠・ソフトウェアにかかる研究開発費用の110%を課税所得から追加控除",
+        "keyFeature": "従来の所得控除方式から、適格知的財産の創出・維持にかかったR&D適格費用の110%を追加費用算入できる「コスト型インセンティブ（スーパー控除）」へと抜本改革し、赤字期のスタートアップでも将来の税額控除を蓄積可能に。",
+        "source": {
+          "organization": "イタリア歳入庁 (Agenzia delle Entrate)",
+          "title": "Nuovo Patent Box e superdeduzione per investimenti in ricerca e sviluppo",
+          "url": "https://www.agenziaentrate.gov.it"
+        }
       }
     ]
   }

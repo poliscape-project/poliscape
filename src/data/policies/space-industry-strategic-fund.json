@@ -317,6 +317,58 @@
           "title": "National Space Fund and Commercial Space Activities",
           "url": "https://space.gov.ae/"
         }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "英国国家宇宙戦略（National Space Strategy）および宇宙産業公的基金",
+        "statusOrLevel": "スコットランド宇宙港商業打上げ支援および小型衛星コンステレーション助成",
+        "keyFeature": "英国宇宙庁（UKSA）と科学・技術・イノベーション省（DSIT）が主導し、欧州本土初の垂直ロケット打上げ射場の開設を支援。民間小型衛星メーカーや打上げベンチャーへの戦略的調達枠を設定し、2030年までに世界宇宙市場シェア10%獲得を目指す。",
+        "source": {
+          "organization": "英国宇宙庁 (UK Space Agency - UKSA)",
+          "title": "National Space Strategy in action and commercial spaceflight funding",
+          "url": "https://www.gov.uk/government/organisations/uk-space-agency"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦政府宇宙戦略（Raumfahrtstrategie）およびマイクロランチャーコンテスト",
+        "statusOrLevel": "ドイツ航空宇宙センター（DLR）による民間小型ロケットベンチャーへの大型実証資金提供",
+        "keyFeature": "連邦経済・気候保護省（BMWK）が主導し、欧州の民間ロケット開発企業（Isar Aerospace, Rocket Factory Augsburg等）を育成するため、複数回の打上げ契約を公的保証するコンテストを実施。民間主導のニュー・スペース産業を国家支援。",
+        "source": {
+          "organization": "ドイツ航空宇宙センター (DLR)",
+          "title": "Raumfahrtstrategie der Bundesregierung und DLR-Mikrolauncher-Wettbewerb",
+          "url": "https://www.dlr.de"
+        }
+      },
+      {
+        "country": "インド",
+        "countryCode": "IN",
+        "flag": "🇮🇳",
+        "systemName": "インド宇宙政策2023（Indian Space Policy 2023）およびIN-SPACe民間開放基金",
+        "statusOrLevel": "インド宇宙研究機関（ISRO）のインフラを民間ロケット・衛星企業へ全面開放",
+        "keyFeature": "宇宙開発を民間開放するため、独立許認可・推進機関「IN-SPACe」を新設。Skyroot Aerospace等の民間ロケット打ち上げを国家主導で支援し、外国直接投資（FDI）の規制緩和とベンチャー支援基金を創設。",
+        "source": {
+          "organization": "インド宇宙研究機関 (ISRO) / IN-SPACe",
+          "title": "Indian Space Policy 2023 and private sector participation guidelines",
+          "url": "https://www.isro.gov.in"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "「フランス2030」国家投資計画における宇宙戦略枠（15億ユーロ基金）",
+        "statusOrLevel": "フランス国立宇宙研究センター（CNES）による再使用型ロケット・小型衛星投資",
+        "keyFeature": "マクロン大統領が策定した「France 2030」計画に基づき、宇宙分野に15億ユーロの公的資金を拠出。欧州の宇宙アクセス自立性を守るため、再使用型マイクロランチャー（Maiaspace等）や革新的な軌道上サービス衛星の開発を重点助成。",
+        "source": {
+          "organization": "フランス国立宇宙研究センター (Centre National d'Études Spatiales - CNES)",
+          "title": "France 2030: Stratégie spatiale et soutien aux micro-lanceurs réutilisables",
+          "url": "https://cnes.fr"
+        }
       }
     ]
   }
