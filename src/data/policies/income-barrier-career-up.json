@@ -247,5 +247,89 @@
         "commentStandard": "「行政手続きの事務負担が過重で、制度を利用したくても手が回らない中小零細企業が多い」"
       }
     ]
+  },
+  "international": {
+    "title": "世界の就労インセンティブ助成金・手取り逆転防止（Make Work Pay）助成制度比較",
+    "comparisonSummary": "短時間労働者が労働時間を延長した際の手取り減少（就労の壁）を解消するため、英国のユニバーサル・クレジット（緩やかな給付逓減）、米国のEITC、フランスの就労活動手当など、働いた分だけ手取りが確実に増える給付設計が主流です。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ユニバーサル・クレジット（Universal Credit: UC）就労テーパー率（Taper Rate）制度",
+        "statusOrLevel": "給与が1ポンド増えるごとの給付金減額率を55%に制限（手取り逆転の構造的完全排除）",
+        "keyFeature": "「常に働いた方が得になる（Make Work Pay）」原則を徹底。社会保険料や税金が発生しても、手取りの純増が45%以上保証されるよう給付金をスライド減額。",
+        "source": {
+          "organization": "英国労働年金省 (DWP)",
+          "title": "Universal Credit work allowance and taper rate guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "勤労所得税額控除（EITC: Earned Income Tax Credit）",
+        "statusOrLevel": "低中所得労働者に対する最大約7,400ドルの還付可能税額控除（負の所得税）",
+        "keyFeature": "就労初期は収入が増えるほど給付額が増加する「フェーズイン」設計を採用。パートからフルタイムへの転換を強力に後押しし、手取り減少の崖を解消。",
+        "source": {
+          "organization": "米国財務省内国歳入庁 (IRS)",
+          "title": "Earned Income Tax Credit (EITC) tables and phase-in parameters",
+          "url": "https://www.irs.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "就労活動手当（Prime d'activité: 低賃金労働者向け国費給付金）",
+        "statusOrLevel": "月収約0.5〜1.5SMIC（法定最低賃金）水準の就業者に対する月額数百ユーロの直接補填",
+        "keyFeature": "家族手当公掌（CAF）が毎月直接支給。労働時間を増やして給与が上がっても手取りが減らないよう、給与増額の一定割合を手当で手厚く補填。",
+        "source": {
+          "organization": "フランス連帯・家族省 (Ministère des Solidarités) / CAF",
+          "title": "La Prime d'activité: conditions d'attribution et calcul",
+          "url": "https://www.caf.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ミディジョブ（Midi-Job / Übergangsbereich: 移行領域）社会保険料軽減制度",
+        "statusOrLevel": "月収538〜2,000ユーロの就労者に対する従業員負担社会保険料の段階的逓増措置",
+        "keyFeature": "ミニジョブ上限（538ユーロ）を超えて働いても、いきなり全額の社保負担がかからず、滑らかに保険料率が上昇する移行ゾーンを法制化。雇用主にはキャリアアップ助成金。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS) / Minijob-Zentrale",
+          "title": "Der Übergangsbereich (Midi-Job): Gleitzone für Sozialversicherungsbeiträge",
+          "url": "https://www.bmas.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "勤労奨励金（EITC: 勤労・子ども奨励税制）および雇用創出奨励金",
+        "statusOrLevel": "年間最大330万ウォンの現金還付およびパート労働者の正規転換企業支援金",
+        "keyFeature": "年収区分ごとに単調増加・維持・緩慢減少の3区間を設定し、労働時間の増加意欲を刺激。非正規から正規雇用へ転換した中小企業に月額賃金上昇分を公費補助。",
+        "source": {
+          "organization": "大韓民国国税庁 (NTS) / 雇用労働部",
+          "title": "Earned Income Tax Credit and Job Creation Encouragement Funds",
+          "url": "https://www.nts.go.kr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "ファミリー・タックス・ベネフィット（FTB Part A/B）就労テーパー設計",
+        "statusOrLevel": "母親・配偶者の就労開始に伴う世帯給付金の急激な減額を防止する給付減免調整",
+        "keyFeature": "サービス・オーストラリアが管轄。配偶者の収入が一定額を超えても、保育料補助（CCS）と連動させて手取り逆転を防ぎ、女性のフルタイム復帰を促進。",
+        "source": {
+          "organization": "オーストラリア社会支援省 (DSS) / サービス・オーストラリア",
+          "title": "Family Tax Benefit income test and workforce participation incentives",
+          "url": "https://www.servicesaustralia.gov.au"
+        }
+      }
+    ]
   }
 }

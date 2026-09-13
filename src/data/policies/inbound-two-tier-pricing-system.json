@@ -205,5 +205,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Scale"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の観光地・文化遺産における「二重価格（住民割引 vs 外国人観光客価格）」制度比較",
+    "comparisonSummary": "オーバーツーリズム対策と歴史的文化財の維持費用を外国人旅行者から適正に回収するため、タイの国立公園、インドの世界遺産、米欧の住民身分証による無料・割引制度など、多様な内外価格差スキームが導入されています。",
+    "countries": [
+      {
+        "country": "タイ",
+        "countryCode": "TH",
+        "flag": "🇹🇭",
+        "systemName": "国立公園法（National Parks Act）外国人・自国民二重入場料制度（Dual Pricing）",
+        "statusOrLevel": "外国人観光客に対しタイ国民の数倍〜10倍（200〜400バーツ vs 20〜40バーツ）の公式料金設定",
+        "keyFeature": "税金を納めているタイ国民への公共還元と、外貨獲得・自然保護財源の調達を両立。タイ国内就労ビザ・労働許可証（Work Permit）保持者には自国民料金を適用。",
+        "source": {
+          "organization": "タイ国立公園・野生動植物保全局 (DNP) / 観光スポーツ省",
+          "title": "National Park Admission Fees and Dual Pricing Regulations",
+          "url": "https://www.dnp.go.th"
+        }
+      },
+      {
+        "country": "インド",
+        "countryCode": "IN",
+        "flag": "🇮🇳",
+        "systemName": "インド考古調査局（ASI）管理世界遺産二重入場料（タージ・マハル等）",
+        "statusOrLevel": "外国人観光客向け高額チケット（約1,100ルピー）と自国民チケット（約50ルピー）の20倍差",
+        "keyFeature": "外国人向けには優先入場レーン、専用給水ボトル、靴カバー配布等の付加価値サービスを付帯。収益は全額国宝級遺跡の修復・周辺インフラ整備に充当。",
+        "source": {
+          "organization": "インド考古調査局 (Archaeological Survey of India - ASI) / 観光省",
+          "title": "Monument Entry Ticket Pricing Categories for Domestic and Foreign Visitors",
+          "url": "https://asi.nic.in"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ハワイ州ハナウマ湾自然保護区等における州外観光客入場料課金条例",
+        "statusOrLevel": "州外観光客に25ドルの入場料＋事前予約制・ハワイ州民（State ID提示）は完全無料",
+        "keyFeature": "脆弱な海洋生態系を保護するため、地元住民の利用権を無償保障しつつ観光客に環境保全コストを全額転嫁。集まった料金でサンゴ礁再生プログラムを全額賄う。",
+        "source": {
+          "organization": "米国ハワイ州ホノルル市郡公園・レクリエーション局",
+          "title": "Hanauma Bay Nature Preserve: Non-Resident Entry Fees and Reservation System",
+          "url": "https://www.honolulu.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "ルーヴル美術館・ヴェルサイユ宮殿におけるEU若年層無料・域外観光客料金差",
+        "statusOrLevel": "26歳未満のEU加盟国住民完全無料・一般外国人観光客の入館料引き上げ（22ユーロ）",
+        "keyFeature": "単純な国籍差別を避け「EU居住者」という枠組みで自国・同盟国若者の文化アクセスを保障。オリンピックを機に外国人旅行者向け入館料を戦略的に改定。",
+        "source": {
+          "organization": "フランス文化省 (Ministère de la Culture) / ルーヴル美術館",
+          "title": "Conditions de gratuité et tarification du Musée du Louvre pour les visiteurs",
+          "url": "https://www.louvre.fr"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "ベネチア市日帰り観光客入域料（Contributo di accesso）および市民・宿泊客免除",
+        "statusOrLevel": "世界初の日帰り観光客一律5ユーロ事前決済義務化・住民およびヴェネト州民は完全免除",
+        "keyFeature": "過密日の旧市街流入を抑制するためQRコード入場チェックを実施。市内ホテル宿泊客は宿泊税を支払うため免除され、日帰り外客のみから選択的徴収。",
+        "source": {
+          "organization": "イタリア・ベネチア市 (Comune di Venezia)",
+          "title": "Regolamento per l'istituzione e l'applicazione del Contributo di Accesso a Venezia",
+          "url": "https://cda.ve.it"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "サグラダ・ファミリアおよびグエル公園におけるバルセロナ市民無料枠制度",
+        "statusOrLevel": "観光客への通常入場料（26〜30ユーロ）徴収とバルセロナ市民（住民票提示）向け無料時間帯設定",
+        "keyFeature": "市民カード（Gaudir Més）登録者に対し、早朝や週末の特定時間を完全無料開放。観光公害に悩む地域住民の生活圏と観光収入の還元を両立。",
+        "source": {
+          "organization": "スペイン・カタルーニャ州政府 / バルセロナ市議会",
+          "title": "Programa Gaudir Més i accés gratuït per a veïns als espais patrimonials",
+          "url": "https://www.barcelona.cat"
+        }
+      }
+    ]
+  }
 }

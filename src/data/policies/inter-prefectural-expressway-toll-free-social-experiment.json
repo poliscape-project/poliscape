@@ -205,5 +205,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "CreditCard"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の高速道路における物流専用レーン（Freight Lanes）・休日混雑課金および無料化政策比較",
+    "comparisonSummary": "トラック物流の効率化と観光渋滞の平準化のため、ドイツのトラック専用課金網、米国の商用車専用レーン、中国の休日限定小型車無料化など、車種・時間帯ごとのスマート料金政策が各国で運用されています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦アウトバーン公社トラック通行料（Lkw-Maut）および乗用車完全無料制",
+        "statusOrLevel": "一般乗用車は休日・平日問わず完全無料・7.5トン以上大型トラックのみGPS距離課税",
+        "keyFeature": "休日は物流トラックの運行を原則禁止（日曜・祝日トラック走行禁止令: Sonntagsfahrverbot）し、乗用車の渋滞と事故を防止。平日は物流の円滑化を最優先。",
+        "source": {
+          "organization": "ドイツ連邦物流・移動庁 (BALM) / 連邦交通省 (BMDV)",
+          "title": "Lkw-Maut und Sonn- und Feiertagsfahrverbot für Lastkraftwagen",
+          "url": "https://www.balm.bund.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "商用車専用レーン（Truck-Only Lanes）および州間高速道路（Interstate）原則無料制",
+        "statusOrLevel": "ジョージア州I-75号線等における主要物流回廊での大型トラック専用分離車線運用",
+        "keyFeature": "乗用車と大型トラックの車線を物理的に分離し、物流スピード向上と重大事故撲滅を両立。連邦補助道路法に基づき一般車線は原則無料を堅持。",
+        "source": {
+          "organization": "米国連邦高速道路局 (FHWA) / ジョージア州運輸局 (GDOT)",
+          "title": "Truck-Only Lanes: Freight Performance and Safety Feasibility Studies",
+          "url": "https://ops.fhwa.dot.gov"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "重大祝日小型乗用車通行料免除政策（重大節假日免収小型客車通行費方針）",
+        "statusOrLevel": "春節、清明節、労働節、国慶節の年4大連休における7人乗り以下乗用車の全国高速道路100%無料化",
+        "keyFeature": "連休中の料金所ゲートを全面開放しノンストップ通過を実現。休日観光需要を爆発的に刺激する一方、ETC利用を前提とした物流車両向け優遇割引を平日設定。",
+        "source": {
+          "organization": "中国交通運輸部 (MOT) / 国務院",
+          "title": "Notice on the Plan for Toll-Free Passage of Small Passenger Cars on Major Holidays",
+          "url": "https://www.mot.gov.cn"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "高速道路時間帯別変動料金（Péage modulé）および相乗り・EV優先レーン",
+        "statusOrLevel": "週末夕方ピーク時の料金割増（+25%）とオフピーク割引（-25%）による交通平準化",
+        "keyFeature": "サン・アルヌー等の大型料金所での待機渋滞を解消するため、利用時間のシフトを経済誘導。パリ周辺高速道では相乗り（Covoiturage）車両専用レーンを法定義務化。",
+        "source": {
+          "organization": "フランス生態移行・国土結束省 (MTECT)",
+          "title": "La modulation tarifaire et voies réservées au covoiturage sur les autoroutes",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "名節期間高速道路通行料全額免除制度および京釜高速道路バス専用レーン",
+        "statusOrLevel": "秋夕（チュソク）・旧正月連休期間中の全国有料高速道路通行料100%無料化",
+        "keyFeature": "帰省ラッシュ時の料金所ゲート滞留をゼロにするため完全無償開放。高速道路中央車線に24時間または週末「高速バス・多人数乗車専用レーン」を常設し公共交通を最優先。",
+        "source": {
+          "organization": "大韓民国国土交通部 (MOLIT) / 韓国道路公社 (EX)",
+          "title": "National Holiday Toll Exemption and Bus-Only Lane Regulations",
+          "url": "https://www.molit.go.kr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "スマート・モーターウェイ（Smart Motorways: 動的硬路肩レーン運用）",
+        "statusOrLevel": "交通量に応じた路肩の走行車線一時開放（All Lane Running）および可変最高速度（VMS）",
+        "keyFeature": "料金所を作らずに道路容量を33%拡大。貨物トラック線路へのモーダルシフト助成（Mode Shift Revenue Support）とセットで高速道路混雑を緩和。",
+        "source": {
+          "organization": "英国運輸省 (DfT) / National Highways",
+          "title": "Smart motorway operation and Freight transport mode shift schemes",
+          "url": "https://www.gov.uk"
+        }
+      }
+    ]
+  }
 }

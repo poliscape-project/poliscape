@@ -205,5 +205,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "HeartPulse"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の感染症危機管理司令塔機関（CDC・UKHSA・HERA）および公衆衛生統合組織比較",
+    "comparisonSummary": "パンデミック時の迅速な意思決定と科学的知見の直結に向け、米国の連邦CDC、英国のUKHSA、EUのHERA、韓国の疾病管理庁など、科学研究・疫学調査と行政指揮権を一体化させた強力な専門機関が運用されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "疾病予防管理センター（CDC: Centers for Disease Control and Prevention）およびASPR",
+        "statusOrLevel": "連邦保健福祉省（HHS）傘下の世界最大規模の感染症・公衆衛生中枢機関（職員数約1万3,000人）",
+        "keyFeature": "大統領直属の準備対応担当次官補（ASPR）が国家戦略備蓄（SNS）やワクチン調達（BARDA）を指揮。CDCがリアルタイム全米サーベイランスと緊急ガイダンスを一括発令。",
+        "source": {
+          "organization": "米国疾病予防管理センター (CDC) / 保健福祉省 (HHS)",
+          "title": "CDC Organization and Strategic Framework for Global and National Health Security",
+          "url": "https://www.cdc.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "英国健康安全保障庁（UKHSA: UK Health Security Agency - 2021年創設）",
+        "statusOrLevel": "科学研究機関と感染症危機管理実行部隊を完全統合した執行エージェンシー",
+        "keyFeature": "コロナ禍を機に旧PHE（イングランド公衆衛生庁）とNHSテスト＆トレースを再編。ゲノム解析能力を直結させ、新変異株の探知からワクチン評価・緊急介入までをワンストップ指揮。",
+        "source": {
+          "organization": "英国健康安全保障庁 (UKHSA) / 保健社会的ケア省",
+          "title": "About the UK Health Security Agency (UKHSA) and Science Strategy",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州保健緊急事態準備・対応機関（HERA: Health Emergency Preparedness and Response Authority）",
+        "statusOrLevel": "欧州疾病予防管理センター（ECDC）と連携するEUレベルの医薬品・医療機材調達司令塔",
+        "keyFeature": "パンデミック発生時にEU加盟国全体のワクチン共同調達契約を即座に締結。加盟国間で重症病床や抗ウイルス薬を相互融通する緊急調整権を保有。",
+        "source": {
+          "organization": "欧州委員会健康・食品安全総局 / HERA",
+          "title": "European Health Emergency preparedness and Response Authority (HERA)",
+          "url": "https://health.ec.europa.eu"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "大韓民国疾病管理庁（KDCA: Korea Disease Control and Prevention Agency）",
+        "statusOrLevel": "2020年に保健福祉部傘下の本部から独立した「次官級独立中央行政機関」へ昇格",
+        "keyFeature": "長官（庁長）が感染症法に基づく危機警報発令、隔離命令、ワクチン接種計画、予算編成の独自の完全法的権限を保有。地方5大ブロックに感染症対応センターを常設。",
+        "source": {
+          "organization": "大韓民国疾病管理庁 (KDCA)",
+          "title": "Framework Act on the Prevention and Control of Infectious Diseases and KDCA Mandate",
+          "url": "https://www.kdca.go.kr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ロベルト・コッホ研究所（RKI: Robert Koch Institute）および連邦公衆衛生研究所改革",
+        "statusOrLevel": "連邦保健省直属の最高国家生物医学研究機関および感染症サーベイランス中枢",
+        "keyFeature": "感染症予防法（IfSG）に基づき、全国の保健所（Gesundheitsamt）からの疫学データを一元集約。科学的リスク評価を公表し、連邦・州首相会議の政策決定を主導。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG) / ロベルト・コッホ研究所 (RKI)",
+          "title": "Infektionsschutzgesetz (IfSG) und Aufgaben des Robert Koch-Instituts",
+          "url": "https://www.rki.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "サンテ・ピュブリック・フランス（Santé publique France）および公衆衛生危機省庁間委員会",
+        "statusOrLevel": "公衆衛生疫学調査・医薬品備蓄管理（EPRUS後継）を統合した国家公掌機関",
+        "keyFeature": "首相が議長を務める省庁間危機管理センター（CIC）が政治的意思決定を行い、サンテ・ピュブリック・フランスが全国の感染症データ分析とマスク・治療薬の国家備蓄を管理。",
+        "source": {
+          "organization": "フランス連帯・保健省 / Santé publique France",
+          "title": "Missions et organisation de l'Agence nationale de santé publique",
+          "url": "https://www.santepubliquefrance.fr"
+        }
+      }
+    ]
+  }
 }

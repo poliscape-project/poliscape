@@ -185,5 +185,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Gift"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の侵略的外来種（Invasive Alien Species）緊急防除・輸入飼育禁止法制比較",
+    "comparisonSummary": "生態系破壊と農林業被害を防ぐため、EUの侵略的外来種規則（完全禁止リスト）、英国のキョン野外放出厳罰法、米国のレイシー法、NZの捕食者撲滅法制など、早期発見・徹底駆除と流通遮断が国際法制化されています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU侵略的外来種規則（Regulation (EU) No 1143/2014）",
+        "statusOrLevel": "「EU懸念外来種リスト（Union List）」指定種（アメリカザリガニ等88種）の輸入・飼育・繁殖・販売の全面禁止",
+        "keyFeature": "指定された生物は愛玩飼育や生体取引が完全に違法化。加盟国には初期侵入時の即時根絶（Rapid Eradication）と定着種に対する管理措置の年次報告を義務化。",
+        "source": {
+          "organization": "欧州委員会環境総局 (DG ENV)",
+          "title": "EU Regulation 1143/2014 on Invasive Alien Species and the Union List",
+          "url": "https://environment.ec.europa.eu"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "野生生物・田園地帯法1981（Wildlife and Countryside Act 1981: 第14条）",
+        "statusOrLevel": "キョン（Muntjac Deer）等の特定外来野生動物の野外放出・逃亡防止の完全厳罰化",
+        "keyFeature": "森林下層植生を壊滅させるキョンの駆除を促進。生息密度の高い地域では年間を通じた猟銃駆除を公認し、個体数管理計画（Deer Management Strategy）を国策推進。",
+        "source": {
+          "organization": "英国環境・食料・農村地域省 (Defra) / Forestry Commission",
+          "title": "Muntjac deer: control and management in England and Wales",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "レイシー法（Lacey Act: 18 U.S.C. 42）有害野生生物（Injurious Wildlife）指定",
+        "statusOrLevel": "有害外来魚類・甲殻類（侵略的外来ザリガニ等）の州間移動および米国内輸入の完全禁止",
+        "keyFeature": "合衆国魚類野生生物局（USFWS）が指定。無許可の州境移動には高額の連邦過料と刑事罰を適用。ミシガン州等では特定外来ザリガニの生体所持を重罪化。",
+        "source": {
+          "organization": "米国魚類野生生物局 (USFWS) / 内務省",
+          "title": "Lacey Act Injurious Wildlife Listings and Invasive Crayfish Control",
+          "url": "https://www.fws.gov"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "生物安全保障法（Biosecurity Act 1993）およびプレデター・フリー2050（Predator Free 2050）",
+        "statusOrLevel": "2050年までに国土全域から外来捕食動物（フクロギツネ・イタチ・ネズミ等）を完全根絶する国家法定プロジェクト",
+        "keyFeature": "外来生物の根絶を国家法規として明記。国境での手荷物100%X線・探知犬検査と、AI自動トラップや無人ヘリ空中散布による島嶼部完全根絶モデルを確立。",
+        "source": {
+          "organization": "ニュージーランド環境保全省 (DOC) / 第一次産業省 (MPI)",
+          "title": "Predator Free 2050 Programme and Biosecurity Act Enforcement",
+          "url": "https://www.doc.govt.nz"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "環境保護・生物多様性保全法（EPBC Act 1999）脅威軽減計画（Threat Abatement Plans）",
+        "statusOrLevel": "外来種（ノヤギ、ヨーロッパウサギ、アカギツネ等）による生態系被害防止の連邦法定義務化",
+        "keyFeature": "重要在来種の絶滅危惧を引き起こす外来生物の生息密度を公費で徹底抑制。生物防除（ウイルス・バイオコントロール技術）の安全実証と現場散布を法的に認可。",
+        "source": {
+          "organization": "オーストラリア気候変動・エネルギー・環境・水資源省 (DCCEEW)",
+          "title": "Threat Abatement Plans for invasive species under the EPBC Act",
+          "url": "https://www.dcceew.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "野生生物保護及び管理に関する法律（生態系撹乱生物指定制度）",
+        "statusOrLevel": "アメリカザリガニ、ヌートリア、オオクチバス等の輸入・流通・飼育の完全承認制化と捕獲報奨金",
+        "keyFeature": "環境部が「生態系撹乱生物」を指定。自治体と連携し、外来ザリガニ等の捕獲者に対しキロ単位の公費報奨金を支給する集中駆除プログラムを全国の湿地で展開。",
+        "source": {
+          "organization": "大韓民国環境部 (ME) / 国立生態院 (NIE)",
+          "title": "Wildlife Protection and Management Act: Ecosystem Disturbance Organisms Regulations",
+          "url": "https://www.me.go.kr"
+        }
+      }
+    ]
+  }
 }

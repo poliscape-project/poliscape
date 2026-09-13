@@ -255,5 +255,89 @@
         "commentStandard": "「目先の手取りのために社保加入を遅らせると、将来の年金受給額が低くなる老後貧困リスクがある」"
       }
     ]
+  },
+  "international": {
+    "title": "世界の配偶者控除・社会保険被扶養者基準（年収の壁）改革および個人単位課税比較",
+    "comparisonSummary": "主婦層等の就労抑制（103万・106万・130万の壁）を解消するため、欧米主要国では世帯課税から「個人単位課税」への移行、配偶者控除の縮小・廃止、社会保険の短時間労働者への一律適用が進められています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "完全個人単位課税（Independent Taxation）および国民保険料（NICs）個人基準",
+        "statusOrLevel": "1990年に世帯主課税・配偶者合算を全廃し全納税者に同一の個人所得控除（Personal Allowance）を付与",
+        "keyFeature": "配偶者の収入によって税金や年金権が変動する制度を全廃。誰もが年間約1万2,570ポンドまで非課税で働け、配偶者の扶養による就労調整インセンティブが存在しない。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC) / 財務省",
+          "title": "Income Tax rates and Personal Allowances for independent taxpayers",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "1971年税制改革（夫婦別産・完全個人課税制）および保育所全児童保障",
+        "statusOrLevel": "世界に先駆けて配偶者控除を完全撤廃・女性就業率世界トップ水準（80%超）達成",
+        "keyFeature": "世帯課税を廃止し、夫婦どちらが稼いでも同じ税率が適用される個人課税を確立。主婦優遇をなくす一方で安価な公立保育園を完備し、共働きフルタイムを標準化。",
+        "source": {
+          "organization": "スウェーデン税務庁 (Skatteverket) / 財務省",
+          "title": "Individual taxation reform of 1971 and gender equality in the labor market",
+          "url": "https://www.skatteverket.se"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "夫婦二分二乗課税（Ehegattensplitting）論争およびミニジョブ（Minijob）制度",
+        "statusOrLevel": "夫婦の所得を合算二分割して累進課税を適用する制度に対する就労抑制批判と見直し議論",
+        "keyFeature": "片働き世帯に有利な課税方式のため主婦の就労抑制を招いているとOECD等から是正勧告。税区分（Steuerklasse III/V）を廃止し自動按分（IV/IV因子法）へ移行推進中。",
+        "source": {
+          "organization": "ドイツ連邦財務省 (BMF) / 連邦家族省 (BMFSFJ)",
+          "title": "Reform der Steuerklassen III und V und das Ehegattensplitting",
+          "url": "https://www.bundesfinanzministerium.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "家族商数制度（Quotient familial）および個人単位課税併用オプション",
+        "statusOrLevel": "子どもの数に応じて税率を軽減する世帯課税を維持しつつ源泉徴収税率の夫婦個別選択制導入",
+        "keyFeature": "所得格差のある夫婦間で、低所得側の配偶者（主に女性）が過重な源泉税率を引かれないよう、個人別個別税率（Taux individualisé）を選択できる制度を導入。",
+        "source": {
+          "organization": "フランス公共財政総局 (DGFiP)",
+          "title": "Prélèvement à la source: choix du taux individualisé au sein du couple",
+          "url": "https://www.impots.gouv.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦所得税夫婦合算申告（Married Filing Jointly: MFJ）および社会保障配偶者給付",
+        "statusOrLevel": "合算申告による標準控除（2万9,200ドル）設定と高所得配偶者の税率ブラケット二倍化",
+        "keyFeature": "夫婦合算申告では控除枠が単身の倍になるが、共働き高所得者には「婚姻ペナルティ（Marriage Penalty）」が発生する二重構造。個人申告（MFS）も選択可能。",
+        "source": {
+          "organization": "米国財務省内国歳入庁 (IRS)",
+          "title": "Filing Status: Married Filing Jointly vs Married Filing Separately",
+          "url": "https://www.irs.gov"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "個人単位所得税制および国民年金・健康保険の職場加入者適用基準",
+        "statusOrLevel": "所得税は完全個人単位・月60時間以上勤務の全短時間労働者への社会保険強制適用",
+        "keyFeature": "所得税に配偶者合算課税はなく個人単位。社会保険も週15時間（月60時間）以上勤務で例外なく職場保険（雇用主折半）に加入させ、被扶養者による就労調整を極小化。",
+        "source": {
+          "organization": "大韓民国国民年金公団 (NPS) / 国民健康保険公団 (NHIS)",
+          "title": "Workplace National Pension and Health Insurance Eligibility Criteria for Part-Time Workers",
+          "url": "https://www.nps.or.kr"
+        }
+      }
+    ]
   }
 }

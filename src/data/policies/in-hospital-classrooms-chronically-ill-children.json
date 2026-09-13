@@ -205,5 +205,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "HeartHandshake"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の小児入院患者・慢性疾患児童に対する院内教育（院内学級）および遠隔学籍保障法制比較",
+    "comparisonSummary": "小児がん等の長期療養児の学習権と原籍校復帰を保障するため、米国のIDEA遠隔教育義務、フランスのアバターロボット遠隔授業（TED-i）、北欧の公立病院学校など、医療・教育が完全にシームレスに直結した公費支援が確立されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "障害者教育法（IDEA）およびリハビリテーション法第504条（Homebound/Hospital Instruction）",
+        "statusOrLevel": "入院・自宅療養児に対する学区教育委員会の公費教員派遣および遠隔学習の法定義務化",
+        "keyFeature": "主治医の診断書に基づき、学区が直ちに個別教育計画（IEP/504プラン）を策定。入院中も原籍校の在籍・出席扱いを100%維持し、病床でのオンライン受講を単位認定。",
+        "source": {
+          "organization": "米国教育省 (ED) / 各州教育局",
+          "title": "IDEA Regulations: Homebound and Hospital Instruction Services",
+          "url": "https://www.ed.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "教育省TED-i遠隔教育ロボットプログラム（Programme TED-i）および院内学校教員配置",
+        "statusOrLevel": "全国の長期入院小中高校生に対するアバターロボット（Beam等）数千台の無償公費貸与",
+        "keyFeature": "病室のタブレットから教室に置いたロボットを児童が遠隔操作。首振りや挙手、クラスメイトとの会話が可能で、心理的孤立を防ぎ原籍校の通常カリキュラムを完全出席履修。",
+        "source": {
+          "organization": "フランス国民教育・青少年省 (MENJ)",
+          "title": "Programme TED-i: Travailler Ensemble à Distance et en Interaction pour les élèves hospitalisés",
+          "url": "https://www.education.gouv.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "児童生徒健康ニーズ教育ガイダンス（Education for children with health needs - 地方自治体義務）",
+        "statusOrLevel": "病気により15日以上欠席する児童に対する地方自治体の代替教育（Alternative Provision）提供義務",
+        "keyFeature": "法律により、入院後速やかに病院内学校（Hospital School）または病床訪問指導員を配置。原籍校と病院が密に連絡を取り、試験（GCSE等）を病床で公式受験可能。",
+        "source": {
+          "organization": "英国教育省 (DfE)",
+          "title": "Arranging education for children who cannot attend school because of health needs",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "各連邦州学校法病児学校（Schule für Kranke）制度",
+        "statusOrLevel": "大学病院・大規模小児病院に併設された公立の特別学校・専任正規教員の常駐配置",
+        "keyFeature": "全科目の正規教員が病棟に常駐。子どもの病状・治療スケジュールに合わせて1回15分〜数時間の個別指導を行い、修了単位や進級判定を原籍校へ公的に移管。",
+        "source": {
+          "organization": "ドイツ州文相会議 (KMK) / バイエルン州教育省等",
+          "title": "Schulen für Kranke: Sonderpädagogische Förderung und Unterricht für hospitalisierte Schüler",
+          "url": "https://www.kmk.org"
+        }
+      },
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "基礎教育法（Basic Education Act）病院学校（Sairaalakoulu）および多職種連携",
+        "statusOrLevel": "全大学病院に設置された基礎自治体公立病院学校・治療と教育の完全統合",
+        "keyFeature": "医師・看護師・小児精神科医と教員が毎朝合同カンファレンスを実施。健康状態に応じて学習量を調整し、退院後の通常校への復帰伴走プログラムを法律で規定。",
+        "source": {
+          "organization": "フィンランド国家教育庁 (OPH)",
+          "title": "Hospital school teaching and supporting pupils with illnesses",
+          "url": "https://www.oph.fi"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "障害者等に対する特殊教育法および健康障害生徒遠隔画像授業（夢の愛学校）",
+        "statusOrLevel": "全国30カ所以上の大学病院内学校および教育庁認定サイバー遠隔教育システム",
+        "keyFeature": "小児がん・白血病等で3カ月以上の治療を要する生徒を「健康障害生徒」に指定。PCやスマホによる双方向遠隔授業を受講することで原籍校の出席日数を100%認定。",
+        "source": {
+          "organization": "大韓民国教育部 (MOE) / 国立特殊教育院 (NISE)",
+          "title": "Hospital Schools and Distance Learning Support for Students with Health Impairments",
+          "url": "https://www.moe.go.kr"
+        }
+      }
+    ]
+  }
 }

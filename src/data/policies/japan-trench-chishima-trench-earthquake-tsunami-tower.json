@@ -186,5 +186,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の超巨大地震・巨大津波対策（垂直避難タワー・構造物基準）法制比較",
+    "comparisonSummary": "到達時間が短く高台への水平避難が間に合わない巨大津波から人命を救うため、米国のカスケード沈み込み帯垂直避難タワー、インドネシアの避難ビル（TES）、チリの高台アクセス法など、頑強な人工津波避難構造物の整備基準が法規化されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦緊急事態管理庁（FEMA P-646）津波垂直避難構造物設計ガイドライン",
+        "statusOrLevel": "ワシントン州沿岸部における全米初の津波避難タワー（オコスタ小学校・ウエストポート等）建設法制",
+        "keyFeature": "M9級カスケード巨大地震の津波波力・漂流物衝突・液状化に耐えうる鉄筋コンクリート多層構造基準を制定。FEMA公費助成により学校屋上や公共タワーに千人規模の避難空間を確保。",
+        "source": {
+          "organization": "米国連邦緊急事態管理庁 (FEMA) / ワシントン州緊急事態管理部",
+          "title": "Guidelines for Design of Structures for Vertical Evacuation from Tsunamis (FEMA P-646)",
+          "url": "https://www.fema.gov"
+        }
+      },
+      {
+        "country": "インドネシア",
+        "countryCode": "ID",
+        "flag": "🇮🇩",
+        "systemName": "国家災害対策庁（BNPB）津波避難ビル（TES: Tempat Evakuasi Sementara）整備マスタープラン",
+        "statusOrLevel": "2004年スマトラ沖地震被災地（バンダ・アチェ等）における数十カ所の頑強な高層避難ビル公設",
+        "keyFeature": "1階を吹き抜け（ピロティ構造）にして津波の波力を受け流し、最上階および屋上に数千人を収容する設計基準を策定。平時はコミュニティセンターやモスクとして活用。",
+        "source": {
+          "organization": "インドネシア国家災害対策庁 (BNPB) / 公共事業・国民住宅省",
+          "title": "Pedoman Teknis Pembangunan Tempat Evakuasi Sementara (TES) Tsunami",
+          "url": "https://bnpb.go.kr"
+        }
+      },
+      {
+        "country": "チリ",
+        "countryCode": "CL",
+        "flag": "🇨🇱",
+        "systemName": "国家災害予防対応庁（SENAPRED）津波安全避難基準および沿岸ゾーニング",
+        "statusOrLevel": "沿岸部における海抜30m以上の安全避難高台への「15分以内到達ルート」法定義務化",
+        "keyFeature": "急峻な地形を活かした高台避難路の耐震補強を徹底。高台がない低地都市部では、新築公共建築物に対し指定津波避難ビルとしての構造強度証明を建築基準で義務付け。",
+        "source": {
+          "organization": "チリ内務公安省国家災害予防対応庁 (SENAPRED) / 建築基準局",
+          "title": "Planes de Evacuación por Tsunami y Especificaciones de Edificación Costera",
+          "url": "https://senapred.cl"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "国家緊急事態管理庁（NEMA）津波避難構造物技術ガイドライン（DGL 20/20）",
+        "statusOrLevel": "ヒクランギ沈み込み帯巨大地震対策としての人工津波避難マウンドおよび垂直避難施設基準",
+        "keyFeature": "平坦な沿岸集落に人工の高台（Tsunami Evacuation Mound: 土盛り避難マウンド）を公設。車椅子スロープや非常用備蓄倉庫を備え、水平避難不能地域の住民を全数保護。",
+        "source": {
+          "organization": "ニュージーランド国家緊急事態管理庁 (NEMA)",
+          "title": "National Technical Standard: Design of Tsunami Vertical Evacuation Structures",
+          "url": "https://www.civildefence.govt.nz"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "災害防救法および沿岸津波防護建築・指定避難所計画",
+        "statusOrLevel": "東海岸（花蓮・宜蘭等）の海溝型地震に備えた津波避難ビル指定および誘導システム",
+        "keyFeature": "内政部が沿岸3階建て以上の耐震適格鉄筋コンクリート建築物を「津波一時避難ビル」に一括指定。非常用階段の外部直通化改修に公費助成を交付。",
+        "source": {
+          "organization": "台湾内政部消防署 (National Fire Agency) / 建築研究所",
+          "title": "Tsunami Hazard Mitigation Plan and Vertical Evacuation Shelter Guidelines",
+          "url": "https://www.nfa.gov.tw"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "海外県（アンティル諸島等）津波・サイクロン高台避難シェルター法制",
+        "statusOrLevel": "カリブ海海外県マルティニーク・グアドループにおける耐波・高耐風津波シェルター建設",
+        "keyFeature": "沈み込み帯地震による津波とハリケーン高潮の複合災害に耐える高床式鉄筋コンクリート公共避難棟を整備。非常用発電機と淡水化装置を上層階に配置。",
+        "source": {
+          "organization": "フランス生態移行省 / マルティニーク県庁",
+          "title": "Plan Séisme Antilles et construction de refuges paracycloniques et tsunamis",
+          "url": "https://www.martinique.gouv.fr"
+        }
+      }
+    ]
+  }
 }

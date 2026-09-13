@@ -185,5 +185,89 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界のインターネット投票（i-Voting / Remote Electronic Voting）法制・導入比較",
+    "comparisonSummary": "在外有権者や重度障害者の参政権を保障するため、エストニアの世界先駆の全国政権選挙ネット投票、フランスの在外下院選挙ネット投票、スイスの暗号化検証実証など、秘密投票と不正防止（サイバーセキュリティ）を両立させた法制が運用されています。",
+    "countries": [
+      {
+        "country": "エストニア",
+        "countryCode": "EE",
+        "flag": "🇪🇪",
+        "systemName": "電子投票法制（i-Voting: 国会議員選挙法・欧州議会選挙法・地方選挙法）",
+        "statusOrLevel": "2005年世界初導入・総投票数の過半数（51.2%: 2023年総選挙）がネット投票で執行",
+        "keyFeature": "国民IDカードまたはMobile-ID、Smart-IDで認証。期日前投票期間中に何度でも再投票可能（最終投票のみ有効・買収強要の防止）。エンドツーエンド暗号化検証を実装。",
+        "source": {
+          "organization": "エストニア国家選挙管理委員会 (Valimised.ee) / 情報システム庁 (RIA)",
+          "title": "Internet voting in Estonia: Technical framework and legal safeguards",
+          "url": "https://www.valimised.ee"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "在外フランス人国民議会選挙インターネット投票制度（Vote par internet）",
+        "statusOrLevel": "在外居住フランス人（約150万人）を対象とする下院総選挙での公的ネット投票完全実施",
+        "keyFeature": "在外選挙区の投票率引き上げのため導入。内務省・外務省が国家サイバー安全保障庁（ANSSI）認定のセキュアポータルを運用し、SMSと電子メールの2要素認証で投票完了。",
+        "source": {
+          "organization": "フランス欧州・外務省 (MEAE) / 内務省",
+          "title": "Modalités de vote par internet pour les élections législatives des Français de l'étranger",
+          "url": "https://www.diplomatie.gouv.fr"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦政治的権利法（BPR）電子投票トライアル（E-Voting: バーゼル等一部カントン）",
+        "statusOrLevel": "在外スイス人および重度障害者を対象とする暗号学的完全検証性（Verifiability）E-Voting",
+        "keyFeature": "有権者自身が自分の票が改ざんされず集計されたかを確認できる暗号証明コードを配布。連邦内閣府（BK）が公開侵入テスト（バグバウンティ）を実施し安全性を担保。",
+        "source": {
+          "organization": "スイス連邦内閣府 (Bundeskanzlei - BK)",
+          "title": "E-Voting in Switzerland: Testing phase and individual/universal verifiability",
+          "url": "https://www.bk.admin.ch"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "軍人・在外市民不在者投票法（UOCAVA）および障害者アクセス投票システム（RAVBM）",
+        "statusOrLevel": "各州法に基づく海外駐留米軍・在外有権者向け暗号化PDF・ポータル電子投票",
+        "keyFeature": "ウェストバージニア州やユタ州等でブロックチェーンや専用ポータルを用いた不在者投票を実証。視覚障害者向けにスクリーンリーダー対応電子投票用紙を法定義務化。",
+        "source": {
+          "organization": "米国連邦投票支援プログラム (FVAP) / 各州選挙管理委員会",
+          "title": "Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA) and Electronic Transmission",
+          "url": "https://www.fvap.gov"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "自治体選挙法に基づくオンタリオ州等地方選挙インターネット投票",
+        "statusOrLevel": "オンタリオ州やノバスコシア州の数百の基礎自治体選挙におけるオンライン投票の完全普及",
+        "keyFeature": "地方選挙において投票所投票・郵便投票と並ぶ主要な選択肢として定着。移動困難な高齢者や寒冷地住民の投票率向上を達成。有権者コードと生年月日で認証。",
+        "source": {
+          "organization": "カナダ・オンタリオ州自治体住宅省 / 各市選挙管理委員会",
+          "title": "Municipal Elections Act: Alternative voting methods and internet voting protocols",
+          "url": "https://www.ontario.ca"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "連邦選挙法（CEA）支援投票制度（Telephone and Assisted Voting）",
+        "statusOrLevel": "視覚障害者および南極観測隊員向けの秘密が保障された電話・電子的支援投票システム",
+        "keyFeature": "オーストラリア選挙管理委員会（AEC）が管轄。オペレーターに投票内容が漏れない二重盲検暗号化コールセンターシステムにより、単独で秘密投票できる権利を法的に保障。",
+        "source": {
+          "organization": "オーストラリア選挙管理委員会 (AEC)",
+          "title": "Telephone voting for people who are blind or have low vision and Antarctic voters",
+          "url": "https://www.aec.gov.au"
+        }
+      }
+    ]
+  }
 }

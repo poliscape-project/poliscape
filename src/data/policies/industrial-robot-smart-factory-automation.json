@@ -261,5 +261,89 @@
         "commentStandard": "「自動化システムの導入・保守には高度なIT人材と多額の自己資金が必要で、中小・零細企業間の格差がさらに広がる」"
       }
     ]
+  },
+  "international": {
+    "title": "世界のスマートファクトリー・産業用ロボット導入推進法制および製造業DX戦略比較",
+    "comparisonSummary": "人手不足の解消と生産性向上のため、ドイツのインダストリー4.0、米国のManufacturing USA、中国のロボット産業5カ年計画など、国家主導の規格標準化、テストベッド公設、設備投資税額控除が競われています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "プラットフォーム・インダストリー4.0（Plattform Industrie 4.0）およびRAMI 4.0標準",
+        "statusOrLevel": "サイバーフィジカルシステム（CPS）国家規格化および中小企業向けMittelstand-Digital拠点",
+        "keyFeature": "工場内のあらゆる機械・ロボットをメーカーの垣根を越えて相互接続する資産管理シェル（AAS）規格を標準化。連邦経済気候保護省が中小企業のAIロボット導入費用を直接補助。",
+        "source": {
+          "organization": "ドイツ連邦経済・気候保護省 (BMWK) / 連邦教育研究省 (BMBF)",
+          "title": "Plattform Industrie 4.0: Standardisierung, Testzentren und Mittelstand-Digital",
+          "url": "https://www.plattform-i40.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "製造イノベーション機構（Manufacturing USA）および国家ロボットイニシアチブ（NRI）",
+        "statusOrLevel": "17カ所の官民合同先端製造研究所網（ARM Institute等）への十億ドル規模連邦投資",
+        "keyFeature": "先進ロボット製造研究所（ARM）を通じて、防衛・航空・自動車製造の協働ロボット（コボット）技術を開発。超党派インフラ法で中小工場へのスマートセンシング導入を助成。",
+        "source": {
+          "organization": "米国商務省国立標準技術研究所 (NIST) / 国防総省 (DoD)",
+          "title": "Manufacturing USA Network and Advanced Robotics for Manufacturing (ARM) Institute",
+          "url": "https://www.manufacturingusa.com"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "ロボット産業発展第14次5カ年計画およびスマート製造パイロット実証行動計画",
+        "statusOrLevel": "世界の産業用ロボット新規設置台数の過半数（年約29万台）を占める世界最大の自動化推進",
+        "keyFeature": "「機械換人（機械による人手代替）」政策を掲げ、ロボット導入企業に地方政府が直接購入額の20〜30%を補助金給付。自国製サーボモーターや減速機の国産化を国家支援。",
+        "source": {
+          "organization": "中国工業情報化部 (MIIT) / 国家発展改革委員会",
+          "title": "14th Five-Year Plan for Robot Industry Development and Smart Manufacturing Pilots",
+          "url": "https://www.miit.gov.cn"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "国立ロボティクス・プログラム（NRP）およびスマートインダストリー準備指数（SIRI）",
+        "statusOrLevel": "世界経済フォーラム（WEF）公認のSIRI評価ツール開発およびロボット密度世界2位",
+        "keyFeature": "経済開発庁（EDB）が全製造企業向けにデジタル成熟度診断ツール（SIRI）を提供。精密工学分野でのロボット自動化投資に対し最大70%の生産性向上補助金（PSG）を交付。",
+        "source": {
+          "organization": "シンガポール経済開発庁 (EDB) / 科学技術研究庁 (A*STAR)",
+          "title": "National Robotics Programme (NRP) and Smart Industry Readiness Index (SIRI)",
+          "url": "https://www.edb.gov.sg"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "知能型ロボット開発及び普及促進法およびスマート工場3万社普及プロジェクト",
+        "statusOrLevel": "労働者1万人あたりの産業用ロボット稼働台数（ロボット密度1,000台超）世界第1位",
+        "keyFeature": "中小ベンチャー企業部主導で全国の中小製造工場3万社にMES（製造実行システム）と自動化ロボットを公費普及。先端製造ロボット実証センターを全国に配備。",
+        "source": {
+          "organization": "大韓民国産業通商資源部 (MOTIE) / 中小ベンチャー企業部 (MSS)",
+          "title": "Intelligent Robots Development and Distribution Promotion Act and Smart Factory 30,000 Plan",
+          "url": "https://www.motie.go.kr"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "France 2030未来の産業（Industrie du Futur）およびロボット化特別加速化基金",
+        "statusOrLevel": "製造業の再工業化に向けた産業用ロボット・積層造形（3Dプリンタ）設備投資助成",
+        "keyFeature": "工場自動化設備を購入した中小企業に対し、即時加速償却（Suramortissement）税制を適用。デジタルツインを活用した工場の脱炭素・省人化を包括支援。",
+        "source": {
+          "organization": "フランス経済・財務・産業主権省 (Bercy) / 企業総局 (DGE)",
+          "title": "France 2030: Volet Industrie du Futur et robotisation des PME industrielles",
+          "url": "https://www.economie.gouv.fr"
+        }
+      }
+    ]
   }
 }

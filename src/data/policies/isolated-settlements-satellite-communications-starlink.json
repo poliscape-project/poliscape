@@ -186,5 +186,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の災害孤立地域における低軌道衛星（LEO）ブロードバンドおよび自立型オフグリッド電源法制比較",
+    "comparisonSummary": "土砂崩れや津波による通信インフラ・送電網の同時途絶に対し、低軌道衛星コンステレーション（Starlink/OneWeb）と太陽光・蓄電池コンテナを事前配備し、発災瞬時に孤立地域をオンライン化する公費支援が国際標準化しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦通信委員会（FCC）超低軌道衛星災害特例認可およびFEMAコミュニティ・レジリエンス助成",
+        "statusOrLevel": "ハリケーン被災地域等への連邦政府による数千台規模のStarlinkキット即時空輸・設置",
+        "keyFeature": "災害宣言と同時にFCCが非常用周波数利用の特例認可を発動。オフグリッド蓄電池とセットになった移動式衛星通信タワーを全国の危険集落に事前助成配備。",
+        "source": {
+          "organization": "米国連邦通信委員会 (FCC) / FEMA",
+          "title": "FCC Disaster Information Reporting System and Satellite Emergency Deployments",
+          "url": "https://www.fcc.gov"
+        }
+      },
+      {
+        "country": "ウクライナ",
+        "countryCode": "UA",
+        "flag": "🇺🇸",
+        "systemName": "国家重要通信防衛法制および分散型スターリンク・蓄電インフラ配備（4万台超運用）",
+        "statusOrLevel": "送電網・地上通信基地局破壊に対する世界最大規模の低軌道衛星・テスラPowerwall防護網",
+        "keyFeature": "重要病院、地方自治体庁舎、避難所（不屈の拠点: ポイント・オブ・インビンシビリティ）に衛星端末と大容量蓄電池を完全配備。通信途絶をゼロ化する世界的実証データを提供。",
+        "source": {
+          "organization": "ウクライナデジタル変革省 (Ministry of Digital Transformation)",
+          "title": "Starlink Deployment and Resilience of Critical Communication Infrastructure",
+          "url": "https://thedigital.gov.ua"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "極北・遠隔先住民コミュニティ広帯域基金（Universal Broadband Fund: UBF）",
+        "statusOrLevel": "道路アクセスのない先住民族孤立居留地への低軌道衛星（Telesat/Starlink）公費配備",
+        "keyFeature": "山火事や永久凍土融解で電柱が倒壊しても通信が途絶えないよう、コミュニティセンターにソーラーマイクログリッドと衛星アンテナを常設。非常用遠隔医療を維持。",
+        "source": {
+          "organization": "カナダ革新・科学・経済開発省 (ISED)",
+          "title": "Universal Broadband Fund: Connecting remote and Indigenous communities",
+          "url": "https://ised-isde.canada.ca"
+        }
+      },
+      {
+        "country": "フィリピン",
+        "countryCode": "PH",
+        "flag": "🇵🇭",
+        "systemName": "情報通信技術省（DICT）政府緊急通信システム（GECS）および可搬型衛星キット",
+        "statusOrLevel": "超大型台風常襲地帯の多島海・離島孤立集落に対するVSAT・低軌道衛星即時展開網",
+        "keyFeature": "「通信は水や食料と同等の人道的命綱」と位置づけ。頑丈な防水スーツケースに収まるソーラー発電・衛星Wi-Fi一体型キット（GECS-MOVE）を各島に事前分散備蓄。",
+        "source": {
+          "organization": "フィリピン情報通信技術省 (DICT)",
+          "title": "Government Emergency Communications System (GECS) Project Overview",
+          "url": "https://dict.gov.ph"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家ブロードバンドネットワーク（nbn）災害時衛星移動車両（Roadside Satellite Muster Points）",
+        "statusOrLevel": "遠隔アウトバック集落向け移動式衛星Wi-Fiトレーラーおよび常設衛星バックボーン",
+        "keyFeature": "自然災害時に商用電源が喪失しても、ディーゼル発電機と大型バッテリーで数週間自立稼働する衛星Wi-Fiステーションを全土の地方カウンシルに配備。",
+        "source": {
+          "organization": "オーストラリア通信・メディア庁 (ACMA) / NBN Co",
+          "title": "nbn Disaster Response: Temporary satellite infrastructure and community Wi-Fi",
+          "url": "https://www.nbnco.com.au"
+        }
+      },
+      {
+        "country": "チリ",
+        "countryCode": "CL",
+        "flag": "🇨🇱",
+        "systemName": "電気通信次官室（SUBTEL）緊急時全国接続協定およびスターリンク学校・公館パイロット",
+        "statusOrLevel": "アンデス山脈・パタゴニアフィヨルド孤立地帯の全公立学校への低軌道衛星常設化",
+        "keyFeature": "世界有数の地震大国として、太平洋海底ケーブルや陸上光ファイバーの切断に備え、公共施設に低軌道衛星を副回線（自動フェイルオーバー）として義務付け。",
+        "source": {
+          "organization": "チリ運輸通信省電気通信次官室 (SUBTEL)",
+          "title": "Conectividad satelital de emergencia para zonas aisladas y de difícil acceso",
+          "url": "https://www.subtel.gob.cl"
+        }
+      }
+    ]
+  }
 }

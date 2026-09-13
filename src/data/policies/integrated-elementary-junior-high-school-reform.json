@@ -205,5 +205,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Building"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の初等中等一貫教育（All-through Schools / K-8 / 基礎学校）制度比較",
+    "comparisonSummary": "「中1ギャップ（進学に伴う不適応・学力低下）」の解消と柔軟なカリキュラム編成のため、フィンランドの9年制基礎学校、米国のK-8スクール、英国のオール・スルー校など、初等・中等教育の壁を取り払う学校設計が普及しています。",
+    "countries": [
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "基礎教育法（Basic Education Act）9年制統合基礎学校（Yhtenäiskoulu）",
+        "statusOrLevel": "7〜16歳の全児童生徒を単一の学校で9年間一貫教育（小学校・中学校の区別なし）",
+        "keyFeature": "同一校舎内で1〜6年生の学級担任制から7〜9年生の教科担任制へシームレスに移行。中等進学時の環境激変がなく、長期的な個別支援・学習到達度カルテを全教員で共有。",
+        "source": {
+          "organization": "フィンランド国家教育庁 (OPH)",
+          "title": "Comprehensive school education (Perusopetus): Structure and Curriculum",
+          "url": "https://www.oph.fi"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "K-8スクール制度（Kindergarten through 8th Grade Model）",
+        "statusOrLevel": "幼稚園から第8学年（14歳）までを同一校で教育・ミドルスクール（中間校）の統廃合",
+        "keyFeature": "6〜8年生特有の学力停滞（Middle School Slump）やいじめ急増を防ぐため、多くの学区で小学校とミドルスクールをK-8校へ再編。小中一貫で上級生のリーダーシップを育成。",
+        "source": {
+          "organization": "米国教育省 (ED) / 国立教育統計センター (NCES)",
+          "title": "Comparing Student Outcomes in K-8 Schools vs Traditional Middle Schools",
+          "url": "https://nces.ed.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "全年齢一貫校（All-through Schools: 4〜18歳教育）アカデミー制度",
+        "statusOrLevel": "幼児教育・プライマリー（初等）・セカンダリー（中等）を統合した大規模一貫校の拡大",
+        "keyFeature": "Ofsted（教育水準監査局）が初等から中等への移行時の学力低下防止効果を高く評価。中等教員が初等児童に理科実験や外国語を教える教員横断配置を標準化。",
+        "source": {
+          "organization": "英国教育省 (DfE) / Ofsted",
+          "title": "All-through education: leadership, curriculum progression and inspection framework",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "教育法典サイクル3（Cycle 3: 小5・小6・中1一貫教育プログラム）",
+        "statusOrLevel": "初等最終2学年とコレージュ（中学校）第1学年を法的に同一の教育学習サイクルに指定",
+        "keyFeature": "小中教員合同評議会（Conseil école-collège）の設置を法定義務化。共通の評価基準とカリキュラムを導入し、小学校からコレージュへの移行ショックを緩和。",
+        "source": {
+          "organization": "フランス国民教育・青少年省 (MENJ)",
+          "title": "Le cycle 3 (cycle de consolidation): CM1, CM2 et classe de sixième",
+          "url": "https://www.education.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "総合制学校（Gesamtschule / Gemeinschaftsschule: 1〜10年制一貫校）",
+        "statusOrLevel": "早期進路分岐（10歳でのギムナジウム選別）の弊害を是正する中等教育一貫統合校",
+        "keyFeature": "小学校卒業後の早期振り分けを遅らせ、生徒の能力伸長に合わせて段階的にハイレベルコースと基礎コースを選択できるフレキシブルな一貫教育を州法で認可。",
+        "source": {
+          "organization": "ドイツ州文相会議 (KMK) / 各連邦州教育省",
+          "title": "Vereinbarung über die Schularten im Sekundarbereich I (Gesamtschulen)",
+          "url": "https://www.kmk.org"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "初中等教育法第30条（小・中・統合運営学校制度）",
+        "statusOrLevel": "過疎地・農山村の学校統廃合防止および都市部新都市における小中一貫キャンパス",
+        "keyFeature": "少子化による廃校を防ぐため、小学校と中学校の施設・教員・管理職を統合。特別教室（理科室・体育館・図書室）を共有し、質の高い地域中核校を維持。",
+        "source": {
+          "organization": "大韓民国教育部 (MOE) / 市道教育庁",
+          "title": "Operation Guidelines for Integrated Elementary and Middle Schools",
+          "url": "https://www.moe.go.kr"
+        }
+      }
+    ]
+  }
 }

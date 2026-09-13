@@ -185,5 +185,89 @@
       "badgeColor": "bg-slate-100 text-slate-700",
       "icon": "FileCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の所有者不明土地・不要土地の所有権放棄および公的国庫帰属法制比較",
+    "comparisonSummary": "過疎化や世代交代に伴う「所有者不明土地」「管理不能な負動産」問題に対し、ドイツ民法典の土地所有権放棄権、フランスの無主不動産公的取得、米国の自治体ランドバンクなど、不要土地を公的に引き取る法制度が運用されています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "民法典第928条（BGB § 928: 土地所有権の放棄: Dereliktion）",
+        "statusOrLevel": "土地登記所に対する所有権放棄の単独意思表示による合法的な土地所有権の放棄",
+        "keyFeature": "所有者が放棄登記を行うと土地は一旦「無主地（Herrenloses Grundstück）」となる。当該連邦州の財務庁（Finanzamt）が優先的に土地を取得する権利を持ち公有化。",
+        "source": {
+          "organization": "ドイツ連邦司法省 (BMJ)",
+          "title": "Bürgerliches Gesetzbuch (BGB) § 928 Aufgabe des Eigentums an Grundstücken",
+          "url": "https://www.gesetze-im-internet.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "一般地方自治体法典（CGCT）および民法典無主不動産（Biens sans maître）公的帰属",
+        "statusOrLevel": "所有者が死亡・相続放棄し3年以上固定資産税が未納の土地の基礎自治体（コミューン）強制編入",
+        "keyFeature": "コミューン市長が公告手続きを経て無償で自治体公有財産に編入可能。森林や荒廃農地を自治体が取得し、自然保護区や公営林として再生。",
+        "source": {
+          "organization": "フランス内務省地方自治体総局 (DGCL) / 司法省",
+          "title": "Procédure d'acquisition des biens sans maître par les communes",
+          "url": "https://www.collectivites-locales.gouv.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "州土地銀行法（Land Bank Authorities）および不動産財産放棄法制",
+        "statusOrLevel": "デトロイト市、オハイオ州等における公的ランドバンクによる不要・荒廃土地の一括引き取り",
+        "keyFeature": "固定資産税滞納や相続放棄された土地を公的機関（ランドバンク）が非課税で引き取り。境界整理や環境浄化を行った上で、隣接住民やコミュニティ農園へ安価で再配分。",
+        "source": {
+          "organization": "米国住宅都市開発省 (HUD) / 全米コミュニティ進歩センター",
+          "title": "Land Banking Code and Revitalization of Vacant, Abandoned Properties",
+          "url": "https://www.hud.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "土地所有権放棄法制（Escheat to the Crown）および無主財産（Bona Vacantia）",
+        "statusOrLevel": "相続人なき土地・会社解散に伴う不要土地の国王管財官（Crown Estate）帰属",
+        "keyFeature": "クラウン・エステートが法的権原を承継。環境リスクのある有害産業廃棄地等の場合、負債を無制限に引き継がないための選別条項を設けて保全管理。",
+        "source": {
+          "organization": "英国財務省管財弁護士 (Bona Vacantia Division) / Crown Estate",
+          "title": "Bona Vacantia and Crown Escheat of Real Property guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "各州地方自治体法（Local Government Act）税滞納土地売却およびクラウンランド復帰",
+        "statusOrLevel": "管理放棄された遠隔地原野・山林の公売不成立時における州王領地（Crown Land）自動編入",
+        "keyFeature": "カウンシル税が3年以上滞納された不要土地を競売にかけ、買い手がつかない場合は公費で負債を償却し州の自然保護区・公有クラウンランドに吸収。",
+        "source": {
+          "organization": "ニューサウスウェールズ州計画・環境省 (DPE) / クラウンランド局",
+          "title": "Sale of land for overdue rates and forfeiture to the Crown",
+          "url": "https://www.crownland.nsw.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "国有財産法第12条（無主不動産の国庫帰属）および国土情報公社（LX）地籍再調査",
+        "statusOrLevel": "相続放棄や所有者不明の山林・農地を調べる無主不動産公告および調達庁国庫帰属",
+        "keyFeature": "所有者登記のない土地を調達庁が調査・公告し、6カ月間権利主張がない場合に国庫に編入。山林庁が引き取り国有林に統合して治山砂防工事を実施。",
+        "source": {
+          "organization": "大韓民国調達庁 (Public Procurement Service) / 山林庁",
+          "title": "State Property Act: Investigation and Escheat of Ownerless Real Estate",
+          "url": "https://www.pps.go.kr"
+        }
+      }
+    ]
+  }
 }

@@ -217,5 +217,89 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "CheckCircle2"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における重要鉱物（Critical Minerals）多国間サプライチェーン協定および共同備蓄法制比較",
+    "comparisonSummary": "特定国による希土類（レアアース）やリチウム等の輸出制限に対抗するため、日米重要鉱物協定、鉱物安全保障パートナーシップ（MSP）、EU重要原材料法（CRMA）、豪州戦略鉱物基金など、同志国間での共同調達・備蓄枠組みが急速に構築されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "鉱物安全保障パートナーシップ（MSP: Minerals Security Partnership）および国防生産法Title III",
+        "statusOrLevel": "日・米・欧・豪・韓等14カ国＋EUによる多国間鉱物サプライチェーン共同投資枠組み",
+        "keyFeature": "国務省主導で戦略的鉱山開発・精錬プロジェクトに公的輸出信用機関（US EXIM等）が共同融資。国防総省が国家防衛備蓄（NDS）を通じてレアアース磁石の国内備蓄を強制。",
+        "source": {
+          "organization": "米国国務省 (DOS) / 国防総省 (DoD)",
+          "title": "Minerals Security Partnership (MSP) and National Defense Stockpile Strategy",
+          "url": "https://www.state.gov"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州重要原材料法（CRMA: Critical Raw Materials Act - Regulation (EU) 2024/1252）",
+        "statusOrLevel": "2030年までに採掘10%・精錬40%・リサイクル25%をEU域内化・単一第三国依存度を65%以下に制限",
+        "keyFeature": "戦略的原材料について欧州委員会主導の共同購入メカニズムを創設。加盟国に対し重要鉱物の国家戦略備蓄と大企業へのサプライチェーンストレステストを法定義務化。",
+        "source": {
+          "organization": "欧州委員会 (European Commission) / 欧州連合理事会",
+          "title": "European Critical Raw Materials Act (CRMA) Regulation",
+          "url": "https://single-market-economy.ec.europa.eu"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "重要鉱物戦略2023-2030（Critical Minerals Strategy）および40億豪ドル重要鉱物ファシリティ",
+        "statusOrLevel": "世界最大のリチウム・希土類生産国としての同志国（米・日・欧等）との長期引取協定（Offtake）",
+        "keyFeature": "単なる未加工鉱石の輸出から国内での高付加価値精錬加工への転換を国策推進。米豪重要鉱物タスクフォースに基づき、豪州産鉱物を米IRA税額控除適格物資に認定。",
+        "source": {
+          "organization": "オーストラリア産業・科学・資源省 (DISR) / Export Finance Australia",
+          "title": "Critical Minerals Strategy 2023-2030 and Critical Minerals Facility",
+          "url": "https://www.industry.gov.au"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダ重要鉱物戦略（Canadian Critical Minerals Strategy: 38億カナダドル基金）",
+        "statusOrLevel": "G7同志国との重要鉱物サプライチェーン連携および懸念国企業による鉱山買収強制排除",
+        "keyFeature": "投資カナダ法（ICA）を厳格適用し、中国国有企業等による国内重要鉱物ベンチャーの買収・出資を安全保障を理由に強制命令撤退。日米欧との共同供給網を確立。",
+        "source": {
+          "organization": "カナダ天然資源省 (NRCan) / 革新科学経済開発省 (ISED)",
+          "title": "The Canadian Critical Minerals Strategy and Investment Canada Act Guidelines",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "国家資源安保特別法（2024年成立）および重要鉱物国家備蓄拡大政策",
+        "statusOrLevel": "バッテリー中核鉱物（リチウム・ニッケル・コバルト）の国家備蓄日数を100日分へ大幅倍増",
+        "keyFeature": "資源安保早期警戒システム（EWS）を構築。韓国鉱害鉱業公団（KOMIR）の備蓄拠点を拡充し、供給危機時に民間二次電池・自動車メーカーへ即時公的融通する法制を確立。",
+        "source": {
+          "organization": "大韓民国産業通商資源部 (MOTIE) / 韓国鉱害鉱業公団 (KOMIR)",
+          "title": "Special Act on National Resource Security and Critical Minerals Stockpiling",
+          "url": "https://www.motie.go.kr"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "重要金属投資基金（Fonds d'investissement dans les métaux stratégiques: 20億ユーロ）",
+        "statusOrLevel": "民間インフラ投資会社と連携した国家重要原材料直接出資・持続可能調達保証",
+        "keyFeature": "国内および友好国の精錬プロジェクトに直接出資。環境・社会基準（ESG）を満たす低炭素リチウム・レアアースのトレーサビリティ基準を法制化し、中国依存を脱却。",
+        "source": {
+          "organization": "フランス経済・財務・産業主権省 (Bercy) / 地質鉱物調査所 (BRGM)",
+          "title": "Stratégie nationale pour les métaux critiques et sécurisation des approvisionnements",
+          "url": "https://www.economie.gouv.fr"
+        }
+      }
+    ]
+  }
 }

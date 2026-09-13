@@ -247,5 +247,89 @@
         "commentStandard": "「商品選び次第で元本割れリスクがあり、毎月数百円の口座管理手数料や受取時の退職控除上限にも注意が必要」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国における個人型確定拠出年金（IRA / 401k / SIPP）税制・拠出限度額比較",
+    "comparisonSummary": "公的年金を補完する自助努力の資産形成を支援するため、米国のIRA/401(k)や英国のSIPP、カナダのRRSPなど、各国は年間数百万円規模の高額な非課税拠出枠と70代以上の加入延長を法制化しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "個人退職勘定（Traditional IRA / Roth IRA）および確定拠出型企業年金（401k）",
+        "statusOrLevel": "年間最大2万3,000ドル（401k）＋7,000ドル（IRA）の拠出枠・70歳以上の年齢制限撤廃（SECURE法）",
+        "keyFeature": "SECURE法2.0により拠出可能年齢の上限を完全撤廃。50歳以上のキャッチアップ拠出枠を大幅拡大し、退職直前の駆け込み積立を税制優遇。",
+        "source": {
+          "organization": "米国財務省内国歳入庁 (IRS)",
+          "title": "Retirement Topics: Catch-up Contributions and IRA Contribution Limits",
+          "url": "https://www.irs.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "自己投資型個人年金（SIPP: Self-Invested Personal Pension）",
+        "statusOrLevel": "年間非課税拠出枠（Annual Allowance）最大6万ポンド（約1,200万円）・生涯限度額の廃止",
+        "keyFeature": "所得税率に応じた公的税額自動還付（ベーシックレート20%が口座に自動上乗せ）。75歳まで税優遇拠出が可能であり、株式や不動産信託への自由な投資を認可。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC) / 財務省",
+          "title": "Pensions tax relief and Annual Allowance limits",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "登録退職貯蓄プラン（RRSP: Registered Retirement Savings Plan）",
+        "statusOrLevel": "前年給与所得の18%（年間最大約3万1,000カナダドル）まで全額所得控除・71歳まで積立可能",
+        "keyFeature": "拠出限度枠を翌年以降に無期限繰り越し（キャリーオーバー）可能。住宅初回購入（HBP）や生涯学習時には無利子・非課税で口座から一時引き出しできる柔軟性。",
+        "source": {
+          "organization": "カナダ歳入庁 (CRA)",
+          "title": "Registered Retirement Savings Plan (RRSP) contribution limits and deduction rules",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "スーパーアニュエーション（Superannuation）個人任意追加拠出制度",
+        "statusOrLevel": "年間最大3万豪ドルまでの優遇税率（拠出時15%課税・通常所得税より大幅軽減）枠設定",
+        "keyFeature": "雇用主の義務的拠出（11.5%）に加え、個人が自己資金から上乗せ積立可能。67〜74歳でも就労テストをクリアすれば税優遇拠出を継続可能。",
+        "source": {
+          "organization": "オーストラリア税務局 (ATO)",
+          "title": "Super contributions: caps, tax concessions and personal deductible contributions",
+          "url": "https://www.ato.gov.au"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "リースター年金（Riester-Rente）およびリューラップ年金（Rürup-Rente / 基礎年金）",
+        "statusOrLevel": "年間最大約2万7,000ユーロ（リューラップ年金）の所得控除・自営業者・高所得者向け資産形成",
+        "keyFeature": "自営業者やフリーランスに対し、公的年金と同等の税務控除を認めるリューラップ年金を運用。給与生活者には国費の直接基本手当を支給するリースター年金を提供。",
+        "source": {
+          "organization": "ドイツ連邦財務省 (BMF) / 連邦中央税務署 (BZSt)",
+          "title": "Altersvorsorgeaufwendungen und steuerliche Förderung der privaten Altersvorsorge",
+          "url": "https://www.bundesfinanzministerium.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "個人型退職年金（IRP: Individual Retirement Pension）",
+        "statusOrLevel": "年間最大900万ウォン（年金貯蓄合算）までの13.2%〜16.5%の税額控除付与",
+        "keyFeature": "所得控除ではなく税額控除方式を採用し低中所得者の減税効果を高める。退職金の一括受領をIRP口座に誘導し、年金受給時の税率を大幅に減免する法制を徹底。",
+        "source": {
+          "organization": "大韓民国企画財政部 (MOEF) / 国税庁",
+          "title": "Individual Retirement Pension (IRP) Tax Credits and Retirement Savings Support",
+          "url": "https://www.moef.go.kr"
+        }
+      }
+    ]
   }
 }

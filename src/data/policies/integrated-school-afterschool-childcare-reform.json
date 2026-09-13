@@ -205,5 +205,89 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Wallet"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の放課後児童クラブ・学童保育（After-School Care）学校施設一体化および全児童保障法制比較",
+    "comparisonSummary": "小学校入学に伴う預かり時間の短縮（小1の壁）や待機児童を解消するため、ドイツの全日制学校法的権利法、韓国のヌルボム学校、フランスのペリスコレールなど、学校施設内で夕方〜夜間まで全児童を受け入れる法制化が進んでいます。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "全日制就学支援法（GaFöG: Ganztagsförderungsgesetz - 2026年段階的施行）",
+        "statusOrLevel": "全小学校児童（1〜4年生）に対する1日8時間の全日制学校・学童利用の「法的請求権」保障",
+        "keyFeature": "連邦政府が数十億ユーロを投じ学校施設の給食設備・学童室を大改修。親の就労の有無に関わらず、全児童が放課後も学校内で宿題指導や文化活動を受けられる権利を法定化。",
+        "source": {
+          "organization": "ドイツ連邦家族高齢者女性青少年省 (BMFSFJ) / 教育省",
+          "title": "Ganztagsausbau: Gesetz zur ganztägigen Förderung von Kindern im Grundschulalter",
+          "url": "https://www.bmfsfj.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "ヌルボム学校（Neulbom School: 国家責任型初等教育・学童統合モデル）",
+        "statusOrLevel": "全国すべての公立小学校で朝7時〜夜8時までの無償・低額学童・教育プログラム全国完全実施",
+        "keyFeature": "小1児童には毎日2時間の無料特別教育（AI・音楽・体育・英語）を提供。教員から学童事務を分離するため「ヌルボム専任センター」を公設し校長・教員の負担をゼロ化。",
+        "source": {
+          "organization": "大韓民国教育部 (MOE)",
+          "title": "National Implementation Plan for Neulbom Schools in Elementary Education",
+          "url": "https://www.moe.go.kr"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "ペリスコレール制度（Accueil de loisirs périscolaire: 校内放課後余暇活動）",
+        "statusOrLevel": "全基礎自治体（コミューン）による小学校施設内での夕方18時半〜19時までの学童公営保障",
+        "keyFeature": "授業終了と同時に自治体雇用の有資格指導員（BAFA保持者）にバトンタッチ。親の所得連動（格安または無料）で利用でき、宿題サポート（Clas）と文化活動を学校内で完結。",
+        "source": {
+          "organization": "フランス国民教育・青少年省 / CAF",
+          "title": "L'accueil de loisirs périscolaire et le Projet éducatif territorial (PEdT)",
+          "url": "https://www.jeunes.gouv.fr"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "学校法（Skollagen）余暇ホーム（Fritidshem: 放課後教育施設）",
+        "statusOrLevel": "6〜12歳児童の約85%が利用する学校併設型・教員免許保有指導者による放課後統合教育",
+        "keyFeature": "学校のカリキュラムと一体化した国家余暇ホーム学習指導要領を運用。朝6時半〜夜18時半まで開所し、給食も提供。料金は親の所得の数%（法定上限あり）に制限。",
+        "source": {
+          "organization": "スウェーデン国立教育庁 (Skolverket)",
+          "title": "Läroplan för fritidshemmet: Utbildning och omsorg för skolbarn",
+          "url": "https://www.skolverket.se"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "21世紀コミュニティ学習センター（21st Century Community Learning Centers: 21st CCLC）",
+        "statusOrLevel": "連邦初等中等教育法（ESEA）に基づく公立学校施設内放課後学童プログラムへの巨額直接助成",
+        "keyFeature": "低所得学区を中心に、放課後のSTEM学習、芸術、スポーツ、夕食提供を学校内で無償展開。共働き家庭の退勤時間まで児童を安全に保護。",
+        "source": {
+          "organization": "米国教育省 (ED)",
+          "title": "21st Century Community Learning Centers Program Overview",
+          "url": "https://oese.ed.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "包括的預かり保育（Wraparound Childcare: 朝8時〜夕方6時までの小学校内学童推進）",
+        "statusOrLevel": "全国すべてのプライマリースクール（小学校）での平日朝夕の校内預かり完備への政府助成",
+        "keyFeature": "2億8,900万ポンドの政府スタートアップ基金を投入。外部の民間チャイルドケア事業者や学校自身が、小学校の空き教室を利用して低料金の学童サービスを全国整備。",
+        "source": {
+          "organization": "英国教育省 (DfE)",
+          "title": "Wraparound childcare guidance for schools and local authorities",
+          "url": "https://www.gov.uk"
+        }
+      }
+    ]
+  }
 }

@@ -127,5 +127,89 @@
       "type": "official_document",
       "typeLabel": "国会法制局資料"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の君主制国家（立憲君主国）における王位継承法制（男女長子相続・サリカ法廃止）比較",
+    "comparisonSummary": "王室・君主制の安定継承に向け、欧州の立憲君主国（英・スウェーデン・オランダ・ベルギー・デンマーク）では、20世紀末〜21世紀にかけて男子優先（サリカ法）を全面撤廃し、性別に関わらない「絶対的長子相続制」への法改正が相次いで完了しています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "王位継承法2013（Succession to the Crown Act 2013）",
+        "statusOrLevel": "数百年間続いた男子優先原則を完全廃止し男女を問わない絶対的长子先着順を法制化",
+        "keyFeature": "英連邦16カ国の合意に基づき成立。2011年10月以降に生まれた王族に対し、性別に関係なく出生順で王位継承順位を決定。カトリック教徒との婚姻禁止規定も撤廃。",
+        "source": {
+          "organization": "英国議会 (UK Parliament) / 王室庁",
+          "title": "Succession to the Crown Act 2013: Explanatory Notes and Equal Succession Rules",
+          "url": "https://www.legislation.gov.uk"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "王位継承法改正（Successionsordningen - 1980年施行）",
+        "statusOrLevel": "世界で初めて男子限定（サリカ法）を廃止し男女平等の完全長子相続制を導入",
+        "keyFeature": "法改正を過去に遡及適用し、長男（カール・フィリップ王子）ではなく長女（ヴィクトリア皇太子）を筆頭王位継承者に決定。王室の民主的正統性と支持率を大幅に強化。",
+        "source": {
+          "organization": "スウェーデン議会 (Riksdagen) / 王室庁 (Kungahuset)",
+          "title": "Act of Succession (Successionsordningen) and gender-neutral royal succession",
+          "url": "https://www.riksdagen.se"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "オランダ王国憲法第24条〜第26条（1983年憲法改正）",
+        "statusOrLevel": "国王の子孫における男女の区別のない厳格な長子先着相続の明文化",
+        "keyFeature": "初代ウィレム1世の直系子孫による継承を原則とし、1983年改正で男子優先を完全に撤廃。現国王の長女カタリナ＝アマリア王女が筆頭王位継承者（オラニエ公）に指定。",
+        "source": {
+          "organization": "オランダ政府公式ポータル (Government.nl) / 王室庁",
+          "title": "The Dutch Monarchy: Succession to the throne and the Constitution",
+          "url": "https://www.royal-house.nl"
+        }
+      },
+      {
+        "country": "ベルギー",
+        "countryCode": "BE",
+        "flag": "🇧🇪",
+        "systemName": "ベルギー憲法第85条改正（1991年サリカ法完全撤廃）",
+        "statusOrLevel": "女子による国王即位権の承認およびアルベール2世直系子孫の長子相続制",
+        "keyFeature": "1830年独立以来の男子限定規定を廃止。現フィリップ国王の長女エリザベート王女が筆頭継承者（ブラバント女公）となり、ベルギー史上初の女王即位が予定。",
+        "source": {
+          "organization": "ベルギー連邦議会 / 王室庁 (Monarchie Belge)",
+          "title": "The Belgian Constitution: Article 85 on the succession to the throne",
+          "url": "https://www.monarchie.be"
+        }
+      },
+      {
+        "country": "デンマーク",
+        "countryCode": "DK",
+        "flag": "🇩🇰",
+        "systemName": "王位継承法改正（2009年国民投票による完全長子相続制成立）",
+        "statusOrLevel": "1953年の女子継承容認（男子優先）から男女完全平等な長子相続への法制格上げ",
+        "keyFeature": "国民投票で85%超の圧倒的賛成を得て法改正。君主の最年長の子が性別に関わらず王位を継承する規定が憲法体系として完全定着。",
+        "source": {
+          "organization": "デンマーク議会 (Folketinget) / 首相府",
+          "title": "The Act of Succession of 27 March 1953 as amended in 2009",
+          "url": "https://www.stm.dk"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "スペイン憲法第57条第1項（男子優先規定維持と改正棚上げ）",
+        "statusOrLevel": "同腹の兄弟間で男子を優先する伝統的規定の存続（欧州主要国での唯一の男子優先残存例）",
+        "keyFeature": "男子優先規定が残るものの、現フェリペ6世国王に男子が不在のため長女レオノール王女が筆頭継承者（アストゥリアス女公）。憲法全面改正の政治的困難から条文改定は保留。",
+        "source": {
+          "organization": "スペイン王室庁 (Casa de Su Majestad el Rey) / 憲法裁判所",
+          "title": "Constitución Española de 1978: Título II De la Corona",
+          "url": "https://www.casareal.es"
+        }
+      }
+    ]
+  }
 }

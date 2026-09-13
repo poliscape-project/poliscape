@@ -205,5 +205,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "GraduationCap"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の後払い決済（BNPL: Buy Now, Pay Later）規制および消費者信用・多重債務防止法制比較",
+    "comparisonSummary": "若年層の衝動買いや安易な多重債務化を防ぐため、EUの改正消費者信用指令（CCD II）、英国FCAの広告・信用調査規制、豪州の貸付責任法制など、BNPLを従来のクレジットカード同等に規制する法改正が各国で断行されています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "改正消費者信用指令（CCD II: Directive (EU) 2023/2225）",
+        "statusOrLevel": "200ユーロ未満の少額・無利息後払いを含む全BNPLに対する信用力評価（Creditworthiness Assessment）法定義務化",
+        "keyFeature": "従来の規制除外（少額無利息融資）を完全撤廃。Klarna等のBNPL事業者は信用情報機関の照会と収入確認を行わなければならず、未成年者への過度な貸付を禁止。",
+        "source": {
+          "organization": "欧州議会 / 欧州委員会",
+          "title": "Consumer Credits Directive (EU) 2023/2225: Regulating Buy Now Pay Later services",
+          "url": "https://eur-lex.europa.eu"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "金融サービス・市場法（FSMA）BNPL規制令およびFCA行動基準",
+        "statusOrLevel": "FCA（金融行動監視機構）認可義務付け・不当広告の取り締まり・金融オンブズマン苦情救済適用",
+        "keyFeature": "BNPL事業者を消費者金融同等に監督。若者を標的にした「手数料無料」を強調するインフルエンサーSNS広告を違法化。返済不能時の遅延損害金に上限を設定。",
+        "source": {
+          "organization": "英国金融行動監視機構 (FCA) / 財務省",
+          "title": "Regulation of Buy-Now-Pay-Later: Consultation on draft legislation",
+          "url": "https://www.fca.org.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家消費者信用保護法改正（National Consumer Credit Protection Amendment - BNPL法）",
+        "statusOrLevel": "BNPL（Afterpay等発祥国）に対する豪州信用ライセンス（ACL）取得および返済能力審査義務化",
+        "keyFeature": "自主行動規範から脱却し完全法制化。事業者に責任ある貸付義務（Responsible Lending Conduct）を課し、利用者の既存借入残高と銀行取引明細の確認を義務化。",
+        "source": {
+          "organization": "オーストラリア財務省 (Treasury) / 証券投資委員会 (ASIC)",
+          "title": "Regulating Buy Now, Pay Later in Australia: Credit Law Amendments",
+          "url": "https://treasury.gov.au"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "消費者金融保護局（CFPB）解釈規則（真実貸付法 / 規則ZのBNPL適用）",
+        "statusOrLevel": "BNPL事業者をクレジットカード発行会社（Credit Card Providers）と同等と法的に認定",
+        "keyFeature": "返金処理時のアカウント即時精算、紛争解決（異議申立）手続きの提供、定期明細書の発行を法定義務化。利用者の信用スコア機関への報告ルールを整備。",
+        "source": {
+          "organization": "米国消費者金融保護局 (CFPB)",
+          "title": "CFPB Issues Rule to Treat Buy Now, Pay Later Lenders Like Credit Card Providers",
+          "url": "https://www.consumerfinance.gov"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "信用法改正（Klarnaの本拠地における決済画面デフォルト順序規制）",
+        "statusOrLevel": "ECサイト決済画面でデビットカード等の「即時自己資金決済」を後払い（信用）より上位に配置する義務",
+        "keyFeature": "消費者が無意識に借金（BNPL）を選ばないよう、決済オプション画面で「口座引き落とし・即時決済」を最上部に強制表示。後払いをデフォルト選択肢とすることを禁止。",
+        "source": {
+          "organization": "スウェーデン金融監督庁 (Finansinspektionen) / 司法省",
+          "title": "Lagändring om betalning vid e-handel: Kredit får inte visas först",
+          "url": "https://www.fi.se"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "シンガポール金融管理局（MAS）公認BNPL行動規範（BNPL Code of Conduct）",
+        "statusOrLevel": "一人あたり最大借入上限額（2,000シンガポールドル）設定および信用情報集中共有網",
+        "keyFeature": "信用情報会社Experianと連携した信用局（Credit Bureau）を設立。一社で延滞が発生した場合、全BNPL事業者のアカウントが自動的に即時凍結される相互遮断システムを運用。",
+        "source": {
+          "organization": "シンガポール通貨庁 (MAS) / シンガポールフィンテック協会 (SFA)",
+          "title": "Buy Now, Pay Later (BNPL) Code of Conduct and Trustmark Accreditation",
+          "url": "https://www.mas.gov.sg"
+        }
+      }
+    ]
+  }
 }

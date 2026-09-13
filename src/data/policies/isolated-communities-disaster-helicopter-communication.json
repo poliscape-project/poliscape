@@ -205,5 +205,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "MapPin"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の半島・山間孤立地域防災・緊急航空輸送および衛星ブロードバンド配備比較",
+    "comparisonSummary": "能登半島地震等で露呈した道路寸断による集落孤立を防ぐため、米国のFEMA災害時移動体通信部隊、ウクライナのスターリンク防衛通信、豪州の山火事孤立集落衛星Wi-Fiなど、低軌道衛星と航空拠点の事前連携が各国で法制化されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "FEMA移動体緊急対応支援部隊（MERS: Mobile Emergency Response Support）およびLEO衛星配備",
+        "statusOrLevel": "全米6カ所の即応拠点から低軌道衛星通信（Starlink等）・自立電源車を被災孤立地へ即時空輸",
+        "keyFeature": "地上通信網が全滅した孤立集落に対し、数時間以内に高帯域衛星アップリンクとローカル5G基地局を開設。緊急ヘリ離着陸場（LZ）の事前指定台帳を全郡で法定義務化。",
+        "source": {
+          "organization": "米国連邦緊急事態管理庁 (FEMA)",
+          "title": "Mobile Emergency Response Support (MERS) Capabilities and Operations",
+          "url": "https://www.fema.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "通信強靱化イニシアチブ（STAND: Strengthening Telecommunications Against Natural Disasters）",
+        "statusOrLevel": "森林火災・洪水で孤立しやすい全土1,000カ所以上の地方避難所に衛星通信ユニット事前常設",
+        "keyFeature": "停電時でも72時間以上稼働する自立型バッテリーと低軌道・静止軌道ハイブリッド衛星Wi-Fiを公費配備。孤立住民が自身のスマホから安否確認と救助要請を行える環境を保障。",
+        "source": {
+          "organization": "オーストラリアインフラ・運輸・地域開発・通信省",
+          "title": "Strengthening Telecommunications Against Natural Disasters (STAND) Program",
+          "url": "https://www.infrastructure.gov.au"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "国家非常用無線・衛星ハイブリッド通信網（POLYCOM）および陸軍航空隊孤立支援",
+        "statusOrLevel": "アルプス雪崩・土砂崩れによる山岳集落完全孤立時の緊急ヘリ空輸・非常通信プロトコル",
+        "keyFeature": "全カントンをカバーする耐災害無線網POLYCOMに加え、山岳避難小屋・集落に衛星通信装置を分散配置。空軍のスイス・クーガーヘリが24時間物資輸送と患者搬送を実施。",
+        "source": {
+          "organization": "スイス連邦市民保護庁 (FOCP/BABS) / スイス軍",
+          "title": "Sicherheitsfunknetz Schweiz (POLYCOM) und militärische Katastrophenhilfe",
+          "url": "https://www.babs.admin.ch"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "国家憲兵隊航空隊（FAG）山岳救助隊（PGHM）およびORSEC通信警戒計画",
+        "statusOrLevel": "ピレネー・アルプス山岳孤立集落に対するヘリコプター物資輸送と移動型衛星パラボラ展開",
+        "keyFeature": "県知事（Préfet）がORSEC計画を発動し、民間ヘリや軍ヘリを一括徴用。孤立集落役場に衛星電話・通信キットを事前配備し、孤立後1時間以内の通信確立を法定義務化。",
+        "source": {
+          "organization": "フランス内務省 (Ministère de l'Intérieur) / 民間安全危機管理総局 (DGSCGC)",
+          "title": "Dispositif ORSEC: Dispositions spécifiques Transmissions et secours en montagne",
+          "url": "https://www.interieur.gouv.fr"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "国家緊急事態管理庁（NEMA）孤立コミュニティ強靱化ガイドライン（サイクロンガブリエル教訓）",
+        "statusOrLevel": "道路崩落に脆弱な東海岸半島部へのコンテナ型衛星通信・ソーラー発電キット事前配備",
+        "keyFeature": "2023年巨大サイクロンの全通信寸断を教訓に、政府が数百台のスターリンク端末を一括購入し孤立リスク集落に先行配備。民間ヘリ会社との緊急チャーター協定を事前締結。",
+        "source": {
+          "organization": "ニュージーランド国家緊急事態管理庁 (NEMA)",
+          "title": "Emergency Communications Review: Cyclone Gabrielle and Satellite Resiliency",
+          "url": "https://www.civildefence.govt.nz"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "市民保護局（Protezione Civile）緊急航空機隊（COAU）および移動通信センター",
+        "statusOrLevel": "アペニン山脈等の孤立集落へのカナディア消火飛行艇・大型輸送ヘリ即応ネットワーク",
+        "keyFeature": "発災直後から内務省消防隊（Vigili del Fuoco）のヘリ部隊が孤立集落の屋上や広場に通信技術者と衛星アンテナを投下。地上インフラ復旧前の住民トリアージと配給を開始。",
+        "source": {
+          "organization": "イタリア閣僚評議会市民保護局 (Protezione Civile)",
+          "title": "Centro Operativo Aereo Unificato (COAU) e telecomunicazioni di emergenza",
+          "url": "https://www.protezionecivile.gov.it"
+        }
+      }
+    ]
+  }
 }
