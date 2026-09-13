@@ -209,6 +209,62 @@
           "title": "Fahrkosten und Rettungsdienst (救急搬送費用の公的保険負担規則)",
           "url": "https://www.gkv-spitzenverband.de"
         }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS Ambulance Services (国民保健サービス・全額公費無料原則)",
+        "amount": "公的救急搬送は原則【完全無料（全額国庫負担）】",
+        "incomeLimit": "深刻な救急車の現場到着遅延・待機時間長期化が社会問題化",
+        "keyFeature": "国民保健サービス（NHS）の理念に基づき、救急車の利用に一切の自己負担を課さない無料原則を堅持。しかし軽症者の安易な要請や病院受入拒否による救急車の長時間滞留が常態化し、救急電話番号『111（非緊急・電話相談）』への事前トリアージ誘導を強力に推進しています。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS England)",
+          "title": "Ambulance services and urgent and emergency care",
+          "url": "https://www.england.nhs.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Ambulance Victoria / State Ambulance Services (州別救急車制度)",
+        "amount": "原則有料（1回の救急搬送につき約1,300〜1,900豪ドルの高額自己負担）",
+        "incomeLimit": "公的医療保険（Medicare）適用外、各自が【救急車保険（年数十ドル）】へ加入",
+        "keyFeature": "公的メディケアの対象外とされ、州ごとに救急車利用料が高額請求される制度。国民の多くは民間の救急車会員（Ambulance Cover）に年会費を支払って加入しており、保険未加入者が軽症で呼んだ場合は全額自腹となるため安易な出動を強力に抑制しています。",
+        "source": {
+          "organization": "ビクトリア州救急医療庁 (Ambulance Victoria)",
+          "title": "Ambulance fees, membership and insurance coverage",
+          "url": "https://www.ambulance.vic.gov.au"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "Krankenpflege-Leistungsverordnung (LAMal 基礎医療保険搬送給付)",
+        "amount": "基礎医療保険により【搬送費用の50%が自己負担】（年上限500フラン）",
+        "incomeLimit": "生命の危険がない搬送は自己負担割合が増加",
+        "keyFeature": "救急車搬送は生命維持医療とみなしつつも、全額無料にはせず原則半額を患者負担とする設計。年間最大500フラン（約8万5,000円）までの公的給付上限が設けられており、タクシー代わりの安易な利用を防ぐ経済的インセンティブとして機能しています。",
+        "source": {
+          "organization": "スイス連邦保健庁 (Bundesamt für Gesundheit - BAG)",
+          "title": "Krankenversicherung: Transport- und Rettungskosten (救急搬送費給付基準)",
+          "url": "https://www.bag.admin.ch"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "119救急救助法 (国家消防庁・出動原則無料と過料制度)",
+        "amount": "119救急搬送は原則【完全無料】",
+        "incomeLimit": "虚偽通報や緊急性のない搬送要請に対し【最高200万ウォンの過料処分】",
+        "keyFeature": "国家の治安・消防サービスとして全額公費（無料）で出動。ただしタクシー代わりに呼ぶ悪質な軽症者や虚偽通報に対しては、119救急救助法に基づき過料を厳格に科す法制度を整備し、真に緊急な重症患者の搬送枠を死守しています。",
+        "source": {
+          "organization": "大韓民国行政安全部 (MOIS)",
+          "title": "119救急救助法および虚偽・不要不急申告に対する過料基準",
+          "url": "https://www.mois.go.kr"
+        }
       }
     ]
   }

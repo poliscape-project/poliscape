@@ -267,6 +267,62 @@
           "title": "Automated Vehicles Act 2024: laws for self-driving vehicles",
           "url": "https://www.gov.uk/government/news"
         }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Ordonnance n° 2021-443 (自律走行車両運行・事故責任令)",
+        "statusOrLevel": "Ordonnance Véhicules autonomes (自律走行車両運行令・事故責任法制化)",
+        "incomeLimit": "自動運転システム作動中、人間の運転手は【刑事・民事責任を完全免責】",
+        "keyFeature": "システムが稼働している最中に発生した交通事故については、運転席に座っている人間の運転手は原則免責され、車両の運行責任者またはシステム製造企業（メーカー）が直接責任を負う明快な法体系を欧州でいち早く整備しました。",
+        "source": {
+          "organization": "フランス持続可能開発・エコロジー移行省 (Ministère de l'Écologie)",
+          "title": "Cadre réglementaire d'expérimentation et déploiement du véhicule autonome",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Road Traffic Act Part 6A (自律走行自動車 AV 特別規制枠組)",
+        "statusOrLevel": "道路交通法第6A部（自律走行自動車 AV 特別規制枠組）",
+        "incomeLimit": "AV認可事業者に対する巨額損害賠償保険（最低500万シンガポールドル）義務化",
+        "keyFeature": "ワン・ノース地区やジュロン島など島内広域を自動運転実証特区に指定。遠隔監視セーフティオペレーターの配置基準やサイバーセキュリティ要件を法律で定め、スマートシティ（Smart Nation）の中核インフラとして無人バスを社会実装しています。",
+        "source": {
+          "organization": "シンガポール陸上交通庁 (Land Transport Authority - LTA)",
+          "title": "Autonomous Vehicle (AV) Regulatory Sandbox and Trials",
+          "url": "https://www.lta.gov.sg"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "自律走行自動車の商用化促進および支援に関する法律（自律走行自動車法）",
+        "statusOrLevel": "自律走行自動車の商用化促進および支援に関する法律（自律走行自動車法）",
+        "incomeLimit": "事故原因究明のための『自律走行事故調査委員会』とデータ記録装置（EDR）義務化",
+        "keyFeature": "自律走行パイロット運行地区を全国主要都市に指定。事故発生時に責任の所在を巡る紛争を防ぐため、国土交通部直属の事故調査委員会がブラックボックスデータを解析し、車両欠陥か外部要因かを即座に判定する専門機関を設けています。",
+        "source": {
+          "organization": "大韓民国国土交通部 (MOLIT)",
+          "title": "自律走行自動車法および自律走行テストベッド（K-City）運用",
+          "url": "https://www.molit.go.kr"
+        }
+      },
+      {
+        "country": "国連UNECE",
+        "countryCode": "UNECE",
+        "flag": "🌐",
+        "systemName": "UN Regulation No. 157 (自動レーンキープシステム ALKS) & サイバー基準",
+        "statusOrLevel": "UN Regulation No. 157 (自動レーンキープシステム ALKS) & 事故記録装置要件",
+        "incomeLimit": "国際相互認証（日本・欧州等で共通適用される車両型式認証基準）",
+        "keyFeature": "自動車基準調和世界フォーラム（WP.29）において、世界共通の自動運転安全基準を制定。最高速度の段階的引き上げや車線変更機能の認可、サイバー攻撃対策（UN-R155）の義務付けなど、グローバルな型式指定の共通土台となっています。",
+        "source": {
+          "organization": "国際連合欧州経済委員会 (UNECE - WP.29)",
+          "title": "UN Regulation No. 157 - Automated Lane Keeping Systems (ALKS)",
+          "url": "https://unece.org"
+        }
       }
     ]
   }

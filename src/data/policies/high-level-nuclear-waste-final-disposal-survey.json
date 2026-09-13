@@ -261,6 +261,62 @@
           "title": "Cigéo: The deep geological disposal project",
           "url": "https://www.andra.fr/cigeo"
         }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "Kernenergiegesetz (連邦原子力法・地層処分場選定プロセス)",
+        "statusOrLevel": "地質学的安全性を最優先に『ノードリヒト（北リヒト地区）』を処分場に最終選定",
+        "incomeLimit": "地元自治体・州・隣国ドイツとの広範な住民対話と連邦議会承認・レファレンダム権",
+        "keyFeature": "連邦エネルギー庁（BFE）と放射性廃棄物管理組合（Nagra）が約50年にわたり科学的調査を実施。白紙からオパールヌスクレイ層（不透水粘土層）を特定し、地元住民や隣接するドイツ自治体との綿密な対話を経て最終候補地を絞り込みました。",
+        "source": {
+          "organization": "スイス連邦エネルギー庁 (Bundesamt für Energie - BFE)",
+          "title": "Sachplan geologische Tiefenlager (地層処分場選定プロセス公式ポータル)",
+          "url": "https://www.bfe.admin.ch"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "Nuclear Fuel Waste Act (核燃料廃棄物法・適応型段階的管理 APM)",
+        "statusOrLevel": "NWMOによる候補地選定、先住民族および地域コミュニティの【事前受入合意】が必須",
+        "incomeLimit": "強制的決定を行わず、地域が自発的に『受入意向』を表明するまでプロセスを継続",
+        "keyFeature": "核燃料廃棄物管理機関（NWMO）が先住民族（ファースト・ネーションズ）との徹底した合意形成を推進。オンタリオ州イグナス等の候補地において、地元の自発的な受入合意と環境評価が得られるまで何十年も粘り強く対話を重ねるボトムアップ方式を徹底しています。",
+        "source": {
+          "organization": "カナダ核燃料廃棄物管理機関 (NWMO / SGDN)",
+          "title": "Adaptive Phased Management (APM) and site selection process",
+          "url": "https://www.nwmo.ca"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Standortauswahlgesetz (StandAG - 処分場選定法・白紙科学的選定)",
+        "statusOrLevel": "過去の政治的混乱（ゴアレーベン塩鉱床）を白紙撤回し、全国一律の科学的選定へ再始動",
+        "incomeLimit": "連邦放射性廃棄物機関（BGE）と市民代表による全国公聴会・住民参加プロセス",
+        "keyFeature": "かつて激しい反対運動で頓挫したゴアレーベンの選定を法律で白紙化。ドイツ全土の地質データを一から科学的に評価し直す新法（StandAG）を制定し、決定プロセスに一般市民や若者代表を参画させる透明性の高い合意形成を進めています。",
+        "source": {
+          "organization": "ドイツ連邦放射性廃棄物機関 (Bundesgesellschaft für Endlagerung - BGE)",
+          "title": "Endlagersuche in Deutschland (ドイツにおける処分場選定プロセス)",
+          "url": "https://www.bge.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Geological Disposal Facility (GDF) Site Selection Policy",
+        "statusOrLevel": "地層処分施設（GDF）選定方針、自治体の【受入拒否権付きパートナーシップ】",
+        "incomeLimit": "調査受け入れ段階で自治体に数億円規模の地域振興基金（Community Investment Funding）",
+        "keyFeature": "カンブリア州などにおいて、自治体が自発的に名乗り出るパートナーシップモデルを採用。調査の各段階で自治体に巨額の地域支援基金が給付され、最終決定の前には住民投票等による『受入拒否権（Right of Withdrawal）』が法的に保障されています。",
+        "source": {
+          "organization": "英国核廃棄物サービス庁 (Nuclear Waste Services)",
+          "title": "Geological Disposal Facility (GDF) site selection and community partnerships",
+          "url": "https://www.gov.uk/government/organisations/nuclear-waste-services"
+        }
       }
     ]
   }

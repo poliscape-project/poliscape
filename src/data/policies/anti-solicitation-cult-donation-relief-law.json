@@ -281,6 +281,62 @@
           "title": "Elder Justice and Financial Exploitation Statutes",
           "url": "https://www.justice.gov/civil/consumer-protection-branch"
         }
+      },
+      {
+        "country": "オーストリア",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "systemName": "Bundesgesetz über die Rechtspersönlichkeit von religiösen Bekenntnisgemeinschaften",
+        "statusOrLevel": "連邦宗派法人法による【破壊的セクト・カルトの公的認可排除】と財務透明性義務",
+        "incomeLimit": "信者に対する精神的支配（マインドコントロール）や財産収奪の予防審査",
+        "keyFeature": "宗教法人として公認されるための厳格な観察期間（最低10年以上）と会員数要件を法律で規定。信者の財産や自由を脅かす破壊的団体に対しては認可を与えず、連邦首相府直属の『セクト問題専門センター』が被害実態の調査・救済を担います。",
+        "source": {
+          "organization": "オーストリア連邦首相府 (Bundeskanzleramt)",
+          "title": "Bundesstelle für Sektenfragen (カルト・セクト問題専門局公式ポータル)",
+          "url": "https://www.bundeskanzleramt.gv.at"
+        }
+      },
+      {
+        "country": "ベルギー",
+        "countryCode": "BE",
+        "flag": "🇧🇪",
+        "systemName": "Centre d'information et d'avis sur les organisations sectaires nuisibles (CIAOSN)",
+        "statusOrLevel": "議会直属の独立公的機関【有害セクト組織情報監視センター（CIAOSN）】の設置法",
+        "incomeLimit": "マインドコントロール下の寄附・財産譲渡の無効化と民事救済支援",
+        "keyFeature": "カルト被害を防ぐため、1998年に連邦議会法に基づき司法省直属の独立監視機関CIAOSNを創設。有害なセクト団体の教義や不当寄附の勧誘手口を分析して国会と国民に定期報告書を提出し、裁判所での被害救済を医学・心理学的見地から支えています。",
+        "source": {
+          "organization": "ベルギー有害セクト組織情報監視センター (CIAOSN)",
+          "title": "Centre d'information et d'avis sur les organisations sectaires nuisibles",
+          "url": "https://www.ciaosn.be"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Maintenance of Religious Harmony Act (MRHA - 宗教調和維持法)",
+        "statusOrLevel": "宗教の名を借りた不当搾取・敵意扇動に対する内務大臣の【拘禁・活動禁止命令権】",
+        "incomeLimit": "外国勢力からの資金提供や宗教団体役員への外国人の就任を厳格規制",
+        "keyFeature": "多民族・多宗教国家の治安を守るため、宗教活動を隠れ蓑にした経済的詐取や社会的分断に対し、内務大臣が裁判を経ずに即座に活動停止や公の発言禁止を命じることができる強力な権限を法律で定めています。",
+        "source": {
+          "organization": "シンガポール内務省 (Ministry of Home Affairs - MHA)",
+          "title": "Maintenance of Religious Harmony Act (MRHA) Overview",
+          "url": "https://www.mha.gov.sg"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "大韓民国特定経済犯罪加重処罰法 & 類似宗教詐欺被害救済判例法",
+        "statusOrLevel": "霊感商法・カルト献金強要に対する【特定経済犯罪加重処罰法（最大無期懲役）】",
+        "incomeLimit": "全羅南道新安塩田事件等の反省に基づく、洗脳・監禁下の財産収奪の厳罰化",
+        "keyFeature": "新興宗教による巨額献金や霊感商法に対し、詐欺罪や恐喝罪を適用して首謀者に最高で無期懲役を科す重罰判例法を確立。信者の自由意志を喪失させた状態での不動産や財産寄附については民法上の公序良俗違反（民法103条）として返還請求を広く認めています。",
+        "source": {
+          "organization": "大韓民国大検察庁 (Supreme Prosecutors' Office - SPO)",
+          "title": "類似宗教・多段階詐欺犯罪に対する厳正捜査指針",
+          "url": "https://www.spo.go.kr"
+        }
       }
     ]
   }

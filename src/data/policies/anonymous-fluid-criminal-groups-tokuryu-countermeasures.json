@@ -261,6 +261,62 @@
           "title": "Transnational Serious and Organised Crime Operations",
           "url": "https://www.afp.gov.au"
         }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Code de procédure pénale (刑事訴訟法・暗号化通信プラットフォーム捜査法制)",
+        "statusOrLevel": "テレグラムCEO逮捕・起訴に代表される【暗号アプリ事業者への捜査協力義務付け】",
+        "incomeLimit": "組織犯罪捜査における通信傍受・暗号鍵開示命令・電子的潜入捜査権",
+        "keyFeature": "匿名アプリ（Telegram等）を利用した組織犯罪の急増に対し、プラットフォーム経営陣に児童ポルノや麻薬取引の捜査協力義務を課す強硬方針を世界に先駆けて実行。プラットフォームが法執行機関の要請を無視した場合の共謀罪適用を法制化しました。",
+        "source": {
+          "organization": "フランス司法省 (Ministère de la Justice)",
+          "title": "Lutte contre la cybercriminalité organisée et cryptomessageries",
+          "url": "https://www.justice.gouv.fr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Online Criminal Harms Act 2023 (OCHA - オンライン犯罪危害法)",
+        "statusOrLevel": "詐欺・闇バイト勧誘投稿に対し政府がSNS企業へ【即時ブロッキング命令権】",
+        "incomeLimit": "疑わしいアカウント・アプリの国内アクセス遮断および資金送金停止命令",
+        "keyFeature": "SNSやメッセージアプリを通じた犯罪勧誘に対し、警察庁（SPF）に強大な予防権限を付与。詐欺や闇バイトの疑いがある投稿に対し、裁判を経ずに即座にアカウント停止やURL遮断、アプリ配信停止を命じるスピード執行体制を確立しました。",
+        "source": {
+          "organization": "シンガポール内務省 (Ministry of Home Affairs - MHA)",
+          "title": "Online Criminal Harms Act (OCHA) to tackle scams and cybercrime",
+          "url": "https://www.mha.gov.sg"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "電気通信金融詐欺被害防止および被害金還付に関する特別法",
+        "statusOrLevel": "闇バイト・通帳売買（テポトンジャン）に関与した疑わしい口座の【即時全銀凍結】",
+        "incomeLimit": "名義貸し・口座譲渡に対する懲役刑と金融取引制限（最長5年間口座開設禁止）",
+        "keyFeature": "ボイスフィッシングやSNS闇バイトによる口座売買を壊滅させるため、被害申告があった瞬間に関連口座を全銀行横断で一括凍結する電撃凍結システムを導入。名義貸しを行った者に対しても犯罪収益移転防止法で重罰を科しています。",
+        "source": {
+          "organization": "大韓民国金融監督院 (FSS)",
+          "title": "電気通信金融詐欺（ボイスフィッシング等）予防特別法および口座凍結手続",
+          "url": "https://www.fss.or.kr"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "Codice Penale Art. 416-bis (マフィア型組織犯罪法制) & 潜入捜査令",
+        "statusOrLevel": "暴力団・匿名流動型犯罪集団に対する【予防的資産没収】と高度潜入捜査",
+        "incomeLimit": "首謀者のみならず下部実行犯・指示役全員に対する組織犯罪加重処罰",
+        "keyFeature": "反マフィア法制の長い歴史を活かし、指示系統が分散した流動的犯罪グループに対しても『マフィア型共謀罪』を適用。犯罪立証前であっても不当な蓄財が疑われる資産を裁判所命令で先制凍結・没収する強力な法権限を警察に認めています。",
+        "source": {
+          "organization": "イタリア国家憲兵隊 (Arma dei Carabinieri)",
+          "title": "Lotta alla criminalità organizzata e misure di prevenzione patrimoniale",
+          "url": "https://www.carabinieri.it"
+        }
       }
     ]
   }

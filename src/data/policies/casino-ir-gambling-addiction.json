@@ -215,6 +215,62 @@
           "title": "Législation sur les jeux de hasard en Principauté",
           "url": "https://www.gouv.mc/"
         }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Victorian Gambling and Casino Control Commission (VGCCC)",
+        "statusOrLevel": "IRカジノでの【キャッシュレス・スマートギャンブルカード】完全義務化",
+        "incomeLimit": "事前の利用限度額（預金・損失上限）の設定および顔認識入場管理",
+        "keyFeature": "ビクトリア州（クラウンカジノ）等でマネロンや依存症対策として導入。現金チップの直接賭けを禁止し、個人身分証と紐付いたキャッシュレスカードでしか遊技できない仕組みとし、自ら設定した時間や金額を超えると自動的に台が停止します。",
+        "source": {
+          "organization": "ビクトリア州賭博・カジノ管理委員会 (VGCCC)",
+          "title": "Casino mandatory pre-commitment and cashless gaming framework",
+          "url": "https://www.vgccc.vic.gov.au"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Gambling Act 2005 & GAMSTOP (包括的自己排除システム)",
+        "statusOrLevel": "全国統一のオンライン・カジノ自己排除システム【GAMSTOP】の全事業者義務化",
+        "incomeLimit": "賭博事業者のライセンス条件として利用者の所得・支払能力審査（Affordability Check）",
+        "keyFeature": "依存症に悩む市民が『GAMSTOP』に一度登録すると、英国内の認可された全カジノ・賭博サイトへのアクセスが最長5年間自動遮断。事業者が未成年や自己排除者を遊技させた場合は数百億円規模の天文学的罰金が科されます。",
+        "source": {
+          "organization": "英国賭博委員会 (Gambling Commission)",
+          "title": "GAMSTOP multi-operator self-exclusion scheme requirements",
+          "url": "https://www.gamblingcommission.gov.uk"
+        }
+      },
+      {
+        "country": "マカオ",
+        "countryCode": "MO",
+        "flag": "🇲🇴",
+        "systemName": "博彩法規與負責任博彩 (マカオカジノ特別法制)",
+        "statusOrLevel": "政府コンセッション（営業権）の厳格許認可と【総売上の40%近い高率巨額納税】",
+        "incomeLimit": "カジノ従業員（地元住民）の勤務時間外のカジノフロア入場を法律で全面禁止",
+        "keyFeature": "世界一のカジノ売上を誇る特別行政区。売上の約39%を政府が特別税として徴収し、住民への現金配分や社会保障の財源に充当。依存症予防のため、フロア従業員の私的入場を禁止するほか、家族による入場排除申請制度も法制化されています。",
+        "source": {
+          "organization": "マカオ博彩監察協調局 (DICJ)",
+          "title": "博彩法規與負責任博彩 (責任あるゲーミング政策ガイド)",
+          "url": "https://www.dicj.gov.mo"
+        }
+      },
+      {
+        "country": "フィリピン",
+        "countryCode": "PH",
+        "flag": "🇵🇭",
+        "systemName": "Philippine Amusement and Gaming Corporation (PAGCOR)",
+        "statusOrLevel": "大統領直属の国営公社（PAGCOR）が規制当局とIRカジノ開発認可を一元管轄",
+        "incomeLimit": "国内居住者に対する厳格な入場制限と公務員・軍人の賭博全面禁止",
+        "keyFeature": "オカダ・マニラ等のメガIRを『エンターテインメント・シティ』に誘致しアジア屈指の観光拠点化。収益の半分を直接国家財政に納付させ、大統領の社会基金や医療・学校建設へ直結させる国家主導モデルを採用しています。",
+        "source": {
+          "organization": "フィリピン娯楽賭博公社 (PAGCOR)",
+          "title": "Responsible Gaming Program and Player Exclusion Guidelines",
+          "url": "https://www.pagcor.ph"
+        }
       }
     ]
   }

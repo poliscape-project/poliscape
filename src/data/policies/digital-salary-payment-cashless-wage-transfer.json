@@ -242,6 +242,62 @@
           "title": "Article L3241-1 du Code du travail (Mode de paiement du salaire)",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044567280"
         }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Employment Act & Payment Services Act (MAS 電子給与決済規制)",
+        "statusOrLevel": "電子マネー給与を公認、資金移動事業者（MPI）に対し巨額信託保全義務化",
+        "incomeLimit": "シンガポール金融管理局（MAS）による厳格な預金者・受取人資産分別管理",
+        "keyFeature": "キャッシュレス先進国として銀行振込と電子マネー口座への給与送金を幅広く容認。ただし事業者が倒産しても労働者の給与が100%保護されるよう、金融管理局（MAS）が資金移動業者に対し銀行での全額信託保全を義務付けています。",
+        "source": {
+          "organization": "シンガポール人材開発省 (Ministry of Manpower - MOM)",
+          "title": "Salary payment and authorized electronic transfer methods",
+          "url": "https://www.mom.gov.sg"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "大韓民国勤労基準法第43条 (通貨払いの原則と預金者保護連動)",
+        "statusOrLevel": "原則は直接通貨払い、労働者の同意による銀行口座振込が標準（フィンテック連動）",
+        "incomeLimit": "電子金融業者の先払電子支払手段（ポイント）は5,000万ウォン預金者保護対象外",
+        "keyFeature": "労働者の生活を守るため、銀行口座への振込は認めつつも、未公認のフィンテックポイントでの給与受取は制限。民間決済業者が破綻した場合の給与保全を重視し、第一生命線となる給与は預金者保護法が及ぶ金融機関口座を優先させています。",
+        "source": {
+          "organization": "大韓民国雇用労働部 (MOEL)",
+          "title": "勤労基準法第43条（賃金の支払い原則）および口座振込基準",
+          "url": "https://www.moel.go.kr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Bürgerliches Gesetzbuch (BGB § 614) & Zahlungsdiensteaufsichtsgesetz",
+        "statusOrLevel": "銀行口座（Girokonto）への振込が法律上の標準、電子マネー払いは厳格限定",
+        "incomeLimit": "決済サービス監督法（ZAG）による100%信用機関分別保管義務",
+        "keyFeature": "法的には銀行口座（ジロ口座）への送金が確固たる標準。電子マネーによる給与支払いは、欧州預金保険機構の10万ユーロ保護と同等の安全性が担保された認可決済機関に厳格に限定され、投機的なポイント給与化を排除しています。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ / Gesetze im Internet)",
+          "title": "Bürgerliches Gesetzbuch (BGB) § 614 Fälligkeit der Vergütung",
+          "url": "https://www.gesetze-im-internet.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Fair Work Act 2009 (公正労働法・給与電子支払および口座自由選択権)",
+        "statusOrLevel": "全額の電子送金（EFT）が標準、従業員が指定する金融機関口座への振込義務",
+        "incomeLimit": "雇用主が特定のアプリや決済サービスを強制することは法律で厳格禁止",
+        "keyFeature": "雇用主は現金、小切手、または電子送金で給与を支払うことが義務付けられていますが、どの金融口座で受け取るかは100%労働者の自由選択権を保障。特定の電子マネーや提携アプリでの給与受取を雇用主が強要することを厳格に禁止しています。",
+        "source": {
+          "organization": "オーストラリア公正労働オンブズマン (Fair Work Ombudsman)",
+          "title": "Paying wages and allowed payment methods under Fair Work Act",
+          "url": "https://www.fairwork.gov.au"
+        }
       }
     ]
   }

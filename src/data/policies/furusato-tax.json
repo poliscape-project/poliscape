@@ -297,6 +297,62 @@
           "title": "Steuerliche Absetzbarkeit von Spenden - Einkommensteuergesetz § 10b",
           "url": "https://www.bundesfinanzministerium.de"
         }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "故郷愛寄付金法 (コヒャンサラン寄附金制度・2023年施行)",
+        "amount": "年間最大500万ウォンまで寄付可能、寄付額の30%以内の特産品返礼",
+        "incomeLimit": "日本の反省を踏まえ【民間ポータルによるポイント付与や過度な競争を法律で厳格禁止】",
+        "keyFeature": "日本のふるさと納税を研究し2023年に法制化。自治体同士の返礼品競争や仲介サイトへの手数料流出を防ぐため、政府統一窓口（故郷愛e音）に一本化し、民間ポータルへのポイント還元を法律で禁止して地方の純粋な財源確保を図っています。",
+        "source": {
+          "organization": "大韓民国行政安全部 (MOIS / 政府24)",
+          "title": "故郷愛寄附制総合情報システム（故郷愛e音）案内",
+          "url": "https://www.gov.kr"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "Art Bonus (文化遺産保護寄附金に対する税額控除制度)",
+        "amount": "公的文化遺産や劇場の修復・保全への寄附金に対し【65%の高率所得税控除】",
+        "incomeLimit": "年間寄附額は課税所得の一定割合まで控除可能（返礼品は禁止）",
+        "keyFeature": "地方都市に無数に点在する歴史的建造物や美術館の維持のため創設。モノの返礼品ではなく『支払った寄附金の65%がそのまま税額控除される』強力な減税メリットを提供し、市民や企業から累計数千億円の地方文化再生資金を集めています。",
+        "source": {
+          "organization": "イタリア文化省 (Ministero della Cultura - Art Bonus)",
+          "title": "Credito di imposta per favorire le erogazioni liberali a sostegno della cultura (Art Bonus)",
+          "url": "https://artbonus.gov.it"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "Fondo de Garantía de Servicios Públicos Fundamentales (地方財政調整連帯基金)",
+        "amount": "富裕自治州の税収の一部を自動的に貧困自治州へ再配分する国家連帯枠組",
+        "incomeLimit": "個人の返礼品選択ではなく、国家の税制移転による教育・医療水準の均等化",
+        "keyFeature": "個人の自主的寄附ではなく、マドリードやカタルーニャ等の富裕州の税収の一部を国家連帯基金を通じてアンダルシア等の財政力指数の低い州へ配分。返礼品競争による歪みを生むことなく、全国一律の公共サービス水準を保障しています。",
+        "source": {
+          "organization": "スペイン財務省 (Ministerio de Hacienda)",
+          "title": "Financiación autonómica y Fondo de Compensación Interterritorial",
+          "url": "https://www.hacienda.gob.es"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "Charitable Donation Tax Credit (CDTC - 連邦・州二重寄附金税額控除)",
+        "amount": "認定慈善団体・地方公共団体への寄附に対し最大33%（連邦）＋州税控除の二重優遇",
+        "incomeLimit": "年間純所得の最大75%まで寄附金控除の対象（未消化分は5年間繰越可能）",
+        "keyFeature": "返礼品を一切介さず、純粋な税額控除によって地方自治体や病院・大学への寄附を促進。寄附額が200ドルを超える部分については最高税率（33%）が控除されるため、富裕層が地方のコミュニティ基金へ寄附するインセンティブとなっています。",
+        "source": {
+          "organization": "カナダ国税庁 (Canada Revenue Agency - CRA)",
+          "title": "Claiming charitable tax credits and qualifying donations",
+          "url": "https://www.canada.ca/en/revenue-agency.html"
+        }
       }
     ]
   }

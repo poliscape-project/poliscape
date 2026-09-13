@@ -241,6 +241,62 @@
           "title": "Managing psychosocial hazards at work - Code of Practice",
           "url": "https://www.safeworkaustralia.gov.au/safety-topic/managing-health-and-safety/mental-health/psychosocial-hazards"
         }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "大韓民国産業安全保健法第41条 (顧客の暴言等による健康障害の予防措置)",
+        "statusOrLevel": "産業安全保健法第41条（感情労働者保護法・顧客の暴言に対する業務一時中断権）",
+        "incomeLimit": "被害労働者への治療・心理相談支援および事業主の刑事告発支援義務",
+        "keyFeature": "コールセンターや窓口職員の自殺・メンタル崩壊が深刻化したことを受け、世界に先駆けて『感情労働者保護法』を法制化。顧客が暴言や暴行を働いた場合、労働者が自ら電話を切ったり応対を中断できる法的権利を明文化しました。",
+        "source": {
+          "organization": "大韓民国雇用労働部 (MOEL)",
+          "title": "産業安全保健法第41条（顧客の暴言等による健康障害の予防措置）",
+          "url": "https://www.moel.go.kr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Arbeitsschutzgesetz (ArbSchG - 労働安全衛生法・精神的負荷防止)",
+        "statusOrLevel": "労働安全衛生法（ArbSchG）による【精神的ストレス・第三者からの暴力防止義務】",
+        "incomeLimit": "事業主に対する職場リスクアセスメント（Gefährdungsbeurteilung）の法定義務",
+        "keyFeature": "顧客や患者からのハラスメントを労働災害リスクの一つと定義。事業主は窓口への防護スクリーンの設置、警備体制、緊急通報ボタン、事後の心理カウンセリング体制を整備する義務を負い、違反した企業には労働監督署が罰則を科します。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS)",
+          "title": "Arbeitsschutzgesetz (ArbSchG) und psychische Gesundheit am Arbeitsplatz",
+          "url": "https://www.bmas.de"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "Arbetsmiljöverkets författningssamling (AFS 1993:2 暴力・脅迫防止規則)",
+        "statusOrLevel": "労働環境庁規則（AFS 1993:2 - 職場における暴力および脅迫の防止規則）",
+        "incomeLimit": "顧客からの暴力・暴言リスクがある業務での【単独勤務（ワンオペ）の原則禁止】",
+        "keyFeature": "深夜営業の小売店や公共交通、福祉施設などにおいて、顧客からの危害リスクがある場合の単独勤務を法的に禁止。労働組合の安全代表者（Skyddsombud）には、従業員がカスハラで危険に晒されていると判断した場合に即座に業務を停止させる強力な権限があります。",
+        "source": {
+          "organization": "スウェーデン労働環境庁 (Arbetsmiljöverket)",
+          "title": "Våld och hot i arbetsmiljön (職場における暴力・脅迫防止規定)",
+          "url": "https://www.av.se"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "Canada Labour Code Part II (職場ハラスメントおよび暴力防止規則)",
+        "statusOrLevel": "カナダ労働法典第2部（Work Place Harassment and Violence Prevention Regulations）",
+        "incomeLimit": "顧客・公衆からのハラスメントを含むすべての職場暴力に対する第三者調査の義務化",
+        "keyFeature": "連邦管轄の全企業に対し、顧客からのハラスメントも含めた包括的防止規則を義務付け。従業員から通報があった場合、企業は独立した公平な第三者調査官を任命して調査を行い、再発防止策を講じる厳格なタイムラインが法定義務化されています。",
+        "source": {
+          "organization": "カナダ雇用・社会開発省 (ESDC)",
+          "title": "Requirements for employers to prevent harassment and violence in the workplace",
+          "url": "https://www.canada.ca/en/employment-social-development.html"
+        }
       }
     ]
   }
