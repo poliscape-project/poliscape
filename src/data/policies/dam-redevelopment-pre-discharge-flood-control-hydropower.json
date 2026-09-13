@@ -225,5 +225,89 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Wrench"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の水力発電・多目的ダムにおける事前放流と治水・発電ハイブリッド運用",
+    "comparisonSummary": "豪雨や気候変動の激化に対し、米国、フランス、ノルウェー、中国などは、高精度気象予測（AIアンサンブル予報）を活用したダム水位の機動的事前引き下げと、降雨後の揚水・水力発電による再満水運用を両立させ、防災と脱炭素電源の相乗効果を高めています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "予報連動ダム運用（Forecast-Informed Reservoir Operations - FIRO）",
+        "statusOrLevel": "気象衛星予測に基づく治水容量の柔軟運用・陸軍工兵隊（USACE）国家展開",
+        "keyFeature": "大気河川（Atmospheric River）による豪雨の数日前予測に基づき、事前放流による洪水調節容量を確保しつつ、空振りの際は貯水量を維持して水力発電と農業用水を確保するデータ駆動型ダム運用モデル。",
+        "source": {
+          "organization": "米国陸軍工兵隊 (US Army Corps of Engineers - USACE)",
+          "title": "Forecast-Informed Reservoir Operations (FIRO) Program overview",
+          "url": "https://www.usace.army.mil"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "フランス電力（EDF）水力ダム治水管理規程および気象予測連動放流",
+        "statusOrLevel": "ローヌ川・ドルドーニュ川等での水力発電ダム事前放流義務と国との協定",
+        "keyFeature": "国営電力会社EDFが管理する数百箇所の水力発電ダムにおいて、気象庁（Météo-France）の洪水警報と連動し、発電用の通常水位を出水前に事前に引き下げて下流都市の水害ピークを平滑化。",
+        "source": {
+          "organization": "フランス環境エネルギー管理庁 (ADEME) / EDF",
+          "title": "Gestion des crues et sûreté des barrages hydroélectriques",
+          "url": "https://www.edf.fr"
+        }
+      },
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "水資源エネルギー総局（NVE）ダム柔軟運用ライセンスおよび洪水調節義務",
+        "statusOrLevel": "欧州最大の水力貯水容量を活用した季節間・気象適応型ハイブリッドダム管理",
+        "keyFeature": "水力発電ダム運営者に対し、気象極値発生時の事前放流と最大水位許容範囲の柔軟性をライセンス条件として付与。洪水防止と北欧・欧州電力網への柔軟なピーク電力供給を一体運用。",
+        "source": {
+          "organization": "ノルウェー水資源エネルギー総局 (NVE)",
+          "title": "Flood mitigation and reservoir operation guidelines for hydropower producers",
+          "url": "https://www.nve.no"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "長江上流域ダム群総合治水・発電連動調整規約（長江水利委員会）",
+        "statusOrLevel": "三峡ダムをはじめとする上流数十基の巨大ダム群による集中出水期一括事前放流",
+        "keyFeature": "水利部が毎年6月の出水期前に三峡ダムの水位を175mから防洪制限水位145mへ約30m強制引き下げ、221億立方メートルの治水容量を空ける事前放流を実施。下流大洪水を防ぎつつ夏季ピーク電力を確保。",
+        "source": {
+          "organization": "中国水利部長江水利委員会 (CWRC)",
+          "title": "長江流域水工程連合調度規程および防洪制限水位管理",
+          "url": "https://www.cjw.gov.cn"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "ハイドロ・ケベック（Hydro-Québec）巨大流域ダム群統合治水運用",
+        "statusOrLevel": "融雪出水期の気象モデル解析に基づく貯水池事前放流と越境クリーン電力輸出",
+        "keyFeature": "広大な亜寒帯水系において、数週間先の融雪水量を予測して水力発電ダムの水位を事前調整。春季の突発的河川氾濫を防止するとともに、回収した水力エネルギーを米国ニューヨーク州等へ安定輸出。",
+        "source": {
+          "organization": "ハイドロ・ケベック (Hydro-Québec) / ケベック州環境省",
+          "title": "Water management and dam safety across Hydro-Québec reservoir networks",
+          "url": "https://www.hydroquebec.com"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦環境局（BAFU）アルプス氷河融解対応ダム治水容量確保ガイドライン",
+        "statusOrLevel": "山岳水力ダムの治水バッファー義務化および揚水発電能力増強助成",
+        "keyFeature": "気候変動に伴う集中豪雨と氷河崩壊リスクに備え、ダム所有者と自治体が治水協定を締結。事前放流による治水空間の確保に対し、失われた発電機会への経済的インセンティブを制度化。",
+        "source": {
+          "organization": "スイス連邦環境局 (Federal Office for the Environment - BAFU)",
+          "title": "Hochwasserschutz und Speicherbecken: Multifunktionale Nutzung von Talsperren",
+          "url": "https://www.bafu.admin.ch"
+        }
+      }
+    ]
+  }
 }

@@ -211,5 +211,102 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Zap"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の国産ソブリンAI（自国基盤モデル）開発と公的計算資源・GPU基金",
+    "comparisonSummary": "米国巨大IT企業（OpenAI、Google等）への技術・文化・情報依存を脱却し、国家の主権や安全保障を守るため、フランス、英国、ドイツ、シンガポール、UAE、韓国、インドなどが数千億〜兆円規模の国費を投入し、国産LLMの開発と公的GPUスパコン基盤の整備を国策推進しています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "「フランス2030」ソブリンAI戦略およびJean Zayスパコン無償開放枠",
+        "statusOrLevel": "公的スーパーコンピュータ（Jean Zay）のGPU計算資源をオープンソースAI企業へ無償提供",
+        "keyFeature": "高等教育・研究省およびGENCIが、Mistral AIなどの有望スタートアップに数千基のNVIDIA GPU計算資源を無償開放。フランス語および欧州言語に最適化された独自フロンティア基盤モデル開発を国家集中支援。",
+        "source": {
+          "organization": "フランス高等教育・研究・イノベーション省 (MESR) / GENCI",
+          "title": "Stratégie nationale pour l'intelligence artificielle et supercalculateur Jean Zay",
+          "url": "https://www.enseignementsup-recherche.gouv.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "英国AIリサーチリソース（AIRR）およびIsambard-AI国家スパコン基金",
+        "statusOrLevel": "9億ポンド（約1,700億円）規模のエクサスケール計算資源・フロンティアAI研究基金",
+        "keyFeature": "科学・技術・イノベーション省（DSIT）がブリストル大学に5,000基以上の最新GPUを搭載した「Isambard-AI」を構築。国家安全保障に関わる安全評価（AI Safety Institute）や自国独自モデル開発に公的計算力を提供。",
+        "source": {
+          "organization": "英国科学・技術・イノベーション省 (DSIT) / UKRI",
+          "title": "Artificial Intelligence Research Resource (AIRR) and Isambard-AI supercomputer",
+          "url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦AI行動計画（KI-Aktionsplan）および欧州初エクサスケールスパコン「JUPITER」",
+        "statusOrLevel": "16億ユーロのAI研究助成・ユーリッヒ総合研究機構における公的GPUクラスター整備",
+        "keyFeature": "連邦教育研究省（BMBF）がEuroHPCと連携し、欧州初のエクサスケール・スーパーコンピュータJUPITERを設置。ドイツ語圏の産業データや知財を守るソブリンAIエコシステム（Aleph Alpha等）を支援。",
+        "source": {
+          "organization": "ドイツ連邦教育研究省 (BMBF)",
+          "title": "KI-Aktionsplan: Künstliche Intelligenz für Deutschland und JUPITER-Supercomputer",
+          "url": "https://www.bmbf.de"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "全国AI戦略2.0（NAIS 2.0）および東南アジアソブリンLLM「SEA-LION」",
+        "statusOrLevel": "5億シンガポールドル以上の公的投資・東南アジア言語特化オープンソース基盤モデル開発",
+        "keyFeature": "情報通信メディア開発庁（IMDA）とAI Singaporeが、英語圏AIでは見落とされがちなインドネシア語・マレー語・タイ語等の言語的文脈を網羅する地域ソブリンLLM「SEA-LION」を国家開発・オープン公開。",
+        "source": {
+          "organization": "シンガポール国家AIオフィス (NAIO) / AI Singapore",
+          "title": "National AI Strategy 2.0 and Southeast Asian Languages in One Network (SEA-LION)",
+          "url": "https://ai.gov.sg"
+        }
+      },
+      {
+        "country": "アラブ首長国連邦",
+        "countryCode": "AE",
+        "flag": "🇦🇪",
+        "systemName": "先端技術研究評議会（ATRC）および独自フロンティアモデル「Falcon」国家開発",
+        "statusOrLevel": "政府全額出資研究所（TII）が開発した最高峰オープンソースLLMを世界へ無償公開",
+        "keyFeature": "アブダビ政府がオイルマネーを投じ、MetaやGoogleに匹敵する独自大規模言語モデル「Falcon 40B/180B」を自前で開発・訓練。知的財産権フリーのオープンウェイトで公開し、中東の世界的AI主権を確立。",
+        "source": {
+          "organization": "アブダビ先端技術研究評議会 (ATRC) / テクノロジー・イノベーション研究所 (TII)",
+          "title": "Falcon LLM: Open-source sovereign AI development by the Technology Innovation Institute",
+          "url": "https://tii.ae"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "国家AIコンピューティングセンター構築事業および超巨大AIエコシステム造成",
+        "statusOrLevel": "科学技術情報通信部（MSIT）による国家GPUクラスタ整備と独自LLM開発支援",
+        "keyFeature": "ネイバー（HyperCLOVA X）等の自国モデルを育てるため、国費を投じて国産NPU（Neural Processing Unit）搭載データセンターを構築。行政・公共機関への国産ソブリンAI導入を法制支援。",
+        "source": {
+          "organization": "韓国科学技術情報通信部 (MSIT)",
+          "title": "Ultra-Large AI Ecosystem Initiative and National AI Computing Infrastructure",
+          "url": "https://www.msit.go.kr"
+        }
+      },
+      {
+        "country": "インド",
+        "countryCode": "IN",
+        "flag": "🇮🇳",
+        "systemName": "インドAIミッション（IndiaAI Mission・10,300クロールルピー基金）",
+        "statusOrLevel": "内閣承認・1万基以上のGPU計算インフラ公的調達と多言語国産基盤モデル創出",
+        "keyFeature": "電子情報技術省（MeitY）が主導し、公的補助金で1万基超のGPUを民間および研究者に低価格提供。ヒンディー語をはじめ22の公用語に対応する「Bhashini」プロジェクト等ソブリンAIを国策開発。",
+        "source": {
+          "organization": "インド電子情報技術省 (MeitY) / IndiaAI",
+          "title": "Cabinet approves comprehensive national-level IndiaAI Mission",
+          "url": "https://www.indiaai.gov.in"
+        }
+      }
+    ]
+  }
 }

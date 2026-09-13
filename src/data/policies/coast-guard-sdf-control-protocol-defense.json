@@ -205,5 +205,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Scale"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の沿岸警備機関と海軍・軍事部門の有事指揮統制（コントロール）法制",
+    "comparisonSummary": "平時は警察機関として法執行を担う沿岸警備組織が、有事や武力攻撃事態において海軍や国防部門の指揮下に編入される仕組みは、米国（Title 14）、韓国、フランスなど多くの海洋国家で平時から明文化され、合同演習や通信暗号の統合運用が制度化されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "合衆国法典第14編（Title 14 USC - Coast Guard）軍事統制条項",
+        "statusOrLevel": "平時は国土安全保障省（DHS）管轄・戦時や大統領令発令時に海軍省へ完全移管",
+        "keyFeature": "沿岸警備隊（USCG）は憲法上「軍隊（Armed Forces）」の一翼を担い、連邦議会の宣戦布告または大統領命令に基づき即時に海軍（Navy）の作戦指揮下に編入され、機雷敷設、港湾防護、護衛作戦を実行。",
+        "source": {
+          "organization": "米国沿岸警備隊 (US Coast Guard) / 国防総省",
+          "title": "Title 14, United States Code - Coast Guard as a specialized service in the Navy",
+          "url": "https://www.uscg.mil"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "統合防衛法および海洋警察庁法（有事軍事作戦統制規程）",
+        "statusOrLevel": "国家非常事態・武力衝突時に海洋警察が国防部（海軍作戦司令官）の作戦指揮下に編入",
+        "keyFeature": "平時は海洋水産部所属の法執行機関であるが、北朝鮮等との武力対峙事態（丙種・乙種・甲種事態）が宣言された場合、指定された艦艇・部隊が海軍第1/2/3艦隊の指揮下に入り沿岸防衛戦闘を展開。",
+        "source": {
+          "organization": "韓国海洋警察庁 (KCG) / 国防部",
+          "title": "Integrated Defense Act and Coast Guard operational command in emergency states",
+          "url": "https://www.kcg.go.kr"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "海洋国家行動（Action de l'État en mer - AEM）および海事知事制度",
+        "statusOrLevel": "海軍提督（海事知事Préfet maritime）が一元的に沿岸警備と防衛指揮を統括",
+        "keyFeature": "沿岸警備隊を独立した別組織として置かず、海軍、税関、海上憲兵隊、海事局を「海事知事」たる海軍中将・大将が指揮。平時の治安警備・海難救助から有事の防衛作戦まで切れ目なく移行可能な一元統合構造。",
+        "source": {
+          "organization": "フランス首相府海洋事務総局 (SGMer) / 国防省",
+          "title": "L'action de l'État en mer (AEM) et le rôle des préfets maritimes",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国家海洋安全保障戦略（NMSS）および合同海洋保全部隊作戦",
+        "statusOrLevel": "内務省国境警備隊（Border Force）と海軍（Royal Navy）の有事指揮連動",
+        "keyFeature": "海難救助を担うMCA（海事沿岸警備庁）は非武装であるが、英仏海峡等の危機時には海軍が全海上警備アセットの作戦指揮統括（Operation Isotrope）を執る枠組みを整備し、国防省が主導権を確保。",
+        "source": {
+          "organization": "英国国防省 (Ministry of Defence - MOD) / 内務省",
+          "title": "National Maritime Security Strategy and civil-military coordination",
+          "url": "https://www.gov.uk/government/organisations/ministry-of-defence"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "財務警察（Guardia di Finanza）および沿岸警備隊の海軍連動協定",
+        "statusOrLevel": "準軍事組織（軍隊格）の法執行機関による有事の海軍軍事任務支援",
+        "keyFeature": "財務警察の海上部隊（軍人身分）および沿岸警備隊（海軍港湾総局）が高度なレーダー網と哨戒艦を運用。武力攻撃事態においては国防参謀本部の作戦指令に基づき海軍と一体で領海警備・機雷戦支援を実施。",
+        "source": {
+          "organization": "イタリア国防省 (Ministero della Difesa) / 沿岸警備隊",
+          "title": "Guardia Costiera e cooperazione con la Marina Militare in ambito di difesa",
+          "url": "https://www.guardiacostiera.gov.it"
+        }
+      },
+      {
+        "country": "フィリピン",
+        "countryCode": "PH",
+        "flag": "🇵🇭",
+        "systemName": "フィリピン沿岸警備隊法（PCG Act 2009）および国防省相互運用協定",
+        "statusOrLevel": "南シナ海領有権事態における海軍との共同作戦・有事国防総省指揮編入条項",
+        "keyFeature": "平時は運輸省所属の文民警察機関であるが、大統領命令または戦時事態において海軍（Philippine Navy）の指揮支援部隊として配備可能。グレーゾーン事態での前面配備と有事軍事移行を法制化。",
+        "source": {
+          "organization": "フィリピン沿岸警備隊 (Philippine Coast Guard - PCG)",
+          "title": "Philippine Coast Guard Act of 2009 (Republic Act No. 9993)",
+          "url": "https://coastguard.gov.ph"
+        }
+      }
+    ]
+  }
 }

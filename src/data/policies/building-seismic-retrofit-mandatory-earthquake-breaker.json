@@ -186,5 +186,89 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の地震多発国における建築物耐震改修義務化と地震火災防止策",
+    "comparisonSummary": "地震頻発地帯である米国カリフォルニア州やニュージーランド、イタリア、台湾では、既存の耐震不適格建築物に対して期限付きの改修義務や大規模税額控除を導入。また、大地震後の通電火災を防ぐ安全装置（感震ブレーカー等）の普及支援が進められています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "カリフォルニア州ソフトストーリー集合住宅耐震改修義務化条例（CSSC）",
+        "statusOrLevel": "ロサンゼルス・サンフランシスコ等で1階ピロティ駐車場の木造建物改修を法定義務化",
+        "keyFeature": "1994年ノースリッジ地震の教訓から、1階が車庫や店舗で耐震強度が低い「ソフトストーリー」集合住宅の所有者に耐震診断・補強工事を期限付きで義務付け。改修費用を家賃に一部上乗せ容認する緩和策を併用。",
+        "source": {
+          "organization": "カリフォルニア州耐震安全委員会 (CSSC)",
+          "title": "California Soft Story Retrofit Programs and Seismic Hazard Mitigation",
+          "url": "https://www.ssc.ca.gov"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "建築法改正（Building (Earthquake-prone Buildings) Amendment Act 2016）",
+        "statusOrLevel": "地震危険建築物（EPB）の国家登録データベース公開と強制改修期限の設定",
+        "keyFeature": "カンタベリー地震を受け、現行耐震基準の34%未満の強度しかない建築物を「EPB」に指定し、建物入口に警告表示を義務付け。高リスク地域では最長7年半以内の耐震改修または解体を法律で強制。",
+        "source": {
+          "organization": "ニュージーランド建築住宅局 (Building Performance - MBIE)",
+          "title": "Managing earthquake-prone buildings: National register and legislative framework",
+          "url": "https://www.building.govt.nz"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "シスマボナス（Sismabonus / 耐震改修国家税額控除制度）",
+        "statusOrLevel": "地震危険地帯における住宅耐震補強工事に対し最大85%の大規模税額控除",
+        "keyFeature": "歴史的組積造（石造・レンガ造）建物の耐震補強を促進するため、工事費用を所得税から最大85%控除できるインセンティブを法制化。税額控除権を施工業者や銀行へ譲渡（Sconto in fattura）可能とし普及を後押し。",
+        "source": {
+          "organization": "イタリア歳入庁 (Agenzia delle Entrate) / インフラ運輸省",
+          "title": "Sismabonus: Detrazioni fiscali per interventi di riduzione del rischio sismico",
+          "url": "https://www.agenziaentrate.gov.it"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "建築物耐震能力評価および安家固園計画（耐震診断・補強公費助成）",
+        "statusOrLevel": "老朽マンション耐震診断への全額公費補助および危険住宅の建替え決議要件緩和",
+        "keyFeature": "内政部営建署が耐震初動診断費用を全額国費で支援。耐震補強工事にも最大450万台湾ドルの直接補助金を交付し、大地震時の倒壊リスクが高いピロティ構造建物の耐震壁増設を集中支援。",
+        "source": {
+          "organization": "台湾内政部国土管理署 (National Land Management Agency)",
+          "title": "私有建築物耐震段階補強補助及び都市危老建築重建条例",
+          "url": "https://www.nlma.gov.tw"
+        }
+      },
+      {
+        "country": "チリ",
+        "countryCode": "CL",
+        "flag": "🇨🇱",
+        "systemName": "チリ建築構造耐震基準法（NCh433 / NCh2745）およびSENAPRED防災指針",
+        "statusOrLevel": "世界最高峰の耐震義務基準・M8級大地震でも倒壊を防ぐ鉄筋コンクリート壁設計",
+        "keyFeature": "構造設計者に倒壊責任を重く課す法制のもと、免震・制震ダンパーの採用を病院等の重要公共施設に法定義務化。通電火災防止のため、主要変電・配電盤における自動遮断装置を標準装備。",
+        "source": {
+          "organization": "チリ国家災害予防対応局 (SENAPRED) / 住宅都市計画省",
+          "title": "Norma Chilena de Diseño Sísmico de Edificios y reducción del riesgo de desastres",
+          "url": "https://senapred.cl"
+        }
+      },
+      {
+        "country": "トルコ",
+        "countryCode": "TR",
+        "flag": "🇹🇷",
+        "systemName": "都市変革法（Urban Transformation Law No. 6306）",
+        "statusOrLevel": "耐震危険住宅の指定・強制退去および住民2/3同意から過半数同意への建替え要件緩和",
+        "keyFeature": "大地震の多発を受け、耐震性能を欠く不適格建築物を「リスク建築物」として公的認定し、解体・再建を迅速化。国営住宅開発庁（TOKI）による低所得層向け耐震集合住宅の大量供給と感震遮断器の標準化。",
+        "source": {
+          "organization": "トルコ環境・都市化・気候変動省 (Ministry of Environment, Urbanisation and Climate Change)",
+          "title": "6306 Sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun",
+          "url": "https://csb.gov.tr"
+        }
+      }
+    ]
+  }
 }

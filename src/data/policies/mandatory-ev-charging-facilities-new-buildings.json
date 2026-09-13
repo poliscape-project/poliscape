@@ -185,5 +185,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Building"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における新築建築物へのEV充電設備・事前配管ダクト義務化",
+    "comparisonSummary": "EV普及の最大のボトルネックである集合住宅や商業ビルの充電インフラ不足を解消するため、欧州連合（EPBD）、英国、米国カリフォルニア州などが、新築・大規模改修時の充電器設置や事前配線（ダクト敷設）を建築基準法で一律義務化しています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "改正建築物エネルギー性能指令（EPBD - 2024/1275）",
+        "statusOrLevel": "新築住宅駐車場への100%事前配線ダクト整備・商業ビルへの充電器設置義務化",
+        "keyFeature": "3台以上の駐車区画を持つ新築集合住宅に対し、全駐車区画へのEV充電ケーブル用事前配管（Ducting infrastructure）敷設を義務付け。非住宅建築物には5台に1台の配管準備と最低1基の充電器設置を法定義務化。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - Energy)",
+          "title": "Energy Performance of Buildings Directive (EPBD) - Sustainable mobility provisions",
+          "url": "https://energy.ec.europa.eu"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "建築基準規則パートS（Building Regulations 2010 - Approved Document S）",
+        "statusOrLevel": "2022年6月施行・新築住宅（戸建・集合）全戸にEVスマート充電器設置義務化",
+        "keyFeature": "世界に先駆けて新築戸建住宅および集合住宅の付帯駐車場において、一定台数以上の新築建築物に7kW以上のスマートEV充電ポイントの直接設置を義務化。オフピーク自動充電機能を備えた充電器を標準化。",
+        "source": {
+          "organization": "英国住宅・コミュニティ・地方自治省 (DLUHC) / 運輸省",
+          "title": "Approved Document S: Infrastructure for the charging of electric vehicles",
+          "url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "カリフォルニア州グリーン建築基準（CALGreen Code Title 24）",
+        "statusOrLevel": "新築集合住宅全駐車区画への「EV対応（EV Capable/Ready）」設備義務化",
+        "keyFeature": "新築集合住宅の全駐車スペースに対し、専用配電盤容量の確保および配管敷設を義務付け、そのうち一定割合には208/240VのEVコンセント設置を強制。居住者が入居後即座に充電器を後付け可能に。",
+        "source": {
+          "organization": "カリフォルニア州エネルギー委員会 (CEC) / 建築基準委員会",
+          "title": "CALGreen Building Standards Code - Electric Vehicle Charging Infrastructure",
+          "url": "https://www.energy.ca.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "建設居住法典（CCH）および住民の「充電権利（Droit à la prise）」法制",
+        "statusOrLevel": "新築集合住宅駐車場への配管ダクト義務付けおよび区分所有者の充電器設置権保障",
+        "keyFeature": "新築集合住宅の全駐車スペースに将来の充電器増設用電気配管を義務付けるとともに、既設マンションでも居住者が自費で充電器を設置する場合、管理組合が正当な理由なく拒否できない法的権利（Droit à la prise）を確立。",
+        "source": {
+          "organization": "フランス生態系移行・国土連帯省 (Ministère de la Transition écologique)",
+          "title": "Équipement des immeubles d'habitation en bornes de recharge et droit à la prise",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "新築住宅小区EV充電設備配備比率100%建設基準通達（国家発改委・住建部）",
+        "statusOrLevel": "新築マンション駐車場の100%固定設置条件（配線・メーター設置空間）義務化",
+        "keyFeature": "国家発展改革委員会、住宅都市農村建設部等4省庁が通達。新築住宅の全駐車スペースに対し、電力量メーター箱、配線トレイ、変圧器容量の100%事前設計を竣工検査の必須合格要件として強制。",
+        "source": {
+          "organization": "中国国家発展改革委員会 (NDRC) / 住房城郷建設部",
+          "title": "電動汽車充電基礎設施建設促進指導意見及び新築住宅標準",
+          "url": "https://www.ndrc.gov.cn"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "環境親和的自動車の開発および普及促進に関する法律（環境配慮型自動車法）",
+        "statusOrLevel": "新築マンション駐車台数の5%以上・既設施設2%以上の充電器義務設置",
+        "keyFeature": "100戸以上の集合住宅を対象に、新築時は総駐車台数の5%以上、既設マンションでも2%以上のEV充電器設置を法定義務化。急増するEV需要に対応し、期限内に未設置の施設には是正命令と過料を科す。",
+        "source": {
+          "organization": "韓国産業通商資源部 (MOTIE) / 環境部",
+          "title": "Act on the Development and Promotion of Environmentally Friendly Motor Vehicles",
+          "url": "https://www.motie.go.kr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "電気自動車充電法（Electric Vehicles Charging Act 2022 - EVCA）",
+        "statusOrLevel": "指定新築建築物におけるEV充電ポイント事前設置および将来拡張配管義務化",
+        "keyFeature": "陸上交通庁（LTA）が2040年内燃機関車全廃ロードマップの一環として法制化。新築建物に対し、総駐車台数の最低1%に充電器を設置し、さらに最低1.3kW/区画の電力供給インフラ敷設を建築許可要件化。",
+        "source": {
+          "organization": "シンガポール陸上交通庁 (LTA)",
+          "title": "Electric Vehicles Charging Act 2022 - Building EV charging mandate",
+          "url": "https://www.lta.gov.sg"
+        }
+      }
+    ]
+  }
 }

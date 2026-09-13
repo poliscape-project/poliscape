@@ -205,5 +205,89 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の不動産売買・賃貸における洪水・水害リスク法定告知義務",
+    "comparisonSummary": "地球温暖化による水害リスク激化を受け、米国、英国、フランス、オーストラリア等は、不動産取引の契約前に売主・仲介業者に対し、100年確率洪水浸水想定区域や過去の被災履歴、保険加入義務の有無を書面で事前開示することを法律で義務付けています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "全米洪水保険制度（NFIP）および各州不動産水害開示法制",
+        "statusOrLevel": "カリフォルニア・テキサス・フロリダ等で過去の浸水履歴・連邦洪水特別危険区域告知義務",
+        "keyFeature": "連邦緊急事態管理庁（FEMA）の洪水ハザードマップ（FIRM）に基づき、特別洪水危険区域（SFHA）に指定された物件の取引時に買主への事前告知と連邦洪水保険の加入を義務化。浸水履歴の隠蔽には損害賠償責任。",
+        "source": {
+          "organization": "米国連邦緊急事態管理庁 (FEMA) / 不動産委員会",
+          "title": "National Flood Insurance Program: Real estate flood risk disclosure rules",
+          "url": "https://www.fema.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "環境庁（EA）洪水リスクマップおよび不動産売買標準環境調査（CON29M等）",
+        "statusOrLevel": "不動産取引時の弁護士・事務弁護士による洪水リスク調査書取得の慣例・義務化",
+        "keyFeature": "不動産購入手続き（Conveyancing）において、法曹協会（Law Society）の指針に基づき、河川・内水・高潮の浸水確率評価レポートの取得を標準化。水害リスクが高い物件は住宅ローン融資や保険引受が条件付けされる。",
+        "source": {
+          "organization": "英国環境庁 (Environment Agency) / Law Society",
+          "title": "Flood risk information for property transactions and land searches",
+          "url": "https://www.gov.uk/government/organisations/environment-agency"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "自然・技術・鉱業リスク情報提供制度（État des Risques / IAL）",
+        "statusOrLevel": "環境法典に基づく不動産売買・賃貸契約時の「リスク状態書（ERP）」交付法定義務",
+        "keyFeature": "洪水危険防止計画（PPRN）で指定された浸水想定区域内の物件について、売主および家主は契約締結前に最新のリスク証明書（6か月以内有効）を交付する義務を負う。未交付の場合、買主は契約解除または減額請求可能。",
+        "source": {
+          "organization": "フランス生態系移行・国土連帯省 (Ministère de la Transition écologique)",
+          "title": "Information des acquéreurs et locataires (IAL) sur les risques naturels et technologiques",
+          "url": "https://www.georisques.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "環境計画評価法に基づく自治体企画証明書（Section 10.7 Certificate）開示義務",
+        "statusOrLevel": "売買契約書への自治体洪水ハザード指定・気候変動浸水レベル証明書添付義務化",
+        "keyFeature": "ニューサウスウェールズ州やクイーンズランド州等で、売主は地方自治体が発行する洪水危険情報証明書を売買契約書に添付することが義務付けられ、不開示の契約は買主側から無条件解除が可能。",
+        "source": {
+          "organization": "オーストラリア・ニューサウスウェールズ州計画環境省 (DPE)",
+          "title": "Planning certificates (Section 10.7) and flood risk disclosure requirements",
+          "url": "https://www.planning.nsw.gov.au"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦水管理法（WHG）指定洪水氾濫原（Überschwemmungsgebiete）告知",
+        "statusOrLevel": "100年確率洪水区域における建築規制・不動産登記および重要事項説明義務",
+        "keyFeature": "アール川水害等の教訓を受け、指定氾濫原内の物件売却時に売主の重要瑕疵告知義務を厳格化。自然災害保険（Elementarschadenversicherung）の加入可否に直結するハザード情報の透明化を推進。",
+        "source": {
+          "organization": "ドイツ連邦環境・自然保護・原子力安全・消費者保護省 (BMUV)",
+          "title": "Gesetzliche Überschwemmungsgebiete nach dem Wasserhaushaltsgesetz",
+          "url": "https://www.bmuv.de"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "国家水安全・デルタプログラム情報ポータル（Overstroomik.nl）公開制度",
+        "statusOrLevel": "堤防決壊シミュレーションに基づく住所別最大浸水深・避難行動情報の全国民公開",
+        "keyFeature": "国土の過半が海面下・低地にある特性から、政府主導で郵便番号・番地を入力するだけで最大想定水深が即時表示されるプラットフォームを公式運用。不動産鑑定や建築許可にリスク評価を直結。",
+        "source": {
+          "organization": "オランダインフラ・水管理省 (Rijkswaterstaat)",
+          "title": "Overstroom ik? - National flood vulnerability mapping and water management",
+          "url": "https://www.government.nl"
+        }
+      }
+    ]
+  }
 }

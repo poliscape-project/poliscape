@@ -261,5 +261,89 @@
         "commentStandard": "「撤退企業工場の国有化措置はモラルハザードを生み、競争原理が働かない非効率な軍需財政の肥大化を招く」"
       }
     ]
+  },
+  "international": {
+    "title": "世界の防衛産業基盤維持・製造ライン国有（GOCO）と適正利益率保障法制",
+    "comparisonSummary": "防衛装備品のサプライチェーン途絶や企業の相次ぐ撤退を防ぐため、米国（DPA Title III・GOCO施設）、英国、フランス、ドイツ、韓国などは、製造ラインの国費負担（政府所有・民間運営）や原価計算に基づく適正利益率の公的保障を法制化しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国防生産法第3編（Defense Production Act Title III）およびGOCO施設制度",
+        "statusOrLevel": "大統領令に基づく製造ラインへの政府直接資本投資・工場国有・民間運営（GOCO）モデル",
+        "keyFeature": "重要弾薬や戦略素材の工場を政府が全額所有し、民間軍需企業が運営を委託される「GOCO（Government-Owned, Contractor-Operated）」制度を運用。国防調達規則（DFARS）に基づき、リスクに応じた適正利益率（10〜15%）を契約保証。",
+        "source": {
+          "organization": "米国国防総省 (Department of Defense - DoD)",
+          "title": "Defense Production Act Title III Program and Defense Industrial Base capabilities",
+          "url": "https://www.defense.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国防・安全保障産業戦略（DSIS）および単一調達補償規則（SSCR）",
+        "statusOrLevel": "単一調達価格決定局（SSRO）による防衛独占調達の基準利益率（Baseline Profit Rate）法定公表",
+        "keyFeature": "競争入札が不可能な国内防衛装備調達（単一サプライヤー契約）において、独立機関SSROが毎年客観的な適正利益率（約8〜10%）を算定・告示。企業の研究開発投資や資本コストを確実に回収できる制度を法制化。",
+        "source": {
+          "organization": "英国単一調達価格決定局 (Single Source Regulations Office - SSRO)",
+          "title": "Single source defence contracting and baseline profit rate determination",
+          "url": "https://www.gov.uk/government/organisations/single-source-regulations-office"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "軍事計画法（LPM 2024-2030）における「戦時経済（Économie de guerre）」移行法制",
+        "statusOrLevel": "軍需企業に対する製造ライン優先稼働命令権・原材料備蓄義務および国家株式保有",
+        "keyFeature": "装備総局（DGA）がタレス、ネクスター等の防衛企業と密接に連携。政府が重要ラインの設備投資に補助金を交付する一方、有事には民生用ラインを防衛品製造へ強制転換させる命令権を法律で規定。",
+        "source": {
+          "organization": "フランス国防省装備総局 (Direction générale de l'armement - DGA)",
+          "title": "Loi de programmation militaire 2024-2030: Économie de guerre et souveraineté industrielle",
+          "url": "https://www.defense.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦国防軍調達迅速化法（BwBeschG）および連邦国防軍特別基金（1,000億ユーロ）",
+        "statusOrLevel": "複数年調達枠組み契約による長期製造ライン維持保証と中小下請け直接支援",
+        "keyFeature": "ロシアのウクライナ侵攻を受けて調達法を改正。防衛産業が設備投資しやすいよう、単年度予算主義の例外として5〜10年の長期一括調達契約を締結可能にし、弾薬・装甲車ラインの稼働継続性を国が保証。",
+        "source": {
+          "organization": "ドイツ連邦国防省 (BMVg) / 連邦軍調達庁 (BAAINBw)",
+          "title": "Bundeswehrbeschaffungsbeschleunigungsgesetz und Sondervermögen Bundeswehr",
+          "url": "https://www.bmvg.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "防衛事業法および防衛産業物資原価計算準則（適正利潤率保障制度）",
+        "statusOrLevel": "原価基準＋適正利益率（最大13〜16%）の法令保障および防衛産業育成基金",
+        "keyFeature": "防衛事業庁（DAPA）が、防衛産業指定企業に対して発生原価に加えて法令で定められた利潤率を確実に上乗せして調達価格を算定。専用製造ラインの維持管理費や遊休設備の維持費も国費で補填。",
+        "source": {
+          "organization": "韓国防衛事業庁 (DAPA)",
+          "title": "Defense Acquisition Program Act and Defense Product Cost Accounting Rules",
+          "url": "https://www.dapa.go.kr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "主権防衛産業能力（Sovereign Industrial Capability Priorities - SICP）基金",
+        "statusOrLevel": "弾薬・誘導兵器・造船ラインの国内維持に向けた直接助成金および国家出資",
+        "keyFeature": "豪州本土での長距離ミサイルや弾薬の自給能力（GWEOエンタープライズ）を構築するため、海外大手（ロッキード・マーティン等）と提携した国内製造ライン建設に数十億豪ドルの国家資金を拠出。",
+        "source": {
+          "organization": "オーストラリア国防省 (Defence Australia)",
+          "title": "Guided Weapons and Explosive Ordnance (GWEO) Enterprise and sovereign industry grants",
+          "url": "https://www.defence.gov.au"
+        }
+      }
+    ]
   }
 }

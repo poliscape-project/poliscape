@@ -217,5 +217,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "FileText"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の研究論文不正・ペーパーミル対策と学術オープンアクセス義務化",
+    "comparisonSummary": "公的研究資金による論文の即時無料公開（オープンアクセス）を義務付ける動きが世界的に加速する一方、組織的な論文代筆・偽装査読（ペーパーミル）やデータ捏造に対抗するため、米国・EU・中国・英国が研究公正局の権限強化や公的ブラックリスト制度を導入しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ホワイトハウスOSTPネルソン・メモおよび研究公正局（ORI）法制",
+        "statusOrLevel": "連邦公的資金による全研究成果の即時オープンアクセス（エンバーゴ廃止）義務化",
+        "keyFeature": "連邦科学技術政策局（OSTP）指針により、公費助成を受けた論文・データの即時無料公開を義務化。保健福祉省研究公正局（ORI）がデータ捏造・改ざんを連邦レベルで調査し、違反研究者に公的研究資金受給禁止処分。",
+        "source": {
+          "organization": "米国研究公正局 (Office of Research Integrity - ORI)",
+          "title": "Public Health Service Policies on Research Misconduct and Guidelines",
+          "url": "https://ori.hhs.gov"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "プランS（Plan S / cOAlition S）および欧州研究公正行動規範",
+        "statusOrLevel": "学術誌の購読料ビジネスモデルからの脱却・完全即時オープンアクセス義務化",
+        "keyFeature": "欧州委員会および主要研究助成機関連合（cOAlition S）が推進。助成対象論文は遅滞なくオープンアクセス誌または公認リポジトリで公開することを義務付け。ALLEAによる研究公正規範を遵守要件化。",
+        "source": {
+          "organization": "cOAlition S / 欧州委員会",
+          "title": "Plan S: Accelerating the transition to full and immediate Open Access",
+          "url": "https://www.coalition-s.org"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "UKRIオープンアクセス方針および英国研究公正局（UKRIO）指針",
+        "statusOrLevel": "国家研究資金による全成果のCC BYオープン公開・ペーパーミル検知指針",
+        "keyFeature": "英国研究・イノベーション機構（UKRI）がピアレビュー論文のCC BYライセンス即時公開を義務化。UKRIOが学術出版界と連携し、組織的なペーパーミル詐欺やAIによる捏造論文の検知・調査基準を策定。",
+        "source": {
+          "organization": "英国研究公正局 (UK Research Integrity Office - UKRIO)",
+          "title": "Research Integrity Guidelines and Paper Mill Detection Framework",
+          "url": "https://www.ukrio.org"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "学術論文不正共同懲戒メカニズムおよび警告学術誌（Early Warning）リスト",
+        "statusOrLevel": "ペーパーミル・論文代筆業者への刑事罰適用および粗悪学術誌への投稿禁止",
+        "keyFeature": "科学技術部（MOST）と中国科学院（CAS）が、論文不正や代筆売買に関与した研究者の資金返還・称号剥奪を公表。商業目的で査読を軽視する国際誌を国家ブラックリストに指定し公費助成を遮断。",
+        "source": {
+          "organization": "中国科学技術部 (MOST)",
+          "title": "科研誠信案件調査処理規則及び学術不端懲戒指針",
+          "url": "https://www.most.gov.cn"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ドイツ研究振興協会（DFG）公正な学術活動規範およびDEALプロジェクト",
+        "statusOrLevel": "全国立大学・研究機関への研究不正防止オムブズマン設置義務付け",
+        "keyFeature": "DFGが助成要件として「良き学術実践の確保に関する規範」の遵守を義務化。ElsevierやSpringer Nature等と国家包括契約（Project DEAL）を結び、国内全研究者のオープンアクセス出版費用を公費一括負担。",
+        "source": {
+          "organization": "ドイツ研究振興協会 (Deutsche Forschungsgemeinschaft - DFG)",
+          "title": "Leitlinien zur Sicherung guter wissenschaftlicher Praxis (DFG-Kodex)",
+          "url": "https://www.dfg.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "国家オープンサイエンス計画（PNSO）および研究公正公署（OFIS）",
+        "statusOrLevel": "高等教育・研究省によるオープンサイエンス国家基金と研究公正法定化",
+        "keyFeature": "研究法典に基づき、公的資金による研究データの原則共有を法定義務化。国家研究公正公署（OFIS）が大学・公的研究機関の不正調査手続の独立性と透明性を監督。",
+        "source": {
+          "organization": "フランス研究公正公署 (OFIS) / 高等教育・研究省",
+          "title": "Deuxième Plan national pour la science ouverte et intégrité scientifique",
+          "url": "https://www.ouvrirlascience.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "オーストラリア研究公正委員会（ARIC）およびNHMRCオープンアクセス方針",
+        "statusOrLevel": "国家研究資金配分機関による即時オープンアクセスと不正調査再審査制度",
+        "keyFeature": "オーストラリア研究会議（ARC）とNHMRCが、公的資金による研究論文の無料即時アクセスを義務付け。大学内の不正調査に疑義がある場合、独立した国家機関ARICが調査手順の適法性を再審査。",
+        "source": {
+          "organization": "オーストラリア研究会議 (Australian Research Council - ARC)",
+          "title": "Open Access Policy and Australian Research Integrity Committee (ARIC)",
+          "url": "https://www.arc.gov.au"
+        }
+      }
+    ]
+  }
 }

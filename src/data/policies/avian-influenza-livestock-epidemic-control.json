@@ -261,5 +261,89 @@
         "commentStandard": "「死骸を埋める場所が足りず、地下水汚染や悪臭の懸念から埋却地探しが各地で紛糾している現実を直視すべきだ」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国の高病原性鳥インフルエンザ対策・殺処分補償とワクチン政策",
+    "comparisonSummary": "鳥インフルエンザの爆発的流行に対し、米国やオランダが迅速な全数殺処分と市場価格補償を基本方針としてきたのに対し、フランスは欧州で初めて商業家禽への国家ワクチン接種を導入。予防的防疫、生産者補償、輸出規制の調和が各国の共通課題となっています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "高病原性鳥インフルエンザ（HPAI）国家ワクチン接種プログラムおよび補償法",
+        "statusOrLevel": "欧州初・商業用カモ・家禽への国家主導ワクチン強制接種（費用公費85%負担）",
+        "keyFeature": "殺処分による巨額財政支出と供給不足を打破するため、2023年秋よりフォアグラ用カモ等6,000万羽以上を対象に国家ワクチン接種を実施。発生時の殺処分費用および経営損失（休業補償）も公費で手厚く支援。",
+        "source": {
+          "organization": "フランス農業・食料主権省 (Ministère de l'Agriculture)",
+          "title": "Campagne de vaccination contre l'influenza aviaire hautement pathogène",
+          "url": "https://agriculture.gouv.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "農務省動植物検疫局（USDA APHIS）緊急疾病対応補償基金",
+        "statusOrLevel": "殺処分対象家禽の全頭市場適正評価価格補償およびバイオセキュリティ監査",
+        "keyFeature": "USDAが家畜伝染病発生時に連邦緊急資金を発動し、家禽の鑑定評価額の100%を公費補償。ただし受給には国家家禽改善計画（NPIP）に基づく厳格な農場衛生管理基準の遵守監査合格を義務付け。",
+        "source": {
+          "organization": "米国農務省動植物検疫局 (USDA APHIS)",
+          "title": "Defend the Flock: Highly Pathogenic Avian Influenza response and indemnity",
+          "url": "https://www.usda.gov"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "農業・自然・食品品質省（LNV）予防的殺処分バッファーおよび動物衛生基金",
+        "statusOrLevel": "養鶏密集地での感染発生時、半径1km以内全農場の予防的殺処分と公的補償",
+        "keyFeature": "国土面積あたりの家禽密度が欧州一高いため、感染拡大防止を目的に近隣農場の健全家禽も含めた予防的殺処分を実施。動物衛生基金（Diergezondheidsfonds）を通じて生産者拠出金とEU助成で損失補填。",
+        "source": {
+          "organization": "オランダ農業・自然・食品品質省 (LNV)",
+          "title": "Vogelgriep (aviaire influenza) maatregelen en Diergezondheidsfonds",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "動物衛生法（TierGesG）および連邦州家畜疾病基金（Tierseuchenkasse）",
+        "statusOrLevel": "生産者共済拠出と州財政の折半による殺処分家禽の完全時価補償制度",
+        "keyFeature": "各連邦州の家畜疾病基金が、獣医師の診断に基づく強制殺処分命令を受けた農家に対し、家禽の市場価値全額を迅速に補償。衛生基準違反が認められた場合は補償金が減額される自己規律システムを運用。",
+        "source": {
+          "organization": "ドイツ連邦食料・農業省 (BMEL)",
+          "title": "Geflügelpest (Aviäre Influenza) Bekämpfung und Tierseuchenkassen",
+          "url": "https://www.bmel.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "動植物衛生庁（APHA）鳥類飼育登録義務化および疾病補償枠組み",
+        "statusOrLevel": "2024年より1羽以上の全家禽・愛玩鳥飼育者に政府登録義務化・殺処分補償",
+        "keyFeature": "環境・食糧・農村地域省（Defra）が規則を改正し、庭先飼育を含む全鳥類の登録を法定義務化して感染経路を追跡。健康な状態で殺処分された家禽に対して適正市場価格を政府が補償。",
+        "source": {
+          "organization": "英国動植物衛生庁 (Animal and Plant Health Agency - APHA)",
+          "title": "Avian influenza (bird flu) guidance and compulsory bird registration rules",
+          "url": "https://www.gov.uk/government/organisations/animal-and-plant-health-agency"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "動物防疫法および高病原性鳥インフルエンザ全数強制ワクチン接種政策",
+        "statusOrLevel": "H5およびH7亜型に対する全国規模の国家無償ワクチン接種と撲滅対策",
+        "keyFeature": "農業農村部が主導し、年間数百億羽の家禽に対して国が開発したバイオ多価ワクチンを接種。生鳥市場（ライブバードマーケット）の都市部常設禁止と閉鎖的集中屠殺場への転換を強力に推進。",
+        "source": {
+          "organization": "中国農業農村部 (MARA)",
+          "title": "国家国家高病原性鳥インフルエンザ防疫計画および強制免疫補助政策",
+          "url": "https://www.moa.gov.cn"
+        }
+      }
+    ]
   }
 }

@@ -186,5 +186,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界のコンテンツ産業における海賊版対策・サイトブロッキング法制",
+    "comparisonSummary": "オンライン上の著作権侵害・海賊版サイトに対し、欧州（英・仏・伊）や韓国・シンガポールは裁判所や行政機関の命令によるISP（通信事業者）への迅速なアクセス遮断（サイトブロッキング）を法制化。米国はDMCAの枠組みと通商圧力（USTR特定）を連動させています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "デジタルミレニアム著作権法（DMCA 512条）およびUSTR悪名高き市場報告",
+        "statusOrLevel": "プロバイダ免責（ノーティス＆テイクダウン）および政府主導の国際海賊版監視",
+        "keyFeature": "オンライン事業者への削除要請メカニズムを確立するとともに、通商代表部（USTR）が毎年「悪名高き市場（Notorious Markets）年次報告書」を公表し、海外にサーバーを置く海賊版配信サイトを名指しで制裁・摘発対象に指定。",
+        "source": {
+          "organization": "米国通商代表部 (United States Trade Representative - USTR)",
+          "title": "Special 301 Out-of-Cycle Review of Notorious Markets for Piracy and Counterfeiting",
+          "url": "https://www.ustr.gov"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "著作権法および放送通信審議会（KCSC）違法ウェブトゥーン・海賊版即時遮断",
+        "statusOrLevel": "行政機関による違法配信サイト・URLの数日以内の強制ISPブロッキング",
+        "keyFeature": "著作権保護院（KCOPA）と放送通信審議会が連携し、権利者からの申立を受けてから数日以内に国内全ISPに対してDNS/SNI遮断命令を発出。ドメイン変更によるミラーサイト（代替サイト）も追随して即時遮断。",
+        "source": {
+          "organization": "韓国放送通信審議会 (KCSC) / 韓国著作権保護院",
+          "title": "Illegal online content warning and ISP access restriction procedures",
+          "url": "https://www.koreacopyright.or.kr"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "視聴覚・デジタル通信規制機関（ARCOM）による動的ブロッキング命令",
+        "statusOrLevel": "ミラーサイトの自動追加遮断を含む強力な海賊版差止命令制度",
+        "keyFeature": "裁判所の差止命令を取得した後、同一運営者が立ち上げた新たなミラーサイトや別ドメインについても、独立行政機関ARCOMがリストを更新し、ISPへ即時アクセス遮断を命じる「動的ブロッキング」を運用。",
+        "source": {
+          "organization": "フランス視聴覚・デジタル通信規制機関 (ARCOM)",
+          "title": "Lutte contre les sites miroirs illicites et protection de la création culturelle",
+          "url": "https://www.arcom.fr"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "通信規制庁（AGCOM）Piracy Shield（海賊版即時30分以内遮断システム）",
+        "statusOrLevel": "世界最速水準の海賊版IPアドレス・DNS自動遮断国家プラットフォーム",
+        "keyFeature": "2023年成立の反海賊版法に基づき、権利者が侵害を検知して申立てを行うと、司法審査を待たずに30分以内に国内全プロバイダが該当IPおよびドメインへの通信を自動遮断するシステムを配備。",
+        "source": {
+          "organization": "イタリア通信規制庁 (AGCOM)",
+          "title": "Piattaforma Piracy Shield e regolamento per la tutela del diritto d'autore online",
+          "url": "https://www.agcom.it"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "著作権・意匠・特許法（CDPA 97A条）に基づく高等裁判所ISP差止命令",
+        "statusOrLevel": "映画・音楽・出版権利者による大手商用海賊版サイトへの司法ブロッキング",
+        "keyFeature": "権利者が高等裁判所に申立てを行い、主要ISP（BT, Virgin Media等）に対して違法海賊版サイトへのアクセス遮断を命じる判例が確立。アニメ・コミックの違法集約サイトに対しても多数の遮断命令を発行。",
+        "source": {
+          "organization": "英国知的財産庁 (Intellectual Property Office - IPO)",
+          "title": "IP enforcement strategy and Section 97A website blocking injunctions",
+          "url": "https://www.gov.uk/government/organisations/intellectual-property-office"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "著作権法第325条（裁判所命令による海賊版サイト迅速ブロッキング）",
+        "statusOrLevel": "裁判所命令に基づく主要ISPへの著作権侵害オンラインサービス遮断義務",
+        "keyFeature": "著作権法改正により、権利者が明確な侵害サイトを特定した場合に、低コストかつ迅速に高等裁判所からISPへのブロッキング命令を取得できる特例手続きを整備。海賊版ストリーミング端末も規制。",
+        "source": {
+          "organization": "シンガポール知的財産庁 (IPOS)",
+          "title": "Copyright Act - Site blocking orders against copyright-infringing online locations",
+          "url": "https://www.ipos.gov.sg"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "デジタル単一市場著作権指令（Directive 2019/790 第17条）",
+        "statusOrLevel": "オンライン共有プラットフォームに対するライセンス取得または違法作品除外義務",
+        "keyFeature": "YouTubeやSNS等の共有プラットフォームに対し、権利者との包括ライセンス契約の締結、または権利者から通知された著作物のアップロードを最善の努力で防止するコンテンツモデレーション責任を義務化。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - Digital Strategy)",
+          "title": "Copyright in the Digital Single Market Directive - Article 17 implementation",
+          "url": "https://digital-strategy.ec.europa.eu"
+        }
+      }
+    ]
+  }
 }
