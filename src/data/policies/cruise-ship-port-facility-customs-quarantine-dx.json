@@ -225,5 +225,89 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Laptop"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の国際クルーズ港におけるCIQ（税関・出入国・検疫）自動化・生体認証審査",
+    "comparisonSummary": "大型クルーズ船の数千人の乗客が一斉に下船する際の混雑解消に向け、米国（CBP生体認証出入国審査Biometric Entry-Exit）、シンガポール（マリーナベイ・クルーズセンター）、欧州（EES出入国システム連動）などは、顔認証によるパスポート提示不要のウォークスルー型審査を導入しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "税関・国境取締局（CBP）顔認証生体出入国システム（Biometric Facial Comparison）",
+        "statusOrLevel": "マイアミ・エバーグレーズ等主要クルーズ港での顔認証ワンストップ下船（乗客1人あたり数秒）",
+        "keyFeature": "CBPが民間クルーズ船社とAPI連携。下船時にカメラを見るだけで事前に提出された旅客名簿（APIS）と瞬時に照合し、パスポート提示を省略するペーパーレス顔認証ゲートを全面配備。",
+        "source": {
+          "organization": "米国税関・国境取締局 (U.S. Customs and Border Protection - CBP)",
+          "title": "Facial Biometrics at Seaports: Transforming cruise passenger processing",
+          "url": "https://www.cbp.gov"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "出入国管理局（ICA）新通関コンセプト（New Clearance Concept - NCC）クルーズ自動化",
+        "statusOrLevel": "マリーナベイ・クルーズセンター（MBCCS）における完全自動顔・虹彩認証レーン",
+        "keyFeature": "事前に電子入国カード（SG Arrival Card）を登録した訪星客に対し、パスポート提示不要のバイオメトリック自動ゲートを開放。数千人のクルーズ乗客の入国手続を従来の半減時間で処理。",
+        "source": {
+          "organization": "シンガポール出入国管理局 (Immigration & Checkpoints Authority - ICA)",
+          "title": "Automated clearance and biometric systems at cruise checkpoints",
+          "url": "https://www.ica.gov.sg"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州出入国システム（Entry/Exit System - EES）クルーズ港湾適用規則",
+        "statusOrLevel": "シェンゲン協定国境港湾における非EU国籍クルーズ乗客の指紋・顔生体データ電子登録",
+        "keyFeature": "パスポートの手動スタンプ押印を廃止し、寄港地での自動セルフサービスキオスク端末を義務化。乗客の滞在可能日数（90日ルール）を中央システムで自動計算し不法残留を防止。",
+        "source": {
+          "organization": "欧州国境沿岸警備機関 (Frontex) / 欧州委員会",
+          "title": "Entry/Exit System (EES) implementation at maritime border crossing points",
+          "url": "https://frontex.europa.eu"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "オーストラリア国境警備隊（ABF）スマートゲート（SmartGates）港湾展開",
+        "statusOrLevel": "シドニー・海外客船ターミナル（OPT）での顔認証電子パスポート自動通関",
+        "keyFeature": "国際クルーズ船寄港時にABFが自動ゲートを展開。検疫（バイオセキュリティ）申告アプリと連動し、外来病害虫や持込禁止食品の持ち込みを効率的に水際遮断。",
+        "source": {
+          "organization": "オーストラリア国境警備隊 (Australian Border Force - ABF)",
+          "title": "SmartGates for sea passengers and maritime arrival processing",
+          "url": "https://www.abf.gov.au"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "チビタベッキア／ベネチア港スマート・ボーダー（Smart Border）プロジェクト",
+        "statusOrLevel": "地中海最大級の母港における電子ゲートとCIQワンストップ合同検査",
+        "keyFeature": "港湾警察、税関庁（ADM）、保健省検疫所が共同で電子乗船名簿システムを運用。乗客の下船手荷物X線検査と顔認証スクリーニングを並行して実施し、観光客の市街地流動を円滑化。",
+        "source": {
+          "organization": "イタリア税関専売庁 (ADM) / 警察庁国境警察部",
+          "title": "Controllo delle frontiere marittime e digitalizzazione doganale nei porti",
+          "url": "https://www.adm.gov.it"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "バルセロナ港スマート港湾税関（Aduanas）高速通関システム",
+        "statusOrLevel": "欧州首位のクルーズ港におけるQRコード・顔認証ハイブリッド通関ゲート",
+        "keyFeature": "バルセロナ港湾公社と国家税務局税関部が連携。乗客のスマートフォンに発行された電子ボーディングパスと生体データを照合し、ターミナルから市内バスへのシームレスな乗り継ぎを実現。",
+        "source": {
+          "organization": "スペイン国家税務庁 (Agencia Tributaria - Aduanas) / バルセロナ港",
+          "title": "Control aduanero e infraestructuras inteligentes para pasajeros de cruceros",
+          "url": "https://sede.agenciatributaria.gob.es"
+        }
+      }
+    ]
+  }
 }

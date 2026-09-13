@@ -186,5 +186,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の大規模自然災害廃棄物（がれき）事前処理計画・広域処分協定法制",
+    "comparisonSummary": "巨大地震やハリケーン・大水害後の膨大ながれき処理に関し、米国（FEMA災害瓦礫管理計画指針）、ニュージーランド、イタリア、オーストラリアなどは、平時からの仮置き場事前指定、リサイクル分別基準の事前法制化、自治体境を超えた広域受入協定を整備しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦緊急事態管理庁（FEMA）災害瓦礫管理計画（Public Assistance Debris Management Guide）",
+        "statusOrLevel": "自治体に対する瓦礫仮置場（DMS）事前指定義務化および連邦費用75〜90%求償要件",
+        "keyFeature": "FEMAが地方自治体に対し、災害発生前の「瓦礫管理計画」策定を事前承認要件化。有害廃棄物、家電、樹木、コンクリートの現場分別サイトを平時からGISマッピングし、迅速な公費復旧を担保。",
+        "source": {
+          "organization": "米国連邦緊急事態管理庁 (FEMA)",
+          "title": "Public Assistance: Debris Management Plan Workshop and Guidance (FEMA P-325)",
+          "url": "https://www.fema.gov"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "国家民防危機管理法（CDEM Act）およびクライストチャーチ震災瓦礫管理モデル",
+        "statusOrLevel": "巨大地震後の数百万トンがれき埋め立て回避・90%超リサイクル破砕再資源化法制",
+        "keyFeature": "環境省（MfE）が震災廃棄物特別令を制定。解体コンクリートやレンガを港湾埋立造成材や道路路盤材として全量リサイクルする専門処理拠点を官民共同で即時開設。",
+        "source": {
+          "organization": "ニュージーランド環境省 (Ministry for the Environment - MfE) / NEMA",
+          "title": "Disaster waste management guidelines: Lessons from the Canterbury earthquakes",
+          "url": "https://environment.govt.nz"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "市民保護局（Protezione Civile）震災がれき処理緊急条例（Ordinanze）",
+        "statusOrLevel": "中央アペニン地震等における歴史的建造物瓦礫の公費分別・文化財レスキューと広域処理",
+        "keyFeature": "文化省と連携し、被災した石造建築のがれきの中から歴史的彫刻や建材を選別保管する専門部隊を配備。残余がれきは州境界を越えた広域受入施設へ鉄道・トラック輸送。",
+        "source": {
+          "organization": "イタリア首相府市民保護局 (Dipartimento della Protezione Civile)",
+          "title": "Gestione delle macerie post-sisma e piani di emergenza comunali",
+          "url": "https://www.protezionecivile.gov.it"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家災害復興強靭化庁（NEMA）森林火災・洪水廃棄物広域クリーンアップ枠組み",
+        "statusOrLevel": "大規模森林火災後の有害アスベスト含有がれき一括公費撤去および州際広域処理協定",
+        "keyFeature": "森林火災や豪雨災害後、州政府と連邦政府が折半で民間解体業者と一括包括契約（Managing Contractor）を結び、被災住民の自己負担ゼロで危険がれきを安全撤去・適正処分。",
+        "source": {
+          "organization": "オーストラリア国家緊急事態管理庁 (NEMA)",
+          "title": "Disaster Recovery Funding Arrangements (DRFA) - Debris removal category",
+          "url": "https://nema.gov.au"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦市民保護・災害支援庁（BBK）および循環経済法（KrWG）災害廃棄物ガイドライン",
+        "statusOrLevel": "アール川大水害の教訓に基づく自治体間広域がれき受入協定および移動式破砕機の広域配備",
+        "keyFeature": "環境省（BMUV）が災害廃棄物の特例マニュアルを策定。通常時の厳格な廃棄物埋立基準を緊急時には弾力化し、仮置き場での土壌汚染防止シート敷設と移動式焼却・選別機を事前手配。",
+        "source": {
+          "organization": "ドイツ連邦市民保護・災害支援庁 (BBK) / 連邦環境省",
+          "title": "Katastrophenabfallmanagement und Leitfaden für Kommunen bei Großschadenslagen",
+          "url": "https://www.bbk.bund.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "環境法典自然災害後廃棄物緊急管理指針（ADEME）",
+        "statusOrLevel": "自治体防災計画（PCS）における災害がれき保管用地事前選定および地域処理協定",
+        "keyFeature": "環境エネルギー管理庁（ADEME）が、ハリケーン等の水害時に発生する浸水家財・泥土の仮置き場選定ガイドラインを策定。県知事（Préfet）が近隣自治体への受入命令権限を行使。",
+        "source": {
+          "organization": "フランス環境エネルギー管理庁 (ADEME)",
+          "title": "Gestion des déchets post-catastrophe naturelle: guide méthodologique pour les collectivités",
+          "url": "https://www.ademe.fr"
+        }
+      }
+    ]
+  }
 }

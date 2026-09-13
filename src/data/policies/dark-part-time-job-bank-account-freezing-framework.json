@@ -225,5 +225,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Laptop"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国のオンライン詐欺・マネーミュール（闇バイト口座）即時凍結・銀行間情報共有法制",
+    "comparisonSummary": "SNSを通じた闇バイト募集や詐欺被害金の即時送金に対し、シンガポール（Shared Responsibility Framework / 警察即時凍結）、英国（24時間送金一時保留・全額返金義務法）、米国（FinCEN 314(b)銀行間情報共有）、豪州（国家詐欺防止センターNASPC）などが、口座即時凍結と金融機関の共同責任を法制化しています。",
+    "countries": [
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "詐欺対策指令（Anti-Scam Command - ASCom）および警察・主要銀行共同即時口座凍結",
+        "statusOrLevel": "警察官と銀行員が同一フロアに常駐・通報から数分以内の送金先詐欺口座一斉凍結",
+        "keyFeature": "シンガポール警察軍（SPF）と主要銀行が合同コマンドセンターを設置。疑わしい送金をAIが検知すると、即時に下流の複数経由口座（マネーミュール口座）まで一括凍結し、資金流出を遮断。",
+        "source": {
+          "organization": "シンガポール金融管理局 (MAS) / シンガポール警察軍 (SPF)",
+          "title": "Anti-Scam Command and Shared Responsibility Framework for phishing scams",
+          "url": "https://www.mas.gov.sg"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "決済システム規制機関（PSR）認可プッシュ支払詐欺（APP詐欺）強制返金規則",
+        "statusOrLevel": "2024年10月施行・送金銀行および受取銀行による被害額全額（上限8.5万ポンド）折半返金義務",
+        "keyFeature": "闇バイト口座への送金を許した受取銀行側にも50%の損害賠償責任を課すことで、銀行にマネーミュール口座の徹底開設審査を強制。疑わしい送金に対する最長4営業日の保留権限を法定化。",
+        "source": {
+          "organization": "英国決済システム規制機関 (Payment Systems Regulator - PSR)",
+          "title": "Mandatory reimbursement requirement for Authorised Push Payment (APP) scams",
+          "url": "https://www.psr.org.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "愛国者法第314条(b)に基づく金融機関間疑わしい取引情報共有セーフハーバー",
+        "statusOrLevel": "個人情報保護法の例外として銀行間でミュール口座情報を直接リアルタイム共有可能",
+        "keyFeature": "金融犯罪執行ネットワーク（FinCEN）の枠組みにより、詐欺口座と疑われる名義情報を金融機関同士が法的不利益なしに相互照会。不審口座の新規開設を全米規模でブラックリスト化。",
+        "source": {
+          "organization": "米国財務省金融犯罪執行ネットワーク (FinCEN)",
+          "title": "Section 314(b) Fact Sheet: Financial institution information sharing",
+          "url": "https://www.fincen.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家反詐欺センター（National Anti-Scam Centre - NASC）および受取人確認（Confirmation of Payee）",
+        "statusOrLevel": "全豪銀行間での口座名義自動一致照合義務化および通信・銀行・SNSプラットフォーム合同遮断",
+        "keyFeature": "競争・消費者委員会（ACCC）内にNASCを常設。口座番号だけでなく受取人口座名義の一致確認を強制し、名義貸し口座への誤認送金を阻止。Meta等のSNS広告募集も規制。",
+        "source": {
+          "organization": "オーストラリア競争・消費者委員会 (ACCC) / NASC",
+          "title": "National Anti-Scam Centre initiative and Scam Safe Accords for banks",
+          "url": "https://www.accc.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "電気通信金融詐欺被害金返還法（ボイスフィッシング特別法）即時支払停止手続",
+        "statusOrLevel": "被害通報時に被害者申立のみで被疑者口座および関連中継口座の即時支払停止執行",
+        "keyFeature": "金融監督院（FSS）と警察庁が連携。詐欺犯がATMから引き出す前に、電話一本で全金融機関の該当口座を即座に凍結。大砲通帳（名義貸し闇口座）の譲受人に対する懲役刑を強化。",
+        "source": {
+          "organization": "韓国金融監督院 (FSS) / 警察庁",
+          "title": "Special Act on the Prevention of Loss Caused by Telecommunications-based Financial Fraud",
+          "url": "https://www.fss.or.kr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "マネーロンダリング防止法（GwG）および連邦金融監督庁（BaFin）ビデオ本人確認基準",
+        "statusOrLevel": "オンライン口座開設時の偽造防止ホログラム動的確認義務化と名義貸し刑事処罰",
+        "keyFeature": "オンライン銀行口座が闇バイトに悪用されるのを防ぐため、BaFinがAI顔認証だけでなく有資格オペレーターによる動的面談確認を義務化。口座売却者に対しマネロン幇助罪で禁錮刑。",
+        "source": {
+          "organization": "ドイツ連邦金融監督庁 (BaFin) / 連邦刑事庁 (BKA)",
+          "title": "Geldwäscheprävention: BaFin-Rundschreiben zu Video-Identifizierungsverfahren und Finanzagenten",
+          "url": "https://www.bafin.de"
+        }
+      }
+    ]
+  }
 }

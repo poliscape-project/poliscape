@@ -205,5 +205,89 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Cpu"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の配合飼料価格高騰対策・畜産農家セーフティネット共済法制",
+    "comparisonSummary": "穀物価格やエネルギー高騰に伴う酪農・畜産経営の危機に対し、米国（酪農マージン補償DMC）、EU（危機対応予備費・共通農業政策CAPセーフティネット）、カナダ（供給管理・乳価保証）、豪州などが、飼料コストと乳価・食肉価格の「利ざや（マージン）」を公的に補填する保険制度を展開しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "農務省酪農マージン補償プログラム（Dairy Margin Coverage - DMC）",
+        "statusOrLevel": "全米乳価と配合飼料コストの差額（飼料マージン）が基準を下回った際の即時自動給付",
+        "keyFeature": "農業法（Farm Bill）に基づく連邦保険制度。農家が選択したマージン保証水準（100ポンドあたり4〜9.5ドル）を下回ると、差額が自動補填。小中規模酪農家には割安な保険料率を設定。",
+        "source": {
+          "organization": "米国農務省農政局 (USDA FSA)",
+          "title": "Dairy Margin Coverage (DMC) Program and feed cost calculation rules",
+          "url": "https://www.fsa.usda.gov"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "共通農業政策（CAP）農業危機準備金（Crisis Reserve）および生乳市場セーフティネット",
+        "statusOrLevel": "年間4.5億ユーロの緊急市場介入基金発動および脱脂粉乳・バター公的買い支え",
+        "keyFeature": "ウクライナ危機に伴う飼料・肥料高騰を受け、欧州委員会が特別危機パッケージを直接農家へ緊急給付。脱脂粉乳等の公的介入買入（Intervention Buying）で市場価格の下支えを実施。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - Agriculture and Rural Development)",
+          "title": "Common Agricultural Policy: Exceptional market measures and dairy safety net",
+          "url": "https://agriculture.ec.europa.eu"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "酪農供給管理制度（Supply Management）および生産費連動公定乳価改定（CDC）",
+        "statusOrLevel": "全国生産枠（クォータ制）による需給統制と飼料価格高騰の自動乳価転嫁法制",
+        "keyFeature": "カナダ酪農委員会（CDC）が飼料費、人件費、燃料費を含む厳密な生産原価調査を実施。コスト上昇分をそのまま卸売・小売乳価に法的にスライド改定し、酪農家の赤字倒産を制度的に排除。",
+        "source": {
+          "organization": "カナダ酪農委員会 (Canadian Dairy Commission - CDC)",
+          "title": "Supply management and annual cost of production formula for milk pricing",
+          "url": "https://www.cdc-ccl.gc.ca"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "強制乳業行動規範（Mandatory Dairy Code of Conduct）および農場保険支援",
+        "statusOrLevel": "乳業メーカーによる事後的な一方的乳価引き下げの禁止と価格決定透明化法定義務",
+        "keyFeature": "競争・消費者委員会（ACCC）が監視。飼料高騰時に大手乳業が買い叩きを行わないよう、年間最低買取保証価格の明記を契約書に義務付け。干ばつ・飼料基金による低利融資を提供。",
+        "source": {
+          "organization": "オーストラリア競争・消費者委員会 (ACCC) / 農業省",
+          "title": "Dairy Code of Conduct: Regulating business relationships between farmers and processors",
+          "url": "https://www.accc.gov.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "農業・食品法（Loi EGalim 2）生産原価考慮契約義務付け法制",
+        "statusOrLevel": "飼料・エネルギーコストの変動指標を明記した複数年売買契約の締結を食品大手に義務化",
+        "keyFeature": "農家が提示する飼料高騰を反映した生産原価指標をベースに契約交渉を行うことを法定義務化。スーパーや乳業メーカーによる不当な原価割れ値引き販売（逆鞘）を禁止。",
+        "source": {
+          "organization": "フランス農業・食料主権省 (Ministère de l'Agriculture)",
+          "title": "Loi ÉGalim 2: protection de la rémunération des agriculteurs face aux coûts de production",
+          "url": "https://agriculture.gouv.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "飼料購入資金低利融資支援および用途別差等乳価制（生乳クォータ改革）",
+        "statusOrLevel": "国費による年利1%台の飼料特別融資支援および飲用乳・加工乳の価格分離制度",
+        "keyFeature": "国際穀物価格高騰を受け、農林畜産食品部が数千億ウォン規模の飼料特別購入資金を緊急融資。生乳需給の不均衡を是正するため、飲用乳とチーズ等加工乳の公定価格を分離して安定化。",
+        "source": {
+          "organization": "韓国農林畜産食品部 (MAFRA) / 酪農振興会",
+          "title": "Feed price stabilization loan support and differentiated raw milk pricing system",
+          "url": "https://www.mafra.go.kr"
+        }
+      }
+    ]
+  }
 }

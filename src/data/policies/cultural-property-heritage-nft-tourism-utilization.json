@@ -217,5 +217,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の重要文化財・歴史的建造物の高付加価値観光活用（城泊等）と保全修繕法制",
+    "comparisonSummary": "文化財の持続可能な保存修繕費用を稼ぎ出すため、欧州（スペイン・パラドール、フランス・モニュマン・ナショノー、英国・ナショナル・トラスト）やイタリアなどは、国宝級の城郭・宮殿・修道院を高級ホテル（城泊）やイベント施設として再生し、収益を全額文化財保全に再投資する官民連携モデルを運用しています。",
+    "countries": [
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "国営ホテル公社「パラドール（Paradores de Turismo de España）」制度",
+        "statusOrLevel": "全国約100箇所の歴史的城郭・宮殿・修道院を国営高級ホテルとして活用・収益還元",
+        "keyFeature": "1928年創設の国家的成功モデル。放置すれば崩壊する歴史遺産を行政が高級宿泊施設として修復・再生。宿泊・料飲収益により自立採算を達成し、地域の雇用創出と文化財の永久維持を両立。",
+        "source": {
+          "organization": "スペイン産業・商業・観光省 / Paradores",
+          "title": "Paradores de Turismo: Conservación del patrimonio histórico y turismo sostenible",
+          "url": "https://www.parador.es"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "国立文化財センター（Centre des monuments nationaux - CMN）およびヘリテージ・コンセッション",
+        "statusOrLevel": "モン・サン・ミッシェルや古城等の民間長期利活用委託（Bail emphytéotique）と修繕義務",
+        "keyFeature": "文化財保護法制のもと、民間事業者に最大数十年の長期使用権（コンセッション）を付与し、高級ホテル（シャトーホテル）やレストラン開業を公認。投資額に見合う収益を認めつつ厳格な原状維持を義務付け。",
+        "source": {
+          "organization": "フランス文化省国立文化財センター (CMN)",
+          "title": "Valorisation économique et mise en concession des monuments historiques",
+          "url": "https://www.monuments-nationaux.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ヒストリック・イングランド（Historic England）およびナショナル・トラスト信託活用",
+        "statusOrLevel": "登録建造物（Listed Buildings）の宿泊・映画撮影ロケ活用と修繕寄付税制（Gift Aid）",
+        "keyFeature": "歴史的邸宅や城郭を慈善信託団体が管理し、ホリデーコテージ宿泊事業を展開。得られた収益は非課税で全額保全基金に充当。民間所有の文化財に対しても改修費用の税額控除を適用。",
+        "source": {
+          "organization": "ヒストリック・イングランド (Historic England) / DCMS",
+          "title": "Adaptive reuse of historic buildings: Guidance for sustainable tourism and accommodation",
+          "url": "https://historicengland.org.uk"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "国家不動産公社（Demanio）「歴史的道と城郭（Cammini e Percorsi）」再生計画",
+        "statusOrLevel": "国有の古城・要塞・灯台・修道院を最大50年間民間に無償貸与し宿泊・観光拠点化",
+        "keyFeature": "維持費が重荷となっていた国有歴史資産を、若手起業家や観光企業に長期貸与。入居事業者が自己資金で改修工事を行うことを条件に賃料を減免し、巡礼路や観光ルートを活性化。",
+        "source": {
+          "organization": "イタリア国有財産庁 (Agenzia del Demanio) / 文化省",
+          "title": "Progetto Valore Paese Italia: Dimore storiche, fari e fortificazioni",
+          "url": "https://www.agenziademanio.it"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "宮殿庭園財団（Stiftung Preußische Schlösser）および文化財減税（Denkmal-AfA）",
+        "statusOrLevel": "歴史的城郭のイベント・ホテル活用および文化財修繕費用の所得税100%償却制度",
+        "keyFeature": "所得税法第7条i（Denkmal-AfA）に基づき、文化財建造物の修繕にかかった全費用を数年間にわたり課税所得から全額控除可能に。民間投資マネーを文化財保全と観光活用へ誘導。",
+        "source": {
+          "organization": "ドイツ連邦文化・メディア担当大臣 (BKM) / ベルリン・ブランデンブルク城郭財団",
+          "title": "Denkmalschutz und steuerliche Förderung für Denkmaleigentümer (Denkmal-AfA)",
+          "url": "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien"
+        }
+      },
+      {
+        "country": "ポルトガル",
+        "countryCode": "PT",
+        "flag": "🇵🇹",
+        "systemName": "ポウサーダ（Pousadas de Portugal）およびレヴァイブ計画（Revive Program）",
+        "statusOrLevel": "歴史的修道院・城郭の民間ホテルコンセッション入札と保全修復の義務付け",
+        "keyFeature": "経済省と文化省が主導する「Revive」イニシアチブにより、廃墟化していた歴史的国有建築物のホテル開発権限を国際入札。落札企業に数百万ユーロの修復工事を義務付け文化財を救済。",
+        "source": {
+          "organization": "ポルトガル観光庁 (Turismo de Portugal) / 文化財総局",
+          "title": "Programa Revive: Concessão de património cultural para fins turísticos",
+          "url": "https://revive.turismodeportugal.pt"
+        }
+      }
+    ]
+  }
 }

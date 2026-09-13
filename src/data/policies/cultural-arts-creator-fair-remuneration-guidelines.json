@@ -186,5 +186,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "ShieldAlert"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の文化芸術・クリエイター適正対価・公正取引・買いたたき防止法制",
+    "comparisonSummary": "アニメ制作者、イラストレーター、音楽家等のフリーランス・クリエイターの権利保護に対し、欧州（DSM著作権指令適正対価原則）、フランス（文化例外・印税ミニマム）、米国（フリーランス支払保護法）、韓国（芸術人福祉法・標準契約書義務化）などが公的介入を行っています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "デジタル単一市場著作権指令（2019/790 第18条〜22条）適正かつ比例的報酬原則",
+        "statusOrLevel": "クリエイターの「契約調整権（ベストセラー条項）」および透明性報告義務の法定化",
+        "keyFeature": "作品が大ヒットした場合、当初の買取価格が不釣り合いに低いときは事後的に追加報酬を請求できる権利を法律で保障。パブリッシャーに対し年1回以上の収益・ライセンス利用報告を義務化。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - Copyright)",
+          "title": "Fair remuneration in exploitation contracts of authors and performers",
+          "url": "https://digital-strategy.ec.europa.eu"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "知的所有権法典（CPI）およびアンテルミタン（Intermittent du spectacle）特別失業保険",
+        "statusOrLevel": "芸術家・クリエイターに対する最低報酬労働協約と公演間失業手当公費給付",
+        "keyFeature": "文化省が監督し、著作者人格権を絶対視（権利の包括的放棄契約を無効化）。公演や撮影ごとに短期契約を結ぶアーティストに対し、仕事のない期間の生活費を公的年金・失業保険から保障。",
+        "source": {
+          "organization": "フランス文化省 (Ministère de la Culture) / フランス労働局",
+          "title": "Statut de l'artiste-auteur et régime des intermittents du spectacle",
+          "url": "https://www.culture.gouv.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "芸術人福祉法および公正契約支援センター（標準契約書使用促進）",
+        "statusOrLevel": "ウェブトゥーン作家・アニメーター向け標準契約書告示および不公正契約是正命令",
+        "keyFeature": "文化体育観光部が「芸術人雇用保険」を義務化し、プラットフォームによる著作権の一括買い叩き（著作権譲渡強要）を禁止。違反事業者には過料と公的支援除外を執行。",
+        "source": {
+          "organization": "韓国文化体育観光部 (MCST) / 韓国芸術人福祉財団",
+          "title": "Artist Welfare Act - Fair contract guidelines and artist employment insurance",
+          "url": "https://www.mcst.go.kr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "フリーランス・イズント・フリー法（Freelance Isn't Free Act - ニューヨーク州等）",
+        "statusOrLevel": "フリーランスクリエイターへの書面契約義務付けおよび30日以内全額支払い義務",
+        "keyFeature": "契約書なしの業務委託や報酬遅延・減額強要を違法化。未払いが発生した場合、発注企業に対し未払額の倍額（二倍賠償）および弁護士費用の支払いを命じる強力な救済手続を運用。",
+        "source": {
+          "organization": "ニューヨーク州労働局 (NYS Department of Labor)",
+          "title": "Freelance Isn't Free Act: Protections for independent workers and creators",
+          "url": "https://dol.ny.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "著作権法（UrhG 第32条）適正報酬請求権および芸術家社会保険（Künstlersozialkasse - KSK）",
+        "statusOrLevel": "フリーランス表現者の健康・年金保険料の半額を国と発注企業が負担する連邦制度",
+        "keyFeature": "作品を利用した企業に対し、売上に応じたKSK課徴金の納付を義務付け、個人クリエイターの社会保険料負担を公費・企業負担で半減。適正報酬（Angemessene Vergütung）の業界協定を推進。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ) / 芸術家社会保険金庫 (KSK)",
+          "title": "Künstlersozialversicherungsgesetz (KSVG) und Urhebervertragsrecht",
+          "url": "https://www.kuenstlersozialkasse.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "クリエイティブ・産業評議会（CIC）および小規模ビジネス專任委員（SBC）救済手続",
+        "statusOrLevel": "中小クリエイターに対する大企業の買いたたき・支払遅延への公的調査・調停",
+        "keyFeature": "不公正な取引慣行に対し、小規模ビジネス專任委員（Small Business Commissioner）がフリーランスに代わって大企業に是正勧告を発出。BBC等の公共調達における適正報酬基準を遵守。",
+        "source": {
+          "organization": "英国小規模ビジネス專任委員会 (Small Business Commissioner - SBC) / DCMS",
+          "title": "Late payments and fair treatment for freelance creatives and small businesses",
+          "url": "https://www.smallbusinesscommissioner.gov.uk"
+        }
+      }
+    ]
+  }
 }

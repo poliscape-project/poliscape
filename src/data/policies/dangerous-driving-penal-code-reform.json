@@ -127,5 +127,89 @@
       "type": "white_paper",
       "typeLabel": "検察庁統計資料"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の危険運転・超高速暴走・悪質あおり運転に対する刑事処罰法制",
+    "comparisonSummary": "一般過失致死傷罪と故意殺人の狭間に位置する危険運転致死傷に対し、英国（最高終身刑引き上げ）、米国（Vehicular Homicide）、ドイツ（違法公道レース殺人罪・時速大幅超過規制）、フランス、オーストラリアなどが、極端な速度超過やあおり運転を「未必の故意」として重刑を科す法制を強化しています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "警察・犯罪・量刑・裁判所法2022（PCSCR Act 2022）危険運転致死罪改正",
+        "statusOrLevel": "危険運転致死罪（Dangerous Driving causing Death）の最高刑を「禁錮14年」から「終身刑」へ引き上げ",
+        "keyFeature": "薬物・飲酒・猛スピードやあおり運転により他人を死亡させた運転者に対し、故意の故殺（Manslaughter）と同等の終身禁錮刑（Life Imprisonment）を科すことができるよう罰則を大幅強化。",
+        "source": {
+          "organization": "英国司法省 (Ministry of Justice) / 王立検察庁 (CPS)",
+          "title": "Police, Crime, Sentencing and Courts Act 2022: Life sentences for killer drivers",
+          "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "刑法第315条d（違法公道自動車レース罪）および殺人罪（Mord）判例",
+        "statusOrLevel": "単独暴走を含む危険な速度超過への最高禁錮10年規定・市街地超高速事故での殺人罪適用",
+        "keyFeature": "ベルリン公道レース事故の連邦通常裁判所（BGH）判決で、猛スピードでの事故死に対し「未必の故意による殺人罪（無期懲役）」の適用を支持。相手がいない単独の無謀な最高速度運転も刑事罰化。",
+        "source": {
+          "organization": "ドイツ連邦通常裁判所 (BGH) / 連邦法務省",
+          "title": "Strafgesetzbuch § 315d (Verbotene Kraftfahrzeugrennen) und Mordurteile",
+          "url": "https://www.bmj.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "各州車両過失致死・殺人罪（Vehicular Manslaughter / Depraved Heart Murder）",
+        "statusOrLevel": "著しい無謀運転（極端な速度超過・あおり運転等）に対する第2級殺人罪（禁錮20年以上〜終身）適用",
+        "keyFeature": "法定速度を時速30〜40マイル以上超過した猛スピード事故や公道レースに対し、人間の生命に対する極端な無関心（Depraved Heart）を認定し、重過失ではなく殺人罪として起訴する州法制を運用。",
+        "source": {
+          "organization": "米国国家幹線道路交通安全局 (NHTSA) / 各州最高裁判所",
+          "title": "Model Penal Code and state felony vehicular homicide sentencing statutes",
+          "url": "https://www.nhtsa.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "道路交通法典（Code de la route）および刑法典における「ロード・オミサイド（Homicide routier）」法案",
+        "statusOrLevel": "故意の加重過失致死罪（最高禁錮10年・罰金15万ユーロ）および専用罪名創設",
+        "keyFeature": "時速50km以上の速度超過、あおり運転、薬物・アルコール影響下の事故に対し、一般の「過失致死」という呼称を排除し「道路殺人（Homicide routier）」と名付ける法改正案を推進。車両の即時没収手続。",
+        "source": {
+          "organization": "フランス内務省国家道路安全代表部 (Sécurité routière) / 司法省",
+          "title": "Répression des grands excès de vitesse et projet de création de l'homicide routier",
+          "url": "https://www.securite-routiere.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "ニューサウスウェールズ州刑法第52A条（危険運転致死傷罪）",
+        "statusOrLevel": "危険運転致死罪に対し最高禁錮10年・加重事由（極端な速度・あおり）時は最高14年",
+        "keyFeature": "制限速度を時速45km以上超過した運転、アルコール血中濃度高濃度、逃走中の暴走を「加重危険運転（Aggravated Dangerous Driving）」と定義し、厳格な法定最低刑を課す。",
+        "source": {
+          "organization": "オーストラリア・ニューサウスウェールズ州法務局 (NSW Department of Communities and Justice)",
+          "title": "Crimes Act 1900 Section 52A: Dangerous driving occasioning death or grievous bodily harm",
+          "url": "https://www.justice.nsw.gov.au"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "連邦刑法（Criminal Code Section 320.13）危険運行罪（Dangerous Operation）",
+        "statusOrLevel": "公衆の安全に危険を及ぼす運転での死亡事故に対し最高終身禁錮刑（2018年法改正）",
+        "keyFeature": "刑法交通犯罪規定を全面刷新。危険運転による致死罪の最高刑を禁錮14年から終身刑へと引き上げ、車両押収および生涯にわたる運転免許取消処分を裁判官に裁量付与。",
+        "source": {
+          "organization": "カナダ司法省 (Department of Justice Canada)",
+          "title": "Criminal Code Section 320.13: Dangerous operation causing bodily harm or death",
+          "url": "https://laws-lois.justice.gc.ca"
+        }
+      }
+    ]
+  }
 }

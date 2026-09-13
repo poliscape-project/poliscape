@@ -185,5 +185,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の過疎地・離島・遠隔医療におけるドローン医薬品・検体緊急輸送法制",
+    "comparisonSummary": "へき地・離島の救急医療アクセス格差に対し、英国（NHSスコットランド離島便）、カナダ（極北先住民族輸送）、ガーナ（Zipline国家ネットワーク）、スイス（都市・山岳病院間ピストン便）などが、目視外自律飛行（BVLOS）や低空域航空管制（UTM）の特例認可を法制化しています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国民保健サービス（NHS）および民間航空局（CAA）離島ドローン空路常設認可",
+        "statusOrLevel": "スコットランド西岸離島（マル島・スカイ島等）への処方薬・化学療法薬定期空輸",
+        "keyFeature": "フェリー欠航時でも医薬品を即時届けるため、CAAが洋上目視外飛行回廊（Corridor）を承認。本土の病院から離島診療所へ、有効期限の短い抗がん剤や緊急輸血用血液を数十分で輸送。",
+        "source": {
+          "organization": "英国民間航空局 (Civil Aviation Authority - CAA) / NHS",
+          "title": "Airspace modernisation and BVLOS drone medical delivery projects across the NHS",
+          "url": "https://www.caa.co.uk"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダ運輸省（Transport Canada）極北・先住民族孤立地域ドローン医療サプライチェーン",
+        "statusOrLevel": "冬季に道路が遮断される北部先住民族コミュニティへのワクチン・検体長距離空輸",
+        "keyFeature": "氷点下30度以下の極寒冷地において、特殊飛行運航証明（SFOC）を緩和。オンタリオ州北部の先住民族居住地と遠隔拠点病院を結び、インスリンや心疾患治療薬を自律飛行で緊急搬送。",
+        "source": {
+          "organization": "カナダ運輸省 (Transport Canada)",
+          "title": "Remotely Piloted Aircraft Systems (RPAS): Delivering medical supplies to remote First Nations",
+          "url": "https://tc.canada.ca"
+        }
+      },
+      {
+        "country": "ガーナ",
+        "countryCode": "GH",
+        "flag": "🇬🇭",
+        "systemName": "保健省（MOH）国家規模自律ドローン医療配送ネットワーク（Zipline提携）",
+        "statusOrLevel": "全国6か所のドローン配給センターから2,000箇所以上の農村・離島診療所へ24時間即時空輸",
+        "keyFeature": "民間航空局（GCAA）と連携し、血液パック、狂犬病ワクチン、抗蛇毒血清、救急医薬品をオンデマンドでパラシュート投下。世界で最も広範な公的医療ドローン物流インフラを商用運用。",
+        "source": {
+          "organization": "ガーナ保健省 (Ministry of Health Ghana) / GCAA",
+          "title": "National Medical Drone Delivery Service program and emergency supplies",
+          "url": "https://www.moh.gov.gh"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦民間航空局（FOCA）U-space規制および病院グループ間緊急検体自律ドローン輸送",
+        "statusOrLevel": "チューリッヒ・ルガーノ等の都市・山岳地域における血液・生検組織の自動ピストン輸送",
+        "keyFeature": "欧州先行のU-space低空域管制のもと、手術中に採取された組織サンプルの検査ラボへの緊急移送をドローン化。陸上救急車やバイク便の交通渋滞リスクを回避し手術時間を短縮。",
+        "source": {
+          "organization": "スイス連邦民間航空局 (Federal Office of Civil Aviation - FOCA)",
+          "title": "U-space Switzerland and commercial healthcare drone transport authorisations",
+          "url": "https://www.bazl.admin.ch"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "民間航空安全局（CASA）アウトバック遠隔地医療ドローン特例ガイドライン",
+        "statusOrLevel": "広大な砂漠・離島へき地医療施設への緊急抗毒血清・AEDドローン投下実証",
+        "keyFeature": "空域が空いている広大な内陸部（アウトバック）において、遠隔医療チーム（Royal Flying Doctor Service等）と連携し、毒蛇咬傷患者への抗毒素血清の長距離目視外自律配送を公認。",
+        "source": {
+          "organization": "オーストラリア民間航空安全局 (CASA)",
+          "title": "Beyond Visual Line of Sight (BVLOS) operations and medical delivery drone approvals",
+          "url": "https://www.casa.gov.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "航空総局（DGAC）離島・山間部ドローン回廊および地域保健庁（ARS）医療連携",
+        "statusOrLevel": "ブルターニュ地方離島（イエール島等）およびアルプス過疎山間部での血液検体空輸",
+        "keyFeature": "海難救助やフェリー欠航時の医療空白を解消するため、本土中核病院と離島診療所間に安全空域回廊を設定。天候急変時の自動帰還フェイルセーフを備えた医療用ドローン運航を認可。",
+        "source": {
+          "organization": "フランス民間航空総局 (DGAC) / 保健省",
+          "title": "Expérimentations de livraison médicale par drone en zone insulaire et isolée",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      }
+    ]
+  }
 }

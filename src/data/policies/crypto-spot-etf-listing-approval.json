@@ -185,5 +185,89 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "TrendingDown"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の暗号資産現物ETF（ビットコイン・イーサリアム）認可・上場規制",
+    "comparisonSummary": "暗号資産の機関投資家マネー流入と個人保護に関し、米国（SECによる2024年現物ETF認可）、香港（アジア初現物ETF承認）、カナダ（世界初2021年承認）、欧州（ETN/ETC上場）などが、公認取引所における厳格な分別カストディ（保管）要件を設けて上場を解禁しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "証券取引委員会（SEC）現物ビットコイン・イーサリアムETF上場承認（1934年証券取引所法）",
+        "statusOrLevel": "2024年1月に歴史的承認・ニューヨーク証券取引所（NYSE）やナスダックで取引開始",
+        "keyFeature": "市場操作防止のためCME先物市場との厳格な監視共有協定（SSA）を義務付け。原資産の暗号資産は適格カストディアン（コールドウォレット保管）による完全分別管理を公的要件化。",
+        "source": {
+          "organization": "米国証券取引委員会 (Securities and Exchange Commission - SEC)",
+          "title": "Statement on the Approval of Spot Bitcoin and Ether Exchange-Traded Products",
+          "url": "https://www.sec.gov"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "オンタリオ証券委員会（OSC）世界初の現物ビットコインETF（Purpose Bitcoin ETF）認可",
+        "statusOrLevel": "2021年に世界に先駆けてトロント証券取引所（TSX）での現物ETF上場を認可",
+        "keyFeature": "適格投資信託規則に基づき、個人口座（非課税口座TFSAや年金RRSP）での現物暗号資産ETF保有を公認。保管機関のマルチシグネチャ暗号鍵管理と定期監査を義務化。",
+        "source": {
+          "organization": "オンタリオ証券委員会 (Ontario Securities Commission - OSC)",
+          "title": "Decisions and approval of publicly offered cryptocurrency alternative mutual funds",
+          "url": "https://www.osc.ca"
+        }
+      },
+      {
+        "country": "香港",
+        "countryCode": "HK",
+        "flag": "🇭🇰",
+        "systemName": "証券先物事務監察委員会（SFC）仮想資産現物ETF承認枠組み",
+        "statusOrLevel": "アジア初・インカインド（現物拠出・現物償還）方式を認めたビットコイン・イーサ現物ETF上場",
+        "keyFeature": "香港証券取引所（HKEX）に上場。米国のキャッシュ決済限定に対し、投資家が手持ちの暗号資産を直接ETF口数に交換できる現物拠出（In-kind creation）を認可しハブ機能を強化。",
+        "source": {
+          "organization": "香港証券先物委員会 (Securities and Futures Commission - SFC)",
+          "title": "Circular on SFC-authorised virtual asset spot exchange-traded funds",
+          "url": "https://www.sfc.hk"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "UCITS指令制約と暗号資産上場債券（ETN / ETP）市場（ドイツ・ボーゼ等）",
+        "statusOrLevel": "単一資産ETF不可規則（UCITS分散要件）のもとで現物担保型ETN/ETCが成熟",
+        "keyFeature": "欧州の投信指令（UCITS）では単一資産でのETF組成が禁じられているため、フランクフルト証券取引所（Xetra）等で100%現物裏付けの暗号資産上場投資証券（ETN）として大規模流通。",
+        "source": {
+          "organization": "欧州証券市場監督局 (ESMA) / ドイツ連邦金融監督庁 (BaFin)",
+          "title": "Crypto-assets regulation under MiCA and Exchange-Traded Notes oversight",
+          "url": "https://www.esma.europa.eu"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "オーストラリア証券投資委員会（ASIC）暗号資産ETP認可ガイドライン（INFO 225/230）",
+        "statusOrLevel": "豪州証券取引所（ASX）およびCboe Australiaにおける現物ビットコインETF上場",
+        "keyFeature": "ASICが取引所に対し、頑健な価格形成指数、適格カストディ、市場流動性プロバイダーの確保を要求。個人投資家向けの目論見書リスク開示を厳格化。",
+        "source": {
+          "organization": "オーストラリア証券投資委員会 (ASIC)",
+          "title": "INFO 230: Exchange traded products: Admission and monitoring of crypto-asset ETPs",
+          "url": "https://asic.gov.au"
+        }
+      },
+      {
+        "country": "ブラジル",
+        "countryCode": "BR",
+        "flag": "🇧🇷",
+        "systemName": "ブラジル証券取引委員会（CVM）現物暗号資産ETFおよびソラナ現物ETF世界初認可",
+        "statusOrLevel": "サンパウロ証券取引所（B3）での複数現物暗号資産ETFおよびDeFiバスケットETF取引",
+        "keyFeature": "中南米最大の金融市場として、ビットコイン・イーサリアムに加え、2024年に世界で初めてソラナ（Solana）現物ETFを認可するなど、積極的な暗号資産商品化政策を展開。",
+        "source": {
+          "organization": "ブラジル証券取引委員会 (Comissão de Valores Mobiliários - CVM)",
+          "title": "CVM autoriza novos fundos de índice (ETF) de criptoativos negociados na B3",
+          "url": "https://www.gov.br/cvm"
+        }
+      }
+    ]
+  }
 }

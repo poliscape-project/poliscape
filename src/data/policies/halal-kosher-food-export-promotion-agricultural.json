@@ -217,5 +217,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Eye"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国のハラール・コーシャ国際宗教認証取得支援と輸出拡大法制",
+    "comparisonSummary": "急成長する巨大なイスラム圏・ユダヤ教市場への農水産物・食品輸出を拡大するため、非イスラム圏先進国（豪州・ニュージーランド・ブラジル・タイ・韓国）などは、政府機関による相手国宗教当局との相互認証協定締結や、認証取得費用の公費助成を行っています。",
+    "countries": [
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "豪州政府公認イスラム食肉プログラム（AGHAIM）および輸出管理規則",
+        "statusOrLevel": "連邦農業省が輸出食肉処理場におけるハラール基準遵守を直接監督・世界有数の輸出国",
+        "keyFeature": "農業・水産・森林省（DAFF）が中東諸国やインドネシア等の公式宗教当局と二国間合意。政府公認のイスラム団体が発行したハラール証明書に政府公式印を付与し、国際信頼性を担保。",
+        "source": {
+          "organization": "オーストラリア連邦農業・水産・森林省 (DAFF)",
+          "title": "Australian Government Authorised Halal Program for Red Meat Exports",
+          "url": "https://www.agriculture.gov.au"
+        }
+      },
+      {
+        "country": "ブラジル",
+        "countryCode": "BR",
+        "flag": "🇧🇷",
+        "systemName": "農業畜産省（MAPA）ハラール認証・輸出監査システム（世界最大のハラール鶏肉輸出国）",
+        "statusOrLevel": "中東・イスラム諸国向けハラール家禽・牛肉輸出における連邦検査機関（SIF）認証連動",
+        "keyFeature": "世界最大のハラール食肉輸出国として、連邦検査官が全屠殺工程を常時監視。ブラジル輸出投資振興庁（ApexBrasil）が中小食品企業のハラール認証取得費用に手厚い助成金を提供。",
+        "source": {
+          "organization": "ブラジル農業畜産省 (MAPA) / ApexBrasil",
+          "title": "Certificação Halal para exportação de carnes e produtos agropecuários",
+          "url": "https://www.gov.br/agricultura"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "第一次産業省（MPI）公式ハラール保証プログラムおよびコーシャ輸出規格",
+        "statusOrLevel": "MPI認定イスラム団体による屠畜監督および世界各国宗教当局との二国間合意",
+        "keyFeature": "羊肉・乳製品輸出において、ニュージーランド政府が海外市場ごとの厳格なハラールおよびコーシャ要件を公式ガイドラインとして策定。公的証明書の発行手続をデジタル化。",
+        "source": {
+          "organization": "ニュージーランド第一次産業省 (Ministry for Primary Industries - MPI)",
+          "title": "Halal Notice: Requirements for export of Halal animal material and animal products",
+          "url": "https://www.mpi.govt.nz"
+        }
+      },
+      {
+        "country": "タイ",
+        "countryCode": "TH",
+        "flag": "🇹🇭",
+        "systemName": "チュラロンコン大学ハラール科学センターおよび国家ハラール食品振興政策",
+        "statusOrLevel": "仏教国でありながら「世界のハラール厨房」を国策推進・DNA検査ラボでの豚肉混入ゼロ保証",
+        "keyFeature": "政府が出資する国家ハラール科学センターが、食品のハラール性（豚肉・アルコール不混入）を科学的に分子レベルで判定するHAL-Qシステムを開発。中小輸出企業への認証取得を全面支援。",
+        "source": {
+          "organization": "タイ商務省国際貿易振興局 (DITP) / ハラール科学センター",
+          "title": "Halal Science Center and national Halal food export promotion strategy",
+          "url": "https://www.ditp.go.th"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "農水産食品輸出振興法およびK-Foodハラール・コーシャ海外認証取得支援事業",
+        "statusOrLevel": "韓国農水産食品流通公社（aT）による認証取得費用の最大70%（上限数千万ウォン）公費助成",
+        "keyFeature": "中東・東南アジアへの韓国食品（キムチ、菓子、飲料）輸出を拡大するため、JAKIM（マレーシア）やMUI（インドネシア）等の海外認証取得にかかるコンサルティング・審査費用を国が助成。",
+        "source": {
+          "organization": "韓国農林畜産食品部 (MAFRA) / 韓国農水産食品流通公社 (aT)",
+          "title": "Overseas Certification (Halal, Kosher, FDA) Support Project for agri-food exports",
+          "url": "https://www.at.or.kr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "農務省海外農業局（USDA FAS）市場アクセスプログラム（MAP）宗教認証支援",
+        "statusOrLevel": "連邦助成金を通じたコーシャ（OU等）およびハラール認証取得と中東・イスラエル輸出促進",
+        "keyFeature": "世界最大のコーシャ食品消費・製造国として、正統派連合（Orthodox Union）等の認証規格が民間市場で高度に発達。USDAが輸出協議会を通じて認証取得・海外展示会出展を財政支援。",
+        "source": {
+          "organization": "米国農務省海外農業局 (USDA FAS)",
+          "title": "Market Access Program (MAP) and international agricultural trade compliance",
+          "url": "https://www.fas.usda.gov"
+        }
+      }
+    ]
+  }
 }
