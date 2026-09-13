@@ -260,6 +260,8 @@
         "countryCode": "DE",
         "flag": "🇩🇪",
         "systemName": "金属産業労働協約（IG Metall）週28時間勤務選択権および45社実証実験",
+        "temporaryPeriod": "最長2年間の時限的選択権（IG Metall労働協約）",
+        "temporaryLabel": "最長2年時限",
         "statusOrLevel": "労使協約に基づく時限的な週4日勤務選択権・介護や育児のための短時間勤務保障",
         "keyFeature": "労働協約により労働者が最長2年間、週28時間勤務を選択可能。コンサルティング会社Intraprenör主導の大規模実証でも生産性向上を確認し、熟練労働者の採用競争力強化に寄与。",
         "source": {

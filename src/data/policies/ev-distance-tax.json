@@ -266,6 +266,8 @@
         "countryCode": "NZ",
         "flag": "🇳🇿",
         "systemName": "Road User Charges (RUC / 道路利用者課税法)",
+        "temporaryPeriod": "2024年4月まで（EV免除特例終了・課税開始）",
+        "temporaryLabel": "2024年4月終了",
         "statusOrLevel": "2024年4月よりEV・PHEVへの課税適用開始",
         "keyFeature": "従来EV普及促進のため免除されていた道路利用者課税（RUC）の免除特例を2024年4月に終了し、EVにも内燃機関車と同等の課税を適用。EVドライバーは事前に走行距離（1,000km単位）のライセンスを購入してフロントガラス等に表示するシステム（1,000kmあたり76NZドル、約7,000円）で道路整備財源を確保しています。",
         "source": {

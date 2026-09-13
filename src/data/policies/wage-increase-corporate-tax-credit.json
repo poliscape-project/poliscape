@@ -6,6 +6,8 @@
   "categoryLabel": "税制・産業政策",
   "lastUpdated": "2026-09-01",
   "effectiveDate": "2024年度税制改正施行（最大45%控除）、赤字中小企業向け繰越控除5年間新設",
+  "temporaryPeriod": "2024〜2026年度（3年間集中適用）",
+  "temporaryLabel": "2024〜26年度",
   "status": "implemented",
   "statusLabel": "改正税制運用中・繰越控除の利用状況検証中",
   "summary": {
