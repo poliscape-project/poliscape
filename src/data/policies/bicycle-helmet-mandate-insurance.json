@@ -147,5 +147,89 @@
       "text": "個人賠償責任保険義務",
       "color": "bg-blue-50 text-blue-800"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の自転車ヘルメット着用義務・保険加入および交通違反反則金法制",
+    "comparisonSummary": "自転車事故防止と交通秩序維持に関し、オーストラリアやニュージーランドが「全年齢ヘルメット着用完全義務化（罰金刑）」を科している一方、欧州（オランダ・ドイツ等）はインフラ分離を優先し子ども限定義務化にとどめ、違反への点数制・反則金制度を整備しています。",
+    "countries": [
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "全豪道路規則（Australian Road Rules）全年齢ヘルメット着用完全法定義務",
+        "statusOrLevel": "1990年代初頭に世界初全国義務化・未着用に対して各州100〜300豪ドル超の罰金即時告知",
+        "keyFeature": "公道・歩道・公園を問わず、年齢に関わらず公認規格ヘルメットの着用を法的に義務化。警察官による現場取締りが徹底され、着用率は80%以上を維持する一方、利用率低下議論も存在。",
+        "source": {
+          "organization": "オーストラリア国家交通委員会 (National Transport Commission - NTC)",
+          "title": "Australian Road Rules - Part 15: Additional rules for bicycle riders",
+          "url": "https://www.ntc.gov.au"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "陸上交通規則（Land Transport (Road User) Rule 2004）ヘルメット義務化",
+        "statusOrLevel": "公道走行時の自転車ヘルメット着用法定義務・違反者へ55NZドルの即時反則金",
+        "keyFeature": "事故補償公社（ACC）の医療費負担削減と頭部外傷防止を目的として全年齢義務化。自転車専用レーン走行時であっても例外なく着用を義務付け。",
+        "source": {
+          "organization": "ニュージーランド運輸庁 (Waka Kotahi NZ Transport Agency)",
+          "title": "Cycling safety and mandatory cycle helmet road user rules",
+          "url": "https://www.nzta.govt.nz"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "道路交通法規令（RVV 1990）自転車優先インフラ重視政策（着用義務なし）",
+        "statusOrLevel": "一般自転車のヘルメット着用義務なし（高速スピードE-bike「スピードペデレック」のみ義務）",
+        "keyFeature": "着用義務化による自転車利用離れを懸念し、徹底した物理的自転車専用道ネットワークと交差点分離を国策整備。時速45km出るモペッド型電動アシスト車にのみヘルメットと免許を要求。",
+        "source": {
+          "organization": "オランダインフラ・水管理省 (Ministry of Infrastructure and Water Management)",
+          "title": "Bicycle safety and helmet policy: Promoting cycling infrastructure",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "道路交通法典（Code de la route 第R431-1-3条）12歳未満着用義務化",
+        "statusOrLevel": "12歳未満の運転・同乗児童に対するヘルメット着用法定義務（同伴保護者に最高135ユーロ罰金）",
+        "keyFeature": "子どもに対する着用を厳格に義務付け、保護者責任を問う法制を導入。12歳以上は任意だが、夜間走行時の反射ベスト着用を義務化するなど被視認性向上を徹底。",
+        "source": {
+          "organization": "フランス内務省国家道路安全代表部 (Sécurité routière)",
+          "title": "Équipements obligatoires à vélo: port du casque pour les enfants de moins de 12 ans",
+          "url": "https://www.securite-routiere.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "道路交通規則（StVO）および連邦通常裁判所（BGH）過失相殺判例",
+        "statusOrLevel": "法定義務なし（任意着用）・ヘルメット未着用を理由とする事故損害賠償減額を最高裁が否定",
+        "keyFeature": "国民的反対から法的義務化は見送られているが、飲酒運転やスマホ操作、逆走に対しては自動車運転免許の停止や高額な反則金（Bußgeld）を厳格に科す取締りを運用。",
+        "source": {
+          "organization": "ドイツ連邦デジタル・交通省 (BMDV) / 連邦通常裁判所 (BGH)",
+          "title": "Fahrrad-Sicherheit und Bußgeldkatalog im Straßenverkehr (StVO)",
+          "url": "https://www.bmdv.bund.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "各州自転車安全法（カリフォルニア州等22州で未成年着用義務化）",
+        "statusOrLevel": "加州法（18歳未満着用義務・25ドル反則金）および各都市シェアサイクルヘルメット実証",
+        "keyFeature": "全米統一の連邦法はなく、州および基礎自治体条例で規定。未成年者のヘルメット義務化が一般的であり、消費者製品安全委員会（CPSC）が衝撃吸収基準を厳格に連邦認定。",
+        "source": {
+          "organization": "米国消費者製品安全委員会 (CPSC) / 各州道路安全局",
+          "title": "Bicycle Helmets Business Guidance and Safety Standards (16 CFR Part 1203)",
+          "url": "https://www.cpsc.gov"
+        }
+      }
+    ]
+  }
 }

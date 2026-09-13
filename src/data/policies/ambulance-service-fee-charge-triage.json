@@ -179,5 +179,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の救急車利用料金・トリアージと軽症者有料化制度",
+    "comparisonSummary": "日本の救急車完全無料制度に対し、海外諸国では救急車搬送は「公費または民間医療保険による有料サービス」が一般的であり、軽症者や緊急性のない出動要請には高額な自己負担や選定療養費を課すことで適正利用を促しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "民間・公営救急車有料搬送制度およびサプライズ請求防止法（No Surprises Act）",
+        "statusOrLevel": "救急車出動1回あたり500〜2,000ドル超（民間医療保険適用・自己負担額あり）",
+        "keyFeature": "自治体消防または民間救急会社が運営。走行距離や高度医療処置（ALS/BLS）に応じた明細請求書が送付される。過度な自己負担を防ぐため、保険外ネットワーク搬送の規制を連動。",
+        "source": {
+          "organization": "米国メディケア・メディケイド・サービス庁 (CMS)",
+          "title": "Ambulance Fee Schedule and emergency transportation billing regulations",
+          "url": "https://www.cms.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "公的健康保険法典（SGB V 第60条）救急搬送自己負担制度",
+        "statusOrLevel": "医師の救急搬送指示に基づく公的保険給付・利用者は定額自己負担（1回10ユーロ）",
+        "keyFeature": "原則として公的健康保険が費用（数百ユーロ）を全額カバーするが、利用者は1回あたり最低5〜最高10ユーロの法定自己負担金を支払う。医学的緊急性がない出動には全額自己負担リスク。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG) / 連邦合同委員会 (G-BA)",
+          "title": "Fahrkosten und Krankentransport nach SGB V",
+          "url": "https://www.bundesgesundheitsministerium.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "救急医療支援サービス（SAMU 15）および公的医療保険（Assurance Maladie）65%給付",
+        "statusOrLevel": "医師常駐司令センターによる電話トリアージ・民間救急車搬送時の35%自己負担（補充保険で補填）",
+        "keyFeature": "救急通報（15番）時に医師が直ちに応答し、出動の必要性を医療トリアージ。緊急時はSAMU医師同乗車（SMUR）が無料出動するが、通常搬送は健康保険（65%給付）と患者自己負担で構成。",
+        "source": {
+          "organization": "フランス保健・予防省 (Ministère de la Santé) / SAMU",
+          "title": "Organisation des secours d'urgence: SAMU et prise en charge des transports sanitaires",
+          "url": "https://sante.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "州営救急車サービス（Ambulance Service）および州別課金・会員制制度",
+        "statusOrLevel": "クイーンズランド・タスマニア州は無料／NSW・ビクトリア州は非会員1回約400〜1,000豪ドル課税",
+        "keyFeature": "メディケア（国民皆保険）は救急車搬送をカバーしないため、各州消防救急局が独自運用。住民は年間数十豪ドルの救急車会員権（Ambulance Cover）または民間保険で高額請求に備える。",
+        "source": {
+          "organization": "オーストラリア・ニューサウスウェールズ州救急局 (NSW Ambulance)",
+          "title": "Ambulance fees, payment policies and concession exemptions",
+          "url": "https://www.ambulance.nsw.gov.au"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国民保健サービス（NHS 999 / NHS 111）電話トリアージおよび完全無料救急搬送",
+        "statusOrLevel": "NHSによる完全無料公費負担・非緊急患者に対する電話相談「111番」トリアージ徹底",
+        "keyFeature": "救急車出動自体は全額無料だが、救急隊の逼迫を防ぐため、非緊急医療電話相談「NHS 111」の利用を強力に啓発。軽症者には一般医（GP）受診や薬局利用を電話段階で指示。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS England) / 衛生介護省",
+          "title": "Emergency and urgent care services: NHS 111 and 999 response categories",
+          "url": "https://www.england.nhs.uk"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "シンガポール民間防衛庁（SCDF）緊急トリアージおよび非緊急通報有料課金制度",
+        "statusOrLevel": "緊急性のある重症搬送は完全無料／非緊急・軽症出動判定時は274シンガポールドル課金",
+        "keyFeature": "救急隊員が現場で重症度トリアージを実施。緊急性が認められない軽症者搬送と判定された場合、患者に対して救急出動費用（274ドル）を事後請求し、タクシー代わりの安易な利用を厳罰化。",
+        "source": {
+          "organization": "シンガポール民間防衛庁 (Singapore Civil Defence Force - SCDF)",
+          "title": "Emergency Medical Services: Charges for non-emergency ambulance cases",
+          "url": "https://www.scdf.gov.sg"
+        }
+      }
+    ]
+  }
 }

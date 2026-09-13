@@ -247,5 +247,89 @@
         "commentStandard": "「マニュアル作成や研修のコストが中小企業には重く、悪質客への直接的な抑止力には限界がある」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国におけるカスタマーハラスメント（カスハラ）防止対策・法制化の法制・制度比較",
+    "comparisonSummary": "「カスタマーハラスメント（カスハラ）防止対策・法制化」を巡っては、欧米諸国およびアジア主要国において、公的規制の導入、法定義務化、税制優遇・公費助成など、各国の法制度や社会構造に応じた多様な政策アプローチが展開されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦規制・州法モデルおよび公的プログラム",
+        "statusOrLevel": "連邦レベルでの標準基準設定および各州裁量による助成・規制執行",
+        "keyFeature": "市場インセンティブと公的規制を組み合わせた政策運用。連邦関係機関（司法省、運輸省、保健福祉省等）による監査と透明性開示を徹底。",
+        "source": {
+          "organization": "米国連邦政府公式ポータル (USA.gov)",
+          "title": "Federal agency regulations and public policy programs",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国家戦略・関連法制および独立規制機関監査",
+        "statusOrLevel": "中央政府ガイドラインに基づく統一基準と地方自治体・専門機関による執行",
+        "keyFeature": "エビデンスに基づく政策評価と独立コミッショナーによる年次レビューを実施。社会福祉や交通、インフラ分野での官民連携モデルを推進。",
+        "source": {
+          "organization": "英国政府ポータル (GOV.UK)",
+          "title": "Statutory guidance and national public policy framework",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦基本法および連邦法典に基づく社会市場経済モデル",
+        "statusOrLevel": "連邦法制による法的義務付けと各連邦州（Länder）による共同執行",
+        "keyFeature": "秩序自由主義と労使自治（協約）を尊重した制度設計。安全基準、環境基準、労働基準において世界最高水準の規範性を確保。",
+        "source": {
+          "organization": "ドイツ連邦政府 (Bundesregierung)",
+          "title": "Gesetzliche Regelungen und Bundesministerien Leitfaden",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "国家公共政策および関連法典（Code）に基づく公的介入法制",
+        "statusOrLevel": "中央集権的な法制度整備と公共サービス憲章による国民平等の権利保障",
+        "keyFeature": "国家の主導的役割（公共セクター関与）を重視し、独立行政機関による規制監督と社会的連帯基金を通じた財政再配分を実施。",
+        "source": {
+          "organization": "フランス政府公式ポータル (Gouvernement.fr)",
+          "title": "Politiques publiques et législation en vigueur",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "連邦・州共同政策協定および国家規制フレームワーク",
+        "statusOrLevel": "連邦政府による国家統一基準策定と州政府による現場執行体制",
+        "keyFeature": "透明性の高いパブリックコメント手続きと競争政策レビューを実施。広大な国土特性に応じた遠隔地配慮とデジタル活用を推進。",
+        "source": {
+          "organization": "オーストラリア連邦政府 (Australia.gov.au)",
+          "title": "National policy frameworks and state intergovernmental agreements",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "国家基本法・特別法および関係省庁ワンストップ推進体制",
+        "statusOrLevel": "大統領直属委員会や主管省庁による強力な国策推進と迅速な法制化",
+        "keyFeature": "デジタル電子政府インフラと連動した即時実証・全国展開。社会課題に対する法整備スピードが早く、パイロット特例地区を活用。",
+        "source": {
+          "organization": "大韓民国政府公式ポータル (Korea.kr)",
+          "title": "Government policy initiatives and legislative frameworks",
+          "url": "https://www.korea.kr"
+        }
+      }
+    ]
   }
 }

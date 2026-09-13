@@ -185,5 +185,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の老朽区分所有建物・コンドミニアム建替え決議要件緩和法制",
+    "comparisonSummary": "老朽化マンションの所有者不明化や倒壊リスクに対し、シンガポール（80%または90%の一括売却En Bloc制度）、韓国（再建築組合・75%合意）、米国（各州Terminate条項・過半数〜80%）、英国（自由保有権買収）など、多数決要件の緩和と反対派の権利補償制度が整備されています。",
+    "countries": [
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "土地権利（地層）法（Land Titles (Strata) Act）一括売却（En Bloc Sale）制度",
+        "statusOrLevel": "築10年以上は所有権者の80%（築10年未満は90%）の賛成で建物・土地の一括売却成立",
+        "keyFeature": "全所有者の合意を不要とし、80%の賛成で民間デベロッパーへの一括売却（集団売却）が可能。地層区分所有委員会（Strata Titles Board）が反対派への公正な売却益分配を審査。",
+        "source": {
+          "organization": "シンガポール土地管理局 (Singapore Land Authority - SLA)",
+          "title": "Land Titles (Strata) Act - Collective sales (En Bloc) framework",
+          "url": "https://www.sla.gov.sg"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "都市および住環境整備法（都市整備法）再建築組合制度",
+        "statusOrLevel": "棟別過半数および団地全体75%以上の合意で再建築（建替え）認可・反対者への売渡請求権",
+        "keyFeature": "築30年以上の老朽アパートに対し、安全診断を実施して再建築を推進。組合員75%以上の賛成で自治体が再建築事業を認可し、反対住民には時価での強制売渡請求を行使可能。",
+        "source": {
+          "organization": "韓国国土交通部 (MOLIT)",
+          "title": "Act on the Improvement of Urban Areas and Residential Environments",
+          "url": "https://www.molit.go.kr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "統一コンドミニアム法（Uniform Condominium Act）区分所有権終了（Termination）条項",
+        "statusOrLevel": "フロリダ州・ハワイ州等で80%の賛成によるコンドミニアム解散・敷地一括売却制度",
+        "keyFeature": "サーフサイド・コンドミニアム崩壊事故を受け、築30年超の建物に構造健全性検査（Milestone Inspection）を法定義務化。大規模修繕不能時は80%合意で解散・建て替えを円滑化。",
+        "source": {
+          "organization": "フロリダ州ビジネス・専門規制局 (DBPR)",
+          "title": "Condominium Building Safety Act and Termination of Condominium Association",
+          "url": "https://www.myfloridalicense.com"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "区分所有法（Loi du 10 juillet 1965）老朽住宅再建・総会決議要件緩和",
+        "statusOrLevel": "危険建築物（Immeuble dangereux）指定時の全員一致原則免除と多数決建替え",
+        "keyFeature": "健康・安全に重大な危険を及ぼす老朽建物に対し、市長が修繕命令（Arrêté de péril）を発出。全員一致が原則の建替え決議について、安全基準を満たさない場合は特例多数決で解体・再建を執行。",
+        "source": {
+          "organization": "フランス住宅・持続的居住省 (Ministère du Logement)",
+          "title": "Régime de la copropriété: règles de majorité pour les travaux et reconstruction",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "ニューサウスウェールズ州地層制度開発法（Strata Schemes Development Act 2015）",
+        "statusOrLevel": "全会一致から「75%以上の所有権者賛成」への一括更新・建替え決議要件引き下げ",
+        "keyFeature": "長年全員一致を要していたマンション建替えについて、75%の合意で建替え計画を土地環境裁判所（Land and Environment Court）へ申請可能に。反対派には公正市場価格補償を担保。",
+        "source": {
+          "organization": "オーストラリア・ニューサウスウェールズ州公正取引局 (NSW Fair Trading)",
+          "title": "Strata renewal and collective sale of aging strata schemes (75% rule)",
+          "url": "https://www.fairtrading.nsw.gov.au"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "リースホールド改革法（Leasehold and Freehold Reform Act 2024）",
+        "statusOrLevel": "区分所有住民（リースコールダー）による建物一括買収要件の緩和と標準リース990年延長",
+        "keyFeature": "地主（フリーホルダー）に依存した老朽修繕の停滞を解消するため、集合住宅住民が建物を共同所有会社を通じて一括買収する権利（Collective Enfranchisement）の条件を大幅緩和。",
+        "source": {
+          "organization": "英国住宅・コミュニティ・地方自治省 (DLUHC)",
+          "title": "Leasehold and Freehold Reform Act: Overhauling residential property rights",
+          "url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
+        }
+      }
+    ]
+  }
 }

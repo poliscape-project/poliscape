@@ -247,5 +247,89 @@
         "commentStandard": "「小規模事業者にとってシステム改修費用や代理徴収の手間が重荷で、客離れも心配」"
       }
     ]
+  },
+  "international": {
+    "title": "世界の宿泊税・観光税（Tourist Tax）および過密対策法制",
+    "comparisonSummary": "オーバーツーリズム対策や歴史的景観の維持に向け、欧州諸国（伊・西・仏・オランダ）や米国では、宿泊料やホテル等級に連動した観光税（City Tax）の徴収や日帰り客への入域料制度が定着しています。",
+    "countries": [
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "市町村滞在税（Imposta di soggiorno）およびベネチア日帰り入域料",
+        "statusOrLevel": "宿泊1泊あたり最高5〜10ユーロの地方税徴収および世界初の日帰り入域料（5ユーロ）実証",
+        "keyFeature": "各自治体が宿泊施設を通じて旅行者から滞在税を徴収し、全額を文化財修繕や清掃・治安維持に充当。ベネチアでは過密緩和のためピーク時の日帰り客にQRコード事前決済を義務付け。",
+        "source": {
+          "organization": "イタリア観光省 (Ministero del Turismo) / ベネチア市",
+          "title": "Regolamento per l'imposta di soggiorno e contributo di accesso a Venezia",
+          "url": "https://www.ministeroturismo.gov.it"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "カタルーニャ州観光滞在税（IEET）およびバレアレス諸島持続可能観光税",
+        "statusOrLevel": "バルセロナ等で1泊最高4〜7ユーロ課税・バカンス住宅民泊への加重税率適用",
+        "keyFeature": "ホテル等級や宿泊形態に応じて段階税率を適用。違法民泊対策として民泊物件への上乗せ課税を実施し、税収を公営住宅供給や環境保全基金へ繰り入れ。",
+        "source": {
+          "organization": "スペイン・カタルーニャ州税務庁 (ATC)",
+          "title": "Impost sobre les estades en establiments turístics (IEET)",
+          "url": "https://atc.gencat.cat"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "一般地方自治体法典（CGCT）滞在税（Taxe de séjour）",
+        "statusOrLevel": "パリ五輪に合わせて滞在税を最大200%引き上げ（最高1泊約15ユーロ）・イル・ド・フランス地域圏上乗せ",
+        "keyFeature": "基礎自治体（コミューン）が条例で税額を決定。Airbnb等の民泊仲介プラットフォームに対し、宿泊代金決済時に滞在税を源泉徴収して自治体へ一括納付することを法定義務化。",
+        "source": {
+          "organization": "フランス公共財政総局 (DGFiP) / パリ市",
+          "title": "Taxe de séjour: guide pratique pour les hébergeurs et plateformes",
+          "url": "https://www.impots.gouv.fr"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "アムステルダム市観光税（Toeristenbelasting）",
+        "statusOrLevel": "欧州最高水準の宿泊料12.5%定率課税およびクルーズ船乗客日帰り税引き上げ",
+        "keyFeature": "宿泊料金に対する定率課税方式を採用し、高級ホテルほど高額を徴収。観光公害（騒音・混雑）を抑止するため、都心部の新規ホテル建設を原則禁止する都市計画条例と連動。",
+        "source": {
+          "organization": "オムステルダム市役所 (Gemeente Amsterdam)",
+          "title": "Toeristenbelasting: Tourist tax rates and municipal regulations",
+          "url": "https://www.amsterdam.nl"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "各州・自治体一時宿泊税（Transient Occupancy Tax - TOT / Hotel Occupancy Tax）",
+        "statusOrLevel": "ニューヨーク市・ハワイ州等で宿泊料金の10〜15%相当をホテル税として徴収",
+        "keyFeature": "州税および市郡税の二重課税構造で、観光インフラ整備やコンベンション誘致の主要財源。州知事・市長の権限で税率改定が可能で、地域住民の一般財源負担を軽減。",
+        "source": {
+          "organization": "ハワイ州税務局 (Department of Taxation Hawaii) / ニューヨーク市",
+          "title": "Transient Occupancy Tax and Hotel Room Occupancy Tax guidelines",
+          "url": "https://tax.hawaii.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "文化・観光税（Kultur- und Tourismusabgabe / Bettensteuer）",
+        "statusOrLevel": "ベルリン・ハンブルク等で宿泊料金の5%課税・出張ビジネス宿泊の非課税特例",
+        "keyFeature": "連邦憲法裁判所が地方自治体によるベッド税（Bettensteuer）の合憲性を認可。純粋な観光目的の宿泊者に課税し、税収を地域の文化芸術振興や公共交通補助に充当。",
+        "source": {
+          "organization": "ベルリン市財務局 (Senatsverwaltung für Finanzen Berlin)",
+          "title": "Übernachtungsteuer (City Tax) in Berlin: Leitfaden für Beherbergungsbetriebe",
+          "url": "https://www.berlin.de/sen/finanzen/"
+        }
+      }
+    ]
   }
 }

@@ -205,5 +205,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Zap"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の能動的サイバー防御（ACD）・先制対抗措置法制",
+    "comparisonSummary": "重要インフラや安全保障をサイバー攻撃から守るため、米国、英国、フランス、オーストラリア、ドイツ、シンガポールなどは、軍や治安情報機関に対し、敵対勢力のC2サーバー無力化や侵入阻止を行う法限を付与しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国家サイバー戦略およびサイバー軍前方防衛（Defend Forward）ドクトリン",
+        "statusOrLevel": "米国サイバー軍（USCYBERCOM）およびFBIによる海外ボットネット強制テイクダウン",
+        "keyFeature": "国家防衛権限法（NDAA）に基づき、米国外の敵性サーバーに対しても裁判所令状や大統領権限で先制アクセスし、マルウェアを無力化するハックバック（能動的無力化）作戦を公式運用。",
+        "source": {
+          "organization": "米国サイバー軍 (USCYBERCOM) / 国防総省",
+          "title": "National Cyber Strategy and Defend Forward operational concept",
+          "url": "https://www.defense.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国家サイバー部隊（National Cyber Force - NCF）能動的サイバー作戦法制",
+        "statusOrLevel": "情報保全法（IPA 2016）に基づくGCHQと国防省の合同攻撃的サイバー能力運用",
+        "keyFeature": "諜報機関GCHQと軍が一体となり、敵対勢力の通信インフラ妨害、サイバー犯罪グループの活動停止を行う法的根拠を整備。裁判官による事後監督（IPCO）で法の支配を担保。",
+        "source": {
+          "organization": "英国政府通信本部 (GCHQ) / 国家サイバー部隊 (NCF)",
+          "title": "National Cyber Force: Responsible Cyber Power in Practice",
+          "url": "https://www.gchq.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "情報機関法改正および豪州信号本部（ASD）攻撃的サイバー作戦権限",
+        "statusOrLevel": "海外のサイバー犯罪組織・国家支援ハッカーに対するASDの電磁的無力化命令",
+        "keyFeature": "重要インフラ法（SOCI Act）改正により、大規模サイバー攻撃発生時に連邦政府が重要民間企業のシステムに直接介入して防御コードを投入する「最後の手段（Step-in powers）」を法制化。",
+        "source": {
+          "organization": "オーストラリア信号本部 (Australian Signals Directorate - ASD)",
+          "title": "ASD Cyber Threat Report and offensive cyber capabilities overview",
+          "url": "https://www.asd.gov.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "軍事サイバー防衛司令部（COMCYBER）およびANSSI防衛法制",
+        "statusOrLevel": "軍事計画法（LPM）に基づく軍事作戦としての攻勢的サイバー作戦（Lutte informatique offensive）",
+        "keyFeature": "防衛省配下のCOMCYBERが有事およびグレーゾーン事態において、通信遮断や敵システムの物理的無力化を含む攻勢作戦を実施。民生分野はANSSIが防御・監視を一元統括。",
+        "source": {
+          "organization": "フランス軍事サイバー防衛司令部 (COMCYBER) / 国防省",
+          "title": "Éléments de doctrine militaire de lutte informatique offensive",
+          "url": "https://www.defense.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "サイバー防衛政策における「能動的防御（Aktive Cyberabwehr）」憲法論議",
+        "statusOrLevel": "連邦軍サイバー・情報空間軍（CIR）の国外作戦と連邦憲法擁護庁（BfV）の権限見直し",
+        "keyFeature": "基本法上の制約からハックバックに慎重な議論が続く中、重大攻撃発信元サーバーの停止要請や国際テイクダウン作戦への警察・情報機関の積極的協力を法制整備中。",
+        "source": {
+          "organization": "ドイツ連邦内務省 (BMI) / 連邦情報セキュリティ庁 (BSI)",
+          "title": "Nationale Sicherheitsstrategie und Cybersicherheitsagenda: Aktive Cyberabwehr",
+          "url": "https://www.bmi.bund.de"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "サイバーセキュリティ法改正およびデジタル・防衛情報軍（DIS）創設",
+        "statusOrLevel": "国軍第4の軍種（DIS）によるサイバー防衛作戦および重要インフラ直接介入権限",
+        "keyFeature": "サイバーセキュリティ庁（CSA）が重要インフラの平時脅威ハンティングを実施。国軍DISが国家レベルのサイバーテロ・軍事脅威に対し即応迎撃態勢を24時間運用。",
+        "source": {
+          "organization": "シンガポールサイバーセキュリティ庁 (CSA) / 国防省",
+          "title": "Cybersecurity Act amendments and Digital and Intelligence Service (DIS) framework",
+          "url": "https://www.csa.gov.sg"
+        }
+      }
+    ]
+  }
 }
