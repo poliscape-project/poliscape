@@ -205,5 +205,102 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Clock"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における学生ローン（奨学金）返還免除・地方定住・特定公務従事者インセンティブ比較",
+    "comparisonSummary": "若者の奨学金負債軽減と地方・特定産業（医療、教育、公共サービス）の人手不足解消のため、米国のPSLFや豪州のへき地免除など、一定期間の指定勤務による「ローン帳消し」が定着しており、日本の地方創生型返還支援の先行例となっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "公共サービスローン免除（PSLF: Public Service Loan Forgiveness）およびTeacher Loan Forgiveness",
+        "statusOrLevel": "政府機関や非営利団体（NPO）で10年間勤務し120回返済した連邦学生ローンの残債を全額非課税免除",
+        "keyFeature": "バイデン政権下で数十万人、数百億ドルの債務を免除。低所得学区の教員や農村部医師には早期の数万ドル直接元本免除プログラムも併用。",
+        "source": {
+          "organization": "米国教育省連邦学生援助局 (FSA)",
+          "title": "Public Service Loan Forgiveness (PSLF) Program Guidelines",
+          "url": "https://www.ed.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "HELP債務減免制度（HELP Debt Reductions for Very Remote Areas）",
+        "statusOrLevel": "極めて遠隔のへき地コミュニティで一定期間勤務した教員・医療職のHELP学費ローン全額免除",
+        "keyFeature": "過疎地学校で4年間教鞭を執った教師の高等教育債務（HECS-HELP）を最大100%帳消しにし、さらに地方勤務期間中の返済義務を猶予・免除する強力な地方誘導策。",
+        "source": {
+          "organization": "豪教育省 (Department of Education)",
+          "title": "Reduction of HELP debt for teachers and health practitioners in very remote areas",
+          "url": "https://www.education.gov.au"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "学生ローン所得連動返済および40年後自動債務帳消し（Plan 5）",
+        "statusOrLevel": "年収が返還開始閾値（2万5,000ポンド）未満は返還ゼロ・卒業後40年経過で残債全額免除",
+        "keyFeature": "地方就職に特化した免除ではないが、STEM分野の教員が不足地域で就労した場合の特別奨励金給付（Levelling Up Premium）により実質的に学費返済を相殺。",
+        "source": {
+          "organization": "英国学生ローン会社 (SLC) / 教育省",
+          "title": "Student loan repayment terms and Levelling Up Premium for teachers",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダ学生ローン農村・遠隔地免除（Canada Student Loan Forgiveness for Rural Communities）",
+        "statusOrLevel": "指定された地方農村部で勤務する家族医・看護師に対し最大6万ドルの連邦ローン直接免除",
+        "keyFeature": "過疎地での医療崩壊を防ぐため、1年勤務ごとに最大8,000〜12,000ドルを連邦政府が肩代わり免除。保育士や教員への対象拡大も実施。",
+        "source": {
+          "organization": "カナダ雇用・社会開発省 (ESDC)",
+          "title": "Canada Student Loan Forgiveness for Doctors and Nurses in Rural Communities",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦教育訓練促進法（BAföG）返済上限（最大10,010ユーロ）および早期一括返済割引",
+        "statusOrLevel": "公的無利子ローンの半額は返還不要の純粋給付・返済部分も最大約1万ユーロで打ち止め",
+        "keyFeature": "ローン総額がいくら巨額になっても返済義務額に法定シーリング（上限）を設定。各州では「地域医師奨学金（Landarztstipendium）」等で地方勤務による全額免除を実施。",
+        "source": {
+          "organization": "ドイツ連邦教育研究省 (BMBF)",
+          "title": "Das BAföG - Rückzahlung des Darlehensanteils und Deckelung",
+          "url": "https://www.bmbf.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "就職後償還学資金（ICL）および地域人財・中小企業就職返還免除",
+        "statusOrLevel": "地方中小企業や中堅企業に就職した若年層に対する元利金一部公費支援・返還猶予",
+        "keyFeature": "韓国奨学財団（KOSAF）が運営。低所得層学生の在学中利子全額免除に加え、地方定住者向けの特別減免ファンドを自治体と共同拠出。",
+        "source": {
+          "organization": "大韓民国教育部 / 韓国奨学財団 (KOSAF)",
+          "title": "Income Contingent Loan (ICL) and Youth Regional Employment Support",
+          "url": "https://www.kosaf.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "日本学生支援機構（JASSO）奨学金返還免除制度および地方創生型返還支援",
+        "statusOrLevel": "大学院第一種奨学金の「特に優れた業績による返還免除」および全国自治体による返還肩代わり",
+        "keyFeature": "地方自治体と地元企業が拠出し、地元にU・Iターン就職した若者の奨学金返済を代理返還する仕組みが全国数百自治体で拡大。政府も企業の代理返還に対する法人税減税等で支援。",
+        "source": {
+          "organization": "文部科学省 / 内閣官房まち・ひと・しごと創生本部",
+          "title": "奨学金返還支援（代理返還）の取組及び地方創生推進交付金の活用",
+          "url": "https://www.mext.go.jp"
+        }
+      }
+    ]
+  }
 }

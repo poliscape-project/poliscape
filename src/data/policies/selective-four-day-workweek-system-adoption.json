@@ -185,5 +185,102 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Clock"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における週休3日制（週4日勤務・4-Day Workweek）の法制化・給与100%維持モデル比較",
+    "comparisonSummary": "労働生産性向上とワークライフバランスのため、ベルギーは週38時間を4日に圧縮する権利を法制化し、英米の大規模実証では「給与100%・時間80%・成果100%（100-80-100モデル）」が定着しており、日本の選択的週休3日制普及の重要な指針となっています。",
+    "countries": [
+      {
+        "country": "ベルギー",
+        "countryCode": "BE",
+        "flag": "🇧🇪",
+        "systemName": "労働改革法（Labor Reform Act 2022 / 労働協約）週休3日請求権",
+        "statusOrLevel": "労働者が「週38時間を1日9.5時間×週4日」で勤務する選択肢を雇用主に申請する権利を法制化",
+        "keyFeature": "給与水準を1円も減額せず（100%給与維持）、1日の労働時間を延長して週休3日を実現。雇用主は正当な業務上の理由がない限り拒否できず、拒否時は文書説明義務。",
+        "source": {
+          "organization": "ベルギー雇用・労働・社会対話連邦公共サービス (FPS Employment)",
+          "title": "The Belgian Labour Accord: The four-day week and flexible work regimes",
+          "url": "https://employment.belgium.be"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "4 Day Week Global英国大規模パイロット実験（61社約3,000人規模）",
+        "statusOrLevel": "「給与100%・労働時間80%・生産性100%（100-80-100ルール）」実証・参加企業の9割が恒久継続",
+        "keyFeature": "オックスフォード大学・ケンブリッジ大学の研究者が効果検証。従業員のバーンアウト激減、離職率半減、企業売上平均35%増を実証し、世界各国のモデルケースに。",
+        "source": {
+          "organization": "英国4 Day Week Campaign / オックスフォード大学",
+          "title": "The UK 4-Day Week Pilot Results and Business Performance",
+          "url": "https://www.4dayweek.co.uk"
+        }
+      },
+      {
+        "country": "アイスランド",
+        "countryCode": "IS",
+        "flag": "🇮🇸",
+        "systemName": "国家公務員・地方自治体週労働時間短縮トライアル（週35〜36時間化）",
+        "statusOrLevel": "労働人口の約86%が週労働時間短縮（給与カットなしの週休3日または短時間化）協約に移行",
+        "keyFeature": "世界に先駆けて2015〜2019年に政府主導で公的部門で実証。医療や行政現場のサービス品質を維持したまま職員の健康改善と残業削減を両立させ、全産業へ波及。",
+        "source": {
+          "organization": "アイスランド首相府 / BSRB公務員労働組合連合",
+          "title": "Working Time Reduction in Iceland: From Trials to Widespread Practice",
+          "url": "https://www.government.is"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "中小企業向け週4日勤務国庫助成プログラム（Pilot Project for 32-hour Week）",
+        "statusOrLevel": "給与を減らさずに週32時間（週休3日）に移行した中小企業に対し、国が1社最大数十万ユーロを直接補助",
+        "keyFeature": "産業省が予算を拠出。導入初年度の企業コスト増を国が100%肩代わりし、生産性向上のための業務プロセス改善コンサルティングをセットで提供。",
+        "source": {
+          "organization": "スペイン産業通商観光省 / 労働・社会連帯省",
+          "title": "Programa piloto para la reducción de la jornada laboral a cuatro días",
+          "url": "https://www.lamoncloa.gob.es"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦議会「週32時間労働法案（Thirty-Two-Hour Workweek Act）」",
+        "statusOrLevel": "公正労働基準法（FLSA）の法定労働時間を週40時間から週32時間へ引き下げ、超過分を残業代対象化",
+        "keyFeature": "バーニー・サンダース上院議員らが提出。AI・自動化の果実を労働者に還元し、給与を減らすことなく週4日勤務を法制化することを目指す歴史的法案として論争中。",
+        "source": {
+          "organization": "米国議会 / 労働省 (DOL)",
+          "title": "Thirty-Two-Hour Workweek Act - Proposed Fair Labor Standards Act Amendments",
+          "url": "https://www.congress.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "金属産業労働協約（IG Metall）週28時間勤務選択権および45社実証実験",
+        "statusOrLevel": "労使協約に基づく時限的な週4日勤務選択権・介護や育児のための短時間勤務保障",
+        "keyFeature": "労働協約により労働者が最長2年間、週28時間勤務を選択可能。コンサルティング会社Intraprenör主導の大規模実証でも生産性向上を確認し、熟練労働者の採用競争力強化に寄与。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS) / IG Metall",
+          "title": "Arbeitszeitverkürzung und Modelle der Vier-Tage-Woche in Deutschland",
+          "url": "https://www.bmas.de"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "経済財政運営と改革の基本方針（骨太の方針）に基づく「選択的週休3日制」の普及促進",
+        "statusOrLevel": "大企業（パナソニック、日立、みずほ等）での導入拡大・「給与減額型」と「総労働時間維持型」の混在",
+        "keyFeature": "育児・介護離職防止やリカレント教育、副業支援を目的に政府が導入を推奨。ただし海外と異なり「給与2割カット」となるケースが多く、収入減を懸念する一般労働者への浸透が課題。",
+        "source": {
+          "organization": "厚生労働省 / 内閣府",
+          "title": "選択的週休3日制の導入・普及促進に向けた取組及び企業の活用事例",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

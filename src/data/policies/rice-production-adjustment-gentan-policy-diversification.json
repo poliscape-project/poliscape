@@ -217,5 +217,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "ShieldAlert"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における主食作物需給調整・生産制限・飼料用・加工用転換助成政策比較",
+    "comparisonSummary": "主食穀物の需給管理をめぐり、EUや米国はかつての強制休耕政策を脱却して直接支払（デカップリング）へ移行し、日本も主食用米の減反から飼料用米・輸出用米への作付転換補助（水田活用交付金）で需給を調整しています。",
+    "countries": [
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "共通農業政策（CAP）休耕義務（Set-Aside）の見直しと環境直接支払",
+        "statusOrLevel": "かつての価格支持型休耕割当を全廃・農家に対する面積比例の直接デカップル給付",
+        "keyFeature": "生産数量を国が制限する旧来の減反を撤廃。市場価格シグナルに任せつつ、休耕地管理や生物多様性維持に対してグリーン直接支払いを交付。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Common Agricultural Policy direct payments and market management",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "農業法（Farm Bill）農作物保険および価格損失補償（PLC）",
+        "statusOrLevel": "強制的な生産面積制限を撤廃・市場連動型のセーフティネット（ARC / PLC）",
+        "keyFeature": "政府が作付け面積を強制制限せず、穀物価格が基準を下回った場合に差額を補填。飼料用トウモロコシや大豆への転換は市場価格とエタノール需要で自然調整。",
+        "source": {
+          "organization": "米国農務省 (USDA) / 農業サービス局 (FSA)",
+          "title": "Price Loss Coverage (PLC) and Agriculture Risk Coverage (ARC)",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "コメ受給安定対策および戦略作物直接支払制（粉米・飼料米転換）",
+        "statusOrLevel": "主食用米の作付面積削減に向けたヘクタールあたり数百〜数百万ウォンの転換支援金",
+        "keyFeature": "コメ消費減少に対応し、小麦粉代替となる「粉米（ガルーサル）」や飼料用ダイズへの転換に手厚い戦略作物直払金を交付して主食用米の供給過剰を抑制。",
+        "source": {
+          "organization": "大韓民国農林畜産食品部",
+          "title": "Strategic Crop Direct Payment Program and Rice Balance Measures",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "穀物市場介入機関（FranceAgriMer）需給モニタリングおよび輸出支援",
+        "statusOrLevel": "小麦・大麦等の過剰生産時のEU共同市場介入・家畜飼料・バイオ燃料用途への多角化",
+        "keyFeature": "余剰穀物を北アフリカ等へ積極輸出。国内での生産制限ではなく、飼料加工業界やバイオエタノール産業との長期契約により需給バランスを維持。",
+        "source": {
+          "organization": "フランス農業・食料主権省 / FranceAgriMer",
+          "title": "Gestion des marchés des grandes cultures et filières céréalières",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "自由市場型コメ生産・水利権取引（Water Entitlements Trading）",
+        "statusOrLevel": "政府による生産調整補助金はゼロ・水利権市場価格に連動した自律的作付調整",
+        "keyFeature": "マレー・ダーリング盆地での渇水時には水利権価格が高騰し農家が水を売却して減産、豊水時には増産する純粋な市場メカニズムによる需給調整。",
+        "source": {
+          "organization": "豪農業水産森林省 (DAFF) / SunRice",
+          "title": "Rice industry in Australia and Murray-Darling water markets",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "大加輪作（水稲・雑穀輪作）奨励策および転作補填金",
+        "statusOrLevel": "1期作・2期作水稲から大豆・トウモロコシ等の輸入依存雑穀への転作奨励金交付",
+        "keyFeature": "過剰な主食用米の生産を抑え飼料自給率を向上させるため、水田での輪作作物に対して手厚い転作給付金を支給し、主食米の価格暴落を防止。",
+        "source": {
+          "organization": "中華民国農業部",
+          "title": "Paddy Rice and Dry Crop Rotation Policy (Large-Scale Crop Rotation)",
+          "url": "https://www.moa.gov.tw"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "水田収益力強化ビジョンおよび水田活用の直接支払交付金（飼料用米・米粉用米・輸出用米）",
+        "statusOrLevel": "主食用米から飼料用米・輸出用米への転換に対し10アールあたり数万〜十数万円の交付金",
+        "keyFeature": "2018年の減反廃止後も交付金による作付誘導を継続。2024年の猛暑・インバウンド需要による「令和の米騒動（需給逼迫）」を受け、主食米増産と転換政策のあり方が再検討。",
+        "source": {
+          "organization": "農林水産省",
+          "title": "水田活用の直接支払交付金及び米の需給調整の取組",
+          "url": "https://www.maff.go.jp"
+        }
+      }
+    ]
+  }
 }

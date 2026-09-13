@@ -186,5 +186,102 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における土砂災害高リスク地域（レッドゾーン）の建築・開発禁止規制および集団移転促進法制比較",
+    "comparisonSummary": "激甚化する土砂災害から人命を守るため、スイスやオーストリアはハザードマップ赤ゾーンでの新築完全禁止、米国は連邦買収移転プログラムを敷いており、日本のレッドゾーン開発許可制・都市計画法規制の先駆的モデルとなっています。",
+    "countries": [
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦森林法・水利法に基づくハザードマップ制度（Gefahrenkarte / 危険度ゾーン制）",
+        "statusOrLevel": "「赤色ゾーン（Rot: 生命への重大リスク）」における新規建築・増改築の法律上の完全禁止",
+        "keyFeature": "全土の斜面・雪崩危険度を赤・青・黄に色分け。赤ゾーンでは住宅建設が法的に一切認可されず、既存建築物に対しても州政府が防護壁設置を強制または移転を誘導。",
+        "source": {
+          "organization": "スイス連邦環境省 (FOEN / BAFU)",
+          "title": "Naturgefahrenkarten und Zonenplanung in der Schweiz",
+          "url": "https://www.bafu.admin.ch"
+        }
+      },
+      {
+        "country": "オーストリア",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "systemName": "森林法（Forstgesetz）急流・雪崩対策局（WLV）危険ゾーン計画（Gefahrenzonenplan）",
+        "statusOrLevel": "「赤色危険ゾーン」における住宅・公共インフラ建設の完全禁止・地籍登記簿への危険指定記録",
+        "keyFeature": "アルプス山岳自治体の都市計画（Flächenwidmungsplan）を法的に拘束。赤ゾーンの土地は宅地指定が剥奪され農林地へダウングレード。保険会社も保険引受を拒否。",
+        "source": {
+          "organization": "オーストリア連邦農業・森林・地域・水管理省 (BML) / WLV",
+          "title": "Gefahrenzonenplanung und Schutz vor Wildbächen und Lawinen",
+          "url": "https://www.bml.gv.at"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "自然災害リスク予防計画（PPRN: Plan de prévention des risques naturels）およびバルニエ基金",
+        "statusOrLevel": "赤ゾーン（Zone rouge）での全建築禁止、および「バルニエ基金」による危険住宅の全額公費買収・収用",
+        "keyFeature": "土砂崩れや地すべりの危険が切迫した住宅に対し、自然災害予防基金（Fonds Barnier）が市場価格で物件を買い取って公費解体し、住民を集団安全地帯へ移転。",
+        "source": {
+          "organization": "フランス生態移行・エネルギー省",
+          "title": "Plans de prévention des risques naturels (PPRN) et Fonds Barnier",
+          "url": "https://www.georisques.gouv.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "FEMA危険軽減支援（HMA）不動産公的買収プログラム（Property Acquisition / Buyouts）",
+        "statusOrLevel": "土砂・土石流高リスク住宅地を地方政府が連邦公費（75%助成）で買い取り、恒久的なオープンスペース（緑地公園）へ転換",
+        "keyFeature": "カリフォルニア州等の地すべり多発地帯で実施。一度買い取った土地には二度と住宅を再建築させない法特約（Deed Restriction）を登記簿に付記。",
+        "source": {
+          "organization": "連邦緊急事態管理庁 (FEMA)",
+          "title": "Hazard Mitigation Assistance Property Acquisition (Buyouts) Guidance",
+          "url": "https://www.fema.gov"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "水文地質学保全計画（PAI: Piano di Assetto Idrogeologico）およびR4超高危険区域",
+        "statusOrLevel": "土砂災害危険度R4（Rischio Molto Elevato）指定区域での宅地開発・インフラ増設の即時凍結",
+        "keyFeature": "地すべり・土石流多発地帯において、流域管理局（Autorità di Bacino）が絶対的開発禁止を命令。従わない自治体首長には刑事責任が追及される強行法制。",
+        "source": {
+          "organization": "イタリア環境・エネルギー安全保障省 (MASE) / ISPRA",
+          "title": "Dissesto idrogeologico in Italia e Piani di Assetto Idrogeologico (PAI)",
+          "url": "https://www.isprambiente.gov.it"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "資源管理法（RMA）およびクライストチャーチ・サイクロン・ガブリエル災害後土地区分（Category 3）",
+        "statusOrLevel": "地すべり・浸水再発リスクが過大な地域（Category 3）の居住不可指定と政府・市共同バイアウト",
+        "keyFeature": "サイクロン災害後、将来の安全が確保できない危険斜面エリアを「Category 3」に指定し、数億ドルを投じて住宅を政府が一括買収して住民移転を執行。",
+        "source": {
+          "organization": "ニュージーランド自然環境省 (MfE) / 地震復興庁",
+          "title": "Land categorization and voluntary property buyouts following severe weather events",
+          "url": "https://www.mfe.govt.nz"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "土砂災害防止法（土砂災害特別警戒区域・レッドゾーン）および防災集団移転促進事業",
+        "statusOrLevel": "レッドゾーン内での住宅・高齢者施設等の開発許可制・建築基準法に基づく構造規制・移転補助金",
+        "keyFeature": "都市計画法改正により、市街化調整区域であってもレッドゾーンでは開発許可を原則不可とする厳格化を実施。危険区域からの住宅移転に対し、解体費や引越し代を公費補助する仕組みを拡充。",
+        "source": {
+          "organization": "国土交通省水管理・国土保全局 / 都市局",
+          "title": "土砂災害特別警戒区域（レッドゾーン）における開発規制及び移転支援策",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

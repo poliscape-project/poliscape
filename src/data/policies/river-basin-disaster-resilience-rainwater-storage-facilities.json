@@ -186,5 +186,102 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における都市開発に伴う雨水流出抑制・貯留浸透施設（SuDS / BMPs）の設置義務化比較",
+    "comparisonSummary": "都市型水害を防ぐため、英国やドイツは持続可能な都市排水システム（SuDS）や雨水流出量上限の順守を建築許可の条件とし、日本の流域治水関連法による大規模開発時の貯留施設義務化の先行事例となっています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "持続可能な排水システム（SuDS: Sustainable Drainage Systems / 洪水・水管理法第3条）",
+        "statusOrLevel": "イングランド・ウェールズの新築住宅・商業開発におけるSuDS設置の完全義務化",
+        "keyFeature": "開発者が公共下水道へ直接雨水を放流する権利（Right to Connect）を制限。透水性舗装、緑化屋根、浸透池を設計に組み込まなければ都市計画許可が下りない厳格制度。",
+        "source": {
+          "organization": "英国環境・食糧・農村地域省 (Defra)",
+          "title": "Sustainable Drainage Systems (SuDS) statutory standards for developers",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦水管理法（WHG）第55条「雨水の現地浸透・現地流出原則」および雨水下水分離料金",
+        "statusOrLevel": "敷地内での雨水浸透・利用施設の設置義務・不浸透面積に応じた雨水排水税課税",
+        "keyFeature": "敷地をコンクリートで覆うと高額な雨水料金（Niederschlagswassergebühr）が自治体から課される一方、雨水タンクや浸透ますを設置した世帯は料金を減免する経済的インセンティブ。",
+        "source": {
+          "organization": "ドイツ連邦環境省 (BMUV) / 連邦環境庁 (UBA)",
+          "title": "Umgang mit Niederschlagswasser nach § 55 WHG und gesplittete Abwassergebühr",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "雨水源頭管理（Gestion à la source des eaux pluviales）および地方都市計画（PLU）",
+        "statusOrLevel": "パリ市等の大都市圏における新築建物への敷地内ゼロ雨水放流（Rejet zéro）義務",
+        "keyFeature": "都市計画令（PLU）により、一定規模以上の敷地において降雨初期数ミリの雨水を全量敷地内の緑地や地下槽で吸収・蒸発散させることを建築許可要件に設定。",
+        "source": {
+          "organization": "フランス生態移行省 / パリ都市圏水管理局 (SIAAP)",
+          "title": "Zonage pluvial et gestion des eaux pluviales à la source",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "水質保全法（Clean Water Act）MS4許可プログラムおよび最善管理慣行（BMPs）",
+        "statusOrLevel": "1エーカー以上の土地開発に対する暴風雨雨水管理計画（SWPPP）および浸透施設義務化",
+        "keyFeature": "環境保護庁（EPA）が開発後のピーク流出量を開発前と同等以下に抑える「低影響開発（LID: Low Impact Development）」を義務付け。違反開発業者に高額制裁金。",
+        "source": {
+          "organization": "米国環境保護庁 (EPA)",
+          "title": "National Pollutant Discharge Elimination System (NPDES) Stormwater Program",
+          "url": "https://www.epa.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "水に配慮した都市デザイン（WSUD: Water Sensitive Urban Design）",
+        "statusOrLevel": "各州・自治体都市計画における敷地内雨水タンク（Rainwater Tank）設置の義務化",
+        "keyFeature": "新築一戸建て住宅に対し、数百〜数千リットルの雨水貯留タンク設置を義務付け。トイレ洗浄や散水に再利用させ、都市下水道のピーク負荷と上水道消費を同時に削減。",
+        "source": {
+          "organization": "豪気候変動・環境省 / ビクトリア州計画局",
+          "title": "Water Sensitive Urban Design (WSUD) Guidelines for Land Development",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "アクティブ・ビューティフル・クリーン水域プログラム（ABC Waters）源頭制御",
+        "statusOrLevel": "民間開発業者に対する敷地内雨水流出抑制施設（最大流出量25%削減）の義務化",
+        "keyFeature": "公共公益事業庁（PUB）が建築排水基準に規定。商業施設やコンドミニアムのバイオスウェール（植生浸透帯）や地下貯留槽設置を法定義務化し水害を防ぎつつ水資源化。",
+        "source": {
+          "organization": "シンガポール公共事業庁 (PUB)",
+          "title": "ABC Waters Design Guidelines and Source Control Requirements",
+          "url": "https://www.pub.gov.sg"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "特定都市河川浸水被害対策法に基づく雨水浸透阻害行為の許可・雨水貯留浸透施設義務付け",
+        "statusOrLevel": "1,000平米以上の宅地造成・開発行為に対する雨水貯留施設（調整池・浸透ます等）の設置義務",
+        "keyFeature": "開発に伴い水田や山林が舗装され雨水が川へ一気に流れ込むのを防ぐため、開発者に流出抑制施設の設置を法律で義務化。固定資産税の減免特例等で民間ビルの地下貯留槽整備を後押し。",
+        "source": {
+          "organization": "国土交通省水管理・国土保全局",
+          "title": "雨水浸透阻害行為の許可制度及び雨水貯留浸透施設の技術的基準",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

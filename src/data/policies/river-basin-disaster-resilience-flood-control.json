@@ -205,5 +205,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Building"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における気候変動適応型「流域治水（River Basin Flood Risk Management）」法制比較",
+    "comparisonSummary": "地球温暖化による豪雨激甚化に対し、オランダの「川のための空間（Room for the River）」やEUの洪水指令は、堤防増高頼みから流域全体の遊水地・農地浸水受入れへ転換しており、日本の流域治水関連法と深く共鳴しています。",
+    "countries": [
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "川のための空間プログラム（Ruimte voor de Rivier / Room for the River）",
+        "statusOrLevel": "ライン川等の河川堤防をあえて後退・氾濫原を拡幅して計画的に水を逃がす国家プロジェクト",
+        "keyFeature": "堤防をひたすら高くする技術的限界を認め、河川敷の掘削、遊水地の造成、農地の計画的浸水受入れにより水位を物理的に低下。水防と環境保全を両立。",
+        "source": {
+          "organization": "オランダインフラ水管理省 (Rijkswaterstaat)",
+          "title": "Room for the River Programme and Delta Programme",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "欧州連合 (EU) / フランス",
+        "countryCode": "EU",
+        "flag": "🇫🇷",
+        "systemName": "EU洪水指令（Floods Directive 2007/60/EC）および水生環境保全・洪水予防税（GEMAPI）",
+        "statusOrLevel": "全EU河川流域における洪水リスク管理計画（FRMP）策定・地方自治体への水防税課税権付与",
+        "keyFeature": "基礎自治体共同体（EPCI）に流域水防権限（GEMAPI）を一元化。住民や企業から特別地方税を徴収し、上流での湿地復元や浸透遊水地の買収・保全を流域単位で執行。",
+        "source": {
+          "organization": "フランス生態移行・エネルギー省 / 欧州委員会",
+          "title": "Directive Inondation et compétence GEMAPI pour la gestion des milieux aquatiques",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "自然に根ざした洪水管理（NFM: Natural Flood Management）および環境庁戦略",
+        "statusOrLevel": "上流での植林、泥炭地湿原復元、木製簡易ダム設置による流出ピーク遅延プロジェクト",
+        "keyFeature": "コンクリート護岸に頼らず、上流の森林や農地に水を一時的に滞留させるグリーンインフラに公費助成。農家が遊水地を提供した際の補償直接支払いを法制化。",
+        "source": {
+          "organization": "英国環境庁 (Environment Agency) / Defra",
+          "title": "National Flood and Coastal Erosion Risk Management Strategy for England",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "陸軍工兵隊（USACE）総合水資源開発法（WRDA）およびFEMAコミュニティ評価制度",
+        "statusOrLevel": "ミシシッピ川等におけるバイパス放水路・巨大遊水地（Bonnet Carré等）の国家管理",
+        "keyFeature": "巨大出水時に堤防を決壊させずゲートを開いて汽水湖や湿地へ逃がす放水路網を運用。全米洪水保険制度（NFIP）と連動し、氾濫原での新規建築を法的に厳しく規制。",
+        "source": {
+          "organization": "米陸軍工兵隊 (USACE) / FEMA",
+          "title": "Civil Works Flood Risk Management Program and WRDA Legislation",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "水管理法（WHG: Wasserhaushaltsgesetz）氾濫指定区域（Überschwemmungsgebiete）",
+        "statusOrLevel": "100年に1度の洪水浸水想定区域における新築・造成の法律上の原則全面禁止",
+        "keyFeature": "アール川大水害の教訓を受け、連邦水管理法を強化。氾濫原での宅地開発を厳格に封鎖し、河川の自然蛇行復元や農業用遊水地（Polder）への公費補填を義務付け。",
+        "source": {
+          "organization": "ドイツ連邦環境省 (BMUV)",
+          "title": "Hochwasserschutz und Überschwemmungsgebiete nach dem Wasserhaushaltsgesetz",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "長江・黄河流域防洪計画および海綿都市（Sponge City / スポンジシティ）政策",
+        "statusOrLevel": "全国数十都市における透水性舗装・雨水地下貯留池の大規模建設と蓄滞洪区の運用",
+        "keyFeature": "都市全体で雨水を吸収・浸透・貯留するスポンジ化を義務化。長江流域では重要都市を守るため、緊急時に農村地域の「蓄滞洪区」へ計画的に氾濫させる補償制度を運用。",
+        "source": {
+          "organization": "中華人民共和国水利部",
+          "title": "Sponge City Construction Guidelines and River Basin Flood Control Systems",
+          "url": "https://www.gov.cn"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "特定都市河川浸水被害対策法（流域治水関連法・2021年改正）",
+        "statusOrLevel": "全国109水系全河川での流域治水プロジェクト・特定都市河川指定の全国一級・二級河川への拡大",
+        "keyFeature": "河川管理者だけでなく、下水道管理者、自治体、企業、農地所有者が一体となって「貯留・浸透・遊水」を分担。田んぼダムや雨水調整池の設置、危険エリアからの移転誘導を推進。",
+        "source": {
+          "organization": "国土交通省水管理・国土保全局",
+          "title": "流域治水関連法の概要及び特定都市河川の指定拡大",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -149,5 +149,102 @@
       "text": "民間社員身辺調査とプライバシー",
       "color": "bg-amber-50 text-amber-900"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国におけるセキュリティ・クリアランス（安全保障適性評価・適格性審査）法制比較",
+    "comparisonSummary": "先端技術の海外流出防止と同志国サプライチェーン参画のため、米国・英国・ドイツ・豪州等は軍事のみならず民間経済安保情報にまでクリアランス制度を古くから運用しており、日本も2024年に重要経済安保情報保護法を制定しました。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "大統領令12968号（国家安全保障情報へのアクセス）および全米産業セキュリティプログラム（NISP）",
+        "statusOrLevel": "Confidential / Secret / Top Secret の3段階資格・民間防衛産業・先端テック企業社員数百万人に適用",
+        "keyFeature": "国家防衛情報局（DCSA）が一元調査。個人の負債・犯罪歴・精神衛生・外国関係者を徹底調査。民間企業が連邦先端R&Dプロジェクトを受注する際の絶対必須要件。",
+        "source": {
+          "organization": "米国国防安全保障協力局 (DCSA) / 国家情報長官室 (ODNI)",
+          "title": "National Industrial Security Program (NISP) and Clearance Process",
+          "url": "https://www.dcsa.mil"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国家安全保障審査（National Security Vetting: NSV）",
+        "statusOrLevel": "BPSS、CTC、SC（Security Check）、DV（Developed Vetting）の4階層適格性審査体制",
+        "keyFeature": "内閣府合同審査局（UKSV）が審査。公務員だけでなく防衛・エネルギー・量子・通信分野の民間受託企業エンジニアに対し最深調査（DV）を行い同盟国共同開発を保障。",
+        "source": {
+          "organization": "英国政府人事安全保障局 (UKSV) / 内閣府",
+          "title": "United Kingdom National Security Vetting (UKSV) guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "オーストラリア政府安全保障審査局（AGSVA）適格性評価",
+        "statusOrLevel": "Baseline、Negative Vetting 1/2、Positive Vetting（PV）の多重審査・AUKUS参画の必須条件",
+        "keyFeature": "原子力潜水艦共同開発（AUKUS）やクアッド連携に伴い民間ハイテク技術者の適性審査を急速に拡大。最高機密PV保持者には定期的なポリグラフ（嘘発見器）検査を義務付け。",
+        "source": {
+          "organization": "豪国防省 / AGSVA",
+          "title": "Australian Government Security Vetting Agency (AGSVA) Clearances",
+          "url": "https://www.defence.gov.au"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦安全評価法（Sicherheitsüberprüfungsgesetz: SÜG）",
+        "statusOrLevel": "Ü1（単純）、Ü2（機密）、Ü3（厳重機密）の3区分・連邦憲法擁護庁（BfV）による調査",
+        "keyFeature": "重要インフラ（エネルギー、通信、鉄道）や連邦政府防衛調達に関わる民間企業の全従業員を網羅的に審査。過激主義組織との関与や外国情報機関との接触を厳重警戒。",
+        "source": {
+          "organization": "ドイツ連邦憲法擁護庁 (BfV) / 連邦内務省",
+          "title": "Sicherheitsüberprüfungsgesetz (SÜG) und Geheimschutz in der Wirtschaft",
+          "url": "https://www.verfassungsschutz.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "防衛秘密保護法制（Secret de la Défense Nationale / IGI 1300通達）",
+        "statusOrLevel": "国防重要事業者（OIV）および戦略産業従業員に対する防衛安全保障事務総局（SGDSN）認証",
+        "keyFeature": "大統領直属のSGDSNが統轄。空宇宙、原子力、人工知能分野の民間研究者・エンジニアに厳格な資格付与を行い、知的財産の海外漏洩を国家安全保障犯罪として厳罰化。",
+        "source": {
+          "organization": "フランス国防・国家安全保障総局 (SGDSN)",
+          "title": "Instruction générale interministérielle n° 1300 sur la protection du secret de la défense nationale",
+          "url": "https://www.sgdsn.gouv.fr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "連邦政府調達・安全保障審査プログラム（Contract Security Program: CSP）",
+        "statusOrLevel": "Reliability Status / Secret / Top Secret の3段階認証・公的調達参入企業の全適性調査",
+        "keyFeature": "公共サービス調達省（PSPC）が民間企業向けクリアランスを一元発行。NATO同盟国間のクリアランス相互承認協定に基づき、多国間防衛調達プロジェクトをシームレスに遂行。",
+        "source": {
+          "organization": "カナダ公共サービス・調達省 (PSPC)",
+          "title": "Contract Security Program - Security requirements for contracting",
+          "url": "https://www.tpsgc-pwgsc.gc.ca"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "重要経済安保情報保護法（2024年成立・セキュリティ・クリアランス法）",
+        "statusOrLevel": "従来の特定秘密保護法（防衛・外交等）に加え、重要インフラ・先端半導体等の経済安保情報へ対象拡大",
+        "keyFeature": "調査対象者の同意を前提とし、犯罪歴、債務・破産情報、薬物・飲酒、精神疾患、外国関係者を政府が一括適性評価。G7同盟国との先端共同研究参入を可能にする法基盤を確立。",
+        "source": {
+          "organization": "内閣官房経済安全保障推進室",
+          "title": "重要経済安保情報の保護及び活用に関する法律の概要",
+          "url": "https://www.cas.go.jp"
+        }
+      }
+    ]
+  }
 }

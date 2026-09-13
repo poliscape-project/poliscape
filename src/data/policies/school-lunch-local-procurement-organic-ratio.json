@@ -205,5 +205,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における学校給食の地場産農産物（地産地消）・有機食材調達比率目標と食農教育比較",
+    "comparisonSummary": "児童生徒の健康増進と地元農業振興のため、フランス（EGalim法50%持続可能・20%有機義務）やイタリア、ブラジルは法律で地場産・有機食材の最低調達比率を義務付けており、日本の食育推進計画の直接のベンチマークとなっています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "農業・食料法（EGalim法）学校給食公共調達比率義務化",
+        "statusOrLevel": "学校給食を含む公共食堂で、持続可能・地場産食材最低50%、うち有機（Bio）最低20%を法定義務化",
+        "keyFeature": "未達自治体には改善命令が下される強力な法規制。「ma cantine」ポータルで全国の学校給食オーガニック調達比率を市民に完全公開。プラスチック容器の使用も全面禁止。",
+        "source": {
+          "organization": "フランス農業・食料主権省",
+          "title": "Loi EGalim et approvisionnement de la restauration collective en produits bio et locaux",
+          "url": "https://www.agriculture.gouv.fr"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "持続可能学校給食法および有機給食基金（Mense biologiche）",
+        "statusOrLevel": "学校給食の有機食材使用率世界トップクラス（平均40〜70%）・地場産伝統産品（PDO/PGI）優先",
+        "keyFeature": "小中学校給食を有機認証食材で提供する自治体に対し、国が給食費補助金を支給するインセンティブ制度。食育（Educazione alimentare）を正規授業として連動。",
+        "source": {
+          "organization": "イタリア農業・食糧主権・森林省 (MASAF)",
+          "title": "Fondo mense scolastiche biologiche e linee guida ristorazione scolastica",
+          "url": "https://www.politicheagricole.it"
+        }
+      },
+      {
+        "country": "ブラジル",
+        "countryCode": "BR",
+        "flag": "🇧🇷",
+        "systemName": "国家学校給食プログラム（PNAE: Programa Nacional de Alimentação Escolar）",
+        "statusOrLevel": "連邦給食予算の最低30%を地元の「家族農業（Family Farming）」から直接買い付ける法定義務",
+        "keyFeature": "小規模農家の貧困撲滅と学校給食の質向上を直結させた世界的先駆モデル。仲介業者を排除し、地元農家協同組合から新鮮な旬の野菜・果物を直接調達。",
+        "source": {
+          "organization": "ブラジル教育開発国家基金 (FNDE) / 農村開発省",
+          "title": "PNAE - Aquisição de alimentos da agricultura familiar para a alimentação escolar",
+          "url": "https://www.gov.br"
+        }
+      },
+      {
+        "country": "デンマーク",
+        "countryCode": "DK",
+        "flag": "🇩🇰",
+        "systemName": "公共有機料理ラベル（Det Økologiske Spisemærke）コペンハーゲン市調達",
+        "statusOrLevel": "コペンハーゲン市の全公立学校・保育園給食において有機食材比率約90%を達成",
+        "keyFeature": "給食予算を増やさずに有機化するため、廃棄ロス削減と野菜中心メニューへの転換技術を調理員に集中研修。ゴールド認証（有機90〜100%）を全公立施設で取得。",
+        "source": {
+          "organization": "デンマーク獣医食品庁 (Fødevarestyrelsen)",
+          "title": "The Organic Cuisine Label and organic public procurement in Denmark",
+          "url": "https://www.foedevarestyrelsen.dk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "USDA「Farm to School」プログラムおよび地元食料購入支援（LFPA）",
+        "statusOrLevel": "全米数万校に対する地元農家直接調達助成金および学校菜園（School Gardens）支援",
+        "keyFeature": "農務省（USDA）が交付金を配分。生徒が自ら学校菜園で野菜を育てて給食で食べる体験型食農教育と、地場産農産物の大量購入契約を支援。",
+        "source": {
+          "organization": "米国農務省 (USDA) / 食品栄養局",
+          "title": "USDA Farm to School Program Grant Awards and Local Food Procurement",
+          "url": "https://www.fns.usda.gov"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "親環境農産物学校給食支援条例および地域フードプラン",
+        "statusOrLevel": "全公立学校給食における無農薬・有機農産物使用比率70%超の自治体義務付け",
+        "keyFeature": "自治体出資の学校給食支援センターが全契約有機農家から一括集荷・残留農薬検査を行い、全小中高校へ翌朝配送する公的コールドチェーンを整備。",
+        "source": {
+          "organization": "大韓民国農林畜産食品部 / 各自治体教育庁",
+          "title": "Eco-Friendly Agricultural Products School Meal Supply System",
+          "url": "https://www.mafra.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "第4次食育推進基本計画およびみどりの食料システム戦略（オーガニックビレッジ）",
+        "statusOrLevel": "学校給食における地場産物活用割合目標（全国33%以上）・国産食材活用割合目標（80%以上）",
+        "keyFeature": "食料安全保障と食農教育の推進に向け、文科省・農水省が連携。オーガニックビレッジ宣言自治体（千葉県いすみ市等）の有機米100%給食をモデルとし全国展開を支援。",
+        "source": {
+          "organization": "農林水産省 / 文部科学省",
+          "title": "第4次食育推進基本計画及び学校給食における地場産物・有機農産物の利用促進",
+          "url": "https://www.maff.go.jp"
+        }
+      }
+    ]
+  }
 }

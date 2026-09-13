@@ -185,5 +185,102 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Briefcase"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における労働者個人へのリスキリング直接給付・キャリアアップ支援制度比較",
+    "comparisonSummary": "産業構造転換に対応するため、企業経由ではなく労働者個人に直接受講料を補助する制度が世界で加速しており、フランスのCPFや米国のWIOA、シンガポールのSkillsFutureが代表例です。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "個人職業訓練口座（CPF: Compte personnel de formation）",
+        "statusOrLevel": "全労働者に年500ユーロ（生涯最大5,000ユーロ）を公的ポータブル口座へ自動付与",
+        "keyFeature": "企業を通さず労働者がスマホアプリで資格講座を直接申し込んで受講料を支払える仕組み。転職や独立時にも権利を全額持ち運び可能。",
+        "source": {
+          "organization": "フランス預金預かり金公庫 (CDC) / 労働省",
+          "title": "Mon Compte Formation (CPF) et droits à la formation",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "スキルズフューチャー（SkillsFuture）生涯学習クレジット",
+        "statusOrLevel": "成人市民への数千シンガポールドル（最大約45万円）の直接教育クレジット付与",
+        "keyFeature": "中高年層（40歳以上）に大型の上乗せ給付を行い、デジタル・AI分野のディプロマ受講を国が強力に後押し。受講中の生活支援手当も支給。",
+        "source": {
+          "organization": "シンガポール人材開発省 (MOM) / SkillsFuture",
+          "title": "SkillsFuture Credit and Mid-Career Upskilling Support",
+          "url": "https://www.gov.sg"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "労働力革新機会法（WIOA Title I）個人訓練勘定（ITA: Individual Training Accounts）",
+        "statusOrLevel": "失業者・低所得労働者に対する最大数千ドルの個別職業訓練バウチャー支給",
+        "keyFeature": "American Job Centersを通じて、地域の成長産業（IT・ヘルスケア・製造業）に直結した認定教育機関の受講費用を連邦予算で全額助成。",
+        "source": {
+          "organization": "米国労働省雇用訓練局 (ETA)",
+          "title": "Workforce Innovation and Opportunity Act (WIOA) Individual Training Accounts",
+          "url": "https://www.dol.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "継続教育バウチャー（Bildungsgutschein）および連邦雇用庁直接支援",
+        "statusOrLevel": "リスキリングが必要な被雇用者・求職者に対する講座受講料・交通費・託児費用の100%全額公費給付",
+        "keyFeature": "雇用保険から教育訓練費を全額支援。労働市場の需要が高い資格取得を目指す個人に対し、受講期間中の失業手当受給期間も自動延長。",
+        "source": {
+          "organization": "ドイツ連邦雇用庁 (BA) / 労働社会省",
+          "title": "Förderung der beruflichen Weiterbildung mit Bildungsgutschein",
+          "url": "https://www.arbeitsagentur.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "生涯学習受給権（Lifelong Learning Entitlement: LLE）",
+        "statusOrLevel": "成人1人あたり4年分の高等教育・高等技能モジュール受講料ローン枠（約3万7,000ポンド）",
+        "keyFeature": "学位丸ごとではなく、数週間の短期間マイクロクレデンシャル講座を必要に応じて分割受講できる柔軟な教育資金貸付・給付システム。",
+        "source": {
+          "organization": "英国教育省 (DfE)",
+          "title": "Lifelong Learning Entitlement (LLE) overview and funding rules",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "スキルズ・チェックポイント（Skills Checkpoint for Older Workers）",
+        "statusOrLevel": "45〜70歳の労働者に対する最大2,200豪ドルの受講料マッチング助成金",
+        "keyFeature": "シニア層のキャリア診断とリスキリングを一体化。個人または雇用主が拠出した訓練費用と同額を連邦政府が上乗せ給付。",
+        "source": {
+          "organization": "豪雇用職場関係省 (DEWR)",
+          "title": "Skills Checkpoint for Older Workers and Skills Training Support",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "教育訓練給付金制度の拡充およびリスキリングを通じたキャリアアップ支援事業",
+        "statusOrLevel": "専門実践教育訓練の最大80%（年最大64万円）給付・個人主導のキャリア相談・転職支援",
+        "keyFeature": "従来の企業経由助成から個人への直接給付へ予算を大規模シフト。経済産業省のキャリアアップ支援事業と連携し、受講費用補助と転職成功時の追加給付を実施。",
+        "source": {
+          "organization": "厚生労働省 / 経済産業省",
+          "title": "人への投資・リスキリング支援施策及び教育訓練給付の拡充",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

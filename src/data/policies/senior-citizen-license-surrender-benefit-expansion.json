@@ -205,5 +205,102 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "HeartHandshake"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における高齢ドライバー運転適性審査・安全運転サポート車限定免許・返納インセンティブ比較",
+    "comparisonSummary": "高齢者のペダル踏み間違い事故や認知機能低下による逆走事故を防ぐため、豪州や英国は一定年齢以上の定期医師診断義務化、欧州は先進安全運転支援（ADAS）義務化を進めており、日本のサポートカー限定免許や返納支援の指標となっています。",
+    "countries": [
+      {
+        "country": "オーストラリア/NSW州",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "高齢ドライバー適性査定（Older Driver Licensing）および条件付き免許（Modified Licence）",
+        "statusOrLevel": "75歳から毎年の医師診断義務化・85歳から隔年の実車運転テスト（Practical Driving Assessment）義務",
+        "keyFeature": "実車テストを免除する代わりに、自宅から半径数km以内の昼間のみ運転を許可する「地域限定免許（Home Area Condition）」を付与。完全剥奪ではなく行動範囲を制限して自立移動を両立。",
+        "source": {
+          "organization": "ニューサウスウェールズ州運輸局 (Transport for NSW)",
+          "title": "Older driver licensing scheme and medical assessments",
+          "url": "https://www.nsw.gov.au"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "70歳以降の3年ごと免許更新・自己申告制度（DVLA Medical Fitness to Drive）",
+        "statusOrLevel": "70歳到達時に免許失効・以後は3年ごとに健康状態・認知機能を運転免許庁（DVLA）へ宣誓更新",
+        "keyFeature": "認知症や視力低下がある場合は法的通報義務。免許を自主返納した高齢者に対し、全国共通の無料バスパス（Older Person's Bus Pass）を即座に交付し公共交通利用へ誘導。",
+        "source": {
+          "organization": "英国運転免許庁 (DVLA) / 運輸省",
+          "title": "Renew your driving licence if you're 70 or over and medical rules",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "生涯有効免許原則の維持と自主的運転適性診断（Freiwillige Rückgabe / Senioren-Ticket）",
+        "statusOrLevel": "年齢による一律の強制再審査は存在せず（個人の自己責任原則）・自治体による免許返納バス定期券交換",
+        "keyFeature": "EUの70歳以上健康診断義務化案に強硬に反対し、生涯免許を固守。その代わり、多くの都市（ミュンヘン等）が免許を自主返納した高齢者に1〜2年分の公共交通無料パスを贈呈。",
+        "source": {
+          "organization": "ドイツ連邦デジタル・交通省 (BMDV) / ADAC",
+          "title": "Freiwilliger Führerscheinverzicht von Senioren und ÖPNV-Angebote",
+          "url": "https://www.bmdv.bund.de"
+        }
+      },
+      {
+        "country": "アメリカ/カリフォルニア州",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "70歳以上DMV窓口更新義務・視力検査および制限付き免許（Restricted Licence）",
+        "statusOrLevel": "70歳以上の郵送・オンライン更新禁止（窓口対面必須）・運転評価員による路上実車試験",
+        "keyFeature": "視力検査、交通標識テストを実施。懸念がある場合は「高速道路走行不可」「日の出から日没まで限定」「特定眼鏡着用」等の条件付き制限免許を発行。",
+        "source": {
+          "organization": "カリフォルニア州車両管理局 (DMV)",
+          "title": "Senior Drivers and License Renewal Requirements",
+          "url": "https://www.dmv.ca.gov"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "65歳以上免許更新周期短縮（5年→3年）および高齢者運転免許自主返納支援金",
+        "statusOrLevel": "75歳以上の更新期間3年・認知機能検査義務・返納者に自治体が10万〜30万ウォンの交通カード支給",
+        "keyFeature": "ソウル市や釜山市等で、免許を返納した高齢者に即座に交通カードや地域商品券を支給。急発進・踏み間違い事故多発を受け、ペダル踏み間違い防止装置装着車への補助を拡充。",
+        "source": {
+          "organization": "大韓民国警察庁 / 道路交通公団",
+          "title": "Senior Citizen Driver's License Voluntary Surrender and Traffic Support",
+          "url": "https://www.police.go.kr"
+        }
+      },
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "改定車両一般安全規則（GSR II: General Safety Regulation）ADAS義務化",
+        "statusOrLevel": "全新車に対する自動緊急ブレーキ（AEB）、居眠り検知、車線維持支援の標準装備義務付け",
+        "keyFeature": "高齢者限定ではなく全車両の安全基準をハードウェア的に底上げ。事故を未然に防止するアクティブセーフティ技術をEU域内全販売車両に強制導入。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "General Safety Regulation (GSR) - Advanced driver assistance systems mandatory",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "道路交通法に基づくサポートカー限定免許（サポカー限定免許）および運転経歴証明書",
+        "statusOrLevel": "75歳以上の認知機能検査・運転技能検査（実車試験）義務化・衝突被害軽減ブレーキ搭載車限定免許",
+        "keyFeature": "免許返納者には公的身分証明書となる「運転経歴証明書」を発行し、バス・タクシー割引や商業施設優待を提供。返納できない地方在住者向けに安全機能付きサポカー限定免許を創設。",
+        "source": {
+          "organization": "警察庁交通局",
+          "title": "高齢運転者対策（サポートカー限定免許及び運転技能検査等）の概要",
+          "url": "https://www.npa.go.jp"
+        }
+      }
+    ]
+  }
 }

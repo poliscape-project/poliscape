@@ -179,5 +179,102 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "ShieldAlert"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における自家用車ライドシェア（Uber / Grab等）の全面解禁・プラットフォーム規制比較",
+    "comparisonSummary": "移動の足の確保とタクシー業界保護のバランスをめぐり、米国や東南アジアはギグワーカー全面解禁、ドイツやスペインは厳格なハイヤー（PHV）規制を課しており、日本の「日本型ライドシェア（タクシー会社管理）」から完全自由化への議論が続いています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "交通ネットワーク企業法（TNC: Transportation Network Company Laws）",
+        "statusOrLevel": "全米ほぼ全州で一般個人（ギグワーカー）によるUber/Lyft自家用車営業を完全解禁",
+        "keyFeature": "プラットフォーム事業者（TNC）に営業許可、ドライバーの犯罪歴照会、対人対物100万ドルの商業保険付保を義務付け。タクシー会社を通さずに個人が直接営業可能。",
+        "source": {
+          "organization": "カリフォルニア州公益事業委員会 (CPUC) / 各州DOT",
+          "title": "Transportation Network Company (TNC) Licensing and Safety Rules",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス/ロンドン",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "プライベート・ハイヤー車両法（PHV: Private Hire Vehicle Regulations）",
+        "statusOrLevel": "ロンドン交通局（TfL）によるドライバー・車両・オペレーターの個別ライセンス制",
+        "keyFeature": "ブラックキャブ（伝統タクシー）と区別しつつPHVとしてUber全面認可。最高裁判決（2021年）によりUberドライバーを「Worker（準労働者）」と認定し最低賃金や有給休暇を保障。",
+        "source": {
+          "organization": "ロンドン交通局 (TfL)",
+          "title": "Private hire regulations and operator licensing in London",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "旅客運送法（Personenbeförderungsgesetz: PBefG）ハイヤー帰庫義務（Rückkehrpflicht）",
+        "statusOrLevel": "自家用車ドライバーの直接参入を違法化・認可を受けたハイヤー会社への委託形態のみ容認",
+        "keyFeature": "Uberは営業可能だが、運転手はプロ免許（P-Schein）を持つハイヤー事業者でなければならず、乗客を降ろした後は営業所へ戻る義務（帰庫義務）を課して流し営業を遮断。",
+        "source": {
+          "organization": "ドイツ連邦デジタル・交通省 (BMDV)",
+          "title": "Modernisierung des Personenbeförderungsrechts (PBefG)",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "ポイント・ツー・ポイント旅客輸送法（P2P Act）およびPDVL制度",
+        "statusOrLevel": "Grab等のライドシェア全面解禁・ドライバーへの私用車職業運転免許（PDVL）取得義務化",
+        "keyFeature": "陸上交通庁（LTA）が健康診断、犯罪歴審査、研修受講を課した上でライセンスを発行。タクシーとライドシェアの規制枠組みを一体化（P2P規制）し公平競争を担保。",
+        "source": {
+          "organization": "シンガポール陸上交通庁 (LTA)",
+          "title": "Point-to-Point (P2P) Passenger Transport Regulatory Framework",
+          "url": "https://www.gov.sg"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "テブヌー法（Loi Thévenoud）およびVTC（Chauffeur VTC）プロ免許制度",
+        "statusOrLevel": "一般アマチュアドライバーの自家用車営業（UberPOP）を刑事罰で完全禁止・VTC国家試験導入",
+        "keyFeature": "タクシー業界の大規模抗議を受け、250時間の講習または国家試験に合格したプロのVTCドライバーのみ営業を認可。アプリでの予約限定とし路上での客引きを禁止。",
+        "source": {
+          "organization": "フランス生態移行・交通省",
+          "title": "Réglementation du secteur des taxis et des voitures de transport avec chauffeur (VTC)",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "タクシー対VTCライセンス1:30比率ルールおよび自治州規制",
+        "statusOrLevel": "バルセロナやマドリード等における事前予約から乗車までの待機時間（15〜30分）義務化条例",
+        "keyFeature": "タクシー運転手の雇用を守るため、ハイヤー（Cabify、Uber）の台数をタクシー30台につき1台に厳しく制限。即時配車を禁じる自治体条例が相次ぎ法廷闘争へ発展。",
+        "source": {
+          "organization": "スペイン運輸・持続可能モビリティ省",
+          "title": "Regulación de los servicios urbanos de VTC y taxis",
+          "url": "https://www.lamoncloa.gob.es"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "道路運送法第78条に基づく自家用車活用事業（日本型ライドシェア）および全面解禁議論",
+        "statusOrLevel": "タクシー会社の運行管理下での一般ドライバー参入解禁・プラットフォーマー直接参入は継続審議",
+        "keyFeature": "タクシー不足地域・時間帯に限定し、タクシー会社が安全教育・点呼・車両管理を担う「日本型」を2024年春に導入。IT企業等が求める「タクシー会社を介さない完全自由化」は安全性と責任所在を巡り激論中。",
+        "source": {
+          "organization": "国土交通省自動車局 / デジタル庁",
+          "title": "自家用車活用事業（日本型ライドシェア）の導入状況及び今後の検討課題",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -261,5 +261,102 @@
         "commentStandard": "「半導体バブルによる人件費高騰で地元中小企業の人手不足が加速しており、地域インフラや地下水への負荷も心配だ」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国における半導体製造・サプライチェーン巨額補助金政策（Chips Acts）比較",
+    "comparisonSummary": "経済安全保障とAIインフラの覇権をめぐり、米国（CHIPS法527億ドル）や欧州（欧州半導体法430億ユーロ）がTSMCやインテルへの巨額直接補助金を投下しており、日本のRapidus（2nm開発）およびTSMC熊本支援（総額数兆円規模）と直結しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "CHIPSおよび科学法（CHIPS and Science Act of 2022）",
+        "statusOrLevel": "製造助成金390億ドル＋R&D助成110億ドル＋25%設備投資税額控除（総額527億ドル直接助成）",
+        "keyFeature": "TSMC（アリゾナ）、インテル、サムスン、マイクロン等に各社数十億〜数十億ドルの直接交付金を配分。先端ロジック半導体の国内製造シェアをゼロから20%へ引き上げる国家戦略。",
+        "source": {
+          "organization": "米国商務省 (NIST) / CHIPS for America",
+          "title": "CHIPS for America Program and Commercial Manufacturing Notices of Funding",
+          "url": "https://www.nist.gov"
+        }
+      },
+      {
+        "country": "欧州連合 (EU) / ドイツ",
+        "countryCode": "EU",
+        "flag": "🇩🇪",
+        "systemName": "欧州半導体法（European Chips Act）およびESMC（TSMCドレスデン合弁）",
+        "statusOrLevel": "総額430億ユーロの官民投資パッケージ・TSMCドレスデン工場への約50億ユーロ公費助成認可",
+        "keyFeature": "欧州委員会が国家補助金規制を緩和（ファースト・オブ・ア・カインド施設特例）。車載・産業用半導体の域内自給率を2030年までに世界シェア20%へ倍増させる計画を推進。",
+        "source": {
+          "organization": "欧州委員会 (European Commission) / ドイツ連邦経済気候保護省",
+          "title": "The European Chips Act and semiconductor ecosystem investments",
+          "url": "https://www.bmwk.de"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "産業革新条例第10条の2（台湾版チップス法）およびシリコンシールド戦略",
+        "statusOrLevel": "先端研究開発費用の25%および先進製造設備投資の5%に対する過去最高水準の法人税額控除",
+        "keyFeature": "TSMCの最先端ノード（2nm・1.4nm）を国内にとどめるため、超大型税制優遇と水・電力インフラを政府が全面保障し、世界の半導体サプライチェーン支配力を堅持。",
+        "source": {
+          "organization": "中華民国経済部 / 財政部",
+          "title": "Statute for Industrial Innovation Article 10-2 (Taiwan Chips Act)",
+          "url": "https://www.moea.gov.tw"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "K-チップス法（租税特例制限法改正）および龍仁メガ半導体クラスタ",
+        "statusOrLevel": "サムスン・SKハイニックス等による622兆ウォンのメガクラスタ投資・設備投資税額控除最大25%",
+        "keyFeature": "メモリ世界首位の防衛と先端ファウンドリ強化に向け、送電網や用水インフラを国が直接建設。半導体専攻大学院の拡充など国家総力戦を展開。",
+        "source": {
+          "organization": "大韓民国産業通商資源部 (MOTIE) / 企画財政部",
+          "title": "K-Chips Act and Mega Semiconductor Cluster Strategy",
+          "url": "https://www.motie.go.kr"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "国家集積回路産業投資基金（ビッグファンド第1〜3期）",
+        "statusOrLevel": "総額数千億元（第3期だけで3,440億元・約7.5兆円）の国家直接出資ファンド",
+        "keyFeature": "米国の半導体製造装置輸出規制に対抗し、SMICや長江メモリ（YMTC）等へ巨額マネーを注入。レガシー半導体の世界市場席巻と国産製造装置・材料の完全内製化を推進。",
+        "source": {
+          "organization": "中華人民共和国工業・情報化部 (MIIT) / 財政部",
+          "title": "National Integrated Circuit Industry Investment Fund Operations",
+          "url": "https://www.miit.gov.cn"
+        }
+      },
+      {
+        "country": "インド",
+        "countryCode": "IN",
+        "flag": "🇮🇳",
+        "systemName": "インディアン・セミコンダクター・ミッション（ISM: India Semiconductor Mission）",
+        "statusOrLevel": "総額100億ドルの国家支援パッケージ・適格製造プロジェクトへの最大50%プロジェクト費用直接補助",
+        "keyFeature": "タタ・グループによる台湾PSMC合弁ファブやマイクロン後工程パッケージング工場を誘致。エレクトロニクス製造大国化に向けたサプライチェーン内製化を加速。",
+        "source": {
+          "organization": "インド電子情報技術省 (MeitY) / ISM",
+          "title": "Semicon India Programme and Modified Schemes for Semiconductor Fabs",
+          "url": "https://www.meity.gov.in"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "特定高度情報通信技術活用システム開発供給促進法（半導体支援法）およびNEDO基金",
+        "statusOrLevel": "TSMC熊本工場（第1・第2工場に計1.2兆円超支援）、Rapidus（北海道・2nm開発に9,000億円超助成）",
+        "keyFeature": "失われた半導体製造基盤を復活させるため、複数年度にわたる巨額の補正予算基金を編成。経済安全保障上不可欠な半導体の国内安定供給と次世代技術獲得を国家主導で推進。",
+        "source": {
+          "organization": "経済産業省商務情報政策局 / NEDO",
+          "title": "半導体・デジタル産業戦略及び先端半導体の国内製造基盤確保",
+          "url": "https://www.meti.go.jp"
+        }
+      }
+    ]
   }
 }

@@ -261,5 +261,102 @@
         "commentStandard": "「平時の流通不足で備蓄米を放出すれば、本物の大凶作や海外からの輸入途絶時に国民を飢餓から守れなくなる」"
       }
     ]
+  },
+  "international": {
+    "title": "主要穀物消費国における国家食料備蓄制度・機動的放出ルール・緊急時市場安定化策比較",
+    "comparisonSummary": "主食穀物の不作や価格高騰に備え、中国や米国、ASEAN諸国は大規模な国家食料備蓄とルールに基づいた機動的放出を行っており、日本の100万トン政府備蓄米の放出基準の柔軟化論議の比較軸となっています。",
+    "countries": [
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "中央儲備糧（中糧集団 / 中国儲備糧管理集団）国家穀物備蓄制度",
+        "statusOrLevel": "国内消費量の数ヶ月〜1年分に匹敵する世界最大のコメ・小麦国家備蓄を常時保有",
+        "keyFeature": "市場価格が急騰または急落した際、国家発展改革委員会（NDRC）が直営オークションを通じて数百万トン単位で機動的に放出・買い入れを行い価格を平準化。",
+        "source": {
+          "organization": "中華人民共和国国家糧食・物資儲備局",
+          "title": "National Grain Reserves Management Regulations and Market Stabilization",
+          "url": "https://www.gov.cn"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ビル・エマーソン人道信託（BEHT）および商品金融公社（CCC）在庫管理",
+        "statusOrLevel": "緊急食料援助用の穀物信託基金・市場隔離在庫の機動的活用メカニズム",
+        "keyFeature": "国内外の災害・食料危機に即応して穀物または現金を放出。国内価格への悪影響を最小限に抑えつつ、飢餓地域や緊急人道支援へダイレクトに供給。",
+        "source": {
+          "organization": "米国農務省 (USDA) / USAID",
+          "title": "Bill Emerson Humanitarian Trust (BEHT) and Commodity Credit Corporation",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "東南アジア諸国連合 (ASEAN)",
+        "countryCode": "UN",
+        "flag": "🇺🇳",
+        "systemName": "ASEAN+3緊急米備蓄（APTERR: ASEAN Plus Three Emergency Rice Reserve）",
+        "statusOrLevel": "日中韓およびASEAN10カ国による計78.7万トンの緊急時相互融通コメ備蓄制度",
+        "keyFeature": "台風や大規模洪水等の自然災害発生時、被災国の要請に基づき無償供与または事前契約融通（Tier 1〜3）を発動し、数日〜数週間で備蓄米を届ける地域協定。",
+        "source": {
+          "organization": "APTERR事務局 / ASEAN Secretariat",
+          "title": "ASEAN Plus Three Emergency Rice Reserve (APTERR) Operations",
+          "url": "https://www.apterr.org"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "公共備蓄米（公共蓄積米）制度および市場隔離政策",
+        "statusOrLevel": "年間約40万〜45万トンの当年産新米を政府が直接買入れ備蓄・需給逼迫時の公的放出",
+        "keyFeature": "収穫期に価格が下落した際は政府が「市場隔離」として追加買い入れを行い、端境期に品薄となった場合はオンライン競売で民間精米業者へ迅速に放出。",
+        "source": {
+          "organization": "大韓民国農林畜産食品部",
+          "title": "Public Stockholding Rice Scheme and Emergency Grain Management",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦国家経済供給法（BWG）に基づく義務的食料備蓄（Pflichtlager）",
+        "statusOrLevel": "民間輸入・製粉業者に対するコメ・砂糖・食用油の3〜4ヶ月分義務的常備義務付け",
+        "keyFeature": "国が倉庫を持つのではなく、民間流通業者に一定量の備蓄維持を義務付け（費用は連邦特別基金で補填）。サプライチェーン寸断時に連邦が放出命令を発動。",
+        "source": {
+          "organization": "スイス連邦経済供給庁 (FONES / BWL)",
+          "title": "Pflichtlagerhaltung für Nahrungsmittel und Krisenvorsorge",
+          "url": "https://www.admin.ch"
+        }
+      },
+      {
+        "country": "フィリピン",
+        "countryCode": "PH",
+        "flag": "🇵🇭",
+        "systemName": "国家食糧庁（NFA: National Food Authority）緊急米バッファーストック",
+        "statusOrLevel": "自然災害多発国における地方倉庫分散型の緊急時用米備蓄（最低15〜30日分消費量）",
+        "keyFeature": "社会福祉開発省（DSWD）と連携し、台風被災直後に救援パック（米）を即日配布。民間市場の買い占めや便乗値上げを抑止する機動的介入を実施。",
+        "source": {
+          "organization": "フィリピン農業省 (DA) / NFA",
+          "title": "National Food Authority Rice Buffer Stocking Rules",
+          "url": "https://www.gov.ph"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "食糧法に基づく政府備蓄米制度（100万トン水準・5年ローテーション）",
+        "statusOrLevel": "10年に1度の不作や連続不作に備えた100万トン備蓄・学校給食用無償交付や子ども食堂支援",
+        "keyFeature": "通常時は市場価格への影響を避けるため主食用市場への放出を行わず、5年経過後は飼料用に用途限定売却。2024年の品薄時に機動的放出を求める声と慎重論が対立。",
+        "source": {
+          "organization": "農林水産省",
+          "title": "米の備蓄制度の概要及び運用状況について",
+          "url": "https://www.maff.go.jp"
+        }
+      }
+    ]
   }
 }

@@ -186,5 +186,102 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における地下埋設インフラ老朽化対策・地中レーダー（GPR）・AI路面下空洞探査技術比較",
+    "comparisonSummary": "都市部での道路陥没事故（シンクホール）を未然に防ぐため、欧米や韓国は地中レーダー探査（GPR）の車載走行測定やAI解析による空洞自動検出を導入し、日本の下水道DX・インフラ長寿命化計画と競い合っています。",
+    "countries": [
+      {
+        "country": "韓国/ソウル市",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "地下安全管理特別法およびソウル市地中空洞探査チーム（GPR探査）",
+        "statusOrLevel": "石村洞陥没事故等を受けた全国地下埋設物GIS統合データベース化と定期車載探査の義務化",
+        "keyFeature": "市内幹線道路をマルチチャンネルGPR車が定期巡回し、AIが地下空洞の兆候を自動スクリーニング。危険度の高い空洞には内視鏡カメラを挿入し即日流動化処理土を注入。",
+        "source": {
+          "organization": "大韓民国国土交通部 / ソウル特別市",
+          "title": "Special Act on Underground Safety Management and Sinkhole Prevention",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦道路庁（FHWA）高度地球物理学探査技術（SHRP2）およびEPA下水道健全度評価",
+        "statusOrLevel": "バイデンインフラ投資雇用法（IIJA）による老朽上下水道管路改修・空洞探査助成",
+        "keyFeature": "3次元3D-GPRレーダー技術と自律走行ロボット（CCTVクローラー）を下水管内部に投入。管のクラック・空洞崩壊リスクをAI画像認識でスコア化し予防的更生工事を実施。",
+        "source": {
+          "organization": "米国連邦道路庁 (FHWA) / EPA",
+          "title": "Geophysical Technologies for Subsurface Utility Engineering and Void Detection",
+          "url": "https://www.fhwa.dot.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国家地下資産登録所（NUAR: National Underground Asset Register）",
+        "statusOrLevel": "全英のガス・水道・下水・電力埋設管データを単一のデジタル3Dツインプラットフォームに統合",
+        "keyFeature": "工事中の誤掘削や空洞崩落を防ぐため、官民の埋設管データを完全統合。道路管理者がGPRデータと埋設管マップをAR（拡張現実）端末で現場照会可能。",
+        "source": {
+          "organization": "英国地理空間委員会 (Geospatial Commission) / 内閣府",
+          "title": "National Underground Asset Register (NUAR) digital service",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "道路・輸送工学センター（CEREMA）非破壊地下探査基準およびパリ下水道管理",
+        "statusOrLevel": "パリ市歴史的石造下水道網における音響センサー・レーダーを用いた構造健全度常時モニタリング",
+        "keyFeature": "古い空洞や地下採石場跡（カタコンブ）の陥没リスクに対処するため、公共事業研究所CEREMAがGPRと微小重力探査を組み合わせた高精度リスクマップを策定。",
+        "source": {
+          "organization": "フランス環境・リスク・モビリティ・開発センター (CEREMA)",
+          "title": "Méthodes de détection des cavités souterraines et auscultation des chaussées",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "道路交通研究所（FGSV）地中レーダー測定指針および下水道管路更生基準（DWA）",
+        "statusOrLevel": "アウトバーンおよび都市道路下の下水管老朽化診断におけるロボット・レーダー技術の標準化",
+        "keyFeature": "道路を掘り返さない非開削工法（No-Dig / Trenchless）管路更生を推進。管路の破損から土砂が吸い出されて空洞化するプロセスを未然に防ぐ予防保全システム。",
+        "source": {
+          "organization": "ドイツ道路交通研究協会 (FGSV) / DWA",
+          "title": "Einsatz von Bodenradar (GPR) zur Zustandsbewertung von Verkehrsflächen",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "ダイヤル・ビフォー・ユー・ディグ（Before You Dig Australia: BYDA）およびスマートパイプ",
+        "statusOrLevel": "全公共掘削前の法定事前照会システムと光ファイバー・AIセンサーによる漏水・空洞検知",
+        "keyFeature": "下水管の破損漏水による地盤流出を防止するため、主要管路に光ファイバー音響センシング（DAS）を敷設し、漏水と周辺土砂の移動をリアルタイム検知。",
+        "source": {
+          "organization": "オーストラリア規格協会 (Standards Australia) / BYDA",
+          "title": "Subsurface Utility Engineering (AS 5488) and Void Monitoring",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "下水道管路包括的民間委託・インフラメンテナンス国民会議および車載型地中レーダーAI探査",
+        "statusOrLevel": "年数千件発生する道路陥没の未然防止・国交省によるAI路面下空洞探査技術の実証と標準化",
+        "keyFeature": "高度経済成長期に埋設された下水管の耐用年数（50年）超えが急増。民間ジオ・テクノロジー企業（ジオ・サーチ等）の車載3DレーダーとAI画像解析により、道路を掘らずに深さ数メートルの空洞を迅速検出し陥没事故を根絶。",
+        "source": {
+          "organization": "国土交通省道路局 / 水管理・国土保全局",
+          "title": "道路の老朽化対策及び路面下空洞探査の推進について",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

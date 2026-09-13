@@ -185,5 +185,102 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における持続可能な航空燃料（SAF: Sustainable Aviation Fuel）導入義務化・税額控除・国内製造支援比較",
+    "comparisonSummary": "国際航空の脱炭素化（Net Zero 2050）に向け、EUは「ReFuelEU Aviation」で給油SAF比率の段階的義務付け（2030年6%→2050年70%）を法制化し、米国はIRA税額控除で量産を促進、日本も2030年10%義務化を掲げています。",
+    "countries": [
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "リフューエルEU・アビエーション規則（ReFuelEU Aviation Regulation）",
+        "statusOrLevel": "EU空港給油燃料に占めるSAF割合を2025年2%、2030年6%、2050年70%とする法的義務化",
+        "keyFeature": "さらに「合成航空燃料（e-kerosene / e-SAF）」の最低使用義務（2030年1.2%→2050年35%）を別枠設定。未達の航空燃料供給事業者には厳しい反則金。",
+        "source": {
+          "organization": "欧州委員会 (European Commission) / EASA",
+          "title": "ReFuelEU Aviation initiative - Sustainable Aviation Fuels Mandate",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "SAFグランド・チャレンジ（SAF Grand Challenge）およびインフレ抑制法（IRA）税額控除",
+        "statusOrLevel": "2030年までに年30億ガロン、2050年までに航空燃料100%をSAF化する国家目標",
+        "keyFeature": "義務化ではなく手厚い税額控除（Section 40B / Section 45Z）を採用。温室効果ガス削減率に応じ1ガロンあたり最大1.75ドルの直接生産税額控除を付与し民間投資を爆発的喚起。",
+        "source": {
+          "organization": "米国エネルギー省 (DOE) / FAA",
+          "title": "Sustainable Aviation Fuel (SAF) Grand Challenge and IRA Incentives",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "英国SAFマンデート（UK Sustainable Aviation Fuel Mandate）および収益確約制度",
+        "statusOrLevel": "2025年2%から開始し2030年10%、2040年22%を義務化・国内商用SAFプラント5カ所着工支援",
+        "keyFeature": "差額決済契約（Revenue Certainty Mechanism）を導入。化石燃料との価格差を政府が長期保証することで、金融機関が国内SAF製造ギガファクトリーへ融資しやすい環境を創出。",
+        "source": {
+          "organization": "英国運輸省 (DfT)",
+          "title": "Mandating sustainable aviation fuel in the UK and Revenue Certainty Mechanism",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "フランス2030低炭素航空機プログラムおよびトタルエナジーズ製油所転換",
+        "statusOrLevel": "EU目標を前倒しするSAFブレンド義務および10億ユーロ規模の国内合成燃料開発助成",
+        "keyFeature": "グランピュイ製油所等をバイオリファイナリーへ全面転換。廃食用油（UCO）や農業残渣を原料とした純国産SAF供給網をエアバス社と共同で垂直統合。",
+        "source": {
+          "organization": "フランス生態移行・交通省 / フランス2030",
+          "title": "Feuille de route pour le déploiement des carburants d'aviation durables",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "シンガポール持続可能航空ハブ・ブループリント（Sustainable Air Hub Blueprint）",
+        "statusOrLevel": "2026年からチャンギ空港出発便に対しSAF使用率1%義務化（2030年3〜5%目標）・SAF税新設",
+        "keyFeature": "航空会社に直接課すのではなく、全旅客チケットに「SAF課徴金（SAF Levy）」を一律上乗せして公的基金にプールし、チャンギ空港が一括大量調達して供給するユニークな枠組み。",
+        "source": {
+          "organization": "シンガポール民間航空庁 (CAAS)",
+          "title": "Singapore Sustainable Air Hub Blueprint and SAF Levy Implementation",
+          "url": "https://www.caas.gov.sg"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "スキポール空港SAFイニシアチブおよびネステ（Neste）ロッテルダム製油所",
+        "statusOrLevel": "欧州最大のSAF製造ハブをロッテルダムに形成・KLMオランダ航空との全便混合運航",
+        "keyFeature": "世界最大の再生可能燃料メーカーNesteの大規模プラントを誘致。港湾インフラとパイプライン網を連結し、欧州北西部の主要空港へパイプライン直結でSAFを供給。",
+        "source": {
+          "organization": "オランダインフラ水管理省 / スキポール空港",
+          "title": "Sustainable Aviation Policy and Neste Rotterdam SAF Expansion",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "航空脱炭素化推進法に基づく「2030年国内航空会社燃料使用量の10%をSAF化」義務化方針",
+        "statusOrLevel": "石油元売り各社に対するSAF供給義務化の検討・GX経済移行債を活用した製造設備投資支援",
+        "keyFeature": "廃食用油の海外流出防止（国内回収網整備）や、製油所休止設備の転換、木質バイオマスやCO2+水素からの合成燃料（e-fuel）実証を支援。成田・羽田・関空での国際線給付体制を構築。",
+        "source": {
+          "organization": "国土交通省航空局 / 経済産業省資源エネルギー庁",
+          "title": "持続可能な航空燃料（SAF）の導入促進に向けた官民協議会ロードマップ",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

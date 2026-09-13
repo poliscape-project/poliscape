@@ -225,5 +225,102 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Sparkles"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における災害危険区域からの既存住宅立ち退き・移転補償・新規建築許可規制比較",
+    "comparisonSummary": "土砂崩れや崖崩れのリスクに晒された既存住民の安全を確保するため、欧米各国は公費による住宅買い取り（Buyout）や住宅ローン免除、新規建築確認の自動不認可を法制化しており、日本のがけ地近接等危険住宅移転事業のモデルとなっています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "自然災害危険地域における収用・買収制度（Expropriation / Acquisition amiable - Fonds Barnier）",
+        "statusOrLevel": "生命の危機がある土砂崩落警戒区域の既存住宅を公的基金（バルニエ基金）が100%査定額で任意買収・強制収用",
+        "keyFeature": "改修では安全を確保できないと県知事が判断した場合、自治体が物件を買い取り更地化。拒絶する所有者には公益収用を発動して住民の生命を保護。",
+        "source": {
+          "organization": "フランス生態移行・エネルギー省",
+          "title": "Le Fonds de prévention des risques naturels majeurs (Fonds Barnier)",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "FEMAコミュニティ防災支援（BRIC: Building Resilient Infrastructure and Communities）住宅移転助成",
+        "statusOrLevel": "地すべり・洪水多発地帯の住宅所有者に対する移転新居購入資金助成（1戸最大数十万ドル）",
+        "keyFeature": "連邦緊急事態管理庁が地方自治体に資金を全額交付し、危険斜面の住民コミュニティを丸ごと安全な高台へ集団移転させるプロジェクトを優先採択。",
+        "source": {
+          "organization": "連邦緊急事態管理庁 (FEMA)",
+          "title": "Building Resilient Infrastructure and Communities (BRIC) Grant Programs",
+          "url": "https://www.fema.gov"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦森林・水利保護法に基づく危険住宅解体移転補償（Aussiedlung）",
+        "statusOrLevel": "赤色ハザード指定を受けた既存住宅に対する州・基礎自治体共同の移転補償金支給",
+        "keyFeature": "所有者は既存住宅の権利を放棄し、安全地帯の代替地を提供されるか適正時価の補償を受領。解体された跡地は緑地として地籍に永久凍結。",
+        "source": {
+          "organization": "スイス連邦環境省 (BAFU)",
+          "title": "Schutz vor Naturgefahren - Aussiedlungen und Entschädigungen",
+          "url": "https://www.bafu.admin.ch"
+        }
+      },
+      {
+        "country": "オーストリア",
+        "countryCode": "AT",
+        "flag": "🇦スタイ",
+        "systemName": "災害基金法（Katastrophenfondsgesetz）自発的移転支援（Freiwillige Aussiedlung）",
+        "statusOrLevel": "赤色危険地帯内の孤立住宅に対する連邦災害基金からの最大80%解体・新築移転直接補助",
+        "keyFeature": "砂防ダムや防護柵を建設するよりも、住民を移転させた方が公費支出が安価な場合、自治体と連邦が全額に近い移転支援金を拠出して退去を促進。",
+        "source": {
+          "organization": "オーストリア連邦財務省 / 農業省 (BML)",
+          "title": "Katastrophenfonds und Aussiedelungsförderung in Gefahrenzonen",
+          "url": "https://www.bmf.gv.at"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "国家地すべり緊急プログラム（Piano Straordinario di Rimozione del Rischio Idrogeologico）",
+        "statusOrLevel": "崩落切迫地帯の家屋に対する即時退去命令（Ordinanza di Sgombero）と公営仮設住宅・移転助成",
+        "keyFeature": "市長が緊急退去権限を行使。退去した住民に対し、自治体が新居取得補助金（Contributo di Autonoma Sistemazione）を長期支給して危険地帯からの脱出を支援。",
+        "source": {
+          "organization": "イタリア市民保護局 (Dipartimento della Protezione Civile)",
+          "title": "Misure di emergenza per frane e delocalizzazione abitativa",
+          "url": "https://www.protezionecivile.gov.it"
+        }
+      },
+      {
+        "country": "カナダ/ケベック州",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "公共安全省地すべり特別補償プログラム（Programme d'aide financière spécifique）",
+        "statusOrLevel": "粘土質地盤地すべり危険区域（Zones de contraintes）の住宅に対する最大数十万ドルの買収プログラム",
+        "keyFeature": "ケベック州独特の泥流・地すべりリスクに対し、州政府が鑑定評価額で住宅を買い上げ、敷地を恒久的な自然保護区に指定して二度と居住を許さない制度。",
+        "source": {
+          "organization": "ケベック州公安省 (Ministère de la Sécurité publique)",
+          "title": "Programme d'aide financière pour les glissements de terrain et zones de contraintes",
+          "url": "https://www.securitepublique.gouv.qc.ca"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "がけ地近接等危険住宅移転事業および住宅・建築物安全ストック形成事業",
+        "statusOrLevel": "レッドゾーン等内の危険住宅解体費（最大約90万円）および新居建設・土地取得利子補給（最大数百万円）助成",
+        "keyFeature": "土砂崩れで倒壊の恐れがある既存不適格住宅の自主的移転を国と市町村が共同補助。さらに建築基準法第39条に基づき災害危険区域条例で新規建築確認を原則不認可。",
+        "source": {
+          "organization": "国土交通省住宅局",
+          "title": "がけ地近接等危険住宅移転事業の概要及び移転促進に向けた支援措置",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

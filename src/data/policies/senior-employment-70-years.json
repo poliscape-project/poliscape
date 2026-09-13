@@ -127,5 +127,102 @@
       "type": "white_paper",
       "typeLabel": "内閣府高齢社会白書"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における定年制（定年廃止・定年延長）および高齢期就業機会確保法制比較",
+    "comparisonSummary": "超高齢社会における労働力不足解消と公的年金財政の維持のため、欧米諸国は年齢差別禁止法により「定年制そのものを違法・廃止」とする国が主流であり、日本の高年齢者雇用安定法（70歳までの就業確保努力義務）の議論と対比されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "雇用における年齢差別禁止法（ADEA: Age Discrimination in Employment Act）",
+        "statusOrLevel": "法定定年制の完全廃止（定年退職の強制は年齢差別として違法・パイロット等の例外除く）",
+        "keyFeature": "1986年に強制定年制を法律で全面撤廃。健康で能力がある限り、労働者は何歳になっても同一の処遇で働き続ける権利を法的に完全保障。",
+        "source": {
+          "organization": "連邦雇用機会均等委員会 (EEOC) / 労働省",
+          "title": "The Age Discrimination in Employment Act of 1967 (ADEA)",
+          "url": "https://www.eeoc.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "平等法（Equality Act 2010）におけるデフォルト定年年齢（DRA）の廃止",
+        "statusOrLevel": "2011年に従来の65歳デフォルト定年制を完全全廃・年齢を理由とする一律解雇の禁止",
+        "keyFeature": "企業が特定の年齢を理由に従業員を辞めさせることは不当解雇。高齢労働者は勤務時間短縮や柔軟な働き方（Flexible Working）を法的に要求可能。",
+        "source": {
+          "organization": "英国助言調停仲裁局 (Acas) / 平等人権委員会 (EHRC)",
+          "title": "Age discrimination and default retirement age abolition",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "年金受給開始年齢67歳引上げ（Rente mit 67）連動型雇用協約",
+        "statusOrLevel": "公的年金の受給開始年齢引き上げ（65歳から67歳へ段階的延長）と労使協約定年の連動",
+        "keyFeature": "労働協約（Tarifvertrag）で定年を定めることは容認されるが、年金受給開始年齢前に解雇することは厳格禁止。定年到達後も雇用契約を更新する「高齢労働法特例」を完備。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS) / 連邦年金保険",
+          "title": "Rente mit 67 und Anpassung der Regelaltersgrenze",
+          "url": "https://www.bmas.de"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "定年・再雇用法（Retirement and Re-employment Act: RRA）",
+        "statusOrLevel": "法定定年を63歳から65歳へ、再雇用義務を68歳から70歳へ段階的引き上げ",
+        "keyFeature": "政府・労組・使用者の三者合意（Tripartite）により、2030年までに定年65歳・再雇用義務70歳を達成する法定ロードマップを策定。企業に高齢労働者の雇用義務を強制。",
+        "source": {
+          "organization": "シンガポール人材開発省 (MOM)",
+          "title": "Retirement and Re-employment Act (RRA) Framework",
+          "url": "https://www.mom.gov.sg"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "年齢差別禁止法（Age Discrimination Act 2004）強制定年の撤廃",
+        "statusOrLevel": "連邦および全州で強制定年制を完全廃止・シニア労働者の雇用継続権利の確立",
+        "keyFeature": "年金受給資格（Age Pension）年齢が67歳に引き上げられる中、企業は年齢のみを理由に解雇不可。退職は労働者本人の自発的意思決定に完全に委ねられる。",
+        "source": {
+          "organization": "豪人権委員会 (AHRC) / 公正労働オンブズマン",
+          "title": "Age discrimination in the workplace and compulsory retirement abolition",
+          "url": "https://www.humanrights.gov.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "年金改革法（2023年施行・退職年齢64歳引上げ）および70歳強制退職禁止規定",
+        "statusOrLevel": "法定最低退職年齢64歳への引上げ・70歳未満の従業員に対する使用者の定年退職強制を違法化",
+        "keyFeature": "社会保障法典に基づき、70歳に達するまで雇用主は一方的に定年退職させることができず、労働者本人の同意が必須。シニアインデックス（雇用率公表）の導入も推進。",
+        "source": {
+          "organization": "フランス労働・完全雇用省",
+          "title": "Mise à la retraite d'un salarié et réforme des retraites",
+          "url": "https://www.travail-emploi.gouv.fr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "高年齢者雇用安定法改正（2021年施行・70歳までの就業確保努力義務）",
+        "statusOrLevel": "65歳までの雇用確保（義務）に加え、70歳までの就業確保（定年引上げ、定年廃止、再雇用、業務委託等）を努力義務化",
+        "keyFeature": "単なる自社での雇用継続だけでなく、他社再就職支援、フリーランス契約（創業支援等措置）、社会貢献活動への従事支援など多様な選択肢を法認可。将来的な70歳雇用完全義務化を見据えた環境整備が進行中。",
+        "source": {
+          "organization": "厚生労働省職業安定局",
+          "title": "高年齢者雇用安定法の改正（70歳までの就業機会確保）について",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

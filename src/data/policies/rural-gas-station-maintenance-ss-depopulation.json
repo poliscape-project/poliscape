@@ -205,5 +205,102 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Zap"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における過疎地ガソリンスタンド（給油所）維持支援・災害拠点化・マルチエネルギーハブ転換比較",
+    "comparisonSummary": "EV化や人口減少に伴う過疎地の給油所激減（給油難民問題）に対し、北欧や豪州は無人給油所や自治体公営給油所、米国はFEMA指定の非常用自家発電機配備を進めており、日本の「住民拠点SS」支援政策と軌を一にしています。",
+    "countries": [
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "マーケット（Merkur-programmet）農村地域店舗・給油スタンド公的維持支援",
+        "statusOrLevel": "EV普及率世界一の国における僻地ガソリンスタンド・雑貨店への年間数十万クローネ直接助成",
+        "keyFeature": "EVシフトでガソリン需要が激減する中、農林水産・地方自治省が管轄するMerkurプログラムにより、給油機更新や超急速充電器（EVチャージャー）併設の設備投資を公費全額補助。",
+        "source": {
+          "organization": "ノルウェー地方自治・地域開発省 / Merkur-programmet",
+          "title": "Merkur-programmet - Støtte til nærbutikkar og drivstoffanlegg i distrikta",
+          "url": "https://www.regjeringen.no"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "地域商業サービス補助金（Driftstöd till landsbygdsbutiker）",
+        "statusOrLevel": "過疎地自治体のラストワン給油スタンドに対する年間最大数万ユーロの公的運転資金補助",
+        "keyFeature": "給油所が閉鎖されると周辺数万平方kmが無給油地帯になるため、食料品店と併設された給油スタンドを「必要不可欠な公共サービスインフラ」に法指定し赤字を補填。",
+        "source": {
+          "organization": "スウェーデン経済地域成長庁 (Tillväxtverket)",
+          "title": "Driftstöd till dagligvarubutiker och drivmedelsstationer i sårbara områden",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "重要エネルギーインフラ復旧プログラム（FEMA Emergency Generator Mandates）",
+        "statusOrLevel": "フロリダ州等における避難幹線沿い全給油所への非常用自家発電機設置義務化",
+        "keyFeature": "ハリケーン等による大規模停電時でもガソリン給油を継続できるよう、発電機接続用切替スイッチ（Transfer Switch）の設置を州法で義務付け。連邦FEMAが助成金を交付。",
+        "source": {
+          "organization": "連邦緊急事態管理庁 (FEMA) / フロリダ州緊急事態管理局",
+          "title": "Emergency Generator Requirements for Gas Stations during Disasters",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "アウトバック・リモート燃料アクセス計画および無人カードベリファイスタンド",
+        "statusOrLevel": "内陸僻地（アウトバック）における24時間完全自動・衛星通信決済給油スタンドの公的支援",
+        "keyFeature": "店員を配置できない超過疎地において、衛星スターリンク通信と太陽光発電・バッテリーで自立稼働するコンテナ型無人給油スタンドを州政府出資で設置。",
+        "source": {
+          "organization": "豪気候変動・エネルギー・環境・水資源省",
+          "title": "Regional and Remote Fuel Security Strategies",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "地方小規模独立給油所支援基金（Fonds de soutien aux stations-service indépendantes）",
+        "statusOrLevel": "ハイパーマーケット（大手スーパー）価格競争に対抗する地方独立SS向け環境改修助成",
+        "keyFeature": "二重殻地下タンク更新や土壌汚染防止工事に国が最大補助率70%を交付。地域住民の移動手段と消防・救急車の燃料補給拠点を防衛。",
+        "source": {
+          "organization": "フランス生態移行・エネルギー省",
+          "title": "Aide à la modernisation des petites stations-service de proximité",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "北部・先住民族コミュニティ燃料安全保障ファンド",
+        "statusOrLevel": "極北・寒冷地コミュニティにおける公営燃料バルクデポおよび給油所の直営維持",
+        "keyFeature": "民間採算が合わない地域において、準州政府（ユーコン、ヌナブト等）が燃料輸送と給油所運営を公営事業（Petroleum Products Division）として直営。",
+        "source": {
+          "organization": "カナダ天然資源省 (NRCan) / ヌナブト準州政府",
+          "title": "Bulk Fuel Storage and Fuel Security in Remote Northern Communities",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "過疎地給油所維持支援（石油製品販売業環境激変対策）および「住民拠点SS」指定",
+        "statusOrLevel": "自家発電機配備の住民拠点SS全国数千カ所指定・POSや地下タンク更新への国費補助",
+        "keyFeature": "全国のSS数が最盛期の半分（約2万8,000カ所）に激減し「SS過疎地」が拡大。経済産業省が災害時でも給油できる自家発電機付き「住民拠点SS」を指定し、灯油配達や移動給油車導入を支援。",
+        "source": {
+          "organization": "経済産業省資源エネルギー庁",
+          "title": "過疎地等における石油製品の安定供給体制維持支援及び住民拠点SSの整備",
+          "url": "https://www.meti.go.jp"
+        }
+      }
+    ]
+  }
 }

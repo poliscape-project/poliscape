@@ -217,5 +217,102 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Clock"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における学校いじめ・サイバーいじめ法制・重大事態調査・警察連携プロトコル比較",
+    "comparisonSummary": "いじめによる自殺や重大傷害を防ぐため、欧米は独立第三者機関による調査の義務化、学校警察連絡官（SLO）の常駐、刑法適用を徹底しており、日本のいじめ防止対策推進法に基づく重大事態調査ガイドライン改定の指標となっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "各州いじめ防止法（Anti-Bullying Laws）および学校リソース警察官（SRO: School Resource Officers）",
+        "statusOrLevel": "全50州で法制化・全公立校へのSRO（武装警察官）常駐および暴行・恐喝時の即時捜査",
+        "keyFeature": "学校の隠蔽を防止するため、一定水準を超えるいじめ（暴力、ネット上の脅迫）を校長が隠蔽した場合は連邦公民権法違反や州法違反で懲戒免職・起訴の対象。",
+        "source": {
+          "organization": "米国保健福祉省 (StopBullying.gov) / 教育省",
+          "title": "State Anti-Bullying Laws and Policies and SRO Protocols",
+          "url": "https://www.stopbullying.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "学校いじめ犯罪化法（2022年施行・Loi visant à combattre le harcèlement scolaire）",
+        "statusOrLevel": "学校いじめを最高10年の禁錮刑および15万ユーロの罰金とする独立の重罪に規定",
+        "keyFeature": "いじめにより被害者が自殺または自殺未遂に至った場合、加害生徒であっても最高刑を科す世界最強の刑罰法。加害生徒を他校へ強制転校させる行政処分権を新設。",
+        "source": {
+          "organization": "フランス国民教育・青少年省 / 司法省",
+          "title": "Loi n° 2022-299 visant à combattre le harcèlement scolaire",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "教育検査基準局（Ofsted）いじめ防止査察および学校安全警察チーム（Safer Schools Partnerships: SSP）",
+        "statusOrLevel": "学校評価におけるいじめ対処の重点監査・重大事案発生時の地元警察児童保護部門即時介入",
+        "keyFeature": "Ofsted査察でいじめ対処が不十分と判定された学校は「不適格（Inadequate）」となり校長解任や公的支援打ち切り。警察官が学校内に常駐し生徒からの直接相談を受理。",
+        "source": {
+          "organization": "英国教育省 (DfE) / Ofsted",
+          "title": "Preventing and tackling bullying - Advice for headteachers, staff and governing bodies",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "学校法（Schulgesetze）児童保護規定および青少年局（Jugendamt）・警察共同介入",
+        "statusOrLevel": "重大事案における加害生徒の即時停学・退学処分（Ordnungsmaßnahmen）および家庭裁判所介入",
+        "keyFeature": "暴行や恐喝に該当する場合、学校は保護者への忖度なく警察と青少年局へ即座に通報する法定通報義務（Anzeigepflicht）。スクールソーシャルワーカーが被害者を完全隔離保護。",
+        "source": {
+          "organization": "ドイツ常設各州文部大臣会議 (KMK) / 連邦内務省",
+          "title": "Gewaltprävention an Schulen und Kooperation mit Polizei und Jugendhilfe",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "学校暴力予防及び対策に関する法律（学校暴力予防法）",
+        "statusOrLevel": "教育支援庁の「学校暴力対策審議委員会」による加害処分・大学入試定時募集への処分履歴反映義務化",
+        "keyFeature": "学校現場の隠蔽を防ぐため、調査・判定権限を個別学校から教育庁の専門審議会へ完全移管。加害生徒の処分記録が高校内申書に残り大学受験に直結する厳しいペナルティ。",
+        "source": {
+          "organization": "大韓民国教育部",
+          "title": "School Violence Prevention and Countermeasures Act Implementation",
+          "url": "https://www.moe.go.kr"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "児童生徒オンブズマン（BEO: Barn- och elevombudet）制度",
+        "statusOrLevel": "学校のいじめ対応不備に対し、公的オンブズマンが自治体・学校法人を提訴し損害賠償命令",
+        "keyFeature": "学校法に基づき、学校長にいじめ通報時の即時調査・是正義務を課す。学校が適切な保護を怠った場合、BEOが被害生徒を代理して学校設置者に数百万円の賠償金を請求。",
+        "source": {
+          "organization": "スウェーデン学校監査庁 (Skolinspektionen) / BEO",
+          "title": "Barn- och elevombudet (BEO) - Kränkande behandling i skolan",
+          "url": "https://www.skolinspektionen.se"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "いじめ防止対策推進法に基づく「重大事態」調査ガイドライン改定（文部科学省・警察庁通達）",
+        "statusOrLevel": "生命・心身・財産に重大な被害が生じた疑いがある場合の第三者委員会調査義務・警察への早期相談義務化",
+        "keyFeature": "学校や教育委員会の「いじめ隠蔽」「不作為」が問題化した旭川市などの事件を受け、ガイドラインを抜本厳格化。犯罪行為に該当するいじめ（暴行・恐喝・性被害等）は学校内で抱え込まず直ちに警察へ通報・相談することを義務付け。",
+        "source": {
+          "organization": "文部科学省 / 警察庁",
+          "title": "いじめの重大事態の調査に関するガイドラインの改定及び警察との連携強化",
+          "url": "https://www.mext.go.jp"
+        }
+      }
+    ]
+  }
 }

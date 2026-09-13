@@ -149,5 +149,102 @@
       "text": "月謝負担・地域格差課題",
       "color": "bg-amber-50 text-amber-900"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における学校部活動・放課後スポーツ・文化活動の学校外移行（地域スポーツクラブ化）比較",
+    "comparisonSummary": "教員の長時間労働是正と生徒の多様な活動機会保障のため、欧米諸国は部活動を学校から完全に切り離し地域スポーツクラブ（総合型クラブ）が担っており、日本の「公立中学生部活動の地域移行」の完成形モデルとなっています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "地域スポーツクラブ（Sportverein / DOSB）体制",
+        "statusOrLevel": "学校に「部活動」は存在せず・全国約9万カ所の地域クラブが子どものスポーツを一手に担当",
+        "keyFeature": "学校教育とスポーツが完全に制度的分離。教員は放課後のスポーツ指導義務が一切なく、子どもたちは民間の非営利スポーツクラブに月数百〜千円程度の会費で加入しプロの指導員から学ぶ。",
+        "source": {
+          "organization": "ドイツオリンピックスポーツ連盟 (DOSB) / 連邦内務省",
+          "title": "Sportvereine in Deutschland und Kooperation zwischen Schule und Sportverein",
+          "url": "https://www.dosb.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "全国学校スポーツ連合（UNSS）および市町村公認スポーツクラブ",
+        "statusOrLevel": "水曜午後・週末の放課後活動は市町村（コミューン）のクラブや文化協会が主催",
+        "keyFeature": "中高生の本格的競技スポーツは地域の競技連盟公認クラブが担当。学校単位のUNSS活動は体育教員が担当するが、勤務時間として厳格に算定・手当支給され過重労働を遮断。",
+        "source": {
+          "organization": "フランス国民教育・青少年省 / スポーツ省",
+          "title": "Organisation du sport scolaire et rôle des clubs sportifs associatifs",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "学区公立校アスレチック・ディビジョンおよびシーズン制（Seasonal Sports）",
+        "statusOrLevel": "専門の有給コーチ（Coaching Staff）雇用・秋・冬・春で異なる競技を行うシーズン制",
+        "keyFeature": "一般教員がボランティアで顧問を強制されることはなく、学区が別途雇用した専任コーチが指導。1つの部活に1年中拘束されず、季節ごとに陸上・バスケ・水泳等を変える柔軟性。",
+        "source": {
+          "organization": "全米州立高校協会連合 (NFHS) / 各州教育委員会",
+          "title": "High School Athletics Participation and Seasonal Sports Model",
+          "url": "https://www.nfhs.org"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "放課後課外活動（Extra-Curricular Clubs）およびユース・スポーツ・トラスト",
+        "statusOrLevel": "民間外部コーチの委託導入および地域のジュニアスポーツクラブ（FAユース等）連携",
+        "keyFeature": "学校は施設開放を行い、指導は民間チャリティ組織や有資格の外部コーチが担当。教員には定時後の部活指導義務がなく、児童福祉・安全監査（DBSチェック）のみを統括。",
+        "source": {
+          "organization": "英国スポーツ・イングランド (Sport England) / DfE",
+          "title": "School Sport and Activity Action Plan and Community Club Links",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "公立文化学校（Kulturskolan）および地域青少年スポーツ協会",
+        "statusOrLevel": "基礎自治体が直営する低廉な音楽・演劇・美術専門学校と民間総合スポーツクラブ",
+        "keyFeature": "吹奏楽や合唱・演劇などの文化活動は自治体のKulturskolanが放課後にプロの芸術家を揃えて指導。学校の教員に文化部・運動部の負担は一切存在しない。",
+        "source": {
+          "organization": "スウェーデン文化庁 (Kulturrådet) / Kulturskolecentrum",
+          "title": "Kulturskolan - Kommunal verksamhet för barns och ungas skapande",
+          "url": "https://www.kulturradet.se"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "学校スポーツクラブおよび放課後学校（パングァフ・ハッキョ）",
+        "statusOrLevel": "一般教員の部活負担を排除・外部専門講師や地域体育会（スポーツクラブ）派遣",
+        "keyFeature": "エリート競技運動部と一般生徒のスポーツクラブを分離。放課後活動は教育庁が外部の専門講師を募集・配置し、教員は管理業務のみを担当する働き方改革を先行。",
+        "source": {
+          "organization": "大韓民国教育部 / 大韓体育会",
+          "title": "School Sports Club Activation and After-School Education System",
+          "url": "https://www.moe.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "公立中学校部活動の地域連携・地域クラブ活動への移行（スポーツ庁・文化庁推進）",
+        "statusOrLevel": "休日の部活動から段階的に地域スポーツクラブ・民間スクールへ移行・指導員配置補助",
+        "keyFeature": "教員の長時間労働（過労死ライン超えの温床）是正と、少子化で学校単独の部活編成が困難になった課題を両立解決するため国策推進。指導者の確保や保護者の費用負担格差の解消が課題。",
+        "source": {
+          "organization": "スポーツ庁 / 文化庁",
+          "title": "学校部活動及び新たな地域クラブ活動の在り方等に関する総合的なガイドライン",
+          "url": "https://www.mext.go.jp"
+        }
+      }
+    ]
+  }
 }

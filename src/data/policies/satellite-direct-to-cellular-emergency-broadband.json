@@ -217,5 +217,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Globe"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国におけるスマートフォン・低軌道衛星直接通信（Direct-to-Cell）周波数認可・緊急通報法制比較",
+    "comparisonSummary": "圏外ゼロと災害時の通信確保のため、米国FCCや欧州規制当局はStarlinkやAST SpaceMobile等の衛星と一般スマホの直接通信に向けた周波数共用規則を制定しており、日本の総務省による周波数割当てと緊急通報基準策定の先行規範となっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦通信委員会（FCC）宇宙補完カバレッジ規則（SCS: Supplemental Coverage from Space）",
+        "statusOrLevel": "地上携帯キャリア（T-Mobile等）の保有周波数を低軌道衛星（Starlink等）が宇宙から利用するSCS枠組みを世界初制度化",
+        "keyFeature": "既存の地上波モバイル周波数帯を衛星に共用認可。圏外エリアにいる未改造の通常スマホが自動的に衛星と直接接続し、テキスト送信や911緊急通報を行うことを法的に認可。",
+        "source": {
+          "organization": "米国連邦通信委員会 (FCC)",
+          "title": "Supplemental Coverage from Space (SCS) Framework - FCC Docket 23-135",
+          "url": "https://www.fcc.gov"
+        }
+      },
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "IRIS²（欧州強靭・相互運用・安全衛星コンステレーション）およびCEPT調和周波数",
+        "statusOrLevel": "EU主導の政府・民間向け低軌道マルチ軌道コンステレーション計画（総事業費数十億ユーロ）",
+        "keyFeature": "欧州郵便電気通信主管庁会議（CEPT）が衛星直接通信の周波数共用基準を調整。サイバー攻撃や大災害で地上基地局が壊滅しても、EU全域で緊急暗号通信を確保。",
+        "source": {
+          "organization": "欧州委員会 (European Commission) / 欧州宇宙機関 (ESA)",
+          "title": "IRIS² - Infrastructure for Resilience, Interconnectivity and Security by Satellite",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "無線通信法（Radiocommunications Act）直接衛星通信ライセンス",
+        "statusOrLevel": "主要キャリアOne NZがSpaceXと提携し、国土全域（山岳・領海100%）カバレッジを展開",
+        "keyFeature": "地震やサイクロン被害が多発する地理的弱点を克服するため、政府通信局（RSM）が迅速にStarlink Direct-to-Cellの実験・商用スペクトラム使用許可を発給。",
+        "source": {
+          "organization": "ニュージーランド無線周波数管理局 (RSM) / MBIE",
+          "title": "Direct-to-Cell Satellite Services and Spectrum Allocation",
+          "url": "https://www.rsm.govt.nz"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "豪通信メディア庁（ACMA）地上・衛星スペクトラム共用規制改革",
+        "statusOrLevel": "広大な内陸アウトバックにおけるキャリア（Optus / Telstra）の衛星直接通信パートナーシップ認可",
+        "keyFeature": "ACMAが「宇宙通信・地上通信の統合」に向けた周波数割り当て規則を改定。ブッシュファイア避難民が砂漠や山間部の電波圏外からでも000番緊急通報できるインフラを整備。",
+        "source": {
+          "organization": "豪通信メディア庁 (ACMA)",
+          "title": "Satellite direct-to-device services and future spectrum allocation",
+          "url": "https://www.acma.gov.au"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "情報通信庁（Ofcom）非地上系ネットワーク（NTN）ライセンスフレームワーク",
+        "statusOrLevel": "3GPP Release 17準拠のNTN（Non-Terrestrial Networks）規格導入および緊急通報義務",
+        "keyFeature": "Apple緊急SOS衛星通信（Globalstar）やDirect-to-Cell各社に対し、救急機関（999番）への位置情報付き自動転送プロトコルの適合を条件に英国内電波利用を免許。",
+        "source": {
+          "organization": "英国情報通信庁 (Ofcom)",
+          "title": "Direct-to-device satellite services - Consultation on authorization approach",
+          "url": "https://www.ofcom.org.uk"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダ革新・科学・経済開発省（ISED）北部・僻地コネクティビティ戦略",
+        "statusOrLevel": "テレスポット（Telesat Lightspeed）等の国産低軌道衛星網および極北コミュニティ接続",
+        "keyFeature": "過酷な寒冷地での基地局建設が困難な北部先住民族居住区に向け、ISEDが衛星ダイレクト通信の周波数認可を優先審査し、緊急医療・遭難救助通信を担保。",
+        "source": {
+          "organization": "カナダ革新・科学・経済開発省 (ISED)",
+          "title": "Spectrum policy framework for non-geostationary satellite systems",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "電波法に基づく携帯電話・人工衛星直接通信（NTN）周波数制度整備（総務省）",
+        "statusOrLevel": "KDDI（Starlink連携）や楽天モバイル（AST SpaceMobile連携）に対する実験・実用免許交付",
+        "keyFeature": "能登半島地震での孤立集落・基地局途絶の教訓から、総務省情報通信審議会が制度を加速。既存の携帯電話バンド（au 2GHz帯等）を宇宙から使用するための技術基準を策定し「圏外ゼロ」を目指す。",
+        "source": {
+          "organization": "総務省総合通信基盤局",
+          "title": "携帯電話と人工衛星との直接通信の実現に向けた制度整備について",
+          "url": "https://www.soumu.go.jp"
+        }
+      }
+    ]
+  }
 }

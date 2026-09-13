@@ -185,5 +185,102 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における義務教育学校給食の完全無償化（ユニバーサル無償給食）・公費負担モデル比較",
+    "comparisonSummary": "子どもの貧困対策と少子化支援のため、北欧（スウェーデン・フィンランド）や韓国・英スコットランドは全生徒への学校給食完全無償化を法制化しており、日本でも自治体格差を解消する「国の恒久財源による全国一律無償化」が激しい政策争点となっています。",
+    "countries": [
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "学校法（Skollagen）義務教育全校給食完全無償提供義務（Avgiftsfria skolmåltider）",
+        "statusOrLevel": "1940年代から約80年間にわたり公立小中学校全生徒に温かい昼食を完全無償提供（家庭負担ゼロ）",
+        "keyFeature": "所得制限を一切設けないユニバーサルモデル。栄養基準が法律で厳格に定められており、子どもの健康格差是正と学習集中力向上に寄与。費用は全額基礎自治体税財源。",
+        "source": {
+          "organization": "スウェーデン国家食品庁 (Livsmedelsverket) / 国家教育庁",
+          "title": "Skollagen och näringsriktiga, avgiftsfria skolmåltider för alla",
+          "url": "https://www.livsmedelsverket.se"
+        }
+      },
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "基礎教育法（Perusopetuslaki）全生徒無償給食権保障",
+        "statusOrLevel": "1948年に世界で初めて法律で全国一律義務教育無償給食を制定・高校まで無償化拡大",
+        "keyFeature": "憲法と法律に基づき、毎日の学校給食は「教育の一環」として全額公費負担。親の経済力によるスティグマ（恥辱感）を完全に排除した教育福祉の原点。",
+        "source": {
+          "organization": "フィンランド国家教育庁 (Opetushallitus)",
+          "title": "School meals in Finland - Universal free school catering",
+          "url": "https://www.oph.fi"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "学校給食法に基づく無償学校給食（全面無償給食）制度",
+        "statusOrLevel": "全国の小・中・高校全生徒に対する完全無償給食を教育庁と地方自治体が全額公費負担",
+        "keyFeature": "ソウル市等の住民投票を経て全面無償化を達成。低所得者選別給付からユニバーサル給付へ転換し、食材も国産親環境（無農薬・有機）食材を優先調達。",
+        "source": {
+          "organization": "大韓民国教育部 / 各市・道教育庁",
+          "title": "School Meal Act and Universal Free School Lunch Programs",
+          "url": "https://www.moe.go.kr"
+        }
+      },
+      {
+        "country": "イギリス/スコットランド・ロンドン",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ユニバーサル無償学校給食（Universal Free School Meals: UFSM）",
+        "statusOrLevel": "スコットランド（P1〜P5全児童）およびロンドン市（全公立小学校）での完全無償給食",
+        "keyFeature": "生活費高騰危機に対処するため、ロンドン市長が独自予算を投じて市内全公立小学生の給食を無料化。家計負担を年数百ポンド軽減し全国展開の圧力に。",
+        "source": {
+          "organization": "大ロンドン庁 (GLA) / スコットランド政府",
+          "title": "Universal Free School Meals for all state primary school children",
+          "url": "https://www.london.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "全米学校昼食プログラム（NSLP）およびコミュニティ資格条項（CEP）/ 州法完全無償化",
+        "statusOrLevel": "カリフォルニア、ミネソタ、マサチューセッツ等9州以上で全児童生徒への通年完全無償給食法制化",
+        "keyFeature": "連邦CEP制度（貧困率の高い学区の全生徒無償化）を拡大し、加州等が州独自予算で所得調査を全廃した「Universal Meals Program」を先駆けて導入。",
+        "source": {
+          "organization": "米国農務省食品栄養局 (USDA FNS) / 加州教育局",
+          "title": "National School Lunch Program Community Eligibility Provision and Universal Meals",
+          "url": "https://www.fns.usda.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "1ユーロ給食プログラム（Cantine à 1 euro）および自治体累進給食費制",
+        "statusOrLevel": "貧困自治体の低所得世帯向け「1食1ユーロ給食」への国庫直接補助金制度",
+        "keyFeature": "全額無償ではなく、親の所得階層に応じた累進料金制（最低1食数十円〜最高数百円）を基礎自治体が運用。農村・貧困自治体には国が差額を直接助成。",
+        "source": {
+          "organization": "フランス連帯・家族省 / 農業省",
+          "title": "La cantine à 1 euro - Soutien aux communes rurales défavorisées",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "学校給食法第11条（保護者負担原則）見直しと自治体独自無償化・国の全国一律無償化議論",
+        "statusOrLevel": "自治体の約3割（約500自治体）が独自財源で無償化実施・「自治体格差」是正に向けた国費支援検討",
+        "keyFeature": "法律上「給食費は保護者負担」と規定されているため、財政力のある自治体のみが無償化を実施し住む場所による不平等が拡大。こども家庭庁・文科省が実態調査を行い、国費による段階的無償化を議論。",
+        "source": {
+          "organization": "こども家庭庁 / 文部科学省",
+          "title": "学校給食無償化の実施状況に関する調査結果及び今後の方向性",
+          "url": "https://www.cfa.go.jp"
+        }
+      }
+    ]
+  }
 }

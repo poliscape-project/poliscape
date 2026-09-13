@@ -185,5 +185,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Building"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における軍人・兵士（自衛官）の給与・危険手当・住環境改善・採用難対策比較",
+    "comparisonSummary": "深刻な若年人口減少と採用難に直面する中、米国や英国は入隊ボーナス（最大数万ドル）や住宅手当・家族支援の大幅拡充を実施しており、防衛省の自衛官処遇改善有識者会議の提言と深く一致しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国防権限法（NDAA）軍人基本給大幅引き上げおよび入隊ボーナス（Enlistment Bonuses）",
+        "statusOrLevel": "下級兵士の基本給を最大15%近く引き上げ・重要専門職に最大5万ドル（約750万円）の一時金",
+        "keyFeature": "民間テック企業や物流業との若者獲得競争に勝つため、GI Bill（退役後大学無償教育）に加え、手厚い非課税基本住宅手当（BAH）や医療保険（Tricare）で家族を含め完全保障。",
+        "source": {
+          "organization": "米国国防総省 (DoD) / 各軍人事局",
+          "title": "Military Compensation and Enlistment Incentives - National Defense Authorization Act",
+          "url": "https://www.defense.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "軍人報酬審査機関（AFPRB: Armed Forces' Pay Review Body）勧告による給与改定",
+        "statusOrLevel": "全軍人に対する年5〜6%の定期昇給・新世代宿泊施設オファー（New Accommodation Offer）",
+        "keyFeature": "老朽化した軍宿舎の近代化に数億ポンドを投入。独身兵舎（SLA）の個室化とWi-Fi完備、配偶者の就労・子育て支援を包括パッケージ化して中途離職を防止。",
+        "source": {
+          "organization": "英国国防省 (MOD) / AFPRB",
+          "title": "Armed Forces' Pay Review Body reports and Service accommodation policy",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "軍事プログラミング法（LPM 2024-2030）家族計画（Plan Famille II）",
+        "statusOrLevel": "7年間で総額4,130億ユーロの防衛予算・軍人およびその家族への生活支援に7.5億ユーロ配分",
+        "keyFeature": "頻繁な転勤に伴う配偶者のキャリア断絶を補償する再就職支援、軍基地内の保育所完備、夜間・休日の緊急出動手当の抜本的引き上げを実施。",
+        "source": {
+          "organization": "フランス軍事省 (Ministère des Armées)",
+          "title": "Loi de programmation militaire (LPM) et Plan Famille pour le personnel militaire",
+          "url": "https://www.defense.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦軍（Bundeswehr）特別基金（Sondervermögen 1,000億ユーロ）および魅力向上法",
+        "statusOrLevel": "志願兵制下の軍人給与体系近代化・最先端個人装備（防弾チョッキ・暗視ゴーグル）の全軍配備",
+        "keyFeature": "徴兵制停止後の深刻な定員割れに対処するため、軍営病院での無料高度医療、民間資格取得の全額補助、残業代の現金支給ルールを整備し「魅力ある雇用主」への脱皮を図る。",
+        "source": {
+          "organization": "ドイツ連邦国防省 (BMVg)",
+          "title": "Attraktivitätssteigerung der Bundeswehr und Sondervermögen",
+          "url": "https://www.bmvg.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国防軍（ADF）継続ボーナス制度（Continuation Bonus Scheme）",
+        "statusOrLevel": "初期任期（4年）を満了し継続勤務に合意した兵士に対する5万豪ドルの現金直接支給",
+        "keyFeature": "AUKUS等の戦力増強に必要な中堅技術兵の流出を防ぐため、一括ボーナスを支給。さらに民活による最新ファミリーハウジングの無償供与を推進。",
+        "source": {
+          "organization": "豪国防省 (Department of Defence)",
+          "title": "ADF Retention and Recruitment Review and Continuation Bonus",
+          "url": "https://www.defence.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "兵役義務兵士の月給200万ウォン（約22万円）引き上げおよび幹部処遇改善",
+        "statusOrLevel": "徴兵兵士の月給を段階的に引き上げ兵長月給200万ウォン達成・初任士官・下士官の手当増額",
+        "keyFeature": "人口崖（超低出生率）に伴う兵力激減に対応するため、兵士の宿舎個室化、スマホ自由利用、除隊時資産形成マッチング積立（明日準備積立）を国家主導で断行。",
+        "source": {
+          "organization": "大韓民国国防部",
+          "title": "Military Personnel Welfare Plan and Compensation Enhancements",
+          "url": "https://www.mnd.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "防衛省「自衛官の処遇・勤務環境の改善及び新たな生涯設計に関する有識者会議」提言",
+        "statusOrLevel": "採用定員割れ（達成率約5割）への危機感・基本給引き上げ、夜間・災害派遣手当増額、宿舎個室化",
+        "keyFeature": "国家防衛戦略に基づき、自衛官の給与体系を一般国家公務員から切り離して独自に評価する法改正を検討。営内隊員のWi-Fi環境整備、老朽宿舎の建て替え、退職自衛官の再就職支援を強化。",
+        "source": {
+          "organization": "防衛省",
+          "title": "自衛官の処遇・勤務環境の改善及び新たな生涯設計に関する有識者会議報告書",
+          "url": "https://www.mod.go.jp"
+        }
+      }
+    ]
+  }
 }

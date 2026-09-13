@@ -185,5 +185,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における学校での重篤食物アレルギー対策・エピペン（アドレナリン自己注射薬）常備・誤食防止ガイドライン比較",
+    "comparisonSummary": "アナフィラキシーショックによる死亡事故を防ぐため、米国の学校エピペン法や英国の無指名エピペン常備法は、処方箋のない未特定児童にも教職員が注射できるよう免責法制を整備しており、日本の学校アレルギー対応指針の先例となっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "学校におけるアドレナリン自己注射器アクセス法（School Access to Emergency Epinephrine Act）",
+        "statusOrLevel": "全米ほぼ全州で公立学校への「未特定（Stock）エピペン」常備および教職員の投与免責法制化",
+        "keyFeature": "個別児童の処方薬だけでなく、アレルギー未把握の児童がショックを起こした際に備え学校備品としてエピペンを常備。救命処置を行った教員を民事責任から完全免責（善きサマリア人法）。",
+        "source": {
+          "organization": "米国疾病予防管理センター (CDC) / 米国議会",
+          "title": "Voluntary Guidelines for Managing Food Allergies in Schools and Stock Epinephrine Laws",
+          "url": "https://www.cdc.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ヒト用医薬品規則改正（Human Medicines Regulations 2017）学校予備エピペン法",
+        "statusOrLevel": "全公立学校に対する処方箋なしでの緊急用予備アドレナリン自己注射器（AAI）購入・常備の認可",
+        "keyFeature": "生徒の個人用エピペンが破損・紛失・期限切れの場合に備え、学校が予備AAIを薬局から直接購入して救急箱に常備。全教職員向けの義務的シミュレーション訓練を実施。",
+        "source": {
+          "organization": "英国医薬品・医療製品規制庁 (MHRA) / 保健省",
+          "title": "Using emergency adrenaline auto-injectors in schools guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "カナダ/オンタリオ州",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "サブリナ法（Sabrina's Law - 2005年制定）",
+        "statusOrLevel": "世界初のアナフィラキシー対策州法・全学校区に対するアレルギー個別計画とエピペン配備義務付け",
+        "keyFeature": "給食誤食で死亡した女子生徒の名を冠した法律。全教職員への定期的なエピペン実技研修、個別児童のアレルギー緊急対応計画（Individual Plan）策定を法定義務化。",
+        "source": {
+          "organization": "オンタリオ州教育省 (Ministry of Education)",
+          "title": "Sabrina's Law - An Act to protect anaphylactic students in schools",
+          "url": "https://www.ontario.ca"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "オーストラリア臨床免疫・アレルギー学会（ASCIA）学校アナフィラキシー計画",
+        "statusOrLevel": "各州教育省による学校救急キット内への一般用（General Use）エピペン配備基準の標準化",
+        "keyFeature": "ASCIAアクションプランの全国共通フォームを使用。全学校にアレルギー管理コーディネーターを配置し、ピーナッツフリー等の学校ポリシーと連携。",
+        "source": {
+          "organization": "豪臨床免疫アレルギー学会 (ASCIA) / 各州教育省",
+          "title": "ASCIA Guidelines - Prevention and management of anaphylaxis in schools",
+          "url": "https://www.allergy.org.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "個人受入計画（PAI: Projet d'accueil individualisé）および学校保健キット（Trousse d'urgence）",
+        "statusOrLevel": "アレルギー児童に対する医師・校長・保護者の三者協定・救急トランク内のエピペン常備",
+        "keyFeature": "重度アレルギー児には保護者が持参した弁当（Panier repas）の専用保管・温めを学校が保障。PAIに基づき、教員・学校看護師が迷わずエピペンを投与できる手順を法認可。",
+        "source": {
+          "organization": "フランス国民教育・青少年省 / 保健省",
+          "title": "Le projet d'accueil individualisé (PAI) pour allergie alimentaire",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "法定災害保険（DGUV）学校における緊急薬物投与指針および免責ガイドライン",
+        "statusOrLevel": "教員によるアナフィラキシー緊急時のアドレナリン注射器投与に対する法的免責保障",
+        "keyFeature": "医療資格のない教員が緊急時にエピペンを注射しても民事・刑事上の法的責任を一切問われないことをDGUVが公的に明記し、躊躇による救命遅れを防止。",
+        "source": {
+          "organization": "ドイツ法定災害保険連合 (DGUV) / KMK",
+          "title": "Medikamentengabe in Schulen und Handeln bei anaphylaktischen Notfällen",
+          "url": "https://www.dguv.de"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "学校給食における食物アレルギー対応指針（文部科学省）および調布市事故後の再発防止策",
+        "statusOrLevel": "学校生活管理指導表の提出義務・給食の除去食・代替食提供基準と全教職員のエピペン実技研修",
+        "keyFeature": "2012年の調布市小学校での給食事故を教訓に、文科省指針を全面改定。「おかわり」での誤食防止、複数人での配膳チェック、教員によるエピペン即時注射の法的正当業務行為認定を徹底。",
+        "source": {
+          "organization": "文部科学省",
+          "title": "学校給食における食物アレルギー対応指針及びアレルギー疾患対応資料",
+          "url": "https://www.mext.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -155,5 +155,102 @@
       "text": "災害連絡・デジタル教育との両立",
       "color": "bg-amber-50 text-amber-900"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における学校内スマートフォンの利用禁止・持ち込み規制法制比較",
+    "comparisonSummary": "子どものメンタルヘルス保護、学力向上、サイバーいじめ防止のため、フランス、英国、オランダ、米加州等は法律や全国ガイドラインで「学校敷地内でのスマホ使用全面禁止」を断行しており、日本の自治体・学校単位のルール運用の指標となっています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "教育法典（Code de l'éducation）L511-5条学校スマホ全面禁止法（2018年施行）",
+        "statusOrLevel": "幼稚園・小学校・中学校（コレージュ）敷地内での生徒による全スマホ・通信端末利用を法律で完全禁止",
+        "keyFeature": "休み時間や昼食時を含め校内での電源オン・使用を法的に禁止。違反者には端末一時没収。さらに2024年秋から「デジタル休止（Pause numérique）」としてロッカー施錠保管を試験導入。",
+        "source": {
+          "organization": "フランス国民教育・青少年省",
+          "title": "Interdiction du téléphone portable dans les écoles et les collèges",
+          "url": "https://www.education.gouv.fr"
+        }
+      },
+      {
+        "country": "イギリス/イングランド",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "教育省（DfE）学校内スマートフォン使用禁止国家ガイダンス（2024年策定）",
+        "statusOrLevel": "イングランド全土の学校に対する終日（登校から下校まで）スマホ利用禁止の義務化指針",
+        "keyFeature": "授業中だけでなく休憩時間・昼休みも含めて「Phone-free environment（スマホフリー環境）」を要求。登校時に学校の専用ポーチ（Yondr等）やロッカーに預けさせる手法を推奨。",
+        "source": {
+          "organization": "英国教育省 (DfE)",
+          "title": "Mobile phones in schools: guidance for headteachers and staff",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "全国学校スマホ規制合意（National Guidelines on Mobile Devices in Education）",
+        "statusOrLevel": "2024年1月より中等教育、秋より初等教育全公立校で教室内のスマホ・スマートウォッチ原則禁止",
+        "keyFeature": "政府、教員組合、保護者団体が全国合意を締結。教育目的（デジタル授業）や医療上の必要性（糖尿病血糖モニタリング等）がある場合を除き、携帯端末を教室から完全排除。",
+        "source": {
+          "organization": "オランダ教育文化科学省 (OCW)",
+          "title": "National guidelines: Mobile phones in the classroom banned",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "アメリカ/カリフォルニア州",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "電話なし学校法（Phone-Free Schools Act: AB 3216）および各学区規制",
+        "statusOrLevel": "2026年までに全学区に対する生徒の校内スマホ利用を制限・禁止する方針策定の義務付け",
+        "keyFeature": "ロサンゼルス統一学区（全米第2位の規模）が先駆けて終日スマホ禁止を決定。SNSによるうつ・不安症や授業の集中力低下を防ぐため、全米主要州で法制化が急速に拡大。",
+        "source": {
+          "organization": "カリフォルニア州教育局 (CDE) / カリフォルニア州議会",
+          "title": "AB 3216 - Phone-Free Schools Act and Student Mental Health",
+          "url": "https://www.cde.ca.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "各州公立学校スマートフォン禁止令（Off and Away All Dayポリシー）",
+        "statusOrLevel": "全州・準州（NSW州、ビクトリア州等）の全公立学校で登校中のスマホ使用を全面禁止",
+        "keyFeature": "「ベルが鳴ったら下校まで電源を切って鞄の奥へ（Off and Away）」を共通ルール化。生徒同士の対面コミュニケーションの増加やサイバーいじめの激減が検証報告で実証。",
+        "source": {
+          "organization": "ニューサウスウェールズ州教育省 (NSW Department of Education)",
+          "title": "Student use of mobile phones in schools policy",
+          "url": "https://www.nsw.gov.au"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "教育功績省（MIM）通達による小中学生の授業中スマホ・タブレット使用全面禁止",
+        "statusOrLevel": "幼稚園から中学校まで、教育目的であっても授業中のスマートフォン利用を完全禁止",
+        "keyFeature": "ヴァルディターラ教育相が通達を発出。幼少期の過度なスクリーンタイムによる学習障害を懸念し、伝統的な紙の教科書とノートによる手書き学習を再重視する方針を明確化。",
+        "source": {
+          "organization": "イタリア教育・功績省 (MIM)",
+          "title": "Linee guida sull'uso dei telefoni cellulari e dispositivi digitali nelle scuole",
+          "url": "https://www.mim.gov.it"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "学校における携帯電話等の取扱いに関する手引き（文部科学省通知）および各校校則",
+        "statusOrLevel": "小中学校は原則持ち込み禁止（登下校の安全管理など一定条件下で許可）・高校は校則で規定",
+        "keyFeature": "一律の法規制ではなく各自治体・学校の判断に委ねる運用。災害時の安否確認やGPS見守りのニーズから持ち込みを認める一方、校内では電源を切ってロッカーに保管する運用が主流。",
+        "source": {
+          "organization": "文部科学省初等中等教育局",
+          "title": "学校における携帯電話等の取扱い等に関する通知及び手引き",
+          "url": "https://www.mext.go.jp"
+        }
+      }
+    ]
+  }
 }
