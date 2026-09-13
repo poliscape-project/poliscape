@@ -183,6 +183,46 @@
           "title": "How the Private Sponsorship of Refugees program works",
           "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/help-outside-canada/private-sponsorship-program.html"
         }
+      },
+      {
+        "code": "FR",
+        "country": "フランス",
+        "system": "移民統制統合管理法（2024）と出国強制命令（OQTF）の強化",
+        "description": "治安脅威となる外国人に対する保護要件を撤廃し強制出国命令（OQTF）の執行力を強化。庇護申請の迅速処理と抗告中送還の例外を規定。",
+        "source": {
+          "title": "フランス内務省 (Ministère de l'Intérieur) - Loi immigration et intégration",
+          "url": "https://www.interieur.gouv.fr"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "移民法に基づくオフショア難民審査・不法入国者強制送還制度",
+        "description": "密航船による不法入国者の国内定住を法律で全面排除。国外（ナウル等）の処理センターで審査を行い、送還可能者は本国または第三国へ強制退去。",
+        "source": {
+          "title": "オーストラリア内務省 (Department of Home Affairs) - Operation Sovereign Borders",
+          "url": "https://www.homeaffairs.gov.au"
+        }
+      },
+      {
+        "code": "US",
+        "country": "アメリカ",
+        "system": "移民国籍法（INA）241条・迅速退去（Expedited Removal）とATD",
+        "description": "不法入国者に対する迅速退去命令の適用範囲を拡大。身柄拘束の代替措置としてGPS足首モニター等による電子監視（ATD）プログラムを数十万人規模で運用。",
+        "source": {
+          "title": "米国市民権・移民業務局 (USCIS) - Deportation and Removal Proceedings",
+          "url": "https://www.uscis.gov"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "出入国管理法に基づく強制退去命令と外国人保護所収容制度",
+        "description": "不法滞在者や重大犯罪外国人に対し強制退去命令を発付。送還拒否者への保護命令を司法審査・保護期間上限設定により人権配慮しつつ執行。",
+        "source": {
+          "title": "韓国法務部 (MOJ) - 出入国外国人政策本部",
+          "url": "https://www.moj.go.kr"
+        }
       }
     ]
   }

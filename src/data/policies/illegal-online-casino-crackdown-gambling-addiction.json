@@ -241,6 +241,46 @@
           "title": "Gambling Regulatory Authority of Singapore Act 2022",
           "url": "https://www.gra.gov.sg"
         }
+      },
+      {
+        "code": "DE",
+        "country": "ドイツ",
+        "system": "全国共同ギャンブル庁（GGL）によるIPブロッキング・決済遮断",
+        "description": "2021年州間協定に基づき連邦共同規制庁を設置。無認可海外カジノ事業者に対するIPアドレス遮断命令および決済サービス銀行への送金停止命令を執行。",
+        "source": {
+          "title": "ドイツ共同ギャンブル庁 (GGL) - Bekämpfung des illegalen Glücksspiels",
+          "url": "https://www.gluecksspiel-behoerde.de"
+        }
+      },
+      {
+        "code": "FR",
+        "country": "フランス",
+        "system": "国家賭博庁（ANJ）による迅速DNSブロッキング命令権限",
+        "description": "オンラインカジノは原則全面禁止。規制庁ANJが司法手続きを経ずにISPに対し違法賭博サイトへの接続遮断命令を直接発令できる強力な権限を保持。",
+        "source": {
+          "title": "フランス国家賭博庁 (ANJ) - Lutte contre l'offre illégale",
+          "url": "https://anj.fr"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "放送通信審議委員会（KCSC）によるURL即時遮断と口座凍結",
+        "description": "海外違法ギャンブルサーバーへの接続を審議会決定により数日以内に通信遮断。警察と金融情報分析院が連携し、賭博決済中継口座を即時凍結。",
+        "source": {
+          "title": "韓国放送通信審議委員会 (KCSC) - 違法・有害情報遮断システム",
+          "url": "https://www.kocsc.or.kr"
+        }
+      },
+      {
+        "code": "IT",
+        "country": "イタリア",
+        "system": "税関・専売庁（ADM）の違法サイトブラックリストと金融制裁",
+        "description": "数千件規模の認可外賭博サイトのブラックリストを常時更新し、国内全ISPに強制ブロッキングを実施。未認可事業者への送金に関与した決済代行業者に重過料。",
+        "source": {
+          "title": "イタリア税関・専売庁 (ADM) - Giochi e scommesse online",
+          "url": "https://www.adm.gov.it"
+        }
       }
     ]
   }

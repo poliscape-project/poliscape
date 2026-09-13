@@ -187,6 +187,46 @@
           "title": "Ayudas a proyectos de reducción de la jornada laboral (時短助成金公式要綱)",
           "url": "https://www.mintur.gob.es"
         }
+      },
+      {
+        "code": "DE",
+        "country": "ドイツ",
+        "system": "100-80-100原則に基づく全国企業パイロットプロジェクト",
+        "description": "「給与100%、労働時間80%、生産性100%」を検証する大規模な産学連携実証実験を45社で実施。労働者のバーンアウト削減と求人力向上を確認。",
+        "source": {
+          "title": "ドイツ連邦労働社会省 (BMAS) - Arbeitszeitgestaltung und Innovation",
+          "url": "https://www.bmas.de"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "上院労働・ケア特別委員会による週休3日実証提言",
+        "description": "ケア労働や育児・介護との両立支援に向け、連邦政府主導での週休3日パイロットテスト実施と公的補助金モデルを上院委員会が公式勧告。",
+        "source": {
+          "title": "オーストラリア連邦議会 (Parliament of Australia) - Select Committee on Work and Care",
+          "url": "https://www.aph.gov.au"
+        }
+      },
+      {
+        "code": "US",
+        "country": "アメリカ",
+        "system": "週32時間労働法案（Thirty-Two-Hour Workweek Act）の連邦議会審議",
+        "description": "公正労働基準法（FLSA）の標準労働時間を週40時間から32時間に段階的短縮し、給与減額なしの週休3日化を目指す連邦法案が下院で継続審議。",
+        "source": {
+          "title": "米国労働省 (DOL) - Fair Labor Standards Act and Work Hours",
+          "url": "https://www.dol.gov"
+        }
+      },
+      {
+        "code": "PT",
+        "country": "ポルトガル",
+        "system": "政府公認・公的助成による週休3日パイロットプログラム",
+        "description": "政府が資金支援を行い、民間企業数十社で給与水準を維持したまま週36〜32時間勤務を実施。メンタルヘルスの改善と離職率激減を実証。",
+        "source": {
+          "title": "ポルトガル政府 (Portal do Governo) - Projeto-Piloto Semana de Quatro Dias",
+          "url": "https://www.portugal.gov.pt"
+        }
       }
     ]
   }

@@ -235,6 +235,46 @@
           "title": "Protection des forêts et gestion des forêts protectrices",
           "url": "https://www.bafu.admin.ch/bafu/fr/home/themes/forets.html"
         }
+      },
+      {
+        "code": "AT",
+        "country": "オーストリア",
+        "system": "連邦森林法および森林振興基金（Waldfonds）",
+        "description": "気候変動に強い混合林への転換、森林火災防止、林道インフラ整備のため3.5億ユーロ規模の公的基金を創設し、森林所有者へ直接給付支援。",
+        "source": {
+          "title": "オーストリア気候行動省 (BMK) - Waldfonds und Waldschutz",
+          "url": "https://www.bmk.gv.at"
+        }
+      },
+      {
+        "code": "FI",
+        "country": "フィンランド",
+        "system": "森林法・森林生物多様性保全プログラム（METSO）",
+        "description": "林業者による持続可能な木材生産と生物多様性保全を両立するため、自主的な森林保護協定を結んだ所有者に対し公費による税制優遇と補償金支給。",
+        "source": {
+          "title": "フィンランド農林省 (Maa- ja metsätalousministeriö) - Forestry and METSO Programme",
+          "url": "https://mmm.fi/en"
+        }
+      },
+      {
+        "code": "SE",
+        "country": "スウェーデン",
+        "system": "森林管理法および生態系サービス直接給付制度",
+        "description": "「生産と環境の同等性」を基本理念とし、過度な皆伐を制限する一方、自然保護区に指定された私有林所有者に対して完全な財政的損失補償を実施。",
+        "source": {
+          "title": "スウェーデン森林庁 (Skogsstyrelsen) - Sustainable Forestry",
+          "url": "https://www.skogsstyrelsen.se"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "山林基本法および山林公益直接支払制度",
+        "description": "森林が持つ水源涵養や二酸化炭素吸収などの公益的機能を評価し、適切な施業を行う山林所有者・林業者に対して国が面積に応じた直接給付金を支給。",
+        "source": {
+          "title": "韓国山林庁 (Korea Forest Service) - 山林公益直接支払制",
+          "url": "https://www.forest.go.kr"
+        }
       }
     ]
   }

@@ -239,6 +239,46 @@
           "title": "RKI - Impfungen A-Z - HPV-Impfung für Jungen und Mädchen",
           "url": "https://www.rki.de/DE"
         }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "男女共通学校接種プログラム（School-based HPV Vaccination）",
+        "description": "すべての州・準州において、小学・中学段階の男女全生徒を対象に9価HPVワクチンを公費無料接種プログラムとして提供。",
+        "source": {
+          "title": "カナダ公衆衛生庁 (PHAC) - HPV Vaccine Coverage and Guidelines",
+          "url": "https://www.canada.ca/en/public-health.html"
+        }
+      },
+      {
+        "code": "FR",
+        "country": "フランス",
+        "system": "全中学生（男女）を対象とした公立学校での無料定期接種",
+        "description": "2023年秋より全国の中学1年生（5e）の男女を対象に、保護者の同意に基づく学校内でのHPVワクチン無料接種キャンペーンを開始。",
+        "source": {
+          "title": "フランス保健・予防省 (Ministère de la Santé) - Vaccination contre les HPV au collège",
+          "url": "https://sante.gouv.fr"
+        }
+      },
+      {
+        "code": "IT",
+        "country": "イタリア",
+        "system": "国家予防接種計画（PNPV）に基づく男女11歳無料接種",
+        "description": "男女平等の集団免疫獲得を目指し、11〜12歳の男女全員を対象に地域保健所（ASL）を通じた9価HPVワクチンの完全公費無料接種を実施。",
+        "source": {
+          "title": "イタリア保健省 (Ministero della Salute) - Piano Nazionale Prevenzione Vaccinale",
+          "url": "https://www.salute.gov.it"
+        }
+      },
+      {
+        "code": "AT",
+        "country": "オーストリア",
+        "system": "無料公的予防接種プログラム（9歳〜21歳対象拡大）",
+        "description": "2023年以降、男女とも9歳から21歳までの児童・青少年に対し、学校や公的接種所において9価HPVワクチンの無料接種対象枠を大幅拡充。",
+        "source": {
+          "title": "オーストリア社会・保健省 (BMSGPK) - Kostenloses HPV-Impfprogramm",
+          "url": "https://www.sozialministerium.at"
+        }
       }
     ]
   }

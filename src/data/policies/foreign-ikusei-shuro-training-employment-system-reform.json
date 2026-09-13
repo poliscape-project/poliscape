@@ -273,6 +273,46 @@
           "title": "Pacific Australia Labour Mobility (PALM) scheme",
           "url": "https://www.palmscheme.gov.au/"
         }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "一時外国人労働者プログラム（TFWP）とオープン就労許可",
+        "description": "特定雇用主限定の就労許可からの人権侵害防止のため、虐待や不当処遇のリスクがある労働者に対し雇用主を自由に変更できるオープン就労許可（OWP）を付与。",
+        "source": {
+          "title": "カナダ移民・難民・市民権省 (IRCC) - Temporary Foreign Worker Program",
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship.html"
+        }
+      },
+      {
+        "code": "TW",
+        "country": "台湾",
+        "system": "移住労働者制度および直接雇用サービスセンター（DHSC）",
+        "description": "仲介業者（ブローカー）による高額手数料を排除するため公的直接雇用窓口を設置。原則3年（最長12〜14年）就労と一定条件下での転籍を容認。",
+        "source": {
+          "title": "台湾労働部 (Ministry of Labor) - 移住労働者管理および就労法制",
+          "url": "https://www.mol.gov.tw"
+        }
+      },
+      {
+        "code": "GB",
+        "country": "英国",
+        "system": "ギャングマスター・労働乱用局（GLAA）による斡旋業者認可制",
+        "description": "農業や食品加工等における外国人季節労働者の搾取を防ぐため、斡旋業者に厳格なライセンスを義務付け、不法搾取・人身取引を厳重に取締。",
+        "source": {
+          "title": "英国GLAA (Gangmasters and Labour Abuse Authority) - Licensing standards",
+          "url": "https://www.gov.uk/government/organisations/gangmasters-and-labour-abuse-authority"
+        }
+      },
+      {
+        "code": "FR",
+        "country": "フランス",
+        "system": "人材不足業種（métiers en tension）就労滞在許可制度",
+        "description": "人手不足分野において一定期間実稼働した外国人不法就労者に対し、雇用主の承諾がなくても労働者個人の申請で合法的滞在許可を認める例外規定を整備。",
+        "source": {
+          "title": "フランス内務省 (Ministère de l'Intérieur) - Titre de séjour travail",
+          "url": "https://www.immigration.interieur.gouv.fr"
+        }
       }
     ]
   }

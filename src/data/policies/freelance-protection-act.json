@@ -191,6 +191,46 @@
           "title": "Arbeitsrecht und Scheinselbstständigkeit",
           "url": "https://www.bmas.de/DE/Arbeit/Arbeitsrecht/arbeitsrecht.html"
         }
+      },
+      {
+        "code": "FR",
+        "country": "フランス",
+        "system": "独立自営業者（Micro-entrepreneur）保護とプラットフォーム憲章",
+        "description": "自営業者の個人資産を事業倒産リスクから法的に自動保護（個人財産の差押禁止）。デジタル仲介業者に対する社会的責任憲章の策定を義務化。",
+        "source": {
+          "title": "フランス経済・財務・産業・デジタル主権省 - Statut de micro-entrepreneur",
+          "url": "https://www.economie.gouv.fr"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "公正労働法改正（Closing Loopholes）によるギグワーカー最低基準保護",
+        "description": "被雇用者と自営業者の中間的存在（従業員類似労働者）を定義し、公正労働委員会（FWC）がギグワーカーの最低報酬基準や不当契約解除救済を設定。",
+        "source": {
+          "title": "オーストラリア公正労働担当官 (Fair Work Ombudsman) - Regulated workers and gig economy",
+          "url": "https://www.fairwork.gov.au"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "特殊形態勤労従事者保護および標準契約書普及制度",
+        "description": "配達員や保険外交員等のフリーランス的労働者に対し、雇用保険・労災保険の強制適用を段階的に拡大。不当な代金未払いを防ぐ標準契約書を制定。",
+        "source": {
+          "title": "韓国雇用労働部 (MOEL) - 特殊形態勤労従事者保護政策",
+          "url": "https://www.moel.go.kr"
+        }
+      },
+      {
+        "code": "ES",
+        "country": "スペイン",
+        "system": "ライダー法（Ley Rider）とアルゴリズム開示義務",
+        "description": "配送プラットフォーム配達員を原則「労働者」と法的に推定。労組や個人事業者に対し業務配分や評価を行うAIアルゴリズムの開示を世界で初めて義務化。",
+        "source": {
+          "title": "スペイン包摂・社会保障・移民省 - Estatuto del trabajo autónomo",
+          "url": "https://www.inclusion.gob.es"
+        }
       }
     ]
   }

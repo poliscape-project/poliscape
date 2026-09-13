@@ -261,6 +261,46 @@
           "title": "Selecting your Gender Marker for U.S. Passports",
           "url": "https://travel.state.gov/content/travel/en/passports/need-passport/selecting-your-gender-marker.html"
         }
+      },
+      {
+        "code": "SE",
+        "country": "スウェーデン",
+        "system": "不妊要件の完全撤廃と2024年新性別承認法",
+        "description": "1972年に世界初で法的性別変更を認めたが、2013年に裁判所判決を経て不妊手術要件を違憲撤廃。2024年には医療診断と法的変更を分離する法改正を可決。",
+        "source": {
+          "title": "スウェーデン政府 (Regeringen) - Ny könstillhörighetslag",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "code": "AR",
+        "country": "アルゼンチン",
+        "system": "2012年ジェンダー・アイデンティティ法（自己決定モデルの先駆）",
+        "description": "医学的診断書やホルモン治療、外科手術を一切不要とし、行政機関への本人の申出（宣誓供述）のみで法的性別の訂正を認める世界初の完全脱病理化法。",
+        "source": {
+          "title": "アルゼンチン政府 (Argentina.gob.ar) - Ley de Identidad de Género (Ley 26.743)",
+          "url": "https://www.argentina.gob.ar"
+        }
+      },
+      {
+        "code": "FR",
+        "country": "フランス",
+        "system": "民法61条に基づく外科手術不要の裁判所性別訂正手続",
+        "description": "2016年司法現代化法により、生殖不能手術や不妊治療の証明要求を全面禁止。社会生活における自認ジェンダーの定着を証拠提出することで裁判所が訂正を承認。",
+        "source": {
+          "title": "フランス司法省 (Ministère de la Justice) - Modification de la mention du sexe à l'état civil",
+          "url": "https://www.justice.gouv.fr"
+        }
+      },
+      {
+        "code": "NZ",
+        "country": "ニュージーランド",
+        "system": "出生・死亡・婚姻・関係登録法2021（自己決定による性別登録）",
+        "description": "家庭裁判所の審判や医療専門家の意見書を廃止し、本人の宣誓申立書（Statutory Declaration）のみで出生証明書の登録性別を変更可能。",
+        "source": {
+          "title": "ニュージーランド政府 (Govt.nz) - Changing your registered sex on birth certificate",
+          "url": "https://www.govt.nz"
+        }
       }
     ]
   }

@@ -241,6 +241,46 @@
           "title": "Altersvorsorge: Die Riester-Rente und staatliche Förderung",
           "url": "https://www.bundesfinanzministerium.de"
         }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "スーパーアニュエーション（Superannuation）75歳拠出特例",
+        "description": "75歳未満まで就労テストなしで任意の個人追加拠出（Concessional / Non-concessional）を容認し、税制優遇口座での資産形成継続を支援。",
+        "source": {
+          "title": "オーストラリア国税庁 (ATO) - Super contributions for older Australians",
+          "url": "https://www.ato.gov.au"
+        }
+      },
+      {
+        "code": "SG",
+        "country": "シンガポール",
+        "system": "公的積立基金（CPF）退職口座トップアップ（RSTU）制度",
+        "description": "高齢期も退職口座（RA）への追加拠出（Top-up）により所得税控除を受けられる仕組みを設け、高利回りの生涯公的年金（CPF LIFE）受給額を増額可能。",
+        "source": {
+          "title": "シンガポール中央積立基金局 (CPF Board) - Retirement Sum Topping-Up Scheme",
+          "url": "https://www.cpf.gov.sg"
+        }
+      },
+      {
+        "code": "NZ",
+        "country": "ニュージーランド",
+        "system": "KiwiSaver（退職貯蓄制度）65歳超の継続加入・任意拠出",
+        "description": "公的年金（NZ Super）受給開始年齢の65歳以降もKiwiSaver口座での運用継続および新規加入・拠出が可能。雇用主拠出の継続も推奨。",
+        "source": {
+          "title": "ニュージーランド内国歳入庁 (Inland Revenue) - KiwiSaver rules for over 65s",
+          "url": "https://www.ird.govt.nz"
+        }
+      },
+      {
+        "code": "SE",
+        "country": "スウェーデン",
+        "system": "プレミアム年金（PPM）就労継続時の生涯積立運用制度",
+        "description": "公的年金の一部である個人投資勘定（プレミアム年金）において、退職年齢後も就労して所得税を納める限り自動的に追加積立が行われる終身設計。",
+        "source": {
+          "title": "スウェーデン年金庁 (Pensionsmyndigheten) - Premiepension och arbete",
+          "url": "https://www.pensionsmyndigheten.se"
+        }
       }
     ]
   }

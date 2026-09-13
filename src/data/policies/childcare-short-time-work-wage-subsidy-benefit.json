@@ -241,6 +241,46 @@
           "title": "Flexible working statutory rights and Day-One request rules",
           "url": "https://www.gov.uk/flexible-working"
         }
+      },
+      {
+        "code": "NO",
+        "country": "ノルウェー",
+        "system": "親手当制度（Foreldrepenger）の部分的受給（Gradert uttak）",
+        "description": "労働時間を短縮して勤務しながら、短縮した割合に応じて親手当（給与の80〜100%相当）を分割受給できる柔軟なグラデーション給付を完備。",
+        "source": {
+          "title": "ノルウェー労働福祉庁 (NAV) - Graderte foreldrepenger",
+          "url": "https://www.nav.no"
+        }
+      },
+      {
+        "code": "AT",
+        "country": "オーストリア",
+        "system": "育児パートタイム制度（Elternteilzeit）と手当調整",
+        "description": "子どもが7歳になるまで短時間勤務を選択できる法的権利を保障。短縮した時間に応じて育児休業給付（Kinderbetreuungsgeld）の受給調整が可能。",
+        "source": {
+          "title": "オーストリア連邦政府ポータル (oesterreich.gv.at) - Elternteilzeit",
+          "url": "https://www.oesterreich.gv.at"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "雇用保険（EI）受給中の部分就労制度（Working While on Claim）",
+        "description": "育児給付受給中に時短就労した場合、稼いだ賃金の50%相当のみを給付から減額し、手取り総額が就労なしの場合より必ず多くなるインセンティブを設計。",
+        "source": {
+          "title": "カナダ雇用・社会開発省 (ESDC) - EI Working While on Claim",
+          "url": "https://www.canada.ca/en/services/benefits/ei.html"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "育児期労働時間短縮給与制度（雇用保険からの所得補填）",
+        "description": "満8歳以下の子を持つ労働者が週15〜35時間に時短勤務した際、最初の週5時間短縮分は通常給与の100%相当、それ以上は80%相当を雇用保険から支給。",
+        "source": {
+          "title": "韓国雇用労働部 (MOEL) - 育児期労働時間短縮給与",
+          "url": "https://www.moel.go.kr"
+        }
       }
     ]
   }
