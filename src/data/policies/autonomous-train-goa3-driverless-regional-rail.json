@@ -225,5 +225,115 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "TrendingDown"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の鉄道路線における自動列車運転（GoA3/GoA4）と地方路線省人化",
+    "comparisonSummary": "都市地下鉄では完全無人運転（GoA4）が世界的に普及していますが、踏切や障害物のある一般鉄道路線や地方線区での自動運転（GoA3：乗務員添乗・無資格運転 / GoA4：完全無人）は、通信規格（ETCS/ATO）や高精度センサーの導入と公的認証基準の整備が焦点となっています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "SNCF自動列車プロジェクト（Train Autonome）および公共交通安全認可（EPSF）",
+        "statusOrLevel": "地方線区・幹線鉄道でのGoA4自動運転開発とパリ地下鉄複数路線の完全無人化",
+        "keyFeature": "フランス国鉄（SNCF）がアルストム等と連携し、一般鉄道路線での貨物・旅客列車の自動運転（GoA4）実証を国家推進。踏切自動検知や遠隔操縦システムを開発し、鉄道安全庁（EPSF）が安全認証基準を策定。",
+        "source": {
+          "organization": "フランス鉄道安全公安全庁 (EPSF) / SNCF",
+          "title": "Le programme Train Autonome - Modernisation et automatisation ferroviaire",
+          "url": "https://www.sncf.com"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "デジタル・Sバーン・ハンブルク（Digital S-Bahn）および連邦鉄道庁（EBA）認可",
+        "statusOrLevel": "ATO over ETCSによる営業路線自動運転（GoA2/GoA3）および回送時GoA4無人化",
+        "keyFeature": "ドイツ鉄道（DB）が欧州標準信号システムETCS上で自動列車運転（ATO）を実用化。乗客輸送時は運転士が監視し、車両基地への回送時には完全無人運転（GoA4）を実施するモデルを運用。",
+        "source": {
+          "organization": "ドイツ連邦鉄道庁 (Eisenbahn-Bundesamt - EBA)",
+          "title": "Zulassung und Sicherheitsrichtlinien für automatisierten Zugbetrieb (ATO)",
+          "url": "https://www.eba.bund.de"
+        }
+      },
+      {
+        "country": "デンマーク",
+        "countryCode": "DK",
+        "flag": "🇩🇰",
+        "systemName": "コペンハーゲン近郊鉄道（S-tog）全線完全無人自動運転（GoA4）転換計画",
+        "statusOrLevel": "世界初の広域既存都市近郊鉄道ネットワーク全線GoA4化プロジェクト",
+        "keyFeature": "国営鉄道DSBと鉄道インフラ庁Banedanmarkが、延長170kmに及ぶS-tog全線を2030年代初頭までに完全ドライバレス（GoA4）へ更新することを決定。運転頻度倍増と地方線区の省人・低コスト運行を両立。",
+        "source": {
+          "organization": "デンマーク運輸省 (Transportministeriet) / Banedanmark",
+          "title": "Future S-tog: Full automation (GoA4) of Copenhagen commuter rail",
+          "url": "https://www.trm.dk"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "京張高速鉄道世界初350km/h自動運転および都市地下鉄GoA4全面普及",
+        "statusOrLevel": "高速鉄道でのATO自動運転商用運行および多数の都市レール交通完全無人化",
+        "keyFeature": "国家鉄路局が時速350kmの高速列車自動運転制御システム（CTCS-3+ATO）を世界で初めて営業投入。北京・上海などの都市地下鉄では新設路線の過半が当初からGoA4無人運転で建設。",
+        "source": {
+          "organization": "中国国家鉄路局 (National Railway Administration)",
+          "title": "高速鉄路自動運行制御システム技術基準",
+          "url": "https://www.nra.gov.cn"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "MRT（地下鉄）全自動無人運転（GoA4）標準仕様",
+        "statusOrLevel": "Circle Line, Downtown Line, Thomson-East Coast Line全線完全無人運転",
+        "keyFeature": "陸上交通庁（LTA）が全自動列車制御システム（CBTC）を採用し、路線開設当初から運転士不在の完全自動運転を標準化。ホームドア連動安全システムと遠隔指令所監視による世界屈指の定時運行を実現。",
+        "source": {
+          "organization": "シンガポール陸上交通庁 (LTA)",
+          "title": "Driverless Mass Rapid Transit (MRT) system safety and automation",
+          "url": "https://www.lta.gov.sg"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "スイス連邦鉄道（SBB）ATO実証および連邦運輸省（BAV）安全ガイドライン",
+        "statusOrLevel": "過密ダイヤ幹線および単線山岳路線における運転支援・自動運転実証",
+        "keyFeature": "連邦運輸省（BAV）の認可のもと、SBBが自動加減速・停止システムを導入し、過密路線での列車間隔短縮と省エネルギー運行を達成。地方路線のワンマン運行をさらに高度化する技術開発を推進。",
+        "source": {
+          "organization": "スイス連邦運輸省 (Federal Office of Transport - BAV)",
+          "title": "Sicherheitskonzepte für automatisierten Bahnverkehr (ATO)",
+          "url": "https://www.bav.admin.ch"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "テムズリンク（Thameslink）ATO over ETCS高密度自動運転運行",
+        "statusOrLevel": "ロンドン都心横断幹線での自動列車運転営業運転（鉄道道路局ORR認可）",
+        "keyFeature": "主要幹線鉄道路線において世界で初めてATOとETCS Level 2を統合し、ピーク時に1時間あたり24本の超高密度自動運転運行を実現。運行監視員を乗務させつつ運転操作を自動化。",
+        "source": {
+          "organization": "英国鉄道道路局 (Office of Rail and Road - ORR)",
+          "title": "Thameslink automated train operation safety authorisation",
+          "url": "https://www.orr.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "シドニー・メトロ（GoA4）およびリオティントAutoHaul重貨物無人運転",
+        "statusOrLevel": "世界初の大規模長距離重貨物鉄道完全無人運転および都市メトロGoA4",
+        "keyFeature": "鉱山企業リオティントが西豪州ピルバラ地域で全長1,500kmに及ぶ世界初の完全自動運転貨物列車AutoHaulを国家安全規制機関（ONRSR）の承認のもと運用。シドニー・メトロもGoA4で営業。",
+        "source": {
+          "organization": "オーストラリア国家鉄道安全規制機関 (ONRSR)",
+          "title": "Safety regulation of automated and driverless rail operations",
+          "url": "https://www.onrsr.com.au"
+        }
+      }
+    ]
+  }
 }

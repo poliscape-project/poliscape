@@ -261,5 +261,102 @@
         "commentStandard": "「スケールアップ（大型発酵槽での量産）の壁が高く、既存の石油化学製品に対する圧倒的なコスト競争力で太刀打ちできない」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国のバイオものづくり・合成生物学国家戦略",
+    "comparisonSummary": "米国や中国が数兆円規模の国費を投じて合成生物学とバイオものづくりを経済安保の重要基盤と位置付ける中、欧州や英国は循環経済（サーキュラーエコノミー）や化石資源からの脱却を軸に法規制緩和と実証支援を進めています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国家バイオテクノロジー・バイオものづくりイニシアチブ（大統領令14081）",
+        "statusOrLevel": "20億ドル以上の包括的政府投資・国内サプライチェーン自立化",
+        "keyFeature": "バイデン政権が大統領令を発令し、農務省・国防総省・エネルギー省等が一体となり、石油由来化学品からバイオ素材・合成生物学製品への転換を強力支援。連邦調達におけるバイオ優先（BioPreferred）を義務化。",
+        "source": {
+          "organization": "ホワイトハウス科学技術政策局 (OSTP)",
+          "title": "Executive Order on Advancing Biotechnology and Biomanufacturing Innovation",
+          "url": "https://www.whitehouse.gov/ostp"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州バイオテクノロジー・バイオものづくりイニシアチブ（CBE JU）",
+        "statusOrLevel": "Horizon Europe枠組みにおける数十億ユーロ規模の循環型バイオ企業支援",
+        "keyFeature": "欧州委員会が「Building the future with nature」戦略を発表。木質バイオマスや農業廃棄物から高機能バイオプラスチックや化学原料を製造する産業コンソーシアム（Circular Bio-based Europe Joint Undertaking）を官民出資で運営。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - Research and Innovation)",
+          "title": "Biotechnology and biomanufacturing initiative for sustainable competitiveness",
+          "url": "https://research-and-innovation.ec.europa.eu"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "第14次5カ年バイオ経済発展規画および合成生物学重点特別枠",
+        "statusOrLevel": "国家重要戦略産業指定・深圳・天津等の巨大合成生物学イノベーション拠点",
+        "keyFeature": "国家発展改革委員会（NDRC）が国家計画を策定。化石資源消費を代替する合成生物学、バイオ製造プラントへの集中財政支援を実施し、世界最大のバイオ発酵受託製造（CDMO）生産能力を構築。",
+        "source": {
+          "organization": "中国国家発展改革委員会 (NDRC)",
+          "title": "「十四五」生物経済発展規画",
+          "url": "https://www.ndrc.gov.cn"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "英国国家エンジニアリング・バイオロジー運営ビジョン（DSIT）",
+        "statusOrLevel": "20億ポンドの長期投資戦略・バイオ素材および医療・農業スタートアップ育成",
+        "keyFeature": "科学・技術・イノベーション省（DSIT）が重要テクノロジー5分野の1つに指定。DNA合成技術や細胞工場（Cell Factory）の実用化に向け、規制サンドボックスを創設して新素材の迅速市場投入を支援。",
+        "source": {
+          "organization": "英国科学・技術・イノベーション省 (DSIT)",
+          "title": "National Vision for Engineering Biology - Unlocking economic potential",
+          "url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "国家バイオエコノミー戦略（Nationale Bioökonomiestrategie）",
+        "statusOrLevel": "連邦教育研究省（BMBF）・食料農業省（BMEL）共同推進・産業転換支援",
+        "keyFeature": "化石燃料依存からバイオベース循環経済への転換を掲げ、工業用酵素、微生物によるCO2固定プラスチック、バイオ精製（Biorefinery）技術の研究開発からスケールアップまで公的支援を提供。",
+        "source": {
+          "organization": "ドイツ連邦教育研究省 (BMBF) / 連邦食料・農業省 (BMEL)",
+          "title": "Nationale Bioökonomiestrategie - Nachhaltige Ressourcen für die Wirtschaft",
+          "url": "https://www.bmel.de"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "合成生物学研究開発プログラム（SINERGY）および培養肉・新素材認可",
+        "statusOrLevel": "世界初の培養肉商業販売認可およびバイオ製造ハブ育成政策",
+        "keyFeature": "科学技術研究庁（A*STAR）が主導し、狭小な国土で食料安保とハイテク産業を両立するため、微生物精密発酵や培養タンパク質の安全評価フレームワークを世界最速で法制化。",
+        "source": {
+          "organization": "シンガポール科学技術研究庁 (A*STAR) / 食品庁 (SFA)",
+          "title": "Synthetic Biology research initiative and novel food biomanufacturing",
+          "url": "https://www.a-star.edu.sg"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "「フランス2030」バイオセラピー・バイオものづくり国家加速戦略",
+        "statusOrLevel": "4億ユーロ超の公的投資・バイオ素材および微生物医薬品製造の国内回帰",
+        "keyFeature": "マクロン政権の産業政策「France 2030」に基づき、農林水産副産物を原料とするバイオプラスチック製造や精密発酵プラントへの投資減税・直接補助を実施。",
+        "source": {
+          "organization": "フランス環境エネルギー管理庁 (ADEME) / フランス投資総庁",
+          "title": "Stratégie d'accélération Biothérapies et Bioproduction en santé et matériaux",
+          "url": "https://www.ademe.fr"
+        }
+      }
+    ]
   }
 }

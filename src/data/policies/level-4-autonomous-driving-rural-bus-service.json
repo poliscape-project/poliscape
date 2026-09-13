@@ -179,5 +179,115 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における自動運転移動サービス（レベル4・無人シャトル）の地方導入",
+    "comparisonSummary": "過疎地や地域交通の維持に向けて、ドイツがいち早く「特定運行区域でのレベル4公道定期運行」を世界で初めて法制化したほか、フランス・英国・米国・中国も遠隔監視（テレオペレーション）や運行設計領域（ODD）に基づく無人バス運行ライセンスを整備しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦自律走行法（Gesetz zum autonomen Fahren）および運行認可令（AFFV）",
+        "statusOrLevel": "世界初・特定運行エリアにおける運転席無人の自動運転レベル4公道定期運行法制化",
+        "keyFeature": "連邦道路交通局（KBA）が車両型式認可を行い、地方自治体やバス事業者が「技術的監視員（Technische Aufsicht）」を遠隔配置することで、地方コミュニティバスやオンデマンドシャトルを完全無人で運行可能。",
+        "source": {
+          "organization": "ドイツ連邦デジタル・交通省 (BMDV)",
+          "title": "Gesetz zum autonomen Fahren im Regelbetrieb - Level 4 im öffentlichen Straßenverkehr",
+          "url": "https://www.bmdv.bund.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "モビリティ基本法（Loi LOM）およびレベル4自動運転シャトル認可政令",
+        "statusOrLevel": "遠隔監視下でのドライバー不在自律走行シャトル公道運行の国家枠組み整備",
+        "keyFeature": "NavyaやEasyMileといった自律走行シャトル企業の本拠地として、定路線・低速（時速20〜30km）運行における安全認証基準を早期法制化。地方の鉄道廃線跡や病院・大学アクセス路線で実用運行。",
+        "source": {
+          "organization": "フランス生態系移行・国土連帯省 (Ministère de la Transition écologique)",
+          "title": "Véhicules autonomes: cadre réglementaire pour les systèmes de transport routier automatisés",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "自動運転車法2024（Automated Vehicles Act 2024）",
+        "statusOrLevel": "自動運転運行事業者（ASO）制度創設・運転席無人運行時の法的責任明確化",
+        "keyFeature": "車両が自律走行中（Self-driving mode）の事故責任を乗員ではなく公認運行事業者（ASO）や製造者が負う免責法制を確立。エディンバラのフォース道路橋を渡る自動運転バス路線など地方・都市間実証を支援。",
+        "source": {
+          "organization": "英国運輸省 (DfT) / 自動運転車センター (CCAV)",
+          "title": "Automated Vehicles Act 2024 and safety framework for commercial deployment",
+          "url": "https://www.gov.uk/government/organisations/centre-for-connected-and-autonomous-vehicles"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "NHTSA自動運転システム（ADS）特例ガイドラインおよび各州運行認可",
+        "statusOrLevel": "ステアリング・ペダルなし車両の免除認可枠組みと各州過疎地・キャンパス運行",
+        "keyFeature": "連邦自動車安全基準（FMVSS）の特例免除制度を通じ、遠隔運行管理者（Remote Assistant）による自動運転シャトルの公道運行を容認。フロリダ州レイクノナ等のスマートシティや農村部医療アクセスに導入。",
+        "source": {
+          "organization": "米国運輸省道路交通安全局 (NHTSA)",
+          "title": "Automated Driving Systems: A Vision for Safety and testing exemptions",
+          "url": "https://www.nhtsa.gov"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "知能網聯汽車（ICV）准入および公道通行パイロット通知（工信部等4省庁）",
+        "statusOrLevel": "武漢・重慶・広州等の特定区域における完全無人ロボバス・ミニバス商業運行",
+        "keyFeature": "工信部、公安部、交通運輸部が共同でL3/L4自動運転の製品参入と運行責任基準を通達。遠隔ドライバー1名が複数台の路線バスをクラウド監視し、郊外ニュータウンや観光地で商用運賃徴収を実施。",
+        "source": {
+          "organization": "中国工業・情報化部 (MIIT) / 交通運輸部",
+          "title": "知能網聯汽車参入及び公道通行パイロット通告",
+          "url": "https://www.miit.gov.cn"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "自動運転車商用化促進支援法および自動運転パイロット運行地区制度",
+        "statusOrLevel": "全国数十箇所のパイロット地区での無人深夜バス・過疎地需要応答交通（DRT）",
+        "keyFeature": "国土交通部が特例地区を指定し、旅客運送法や道路交通法の規制を免除。ソウル深夜定期自動運転バスや世宗市・済州島などの過疎路線で自動運転有償旅客運送を展開。",
+        "source": {
+          "organization": "韓国国土交通部 (MOLIT)",
+          "title": "Act on Promotion and Support of Commercialization of Autonomous Vehicles",
+          "url": "https://www.molit.go.kr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "ロードマップTR 68およびポンゴル・スマートタウン自動運転シャトル",
+        "statusOrLevel": "陸上交通庁（LTA）公認の公道混合交通下における定路線無人バス実証",
+        "keyFeature": "新興住宅地ポンゴルやジュロン島において、一般交通と混在した環境での自動運転オンデマンドバス運行を実証。遠隔運行指令所（FOC）との低遅延5G通信規格を国家標準化。",
+        "source": {
+          "organization": "シンガポール陸上交通庁 (LTA)",
+          "title": "Autonomous Vehicle trial and deployment framework in Singapore",
+          "url": "https://www.lta.gov.sg"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦道路庁（ASTRA）自動運転特別許可およびシオン市無人シャトル",
+        "statusOrLevel": "欧州最長クラスの自律走行公共バス営業実証と山岳観光地運行",
+        "keyFeature": "連邦道路庁（ASTRA）がポストバス（PostBus）に対し、公道での自動運転シャトル運行特例を付与。狭隘な旧市街地や山岳リゾートにおける無人旅客輸送の安全性と受容性を検証。",
+        "source": {
+          "organization": "スイス連邦道路庁 (Federal Roads Office - ASTRA)",
+          "title": "Automatisierte Fahrzeuge und Pilotversuche auf öffentlichen Strassen",
+          "url": "https://www.astra.admin.ch"
+        }
+      }
+    ]
+  }
 }

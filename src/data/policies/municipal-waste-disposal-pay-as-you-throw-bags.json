@@ -205,5 +205,102 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "ShieldAlert"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の家庭ごみ従量課金制度（Pay-As-You-Throw - PAYT）と減量インセンティブ",
+    "comparisonSummary": "韓国や台湾が国家法制に基づき「指定有料ゴミ袋（従量制袋）」を全国義務化して劇的なごみ減量とリサイクル率向上を達成した一方、欧州（スイス・ドイツ・ベルギー）では自治体ごとの袋課金（Sackgebühr）やICチップ付き容器従量制（Diftar）など、原因者負担原則を徹底した制度設計が定着しています。",
+    "countries": [
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "ごみ従量制（Jongnyangje / 従量制ゴミ袋販売制度）",
+        "statusOrLevel": "1995年に世界で初めて全国義務化・可燃ごみ量半減とリサイクル率60%超達成",
+        "keyFeature": "環境部が廃棄物管理法に基づき全国で指定ゴミ袋の使用を法定義務化。自治体ごとに容量別（5L〜100L）のゴミ袋を有料販売し、袋代金にごみ処理費用を含めることで、排出抑制と資源ゴミ分別のインセンティブを確立。",
+        "source": {
+          "organization": "韓国環境部 (Ministry of Environment)",
+          "title": "Volume-based Waste Fee System (VBWFS) - Resource circulation policies",
+          "url": "https://www.me.go.kr"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "ごみ処理費随袋徴収制（指定ゴミ袋従量課金制度）",
+        "statusOrLevel": "台北市・新北市等で導入・家庭ごみ排出量の大幅削減と資源回収倍増",
+        "keyFeature": "水道料金に上乗せ徴収していた従量制を改め、防偽ホログラム付き指定ゴミ袋の購入による従量課金へと全面移行。指定袋以外の不法投棄には監視カメラと高額過料（最大6,000台湾ドル）で厳格対処。",
+        "source": {
+          "organization": "台湾環境部 (Ministry of Environment)",
+          "title": "Per-bag trash collection fee policy and municipal waste reduction",
+          "url": "https://www.moenv.gov.tw"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "自治体公認有料ゴミ袋課金制度（Sackgebühr / Taxe au sac）",
+        "statusOrLevel": "ほぼ全土の自治体で有料指定袋（1袋約1.5〜3スイスフラン）導入が定着",
+        "keyFeature": "連邦環境保護法（USG）の「原因者負担の原則（Verursacherprinzip）」に基づき、各カントン・基礎自治体が公式ごみ袋を有料販売。缶・ビン・紙・生ごみ等の無料回収所と連動させ、分別率50%超を達成。",
+        "source": {
+          "organization": "スイス連邦環境局 (Federal Office for the Environment - BAFU)",
+          "title": "Verursachergerechte Abfallfinanzierung (Sackgebühr)",
+          "url": "https://www.bafu.admin.ch"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "循環経済法（KrWG）および自治体ごみ容器従量課金制（Müllgebühren）",
+        "statusOrLevel": "容器サイズ・回収頻度・重量測定（電子チップ）による多重従量課金",
+        "keyFeature": "地方自治体の清掃条例に基づき、世帯ごとに登録された家庭ごみ容器（残余ごみ箱）の容量（80L/120L/240L）や年間回収回数に応じて料金を徴収。生ごみ用バイオ容器（Biotonne）の設置を義務化。",
+        "source": {
+          "organization": "ドイツ連邦環境庁 (Umweltbundesamt - UBA)",
+          "title": "Kommunale Abfallgebühren und Verursacherprinzip nach dem Kreislaufwirtschaftsgesetz",
+          "url": "https://www.umweltbundesamt.de"
+        }
+      },
+      {
+        "country": "ベルギー",
+        "countryCode": "BE",
+        "flag": "🇧🇪",
+        "systemName": "フランドル地域差別化料金制（Diftarシステム）および有料指定袋",
+        "statusOrLevel": "欧州最高水準のリサイクル率（約70%）を誇る電子計量・指定袋併用制度",
+        "keyFeature": "フランドル環境庁（OVAM）が推進し、自治体ごとに指定有料袋または電子計量チップ付きゴミ箱を採用。ごみを出した重さ（キロ単位）や袋枚数に直接課金し、リサイクル可能な素材は無料または低料金で回収。",
+        "source": {
+          "organization": "ベルギー・フランドル公害・廃棄物局 (OVAM)",
+          "title": "Diftar: Differentiated tariffing system for municipal household waste",
+          "url": "https://ovam.vlaanderen.be"
+        }
+      },
+      {
+        "country": "オーストリア",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "systemName": "連邦廃棄物管理法（AWG）に基づく自治体ごみ排出量連動課金",
+        "statusOrLevel": "容器容積連動課金および厳格な生ごみ・資源ごみ個別分別収集システム",
+        "keyFeature": "可燃ごみ（残余ごみ）の容器サイズや回収間隔に比例したごみ処理手数料を設定。生ごみ・紙・プラスチック包装の徹底的な分別回収を自治体が整備し、焼却埋立に回るごみを最小化。",
+        "source": {
+          "organization": "オーストリア気候行動・環境・エネルギー・交通・技術省 (BMK)",
+          "title": "Abfallwirtschaftsgesetz (AWG) - Getrennte Sammlung und Gebührengestaltung",
+          "url": "https://www.bmk.gv.at"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "インセンティブごみ処理料金制（Redevance Incitative / TEOMI）",
+        "statusOrLevel": "エネルギー移行法に基づく従量制ごみ料金導入推進・自治体への財政支援",
+        "keyFeature": "従来の固定不動産税連動型ごみ税から、ゴミ箱の排出回数や計量、指定袋枚数に応じた「インセンティブ課金」への転換を国が奨励。導入した自治体では可燃ごみが30〜40%減少する顕著な実績。",
+        "source": {
+          "organization": "フランス環境エネルギー管理庁 (ADEME)",
+          "title": "Tarification incitative pour la gestion des déchets ménagers",
+          "url": "https://www.ademe.fr"
+        }
+      }
+    ]
+  }
 }

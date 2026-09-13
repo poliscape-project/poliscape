@@ -127,5 +127,102 @@
       "type": "white_paper",
       "typeLabel": "経産省流通政策資料"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界のラストワンマイル配送・置き配受取と再配達削減策",
+    "comparisonSummary": "米国や英国では玄関前置き配（Unattended Delivery）が標準である一方、盗難（ポーチラット）対策としてスマートロッカーや事前同意が発達。東アジア（韓国・中国）ではマンション宅配ボックスや店舗受取が日常化し、再配達の有料化や受取インセンティブ設計が議論されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "置き配（Front Porch Delivery）の標準化およびスマート施錠受取（In-Garage）",
+        "statusOrLevel": "事前指定不要で玄関前置き配が基本（サイン必須商品を除く）・盗難保険とロッカー網",
+        "keyFeature": "配送業者は配達完了時に写真撮影（Photo-on-Delivery）を行い荷主・受取人に通知。盗難被害対策としてAmazon Key（ガレージ内配達）や店舗ロッカー受取が普及し、不在再配達は原則として郵便局等への直接受取を案内。",
+        "source": {
+          "organization": "米国郵便公社 (US Postal Service - USPS)",
+          "title": "USPS Package Intercept and Carrier Leave if No Response guidelines",
+          "url": "https://www.usps.com"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ロイヤルメール指定安全場所（Safeplace）および再配達有料化規制レビュー",
+        "statusOrLevel": "オンライン受取人指定の安全場所配達・不在時再配達の自動手配と受取拠点網",
+        "keyFeature": "郵便通信庁（Ofcom）の規制枠組みのもと、受取人が物置や近隣住民（Neighbour）を配達場所に事前指定可能。追加料金なしでの再配達指定日変更ができる一方、物流負荷軽減に向けたリレー拠点受取優遇を推進。",
+        "source": {
+          "organization": "英国通信庁 (Ofcom) / ロイヤルメール",
+          "title": "Review of postal parcel delivery regulations and unattended parcel policies",
+          "url": "https://www.ofcom.org.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "荷物預け場所協定（Ablagevertrag）およびパックステーション（Packstation）",
+        "statusOrLevel": "全土13,000箇所以上の無人宅配ロッカー網および置き配免責同意制度",
+        "keyFeature": "ドイツポストDHLが全土の駅やスーパーに24時間対応の宅配ロッカーを網羅。自宅配送では受取人が事前の預け場所契約を結ぶことで置き配が完了し、配送完了と同時に業者の紛失免責が法的に成立。",
+        "source": {
+          "organization": "ドイツ連邦ネットワーク庁 (Bundesnetzagentur)",
+          "title": "Postmarkt und Zustellregulierung - Paketboxen und Ablageverträge",
+          "url": "https://www.bundesnetzagentur.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "リレー店舗受取網（Point Relais / PickUp）および再配達環境負荷是正",
+        "statusOrLevel": "街中ベーカリー・書店・たばこ店等と提携した受取ネットワークが主流",
+        "keyFeature": "ラ・ポスト（La Poste）および民間宅配が、不在再配達の多発を防止するため、自宅配送より配送料金が安価な「近隣店舗受取（Point Relais）」を標準選択肢として定着させ、再配達率を劇的に抑制。",
+        "source": {
+          "organization": "フランス電子通信・郵便規制庁 (Arcep)",
+          "title": "Observatoire des services postaux et livraison de colis hors domicile",
+          "url": "https://www.arcep.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "生活物流サービス発展法および玄関前置き配・無人宅配保管箱の定着",
+        "statusOrLevel": "アパート共同玄関暗証番号共有による玄関前置き配が9割超・不在再配達の事実上消滅",
+        "keyFeature": "国土交通部が生活物流法を制定。クーパン等のEC事業者が夜間・早朝に玄関前へ非対面配送（置き配）を徹底。配達完了写真アプリ送信が定着し、対面再配達に起因する物流停滞を社会システム全体で回避。",
+        "source": {
+          "organization": "韓国国土交通部 (MOLIT)",
+          "title": "Act on the Development and Support of Living Logistics Services",
+          "url": "https://www.molit.go.kr"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "快逓暫定条例およびスマート宅配ボックス（快件箱）超過保管課金ルール",
+        "statusOrLevel": "菜鳥駅站（有人拠点）および豊巣（無人ロッカー）による集約受取モデル",
+        "keyFeature": "国家郵政局が宅配ボックスの無断投函を禁止し受取人事前同意を義務付ける一方、一定無料時間（12〜18時間）を超えた保管には少額の保管料を徴収する仕組みを公認し、受取回転率を維持。",
+        "source": {
+          "organization": "中国国家郵政局 (State Post Bureau)",
+          "title": "快逓市場管理弁法およびスマート快件箱投函管理規範",
+          "url": "https://www.spb.gov.cn"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "全国ロッカーネットワーク（Pick Network）国家インフラプロジェクト",
+        "statusOrLevel": "公営団地（HDB）全域に1,000箇所以上の公的宅配ロッカーを政府設置",
+        "keyFeature": "情報通信メディア開発庁（IMDA）が複数配送事業者が相乗りできる中立な国家ロッカー網「Pick」を構築。ラストワンマイルの走行距離・再配達率を大幅に削減し、配送員不足に対応。",
+        "source": {
+          "organization": "シンガポール情報通信メディア開発庁 (IMDA)",
+          "title": "Nationwide parcel locker network (Pick Network) initiative",
+          "url": "https://www.imda.gov.sg"
+        }
+      }
+    ]
+  }
 }

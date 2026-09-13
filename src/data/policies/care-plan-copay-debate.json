@@ -231,5 +231,102 @@
         "commentStandard": "「未払いの督促や小口の領収書発行など徴収コストが膨大で、数人規模のケアマネ事業所では事務処理がパンクして離職が起きる」"
       }
     ]
+  },
+  "international": {
+    "title": "世界の介護・ケアマネジメント制度における自己負担と相談支援ルール",
+    "comparisonSummary": "日本の介護保険ではケアプラン作成費（居宅介護支援）が10割給付（利用者負担ゼロ）であるのに対し、欧州諸国では自治体による一元的な無償評価が原則である一方、民間サービス連動型プランでは資力調査（ミーンズテスト）や定額負担を課す国もあり、制度思想が異なります。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "公的介護保険法（SGB XI）ケアアドバイス・相談支援制度",
+        "statusOrLevel": "介護保険者（公金）全額負担・要介護者への相談支援・プラン助言完全無料",
+        "keyFeature": "介護金庫（Pflegekassen）が被保険者に対してケアマネジメント相談（Pflegeberatung）を法律上無料で提供する義務を負う。独立したケア拠点（Pflegestützpunkte）で相談が行われ、利用者の自己負担はゼロ。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG)",
+          "title": "Pflegeberatung und Pflegestützpunkte nach SGB XI",
+          "url": "https://www.bundesgesundheitsministerium.de"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "長期介護法（Wlz）および社会サポート法（Wmo）クライアント支援制度",
+        "statusOrLevel": "法律に基づき全市民に独立したケアマネジメント（クライアント支援）を完全無償提供",
+        "keyFeature": "要介護認定を受けた者は、介護事業者から完全に独立した「クライアント支援員（Clientondersteuner）」による相談・プラン作成支援を無料で受ける法的権利を有し、自治体および介護事務所が費用を全額負担。",
+        "source": {
+          "organization": "オランダ保健・福祉・スポーツ省 (VWS)",
+          "title": "Onafhankelijke cliëntondersteuning in de langdurige zorg",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "社会サービス法（SoL）に基づく自治体ケアアセスメント制度",
+        "statusOrLevel": "税方式による自治体ソーシャルワーカー相談・アセスメント無料（サービス利用料のみ所得連動）",
+        "keyFeature": "市町村（コミューン）のケアマネジャー（Biståndshandläggare）が要介護度と支援計画を策定。アセスメント自体の相談手数料は無料であり、実際のヘルパー派遣等についてのみ所得に応じた法定上限額（Maxtaxa）内で負担。",
+        "source": {
+          "organization": "スウェーデン保健福祉庁 (Socialstyrelsen)",
+          "title": "Äldreomsorg och biståndshandläggning enligt socialtjänstlagen",
+          "url": "https://www.socialstyrelsen.se"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ケア法（Care Act 2014）ニーズアセスメント制度",
+        "statusOrLevel": "地方自治体による初期ケアニーズ評価は完全無料・支援実施段階で資産調査",
+        "keyFeature": "地方自治体（Local Authority）は相談者の所得や資産に関わらず、ケアプラン策定に必要なニーズ評価を無料で実施する法的義務を負う。実際の介護サービス受給時に資産23,250ポンド以上の場合は自己負担が発生。",
+        "source": {
+          "organization": "英国保健・社会介護省 (DHSC)",
+          "title": "Care Act 2014: Care and support statutory guidance - Assessment and eligibility",
+          "url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "自立個人手当（APA）枠組みにおけるケアプラン作成（Plan d'aide）",
+        "statusOrLevel": "県（Département）の専門チームがプラン作成を公費全額負担・給付時に所得連動自己負担",
+        "keyFeature": "県の医師・ソーシャルワーカーからなる多職種チームが自宅を訪問し、ケアプラン（援助計画）を無料で作成。受給決定後に、本人の年金所得に応じた自己負担割合（10%〜90%）が控除されて手当が支給される。",
+        "source": {
+          "organization": "フランス連帯・家族省 (Ministère des Solidarités et des Familles)",
+          "title": "Allocation personnalisée d'autonomie (APA) et élaboration du plan d'aide",
+          "url": "https://solidarites.gouv.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "老人長期療養保険法における標準長期療養利用計画書",
+        "statusOrLevel": "国民健康保険公団がプラン作成を全額公的負担（利用者負担ゼロ）",
+        "keyFeature": "日本の介護保険を参考に制度設計されたが、ケアマネジャー（居宅介護支援専門員）が民間独立事業所ではなく公的機関である国民健康保険公団に直属。公団職員がプランを作成するため、計画作成自体への自己負担は課されない。",
+        "source": {
+          "organization": "韓国国民健康保険公団 (NHIS) / 保健福祉部",
+          "title": "Long-Term Care Insurance for the Elderly - Care Plan guidelines",
+          "url": "https://www.nhis.or.kr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "メディケイドHCBS（在宅地域基盤サービス）ケースマネジメント",
+        "statusOrLevel": "低所得者向け公的扶助枠では無料・一般民間長期介護保険では自己負担プラン",
+        "keyFeature": "メディケイド受給資格を持つ高齢者には公費でケアマネジメントが無償提供されるが、一般世帯は民間ケアマネジャー（Aging Life Care Expert）に時給制（1時間100〜250ドル）で自費依頼するのが一般的。",
+        "source": {
+          "organization": "米国メディケア・メディケイド・サービス庁 (CMS)",
+          "title": "Home & Community-Based Services 1915(c) waivers and case management",
+          "url": "https://www.cms.gov"
+        }
+      }
+    ]
   }
 }

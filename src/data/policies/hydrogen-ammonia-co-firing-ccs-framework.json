@@ -185,5 +185,115 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の火力発電低炭素化（水素混焼・CCS技術）支援と法的規制",
+    "comparisonSummary": "日本が石炭火力へのアンモニア混焼やガス火力への水素混焼をトランジション政策の柱に据える一方、欧米では化石燃料延命への懸念から新規・既存火力への極めて高いCCS（CO2回収・貯留）回収率の義務付けやクリーン電力差額決済契約（CfD）による厳格な排出基準が課されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "EPAクリーン発電所排気基準（Clean Air Act 111条）およびIRA 45Q税額控除",
+        "statusOrLevel": "2032年までにベースロード火力発電所への90%以上CCS導入実質義務化",
+        "keyFeature": "環境保護庁（EPA）が新規ガス火力・長期稼働石炭火力に対し、最良の排出削減技術（BSER）として90%CO2回収率のCCS導入を義務付ける新基準を公布。インフレ抑制法（IRA）でCCS貯留に1トンあたり最大85ドルの税額控除を支給。",
+        "source": {
+          "organization": "米国環境保護庁 (EPA) / エネルギー省 (DOE)",
+          "title": "Clean Air Act standards for greenhouse gas emissions from power plants",
+          "url": "https://www.epa.gov"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "ネットゼロ産業法（NZIA）およびCCS指令（2009/31/EC）",
+        "statusOrLevel": "2030年までに域内年5,000万トンのCO2地下貯留能力確保を石油大手に義務付け",
+        "keyFeature": "脱炭素化が困難な産業・火力分野にCCSを位置付け、石油・天然ガス生産企業に対して過去の生産量比例でCO2貯留サイト開発を法定義務化。単純な化石燃料混焼への公的助成は厳しく制限。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - Energy)",
+          "title": "Net Zero Industry Act and Carbon Capture and Storage Directive",
+          "url": "https://energy.ec.europa.eu"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "エネルギー法2023およびCCS産業ビジネスモデル（差額決済契約CfD）",
+        "statusOrLevel": "4大産業クラスターでの大規模CCUSおよび水素混焼発電パイロット支援（200億ポンド基金）",
+        "keyFeature": "政府が2035年までの電力部門完全脱炭素化を掲げ、CCS付ガス火力および低炭素水素発電所に対して売電収入を公的保証する「ディスパッチャブル電力契約（DPA）」を展開。",
+        "source": {
+          "organization": "英国エネルギー安全保障・ネットゼロ省 (DESNZ)",
+          "title": "Carbon capture, usage and storage (CCUS): business models and infrastructure",
+          "url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
+        }
+      },
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "「ロングシップ（Longship）」国家フルスケールCCSプロジェクト",
+        "statusOrLevel": "世界初の商用越境CO2輸送・海底貯留ネットワーク「ノーザンライツ」稼働",
+        "keyFeature": "国家主導で産業排出源からのCO2回収、船舶輸送、北海海底帯水層への永久圧入隔離サプライチェーンを構築。欧州各国の工場や発電所からCO2を有料で引き受ける越境インフラを実現。",
+        "source": {
+          "organization": "ノルウェーエネルギー省 (Ministry of Energy) / 石油総局",
+          "title": "Longship - The Norwegian full-scale carbon capture and storage project",
+          "url": "https://www.regjeringen.no"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "洋上石油・温室効果ガス貯留法（OPGGS Act）および国家水素戦略",
+        "statusOrLevel": "豪州沖合での大規模CO2貯留ライセンス供与および水素混焼輸出サプライチェーン",
+        "keyFeature": "日豪間でのクリーン水素・アンモニア供給協定を締結しつつ、国内火力・LNG施設へのCCS適用を進めるため、洋上枯渇ガス田や深部塩水層への温室効果ガス貯留探査権を公募・認可。",
+        "source": {
+          "organization": "オーストラリア連邦気候変動・エネルギー・環境・水資源省 (DCCEEW)",
+          "title": "Offshore Carbon Capture and Storage and National Hydrogen Strategy",
+          "url": "https://www.dcceew.gov.au"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "連邦CCUS投資税額控除（ITCs）およびクリーン電力規則（CER）",
+        "statusOrLevel": "CCS設備投資の最大50%税額控除および2035年実質ネットゼロ電力網目標",
+        "keyFeature": "アルバータ州などの産油・化石燃料火力地域において、CCS付火力発電への移行を後押しするため、数十億加ドル規模の税額控除を実施。排出上限を超過する火力発電所には炭素税を完全課税。",
+        "source": {
+          "organization": "カナダ天然資源省 (NRCan) / 環境・気候変動省 (ECCC)",
+          "title": "Clean Electricity Regulations and Carbon Capture Investment Tax Credits",
+          "url": "https://natural-resources.canada.ca"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "ポルトス（Porthos）ロッテルダム港CO2貯留事業およびSDE++脱炭素助成",
+        "statusOrLevel": "ロッテルダム港産業群からの年250万トンCO2北海海底圧入プロジェクト",
+        "keyFeature": "政府の持続可能エネルギー移行刺激策（SDE++）により、水素製造プラントや火力設備から排出されるCO2の回収・貯留コスト差額を最大15年間助成し、事業化リスクをヘッジ。",
+        "source": {
+          "organization": "オランダ気候・グリーン成長省 (KGG)",
+          "title": "Porthos CO2 transport and storage in the North Sea",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "炭素管理戦略（Carbon Management Strategie）およびCO2貯留法改正",
+        "statusOrLevel": "長年禁止されていたCCSを産業・水素発電分野で容認へ歴史的政策転換",
+        "keyFeature": "従来は環境懸念からCCSに極めて否定的だったが、2024年に気候保護省（BMWK）が方針を転換。石炭火力は除外する一方、ガス火力発電所の水素転換バックアップや産業排出に対するCCSパイプライン建設を公認。",
+        "source": {
+          "organization": "ドイツ連邦経済・気候保護省 (BMWK)",
+          "title": "Eckpunkte der Carbon Management-Strategie und Novelle des Kohlendioxid-Speicherungsgesetzes",
+          "url": "https://www.bmwk.de"
+        }
+      }
+    ]
+  }
 }

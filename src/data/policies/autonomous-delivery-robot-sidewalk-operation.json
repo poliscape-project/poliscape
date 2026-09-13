@@ -185,5 +185,115 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における自動配送ロボット（PDD）の歩道・公道走行法制",
+    "comparisonSummary": "エストニアや米国各州が世界に先駆けてロボットを「歩行者」扱いで公道・歩道走行を合法化した一方、シンガポールやドイツは厳格な遠隔監視員（テレオペレーター）配置や技術標準適合を義務付けるなど、イノベーション促進と歩行者保護のバランスにおいて国ごとにアプローチが分かれています。",
+    "countries": [
+      {
+        "country": "エストニア",
+        "countryCode": "EE",
+        "flag": "🇪🇪",
+        "systemName": "交通法改正（Traffic Act - Delivery Robots）",
+        "statusOrLevel": "世界初（2017年）の自律型歩道配送ロボット合法化・歩行者準拠ルール",
+        "keyFeature": "Starship Technologiesの本拠地として、時速6km以下、重量50kg以下のロボットを歩行者と同等の法的地位で認可。歩行者優先義務、ヘッドライトや反射板の装備を義務付け、全国の歩道で日常的な食品・郵便配送を実装。",
+        "source": {
+          "organization": "エストニア経済通信省 (MKM)",
+          "title": "Traffic Act amendment on autonomous delivery robots",
+          "url": "https://www.mkm.ee"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "個人用配達機器（Personal Delivery Device - PDD）州法モデル",
+        "statusOrLevel": "ペンシルベニア・バージニア等20州以上で歩道走行合法化・最高速度制限",
+        "keyFeature": "州ごとにPDD法を制定し、歩道最高速度を時速10〜12マイル（約16〜19km）に規制。遠隔監視（リモートオペレーター1人が複数台を監督）と最低100万ドルの賠償責任保険加入を義務付け。",
+        "source": {
+          "organization": "米国運輸省道路交通安全局 (NHTSA)",
+          "title": "Automated Driving Systems and Personal Delivery Devices regulations",
+          "url": "https://www.nhtsa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "無人自動配送ロボット運行指針および自治体特例実証",
+        "statusOrLevel": "ミルトンキーンズ等複数都市での歩道自律走行・累計数百万回配達実績",
+        "keyFeature": "運輸省（DfT）の支援のもと、歩行者空間での低速自律走行（時速6km以下）を認可。遠隔監視センターからの即時停止機能を義務付け、ラストワンマイルの環境負荷削減モデルとして定着。",
+        "source": {
+          "organization": "英国運輸省 (Department for Transport - DfT)",
+          "title": "Code of Practice: Automated vehicle and delivery robot trials",
+          "url": "https://www.gov.uk/government/organisations/department-for-transport"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "無人低速配送車道路走行テスト管理弁法（北京・深圳等）",
+        "statusOrLevel": "公道・自転車道での走行認可・正規ナンバープレート交付による商業運用",
+        "keyFeature": "北京市ハイレベル自動運転実証区等で、美団やJD.comの無人配送車に専用ナンバープレートを交付。自転車レーンや低速車道での運行を公認し、大規模団地や大学街で無人配送を商用展開。",
+        "source": {
+          "organization": "北京市高級別自動運転示範区推進作業弁公室",
+          "title": "無人配送車道路テスト管理細則",
+          "url": "https://www.beijing.gov.cn"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "知能型ロボット法および改正道路交通法（屋外移動ロボット歩行者認定）",
+        "statusOrLevel": "2023年施行・安全認証を取得した配送ロボットの歩道通行を全面合法化",
+        "keyFeature": "国家認証基準（走行安全性・通信遮断時緊急停止など）をパスした屋外移動ロボットを法律上「歩行者」と定義。歩道通行を公認し、産業通商資源部が保険商品開発と実証を主導。",
+        "source": {
+          "organization": "韓国産業通商資源部 (MOTIE) / 警察庁",
+          "title": "Intelligent Robots Act - Outdoor mobile delivery robot operation",
+          "url": "https://www.motie.go.kr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "自律走行ロボット国家技術標準（Technical Reference 68 - TR 68）",
+        "statusOrLevel": "陸上交通庁（LTA）主導の厳格な安全基準・事前サンドボックス認可制",
+        "keyFeature": "都市国家の過密環境に対応するため、ロボットの重量・速度制限、歩行者センサー検知距離、通信途絶時のフェイルセーフを定めた国家規格TR 68を制定。住宅地や商業施設で公認実証を実施。",
+        "source": {
+          "organization": "シンガポール陸上交通庁 (Land Transport Authority - LTA)",
+          "title": "Regulatory sandbox and technical standards for autonomous mobility robots",
+          "url": "https://www.lta.gov.sg"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦自律走行法（Autonomes Fahren Gesetz）ラストマイル配送特例",
+        "statusOrLevel": "連邦鉄道・道路局認可制・遠隔監視員（Technische Aufsicht）配置義務",
+        "keyFeature": "自動運転レベル4法制の枠組みを小型配送ロボットにも準用。運行エリアごとの安全審査と、遠隔からいつでも運行停止や手動介入ができる監視責任者の指定を義務化。",
+        "source": {
+          "organization": "ドイツ連邦デジタル・交通省 (BMDV)",
+          "title": "Gesetz zum autonomen Fahren - Regelung für autonome Lieferdienste",
+          "url": "https://www.bmdv.bund.de"
+        }
+      },
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "交通サービス法（Act on Transport Services）に基づく柔軟認可",
+        "statusOrLevel": "冬期積雪環境での自動配送ロボット走行実証と公道利用規制緩和",
+        "keyFeature": "交通通信庁（Traficom）がイノベーション促進のため、極寒積雪地帯でのラストワンマイルロボット運行特例を付与。ヘルシンキ市内で食料品等の歩道自動配送を定着。",
+        "source": {
+          "organization": "フィンランド交通通信庁 (Traficom)",
+          "title": "Automated vehicles and delivery robot operational trial guidelines",
+          "url": "https://www.traficom.fi"
+        }
+      }
+    ]
+  }
 }

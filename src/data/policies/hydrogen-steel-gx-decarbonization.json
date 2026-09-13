@@ -261,5 +261,115 @@
         "commentStandard": "「グリーン水素の安価かつ安定的な調達網が未確立な中、設備投資だけが先行して座礁するリスクを抱えている」"
       }
     ]
+  },
+  "international": {
+    "title": "世界の水素還元製鉄・脱炭素重工業転換支援政策",
+    "comparisonSummary": "鉄鋼業の脱炭素化に向けて、欧州（スウェーデン・ドイツ）は100%グリーン水素による直接還元鉄（DRI）技術の実機プラント建設に巨額の炭素差額決済（CCfD）や国費を投入し先行。中国や韓国、北米も国家重要戦略技術として電炉化や水素利用技術の開発を加速させています。",
+    "countries": [
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "HYBRITプロジェクトおよびH2 Green Steel世界初商業化プラント",
+        "statusOrLevel": "化石燃料完全不使用の100%グリーン水素直接還元鉄（DRI）実証・商業出荷開始",
+        "keyFeature": "国営鉱山会社LKAB、電力Vattenfall、製鉄SSABが官民連携し、石炭コークスを一切使わず水電解グリーン水素で鉄鉱石を還元する世界初の実証プラントを稼働。ボルボ等の自動車向けに「化石燃料フリー鋼材」を出荷。",
+        "source": {
+          "organization": "スウェーデン・エネルギー庁 (Energimyndigheten)",
+          "title": "HYBRIT - Fossil-free steelmaking initiative and industrial transition support",
+          "url": "https://www.energimyndigheten.se"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "気候保護契約（Klimaschutzverträge / CCfD）および水素製鉄直接助成",
+        "statusOrLevel": "ティッセンクルップやザルツギッター等の水素DRI還元炉建設に数十億ユーロ助成",
+        "keyFeature": "連邦経済・気候保護省（BMWK）が「炭素差額決済契約（CCfD）」を導入。従来の高炉製鉄と水素製鉄の運営コスト差額を15年間にわたり政府が補填する仕組みを創設し、鉄鋼大手の脱炭素投資を後押し。",
+        "source": {
+          "organization": "ドイツ連邦経済・気候保護省 (BMWK)",
+          "title": "Förderung für die Dekarbonisierung der Stahlindustrie (Klimaschutzverträge)",
+          "url": "https://www.bmwk.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "「フランス2030」重工業脱炭素化枠組みおよびアルセロール・ミッタル支援",
+        "statusOrLevel": "ダンケルク製鉄所の高炉廃止・水素直接還元炉および大型電炉転換へ8.5億ユーロ公費助成",
+        "keyFeature": "環境移行庁（ADEME）が資金を拠出し、仏国内最大排出源である製鉄高炉を水素対応DRI設備と電気炉（EAF）へ置き換えるプロジェクトを認可。原子力由来の低炭素電力・水素を活用。",
+        "source": {
+          "organization": "フランス環境エネルギー管理庁 (ADEME)",
+          "title": "Décarbonation de l'industrie - Soutien à la transformation sidérurgique",
+          "url": "https://www.ademe.fr"
+        }
+      },
+      {
+        "country": "オーストリア",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "systemName": "フェストアルピーネ（voestalpine）H2FUTUREおよびgreentec steel計画",
+        "statusOrLevel": "リンツ製鉄所での大型PEM水電解水素製造実証および電気炉ハイブリッド移行",
+        "keyFeature": "気候行動省（BMK）の支援のもと、製鉄所敷地内にメガワット級水電解装置を設置して水素直接利用を実証。2027年からの電気炉稼働と段階的な水素還元シフトを国家脱炭素目標の中核に設定。",
+        "source": {
+          "organization": "オーストリア気候行動・環境・エネルギー・交通・技術省 (BMK)",
+          "title": "Transformation der Industrie - Förderprogramm für grüne Stahlproduktion",
+          "url": "https://www.bmk.gv.at"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "鉄鋼業界炭素排出ピーク達成分野計画および河鋼集団（HBIS）水素製鉄実証",
+        "statusOrLevel": "張家口での120万トン規模コークス炉ガス水素リッチ直接還元プラント商業稼働",
+        "keyFeature": "工業・情報化部（MIIT）が2030年までの排出ピークアウトに向け、粗鋼生産能力の上限規制と電炉比率15%以上への引き上げを義務付け。水素富化ガスを利用した工業規模還元実証を国策推進。",
+        "source": {
+          "organization": "中国工業・情報化部 (MIIT)",
+          "title": "鉄鋼産業炭素排出削減ロードマップ及び低炭素技術発展指針",
+          "url": "https://www.miit.gov.cn"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "ポスコ（POSCO）HyREX（独自水素流動還元製鉄）国家先端戦略技術指定",
+        "statusOrLevel": "粉鉄鉱石を直接使用する独自水素製鉄プロセスの実証プラント建設支援",
+        "keyFeature": "産業通商資源部（MOTIE）が水素製鉄を国家先端戦略技術に指定し、税額控除や研究開発費の助成を提供。ペレット加工が不要な粉鉱石対応流動還元炉（HyREX）の2030年商用実証を目指す。",
+        "source": {
+          "organization": "韓国産業通商資源部 (MOTIE)",
+          "title": "National Core Technology - Hydrogen-based direct reduction ironmaking roadmap",
+          "url": "https://www.motie.go.kr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "エネルギー省（DOE）産業実証プログラムおよびクリーン水素ハブ構想",
+        "statusOrLevel": "超党派インフラ法およびIRAに基づく鉄鋼・重化学工業脱炭素プロジェクトへの数十億ドル直接助成",
+        "keyFeature": "オハイオ州やペンシルベニア州の製鉄拠点において、クリーンスクラップ電炉化や水素対応還元鉄プラントの建設に対し、エネルギー省先端製造室（OCED）が最大5億ドルの直接マッチングファンドを交付。",
+        "source": {
+          "organization": "米国エネルギー省 (Department of Energy - DOE)",
+          "title": "Industrial Demonstrations Program - Decarbonizing iron and steelmaking",
+          "url": "https://www.energy.gov"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "戦略的イノベーション基金（SIF）によるアルゴマ／ドファスコ製鉄脱炭素化",
+        "statusOrLevel": "オンタリオ州高炉製鉄所の電気アーク炉（EAF）転換へ10億加ドル超の連邦・州助成",
+        "keyFeature": "カナダ連邦政府のネットゼロ・アクセラレーター基金を通じ、石炭コークス高炉を最新型大型電気炉に全数転換し、将来的な水素直接還元鉄の受入基盤を確立。国内温室効果ガスの数%を一括削減。",
+        "source": {
+          "organization": "カナダ革新・科学・経済開発省 (ISED)",
+          "title": "Strategic Innovation Fund - Net Zero Accelerator for clean steel transformation",
+          "url": "https://ised-isde.canada.ca"
+        }
+      }
+    ]
   }
 }

@@ -211,5 +211,115 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Wallet"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の防衛・重要サプライチェーンにおけるサイバーセキュリティ調達基準",
+    "comparisonSummary": "米国がNIST SP800-171および厳格な第三者認証制度（CMMC 2.0）を全サプライヤーに義務付ける中、同盟国（英豪加独仏韓）も相互承認や類似の国家調達基準を相次ぎ法制化し、下請け中小企業を含む防衛サプライチェーン全体の防諜を強化しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "サイバーセキュリティ成熟度モデル認証（CMMC 2.0）およびDFARS条項",
+        "statusOrLevel": "防衛サプライチェーン数十万社にNIST SP800-171準拠・第三者認証（C3PAO）義務化",
+        "keyFeature": "国防総省（DoD）が管理対象非格付け情報（CUI）を扱う全契約企業に対し、110項目のセキュリティ管理策準拠を要求。虚偽自己申告への重罰（不正請求法適用）や外部監査による認証取得を契約要件化。",
+        "source": {
+          "organization": "米国国防総省 (Department of Defense - DoD)",
+          "title": "Cybersecurity Maturity Model Certification (CMMC) 2.0 program rules",
+          "url": "https://www.defense.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "防衛サイバー保護プロファイル（Def Stan 05-138）およびCyber Essentials Plus",
+        "statusOrLevel": "国防省（MOD）調達契約におけるサイバーリスク評価・認証取得義務付け",
+        "keyFeature": "国防調達における機密レベルに応じたリスク識別ツール（Cyber Risk Assessment）を運用。サプライヤーに国家サイバーセキュリティセンター（NCSC）認定の技術監査「Cyber Essentials Plus」取得を義務化。",
+        "source": {
+          "organization": "英国国防省 (Ministry of Defence - MOD)",
+          "title": "Defence Standard 05-138: Cyber security for defence suppliers",
+          "url": "https://www.gov.uk/government/organisations/ministry-of-defence"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "防衛産業セキュリティプログラム（DISP）およびEssential Eight基準",
+        "statusOrLevel": "防衛調達参入企業へのセキュリティ認可（DISPメンバーシップ）義務化",
+        "keyFeature": "豪州信号本部（ASD）が提唱する最優先8対策（Essential Eight）の適用を要求。防衛契約に入札するサプライヤーに対し、施設・人事・サイバーの全方位で四段階の認証（レベル0〜3）取得を義務付け。",
+        "source": {
+          "organization": "オーストラリア国防省 (Defence Australia) / ASD",
+          "title": "Defence Industry Security Program (DISP) and Cyber Security Principles",
+          "url": "https://www.defence.gov.au"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダ防衛サイバーセキュリティ調達認証（CyberSecure Canada / CMMC連動）",
+        "statusOrLevel": "米国DoD CMMCとの相互運用性確保・連邦公共調達におけるサイバー適合義務",
+        "keyFeature": "カナダサイバーセキュリティセンター（CCCS）と国防省が、米国防総省サプライチェーンに参入するカナダ企業を支援するため、米国CMMC基準と相互認証可能な連邦認証枠組みを導入。",
+        "source": {
+          "organization": "カナダサイバーセキュリティセンター (CCCS) / 国防省",
+          "title": "CyberSecure Canada and defence supply chain cyber certification",
+          "url": "https://www.cyber.gc.ca"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "BSI IT-Grundschutz基準に基づく連邦国防軍（Bundeswehr）調達規程",
+        "statusOrLevel": "連邦情報セキュリティ庁（BSI）基準適合および防衛機密取扱事業所監査",
+        "keyFeature": "連邦国防省（BMVg）が防衛産業企業に対し、BSIのIT-Grundschutz（IT基本保護基準）またはISO 27001適合を義務付け。サプライチェーン内の機密情報アクセス権限や暗号化基準を厳格に監査。",
+        "source": {
+          "organization": "ドイツ連邦情報セキュリティ庁 (BSI) / 連邦国防省",
+          "title": "BSI IT-Grundschutz und Sicherheitsanforderungen für die Verteidigungsindustrie",
+          "url": "https://www.bsi.bund.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "国家情報システムセキュリティ庁（ANSSI）防衛産業調達ガイドライン",
+        "statusOrLevel": "軍事計画法（LPM）に基づく重要事業体（OIV）および防衛下請けセキュリティ監査",
+        "keyFeature": "装備総局（DGA）とANSSIが連携し、防衛サプライチェーンの中小企業（PME）向けにセキュリティ防護レベルを策定。ANSSI認証済みセキュリティ製品（SecNumCloud等）の利用を推奨・義務化。",
+        "source": {
+          "organization": "フランス国家情報システムセキュリティ庁 (ANSSI) / 国防省",
+          "title": "Sécurité numérique des systèmes industriels et chaînes d'approvisionnement de défense",
+          "url": "https://cyber.gouv.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "防衛事業庁（DAPA）防衛産業サイバーセキュリティ認証制度（K-CMMC）",
+        "statusOrLevel": "2024年より防衛産業企業および下請け協力会社への段階的認証義務化",
+        "keyFeature": "米国のCMMCをベンチマークとした韓国版モデルを導入。防衛事業参入企業をセキュリティレベル（1〜3等級）で格付けし、等級に応じた入札加点や必須要件化を実施して技術流出を防止。",
+        "source": {
+          "organization": "韓国防衛事業庁 (DAPA)",
+          "title": "Defense Industry Cybersecurity Certification Regulation",
+          "url": "https://www.dapa.go.kr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "国防省（MINDEF）防衛サプライチェーンサイバーセキュリティ・フレームワーク",
+        "statusOrLevel": "防衛ベンダーに対する厳格な情報防護要件および定期ペネトレーションテスト義務",
+        "keyFeature": "軍需物資やシステム開発を受注する企業に対し、防衛データの分離保管、二要素認証、サプライチェーン監査を契約条件として義務付け。違反企業には入札資格停止処分。",
+        "source": {
+          "organization": "シンガポール国防省 (MINDEF)",
+          "title": "MINDEF Cyber Security Requirements for Commercial Contractors",
+          "url": "https://www.mindef.gov.sg"
+        }
+      }
+    ]
+  }
 }
