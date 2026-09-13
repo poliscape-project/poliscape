@@ -247,5 +247,89 @@
         "commentStandard": "「根気強い長期服薬が必要であり、アナフィラキシーのリスク管理と患者への継続指導が不可欠」"
       }
     ]
+  },
+  "international": {
+    "title": "世界の季節性アレルギー・花粉症対策国家プロジェクトおよび予防接種・林業転換比較",
+    "comparisonSummary": "国民病とも言える花粉症の健康被害・経済損失を克服するため、韓国の花粉危険指数と植林転換、米国の舌下免疫療法保険化、ドイツの外来侵入種（ブタクサ）法定根絶プログラムなど、発生源対策と医療支援が推進されています。",
+    "countries": [
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "気象庁花粉アレルギー危険指数（Pollen Allergy Index）および山林庁花粉低減都市林事業",
+        "statusOrLevel": "4段階の花粉危険予報と都市周辺のアレルギー誘発樹木（スギ・カバノキ・ブタクサ）計画伐採",
+        "keyFeature": "気象庁が全国20カ所以上の自動サンプラーで毎日花粉濃度を測定し、スマホへ予防アラートを配信。山林庁が都市近郊林の植樹樹種から花粉発生種を法的に除外。",
+        "source": {
+          "organization": "大韓民国気象庁 (KMA) / 山林庁 / 疾病管理庁",
+          "title": "Pollen Allergy Risk Index and Urban Forest Pollen Mitigation Strategy",
+          "url": "https://www.kma.go.kr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国立衛生研究所（NIH/NIAID）アレルギー免疫療法基準およびNAB花粉監視網",
+        "statusOrLevel": "舌下免疫療法（SLIT）および皮下免疫療法のメディケア・民間保険完全給付",
+        "keyFeature": "全米アレルギー喘息免疫学会（AAAAI）の全米アレルギー局（NAB）が全国の花粉飛散データを公的集計。FDA承認の舌下錠剤による根治療法を広く保険適用。",
+        "source": {
+          "organization": "米国国立アレルギー・感染症研究所 (NIAID) / AAAAI",
+          "title": "Allergen Immunotherapy Guidelines and National Allergy Bureau Network",
+          "url": "https://www.niaid.nih.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦環境庁（UBA）ブタクサ根絶国家アクションプラン（Aktionsprogramm Ambrosia）",
+        "statusOrLevel": "極めてアレルギー性の高い外来種ブタクサ（Ambrosia）の発見・強制駆除の法定義務化",
+        "keyFeature": "土地所有者に対し敷地内のブタクサ除去を法律で義務付け。ドイツ気象局（DWD）が花粉飛散危険マップを毎日更新し、法定健康保険がアレルゲン特異的免疫療法を100%カバー。",
+        "source": {
+          "organization": "ドイツ連邦環境庁 (UBA) / ドイツ気象局 (DWD)",
+          "title": "Aktionsprogramm Ambrosia zur Bekämpfung hochallergener Pflanzen",
+          "url": "https://www.umweltbundesamt.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "気象庁（Met Office）花粉予報ネットワークおよびNHS免疫療法アクセス枠組み",
+        "statusOrLevel": "草本花粉（Grass Pollen）等の飛散ピーク予測とNHSアレルギー専門外来連携",
+        "keyFeature": "全土の観測ステーションから花粉飛散警告をリアルタイム提供。重症花粉症患者に対し、英国国立医療技術評価機構（NICE）が承認した減感作療法を原則無償給付。",
+        "source": {
+          "organization": "英国気象庁 (Met Office) / NHS England",
+          "title": "Met Office Pollen Forecast Service and NHS Hay Fever Treatment Guidance",
+          "url": "https://www.metoffice.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "公衆衛生法典（Code de la santé publique）アレルギー性植物撲滅令およびRNSA",
+        "statusOrLevel": "アレルギー誘発植物（ブタクサ等）の繁茂防止を市町村長（Maire）の警察権限に明記",
+        "keyFeature": "好気性アレルゲン監視全国ネットワーク（RNSA）が都市の樹木植栽計画に助言。自治体が公園や街路樹にスギ・カバノキ等の高花粉樹木を植えることを条例で制限。",
+        "source": {
+          "organization": "フランス連帯・保健省 (Ministère de la Santé) / RNSA",
+          "title": "Lutte contre les espèces végétales nuisibles à la santé humaine (Ambroisie)",
+          "url": "https://sante.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "ヴィクトリア州雷雨喘息（Thunderstorm Asthma）早期警戒予測システム",
+        "statusOrLevel": "ライグラス花粉破砕による突発的大規模呼吸器ショックの早期探知・警報体制",
+        "keyFeature": "2016年の多数死亡事故を教訓に、花粉濃度・湿度・強風を組み合わせた世界初の雷雨喘息予報を気象局と保健省が共同運用。救急車指令台と直結し事前出動態勢を構築。",
+        "source": {
+          "organization": "オーストラリア気象局 (BOM) / ヴィクトリア州保健省",
+          "title": "Epidemic Thunderstorm Asthma Forecast System and Health Warnings",
+          "url": "https://www.health.vic.gov.au"
+        }
+      }
+    ]
   }
 }

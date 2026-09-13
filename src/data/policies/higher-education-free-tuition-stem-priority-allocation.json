@@ -185,5 +185,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Building"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の高等教育（大学・大学院）無償化・減免における理工農系（STEM分野）傾斜配分比較",
+    "comparisonSummary": "産業競争力を支える高度デジタル・バイオ人材を育成するため、豪州の就職可能卒業生法（STEM専攻の授業料半減・文系引き上げ）、米国のCHIPS法大学院奨学金、ドイツの大学無償化など、専攻分野に応じた戦略的公費配分が進んでいます。",
+    "countries": [
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "就職可能卒業生法（Job-ready Graduates Package - 高等教育資金法改正）",
+        "statusOrLevel": "STEM（理学・数学・情報・工学）・農学・看護の学生自己負担学費を大幅引き下げ（最大50%以上減免）",
+        "keyFeature": "国の雇用成長分野（STEM・農業・医療）の学生負担額を意図的に引き下げる一方、人文学等の文系学費引き上げを行い、若者の専攻選択を国策技術分野へ大胆に誘導。",
+        "source": {
+          "organization": "オーストラリア教育省 (Department of Education)",
+          "title": "Job-ready Graduates Package: Higher education funding clusters and student contributions",
+          "url": "https://www.education.gov.au"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "CHIPSおよび科学法（CHIPS and Science Act）高等教育STEMイニシアチブ",
+        "statusOrLevel": "半導体・量子・クリーンエネルギー専攻学生への巨額連邦奨学金および学費免除助成",
+        "keyFeature": "NSFを通じて半導体製造・材料工学・AIを専攻する大学院生・学部生に全額免税の生活費スティペンドと授業料全額補助を集中投入。マイノリティ支援大学（MSI）枠も拡充。",
+        "source": {
+          "organization": "米国全米科学財団 (NSF) / 商務省 (DOC)",
+          "title": "CHIPS and Science Act: STEM Education and Workforce Development Programs",
+          "url": "https://www.nsf.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "大学授業料無料原則（Studiengebührenfreiheit）および高科技・ミント戦略（MINT-Aktionsplan）",
+        "statusOrLevel": "全専攻の学費完全無料を維持しつつ、MINT（数学・情報・自然科学・技術）分野へ国家予算を傾斜配分",
+        "keyFeature": "大学授業料は全分野無料。連邦教育研究省（BMBF）が「MINTアクションプラン2.0」に基づき、理工系ファカルティへの設備投資、女子学生のSTEM進学奨学金を大規模支援。",
+        "source": {
+          "organization": "ドイツ連邦教育研究省 (BMBF)",
+          "title": "MINT-Aktionsplan 2.0: Stärkung der mathematisch-naturwissenschaftlichen Bildung",
+          "url": "https://www.bmbf.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "英国研究・イノベーション機構（UKRI）戦略的スキル協定およびSTEM優先配分",
+        "statusOrLevel": "大学院博士訓練拠点（CDT）への公費集中投入（AI・量子・合成生物学最優先）",
+        "keyFeature": "学生ローン制度において、STEM分野の学位取得者に対する返済免除パイロットや、先端技術産業協同博士課程（Industrial Doctorate）への授業料・生活費全額給付を運用。",
+        "source": {
+          "organization": "英国科学・イノベーション・技術省 (DSIT) / UKRI",
+          "title": "UKRI Doctoral Impact: Allocations for Priority Skills and STEM fields",
+          "url": "https://www.ukri.org"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "France 2030未来スキル・職業投資計画（Compétences et métiers d'avenir: CMA）",
+        "statusOrLevel": "国家重点分野（水素・バッテリー・半導体・バイオ）教育プログラムへの25億ユーロ直接助成",
+        "keyFeature": "理工系大学院やグランゼコール（高等工科学校）の定員増員と無償教育枠を創設。産業界と連携したデュアルシステム（Apprentissage: 有給研修型学位）で学生負担をゼロ化。",
+        "source": {
+          "organization": "フランス高等教育・研究省 (MESR) / SGPI",
+          "title": "France 2030: Dispositif Compétences et métiers d'avenir (CMA)",
+          "url": "https://www.enseignementsup-recherche.gouv.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "先端産業人材育成戦略および契約学科（就職直結型無償学部）制度",
+        "statusOrLevel": "半導体・二次電池・バイオ契約学科における4年間授業料全額免除・生活費給付・就職100%保証",
+        "keyFeature": "ソウル大学やKAIST等の名門大学とサムスン電子・SKハイニックス等が協定。政府が大学定員規制を特例緩和し、理工系先端学科の授業料全額を国と企業が共同負担。",
+        "source": {
+          "organization": "大韓民国教育部 (MOE) / 産業通商資源部",
+          "title": "Strategy for Fostering Talent in Advanced Strategic Industries",
+          "url": "https://www.moe.go.kr"
+        }
+      }
+    ]
+  }
 }

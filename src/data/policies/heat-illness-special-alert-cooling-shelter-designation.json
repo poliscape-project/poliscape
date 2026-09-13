@@ -217,5 +217,89 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Clock"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の極端高温（熱波）・熱中症早期警戒システムおよび公共冷房シェルター（Cooling Shelter）法制比較",
+    "comparisonSummary": "地球沸騰化による猛暑・熱中症死を防止するため、フランスの国家熱波計画（Plan Canicule）、米国の冷房シェルター義務化法、スペインの危険気温時屋外労働禁止など、命を守る冷却空間の確保が法規化されています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "国家熱波計画（Plan National Canicule）および公衆衛生警戒システム",
+        "statusOrLevel": "4色警戒（緑・黄・オレンジ・赤）および赤色（極限高温警報）時の公共冷房施設強制開放",
+        "keyFeature": "2003年の熱波死大惨事を機に法制化。自治体は高齢者・要援護者登録名簿（Registre canicule）を常備し、赤色警報時は電話確認と図書館・博物館等の冷房開放を法定義務化。",
+        "source": {
+          "organization": "フランス連帯・保健省 (Ministère de la Santé) / 衛生総局",
+          "title": "Plan National Canicule et Système d'alerte canicule et santé (SACS)",
+          "url": "https://sante.gouv.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "各州・主要都市クーリングセンター（Cooling Center）法制およびオレゴン州非常用エアコン法",
+        "statusOrLevel": "フェニックス市、ニューヨーク市等における猛暑緊急事態発令と24時間公共冷房所開放",
+        "keyFeature": "オレゴン州では賃貸住宅のエアコン設置を家主が不当に禁止することを違法化。低所得世帯へのエアコン現物支給や、公共施設・コミュニティセンターの冷房シェルター化を義務化。",
+        "source": {
+          "organization": "米国環境保護庁 (EPA) / 連邦緊急事態管理庁 (FEMA)",
+          "title": "Excessive Heat Events Guidebook and Community Cooling Center Strategies",
+          "url": "https://www.epa.gov"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "国家熱波予防行動計画および労働安全衛生令（気象警報連動屋外労働禁止法制）",
+        "statusOrLevel": "気象庁（AEMET）の赤・オレンジ警報発令時における清掃・建設等屋外労働の強制即時中止",
+        "keyFeature": "法律により、極限猛暑警報が発令された時間帯は雇用主が屋外労働を中止または屋内シフトさせることを義務化。違反雇用主には労働監督局が巨額の過料を科す。",
+        "source": {
+          "organization": "スペイン保健省 (Ministerio de Sanidad) / 労働社会経済省",
+          "title": "Plan nacional de actuaciones preventivas de los efectos del exceso de temperaturas",
+          "url": "https://www.sanidad.gob.es"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "猛暑健康アラートシステム（Heat-Health Alert: HHA - UKHSA/Met Office）",
+        "statusOrLevel": "5段階の健康影響ベース猛暑アラート（黄・琥珀・赤）およびNHS体制動員",
+        "keyFeature": "気象情報だけでなく医療現場の受入キャパシティと死亡リスクを直結させて評価。赤色発令時は公共交通機関の減速運行や高齢者施設での空調連続運転を指導。",
+        "source": {
+          "organization": "英国健康安全保障庁 (UKHSA) / 気象庁 (Met Office)",
+          "title": "Adverse Weather and Health Plan: Heat-Health Alert system",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦熱中症対策計画（Hitzeschutzplan）および自治体暑熱対策行動指針",
+        "statusOrLevel": "全自治体に対する熱中症行動計画の策定義務化および薬局・公共施設での涼み処指定",
+        "keyFeature": "ドイツ気象局（DWD）の熱波警報と連動し、病院や介護施設での冷房室確保、給水スタンドの設置、公共図書館等の冷房避難所（Hitzeräume）指定を自治体に義務付け。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG) / 連邦環境省 (BMUV)",
+          "title": "Nationaler Hitzeschutzplan und Muster-Hitzeaktionspläne für Kommunen",
+          "url": "https://www.bundesgesundheitsministerium.de"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "熱ストレス諮問フレームワーク（Heat Stress Advisory）および都市冷却国家戦略",
+        "statusOrLevel": "暑さ指数（WBGT）リアルタイム9段階表示および軍・学校・建設現場の活動制限基準",
+        "keyFeature": "MRT地下鉄駅やショッピングモール、コミュニティクラブを冷房ネットワークとして一体開放。WBGT高値時は屋外活動・体育を即時中止する厳格基準を全国統一運用。",
+        "source": {
+          "organization": "シンガポール国家環境庁 (NEA) / 保健省",
+          "title": "Heat Stress Advisory and Cool Singapore Urban Design Framework",
+          "url": "https://www.nea.gov.sg"
+        }
+      }
+    ]
+  }
 }

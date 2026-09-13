@@ -217,5 +217,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Cpu"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における能動的サイバー防御（Active Cyber Defense: ACD）および情報機関権限比較",
+    "comparisonSummary": "重要インフラを標的とする国家主導サイバー攻撃を未然に阻止するため、通信傍受規制の例外化、攻撃元サーバへの侵入・無力化（ハックバック等）、民生通信ログの監視権限が米英豪独などで法制化されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国家サイバー戦略（National Cybersecurity Strategy）およびサイバー軍「Defend Forward」",
+        "statusOrLevel": "米サイバー軍による敵対国ネットワーク内への事前潜入・無力化作戦の公的実行",
+        "keyFeature": "自国領域外の攻撃インフラをリアルタイムで破壊・無力化する「先制関与（Persistent Engagement）」をドクトリン化。CISAが重要インフラ企業からの攻撃報告を義務化。",
+        "source": {
+          "organization": "米国国土安全保障省サイバーセキュリティ・インフラ安全保障庁 (CISA) / 米サイバー軍",
+          "title": "National Cybersecurity Strategy and DoD Cyber Strategy",
+          "url": "https://www.cisa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国家サイバー軍（National Cyber Force: NCF）および調査権限法（IPA 2016）",
+        "statusOrLevel": "GCHQと軍の合同作戦による合法的な能動的サイバー破壊・妨害作戦の運用",
+        "keyFeature": "裁判官の令状審査に基づく「機器干渉（Equipment Interference: 合法ハッキング）」権限を明文化。国家主導ハッカー集団のマルウェア配布サーバを事前遮断。",
+        "source": {
+          "organization": "英国政府通信本部 (GCHQ) / 国家サイバーセキュリティセンター (NCSC)",
+          "title": "National Cyber Force (NCF) approach to responsible cyber operations",
+          "url": "https://www.gchq.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "重要インフラセキュリティ法改正（SOCI Act）および豪州信号局（ASD）迎撃権限",
+        "statusOrLevel": "重大事案におけるASDによる民間インフラ防護のための直接介入・システム操作権限",
+        "keyFeature": "重要インフラ企業が大規模サイバー攻撃を受けた際、内務大臣の命令によりASD専門官が企業のネットワークに直接介入し攻撃パケットを強制遮断・迎撃可能。",
+        "source": {
+          "organization": "オーストラリア信号局 (ASD) / オーストラリア・サイバーセキュリティセンター (ACSC)",
+          "title": "Security of Critical Infrastructure Act 2018 (SOCI Act) Government assistance powers",
+          "url": "https://www.cyber.gov.au"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦情報セキュリティ庁法（BSIG改正）および基本法第87条a防衛権限議論",
+        "statusOrLevel": "BSIによる能動的ポートスキャン・脆弱性検知権限および軍による対抗措置（Befugnisse）",
+        "keyFeature": "ボットネットの通信サーバ（C&Cサーバ）を司法命令に基づき強制停止（シンクホール化）。憲法上の通信の秘密（基本法第10条）との調整を図りつつ法制化。",
+        "source": {
+          "organization": "ドイツ連邦内務・国土省 (BMI) / 連邦情報セキュリティ庁 (BSI)",
+          "title": "BSI-Gesetz und Aktive Cyberabwehr zur Gefahrenabwehr",
+          "url": "https://www.bsi.bund.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "軍事プログラミング法（LPM 2024-2030）およびANSSI能動的防御権限",
+        "statusOrLevel": "国立情報システムセキュリティ庁（ANSSI）による通信事業者DNSデータ直接分析と脅威中和",
+        "keyFeature": "通信キャリアのネットワーク上に政府の脅威検知プローブを法定義務として設置。国家への重大脅威を察知した場合、攻撃IPアドレスの強制ルーティング遮断を実行。",
+        "source": {
+          "organization": "フランス国立情報システムセキュリティ庁 (ANSSI) / 国防省",
+          "title": "Loi de programmation militaire 2024-2030 et dispositions cyberdéfense",
+          "url": "https://cyber.gouv.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "国家サイバー安保基本法（制定推進）および国家情報院サイバー迎撃体系",
+        "statusOrLevel": "北朝鮮等からの国家支援ハッカー攻撃に対する先制探知・能動的無力化ガイドライン",
+        "keyFeature": "国家情報院（NIS）と国防サイバー司令部が共同で民間通信会社・金融機関とリアルタイム脅威共有網を構築。攻撃インフラの遠隔遮断プロトコルを運用。",
+        "source": {
+          "organization": "大韓民国国家情報院 (NIS) / 科学技術情報通信部",
+          "title": "National Cyber Security Strategy and Active Defense Framework",
+          "url": "https://www.nis.go.kr"
+        }
+      }
+    ]
+  }
 }

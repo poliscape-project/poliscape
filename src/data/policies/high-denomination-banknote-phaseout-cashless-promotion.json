@@ -185,5 +185,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の高額紙幣廃止（デモネタイゼーション）・現金決済上限規制および脱税・マネロン対策比較",
+    "comparisonSummary": "地下経済、脱税、マネーロンダリング、タンス預金の捕捉のため、欧州中央銀行の500ユーロ札発行停止、インドの旧高額紙幣無効化、フランスの1,000ユーロ超現金決済禁止など、現金の流通制限とキャッシュレス化が断行されています。",
+    "countries": [
+      {
+        "country": "欧州中央銀行",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州中央銀行（ECB）500ユーロ紙幣発行停止決定およびEU反マネロン指令（AMLD）",
+        "statusOrLevel": "テロ資金供与・組織犯罪防止を理由とした最高額紙幣（約8万円相当）の新規発行完全終了",
+        "keyFeature": "犯罪組織による大金密輸（スーツケースでの現金運搬）の容積を小さくする高額紙幣の利点を剥奪。さらにEU全域で1万ユーロ以上の商業現金決済を法律で全面禁止。",
+        "source": {
+          "organization": "欧州中央銀行 (ECB) / 欧州委員会",
+          "title": "ECB ends production and issuance of €500 banknote and Anti-Money Laundering Framework",
+          "url": "https://www.ecb.europa.eu"
+        }
+      },
+      {
+        "country": "インド",
+        "countryCode": "IN",
+        "flag": "🇮🇳",
+        "systemName": "2016年デモネタイゼーション（高額紙幣無効化政策）およびUPI電子決済革命",
+        "statusOrLevel": "流通紙幣の86%を占めていた旧500ルピー・1000ルピー札の突如無効化・銀行預金強制",
+        "keyFeature": "タンス預金（ブラックマネー）を銀行口座へ強制流入させ納税捕捉率を劇的に引き上げ。公的即時決済プラットフォーム「UPI」を全国普及させ世界最大のQR決済国へ転換。",
+        "source": {
+          "organization": "インド準備銀行 (RBI) / 財務省",
+          "title": "Withdrawal of Legal Tender Status for Specified Bank Notes and UPI Progress",
+          "url": "https://rbi.org.in"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "通貨金融法典（Code monétaire et financier）現金決済上限規制（Plafond de paiement en espèces）",
+        "statusOrLevel": "フランス居住者による1,000ユーロ（約16万円）以上の現金決済完全法定義務禁止",
+        "keyFeature": "貴金属、自動車、高額商品の現金購入を厳しく禁止し銀行振込・カード決済を強制。税関・税務総局が1万ユーロ以上の国境現金持ち込みを全件電子的登録義務付け。",
+        "source": {
+          "organization": "フランス公共財政総局 (DGFiP) / 経済財務省",
+          "title": "Paiement en espèces: montants maximums autorisés et lutte contre la fraude",
+          "url": "https://www.economie.gouv.fr"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "スウェーデン国立銀行（Riksbank）キャッシュレス社会法制およびeクローナ構想",
+        "statusOrLevel": "店舗における「現金受取拒絶（No Cash）」の合法化とスウィッシュ（Swish）国民決済定着",
+        "keyFeature": "法律上、店舗は「現金不可」の事前掲示があれば現金決済を法的に拒否可能。脱税・強盗リスクをゼロ化。中央銀行は高齢者等の取り残し対策として最低限の現金取扱を法制化。",
+        "source": {
+          "organization": "スウェーデン国立銀行 (Sveriges Riksbank)",
+          "title": "The Riksbank's e-krona project and payment habits in Sweden",
+          "url": "https://www.riksbank.se"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "銀行秘密法（BSA: Bank Secrecy Act）通貨取引報告（CTR: 1万ドル超現金取引即時申告）",
+        "statusOrLevel": "1万ドルを超える現金取引に対するIRSへの報告義務（Form 8300）および100ドル札廃止論争",
+        "keyFeature": "高額現金の分割預金（構造化取引: Structuring）を重大連邦犯罪として厳罰化。タンス預金のマネロン監視網を世界最高水準で維持し、脱税を徹底捕捉。",
+        "source": {
+          "organization": "米国財務省金融犯罪取締ネットワーク (FinCEN) / IRS",
+          "title": "Bank Secrecy Act and Form 8300 Report of Cash Payments Over $10,000",
+          "url": "https://www.fincen.gov"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "所得税法におけるクレジットカード・電子決済等使用額所得控除制度",
+        "statusOrLevel": "タンス預金・現金商売を撲滅するための「クレカ・デビットカード決済額の所得税控除」",
+        "keyFeature": "消費者が電子決済した金額の一定割合を所得税から控除する世界的減税策を導入。零細商店にもカード端末設置を法定義務化し、地下経済比率を劇的に縮小。",
+        "source": {
+          "organization": "大韓民国国税庁 (NTS) / 企画財政部",
+          "title": "Income Deduction for Credit Card Usage and Anti-Tax Evasion Policies",
+          "url": "https://www.nts.go.kr"
+        }
+      }
+    ]
+  }
 }

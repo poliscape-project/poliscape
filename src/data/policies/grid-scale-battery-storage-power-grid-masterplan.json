@@ -185,5 +185,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Layers"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の系統用大型蓄電池（Grid-Scale BESS）導入法制および送電網マスタープラン比較",
+    "comparisonSummary": "再エネの出力抑制（カーテイルメント）解消と電力系統の安定化に向け、英国の容量市場改革、米国のFERC指令841号（市場参加権）、豪州の超高速周波数応答市場など、系統用バッテリーの収益性確保と送電網統合が急速に進んでいます。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "送電網接続改革（Clean Power 2030）およびNational Grid ESO動的周波数応答（DC/DM）",
+        "statusOrLevel": "欧州最大規模（数ギガワット級）の系統用蓄電池の稼働および二重課税（最終需要家課税）の全廃",
+        "keyFeature": "蓄電時と放電時の二重の送電利用料金・課税を法律で完全撤廃。周波数安定化市場（Dynamic Containment）でのミリ秒単位の応答に対し高単価インセンティブを付与。",
+        "source": {
+          "organization": "英国エネルギー規制局 (Ofgem) / 国家送電網運用会社 (NESO)",
+          "title": "Electricity storage: regulatory treatment and frequency response markets",
+          "url": "https://www.ofgem.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦エネルギー規制委員会（FERC）指令841号（Order 841: 蓄電池の卸市場参入義務化）",
+        "statusOrLevel": "全米すべての独立系統運用者（RTO/ISO）における蓄電池のエネルギー・予備力市場対等参加",
+        "keyFeature": "蓄電池を独立したアセットクラスとして位置づけ、容量市場、アンシラリーサービス、エネルギースポット市場への完全アクセスを保障。カリフォルニア州では夕方ピーク供給の主力化。",
+        "source": {
+          "organization": "米国連邦エネルギー規制委員会 (FERC)",
+          "title": "FERC Order 841: Electric Storage Participation in Regional Markets",
+          "url": "https://www.ferc.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家電力市場（NEM）超高速周波数制御（Very Fast FCAS: 1秒以内応答市場）",
+        "statusOrLevel": "世界初のメガ蓄電池（ホーンスデール・ビッグバッテリー等）成功と全土へのギガワット展開",
+        "keyFeature": "石炭火力急停止に伴う系統崩壊を防ぐため、1秒以内に電力を注入・吸収する市場を新設し蓄電池の投資回収を劇的に加速。送電線混雑を緩和する仮想送電線（Virtual Transmission）運用。",
+        "source": {
+          "organization": "オーストラリア・エネルギー市場運営会社 (AEMO) / AEMC",
+          "title": "National Electricity Market (NEM) Fast Frequency Response implementation",
+          "url": "https://www.aemo.com.au"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "送電網開発計画（Netzentwicklungsplan 2037/2045）およびグリッドブースター（Netzbooster）",
+        "statusOrLevel": "送電網の送電容量を限界まで引き上げるための数ギガワット規模の戦略的系統蓄電池配備",
+        "keyFeature": "北部の洋上風力電力を南部の産業地帯へ送る主要送電線の運用予備力として、送電会社（TenneT, TransnetBW等）が超大型グリッドブースター蓄電池を公設整備。",
+        "source": {
+          "organization": "ドイツ連邦ネットワーク庁 (BNetzA) / 連邦経済気候保護省",
+          "title": "Netzentwicklungsplan Strom und Großbatteriespeicher (Netzbooster)",
+          "url": "https://www.bundesnetzagentur.de"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "国家エネルギー局（NEA）新エネルギー蓄電池併設強制令および新型エネルギー貯蔵発展計画",
+        "statusOrLevel": "メガソーラー・風力発電所に対する定格出力10%〜20%（2時間以上）の蓄電設備併設義務化",
+        "keyFeature": "世界最大の蓄電池導入スピード。独立シェアリング蓄電所（独立蓄能電站）の送電網接続を優先し、容量補償金とピークシフト価格差による市場型収益モデルを全国展開。",
+        "source": {
+          "organization": "中国国家発展改革委員会 (NDRC) / 国家能源局 (NEA)",
+          "title": "14th Five-Year Plan for the Development of New Energy Storage",
+          "url": "https://www.nea.gov.cn"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "第10次電力需給基本計画における系統用エネルギー貯蔵システム（BESS）中央契約市場",
+        "statusOrLevel": "済州島および全南・慶南地域での出力抑制対策としての大規模蓄電池オークション",
+        "keyFeature": "太陽光過剰発電によるブラックアウトを防ぐため、電力取引所（KPX）が蓄電池事業者と15年間の長期固定価格契約（長周期BESS中央契約）を締結し投資回収を公的保証。",
+        "source": {
+          "organization": "大韓民国産業通商資源部 (MOTIE) / 韓国電力公社 (KEPCO)",
+          "title": "Long-Duration Energy Storage System Central Contract Market Rules",
+          "url": "https://www.motie.go.kr"
+        }
+      }
+    ]
+  }
 }

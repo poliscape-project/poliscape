@@ -186,5 +186,89 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の歴史的遺産（城郭・宮殿・修道院）の宿泊施設化・ヘリテージホテル法制比較",
+    "comparisonSummary": "文化財の保存費用調達と高付加価値観光の両立に向け、スペインの国営パラドール、ポルトガルのポウザーダ、イタリアの分散型ホテル（アルベルゴ・ディフーゾ）など、文化財保護法と建築・消防基準を高度に調和させた宿泊活用が定着しています。",
+    "countries": [
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "国営パラドール制度（Paradores de Turismo de España）",
+        "statusOrLevel": "中世の城郭・修道院・宮殿を修復した約100カ所の国営高級ホテルネットワーク",
+        "keyFeature": "1928年創設。文化財保護基準を満たしながら現代的なホテル設備（耐火・空調・耐震）を調和させる特別建築基準を運用。宿泊収益を全額文化財の修繕・保存基金へ還流。",
+        "source": {
+          "organization": "スペイン産業・観光省 (MINTUR) / Paradores",
+          "title": "Red de Paradores de Turismo: Modelo de preservación del patrimonio histórico",
+          "url": "https://www.parador.es"
+        }
+      },
+      {
+        "country": "ポルトガル",
+        "countryCode": "PT",
+        "flag": "🇵🇹",
+        "systemName": "ポウザーダ国家プログラム（Pousadas de Portugal）および歴史遺産活用法制",
+        "statusOrLevel": "国宝・重要文化財の城塞・修道院を民間コンセッション方式でヘリテージホテル化",
+        "keyFeature": "国家文化遺産総局（DGPC）の厳格な監督の下、歴史的構造を破壊しない可逆的（リバーシブル）内装工法を義務付け。過疎内陸部の歴史遺産を再生し地方創生を牽引。",
+        "source": {
+          "organization": "ポルトガル文化総局 (DGPC) / ポルトガル観光局 (Turismo de Portugal)",
+          "title": "Programa Revive: Concessão de património público para fins turísticos",
+          "url": "https://revive.turismodeportugal.pt"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "分散型ホテル法制（Albergo Diffuso）および文化財・景観法典（Codice Urbani）",
+        "statusOrLevel": "歴史的旧市街（ボルゴ）の空き家・中世邸宅・修道院を一括統合したまちごとホテル化",
+        "keyFeature": "新築工事を一切行わず、既存の歴史的建築群を客室やレセプションに再定義する法規定。文化省が景観保存と消防基準の適用除外・代替措置を柔軟に認可。",
+        "source": {
+          "organization": "イタリア観光省 (Ministero del Turismo) / 文化省 (MiC)",
+          "title": "Disciplina dell'Albergo Diffuso e valorizzazione dei borghi storici",
+          "url": "https://www.ministeroturismo.gov.it"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ナショナル・トラスト（National Trust）およびイングリッシュ・ヘリテージ歴史的別荘貸出",
+        "statusOrLevel": "指定建造物（Grade I/II* Listed Buildings）城郭・コテージのホリデーレンタル事業",
+        "keyFeature": "歴史的建造物法に基づく建築許可（Listed Building Consent）を取得しつつ宿泊施設化。消防設備には目立たない無線火災報知器や水噴霧ミスト消火システムを採用。",
+        "source": {
+          "organization": "英国ヒストリック・イングランド (Historic England) / National Trust",
+          "title": "Adaptive reuse of listed buildings for holiday accommodation and commercial use",
+          "url": "https://historicengland.org.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "歴史的記念物法（Loi sur les monuments historiques）およびヘリテージ税制優遇（Défiscalisation）",
+        "statusOrLevel": "個人・法人が所有する歴史的シャトー（城郭）の宿泊施設化に対する修繕費100%税額控除",
+        "keyFeature": "城主が一般公開や宿泊施設（Chambre d'hôtes）として活用する場合、多額の修繕費や固定資産税を所得控除できる税制を設計。持続可能な民間文化財保存を後押し。",
+        "source": {
+          "organization": "フランス文化省 (Ministère de la Culture) / 観光開発機構 (Atout France)",
+          "title": "Monuments historiques: fiscalité, valorisation touristique et hébergement de prestige",
+          "url": "https://www.culture.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "各連邦州記念物保護法（Denkmalschutzgesetze）および古城ホテル（Burghotels）認定制度",
+        "statusOrLevel": "ライン渓谷等の世界遺産古城・修道院における文化財適合的ホテル営業許可",
+        "keyFeature": "記念物保護局（Denkmalschutzbehörde）と消防当局が共同で個別安全計画（Brandschutzkonzept）を策定。避難階段の景観調和を義務付けつつ営業を公認。",
+        "source": {
+          "organization": "ドイツ各連邦州記念物保護局 / 連邦城郭・庭園・宮殿協会",
+          "title": "Nutzung von Baudenkmälern als Hotel- und Gastronomiebetriebe",
+          "url": "https://www.denkmalschutz.de"
+        }
+      }
+    ]
+  }
 }

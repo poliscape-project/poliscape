@@ -217,5 +217,89 @@
         "commentStandard": "「公的医療保険の頼もしさが損なわれ、民間がん保険に入れない低・中所得層の医療格差が広がる」"
       }
     ]
+  },
+  "international": {
+    "title": "世界の高額医療費自己負担限度額（Stop-Loss / Out-of-Pocket Maximum）および所得連動上限比較",
+    "comparisonSummary": "高額な抗がん剤や難病治療薬の登場に伴う医療財政逼迫と患者の医療破産防止のバランスをとるため、米国のACAアウト・オブ・ポケット上限、ドイツの所得1〜2%上限ルール、北欧の定額キャップなど、所得に応じた安全網が各国で機能しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "医療費負担適正化法（ACA / オバマケア）最大自己負担上限（Out-of-Pocket Maximum）",
+        "statusOrLevel": "全民間医療保険に対し年間自己負担上限（個人約9,450ドル、家族約1万8,900ドル）を法定義務化",
+        "keyFeature": "免責額や20%共同保険料の累計が法定上限に達した後は、保険会社が以降の医療費を100%全額負担。医療破産を防ぐ連邦絶対的セーフティネットとして機能。",
+        "source": {
+          "organization": "米国保健福祉省 (HHS) / 保険監督官協会 (NAIC)",
+          "title": "Affordable Care Act: Out-of-Pocket Maximum Guidelines and Marketplace Plans",
+          "url": "https://www.healthcare.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "法定健康保険（SGB V）自己負担過重負担免除（Überforderungsklausel: 年収上限ルール）",
+        "statusOrLevel": "年間すべての公的医療自己負担上限を「世帯総年収の2%（重度慢性疾患患者は1%）」と法定化",
+        "keyFeature": "累計負担が年収の1%（慢性疾患）に達した時点で健康保険組合から「免除証明書」が交付され、以降の薬局定額負担や入院費（日額10ユーロ）が全額ゼロ免除される。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG) / GKV連邦協会",
+          "title": "Belastungsgrenze und Befreiung von Zuzahlungen in der GKV (§ 62 SGB V)",
+          "url": "https://www.bundesgesundheitsministerium.de"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "医療法（Hälso- och sjukvårdslag）高額療養費保護限度額（Högkostnadsskydd）",
+        "statusOrLevel": "外来受診費年間上限約1,300クローナ（約1万8,000円）・処方薬年間上限約2,600クローナ",
+        "keyFeature": "所得に関係なく極めて低い絶対上限額を設定。12カ月間の累計支払額が上限に達すると自動的に「無料カード（Frikort）」がアプリに発行され、以降の医療費は完全無料。",
+        "source": {
+          "organization": "スウェーデン公衆衛生庁 (Folkhälsomyndigheten) / SKR",
+          "title": "Högkostnadsskydd för öppen hälso- och sjukvård samt läkemedel",
+          "url": "https://www.folkhalsomyndigheten.se"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国民保健サービス法（NHS Act 2006）無料原則（自己負担上限設定不要の全額公費保障）",
+        "statusOrLevel": "NHS指定医療機関での外来・入院・手術・抗がん剤治療費の自己負担完全ゼロ（0円）",
+        "keyFeature": "一般税財源により運営されるため、高額な医療費であっても患者に請求されること自体がない。患者の経済力による受診抑制を排除した究極のセーフティネット。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS England) / 保健省",
+          "title": "NHS constitution: principles of healthcare free at the point of delivery",
+          "url": "https://www.england.nhs.uk"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "国民健康保険法 本人負担上限制（所得分位別年間自己負担上限スライド制）",
+        "statusOrLevel": "所得10分位に応じて年間最低約87万ウォンから最高約1,014万ウォンまでの上限設定",
+        "keyFeature": "事前適用（病院窓口で最高上限額を超えた分は健保公団が直接病院に支払い）と事後精算（年間累計超過分を患者口座へ自動返還）の二段構えで医療破産を徹底遮断。",
+        "source": {
+          "organization": "大韓民国国民健康保険公団 (NHIS) / 保健福祉部",
+          "title": "National Health Insurance Copayment Ceiling System and Refund Procedures",
+          "url": "https://www.nhis.or.kr"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "社会保障法典（Code de la sécurité sociale）長期慢性疾患（ALD 30）100%全額償還制度",
+        "statusOrLevel": "がん・重度心臓病・難病等30指定疾患の治療費自己負担完全免除（0%負担）",
+        "keyFeature": "高額な医療費が発生する重篤・慢性疾患に該当する場合、主治医の申請により公的医療保険が治療費を100%直接負担。残余の少額定額費も連帯互助保険（CSS）で吸収。",
+        "source": {
+          "organization": "フランス公的医療保険機構 (Assurance Maladie - Ameli)",
+          "title": "Prise en charge à 100% des affections de longue durée (ALD)",
+          "url": "https://www.ameli.fr"
+        }
+      }
+    ]
   }
 }

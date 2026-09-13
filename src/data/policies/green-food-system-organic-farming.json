@@ -261,5 +261,89 @@
         "commentStandard": "「少しの虫食いや形の悪さを嫌う消費者の意識が変わらない限り、割高な有機農産物は売れ残って廃棄になってしまう」"
       }
     ]
+  },
+  "international": {
+    "title": "世界の持続可能農業・有機農業（オーガニック）拡大および化学農薬・肥料削減目標法制比較",
+    "comparisonSummary": "気候変動対策と生物多様性保全のため、EUのファーム・トゥ・フォーク戦略（農地25%有機化・農薬50%削減目標）、オーストリアの世界最高水準有機農業、スイスの農薬ゼロ直接支払など、野心的な数値目標と補助金の連動が進んでいます。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "ファーム・トゥ・フォーク戦略（Farm to Fork Strategy）および有機農業行動計画",
+        "statusOrLevel": "2030年までに全農地の25%を有機農業に転換・化学農薬の使用とリスクを50%削減する目標",
+        "keyFeature": "EU共通農業政策（CAP）予算の25%を環境直接支払（Eco-schemes）に充当。有機転換支援交付金を倍増させ、学校給食や公共調達を有機農産物優先に義務付け。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Farm to Fork Strategy and Action Plan for the Development of Organic Production",
+          "url": "https://ec.europa.eu"
+        }
+      },
+      {
+        "country": "オーストリア",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "systemName": "オーストリア農村環境計画（ÖPUL: Österreichisches Programm für umweltgerechte Landwirtschaft）",
+        "statusOrLevel": "全農地面積の約27%（世界最高水準）がすでに有機認証取得完了・バイオ農業先進国",
+        "keyFeature": "小規模家族農場を守るため早くから有機転換を全額補償。高品質オーガニック乳製品・牛肉のブランド化に成功し、一般スーパー店頭のオーガニック比率が1割超を定着。",
+        "source": {
+          "organization": "オーストリア連邦農業・地域・観光省 (BML) / Agrarmarkt Austria",
+          "title": "ÖPUL 2023: Agrarumweltprogramm und biologische Wirtschaftsweise",
+          "url": "https://www.bml.gv.at"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "国家持続可能農業戦略「Ökolandbau 30% bis 2030（2030年有機30%目標法制）」",
+        "statusOrLevel": "連邦政府による研究・普及予算の大幅拡充と連邦有機食品ラベル（Bio-Siegel）運用",
+        "keyFeature": "連邦食料農業省（BMEL）が連邦政府・軍・公立機関の食堂における有機食材比率30%を義務付け。有機種苗や輪作技術の研究開発に数百億円を優先投資。",
+        "source": {
+          "organization": "ドイツ連邦食料・農業省 (BMEL)",
+          "title": "Zukunftsstrategie ökologischer Landbau und 30 Prozent Bio bis 2030",
+          "url": "https://www.bmel.de"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦農業直接支払令（DZV）農薬リスク削減法制（Pflanzenschutzmittel-Absenkpfad）",
+        "statusOrLevel": "化学農薬散布リスクの50%削減法定義務化および除草剤不使用農家への特別加算金",
+        "keyFeature": "地下水水源地周辺での農薬使用を厳格禁止。化学肥料・農薬を使用しない農家にヘクタールあたり高額な直接支払金を交付し、環境適合農業（IP-Suisse/Bio Suisse）を標準化。",
+        "source": {
+          "organization": "スイス連邦農業局 (BLW) / 環境局 (BAFU)",
+          "title": "Absenkpfad Pflanzenschutzmittel und Nährstoffe in der Landwirtschaft",
+          "url": "https://www.blw.admin.ch"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "エガリム法（Loi EGAlim）および国家有機農業野心計画（Ambition Bio）",
+        "statusOrLevel": "公的学校給食・病院給食における有機食材20%以上使用の完全法定義務化",
+        "keyFeature": "公共調達での「有機20%＋持続可能認証食材50%」を法定基準化し確実な需要を創出。農薬削減指標（NODU）を設定し高リスク農薬の課税率を引き上げ。",
+        "source": {
+          "organization": "フランス農業・食料主権省 (Ministère de l'Agriculture)",
+          "title": "Loi EGAlim: 50% de produits durables dont 20% de bio en restauration collective",
+          "url": "https://agriculture.gouv.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "USDA国立有機プログラム（NOP）および有機移行イニシアチブ（Organic Transition Initiative）",
+        "statusOrLevel": "3億ドルの連邦予算による有機転換農家への直接技術・金融支援パッケージ",
+        "keyFeature": "連邦規則（7 CFR Part 205）に基づく世界最大の単一オーガニック市場。慣行農業から有機への移行期間（3年間）の減収分を作物保険や技術伴走で手厚く補填。",
+        "source": {
+          "organization": "米国農務省 (USDA) 農業マーケティング局 (AMS)",
+          "title": "National Organic Program (NOP) and Organic Transition Initiative",
+          "url": "https://www.usda.gov"
+        }
+      }
+    ]
   }
 }

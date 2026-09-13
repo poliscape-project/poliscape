@@ -185,5 +185,89 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "HeartHandshake"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の国立公園・自然保護区における地熱発電法制および温泉・観光業共生モデル比較",
+    "comparisonSummary": "ベースロード再エネとしての地熱資源開発と自然景観・温泉源保護の両立に向け、アイスランドのカスケード多段階利用、米国の保護区外傾斜掘削技術、ニュージーランドのマオリ共有ガバナンスなど、高度な共生法制が整備されています。",
+    "countries": [
+      {
+        "country": "アイスランド",
+        "countryCode": "IS",
+        "flag": "🇮🇸",
+        "systemName": "電力法（Electricity Act）および地熱リソースパーク・カスケード多段階利用制度",
+        "statusOrLevel": "発電（電力100%再エネ）・地域熱供給・温泉観光（ブルーラグーン）・CO2回収の完全共生",
+        "keyFeature": "地熱発電の排水熱水を世界的温泉リゾート「ブルーラグーン」や温室農業、バイオテクノロジー施設へ多段階供給。開発を観光資源の創出へと転換する国家モデルを確立。",
+        "source": {
+          "organization": "アイスランド国家エネルギー庁 (Orkustofnun)",
+          "title": "Geothermal Energy in Iceland and Master Plan for Nature and Energy Utilization",
+          "url": "https://orkustofnun.is"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "地熱水蒸気法（Geothermal Steam Act of 1970）および国立公園保護特別条項",
+        "statusOrLevel": "イエローストーン等重要国立公園の温泉源保護（境界外からの掘削影響評価義務化）",
+        "keyFeature": "国立公園局（NPS）が指定する熱水地質保護区内での掘削を禁止する一方、連邦土地管理局（BLM）公有地において環境影響評価（EIS）を条件に大規模傾斜掘削地熱開発を認可。",
+        "source": {
+          "organization": "米国連邦土地管理局 (BLM) / 国立公園局 (NPS)",
+          "title": "Geothermal Energy Leasing Regulations and National Park Water Resources Protection",
+          "url": "https://www.blm.gov"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "資源管理法（Resource Management Act: RMA）ロトルア地熱保護区およびマオリ共同管理",
+        "statusOrLevel": "歴史的温泉地ロトルアにおける地熱井掘削禁止ゾーンとマオリ先住民族トラスト共同開発",
+        "keyFeature": "温泉街の間欠泉水位低下事故を受け、温泉街中心部から半径1.5km以内の掘削を全廃。郊外での深層地熱開発利益を先住民や地域コミュニティに還元するガバナンスを構築。",
+        "source": {
+          "organization": "ニュージーランド環境省 (MFE) / ワイカト地方協議会",
+          "title": "Rotorua Geothermal Regional Plan and Protected Geothermal Features",
+          "url": "https://environment.govt.nz"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦鉱業法（Bundesberggesetz: BBergG）深層地熱利用（Tiefe Geothermie）特例法制",
+        "statusOrLevel": "バイエルン州・ミュンヘン都市圏における温泉・地域熱供給共生型深層地熱発電",
+        "keyFeature": "景観を損なわない地下密閉型熱水ループを採用。地下深くから熱水を取り出し熱交換後に100%地下へ再還元するため、浅い温泉帯の水位や泉質への影響を科学的に遮断。",
+        "source": {
+          "organization": "ドイツ連邦経済・気候保護省 (BMWK) / 連邦環境庁 (UBA)",
+          "title": "Erkundung und Nutzung tiefer Geothermie und Bergrechtliche Genehmigungsverfahren",
+          "url": "https://www.bmwk.de"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "トスカーナ州ラルデレロ地熱地帯景観・熱水環境協定法制",
+        "statusOrLevel": "世界最古の商用地熱発電所（1913年稼働）とトスカーナ歴史的丘陵景観の100年共生",
+        "keyFeature": "ゼロエミッション密閉プラント（AMISシステムによる水銀・硫化水素完全除去）を義務化。発電廃熱を周辺住民への無償地域暖房や温泉施設に供給し地域合意を維持。",
+        "source": {
+          "organization": "イタリア環境・エネルギー安全保障省 (MASE) / トスカーナ州",
+          "title": "Linee guida per la geotermia a media e alta entalpia e tutela paesaggistica",
+          "url": "https://www.mase.gov.it"
+        }
+      },
+      {
+        "country": "フィリピン",
+        "countryCode": "PH",
+        "flag": "🇵🇭",
+        "systemName": "再生可能エネルギー法（RA 9513）地熱特別区および国立保護区共生令",
+        "statusOrLevel": "世界第3位の地熱発電国・国立保護区境界内での厳格な環境遵守証明書（ECC）開発",
+        "keyFeature": "発電事業者に対し、森林再生義務と地元自治体への売電収入ロイヤリティ直接配分を法定義務化。温泉観光地と発電所をエコツーリズム見学ルートとして一体開発。",
+        "source": {
+          "organization": "フィリピンエネルギー省 (DOE) / 環境天然資源省 (DENR)",
+          "title": "Renewable Energy Act of 2008: Geothermal Operating Contracts and Environmental Guidelines",
+          "url": "https://www.doe.gov.ph"
+        }
+      }
+    ]
+  }
 }

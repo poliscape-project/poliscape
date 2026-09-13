@@ -247,5 +247,89 @@
         "commentStandard": "「限られた教育予算を高所得層の私立学費補助に充てる優先順位には強い疑問がある」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国における後期中等教育（高校段階）授業料完全無償化・所得制限撤廃法制比較",
+    "comparisonSummary": "教育の機会均等と少子化対策のため、韓国、フランス、ドイツ、英国、北欧諸国などでは、親の所得に関わらず公立高校の授業料を「完全無償（所得制限なし）」とする公教育無償原則が定着しています。",
+    "countries": [
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "初中等教育法改正（高校無償教育完成: 2021年施行）",
+        "statusOrLevel": "全高校生に対する入学金・授業料・学校運営支援費・教科書費の完全無償化（所得制限ゼロ）",
+        "keyFeature": "親の年収に関わらず全員を対象に完全無償化。生徒1人あたり年間約160万ウォンの教育費負担をゼロ化し、国家と地方教育財政交付金で全額公費負担。",
+        "source": {
+          "organization": "大韓民国教育部 (MOE) / 市道教育庁",
+          "title": "Complete Implementation of High School Free Education Policy",
+          "url": "https://www.moe.go.kr"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "教育法典（Code de l'éducation）公立高校完全無償原則（Gratuité de l'enseignement）",
+        "statusOrLevel": "公立リセ（高校）の授業料完全無料＋低所得世帯向け新学期手当（ARS）現金給付",
+        "keyFeature": "19世紀以来の公教育無償原則に基づき、高校授業料は全額公費。さらに教科書代・学用品代として新学期に児童1人あたり数百ユーロの手当を所得連動で直接給付。",
+        "source": {
+          "organization": "フランス国民教育・青少年省 (MENJ) / CAF",
+          "title": "Principe de gratuité de l'enseignement public et Allocation de rentrée scolaire (ARS)",
+          "url": "https://www.education.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "各連邦州学校法（Schulgesetze der Länder）および教材費無償（Lernmittelfreiheit）原則",
+        "statusOrLevel": "公立ギムナジウム・全日制職業高校の授業料完全無料（所得制限なし）",
+        "keyFeature": "初等教育から中等・高等教育まで一貫して授業料無料。教科書や学習用端末の無償貸与を州法で義務付け、親の経済力による学力格差を公費で遮断。",
+        "source": {
+          "organization": "ドイツ州文相会議 (KMK) / 連邦教育研究省 (BMBF)",
+          "title": "Schulgesetze der Bundesländer und Prinzip der Lernmittelfreiheit",
+          "url": "https://www.kmk.org"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "教育・技能法2008（Education and Skills Act 2008）18歳までの教育・訓練無償提供",
+        "statusOrLevel": "16〜18歳（シックス・フォーム / FEカレッジ）の公立教育授業料完全無償化",
+        "keyFeature": "18歳までの教育・見習い訓練（アプレンティスシップ）参加を法定義務化。授業料は全員無料であり、困窮世帯の生徒には週ごとの生活支援奨学金（16-19 Bursary）を支給。",
+        "source": {
+          "organization": "英国教育省 (DfE) / 教育・技能資金提供庁 (ESFA)",
+          "title": "16 to 19 education: funding guidance and 16 to 19 Bursary Fund",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "学校法（Skollagen）ギムナジウム学校完全無償化および学生手当（Studiebidrag）",
+        "statusOrLevel": "高校の授業料・給食費・教科書費の完全無償化＋全高校生への月額学生手当無条件給付",
+        "keyFeature": "授業料のみならず、毎日の温かい学校給食も法律で完全無償。さらに16歳以上の全高校生に対し、親の所得に関わらず月額約1,250クローナの小遣い手当を国が直接支給。",
+        "source": {
+          "organization": "スウェーデン国立教育庁 (Skolverket) / CSN",
+          "title": "Skollagen: Kostnadsfri utbildning i gymnasieskolan och studiehjälp",
+          "url": "https://www.skolverket.se"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "各州憲法公教育条項（Public School Clauses: 均等・適切な無償教育保障）",
+        "statusOrLevel": "全米公立ハイスクール（9〜12年生）の完全無償教育（所得制限なし）",
+        "keyFeature": "地方固定資産税と州交付金を財源とし、富裕層から低所得層まで公立高校の授業料は全額ゼロ。スクールバス送迎や低所得者向け無償給食（NSLP）を完備。",
+        "source": {
+          "organization": "米国教育省 (U.S. Department of Education - ED)",
+          "title": "State Constitutional Commitments to Public Education and Free High School",
+          "url": "https://www.ed.gov"
+        }
+      }
+    ]
   }
 }

@@ -155,5 +155,89 @@
       "text": "自治体の手数料是正",
       "color": "bg-teal-50 text-teal-800"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の慈善・自治体寄付金控除における対価・ポイント・リワード付与禁止規制比較",
+    "comparisonSummary": "寄付金税額控除の趣旨を逸脱した商業的ポイント競争や過剰返礼品を防ぐため、米国のIRS見返り規制（Quid Pro Quo）、英国のGift Aid上限ルール、フランスの無対価性原則など、寄付に伴う経済的利益供与の厳格禁止が国際標準です。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "内国歳入法典第170条（慈善寄付金控除）および見返り受領（Quid Pro Quo）開示規則",
+        "statusOrLevel": "寄付の見返りとして金銭的価値・ポイントを受け取った場合の税額控除額からの強制差引",
+        "keyFeature": "寄付者が品物やポイント等の特典を受け取った場合、団体はその金銭価値を明記した書面を発行しなければならず、税額控除は「寄付額マイナス特典価値」のみに制限。",
+        "source": {
+          "organization": "米国財務省内国歳入庁 (IRS)",
+          "title": "Charitable Contributions: Substantiation and Disclosure Requirements (Publication 1771)",
+          "url": "https://www.irs.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ギフト・エイド（Gift Aid）制度における寄付者特典受領上限規則（Donor Benefits Rules）",
+        "statusOrLevel": "寄付に伴う特典価値の上限厳格制限（寄付額100ポンド超の場合は最高5%・上限2,500ポンド）",
+        "keyFeature": "商業ポイントや金券など換金性の高いリワードの提供を法律で完全排除。上限を超える特典を受け取った場合、ギフト・エイドによる税優遇資格が全面無効となる。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC)",
+          "title": "Claiming Gift Aid as a charity: donor benefit limits",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "一般税法典（CGI）第200条（寄付金控除の無対価性原則: Absence de contrepartie）",
+        "statusOrLevel": "寄付の見返りとなる直接・間接の物質的・金銭的利益供与の全面禁止",
+        "keyFeature": "所得税の66%税額控除を認める条件として、寄付者にいかなる商業的メリット（マイル、ポイント、返礼品等）も生じないことを法定義務化。違反団体には認定取消処分。",
+        "source": {
+          "organization": "フランス公共財政総局 (DGFiP)",
+          "title": "Dons aux organismes d'intérêt général: condition d'absence de contrepartie",
+          "url": "https://www.impots.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "税法典（ITAA 1997）控除対象ギフト受領者（DGR）無対価ギフト規定",
+        "statusOrLevel": "寄付者が有形・無形の個人的利益（ポイント還元含む）を受け取る取引の寄付控除否認",
+        "keyFeature": "税務当局（ATO）が寄付を「見返りのない自発的財産移転」と厳格定義。ポイントが付与されるクラファンやショッピング型寄付は通常の売買とみなされ控除対象外。",
+        "source": {
+          "organization": "オーストラリア税務局 (ATO)",
+          "title": "Tax-deductible gifts and what is considered a material benefit",
+          "url": "https://www.ato.gov.au"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "租税通則法（Abgabenordnung: AO § 51ff）公益性および自己私利追及禁止",
+        "statusOrLevel": "寄付に伴う経済的利得の提供に対する公益認定（Gemeinnützigkeit）剥奪",
+        "keyFeature": "寄付控除証明書（Spendenbescheinigung）発行において、寄付者への物品・ポイント供与を厳格禁止。企業やプラットフォームの自己宣伝ポイント付与を税制上遮断。",
+        "source": {
+          "organization": "ドイツ連邦財務省 (BMF)",
+          "title": "Grundsätze zur steuerlichen Anerkennung von Zuwendungen (Spendenrecht)",
+          "url": "https://www.bundesfinanzministerium.de"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "所得税法スプリット・リシーティング規則（Split-Receipting: Advantage Rules）",
+        "statusOrLevel": "寄付によって得られたアドバンテージ（特典・ポイント）の金銭換算および控除額減額",
+        "keyFeature": "カナダ歳入庁（CRA）が管轄。特典価値が寄付額の80%を超える場合は全額控除不可。ポイント付与などの商業インセンティブを徹底的に排除。",
+        "source": {
+          "organization": "カナダ歳入庁 (CRA)",
+          "title": "Split-receipting guidelines and the determination of advantage",
+          "url": "https://www.canada.ca"
+        }
+      }
+    ]
+  }
 }

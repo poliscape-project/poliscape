@@ -231,5 +231,89 @@
         "commentStandard": "「近所の訪問介護が撤退して代わりの事業所も見つからず、週3日の掃除や入浴支援が途絶えて自宅で生活できなくなる恐怖がある」"
       }
     ]
+  },
+  "international": {
+    "title": "世界の在宅訪問介護（Home Care）公的報酬・最低給与保障および事業継続支援比較",
+    "comparisonSummary": "在宅介護の崩壊やヘルパー不足・中小事業所の経営破綻を防ぐため、ドイツの物価スライド連動給付増額、フランスの最低時間単価（Tarif plancher）法制化、豪州の事業継続直接助成など、公費による手厚い下支えが講じられています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "介護支援・負担軽減法（PUEG: 2024年施行）および訪問介護現物給付（Pflegesachleistung）自動引上げ",
+        "statusOrLevel": "訪問介護報酬の5%法定引き上げ＋介護従事者への労働協約（Tarifvertrag）最低給与支払義務化",
+        "keyFeature": "インフレに対応し公的給付単価を法定増額。事業所には地域標準の協約賃金の支払いを義務付け、その人件費増額分を介護金庫（Pflegekassen）が全額報酬上乗せで補填。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG)",
+          "title": "Pflegeunterstützungs- und -entlastungsgesetz (PUEG) und Pflegesachleistungen",
+          "url": "https://www.bundesgesundheitsministerium.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "社会保障財政法（LFSS）訪問介護最低国家時間単価（Tarif plancher national）",
+        "statusOrLevel": "自治体による訪問介護買い取り単価に全国統一の最低下限（1時間あたり約23ユーロ〜）を法定義務化",
+        "keyFeature": "県（Département）による買い叩きを防ぐため、国が下限価格を設定。さらにへき地訪問に対する移動時間手当や車両リース費用の公費助成パッケージ（Dotation complémentaire）を実施。",
+        "source": {
+          "organization": "フランス連帯・家族省 (Ministère des Solidarités) / CNSA",
+          "title": "Tarif plancher national et dotation complémentaire pour les services d'aide à domicile",
+          "url": "https://www.cnsa.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "在宅支援ケアプログラム（Support at Home Program）および介護士給与15%公費引き上げ",
+        "statusOrLevel": "連邦政府全額公費負担による在宅介護従事者の法定最低賃金一律15%引き上げ断行",
+        "keyFeature": "公正労働委員会（FWC）の判断に基づき、連邦政府が数十億豪ドルを投入してヘルパーの給与を15%上乗せ支給。中小訪問事業者の倒産を防ぐため直接経営助成金を交付。",
+        "source": {
+          "organization": "オーストラリア保健・高齢者福祉省 (Department of Health and Aged Care)",
+          "title": "Support at Home program and aged care worker wage increase funding",
+          "url": "https://www.health.gov.au"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "公正ケアコスト改革（Fair Cost of Care）および成人社会的ケア市場維持基金",
+        "statusOrLevel": "地方自治体に対し民間訪問介護事業者への「公正な実費（Fair Cost）」支払い調査と公費補填",
+        "keyFeature": "自治体の財政難による低単価発注で訪問介護事業者が撤退する危機に対し、中央政府が「市場持続基金（MSIF）」を創設し、事業者の人件費・燃料費上昇分を地方交付金で直接支援。",
+        "source": {
+          "organization": "英国保健社会的ケア省 (DHSC)",
+          "title": "Market Sustainability and Improvement Fund (MSIF) for adult social care",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "社会サービス法（Socialtjänstlag）公営訪問介護（Hemtjänst）および自治体直接雇用原則",
+        "statusOrLevel": "訪問介護の約7割を自治体が直接運営・民間事業者への適正利益保証と厳格監査",
+        "keyFeature": "民間任せの市場競争による撤退・質低下を防ぐため、基礎自治体（Kommun）が公務員ヘルパーを大量雇用。民間委託先にも公務員と同等の労働協約賃金の遵守を義務付け。",
+        "source": {
+          "organization": "スウェーデン保健福祉庁 (Socialstyrelsen) / SKR",
+          "title": "Hemtjänst: kvalitet, bemanning och ersättningsmodeller i kommunerna",
+          "url": "https://www.socialstyrelsen.se"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "老人長期療養保険法における訪問療養給与評価および農漁村遠隔地加算制度",
+        "statusOrLevel": "訪問療養基本報酬の年次物価スライド改定および中山間地域事業所への20〜30%加算金",
+        "keyFeature": "零細中小事業所の過当競争と倒産を防ぐため、サービス評価優秀機関に報奨金を支給。過疎地で訪問介護を維持する事業所には公費で車両維持費と遠距離加算を集中配分。",
+        "source": {
+          "organization": "大韓民国国民健康保険公団 (NHIS) / 保健福祉部",
+          "title": "Long-Term Care Insurance Home Visit Nursing Support and Remote Area Allowances",
+          "url": "https://www.nhis.or.kr"
+        }
+      }
+    ]
   }
 }

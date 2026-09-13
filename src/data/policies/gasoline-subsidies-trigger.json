@@ -247,5 +247,89 @@
         "commentStandard": "「税金にさらに消費税をかける二重課税と当分の間税率（25.1円）をトリガー条項で即時撤廃すべき」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国における燃料価格高騰対策（燃料税一時減税 vs 元売り補助金）比較",
+    "comparisonSummary": "化石燃料価格の急騰に対し、日本の石油元売りへの激変緩和補助金に対し、欧米主要国はエネルギー税の一時引き下げ（Tax Holiday）や低所得者向けバウチャー給付など、直接的な減税・消費者支援を選択しました。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "燃料割引令（Tankrabatt: 2022年実施）およびエネルギー税一時引き下げ",
+        "statusOrLevel": "3カ月限定でエネルギー税をEU最低税率まで引き下げ（ガソリン約35セント/L減税）",
+        "keyFeature": "元売りへの補助金ではなく税率を直接引き下げ。減税分が小売価格に確実に転嫁されているかを連邦カルテル庁（Bundeskartellamt）が監視・公表。",
+        "source": {
+          "organization": "ドイツ連邦財務省 (BMF) / 連邦カルテル庁",
+          "title": "Energiesteuersenkung (Tankrabatt) und Monitoring der Kraftstoffpreise",
+          "url": "https://www.bundesfinanzministerium.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "給油所直接値引き（Remise carburant）および通勤手当燃料受給（Indemnité carburant）",
+        "statusOrLevel": "スタンド店頭での一律リッター15〜30セント直接値引きから低所得通勤者向け100ユーロ現金給付へ移行",
+        "keyFeature": "初期は全員一律店頭値引きを実施したが、財政負担と化石燃料消費抑制の観点から、車を通勤に使う低所得層に限定した100ユーロ直接給付へスムーズに制度転換。",
+        "source": {
+          "organization": "フランス経済・財務・産業主権省 (Bercy) / 生態移行省",
+          "title": "Remise à la pompe et indemnité carburant travailleur",
+          "url": "https://www.economie.gouv.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦戦略石油備蓄（SPR）大規模放出および各州ガソリン税ホリデー（Gas Tax Holiday）",
+        "statusOrLevel": "史上最大の1億8,000万バレル備蓄放出＋ジョージア州・フロリダ州等での州ガソリン税一時免除",
+        "keyFeature": "連邦レベルでは備蓄原油の大量放出で国際原油価格を押し下げ。各州政府は州ガソリン税を数カ月間一時停止し、ガソリンスタンドでの即時減税を断行。",
+        "source": {
+          "organization": "米国エネルギー省 (DOE) / 各州税務局",
+          "title": "Strategic Petroleum Reserve (SPR) Releases and State Gas Tax Holidays",
+          "url": "https://www.energy.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "燃料税（Fuel Duty）5ペンス引き下げおよび凍結継続措置",
+        "statusOrLevel": "ガソリン・軽油に対する燃料税の一律5ペンス/L引き下げを複数年連続で延長",
+        "keyFeature": "元売りへの補助金方式は採らず、国税である燃料税率を直接減免。競争・市場庁（CMA）が石油元売り・スーパー併設スタンドのマージンを常時監視。",
+        "source": {
+          "organization": "英国財務省 (HM Treasury) / 競争・市場庁 (CMA)",
+          "title": "Fuel Duty rates and CMA Road Fuel Market Study",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "交通・エネルギー・環境税法に基づく弾力税率適用（燃料税最大37%引き下げ）",
+        "statusOrLevel": "法定最大限度（37%引き下げ）の燃料税減税を実施し複数回延長運用",
+        "keyFeature": "法改正を経ずに政府大統領令（弾力税率）で即座にガソリン税を引き下げ。価格が安定するにつれて減税幅を段階的に縮小（20%等）させる柔軟な運用を確立。",
+        "source": {
+          "organization": "大韓民国企画財政部 (MOEF) / 国税庁",
+          "title": "Flexible Tariff Implementation on Transport, Energy and Environment Tax",
+          "url": "https://www.moef.go.kr"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "燃料物品税引き下げ令（Taglio delle accise sui carburanti）",
+        "statusOrLevel": "ガソリン・軽油の物品税をリッターあたり約30セント引き下げ",
+        "keyFeature": "エネルギー価格高騰時にVAT（付加価値税）の増収分を財源として自動的に物品税を引き下げる「移動式物品税（Accisa mobile）」制度を活用。",
+        "source": {
+          "organization": "イタリア経済財務省 (MEF) / 環境・エネルギー安全保障省",
+          "title": "Misure urgenti in materia di accise sui carburanti e trasparenza dei prezzi",
+          "url": "https://www.mef.gov.it"
+        }
+      }
+    ]
   }
 }

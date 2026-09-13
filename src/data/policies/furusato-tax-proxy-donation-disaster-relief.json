@@ -185,5 +185,89 @@
       "badgeColor": "bg-slate-100 text-slate-700",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の被災自治体向け代理寄付（Proxy Donation）・自治体間災害支援税制比較",
+    "comparisonSummary": "大災害で被災した自治体の寄付受領・受領書発行事務パンクを防ぐため、第三の被災していない自治体が寄付受付を代行する「代理寄付」スキームや、国家レベルの災害連帯基金の仕組みが比較されます。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "非常事態管理相互支援協定（EMAC）および州間・自治体間災害支援信託",
+        "statusOrLevel": "全50州批准の法規に基づく被災自治体業務の他州代理代行体制",
+        "keyFeature": "災害時に被災自治体の行政機能が停止した場合、他州の自治体が寄付金管理や公的扶助申請受付を法的に代行。受領した義援金は100%全額被災地へ即時送金。",
+        "source": {
+          "organization": "全米非常事態管理協会 (NEMA) / FEMA",
+          "title": "Emergency Management Assistance Compact (EMAC) Operations",
+          "url": "https://www.emacweb.org"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦・州復興支援法（Aufbauhilfefonds 2021）および自治体パートナーシップ代理支援",
+        "statusOrLevel": "300億ユーロの連邦共同基金による被災自治体事務代行と姉妹都市代理受付",
+        "keyFeature": "ラインラント・プファルツ州等の洪水被災自治体に代わり、非被災州の都市が寄付金受付口座を開設し税務控除証明書を一括発行。復興工事の入札事務も代行受託。",
+        "source": {
+          "organization": "ドイツ連邦内務・国土省 (BMI) / 各連邦州",
+          "title": "Aufbauhilfe 2021 und interkommunale Solidarität bei Hochwasserkatastrophen",
+          "url": "https://www.bmi.bund.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "被災自治体連帯基金（Fonds de solidarité pour les communes touchées par des catastrophes）",
+        "statusOrLevel": "内務省地方自治体総局（DGCL）が管理する公的代理受入・配分プラットフォーム",
+        "keyFeature": "被災コミューンに代わり、内務省の特別プラットフォームが全国の市民・企業からの寄付を集中受領。税務証明を自動発行し、復興優先度に応じて直接被災地に配分。",
+        "source": {
+          "organization": "フランス内務省地方自治体総局 (DGCL)",
+          "title": "Solidarité nationale et territoriale en cas de catastrophe naturelle",
+          "url": "https://www.collectivites-locales.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家緊急事態管理庁（NEMA）災害復興基金および自治体間相互応援協定",
+        "statusOrLevel": "連邦・州政府と赤十字社等による代理受託寄付ネットワーク",
+        "keyFeature": "森林火災等で庁舎が被災した地方協議会（カウンシル）に代わり、州地方政府協会（LGNSW等）が寄付受領窓口を代行。税務控除適格性を担保し事務負担をゼロ化。",
+        "source": {
+          "organization": "オーストラリア国家緊急事態管理庁 (NEMA)",
+          "title": "National Emergency Management Agency Disaster Relief Funding and Local Councils Support",
+          "url": "https://nema.gov.au"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "災害緊急委員会（Disasters Emergency Committee: DEC）国内連帯モデル",
+        "statusOrLevel": "主要慈善団体が連合した一括寄付受領・政府マッチングファンド（Gift Aid統合）",
+        "keyFeature": "洪水等の大規模災害時に単独の被災地域が事務に追われないよう、DECが一括で寄付を受け付け、政府が寄付額と同額を公費上乗せ支援して被災自治体に届ける。",
+        "source": {
+          "organization": "英国災害緊急委員会 (DEC) / 内閣府",
+          "title": "Disasters Emergency Committee response models and Government Aid Match",
+          "url": "https://www.dec.org.uk"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "災害救護法における災害救護機関指定および希望ブリッジ全国災害救護協会",
+        "statusOrLevel": "法定専門救護機関による全被災自治体義援金の一括代理受付および法定義捐金配分",
+        "keyFeature": "被災自治体自身は復旧業務に専念させ、義援金の受付、受領証発行、被災者個人への口座直接送金を政府指定の希望ブリッジ協会がワンストップで代行執行。",
+        "source": {
+          "organization": "大韓民国行政安全部 (MOIS) / 希望ブリッジ全国災害救護協会",
+          "title": "Disaster Relief Act and Nationwide Relief Fund Distribution Framework",
+          "url": "https://www.mois.go.kr"
+        }
+      }
+    ]
+  }
 }

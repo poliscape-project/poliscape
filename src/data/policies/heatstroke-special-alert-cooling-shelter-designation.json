@@ -225,5 +225,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Sparkles"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の気候変動適応法制における極端気象特別警報・クーリングシェルター（暑熱避難所）指定比較",
+    "comparisonSummary": "過去に例のない危険な暑さから住民を守るため、各国の気候適応法制において、チーフ・ヒート・オフィサー（猛暑対策官）の設置、公共・民間商業施設の冷房避難所指定、電気料金滞納時のエアコン供給遮断禁止などが法制化されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "フェニックス市・マイアミ市チーフ・ヒート・オフィサー（CHO）およびクーリングセンター指定条例",
+        "statusOrLevel": "世界初の猛暑対策専任局創設・猛暑警報時の公共図書館・シニアセンターの義務的開放",
+        "keyFeature": "気温45℃超が常態化するアリゾナ州等で、冷房完備の避難施設ネットワーク（Heat Relief Network）を法制化。無料給水、ペット同伴エリア、交通弱者への送迎バスを公費運行。",
+        "source": {
+          "organization": "米国国立海洋大気庁 (NOAA) / フェニックス市猛暑対策局",
+          "title": "National Integrated Heat Health Information System (NIHHIS) and Urban Heat Offices",
+          "url": "https://www.heat.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "気候変動適応国家計画（PNACC）および都市涼感スペース（Ilots de fraîcheur）法制",
+        "statusOrLevel": "パリ市等における全住民から徒歩7分以内の冷房施設または緑陰涼感スポット確保義務化",
+        "keyFeature": "猛暑特別警報時、市役所、冷房付き教会、学校、民間映画館や商業施設をクーリングシェルターとして指定開放。噴水やミスト設備の24時間稼働を法的に強制。",
+        "source": {
+          "organization": "フランス生態移行省 / パリ市気候局",
+          "title": "Plan Climat de Paris et cartographie des îlots de fraîcheur urbains",
+          "url": "https://www.paris.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "災難及び安全管理基本法（暴炎を自然災難に指定）および無暑気休憩所（ムドウィシムト）制度",
+        "statusOrLevel": "全国約6万カ所の公共・金融機関・老人福祉施設を公式避難施設に指定・国費暖冷房費補助",
+        "keyFeature": "暴炎（熱波）を法律上の自然災害と定義。銀行店舗や洞住民センターにクーラーを効かせた避難所看板を設置し、高齢者に開放。熱中症死者への災害支援金給付を法定義務化。",
+        "source": {
+          "organization": "大韓民国行政安全部 (MOIS) / 保健福祉部",
+          "title": "Framework Act on the Management of Disasters and Safety: Heatwave Countermeasures",
+          "url": "https://www.mois.go.kr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "ブリティッシュコロンビア州極限熱事象対応枠組み（BC Extreme Heat Response Framework）",
+        "statusOrLevel": "2021年熱波ドーム（600人死亡）を教訓とした極限熱緊急事態放送と冷房シェルター展開",
+        "keyFeature": "特別警戒レベル発令時、緊急速報メール（Alert Ready）を全スマホに同報配信。低所得世帯向けエアコン無償配備プログラム（1,000万ドル）を公費創設。",
+        "source": {
+          "organization": "カナダ・ブリティッシュコロンビア州保健省 / 公共安全省",
+          "title": "BC Extreme Heat Response Framework and Cooling Centre Guidance",
+          "url": "https://www2.gov.bc.ca"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "南オーストラリア州極限高温法制（State Emergency Management Plan: Extreme Heat Code Red）",
+        "statusOrLevel": "コード・レッド（極限高温警報）発令時のホームレス緊急冷房シェルター収容と福祉チェック",
+        "keyFeature": "野外生活者やエアコン未保有高齢者を保護するため、行政がホテル客室や冷房シェルターを即時借り上げ。夏季の電気料金滞納による電力遮断を州法で全面禁止。",
+        "source": {
+          "organization": "南オーストラリア州人間サービス省 (DHS) / 州緊急事態管理委員会",
+          "title": "Code Red Extreme Heat response and emergency cooling activations",
+          "url": "https://www.dhs.sa.gov.au"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "保健省熱波予防国家プログラム（Piano Operativo Nazionale per la Prevenzione degli Effetti del Calore）",
+        "statusOrLevel": "全国主要27都市における「ボッリート（沸騰警報レベル3）」時の病院直通熱中症トリアージ",
+        "keyFeature": "救急外来に熱中症専用のファストトラック（Codice Calore: 熱コード）を新設し待機ゼロで急速冷却処置を実施。自治体ボランティアが孤立高齢者を冷房施設へ搬送。",
+        "source": {
+          "organization": "イタリア保健省 (Ministero della Salute)",
+          "title": "Piano caldo: Sistema di allarme e sorveglianza della salute e Codice Calore",
+          "url": "https://www.salute.gov.it"
+        }
+      }
+    ]
+  }
 }

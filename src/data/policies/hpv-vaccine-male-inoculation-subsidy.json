@@ -185,5 +185,89 @@
       "badgeColor": "bg-slate-100 text-slate-700",
       "icon": "Globe"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界のヒトパピローマウイルス（HPV）ワクチン男子公費接種（Gender-Neutral Vaccination）比較",
+    "comparisonSummary": "子宮頸がんのみならず中咽頭がん、肛門がん、尖圭コンジローマの予防および集団免疫獲得のため、オーストラリア、英国、米国、EU主要国など世界約40カ国以上で「男女一律の完全無償公費接種」が国家標準となっています。",
+    "countries": [
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家予防接種プログラム（NIP: National Immunisation Program）男女共通公費接種",
+        "statusOrLevel": "世界初（2013年開始）の男子生徒への学校集団無償接種（9価ワクチン完全公費給付）",
+        "keyFeature": "12〜13歳の全男子・女子生徒を対象に学校で無償接種。男子の接種率も80%超を達成し、子宮頸がんの撲滅（発症率極小化）と男性の中咽頭がん激減を世界最速で実現中。",
+        "source": {
+          "organization": "オーストラリア保健・高齢者福祉省 (Department of Health and Aged Care)",
+          "title": "National HPV Vaccination Program for males and females under NIP",
+          "url": "https://www.health.gov.au"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS HPVワクチン接種プログラム（NHS HPV Vaccination Programme）",
+        "statusOrLevel": "男女一律12〜13歳（Year 8）における完全無償1回接種（Single-dose）スケジュール",
+        "keyFeature": "JCVI（ワクチン予防接種合同委員会）の提言に基づき男子接種を完全公費化。最新の科学的知見に基づき1回接種プロトコルへ移行し、接種率向上と国家コスト抑制を両立。",
+        "source": {
+          "organization": "英国健康安全保障庁 (UKHSA) / NHS England",
+          "title": "HPV vaccine programme: guidance for healthcare practitioners and schools",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "疾病予防管理センター（CDC）予防接種諮問委員会（ACIP）男女ルーチン推奨",
+        "statusOrLevel": "11〜12歳男女全員に対する定期公費接種推奨（VFCプログラムによる困窮児全額公費）",
+        "keyFeature": "26歳までの男女キャッチアップ接種も公的推奨。民間保険法定義務化（ACA予防サービス100%給付）により、患者自己負担ゼロで9価ワクチンを接種可能。",
+        "source": {
+          "organization": "米国疾病予防管理センター (CDC) / ACIP",
+          "title": "HPV Vaccination Recommendations of the ACIP: Routine Male and Female Schedules",
+          "url": "https://www.cdc.gov"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "全州公衆衛生プログラムにおける男女小児HPVワクチン無償学校接種",
+        "statusOrLevel": "全10州・3準州すべてにおいて小学校高学年〜中学生の男女への100%全額公費接種完了",
+        "keyFeature": "オンタリオ州やケベック州等で男女共通の学校ベース接種を実施。集団免疫（Herd Immunity）を形成し、非接種女性の子宮頸がん発症リスクも大幅に低減。",
+        "source": {
+          "organization": "カナダ公衆衛生庁 (PHAC) / 国家予防接種諮問委員会 (NACI)",
+          "title": "Canadian Immunization Guide: Human Papillomavirus (HPV) Vaccines",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "常設予防接種委員会（STIKO）男女9〜14歳推奨および法定健康保険（GKV）全額負担",
+        "statusOrLevel": "9〜14歳の男児・女児に対する9価HPVワクチン定期接種の法定健康保険100%完全給付",
+        "keyFeature": "連邦合同委員会（G-BA）が保険給付指針に男子接種を法定義務化。小児科クリニックでの通常健診（J1健診）時に男女問わず一律推奨し接種率を引き上げ。",
+        "source": {
+          "organization": "ロベルト・コッホ研究所 (RKI) / 常設予防接種委員会 (STIKO)",
+          "title": "STIKO-Empfehlungen zur HPV-Impfung für Jungen und Mädchen",
+          "url": "https://www.rki.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "疾病管理庁（KDCA）国家予防接種支援事業（NIP）男子小児HPVワクチン導入推進",
+        "statusOrLevel": "女子小児（12〜17歳）無償接種から男子小児（12歳）への公費助成拡大法制化",
+        "keyFeature": "中咽頭がんや肛門がんの男性患者急増を受け、大統領公約に基づき男子へのNIP適用拡大を推進。地方自治体（ソウル市江南区等）が先行して男子接種助成を実施。",
+        "source": {
+          "organization": "大韓民国疾病管理庁 (KDCA)",
+          "title": "National Immunization Program for HPV Vaccination Expansion for Boys",
+          "url": "https://www.kdca.go.kr"
+        }
+      }
+    ]
+  }
 }

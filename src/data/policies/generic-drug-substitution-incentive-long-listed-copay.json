@@ -211,5 +211,89 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Building"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界のジェネリック医薬品使用促進策・参照価格制度（Reference Pricing）および先発品差額負担比較",
+    "comparisonSummary": "医療保険財政の持続可能性を高めるため、ドイツの参照価格制度（Festbetrag）、フランスの先発品差額自己負担、米国のフォーミュラリ階層など、患者が先発品を希望した場合に後発品との差額を全額自己負担させる仕組みが各国で徹底されています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "法定健康保険（SGB V）参照価格制度（Festbetragssystem）",
+        "statusOrLevel": "同一有効成分グループごとに保険給付上限額（基準価格）を設定・差額は患者全額負担",
+        "keyFeature": "製薬会社が設定した先発品価格が基準価格を超える場合、その超過分は保険給付対象外となり患者が100%自己負担。この結果、ジェネリック数量シェア約85%超を達成。",
+        "source": {
+          "organization": "ドイツ連邦合同委員会 (G-BA) / 保健省",
+          "title": "Festbeträge für Arzneimittel in der gesetzlichen Krankenversicherung",
+          "url": "https://www.g-ba.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "第三者支払・ジェネリック原則制度（Tiers payant contre générique / TFR）",
+        "statusOrLevel": "患者が医学的正当な理由なく後発品調剤を拒否した場合の窓口全額立て替え＋差額負担",
+        "keyFeature": "後発品を拒否して先発品を希望する患者は、薬局での窓口無料（立替払い免除）特典を剥奪され、一旦全額自腹で支払い後日最低基準額のみ払い戻しを受ける不利益措置を適用。",
+        "source": {
+          "organization": "フランス公的医療保険機構 (Ameli) / 厚生省",
+          "title": "Dispositif Tiers payant contre génériques et Tarif forfaitaire de responsabilité (TFR)",
+          "url": "https://www.ameli.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS一般名処方（Generic Prescribing）原則および薬剤基本価格（Drug Tariff）",
+        "statusOrLevel": "プライマリケアにおける処方箋の約85%以上がブランド名ではなく有効成分名（一般名）で発行",
+        "keyFeature": "GP（総合診療医）は原則としてブランド名での処方を制限。薬局はDrug Tariffに記載された最低価格のジェネリックを自動調剤。先発品ブランド指定には厳格な医学的根拠を要求。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS England) / 英国医師会 (BMA)",
+          "title": "NHS generic prescribing policy and Drug Tariff reimbursement rules",
+          "url": "https://www.england.nhs.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "各州薬事法後発品自動代替（Generic Substitution）およびPBMフォーミュラリ階層（Tier）",
+        "statusOrLevel": "全米ほぼすべての州で薬剤師に対する処方箋後発品自動代替の法的義務付け",
+        "keyFeature": "民間保険・メディケアの薬剤給付管理会社（PBM）が医薬品をTier 1（ジェネリック: 自己負担数ドル）〜Tier 3（先発品: 自己負担数十ドル〜差額負担）に階層化し経済誘導。",
+        "source": {
+          "organization": "米国食品医薬品局 (FDA) / 各州薬事委員会",
+          "title": "FDA Orange Book: Approved Drug Products with Therapeutic Equivalence Evaluations",
+          "url": "https://www.fda.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "薬品給付制度（PBS）ブランドプレミアム政策（Brand Premium Policy）",
+        "statusOrLevel": "先発品と後発品の公定償還価格差額を「ブランド料」として患者が薬局窓口で追加支払い",
+        "keyFeature": "政府のPBS給付額は最も安い後発品の価格を基準に決定。先発品を希望する患者は、差額の全額を安全網（Safety Net）対象外の純粋自己負担として支払う。",
+        "source": {
+          "organization": "オーストラリア保健・高齢者福祉省 (PBS)",
+          "title": "Brand Premium Policy and therapeutic group benchmarks under the PBS",
+          "url": "https://www.pbs.gov.au"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "医薬品給付委員会（TLV）「今月の製品（Periodens vara）」強制代替制度",
+        "statusOrLevel": "毎月政府入札で最も安いジェネリックを指名し薬局で原則強制代替（数量シェア90%超）",
+        "keyFeature": "患者が今月の最低価格品以外の先発品を希望する場合、差額の全額を自己負担（高額療養費保護上限の対象外）。医師が交換不可と判断した場合のみ公費全額カバー。",
+        "source": {
+          "organization": "スウェーデン歯科医薬品給付庁 (TLV)",
+          "title": "Utbyte av läkemedel på apotek (Periodens vara system)",
+          "url": "https://www.tlv.se"
+        }
+      }
+    ]
+  }
 }

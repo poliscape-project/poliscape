@@ -179,5 +179,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Cpu"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の教育機関における生成AI（ChatGPT等）利用ガイドライン・倫理教育法制比較",
+    "comparisonSummary": "児童生徒の批判的思考力の育成と個人情報・著作権保護を両立するため、ユネスコの世界ガイダンス、米国教育省の「AIと教育の未来」、シンガポールの全校安全利用モデルなど、全面禁止から教育的活用へと舵が切られています。",
+    "countries": [
+      {
+        "country": "ユネスコ",
+        "countryCode": "UNESCO",
+        "flag": "🇺🇳",
+        "systemName": "教育と研究における生成AIガイダンス（Guidance for generative AI in education and research）",
+        "statusOrLevel": "利用開始推奨年齢を「13歳以上」と設定・人間中心アプローチと著作権・データ保護勧告",
+        "keyFeature": "教師の代替ではなく支援ツールとして位置づけ。AI生成物のファクトチェック能力（AIリテラシー）の育成と、偏見・差別的出力への批判的検討を法制化勧告。",
+        "source": {
+          "organization": "ユネスコ (UNESCO)",
+          "title": "Guidance for generative AI in education and research",
+          "url": "https://www.unesco.org"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "米国教育省教育技術オフィス（OET）「AIと教育の未来（Artificial Intelligence and Future of Teaching）」",
+        "statusOrLevel": "「Human in the loop（教育プロセスの中心に人間を置く）」原則の全米指針",
+        "keyFeature": "単なる盗作（Plagiarism）対策・全面禁止を否定。個別の学習ニーズに応じた個別最適化学習（アダプティブ・ラーニング）へのAI活用を奨励しつつ、学生データ保護法（FERPA）遵守を義務化。",
+        "source": {
+          "organization": "米国教育省教育技術局 (OET)",
+          "title": "Artificial Intelligence and Future of Teaching and Learning: Insights and Recommendations",
+          "url": "https://tech.ed.gov"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "教育省（MOE）AI教育統合フレームワークおよび教員向けAIアシスタント配備",
+        "statusOrLevel": "小中高の全公立学校における生成AI安全活用指針の全国展開",
+        "keyFeature": "全国学習プラットフォーム（SLS）にセキュアな教育専用生成AIツールを統合。生徒にプロンプトエンジニアリングと出力検証を指導し、AI共生スキルの習得を国家戦略化。",
+        "source": {
+          "organization": "シンガポール教育省 (MOE)",
+          "title": "Generative AI in Education: Guidelines for schools and Student Learning Space",
+          "url": "https://www.moe.gov.sg"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "英国教育省（DfE）教育における生成人工知能公式見解（Generative AI in education）",
+        "statusOrLevel": "教員の教材作成・採点業務負荷軽減への積極活用と試験評価の公平性維持",
+        "keyFeature": "教員の過重労働解消ツールとしてAI活用を公認。定期試験や資格評価（GCSE/Aレベル）での不正防止ガイドラインを策定し、評価基準を知識暗記から論述・口頭試問へシフト。",
+        "source": {
+          "organization": "英国教育省 (DfE)",
+          "title": "Generative artificial intelligence (AI) in education: policy paper",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州委員会教員向けAI・データ倫理ガイドラインおよびEU AI法（AI Act）高リスク分類",
+        "statusOrLevel": "教育評価・進学判定に用いられるAIシステムに対する「高リスク（High Risk）」厳格規制",
+        "keyFeature": "生徒の合否や進路をAIが自動判定することを厳しく制限。児童生徒の学習履歴データをAIベンダーがモデル学習に再利用することをGDPRに基づき厳格禁止。",
+        "source": {
+          "organization": "欧州委員会 (European Commission) / 欧州議会",
+          "title": "Ethical guidelines on the use of AI and data in teaching and learning for educators",
+          "url": "https://education.ec.europa.eu"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "教育部初中等教育における生成AI活用ガイドラインおよびAI倫理カリキュラム",
+        "statusOrLevel": "2025年AIデジタル教科書導入に合わせた全国教員研修と倫理基準の必修化",
+        "keyFeature": "小学3年生以上での発達段階に応じた段階的利用指針。AIが作成した文章の無断提出を禁止し、AIとの対話履歴（プロンプト記録）の提出を課題評価に組み込む実践を推進。",
+        "source": {
+          "organization": "大韓民国教育部 (MOE) / 韓国教育学術情報院 (KERIS)",
+          "title": "Guidelines on the Use of Generative AI in School Education",
+          "url": "https://www.moe.go.kr"
+        }
+      }
+    ]
+  }
 }

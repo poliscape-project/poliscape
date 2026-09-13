@@ -217,5 +217,89 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の遺体一時保管施設（霊安施設）・火葬キャパシティおよび公衆衛生基準比較",
+    "comparisonSummary": "多死社会やパンデミックによる火葬待ちの長期化に対し、欧米では公的霊安室の冷蔵保管基準、エンバーミング（防腐処置）の法定義務化、住宅地近接保管施設の衛生・立地規制が確立されています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "埋葬・火葬法（Burial and Cremation Act）および公共霊安室（Public Mortuary）衛生基準",
+        "statusOrLevel": "地方自治体による公営霊安室の温度管理冷蔵施設（2〜4℃）維持義務化",
+        "keyFeature": "火葬待機期間中も尊厳ある遺体管理を保証するため、民間葬儀社の一時保管施設に対し人間組織局（HTA）が定期査察を実施。厳格な換気・衛生管理を義務付け。",
+        "source": {
+          "organization": "英国人間組織局 (Human Tissue Authority - HTA) / 内務省",
+          "title": "Standards and guidance for mortuaries and body storage facilities",
+          "url": "https://www.hta.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "各州葬祭事業委員会（Funeral Board）遺体保管法規およびOSHA衛生基準",
+        "statusOrLevel": "死後24〜48時間を超える保管に対するエンバーミングまたは公認冷蔵保管の法定義務化",
+        "keyFeature": "商業施設や住宅地での無認可遺体保管（いわゆる遺体ホテル）を法律で禁止。独立した遺体処理室（Preparation Room）と外部遮断型換気設備の設置を義務付け。",
+        "source": {
+          "organization": "米国労働安全衛生局 (OSHA) / 各州葬祭委員会連合会 (CFAIT)",
+          "title": "Occupational Safety and Health Standards for Mortuary Services",
+          "url": "https://www.osha.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "一般地方自治体法典（CGCT）死後安置施設（Chambre funéraire）公認制度",
+        "statusOrLevel": "民間遺体安置施設に対する県知事（Préfet）による厳格な営業認可および立地審査",
+        "keyFeature": "自宅以外の遺体一時預かり施設は「公共役務の委託」とみなされ、防音、防臭、独立アクセス、遺族面会室の分離が法律で細かく義務付け。無届営業には刑事罰。",
+        "source": {
+          "organization": "フランス内務省 (Ministère de l'Intérieur) / 衛生総局",
+          "title": "Réglementation des chambres funéraires et habilitation préfectorale",
+          "url": "https://www.interieur.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "埋葬法（Bestattungsgesetz）および墓地強制の原則（Friedhofszwang）",
+        "statusOrLevel": "遺体の公認冷蔵保管施設への36時間以内移送義務および火葬前第2検視制度",
+        "keyFeature": "死後直ちに公認の冷却安置所への移送を義務付け。火葬能力逼迫時でも衛生面を保つため、公営火葬場に大規模な温度制御安置棟の併設を法定義務化。",
+        "source": {
+          "organization": "ドイツ各連邦州保健省 / 連邦法務省",
+          "title": "Bestattungsgesetze der Länder: Aufbewahrung und Überführung von Leichen",
+          "url": "https://www.gesetze-im-internet.de"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "自治体公営安置室（Aufbahrungsräume）無償提供法制",
+        "statusOrLevel": "全自治体による衛生的かつ厳粛な遺体一時安置施設の住民無償利用保障",
+        "keyFeature": "公衆衛生と遺族感情を守るため、民間営利ホテル等に委ねず基礎自治体（ゲマインデ）が空調・冷蔵完備の安置室を公設。火葬・埋葬までの待機期間を公的に吸収。",
+        "source": {
+          "organization": "スイス連邦保健局 (BAG) / チューリッヒ市等自治体",
+          "title": "Verordnung über das Bestattungswesen und Aufbahrungseinrichtungen",
+          "url": "https://www.bag.admin.ch"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "葬事等に関する法律（葬事法）および斎場・霊安室衛生管理基準",
+        "statusOrLevel": "総合病院付設斎場（霊安室）の届出制・温度管理自動ロガー配備義務化",
+        "keyFeature": "火葬率90%超に伴う火葬炉不足に対し、保健福祉部が火葬炉増設と稼働時間延長を国費支援。一時安置施設における腐敗防止センサー設置を法定義務化。",
+        "source": {
+          "organization": "大韓民国保健福祉部 (MOHW)",
+          "title": "Act on Funeral Services and Mortuary Facility Standards",
+          "url": "https://www.mohw.go.kr"
+        }
+      }
+    ]
+  }
 }
