@@ -185,5 +185,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Wallet"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の公立学校教員の労働時間管理・時間外勤務手当および教員処遇法制比較",
+    "comparisonSummary": "教員の長時間労働（定額働かせ放題）を根絶するため、英国の年間1,265時間労働時間枠、フランスの週コマ数上限と超過授業手当（HSA）、米国の労働協約に基づくタイムカード管理など、労働時間の客観的把握と手当支給が欧米標準です。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "学校教員給与・労働条件文書（STPCD: School Teachers' Pay and Conditions Document）",
+        "statusOrLevel": "年間勤務時間枠「1,265時間（年195日）」の法律による厳格上限設定",
+        "keyFeature": "校長が生徒指導や授業を指示できる拘束時間を年間1,265時間と法定化。これを1分でも超える時間外勤務は原則違法。テスト採点や教材研究のための週10%の準備時間（PPA）を法定義務化。",
+        "source": {
+          "organization": "英国教育省 (DfE)",
+          "title": "School teachers' pay and conditions document (STPCD) and working time regulations",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "教員勤務義務令（Décret n° 2014-940）および超過授業時間手当（HSA）",
+        "statusOrLevel": "中学校・高校教員の週当たり授業持ちコマ数を最大15〜18時間に厳格制限・超過分は全額手当支給",
+        "keyFeature": "週18時間（アグレジェ資格者は15時間）を超える授業は「法定時間外授業（HSA）」として高単価の割増手当を毎月給与支給。部活動指導や雑務は教員の業務外として免除。",
+        "source": {
+          "organization": "フランス国民教育・青少年省 (MENJ)",
+          "title": "Obligations de service des personnels enseignants et heures supplémentaires (HSA)",
+          "url": "https://www.education.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "各連邦州公務員法教員義務時数令（Pflichtstundenverordnung）および時間外精算",
+        "statusOrLevel": "週当たり授業時数（23〜28コマ）の厳格管理と持ちコマ超過に対する代休・時間外手当",
+        "keyFeature": "教員は州公務員（Beamte）。法定の持ちコマ数を超えて授業を受け持った場合、時間単位で公費精算（Mehrarbeit）される。学校での雑務（清掃・設備管理）は専任技術職員が担当。",
+        "source": {
+          "organization": "ドイツ州文相会議 (KMK) / バイエルン州等教育省",
+          "title": "Lehrkräfte-Arbeitszeit: Unterrichtspflichtzeit und Mehrarbeitsvergütung",
+          "url": "https://www.kmk.org"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "学区教員労働協約（CBA: Collective Bargaining Agreement）および追加職務手当（Stipend）",
+        "statusOrLevel": "教員組合（NEA/AFT）との合意による1日7.5時間拘束・タイムカード勤務管理徹底",
+        "keyFeature": "勤務時間外の会議や採点、部活コーチを務める場合は、基本給とは別に協約に基づく「スティペンド（特別手当: 数千ドル）」を全額支給。無償の時間外労働は労働協約違反。",
+        "source": {
+          "organization": "米国教育省 (ED) / 全米教育協会 (NEA)",
+          "title": "Teacher Collective Bargaining Agreements: Working Hours and Extra Duty Stipends",
+          "url": "https://www.nea.org"
+        }
+      },
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇷",
+        "systemName": "教員地方公務員労働協約（OVTES）授業時数ベース給与体系",
+        "statusOrLevel": "教科ごとに週16〜24コマの授業時数を法定化・校内共同計画時間（週数時間）のみ拘束",
+        "keyFeature": "授業と共同計画以外の時間は在宅勤務が自由。学校に居残る義務はなく、世界最高の教育成果を最小限の勤務時間で達成。超過授業には自動的に割増手当を支給。",
+        "source": {
+          "organization": "フィンランド教育労働組合 (OAJ) / 地方自治体雇用者協会 (KT)",
+          "title": "OVTES: Teachers' collective agreement, teaching duties and working hours",
+          "url": "https://www.oaj.fi"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "公務員報酬規程および教員特殊職務手当・時間外勤務手当制度",
+        "statusOrLevel": "包括定額制を採らず客観的電子出退勤システム（NEIS）に基づく時間外勤務手当の実数支給",
+        "keyFeature": "日本のような「給特法4%一律上乗せ」ではなく、基本教職手当に加えて実際に残業した時間数に応じた手当を支給。放課後学校や部活動指導には別途指導手当を満額支給。",
+        "source": {
+          "organization": "大韓民国教育部 (MOE) / 人事革新処",
+          "title": "Civil Service Remuneration Regulations: Teacher Allowances and Overtime System",
+          "url": "https://www.moe.go.kr"
+        }
+      }
+    ]
+  }
 }

@@ -217,5 +217,89 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Clock"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の地方自治体幹幹業務システム標準化・ガバメントクラウド（GovCloud）移行比較",
+    "comparisonSummary": "自治体ごとの重複開発コスト削減とシームレスな行政デジタル化のため、英国のGDS標準、米国のFedRAMPクラウド基準、デンマークのKOMBIT共同調達など、全国統一仕様のSaaS型ガバメントクラウド移行が進んでいます。",
+    "countries": [
+      {
+        "country": "デンマーク",
+        "countryCode": "DK",
+        "flag": "🇩🇰",
+        "systemName": "コムビット共同IT会社（KOMBIT: 全98自治体共同所有IT企業）",
+        "statusOrLevel": "全自治体の基幹行政システム（住民登録・福祉・税務）の100%統一標準調達・運用",
+        "keyFeature": "個々の自治体が独自開発することを全廃。全国自治体が共同出資したKOMBITが一括して仕様策定・クラウド入札を行い、自治体間のシステム差異と維持費を極小化。",
+        "source": {
+          "organization": "デンマーク地方自治体連合 (KL) / KOMBIT A/S",
+          "title": "KOMBIT: Municipal shared IT infrastructure and public procurement",
+          "url": "https://www.kombit.dk"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "政府デジタル・サービス（GDS）「Government as a Platform: GaaP」およびCrown Commercial Cloud",
+        "statusOrLevel": "全国統一API（GOV.UK Pay / GOV.UK Notify）の全自治体・省庁共通利用標準化",
+        "keyFeature": "GDSが作成したオープン基準・デザインシステムを法定義務化。クラウド優先方針（Cloud First Policy）に基づき、中央・地方が同一のハイパーセキュアクラウドを利用。",
+        "source": {
+          "organization": "英国政府デジタル・サービス (GDS) / 内閣府",
+          "title": "Government as a Platform (GaaP) and Local Digital Declaration",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦リスク・認可管理プログラム（FedRAMP）および州政府クラウド協定（StateRAMP）",
+        "statusOrLevel": "AWS/Azure/Google Cloud等の連邦・州公認セキュリティ規格統一クラウド調達網",
+        "keyFeature": "セキュリティ認証を標準化し、自治体ごとにベンダーの安全性を再審査する無駄を排除。郡や市が認定済みクラウドSaaSを即座に共同調達できるエコシステムを確立。",
+        "source": {
+          "organization": "米国総務庁 (GSA) / FedRAMP Program Management Office",
+          "title": "FedRAMP Authorization Act and StateRAMP Cloud Security Standards",
+          "url": "https://www.fedramp.gov"
+        }
+      },
+      {
+        "country": "エストニア",
+        "countryCode": "EE",
+        "flag": "🇪🇪",
+        "systemName": "国家ガバメントクラウド（Riigipilv: State Cloud）およびX-Road相互接続基盤",
+        "statusOrLevel": "中央政府・地方自治体の全公的基幹システムの公認ハイブリッドクラウド完全移行",
+        "keyFeature": "ルクセンブルクのデータ大使館（Data Embassy）への国外バックアップ体制を構築。全自治体のデータベースがX-Road経由で暗号化接続され、住民票や税務データが瞬時に同期。",
+        "source": {
+          "organization": "エストニア情報システム庁 (RIA) / 経済通信省",
+          "title": "Riigipilv: The Estonian Government Cloud architecture and security",
+          "url": "https://www.ria.ee"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "オンラインアクセス法（OZG: Onlinezugangsgesetz）「Einer für Alle（一人が全員のために: EfA）」原則",
+        "statusOrLevel": "特定の連邦州が開発した標準クラウド行政モジュールを全16州・全国自治体で相互共有",
+        "keyFeature": "一自治体の重複投資を禁止。IT計画評議会（IT-Planungsrat）が標準データモデル（XÖV規格）を策定し、自治体システム間のデータ互換性を法的に強制。",
+        "source": {
+          "organization": "ドイツ連邦内務・国土省 (BMI) / IT計画評議会",
+          "title": "Onlinezugangsgesetz (OZG) und das 'Einer für Alle' (EfA) Umsetzungsmodell",
+          "url": "https://www.onlinezugangsgesetz.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "行政・公共機関情報システム統合ガバメントクラウド転換政策",
+        "statusOrLevel": "全国地方自治体および公共機関の全システムを国家情報資源管理院クラウドへ100%転換",
+        "keyFeature": "大邱・光州などの国家データセンターに自治体サーバーを集中収容。電子政府標準フレームワーク（eGovFrame）をオープンソースで強制適用しベンダーロックインを防止。",
+        "source": {
+          "organization": "大韓民国行政安全部 (MOIS) / 国家情報資源管理院 (NIRS)",
+          "title": "Public Sector Cloud Transition Strategy and e-Government Standard Framework",
+          "url": "https://www.mois.go.kr"
+        }
+      }
+    ]
+  }
 }

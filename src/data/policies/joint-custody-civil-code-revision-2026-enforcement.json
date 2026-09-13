@@ -185,5 +185,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Calendar"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の離婚後共同親権（Joint Custody）・監護権およびDV除外法制比較",
+    "comparisonSummary": "子どもの最善の利益と両親による養育責任を保障するため、欧米主要国（仏・独・米・伊・豪）では「離婚後も原則共同親権」が定着しており、DV・児童虐待が証明された場合に限り単独親権とする厳格な司法審査が運用されています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "民法典第372条（親権の共同行使の原則: Exercice en commun de l'autorité parentale）",
+        "statusOrLevel": "婚姻状態に関わらず離婚後も原則100%共同親権・交替居住（Résidence alternée: 隔週生活）法制化",
+        "keyFeature": "離婚後も教育・医療・転居等の重要事項は両親合意が必須。合意困難時は家庭裁判官（JAF）が介入。家庭内暴力（DV）がある場合は保護命令により単独行使に限定。",
+        "source": {
+          "organization": "フランス司法省 (Ministère de la Justice) / 憲法評議会",
+          "title": "Code civil: De l'autorité parentale et de la résidence des enfants",
+          "url": "https://www.justice.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "民法典第1626条・第1671条（共同世話原則: Gemeinsame elterliche Sorge）",
+        "statusOrLevel": "離婚後も当然に共同親権を継続・非婚の父親の親権申請権を連邦憲法裁判所判決で承認",
+        "keyFeature": "単独親権への変更は子どもの福祉が著しく害される例外的な場合に限定。日常の世話（日常生活事項）は同居親が決定し、学校選択等の重要決定のみ共同決定する二重区分。",
+        "source": {
+          "organization": "ドイツ連邦司法省 (BMJ) / 連邦憲法裁判所 (BVerfG)",
+          "title": "Elterliche Sorge und Umgangsrecht im Bürgerlichen Gesetzbuch",
+          "url": "https://www.bmj.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "各州統一婚姻離婚法（UMDA）および共同法的親権（Joint Legal Custody）原則",
+        "statusOrLevel": "法的親権（決定権）の共同保有を原則とし物理的監護（Physical Custody）を柔軟配分",
+        "keyFeature": "重大な決定（教育・宗教・医療）を行う権利を両親に等しく付与。DV加害者に対しては親権推定を覆す反証可能推定（Rebuttable Presumption）条項を各州法に明記。",
+        "source": {
+          "organization": "全米統一法律委員会 (Uniform Law Commission) / 各州家事裁判所",
+          "title": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA)",
+          "url": "https://www.uniformlaws.org"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "2006年共同親権法（Legge 54/2006: 共同監護 Affidamento condiviso 原則）",
+        "statusOrLevel": "離婚時の単独親権（Affidamento esclusivo）を例外的措置へ転換・両親の共同責任を義務化",
+        "keyFeature": "子どもが両親双方と平等かつ継続的な関係を維持する権利を法的に宣言。別居親への不当な面会遮断や虚偽DV申立を行った親に対し過料や親権剥奪を規定。",
+        "source": {
+          "organization": "イタリア司法省 (Ministero della Giustizia)",
+          "title": "Legge 8 febbraio 2006, n. 54: Disposizioni in materia di separazione dei genitori e affidamento condiviso",
+          "url": "https://www.giustizia.it"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "家族法改正法（Family Law Amendment Act 2023）子どもの最善の利益枠組み",
+        "statusOrLevel": "画一的な50:50平等の強制を改め「子どもの安全と福祉を最優先とする共同養育責任」へ再編",
+        "keyFeature": "DVや虐待の隠蔽を防ぐため、家族内暴力リスク審査を最優先化。裁判所が子どもの意見聴取を行い、安全が確認された場合に共同決定責任を認める実態重視の制度設計。",
+        "source": {
+          "organization": "オーストラリア連邦司法省 (Attorney-General's Department)",
+          "title": "Family Law Amendment Act 2023: Reforms to the parenting framework",
+          "url": "https://www.ag.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "民法第909条第4項（協議または家庭裁判所の指定による共同親権者制度）",
+        "statusOrLevel": "離婚協議時に親権者を両親共同と定めることが合法的に定着・面会交流支援センター",
+        "keyFeature": "単独親権だけでなく共同親権の選択を明文で承認。大法院が面会交渉権の履行を重視し、不当な面会拒否を行う親に対して過料や監護者変更処分を下す法執行を強化。",
+        "source": {
+          "organization": "大韓民国家庭裁判所 / 法務部",
+          "title": "Civil Act of the Republic of Korea: Child Custody and Parental Authority Provisions",
+          "url": "https://www.moj.go.kr"
+        }
+      }
+    ]
+  }
 }

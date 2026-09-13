@@ -179,5 +179,89 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Car"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の赤字ローカル線再編法制（バス高速輸送BRT転換・廃線手続き・公費補填）比較",
+    "comparisonSummary": "モータリゼーションと過疎化による赤字ローカル鉄道の存廃協議に関し、フランスの地域圏委託再編、英国のビーチング・カット教訓による廃線手続厳格化、米国の連邦陸上運輸委員会（STB）審査など、客観的な費用対効果判定と代替モビリティ移行が比較されます。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "地方交通組織法制（Loi LOM）および小規模ローカル線計画（Petites lignes ferroviaires）",
+        "statusOrLevel": "国と地域圏（Région）による優先投資協定およびBRT・オンデマンド交通への計画的移行",
+        "keyFeature": "利用密度の極めて低い赤字路線について、線路を撤去して専用バスターミナルやサイクリングロード（Voie Verte）へ転換。一方で観光・通勤基幹路線には国費を直接配分。",
+        "source": {
+          "organization": "フランス運輸省 / SNCF Réseau",
+          "title": "Plan d'action pour les petites lignes ferroviaires et mobilités en milieu rural",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "鉄道法2005（Railways Act 2005）廃止手続規則（Closure Guidance）および鉄道復活基金",
+        "statusOrLevel": "鉄道・道路規制局（ORR）による厳格な公聴会・代替バス輸送計画審査および「廃線復活基金」",
+        "keyFeature": "1960年代の過度な廃線（ビーチング・カット）を猛省。一度廃線にすると再敷設が極めて困難なため、廃止には厳しい環境・経済影響評価を義務付け。必要時は逆に国費で再電化復活。",
+        "source": {
+          "organization": "英国鉄道・道路規制局 (ORR) / 運輸省 (DfT)",
+          "title": "Railway closures guidance and Restoring Your Railway Fund evaluation",
+          "url": "https://www.orr.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦陸上運輸委員会（STB: Surface Transportation Board）線路廃止（Abandonment）審査法制",
+        "statusOrLevel": "連邦政府による鉄道事業者の恣意的廃線防止・レールズ・トゥ・トレイルズ（Rails-to-Trails）法",
+        "keyFeature": "鉄道会社が赤字線を廃止する場合、STBが公聴会を開催し荷主や地域への影響を審査。廃線跡地は「レール・バンキング（将来の鉄道復活のための線路用地公的一体保存）」制度を適用。",
+        "source": {
+          "organization": "米国連邦陸上運輸委員会 (STB) / Rails-to-Trails Conservancy",
+          "title": "STB Rail Abandonment Process and National Trails System Act Railbanking",
+          "url": "https://www.stb.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "一般鉄道法（AEG § 11: 鉄道インフラの恒久的使用停止手続き）",
+        "statusOrLevel": "連邦鉄道庁（EBA）による廃止認可前の「第三者運行事業者公募（公開入札）」法定義務化",
+        "keyFeature": "ドイツ鉄道（DB）が赤字路線を廃止しようとする場合、まず民間の地域私鉄や観光鉄道会社に対し、低廉な価格で線路を買い取って運行継続する機会を公募することを法規化。",
+        "source": {
+          "organization": "ドイツ連邦鉄道庁 (Eisenbahn-Bundesamt - EBA)",
+          "title": "Stilllegung und Entwidmung von Eisenbahninfrastruktur nach § 11 AEG",
+          "url": "https://www.eba.bund.de"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "交通庁社会経済的費用便益評価法制（Samhällsekonomisk analys: ASEK）",
+        "statusOrLevel": "科学的費用便益分析（B/C）に基づく過疎鉄路のバス転換判断および道路改良投資",
+        "keyFeature": "感情論を排し、CO2排出量・移動時間・交通事故リスクを金銭換算した国家モデルで評価。列車運行よりも高頻度EVバス運行の方が住民厚生が高いと判定された場合に計画転換。",
+        "source": {
+          "organization": "スウェーデン交通庁 (Trafikverket)",
+          "title": "Kalkyler och samhällsekonomiska analyser inom transportsektorn (ASEK)",
+          "url": "https://www.trafikverket.se"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "鉄道産業発展基本法および公共サービス補償（PSO: Public Service Obligation）契約",
+        "statusOrLevel": "韓国鉄道公社（KORAIL）の赤字幹線鉄道に対する国土交通部の公費補填と廃止管理",
+        "keyFeature": "地方赤字路線の運行維持費用を「公益サービス費用」として国庫が直接精算。路線廃止時は代替バス（農漁村バス）の運行免許付与と自治体補助金をセットで義務化。",
+        "source": {
+          "organization": "大韓民国国土交通部 (MOLIT) / 韓国鉄道公社",
+          "title": "Railroad Industry Development Framework Act: Public Service Obligations (PSO)",
+          "url": "https://www.molit.go.kr"
+        }
+      }
+    ]
+  }
 }

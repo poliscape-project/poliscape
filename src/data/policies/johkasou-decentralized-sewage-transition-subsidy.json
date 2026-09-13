@@ -185,5 +185,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の農山村・分散型排水処理（浄化槽 / Septic Tank / 小型下水プラント）法制および公費補助比較",
+    "comparisonSummary": "人口密度の低い過疎山間部での巨額な集合下水道管網敷設を回避し水質保全を達成するため、米国のEPA分散型排水管理、ドイツのKKA規格、フランスの公的非集合衛生検査（SPANC）など、高性能合併処理浄化槽の導入助成と維持管理義務が確立されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "EPA分散型排水処理システムプログラムおよび水質浄化法（CWA）第319条助成",
+        "statusOrLevel": "全米住宅の約20%以上が利用する戸別浄化槽（Septic Systems）の高度処理転換支援",
+        "keyFeature": "老朽単独浄化槽の地下水汚染を防ぐため、連邦環境保護庁（EPA）が高度窒素除去合併システムへの更新費用に対しクリーンウォーター州回転基金（CWSRF）から低利融資・直接補助。",
+        "source": {
+          "organization": "米国環境保護庁 (EPA)",
+          "title": "Decentralized Wastewater Treatment Systems and Septic Smart Program",
+          "url": "https://www.epa.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦水法（Wasserhaushaltsgesetz: WHG）および小型下水処理設備（Kleinkläranlagen: KKA）技術規格",
+        "statusOrLevel": "集合下水道に接続できない農村戸建住宅に対するDIN EN 12566規格完全準拠義務化",
+        "keyFeature": "単なる沈殿槽を法律で禁止し、生物処理機能を備えた小型合併処理プラントの設置を強制。各連邦州が設置費用の最大数千ユーロを公費補助し、専門業者による年3回点検を義務化。",
+        "source": {
+          "organization": "ドイツ連邦環境庁 (UBA) / 各連邦州環境省",
+          "title": "Anforderungen an Kleinkläranlagen nach Wasserhaushaltsgesetz",
+          "url": "https://www.umweltbundesamt.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "公的非集合衛生サービス（SPANC: Service Public d'Assainissement Non Collectif）",
+        "statusOrLevel": "全国の集合下水道未整備地域（約500万世帯）に対する自治体の定期的強制検査と無利子融資（Eco-PTZ）",
+        "keyFeature": "全コミューンに専門組織SPANCの設置を義務付け。浄化槽の設計認可と数年ごとの機能点検を公的に実施。規格外設備の改修には政府が最大1万ユーロの無利子エコローンを提供。",
+        "source": {
+          "organization": "フランス生態移行・国土結束省 (MTECT) / 水道局",
+          "title": "Assainissement non collectif (ANC) et réglementation des SPANC",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "オンサイト排水管理システム（OSMS: On-site Sewage Management Systems）条例",
+        "statusOrLevel": "各地方自治体（カウンシル）による個別エアレーション処理装置（AWTS）認可および運用許可制",
+        "keyFeature": "環境保護庁（EPA）の排水再利用基準に基づき、処理水を庭木散水等に安全利用できる高度合併処理槽の設置を指導。四半期ごとの保守点検報告書の提出を条例義務化。",
+        "source": {
+          "organization": "ニューサウスウェールズ州環境保護庁 (NSW EPA) / 各地方自治体",
+          "title": "On-site sewage management guidelines and council approval frameworks",
+          "url": "https://www.epa.nsw.gov.au"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "環境法典（Miljöbalken）戸別排水処理（Enskilda avlopp）高環境保護レベル基準",
+        "statusOrLevel": "バルト海富栄養化防止のための全戸別浄化槽に対するリン90%・BOD90%除去義務化",
+        "keyFeature": "基礎自治体が全数査察を実施し、基準を満たさない旧式単独槽の排出を強制差し止め。高性能コンパクト浄化槽やリン吸着フィルター設置農家に税制控除（ROT控除）を適用。",
+        "source": {
+          "organization": "スウェーデン海洋水資源庁 (HaV) / 環境保護庁",
+          "title": "Små avloppsanläggningar: Regler och vägledning för enskilda avlopp",
+          "url": "https://www.havochvatten.se"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "環境庁小型下水排出一般拘束規則（General Binding Rules: Small Sewage Discharges）",
+        "statusOrLevel": "旧式腐敗槽（Septic Tank）から河川・地表水への直接排水の完全違法化および下水処理パックへの転換強制",
+        "keyFeature": "地表水に放流する場合、EN 12566規格を満たすパッケージ小型下水処理プラント（PTP）への更新を法定義務化。不動産売買時に浄化槽適格証明書の提示を法律で強制。",
+        "source": {
+          "organization": "英国環境庁 (Environment Agency)",
+          "title": "General binding rules: small sewage discharge to a surface water or ground",
+          "url": "https://www.gov.uk"
+        }
+      }
+    ]
+  }
 }

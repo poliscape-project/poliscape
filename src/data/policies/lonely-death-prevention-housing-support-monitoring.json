@@ -185,5 +185,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "FileCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の単身高齢者孤立死防止・居住支援セーフティネット（ハウジングファースト・見守りDX）比較",
+    "comparisonSummary": "賃貸住宅からの単身高齢者排除やアパート内での孤立死を防ぐため、フランスの郵便配達員見守り、スウェーデンの安心住宅（Trygghetsboende）、米国の住宅支援法（Section 8）など、住宅保障と官民見守りの連携が各国で進んでいます。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "公的郵便公社見守りサービス（Veiller sur mes parents: ラ・ポスト）および住宅法制（Loi ALUR）",
+        "statusOrLevel": "全国の郵便配達員による単身高齢者戸別訪問・安否確認ネットワークの国家公認運用",
+        "keyFeature": "郵便局員が日常配達時に週数回高齢者宅を訪問し会話・体調チェックをスマホアプリで親族・自治体に報告。ALUR法に基づき高齢単身者への賃貸住宅立ち退き制限を厳格化。",
+        "source": {
+          "organization": "フランス生態移行・国土結束省 / La Poste",
+          "title": "Services de cohésion sociale de La Poste et protection des locataires âgés (Loi ALUR)",
+          "url": "https://www.laposte.fr"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "安心住宅制度（Trygghetsboende）およびスマートIoTセンサー見守り",
+        "statusOrLevel": "70歳以上の単身者のための公営安心住宅整備・共用リビングとコミュニティ世話人常駐",
+        "keyFeature": "施設ではなく一般賃貸住宅に共用サロンとスタッフを配置し孤独死を未然防止。プライバシーに配慮した非カメラ型赤外線動線センサーで24時間異変を自治体に自動通報。",
+        "source": {
+          "organization": "スウェーデン国家住宅建築計画委員会 (Boverket) / SKR",
+          "title": "Trygghetsbostäder för äldre: Regelverk och kommunala bostadsföretag",
+          "url": "https://www.boverket.se"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ケア法2014（Care Act 2014）セーフガーディング成人義務およびリンクワーカー連携",
+        "statusOrLevel": "地方自治体に対する自立困難な単身高齢者の孤立・セルフネグレクト（自己放任）介入義務",
+        "keyFeature": "住宅アソシエーション（公営住宅公社）とNHSが直結。家賃滞納や郵便物溜まりを検知した場合、地域のマルチディシプリナリー（多職種）チームが即座に立ち入り支援。",
+        "source": {
+          "organization": "英国保健社会的ケア省 (DHSC) / 地方自治体協会 (LGA)",
+          "title": "Care Act 2014: Adult safeguarding duties and preventing social isolation",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "住宅都市開発省（HUD）セクション202高齢者支援住宅（Supportive Housing for the Elderly）",
+        "statusOrLevel": "低所得単身高齢者向け家賃補助（収入の30%上限）および専任サービスコーディネーター配置",
+        "keyFeature": "アパート棟内に専任のソーシャルワーカーが常駐し、医療受診や食事手配を伴走。食事配給プログラム（Meals on Wheels）と連携し、毎日手渡しで配達員が安否確認。",
+        "source": {
+          "organization": "米国住宅都市開発省 (HUD) / 高齢者問題局 (AoA)",
+          "title": "HUD Section 202 Supportive Housing for the Elderly and Senior Living Safety Nets",
+          "url": "https://www.hud.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "多世代ハウス連邦プログラム（Bundesprogramm Mehrgenerationenhäuser）および居住支援",
+        "statusOrLevel": "全国530カ所の地域交流拠点による単身高齢者日常見守りと孤立防止ネットワーク",
+        "keyFeature": "保育園と高齢者サロンを合体させた施設を公設。単身高齢者が日中立ち寄り孤立を防ぐとともに、自治体住宅相談所（Wohnberatung）がバリアフリー改修と見守り機器を助成。",
+        "source": {
+          "organization": "ドイツ連邦家族省 (BMFSFJ)",
+          "title": "Bundesprogramm Mehrgenerationenhäuser: Miteinander – Füreinander",
+          "url": "https://www.mehrgenerationenhaeuser.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "孤独死予防総合対策およびスマートケア安心LED電球・電力使用量モニタリング",
+        "statusOrLevel": "単身世帯の電力・水道・スマホ使用履歴をAI解析し異常検知時に洞住民センター出動",
+        "keyFeature": "LGユープラスや電力公社と自治体が提携。24時間電気使用量に変動がない場合やスマホ画面タッチがない場合、自動で福祉担当官へ緊急アラートが届く見守りDXを全国展開。",
+        "source": {
+          "organization": "大韓民国保健福祉部 (MOHW) / 行政安全部",
+          "title": "Smart Senior Care Service and Lonely Death Prevention Action Plan",
+          "url": "https://www.mohw.go.kr"
+        }
+      }
+    ]
+  }
 }

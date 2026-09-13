@@ -211,5 +211,89 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "HeartHandshake"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の農山村過疎地移住・起業促進制度（Rural Repopulation / 地方移住助成）比較",
+    "comparisonSummary": "都市部から過疎地域への若者移住と地域産業再生を促進するため、フランスの農村再生ボランティア・過疎地起業無税特区（ZRR）、イタリアの1ユーロ住宅、スペインの空洞化対策国家戦略など、強力な資金助成と住宅提供が展開されています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "農村再生優先地域（ZRR: Zones de revitalisation rurale / France Ruralités）税制優遇",
+        "statusOrLevel": "過疎農山村で起業した若手事業者に対する最大5年間の所得税・法人税・固定資産税完全免除",
+        "keyFeature": "国土結束庁（ANCT）が管轄。都市部の若者が過疎地に移住してカフェ、診療所、ITビジネスを開業する場合、巨額の税務免除と店舗改修補助金（最大数万ユーロ）を一体給付。",
+        "source": {
+          "organization": "フランス国立国土結束庁 (ANCT) / 経済財務省",
+          "title": "France Ruralités et zonage France Ruralités Revitalisation (ex-ZRR)",
+          "url": "https://agence-cohesion-territoires.gouv.fr"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "国家内陸地域戦略（SNAI: Strategie Nazionale Aree Interne）および1ユーロ住宅条例",
+        "statusOrLevel": "シチリア島・アブルッツォ州等の過疎山間ボルゴ（歴史的村落）への移住起業助成金支給",
+        "keyFeature": "空き家を1ユーロで譲渡する一方、改修と定住を義務付け。さらに35歳以下の若者が過疎自治体で起業する場合、最大数万ユーロの返済不要シードマネーを公費交付。",
+        "source": {
+          "organization": "イタリア結束政策・南方省 (Dipartimento per le Politiche di Coesione)",
+          "title": "Strategia Nazionale per le Aree Interne (SNAI) e ripopolamento dei borghi",
+          "url": "https://politichecoesione.governo.it"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "空洞化するスペイン対策130項目措置（Plan de 130 Medidas ante el Reto Demográfico）",
+        "statusOrLevel": "100億ユーロ規模の国家基金による過疎自治体への若手移住・起業エコシステム構築",
+        "keyFeature": "人口5,000人未満の過疎村落に移住する若手起業家に社会保険料の特別減免とコワーキング施設を無償提供。農村テレワーク移住者（デジタルノマド）への光回線完備を法制化。",
+        "source": {
+          "organization": "スペイン生態移行・人口動態省 (MITECO)",
+          "title": "Plan de 130 Medidas frente al Reto Demográfico y lucha contra la despoblación",
+          "url": "https://www.miteco.gob.es"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "スコットランド・ハイランド＆アイランズ開発公社（HIE）地域定住プログラム",
+        "statusOrLevel": "過疎の離島・高地地域への若手定住者向けコミュニティ起業助成金および住宅支援",
+        "keyFeature": "コミュニティ土地権利法に基づき、住民トラストが土地や店舗を公費買収して若手移住者に低家賃リース。遠隔地でのグリーンビジネス起業に特別助成金を交付。",
+        "source": {
+          "organization": "スコットランド政府 / Highlands and Islands Enterprise (HIE)",
+          "title": "Community-led local development and population retention in rural Scotland",
+          "url": "https://www.hie.co.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦農村地域プログラム（BULEplus: Bundesprogramm Ländliche Entwicklung）",
+        "statusOrLevel": "過疎地での革新的コミュニティビジネス・地域創生プロジェクトへの直接公費助成",
+        "keyFeature": "連邦食料農業省（BMEL）が地方創生アワードを創設し、廃校や空き工場をコワーキング拠点や地域多機能ハブに再生する若手移住者チームに年次活動資金を給付。",
+        "source": {
+          "organization": "ドイツ連邦食料・農業省 (BMEL) / 農業食料庁 (BLE)",
+          "title": "Bundesprogramm Ländliche Entwicklung und Regionale Wertschöpfung (BULEplus)",
+          "url": "https://www.bmel.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "地方消滅対応基金（年1兆ウォン造成）および青年農村移住・創業サポート事業",
+        "statusOrLevel": "地方人口消滅危機自治体（89市郡）に対する青年定住住宅無償提供・創業資金支援",
+        "keyFeature": "行政安全部が毎年1兆ウォンの基金を配分。都市部青年が地方に移住して農業やローカルコンテンツ事業を起業する場合、最長3年間月額支援金と低利融資を一体提供。",
+        "source": {
+          "organization": "大韓民国行政安全部 (MOIS) / 農林畜産食品部",
+          "title": "Local Extinction Response Fund and Youth Rural Settlement Support Projects",
+          "url": "https://www.mois.go.kr"
+        }
+      }
+    ]
+  }
 }

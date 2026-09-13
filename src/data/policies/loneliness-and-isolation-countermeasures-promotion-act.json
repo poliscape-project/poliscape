@@ -217,5 +217,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Home"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の孤独・孤立（Loneliness and Social Isolation）国家対策法制および社会的処方比較",
+    "comparisonSummary": "孤独・社会的孤立がもたらす健康被害（喫煙や肥満と同等の死亡リスク）に対処するため、英国の孤独担当大臣・社会的処方モデル、米国の公衆衛生警報、韓国の孤独死予防法など、国家横断的な法的推進体制と地域プラットフォームが構築されています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "孤独対策国家戦略（A connected society: 2018年世界初策定）および社会的処方（Social Prescribing）",
+        "statusOrLevel": "孤独担当大臣（Minister for Loneliness）の設置およびNHSによる全土リンクワーカー配置",
+        "keyFeature": "医師が薬の代わりに地域のボランティア、アート、園芸、運動グループへの参加を処方箋として発行する「社会的処方」をNHSの日常医療に統合。国家孤独基金でNPOを支援。",
+        "source": {
+          "organization": "英国文化・メディア・スポーツ省 (DCMS) / NHS England",
+          "title": "A connected society: a strategy for tackling loneliness and Social Prescribing in NHS",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "公衆衛生局長官アドバイザリー（Our Epidemic of Loneliness and Isolation: 2023年宣言）",
+        "statusOrLevel": "孤独・孤立を国家的公衆衛生危機（Epidemic）に指定・国家社会的連結フレームワーク",
+        "keyFeature": "社会的孤立が心血管疾患や認知症リスクを跳ね上げる科学的データを提示。コミュニティインフラ（公園・図書館・市民団体）への連邦投資と学校でのソーシャルスキル教育を推進。",
+        "source": {
+          "organization": "米国公衆衛生局長官室 (OSG) / 保健福祉省 (HHS)",
+          "title": "Our Epidemic of Loneliness and Isolation: The U.S. Surgeon General’s Advisory",
+          "url": "https://www.hhs.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "孤独対策国家連合（Ending Loneliness Together）およびコミュニティ接続政策",
+        "statusOrLevel": "保健・高齢者福祉省による全国的な社会的孤立サーベイランス調査と公費支援",
+        "keyFeature": "オーストラリア政府助成により、全年齢層の孤独度を客観測定するガイドラインを策定。プライマリ・ヘルス・ネットワーク（PHN）を通じて孤立高齢者・青年の居場所づくりを助成。",
+        "source": {
+          "organization": "オーストラリア保健・高齢者福祉省 / Ending Loneliness Together",
+          "title": "National strategy to address loneliness and social isolation in Australia",
+          "url": "https://www.health.gov.au"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦孤独対策戦略（Strategie der Bundesregierung gegen Einsamkeit - 2023年閣議決定）",
+        "statusOrLevel": "連邦家族省（BMFSFJ）主導による111項目に及ぶ省庁横断アクションプラン",
+        "keyFeature": "孤独を個人の問題ではなく社会構造の課題と定義。若者から高齢者まで全世代を対象とし、シルバー電話相談（Silbernetz）や多世代ハウスの全国ネットワークを公費拡充。",
+        "source": {
+          "organization": "ドイツ連邦家族高齢者女性青少年省 (BMFSFJ)",
+          "title": "Strategie gegen Einsamkeit der Bundesregierung: Maßnahmen und Kompetenznetz",
+          "url": "https://www.bmfsfj.de"
+        }
+      },
+      {
+        "country": "デンマーク",
+        "countryCode": "DK",
+        "flag": "🇩🇰",
+        "systemName": "孤独対抗国民同盟（Folkebevægelsen mod Ensomhed）および自治体コミュニティ戦略",
+        "statusOrLevel": "赤十字社など90以上の民間団体と全基礎自治体が連携した孤独半減国家プログラム",
+        "keyFeature": "「誰も一人に取り残さない」を掲げ、共同食事会（Danmark Spiser Sammen）を全国の学校・高齢者施設で定期開催。地域のソーシャルワーカーが孤立住民を能動的訪問。",
+        "source": {
+          "organization": "デンマーク保健省 (Sundhedsministeriet) / デンマーク赤十字社",
+          "title": "National Alliance Against Loneliness: Action plans and municipal integration",
+          "url": "https://sum.dk"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "孤独死予防及び管理に関する法律（2021年施行）および孤立・隠遁青年支援法制",
+        "statusOrLevel": "5年ごとの国家孤独死予防基本計画策定義務化および全国民メンタルヘルス投資",
+        "keyFeature": "世界初の「孤独死予防法」を単独法制化。保健福祉部が実態調査を義務付け、1人暮らし世帯の孤立リスクをAI・IoTで常時スクリーニングするプラットフォームを全国運用。",
+        "source": {
+          "organization": "大韓民国保健福祉部 (MOHW)",
+          "title": "Act on the Prevention and Management of Lonely Deaths and Youth Isolation Policies",
+          "url": "https://www.mohw.go.kr"
+        }
+      }
+    ]
+  }
 }

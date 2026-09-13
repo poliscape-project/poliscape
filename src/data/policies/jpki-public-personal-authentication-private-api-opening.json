@@ -211,5 +211,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Home"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の国家デジタルID・公的個人認証（eID）の民間API開放およびeKYC法制比較",
+    "comparisonSummary": "銀行口座開設や携帯契約の本人確認（eKYC）コストを削減し不正利用を防ぐため、エストニアのX-Road、シンガポールのSingpass API、北欧のBankIDなど、国家eIDを民間にシームレスにAPI開放するインフラが世界をリードしています。",
+    "countries": [
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "シングパス・ナショナル・デジタルID（Singpass API: GovTech）民間開放プラットフォーム",
+        "statusOrLevel": "銀行口座開設、保険、通信、不動産契約の95%以上でSingpass顔認証・Myinfo API利用",
+        "keyFeature": "政府機関GovTechがAPIを安全に民間提供。ユーザーの同意に基づき、公的台帳から住所・年収・身元情報を民間アプリへ瞬時に連携し、書類提出なしで即時契約完了。",
+        "source": {
+          "organization": "シンガポール政府テクノロジー庁 (GovTech) / 通信情報省",
+          "title": "Singpass and Myinfo Developer APIs for Private Sector Integration",
+          "url": "https://www.api.gov.sg"
+        }
+      },
+      {
+        "country": "エストニア",
+        "countryCode": "EE",
+        "flag": "🇪🇪",
+        "systemName": "X-Road分散型データ交換基盤および国家eID（Mobile-ID / Smart-ID）",
+        "statusOrLevel": "国内ほぼ100%の銀行送金・民間契約が国家公認電子署名で法的に完全完結",
+        "keyFeature": "eIDAS規則最高水準（Qualified Electronic Signature）を満たすデジタル署名。銀行やフィンテックが公的住民基本台帳とAPI連携し、ペーパーレスかつ即時本人確認を実現。",
+        "source": {
+          "organization": "エストニア情報システム庁 (RIA) / 経済通信省",
+          "title": "X-Road Data Exchange Layer and eID Electronic Identity Architecture",
+          "url": "https://www.ria.ee"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "バンクID（BankID: 銀行連合公認デジタル身分証）社会共通インフラ",
+        "statusOrLevel": "成人人口の99%以上が日常利用する電子認証・年間数十億件の民間・公的認証を処理",
+        "keyFeature": "大手銀行連合が開発し政府公認の国家eID規格（Svensk e-legitimation）を取得。あらゆる民間EC・役所手続き・医療ポータルでスマホ指紋・FaceIDによる即時認証。",
+        "source": {
+          "organization": "スウェーデンデジタル化庁 (Digg) / Finansiell ID-Teknik",
+          "title": "Svensk e-legitimation and the BankID Trust Framework",
+          "url": "https://www.digg.se"
+        }
+      },
+      {
+        "country": "ベルギー",
+        "countryCode": "BE",
+        "flag": "🇧🇪",
+        "systemName": "イツミー（itsme: 官民連携デジタルIDコンソーシアム）",
+        "statusOrLevel": "ベルギー全市民の約80%が利用するeIDAS高水準（High）認定モバイル認証ID",
+        "keyFeature": "連邦政府と大手通信会社・メガバンクが共同出資。カードリーダー不要でスマホ完結し、行政ポータルと民間銀行・保険契約の共通本人確認APIとして国家標準化。",
+        "source": {
+          "organization": "ベルギー連邦情報通信技術庁 (BOSA)",
+          "title": "Federal Authentication Service (FAS) and integration with itsme eID",
+          "url": "https://bosa.belgium.be"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "身分証明書法（PAuswG）オンラインID機能（eID-Funktion）民間API連携",
+        "statusOrLevel": "身分証（Personalausweis）のNFCチップを活用した民間銀行・携帯電話契約でのeKYC認可",
+        "keyFeature": "連邦内務省および連邦情報セキュリティ庁（BSI）が民間サービスプロバイダーに認証証明書を発行。最高度の暗号化で身元詐欺やなりすましを完全排除。",
+        "source": {
+          "organization": "ドイツ連邦内務・国土省 (BMI) / 連邦情報セキュリティ庁 (BSI)",
+          "title": "Der Personalausweis mit Online-Ausweisfunktion für Unternehmen",
+          "url": "https://www.personalausweisportal.de"
+        }
+      },
+      {
+        "country": "デンマーク",
+        "countryCode": "DK",
+        "flag": "🇩🇰",
+        "systemName": "MitID（次世代国家デジタルID・2022年完全リプレイス完了）",
+        "statusOrLevel": "全国民・全企業向けの単一統合デジタル本人確認基盤・公的機関と民間金融が100%接続",
+        "keyFeature": "デジタル庁（Digitaliseringsstyrelsen）と銀行協会が共同開発。強固な多要素認証を備え、ネットバンキングから公的年金照会まで同一ID・APIで安全に利用。",
+        "source": {
+          "organization": "デンマークデジタル省デジタル庁 (Digitaliseringsstyrelsen)",
+          "title": "MitID: The next-generation national digital identity infrastructure in Denmark",
+          "url": "https://digst.dk"
+        }
+      }
+    ]
+  }
 }

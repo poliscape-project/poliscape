@@ -185,5 +185,89 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "ShieldAlert"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の地方公共交通（路線バス）共同経営・独占禁止法適用除外および地域独占フランチャイズ比較",
+    "comparisonSummary": "過疎化に伴う地方バス事業者の共倒れを防ぎ路線網を維持するため、ドイツの運輸連合（運賃・ダイヤ一元化）、英国のフランチャイズ改革、米国の州行動ドクトリンなど、独占禁止法適用を除外した協調運行スキームが確立されています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "旅客運送法（PBefG）運輸連合（Verkehrsverbund）一元運行・カルテル適用除外",
+        "statusOrLevel": "地域内の全バス・路面電車・鉄道会社による運賃プール・共同ダイヤ編成の完全制度化",
+        "keyFeature": "複数事業者がカルテル禁止法の適用を受けずに統一運賃・共通定期券（Deutschlandticket等）を運用。運賃収入は自治体連合が乗車実績に応じてプール配分し共倒れを防止。",
+        "source": {
+          "organization": "ドイツ連邦デジタル・交通省 (BMDV) / ドイツ交通企業協会 (VDV)",
+          "title": "Personenbeförderungsgesetz (PBefG) und Verkehrsverbünde in Deutschland",
+          "url": "https://www.bmdv.bund.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "バスサービス法2017（Bus Services Act 2017）強化パートナーシップ（EP）およびフランチャイズ制",
+        "statusOrLevel": "マンチェスター（Bee Network）等における自治体による路線統制・民間運行委託の復活",
+        "keyFeature": "1986年のバス完全規制緩和（自由競争・路線廃止乱発）を大転換。自治体が路線・運賃・ダイヤを一括設計し、競争入札で民間に運行を委託する地域独占フランチャイズを再導入。",
+        "source": {
+          "organization": "英国運輸省 (DfT) / マンチェスター交通局 (TfGM)",
+          "title": "The Bus Services Act 2017: Enhanced Partnerships and Franchising guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "地方交通組織機関（AOM: Autorités Organisatrices de la Mobilité）独占委託コンセッション",
+        "statusOrLevel": "地方自治体連合による単一事業者への路線網一括独占委託（公共サービス委託: DSP）",
+        "keyFeature": "民間事業者間の過剰競争を排除。地方都市圏全体を一括してKeolisやTransdev等に委託し、黒字路線と赤字路線の内部相互補助で末端集落への運行を維持。",
+        "source": {
+          "organization": "フランス生態移行・国土結束省 / 公共交通連合 (UTP)",
+          "title": "Le rôle des Autorités Organisatrices de la Mobilité (AOM) et délégations de service public",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦反トラスト法州行動ドクトリン（State Action Doctrine / Parker Immunity）",
+        "statusOrLevel": "州法に基づく公共交通計画に対するシャーマン法（反トラスト・独禁法）適用免除",
+        "keyFeature": "地域交通公社（RTA）が民間バス会社間の路線調整や統合運賃を設定することを容認。過当競争による採算路線への集中と過疎地切り捨てを法的に防止。",
+        "source": {
+          "organization": "米国連邦交通局 (FTA) / 連邦取引委員会 (FTC)",
+          "title": "Federal Transit Administration: Public Transportation Coordination and Antitrust Exemptions",
+          "url": "https://www.transit.dot.gov"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "旅客運送法（PBG）郵便バス（PostAuto）ネットワークおよび直接協調運行",
+        "statusOrLevel": "連邦運輸局（BAV）による全国交通網ダイヤ同期化（タクト運行）と路線割当",
+        "keyFeature": "スイスポスト傘下のPostAutoがアルプス過疎山間部まで全土をカバー。競合他社との過当競争を排除し、列車到着後数分で必ず発車する全国協調ダイヤを法律で義務付け。",
+        "source": {
+          "organization": "スイス連邦運輸局 (BAV) / PostBus Switzerland",
+          "title": "Personenbeförderungsgesetz (PBG) und Systemaufgaben im öffentlichen Verkehr",
+          "url": "https://www.bav.admin.ch"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "州交通管理法（Passenger Transport Act）地域運行契約（Contract Regions）",
+        "statusOrLevel": "大都市・地方部ごとの独占運行エリア指定およびサービス水準協定（SLA）",
+        "keyFeature": "競争法（CCA）との調整を図り、特定エリアのバス運行権を単一事業者に独占付与。走行キロ数に応じた公費委託費を支払い、利用者が少なくても路線維持を強制。",
+        "source": {
+          "organization": "ニューサウスウェールズ州運輸局 (Transport for NSW)",
+          "title": "Bus service contracts and passenger transport regulatory frameworks",
+          "url": "https://www.transport.nsw.gov.au"
+        }
+      }
+    ]
+  }
 }

@@ -185,5 +185,89 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Clock"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の公的介護保障制度における所得・資産連動自己負担割合（Means-Testing）比較",
+    "comparisonSummary": "高齢化に伴う介護給付費の急増と財政持続性確保のため、ドイツの施設介護自己負担上限法、フランスのAPA所得スライド制、豪州の資産・所得二重審査など、富裕層に相応の負担を求めつつ低所得者を完全免除する制度設計が比較されます。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "法定介護保険（SGB XI: Soziale Pflegeversicherung）施設入所自己負担抑制法制（PUEG）",
+        "statusOrLevel": "在宅介護は原則100%現物給付・施設入所時の自己負担（Eigenanteil）の長期入所者逓減助成",
+        "keyFeature": "施設入所が長期化するほど介護金庫が自己負担額の5%〜70%を上乗せ補助し、預貯金枯渇を防止。在宅サービス利用者には所得に応じた2割・3割負担のような差を設けない定額設計。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG)",
+          "title": "Pflegeversicherung: Eigenanteil im Pflegeheim und Leistungszuschläge (PUEG)",
+          "url": "https://www.bundesgesundheitsministerium.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "個人自立手当（APA: Allocation personnalisée d'autonomie）所得連動自己負担制",
+        "statusOrLevel": "全額一般税財源による給付・受給者の月収に応じた0%〜90%の精密スライド自己負担",
+        "keyFeature": "低所得層（月収約800ユーロ未満）は自己負担ゼロ（100%全額公費給付）。高所得者になるにつれて自己負担割合が連続的に引き上げられ、富裕層の負担能力を最大限活用。",
+        "source": {
+          "organization": "フランス連帯・家族省 (Ministère des Solidarités) / CNSA",
+          "title": "L'Allocation personnalisée d'autonomie (APA) à domicile et en établissement",
+          "url": "https://www.pour-les-personnes-agees.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "高齢者介護法（Aged Care Act）ミーンズ・テスト（Means-Tested Care Fee）",
+        "statusOrLevel": "所得だけでなく「不動産・金融資産」を厳格評価した自己負担上限（年額約3万3,000豪ドル・生涯約7万9,000豪ドル）",
+        "keyFeature": "サービス・オーストラリアが資産と年金を審査。富裕高齢者には介護サービス費用の実費負担を求める一方、生涯自己負担上限（Lifetime Cap）を設けて過酷な医療破産を防止。",
+        "source": {
+          "organization": "オーストラリア保健・高齢者福祉省 / サービス・オーストラリア",
+          "title": "Aged care means assessment and fee calculation rules",
+          "url": "https://www.myagedcare.gov.au"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "社会サービス法（Socialtjänstlag）自治体介護最大料金法（Maxtaxa: 上限額キャップ制）",
+        "statusOrLevel": "月額自己負担上限を全国一律約2,570クローナ（約3万6,000円）に法的に厳格制限",
+        "keyFeature": "公的税財源が費用の95%以上を賄う。いくら手厚い在宅・施設介護を受けても法定上限額を超えて請求されることはなく、最低生活費（Förbehållsbelopp）を差し引いた残余のみ徴収。",
+        "source": {
+          "organization": "スウェーデン保健福祉庁 (Socialstyrelsen)",
+          "title": "Avgifter inom äldreomsorgen: Maxtaxa och förbehållsbelopp",
+          "url": "https://www.socialstyrelsen.se"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "長期ケア法（Wlz: Wet langdurige zorg）およびCAK所得・資産連動自己負担制度",
+        "statusOrLevel": "中央管理機関（CAK）による全国一括算定・低所得自己負担（月最低180ユーロ）〜高額自己負担",
+        "keyFeature": "入所最初の4カ月は低額負担とし、その後所得と課税資産（貯蓄・持ち家）に応じた完全スライド負担を適用。本人の自己負担能力を超える分は税と社会保険料で全額補填。",
+        "source": {
+          "organization": "オランダ中央管理機構 (CAK) / 保健福祉スポーツ省 (VWS)",
+          "title": "Eigen bijdrage Wet langdurige zorg (Wlz) berekenen",
+          "url": "https://www.hetcak.nl"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "老人長期療養保険法 本人負担金減軽制度（所得分位別10%〜20%窓口負担）",
+        "statusOrLevel": "在宅介護原則15%、施設介護20%の定率負担・低所得層（健保料下位世帯）に対する60%軽減措置",
+        "keyFeature": "中産階級以上には一律定率負担を求めつつ、基礎生活受給者は完全無料（0%負担）。所得下位20%世帯には負担率を6〜8%まで引き下げ、利用抑制を公費で防ぐ。",
+        "source": {
+          "organization": "大韓民国国民健康保険公団 (NHIS)",
+          "title": "Long-Term Care Insurance Copayment Reductions for Vulnerable Populations",
+          "url": "https://www.longtermcare.or.kr"
+        }
+      }
+    ]
+  }
 }

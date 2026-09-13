@@ -180,5 +180,89 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Ban"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の採用応募者・就活生・インターンに対するハラスメント防止法制比較",
+    "comparisonSummary": "現行労働法の「労働者」の定義外とされやすい求職者・就活生をセクハラや優越的立場からのパワハラから保護するため、フランスの応募者完全平等保護、米国EEOCの求職者保護適用、韓国の採用手続き法など、厳しい罰則と企業義務が法制化されています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "労働法典第L1153-1条（セクシャルハラスメント禁止規定の応募者完全適用）",
+        "statusOrLevel": "採用選考の応募者（Candidat à un recrutement）に対する現役従業員と100%同等の保護適用",
+        "keyFeature": "インターンや就活生に対するセクハラや採用を餌にした関係強要を刑法・労働法で重罪化。被害者からの訴えがあった場合、企業側にハラスメントがなかったことの立証責任を課す。",
+        "source": {
+          "organization": "フランス労働・雇用・連帯省 (Ministère du Travail) / 司法省",
+          "title": "Protection contre le harcèlement sexuel lors du recrutement (Code du travail)",
+          "url": "https://travail-emploi.gouv.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "1964年公民権法第7編（Title VII）およびEEOC採用プロセス指針",
+        "statusOrLevel": "雇用応募者（Job Applicants）に対する人種・性別・性的ハラスメントの連邦法禁止",
+        "keyFeature": "雇用機会均等委員会（EEOC）が管轄。面接官やリクルーターが就活生に対して不適切な個人的接触や性的要求を行った場合、企業全体に巨額の懲罰的損害賠償を科す。",
+        "source": {
+          "organization": "米国雇用機会均等委員会 (EEOC)",
+          "title": "Harassment and Job Applicants: Title VII Enforcement Guidance",
+          "url": "https://www.eeoc.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "平等法2010（Equality Act 2010）採用選考ハラスメント規定および雇用主予防義務（2024年改正）",
+        "statusOrLevel": "仕事に応募する者（Job Applicants）に対するハラスメントの違法化と企業の事前予防措置法定義務",
+        "keyFeature": "企業に対し、OB・OG訪問や面接官によるハラスメントを未然に防ぐ「合理的措置（Reasonable Steps）」を講じることを法定義務化。不作為があった場合、賠償額を25%上乗せ。",
+        "source": {
+          "organization": "英国平等・人権委員会 (EHRC) / 司法省",
+          "title": "Sexual harassment and harassment at work: Code of Practice for employers",
+          "url": "https://www.equalityhumanrights.com"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "一般均等取扱法（AGG: Allgemeines Gleichbehandlungsgesetz）第6条",
+        "statusOrLevel": "「労働者」の定義に採用応募者（Bewerber）を明記・選考プロセスでの差別・ハラスメント禁止",
+        "keyFeature": "採用面接や選考過程でセクハラや人格権侵害を受けた応募者は、採用見送り後であっても企業に対して最大数カ月分の給与相当額の慰謝料・損害賠償を請求可能。",
+        "source": {
+          "organization": "ドイツ連邦反差別庁 (FADA / Antidiskriminierungsstelle des Bundes)",
+          "title": "Allgemeines Gleichbehandlungsgesetz (AGG): Schutz für Bewerberinnen und Bewerber",
+          "url": "https://www.antidiskriminierungsstelle.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "採用手続きの公正化に関する法律（採用手続き法）および男女雇用平等法",
+        "statusOrLevel": "求職者に対する容姿・身体条件・私生活の質問禁止および不当な性的要求に対する刑事罰",
+        "keyFeature": "求職者の親の財産やプライベートな交際関係を面接で質問した企業に過料処分。就職あっせんを口実としたセクハラに対し雇用労働部が直通の特別通報センターを運用。",
+        "source": {
+          "organization": "大韓民国雇用労働部 (MOEL)",
+          "title": "Act on the Fairness of Hiring Procedures and Protection of Job Seekers",
+          "url": "https://www.moel.go.kr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "性差別法改正（Respect@Work法: 正の予防義務法制化）",
+        "statusOrLevel": "求職者・学生インターンを含むあらゆる就業候補者に対する性的ハラスメントの根絶義務",
+        "keyFeature": "雇用主に対し、応募者に対するハラスメントを排除するための積極的義務（Positive Duty）を新設。人権委員会（AHRC）が企業への強制調査権と是正命令権を行使。",
+        "source": {
+          "organization": "オーストラリア人権委員会 (AHRC)",
+          "title": "Positive duty under the Sex Discrimination Act to eliminate sexual harassment of job seekers",
+          "url": "https://humanrights.gov.au"
+        }
+      }
+    ]
+  }
 }

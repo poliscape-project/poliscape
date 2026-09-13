@@ -185,5 +185,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Wallet"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の地方議会議員なり手不足対策・兼業（ミリツ制・副業）保障および夜間・オンライン議会比較",
+    "comparisonSummary": "無投票当選の増加や地方議員のなり手不足を解消するため、スイスのミリツ（名誉職・本業両立）制度、ドイツの兼業保障令、英国の市民議員アローワンス、夜間議会開催など、現役世代や女性が参画しやすい法制度が運用されています。",
+    "countries": [
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "ミリツ制度（Milizsystem: 市民ボランティア名誉職政治家制度）",
+        "statusOrLevel": "基礎自治体（ゲマインデ）議員のほぼ100%が本業を持つ兼業議員・夕方・夜間議会開催",
+        "keyFeature": "「専業政治家」を作らず、医師・農家・技術者が本業を続けながら議員活動を実施。法律により雇用主は議会出席のための休暇付与を義務付けられ、解雇は違法。",
+        "source": {
+          "organization": "スイス連邦内閣府 (BK) / スイス自治体連合 (Schweizerischer Gemeindeverband)",
+          "title": "The Militia System in Switzerland: Combining professional career and political mandate",
+          "url": "https://www.ch.ch"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "各連邦州自治体法名誉職議員制度（Ehrenamtliche Gemeinderäte）および休職保障法制",
+        "statusOrLevel": "市町村議会議員は原則として名誉職・兼業の完全自由化および雇用主への補償",
+        "keyFeature": "民間サラリーマンが議員活動を行えるよう、議会招集時の勤務免除権を州法で保障。欠勤による減収分は自治体が全額補填し、夜間18時以降の議会開催が標準。",
+        "source": {
+          "organization": "ドイツ各連邦州内務省 / ドイツ都市連合 (Städtetag)",
+          "title": "Rechte und Pflichten ehrenamtlicher Mandatsträger in kommunalen Vertretungskörperschaften",
+          "url": "https://www.staedtetag.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "地方自治体手当規則（Local Authorities Members' Allowances Regulations 2003）",
+        "statusOrLevel": "地方議員（Councillor）の市民パートタイム制および基本手当（Basic Allowance）支給",
+        "keyFeature": "議員は給与ではなく実費的アローワンスを受給し本業と両立。雇用権利法（Employment Rights Act 1996）第50条に基づき、公務遂行のための有給・無給休暇取得権を労働者に保障。",
+        "source": {
+          "organization": "英国地方自治協会 (LGA) / 住宅・コミュニティ・地方自治省 (DLUHC)",
+          "title": "Councillor allowances and employment rights for public duties",
+          "url": "https://www.local.gov.uk"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "自治体法（Kommunallagen）余暇政治家（Fritidspolitiker）制度",
+        "statusOrLevel": "市議会議員の約97%が本業を持つ余暇議員・女性議員比率45%超の達成",
+        "keyFeature": "議会や委員会は平日の夕方17時〜18時以降に開催。法律で育児休業中の議員代理人制度（Ersättare）を完備し、子育て世代の現役会社員が離職せずに議員を務められる環境を保障。",
+        "source": {
+          "organization": "スウェーデン地方自治体・地域連合 (SKR)",
+          "title": "Fritidspolitiker: Kommunallagens bestämmelser om ledighet och ersättning",
+          "url": "https://skr.se"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "シチズン・カウンシル制度（Citizen / Part-time City Councils）および夜間公聴会条例",
+        "statusOrLevel": "全米中小都市議会の約8割がパートタイム制（年額報酬数千〜1万ドル程度）",
+        "keyFeature": "議員専業化を避け、地域住民の代表として夜間議会を開催。利益相反（Conflict of Interest）防止規則を明確化し、特定業界との兼業を透明開示の上で認可。",
+        "source": {
+          "organization": "全米都市連盟 (National League of Cities - NLC)",
+          "title": "Forms of Municipal Government and Council Compensation Structures",
+          "url": "https://www.nlc.org"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "地方選出公職者地位法（Loi sur le statut de l'élu local）",
+        "statusOrLevel": "基礎自治体（コミューン）議員に対する年間最大日数の職務欠勤権（Autorisation d'absence）保障",
+        "keyFeature": "民間企業従業員が市議会議員に当選した場合、本業の解雇を厳格禁止。任期満了後の原職復帰権や、公務に伴う研修受講手当・年金権の継続を国法で保障。",
+        "source": {
+          "organization": "フランス内務省地方自治体総局 (DGCL)",
+          "title": "Statut de l'élu local: droits à la formation, conciliation vie professionnelle et mandat",
+          "url": "https://www.collectivites-locales.gouv.fr"
+        }
+      }
+    ]
+  }
 }

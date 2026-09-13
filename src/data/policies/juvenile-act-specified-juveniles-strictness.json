@@ -205,5 +205,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の若年成人犯罪者（18・19歳 / Young Adults）刑事司法・実名報道・保護処分比較",
+    "comparisonSummary": "成人年齢引き下げに伴う18・19歳の刑事処遇に関し、ドイツの「青年（Heranwachsende）」への少年法適用、英国の成人裁判実名報道原則、米国の成人裁判移送（Transfer）など、更生可能性と被害者知る権利のバランスが各国で議論されています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "少年裁判所法（JGG § 105: Jugendgerichtsgesetz）青年（Heranwachsende: 18〜20歳）特例",
+        "statusOrLevel": "18〜20歳の若年成人犯罪者の約6割以上に対し成人の刑法ではなく少年法（保護処分）を適用",
+        "keyFeature": "精神的成熟度が成人に達していない場合、裁判官の裁量で少年刑務所への収容や教育的措置を適用。実名報道は人格権保護（連邦憲法裁判所判例）により原則厳格禁止。",
+        "source": {
+          "organization": "ドイツ連邦司法省 (BMJ) / 連邦通常裁判所 (BGH)",
+          "title": "Jugendgerichtsgesetz (JGG): Anwendung des Jugendstrafrechts auf Heranwachsende",
+          "url": "https://www.gesetze-im-internet.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "青年司法制度（Youth Justice System: 10〜17歳）および18歳成人裁判原則",
+        "statusOrLevel": "18歳到達と同時に成人裁判所に起訴・公開裁判原則に基づき実名報道が完全解禁",
+        "keyFeature": "17歳以下は青少年裁判所（Youth Court）で非公開・匿名報道が保障されるが、18歳以上は成人としてクラウン裁判所で公判。ただし若年成人（18〜25歳）向け量刑緩和指針を運用。",
+        "source": {
+          "organization": "英国司法省 (Ministry of Justice) / 青年司法委員会 (YJB)",
+          "title": "Sentencing Children and Young People: Definitive Guideline and Youth Justice Board",
+          "url": "https://www.sentencingcouncil.org.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "各州少年司法法（Juvenile Court Jurisdiction）および成人裁判移送（Direct File/Transfer）",
+        "statusOrLevel": "ほぼ全州で18歳以上は自動的に成人刑事裁判所・重大殺人犯は14〜16歳でも成人裁判実名公開",
+        "keyFeature": "憲法修正第1条（報道の自由）に基づき、法廷で起訴された成人（18歳以上）の氏名・顔写真は警察・裁判所がマグショット（顔写真）を含め全公開が標準。",
+        "source": {
+          "organization": "米国司法省少年司法非行防止局 (OJJDP)",
+          "title": "Juvenile Justice Reform and Transfer of Juveniles to Adult Court",
+          "url": "https://ojjdp.ojp.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "少年刑事司法法典（CJPM: Code de la justice pénale des mineurs）",
+        "statusOrLevel": "18歳未満に対する少年裁判所非公開審判と18歳以上の成人刑事法典全面適用",
+        "keyFeature": "18歳未満の匿名性を厳格保護する一方、18歳以上の重罪事件は重罪院（Cour d'assises）で公開審理。更生可能性を考慮し、21歳未満の服役者に対する若年者刑務所収容オプションを保持。",
+        "source": {
+          "organization": "フランス司法省 (Ministère de la Justice)",
+          "title": "Code de la justice pénale des mineurs et distinction de la majorité pénale",
+          "url": "https://www.justice.gouv.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "少年法（19歳未満対象）および特定強力犯罪の処罰に関する特例法",
+        "statusOrLevel": "18歳は少年法適用対象（19歳未満）であるが凶悪重大犯罪時は死刑・無期刑緩和を制限",
+        "keyFeature": "保護処分（少年院送致等）の適用を維持しつつ、凶悪殺人事件等では検察審議委員会を経て被疑者の実名・顔写真の公開決定が可能。成人年齢（19歳）との法際調整を継続。",
+        "source": {
+          "organization": "大韓民国法務部 (MOJ) / 警察庁",
+          "title": "Juvenile Act and Disclosure of Personal Information of Specific Violent Criminals",
+          "url": "https://www.moj.go.kr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "各州少年司法法（Youth Justice Act）および刑事責任年齢改革議論",
+        "statusOrLevel": "18歳未満の匿名性厳格保護・18歳以上に対する成人裁判所管轄と公開審理",
+        "keyFeature": "18歳未満の氏名・特定情報のメディア報道を法律で厳しく処罰。18歳以上については公判公開原則が適用されるが、リハビリテーション支援プログラム（Youth Koori Court等）を併用。",
+        "source": {
+          "organization": "オーストラリア司法省 (Attorney-General's Department) / 各州青年司法局",
+          "title": "Youth Justice Principles and Sentencing Young Offenders in Australian Jurisdictions",
+          "url": "https://www.ag.gov.au"
+        }
+      }
+    ]
+  }
 }

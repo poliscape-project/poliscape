@@ -261,5 +261,89 @@
         "commentStandard": "「物価高で家計が防衛的な中、環境配慮を理由に100g数十円高い牛肉を買う消費者はごく一部。農家の投資回収が難しい」"
       }
     ]
+  },
+  "international": {
+    "title": "世界の畜産メタンガス（牛のげっぷ・家畜糞尿）排出削減法制および気候変動対策比較",
+    "comparisonSummary": "温室効果の高いメタン排出を削減するため、デンマークの家畜炭素税、ニュージーランドの農業排出量価格付け、オーストラリアの海藻飼料添加物認証、米国のバイオガス燃料クレジットなど、先駆的規制と技術助成が導入されています。",
+    "countries": [
+      {
+        "country": "デンマーク",
+        "countryCode": "DK",
+        "flag": "🇩🇰",
+        "systemName": "グリーン・トライパータイト合意（Green Tripartite Agreement: 2030年家畜炭素税導入法制）",
+        "statusOrLevel": "世界初の「牛・豚のげっぷ・排泄物に対する炭素税（CO2換算1トンあたり300〜750クローネ）」法制化",
+        "keyFeature": "2030年から導入。農家の税負担を軽減するための基礎控除（60%）を設けつつ、低メタン飼料導入やバイオガス化を行う農家を減税。税収は全額森林再生・農業転換基金に還流。",
+        "source": {
+          "organization": "デンマーク気候・エネルギー・公益事業省 / 税務省",
+          "title": "The Green Tripartite Agreement: Carbon taxation on livestock emissions from 2030",
+          "url": "https://kefm.dk"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "気候変動対応法（Climate Change Response Act）農業排出量価格設定枠組み",
+        "statusOrLevel": "国家温室効果ガス排出量の約半分を占める酪農・畜産メタンの農場レベル算定と価格付け",
+        "keyFeature": "当初予定の直接課税から、農家の実効的削減技術（遺伝改良・低メタン牧草導入）を支援するインセンティブ制度へ再編。メタン排出測定の標準プロトコルを確立。",
+        "source": {
+          "organization": "ニュージーランド気候変動委員会 (He Pou a Rangi) / 環境省",
+          "title": "Pricing agricultural emissions: Recommendations and policy framework",
+          "url": "https://www.climatecommission.govt.nz"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EUメタン排出削減規則（Regulation (EU) 2024/1787）および飼料添加物公認令",
+        "statusOrLevel": "メタン抑制飼料添加物（Bovaer / 3-NOP: げっぷメタン最大30%削減）のEU域内全域販売公認",
+        "keyFeature": "食品安全機関（EFSA）の厳格な安全性審査を経て世界初承認。共通農業政策（CAP）のエコスキーム（環境直接支払）でBovaerを投与する酪農家に上乗せ補助金を支給。",
+        "source": {
+          "organization": "欧州委員会 (European Commission) / 欧州食品安全機関 (EFSA)",
+          "title": "EU Methane Regulation and authorization of 3-NOP feed additive for dairy cows",
+          "url": "https://food.ec.europa.eu"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "カリフォルニア州低炭素燃料基準（LCFS）酪農メタンダイジェスター・クレジット",
+        "statusOrLevel": "家畜糞尿メタンガスを捕集・精製した再生可能天然ガス（RNG）に対する高額クレジット付与",
+        "keyFeature": "糞尿プールに覆いをしてメタンを回収・発電する酪農家に数十億ドル規模の市場型利益を創出。インフレ抑制法（IRA）で嫌気性消化プラント建設に最大30%の投資税額控除。",
+        "source": {
+          "organization": "カリフォルニア州大気資源局 (CARB) / 米国農務省 (USDA)",
+          "title": "Low Carbon Fuel Standard (LCFS) Dairy Digester Projects and IRA Clean Energy Credits",
+          "url": "https://ww2.arb.ca.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家海藻養殖イニシアチブおよびアスパラゴプシス（Asparagopsis）低メタン飼料実証",
+        "statusOrLevel": "自生赤藻の添加により反芻家畜のメタン排出を最大80%以上削減する世界先駆技術の商業化",
+        "keyFeature": "豪州連邦科学産業研究機構（CSIRO）が特許を取得。温室効果ガス削減クレジット（ACCUs）を付与する公式算定方法論を策定し、農家が飼料給与でカーボンクレジットを獲得可能。",
+        "source": {
+          "organization": "オーストラリア連邦科学産業研究機構 (CSIRO) / DCCEEW",
+          "title": "FutureFeed: Asparagopsis seaweed feed ingredient for methane reduction",
+          "url": "https://www.csiro.au"
+        }
+      },
+      {
+        "country": "アイルランド",
+        "countryCode": "IE",
+        "flag": "🇮🇪",
+        "systemName": "気候行動計画2024（Climate Action Plan）農業セクター25%削減目標",
+        "statusOrLevel": "牛の屠殺月齢早期化（肥育期間短縮による生涯排出削減）およびクローバー混播牧草普及",
+        "keyFeature": "化学肥料を不要にするシロクローバー混交放牧を義務化し、反芻家畜の肉用牛出荷月齢を2カ月前倒しする農家に公費助成金を支給。牛群管理による削減を推進。",
+        "source": {
+          "organization": "アイルランド農業・食料・海洋省 (DAFM) / Teagasc",
+          "title": "Teagasc Marginal Abatement Cost Curve (MACC) for Agricultural Greenhouse Gases",
+          "url": "https://www.teagasc.ie"
+        }
+      }
+    ]
   }
 }

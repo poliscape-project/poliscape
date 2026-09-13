@@ -185,5 +185,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の国家非常事態における中央政府の地方自治体に対する直接指示権・代執行法制比較",
+    "comparisonSummary": "大規模災害や感染症危機において国民の生命を守るための迅速な広域対応と、地方自治・地方分権のバランスを巡り、フランスの県知事監督権、ドイツの基本法第84条連邦執行権、米国の反コマンド・ドクトリンなど、厳格な発動要件と司法審査が比較されます。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ボン基本法第84条・第85条（連邦法の州執行監督権および連邦強制: Bundeszwang）",
+        "statusOrLevel": "重大な法律違反・連邦義務不履行時に限る連邦参議院（Bundesrat）同意を要する指示権",
+        "keyFeature": "平時は連邦が州や市町村に直接命令することを憲法上厳格に禁止。全国的公衆衛生危機等の特別法制定時でも、連邦参議院（州代表）の事前同意を必須ハードルとし中央集権化を抑止。",
+        "source": {
+          "organization": "ドイツ連邦憲法裁判所 (BVerfG) / 連邦内務省",
+          "title": "Grundgesetz für die Bundesrepublik Deutschland: Art 84 und Bundesaufsicht",
+          "url": "https://www.gesetze-im-internet.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "憲法第72条第6項（県知事・国家代表による事後適法性統制と非常時警察権能）",
+        "statusOrLevel": "県知事（Préfet）による自治体命令の停止請求権および非常事態法（État d'urgence）直接指揮",
+        "keyFeature": "平時は地方自治の自由行政原則（Libre administration）を尊重し事後司法審査（行政裁判所）のみ。大災害やパンデミック時には内務省・県知事が警察・医療を一括中央指揮。",
+        "source": {
+          "organization": "フランス内務省 (Ministère de l'Intérieur) / 国務院 (Conseil d'État)",
+          "title": "Le contrôle de légalité des actes des collectivités territoriales par le Préfet",
+          "url": "https://www.interieur.gouv.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "合衆国憲法修正第10条および反コマンド・ドクトリン（Anti-Commandeering Doctrine）",
+        "statusOrLevel": "連邦政府が州政府や地方自治体職員に対し直接命令・指示することを憲法上絶対禁止",
+        "keyFeature": "最高裁判例（Printz事件等）により確立。大統領であっても州知事や市長に直接命令はできず、従わせるには連邦補助金の交付条件（財政的インセンティブ）を用いる手法に限定。",
+        "source": {
+          "organization": "米国連邦最高裁判所 (Supreme Court of the United States)",
+          "title": "Tenth Amendment and the Anti-Commandeering Doctrine: Constitutional Principles",
+          "url": "https://www.supremecourt.gov"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "イタリア共和国憲法第120条第2項（政府の補充権能・代執行権: Potere sostitutivo）",
+        "statusOrLevel": "公衆衛生や安全に対する重大な危険がある場合に限り内閣が自治体に代わり直接代執行",
+        "keyFeature": "地方分権を尊重しつつ、憲法に国家全体の法的一体性・最低生活水準防衛のための補充介入権を明記。発動には自治体への事前是正通告と意見聴取手続きを義務化。",
+        "source": {
+          "organization": "イタリア地域問題・自治省 (Dipartimento per gli Affari Regionali)",
+          "title": "Costituzione Italiana Articolo 120 e l'esercizio del potere sostitutivo dello Stato",
+          "url": "https://www.affariregionali.it"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "地方自治法1999第15条（最善価値介入権能: Best Value Intervention）および緊急時権限法",
+        "statusOrLevel": "地方自治体が重大な機能不全に陥った際の中央政府コミッショナー（派遣官）直接統治",
+        "keyFeature": "バーミンガム市財政破綻時等に発動。大臣が直属の特命コミッショナーを派遣し、議会権限を一時停止して行政運営を直接指揮する強力な中央介入法制を運用。",
+        "source": {
+          "organization": "英国住宅・コミュニティ・地方自治省 (DLUHC)",
+          "title": "Local Government Act 1999: Secretary of State intervention powers",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "地方自治法第169条・第170条（国の是正命令権および職務執行命令・代執行）",
+        "statusOrLevel": "主務長官による自治体の違法・公益侵害処分に対する是正命令および大法院訴訟制度",
+        "keyFeature": "国と自治体の対立時は、自治体長が大法院（最高裁）に即時提訴できる司法救済を完備。非常災難時には行政安全部長官が全国警察・消防・自治体を直接統合指揮。",
+        "source": {
+          "organization": "大韓民国行政安全部 (MOIS) / 大法院",
+          "title": "Local Autonomy Act: Corrective Orders and Judicial Review Mechanisms",
+          "url": "https://www.mois.go.kr"
+        }
+      }
+    ]
+  }
 }

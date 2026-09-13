@@ -185,5 +185,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の超長大トンネル・メガ高速鉄道建設における地下水資源保護・環境法廷紛争解決比較",
+    "comparisonSummary": "長大山岳トンネル掘削に伴う河川流量減少や帯水層破壊を巡り、スイスのゴッタルド基底トンネル、英HS2のチルターン丘陵水資源訴訟、独シュトゥットガルト21など、全量地下水戻し技術、リアルタイムモニタリング、第三者環境調停が法制化されています。",
+    "countries": [
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "アルプス縦断鉄道建設法（AlpTransit）およびゴッタルド基底トンネル水資源協定",
+        "statusOrLevel": "世界最長（57km）の山岳トンネル掘削における山岳地下水脈・高山植物保護包括プロトコル",
+        "keyFeature": "掘削中に湧出した地下水の温度・水質・流量をリアルタイム遠隔監視。周辺の小川やダム湖の水位低下を防ぐため、トンネル内壁の完全密閉防水シーリング工法を法規化。",
+        "source": {
+          "organization": "スイス連邦運輸局 (BAV) / AlpTransit Gotthard AG",
+          "title": "Gotthard Base Tunnel: Environmental monitoring and water protection concepts",
+          "url": "https://www.alptransit.ch"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "高速鉄道（ロンドン〜ウェスト・ミッドランズ）法2017（HS2 Act 2017）環境審査法規",
+        "statusOrLevel": "チルターン丘陵白亜層帯水層（ロンドン市民の飲用水源）貫通トンネル掘削規制",
+        "keyFeature": "環境庁（EA）が水資源保護のためトンネルボーリングマシン（TBM）の掘削圧力や泥土添加剤を厳格規制。水質汚染リスクが生じた際の即時掘削停止権を独立監督官に付与。",
+        "source": {
+          "organization": "英国環境庁 (Environment Agency) / HS2 Ltd",
+          "title": "High Speed Two (HS2) Phase One: Protecting groundwater and the Chilterns aquifer",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦鉄道インフラ開発法およびシュトゥットガルト21地下水管理（Grundwassermanagement）",
+        "statusOrLevel": "世界有数の鉱泉・ミネラル温泉地帯直下での大規模トンネル掘削・水理地質学的管理",
+        "keyFeature": "工事で汲み上げた地下水を地上プラントで浄化・温度調整した上で、パイプライン網を通じて元の帯水層へ全量再浸透（Infiltration）させる循環システムを法定義務化。",
+        "source": {
+          "organization": "ドイツ連邦鉄道庁 (EBA) / バーデン＝ヴュルテンベルク州環境省",
+          "title": "Stuttgart 21: Grundwassermanagement und Schutz der Mineralquellen",
+          "url": "https://www.stuttgart.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "仏伊共同リヨン〜トリノ高速鉄道協定（TELT: Tunnel Euralpin Lyon Turin - 57.5kmトンネル）",
+        "statusOrLevel": "アルプス山脈横断トンネル工事における住民水源枯渇防止協定および農業用水補償基金",
+        "keyFeature": "国際条約に基づき両国合同環境委員会を設置。水資源への影響が確認された場合、代替え水道パイプラインの公費敷設と農業被害に対する無過失損害賠償を規定。",
+        "source": {
+          "organization": "フランス生態移行・国土結束省 / TELT SAS",
+          "title": "Tunnel Euralpin Lyon Turin: Engagements environnementaux et gestion de l'eau",
+          "url": "https://www.telt.eu"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "アペニン山脈高速線（ボローニャ〜フィレンツェ高速鉄道）水資源環境修復法制",
+        "statusOrLevel": "トンネル掘削による小河川・帯水層枯渇事故の司法検証と河川環境再生基金（数十億リラ）",
+        "keyFeature": "1990年代のトンネル工事で複数の河川が干上がった歴史的公害訴訟を教訓化。以降の大規模トンネルでは、環境影響評価（VIA）に地域流域協議会の全会一致合意を義務付け。",
+        "source": {
+          "organization": "イタリア環境・エネルギー安全保障省 (MASE) / トスカーナ州",
+          "title": "Monitoraggio ambientale e ripristino idrogeologico nella direttrice AV Bologna-Firenze",
+          "url": "https://www.mase.gov.it"
+        }
+      },
+      {
+        "country": "オーストリア",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "systemName": "コラールムトンネル（Koralmtunnel: 33km）環境影響評価（UVP）水理地質保護計画",
+        "statusOrLevel": "アルプス東部山岳地帯における全水源・井戸の数十年にわたる事前事後テレメータ監視",
+        "keyFeature": "オーストリア連邦鉄道（ÖBB）が地域住民に対し全井戸の水位・水質保証契約を個別締結。トンネル内に集水された清浄な冷水を近隣自治体の水道水として永続供給。",
+        "source": {
+          "organization": "オーストリア連邦気候行動・環境・エネルギー省 (BMK) / ÖBB-Infrastruktur",
+          "title": "Koralmbahn: Umweltverträglichkeitsprüfung und hydrogeologische Beweissicherung",
+          "url": "https://infrastruktur.oebb.at"
+        }
+      }
+    ]
+  }
 }

@@ -205,5 +205,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の閉鎖循環式陸上養殖（RAS: Recirculating Aquaculture Systems）法制・産業化比較",
+    "comparisonSummary": "海洋環境汚染や赤潮リスクを排除し年間安定供給を実現するため、ノルウェーの無制限陸上養殖免許、デンマークのRAS環境モデル基準、米国のギガファクトリー型サーモン養殖認可など、規制緩和と排水循環規格が整備されています。",
+    "countries": [
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "水産養殖法（Aquaculture Act）陸上養殖免許（Land-based Aquaculture License）",
+        "statusOrLevel": "海面養殖のような数千万円の免許オークションを免除・環境基準適合で陸上免許を無償交付",
+        "keyFeature": "サケシラミ寄生虫や海面汚染を防ぐため、陸上RAS施設に対するライセンス取得を大幅優遇。大規模メガファーム（Andfjord Salmon等）の内陸建設を国策推進。",
+        "source": {
+          "organization": "ノルウェー漁業総局 (Fiskeridirektoratet) / 気候環境省",
+          "title": "Allocation and regulation of land-based aquaculture permits",
+          "url": "https://www.fiskeridir.no"
+        }
+      },
+      {
+        "country": "デンマーク",
+        "countryCode": "DK",
+        "flag": "🇩🇰",
+        "systemName": "環境保護法モデル養殖場令（Model Dambrug: 閉鎖循環式RAS技術認証）",
+        "statusOrLevel": "水使用量95%削減・水質浄化フィルターによる窒素・リン排出ゼロに近い環境基準",
+        "keyFeature": "世界最先端のRAS技術輸出国。排水処理プラントとバイオフィルターの導入を条件に、内陸部での大規模マス・サーモン養殖施設の建設認可を迅速交付。",
+        "source": {
+          "organization": "デンマーク環境保護庁 (Miljøstyrelsen) / 農業水産庁",
+          "title": "Environmental regulations for model fish farms and recirculating aquaculture (RAS)",
+          "url": "https://mst.dk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "NOAA国立養殖戦略計画（National Aquaculture Strategic Plan）およびフロリダ州養殖特区",
+        "statusOrLevel": "Atlantic Sapphire社等の内陸メガRAS施設（年間数万トン規模サーモン養殖）商業認可",
+        "keyFeature": "深層帯水層からの揚水と地下圧入排水処理スキームをEPA・州環境局が承認。輸入依存度の高い高級魚の国内完全自給を目指し、巨額投資を税制優遇。",
+        "source": {
+          "organization": "米国海洋大気庁水産局 (NOAA Fisheries) / 農務省 (USDA)",
+          "title": "National Aquaculture Strategic Plan and Land-Based Recirculating Systems",
+          "url": "https://www.fisheries.noaa.gov"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "30by30食料安全保障戦略および農業食品イノベーションパーク（AFIP）",
+        "statusOrLevel": "国土制約を克服する高層ビル型垂直RAS養殖および屋上閉鎖循環スマートファーム助成",
+        "keyFeature": "2030年までに国内水産物自給率30%達成を目指す国家プロジェクト。AI水質管理センサーとLED照明を備えた最先端RAS施設に最大数百万ドルの転換補助金を交付。",
+        "source": {
+          "organization": "シンガポール食品庁 (SFA) / 経済開発庁 (EDB)",
+          "title": "Singapore 30 by 30 Strategy and Agri-Food Cluster Transformation Fund",
+          "url": "https://www.sfa.gov.sg"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "循環型水産養殖技術基準（Circular Aquaculture Standards）およびKingfish Zeeland",
+        "statusOrLevel": "北海海水を利用したオランダ内陸部での高級ヒラマサ（Yellowtail Kingfish）陸上RAS養殖",
+        "keyFeature": "自然保護区（Natura 2000）周辺での窒素排出規制をクリアするため、排泄物汚泥の完全バイオガス化と熱回収ループを法規適合化。グリーン電力100%駆動。",
+        "source": {
+          "organization": "オランダ農業・自然・食品安全省 (LNV) / 企業庁 (RVO)",
+          "title": "Innovative sustainable aquaculture and recirculating system guidelines",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "農業農村部「工業化循環水養殖（RAS）振興指導意見」",
+        "statusOrLevel": "山東省・浙江省等の沿岸内陸部における数万平方メートル規模の大規模循環水スマート養殖基地",
+        "keyFeature": "海面養殖区画の過密汚染を整理（退塘還海）し、工場化陸上養殖への集約を国策推進。デジタル水質制御装置や自動給餌ロボットの購入に国家農機具補助金を適用。",
+        "source": {
+          "organization": "中国農業農村部 (MARA) / 国家発展改革委員会",
+          "title": "Guiding Opinions on Promoting Industrialized Recirculating Water Aquaculture",
+          "url": "http://www.moa.gov.cn"
+        }
+      }
+    ]
+  }
 }

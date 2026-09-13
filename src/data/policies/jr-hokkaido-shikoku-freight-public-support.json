@@ -185,5 +185,89 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の赤字ローカル鉄道網・貨物鉄道に対する公的財政支援および上下分離法制比較",
+    "comparisonSummary": "地理的困難や過疎化に直面する基幹鉄道網を維持するため、フランスSNCFの上下分離と国家インフラ全額負担、ドイツの連邦地域化資金、米アムトラックの巨額連邦補助など、公共インフラとしての国家財政コミットが確立されています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "上下分離方式（Séparation infrastructure/exploitation: SNCF Réseau）および国家インフラ全額負担",
+        "statusOrLevel": "線路・信号・トンネル維持管理を国家100%出資の公社が担当・運行会社は線路使用料のみ負担",
+        "keyFeature": "過疎ローカル線であっても、インフラ維持更新費は国家予算で支える原則を徹底。さらに地域圏（Région）が運行赤字を地域急行輸送（TER）契約で100%公費補填。",
+        "source": {
+          "organization": "フランス運輸省 (Ministère des Transports) / SNCF Réseau",
+          "title": "Pacte ferroviaire: Financement des infrastructures et contrat de performance État-SNCF",
+          "url": "https://www.sncf-reseau.com"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "地域化法（Regionalisierungsgesetz）および連邦鉄道インフラ投資法",
+        "statusOrLevel": "連邦政府から各州への年間約100億ユーロ規模の鉄道運行交付金（Regionalisierungsmittel）配分",
+        "keyFeature": "赤字路線であっても、州政府が競争入札で運行会社（DBや民間私鉄）を指定し、運行赤字を交付金で全額埋め合わせるスキーム。貨物鉄道には線路使用料引き下げ補助金を実施。",
+        "source": {
+          "organization": "ドイツ連邦デジタル・交通省 (BMDV)",
+          "title": "Regionalisierungsgesetz und Bundesprogramm Zukunft Schienengüterverkehr",
+          "url": "https://www.bmdv.bund.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "グレート・ブリティッシュ・レールウェイズ（Great British Railways: GBR）再国有統合改革",
+        "statusOrLevel": "破綻した完全民営化フランチャイズ制を廃止し国家指導の統合鉄道公社へ抜本再編",
+        "keyFeature": "独立採算が不可能な地方赤字路線について、国が民間事業者に運行委託料を支払う「受託運行（Pass-through contracts）」へ移行。運賃設定やダイヤ編成を国家が一元管理。",
+        "source": {
+          "organization": "英国運輸省 (DfT) / Great British Railways Transition Team",
+          "title": "Plan for Rail: Transforming the railways under Great British Railways",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "アムトラック（Amtrak: 全米旅客鉄道公社）連邦公費補助および超党派インフラ法（BIL）",
+        "statusOrLevel": "660億ドルの連邦直接投資による全米赤字長距離旅客鉄道ネットワークの維持救済",
+        "keyFeature": "民間貨物鉄道会社が保有する線路網をアムトラックが優先走行する権利を連邦法で規定。採算の合わない地方長距離路線（State-Supported / Long-Distance）を連邦公費で全面補填。",
+        "source": {
+          "organization": "米国連邦鉄道局 (FRA) / Amtrak",
+          "title": "Federal Railroad Administration: Bipartisan Infrastructure Law Rail Programs",
+          "url": "https://railroads.dot.gov"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "鉄道インフラ基金法（BIF: Bahninfrastrukturfonds）および連邦・州共同発注制度",
+        "statusOrLevel": "山岳・寒冷地路線の赤字を連邦およびカントンが全額公費で買い取る公共サービス義務（PSO）",
+        "keyFeature": "スイス連邦鉄道（SBB）や私鉄に対し、赤字額を事前に算定して国費補填。鉄道インフラ基金（年数十億フラン）を恒久設置し、アルプス山岳トンネルの更新を全額保証。",
+        "source": {
+          "organization": "スイス連邦運輸局 (BAV) / スイス連邦鉄道 (SBB)",
+          "title": "Bahninfrastrukturfonds (BIF) und Abgeltungen für den regionalen Personenverkehr",
+          "url": "https://www.bav.admin.ch"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "交通庁（Trafikverket）上下分離管理および鉱脈・森林貨物鉄道国家優先維持",
+        "statusOrLevel": "極北ラップランド鉱山鉄道（Malmbanan）等の国境横断基幹インフラの国家公費100%管理",
+        "keyFeature": "過酷な極寒冷地インフラを国家機関トラフィクヴェルケットが維持。公営貨物鉄道Green Cargo等に対し、脱炭素モーダルシフトを目的としたエコボーナス助成金を直接支給。",
+        "source": {
+          "organization": "スウェーデン交通庁 (Trafikverket) / インフラ省",
+          "title": "Järnvägsnätet i Sverige: Kapacitet, underhåll och stöd till godstransporter",
+          "url": "https://www.trafikverket.se"
+        }
+      }
+    ]
+  }
 }

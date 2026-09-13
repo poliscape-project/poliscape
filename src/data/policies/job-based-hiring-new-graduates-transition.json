@@ -205,5 +205,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Clock"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の大学新卒者採用慣行・ジョブ型採用（通年・職務記述書採用）比較",
+    "comparisonSummary": "メンバーシップ型新卒一括採用から職務内容を明確にしたジョブ型採用へのシフトに向け、米国の通年ポジション公募、ドイツのデュアルシステム、フランスの有給スタージュ協定など、実務直結型・通年選考モデルが国際標準となっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ポジション別通年公募採用（Job-Based Hiring）およびサマーインターンシップ直結型選考",
+        "statusOrLevel": "一括採用の慣習はなく職務記述書（Job Description）に基づく空席補充型・通年選考",
+        "keyFeature": "大学3年次の夏に行われる8〜12週間の有給フルタイムインターンシップでの実務評価に基づき、卒業前の早期正規オファー（内定）を出す仕組みが主流。",
+        "source": {
+          "organization": "全米大学・雇用者協会 (NACE) / 労働省 (DOL)",
+          "title": "NACE Recruiting Benchmarks and Internship Performance Evaluations",
+          "url": "https://www.naceweb.org"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "デュアルシステム（Duales Studium）および職種別労働協約（Tarifvertrag）",
+        "statusOrLevel": "大学での学術教育と企業での実務研修を交互に行う有給学徒制・卒業時即戦力採用",
+        "keyFeature": "在学中から企業と雇用契約を結び給与を受給。職務内容や処遇が産業別労働協約で厳格に定義されており、学歴不問で職務スキルに応じたジョブ型給与が適用。",
+        "source": {
+          "organization": "ドイツ連邦教育研究省 (BMBF) / 連邦職業教育研究所 (BIBB)",
+          "title": "Duales Studium in Deutschland: Praxisintegrierende Studiengänge",
+          "url": "https://www.bibb.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "学生インターンシップ法制（Loi sur les stages: 労働法典）および見習い協約（Apprentissage）",
+        "statusOrLevel": "2カ月を超えるインターンシップに対する法定最低手当（Gratification minimale）支払義務化",
+        "keyFeature": "大学・学生・企業の3者協定（Convention de stage）を法定義務化。インターン生を無給雑用や正規ポストの代替として酷使することを厳罰禁止し、正規採用へ接続。",
+        "source": {
+          "organization": "フランス高等教育・研究省 (MESR) / 労働省",
+          "title": "Encadrement des stages étudiants et gratification obligatoire",
+          "url": "https://www.enseignementsup-recherche.gouv.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "グラデュエイト・スキーム（Graduate Schemes）および通年選考フレームワーク",
+        "statusOrLevel": "大企業・公的部門による1〜3年間の職務ローテーション型育成・正規登用制度",
+        "keyFeature": "秋〜春にかけてオンラインテストやアセスメントセンターによる実務能力審査を実施。ポテンシャルと同時に特定専門分野（ファイナンス、IT等）のスキルを重視。",
+        "source": {
+          "organization": "英国学生雇用者協会 (ISE) / 企業・通商省 (DBT)",
+          "title": "Graduate recruitment and development trends and assessment methods",
+          "url": "https://ise.org.uk"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "大規模公開採用（コンチェ）の解禁・廃止と職務中心随時採用（スシチェヨン）への大転換",
+        "statusOrLevel": "現代自動車、LG、SK等の主要財閥による定期一括採用全廃と事業部門別随時採用化",
+        "keyFeature": "年2回の定期公開採用から、各部署が必要な職務スペック（職務遂行能力）を定めて募集する随時採用へ完全移行。国家職務能力標準（NCS）に基づくブラインド採用を推進。",
+        "source": {
+          "organization": "大韓民国雇用労働部 (MOEL) / 韓国産業人力公団",
+          "title": "National Competency Standards (NCS) and Shift to Job-Centered Hiring",
+          "url": "https://www.moel.go.kr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "スキルズフューチャー（SkillsFuture）職種別スキルフレームワークおよび通年採用",
+        "statusOrLevel": "国家主導の各産業職種記述書（Job Role Matrix）に基づく能力給・通年選考",
+        "keyFeature": "人材開発省（MOM）が全産業のスキルフレームワークを標準化。新卒者であっても保有する資格やインターン実績のスキルセットに応じて直接ポストへ配属。",
+        "source": {
+          "organization": "シンガポール人材開発省 (MOM) / SkillsFuture Singapore",
+          "title": "Skills Framework for industry job roles and career pathways",
+          "url": "https://www.skillsfuture.gov.sg"
+        }
+      }
+    ]
+  }
 }
