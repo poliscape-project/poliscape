@@ -259,6 +259,8 @@
         "countryCode": "DE",
         "flag": "🇩🇪",
         "systemName": "電気・ガス料金ブレーキ法（Strompreisbremse / Erdgas-Wärme-Preisbremse）",
+        "temporaryPeriod": "2023年〜2024年春（緊急激変緩和措置）",
+        "temporaryLabel": "2023〜24年時限",
         "statusOrLevel": "2,000億ユーロの防衛基金（WSF）を投じた基準使用量80%に対する上限価格保証",
         "keyFeature": "一般家庭の前年消費量80%に対し、電気は40セント/kWh、ガスは12セント/kWhを上限とし、超過分を政府が電力ガス会社に全額補填。さらに再エネ賦課金（EEG賦課金）を完全廃止（国費負担化）。",
         "source": {
@@ -272,6 +274,8 @@
         "countryCode": "GB",
         "flag": "🇬🇧",
         "systemName": "エネルギー価格保証（Energy Price Guarantee: EPG）および超過利得税（EPL）",
+        "temporaryPeriod": "2022年10月〜2024年（上限価格時限措置）",
+        "temporaryLabel": "2022〜24年時限",
         "statusOrLevel": "標準家庭の年間光熱費上限（2,500ポンド）設定およびエネルギー企業への75%超過利得税",
         "keyFeature": "価格高騰分を政府が直接補助金として拠出する一方、化石燃料採掘企業や再エネ発電事業者の想定外利益（Windfall Profit）に対し巨額の超過利得税を課して財源回収。",
         "source": {
@@ -285,6 +289,8 @@
         "countryCode": "FR",
         "flag": "🇫🇷",
         "systemName": "料金シールド（Bouclier tarifaire）および電力消費税（TICFE）最低税率引き下げ",
+        "temporaryPeriod": "2021年秋〜2024年（激変緩和時限措置）",
+        "temporaryLabel": "2021〜24年時限",
         "statusOrLevel": "電気料金・ガス料金の法定値上げ率を最大4%〜15%に厳格制限（国費補填）",
         "keyFeature": "国有電力会社EDFの原子力発電を活かしつつ、政府が一般家庭と零細企業の電気料金値上げを凍結。電気税をEU最低水準（1ユーロ/MWh）まで引き下げて家計を守る。",
         "source": {
@@ -298,6 +304,8 @@
         "countryCode": "EU",
         "flag": "🇪🇺",
         "systemName": "EUエネルギー緊急介入規則（Regulation (EU) 2022/1854）",
+        "temporaryPeriod": "2022年〜2023年（緊急介入時限規則）",
+        "temporaryLabel": "2022〜23年時限",
         "statusOrLevel": "インフラ限界発電事業者（再エネ・原発等）への収入上限（180ユーロ/MWh）および連帯拠出金",
         "keyFeature": "化石燃料市場連動による再エネ・原発企業の過剰利益を強制的に徴収し、各加盟国が困窮世帯・中小企業の光熱費軽減補助金に直接充当する共通ルールを制定。",
         "source": {

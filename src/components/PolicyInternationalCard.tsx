@@ -12,28 +12,55 @@ interface PolicyInternationalCardProps {
 const CountryCard: React.FC<{ item: InternationalCountryData; isSimpleMode: boolean }> = ({
   item,
   isSimpleMode,
-}) => (
-  <div className="bg-white rounded-xl border border-slate-200/90 p-4 sm:p-5 flex flex-col justify-between hover:border-indigo-300 hover:shadow-xs transition-all">
-    <div>
-      {/* 国名ヘッダー */}
-      <div className="flex items-center justify-between gap-2 pb-3 mb-3 border-b border-slate-100">
-        <div className="flex items-center gap-2">
-          <span className="text-2xl" role="img" aria-label={item.country}>
-            {item.flag}
-          </span>
-          <div>
-            <h4 className="text-sm sm:text-base font-bold text-slate-900 leading-tight">
-              {item.country}
-            </h4>
-            <span className="text-[11px] text-slate-400 font-mono">
-              {item.systemName}
+}) => {
+  // 年度が限定されている場合（例: 2022年、2023〜2024年）や時限措置のバッジテキスト
+  const tempBadgeText = (() => {
+    if (item.temporaryLabel) return item.temporaryLabel;
+    if (!item.temporaryPeriod) return null;
+    const rangeMatch = item.temporaryPeriod.match(/(\d{4})(?:年度)?(?:〜|~|-)(\d{4})(?:年度)?/);
+    if (rangeMatch) {
+      return `${rangeMatch[1]}〜${rangeMatch[2]}年時限`;
+    }
+    const fiscalMatch = item.temporaryPeriod.match(/(\d{4}年度)/);
+    if (fiscalMatch) {
+      return `${fiscalMatch[1]}限定`;
+    }
+    const yearMatch = item.temporaryPeriod.match(/(\d{4}年)/);
+    if (yearMatch) {
+      return `${yearMatch[1]}限定`;
+    }
+    return "時限措置";
+  })();
+
+  return (
+    <div className="bg-white rounded-xl border border-slate-200/90 p-4 sm:p-5 flex flex-col justify-between hover:border-indigo-300 hover:shadow-xs transition-all">
+      <div>
+        {/* 国名ヘッダー */}
+        <div className="flex items-center justify-between gap-2 pb-3 mb-3 border-b border-slate-100 flex-wrap">
+          <div className="flex items-center gap-2 min-w-0">
+            <span className="text-2xl shrink-0" role="img" aria-label={item.country}>
+              {item.flag}
+            </span>
+            <div className="min-w-0">
+              <h4 className="text-sm sm:text-base font-bold text-slate-900 leading-tight truncate">
+                {item.country}
+              </h4>
+              <span className="text-[11px] text-slate-400 font-mono block truncate">
+                {item.systemName}
+              </span>
+            </div>
+          </div>
+          <div className="flex items-center gap-1.5 shrink-0">
+            {tempBadgeText && (
+              <span className="text-[10px] font-bold px-2 py-0.5 rounded-full bg-blue-50 text-blue-800 border border-blue-200 shadow-2xs">
+                {tempBadgeText}
+              </span>
+            )}
+            <span className="text-[10px] font-bold px-2 py-0.5 rounded bg-slate-100 text-slate-600">
+              {item.countryCode}
             </span>
           </div>
         </div>
-        <span className="text-[10px] font-bold px-2 py-0.5 rounded bg-slate-100 text-slate-600">
-          {item.countryCode}
-        </span>
-      </div>
 
       {/* 3大指標 */}
       <div className="space-y-2 mb-3.5 text-xs">
@@ -113,7 +140,8 @@ const CountryCard: React.FC<{ item: InternationalCountryData; isSimpleMode: bool
       </a>
     </div>
   </div>
-);
+  );
+};
 
 export const PolicyInternationalCard: React.FC<PolicyInternationalCardProps> = ({
   comparison,

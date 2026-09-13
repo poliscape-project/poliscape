@@ -172,6 +172,8 @@
         "countryCode": "FR",
         "flag": "🇫🇷",
         "systemName": "電力公共サービス負担金（CSPE / TICFE）の最低税率引き下げおよび「料金シールド（Bouclier tarifaire）」",
+        "temporaryPeriod": "2021年秋〜2024年（料金シールド時限措置）",
+        "temporaryLabel": "2021〜24年時限",
         "statusOrLevel": "電力税を法的に引き下げ可能なEU最低水準（1MWhあたり1ユーロ）へ減額・電気代値上げ上限規制",
         "keyFeature": "ロシアのウクライナ侵攻後、政府が電気料金の上昇率を最大4〜15%に抑え込む「関税シールド」を発動。超過した再エネ買取・卸電力差額を巨額の国庫一般財源で全額補填。",
         "source": {
@@ -185,6 +187,8 @@
         "countryCode": "GB",
         "flag": "🇬🇧",
         "systemName": "エネルギー価格保証（Energy Price Guarantee: EPG）およびグリーン・レヴィ（Green Levies）",
+        "temporaryPeriod": "2022年秋〜2024年（時限的国費肩代わり）",
+        "temporaryLabel": "2022〜24年時限",
         "statusOrLevel": "標準世帯の年間電気・ガス料金に公的上限を設定・グリーン課徴金の一時的一般税財源肩代わり",
         "keyFeature": "差額決済契約（CfD）により、市場価格が高騰した際は再エネ発電事業者から超過利益を国が回収して消費者に還元。さらに再エネ政策費用を電気料金から国庫へ一部シフト。",
         "source": {
@@ -198,6 +202,8 @@
         "countryCode": "IT",
         "flag": "🇮🇹",
         "systemName": "システム一般賦課金（Oneri Generali di Sistema）の一時凍結・国庫補助",
+        "temporaryPeriod": "2022年〜2023年（一時凍結・公費補填）",
+        "temporaryLabel": "2022〜23年時限",
         "statusOrLevel": "電気料金請求書に含まれる再エネ支援賦課金（ASOS）をゼロに引き下げ・公費補填",
         "keyFeature": "エネルギー・環境規制公社（ARERA）の管理下で、エネルギー危機時に低所得世帯向け「ソーシャル・ボーナス（Bonus Sociale）」を自動拡充し電気代を直接値引き。",
         "source": {
@@ -211,6 +217,8 @@
         "countryCode": "ES",
         "flag": "🇪🇸",
         "systemName": "イベリア例外（Excepción Ibérica）および電力付加価値税（IVA）引き下げ",
+        "temporaryPeriod": "2022年〜2024年（イベリア例外時限特例）",
+        "temporaryLabel": "2022〜24年時限",
         "statusOrLevel": "電力にかかるIVA（消費税）を21%から5〜10%へ大幅減税・発電用ガス価格に公的上限",
         "keyFeature": "再エネ比率が高いポルトガルとともにEU特例承認を取得。化石燃料価格の再エネ・電力価格への波及を遮断し、欧州で最も低水準の電気代を維持して家計を防衛。",
         "source": {

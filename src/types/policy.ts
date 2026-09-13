@@ -98,6 +98,8 @@ export interface InternationalCountryData {
   countryCode: string; // 国コード（例: "FR"）
   flag: string; // 国旗絵文字（例: "🇫🇷"）
   systemName: string; // 現地制度名（例: "Allocations familiales"）
+  temporaryPeriod?: string; // 適用期間（例: "2022年6月〜8月（3カ月限定）"）
+  temporaryLabel?: string; // バッジ表示文言（例: "2022年限定"）
   amount?: string; // 金額・給付水準
   ageLimit?: string; // 対象年齢・期間
   incomeLimit?: string; // 所得制限の有無と仕組み

@@ -254,6 +254,8 @@
         "countryCode": "SE",
         "flag": "🇸🇪",
         "systemName": "単一使用者負担金（Arbetsgivaravgift: 31.42%）および若年・シニア減免特例",
+        "temporaryPeriod": "経済危機・雇用拡大時の時限減税特例",
+        "temporaryLabel": "時限減税特例",
         "statusOrLevel": "全企業規模一律の社会保険税納付義務・零細企業の若年・高齢者雇用に対する時限減税",
         "keyFeature": "企業規模による適用除外は一切設けないが、経済危機時や雇用拡大期に小規模企業向けの社会保険税率一時引き下げを実施して経営体力をサポート。",
         "source": {

@@ -297,6 +297,8 @@
         "countryCode": "DE",
         "flag": "🇩🇪",
         "systemName": "動物保護家畜飼養令 (TierSchNutztV) ＆ 雄ひよこ殺処分禁止法",
+        "temporaryPeriod": "2025年末までの完全廃止移行猶予",
+        "temporaryLabel": "〜2025年猶予",
         "statusOrLevel": "2025年までにエンリッチドケージを含め完全廃止・雄ひよこの殺処分を世界初禁止",
         "keyFeature": "EU基準を上回り、改善型ケージ（Kleingruppenhaltung）も2025年末までに完全全廃を法定。さらに2022年には、卵を産まない雄のひよこを孵化直後に殺処分することを世界で初めて法律で全面禁止し、孵卵段階での性別判別技術導入を義務付けました。",
         "source": {
@@ -336,6 +338,8 @@
         "countryCode": "NZ",
         "flag": "🇳🇿",
         "systemName": "動物福祉法（Animal Welfare Act 1999）および採卵鶏福祉行動規範",
+        "temporaryPeriod": "10年間の猶予期間（2022年末で終了済）",
+        "temporaryLabel": "2022年で終了",
         "statusOrLevel": "2023年1月に従来のバタリーケージ完全禁止・平飼いまたはコロニーケージへ移行",
         "keyFeature": "10年間の猶予期間を経て2022年末をもって従来のバタリーケージの所持・使用を完全違法化。第一次産業省（MPI）が査察を実施し、コロニーケージ（改善型エンリッチドケージ）または平飼い・放牧飼育（フリーレンジ）への転換を達成しました。",
         "source": {
@@ -349,6 +353,8 @@
         "countryCode": "AU",
         "flag": "🇦🇺",
         "systemName": "オーストラリア家禽動物福祉基準・ガイドライン（Standards and Guidelines for Poultry）",
+        "temporaryPeriod": "2036年までの段階的廃止移行猶予",
+        "temporaryLabel": "〜2036年猶予",
         "statusOrLevel": "2036年までの従来のバタリーケージ段階的全廃を連邦・州農相で合意",
         "keyFeature": "連邦および各州・準州の農業担当大臣会合において、2036年までに従来のバタリーケージを廃止する国家基準を採択。州ごとに導入スケジュールを策定し、大規模鶏舎の改修投資サイクルに合わせた段階的フェーズアウトを進めています。",
         "source": {

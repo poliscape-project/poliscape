@@ -253,6 +253,8 @@
         "countryCode": "US",
         "flag": "🇺🇸",
         "systemName": "経済刺激給付金（Economic Impact Payments: EIP / リカバリー・リベート税額控除）",
+        "temporaryPeriod": "2020〜2021年（緊急給付金・3回限定）",
+        "temporaryLabel": "2020〜21年限定",
         "statusOrLevel": "内国歳入庁（IRS）による年収制限付き直接口座振込（1人あたり1,200〜1,400ドル複数回給付）",
         "keyFeature": "所得税申告データを活用し、減税措置を「前払い可能税額控除（Refundable Tax Credit）」として設計。税金未納者や低所得者にも小切手や口座振込で全額直接給付。",
         "source": {
@@ -266,6 +268,8 @@
         "countryCode": "DE",
         "flag": "🇩🇪",
         "systemName": "エネルギー価格一括金（Energiepreispauschale: EPP）給付法制",
+        "temporaryPeriod": "2022年実施（1回限りの一括給付）",
+        "temporaryLabel": "2022年限定",
         "statusOrLevel": "全就労者・年金生活者・学生に対する一律300ユーロ（非課税・課税対象別）支給",
         "keyFeature": "給与所得者には雇用主を通じて給与天引き源泉徴収税から300ユーロを一括減税控除。年金生活者には年金保険公団から、低所得者には社会扶助経由で直接給付。",
         "source": {
@@ -279,6 +283,8 @@
         "countryCode": "GB",
         "flag": "🇬🇧",
         "systemName": "国民保険料（NICs）引き下げおよび生活費支援給付（Cost of Living Payments）",
+        "temporaryPeriod": "2022〜2023年実施（生活費時限給付）",
+        "temporaryLabel": "2022〜23年時限",
         "statusOrLevel": "全労働者の給与天引き国民保険料率の2%〜4%引き下げ＋低所得世帯への一律900ポンド現金給付",
         "keyFeature": "減税（給与所得者の可処分所得引き上げ）と、税を払っていない低所得・福祉受給世帯への直接給付金支給を二段構えで実行。",
         "source": {
@@ -292,6 +298,8 @@
         "countryCode": "AU",
         "flag": "🇦🇺",
         "systemName": "低・中所得者税額控除（LMITO: Low and Middle Income Tax Offset）",
+        "temporaryPeriod": "2018〜2022年度（時限税額控除・終了済）",
+        "temporaryLabel": "2022年度で終了",
         "statusOrLevel": "年収12万6,000豪ドル以下の納税者に対する確定申告時の一律最大1,500豪ドル税額控除",
         "keyFeature": "毎月の給与計算を複雑化させず、年末調整・タックスリターン時に自動控除・還付する簡素な設計。税額がゼロの低所得者には別枠の一時生活支援金を支給。",
         "source": {

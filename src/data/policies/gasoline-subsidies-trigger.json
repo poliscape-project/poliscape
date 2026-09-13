@@ -257,6 +257,8 @@
         "countryCode": "DE",
         "flag": "🇩🇪",
         "systemName": "燃料割引令（Tankrabatt: 2022年実施）およびエネルギー税一時引き下げ",
+        "temporaryPeriod": "2022年6月〜8月（3カ月限定）",
+        "temporaryLabel": "2022年（3カ月限定）",
         "statusOrLevel": "3カ月限定でエネルギー税をEU最低税率まで引き下げ（ガソリン約35セント/L減税）",
         "keyFeature": "元売りへの補助金ではなく税率を直接引き下げ。減税分が小売価格に確実に転嫁されているかを連邦カルテル庁（Bundeskartellamt）が監視・公表。",
         "source": {
@@ -270,6 +272,8 @@
         "countryCode": "FR",
         "flag": "🇫🇷",
         "systemName": "給油所直接値引き（Remise carburant）および通勤手当燃料受給（Indemnité carburant）",
+        "temporaryPeriod": "2022年実施（時限値引きから移行済）",
+        "temporaryLabel": "2022年時限値引き",
         "statusOrLevel": "スタンド店頭での一律リッター15〜30セント直接値引きから低所得通勤者向け100ユーロ現金給付へ移行",
         "keyFeature": "初期は全員一律店頭値引きを実施したが、財政負担と化石燃料消費抑制の観点から、車を通勤に使う低所得層に限定した100ユーロ直接給付へスムーズに制度転換。",
         "source": {
@@ -283,6 +287,8 @@
         "countryCode": "US",
         "flag": "🇺🇸",
         "systemName": "連邦戦略石油備蓄（SPR）大規模放出および各州ガソリン税ホリデー（Gas Tax Holiday）",
+        "temporaryPeriod": "2022年実施（各州数カ月の一時免除）",
+        "temporaryLabel": "2022年時限免除",
         "statusOrLevel": "史上最大の1億8,000万バレル備蓄放出＋ジョージア州・フロリダ州等での州ガソリン税一時免除",
         "keyFeature": "連邦レベルでは備蓄原油の大量放出で国際原油価格を押し下げ。各州政府は州ガソリン税を数カ月間一時停止し、ガソリンスタンドでの即時減税を断行。",
         "source": {
@@ -322,6 +328,8 @@
         "countryCode": "IT",
         "flag": "🇮🇹",
         "systemName": "燃料物品税引き下げ令（Taglio delle accise sui carburanti）",
+        "temporaryPeriod": "2022年実施（時限的減税措置）",
+        "temporaryLabel": "2022年時限減税",
         "statusOrLevel": "ガソリン・軽油の物品税をリッターあたり約30セント引き下げ",
         "keyFeature": "エネルギー価格高騰時にVAT（付加価値税）の増収分を財源として自動的に物品税を引き下げる「移動式物品税（Accisa mobile）」制度を活用。",
         "source": {
