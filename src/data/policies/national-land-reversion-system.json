@@ -147,5 +147,102 @@
       "text": "管理負担金20万円〜前納",
       "color": "bg-amber-50 text-amber-900"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における不要不動産・相続放棄地の国庫・自治体帰属（Escheat・Dereliktion）法制比較",
+    "comparisonSummary": "人口減少や過疎化に伴う所有者不明土地問題に対し、ドイツやフランスは民法典に基づく所有権放棄と国・自治体の先買権を古くから規定しており、日本の2023年国庫帰属法はドイツ法制を参考に創設されました。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "民法典（BGB）第928条に基づく所有権放棄（Dereliktion）と州の先買取得権",
+        "statusOrLevel": "不動産登記所への放棄意思表示による所有権放棄・所在地の連邦州に無主地取得権を付与",
+        "keyFeature": "所有者は土地所有権を一方的に放棄可能だが、有害物質汚染等の危険責任は残存。州政府（Fiskus）は価値のある土地のみを取得し、負担の大きい負動産の取得は拒絶可能。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ)",
+          "title": "Bürgerliches Gesetzbuch (BGB) § 928 - Aufgabe des Eigentums, Aneignung des Fiskus",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "民法典（Code civil）第713条・地方自治体法典「無主不動産（Biens sans maître）」",
+        "statusOrLevel": "相続人なき不動産や固定資産税が3年以上未納の無主地に対するコミューン（自治体）自動帰属",
+        "keyFeature": "所有者が死亡し相続人がいない場合、まず基礎自治体（コミューン）に土地を取得する優先権が与えられ、自治体が拒絶した場合にのみ国家（État）に帰属する。",
+        "source": {
+          "organization": "フランス法務省 / 地方自治体総局 (DGCL)",
+          "title": "Régime des biens sans maître et des successions en déshérence",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "無主財産（Bona Vacantia）および王室・国庫帰属制度",
+        "statusOrLevel": "遺言・相続人なき遺産や解散法人の不動産に対する国王（Crown）または公爵領帰属",
+        "keyFeature": "政府法務局（Government Legal Department: GLD）のBona Vacantia部門が管理。管理負担の重い瑕疵物件については、王室側が所有権を「否認（Disclaimer）」して引き取りを回避。",
+        "source": {
+          "organization": "英国政府法務局 (Government Legal Department: GLD)",
+          "title": "Bona Vacantia guidance - Unowned property and land reversion",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "州復帰権（Escheat）および土地信託銀行（Land Bank）制度",
+        "statusOrLevel": "所有者死亡・相続人不在不動産の州政府帰属、および税金滞納放置物件の公的Land Bank移管",
+        "keyFeature": "放置空き地・廃屋を自治体のランドバンク公社が一括収用・登記抹消し、周辺住民への敷地拡大売却や緑地公園として再活性化させる仕組みを各州で法制化。",
+        "source": {
+          "organization": "米国財務省 / 各州財務局",
+          "title": "Unclaimed Property and Land Bank Authorities for Abandoned Properties",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "国家遺産基金（Allmänna arvsfonden）および無主土地管理",
+        "statusOrLevel": "相続人のない全遺産を公的遺産基金へ自動移管・不動産は売却され福祉・児童支援事業へ配分",
+        "keyFeature": "個人が相続人なしで死亡した場合、親族捜索を経た後に全財産が法的に国家遺産基金へ帰属。不動産は競売にかけられ、収益は社会公益プロジェクトの助成金として還元。",
+        "source": {
+          "organization": "スウェーデン国家遺産基金 (Allmänna arvsfonden)",
+          "title": "Arvsfondslagen och hantering av egendom utan arvingar",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "各州無遺言相続法および未管理土地（Unallocated Crown Land）復帰",
+        "statusOrLevel": "法定相続人のいない土地の州政府（Crown Land）自動復帰と登記簿管理",
+        "keyFeature": "トーレンス・システム（不動産登記公信力制度）の下、滞納固定資産税が土地価値を超過した放置地については地方議会（Council）が競売または公的収用を執行。",
+        "source": {
+          "organization": "西豪州土地情報局 (Landgate) / NSW Crown Lands",
+          "title": "Escheat and management of Unallocated Crown Land",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "相続土地国庫帰属法（2023年施行）および民法・不動産登記法改正（相続登記義務化）",
+        "statusOrLevel": "建物なし・土壌汚染なし等の10要件を満たした土地の国庫帰属（10年分管理費20万円等の負担金納付）",
+        "keyFeature": "所有者不明土地の発生予防として相続登記を法的に義務化（過料あり）。利用困難な山林や農地について、審査手数料と負担金を支払うことで国が引き取る制度をスタート。",
+        "source": {
+          "organization": "法務省",
+          "title": "相続土地国庫帰属制度の概要及び運用状況について",
+          "url": "https://www.moj.go.jp"
+        }
+      }
+    ]
+  }
 }

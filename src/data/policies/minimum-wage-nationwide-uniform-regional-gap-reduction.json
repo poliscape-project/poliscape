@@ -211,5 +211,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Wallet"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における最低賃金の全国一律制 vs 地域別格差制度比較",
+    "comparisonSummary": "最低賃金の決定方式は、フランス・ドイツ・英国・韓国が「全国一律単一レート」を採用して地域間格差を法的に生じさせない一方、日米は地域別・州別の格差を容認・運用しており是正が論点となっています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "成長連動型最低賃金（SMIC: Salaire minimum interprofessionnel de croissance）",
+        "statusOrLevel": "全土一律単一レート（時給約11.65ユーロ・月額約1,767ユーロ）・物価自動スライド",
+        "keyFeature": "地域格差は一切存在せず、本土から海外県まで同一賃金を義務付け。インフレ率が2%上昇するごとに年内でも自動的に最低賃金が即時引き上げられる。",
+        "source": {
+          "organization": "フランス労働・完全雇用省",
+          "title": "Le Salaire minimum interprofessionnel de croissance (Smic)",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "法定最低賃金法（Mindestlohngesetz: MiLoG）",
+        "statusOrLevel": "東西ドイツを含む連邦全土で全国一律時給12.41ユーロ（段階的引き上げ中）",
+        "keyFeature": "2015年に全国一律で導入。労使代表と学識者で構成される最低賃金委員会が2年ごとに改定を連邦政府に勧告。旧東独と西独の地域格差是正に決定的な役割を果たした。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS)",
+          "title": "Der gesetzliche Mindestlohn in Deutschland",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "全国生活賃金（National Living Wage: NLW）および低賃金委員会勧告",
+        "statusOrLevel": "全国一律（21歳以上時給11.44ポンド）・ロンドン等の地域別法定最低賃金はなし",
+        "keyFeature": "ロンドンでの高物価に対しては民間運動（Living Wage Foundation）が任意の推奨レートを掲示するが、法的拘束力のある最低賃金は全土完全単一レートを採用。",
+        "source": {
+          "organization": "英国低賃金委員会 (LPC) / 歳入関税庁 (HMRC)",
+          "title": "The National Minimum Wage and National Living Wage rates",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "公正労働基準法（FLSA）連邦最低賃金 vs 州・自治体最低賃金",
+        "statusOrLevel": "連邦一律7.25ドル（2009年以降据え置き）に対し、加州等では時給16〜20ドルの二極化",
+        "keyFeature": "連邦レートは全国下限フロアに過ぎず、各州・都市が独自の上乗せ条例を制定。ワシントン州やNY市が16ドル超に達する一方、南部諸州は7.25ドルにとどまり巨大な格差が存在。",
+        "source": {
+          "organization": "米国労働省 (DOL)",
+          "title": "State Minimum Wage Laws and Wage and Hour Division Regulations",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "最低賃金法に基づく単一最低賃金制",
+        "statusOrLevel": "全国一律時給9,860ウォン（1万ウォン目前）・業種別・地域別適用の導入要求を否決",
+        "keyFeature": "最低賃金審議会において、小規模自営業者側が要求する「地域別・業種別差別適用」が毎年激しい争点となるが、労働界の強い反対と法規定により単一レートを固守。",
+        "source": {
+          "organization": "大韓民国最低賃金委員会 / 雇用労働部",
+          "title": "Minimum Wage Act Implementation and Deliberation Results",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "公正労働委員会（Fair Work Commission）国家最低賃金命令",
+        "statusOrLevel": "全国一律時給24.10豪ドル（週約915豪ドル）・近代産業協約（Modern Awards）体系",
+        "keyFeature": "世界最高水準の全国単一基本最低賃金を法制化。職種やスキルに応じた産業協約（Award）ごとに上乗せ下限が設定されるが、地域別のマイナス格差は許容されない。",
+        "source": {
+          "organization": "豪公正労働委員会 (Fair Work Commission)",
+          "title": "National Minimum Wage Orders and Annual Wage Reviews",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "最低賃金法に基づく地域別最低賃金（中央目安審議会ランク制）",
+        "statusOrLevel": "全国加重平均1,055円・Aランク（東京1,163円等）とBランク（地方951円〜）の格差是正",
+        "keyFeature": "かつての4ランク（A〜D）を格差是正のため2ランク（A・B）へ統廃合。野党・労組が主張する「全国一律1,500円法制化」に対し、中小企業負担と地域経済の打撃を懸念する慎重論が対立。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "中央最低賃金審議会における目安答申及び地域別最低賃金改定状況",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -205,5 +205,102 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Activity"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要海洋国におけるゴーストギア（遺棄・紛失漁具）回収・マーキング義務化と漁業EPR制度比較",
+    "comparisonSummary": "海洋環境を脅かすゴーストギア対策として、ノルウェーやEUは漁具の電子タグ登録や拡大生産者責任（EPR）を義務化し、カナダや米国は基金による洋上回収と官民連携追跡を推進しています。",
+    "countries": [
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "漁具登録・追跡義務および水産総局による年間回収作戦",
+        "statusOrLevel": "全刺し網・底引き網等への電子ID・タグ刻印義務化・網紛失時の24時間以内通報義務",
+        "keyFeature": "紛失漁具の通報を怠った船主に高額罰金を科す一方、通報された地点に水産総局（Fiskeridirektoratet）の専用回収船が急行し年数百トンの網を回収。",
+        "source": {
+          "organization": "ノルウェー水産総局 (Fiskeridirektoratet)",
+          "title": "Reporting and retrieval of lost fishing gear",
+          "url": "https://www.regjeringen.no"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "ゴーストギア基金（Ghost Gear Fund）および追跡技術導入",
+        "statusOrLevel": "連邦水産海洋省（DFO）による総額数千万ドルの回収助成・GPSソナー探査導入",
+        "keyFeature": "漁業者や先住民族、環境NGOと連携して大西洋・太平洋沿岸で集中的な残置網回収を実施。回収されたプラスチック網のリサイクル製品化も支援。",
+        "source": {
+          "organization": "カナダ水産海洋省 (DFO)",
+          "title": "Ghost Gear Fund and Sustainable Fisheries Initiatives",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "特定プラスチック（SUP）指令に基づく漁具の拡大生産者責任（EPR）",
+        "statusOrLevel": "漁具メーカー・輸入業者への回収・リサイクル費用全額負担義務化",
+        "keyFeature": "EU SUP指令を先行法制化し、プラスチック製漁具を製造・販売する企業に環境税拠出と港湾での無料受入インフラの維持を義務付け。",
+        "source": {
+          "organization": "フランス生態移行・エネルギー省",
+          "title": "Filière à responsabilité élargie du producteur (REP) pour les engins de pêche",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "NOAA海洋ごみプログラム（Marine Debris Program）および漁具回収助成",
+        "statusOrLevel": "「Fishing for Energy」官民パートナーシップによる港湾残置網回収・熱電変換",
+        "keyFeature": "全米主要漁港にゴーストギア専用回収ビンを設置し、漁業者が不要網を無償で投棄可能。回収ネットは金属分離後に廃棄物発電施設へ搬入。",
+        "source": {
+          "organization": "米国海洋大気庁 (NOAA)",
+          "title": "NOAA Marine Debris Program - Derelict Fishing Gear Interventions",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "生分解性漁具の普及義務化および漁具デポジット制度",
+        "statusOrLevel": "カニかご・刺し網の生分解性樹脂製品への切替支援・新品購入時の預託金制度",
+        "keyFeature": "水産資源保護法に基づき、自然分解する海洋生分解ポリマー漁具の導入に国庫補助を実施。使用済み漁具を返却するとデポジットを返還するスキームを段階導入。",
+        "source": {
+          "organization": "大韓民国海洋水産部",
+          "title": "Biodegradable fishing gear promotion and deposit-refund system",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "グレートバリアリーフ周辺におけるゴーストネット撲滅イニシアチブ",
+        "statusOrLevel": "北部海域における先住民族レンジャーによる遠隔監視と漂流網即時回収",
+        "keyFeature": "インドネシアや他国海域から漂着する越境ゴーストネットに対し、衛星トラッカーと先住民レンジャー網を連動させた捜索・撤去オペレーションを展開。",
+        "source": {
+          "organization": "豪気候変動・エネルギー・環境・水資源省 (DCCEEW)",
+          "title": "Ghost Nets Initiative in Northern Australian Waters",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "海岸漂着物処理推進法および漁業者による漂流漁具回収・再資源化実証",
+        "statusOrLevel": "漁獲活動中の漂流ごみ等回収操業支援・生分解性ナイロン網の開発投資",
+        "keyFeature": "水産庁・環境省連携により、漁業者が操業中に回収した海洋プラスチックやゴーストギアの陸揚げ・処理費用を公費負担する枠組みを全国展開中。",
+        "source": {
+          "organization": "環境省 / 水産庁",
+          "title": "海洋プラスチックごみ対策アクションプラン及び漂流漁具回収実証事業",
+          "url": "https://www.env.go.jp"
+        }
+      }
+    ]
+  }
 }

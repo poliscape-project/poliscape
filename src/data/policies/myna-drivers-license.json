@@ -247,5 +247,102 @@
         "commentStandard": "「暗証番号のロックや端末の読み取りトラブルなど、デジタル弱者への窓口サポートが不可欠」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国における運転免許証と国家IDカード・デジタル資格の一体化制度比較",
+    "comparisonSummary": "行政手続きの簡素化と偽造防止のため、エストニアや韓国は国民IDやスマホウォレットへの免許情報完全統合を完了しており、EU全体でも「デジタル運転免許指令」による一体化が進展しています。",
+    "countries": [
+      {
+        "country": "エストニア",
+        "countryCode": "EE",
+        "flag": "🇪🇪",
+        "systemName": "国民IDカード（e-Residency/ID-kaart）への運転資格完全統合",
+        "statusOrLevel": "国内での物理運転免許証の携帯義務廃止・警察検問時は国家IDカード1枚で照会完了",
+        "keyFeature": "警察のパトカー車載端末から中央交通データベース（Transpordiamet）に直結しているため、ドライバーは身分証さえ持参していれば免許証不携帯の罰則を受けない。",
+        "source": {
+          "organization": "エストニア交通局 (Transpordiamet)",
+          "title": "Driving licences and vehicle documentation in Estonia",
+          "url": "https://www.transpordiamet.ee"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "IC運転免許証およびモバイル身分証（PASS / 政府24）一体化運用",
+        "statusOrLevel": "ICチップ内蔵運転免許証の発行・スマートフォンアプリへの国家公認デジタル免許統合",
+        "keyFeature": "警察庁が発行するIC運転免許証をスマホにかざすことで、国家公式「モバイル運転免許証」を即時発行。レンタカー貸出や銀行取引で物理免許と同等の効力を発揮。",
+        "source": {
+          "organization": "大韓民国警察庁 / 道路交通公団",
+          "title": "Mobile Driver's License Issuance and Verification System",
+          "url": "https://www.police.go.kr"
+        }
+      },
+      {
+        "country": "ドイツ / EU",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "EU第4次運転免許証指令（4th Driving Licence Directive）および連邦自動車庁（KBA）基盤",
+        "statusOrLevel": "EU全域共通のデジタル運転免許証導入推進・各国eIDおよびウォレットへの統合義務化",
+        "keyFeature": "EU加盟国間を国境を越えて移動する際にも、スマートフォン上のデジタル運転免許で交通検問を通過可能にする共通インターフェースを整備中。",
+        "source": {
+          "organization": "ドイツ連邦デジタル・交通省 (BMDV) / 連邦自動車庁 (KBA)",
+          "title": "Digitaler Führerschein und die EU-Führerscheinrichtlinie",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "リアルID法（REAL ID Act）規格とモバイル運転免許証（mDL）",
+        "statusOrLevel": "連邦基準準拠のREAL ID運転免許証義務化（空港保安検査用）およびmDL規格化",
+        "keyFeature": "各州DMVが発行する運転免許証が実質的な全米共通身分証明書として機能。国土安全保障省（DHS）基準のセキュリティを満たすカードとスマホ規格を併行運用。",
+        "source": {
+          "organization": "米国内国安全保障省 (DHS) / AAMVA",
+          "title": "REAL ID Enforcement and Mobile Driver's License (mDL) Implementation",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "州単位デジタル運転免許証（NSW Digital Driver Licence等）",
+        "statusOrLevel": "ニューサウスウェールズ州・南豪州等で普及率80%超・物理カードの不携帯合法化",
+        "keyFeature": "Service NSWアプリ内で免許証を表示。リアルタイムで更新情報や反則点数、免許停止処分が反映されるため、警察官による即時確認が可能。",
+        "source": {
+          "organization": "ニューサウスウェールズ州政府 (Service NSW)",
+          "title": "NSW Digital Driver Licence - Rules, Security and Usage",
+          "url": "https://www.service.nsw.gov.au"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "行動自然人憑証（TW FidO）および電子運転免許照会基盤",
+        "statusOrLevel": "国内での紙・プラスチック免許証の携帯義務を廃止・交通警察のオンライン照会完備",
+        "keyFeature": "政府の交通監理システムとデジタル身分認証を連結。国民身分証番号を提示すれば現場端末で免許資格・有効期限を即座に確認可能。",
+        "source": {
+          "organization": "中華民国交通部 / デジタル発展部",
+          "title": "Road Traffic Safety Regulations and Digital Certification Services",
+          "url": "https://moda.gov.tw"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "道路交通法改正に基づくマイナ免許証（2025年3月開始）",
+        "statusOrLevel": "マイナンバーカードのICチップ内に運転免許情報を記録・免許更新時講習のオンライン化",
+        "keyFeature": "住所・氏名変更時の警察署出頭を不要化（自治体への住民票異動で免許情報も自動更新）。従来の物理運転免許証との「2枚持ち」「マイナ免許証単体」「従来免許のみ」の選択制を採用。",
+        "source": {
+          "organization": "警察庁 / デジタル庁",
+          "title": "道路交通法の一部を改正する法律（マイナ免許証の運用開始について）",
+          "url": "https://www.npa.go.jp"
+        }
+      }
+    ]
   }
 }

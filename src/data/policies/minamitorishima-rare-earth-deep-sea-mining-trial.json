@@ -185,5 +185,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要海洋国家における排他的経済水域（EEZ）・公海深海鉱物資源（レアアース・団塊）探査・採掘法制比較",
+    "comparisonSummary": "経済安全保障を背景に、日本やノルウェー、米国は自国EEZ内の海底鉱物資源探査を進める一方、国際海底機構（ISA）での環境規制協議やフランス等の環境保護モラトリアム要求とせめぎ合っています。",
+    "countries": [
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "海底鉱物資源法（Havbunnsmineralloven）および大陸棚探査承認",
+        "statusOrLevel": "議会（ストーティング）が北極圏EEZ大陸棚における海底鉱物探査・採掘の段階的開放を可決",
+        "keyFeature": "世界に先駆けて自国大陸棚（グリーンランド海周辺）の商業探査を法制化。環境団体からの強い反発に対し、厳格な環境アセスメントを経た段階的ライセンス付与を設計。",
+        "source": {
+          "organization": "ノルウェーエネルギー省",
+          "title": "Opening of areas for mineral activities on the Norwegian continental shelf",
+          "url": "https://www.regjeringen.no"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "深海底硬質鉱物資源法（DSHMRA）および国防調達権限法（NDAA）資源調査",
+        "statusOrLevel": "UNCLOS未批准の立場を維持しつつ、自国EEZ太平洋海底および同盟国共同調達を推進",
+        "keyFeature": "中国のレアアース支配に対抗するため、ペンタゴンが海底マンガン団塊由来のニッケル・コバルト・レアアース製錬技術の実証に防衛予算を配分。",
+        "source": {
+          "organization": "米国地質調査所 (USGS) / 国防総省",
+          "title": "Critical Mineral Resources and Deep Seabed Minerals Assessments",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "深海採掘モラトリアム（禁輸・凍結）支持政策および海洋生態系保護",
+        "statusOrLevel": "国連海洋会議において深海底鉱物採掘の完全なモラトリアム（一時停止）を公式支持",
+        "keyFeature": "世界第2位のEEZ面積（海外領土含む）を保有するが、深海熱水鉱床や団塊採掘による不可逆的な海洋生態系破壊を理由に、商業採掘禁止の国際ルール策定を主導。",
+        "source": {
+          "organization": "フランス生態移行・エネルギー省",
+          "title": "Position de la France en faveur d'un moratoire sur l'exploitation minière des grands fonds marins",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "深海海底区域資源探査開発法および「奮闘者」号による公海探査",
+        "statusOrLevel": "国際海底機構（ISA）から世界最多の探査鉱区認可を取得し、太平洋公海で探査航海",
+        "keyFeature": "国家深海基地管理センターを中心に有人潜水艇や採鉱ロボットを開発。レアアース・多金属団塊の国際探査ライセンスを確保し、採掘コード策定で強い主導権を握る。",
+        "source": {
+          "organization": "中華人民共和国自然資源部",
+          "title": "Deep Sea Mining Exploration Law and Submersible Operations",
+          "url": "https://www.gov.cn"
+        }
+      },
+      {
+        "country": "クック諸島",
+        "countryCode": "CK",
+        "flag": "🇨🇰",
+        "systemName": "海底鉱物法（Seabed Minerals Act 2019）およびEEZ探査ライセンス",
+        "statusOrLevel": "排他的経済水域内のマンガン団塊（コバルト・チタン豊富）の商業探査ライセンス発行",
+        "keyFeature": "小島嶼開発途上国として経済的自立を目指し、世界最大規模の高品位コバルト団塊が眠るEEZでの官民共同探査を精力的に推進。",
+        "source": {
+          "organization": "クック諸島海底鉱物庁 (SBMA)",
+          "title": "Seabed Minerals Exploration Licences and Regulatory Framework",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "戦略的イノベーション創造プログラム（SIP）および南鳥島EEZレアアース揚泥実証",
+        "statusOrLevel": "水深6,000mの南鳥島沖泥状レアアース資源の商業連続揚泥技術・実証試験推進",
+        "keyFeature": "EVモーターや防衛装備に必須のジスプロシウム・テルビウム等の国内完全自給を目指し、JOGMEC・東大・海洋研究開発機構（JAMSTEC）が世界初の大深度揚泥に挑戦。",
+        "source": {
+          "organization": "内閣府 / 経済産業省 (JOGMEC)",
+          "title": "SIP革新的深海資源調査技術・南鳥島沖レアアース泥採取実証",
+          "url": "https://www.cas.go.jp"
+        }
+      }
+    ]
+  }
 }

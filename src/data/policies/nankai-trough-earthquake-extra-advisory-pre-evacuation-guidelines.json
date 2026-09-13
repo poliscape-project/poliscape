@@ -225,5 +225,102 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Sparkles"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要地震多発国における大規模地震「事前警戒・臨時情報」発表プロトコルと社会活動維持指針比較",
+    "comparisonSummary": "大地震切迫時の事前警告は世界でも前例が少ない中、日本は日向灘地震を契機に世界初の「南海トラフ臨時情報（巨大地震注意）」を発令・運用した一方、米国やイタリア等は予測の不確実性とパニック防止の観点から即時警報や事後対応に重点を置いています。",
+    "countries": [
+      {
+        "country": "アメリカ/カリフォルニア州",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "USGS 地震連続発生アドバイザリー（Earthquake Advisory / ShakeAlert）",
+        "statusOrLevel": "大地震（M5以上）発生後、サンアンドレアス断層等の誘発確率上昇時に短期的助言を発表",
+        "keyFeature": "「○日以内にM7以上が発生する確率は数%程度上昇」と確率付きで発表するが、学校休校や交通運休などの事前社会規制は強制せず、個人への警戒喚起にとどめる。",
+        "source": {
+          "organization": "米国地質調査所 (USGS) / 加州緊急事態管理局 (Cal OES)",
+          "title": "USGS Earthquake Advisory Protocols and ShakeAlert System",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "国家緊急事態管理局（NEMA）地震・群発地震警戒レベル指針",
+        "statusOrLevel": "群発地震やスロースリップ検出時の科学助言グループ（GeoNet）によるリスク評価公表",
+        "keyFeature": "科学的評価を公表しつつも住民事前避難の指示は極力避け、ハザードマップの確認や備蓄点検、津波避難ビルの確認など自助努力の点検を促すメッセージを発信。",
+        "source": {
+          "organization": "ニュージーランド国家緊急事態管理局 (NEMA)",
+          "title": "Earthquake Early Warning and GeoNet Swarm Advisory Guidelines",
+          "url": "https://www.civildefence.govt.nz"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "国家市民保護局（Protezione Civile）重大リスク委員会プロトコル",
+        "statusOrLevel": "ラクイラ地震裁判（科学者の予知責任問題）を受けた警戒発令の厳格法制化",
+        "keyFeature": "不確実な地震予知情報の過信による法的責任問題を教訓化。断層活動の異常データは客観的事実として報告するが、避難勧告の根拠としては使用せず建物の耐震化を強調。",
+        "source": {
+          "organization": "イタリア市民保護局 (Dipartimento della Protezione Civile)",
+          "title": "Commissione Grandi Rischi e gestione del rischio sismico",
+          "url": "https://www.governo.it"
+        }
+      },
+      {
+        "country": "メキシコ",
+        "countryCode": "MX",
+        "flag": "🇲🇽",
+        "systemName": "SASMEX 地震早期警報システムおよびCENAPRED防災手順",
+        "statusOrLevel": "沈み込み帯（ゲレロ沖等）のP波検知による沿岸〜メキシコシティへの数十秒前警報網",
+        "keyFeature": "事前予知ではなく早期検知（EEW）に特化。大地震発生前の「注意報」制度は持たず、年数回の大規模全市民一斉避難訓練（Simulacro Nacional）で即時対応力を涵養。",
+        "source": {
+          "organization": "メキシコ国家防災センター (CENAPRED)",
+          "title": "Sistema de Alerta Sísmica Mexicano (SASMEX) Operaciones",
+          "url": "https://www.gob.mx"
+        }
+      },
+      {
+        "country": "チリ",
+        "countryCode": "CL",
+        "flag": "🇨🇱",
+        "systemName": "国家災害予防対応局（SENAPRED）津波・地震早期警戒プロトコル",
+        "statusOrLevel": "プレート境界巨大地震に対する海洋海軍水路局（SHOA）連携の即時避難命令網",
+        "keyFeature": "先発地震発生時の「前震」の可能性を考慮しつつも、過度な経済停滞を避けるため海溝型巨大地震の発生を確定的に事前に警告する制度は取らず、揺れ直後の即時高台避難を徹底。",
+        "source": {
+          "organization": "チリ国家災害予防対応局 (SENAPRED)",
+          "title": "Protocolo de Emergencia por Amenaza de Terremoto y Tsunami",
+          "url": "https://senapred.cl"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "交通部中央気象署（CWA）強震即時警報および断層地殻変動モニタリング",
+        "statusOrLevel": "花蓮断層等の連続地震発生時における科学解説情報および市民向け防災ガイダンス",
+        "keyFeature": "連続する余震・前震の活動度推移をリアルタイム公開。事前避難勧告は土砂崩れ警戒区域等に局所化し、都市部インフラやハイテク半導体工場は操業を維持。",
+        "source": {
+          "organization": "台湾中央気象署 (CWA) / 内政部消防署",
+          "title": "Earthquake Early Warning and Seismic Risk Communication Guidelines",
+          "url": "https://www.cwa.gov.tw"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "南海トラフ地震臨時情報（巨大地震警戒・巨大地震注意）運用指針",
+        "statusOrLevel": "2024年8月に初となる「巨大地震注意」を発令・1週間の備え再確認と社会経済活動維持",
+        "keyFeature": "想定震源域でM7級以上の地震が発生した際、後発巨大地震の発生確率が平時より高まったとして注意を喚起。過度な買い占めや旅行全面キャンセル等の混乱を抑制しつつ事前防災態勢を構築。",
+        "source": {
+          "organization": "内閣府（防災担当） / 気象庁",
+          "title": "南海トラフ地震臨時情報（巨大地震注意）の発表及び防災対応について",
+          "url": "https://www.bousai.go.jp"
+        }
+      }
+    ]
+  }
 }

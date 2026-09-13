@@ -185,5 +185,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Shield"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における防空シェルター・民間防護地下退避施設の整備率・技術基準比較",
+    "comparisonSummary": "地政学的緊張やミサイル脅威に対し、スイスやフィンランドは全人口を100%超収容可能な地下シェルター網を法制化しており、イスラエルは住宅単位での防護室整備を義務付けています。",
+    "countries": [
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦民間防護法（Bevölkerungsschutzgesetz）全住民収容シェルター義務",
+        "statusOrLevel": "全人口の100%以上（約900万人分）を収容可能な地下核・化学防護シェルター完備",
+        "keyFeature": "全住宅・集合住宅への規格適合地下シェルター設置を原則義務化。地下室を持たない世帯に対しては基礎自治体の公的メガシェルター（病院・トンネル内）の指定席を割り当て。",
+        "source": {
+          "organization": "スイス連邦民間防護庁 (FOCP / BABS)",
+          "title": "Schutzräume im Zivilschutz - Bereitstellung und Ausrüstung",
+          "url": "https://www.admin.ch"
+        }
+      },
+      {
+        "country": "イスラエル",
+        "countryCode": "IL",
+        "flag": "🇮🇱",
+        "systemName": "民間防衛法に基づく住宅防護室（Mamad / マーマッド）設置義務化",
+        "statusOrLevel": "1992年以降の新築住宅・アパート全戸への鉄筋コンクリート防爆・気密室設置義務",
+        "keyFeature": "ロケット弾着弾までの警告時間が十数秒〜数分と極めて短いため、各戸の寝室を厚さ数十cmの鉄筋コンクリートと防爆扉・空気清浄機で構成し、即座に退避できる空間を整備。",
+        "source": {
+          "organization": "イスラエル国防軍後方軍司令部 (Pikud HaOref)",
+          "title": "Civil Defense Regulations - Protected Spaces and Shelter Standards",
+          "url": "https://www.gov.il"
+        }
+      },
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇷",
+        "systemName": "救助法（Rescue Act）に基づく民間防護シェルター（Väestönsuoja）網",
+        "statusOrLevel": "全国5万カ所以上・全人口の約85%（約480万人）を収容可能な花崗岩岩盤地下シェルター",
+        "keyFeature": "床面積1,200平米以上の新築ビルにシェルター設置を義務付け。ヘルシンキ市内等の公共シェルターは平時にはスイミングプール、スケート場、駐車場として日常活用。",
+        "source": {
+          "organization": "フィンランド内務省救助局 (Pelastustoimi)",
+          "title": "Civil Defence Shelters in Finland - Technical Specifications and Readiness",
+          "url": "https://www.valtioneuvosto.fi"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "民間防衛シェルター法（Civil Defence Shelter Act）",
+        "statusOrLevel": "公営住宅（HDB）全戸への家庭用防空壕（Household Shelter）設置義務化",
+        "keyFeature": "1998年以降の新築HDBフラット内に耐火・耐圧鉄筋コンクリート造の家庭用シェルターを標準設計。MRT地下鉄駅も公的民間防衛シェルターに指定。",
+        "source": {
+          "organization": "シンガポール民間防衛隊 (SCDF)",
+          "title": "Civil Defence Shelter Act and Household Shelter Guidelines",
+          "url": "https://www.scdf.gov.sg"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "民防衛基本法に基づく地下避難施設（民防衛シェルター）指定運用",
+        "statusOrLevel": "全国約1万7,000カ所以上の地下鉄駅・地下駐車場等を非常時避難所として指定・アプリ連携",
+        "keyFeature": "北朝鮮の長距離砲・弾道ミサイル攻撃に備え、都市部の地下空間を「国民安全処（現・行政安全部）」が指定管理。「安全ディディミ」アプリでGPS現在地から最短退避施設を表示。",
+        "source": {
+          "organization": "大韓民国行政安全部",
+          "title": "Civil Defense Underground Shelter Management Guidelines",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "民間防護法に基づくシェルター（Skyddsrum）管理制度",
+        "statusOrLevel": "全国約6万5,000カ所・約700万人収容可能な地下民間防衛シェルター維持",
+        "keyFeature": "冷戦期に整備された強固なシェルター網を、NATO加盟とウクライナ情勢を受けて再点検。平時は倉庫等として使用しつつ、警報発令から48時間以内に機能回復する義務を不動産所有者に課す。",
+        "source": {
+          "organization": "スウェーデン民間緊急事態庁 (MSB)",
+          "title": "Skyddsrum - Hitta ditt närmaste skyddsrum och regler",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "国民保護法に基づく緊急一時避難施設指定および特定避難施設（シェルター）整備指針",
+        "statusOrLevel": "全国数千カ所の地下駅・地下街等を指定推進・南西諸島等への頑丈な地下シェルター新設助成",
+        "keyFeature": "弾道ミサイルや航空攻撃を想定し、コンクリート造の地下施設を「緊急一時避難施設」に指定。与那国島や石垣島等の国境離島において、長期滞在可能な換気・非常電源付き地下避難施設の整備支援を開始。",
+        "source": {
+          "organization": "内閣官房 / 総務省消防庁",
+          "title": "国民保護法に基づく避難施設の指定及び特定避難施設確保の推進",
+          "url": "https://www.cas.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -217,5 +217,102 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "CheckCircle2"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における身元保証人不要の医療アクセス・入院受入法制比較",
+    "comparisonSummary": "単身高齢者の増加に伴い、欧米諸国では公的成年後見制度や憲章に基づく無差別診療義務により身元保証人の要求が禁止・無効化されており、公的ケアマネジメントが身元引受を代替しています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS憲章（The NHS Constitution）および成人社会的ケア法（Care Act 2014）",
+        "statusOrLevel": "公立病院での身元保証人要求の完全禁止・医療アクセスの普遍的権利保障",
+        "keyFeature": "NHS（国民保健サービス）において金銭的保証人や身元引受人の提出を求めることは違法。退院困難な単身高齢者は自治体のソーシャルワーカーが公的に受入施設を手配。",
+        "source": {
+          "organization": "英国保健社会的ケア省 (DHSC)",
+          "title": "The NHS Constitution for England and Care Act Guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "公衆衛生法典（Code de la santé publique）および連帯健康補足保険（C2S）",
+        "statusOrLevel": "緊急時・一般入院を問わず資力や身元引受の有無による診療拒絶の厳罰化",
+        "keyFeature": "公立病院群（AP-HP等）において保証人を求める慣行は禁止。身寄りのない要介護者は県（Département）の社会扶助給付により公的施設入所が直接手配される。",
+        "source": {
+          "organization": "フランス連帯・家族省 / 保健省",
+          "title": "Code de la santé publique - Droits des personnes malades et usagers",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "成年後見・法的世話制度（Rechtliche Betreuung）と病院受入法制",
+        "statusOrLevel": "民法典（BGB）改正に基づく本人の意思決定支援・連邦法での保証人強制禁止",
+        "keyFeature": "認知症等で判断能力が不十分な単身者に対し、裁判所指定の公認世話人（Betreuer）が医療同意や退院先選定を代行。身元保証人の不在を理由とする拒絶は行政指導対象。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ)",
+          "title": "Reform des Vormundschafts- und Betreuungsrechts",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "救急医療処置・労働法（EMTALA）および州公的後見制度（Public Guardianship）",
+        "statusOrLevel": "救急・緊急入院時の支払い能力・身元保証人の有無による搬送・受入拒否禁止",
+        "keyFeature": "EMTALAにより受入拒否病院には多額の罰金と連邦メディケア認定取消処分。退院調整困難な身寄りなし患者には州・郡の公的後見機関が任命される。",
+        "source": {
+          "organization": "米国メディケア・メディケイド・サービス庁 (CMS)",
+          "title": "Emergency Medical Treatment and Labor Act (EMTALA) Requirements",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "ソーシャルサービス法（Socialtjänstlagen）による基礎自治体全面保障",
+        "statusOrLevel": "コミューン（基礎自治体）による包括的高齢者住居・入所斡旋の公的義務",
+        "keyFeature": "家族や保証人の存在を前提としない福祉モデル。高齢者が自立困難となった場合、コミューンのケアマネジャーが調査し、身元保証人なしで公的特別養護施設への入居を執行。",
+        "source": {
+          "organization": "スウェーデン国家保健福祉委員会 (Socialstyrelsen)",
+          "title": "Social Services Act and Municipal Care for Older Persons",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "My Aged Care および公的後見人・管財人（Public Guardian and Trustee）",
+        "statusOrLevel": "連邦介護法に基づく資力や身元のない高齢者向け支援保護枠（Supported Residents）",
+        "keyFeature": "身元保証人がいない低所得高齢者に対し、国が施設利用料を直接補填するサポーテッド・レジデント枠を義務付け。施設側は一定割合の無保証人枠維持が認可要件。",
+        "source": {
+          "organization": "豪保健高齢者ケア省 (DoHAC)",
+          "title": "Aged Care Quality and Safety Standards - Access and Care Management",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "医師法第19条（応招義務）通知および高齢者すまい・施設受入ガイドライン",
+        "statusOrLevel": "身元保証人がいないことのみを理由とする入院・入所拒絶を不適切事例として禁止",
+        "keyFeature": "厚労省通知で身元保証人不在による入院拒絶は応招義務違反になり得ると明示。市区町村による成年後見制度利用支援や居住支援法人の公的保証代替モデルを推進中。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "身元保証人等がいないことのみを理由に入院や入所を拒否することは不適切であることの通知",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

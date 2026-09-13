@@ -231,5 +231,102 @@
         "commentStandard": "「要介護1の母が日中通所できなくなれば見守りが不可能になり、介護離職ゼロを掲げる国の労働政策と完全に矛盾している」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国における軽度高齢者ケアの公的保険と自治体事業（コミュニティ支援）の境界比較",
+    "comparisonSummary": "持続可能な介護保障を目指し、オランダや北欧は軽度者の家事援助を保険給付から自治体の地域社会支援（Wmo等）へ完全移管しており、ドイツは等級1の給付を現金化せず予防支援に特化させています。",
+    "countries": [
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "社会支援法（Wmo 2015）への軽度生活援助完全移管",
+        "statusOrLevel": "長期介護法（Wlz）を重度入所者に限定・掃除や買い物等の家事援助は自治体へ分権",
+        "keyFeature": "軽度・中度の生活援助を国の公的長期保険から外し、基礎自治体が予算上限枠の中で住民互助・民間ボランティアと組み合わせたカスタマイズ支援を提供。",
+        "source": {
+          "organization": "オランダ政府 (Government.nl)",
+          "title": "Social Support Act (Wmo) and Long-term Care Decentralization",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "社会法典第11巻（SGB XI）における介護等級1（Pflegegrad 1）の予防支援特化",
+        "statusOrLevel": "軽度者（等級1）に対する月額125ユーロの使途限定「救済・軽減給付金（Entlastungsbetrag）」",
+        "keyFeature": "要介護1の軽度者には原則として現金給付や身体介護給付を行わず、家事代行やデイケア利用時に領収書精算できる月125ユーロの給付のみを付与し、財政膨張を抑制。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG)",
+          "title": "Leistungen der Pflegeversicherung bei Pflegegrad 1",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "ソーシャルサービス法（SoL）に基づくコミューン直営ホームヘルプ",
+        "statusOrLevel": "国レベルの介護保険は存在せず、全額税財源により基礎自治体がミーンズテスト提供",
+        "keyFeature": "軽度者の掃除・調理・買い物支援はコミューンが標準サービスとして提供するが、利用者の所得に応じた累進利用料（マキシマムフィー制）を設定し過剰利用を抑制。",
+        "source": {
+          "organization": "スウェーデン政府 (Regeringen)",
+          "title": "Äldreomsorg och hemtjänst enligt socialtjänstlagen",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "地方自治体成人社会的ケア（Local Authority Adult Social Care）",
+        "statusOrLevel": "資産2万3,250ポンド以上の高齢者は軽度・重度を問わず全額自己負担（セルフファンダー）",
+        "keyFeature": "NHS（医療）と異なり介護は税財源・資産調査型。資産基準を超える高齢者の家事援助は一切公費が出ず、完全な民間自費サービス購入が原則。",
+        "source": {
+          "organization": "英国保健社会的ケア省 (DHSC)",
+          "title": "Care and support statutory guidance - Eligibility criteria and means testing",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "個人自立手当（APA）および自立自律支援基金（CNSA）",
+        "statusOrLevel": "自立度区分GIR 5・6（軽度者）はAPA支給対象外・年金金庫の地域支援事業へ誘導",
+        "keyFeature": "公的給付（APA）の対象をGIR 1〜4（中等度・重度）に厳格限定。GIR 5・6の軽度高齢者には全国年金金庫（CNAV）が予防的家事援助を一部補助するにとどめる。",
+        "source": {
+          "organization": "フランス全国自立支援金庫 (CNSA)",
+          "title": "Allocation personnalisée d'autonomie (APA) et grille AGGIR",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "老人長期療養保険における「認知症支援等級（5等級・認知支援等級）」管理",
+        "statusOrLevel": "身体軽度者であっても認知症症状がある場合は給付・単なる生活支援は自治体移管",
+        "keyFeature": "身体機能低下のみの軽度者には保険給付を行わず、自治体の「老人オーダーメイドケアサービス」で対応。長期療養給付の対象を医療ケア・認知症ケアに重点化。",
+        "source": {
+          "organization": "大韓民国保健福祉部",
+          "title": "Long-Term Care Insurance and Customized Care Services for the Elderly",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "介護保険制度改革における要介護1・2生活援助の「地域支援事業（総合事業）」移行論議",
+        "statusOrLevel": "要支援1・2は総合事業へ移行済み・要介護1・2の訪問介護・通所介護の移行が継続審議",
+        "keyFeature": "現役世代の保険料負担抑制と制度持続性のため、要介護1・2の生活援助（掃除・洗濯・調理）を全国一律の給付から市町村総合事業へ段階的に移行する議論が進行中。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "社会保障審議会介護保険部会における給付と負担の見直し議論",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
   }
 }

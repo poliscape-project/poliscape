@@ -186,5 +186,102 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における歴史的文化財・国宝級建造物の拝観料・入館料適正化と修繕基金調達モデル比較",
+    "comparisonSummary": "膨大な文化遺産の維持修繕費を賄うため、欧州主要国は公的助成だけでなく、観光客からの市場価格入館料徴収、修繕寄付への大幅な税額控除（Art Bonus）、ナショナル・トラスト等の民間会員制度をフル活用しています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "国立モニュメントセンター（CMN: Centre des monuments nationaux）プール制",
+        "statusOrLevel": "凱旋門・モンサンミッシェル等約100カ所の文化財入場料収入を一括管理・修繕配分",
+        "keyFeature": "収益性の高い超人気モニュメントの入館料収入（一般12〜16ユーロ程度）を中央プールし、地方の赤字歴史的建造物の修繕費に再配分する内部相互補助システムを運用。",
+        "source": {
+          "organization": "フランス国立モニュメントセンター (CMN)",
+          "title": "Missions du Centre des monuments nationaux et préservation du patrimoine",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "文化遺産・活動省（MiC）国立博物館料金体系改革および「Art Bonus」税制",
+        "statusOrLevel": "コロッセオ・ウフィツィ美術館等の入館料改定（25ユーロ等）および寄付者への65%税額控除",
+        "keyFeature": "国立美術館・遺跡の拝観料を国際水準に適正化し修繕財源を確保。さらに企業や個人が公的文化財修繕に寄付した場合、寄付額の65%を所得税・法人税から控除する税制で民間資金を大量誘致。",
+        "source": {
+          "organization": "イタリア文化省 (MiC)",
+          "title": "Art Bonus - Credito d'imposta per favorire il mecenatismo culturale",
+          "url": "https://www.governo.it"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ナショナル・トラスト（National Trust）およびイングリッシュ・ヘリテッジ（English Heritage）",
+        "statusOrLevel": "500万人超の有料会員組織・歴史的邸宅・城郭の入館料およびチャリティ維持モデル",
+        "keyFeature": "国立美術館の常設展無料を国費で維持する一方、城や庭園等の建造物は政府から独立した慈善信託が保有。年会費や高額な単独入館料（20〜30ポンド）で修繕費を全額自給自足。",
+        "source": {
+          "organization": "英国イングリッシュ・ヘリテッジ / DCMS",
+          "title": "Conservation funding and heritage protection frameworks",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国家歴史保全法（NHPA）および国立信託（National Trust for Historic Preservation）",
+        "statusOrLevel": "連邦歴史的建造物保全税額控除（20% Tax Credit）および入場料・寄付金活用",
+        "keyFeature": "歴史的商業建造物の修繕改修投資に対し20%の連邦所得税額控除を付与し、民間投資家を巻き込んで保存。国立公園内の歴史施設は入園料収入で補修基金を運営。",
+        "source": {
+          "organization": "米国国立公園局 (NPS)",
+          "title": "Historic Preservation Tax Incentives and Federal Grants",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "国家遺産局（Patrimonio Nacional）およびアルハンブラ宮殿保全信託",
+        "statusOrLevel": "王室遺産・修道院の入場料プール管理および特定遺跡の完全定員予約制チケット運用",
+        "keyFeature": "アルハンブラ宮殿やマドリード王宮等で入場料（14〜19ユーロ）を徴収し、専任の伝統工芸職人・修復家チームを常時雇用して持続的な予防的修繕を実施。",
+        "source": {
+          "organization": "スペイン国家遺産局 (Patrimonio Nacional)",
+          "title": "Gestión y conservación del patrimonio histórico y monumentos",
+          "url": "https://www.lamoncloa.gob.es"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "プロイセン宮殿庭園財団（SPSG）および州立文化財保護法",
+        "statusOrLevel": "サンスーシ宮殿等の入館料・特別共通パス販売および連邦・州共同修繕協定（マスタープラン）",
+        "keyFeature": "連邦政府とベルリン・ブランデンブルク両州が数十億ユーロ規模の修繕協定（Sonderinvestitionsprogramm）を締結し、公費と入場料収入を組み合わせて世界遺産群の大規模改修を推進。",
+        "source": {
+          "organization": "ベルリン＝ブランデンブルク・プロイセン宮殿庭園財団 (SPSG)",
+          "title": "Sonderinvestitionsprogramme für die preußischen Schlösser und Gärten",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "文化財保護法改正に基づく文化財保存活用大綱・適正な拝観料設定推進",
+        "statusOrLevel": "伝統木造建造物の檜皮葺・茅葺修繕費用の高騰に伴う拝観料引き上げおよび文化庁補助",
+        "keyFeature": "寺社・城郭等の維持修繕費の高騰（資材不足・職人減）に対応し、従来の低廉な拝観料を見直して適正価格（1,000円〜数千円）に改定するガイドラインを推進。夜間特別拝観や高付加価値公開を支援。",
+        "source": {
+          "organization": "文化庁",
+          "title": "文化財の保存・活用のための適切な入場料・拝観料設定に関する指針",
+          "url": "https://www.bunka.go.jp"
+        }
+      }
+    ]
+  }
 }

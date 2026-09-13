@@ -211,5 +211,102 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Scale"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における公的医療保険の保険料（拠出金）上限額設定・所得比例負担制度比較",
+    "comparisonSummary": "医療保険財政の健全化と応能負担の公平性を保つため、ドイツは標準報酬上限を毎年物価・賃金に連動して引き上げ、フランスは上限を撤廃して全額比例課税（CSG）を敷くなど、高所得者負担の適正化が進んでいます。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "法定健康保険（GKV）拠出算定上限額（Beitragsbemessungsgrenze）毎年度改定",
+        "statusOrLevel": "月額上限5,175ユーロ（年額約6万2,100ユーロ）・賃金上昇率に連動して毎年自動引き上げ",
+        "keyFeature": "上限額までは労使折半で一律約14.6%（＋各金庫追加保険料）を拠出。上限を超える高所得者は民間医療保険（PKV）への移行選択権を持つが、財政基盤維持のため上限引き上げが継続。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG)",
+          "title": "Rechengrößen der Sozialversicherung und Beitragsbemessungsgrenze",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "一般社会税（CSG）および健康保険拠出における上限なし所得比例課税",
+        "statusOrLevel": "給与所得・資産所得に対するCSG（約9.2%）は賦課上限なしで全額課税",
+        "keyFeature": "かつての社会保険料上限制を廃止し、所得全体に対して一律比例課税するCSGに財源をシフト。高所得層や資産所得者からより多くの医療財源を調達する垂直的公平性を実現。",
+        "source": {
+          "organization": "フランス社会保障・URSSAF",
+          "title": "Contribution sociale généralisée (CSG) et financement de la sécurité sociale",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "メディケア税（Medicare Tax）上限撤廃および高所得者追加課税（ACA）",
+        "statusOrLevel": "1.45%のメディケア税は給与上限なし・高所得者（単身20万ドル超）に0.9%の追加上乗せ",
+        "keyFeature": "社会保障年金税（OASDI）に上限（年約16万8,600ドル）があるのに対し、メディケア（高齢者医療）税は上限を完全撤廃。医療財政の公平負担を担保。",
+        "source": {
+          "organization": "米国メディケア・メディケイド・サービス庁 (CMS) / IRS",
+          "title": "Medicare Tax Rates and Additional Medicare Tax Guidelines",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "国民健康保険法に基づく保険料賦課上限額（月間最大約848万ウォン）",
+        "statusOrLevel": "地域加入者（自営業・引退者）および職場加入者の月額保険料上限を毎年度見直し",
+        "keyFeature": "高額資産家・高所得者の地域加入者保険料の不均衡を是正するため、財産・自動車への賦課を縮小しつつ純所得に対する賦課上限を引き上げ、中間所得層の負担感を緩和。",
+        "source": {
+          "organization": "大韓民国国民健康保険公団 (NHIS)",
+          "title": "National Health Insurance Premium Upper Limits and Imposition System",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "医療保険法（LAMal）均一保険料制（Prämie）と所得連動型公的補助（Prämienverbilligung）",
+        "statusOrLevel": "保険料自体は人頭定額制・低所得者〜中間層に対する州政府の公費還付（上限補助）",
+        "keyFeature": "保険料そのものに上限や所得比例を設けない代わりに、保険料が世帯可処分所得の一定割合を超える場合、州が税金から直接保険料差額を肩代わりして逆進性を緩和。",
+        "source": {
+          "organization": "スイス連邦公衆衛生庁 (FOPH / BAG)",
+          "title": "Krankenversicherung - Individuelle Prämienverbilligung (IPV)",
+          "url": "https://www.admin.ch"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "医療保険法（Zvw）所得比例拠出金（Inkomensafhankelijke bijdrage）",
+        "statusOrLevel": "年収約7万1,000ユーロを上限とする雇用主・個人負担の所得比例医療拠出",
+        "keyFeature": "民間保険会社に支払う定額基礎保険料に加え、税務署が上限額までの所得に対して約6.57%の所得比例拠出金を徴収してリスク均等化基金へプール。",
+        "source": {
+          "organization": "オランダ医療研究所 (Zorginstituut Nederland)",
+          "title": "Inkomensafhankelijke bijdrage Zorgverzekeringswet (Zvw)",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "国民健康保険の賦課限度額引き上げ（政令改正）",
+        "statusOrLevel": "基礎賦課＋後期高齢者支援金等の合計上限を年104万円から段階的に106万円超へ引き上げ",
+        "keyFeature": "被用者保険（健康保険組合等）との負担公平化を図り、中間所得層の保険料率上昇を抑制するため、政令により高所得世帯の賦課限度額を毎年度計画的に引き上げ。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "国民健康保険法施行令の一部を改正する政令（賦課限度額の見直し）",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

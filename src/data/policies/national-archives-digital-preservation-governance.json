@@ -185,5 +185,102 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Building"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における国立公文書館のガバナンス・電子公文書の自動移管・恒久保存制度比較",
+    "comparisonSummary": "デジタル政府の透明性を担保するため、米国のNARAや英国のTNA等は全省庁からの電子文書の自動移管プロトコルを義務付け、破棄防止と公開審査の強力な監査権限を有しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国立公文書記録管理局（NARA）および全連邦電子記録移行命令（M-19-21）",
+        "statusOrLevel": "2022年末以降の連邦政府機関における完全電子記録管理の義務化（紙での受入停止）",
+        "keyFeature": "連邦記録法に基づき各省庁の文書廃棄をNARAが直接統制・認可。クラウド型記録管理システム（ERMS）からNARA電子保管庫への自動アーカイブ移管基準を標準化。",
+        "source": {
+          "organization": "米国公文書記録管理局 (NARA)",
+          "title": "Transition to Electronic Records (OMB/NARA Memorandum M-19-21)",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "公文書法（Public Records Act 1958）および英国国立公文書館（The National Archives: TNA）",
+        "statusOrLevel": "20年ルール（従来の30年ルールの短縮）に基づく歴史的公文書の義務的移管・公開",
+        "keyFeature": "政府各省庁に対し、作成から20年経過した文書のTNAへの移管・公開審査を法定義務化。デジタル文書自動保存システム「DRI（Digital Records Infrastructure）」を運用。",
+        "source": {
+          "organization": "英国国立公文書館 (The National Archives: TNA)",
+          "title": "Records Management and Transfer to The National Archives (20-year rule)",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "公文書法（Archives Act 1983）およびオーストラリア国立公文書館（NAA）",
+        "statusOrLevel": "全連邦機関に対する「Building Trust in the Public Record」デジタル記録方針適用",
+        "keyFeature": "連邦公務員が使用するチャット（Teams等）やメールを含む公的決定記録の適正保存を義務付け。Check-up Digital年次報告により各省庁の記録管理成熟度を公表。",
+        "source": {
+          "organization": "オーストラリア国立公文書館 (NAA)",
+          "title": "Building Trust in the Public Record Policy and Digital Transfers",
+          "url": "https://www.naa.gov.au"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦公文書館法（Bundesarchivgesetz: BArchG）",
+        "statusOrLevel": "連邦全省庁における電子的公文書管理（E-Akte Bund）と連邦公文書館（Bundesarchiv）移管",
+        "keyFeature": "省庁が公文書を廃棄しようとする場合、必ず連邦公文書館へ事前提供し評価を受ける義務。中間保存アーカイブ（Zwischenarchiv）を通じた電子公文書の恒久的保存。",
+        "source": {
+          "organization": "ドイツ連邦公文書館 (Bundesarchiv)",
+          "title": "Das Bundesarchivgesetz und die digitale Archivierung (E-Akte Bund)",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "遺産法典（Code du patrimoine）およびフランス国立公文書館（Archives nationales）",
+        "statusOrLevel": "国家機関に対する公文書保全義務・省庁間電子アーカイブ基盤「Adamant」運用",
+        "keyFeature": "政府高官や大統領府の記録は公文書官（Conservateurs）の監督下で収集。電子文書の真正性・完全性を暗号署名で長期担保する中央アーカイブプラットフォームを構築。",
+        "source": {
+          "organization": "フランス文化省 / 国立公文書館",
+          "title": "Code du patrimoine - Gestion et collecte des archives publiques numériques",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダ図書館・公文書館法（LAC Act）および情報アクセス法（ATIA）",
+        "statusOrLevel": "各省庁に対する記録処分認可（Record Disposition Authorities: RDA）のLAC事前取得義務",
+        "keyFeature": "公文書館（Library and Archives Canada）の同意なしに政府機関はいかなる公文書も廃棄不可。デジタル公文書の電子移管とオープンガバメント公開を連動。",
+        "source": {
+          "organization": "カナダ図書館・公文書館 (LAC)",
+          "title": "Library and Archives Canada Act and Government Records Transfer Rules",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "公文書等の管理に関する法律（公文書管理法）および国立公文書館新館整備方針",
+        "statusOrLevel": "2026年度新館開館に向けた電磁的記録の移管・保存基準策定と各省庁電子公文書移管",
+        "keyFeature": "各省庁の文書廃棄に対する内閣府公文書管理委員会への諮問と国立公文書館への移管選別を制度化。行政DXに伴う電子決裁文書の自動的長期保存システムの開発を進める。",
+        "source": {
+          "organization": "内閣府 / 国立公文書館",
+          "title": "公文書管理法の施行状況と電磁的記録の移管・保存に関する基本方針",
+          "url": "https://www.cas.go.jp"
+        }
+      }
+    ]
+  }
 }

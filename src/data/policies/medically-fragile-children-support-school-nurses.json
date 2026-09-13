@@ -185,5 +185,102 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "HeartPulse"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における医療的ケア児（Medically Fragile Children）の普通校受入・学校看護師配置法制比較",
+    "comparisonSummary": "インクルーシブ教育の原則の下、米国や英国は連邦法・教育基本方針に基づき医療処置が必要な児童生徒への学校看護師配置を公的に義務付け、費用を国・州が全額保障しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "個別障害者教育法（IDEA）および公立校スクールナース（School Nurse）配置義務",
+        "statusOrLevel": "個別教育計画（IEP）に基づく気管切開・胃ろう管理等の学校看護ケア全額公費負担",
+        "keyFeature": "最高裁判決（Garret F.事件）により、医師でなく看護師が実施可能なケアは学区が費用負担して通常校で提供する法的義務が確立。専門スクールナースが常駐。",
+        "source": {
+          "organization": "米国教育省 (ED)",
+          "title": "Individuals with Disabilities Education Act (IDEA) Part B Regulations",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "教育保健ケアプラン（EHCP）および学校における医療ニーズ支援指針",
+        "statusOrLevel": "子ども・家族法（Children and Families Act 2014）に基づく公立学校の医療支援責務",
+        "keyFeature": "地方自治体とNHSが共同でEHCPを策定。吸引や経管栄養が必要な子どもに対し、専門小児看護師の派遣や訓練を受けた学校サポートスタッフ（SNA）が対応。",
+        "source": {
+          "organization": "英国教育省 (DfE)",
+          "title": "Supporting pupils at school with medical conditions - Statutory guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "個人受入計画（PAI: Projet d'accueil individualisé）および学校看護師体制",
+        "statusOrLevel": "国家教育省所属の学校看護師（Infirmiers scolaires）による日常的医療ケア管理",
+        "keyFeature": "校医・主治医・保護者・教職員がPAIを締結し、日常的な投薬や吸入を実施。複雑な侵襲的ケアが必要な場合は外部の訪問看護師（Libérale）が学校へ出張対応。",
+        "source": {
+          "organization": "フランス国民教育・青少年省",
+          "title": "Le projet d'accueil individualisé (PAI) pour raison de santé",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "学校随伴支援員（Schulbegleitung / Integrationshilfe）および訪問看護派遣",
+        "statusOrLevel": "社会法典第8巻・第9巻に基づく公的インクルージョン支援（費用は自治体負担）",
+        "keyFeature": "児童精神医学・小児科診断に基づき、自治体の青少年局・社会局が専属の看護資格者または介助員を授業時間中にマンツーマン配置する費用を支給。",
+        "source": {
+          "organization": "ドイツ連邦教育研究省 (BMBF)",
+          "title": "Inklusion an Schulen und Unterstützung von Kindern mit Förderbedarf",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "学校医療チーム（Elevhälsa）および特別リソース要員配置",
+        "statusOrLevel": "学校法（Skollagen）に基づく全公立校への学校看護師・心理士の常駐義務化",
+        "keyFeature": "基礎自治体が通常学校内に小児保健室を完備し、医療処置が必要な児童には特別アシスタント（Resursperson）を雇用。医療従事者と教員が密接に連携。",
+        "source": {
+          "organization": "スウェーデン国家教育庁 (Skolverket)",
+          "title": "Elevhälsa och särskilt stöd i grundskolan",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "障害者教育基準（Disability Standards for Education）および学校看護プログラム",
+        "statusOrLevel": "州政府教育省による医療的ケア対応専門スタッフの配置と教員向け医療処置研修",
+        "keyFeature": "各州（ビクトリア州・NSW州等）が専門ナースによる訪問巡回指導を実施。糖尿病インスリン投与や胃ろう注入を訓練済みスタッフが授業中に行える体制を確立。",
+        "source": {
+          "organization": "豪教育省 (Department of Education)",
+          "title": "Student Health Care and School Nursing Guidelines",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "医療的ケア児及びその家族に対する支援法（2021年施行）",
+        "statusOrLevel": "国・地方自治体の責務として通常校・特別支援学校への看護師配置を努力義務から責務へ",
+        "keyFeature": "保護者の付き添いがなくても通常学級に通学できるよう、学校看護師の配置補助金を増額。医療機関や訪問看護ステーションとの連携モデルを推進。",
+        "source": {
+          "organization": "文部科学省",
+          "title": "医療的ケア児及びその家族に対する支援法の施行について",
+          "url": "https://www.mext.go.jp"
+        }
+      }
+    ]
+  }
 }

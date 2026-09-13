@@ -185,5 +185,102 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "FileCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における筋痛性脳脊髄炎/慢性疲労症候群（ME/CFS）の疾患認知・ガイドライン・公的障害認定比較",
+    "comparisonSummary": "原因不明の消耗性疾患ME/CFSに対し、英米は国家ガイドラインを改定して段階的運動療法（GET）の推奨を撤回・労作後消耗（PEM）を診断基準の中心に据え、公的障害給付やLong COVID研究予算を集中配分しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "CDC臨床診断基準およびNIH RECOVERイニシアチブ（Long COVID・ME/CFS研究）",
+        "statusOrLevel": "労作後倦怠感（PEM）を必須兆候とする新診断基準の普及・社会保障障害年金（SSDI）認定",
+        "keyFeature": "国立医学アカデミー（NAM）報告書に基づき、単なる心因性疲労とする誤解を公式に否定。10億ドル超のRECOVER予算を通じてLong COVIDとの共通病態解明を国家主導で推進。",
+        "source": {
+          "organization": "米国疾病予防管理センター (CDC)",
+          "title": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) Clinical Guidelines",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国立医療技術評価機構（NICE）ガイドライン NG206",
+        "statusOrLevel": "段階的運動療法（GET）の推奨を完全禁止・ペーシング（Pacing）管理の指導",
+        "keyFeature": "2021年のガイドライン大改定で、患者の症状を悪化させる運動強制を明示的に禁止。成人・小児に対するパーソナルケアプラン策定と障害給付（PIP）へのアクセスを改善。",
+        "source": {
+          "organization": "英国国立医療技術評価機構 (NICE)",
+          "title": "Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: NG206",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦保健省ポストCOVIDおよびME/CFS研究・ケア構想",
+        "statusOrLevel": "数千万ユーロ規模の研究予算配分・大学病院における専門外来センター設置支援",
+        "keyFeature": "連邦議会請願を受け、カール・ラウターバッハ保健相がME/CFS患者への早期治療法開発と臨床治験を国家プロジェクトに指定。障害等級認定基準の明確化に着手。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG)",
+          "title": "Initiative des BMG zu den Langzeitfolgen von COVID-19 und ME/CFS",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家障害保険制度（NDIS）およびNHMRC助成金プログラム",
+        "statusOrLevel": "恒久的機能障害が立証された重度ME/CFS患者に対するNDISパッケージ給付",
+        "keyFeature": "国立保健医療研究評議会（NHMRC）が諮問委員会を設置しガイドラインを更新。重症寝たきり患者に対する訪問介護や生活支援補助器具の公費支給を認める判例・運用が拡大。",
+        "source": {
+          "organization": "豪国立保健医療研究評議会 (NHMRC) / NDIS",
+          "title": "Myalgic Encephalomyelitis and Chronic Fatigue Syndrome Advisory Committee",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダ公衆衛生庁（PHAC）臨床ガイドラインおよびCPPD障害年金",
+        "statusOrLevel": "コンセンサス診断基準（CCC）の公式採用・連邦障害税額控除（DTC）適用対象化",
+        "keyFeature": "医学部教育におけるME/CFSカリキュラムを導入。カナダ年金プラン障害給付（CPPD）において、他覚的異常所見が乏しい場合でも生活実態調査に基づき障害認定を付与。",
+        "source": {
+          "organization": "カナダ公衆衛生庁 (PHAC)",
+          "title": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome Clinical Practice",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "保健総局（Helsedirektoratet）国家臨床ガイドラインおよび専門ケアネットワーク",
+        "statusOrLevel": "重度ME患者専用の地域訪問医療チーム整備・労病手当（Sykepenger）の長期受給",
+        "keyFeature": "刺激遮断（暗室療養）が必要な超重症患者のための専門病床を配備。自治体ケアマネジメントと連携し、生活保護や障害年金への移行をシームレスに支援。",
+        "source": {
+          "organization": "ノルウェー保健総局 (Helsedirektoratet)",
+          "title": "Nasjonal veileder for CFS/ME - Utredning, diagnostikk og behandling",
+          "url": "https://www.regjeringen.no"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "厚生労働省研究班による実態調査および指定難病指定に向けた要件検討",
+        "statusOrLevel": "重症患者の障害年金認定ガイドライン整備・指定難病要件（客観的診断基準確立）の課題",
+        "keyFeature": "患者会による難病指定の請願が継続。厚労省は障害年金認定において診断書記載要領を周知する一方、原因究明やバイオマーカー特定に向けたAMED研究助成を継続中。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "慢性疲労症候群（ME/CFS）に関する調査研究及び障害年金認定の取扱い",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

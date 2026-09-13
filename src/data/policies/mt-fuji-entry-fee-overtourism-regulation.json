@@ -205,5 +205,102 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の名峰・自然遺産における登山規制・入山料（アクセスフィー）・オーバーツーリズム防止策比較",
+    "comparisonSummary": "登山者の過密・遭難・環境負荷を防ぐため、エベレストやモンブラン、ペルーのマチュピチュ等は高額な入山料や1日あたりの人数制限・ガイド同伴義務を課し、日本の富士山ゲート規制のモデルとなっています。",
+    "countries": [
+      {
+        "country": "フランス/モンブラン",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "グーテ小屋予約義務化および入山制限条例（Prefectural Decree）",
+        "statusOrLevel": "通常ルート（王道ルート）の山小屋事前予約なしの登山完全禁止・違反者に即時下山命令",
+        "keyFeature": "軽装登山や弾丸登山、テント不法設営による遭難死を防ぐため、警察・憲兵隊（PGHM）が入山口で検問を実施。山小屋の公式宿泊証明がない登山者は入山拒否。",
+        "source": {
+          "organization": "フランス・オート＝サヴォワ県庁 (Préfecture de la Haute-Savoie)",
+          "title": "Réglementation de l'accès au Mont Blanc par la voie normale du Goûter",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "イタリア/ヴェネツィア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "日帰り観光客入域料（Contributo di Accesso）制度",
+        "statusOrLevel": "ピーク期の特定日における日帰り来訪者への5ユーロ事前徴収・QRコード提示義務",
+        "keyFeature": "オーバーツーリズム対策として世界初となる都市単位の入域料を試験導入。駅前や主要ゲートで抜き打ち検査を実施し、無登録侵入者に最高300ユーロの過料。",
+        "source": {
+          "organization": "ヴェネツィア市庁 (Comune di Venezia)",
+          "title": "Contributo di accesso alla Città antica di Venezia",
+          "url": "https://www.governo.it"
+        }
+      },
+      {
+        "country": "アメリカ/国立公園",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国立公園局（NPS）時間帯別事前予約制（Timed Entry Reservation）",
+        "statusOrLevel": "ヨセミテやロッキーマウンテン等におけるピーク期入園枠事前予約・車両通行規制",
+        "keyFeature": "Recreation.govを通じて事前に入園スロットを販売し、現地ゲートでの交通渋滞とトレイル過密を物理的に抑制。年間パス保持者にも事前枠予約を要求。",
+        "source": {
+          "organization": "米国国立公園局 (NPS)",
+          "title": "Timed Entry and Reservation Systems in National Parks",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "ペルー/マチュピチュ",
+        "countryCode": "PE",
+        "flag": "🇵🇪",
+        "systemName": "マチュピチュ歴史保護区入場上限および特定周遊サーキット制",
+        "statusOrLevel": "1日あたりの入場者数を最大4,500〜5,600人に厳格制限・公認ガイド同伴義務",
+        "keyFeature": "遺跡の摩耗と過密を防ぐため、入場時間を1時間ごとに細分化し、逆走不可の固定サーキット（ルート）を指定。チケットは身元確認付きで事前販売。",
+        "source": {
+          "organization": "ペルー文化省 (Ministerio de Cultura)",
+          "title": "Reglamento de uso turístico sostenible de Machu Picchu",
+          "url": "https://www.gob.pe"
+        }
+      },
+      {
+        "country": "ネパール/エベレスト",
+        "countryCode": "NP",
+        "flag": "🇳🇵",
+        "systemName": "エベレスト登山許可料（Permit Fee）およびGPSトラッカー装着義務",
+        "statusOrLevel": "外国人登山者1人あたり春季1万1,000米ドルのパーミット料・ゴミ回収デポジット義務",
+        "keyFeature": "デスゾーンでの渋滞・遭難多発を受け、登山者へのGPS発信機携帯や自排泄物の回収持参（プープバッグ）を義務付け。許可料のさらなる引き上げも検討。",
+        "source": {
+          "organization": "ネパール観光局 (Department of Tourism)",
+          "title": "Mountaineering Expedition Rules and Everest Permit Guidelines",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "グレート・ウォークス（Great Walks）山小屋予約制および外国人差別化料金",
+        "statusOrLevel": "ミルフォード・トラック等の完全定員予約制・外国人旅行者の利用料金を国内居住者の2倍に設定",
+        "keyFeature": "保全部（DOC）が環境保全費用を調達するため、人気トレイルの山小屋宿泊料金を外国人に対し高く設定（二重価格）。利用集中を回避し自然環境を保護。",
+        "source": {
+          "organization": "ニュージーランド自然保全省 (DOC)",
+          "title": "Great Walks bookings and international visitor differential pricing",
+          "url": "https://www.govt.nz"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "富士山吉田ルート・富士宮ルート等の通行料義務化（ゲート規制・事前予約）",
+        "statusOrLevel": "山梨県条例による吉田ルート通行料2,000円義務化・1日4,000人制限・夜間ゲート閉鎖",
+        "keyFeature": "山小屋宿泊者以外の夜間弾丸登山を物理的に排除するため、五合目に遮断ゲートを設置。静岡県側も入山管理システムの共通化と通行適正化を進め、オーバーツーリズムを抑止。",
+        "source": {
+          "organization": "山梨県 / 静岡県 / 環境省",
+          "title": "富士山吉田ルート通行適正化条例及び富士山登山安全対策",
+          "url": "https://www.env.go.jp"
+        }
+      }
+    ]
+  }
 }

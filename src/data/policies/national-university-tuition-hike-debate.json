@@ -205,5 +205,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "GraduationCap"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における国公立大学の学費（授業料水準）および高等教育財政支援モデル比較",
+    "comparisonSummary": "高等教育の公的負担のあり方をめぐり、欧州大陸（独仏）が原則無償・低廉登録料を維持する一方、英米豪は受益者負担として高額な授業料を設定しつつ所得連動返還型学生ローン（HECS等）でアクセスを保障しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "公立大学の授業料原則無償化（Studiengebührenfreiheit）制度",
+        "statusOrLevel": "学部課程の授業料は完全無料（学期ごとに約150〜350ユーロの学生会・交通費登録料のみ）",
+        "keyFeature": "2000年代に一部の州が授業料を導入したが、市民の猛反発を受け全州で撤廃。連邦と州の「高等教育協定（Zukunftsvertrag）」に基づき、国費・州税で大学運営費を全額保障。",
+        "source": {
+          "organization": "ドイツ連邦教育研究省 (BMBF)",
+          "title": "Zukunftsvertrag Studium und Lehre stärken - Hochschulfinanzierung",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "公立大学（Université）法定登録料（Frais d'inscription）体系",
+        "statusOrLevel": "学士課程年間約175ユーロ、修士課程年間約250ユーロの低廉公的料金（留学生別料金あり）",
+        "keyFeature": "憲法前文の「公教育の無償・非宗教」原則に基づき、学費の大半を国が負担。グランゼコール等の特定機関を除き、一般大学の授業料引き上げは厳しく抑制。",
+        "source": {
+          "organization": "フランス高等教育・研究省 (MESR)",
+          "title": "Droits d'inscription dans l'enseignement supérieur public",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "イギリス/イングランド",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "公立大学授業料上限制度および所得連動型学生ローン（Plan 5）",
+        "statusOrLevel": "国内学生の学部授業料上限年9,250ポンド（約180万円）・大学運営費交付金の削減代替",
+        "keyFeature": "大学財源を公費交付金から学生納付金へ大胆にシフト。在学中は政府系ローンが学費を全額立替え、卒業後に年収が一定閾値（年2万5,000ポンド）を超えた分から40年かけて返済。",
+        "source": {
+          "organization": "英国学生庁 (OfS) / 教育省 (DfE)",
+          "title": "Higher education tuition fees and student finance policy",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "州立大学（Public Universities）における州内生・州外生二重授業料制",
+        "statusOrLevel": "州内居住者（In-state）年平均約1万1,000ドル・州外生（Out-of-state）年約2万8,000ドル",
+        "keyFeature": "州政府からの財政支援削減に伴い授業料が数十年にわたり高騰。ペル・グラント（低所得者給付金）や大学独自のエンダウメント（基金）奨学金で補填する受益者負担モデル。",
+        "source": {
+          "organization": "米国教育省 (ED) / 国立教育統計センター (NCES)",
+          "title": "Tuition costs of colleges and universities and student aid trends",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "高等教育拠出金制度（HECS-HELP: Higher Education Contribution Scheme）",
+        "statusOrLevel": "連邦補助枠（CSP）に基づく専攻別授業料（年約4,000〜1万6,000豪ドル）の後払い",
+        "keyFeature": "在学中は学費自己負担ゼロで受講可能。卒業後に課税所得が返済開始基準（年約5万4,000豪ドル）を超えた場合に税務署（ATO）が所得税に上乗せして自動回収。",
+        "source": {
+          "organization": "豪教育省 (Department of Education)",
+          "title": "Higher Education Loan Program (HELP) and HECS guidelines",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "国公立大学授業料凍結政策および国家奨学金（半額登録金）制度",
+        "statusOrLevel": "国公立大学年間約400万〜500万ウォン・10年以上にわたり政府が授業料値上げを事実上制限",
+        "keyFeature": "物価安定と家計支援のため、授業料を値上げした大学には政府の大学財政支援事業（大学イノベーション支援等）の交付を制限する強力なペナルティを科して凍結を誘導。",
+        "source": {
+          "organization": "大韓民国教育部 / 韓国奨学財団",
+          "title": "Higher Education Tuition Policy and National Scholarship Support",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "国立大学法人授業料標準額（年53万5,800円）および上限20%増額オプション",
+        "statusOrLevel": "文部科学省令標準額の最大20%（約64万2,960円）への値上げ（東大・広大等が決定）",
+        "keyFeature": "運営費交付金の長期的削減や物価高・光熱費高騰を受け、東京大学などが2025年度からの授業料約10万円引き上げを決定。給付型奨学金や授業料免除枠の拡充とセットで実施。",
+        "source": {
+          "organization": "文部科学省",
+          "title": "国立大学法人等の授業料その他の費用に関する省令及び修学支援制度",
+          "url": "https://www.mext.go.jp"
+        }
+      }
+    ]
+  }
 }

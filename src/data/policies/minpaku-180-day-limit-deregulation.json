@@ -205,5 +205,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Scale"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要観光都市における民泊（短期住宅宿泊・STR）の年間営業日数上限・登録規制比較",
+    "comparisonSummary": "住宅不足やオーバーツーリズムを防止するため、パリ・ロンドン・NYなどの主要都市は年間30〜120日程度の上限やホスト同居義務などの厳格な規制を課しており、日本の180日制限は国際的にも中庸〜比較的寛容な設定です。",
+    "countries": [
+      {
+        "country": "アメリカ/ニューヨーク市",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ローカル法18号（Local Law 18 / 短期賃貸登録法）",
+        "statusOrLevel": "30日未満の短期賃貸におけるホスト同居の完全義務化・丸ごと貸切の事実上全面禁止",
+        "keyFeature": "ホストが滞在中に同居し、ゲストは最大2名までとする厳格な条件を課し、プラットフォーム（Airbnb等）への無登録物件掲載に高額罰金を科したことで登録数が9割以上激減。",
+        "source": {
+          "organization": "ニューヨーク市特別執行局 (OSE)",
+          "title": "Short-Term Rental Registration Law (Local Law 18)",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "フランス/パリ市",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "住宅法典に基づく主住居年間120日上限および商業転換許可制",
+        "statusOrLevel": "主たる住居の民泊貸出は年最大120日・別荘等の2軒目以降は商業相殺（Compensation）義務",
+        "keyFeature": "住宅不足に対処するため、非主住居を民泊にする場合は同等面積以上の商業用不動産を住宅に転換する巨額の「相殺証明」を義務付け、投機的民泊を徹底排除。",
+        "source": {
+          "organization": "パリ市庁 (Ville de Paris)",
+          "title": "Réglementation de la location meublée touristique à Paris",
+          "url": "https://www.paris.fr"
+        }
+      },
+      {
+        "country": "イギリス/ロンドン",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "大ロンドン規制緩和法（Deregulation Act 2015）年間90日ルール",
+        "statusOrLevel": "計画許可（Planning Permission）なしでの住宅短期貸出は年間最大90日まで",
+        "keyFeature": "年間90日を超える貸出を行う場合は、自治体（ボロー）から用途変更の都市計画許可を取得する必要があり、無許可違反者には最大2万ポンドの罰金が科される。",
+        "source": {
+          "organization": "英国住宅・コミュニティ・地方自治省 (DLUHC)",
+          "title": "Short term lets and the 90-night rule in Greater London",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "スペイン/バルセロナ市",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "観光宿泊施設特別計画（PEUAT）および2028年民泊ライセンス全廃令",
+        "statusOrLevel": "新規観光アパート認可の完全凍結・既存約1万件の民泊ライセンスを2028年までに失効",
+        "keyFeature": "家賃高騰と住民流出に抗議する大規模市民デモを受け、バルセロナ市長が2028年11月までに市内の観光用短期賃貸アパートの営業ライセンスを更新せず全廃すると表明。",
+        "source": {
+          "organization": "バルセロナ市議会 (Ajuntament de Barcelona)",
+          "title": "Pla Especial d'Allotjaments Turístics (PEUAT) and Housing Policies",
+          "url": "https://www.lamoncloa.gob.es"
+        }
+      },
+      {
+        "country": "オランダ/アムステルダム",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "住宅法に基づく休日短期賃貸年間30日上限および事前届出制",
+        "statusOrLevel": "年間最大30泊まで・1回あたり最大4名・貸出前の市へのオンライン届出義務",
+        "keyFeature": "観光過密が深刻な旧市街特定地区では民泊営業を全面禁止。市営検査官が覆面調査を行い、届出を怠ったホストには初犯でも数万ユーロの制裁金を科す。",
+        "source": {
+          "organization": "アムステルダム市 (Gemeente Amsterdam)",
+          "title": "Rules for holiday rentals and bed & breakfasts in Amsterdam",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "都市再開発庁（URA）私有住宅短期滞在規制",
+        "statusOrLevel": "私有コンドミニアム・一戸建ての最低滞在期間3ヶ月規制（公営HDBは6ヶ月）",
+        "keyFeature": "住宅の安寧維持のため、日単位・週単位の民泊営業を法的に全面禁止。違反した物件所有者や仲介者には最高20万シンガポールドルの罰金または懲役刑。",
+        "source": {
+          "organization": "シンガポール都市再開発庁 (URA)",
+          "title": "Short-term accommodation rules for private residential properties",
+          "url": "https://www.gov.sg"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "住宅宿泊事業法（民泊新法）における年間提供日数180日上限",
+        "statusOrLevel": "年間営業日数180日以内・自治体の上乗せ条例による営業区域・期間の制限権限",
+        "keyFeature": "インバウンド需要対応と住宅地環境保護の折衷策として180日を設定。京都や軽井沢等の観光地では上乗せ条例で住居専用地域での営業を厳しく制限する一方、観光庁は訪日客収容のため日数緩和を検討。",
+        "source": {
+          "organization": "観光庁 / 国土交通省",
+          "title": "住宅宿泊事業法（民泊新法）の施行状況と制度見直し検討",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

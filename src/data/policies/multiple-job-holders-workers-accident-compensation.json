@@ -179,5 +179,102 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Briefcase"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における複数就業者（マルチワーカー・ギグワーカー）の労災補償・賃金合算給付比較",
+    "comparisonSummary": "多様な働き方の進展に伴い、欧州主要国は古くから複数事業所での全収入を合算して労災休業給付を算定する仕組みを確立しており、日本も2020年法改正で複数事業労働者の賃金合算給付を導入しました。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "社会保障法典（Code de la sécurité sociale）労災・職業病保険（AT/MP）",
+        "statusOrLevel": "複数事業主（Pluri-emploi）に雇用される労働者の全給与を合算して休業補償日額を算定",
+        "keyFeature": "いずれかの就業先で業務災害に遭った場合、社会保険金庫（CPAM）がすべての契約先からの総賃金を基礎に休業手当（Indemnité journalière）を計算し支給。",
+        "source": {
+          "organization": "フランス健康保険公庫 (Assurance Maladie / Ameli)",
+          "title": "Accident du travail : indemnités journalières en cas de pluri-emploi",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "社会法典第7巻（SGB VII）法定災害保険（Gesetzliche Unfallversicherung: DGUV）",
+        "statusOrLevel": "本業と副業（ミニジョブ等）の年間総所得を基準とした負傷給付金（Verletztengeld）算定",
+        "keyFeature": "ミニジョブ（月538ユーロ以下の小規模雇用）を含む複数就労時の総稼得能力の喪失を補償。事業主負担の労災分担金は各社が負担しつつ、被災時の給付は全所得が反映される。",
+        "source": {
+          "organization": "ドイツ法定災害保険連合 (DGUV)",
+          "title": "Berechnung des Verletztengeldes bei mehreren Beschäftigungsverhältnissen",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "法定疾病手当（SSP）および産業傷害障害給付（IIDB）",
+        "statusOrLevel": "異なる雇用主ごとに所得下限基準を満たせば各事業主からSSPを重複受給可能",
+        "keyFeature": "国営の産業傷害障害給付（IIDB）は業務に起因する障害の程度（パーセンテージ）に応じて非課税で定額支給され、複数勤務先の賃金格差に左右されず公平に機能。",
+        "source": {
+          "organization": "英国雇用年金省 (DWP)",
+          "title": "Industrial Injuries Disablement Benefit and Statutory Sick Pay guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "州法に基づく労働者災害補償制度（Workers' Compensation）のConcurrent Employment規定",
+        "statusOrLevel": "加州やNY州等において、副業先での賃金合算（Average Weekly Wage合算）を法認可",
+        "keyFeature": "被災した事業所だけでなく、同時に就労していた他社での賃金も合算して週平均賃金（AWW）を算出。ただし事故発生先の保険料率上昇を抑えるため、州特別基金が差額を補填する制度も存在。",
+        "source": {
+          "organization": "米国労働省 (DOL) / 各州労働委員会",
+          "title": "State Workers' Compensation Laws - Concurrent Employment Wage Calculations",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "各州労災補償法（Workers Compensation Acts）における複数雇用給付",
+        "statusOrLevel": "事故前の全就労先からの週平均総所得（Pre-injury average weekly earnings: PIAWE）を合算",
+        "keyFeature": "週平均所得の算定において、被災企業以外のアルバイトや第二の雇用主からの賃金証明を提出することで、休業給付に全額反映される仕組みを標準化。",
+        "source": {
+          "organization": "オーストラリア安全作業庁 (Safe Work Australia)",
+          "title": "Workers' Compensation arrangements - Pre-injury average weekly earnings",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "産業災害補償保険法における「複数就業者平均賃金合算」特例",
+        "statusOrLevel": "2つ以上の事業場で働く労働者の業務災害時、全事業場の賃金を合算して平均賃金を算定",
+        "keyFeature": "配達プラットフォームライダーや代行運転手などの特殊形態勤労従事者・複数就業者を保護するため、勤労福祉公団が賃金合算に基づく休業給付を支給。",
+        "source": {
+          "organization": "大韓民国勤労福祉公団 / 雇用労働部",
+          "title": "Industrial Accident Compensation Insurance for Multiple Job Holders",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "労働者災害補償保険法改正（2020年施行）における「複数事業労働者」への給付",
+        "statusOrLevel": "複数就業者の全勤務先の賃金額を合算して給付基礎日額を算定・負荷の総合評価導入",
+        "keyFeature": "従来は被災した1社の賃金のみで休業補償を計算していた不合理を是正。さらに、複数事業所での労働時間を合算して過労死ライン等の過重負荷を総合評価する仕組みを新設。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "労働者災害補償保険法の改正について～複数の会社等で働かれている方への保険給付～",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

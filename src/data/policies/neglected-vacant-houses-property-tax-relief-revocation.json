@@ -211,5 +211,102 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Building"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における放置空き家・危険家屋へのペナルティ課税（優遇解除・重課）と行政代執行法制比較",
+    "comparisonSummary": "空き家放置による防災・衛生・景観の悪化や住宅不足を防ぐため、英仏やカナダは空き家に対する固定資産税の2〜4倍重課税や空室税を課しており、日本も2023年法改正で管理不全空家の住宅用地特例解除を導入しました。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "地方自治体空き家プレミアム課税（Council Tax Empty Homes Premium）",
+        "statusOrLevel": "1年以上空き家の固定資産税（カウンシル・タックス）を最大4倍（通常額＋300%）に増額",
+        "keyFeature": "空き家期間に応じて増額（1年超で+100%、5年超で+200%、10年超で+300%）。さらに自治体は「空き家住居管理命令（EDMO）」により所有者から管理権を強制剥奪して賃貸活用可能。",
+        "source": {
+          "organization": "英国住宅・コミュニティ・地方自治省 (DLUHC)",
+          "title": "Council Tax guidance: Long-term empty homes premium",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "住宅空室税（TLV: Taxe sur les logements vacants）および住居税重課",
+        "statusOrLevel": "住宅過密地域（Zone tendue）の1年以上空室物件に対し初年度17%、2年目以降34%課税",
+        "keyFeature": "賃貸市場への供給を促すため、別荘や空き家に通常の固定資産税とは別枠で高額な空室税を自動課税。危険建築物に対しては市長が即時修繕命令（Arrêté de péril）を発出。",
+        "source": {
+          "organization": "フランス経済・財務・産業・デジタル主権省",
+          "title": "Taxe sur les logements vacants (TLV) - Règles et taux d'imposition",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "カナダ/バンクーバー市",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "空き家税（Empty Homes Tax / Vacant Property Tax）",
+        "statusOrLevel": "年間6ヶ月以上居住または賃貸されていない住宅に対し不動産評価額の3%を毎年課税",
+        "keyFeature": "不動産投機と住宅不足を抑制するため市税として導入。100万ドルの物件であれば毎年3万ドルの空き家税が課される強力なペナルティにより、賃貸市場への回帰を達成。",
+        "source": {
+          "organization": "バンクーバー市 (City of Vancouver)",
+          "title": "Empty Homes Tax (Vacant Property Tax) Regulations",
+          "url": "https://vancouver.ca"
+        }
+      },
+      {
+        "country": "アメリカ/ボルチモア市等",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "荒廃不動産（Blighted Property）重課税および簡易公的収用（In Rem Foreclosure）",
+        "statusOrLevel": "放置危険空き家に対する固定資産税の割増税率適用および固定資産税滞納時の競売代執行",
+        "keyFeature": "外観崩壊や治安悪化を招く廃屋（Blight）に対し、行政代執行で緊急解体を行い費用を不動産抵当権（Tax Lien）として所有者に求償。回収不能時は市が1ドルでランドバンク収用。",
+        "source": {
+          "organization": "ボルチモア市住宅局 (Baltimore Housing) / HUD",
+          "title": "Vacant Property Strategies and Blight Elimination Programs",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "建設法典（Baugesetzbuch: BauGB）解体・修繕命令および土地税改革",
+        "statusOrLevel": "著しい欠陥建築物に対する自治体の強制修繕命令・解体命令（Rückbau- und Abbruchgebot）",
+        "keyFeature": "所有者が解体命令に従わない場合、自治体が代執行で解体し費用を全額請求。2025年施行の新土地税法（Grundsteuer C）により、開発放置された未利用地への重課税を容認。",
+        "source": {
+          "organization": "ドイツ連邦住宅・都市開発・建設省 (BMWSB)",
+          "title": "Baugesetzbuch (BauGB) - Maßnahmen zur Behebung baulicher Missstände",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "オーストラリア/ビクトリア州",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "空き住宅土地税（Vacant Residential Land Tax: VRLT）",
+        "statusOrLevel": "メルボルン大都市圏等の空き家・未利用住宅地に対し不動産資本価値（CIV）の1〜3%課税",
+        "keyFeature": "1暦年中に通算6ヶ月以上空室の物件に対し、通常土地税に上乗せして課税。放置年数が増えるごとに税率が段階的に引き上げられる累進ペナルティを導入。",
+        "source": {
+          "organization": "ビクトリア州地方税務局 (State Revenue Office Victoria)",
+          "title": "Vacant Residential Land Tax rules and expanded coverage",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "改正空家等対策特別措置法（2023年施行）「管理不全空家」指定と特例解除",
+        "statusOrLevel": "放置すれば「特定空家」になる恐れのある「管理不全空家」の固定資産税住宅用地特例（最大1/6減額）を解除",
+        "keyFeature": "従来の倒壊寸前の特定空家だけでなく、窓破損や雑草繁茂などの初期放置段階（管理不全空家）で自治体が指導・勧告。勧告を受けると更地並みの税額（最大6倍）になり、自主解体や売却を強力に促す。",
+        "source": {
+          "organization": "国土交通省",
+          "title": "空家等対策の推進に関する特別措置法の一部を改正する法律の施行について",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

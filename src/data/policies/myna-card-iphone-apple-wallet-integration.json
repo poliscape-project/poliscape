@@ -185,5 +185,102 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Zap"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における国家デジタル身分証・公的証明書のスマートフォン（Apple Wallet等）搭載技術・法制比較",
+    "comparisonSummary": "公的身分証明書の完全デジタル化に向け、日本は世界に先駆けてマイナンバーカードのApple Wallet搭載を合意・実現しつつあり、米国各州のmDLウォレットや欧州のEUDIウォレット構想と並ぶ先進事例となっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "各州モバイル運転免許証（mDL）のApple Wallet / Google Wallet搭載",
+        "statusOrLevel": "アリゾナ・カリフォルニア・ジョージア等十数州で導入・連邦TSA空港保安検査で利用可能",
+        "keyFeature": "ISO 18013-5規格に準拠し、iPhoneのWalletアプリに運転免許証を保存。対面提示時は画面を見せずNFC/QRコードで必要情報（21歳以上か否か等）のみを選択開示。",
+        "source": {
+          "organization": "米国運輸保安庁 (TSA) / 各州DMV",
+          "title": "Digital Identification and Mobile Driver's License Acceptance at TSA Checkpoints",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Smart-eID（連邦身分証明書機能のスマートフォンセキュアエレメント搭載）",
+        "statusOrLevel": "連邦内務省によるeIDカード機能のスマホ内蔵eSIM/SEへの直接プロビジョニング",
+        "keyFeature": "物理カードを背面に読み取らせず、スマホ単体で公的オンライン行政手続き（AusweisApp）を完結。欧州デジタルアイデンティティ（EUDI）ウォレットの実証基盤。",
+        "source": {
+          "organization": "ドイツ連邦情報セキュリティ庁 (BSI) / 連邦内務省 (BMI)",
+          "title": "Smart-eID - Der Online-Ausweis direkt im Smartphone",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "エストニア",
+        "countryCode": "EE",
+        "flag": "🇪🇪",
+        "systemName": "Smart-ID および m-ID（国家eIDモバイル認証インフラ）",
+        "statusOrLevel": "国民の98%以上が利用・全国家行政手続き・銀行取引・国政電子投票（i-Voting）に完全対応",
+        "keyFeature": "SIMカードベースのm-IDからアプリベースのSmart-IDへ移行。PKI暗号化署名をスマホで実行し、欧州eIDAS規則最高位「High」レベルの法的署名効力を保障。",
+        "source": {
+          "organization": "エストニア情報システム庁 (RIA)",
+          "title": "Electronic identity (eID) in Estonia - Smart-ID and Mobile-ID",
+          "url": "https://www.ria.ee"
+        }
+      },
+      {
+        "country": "オーストリア",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "systemName": "ID Austria（デジタル身分証明書・モバイルウォレット）",
+        "statusOrLevel": "国民ID・運転免許証・年齢確認証・滞在許可証の「eAusweise」アプリ統合運用",
+        "keyFeature": "物理カード不要でスマホだけで交通検問の免許提示やEU域内移動を可能にする国家ウォレット。顔認証（Face ID）連携による高度な暗号セキュリティを実装。",
+        "source": {
+          "organization": "オーストリア連邦財務省・デジタル担当",
+          "title": "ID Austria und die eAusweise Plattform",
+          "url": "https://www.oesterreich.gv.at"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "myGov Digital ID および州デジタル運転免許証（Service NSW等）",
+        "statusOrLevel": "各州公式アプリおよびmyGovアプリ内での国家公的資格・免許証・年金証の一元携帯",
+        "keyFeature": "動的QRコードとホログラムアニメーションにより偽造・スクリーンショットを防止。酒類購入時の年齢確認や連邦税務署（ATO）ログインにスマホ単体でアクセス。",
+        "source": {
+          "organization": "豪デジタル変革庁 (DTA) / Services Australia",
+          "title": "Digital ID System (myGovID) and State Mobile Credentials",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Singpass Digital IC（デジタル身分証明書機能）",
+        "statusOrLevel": "全居住者向けSingpassアプリへのデジタル国家IDカード・パスポート完全統合",
+        "keyFeature": "公共機関だけでなく銀行口座開設や病院受診、不動産契約での提示が法的に物理ICカードと同等と認定。生体認証連携による画面マスキング機能付き。",
+        "source": {
+          "organization": "シンガポール政府テクノロジー庁 (GovTech)",
+          "title": "Singpass Digital IC as Valid Proof of Identity",
+          "url": "https://www.govtech.gov.sg"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "マイナンバーカード機能のスマートフォン搭載（Android先行・iPhone Apple Wallet統合）",
+        "statusOrLevel": "Android版スマホ用電子証明書運用中・Apple社との合意により2025年春iPhone搭載実現",
+        "keyFeature": "米国外で初となるApple Walletへの国家公的身分証明書搭載。iPhoneのセキュアエレメント内に署名用・利用者証明用電子証明書を格納し、カードレスでの行政申請・民間認証を可能にする。",
+        "source": {
+          "organization": "デジタル庁",
+          "title": "マイナンバーカードのスマートフォン搭載（iPhoneへの搭載）について",
+          "url": "https://www.digital.go.jp"
+        }
+      }
+    ]
+  }
 }
