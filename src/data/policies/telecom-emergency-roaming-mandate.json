@@ -205,5 +205,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Zap"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における大規模通信障害・自然災害時の事業者間緊急ローミング法制比較",
+    "comparisonSummary": "大規模災害や通信ネットワーク障害時に緊急通報（110/119番等）や重要データ通信を維持するため、欧米やカナダでは携帯電話事業者間の緊急ローミング協定の締結義務化と、相互接続バックアップ枠組みが整備されています。",
+    "countries": [
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "CRTC通信指令（Rogers障害を受けた電気通信信頼性協定）",
+        "statusOrLevel": "大手通信キャリア間での緊急ローミング（911番及びデータ）協定の義務化",
+        "keyFeature": "2022年のロジャーズ全国障害を契機に、1社の網がダウンした際に他社回線へ即時自動ローミングする協定締結と訓練を法定義務化。",
+        "source": {
+          "organization": "カナダラジオテレビ電気通信委員会 (CRTC)",
+          "title": "Mandatory network roaming during major telecom outages",
+          "url": "https://crtc.gc.ca"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "FCC災害時ローミング義務化規則（Mandatory Disaster Response Initiative: MDRI）",
+        "statusOrLevel": "連邦または州の非常事態宣言下におけるキャリア間双方向緊急ローミング",
+        "keyFeature": "ハリケーンや山火事の際、被災地域で基地局が倒壊したキャリアの利用者を他社網に無償接続させる相互協定を義務付け。",
+        "source": {
+          "organization": "連邦通信委員会 (FCC)",
+          "title": "Mandatory Disaster Response Initiative (MDRI) for Wireless Carriers",
+          "url": "https://www.fcc.gov"
+        }
+      },
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州電子通信コード（EECC）及び112番公衆安全ローミング枠組み",
+        "statusOrLevel": "契約キャリアの圏外時でも他社網を利用した緊急通報（112番）の無料接続義務",
+        "keyFeature": "SIMカードの契約状態にかかわらず、電波が届く最寄りの基地局を通じて緊急機関へ位置情報付きで直接接続することを全キャリアに義務化。",
+        "source": {
+          "organization": "欧州委員会 (European Commission) / BEREC",
+          "title": "European Electronic Communications Code: Emergency communications",
+          "url": "https://digital-strategy.ec.europa.eu"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Ofcom電気通信セキュリティ規則及び緊急サービスネットワーク（ESN）",
+        "statusOrLevel": "重要通信の相互乗り入れバックアップと全国スマートローミング",
+        "keyFeature": "災害時に救急・警察等の緊急通信を全民間キャリア回線へ優先ルーティングする仕組みと、一般障害時の協調協定を規定。",
+        "source": {
+          "organization": "英国通信庁 (Ofcom)",
+          "title": "Telecoms security resilience and disaster emergency roaming",
+          "url": "https://www.ofcom.org.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "通信法（Telecommunications Act）自然災害緊急ローミング枠組み",
+        "statusOrLevel": "森林火災・サイクロン被災地での一時的ローミング開放指示権限",
+        "keyFeature": "ACMAが危機時にキャリア各社へ一時的ネットワーク開放を指示できる制度を運用。",
+        "source": {
+          "organization": "豪州通信メディア庁 (ACMA)",
+          "title": "Emergency mobile roaming during natural disasters",
+          "url": "https://www.acma.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "電波法・電気通信事業法に基づく非常時事業者間ローミング（2025年度導入）",
+        "statusOrLevel": "通信障害または災害時に他社回線を経由して緊急通報等を維持する仕組みの制度化",
+        "keyFeature": "総務省の作業部会に基づき、NTTドコモ・KDDI・ソフトバンク・楽天モバイルが協定を結び、障害発生時の相互接続を実証。",
+        "source": {
+          "organization": "総務省",
+          "title": "非常時における事業者間ローミング等に関する検討会報告書",
+          "url": "https://www.soumu.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -217,5 +217,89 @@
         "commentStandard": "「海外出品者の越境ステマを取り締まる実効性が乏しく、真面目な国内メーカーが不利になっている」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国における欺瞞的広告・ステルスマーケティング法規制比較",
+    "comparisonSummary": "一般消費者が広告であることを判別困難な表示行為の規制に関し、米国のFTC法、英国のCPRs、EU指令など、不当表示としての包括的指定と、行政命令・課徴金による抑止策が世界標準となっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦取引委員会法第5条（不公正または欺瞞的な行為・慣行の禁止）",
+        "statusOrLevel": "欺瞞的宣伝に対する是正命令及び不正利得の消費者返金命令",
+        "keyFeature": "広告である事実を隠して一般の消費者の自発的感想を装う行為は典型的な「Deceptive Act」として厳格に処罰。",
+        "source": {
+          "organization": "連邦取引委員会 (FTC)",
+          "title": "Policy Statement on Deception",
+          "url": "https://www.ftc.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "不公正取引からの消費者保護規則（CPRs 2008）ブラックリスト条項",
+        "statusOrLevel": "編集コンテンツを装った有料広告宣伝の無条件違法化（31のブラックリスト行為）",
+        "keyFeature": "広告料を受け取っているにもかかわらず、メディアの一般記事や一般個人の投稿のように見せかける行為を理由の如何を問わず禁止。",
+        "source": {
+          "organization": "英国政府 (GOV.UK)",
+          "title": "Consumer Protection from Unfair Trading Regulations",
+          "url": "https://www.legislation.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "テレメディア法（TMG）第6条及び不正競争防止法第5a条",
+        "statusOrLevel": "商用コミュニケーションの即時識別義務・競合他社による差止訴訟",
+        "keyFeature": "広告コンテンツは一般情報から明確に視覚的分離されなければならず、違反に対しては競合他社や消費者団体が直ちに差止訴訟を提起可能。",
+        "source": {
+          "organization": "連邦消費者保護・食品安全庁 (BVL)",
+          "title": "Verbraucherschutz im Internet und Kennzeichnungspflicht",
+          "url": "https://www.bvl.bund.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "消費者法典（Code de la consommation）第L121条欺瞞的商慣行",
+        "statusOrLevel": "刑事罰（最大2年拘禁・30万ユーロ）を伴う欺瞞広告規制",
+        "keyFeature": "出資元やスポンサー関係を隠蔽して製品を推薦する行為を刑罰付きで禁止し、経済省DGCCRFが強力な査察権限を行使。",
+        "source": {
+          "organization": "フランス経済・財務省 (DGCCRF)",
+          "title": "Pratiques commerciales trompeuses et publicité clandestine",
+          "url": "https://www.economie.gouv.fr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "競争法（Competition Act）第74条不当表示条項",
+        "statusOrLevel": "虚偽または誤認を招く広告表示への最高1,000万ドルの制裁金",
+        "keyFeature": "カナダ競争局がソーシャルメディアでのアフィリエイト・ギフト提供の開示義務に関する執行方針を明定。",
+        "source": {
+          "organization": "カナダ競争局 (Competition Bureau Canada)",
+          "title": "Influencer marketing and the Competition Act",
+          "url": "https://ised-isde.canada.ca"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "景品表示法第5条第3号に基づくステマ告示（2023年10月施行）",
+        "statusOrLevel": "事業者が自己の供給する商品・役務の取引について行う表示であって判別困難なものを不当表示に指定",
+        "keyFeature": "インフルエンサー等の第三者に委託した表示でも事業者に表示内容決定権がある場合は事業者の表示と見なし措置命令の対象。",
+        "source": {
+          "organization": "消費者庁",
+          "title": "ステルスマーケティング告示の概要と運用基準",
+          "url": "https://www.caa.go.jp"
+        }
+      }
+    ]
   }
 }

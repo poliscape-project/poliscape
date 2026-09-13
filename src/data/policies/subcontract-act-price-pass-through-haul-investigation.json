@@ -217,5 +217,102 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における下請取引の価格転嫁・労務費上昇反映・買いたたき防止法制比較",
+    "comparisonSummary": "インフレや賃上げ圧力が強まる中、優越的地位の濫用防止やサプライチェーン全体の公正取引確保に向け、EUの不公正商慣行指令や米国の連邦法、オーストラリアの商慣行法など、コスト上昇分の価格交渉・転嫁拒否に対する厳格な是正命令が敷かれています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "競争制限禁止法（GWB）第20条（相対的市場支配力の濫用禁止）",
+        "statusOrLevel": "中小サプライヤーに対する一方的な価格据え置き・コスト転嫁拒否の違法化",
+        "keyFeature": "大企業が調達先に対して持つ経済的依存関係を濫用し、原材料費や賃金上昇分を価格に反映させない行為に対し連邦カルテル庁が調査・是正措置。",
+        "source": {
+          "organization": "連邦カルテル庁 (Bundeskartellamt)",
+          "title": "Protection of small and medium-sized suppliers against abuse of economic dependency",
+          "url": "https://www.bundeskartellamt.de"
+        }
+      },
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "農業・食品サプライチェーン不公正商慣行指令（UTP Directive）",
+        "statusOrLevel": "サプライヤーの労務コスト等上昇に伴う一方的な契約条件改変・買いたたきの全面禁止",
+        "keyFeature": "弱い立場の生産者・加工業者に対し、大口バイヤーが一方的に納入価格を切り下げる行為を禁止し、加盟国に執行当局の設置を義務付け。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Unfair trading practices in the food supply chain",
+          "url": "https://ec.europa.eu"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "パック業者及びストックヤード法（PSA）及びFTC法第5条サプライヤー保護",
+        "statusOrLevel": "巨大流通業者による専属調達サプライヤーへの不当な買いたたき規制",
+        "keyFeature": "連邦農務省（USDA）及びFTCが、独立サプライヤーに対する不当に低い調達価格の押し付けや不透明な契約を反競争的商慣行として提訴。",
+        "source": {
+          "organization": "米国農務省 (USDA) / 連邦取引委員会 (FTC)",
+          "title": "Fair and Competitive Supply Chains and Small Business Protection",
+          "url": "https://www.usda.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "不公正契約条項（UCT）法改正及び食料品規範（Food and Grocery Code）",
+        "statusOrLevel": "中小企業に対する不当な価格転嫁拒否条項の無効化と巨額制裁金",
+        "keyFeature": "一方的に価格リスクやコスト増加分を下請側に押し付ける契約条項を違法とし、最大5,000万豪ドルのペナルティを導入。",
+        "source": {
+          "organization": "豪州競争・消費者委員会 (ACCC)",
+          "title": "Unfair contract terms protections for small business",
+          "url": "https://www.accc.gov.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "エガリム法（EGalim 1/2/3）原材料費・労務費の自動価格調整条項",
+        "statusOrLevel": "農業・食品・製造業取引における原材料・生産コスト上昇の価格改定義務化",
+        "keyFeature": "納入契約に生産コスト変動に応じた価格見直し条項の記載を義務付け、大手小売・親事業者が価格改定協議を拒否することを禁止。",
+        "source": {
+          "organization": "フランス農業・食料主権省 (MASA)",
+          "title": "Loi EGalim: Rémunération des producteurs et transparence contractuelle",
+          "url": "https://agriculture.gouv.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "大・中小企業共存協力促進法（納品代金連動制）",
+        "statusOrLevel": "主要原材料価格上昇分の納品単価への自動連動反映の義務化（2023年施行）",
+        "keyFeature": "原材料費が10%以上変動した場合、その変動分を納品価格に反映させる契約締結を親事業者に義務付け、未反映時には過料・制裁。",
+        "source": {
+          "organization": "韓国中小ベンチャー企業部 (MSS)",
+          "title": "Supply Price Indexation System for Win-Win Cooperation",
+          "url": "https://www.mss.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "下請代金支払遅延等防止法及び公取委労務費転嫁指針",
+        "statusOrLevel": "労務費上昇分の協議なき据え置きを優越的地位の濫用として重点調査・公表",
+        "keyFeature": "公正取引委員会が「買いたたき」調査を実施し、労務費や原材料費の転嫁に応じない発注元企業名を名指し公表・勧告。",
+        "source": {
+          "organization": "公正取引委員会",
+          "title": "労務費の適切な転嫁のための価格交渉に関する指針",
+          "url": "https://www.jftc.go.jp"
+        }
+      }
+    ]
+  }
 }

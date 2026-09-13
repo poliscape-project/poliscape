@@ -186,5 +186,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Sparkles"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国におけるインフルエンサー・ステマ摘発とプラットフォーム連座責任法制比較",
+    "comparisonSummary": "インフルエンサーによるステルスマーケティングの摘発において、広告主だけでなく斡旋代理店やインフルエンサー本人への処分、プラットフォーム事業者による広告ラベル強制付与などの法執行モデルが国際的に確立されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "FTC警告状制度及びセレブリティ・インフルエンサー直接執行",
+        "statusOrLevel": "インフルエンサー個人への直接警告状送付・民事ペナルティ求償",
+        "keyFeature": "数百人のトップインフルエンサーに一斉警告を送付。広告主企業だけでなくエージェンシーや個人も法的に共同責任を負う。",
+        "source": {
+          "organization": "連邦取引委員会 (FTC)",
+          "title": "FTC Warning Letters to Social Media Influencers",
+          "url": "https://www.ftc.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "DGCCRFによるインフルエンサー公式アカウント名指し公表（Name & Shame）",
+        "statusOrLevel": "行政処分を受けたインフルエンサー本人のSNSアカウントに違反通知を強制固定掲示",
+        "keyFeature": "フォロワーに対し「このアカウントは違法なステマを行いました」という政府公式の警告バナーを本人のトップページに1ヶ月間ピン留めさせる。",
+        "source": {
+          "organization": "フランス競争・消費・不正抑止総局 (DGCCRF)",
+          "title": "Injonctions numériques et sanctions contre les influenceurs",
+          "url": "https://www.economie.gouv.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ASA非準拠インフルエンサー・ウェブページ公表・ターゲット広告出稿制裁",
+        "statusOrLevel": "ASA公式が違反インフルエンサーのフォロワーに向けて「違反者周知広告」を直接配信",
+        "keyFeature": "警告を無視するインフルエンサーに対し、当局自らがInstagram等の広告枠を買い取り、そのインフルエンサーが信頼できない旨をフォロワーに広告告知。",
+        "source": {
+          "organization": "英国広告基準協議会 (ASA)",
+          "title": "Non-compliant social media influencers list and sanctions",
+          "url": "https://www.asa.org.uk"
+        }
+      },
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "デジタルサービス法（DSA）における超大規模オンラインプラットフォーム（VLOP）広告透明性リポジトリ",
+        "statusOrLevel": "プラットフォーム事業者に対する商用コンテンツ開示ツールの提供義務付け",
+        "keyFeature": "MetaやTikTokに対し、クリエイターが商用PRタグを容易に付与できる機能の義務化と、全商用広告の公開APIデータベース化を義務付け。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Digital Services Act: Advertising transparency obligations",
+          "url": "https://digital-strategy.ec.europa.eu"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "ACCC全国ソーシャルメディア一斉スイープ調査（National Social Media Sweep）",
+        "statusOrLevel": "AI自然言語処理を用いた240以上の人気インフルエンサーアカウントの一斉精査",
+        "keyFeature": "健康食品、美容、ライフスタイル等のインフルエンサーの投稿を自動収集し、8割以上のレビューに開示不備があったことを公表し集中調査を実施。",
+        "source": {
+          "organization": "豪州競争・消費者委員会 (ACCC)",
+          "title": "ACCC sweep targets social media influencers",
+          "url": "https://www.accc.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "公正取引委員会・主要プラットフォームステマ点検報告",
+        "statusOrLevel": "違反摘発件数の年次公表と広告主への課徴金一括賦課",
+        "keyFeature": "主要SNSにおける裏広告を年間2万件以上摘発・自発的是正を命令。悪質な反復広告主には刑事告発を実施。",
+        "source": {
+          "organization": "韓国公正取引委員会 (KFTC)",
+          "title": "Annual SNS Undisclosed Sponsorship Monitoring Results",
+          "url": "https://www.ftc.go.kr"
+        }
+      }
+    ]
+  }
 }

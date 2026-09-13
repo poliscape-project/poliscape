@@ -185,5 +185,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Home"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における単身高齢者の生前信託・成年後見・死後事務委任法制比較",
+    "comparisonSummary": "身寄りのない単身高齢者（おひとりさま）の増加に伴い、生前の財産管理、認知症時の医療同意、死後の葬儀・残置物処分を一体的に託す制度として、米国の取消可能生前信託や英仏・独の委任代理法制が発展しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "取消可能生前信託（Revocable Living Trust）及び持続的代理権（DPOA）",
+        "statusOrLevel": "検認裁判所（Probate）を回避する民間信託・死後事務執行の標準的活用",
+        "keyFeature": "本人が生前に財産を信託し、認知症時には受託者が管理、死亡時には裁判所を通さず即座に指定受取人や慈善団体へ資産移転と葬儀費用支払いを完了。",
+        "source": {
+          "organization": "連邦高齢者問題局 (ACL) / 米国法曹協会 (ABA)",
+          "title": "Revocable Living Trusts and Estate Planning for Solo Seniors",
+          "url": "https://acl.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "持続的代理権（Lasting Power of Attorney: LPA）財産及び健康福祉権",
+        "statusOrLevel": "公的後見人局（OPG）登録による生前意思決定と死後事務のシームレス委任",
+        "keyFeature": "判断能力があるうちに、単身者が信頼できる友人や弁護士・信託銀行に医療判断と資産管理の双方の代理権を登録。",
+        "source": {
+          "organization": "英国政府 (GOV.UK)",
+          "title": "Make, register or end a lasting power of attorney",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "任意後見委任状（Vorsorgevollmacht）及び死後有効委任（transmortale Vollmacht）",
+        "statusOrLevel": "本人の死亡後も効力が存続する包括的委任契約による公的管理の最小化",
+        "keyFeature": "死亡後も効力を持つ代理権を授与しておくことで、相続人不在でも受任者が銀行口座解約、賃貸契約解除、遺品整理を合法的に執行。",
+        "source": {
+          "organization": "連邦司法省 (BMJ)",
+          "title": "Vorsorgevollmacht und Patientenverfügung",
+          "url": "https://www.bmj.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "将来保護委任契約（Mandat de protection future）民法第477条",
+        "statusOrLevel": "公証人関与による単身者の財産管理・身上保護の事前契約公認",
+        "keyFeature": "自身が判断能力を失った後の生活支援や死後の葬儀準備について、公証証書を通じて受任者に全権を委託可能。",
+        "source": {
+          "organization": "フランス公証人最高評議会 (Notaires de France) / 司法省",
+          "title": "Le mandat de protection future pour personnes seules",
+          "url": "https://www.justice.gouv.fr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "持続的委任状（LPA）電子登録及び公的信託（Public Trustee）制度",
+        "statusOrLevel": "身寄りのない市民向けの政府公的信託サービスと終末期事前指示（ACP）",
+        "keyFeature": "家族がいない高齢者のために政府公的信託機関（PTO）が少額資産の死後処理や遺産分配を低廉な手数料で代行。",
+        "source": {
+          "organization": "シンガポール法務省公的信託局 (PTO)",
+          "title": "Public Trustee’s Office - Estate Administration for Solo Seniors",
+          "url": "https://pto.mlaw.gov.sg"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "州立信託公社（State Trustees / Public Trustee）による包括受託サービス",
+        "statusOrLevel": "公的トラスティによる生前資産管理・遺言作成・死後葬儀事務の公的保障",
+        "keyFeature": "身元保証人や家族がいない高齢者のために、公的信託機関が法的保護者兼死後事務執行者として機能。",
+        "source": {
+          "organization": "ビクトリア州立信託公社 (State Trustees Victoria)",
+          "title": "Enduring Power of Attorney and Estate Administration Services",
+          "url": "https://www.statetrustees.com.au"
+        }
+      }
+    ]
+  }
 }

@@ -205,5 +205,102 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "HeartHandshake"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における不登校・オルタナティブスクール・ホームスクーリング公費支援法制比較",
+    "comparisonSummary": "学校に通えない児童生徒の急増に対し、英米独仏などではフリースクール・オルタナティブ教育機関への公費（バウチャー等）支援、オンライン公立校の拡充、ホームスクーリングの権利承認と質保証が制度化されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "教育バウチャー（School Choice / Education Savings Accounts: ESA）及びチャータースクール",
+        "statusOrLevel": "公費（州教育予算）をオルタナティブ校・フリースクール・オンライン校へ直接移転",
+        "keyFeature": "公立校に適応できない生徒のために、生徒1人あたり年間数千ドル〜1万ドル超の公費バウチャーを民間オルタナティブ校やホームスクール費用として給付。",
+        "source": {
+          "organization": "米国教育省 (U.S. Department of Education)",
+          "title": "School Choice and Alternative Education Options",
+          "url": "https://www.ed.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "オルタナティブ・プロビジョン（Alternative Provision: AP）公費全額支援",
+        "statusOrLevel": "地方自治体（LEA）による不登校・病気児童向け民間施設・特別校の授業料全額負担",
+        "keyFeature": "公立校に通学困難な生徒に対し、教育省認定のAP施設やフリースクールが教育を提供し、費用は自治体が公費で100%支給。",
+        "source": {
+          "organization": "英国教育省 (DfE)",
+          "title": "Alternative provision statutory guidance for local authorities",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "家庭学習（Instruction en famille: IEF）認可制及び国立遠隔教育センター（CNED）",
+        "statusOrLevel": "国の公的機関CNEDによる完全無料の在宅遠隔学習プログラムと正規単位認定",
+        "keyFeature": "病気や心理的困難により登校できない児童生徒に対し、文部科学省直属のCNEDが国定カリキュラムを在宅配信し、学習権を保障。",
+        "source": {
+          "organization": "フランス国民教育・青少年省 (MENJ) / CNED",
+          "title": "Instruction en famille et scolarité adaptée avec le CNED",
+          "url": "https://www.education.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "各州学校法（Schulgesetz）自由オルタナティブ学校（Freie Alternativschulen）公費助成",
+        "statusOrLevel": "認可された私立・オルタナティブ学校に対する運営費の大部分（60〜80%）を公費補填",
+        "keyFeature": "就学義務（Schulpflicht）を維持しつつ、公立校になじめない子どものためにモンテッソーリやシュタイナー等の認可校に公的補助金を交付。",
+        "source": {
+          "organization": "各州文部大臣会議 (KMK)",
+          "title": "Finanzierung von Schulen in freier Trägerschaft",
+          "url": "https://www.kmk.org"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "特別支援学校及び柔軟学習センター（Flexible Learning Centres: FLC）",
+        "statusOrLevel": "学校教育からドロップアウトした青少年のための公的助成型オルタナティブハブ",
+        "keyFeature": "連邦・州政府の教育助成金を受け、少人数制でメンタルヘルス支援と職業訓練を組み合わせた無償プログラムを提供。",
+        "source": {
+          "organization": "豪州教育省 (Department of Education)",
+          "title": "Supporting students at risk of disengaging from education",
+          "url": "https://www.education.gov.au"
+        }
+      },
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "基礎教育法（Basic Education Act）柔軟基礎教育（JOPO）モデル",
+        "statusOrLevel": "不登校傾向の生徒に対する少人数クラス・作業所体験・個別メンター公費配置",
+        "keyFeature": "落第や不登校を防ぐため、一般校内に少人数の活動中心型クラスを設置し、自治体の公費で専任教員とソーシャルワーカーを配置。",
+        "source": {
+          "organization": "フィンランド国家教育庁 (OPH)",
+          "title": "Flexible basic education (JOPO) for students at risk",
+          "url": "https://www.oph.fi"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "文部科学省「COCOLOプラン」（誰一人取り残されない学びの保障に向けた不登校対策）",
+        "statusOrLevel": "校内教育支援センター（スペシャルサポートルーム）設置補助と民間フリースクール利用料補助モデル事業",
+        "keyFeature": "不登校児童生徒急増に対し、学びの多様化学校（いわゆる不登校特例校）の全国設置や自治体によるフリースクール利用者助成を支援。",
+        "source": {
+          "organization": "文部科学省",
+          "title": "誰一人取り残されない学びの保障に向けた不登校対策（COCOLOプラン）",
+          "url": "https://www.mext.go.jp"
+        }
+      }
+    ]
+  }
 }

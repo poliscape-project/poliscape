@@ -205,5 +205,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "FileCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における公共・民間中高層建築物の木材利用促進・炭素固定法制比較",
+    "comparisonSummary": "建築分野のカーボンニュートラル達成に向け、CLT（直交集成板）等を活用した中高層ビルの木造化に関し、フランスの公共建築50%木材義務や米国の国際建築基準（IBC）木造高層解禁など、積極的な法制化が進んでいます。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "環境建築規制RE2020及び公共調達バイオ素材50%義務化",
+        "statusOrLevel": "国・公共機関が発注する新規建築物における木材等バイオマス素材50%以上使用義務",
+        "keyFeature": "建築物のライフサイクル炭素排出量を法規制し、コンクリートや鉄骨から国産木材への転換を公的建築から義務化。",
+        "source": {
+          "organization": "フランス生態系移行省 (MTE)",
+          "title": "Réglementation environnementale RE2020 et bois construction",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国際建築基準（IBC）改定及び木材イノベーション法（Timber Innovation Act）",
+        "statusOrLevel": "マス・ティンバー（CLT工法）による最大18階建て木造建築の基準認可",
+        "keyFeature": "連邦農務省林野局（USFS）が助成金を支給し、耐火性能を立証した大規模木造高層ビルの建設ラッシュを全米で後押し。",
+        "source": {
+          "organization": "米国農務省林野局 (USFS)",
+          "title": "Wood Innovations and Mass Timber Construction Program",
+          "url": "https://www.fs.usda.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦木材建築イニシアチブ（Holzbauinitiative des Bundes）",
+        "statusOrLevel": "連邦・州モデル建築令（MBO）における木造高層建築（ビルクラス5）の全面解禁",
+        "keyFeature": "木造建築の構造・防火基準を合理化し、都市部での中高層集合住宅やオフィスの木造化を推進する包括行動計画を閣議決定。",
+        "source": {
+          "organization": "連邦住宅・都市開発・建築省 (BMWSB)",
+          "title": "Holzbauinitiative der Bundesregierung für klimafreundliches Bauen",
+          "url": "https://www.bmwsb.bund.de"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "グリーン建設木材プログラム（GCWood）及び国家建築コード（NBC）",
+        "statusOrLevel": "高層木造建築物（Encapsulated Mass Timber）の12階まで標準認可",
+        "keyFeature": "林業大国として国産木材の炭素貯留効果を評価し、世界最高峰の木造高層タワープロジェクトに連邦資金を提供。",
+        "source": {
+          "organization": "カナダ天然資源省 (NRCan)",
+          "title": "Green Construction through Wood (GCWood) Program",
+          "url": "https://natural-resources.canada.ca"
+        }
+      },
+      {
+        "country": "オーストリア",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "systemName": "森林基金法（Waldfondsgesetz）木造建築推進枠組み",
+        "statusOrLevel": "世界最先端のCLT技術輸出と公共施設・幼稚園・学校の木造化標準モデル",
+        "keyFeature": "徹底した地域持続可能森林認証材の使用と、炭素固定プレミアムによる木造建築補助金を提供。",
+        "source": {
+          "organization": "オーストリア連邦農業・森林・地域自治・水資源省 (BML)",
+          "title": "Holzbauoffensive im Rahmen des Waldfonds",
+          "url": "https://info.bml.gv.at"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "脱炭素社会の実現に資する等のための建築物等における木材の利用の促進に関する法律",
+        "statusOrLevel": "対象を公共建築物から民間建築物へ全面拡大・建築物木材利用促進協定制度",
+        "keyFeature": "都市部での「ウッド・チェンジ」を推進するため、建築基準法の防火・耐火規制を合理化し民間ビルの木造化を優遇。",
+        "source": {
+          "organization": "林野庁 / 国土交通省",
+          "title": "建築物木材利用促進法の概要と優良木造建築事例",
+          "url": "https://www.rinya.maff.go.jp"
+        }
+      }
+    ]
+  }
 }

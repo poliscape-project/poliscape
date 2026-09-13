@@ -211,5 +211,89 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Wallet"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における国際海底光ファイバーケーブル陸揚げ拠点（CLS）の分散・安全保障法制比較",
+    "comparisonSummary": "地政学的リスクや自然災害による通信途絶を防ぐため、主要海洋国家では海底ケーブル陸揚げ局（CLS）の特定地域集中を是正し、複数ルート（太平洋・大西洋・北極海・日本海等）の分散整備と重要インフラ防衛法制を推進しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "チーム・テレコム（Team Telecom / FCC）海底ケーブル認可安全保障審査",
+        "statusOrLevel": "国家安全保障リスクに基づく着岸ルート審査と地理的冗長性確保の義務付け",
+        "keyFeature": "特定海域や敵対国の支配下にある企業が関与するケーブルルートを排除し、東西両海岸の複数陸揚げ局へのトラフィック分散を推進。",
+        "source": {
+          "organization": "連邦通信委員会 (FCC)",
+          "title": "Submarine Cable Landing Licenses and National Security Review",
+          "url": "https://www.fcc.gov"
+        }
+      },
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州海底インフラ勧告（European Subsea Cable Infrastructure Recommendation）",
+        "statusOrLevel": "重要海底ケーブルの安全保障・地理的冗長化ロードマップ（Global Gateway）",
+        "keyFeature": "地中海・バルト海・大西洋ルートの脆弱性分析を実施し、重要CLSのサイバー・物理防衛と共同資金支援を展開。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Recommendation on secure and resilient submarine cable infrastructures",
+          "url": "https://digital-strategy.ec.europa.eu"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国家安全保障・投資法（NSI Act）及び重要国家インフラ（CNI）保護枠組み",
+        "statusOrLevel": "海底ケーブル陸揚げ局の重要国家インフラ指定・沿岸防衛配備",
+        "keyFeature": "コーンウォール等の一部地域集中を避けるため、スコットランドやイングランド北部への新規着岸を支援し国防省と連携監視。",
+        "source": {
+          "organization": "英国政府科学・イノベーション・技術省 (DSIT)",
+          "title": "Subsea telecoms cables national resilience and security",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "電気通信法（Telecommunications Act 1997）海底ケーブル保護区制度",
+        "statusOrLevel": "シドニー・パース等に保護区（Protection Zones）を指定し船舶投錨・漁業を厳格規制",
+        "keyFeature": "ダーウィン等北部地域への新規陸揚げを推進し、アジア・太平洋間の通信ルート多重化と強靭化を国家戦略として支援。",
+        "source": {
+          "organization": "豪州通信メディア庁 (ACMA)",
+          "title": "Submarine cable protection zones and regulations",
+          "url": "https://www.acma.gov.au"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "デジタル接続性ブループリント（Digital Connectivity Blueprint）",
+        "statusOrLevel": "アジアの海底ケーブルハブ強化と陸揚げ局の分散・多重接続",
+        "keyFeature": "今後10年で海底ケーブルの陸揚げ局数を倍増させ、島内の異なる東西南北のエリアに分散配置して単一障害点（SPOF）を排除。",
+        "source": {
+          "organization": "情報通信メディア開発庁 (IMDA)",
+          "title": "Digital Connectivity Blueprint and Subsea Cable Investments",
+          "url": "https://www.imda.gov.sg"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "国家海洋安全保障戦略（SNMS）海底インフラ防衛計画",
+        "statusOrLevel": "マルセイユハブの過密対策と大西洋沿岸（ボルドー等）への陸揚げ分散",
+        "keyFeature": "海軍による海底ケーブル・パイプラインの巡視活動を強化し、重要陸揚げ局への物理的アクセス規制と冗長回線整備を支援。",
+        "source": {
+          "organization": "フランス国防省 / 海洋総事務局 (SGMer)",
+          "title": "Stratégie ministérielle de maîtrise des fonds marins",
+          "url": "https://www.defense.gouv.fr"
+        }
+      }
+    ]
+  }
 }

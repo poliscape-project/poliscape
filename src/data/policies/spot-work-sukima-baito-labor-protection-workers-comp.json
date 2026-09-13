@@ -211,5 +211,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "ShieldAlert"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国におけるオンデマンド・プラットフォーム労働者の労働者性認定と即時労災補償法制比較",
+    "comparisonSummary": "アプリ仲介による単発労働（ギグ・スポットワーク）の急増に対し、欧州連合（EU）のプラットフォーム労働指令や英国のワーカー区分、米国各州のABCテストなど、労働者性の推定とデジタル即時労災・社会保険適用の義務化が進んでいます。",
+    "countries": [
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "プラットフォーム労働指令（Platform Work Directive）",
+        "statusOrLevel": "労働者性の法的推定（アルゴリズム管理下のギグワーカーを原則労働者と見なす法制）",
+        "keyFeature": "アプリによる業務割り当てや評価・監視がある場合、企業側に反証責任を課し原則として雇用契約・労災保障・有給休暇を保障。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Platform work directive agreement",
+          "url": "https://ec.europa.eu"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "最高裁判決に基づくワーカー（Worker）区分と最低賃金・労災適用",
+        "statusOrLevel": "自営業と正社員の中間区分「Worker」認定による最低賃金・休暇手当保障",
+        "keyFeature": "アプリ配車や即時配達労働者を独立請負人ではなくワーカーと認定。アプリログイン待機時間を含めた最低賃金支払いを義務付け。",
+        "source": {
+          "organization": "英国政府 (GOV.UK)",
+          "title": "Employment status and Worker rights",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "カリフォルニア州Prop 22及び連邦DOL独立請負人判断新ルール",
+        "statusOrLevel": "経済的現実テスト（Economic Reality Test）による誤分類（Misclassification）是正",
+        "keyFeature": "連邦労働省は企業への依存度を多角的に評価。州レベルではプラットフォーム企業に傷害保険と医療手当の拠出を義務付け。",
+        "source": {
+          "organization": "米国労働省 (U.S. Department of Labor)",
+          "title": "Independent Contractor Rule under the FLSA",
+          "url": "https://www.dol.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "労働法典（Code du travail）プラットフォーム労働者の社会的責任法",
+        "statusOrLevel": "アプリ労働者の労災事故補償保険料の企業全額負担義務化",
+        "keyFeature": "独立事業者であっても、プラットフォーム側が労災保険料を負担する義務や、集団的労使交渉を行う権利（ARPE設立）を明記。",
+        "source": {
+          "organization": "フランス労働省 (Ministère du Travail)",
+          "title": "Régulation des plateformes d’emploi et protection sociale",
+          "url": "https://travail-emploi.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "労働公正法（Fair Work Act - Closing Loopholes）従業員類似労働者保護",
+        "statusOrLevel": "公正労働委員会（FWC）によるギグワーカー向け最低基準設定権限の付与",
+        "keyFeature": "プラットフォーム仲介で働くデジタル労働者に対し、最低報酬基準、保険保護、不当アカウント停止からの救済手続きを新設。",
+        "source": {
+          "organization": "豪州公正労働委員会 (Fair Work Ombudsman)",
+          "title": "Regulating employee-like workers and digital platforms",
+          "url": "https://www.fairwork.gov.au"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "プラットフォーム労働者法（Platform Workers Act 2024）",
+        "statusOrLevel": "プラットフォーム労働者専用の労災補償（WICA準拠）と中央積立基金（CPF）義務化",
+        "keyFeature": "配達員や運転手を正社員と同等の労災補償枠組みに組み入れ、事故時の即時医療費給付と所得補償を企業に義務付け。",
+        "source": {
+          "organization": "シンガポール人材開発省 (MOM)",
+          "title": "Platform Workers Act and Protections",
+          "url": "https://www.mom.gov.sg"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "産業災害補償保険法・労務提供者特例",
+        "statusOrLevel": "アプリ仲介プラットフォーム労働者への産業災害補償保険（労災）専属制要件の廃止・全員適用",
+        "keyFeature": "単一アプリ専属でなくても複数アプリを掛け持ちするスポット労働者を労災保険の強制適用対象とし、保険料を労使折半。",
+        "source": {
+          "organization": "韓国雇用労働部 (MOEL)",
+          "title": "Industrial Accident Compensation Insurance for Platform Workers",
+          "url": "https://www.moel.go.kr"
+        }
+      }
+    ]
+  }
 }

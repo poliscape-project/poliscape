@@ -179,5 +179,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における暗号化通信・メッセンジャーに対する司法捜査権限・傍受法制比較",
+    "comparisonSummary": "SignalやTelegram等の端末間暗号化アプリを用いた匿名犯罪指示の急増に対し、英米仏豪などでは裁判所の令状に基づく合法傍受アクセス（Lawful Intercept）、機器介入捜査（デバイス・ハッキング）、暗号鍵開示命令が法制化されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "通信支援法（CALEA）及び連邦刑事訴訟規則第41条（遠隔捜索令状）",
+        "statusOrLevel": "令状に基づくリモートデバイスアクセス捜査（Network Investigative Technique: NIT）",
+        "keyFeature": "暗号化通信の途絶を防ぐため、被疑者の端末自体に令状に基づき合法的にマルウェア等を送り込み、平文データの取得を許可。",
+        "source": {
+          "organization": "米国司法省 (DOJ) / FBI",
+          "title": "Rule 41 and Remote Electronic Search Authority",
+          "url": "https://www.justice.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "捜査権限法（Investigatory Powers Act 2016: 通称Snoopers’ Charter）",
+        "statusOrLevel": "機器介入（Equipment Interference）及び技術支援通知（TCN）",
+        "keyFeature": "内務大臣と司法委員の二重承認（Double Lock）のもと、通信事業者に対する暗号解除機能の維持要求や端末への直接ハッキング捜査を公認。",
+        "source": {
+          "organization": "英国政府内務省 (Home Office)",
+          "title": "Investigatory Powers Act notices and equipment interference codes",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "電気通信・その他法改正（支援・アクセス）法（TOLA Act 2018）",
+        "statusOrLevel": "世界で最も強力な通信事業者に対する暗号化解読支援命令（TAN/TCN）",
+        "keyFeature": "国内外のハイテク企業に対し、法執行機関が暗号化されたメッセージを復号するための技術的アクセス支援を強制できる権限を規定。",
+        "source": {
+          "organization": "豪州内務省 (Department of Home Affairs)",
+          "title": "Telecommunications and Other Legislation Amendment (Assistance and Access) Act",
+          "url": "https://www.homeaffairs.gov.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "刑事訴訟法第706条（組織犯罪における電子的捕獲権限）及び司法正義法",
+        "statusOrLevel": "被疑者のスマートフォン等のカメラ・マイク・GPSの遠隔起動捜査の合法化",
+        "keyFeature": "組織犯罪やテロ捜査において、裁判官の厳格な許可のもと、被疑者端末のセンサーや通信を遠隔操作して盗聴・位置特定を行う法制を整備。",
+        "source": {
+          "organization": "フランス司法省 (Ministère de la Justice)",
+          "title": "Dispositions relatives aux interceptions judiciaires et captations techniques",
+          "url": "https://www.justice.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "刑事訴訟法（StPO）第100条b（情報技術システム遠隔捜索・発信元通信傍受）",
+        "statusOrLevel": "連邦トロイの木馬（Staatstrojaner）を用いたエンドツーエンド暗号化前の平文傍受",
+        "keyFeature": "重大犯罪捜査において、連邦憲法裁判所の判例に準拠した厳格な比例原則の下で端末侵入型ソフトウェアの使用を限定的に認可。",
+        "source": {
+          "organization": "連邦法務省 (BMJ)",
+          "title": "Quellen-Telekommunikationsüberwachung (Quellen-TKÜ) im Strafverfahren",
+          "url": "https://www.bmj.de"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "犯罪捜査のための通信傍受に関する法律（通信傍受法）現行枠組み",
+        "statusOrLevel": "通信事業者の施設内での立ち会いを要する有線通信・従来型電波傍受が主軸",
+        "keyFeature": "暗号化メッセージアプリへの直接介入権限がなく、トクリュウ等の迅速な捜査に向けた法改正・新技術導入の是非が議論中。",
+        "source": {
+          "organization": "法務省 / 警察庁",
+          "title": "通信傍受法の運用状況及び組織犯罪対策",
+          "url": "https://www.moj.go.jp"
+        }
+      }
+    ]
+  }
 }

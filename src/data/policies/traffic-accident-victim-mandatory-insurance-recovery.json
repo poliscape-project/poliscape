@@ -225,5 +225,89 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Car"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における自動車強制賠償責任保険（自賠責）制度と重度被害者恒久救済基金比較",
+    "comparisonSummary": "交通事故による重度後遺障害者（遷延性意識障害等）の生涯ケアやひき逃げ・無保険車事故被害者救済のため、主要国では強制保険料への賦課金上乗せや国家補償基金による恒久的な生活・介護支援枠組みが運営されています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "強制保険保証基金（FGAO: Fonds de Garantie des Assurances Obligatoires）",
+        "statusOrLevel": "自動車保険料への賦課金（1.2%等）を原資とする無保険・ひき逃げ完全補償と重度被害者支援",
+        "keyFeature": "加害者が不明または無資力の場合でも、FGAOが被害者に対し医療費・介護費・生涯休業損害を全額肩代わり補償。",
+        "source": {
+          "organization": "フランス保証基金 (FGAO) / 経済・財務省",
+          "title": "Indemnisation des victimes d’accidents de la circulation (FGAO)",
+          "url": "https://www.fondsdegarantie.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "自動車保険者局（MIB: Motor Insurers’ Bureau）未追跡・無保険運転者協定",
+        "statusOrLevel": "全自動車保険会社からの拠出金による被害者への直接補償基金運営",
+        "keyFeature": "保険料の一部が自動的にMIBにプールされ、重度障害を負った事故被害者へのリハビリ支援や生涯介護手当を確実に支給。",
+        "source": {
+          "organization": "英国自動車保険者局 (MIB) / 運輸省 (DfT)",
+          "title": "Compensation for victims of uninsured and untraced hit-and-run drivers",
+          "url": "https://www.mib.org.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "強制保険法（PflVG）及び Verkehrsopferhilfe（交通被害者援助機関: VOH）",
+        "statusOrLevel": "自動車損保全社による共同基金（VOH）を通じた公的補償水準を超える救済",
+        "keyFeature": "加害者不在の事故でも法定義務額と同等の補償を提供し、重度後遺障害者への長期介護施設補助を実施。",
+        "source": {
+          "organization": "ドイツ損害保険協会 (GDV) / VOH",
+          "title": "Verkehrsopferhilfe e.V. Entschädigungsfonds für Verkehrsopfer",
+          "url": "https://www.verkehrsopferhilfe.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家障害保険制度（NDIS）及び重度障害者自動車事故生涯ケア（Lifetime Care Scheme）",
+        "statusOrLevel": "無過失責任（No-Fault）による全重度事故後遺障害者への生涯医療・介護給付",
+        "keyFeature": "加害者の過失の有無を問わず、自賠責登録料に上乗せされた基金から生涯にわたる住宅改修、訪問介護、リハビリ費用を無制限支給。",
+        "source": {
+          "organization": "NSW州保険規制庁 (SIRA) / Lifetime Care",
+          "title": "Lifetime Care and Support Scheme for severe motor accident injuries",
+          "url": "https://www.sira.nsw.gov.au"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ミシガン州破滅的傷害補償協会（MCCPA）及び各州無保険運転者基金",
+        "statusOrLevel": "無過失自動車保険（No-Fault PIP）に基づく生涯医療費・重度傷害補償基金",
+        "keyFeature": "州内の全車両保有者から年次賦課金を徴収し、脊髄損傷や重度脳損傷を負った事故被害者の医療・介護費を生涯全額保障。",
+        "source": {
+          "organization": "ミシガン州破滅的傷害協会 (MCCA) / 保険金融サービス局 (DIFS)",
+          "title": "Michigan Catastrophic Claims Association and PIP Medical Benefits",
+          "url": "https://www.michigancatastrophic.org"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "自動車損害賠償保障法改正（2023年施行・被害者保護増進等事業）",
+        "statusOrLevel": "自賠責保険料に賦課金（1台あたり年間最大150円程度）を恒久的に新設上乗せ",
+        "keyFeature": "過去に国の一般会計へ繰り入れられた積立金問題を踏まえ、療護施設の運営や在宅介護料支給などの被害者救済事業の恒久財源を法制化。",
+        "source": {
+          "organization": "国土交通省",
+          "title": "自動車事故被害者救済制度と被害者保護増進等事業",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

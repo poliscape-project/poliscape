@@ -205,5 +205,102 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Sparkles"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国におけるステルスマーケティング規制と消費者保護執行体制比較",
+    "comparisonSummary": "SNSや口コミサイトにおけるPR隠しに対し、米国FTCの開示ガイドラインやEUの不公正商取引指令など、広告である旨の明瞭な事前開示（#Ad、#Sponsored）と違反事業者・仲介代理店への高額課徴金制度が整備されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "FTC法第5条及びインフルエンサー開示ガイドライン（Guides Concerning Endorsements）",
+        "statusOrLevel": "明確かつ目立つ開示（Clear & Conspicuous）の義務化・巨額民事制裁金",
+        "keyFeature": "金銭授受だけでなく無料商品の提供でも広告開示を義務付け。InstagramやTikTokのスクロール前「冒頭」への明記を徹底。",
+        "source": {
+          "organization": "連邦取引委員会 (FTC)",
+          "title": "Guides Concerning the Use of Endorsements and Testimonials in Advertising",
+          "url": "https://www.ftc.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "消費者権利法及び広告基準協議会（ASA/CAP）インフルエンサーガイダンス",
+        "statusOrLevel": "広告表示ルール厳格運用（#Ad表示の義務化と不実表示摘発公表）",
+        "keyFeature": "ASAはSNSクローラーAIを用いてステマを24時間自動監視。違反インフルエンサーの名前と広告主を専用ブラックリストで公表。",
+        "source": {
+          "organization": "英国広告基準協議会 (ASA) / 競争・市場庁 (CMA)",
+          "title": "Influencers guide to making clear that ads are ads",
+          "url": "https://www.asa.org.uk"
+        }
+      },
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "不公正商取引指令（UCPD）オムニバス指令アップデート",
+        "statusOrLevel": "検索結果の有料ランキング・偽レビュー偽装の全面禁止と課徴金（売上高最大4%）",
+        "keyFeature": "商品検索結果で広告掲載料が反映されている場合の開示義務、および消費者が実際に購入したか検証しないレビューの宣伝利用を禁止。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Unfair Commercial Practices Directive and Influencer Legal Hub",
+          "url": "https://ec.europa.eu"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "インフルエンサー商業活動規制法（Loi régissant l’influence commerciale）",
+        "statusOrLevel": "世界初の単独インフルエンサー法制定（最大2年の拘禁刑・30万ユーロ罰金）",
+        "keyFeature": "美容医療や金融暗号資産のステマ勧誘を全面禁止。写真や動画のフィルター・加工処理、AI生成についても明示を義務付け。",
+        "source": {
+          "organization": "フランス経済・財務省 (DGCCRF)",
+          "title": "Régulation des influenceurs commerciaux sur les réseaux sociaux",
+          "url": "https://www.economie.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "不正競争防止法（UWG）第5条a（商業的意図の隠蔽禁止）",
+        "statusOrLevel": "商業的意図の非開示に対する差止請求権および不当利得返還",
+        "keyFeature": "個人の純粋な推奨と商業広告の境界線を判例法で整理し、対価を得ている場合の冒頭「Werbung（広告）」表記を義務化。",
+        "source": {
+          "organization": "連邦司法省 (BMJ)",
+          "title": "Gesetz gegen den unlauteren Wettbewerb (UWG)",
+          "url": "https://www.bmj.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "豪州消費者法（ACL）およびACCCインフルエンサー調査枠組み",
+        "statusOrLevel": "誤認惹起行為（Misleading Conduct）に対する最大5,000万豪ドルの民事ペナルティ",
+        "keyFeature": "インフルエンサーと広告主企業双方に共同責任を課し、消費者を欺くPR投稿を摘発。",
+        "source": {
+          "organization": "豪州競争・消費者委員会 (ACCC)",
+          "title": "Social media influencers and misleading endorsements",
+          "url": "https://www.accc.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "表示・広告の公正化に関する法律（推薦・保証等審査指針）",
+        "statusOrLevel": "「裏広告（ドィッコァンゴ）」の厳格禁止・プラットフォーム共同監視",
+        "keyFeature": "YouTubeやInstagramでの対価授受の明記位置をタイトル冒頭や動画内に常時表示するよう義務付け。",
+        "source": {
+          "organization": "韓国公正取引委員会 (KFTC)",
+          "title": "Guidelines for Review of Recommendations and Endorsements in Advertising",
+          "url": "https://www.ftc.go.kr"
+        }
+      }
+    ]
+  }
 }

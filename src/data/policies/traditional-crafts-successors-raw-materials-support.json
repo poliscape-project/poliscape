@@ -186,5 +186,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Clock"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における伝統工芸・無形文化遺産（ICH）の原材料確保・後継者育成公的支援比較",
+    "comparisonSummary": "希少な天然原材料の枯渇や後継者不足に直面する伝統工芸に対し、フランスの無形文化財企業（EPV）や韓国の国家無形遺産伝承制度、イタリアのマエストロ制度など、原材料植林・調達補助と公的資格・給付金による手厚い保護が進められています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "無形文化財企業（EPV: Entreprise du Patrimoine Vivant）ラベル及びメートル・ダール制度",
+        "statusOrLevel": "職人見習い育成費用に対する特別税額控除及び国家最高職人称号の授与",
+        "keyFeature": "伝統的ノウハウを持つ企業を国家認定し、希少素材の調達や若い後継者の技術伝承に必要な人件費を税制・財政面で手厚く支援。",
+        "source": {
+          "organization": "フランス文化省 (Ministère de la Culture) / 経済省",
+          "title": "Label Entreprise du Patrimoine Vivant (EPV) et Métiers d’Art",
+          "url": "https://www.culture.gouv.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "無形遺産保全及び振興に関する法律・伝承者支援金制度",
+        "statusOrLevel": "国家無形遺産保有者（人間国宝）・伝承教育士への月額伝承支援金支給と原料銀行",
+        "keyFeature": "伝統工芸の原材料（韓紙、漆、天然染料等）の需給難を解消するため、政府が「伝統工芸原資材銀行」を運営し安定供給を保障。",
+        "source": {
+          "organization": "韓国国家遺産庁 (KHS)",
+          "title": "Intangible Cultural Heritage Transmission Support and Raw Material Supply Bank",
+          "url": "https://www.khs.go.kr"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "伝統工芸保護法（Legge sull’artigianato）及びマエストロ・ダルテ・エ・メスティエーレ（MAM）",
+        "statusOrLevel": "州政府による伝統工芸工房（Bottega storica）の賃料・設備補助及び原材料保護",
+        "keyFeature": "大理石、ベネチアンガラス、伝統皮革などの地域原材料産地を保護区指定し、見習い職人の育成期間中に公的奨学金を支給。",
+        "source": {
+          "organization": "イタリア文化省 (MiC) / コローニ財団",
+          "title": "Maestro d’Arte e Mestiere e tutela delle botteghe storiche",
+          "url": "https://cultura.gov.it"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ヘリテージ・クラフト協会（Heritage Crafts）絶滅危惧工芸レッドリスト",
+        "statusOrLevel": "危機的伝統工芸に対する政府・慈善基金による緊急技術伝承ファンド",
+        "keyFeature": "原材料不足や後継者不在で断絶の危機にある工芸（茅葺き、鍛冶、伝統製紙等）を科学的に特定し、直接的な研修助成金を交付。",
+        "source": {
+          "organization": "英国歴史的建造物・記念碑委員会 (Historic England) / Heritage Crafts",
+          "title": "Red List of Endangered Crafts and Training Bursaries",
+          "url": "https://historicengland.org.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "手工業法（HwO）に基づくマイスター（Meister）制度及び文化遺産保全助成",
+        "statusOrLevel": "徒弟制度（デュアルシステム）による伝統手工業後継者への公費教育・給付",
+        "keyFeature": "伝統木工、石工、楽器製作などの原材料（良質トーンウッド等）の持続可能森林保全とマイスター資格取得への無償支援。",
+        "source": {
+          "organization": "連邦教育・研究省 (BMBF) / ドイツ手工業中央連盟 (ZDH)",
+          "title": "Aufstiegs-BAföG für Handwerksmeister und Denkmalpflege",
+          "url": "https://www.bmbf.de"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "伝統的工芸品産業の振興に関する法律（伝産法）及び原材料確保緊急支援事業",
+        "statusOrLevel": "経済産業省・文化庁による漆の国産化推進（国宝修復用等）と後継者育成補助",
+        "keyFeature": "漆の木の植栽・ウルシ掻き技術者の育成支援や、和紙原料（コウゾ・ミツマタ）の生産者支援補助金を拡充。",
+        "source": {
+          "organization": "経済産業省 / 文化庁",
+          "title": "伝統的工芸品産業振興施策と原材料確保対策",
+          "url": "https://www.meti.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -225,5 +225,89 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "CreditCard"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における配車アプリ・タクシーのダイナミックプライシング及び相乗り運賃法制比較",
+    "comparisonSummary": "需給逼迫時の輸送力確保と利用者利便性向上のため、米国、シンガポール、英国などでは事前確定運賃（Upfront Fare）とアルゴリズムに基づく変動価格制（Surge Pricing）、相乗り（Carpooling）の全面解禁が進んでいます。",
+    "countries": [
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "陸上交通庁（LTA）ポイント・ツー・ポイント（P2P）輸送規制枠組み",
+        "statusOrLevel": "流しタクシー（メーター制）と配車アプリ（完全ダイナミック価格）の二元管理",
+        "keyFeature": "アプリ経由予約は需要に応じて価格が自動変動する事前確定運賃を公認。ピーク時のドライバー供給をインセンティブで喚起。",
+        "source": {
+          "organization": "シンガポール陸上交通庁 (LTA)",
+          "title": "Point-to-Point (P2P) Transport Regulatory Framework",
+          "url": "https://www.lta.gov.sg"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "各州公共事業委員会（CPUC等）TNC（移動ネットワーク企業）法制",
+        "statusOrLevel": "ダイナミックプライシング（Surge Pricing）及び相乗り（UberX Share等）の自由化",
+        "keyFeature": "非常事態宣言下の便乗値上げ禁止法（Price Gouging Law）による上限規制を設けつつ、日常運行での事前提示型変動運賃を完全容認。",
+        "source": {
+          "organization": "カリフォルニア州公共事業委員会 (CPUC)",
+          "title": "Transportation Network Companies (TNC) Regulation",
+          "url": "https://www.cpuc.ca.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ロンドン交通局（TfL）自家用有償運送（PHV）及び事前確定運賃規則",
+        "statusOrLevel": "ブラックキャブ（法定メーター）とPHV（アプリダイナミックプライシング）の併存",
+        "keyFeature": "乗車前にアプリ上で確定した料金が表示され利用者が合意した場合のみ変動運賃を適用。ボッタクリ防止の透明性を確保。",
+        "source": {
+          "organization": "ロンドン交通局 (TfL)",
+          "title": "Private hire vehicles and dynamic fare transparency",
+          "url": "https://tfl.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "ニューサウスウェールズ州ポイント・ツー・ポイント輸送法",
+        "statusOrLevel": "予約型タクシー・ライドシェアにおける完全価格自由化と事前提示義務",
+        "keyFeature": "予約時に最終確定金額を提示することを条件に、運賃上限規制を撤廃。配車待ち時間の短縮とドライバー収入向上を実現。",
+        "source": {
+          "organization": "NSW州ポイント・ツー・ポイント輸送委員会",
+          "title": "Fares and Fare Estimates for booked services",
+          "url": "https://www.pointtopoint.nsw.gov.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "交通法典（Code des transports）テヴヌー法・VTC規制及び相乗り優遇策",
+        "statusOrLevel": "VTCの事前確定変動運賃容認及び自治体による相乗り（Covoiturage）補助金",
+        "keyFeature": "一般タクシーのメーター制を維持しつつ、配車アプリの事前合意運賃を公認。日々の通勤相乗りには1回あたり数ユーロの国庫補助金を支給。",
+        "source": {
+          "organization": "フランス生態系移行省 (MTE)",
+          "title": "Régulation des VTC et Plan national covoiturage",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "旅客自動車運輸事業法（プラットフォームタクシー制度化）",
+        "statusOrLevel": "深夜時間帯・需給逼迫時の配車アプリ呼出料金彈力料金制（最大4倍）",
+        "keyFeature": "深夜のタクシー捕まらない問題を解消するため、事前確定型で迎車・呼出料をピーク時に引き上げる制度を国土交通部が導入。",
+        "source": {
+          "organization": "韓国国土交通部 (MOLIT)",
+          "title": "Platform Taxi Dynamic Call Surcharge System",
+          "url": "https://www.molit.go.kr"
+        }
+      }
+    ]
+  }
 }

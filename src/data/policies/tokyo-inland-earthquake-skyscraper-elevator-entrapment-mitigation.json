@@ -225,5 +225,89 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Layers"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における超高層ビル・集合住宅の地震・災害時エレベーター安全装置及び在宅避難継続性基準比較",
+    "comparisonSummary": "都市部の超高層ビルや集合住宅における大災害時の孤立・エレベーター閉じ込め防止に関し、日米台など地震多発国では地震時管制運転装置（P波感知）、非常用発電機の長期連続稼働基準、マンション単位での在宅避難備蓄計画が義務化されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ASME A17.1（エレベーター安全コード）耐震規定及びFEMA高層住宅ガイドライン",
+        "statusOrLevel": "地震多発地帯（カリフォルニア等）における地震センサー管制・非常電源連動",
+        "keyFeature": "地震動の初期微動（P波）を感知して最寄り階で自動停止・扉開放を義務化。非常用自家発電機による消防用エレベーターの72時間連続稼働を要求。",
+        "source": {
+          "organization": "連邦緊急事態管理局 (FEMA) / カリフォルニア州住宅・コミュニティ開発局",
+          "title": "Seismic Safety Provisions for Elevators and High-Rise Buildings",
+          "url": "https://www.fema.gov"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "建築技術規則建築設備編（昇降機安全規範）及び耐震設計規範",
+        "statusOrLevel": "超高層集合住宅における地震時管制運転装置の設置義務化及び避難所備蓄基準",
+        "keyFeature": "花蓮地震等の教訓から、タワーマンションにおける耐震スロッシング防止、非常用給水タンクと蓄電池の設置を推奨・指導。",
+        "source": {
+          "organization": "台湾内政部国土管理署",
+          "title": "Building Technical Regulations: Elevator Seismic Safety Standards",
+          "url": "https://www.nlma.gov.tw"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "NZ",
+        "systemName": "NZS 4332（エレベーター耐震規格）及び建築法（Building Act）",
+        "statusOrLevel": "クライストチャーチ地震後の超高層・集合住宅レジリエンス義務化",
+        "keyFeature": "建物の層間変形追従型ガイドレールやロープ外れ防止装置の装備を必須とし、停電時の低層階自動復帰バッテリーを標準化。",
+        "source": {
+          "organization": "ニュージーランド企業・イノベーション・雇用省 (MBIE)",
+          "title": "Building Code clause D2: Mechanical installations for lift safety",
+          "url": "https://www.building.govt.nz"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "建設庁（BCA）昇降機維持管理規則（Lift Maintenance Regulations）",
+        "statusOrLevel": "IoT遠隔常時監視システム（REM）による閉じ込め自動通報・遠隔救出",
+        "keyFeature": "高層住宅群（HDB）の全エレベーターにセンサーを配備し、運行異常や閉じ込めを中央監視センターで数秒以内に検知し自動レスキュー。",
+        "source": {
+          "organization": "シンガポール建設庁 (BCA)",
+          "title": "Periodic Maintenance and Remote Elevator Monitoring Regulations",
+          "url": "https://www.bca.gov.sg"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "高層建築安全法（Building Safety Act 2022）及び非常時避難計画",
+        "statusOrLevel": "超高層集合住宅における避難用エレベーター（Evacuation Lift）の設置義務",
+        "keyFeature": "災害時に消防隊および高齢者・移動制約者が安全に使用できる耐火・耐水性能付き非常用エレベーターの整備を義務付け。",
+        "source": {
+          "organization": "英国建築安全規制局 (BSR) / GOV.UK",
+          "title": "High-rise residential buildings safety and evacuation lifts standards",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "建築基準法施行令第129条の10（地震時管制運転装置設置義務）及び東京都在宅避難推進指針",
+        "statusOrLevel": "新設エレベーターへのP波感知管制運転装置義務化・タワマン防災認定制度",
+        "keyFeature": "首都直下地震を想定し、都内の高層マンションに非常用電源、携帯トイレ・食料の在宅避難備蓄、救出ツールの配備を促進。",
+        "source": {
+          "organization": "国土交通省 / 東京都防災会議",
+          "title": "超高層マンションにおける防災対策とエレベーター安全基準",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

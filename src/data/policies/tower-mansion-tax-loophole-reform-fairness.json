@@ -185,5 +185,89 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Scale"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における高層高級コンドミニアム・不動産課税・富裕層節税防止法制比較",
+    "comparisonSummary": "タワーマンション等の高層住宅における市場実勢価格と公的評価額の乖離を利用した相続税・資産税逃れに対し、各国では実勢価格連動の評価見直し、階層別補正率の導入、外国人・高額物件への特別付加税が課されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "各州固定資産評価システム及びニューヨーク市大邸宅税（Mansion Tax）",
+        "statusOrLevel": "実勢市場価格（Fair Market Value）連動課税及び高額取引特別税率（最大3.9%）",
+        "keyFeature": "高層階のプレミアム価格や眺望価値は日々の取引データに基づき自動的に固定資産税評価額に反映され、乖離が生じない仕組み。",
+        "source": {
+          "organization": "ニューヨーク州税務・財務省 (NYSDTF) / 市財務局",
+          "title": "Mansion Tax and Real Property Transfer Tax rates",
+          "url": "https://www.tax.ny.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "印紙税土地税（SDLT）高額住宅付加税及びカウンシル・タックス高額バンド",
+        "statusOrLevel": "高級ペントハウス・外国人購入者に対する重層的な付加課税（最大17%）",
+        "keyFeature": "高層高級住宅の取得時および保有時に実勢価値に応じた重課を実施し、タワマンによる富裕層の税逃れを抑制。",
+        "source": {
+          "organization": "英国歳入税関庁 (HMRC)",
+          "title": "Stamp Duty Land Tax higher rates for additional and high-value residential properties",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "不動産税法（Property Tax Act）年価値（Annual Value）累進課税制度",
+        "statusOrLevel": "高級コンドミニアム等の推定賃料価値に応じた最高32%の保有税累進課税",
+        "keyFeature": "高級高層レジデンスの保有者に対し、市場家賃相場（AV）に連動させた極めて高い累進税率を適用し投機・節税を防止。",
+        "source": {
+          "organization": "シンガポール内国歳入庁 (IRAS)",
+          "title": "Property tax rates and annual value assessment for residential properties",
+          "url": "https://www.iras.gov.sg"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "不動産富裕税（IFI: Impôt sur la fortune immobilière）",
+        "statusOrLevel": "純不動産資産130万ユーロ超の富裕層に対する実勢時価ベースの年次資産課税",
+        "keyFeature": "マンションの市場価値をそのまま申告・課税対象とし、公的評価との乖離による抜け穴を封じる包括資産税制。",
+        "source": {
+          "organization": "フランス公共財政総局 (DGFiP)",
+          "title": "Impôt sur la fortune immobilière (IFI) : déclaration et calcul",
+          "url": "https://www.impots.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "固定資産税改革（Grundsteuerreform）及び相続税法（ErbStG）時価評価原則",
+        "statusOrLevel": "連邦憲法裁判所判決に基づく不動産評価の市場実勢連動化（2025年施行）",
+        "keyFeature": "古い課税標準を廃止し、標準地価や建物の実態価値を反映した新評価方式へ完全移行し、不公平な低評価を是正。",
+        "source": {
+          "organization": "連邦財務省 (BMF)",
+          "title": "Die neue Grundsteuer: Reform der Bewertung",
+          "url": "https://www.bundesfinanzministerium.de"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "居住用の区分所有財産の評価に係る相続税評価基本通達改正（2024年1月施行）",
+        "statusOrLevel": "築年数・総階数・所在階・敷地持分比率を用いた「評価乖離率」補正係数（最低6割水準）の導入",
+        "keyFeature": "市場実勢価格と従来の相続税評価額の乖離（平均約3倍）を是正するため、高層階の評価額を実勢の最低60%まで引き上げ。",
+        "source": {
+          "organization": "国税庁",
+          "title": "居住用の区分所有財産の評価に係る評価基準の改正について",
+          "url": "https://www.nta.go.jp"
+        }
+      }
+    ]
+  }
 }

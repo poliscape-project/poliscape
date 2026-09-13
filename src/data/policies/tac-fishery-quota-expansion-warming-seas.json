@@ -205,5 +205,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "TrendingUp"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要海洋国家における漁獲可能量（TAC）・個別割当（IQ/ITQ）及び気候変動対応比較",
+    "comparisonSummary": "海水温上昇による魚種交替や回遊ルート変化に対応するため、欧米や豪州・NZでは個別譲渡可能割当（ITQ）の全魚種適用、科学的許容量に基づく動的TAC設定、魚種転換・新魚種適応支援が進められています。",
+    "countries": [
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "海洋資源法（Havressurslova）個別船舶割当（IVQ）及び北極海管理",
+        "statusOrLevel": "商業漁獲のほぼ100%を網羅する厳格なTACと電子ログブック（ERS）管理",
+        "keyFeature": "温暖化で北上するタイセイヨウダラ等の移動を海洋研究所がリアルタイムモニタリングし、TACを科学的知見に基づき即応改定。",
+        "source": {
+          "organization": "ノルウェー漁業総局 (Fiskeridirektoratet)",
+          "title": "Quotas and marine fisheries management",
+          "url": "https://www.fiskeridir.no"
+        }
+      },
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "共通漁業政策（CFP）及び最大持続生産量（MSY）アプローチ",
+        "statusOrLevel": "水揚げ義務（Landing Obligation：投棄禁止）と複数年多魚種管理計画",
+        "keyFeature": "温暖化による魚群移動に対応するため、加盟国間のTAC配分（相対的安定性）を科学的勧告に基づき毎年調整。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Common Fisheries Policy: TACs and quotas",
+          "url": "https://oceans-and-fisheries.ec.europa.eu"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "マグナソン・スティーブンス漁業保全管理法（MSA）年間漁獲限度（ACL）",
+        "statusOrLevel": "過剰漁獲の厳格禁止・気候レジリエント地域漁業管理協議会枠組み",
+        "keyFeature": "水温上昇により生息域が変化した魚種について、地域協議会が協力して越境配分枠を再計算する動的資源評価を導入。",
+        "source": {
+          "organization": "米国海洋大気庁 (NOAA Fisheries)",
+          "title": "Magnuson-Stevens Fishery Conservation and Management Act",
+          "url": "https://www.fisheries.noaa.gov"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "漁獲割当管理システム（QMS: Quota Management System）",
+        "statusOrLevel": "世界で最も進んだ包括的個別譲渡可能割当（ITQ）制度（100種以上を網羅）",
+        "keyFeature": "海洋生態系の変化に応じて年次総許容量（TACC）を迅速に見直し、漁業権の取引市場を通じて経営効率化と資源保護を両立。",
+        "source": {
+          "organization": "ニュージーランド第一次産業省 (MPI / Fisheries New Zealand)",
+          "title": "Quota Management System (QMS)",
+          "url": "https://www.mpi.govt.nz"
+        }
+      },
+      {
+        "country": "アイスランド",
+        "countryCode": "IS",
+        "flag": "🇮🇸",
+        "systemName": "漁業管理法（Fisheries Management Act）ITQシステム",
+        "statusOrLevel": "全商業魚種へのITQ完全適用と水産物加工副産物の100%完全活用モデル",
+        "keyFeature": "温暖化で近海に新来したサバ等の資源評価を迅速に行い、新規割当を設定して漁業者の収入源を多様化。",
+        "source": {
+          "organization": "アイスランド食品・農業・漁業省",
+          "title": "Fisheries Management in Iceland",
+          "url": "https://www.government.is"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "連邦水産管理法（Fisheries Management Act 1991）気候適応戦略",
+        "statusOrLevel": "水温上昇ホットスポット海域における適応的TAC（Adaptive TAC）導入",
+        "keyFeature": "南東部海域の急激な海水温上昇に対し、科学調査船による即時サンプリングを行い、生態系ベースの資源管理を実施。",
+        "source": {
+          "organization": "豪州漁業管理局 (AFMA)",
+          "title": "Commonwealth Fisheries Harvest Strategy Policy and Climate Adaptation",
+          "url": "https://www.afma.gov.au"
+        }
+      }
+    ]
+  }
 }

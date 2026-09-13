@@ -185,5 +185,89 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Layers"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における繊維廃棄物・ファストファッション規制と拡大生産者責任（EPR）比較",
+    "comparisonSummary": "衣料品の大量生産・大量廃棄による環境負荷を抑制するため、EUやフランスでは売れ残り新品衣類の破棄禁止、繊維拡大生産者責任（EPR）の導入、エコデザイン指令によるリサイクル性義務化が急速に法制化されています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "循環経済・廃棄物防止法（AGEC法）及びファストファッション課徴金法",
+        "statusOrLevel": "売れ残り新品衣類の廃棄・焼却の完全禁止と環境負荷ペナルティ（1着最大10ユーロ）",
+        "keyFeature": "アパレル企業に寄付またはリサイクルを義務付け。低価格大量生産の超ファストファッションブランドに対し環境負荷課徴金を課す世界初の法案を可決。",
+        "source": {
+          "organization": "フランス生態系移行省 (MTE)",
+          "title": "Loi AGEC: Interdiction de destruction des invendus textiles",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU持続可能で循環的な繊維戦略及び廃棄物枠組み指令（WFD）改定",
+        "statusOrLevel": "2025年からの繊維廃棄物分別回収の全加盟国義務化と全EU統一繊維EPR",
+        "keyFeature": "衣類メーカーに対し、販売量とリサイクル難易度に応じたEPR手数料を課し、循環型エコデザイン基準を満たさない製品の市場投入を制限。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "EU Strategy for Sustainable and Circular Textiles",
+          "url": "https://environment.ec.europa.eu"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "循環経済法（KrWG）適正配慮義務（Obhutspflicht）",
+        "statusOrLevel": "返品・売れ残り商品の廃棄実態に関する企業透明性・開示義務",
+        "keyFeature": "オンライン通販や大手アパレルに対し、返品された商品の廃棄率の開示を義務付け、再販・修繕への転換を強力に行政指導。",
+        "source": {
+          "organization": "連邦環境庁 (UBA)",
+          "title": "Bekämpfung der Vernichtung von Retouren und Neuwaren im Textilsektor",
+          "url": "https://www.umweltbundesamt.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "カリフォルニア州責任ある繊維回収法（SB 707 - Textile EPR Act）",
+        "statusOrLevel": "全米初の衣類・繊維製品拡大生産者責任（EPR）州法（2024年成立）",
+        "keyFeature": "アパレルブランドに対し生産者責任組織（PRO）への加入と、使用済み衣類の無料回収・リサイクルプログラムの全州展開を義務化。",
+        "source": {
+          "organization": "カリフォルニア州資源リサイクル局 (CalRecycle)",
+          "title": "Textile Recovery and Recycling Advisory Framework",
+          "url": "https://calrecycle.ca.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "全国衣料品リサイクルスキーム（Seamless）",
+        "statusOrLevel": "アパレル製品1点あたり4セントの自主拠出EPRスキーム（法制義務化移行前提）",
+        "keyFeature": "連邦環境省の支援のもと、ファッション業界が共同でリサイクル基金を設立。目標未達の場合は連邦法による強制課金へ移行。",
+        "source": {
+          "organization": "豪州気候変動・エネルギー・環境・水資源省 (DCCEEW)",
+          "title": "National Clothing Product Stewardship Scheme (Seamless)",
+          "url": "https://www.dcceew.gov.au"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "環境法典に基づく繊維リサイクル国家戦略及び修繕税率減税",
+        "statusOrLevel": "衣類・靴の修理サービスに対する付加価値税（VAT）半減税制",
+        "keyFeature": "消費者が衣類を捨てずに直して長く使うことを促すため、修繕費用のVATを大幅に引き下げ、循環経済を税制面から後押し。",
+        "source": {
+          "organization": "スウェーデン環境保護庁 (Naturvårdsverket)",
+          "title": "Textile waste prevention and VAT reduction on repairs",
+          "url": "https://www.naturvardsverket.se"
+        }
+      }
+    ]
+  }
 }

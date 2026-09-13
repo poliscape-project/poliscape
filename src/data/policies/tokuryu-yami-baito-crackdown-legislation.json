@@ -205,5 +205,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "HeartHandshake"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における匿名・流動型組織犯罪・デジタルリクルート詐欺・強盗対策法制比較",
+    "comparisonSummary": "SNSや暗号化メッセージアプリを通じて離合集散する匿名組織犯罪（トクリュウ・闇バイト）に対し、主要国では包括的組織犯罪処罰法（米RICO法等）の適用拡大、オンライン求人プラットフォームの本人確認義務、治安機関のデジタル潜入捜査権限が強化されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "RICO法（組織犯罪取締法）及び連邦通信品位法・求人詐欺対策",
+        "statusOrLevel": "頂上作戦・末端実行犯の犯行による首謀者への包括的共謀罪・重刑科刑",
+        "keyFeature": "組織の実体や階層が流動的であっても「犯罪事業体（Enterprise）」として認定し、末端のリクルート役や実行犯の犯罪事実で指示役を厳罰に処す。",
+        "source": {
+          "organization": "米国司法省 (DOJ)",
+          "title": "Racketeer Influenced and Corrupt Organizations (RICO) Act Prosecution Guidelines",
+          "url": "https://www.justice.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "重大組織犯罪法（Serious Crime Act）及び国家犯罪対策庁（NCA）デジタル捜査",
+        "statusOrLevel": "犯罪遂行を幇助・勧誘するオンライン通信行為そのものに対する重罰化",
+        "keyFeature": "SNS上での「高額即日バイト」等を装った強盗・詐欺実行犯の募集アカウントをNCAが即時特定・凍結する法執行を実施。",
+        "source": {
+          "organization": "英国国家犯罪対策庁 (NCA) / 内務省",
+          "title": "Serious and Organised Crime Strategy: Disrupting cyber-recruitment",
+          "url": "https://www.nationalcrimeagency.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "刑法第450条（犯罪共謀組織罪: Association de malfaiteurs）及び治安新法",
+        "statusOrLevel": "Telegram等の暗号化アプリ運営者・犯罪インフラ提供者に対する共犯捜査",
+        "keyFeature": "匿名アプリを用いた犯罪の指示・リクルートに対し、通信事業者やアプリ提供プラットフォームに対する司法的協力義務と刑事責任を厳格追及。",
+        "source": {
+          "organization": "フランス内務省 (Ministère de l’Intérieur)",
+          "title": "Lutte contre la criminalité organisée et cyber-délinquance",
+          "url": "https://www.interieur.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "刑法第129条（犯罪結成罪）及びネットワーク執行法（NetzDG）",
+        "statusOrLevel": "流動的犯罪グループに対する通信監視令状及び違法リクルート投稿の24時間以内削除",
+        "keyFeature": "物理的アジトを持たないデジタル組織であっても犯罪結成とみなし、プラットフォーム側に犯罪誘引コンテンツの即時削除を強制。",
+        "source": {
+          "organization": "連邦刑事庁 (BKA)",
+          "title": "Organisierte Kriminalität und Bekämpfung digitaler Rekrutierung",
+          "url": "https://www.bka.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "監視法改正（サイバー犯罪防止）法（SISA）及び組織犯罪情報法",
+        "statusOrLevel": "法執行機関による犯罪アプリ・アカウントのアカウント乗っ取り・データ修正権限",
+        "keyFeature": "オーストラリア連邦警察（AFP）が流動型犯罪組織の暗号化通信に介入し、指示役のアカウントを遠隔で無力化する先制的法執行を実施。",
+        "source": {
+          "organization": "豪州連邦警察 (AFP)",
+          "title": "Surveillance Legislation Amendment (Identify and Disrupt) Act",
+          "url": "https://www.afp.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "暴力行為等処罰法（犯罪団体等組織罪）及びボイスフィッシング特別捜査団",
+        "statusOrLevel": "闇バイトを通じた詐欺・強盗実行グループへの犯罪団体罪（死刑・無期懲役対象）適用",
+        "keyFeature": "単発のアルバイト応募であっても犯罪目的の認識がある場合は犯罪組織の構成員として最高刑で起訴する司法運用。",
+        "source": {
+          "organization": "韓国大検察庁 (SPO)",
+          "title": "Crackdown on Telecommunications Fraud and Recruited Criminal Networks",
+          "url": "https://www.spo.go.kr"
+        }
+      }
+    ]
+  }
 }

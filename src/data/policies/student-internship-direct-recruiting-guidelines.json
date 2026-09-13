@@ -205,5 +205,89 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "GraduationCap"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における大学インターンシップの単位認定・採用直結・学業両立ルール比較",
+    "comparisonSummary": "大学教育と企業の採用活動の接続において、欧米諸国では有給インターンの標準化と労働法適用、大学カリキュラムとの連動（単位化）が進む一方、過度な早期採用による学業阻害を防ぐ協約やガイドラインが整備されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "公正労働基準法（FLSA）主要受益者テスト（Primary Beneficiary Test）",
+        "statusOrLevel": "実質的就労を伴うインターンシップの有給義務化（最低賃金・残業代保障）",
+        "keyFeature": "研修が学生自身の教育のためか、企業の事業運営のためかを7項目で判定。採用選考直結型インターンは原則として正規の給与支払いが必須。",
+        "source": {
+          "organization": "米国労働省 (U.S. Department of Labor)",
+          "title": "Fact Sheet #71: Internship Programs Under the Fair Labor Standards Act",
+          "url": "https://www.dol.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "教育法典（Code de l’éducation）インターンシップ協定（Convention de stage）",
+        "statusOrLevel": "大学・学生・企業の3者協定義務化・2ヶ月超インターンの法定報酬義務",
+        "keyFeature": "大学の学位プログラムに組み込まれたインターンのみ合法。常勤代替を禁止し、授業期間中の過重労働を防ぐ上限時間規制を適用。",
+        "source": {
+          "organization": "フランス高等教育・研究省 (MESR)",
+          "title": "Encadrement des stages étudiants en entreprise",
+          "url": "https://www.enseignementsup-recherche.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "最低賃金法（MiLoG）における義務インターンと任意インターンの峻別",
+        "statusOrLevel": "大学規則に基づく必須実習（Pflichtpraktikum）と自由応募実習の法的区分",
+        "keyFeature": "3ヶ月を超える自由応募型インターンシップには法定最低賃金の支払いが義務付けられ、採用選考目的の安価な労働力化を防止。",
+        "source": {
+          "organization": "連邦労働社会省 (BMAS)",
+          "title": "Mindestlohn bei Praktika für Studierende",
+          "url": "https://www.bmas.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "全国最低賃金（NMW）法及び大学サンドイッチ・コース（Sandwich Year）",
+        "statusOrLevel": "大学3年次に1年間の企業就業を行う公的サンドイッチ研修の普及",
+        "keyFeature": "学生が大学在学中に本格的な有給就業を経験し、卒業後の内定（Return Offer）を獲得する制度が広く定着。",
+        "source": {
+          "organization": "英国政府 (GOV.UK)",
+          "title": "Employment rights and pay for student internships",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "就業統合学習（WIL: Work-Integrated Learning）国家枠組み",
+        "statusOrLevel": "大学教育課程と直結した職業体験学習の質保証基準",
+        "keyFeature": "大学が企業の受入プログラムを事前審査し、学期中の学業負担と両立するよう単位互換とメンター配置を義務付け。",
+        "source": {
+          "organization": "豪州高等教育品質基準機構 (TEQSA)",
+          "title": "Guidance Note: Work-Integrated Learning",
+          "url": "https://www.teqsa.gov.au"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "職業高等教育機構（MYH）LIA（Lärande i arbete：職場実習）モデル",
+        "statusOrLevel": "カリキュラムの約3分の1を企業実習に充てる官学協働プログラム",
+        "keyFeature": "実習先での高評価がそのまま卒業後の直接雇用につながる構造を国家的に確立し、ミスマッチのない若者就職を実現。",
+        "source": {
+          "organization": "スウェーデン職業高等教育庁 (MYH)",
+          "title": "Workplace training (LIA) in higher vocational education",
+          "url": "https://www.myh.se"
+        }
+      }
+    ]
+  }
 }

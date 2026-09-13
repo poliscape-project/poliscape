@@ -261,5 +261,89 @@
         "commentStandard": "「制度が整備されても、取引停止を恐れて値上げ協議を切り出せないサイレントな力関係は簡単には解消しない」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国における製造業サプライチェーン公正取引・買いたたき是正制度比較",
+    "comparisonSummary": "自動車や機械等の製造業サプライチェーンにおいて、親事業者が中小下請けに一方的な原価低減（値引き）を強いる慣行の打破に向け、主要国では独占禁止法や下請特別法に基づく指導と、価格連動契約の標準化が進められています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "サプライチェーン・デューデリジェンス法（LkSG）及び公正調達規範",
+        "statusOrLevel": "適正な調達価格の支払いを人権・サプライヤー保護の一環として企業に義務付け",
+        "keyFeature": "下請け企業が適正賃金を支払える調達価格を維持することを大企業のデューデリジェンス義務に含め、買いたたき構造を抑制。",
+        "source": {
+          "organization": "連邦経済・気候保護省 (BMWK)",
+          "title": "Lieferkettensorgfaltspflichtengesetz (LkSG)",
+          "url": "https://www.bmwk.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "小規模事業者法（Small Business Act）第8条（a）及び下請け公正条項",
+        "statusOrLevel": "連邦調達における中小製造業下請けへの適正価格保障と迅速支払い義務",
+        "keyFeature": "元請大企業に対し、中小下請企業への適正な支払条件と原材料高騰時の契約変更調整を義務付けるガイドラインを運用。",
+        "source": {
+          "organization": "米国中小企業庁 (SBA)",
+          "title": "Subcontracting Assistance Program and Prime Contracting Rules",
+          "url": "https://www.sba.gov"
+        }
+      },
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "遅延支払い指令（Late Payment Directive）見直し規則案",
+        "statusOrLevel": "企業間（B2B）支払期日の30日一律厳格義務化と下請保護強化",
+        "keyFeature": "買いたたきや支払いサイトの長期化による下請け企業の資金ショートを防ぐため、例外のない30日以内の現金決済を法制化。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Late payment regulation proposal for SME support",
+          "url": "https://ec.europa.eu"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "中小企業コミッショナー（Small Business Commissioner）紛争仲裁制度",
+        "statusOrLevel": "大企業の下請けいじめ・不当な値引き要求の調査・名指し是正勧告",
+        "keyFeature": "不当な価格引き下げや支払遅延を受けた中小サプライヤーが匿名で救済を申し立てられる独立機関を設置し迅速救済。",
+        "source": {
+          "organization": "英国政府中小企業コミッショナー (SBC)",
+          "title": "Resolving payment and fair contracting disputes for small businesses",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "下請取引公正化に関する法律（下請法）",
+        "statusOrLevel": "不当な下請代金決定・買いたたき行為に対する3倍の懲罰的損害賠償",
+        "keyFeature": "元請企業が合意なしに単価を引き下げたり、他社より著しく低い単価を強要した場合に原状回復と損害賠償を命じる厳格法制。",
+        "source": {
+          "organization": "韓国公正取引委員会 (KFTC)",
+          "title": "Fair Transactions in Subcontracting Act and Compliance Guidelines",
+          "url": "https://www.ftc.go.kr"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "公平交易法第25条（欺瞞的・著しく不公正な行為の禁止）",
+        "statusOrLevel": "ハイテクサプライチェーンにおける優越的地位濫用・コスト押し付けの摘発",
+        "keyFeature": "ファウンドリや部品調達において、優位にある調達元が中小サプライヤーに過度な値引きを強いる行為に行政罰金を科す。",
+        "source": {
+          "organization": "台湾公平交易委員会 (FTC)",
+          "title": "Fair Trade Act and Business Practices in Technology Supply Chains",
+          "url": "https://www.ftc.gov.tw"
+        }
+      }
+    ]
   }
 }

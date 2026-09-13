@@ -179,5 +179,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進海洋国家におけるTAC漁獲枠管理と電子モニタリング（EM）監視法制比較",
+    "comparisonSummary": "乱獲防止と水産資源の持続的維持に向け、国際的には科学的根拠に基づくTACの厳格設定、漁獲枠の個別割当（IQ/ITQ）、GPSおよびカメラ付き電子モニタリング（EM）による違法投棄防止が普及しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "マグナソン・スティーブンス法（MSA）年間漁獲上限（ACL）及びオブザーバー乗船義務",
+        "statusOrLevel": "全460超の連邦管理漁業資源に対する科学的ACLの完全設定・100%電子監視",
+        "keyFeature": "ACLを超過した場合の翌年枠強制削減（AM: Accountability Measures）と、アラスカ・太平洋沖合での全船AIカメラ監視を導入。",
+        "source": {
+          "organization": "米国海洋大気庁 (NOAA Fisheries)",
+          "title": "Status of U.S. Fisheries and Annual Catch Limits",
+          "url": "https://www.fisheries.noaa.gov"
+        }
+      },
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "海洋資源法（Marine Resources Act）沿岸警備隊・電子追跡（VMS）監視",
+        "statusOrLevel": "全漁船のリアルタイム位置追跡と水揚げデータの即時電送義務化",
+        "keyFeature": "漁獲物の海中投棄を重罪とし、混獲された魚も含めて全量を陸揚げさせて港湾で厳格に重量検量するシステムを確立。",
+        "source": {
+          "organization": "ノルウェー漁業総局 (Directorate of Fisheries)",
+          "title": "Electronic reporting systems and resource control",
+          "url": "https://www.fiskeridir.no"
+        }
+      },
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "漁業管理規則（Fisheries Control Regulation）改定法",
+        "statusOrLevel": "全規模の漁船（小規模船含む）に対するデジタル位置追跡・電子記録義務化",
+        "keyFeature": "重大違反に対する減点（ペナルティポイント）制度を設け、一定点数で漁獲ライセンスを一時停止・取消する厳格管理を実施。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Revision of the EU fisheries control system",
+          "url": "https://oceans-and-fisheries.ec.europa.eu"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "漁業法（Fisheries Act 1996）船上カメラ・全漁船GPS展開",
+        "statusOrLevel": "近海・遠洋全域における船上カメラ（On-board Cameras）による完全監視",
+        "keyFeature": "保護種の混獲や未報告漁獲をAI画像解析で自動検知し、持続可能な漁業枠組みの国際的透明性を担保。",
+        "source": {
+          "organization": "ニュージーランド第一次産業省 (MPI)",
+          "title": "On-board cameras for commercial fishing vessels",
+          "url": "https://www.mpi.govt.nz"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "漁業法（Fisheries Act）持続可能漁業枠組み（SFF）",
+        "statusOrLevel": "資源枯渇魚種の再生計画（Rebuilding Plans）策定義務化と先住民族割当枠",
+        "keyFeature": "プレコーショナリー（予防的）アプローチを採用し、資源量が限界基準点を下回った場合は即座にTACを大幅削減。",
+        "source": {
+          "organization": "カナダ水産海洋省 (DFO)",
+          "title": "Sustainable Fisheries Framework and Precautionary Approach",
+          "url": "https://www.dfo-mpo.gc.ca"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "漁業法等の一部を改正する等の法律（新漁業法）水産資源管理ロードマップ",
+        "statusOrLevel": "TAC対象魚種を漁獲量ベースで8割に拡大・IQ（個別割当）制度の順次導入",
+        "keyFeature": "マイワシ、マアジ、サバ類等へのTAC拡大に加え、沿岸漁船への電子報告（スマート水産業）普及を推進。",
+        "source": {
+          "organization": "水産庁",
+          "title": "新たな資源管理の推進に向けたロードマップ",
+          "url": "https://www.jfa.maff.go.jp"
+        }
+      }
+    ]
+  }
 }

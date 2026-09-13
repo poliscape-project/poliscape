@@ -217,5 +217,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における海底通信インフラの地方分散と地域ルート冗長化政策比較",
+    "comparisonSummary": "首都圏や太平洋沿岸へのインフラ集中による災害脆弱性を克服するため、地方港湾都市への陸揚げ拠点（CLS）誘致、データセンター（DC）との一体的整備、国家主導の補助金制度が主要国で展開されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ブロードバンド衡平・アクセス・普及（BEAD）プログラム及びミドルマイル助成金",
+        "statusOrLevel": "10億ドルの国家基金による地方陸揚げ局・基幹バックボーンの分散投資",
+        "keyFeature": "オレゴン州やノースカロライナ州など地方部への海底ケーブル着岸と、地方データセンタークラスターの形成を連邦資金で後押し。",
+        "source": {
+          "organization": "国家電気通信情報庁 (NTIA)",
+          "title": "Enabling Middle Mile Broadband Infrastructure Program",
+          "url": "https://www.ntia.gov"
+        }
+      },
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "国家データセンター戦略（Norwegian Data Centre Strategy）",
+        "statusOrLevel": "北極圏・フィヨルド地域への国際海底ケーブル直接陸揚げと再エネDC結合",
+        "keyFeature": "首都オスロ以外に、水力発電が豊富な地方沿岸部に海底ケーブルを引き込み、国際通信の完全多ルート化を達成。",
+        "source": {
+          "organization": "ノルウェー通信庁 (Nkom)",
+          "title": "National Subsea Cables and Electronic Communications Resilience",
+          "url": "https://nkom.no"
+        }
+      },
+      {
+        "country": "アイルランド",
+        "countryCode": "IE",
+        "flag": "🇮🇪",
+        "systemName": "国家ブロードバンド計画（National Broadband Plan）大西洋接続",
+        "statusOrLevel": "ダブリン一極集中から西海岸（コーク・キローグリン）への陸揚げ分散",
+        "keyFeature": "欧州と米国・英国を結ぶ大西洋横断ケーブルを西海岸の複数拠点に分散陸揚げし、国家通信網の耐災害性を向上。",
+        "source": {
+          "organization": "アイルランド環境・気候・通信省 (DECC)",
+          "title": "Subsea Telecommunications Cables Policy Framework",
+          "url": "https://www.gov.ie"
+        }
+      },
+      {
+        "country": "チリ",
+        "countryCode": "CL",
+        "flag": "🇨🇱",
+        "systemName": "フンボルト・ケーブルプロジェクト（Humboldt Subsea Cable）地方ハブ化",
+        "statusOrLevel": "南米とアジア・オセアニアを結ぶ新ルートのバルパライソ等への敷設",
+        "keyFeature": "地震多発国として首都圏依存を脱却し、地方港湾部に国際ケーブルを引き込み南米のデジタルゲートウェイを確立。",
+        "source": {
+          "organization": "チリ電気通信次官室 (SUBTEL)",
+          "title": "Proyecto de Cable Submarino Humboldt",
+          "url": "https://www.subtel.gob.cl"
+        }
+      },
+      {
+        "country": "ポルトガル",
+        "countryCode": "PT",
+        "flag": "🇵🇹",
+        "systemName": "シネス（Sines）デジタルグリーン大西洋ハブ構想",
+        "statusOrLevel": "リスボン近郊から地方港湾シネスへの大西洋・南米ケーブルの大規模分散移転",
+        "keyFeature": "深海港と太陽光・風力発電インフラを組み合わせ、欧州最大のグリーン陸揚げ局・データセンター拠点を新設。",
+        "source": {
+          "organization": "ポルトガル国家通信局 (ANACOM)",
+          "title": "Submarine cable stations and Atlantic connectivity",
+          "url": "https://www.anacom.pt"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "デジタル田園都市国家構想交付金・海底ケーブル地方分散補助事業",
+        "statusOrLevel": "日本海ルート新設（北海道・秋田・新潟・九州等）と地方CLS整備への財政支援",
+        "keyFeature": "東京湾・房総半島や志摩への一極集中リスクを是正するため、日本海側を周回する海底ケーブル網と地方拠点を整備。",
+        "source": {
+          "organization": "総務省",
+          "title": "海底ケーブルの地方分散・多ルート化の推進方針",
+          "url": "https://www.soumu.go.jp"
+        }
+      }
+    ]
+  }
 }

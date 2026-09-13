@@ -205,5 +205,89 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "TrendingDown"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における首都機能分散・地方移住インセンティブ・国土多極化政策比較",
+    "comparisonSummary": "大都市圏への過度な人口・経済集中を是正するため、主要国では首都機能の移転、地方移住者への直接給付金や住宅無償供与、地方拠点企業への税制優遇、連邦制的な多極分散国土計画が実行されています。",
+    "countries": [
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "国家均衡発展特別法・世宗特別自治市（行政中心複合都市）開発",
+        "statusOrLevel": "中央官庁の大規模地方移転及び地方創生交付金・公企業地方分散",
+        "keyFeature": "ソウル一極集中を打破するため、首相府や主要省庁を世宗市に移転。地方革新都市を造成し150以上の公共機関を地方へ強制移転。",
+        "source": {
+          "organization": "韓国地方時代委員会",
+          "title": "Special Act for Balanced National Development and Sejong Administrative City",
+          "url": "https://www.pcae.go.kr"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "領土結束庁（ANCT）「未来の小さな町（Petites villes de demain）」計画",
+        "statusOrLevel": "パリ集中是正のための地方中核都市再生・テレワーク移住税制優遇",
+        "keyFeature": "人口10万人未満の地方都市に数千億円を集中投資し、公共サービスと高速ネットを整備してパリからの若年世帯の移住を支援。",
+        "source": {
+          "organization": "フランス領土結束庁 (ANCT)",
+          "title": "Programme Petites villes de demain et revitalisation territoriale",
+          "url": "https://agence-cohesion-territoires.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "基本法第72条「生活諸条件の均等性（Gleichwertigkeit der Lebensverhältnisse）」",
+        "statusOrLevel": "連邦制による分散型国土構造（最高裁判所・中央銀行等の地方分散配置）",
+        "keyFeature": "首都ベルリンだけでなく、フランクフルト（金融）、カールスルーエ（司法）、ミュンヘン（産業）など国土全体に中枢機能が自然分散。",
+        "source": {
+          "organization": "連邦住宅・都市開発・建築省 (BMWSB)",
+          "title": "Gleichwertige Lebensverhältnisse in ganz Deutschland",
+          "url": "https://www.bmwsb.bund.de"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "国家復興・強靭化計画（PNRR）「1ユーロ住宅（Case a 1 euro）」及び地方移住基金",
+        "statusOrLevel": "過疎集落の再生と若者・テレワーカーの誘致に対する定住補助金給付",
+        "keyFeature": "過疎地域の空き家を名目的価格で譲渡し、リノベーション補助や一定年数居住を条件とする所得税控除を提供。",
+        "source": {
+          "organization": "イタリア地域問題・自治省 (Ministro per gli Affari Regionali)",
+          "title": "Strategia Nazionale Aree Interne (SNAI)",
+          "url": "https://www.affariregionali.it"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "地方オーストラリア移住推進戦略（Regional Migration Incentives）",
+        "statusOrLevel": "シドニー・メルボルン以外の特定地方地域への移住に対するビザ優遇・補助金",
+        "keyFeature": "熟練労働者や起業家が地方都市に定住する場合、優先的な永住権枠や定住住宅支援を提供する国家制度を運用。",
+        "source": {
+          "organization": "豪州インフラ・運輸・地域開発・通信省 (DITRDCA)",
+          "title": "Regional Australia Policy and Decentralisation Agenda",
+          "url": "https://www.infrastructure.gov.au"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "レベリングアップ（地域格差是正）白書及び中央省庁地方移転",
+        "statusOrLevel": "22,000人の公務員ポストのロンドンから地方（リーズ・ダーリントン等）への移転義務化",
+        "keyFeature": "財務省や内閣府の重要拠点をイングランド北部に新設し、首都圏と地方の経済格差を縮小する国家構造改革を推進。",
+        "source": {
+          "organization": "英国政府地方開発・住宅・コミュニティ省 (DLUHC)",
+          "title": "Levelling Up the United Kingdom and Government Hubs relocation",
+          "url": "https://www.gov.uk"
+        }
+      }
+    ]
+  }
 }
