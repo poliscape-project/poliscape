@@ -287,6 +287,46 @@
           "title": "National Alzheimer's Project Act (NAPA) - Public Law 111-375",
           "url": "https://aspe.hhs.gov/national-alzheimers-project-act"
         }
+      },
+      {
+        "code": "NL",
+        "country": "オランダ",
+        "system": "国家認知症戦略（Nationale Dementiestrategie）とホグウェイ共生モデル",
+        "description": "認知症当事者が社会から隔離されず普段の日常を送り続ける「認知症フレンドリー村（ホグウェイ等）」を官民で整備し、共生社会を実現。",
+        "source": {
+          "title": "オランダ保健福祉スポーツ省 (VWS) - Nationale Dementiestrategie",
+          "url": "https://www.government.nl/ministries/ministry-of-health-welfare-and-sport"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "国家認知症行動計画（National Dementia Action Plan）",
+        "description": "認知症当事者・家族が政策策定に直接参画するアドボカシー体制を制度化し、スティグマ解消とコミュニティ支援を全国展開。",
+        "source": {
+          "title": "オーストラリア保健・高齢者ケア省 (DoHAC) - National Dementia Action Plan",
+          "url": "https://www.health.gov.au"
+        }
+      },
+      {
+        "code": "SG",
+        "country": "シンガポール",
+        "system": "認知症フレンドリー・コミュニティ（DFC）およびGo-To Point見守り網",
+        "description": "駅、警察署、小売店など地域社会の拠点を「Go-To Point」に認定し、道に迷った認知症高齢者を早期保護・家族へ引き継ぐ官民ネットワークを構築。",
+        "source": {
+          "title": "シンガポール保健省 (MOH) - Dementia-Friendly Communities",
+          "url": "https://www.moh.gov.sg"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "国家認知症責任制および全国「認知症安心センター」網",
+        "description": "全国すべての基礎自治体に認知症安心センターを設置し、スクリーニングからケア相談までワンストップ提供。重症認知症の医療費自己負担を10%に軽減。",
+        "source": {
+          "title": "韓国保健福祉部 (MOHW) - 国家認知症責任制推進計画",
+          "url": "https://www.mohw.go.kr"
+        }
       }
     ]
   }

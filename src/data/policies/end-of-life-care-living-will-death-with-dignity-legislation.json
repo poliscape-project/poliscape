@@ -241,6 +241,46 @@
           "title": "Advance care planning legislation in Australia",
           "url": "https://www.advancecareplanning.org.au/resources/advance-care-planning-legislation"
         }
+      },
+      {
+        "code": "CH",
+        "country": "スイス",
+        "system": "刑法115条に基づく利己的動機なき自殺幇助容認",
+        "description": "医師が直接致死薬を注入する安楽死は禁止される一方、利己的動機がない限り自殺の幇助は不可罰とされ、EXIT等の民間支援組織が厳格な要件下で活動。",
+        "source": {
+          "title": "スイス連邦保健庁 (BAG) - Lebensende und Sterbebegleitung",
+          "url": "https://www.bag.admin.ch"
+        }
+      },
+      {
+        "code": "NL",
+        "country": "オランダ",
+        "system": "2002年安楽死法（生命終結および自殺幇助審査法）",
+        "description": "患者の耐えがたい絶望的な苦痛があり改善の余地がない場合、医師が厳格なデュープロセスを経て実施。事後に地域審査委員会が適法性を厳格に検証。",
+        "source": {
+          "title": "オランダ保健福祉スポーツ省 (VWS) - Euthanasia and assisted suicide",
+          "url": "https://www.government.nl/ministries/ministry-of-health-welfare-and-sport"
+        }
+      },
+      {
+        "code": "ES",
+        "country": "スペイン",
+        "system": "2021年安楽死規制法（有機法3/2021）",
+        "description": "重篤・不治の疾患や慢性的な機能不全により耐えがたい苦痛に直面する成人を対象に、公的医療制度内で尊厳死を要請する権利を明文化。",
+        "source": {
+          "title": "スペイン保健省 (Ministerio de Sanidad) - Regulación de la eutanasia",
+          "url": "https://www.sanidad.gob.es"
+        }
+      },
+      {
+        "code": "GB",
+        "country": "英国",
+        "system": "終末期成人尊厳死法案（Terminally Ill Adults Bill）の審議",
+        "description": "従来の自殺幇助一律禁止から転換し、余命6カ月以内の成人が2名の医師と高等法院裁判官の承認を得て尊厳死を選択可能とする法案を下院で推進。",
+        "source": {
+          "title": "英国議会 (UK Parliament) - Terminally Ill Adults (End of Life) Bill",
+          "url": "https://www.parliament.uk"
+        }
       }
     ]
   }

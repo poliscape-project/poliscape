@@ -269,6 +269,46 @@
           "title": "Rezeptfreie Bereitstellung der Notfallkontrazeptiva",
           "url": "https://www.bfarm.de/DE/Arzneimittel/Pharmakovigilanz"
         }
+      },
+      {
+        "code": "ES",
+        "country": "スペイン",
+        "system": "年齢制限なし・処方箋不要の薬局OTC販売制度",
+        "description": "2009年より医師の処方箋なしで薬局での直接購入を全面解禁。公的医療センター等での若年層向け無料提供体制も整備。",
+        "source": {
+          "title": "スペイン保健省 (Ministerio de Sanidad) - Salud Sexual y Reproductiva",
+          "url": "https://www.sanidad.gob.es"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "Schedule III指定による薬剤師対面OTC販売",
+        "description": "2005年より医師の処方箋義務を解除し、薬剤師による適切な情報提供とカウンセリングを経た上で薬局店頭にて直接購入が可能。",
+        "source": {
+          "title": "カナダ保健省 (Health Canada) - Prescription Drug Status",
+          "url": "https://www.canada.ca/en/health-canada.html"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "専門医薬品（医師処方箋必須）指定の維持方針",
+        "description": "市民団体等からOTC化の要望がある一方、乱用防止や安全性確保、副作用モニタリングを最重要視し、医師の処方箋必須を堅持。",
+        "source": {
+          "title": "韓国食品医薬品安全処 (MFDS) - 医薬品分類情報",
+          "url": "https://www.mfds.go.kr"
+        }
+      },
+      {
+        "code": "SE",
+        "country": "スウェーデン",
+        "system": "薬局OTC販売および若者向け無償配布クリニック",
+        "description": "2001年から薬局での処方箋なし販売を開始。各地のユースクリニック（Ungdomsmottagning）において若年層へ無償提供を実施。",
+        "source": {
+          "title": "スウェーデン医療製品庁 (Läkemedelsverket) - Akut-p-piller",
+          "url": "https://www.lakemedelsverket.se"
+        }
       }
     ]
   }

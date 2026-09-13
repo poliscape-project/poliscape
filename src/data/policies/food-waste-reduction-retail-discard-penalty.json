@@ -261,6 +261,46 @@
           "title": "Bill Emerson Good Samaritan Food Donation Act | USDA",
           "url": "https://www.usda.gov/our-agency/initiatives/food-loss-and-waste/donating-food"
         }
+      },
+      {
+        "code": "DE",
+        "country": "ドイツ",
+        "system": "国家食品廃棄削減戦略（Zu gut für die Tonne!）",
+        "description": "2030年までに小売・消費段階の食品ロスを半減させる目標を掲げ、消費期限表示の合理化や産業界との自主協定を推進。",
+        "source": {
+          "title": "ドイツ連邦食料・農業省 (BMEL) - Nationale Strategie zur Reduzierung der Lebensmittelverschwendung",
+          "url": "https://www.bmel.de"
+        }
+      },
+      {
+        "code": "ES",
+        "country": "スペイン",
+        "system": "食品ロス・廃棄防止法に基づく売れ残り寄贈義務化",
+        "description": "スーパーマーケットや飲食店に対し未販売食品のフードバンク寄贈計画策定を義務付け、正当な理由のない廃棄に最高6万ユーロの制裁金を規定。",
+        "source": {
+          "title": "スペイン農業水産食料省 (MAPA) - Ley de Prevención de las Pérdidas y el Desperdicio Alimentario",
+          "url": "https://www.mapa.gob.es"
+        }
+      },
+      {
+        "code": "GB",
+        "country": "英国",
+        "system": "コートールド・コミットメント（Courtauld Commitment 2030）",
+        "description": "政府環境省と大手スーパー・食品メーカーが締結する自主協定により、サプライチェーン全体での食品廃棄半減と余剰食品の慈善寄贈を推進。",
+        "source": {
+          "title": "英国環境・食糧・農村地域省 (Defra) - Food Waste Reduction",
+          "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "国家食品廃棄戦略および善意の寄贈者免責法（Good Samaritan法）",
+        "description": "2030年半減目標とともに、安全基準を満たした余剰食品を善意で寄贈した企業に対する民事・刑事上の法的責任免除を保障し寄贈を促進。",
+        "source": {
+          "title": "オーストラリア気候変動・環境省 (DCCEEW) - National Food Waste Strategy",
+          "url": "https://www.dcceew.gov.au"
+        }
       }
     ]
   }

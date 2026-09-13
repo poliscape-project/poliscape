@@ -241,6 +241,46 @@
           "title": "National Children's Commissioner - Protecting Children's Rights",
           "url": "https://humanrights.gov.au/our-work/childrens-rights"
         }
+      },
+      {
+        "code": "SE",
+        "country": "スウェーデン",
+        "system": "独立した国立子どもオンブズマン庁（Barnombudsmannen）",
+        "description": "1993年設立。行政から完全に独立し、国連子どもの権利条約の遵守状況を監視。立法や行政機関に対する独立した改善提言や年次報告を実施。",
+        "source": {
+          "title": "スウェーデン子どもオンブズマン (Barnombudsmannen) - Official Ombudsman",
+          "url": "https://www.barnombudsmannen.se"
+        }
+      },
+      {
+        "code": "NZ",
+        "country": "ニュージーランド",
+        "system": "子ども・若者コミッショナー法に基づく独立監視機関（Mana Mokopuna）",
+        "description": "児童福祉・保護施設への独自の立入検査権や是正勧告権を有し、先住民族マオリをはじめとする子どもの権利侵害を調査・救済。",
+        "source": {
+          "title": "ニュージーランド子ども委員会 (Mana Mokopuna) - Children and Young People's Commission",
+          "url": "https://www.manamokopuna.org.nz"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ（オンタリオ州）",
+        "system": "州議会直属の独立子どもオンブズマン調査・救済制度",
+        "description": "児童保護機関やグループホーム等における子どもの権利侵害申立てに対し、召喚・捜査を含む独自の強制調査権と公表権を行使。",
+        "source": {
+          "title": "オンタリオ州オンブズマン (Ombudsman Ontario) - Children and Youth Unit",
+          "url": "https://www.ombudsman.on.ca"
+        }
+      },
+      {
+        "code": "DE",
+        "country": "ドイツ",
+        "system": "連邦議会子ども委員会（Kinderkommission / Kiko）",
+        "description": "連邦議会の常設委員会として超党派で設置され、すべての連邦法案や政策が子どもの利益に合致しているかを事前審査・勧告。",
+        "source": {
+          "title": "ドイツ連邦議会 (Deutscher Bundestag) - Kommission zur Wahrnehmung der Belange der Kinder",
+          "url": "https://www.bundestag.de"
+        }
       }
     ]
   }

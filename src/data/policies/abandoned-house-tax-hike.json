@@ -303,6 +303,46 @@
           "title": "Community Development and Land Bank Strategies for Vacant Properties",
           "url": "https://www.hud.gov/program_offices/comm_planning"
         }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ（バンクーバー市）",
+        "system": "空き家税（Empty Homes Tax / Vacant Home Tax）",
+        "description": "年間6カ月以上居住実態のない住宅に対し、不動産評価額の3%に上る高率税を課し、投機的放置を防止して賃貸市場への供給を強力に誘導。",
+        "source": {
+          "title": "バンクーバー市役所 (City of Vancouver) - Empty Homes Tax",
+          "url": "https://vancouver.ca"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア（VIC州）",
+        "system": "空家住宅地税（Vacant Residential Land Tax）",
+        "description": "メルボルン大都市圏等の空き家住宅を対象に、資本改善価値（CIV）の1〜3%を累進課税し、住宅供給の最大化を促進。",
+        "source": {
+          "title": "ビクトリア州歳入庁 (State Revenue Office Victoria) - Vacant Residential Land Tax",
+          "url": "https://www.sro.vic.gov.au"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "農漁村整備法・建築法に基づく特定空家撤去命令と履行強制金",
+        "description": "倒壊危険や衛生上有害な空家所有者に対し自治体が撤去・修繕を命じ、未履行時に反復して金銭的ペナルティ（履行強制金）を賦課。",
+        "source": {
+          "title": "韓国行政安全部 (MOIS) - 空家整備および安全管理方針",
+          "url": "https://www.mois.go.kr"
+        }
+      },
+      {
+        "code": "ES",
+        "country": "スペイン",
+        "system": "国家住宅法に基づく長期空家固定資産税（IBI）最大150%割増",
+        "description": "正当な事由なく2年以上空家状態にある住宅に対し、基礎自治体が固定資産税に最大150%のサーチャージを上乗せ課税できる権限を規定。",
+        "source": {
+          "title": "スペイン住宅・都市アジェンダ省 (MIVAU) - Ley por el Derecho a la Vivienda",
+          "url": "https://www.mivau.gob.es"
+        }
       }
     ]
   }

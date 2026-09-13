@@ -287,6 +287,46 @@
           "title": "Family and Medical Leave Act (FMLA) and State Paid Family Leave Programs",
           "url": "https://www.dol.gov/agencies/whd/fmla"
         }
+      },
+      {
+        "code": "NL",
+        "country": "オランダ",
+        "system": "労働時間調整法（WFW）および短期・長期家族介護休暇制度",
+        "description": "給与の70%が公的保障される短期介護休暇に加え、重病の家族を看病するための長期無給介護休暇（解雇保護付き）を法律で保障。",
+        "source": {
+          "title": "オランダ社会問題・雇用省 (SZW) - Care leave and employment",
+          "url": "https://www.government.nl/ministries/ministry-of-social-affairs-and-employment"
+        }
+      },
+      {
+        "code": "SE",
+        "country": "スウェーデン",
+        "system": "近親者介護手当制度（Närståendepenning）",
+        "description": "生命を脅かす病気にある親族をケアするために仕事を休む労働者に対し、最長100日間、国が給与の約80%相当を所得補償。",
+        "source": {
+          "title": "スウェーデン社会保険庁 (Försäkringskassan) - Närståendepenning",
+          "url": "https://www.forsakringskassan.se"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "国家雇用基準（NES）に基づく有給ケアラー休暇と柔軟勤務要請権",
+        "description": "病気・介護を要する家族のための年次有給ケアラー休暇の保障とともに、介護責任を有する全労働者に対する柔軟な勤務形態の申請権を明文化。",
+        "source": {
+          "title": "オーストラリア公正労働担当官 (Fair Work Ombudsman) - Carer's leave and flexible work",
+          "url": "https://www.fairwork.gov.au"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "男女雇用平等法に基づく家族ケア休職・家族ケア短時間勤務制度",
+        "description": "家族の疾病・高齢介護のために年最長90日の休職を請求可能。さらに週15〜30時間に勤務時間を短縮できる家族ケア労働時間短縮請求権を法定義務化。",
+        "source": {
+          "title": "韓国雇用労働部 (MOEL) - 家族ケア休職・労働時間短縮制度",
+          "url": "https://www.moel.go.kr"
+        }
       }
     ]
   }

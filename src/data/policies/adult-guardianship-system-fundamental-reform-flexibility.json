@@ -241,6 +241,46 @@
           "title": "Supported Decision-Making and Guardianship Alternatives",
           "url": "https://www.americanbar.org/groups/law_aging/resources/guardianship_law_practice/"
         }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "意思決定支援（Supported Decision-Making）優先の後見法制",
+        "description": "代理人が本人に代わってすべてを決める代替決定を極力回避し、本人の意思・選好に基づき自ら決定できるよう環境を整える支援モデルを法制化。",
+        "source": {
+          "title": "オーストラリア連邦司法省 (Attorney-General's Department) - Guardianship and Decision-Making",
+          "url": "https://www.ag.gov.au"
+        }
+      },
+      {
+        "code": "FR",
+        "country": "フランス",
+        "system": "成人保護制度（司法保護・補佐・後見・未来保護委任契約）",
+        "description": "本人の判断能力の程度に応じたきめ細かな段階的保護措置を定め、必要性が解消した際の後見終了や補佐への移行を裁判所が柔軟に運用。",
+        "source": {
+          "title": "フランス司法省 (Ministère de la Justice) - Protection juridique des majeurs",
+          "url": "https://www.justice.gouv.fr"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ（オンタリオ州）",
+        "system": "代替意思決定法（Substitute Decisions Act）と任意代理の優先",
+        "description": "本人が判断能力を有する段階で事前に作成する持続的代理権（Power of Attorney）を尊重し、公的管理人の介入を最後の手段と位置づけ。",
+        "source": {
+          "title": "オンタリオ州司法長官省 (Ministry of the Attorney General) - Power of Attorney",
+          "url": "https://www.ontario.ca/page/ministry-attorney-general"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "改正民法に基づく成年後見・限定後見・特定後見の柔軟選任制",
+        "description": "画一的な禁治産宣告を廃止し、本人の自己決定権尊重と残存能力活用を趣旨として、特定の法律行為のみを代理・同意する特定後見等を創設。",
+        "source": {
+          "title": "韓国大法院 (Supreme Court of Korea) - 成年後見制度のご案内",
+          "url": "https://www.scourt.go.kr"
+        }
       }
     ]
   }

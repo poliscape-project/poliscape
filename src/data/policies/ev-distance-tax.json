@@ -273,6 +273,46 @@
           "title": "Road user charges for electric vehicles (NZ Transport Agency)",
           "url": "https://www.nzta.govt.nz/vehicles/road-user-charges/ruc-for-electric-vehicles/"
         }
+      },
+      {
+        "code": "NL",
+        "country": "オランダ",
+        "system": "2030年導入目標・全車両対象走行距離連動課税（Rekeningrijden）",
+        "description": "脱炭素によるガソリン税減収を補うため、EVを含む全自家用車を対象に年間走行距離1キロあたり課税への抜本移行を計画。",
+        "source": {
+          "title": "オランダインフラ・水管理省 - Betalen naar Gebruik (Rekeningrijden)",
+          "url": "https://www.government.nl/ministries/ministry-of-infrastructure-and-water-management"
+        }
+      },
+      {
+        "code": "GB",
+        "country": "英国",
+        "system": "道路税（VED）免税措置廃止と次世代道路課税検討",
+        "description": "2025年よりEVへの車両税ゼロ特例を撤廃するとともに、燃料税に代わる長期的な走行距離連動型道路利用税の制度設計を検討。",
+        "source": {
+          "title": "英国運輸省 (DfT) - Vehicle Excise Duty and Road Taxation",
+          "url": "https://www.gov.uk/government/organisations/department-for-transport"
+        }
+      },
+      {
+        "code": "SG",
+        "country": "シンガポール",
+        "system": "次世代ERP 2.0による衛星測位型距離・混雑課税",
+        "description": "全車両にGNSS（衛星測位）車載器の装着を義務付け、従来のガントリー（料金所ゲート）依存から全島規模の走行距離・時間帯課税へと拡張。",
+        "source": {
+          "title": "シンガポール陸上交通庁 (LTA) - Electronic Road Pricing (ERP 2.0)",
+          "url": "https://www.lta.gov.sg"
+        }
+      },
+      {
+        "code": "DE",
+        "country": "ドイツ",
+        "system": "高速道路トラック通行料（LKW-Maut）の距離・CO2連動課税",
+        "description": "大型商用車を対象に衛星GPSを活用した距離・排出量連動課税（Toll Collect）を長年運用し、将来的な乗用車EVへの財源モデルとして参照。",
+        "source": {
+          "title": "ドイツ連邦デジタル・交通省 (BMDV) - Lkw-Maut",
+          "url": "https://bmdv.bund.de"
+        }
       }
     ]
   }

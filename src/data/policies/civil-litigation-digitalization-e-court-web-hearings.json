@@ -242,6 +242,46 @@
           "title": "HMCTS Reform Programme - Civil jurisdiction online services",
           "url": "https://www.gov.uk/guidance/the-hmcts-reform-programme"
         }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "連邦裁判所電子訴訟提出システム（eLodgment）およびeCourtroom",
+        "description": "電子ファイリング、ウェブ期日、電子証拠管理を完全に統合し、遠隔地や国際的な訴訟当事者も含む完全ペーパーレス裁判所運営を実現。",
+        "source": {
+          "title": "オーストラリア連邦裁判所 (Federal Court of Australia) - eServices and Online Hearings",
+          "url": "https://www.fedcourt.gov.au"
+        }
+      },
+      {
+        "code": "DE",
+        "country": "ドイツ",
+        "system": "特別電子弁護士私書箱（beA）と電子司法法制（e-Justice）",
+        "description": "弁護士と裁判所間の公的電子送達を義務化。裁判所記録の完全電子化（eAkte）とセキュアなビデオ法廷審理システムを全国展開。",
+        "source": {
+          "title": "ドイツ連邦司法省 (BMJ) - Elektronischer Rechtsverkehr und eAkte",
+          "url": "https://www.bmj.de"
+        }
+      },
+      {
+        "code": "EE",
+        "country": "エストニア",
+        "system": "e-Court（電子裁判ポータル）および小口請求AI自動処理システム",
+        "description": "国民IDと連携したオンライン司法ポータルにより、電子申立・送達・判決を完全自動化。争いのない支払督促等を迅速処理。",
+        "source": {
+          "title": "エストニア裁判所 (Eesti Kohtud) - e-Toimik and Digital Court System",
+          "url": "https://www.kohus.ee"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ（BC州）",
+        "system": "民事紛争解決審判所（Civil Resolution Tribunal - CRT）",
+        "description": "24時間365日オンライン完結型の公的民事紛争解決システム。小額金銭請求やマンション共有紛争に対し、診断・交渉から調停・判決までネットで提供。",
+        "source": {
+          "title": "BC州民事紛争解決審判所 (CRT) - Online Civil Resolution Tribunal",
+          "url": "https://civilresolutionbc.ca"
+        }
       }
     ]
   }
