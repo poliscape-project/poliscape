@@ -211,5 +211,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の子どもの貧困対策・学校給食無償化・地域コミュニティ食事支援法制",
+    "comparisonSummary": "子どもの貧困と栄養格差に対し、米国（全米学校給食プログラム・サマーEBT）や英国（ホリデー活動・食料プログラムHAF）、フランス（1ユーロ給食・朝食無料化）、北欧（全児童学校給食完全無償化）など、公教育と連動した食事提供の公費完全保障が進んでいます。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "全米学校昼食プログラム（NSLP）および夏期食費支援「サマーEBT（SUN Bucks）」",
+        "statusOrLevel": "低所得世帯向け給食完全無料化および長期休暇中の児童食費公費カード直接給付",
+        "keyFeature": "連邦農務省（USDA）が主導し、年間数千万人の児童に無料給食を提供。学校給食のない夏休み期間中、児童1人あたり月40ドルの食費電子マネー（EBTカード）を保護者に自動チャージし飢餓を根絶。",
+        "source": {
+          "organization": "米国農務省食品栄養局 (USDA FNS)",
+          "title": "Summer EBT Program (SUN Bucks) and National School Lunch Program",
+          "url": "https://www.fns.usda.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ホリデー活動・食料プログラム（Holiday Activities and Food - HAF Programme）",
+        "statusOrLevel": "長期休暇中の低所得児童に対する栄養食事付き無料アクティビティクラブ公費全額支援",
+        "keyFeature": "教育省（DfE）が全国の地方自治体に数億ポンドを配分。学校が休みの春・夏・冬休みに、子ども食堂やコミュニティ団体と連携して栄養価の高い食事と学習・スポーツ体験を無償提供。",
+        "source": {
+          "organization": "英国教育省 (Department for Education - DfE)",
+          "title": "Holiday activities and food programme (HAF): guidance for local authorities",
+          "url": "https://www.gov.uk/government/organisations/department-for-education"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "貧困家庭向け「1ユーロ給食（Cantine à 1 euro）」および学校無料朝食制度",
+        "statusOrLevel": "農村・低所得自治体の小中学校給食費を国が差額補填し1食1ユーロ以下で提供",
+        "keyFeature": "国家貧困防止戦略に基づき、所得基準を満たす家庭の学食利用料を上限1ユーロに設定。優先教育地域（REP）では、朝食を欠食する児童のために学校での無償朝食提供を国費で実施。",
+        "source": {
+          "organization": "フランス連帯・家族省 / 国民教育省",
+          "title": "Stratégie de prévention et de lutte contre la pauvreté: cantine à 1 euro",
+          "url": "https://solidarites.gouv.fr"
+        }
+      },
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "基礎教育法（Basic Education Act）に基づく完全無償温食学校給食制度",
+        "statusOrLevel": "1948年以来・初等・中等教育全生徒に対する毎日の温かいバランス給食完全無料提供",
+        "keyFeature": "家庭の所得に関わらず、すべての児童生徒が等しく無料で栄養バランスの取れた給食を食べる権利を法律で保障。子どもの貧困を理由とするスティグマ（社会的差別）を完全に排除。",
+        "source": {
+          "organization": "フィンランド国家教育庁 (Opetushallitus)",
+          "title": "School meals in Finland: Free and balanced meals for all pupils",
+          "url": "https://www.oph.fi"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "教育参加パッケージ（Bildungs- und Teilhabepaket - BuT）給食費全額免除",
+        "statusOrLevel": "生活保護・児童手当加算受給世帯の学校・保育園共同給食費100%公費負担",
+        "keyFeature": "社会法典第2巻（SGB II）に基づき、低所得困窮世帯の子どもの給食自己負担をゼロ化。学習支援、部活動費、学校行事遠足費も「BuTパッケージ」により公費で全額バウチャー支給。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS)",
+          "title": "Das Bildungspaket: Chancen für Kinder und Jugendliche aus bedürftigen Familien",
+          "url": "https://www.bmas.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "児童福祉法に基づく給食支援事業（ドリームツリーカード・夢の木カード）",
+        "statusOrLevel": "欠食懸念児童に対する自治体電子カード（一般食堂・コンビニ・地域児童センター）支給",
+        "keyFeature": "低所得世帯の放課後・休日の欠食を防ぐため、一般のクレジットカードと同じデザインの給食専用カードを配布。児童が恥ずかしい思いをせず街の提携食堂で温かい食事をとれるよう配慮。",
+        "source": {
+          "organization": "韓国保健福祉部 (MOHW) / ソウル特別市",
+          "title": "Child Welfare Act - Meal support project for underprivileged children",
+          "url": "https://www.mohw.go.kr"
+        }
+      }
+    ]
+  }
 }

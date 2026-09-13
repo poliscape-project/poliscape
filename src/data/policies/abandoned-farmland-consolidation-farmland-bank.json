@@ -205,5 +205,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Building"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の農地中間管理（農地バンク）・耕作放棄地集約・利用権調整法制",
+    "comparisonSummary": "高齢化に伴う農地遊休化に対し、フランスのSAFER（農地開発会社）による先買権やドイツの土地整理法、オランダの農地交換バンクなど、公的機関が農地の売買・賃貸に介入して分散した農地を一括集約する法制が欧州で成熟しています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "農地整備公社（SAFER）先買権および農地利用集約法制",
+        "statusOrLevel": "農地売買時のSAFERへの通知義務および優先買受（先買権）による若手・担い手集約",
+        "keyFeature": "民間営農者が農地を売却する際、公的性格を持つSAFERが市場価格で優先買い取りを行い、分散錯圃の解消や後継者への一括再配分を実施。投機的取得や耕作放棄を未然に防止。",
+        "source": {
+          "organization": "フランス農業・食料主権省 / 全国SAFER連盟 (FNSafer)",
+          "title": "Missions des Safer: aménagement foncier et régulation des marchés agricoles",
+          "url": "https://www.safer.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "土地整理法（Flurbereinigungsgesetz - FlurbG）および農地取引法（GrdstVG）",
+        "statusOrLevel": "行政主導の農地交換・区画再編（Flurbereinigung）と農業委員会による不適格売買不許可",
+        "keyFeature": "細分化された農地を地域ぐるみで再測量・等価交換し、大規模区画と農業用道路を一括整備。農業者以外への農地売却には郡農業庁の許可を要し、耕作放棄地の発生を抑制。",
+        "source": {
+          "organization": "ドイツ連邦食料・農業省 (BMEL)",
+          "title": "Flurbereinigung und ländliche Bodenordnung nach dem Flurbereinigungsgesetz",
+          "url": "https://www.bmel.de"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "国家土地管理局（Staatsbosbeheer）農地交換バンクおよび土地整理法制",
+        "statusOrLevel": "高効率施設園芸・大規模酪農への農地集約と自然保護区バッファー買い取り",
+        "keyFeature": "国土が狭小なオランダにおいて、農地交換銀行（Kavelruil）を設置し、農家同士の農地交換にかかる登録免許税を全額免除。高付加価値農業用地の連続大規模化を達成。",
+        "source": {
+          "organization": "オランダ農業・自然・食品品質省 (LNV) / カダスター（不動産登記庁）",
+          "title": "Vrijwillige kavelruil in het landelijk gebied en grondbeheer",
+          "url": "https://www.kadaster.nl"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "韓国農漁村公社（KRC）農地バンク事業および農地法",
+        "statusOrLevel": "高齢農家の農地受託・専業農家および青年前衛農家への長期格安賃貸",
+        "keyFeature": "日本の農地中間管理機構の先駆モデル。農地を公社に8年以上信託した所有者に対し譲渡所得税を減免し、青年就農者に優先貸付。遊休農地所有者には利用増進命令と課徴金を賦課。",
+        "source": {
+          "organization": "韓国農林畜産食品部 (MAFRA) / 韓国農漁村公社",
+          "title": "Farmland Bank System and young farmer settlement support projects",
+          "url": "https://www.mafra.go.kr"
+        }
+      },
+      {
+        "country": "オーストリア",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "systemName": "各州農地取引法（Grundverkehrsgesetz）および農業構造改善令",
+        "statusOrLevel": "家族農業経営の維持・分割防止と専業農家への優先農地配分審査",
+        "keyFeature": "農地取得には地域の農業委員会による厳格な自作要件審査を義務付け。山間地の耕作放棄を防ぐため、農地交換手続きの手数料助成と共同牧野の維持管理を公的支援。",
+        "source": {
+          "organization": "オーストリア農林・地域・水資源省 (BML)",
+          "title": "Ländliche Bodenordnung und landwirtschaftliches Grundverkehrsrecht",
+          "url": "https://www.bml.gv.at"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "農務省農政局（FSA）農地保全留保計画（CRP）および農地トラスト",
+        "statusOrLevel": "環境脆弱農地の休耕保全への連邦地代直接給付と民間ファームランドトラスト",
+        "keyFeature": "土壌侵食リスクのある農地を10〜15年間耕作停止・緑化する農家に毎年国費で地代を支給（CRP）。同時に非営利ファームランドトラストが開発権を買い取り、農地の大規模保全を担保。",
+        "source": {
+          "organization": "米国農務省農政局 (USDA FSA)",
+          "title": "Conservation Reserve Program (CRP) and Farmland Protection Policy",
+          "url": "https://www.fsa.usda.gov"
+        }
+      }
+    ]
+  }
 }

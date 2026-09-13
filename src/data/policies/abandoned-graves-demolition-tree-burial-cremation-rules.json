@@ -211,5 +211,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Laptop"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の埋葬・改葬法制、無縁墓地解消と自然葬（樹木葬・散骨）ルール",
+    "comparisonSummary": "少子高齢化や家族観の変化に伴う墓地の維持難に対し、欧州（ドイツ・フランス・英国）は「期限付き墓地使用権（20〜30年更新制）」を法定化して無縁墓の自動解消と循環利用を実現。韓国や台湾も樹木葬など自然葬への公的助成を拡大しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦州埋葬法（Bestattungsgesetz）および自然墓地（FriedWald / RuheForst）",
+        "statusOrLevel": "墓地使用期間の法定制限（通常20〜30年・期限後は自動更地化）と森林樹木葬",
+        "keyFeature": "墓地の永代所有を認めず、期限満了時に更新料を支払わなければ自治体が遺骨を集合合葬に移し区画をリサイクル。公認された森林での樹木葬（FriedWald）が全土で広く定着。",
+        "source": {
+          "organization": "ドイツ連邦環境庁 (UBA) / 各連邦州保健省",
+          "title": "Bestattungsrecht der Bundesländer und Naturbestattungen im Wald",
+          "url": "https://www.umweltbundesamt.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "一般地方自治体法典（CGCT）公営墓地無縁墓回収手続（Reprise de concession）",
+        "statusOrLevel": "管理放置された墓地に対する自治体首長の強制回収・合葬納骨堂（Ossuaire）移設",
+        "keyFeature": "自治体首長が管理放棄された墓地を公示。30年以上の有期契約墓地で1年以上の放置が確認された場合、公的立会いのもとで更地化し、遺骨を共同納骨堂に尊厳を保ち移送して区画を再利用。",
+        "source": {
+          "organization": "フランス内務省 (Ministère de l'Intérieur)",
+          "title": "Réglementation des cimetières et procédure de reprise des sépultures en déshérence",
+          "url": "https://www.interieur.gouv.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "教会墓地および地方自治体墓地令（Local Authorities' Cemeteries Order 1977）",
+        "statusOrLevel": "墓地過密化に対応する「掘り下げ再利用（Lift and Deepen）」法制と自然埋葬地",
+        "keyFeature": "埋葬後75年以上経過した古い墓地について、深くに遺骨を再埋葬した上で上部に新たな埋葬を許可する再利用手法をロンドン等で導入。民間の自然派樹木埋葬地（Natural Burial Ground）も急増。",
+        "source": {
+          "organization": "英国司法省 (Ministry of Justice)",
+          "title": "Burial law and guidance on managing municipal cemeteries and grave reuse",
+          "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "葬事等に関する法律（葬事法）および自然葬（樹木葬・芝生葬）推進政策",
+        "statusOrLevel": "墳墓設置期間の法定制限（最長60年・30年＋1回延長）と自然葬選択者への助成",
+        "keyFeature": "国土の乱開発を防ぐため、土葬から火葬・自然葬への大転換を国策推進。墳墓の設置期間満了後の強制改葬を義務付け、公立樹木葬林の造成と改葬費用補助を自治体が提供。",
+        "source": {
+          "organization": "韓国保健福祉部 (MOHW)",
+          "title": "Act on Funeral Services - Natural burial and grave installation period limit",
+          "url": "https://www.mohw.go.kr"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "殯葬管理条例および環境保護自然葬（環保自然葬）公費支援",
+        "statusOrLevel": "樹木葬・花葬・海葬の全額公費無償化および老朽伝統墓地の一斉更地化整理",
+        "keyFeature": "台北市や新北市等が環境配慮型埋葬（樹木葬・海葬）を選択した遺族に奨励金を交付し、埋葬料を無料化。公営納骨堂の収容力逼迫を解消するため「墓じまい」の行政手続きをワンストップ化。",
+        "source": {
+          "organization": "台湾内政部民政司 (Ministry of the Interior)",
+          "title": "殯葬管理条例及び環保自然葬（樹葬・海葬）推動計画",
+          "url": "https://www.moi.gov.tw"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "カントン墓地条例に基づく共同記念碑（Gemeinschaftsgrab）と期限制",
+        "statusOrLevel": "墓地区画の20〜25年期限満了後の自治体公費更地化と共同記念碑合葬の一般化",
+        "keyFeature": "遺族への経済的負担をかけないよう、墓石を建てずプレートのみを記す「共同記念墓」が主流。使用期限が切れた個別墓地は自治体が無償で更地に戻し、緑地公園として景観維持。",
+        "source": {
+          "organization": "スイス連邦統計局 (BFS) / チューリッヒ市墓地課",
+          "title": "Bestattungs- und Friedhofverordnung der Schweizer Städte",
+          "url": "https://www.bfs.admin.ch"
+        }
+      }
+    ]
+  }
 }

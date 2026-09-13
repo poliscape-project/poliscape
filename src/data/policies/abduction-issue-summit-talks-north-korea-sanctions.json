@@ -185,5 +185,89 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の対北朝鮮独自制裁法制および人権侵害・拉致被害救済外交",
+    "comparisonSummary": "北朝鮮による核・ミサイル開発および外国人拉致等の人道犯罪に対し、国連安保理制裁決議に加え、米国、韓国、EU、豪州、カナダなどが金融遮断（セカンダリー・サンクション）、船舶入港禁止、人権制裁（マグニツキー法）等の独自追加制裁を連動させています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "北朝鮮制裁・政策強化法（NKSPEA）および大統領令13722号",
+        "statusOrLevel": "北朝鮮と取引する第三国金融機関・企業への二次制裁（セカンダリーボイコット）",
+        "keyFeature": "財務省外国資産管理局（OFAC）が、人権侵害や不法資金洗浄に関与した北朝鮮高官・海外ダミー企業をSDNリストに指定し米国内資産凍結。拉致問題を含む人権状況報告を国務省に法定義務化。",
+        "source": {
+          "organization": "米国財務省外国資産管理局 (OFAC) / 国務省",
+          "title": "North Korea Sanctions Regulations and human rights designations",
+          "url": "https://home.treasury.gov"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "5.24対北制裁措置および北韓人権法（拉致・抑留者・国軍捕虜対策）",
+        "statusOrLevel": "南北交易・投資全面中断、北朝鮮船舶の領海通行禁止、独自金融制裁対象指定",
+        "keyFeature": "統一部および外交部がサイバーハッキング奪取資金追跡とともに、拉致被害者・抑留者・離散家族問題を担当する専任組織を常設。国際人権フォーラムで問題提起を主導。",
+        "source": {
+          "organization": "韓国統一部 (Ministry of Unification) / 外交部",
+          "title": "North Korean Human Rights Act and unilateral sanctions policy",
+          "url": "https://www.unikorea.go.kr"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU対北朝鮮共通外交・安全保障政策（CFSP）制裁体制および人権制裁枠組み",
+        "statusOrLevel": "安保理制裁を上回る独自追加制裁・投資・金融・貿易全面規制と渡航禁止",
+        "keyFeature": "欧州対外行動庁（EEAS）が主導し、国連人権理事会において北朝鮮人権状況非難決議を毎年共同提出。EUグローバル人権制裁枠組みに基づき人権侵害責任者の域内資産を凍結。",
+        "source": {
+          "organization": "欧州対外行動庁 (EEAS) / 欧州理事会",
+          "title": "EU restrictive measures against the DPRK (North Korea)",
+          "url": "https://www.eeas.europa.eu"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "自律的制裁法（Autonomous Sanctions Act 2011）対北朝鮮規則",
+        "statusOrLevel": "北朝鮮の核・ミサイル・人権弾圧に関わる個人・団体の豪州資産凍結と入国禁止",
+        "keyFeature": "豪外務貿易省（DFAT）が国際金融網からの排除を強化。不法な「瀬取り（洋上物資積替え）」監視のため、豪空軍哨戒機を極東地域へ定期派遣し抑止作戦に直接参加。",
+        "source": {
+          "organization": "オーストラリア外務貿易省 (DFAT)",
+          "title": "Democratic People's Republic of Korea (North Korea) sanctions regime",
+          "url": "https://www.dfat.gov.au"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "特別経済措置法（Special Economic Measures Act - SEMA）北朝鮮規則",
+        "statusOrLevel": "北朝鮮との実質上すべての輸出入・金融取引禁止およびネオン作戦（瀬取り監視）",
+        "keyFeature": "グローバル連携のもと、北朝鮮に対する最厳格レベルの完全通商禁止措置を維持。カナダ海軍フリゲート艦を太平洋に派遣し、密輸監視共同任務（Operation NEON）を継続。",
+        "source": {
+          "organization": "カナダ外務省 (Global Affairs Canada)",
+          "title": "Canadian sanctions related to North Korea and Operation NEON",
+          "url": "https://www.international.gc.ca"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "制裁およびマネーロンダリング防止法（SAMLA 2018）対北朝鮮規則",
+        "statusOrLevel": "脱欧後の国家独自制裁枠組みによる金融サービス遮断および高級品輸出禁止",
+        "keyFeature": "外務・英連邦・開発省（FCDO）および財務省制裁履行庁（OFSI）が、北朝鮮関連の制裁回避ネットワークを徹底追跡。ロンドン金融街経由の不正決済を完全に封鎖。",
+        "source": {
+          "organization": "英国財務省制裁履行庁 (OFSI) / FCDO",
+          "title": "Democratic People's Republic of Korea financial sanctions guidance",
+          "url": "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+        }
+      }
+    ]
+  }
 }

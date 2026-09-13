@@ -231,5 +231,89 @@
         "commentStandard": "「報酬加算に伴い1〜3割の自己負担額も自動的に引き上がるため、物価高で年金が実質目減りしている高齢者世帯には重い」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国の介護・ケア労働者の賃金処遇改善と公定価格・最低賃金引き上げ法制",
+    "comparisonSummary": "介護人材不足と他産業との賃金格差に対し、ドイツは介護部門最低賃金（全国一律労働協約連動）を導入、オーストラリアは公正労働委員会による公定賃金15%一括引き上げ、北欧諸国は公務員待遇・労働協約による賃金底上げを実施しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "介護職員賃金向上法（GVWG）および介護労働委員会最低賃金令",
+        "statusOrLevel": "介護保険適用施設に対し「労働協約水準の賃金支払い（Tariftreue）」を全数義務化",
+        "keyFeature": "介護金庫と契約する全介護事業所に対し、地域の労働協約（Tarifvertrag）と同等水準の賃金を職員に支払うことを保険適用要件化。資格に応じた介護最低賃金を独自設定し、他産業並みの待遇を法的に保障。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG) / 連邦労働社会省 (BMAS)",
+          "title": "Tariftreue in der Pflege: Gesetzliche Vorgaben zur Entlohnung von Pflegekräften",
+          "url": "https://www.bundesgesundheitsministerium.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "公正労働委員会（FWC）高齢者ケア労働者公定賃金15%直接引き上げ決定",
+        "statusOrLevel": "連邦政府が全額公費予算化・介護現場アワード賃金の歴史的一括引き上げ",
+        "keyFeature": "女性集約型産業であるケア労働の賃金格差是正（ジェンダー・ペイ・ギャップ解消）を掲げ、FWCが介護士等の最低公定賃金を15%（最大28%超）一斉に引き上げ。連邦政府が年間数十億豪ドルを財政補填。",
+        "source": {
+          "organization": "オーストラリア公正労働委員会 (Fair Work Commission - FWC) / 保健省",
+          "title": "Aged Care Work Value Case and Commonwealth funding of wage increases",
+          "url": "https://www.fwc.gov.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "セギュール医療協定（Ségur de la santé）および高齢者介護処遇改善手当",
+        "statusOrLevel": "特別養護老人ホーム（EHPAD）および在宅介護職員への月額183ユーロ公費手当恒久化",
+        "keyFeature": "マクロン政権の大規模医療改革協定に基づき、公立・私立を問わず高齢者介護施設および在宅支援従事者に対し、国と県が財源を折半して月額手取り183ユーロ（約3万円）の上乗せ給付を法律で恒久化。",
+        "source": {
+          "organization": "フランス連帯・家族省 (Ministère des Solidarités)",
+          "title": "Accords du Ségur de la santé: revalorisation des métiers de l'autonomie et du grand âge",
+          "url": "https://solidarites.gouv.fr"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "自治体労働協約（SKR・Kommunal）および高齢者ケア向上プログラム（Äldreomsorgslyftet）",
+        "statusOrLevel": "地方自治体直接雇用・勤務時間中の介護資格取得全額給与保障プログラム",
+        "keyFeature": "介護職の大半が市町村公務員待遇。国費による「高齢者ケア向上策」を通じ、無資格・非常勤職員が勤務時間中に全額有給で准看護師・介護福祉士資格を取得できる制度を展開し離職を防止。",
+        "source": {
+          "organization": "スウェーデン自治体・地域協会 (SKR) / 保健福祉庁",
+          "title": "Äldreomsorgslyftet: statlig satsning på utbildning och fast anställning i äldreomsorgen",
+          "url": "https://skr.se"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "成人ソーシャルケア労働力改革戦略（Fair Pay Agreement導入方針）",
+        "statusOrLevel": "ナショナル・リビング・ウェイジ（法定最低賃金）引き上げと公費介護キャリアパス助成",
+        "keyFeature": "法定最低賃金の大幅引き上げに合わせ、民間介護事業者への自治体委託料を増額。新政権は介護部門全国労働協約（Fair Pay Agreement）の法制化を進め、経験に応じた統一昇給基準を整備。",
+        "source": {
+          "organization": "英国保健・社会介護省 (DHSC)",
+          "title": "Adult social care workforce: funding and national living wage alignment",
+          "url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "療養保護士処遇改善費および長期療養基本計画（処遇改善ガイドライン）",
+        "statusOrLevel": "保険給付費からの処遇改善加算および自治体ごとの処遇改善手当支給",
+        "keyFeature": "国民健康保険公団が長期療養報酬告示を改定し、介護士（療養保護士）の基本給への直接反映を監査。全国の市道で「療養保護士処遇改善条例」を制定し、月額数万〜十数万ウォンの独自手当を支給。",
+        "source": {
+          "organization": "韓国保健福祉部 (MOHW) / 国民健康保険公団",
+          "title": "Comprehensive Plan for Long-Term Care: Care worker wage enhancement",
+          "url": "https://www.mohw.go.kr"
+        }
+      }
+    ]
   }
 }

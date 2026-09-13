@@ -205,5 +205,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "TrendingDown"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の捕鯨政策・先住民族生存捕鯨・沿岸商業捕鯨と海洋資源管理法制",
+    "comparisonSummary": "商業捕鯨のモラトリアムを巡り国際合意が対立する中、日本がIWCを脱退し自国EEZ内での持続的商業捕鯨を行う一方、アイスランドやノルウェーは異議申立て等に基づき商業捕鯨を継続。米国（アラスカ）やデンマーク（グリーンランド）は先住民生存捕鯨を認めています。",
+    "countries": [
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "海洋資源法（Havressurslova）に基づく商業捕鯨（ミンククジラ）割当制",
+        "statusOrLevel": "IWC商業捕鯨モラトリアムに対する正式異議申立に基づき自国割当で商業捕鯨継続",
+        "keyFeature": "科学的調査に基づく北大西洋海洋哺乳類委員会（NAMMCO）の資源評価に基づき、年間数百頭のミンククジラ捕獲枠を公的設定。DNA登録による個体追跡と国内消費市場を維持。",
+        "source": {
+          "organization": "ノルウェー漁業海洋総局 (Fiskeridirektoratet)",
+          "title": "Hvalfangst: Regulations and catch quotas for minke whales in Norway",
+          "url": "https://www.fiskeridir.no"
+        }
+      },
+      {
+        "country": "アイスランド",
+        "countryCode": "IS",
+        "flag": "🇮🇸",
+        "systemName": "捕鯨法（Whaling Act No. 26/1949）およびナガスクジラ・ミンククジラ捕獲許可",
+        "statusOrLevel": "厳格な動物福祉基準（即死率向上要件）と一時停止レビューを経た捕獲許可更新",
+        "keyFeature": "IWC留保付き復帰国として、ナガスクジラ（Fin Whale）等の捕獲ライセンスを民間捕鯨会社に付与。食糧農業省が査察官を乗船させ、銛の爆発タイミング等の動物福祉基準を徹底監視。",
+        "source": {
+          "organization": "アイスランド食糧・農業・水産省 (Ministry of Food, Agriculture and Fisheries)",
+          "title": "Whaling regulations, animal welfare requirements and annual quotas",
+          "url": "https://www.stjornarradid.is"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "海洋哺乳類保護法（MMPA）および先住民族生存捕鯨（ASW）枠組み",
+        "statusOrLevel": "商業捕鯨の完全禁止およびアラスカ先住民族（イヌピアット等）の伝統捕鯨公認",
+        "keyFeature": "商業捕鯨を法律で厳格に禁止する一方、IWC承認のもと、アラスカ・ホッキョククジラ委員会（AEWC）を通じて先住民族の伝統的食糧生存捕鯨枠を管理・支援。",
+        "source": {
+          "organization": "米国海洋大気庁水産局 (NOAA Fisheries)",
+          "title": "Marine Mammal Protection Act and Aboriginal Subsistence Whaling quotas",
+          "url": "https://www.fisheries.noaa.gov"
+        }
+      },
+      {
+        "country": "デンマーク",
+        "countryCode": "DK",
+        "flag": "🇩🇰",
+        "systemName": "グリーンランド自治領先住民捕鯨管理法およびフェロー諸島伝統追込捕鯨（Grindadráp）",
+        "statusOrLevel": "グリーンランドでのナガスクジラ・ミンククジラ生存捕鯨およびフェロー諸島自治法",
+        "keyFeature": "グリーンランド自治政府がIWC基準に沿って大型鯨類の割当を管理。デンマーク本国はEU加盟国として商業捕鯨に反対する一方、自治領の自決権と伝統的鯨肉自給を法的に擁護。",
+        "source": {
+          "organization": "グリーンランド水産・狩猟・農業省 (Naalakkersuisut)",
+          "title": "Whaling in Greenland: Management of large whales and quota allocation",
+          "url": "https://naalakkersuisut.gl"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "環境保護・生物多様性保全法（EPBC Act）鯨類保護区制度",
+        "statusOrLevel": "豪州EEZ全域の「鯨類保護区（Australian Whale Sanctuary）」指定と国際反捕鯨運動",
+        "keyFeature": "鯨類の捕獲・殺傷・所持を重罪化。国際司法裁判所（ICJ）への提訴（南極海捕鯨裁判）を主導するなど、すべての商業捕鯨および調査捕鯨に対する完全禁止を国家基本方針として堅持。",
+        "source": {
+          "organization": "オーストラリア連邦気候変動・エネルギー・環境・水資源省 (DCCEEW)",
+          "title": "Australian Whale Sanctuary and international whale conservation policy",
+          "url": "https://www.dcceew.gov.au"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "水産法（Fisheries Act）および先住民族土地請求協定（イヌビアルイト等）",
+        "statusOrLevel": "1982年IWC脱退・自国法および先住民族との協定に基づく持続的自給捕鯨管理",
+        "keyFeature": "水産海洋省（DFO）がIWC外でイヌイット等の先住民族によるホッキョククジラ・ベルーガ捕鯨を科学的資源調査に基づいて許可。地域の共同管理委員会が捕獲枠を厳格に執行。",
+        "source": {
+          "organization": "カナダ水産海洋省 (Fisheries and Oceans Canada - DFO)",
+          "title": "Marine mammal management and Aboriginal subsistence harvesting",
+          "url": "https://www.dfo-mpo.gc.ca"
+        }
+      }
+    ]
+  }
 }

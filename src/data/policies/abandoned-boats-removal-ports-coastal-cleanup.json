@@ -205,5 +205,89 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Anchor"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の放置プレジャーボート・沈廃船強制撤去と係留保管法制",
+    "comparisonSummary": "沿岸や河川の放置艇・沈廃船問題に対し、米国（フロリダ州等）や英国、フランス、オーストラリアは、船舶登録制度の厳格化、公費代執行による強制撤去と競売、撤去基金（解体税）の創設など、法的所有者の特定と迅速な処分権限を法制化しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "フロリダ州放置・沈没船舶法（Derelict Vessel Removal Act）",
+        "statusOrLevel": "魚類野生生物保護委員会（FWC）による強制撤去・所有者への刑事罰と費用徴収",
+        "keyFeature": "ハリケーン等による放置船が頻発するため、公的登録データベースと連動し、通知後21日以内に是正しない放置艇を行政が強制撤去・解体。撤去費用を所有者に全額請求し、支払わない場合は運転免許や船舶登録を更新停止。",
+        "source": {
+          "organization": "フロリダ州魚類野生生物保護委員会 (FWC)",
+          "title": "Derelict Vessel Program and Vessel Turn-In Program (VTIP)",
+          "url": "https://myfwc.com"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "港湾令（Harbour Directions）および残置船舶撤去権限（Merchant Shipping Act）",
+        "statusOrLevel": "各港湾当局（Harbour Authorities）による危険放置艇の即時撤去・売却・廃棄権限",
+        "keyFeature": "海事沿岸警備庁（MCA）および地方港湾庁が、港湾内航路を妨害する無許可係留船に対し、7日間の催告後に強制曳航・撤去し、競売代金を滞納係留料や撤去費に充当する代執行手続を確立。",
+        "source": {
+          "organization": "英国海事沿岸警備庁 (MCA) / 英国港湾協会 (BPA)",
+          "title": "Harbour master powers and removal of wrecks and abandoned vessels",
+          "url": "https://www.gov.uk/government/organisations/maritime-and-coastguard-agency"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "プレジャーボート解体エコロジー機構（APER）および輸送法典撤去令",
+        "statusOrLevel": "船舶新車購入時環境賦課金（EPR）による廃船無料解体システムと行政代執行",
+        "keyFeature": "世界初のプレジャーボート拡大生産者責任（EPR）法制を導入。国公認組織APERが使用済みヨット・ボートを全国のリサイクル解体所で無償引き取り。放置艇には海事知事が没収・解体命令を発出。",
+        "source": {
+          "organization": "フランス海運・海洋事務局 (Secrétariat d'État chargé de la Mer) / APER",
+          "title": "Filière de déconstruction des bateaux de plaisance et gestion des épaves",
+          "url": "https://www.mer.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "クイーンズランド州海事安全法（War on Wrecks計画）",
+        "statusOrLevel": "クイーンズランド州海事安全局（MSQ）による1,000隻超の放置危険船強制撤去作戦",
+        "keyFeature": "グレートバリアリーフ等の海洋環境と航行安全を守るため、州政府が数千万豪ドルの特別基金を設置。所有者不明の放置艇を海事局が裁判所略式手続で接収し、破砕・リサイクル処理。",
+        "source": {
+          "organization": "オーストラリア・クイーンズランド州海事安全局 (MSQ)",
+          "title": "War on Wrecks initiative and abandoned vessel removal regulations",
+          "url": "https://www.msq.qld.gov.au"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "難破船・危険残置船舶法（Wrecked, Hazardous and Abandoned Vessels Act）",
+        "statusOrLevel": "船舶の意図的放棄に対する最高600万加ドルの巨額罰金および沿岸警備隊代執行",
+        "keyFeature": "カナダ運輸省と沿岸警備隊が、船舶所有者に一生涯の管理責任を法定義務化。放棄を連邦犯罪として厳罰化し、危険船舶評価プログラムを通じて公費で有害物質除去と撤去を実施。",
+        "source": {
+          "organization": "カナダ運輸省 (Transport Canada)",
+          "title": "Wrecked, Hazardous and Abandoned Vessels Act compliance guidelines",
+          "url": "https://tc.canada.ca"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦水路水運法（WaStrG）に基づく水上交通警察（WSP）撤去命令",
+        "statusOrLevel": "連邦水路における無許可係留・放置船の即時差押えおよび費用負担命令",
+        "keyFeature": "連邦水路水運総局（GDWS）が、ライン川やエルベ川などの内陸水路における放置艇に対し、航行阻害危険物件として即時執行（Unmittelbarer Zwang）で撤去・公売。",
+        "source": {
+          "organization": "ドイツ連邦水路水運総局 (GDWS)",
+          "title": "Wasserstraßen- und Schifffahrtsverwaltung - Beseitigung von Schifffahrtshindernissen",
+          "url": "https://www.wsv.de"
+        }
+      }
+    ]
+  }
 }

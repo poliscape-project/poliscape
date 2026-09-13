@@ -205,5 +205,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Clock"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の内航海運モーダルシフトと船員不足対応・自律運航船（MASS）実証",
+    "comparisonSummary": "トラック長距離輸送の脱炭素化と人手不足解消に向け、欧州（ノルウェー・オランダ・EU）は世界初の商用完全電動自動運航コンテナ船を就航。国際海事機関（IMO）でのMASSコード策定と連動し、内航海運の自動化と港湾クレーン自動荷役を国策支援しています。",
+    "countries": [
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "自律運航船実証海域指定およびヤラ・バークランド（Yara Birkeland）商業就航",
+        "statusOrLevel": "世界初・完全ゼロエミッション完全自動運航内航コンテナ船の商業運航公認",
+        "keyFeature": "海事総局（NMA）がフィヨルド沿岸に自動運航試験海域を指定。肥料大手YaraとKongsbergが開発した電動自律運航船を認可し、年間4万台の大型トラック輸送を内航海運へモーダルシフト。",
+        "source": {
+          "organization": "ノルウェー海事総局 (Norwegian Maritime Authority - NMA)",
+          "title": "Autonomous and remotely operated ships regulation and testing areas",
+          "url": "https://www.sdir.no"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "短距離内航海運（Short Sea Shipping）推進およびHORIZON海事自動化プロジェクト",
+        "statusOrLevel": "陸上トラック輸送の30%を2030年までに鉄道・内航水運へ転換する白書目標",
+        "keyFeature": "欧州運輸ネットワーク（TEN-T）「海の高速道路（Motorways of the Sea）」プログラムを通じ、港湾自動化と内航船電動化に大型助成。自律運航船（AUTOSHIPプロジェクト）の実証を支援。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - Mobility and Transport)",
+          "title": "Short Sea Shipping and Motorways of the Sea (MoS) policy framework",
+          "url": "https://transport.ec.europa.eu"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "内陸水運・内航船舶自動運航スマートシッピング（Smart Shipping）国家枠組み",
+        "statusOrLevel": "運河・ロッテルダム港における低速自動運航小型貨物船パイロット認可",
+        "keyFeature": "インフラ・水管理省が主導し、乗組員削減（スマートマンニング）を可能にする遠隔操縦船の実証特例を整備。ロッテルダム港から内陸へのコンテナピストン輸送を自動化。",
+        "source": {
+          "organization": "オランダインフラ・水管理省 (Rijkswaterstaat) / Smart Shipping Forum",
+          "title": "Smart Shipping: Roadmap towards autonomous inland navigation and coastal shipping",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "智能船舶発展行動計画および「智飛（Zhi Fei）」号自主運航コンテナ船",
+        "statusOrLevel": "青島・日照航路での300TEU級自律運航コンテナ船の正式商業航路投入",
+        "keyFeature": "交通運輸部がスマート海運ガイドラインを制定。人工知能による航路最適化、陸上遠隔操縦センター、自動係留・離着桟システムを統合した中型自律運航船の営業運航を世界に先駆けて公認。",
+        "source": {
+          "organization": "中国交通運輸部海事局 (China Maritime Safety Administration - MSA)",
+          "title": "智能船舶規範及び智能航運発展指導意見",
+          "url": "https://www.msa.gov.cn"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "海事2050戦略（Maritime 2050）および海事沿岸警備庁（MCA）海事技術ラボ（MARLab）",
+        "statusOrLevel": "自律運航船の規制枠組み法制化および沿岸モーダルシフト交付金制度",
+        "keyFeature": "Mode Shift Revenue Support（MSRS）制度により、道路から内航海運へモーダルシフトした荷主・船社にトンキロに応じた補助金を交付。MCAがMASS安全認証基準を整備。",
+        "source": {
+          "organization": "英国運輸省 (DfT) / 海事沿岸警備庁 (MCA)",
+          "title": "Maritime 2050: Navigating the Future and Mode Shift Revenue Support",
+          "url": "https://www.gov.uk/government/organisations/department-for-transport"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "自律運航船開発および商用化促進に関する法律（2024年成立）",
+        "statusOrLevel": "海洋水産部による実証海域指定・規制サンドボックスと国家大型R&D投資",
+        "keyFeature": "世界トップの造船技術を活かし、沿岸・外航自律運航船の法制化単独法を制定。遠隔操縦士資格の新設や免責ルールの整備を進め、内航船員の高齢化に対応する無人化技術を国家支援。",
+        "source": {
+          "organization": "韓国海洋水産部 (MOF)",
+          "title": "Act on the Promotion of Development and Commercialization of Autonomous Ships",
+          "url": "https://www.mof.go.kr"
+        }
+      }
+    ]
+  }
 }

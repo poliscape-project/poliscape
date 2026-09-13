@@ -179,5 +179,89 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の学校スポーツ・課外活動制度（学校分離・地域スポーツクラブモデル）",
+    "comparisonSummary": "日本の教員過重労働の温床となってきた部活動の地域移行に関し、欧州（ドイツ・フランス・北欧）は歴史的に「学校教育とスポーツ活動の完全分離（地域総合型クラブ運営）」が徹底されており、学校教員が部活指導を行う制度自体が存在しません。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "地域総合型スポーツクラブ（Sportverein）制度および学校・クラブ協定",
+        "statusOrLevel": "学校教育と課外スポーツの完全分離・放課後や週末は民間地域クラブが全年齢指導",
+        "keyFeature": "全国約9万の地域スポーツクラブ（全入会制・安価な月会費）に子どもが所属。指導は公認ライセンスを持つ地域の有償ボランティアやプロ指導員が担当し、学校教員の勤務負担は完全にゼロ。",
+        "source": {
+          "organization": "ドイツオリンピックスポーツ連盟 (DOSB) / 連邦内務省",
+          "title": "Sportvereine in Deutschland und Kooperation mit Ganztagsschulen",
+          "url": "https://www.dosb.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "全国学校スポーツ連合（UNSS）および自治体課外スポーツクラブ制度",
+        "statusOrLevel": "学校体育連盟（UNSS）任意参加枠と市町村青少年スポーツセンター（MJC）分離",
+        "keyFeature": "中等教育の体育教員は水曜午後等のUNSS活動を正規授業時間の一部として指導可能（時間外ボランティアではない）。本格的な競技や週末の試合は自治体スポーツクラブが引き受け、教員の休日拘束を排除。",
+        "source": {
+          "organization": "フランス国民教育・青少年省 / UNSS",
+          "title": "Le sport à l'école: Union Nationale du Sport Scolaire (UNSS) et clubs sportifs",
+          "url": "https://www.education.gouv.fr"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "スウェーデン・スポーツ連盟（Riksidrottsförbundet）青少年クラブ自律運営",
+        "statusOrLevel": "学校部活は存在せず、地域スポーツ協会が公的助成金を受けてすべて運営",
+        "keyFeature": "放課後のスポーツはすべて自治体所有の体育施設を利用した地域クラブ活動。国および基礎自治体が活動資金を補助金（LOK-stöd）として交付し、低所得家庭への会費補助も完備。",
+        "source": {
+          "organization": "スウェーデン・スポーツ連盟 (RF)",
+          "title": "Idrottsrörelsen i Sverige och statligt stöd till barn- och ungdomsidrott",
+          "url": "https://www.rf.se"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "PE & スポーツ・プレミアムおよび外部民間・地域コーチ委託システム",
+        "statusOrLevel": "政府交付金による外部専門コーチ雇用・教員の時間外無償指導義務なし",
+        "keyFeature": "政府が各学校に「PE and Sport Premium」基金を直接支給。放課後クラブの指導は外部の公認民間コーチに業務委託することが通例であり、教員が休日に無償で引率・指導する慣習は存在しない。",
+        "source": {
+          "organization": "英国教育省 (Department for Education - DfE)",
+          "title": "PE and sport premium for primary schools: funding and accountability",
+          "url": "https://www.gov.uk/government/organisations/department-for-education"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ハイスクール・アスレチック協会（NFHS）専任有償コーチ契約制度",
+        "statusOrLevel": "シーズン制（秋・冬・春で異なる競技）および独立した有償コーチ手当契約",
+        "keyFeature": "年間通じて同じ部活に縛られず、季節ごとに陸上・バスケ・アメフト等を選択。教員がコーチを務める場合も「独立した有償契約（Stipend）」が別途結ばれ、外部の専門コーチ雇用も広く認可。",
+        "source": {
+          "organization": "全米州立高校協会連盟 (NFHS)",
+          "title": "NFHS Coaching Requirements and High School Athletics Season Regulations",
+          "url": "https://www.nfhs.org"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "学校体育振興法（学校運動部専任コーチ制および学校スポーツクラブ分離）",
+        "statusOrLevel": "エリート選手育成（運動部）と一般生徒のスポーツクラブ（放課後地域連動）の制度的分離",
+        "keyFeature": "エリート運動部には教育庁が給与を支払う専任コーチを配置し、教員の引率負担を軽減。一般生徒向けには「週末学校スポーツクラブリーグ」を地域体育会と連携して運用。",
+        "source": {
+          "organization": "韓国教育部 (MOE) / 大韓体育会",
+          "title": "School Physical Education Promotion Act - School sports club guidelines",
+          "url": "https://www.moe.go.kr"
+        }
+      }
+    ]
+  }
 }

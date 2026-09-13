@@ -217,5 +217,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Cpu"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の外国資本・企業による農地取得規制と安全保障モニタリング法制",
+    "comparisonSummary": "食料安全保障や国土保全の観点から、米国（AFIDA改正・中国等敵対国購入禁止州法）、カナダ、オーストラリア、フランスなどは、外国資本による農地取得の事前審査、出資比率制限、事後所有登録の義務付けを急速に強化しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "外国農業投資開示法（AFIDA）および各州外国人農地取得禁止法（加州・フロリダ等）",
+        "statusOrLevel": "20州以上で中国・ロシア等「懸念国」個人・企業による農地・軍基地周辺土地取得禁止",
+        "keyFeature": "農務省（USDA）が外国人の農地所有保有率を全米監査。フロリダ州SB264法などは軍事施設周辺10マイル以内の農地・不動産取得を敵対国籍者に全面禁止し、違反時は州による強制没収手続を規定。",
+        "source": {
+          "organization": "米国農務省農政局 (USDA FSA)",
+          "title": "Agricultural Foreign Investment Disclosure Act (AFIDA) reporting requirements",
+          "url": "https://www.fsa.usda.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "対外買収・引受法（FATA）および外国投資審査委員会（FIRB）農地審査",
+        "statusOrLevel": "外国資本による累積1,500万豪ドル超の農地取得に対する厳格な事前認可義務化",
+        "keyFeature": "外資が豪州農地を購入する際、厳格な国益テスト（National Interest Test）を実施。国税庁（ATO）が外国籍者の保有する全農業用水・農地権利を登録簿（Agricultural Land Register）で常時公開。",
+        "source": {
+          "organization": "オーストラリア外国投資審査委員会 (FIRB) / 財務省",
+          "title": "Foreign investment framework - Agricultural land investments",
+          "url": "https://www.firb.gov.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "農業資産保有適正化法（Loi Sempastous 2021）およびSAFER出資持分事前審査",
+        "statusOrLevel": "企業出資持分（株式）譲渡を通じた外資による大規模農地買収に対する行政許可制",
+        "keyFeature": "中国資本による大規模小麦畑買収を契機に法改正。不動産売買だけでなく、農業法人株式の間接取得に対してもSAFERおよび地方長官（Préfet）への事前届出・審査を義務付け、集約上限を超過する買収を阻止。",
+        "source": {
+          "organization": "フランス農業・食料主権省 (Ministère de l'Agriculture)",
+          "title": "Loi Sempastous: contrôle des prises de participation dans les sociétés agricoles",
+          "url": "https://agriculture.gouv.fr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "サスカチュワン州農地安全法（Saskatchewan Farm Security Act）等の州別外資規制",
+        "statusOrLevel": "非居住外国人および外国支配法人の州内農地取得を10エーカー以下に厳格制限",
+        "keyFeature": "プレーリー穀倉地帯の州法により、カナダ国民・永住者以外の外国資本による農地買い占めを禁止。農地安全保障委員会（ASB）が疑わしい信託契約や間接出資を強制調査し売却命令。",
+        "source": {
+          "organization": "カナダ・サスカチュワン州政府農業省",
+          "title": "Farmland ownership in Saskatchewan - Ownership limits for non-residents",
+          "url": "https://www.saskatchewan.ca"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "海外投資法（Overseas Investment Act 2005）農地受益テスト",
+        "statusOrLevel": "外国人による高感度土地（農地5ヘクタール超）取得に対する「NZへの実質的利益」証明義務",
+        "keyFeature": "海外投資局（OIO）が審査。雇用創出や新技術導入など、一般の国内農家を上回る明確な経済的・環境的プラス効果（Benefit to NZ）を実証できない限り、外国資本への農地売却を不認可。",
+        "source": {
+          "organization": "ニュージーランド海外投資局 (Land Information New Zealand - LINZ)",
+          "title": "Overseas investment in sensitive land and farmland rules",
+          "url": "https://www.linz.govt.nz"
+        }
+      },
+      {
+        "country": "ブラジル",
+        "countryCode": "BR",
+        "flag": "🇧🇷",
+        "systemName": "連邦法第5709号（外資農地取得規制法）およびINCRA認可枠組み",
+        "statusOrLevel": "外国法人・外国人による各自治体農地総面積の25%（同一国籍者は10%）上限規制",
+        "keyFeature": "国立農地改革院（INCRA）が外資所有面積を厳格統制。一定規模（モジュロ）以上の農地取得には連邦議会または国防審議会（CONDEF）の国家安全保障承認を必須要件化。",
+        "source": {
+          "organization": "ブラジル国立植民地開拓・農地改革院 (INCRA)",
+          "title": "Aquisição de terras rurais por pessoas físicas e jurídicas estrangeiras",
+          "url": "https://www.gov.br/incra"
+        }
+      }
+    ]
+  }
 }
