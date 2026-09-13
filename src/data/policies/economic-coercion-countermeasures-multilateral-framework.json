@@ -185,5 +185,89 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における経済的威圧（Economic Coercion）対抗法制・多国間連携比較",
+    "comparisonSummary": "特定国による輸出入停止や恣意的通商規制を用いた外交圧力に対抗するため、EUの反威圧措置規則（ACI）やG7首脳合意に基づく多国間早期警戒・共同対抗メカニズムが急速に構築されています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "反威圧対抗措置規則（ACI: Anti-Coercion Instrument - Regulation (EU) 2023/2675）",
+        "statusOrLevel": "第三国からの経済的脅迫に対しEU共通の対抗関税・投資制限・知財保護停止を発動する法的枠組み",
+        "keyFeature": "加盟国が経済的脅迫を受けた場合、欧州委員会が調査しEU理事会が威圧行為と認定。交渉による解決を試みつつ、不調時は対抗関税や公共調達排除などの報復措置を一括発動。",
+        "source": {
+          "organization": "欧州委員会 (European Commission) / 欧州連合理事会",
+          "title": "EU Anti-Coercion Instrument (ACI) Regulation and deterrent measures",
+          "url": "https://policy.trade.ec.europa.eu"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "経済的威圧対抗タスクフォース法案および通商法301条・大統領非常時経済権限法（IEEPA）",
+        "statusOrLevel": "同盟国・同志国への威圧に対する貿易補填および関税優遇措置の立法化推進",
+        "keyFeature": "同盟国が威圧的禁輸を受けた際、米国内市場での輸入受け入れや輸出信用供与で被害を相殺。中国によるオーストラリアやリトアニアへの威圧に対し共同支援を展開。",
+        "source": {
+          "organization": "米国議会 (Congress) / 通商代表部 (USTR)",
+          "title": "Countering Economic Coercion Act and Trade Act Section 301 authorities",
+          "url": "https://www.congress.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "貿易多角化国家戦略およびWTO提訴・同盟国連携パッケージ",
+        "statusOrLevel": "大麦・ワイン・石炭等の対豪輸入規制に対するWTO紛争解決手続きと代替市場開拓",
+        "keyFeature": "特定国への過度な貿易依存を是正するため、東南アジア・インド・EUとのFTA締結を加速。政府支援でサプライチェーンの多角化を達成し威圧を無力化。",
+        "source": {
+          "organization": "オーストラリア外交貿易省 (DFAT)",
+          "title": "Trade 2040 Strategy: Diversifying Australia's trade and responding to coercive trade practices",
+          "url": "https://www.dfat.gov.au"
+        }
+      },
+      {
+        "country": "リトアニア",
+        "countryCode": "LT",
+        "flag": "🇱🇹",
+        "systemName": "国家安全保障強靱化法制およびEU・WTO連帯訴訟枠組み",
+        "statusOrLevel": "中国によるカスタム通関停止・欧州サプライチェーンからの排除圧力に対するEU全面連帯",
+        "keyFeature": "台湾代表処開設に伴う事実上の全面貿易封鎖に対し、EUを通じてWTOに提訴。EU緊急融資や同盟国からの代替部品調達で経済的耐性を維持。",
+        "source": {
+          "organization": "リトアニア経済イノベーション省 (EIMIN) / 外務省",
+          "title": "Economic resilience measures and EU solidarity against third-country economic coercion",
+          "url": "https://eimin.lrv.lt"
+        }
+      },
+      {
+        "country": "主要7カ国",
+        "countryCode": "G7",
+        "flag": "🌐",
+        "systemName": "G7経済的強靱性及び経済安全保障に関する首脳宣言（広島サミット）",
+        "statusOrLevel": "経済的威圧に関するG7調整プラットフォーム（Coordination Platform）創設",
+        "keyFeature": "威圧行為の早期警戒・情報共有を定例化。重要物資の備蓄協力や被害国へのサプライチェーン代替支援をG7同志国間で共同実行。",
+        "source": {
+          "organization": "G7サミット首脳宣言 / 外務省",
+          "title": "G7 Leaders' Statement on Economic Resilience and Economic Security",
+          "url": "https://www.mofa.go.jp"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国家安全保障・投資法（NSI Act 2021）および重要貿易強靱化フレームワーク",
+        "statusOrLevel": "戦略物資の特定国依存リスク分析および多国間対抗枠組みへの積極参画",
+        "keyFeature": "内閣府主導で経済安保インテリジェンスを統合。威圧に脆弱な重要鉱物や医薬品について、同盟国との供給融通枠組みを構築。",
+        "source": {
+          "organization": "英国企業・通商省 (DBT) / 内閣府",
+          "title": "National Security and Investment Act and Global Supply Chain Resilience",
+          "url": "https://www.gov.uk"
+        }
+      }
+    ]
+  }
 }

@@ -205,5 +205,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の災害避難所基準（TKB: トイレ・キッチン・ベッド）および人道的収容法制比較",
+    "comparisonSummary": "雑魚寝や劣悪な衛生環境による災害関連死を防ぐため、イタリア市民保護局のテント村・キッチンカー配備や国際赤十字スフィア基準など、トイレ・温かい食事・ベッド（TKB）の確保を法定義務とする改革が進んでいます。",
+    "countries": [
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "市民保護局（Protezione Civile）緊急避難キャンプ・TKB配備システム",
+        "statusOrLevel": "発災後48時間以内のコンテナ型仮設トイレ・温食キッチンカー・空調付き大型テント配備",
+        "keyFeature": "「体育館の雑魚寝」を人権侵害とみなし法律上禁止。全国各地の備蓄拠点から野外移動式厨房車、シャワー・水洗トイレトレーラーが即座に出動し、温かい食料と個室ベッドを即時提供。",
+        "source": {
+          "organization": "イタリア閣僚評議会市民保護局 (Dipartimento della Protezione Civile)",
+          "title": "Standard operativi per l'allestimento dei campi di accoglienza e moduli TKB",
+          "url": "https://www.protezionecivile.gov.it"
+        }
+      },
+      {
+        "country": "国際赤十字・人道基準",
+        "countryCode": "SPHERE",
+        "flag": "🌐",
+        "systemName": "スフィア基準（The Sphere Handbook: 人道憲章と人道支援活動における最低基準）",
+        "statusOrLevel": "1人あたり最低居住面積3.5㎡、トイレ20人に1基、1日1人最低15Lの安全な水確保",
+        "keyFeature": "国際的な人道支援のゴールドスタンダード。性別分離トイレ、夜間照明、プライバシー確保、要配慮者へのバリアフリーアクセスを最低人権基準として規定。",
+        "source": {
+          "organization": "スフィア・アソシエーション (Sphere Association)",
+          "title": "The Sphere Handbook: Humanitarian Charter and Minimum Standards in Disaster Response",
+          "url": "https://spherestandards.org"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "FEMA国家避難所ガイドライン（National Shelter System: NSS）および障害者法（ADA）基準",
+        "statusOrLevel": "アメリカ赤十字社（ARC）委託による事前指定避難所のコット（簡易ベッド）全数即時配備",
+        "keyFeature": "床への直接雑魚寝は禁止。避難所開設と同時に折りたたみ式コットと衛生キットを1人1台配布。ADA基準に基づき車椅子対応トイレや医療用電源を法定義務化。",
+        "source": {
+          "organization": "米国連邦緊急事態管理庁 (FEMA) / アメリカ赤十字社",
+          "title": "FEMA National Shelter System and Guidance on Planning for Mass Care",
+          "url": "https://www.fema.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦市民保護・災害支援庁（BBK）緊急避難収容所基準（Notunterkünfte-Leitfaden）",
+        "statusOrLevel": "技術救援隊（THW）によるモジュール型衛生コンテナ・給食トレーラーの迅速展開",
+        "keyFeature": "市民保護法に基づき、THWが独自の浄水・給電・給食独立プラントを現地構築。避難所内での心理社会的ケア（PSNV）要員の配置を標準化。",
+        "source": {
+          "organization": "ドイツ連邦市民保護・災害支援庁 (BBK) / 連邦技術救援隊 (THW)",
+          "title": "Empfehlungen für Notunterkünfte und Betreuungsdienst bei Großschadenslagen",
+          "url": "https://www.bbk.bund.de"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "国家緊急事態管理庁（NEMA）国民福祉センター（Civil Defence Welfare Centres）ガイドライン",
+        "statusOrLevel": "クライストチャーチ地震等を教訓とした避難所の福祉センター化と個室プライバシー保護",
+        "keyFeature": "避難者を「被災弱者」ではなく尊厳ある市民として位置づけ。仮設間仕切り、ペット同伴エリア、家族単位の滞在空間、文化・宗教的食事対応を法規化。",
+        "source": {
+          "organization": "ニュージーランド国家緊急事態管理庁 (NEMA)",
+          "title": "National Civil Defence Emergency Management Plan: Welfare Services in Emergency Shelters",
+          "url": "https://www.civildefence.govt.nz"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "災難及び安全管理基本法および災害救護法（臨時居住施設運営指針）",
+        "statusOrLevel": "体育館等の避難所における家族用ワンタッチ室内テント（個室化）および暖房マット100%支給",
+        "keyFeature": "プライバシー保護のため、発災直後から避難所内に全員分の室内テントを整然と設営。女性専用トイレや移動式洗濯・シャワー車両を自治体が事前契約配備。",
+        "source": {
+          "organization": "大韓民国行政安全部 (MOIS) / 希望ブリッジ全国災害救護協会",
+          "title": "Disaster Relief Shelter Operation Guidelines and Privacy Tent Deployment",
+          "url": "https://www.mois.go.kr"
+        }
+      }
+    ]
+  }
 }

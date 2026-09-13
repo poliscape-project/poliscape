@@ -247,5 +247,89 @@
         "commentStandard": "「補助金はいつか終わる一時しのぎ。再エネ賦課金や送配電コストの根本的見直しが必要」"
       }
     ]
+  },
+  "international": {
+    "title": "欧米主要国における光熱費・電気ガス料金激変緩和補助金および再エネ賦課金改革比較",
+    "comparisonSummary": "ウクライナ危機等による化石燃料価格高騰に対し、欧州諸国は料金シールド（価格上限）、超過利得税（連帯拠出金）、再エネ賦課金の国費肩代わりなど、数兆円〜数十兆円規模の家計・企業支援策を断行しました。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "電気・ガス料金ブレーキ法（Strompreisbremse / Erdgas-Wärme-Preisbremse）",
+        "statusOrLevel": "2,000億ユーロの防衛基金（WSF）を投じた基準使用量80%に対する上限価格保証",
+        "keyFeature": "一般家庭の前年消費量80%に対し、電気は40セント/kWh、ガスは12セント/kWhを上限とし、超過分を政府が電力ガス会社に全額補填。さらに再エネ賦課金（EEG賦課金）を完全廃止（国費負担化）。",
+        "source": {
+          "organization": "ドイツ連邦経済・気候保護省 (BMWK)",
+          "title": "Strompreis- und Gaspreisbremse und Abschaffung der EEG-Umlage",
+          "url": "https://www.bmwk.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "エネルギー価格保証（Energy Price Guarantee: EPG）および超過利得税（EPL）",
+        "statusOrLevel": "標準家庭の年間光熱費上限（2,500ポンド）設定およびエネルギー企業への75%超過利得税",
+        "keyFeature": "価格高騰分を政府が直接補助金として拠出する一方、化石燃料採掘企業や再エネ発電事業者の想定外利益（Windfall Profit）に対し巨額の超過利得税を課して財源回収。",
+        "source": {
+          "organization": "英国エネルギー安全保障・ネットゼロ省 (DESNZ) / 財務省 (HM Treasury)",
+          "title": "Energy Price Guarantee and Energy (Oil and Gas) Profits Levy",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "料金シールド（Bouclier tarifaire）および電力消費税（TICFE）最低税率引き下げ",
+        "statusOrLevel": "電気料金・ガス料金の法定値上げ率を最大4%〜15%に厳格制限（国費補填）",
+        "keyFeature": "国有電力会社EDFの原子力発電を活かしつつ、政府が一般家庭と零細企業の電気料金値上げを凍結。電気税をEU最低水準（1ユーロ/MWh）まで引き下げて家計を守る。",
+        "source": {
+          "organization": "フランス経済・財務・産業主権省 (Bercy) / 生態移行省",
+          "title": "Bouclier tarifaire pour le gaz et l'électricité et mesures exceptionnelles",
+          "url": "https://www.economie.gouv.fr"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EUエネルギー緊急介入規則（Regulation (EU) 2022/1854）",
+        "statusOrLevel": "インフラ限界発電事業者（再エネ・原発等）への収入上限（180ユーロ/MWh）および連帯拠出金",
+        "keyFeature": "化石燃料市場連動による再エネ・原発企業の過剰利益を強制的に徴収し、各加盟国が困窮世帯・中小企業の光熱費軽減補助金に直接充当する共通ルールを制定。",
+        "source": {
+          "organization": "欧州理事会 (Council of the EU) / 欧州委員会",
+          "title": "Emergency intervention to address high energy prices (Regulation (EU) 2022/1854)",
+          "url": "https://www.consilium.europa.eu"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "低所得家庭エネルギー支援プログラム（LIHEAP）およびIRAクリーンエネルギー支援",
+        "statusOrLevel": "連邦直接補助による暖房・冷房費支援拡大（数十億ドル追加拠出）",
+        "keyFeature": "貧困・高齢世帯への光熱費直接助成（LIHEAP）を大幅増額。インフレ抑制法（IRA）に基づき、家庭のヒートポンプ・断熱窓改修に対する最大数千ドルの税額控除・補助金を交付。",
+        "source": {
+          "organization": "米国保健福祉省 (HHS) / エネルギー省 (DOE)",
+          "title": "Low Income Home Energy Assistance Program (LIHEAP) and Inflation Reduction Act rebates",
+          "url": "https://www.acf.hhs.gov"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "エネルギーバウチャー制度および韓国電力公社（KEPCO）電気料金段階調整",
+        "statusOrLevel": "基礎生活受給者・低所得世帯への冬期・夏期エネルギーバウチャー支給額倍増",
+        "keyFeature": "物価安定のため電気料金値上げを抑制した結果、韓電が数十兆ウォンの巨額累積赤字を計上。脆弱階層への料金割引とバウチャー支給を優先しつつ料金正常化を模索。",
+        "source": {
+          "organization": "大韓民国産業通商資源部 (MOTIE) / 韓国エネルギー公団 (KEA)",
+          "title": "Energy Voucher System and Vulnerable Households Support Measures",
+          "url": "https://www.motie.go.kr"
+        }
+      }
+    ]
   }
 }

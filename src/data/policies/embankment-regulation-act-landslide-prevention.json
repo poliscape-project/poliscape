@@ -205,5 +205,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Layers"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の盛土・切土造成土工規制および斜面崩落・土砂災害防止法制比較",
+    "comparisonSummary": "不法・ずさんな盛土造成による大規模土石流災害（熱海土石流災害等）を教訓とした規制強化に対し、世界最高峰の斜面防災体制を持つ香港や米国の土工許認可基準、土地利用ゾーニングが運用されています。",
+    "countries": [
+      {
+        "country": "香港",
+        "countryCode": "HK",
+        "flag": "🇭🇰",
+        "systemName": "土木工程拓展署（CEDD）土力工程処（GEO）斜面安全管理システム",
+        "statusOrLevel": "世界で最も厳格な盛土・切土事前審査制度および登録斜面6万カ所の定期総点検",
+        "keyFeature": "1970年代の土石流大惨事を機に創設。あらゆる造成盛土工事に有資格地盤技術者（Geotechnical Engineer）の設計・常駐検査を法定義務化。崩落死者ゼロを長期達成。",
+        "source": {
+          "organization": "香港特別行政区土木工程拓展署 (CEDD) 土力工程処 (GEO)",
+          "title": "Slope Safety System in Hong Kong and Geotechnical Control Regulations",
+          "url": "https://www.cedd.gov.hk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国際建築規範（IBC）付録J（造成・盛土工法規: Grading Regulations）",
+        "statusOrLevel": "各州・郡自治体による盛土造成工事許可（Grading Permit）の完全義務化と厳格検査",
+        "keyFeature": "一定量以上の盛土・切土を行う場合、事前地質調査報告書、締固め度90%以上検査、擁壁・排水溝設計の承認を義務付け。無許可造成には即時工事停止命令と巨額過料。",
+        "source": {
+          "organization": "国際コード協議会 (ICC) / ロサンゼルス郡土木局等",
+          "title": "International Building Code Appendix J (Grading and Embankment Regulations)",
+          "url": "https://www.fema.gov"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "水土保持法および山坡地保育利用条例",
+        "statusOrLevel": "山間部・傾斜地における盛土造成に対する水土保持計画承認義務化および罰則（懲役刑）",
+        "keyFeature": "台風による土砂崩落を防ぐため、山坡地での無許可土砂埋め立てに対し最高数年の懲役刑を含む厳罰を規定。衛星画像・ドローンAI検知による違法盛土のリアルタイム監視。",
+        "source": {
+          "organization": "台湾農業部農村発展及水土保持署 (Agency of Rural Development and Soil and Water Conservation)",
+          "title": "Soil and Water Conservation Act and Slopeland Management System",
+          "url": "https://www.ardswc.gov.tw"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦土壌保全法（BBodSchG）および連邦建設法典（BauGB）造成工事基準",
+        "statusOrLevel": "建設残土・産業廃棄物の不法盛土処分に対する環境刑法（StGB § 326）厳罰適用",
+        "keyFeature": "盛土材の有害物質溶出基準（代替建築材料令: ErsatzbaustoffV）を厳格統一。土砂の発生元から造成地までの電子マニフェスト追跡を義務化。",
+        "source": {
+          "organization": "ドイツ連邦環境省 (BMUV) / 連邦住宅・都市開発・建築省 (BMWSB)",
+          "title": "Bundes-Bodenschutzgesetz (BBodSchG) und Ersatzbaustoffverordnung",
+          "url": "https://www.bmuv.de"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "資源管理法（RMA: Resource Management Act）アースワークス（Earthworks）規制",
+        "statusOrLevel": "地方自治体（Regional Council）による盛土・土工環境同意（Resource Consent）義務化",
+        "keyFeature": "地震やサイクロンに伴う土砂流出を防ぐため、盛土の勾配制限、土砂流出防止フェンス設置、造成後の植生回復を法的に強制。違反造成者への原状回復命令。",
+        "source": {
+          "organization": "ニュージーランド環境省 (Ministry for the Environment)",
+          "title": "Resource Management Act and Earthworks management guidance",
+          "url": "https://environment.govt.nz"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "水理地質学的リスク対策特別計画（PAI: Piani di Assetto Idrogeologico）",
+        "statusOrLevel": "土砂崩落・土石流危険ゾーニング（R1〜R4）および危険区域での盛土造成全面禁止",
+        "keyFeature": "全土の河川流域公社が斜面安定性マップを策定。高危険度（R3/R4）地域における新たな盛土・切土開発を法律で全面禁止し、既存危険盛土の強制撤去・補強を実施。",
+        "source": {
+          "organization": "イタリア環境・エネルギー安全保障省 (MASE) / 市民保護局",
+          "title": "Dissesto idrogeologico: Piani di Assetto Idrogeologico (PAI) e linee guida",
+          "url": "https://www.mase.gov.it"
+        }
+      }
+    ]
+  }
 }

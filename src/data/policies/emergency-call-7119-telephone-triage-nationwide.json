@@ -211,5 +211,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Building"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の緊急通報（911/999/112）と非緊急医療電話相談・トリアージ連携システム比較",
+    "comparisonSummary": "救急搬送の逼迫と軽症者の適正誘導のため、英国のNHS 111やドイツの116 117など、緊急救急通報（999/112等）と緊密に連携した24時間電話・オンライン臨床トリアージ体制が各国で確立されています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS 111（24時間無料医療電話相談・臨床トリアージサービス）",
+        "statusOrLevel": "緊急救急（999）と完全統合された非緊急トリアージ・年間約2,000万件対応",
+        "keyFeature": "訓練されたオペレーターと看護師・医師が「NHS Pathways」臨床プロトコルを用いてトリアージ。必要に応じて救急車の即時出動手配や時間外診療所・薬局の予約を代行。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS England)",
+          "title": "NHS 111 service: Telephone and online urgent care triage",
+          "url": "https://www.england.nhs.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "全国待機医師コールセンター（Rufnummer 116 117: Ärztlicher Bereitschaftsdienst）",
+        "statusOrLevel": "法定健康保険待機医師網と連携した夜間・休日非緊急医療電話相談",
+        "keyFeature": "救急通報（112）と電話番号を完全に棲み分け。116 117では医学的評価システム（SmED）により、往診医師の派遣、最寄りの救急診療所案内、112転送を即時判定。",
+        "source": {
+          "organization": "ドイツ法定健康保険医協会連合会 (KBV) / 連邦保健省 (BMG)",
+          "title": "Patientenservice 116 117 und Strukturierte Medizinische Ersteinschätzung (SmED)",
+          "url": "https://www.116117.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "ヘルスダイレクト・オーストラリア（Healthdirect: 1800 022 222）",
+        "statusOrLevel": "連邦・各州政府共同出資の24時間登録看護師（RN）直通トリアージ電話相談",
+        "keyFeature": "救急通報（000）との相互転送協定を締結。看護師が臨床アルゴリズムに基づき「今すぐ救急車」「数時間以内にGP受診」「自宅自己ケア」を明確に指示。",
+        "source": {
+          "organization": "オーストラリア連邦保健・高齢者福祉省 / Healthdirect Australia",
+          "title": "Healthdirect nurse triage line and after-hours GP services",
+          "url": "https://www.healthdirect.gov.au"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "各州ヘルスリンク電話相談（811: Telehealth / Info-Santé）",
+        "statusOrLevel": "全州統一の3桁非緊急医療電話相談および救急（911）連携",
+        "keyFeature": "登録看護師、管理栄養士、薬剤師がチームで待機。911コールセンターとシステム連携し、救急要請のうち緊急性の低い通報を811へ転送して不必要な出動を回避。",
+        "source": {
+          "organization": "オンタリオ州保健省 / ブリティッシュコロンビア州HealthLinkBC",
+          "title": "811 HealthLink services and Emergency Medical Services integration",
+          "url": "https://www.healthlinkbc.ca"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "911救急通報・看護師トリアージ（Nurse Triage in 911）および311市行政相談",
+        "statusOrLevel": "全米主要都市救急指令台における低緊急度コール（Alpha/Omegaレベル）の看護師振分",
+        "keyFeature": "911を受けた指令台が重症度を自動分類し、軽症コールは専任看護師に転送。タクシー・ライドシェアによるクリニック搬送バウチャー発行等で救急隊負担を軽減。",
+        "source": {
+          "organization": "米国連邦高速道路交通安全局 (NHTSA) 救急医療局 (EMS)",
+          "title": "Emergency Medical Dispatch and Nurse Triage Integration in 911 Centers",
+          "url": "https://www.ems.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "緊急医療援助サービス（SAMU 15）救急調整医師（Médecin Régulateur）システム",
+        "statusOrLevel": "医師が直接通報を聞き取り救急車（SMUR）出動や一般医案内を決定する国家体制",
+        "keyFeature": "全救急通報（15番）が常駐医師の判断を経由する独自のトリアージ設計。真の重症事案のみに医師同乗の高機能救急車を派遣し、軽症には時間外開業医を差配。",
+        "source": {
+          "organization": "フランス連帯・保健省 (Ministère de la Santé) / SAMU de France",
+          "title": "Le service d'aide médicale urgente (SAMU) et la régulation médicale",
+          "url": "https://sante.gouv.fr"
+        }
+      }
+    ]
+  }
 }

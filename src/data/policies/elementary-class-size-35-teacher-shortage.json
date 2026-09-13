@@ -205,5 +205,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Scale"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の初等中等教育における学級規模（Class Size）基準および教員不足対策比較",
+    "comparisonSummary": "少人数学級によるきめ細かな指導と全国的な教員不足（Teacher Shortage）のジレンマに対し、各国は法定上限人数の設定、複数担任・特別支援員の配置、教員資格取得パスの柔軟化で対処しています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "優先教育地域（REP/REP+）学級規模半減政策（Dédoublement des classes）",
+        "statusOrLevel": "貧困・教育困難地域の小学校1〜2年生における「1クラス12人学級」の完全実施",
+        "keyFeature": "基礎学力格差を是正するため数千億円を投じ学級規模を半減。教員定数を集中的に傾斜配分し、対象校の教員には特別手当を支給して人材流出を防止。",
+        "source": {
+          "organization": "フランス国民教育・青少年省 (MENJ)",
+          "title": "Le dédoublement des classes de CP et CE1 en éducation prioritaire",
+          "url": "https://www.education.gouv.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "幼児期・初等学級上限法制（School Standards and Framework Act 1998）および教員採用奨励金",
+        "statusOrLevel": "5〜7歳児（Key Stage 1）の学級規模を「教員1人あたり最大30人」と法定義務化",
+        "keyFeature": "法律で30人上限を厳格義務付け（例外は極めて限定的）。深刻な教員不足に対し、理数科等の教員養成生に最大3万ポンドの非課税奨学金を給付。",
+        "source": {
+          "organization": "英国教育省 (DfE)",
+          "title": "Infant class sizes: guidance for schools and Teacher recruitment funding",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "クラスサイズ縮小（CSR）州法制および代替教員免許認定（Alternative Certification）",
+        "statusOrLevel": "カリフォルニア州やフロリダ州等での1クラス18〜22人上限条例と緊急教員採用",
+        "keyFeature": "少人数学級化に伴う教員不足に対し、他業種社会人を対象とした有給研修型代替教員免許プログラム（Teach for Americaや学徒研修型アプレンティスシップ）を展開。",
+        "source": {
+          "organization": "米国教育省 (ED) / カリフォルニア州教育局 (CDE)",
+          "title": "Class Size Reduction Programs and Alternative Routes to Teacher Certification",
+          "url": "https://www.ed.gov"
+        }
+      },
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "基礎教育法（Basic Education Act）柔軟学級編成およびコ・ティーチング（複数指導体制）",
+        "statusOrLevel": "法定の厳格人数上限を設けず平均20人前後を維持・教職志望倍率の世界的高さ",
+        "keyFeature": "教員が修士号必修で高い社会的信用と教育裁量を持つため教員不足が起きにくい。困難な学級には特別支援教員やアシスタントを複数加配するティームティーチングを標準化。",
+        "source": {
+          "organization": "フィンランド国家教育庁 (OPH) / 教育文化省 (OKM)",
+          "title": "Basic education structure and teacher education in Finland",
+          "url": "https://www.oph.fi"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "州文相会議（KMK）学級定員指針および横断採用（Quereinsteiger）特例",
+        "statusOrLevel": "各連邦州（Länder）による1クラス20〜25人指針と教員不足対策緊急協定",
+        "keyFeature": "教員不足が最も深刻な東部諸州等を中心に、教育学部卒以外の一般大学卒業生を正規教員として採用・育成するキャリアチェンジ制度（横断参入）を大規模展開。",
+        "source": {
+          "organization": "ドイツ州文相会議 (KMK) / 連邦教育研究省 (BMBF)",
+          "title": "Maßnahmen der Länder zur Sicherung des Lehrkräftebedarfs",
+          "url": "https://www.kmk.org"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "初中等教育法改正（学級規模適正化目標）および教員定数・任用試験制度",
+        "statusOrLevel": "学級あたり児童数28人上限化の段階的推進と過密学区解消プロジェクト",
+        "keyFeature": "新都市部の過密学級（30人以上）解消に向け校舎増築を公費支援。教員採用試験（任用考試）の高倍率を維持しつつ、過密地区への教員優先配置を実施。",
+        "source": {
+          "organization": "大韓民国教育部 (MOE) / 各市道教育庁",
+          "title": "Policy for Resolving Overcrowded Classes and Teacher Quota Allocation",
+          "url": "https://www.moe.go.kr"
+        }
+      }
+    ]
+  }
 }

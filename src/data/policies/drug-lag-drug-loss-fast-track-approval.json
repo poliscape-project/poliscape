@@ -211,5 +211,89 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "HeartPulse"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における新薬審査の迅速化（Fast Track）およびドラッグ・ラグ／ドラッグ・ロス対策",
+    "comparisonSummary": "生命を脅かす重篤疾患の新薬を迅速に患者へ届けるため、米国FDAのBreakthrough Therapy指定や欧州EMAのPRIME制度など、開発早期からの薬事助言と優先迅速審査パスウェイが各国で導入されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "FDA画期的治療薬指定（Breakthrough Therapy Designation）および迅速承認制度",
+        "statusOrLevel": "臨床試験デザインへのFDA幹部伴走助言・代替エンドポイントによる条件付き早期承認",
+        "keyFeature": "既存治療を大幅に上回る新薬候補に対し、審査期間を6カ月に短縮する優先審査権やローリング・レビュー（段階的データ提出）を適用し世界最速の承認を実現。",
+        "source": {
+          "organization": "米国食品医薬品局 (FDA)",
+          "title": "Expedited Programs for Serious Conditions: Fast Track, Breakthrough, Accelerated Approval",
+          "url": "https://www.fda.gov"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州医薬品庁（EMA）PRIME制度（Priority Medicines）および条件付き販売承認（CMA）",
+        "statusOrLevel": "アンメット・メディカル・ニーズの高い新薬に対する早期科学的対話と迅速評価",
+        "keyFeature": "治験第2相段階から専任のEMA報告者が継続支援。未充足医療ニーズに対し、完全な臨床データ提出前に市販後検証を条件に条件付き承認を付与。",
+        "source": {
+          "organization": "欧州医薬品庁 (EMA)",
+          "title": "PRIME: priority medicines and conditional marketing authorisation",
+          "url": "https://www.ema.europa.eu"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "革新的ライセンス・アクセス・パスウェイ（ILAP）およびイノベーション・パスポート",
+        "statusOrLevel": "MHRA・NICE・SMCが一体となった薬事承認・医療技術評価（HTA）同時並行審査",
+        "keyFeature": "ブレグジット後に導入。創薬ベンチャーに対し薬事承認と保険収載（NHS償還）の協議を同時進行させ、治験からNHS日常臨床へのアクセス期間を劇的に短縮。",
+        "source": {
+          "organization": "英国医薬品・医療製品規制庁 (MHRA) / 国立医療技術評価機構 (NICE)",
+          "title": "Innovative Licensing and Access Pathway (ILAP)",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "早期アクセス承認制度（Dispositif d'accès précoce - HAS/ANSM）",
+        "statusOrLevel": "正式承認前または保険収載前の未承認薬に対する100%全額公費償還による早期投与",
+        "keyFeature": "有効性が期待される革新的医薬品について、正式薬価決定を待たずに製薬企業と暫定合意し病院で投与開始。製薬企業は後日決定薬価との差額を精算。",
+        "source": {
+          "organization": "フランス高等保健機構 (HAS) / 国立医薬品安全庁 (ANSM)",
+          "title": "L'accès précoce et compassionnel aux médicaments",
+          "url": "https://www.has-sante.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "画期的抗がん剤・希少疾患治療薬迅速審査（GIFT）制度",
+        "statusOrLevel": "食品医薬品安全処（MFDS）による審査期間の最大75%短縮（120日以内審査）",
+        "keyFeature": "審査員と製薬企業の1対1専任マッチング支援。海外治験データの積極的受け入れとリアルワールドデータ（RWD）を活用した迅速審査を法制化。",
+        "source": {
+          "organization": "大韓民国食品医薬品安全処 (MFDS)",
+          "title": "Global Innovative Products on Fast Track (GIFT) Program",
+          "url": "https://www.mfds.go.kr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "条件付き適格通知制度（NOC/c: Notice of Compliance with Conditions）",
+        "statusOrLevel": "重篤・生命を脅かす疾患に対する早期有望データの条件付き迅速市場投入認可",
+        "keyFeature": "市販後に追加の検証的治験（Confirmatory trials）の実施を法定義務付け、審査期間を通常より大幅に短縮して患者アクセスを確保。",
+        "source": {
+          "organization": "カナダ保健省 (Health Canada)",
+          "title": "Notice of Compliance with Conditions (NOC/c) Guidance Document",
+          "url": "https://www.canada.ca"
+        }
+      }
+    ]
+  }
 }

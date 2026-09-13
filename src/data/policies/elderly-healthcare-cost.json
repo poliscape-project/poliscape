@@ -241,5 +241,89 @@
         "commentStandard": "「激変緩和措置が終了したことで、外来負担の増加による早期受診の遅れが懸念される」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国における高齢者医療費の自己負担割合・所得連動および負担上限法制比較",
+    "comparisonSummary": "高齢化に伴う医療財政の持続可能性と受診アクセスの両立に向け、各国は自己負担の原則無料化（英国）、定額制＋所得連動上限（独・仏・北欧）、民間補足保険と公的メディケア（米国）など多様な設計をとっています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国民保健サービス法（NHS Act 2006）原則無料受診制度",
+        "statusOrLevel": "60歳以上の外来・入院診療費および処方箋調剤費の完全無料化（窓口負担ゼロ）",
+        "keyFeature": "一般税財源を主たる原資とし、原則として年齢・所得に関わらずNHS受診時の自己負担なし。財政負担は全世代の一般税制（所得税・国民保険料）で吸収。",
+        "source": {
+          "organization": "英国保健社会的ケア省 (DHSC) / NHS",
+          "title": "NHS charges and free prescriptions eligibility",
+          "url": "https://www.nhs.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "社会法典第5巻（SGB V）法定健康保険（GKV）定額自己負担および年収上限免除制度",
+        "statusOrLevel": "外来受診無料・処方薬1回5〜10ユーロ定額負担・年間自己負担上限は世帯年収の2%（慢性疾患患者は1%）",
+        "keyFeature": "高齢者であっても現役世代と同じ定額自己負担ルールを適用。ただし年金生活者等に対しては年収の1%（慢性疾患）を超えた負担分を全額払い戻す免除カードを即時交付。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG) / GKV連邦協会",
+          "title": "Zuzahlungen und Befreiung von Zuzahlungen in der gesetzlichen Krankenversicherung",
+          "url": "https://www.bundesgesundheitsministerium.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "社会保障法典（Code de la sécurité sociale）長期慢性疾患（ALD）100%全額償還制度",
+        "statusOrLevel": "高血圧・糖尿病・がん等の指定慢性疾患（ALD）治療費の患者自己負担完全ゼロ",
+        "keyFeature": "75歳以上の大半がALD認定を受けており、慢性疾患に関する診察・医薬品は公的保険（Assurance Maladie）が100%直接負担。残余分も公的互助保険（CSS）でカバー。",
+        "source": {
+          "organization": "フランス公的医療保険機構 (Assurance Maladie - Ameli) / 連帯保健省",
+          "title": "Affections de longue durée (ALD) et prise en charge à 100%",
+          "url": "https://www.ameli.fr"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "医療法（Hälso- och sjukvårdslag）高額療養費保護上限制度（Högkostnadsskydd）",
+        "statusOrLevel": "年間外来自己負担上限約1,300クローナ（約1万8,000円）および医薬品年間上限約2,600クローナ",
+        "keyFeature": "外来受診1回ごとに100〜300クローナを支払うが、年間の累計負担が法定上限額に達した時点で「無料カード（Frikort）」が発行され、その後の受診は完全無料化。",
+        "source": {
+          "organization": "スウェーデン公衆衛生庁 (Folkhälsomyndigheten) / 地方自治体連合 (SKR)",
+          "title": "Patientavgifter och högkostnadsskydd i hälso- och sjukvården",
+          "url": "https://www.folkhalsomyndigheten.se"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦高齢者医療保険（メディケア: Medicare Part A/B/D）および低所得者補助（Extra Help）",
+        "statusOrLevel": "Part B（外来）自己負担割合原則20%（控除額あり）＋Part D（処方薬）年間自己負担上限2,000ドル法制化（IRA）",
+        "keyFeature": "65歳以上全員が加入するが、窓口負担20%を補うため多くの高齢者が民間補足保険（メディギャップ）に自己負担で加入。バイデン政権のIRA法で処方薬上限額を厳格制限。",
+        "source": {
+          "organization": "米国メディケア・メディケイド・サービス庁 (CMS)",
+          "title": "Medicare Costs and Coverage Choices for Seniors",
+          "url": "https://www.medicare.gov"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "国民健康保険法における高齢者外来定額・定率制および本人負担上限制",
+        "statusOrLevel": "65歳以上の一次医療機関外来に対する段階的定額制（1,500〜1,900ウォン）および所得区分別上限額設定",
+        "keyFeature": "診療費総額が一定基準以下の場合は定額の少額負担のみ。所得水準を10分位に分け、年間自己負担上限（最低約87万ウォン〜）を超えた全額を事後払い戻し。",
+        "source": {
+          "organization": "大韓民国国民健康保険公団 (NHIS) / 保健福祉部",
+          "title": "Elderly Outpatient Consultation Fee System and Copayment Ceiling",
+          "url": "https://www.nhis.or.kr"
+        }
+      }
+    ]
   }
 }

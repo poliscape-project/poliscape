@@ -261,5 +261,89 @@
         "commentStandard": "「特定重要物資の指定や補助金交付の基準が恣意化し、自由貿易体制を歪め相手国からの報復措置を招く恐れがある」"
       }
     ]
+  },
+  "international": {
+    "title": "世界の戦略物資リショアリング（国内回帰）・フレンドショアリング推進法制比較",
+    "comparisonSummary": "パンデミックや地政学的緊張で露呈したサプライチェーン脆弱性を克服するため、特定国への過度な生産依存からの脱却、工場国内回帰（リショアリング）、同志国連携（フレンドショアリング）への公的支援が展開されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "大統領令14017号（アメリカのサプライチェーン強靱化）および国防生産法（DPA）Title III",
+        "statusOrLevel": "重要医薬品原薬、希土類（レアアース）、大型変圧器等の国内製造工場再建への直接出資",
+        "keyFeature": "国防生産法を発動し、民間企業に対し戦略物資国内生産設備の建設費を全額補填。バイ・アメリカン法（Buy American）調達基準を強化し国内製品購入を義務化。",
+        "source": {
+          "organization": "米国国防総省 (DoD) / 商務省 (DOC)",
+          "title": "Executive Order 14017 and Defense Production Act Title III Investments",
+          "url": "https://www.defense.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "France 2030国家投資計画および医薬品国内回帰構想（Relocalisation）",
+        "statusOrLevel": "重要必須医薬品（パラセタモール等）50品目の国内製造回帰に対する直接助成金給付",
+        "keyFeature": "海外原薬依存による欠品を防ぐため、国内製薬工場増設・近代化費用の最大半分を政府が補助。環境基準を満たした国産品に対する公的保険償還上の優遇を付与。",
+        "source": {
+          "organization": "フランス経済・財務・産業主権省 (Bercy) / 厚生省",
+          "title": "France 2030: Plan de relocalisation de la production de médicaments essentiels",
+          "url": "https://www.economie.gouv.fr"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "単一市場緊急事態協定（IMERA / SMEI: Single Market Emergency Instrument）",
+        "statusOrLevel": "危機時における戦略物資備蓄義務付け・域内製造ライン転換・共同調達権限の創設",
+        "keyFeature": "サプライチェーン途絶時に欧州委員会が戦略物資の加盟国間配分や輸出制限を統制。域内サプライヤーのリスト化と重要原材料の共同購入を推進。",
+        "source": {
+          "organization": "欧州委員会 (European Commission) / 欧州議会",
+          "title": "Internal Market Emergency and Resilience Act (IMERA)",
+          "url": "https://single-market-economy.ec.europa.eu"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "経済安保供給網管理基本法（供給網安定化法: 2024年施行）",
+        "statusOrLevel": "5兆ウォン規模の供給網安定化基金造成および先導事業者支援",
+        "keyFeature": "企画財政部が大統領直属の供給網安定化委員会を設置。尿素水や希土類等の必需品について、国内工場新設や輸入先多角化を行う企業に低利融資と税額控除を提供。",
+        "source": {
+          "organization": "大韓民国企画財政部 (MOEF)",
+          "title": "Framework Act on Supply Chain Stabilization for Economic Security",
+          "url": "https://www.moef.go.kr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家再構築基金法（National Reconstruction Fund: NRF 150億豪ドル）",
+        "statusOrLevel": "国内重要製造業（医療科学、防衛、再生可能エネルギー低炭素技術）再生基金",
+        "keyFeature": "独立公社NRFが重要物資の国内製造プロジェクトに共同出資や融資保証を提供。海外依存の高い重要医薬品や先端金属の国内加工キャパシティを自給化。",
+        "source": {
+          "organization": "オーストラリア産業・科学・資源省 (DISR) / NRF Corporation",
+          "title": "National Reconstruction Fund Corporation: Priority Investment Areas",
+          "url": "https://www.industry.gov.au"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "重要鉱物戦略（Critical Minerals Strategy）およびレジリエンス・ダイレクター制度",
+        "statusOrLevel": "重要鉱物インテリジェンスセンター（CMIC）による脆弱性特定と国内リサイクル加工助成",
+        "keyFeature": "英国地質調査所（BGS）内に専任分析センターを設立。サプライチェーンのボトルネック品目を特定し、国内の精錬・廃バッテリーリサイクル工場へ公費助成。",
+        "source": {
+          "organization": "英国企業・通商省 (DBT) / British Geological Survey",
+          "title": "Resilience for the Future: The UK's Critical Minerals Strategy",
+          "url": "https://www.gov.uk"
+        }
+      }
+    ]
   }
 }

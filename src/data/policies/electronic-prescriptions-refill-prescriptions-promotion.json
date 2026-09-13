@@ -179,5 +179,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の反復処方箋（Refill / Repeat Prescriptions）制度および電子調剤連携比較",
+    "comparisonSummary": "慢性疾患患者の通院負担軽減と医師の業務効率化のため、欧米諸国では医師が診察時に反復調剤（リフィル）を指示し、一定期間内に複数回薬局で直接薬を受け取れる制度が主流となっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "処方箋リフィル制度（Prescription Refills - 各州薬事法および連邦CSA規則）",
+        "statusOrLevel": "非麻薬性慢性疾患薬において最大1年間有効・最大11回のリフィル処方が一般的",
+        "keyFeature": "患者は医師の再診なしに薬局アプリや電話自動音声でリフィルを要請し調剤受領。薬局が自動リフィル・郵送配送を行いアドヒアランス（服薬遵守）を向上。",
+        "source": {
+          "organization": "米国食品医薬品局 (FDA) / 麻薬取締局 (DEA)",
+          "title": "Prescription Refills and Controlled Substances Schedules",
+          "url": "https://www.fda.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "電子リピート調剤制度（Electronic Repeat Dispensing: eRD）",
+        "statusOrLevel": "GPが最長12カ月分の反復処方を一括電子承認し定期的に薬局から受取可能",
+        "keyFeature": "患者は毎月GPを受診する必要がなく、薬局の薬剤師が服薬状況や体調変化を対面・電話確認した上で次回分を調剤。GPの診察予約枠逼迫を劇的に緩和。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS Digital) / 英国医師会 (BMA)",
+          "title": "Electronic Repeat Dispensing (eRD) guidance for GP practices and pharmacies",
+          "url": "https://digital.nhs.uk"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "各州薬事法リフィル規定および薬剤師による処方箋更新・延長（Prescribing Authority）",
+        "statusOrLevel": "慢性疾患薬のリフィル処方および薬剤師自身による安全な処方延長権限の法制化",
+        "keyFeature": "オンタリオ州やアルバータ州等では、医師のリフィル回数が切れた場合でも、薬剤師が患者の病状を評価して最大数カ月分の処方箋を独自に延長・更新可能。",
+        "source": {
+          "organization": "カナダ薬剤師協会 (CPhA) / オンタリオ州保健省",
+          "title": "Pharmacist Prescribing and Prescription Renewal Authority",
+          "url": "https://www.pharmacists.ca"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "薬品給付制度（PBS）リピート処方箋（Repeat Prescriptions）",
+        "statusOrLevel": "医師による最大5回（最長6カ月〜1年分）のリピート調剤指示書の発行",
+        "keyFeature": "調剤ごとに薬局がリピート証書（Repeat Authorization）を電子発行。患者のMy Health Recordと同期し、全国どの薬局でも残り回数を確認して調剤可能。",
+        "source": {
+          "organization": "オーストラリア保健・高齢者福祉省 (PBS) / サービス・オーストラリア",
+          "title": "PBS Repeat Prescriptions and Electronic Prescriptions",
+          "url": "https://www.pbs.gov.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "更新可能処方箋制度（Ordonnance renouvelable）および薬剤師更新特例",
+        "statusOrLevel": "最長1年間の慢性疾患薬反復調剤および医師受診困難時の薬剤師による1カ月緊急延長",
+        "keyFeature": "医師が処方箋に更新可能期間（3カ月、6カ月、1年等）を記載。薬局は1カ月分ずつ分割調剤。公的医療保険（Ameli）も通常通り保険適用。",
+        "source": {
+          "organization": "フランス公的医療保険機構 (Ameli) / 厚生省",
+          "title": "Règles de prescription et délivrance des médicaments: ordonnances renouvelables",
+          "url": "https://www.ameli.fr"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "全国電子処方箋リポジトリ（Receptdepån）多重調剤機能（Flerexpedition）",
+        "statusOrLevel": "全処方箋の1年間有効原則および患者任意の分割受け取りシステム",
+        "keyFeature": "医師が1年分の必要総量を電子登録すれば、患者は自身の服薬進度に合わせてアプリから全国のどの薬局チェーンでも必要量（最大3カ月分）を都度調剤指定可能。",
+        "source": {
+          "organization": "スウェーデン電子保健庁 (E-hälsomyndigheten)",
+          "title": "Den nationella läkemedelslistan (NLL) och fleruttagsrecept",
+          "url": "https://www.e-halsomyndigheten.se"
+        }
+      }
+    ]
+  }
 }

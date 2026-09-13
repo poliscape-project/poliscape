@@ -205,5 +205,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "HeartPulse"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の医療DX・全国電子処方箋および統合電子カルテ（EHR）基盤比較",
+    "comparisonSummary": "重複投薬・相互作用の防止や診療情報のシームレスな共有のため、エストニアや北欧の全国民EHR基盤、米国の相互運用性規則、ドイツのgematikテレマティクス網など、国家レベルの医療データプラットフォーム構築が推進されています。",
+    "countries": [
+      {
+        "country": "エストニア",
+        "countryCode": "EE",
+        "flag": "🇪🇪",
+        "systemName": "国家eヘルス基盤（e-Health Record）およびe処方箋（e-Prescription）",
+        "statusOrLevel": "処方箋の99%以上がデジタル発行・全国民電子IDカードによる薬局即時受け取り",
+        "keyFeature": "X-Roadデータ交換基盤により、国内の全病院・診療所・薬局がリアルタイムでカルテ・調剤データを共有。患者はポータルで自身の健康記録やアクセスログを完全閲覧可能。",
+        "source": {
+          "organization": "エストニア保健省 (Sotsiaalministeerium) / TEHIK",
+          "title": "e-Prescription and nationwide Electronic Health Record system",
+          "url": "https://www.sm.ee"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "21世紀治療法（21st Century Cures Act）および相互運用性・情報遮断禁止規則",
+        "statusOrLevel": "Surescriptsネットワークを通じた電子処方箋の全米網羅（処方の90%超）およびFHIR API標準化",
+        "keyFeature": "電子カルテベンダーや医療機関によるデータ囲い込み（Information Blocking）に巨額の罰則を科し、患者が自身のスマホアプリでカルテや処方履歴をシームレスに取得可能に。",
+        "source": {
+          "organization": "米国医療IT調整官事務所 (ONC) / メディケア・メディケイド・サービス庁 (CMS)",
+          "title": "Interoperability and Information Blocking Regulations under 21st Century Cures Act",
+          "url": "https://www.healthit.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS電子処方箋サービス（EPS: Electronic Prescription Service）およびNHS App",
+        "statusOrLevel": "全プライマリケア処方箋の約95%がEPS経由でデジタル送信・NHS Appで処方管理",
+        "keyFeature": "GP（総合診療医）が発行した電子処方箋がクラウド上のNHSスパインに保存され、患者が指定した任意の薬局で即座に調剤可能。紙の処方箋紛失や調剤ミスを撲滅。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS England)",
+          "title": "Electronic Prescription Service (EPS) and NHS App digital prescribing",
+          "url": "https://www.england.nhs.uk"
+        }
+      },
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "カンタ・サービス（Kanta Services）全国統合ヘルスケアデータアーカイブ",
+        "statusOrLevel": "全国共通データベースによる処方箋・カルテ・検査結果の100%電子集中管理",
+        "keyFeature": "法律により公私すべての医療機関と薬局にKantaへの接続を義務付け。EUのMyHealth@EU枠組みを通じて、エストニア等他国の薬局でもフィンランドの処方箋で調剤可能。",
+        "source": {
+          "organization": "フィンランド社会保健省 (STM) / Kanta Services (Kela)",
+          "title": "Kanta Services: Electronic prescriptions and patient data repository",
+          "url": "https://www.kanta.fi"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "テレマティクス・インフラ（TI）および電子処方箋（E-Rezept: 2024年義務化）",
+        "statusOrLevel": "全医師・歯科医・薬局に対するE-Rezept発行・受領の法定完全義務化施行",
+        "keyFeature": "健康保険カード（eGK）を薬局のリーダーに差し込むか、専用スマホアプリで受領可能。gematikが最高度のエンドツーエンド暗号化とデータ主権を技術保障。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG) / gematik GmbH",
+          "title": "Das E-Rezept: Verpflichtende Einführung im deutschen Gesundheitswesen",
+          "url": "https://www.gematik.de"
+        }
+      },
+      {
+        "country": "デンマーク",
+        "countryCode": "DK",
+        "flag": "🇩🇰",
+        "systemName": "Sundhed.dk（全国民統合ヘルスケアポータル）および共有医薬品記録（FMK）",
+        "statusOrLevel": "全国民の全処方歴・服薬プロファイルの一元化データベース運用",
+        "keyFeature": "医療従事者が患者の現行服用薬をリアルタイムで同期更新。重複処方や危険な飲み合わせを処方時にシステムが自動警告し医療事故を防止。",
+        "source": {
+          "organization": "デンマーク内務・保健省 (Sundhedsministeriet) / Sundhed.dk",
+          "title": "Fælles Medicinkort (FMK) and Sundhed.dk digital healthcare infrastructure",
+          "url": "https://sum.dk"
+        }
+      }
+    ]
+  }
 }

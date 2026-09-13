@@ -205,5 +205,89 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Zap"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の電力容量市場（Capacity Market）・予備力確保制度および小売事業者保護比較",
+    "comparisonSummary": "再エネ拡大に伴う発電所固定費回収と供給予備力確保のため導入された「容量市場」において、小売電気事業者への急激な拠出金負担や新電力倒産を防ぐため、先行国では事前ヘッジ市場や財務要件の厳格化が講じられています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "電力容量市場（Capacity Market: Energy Act 2013）およびOfgem小売規制",
+        "statusOrLevel": "4年先行（T-4）および1年先行（T-1）競争オークションと供給ライセンス財務ストレステスト",
+        "keyFeature": "容量義務を負う発電事業者に待機料を支払い冬期ピーク停電を防止。2021年の新電力大量破綻を受け、Ofgemが小売事業者に十分な資本維持と事前ヘッジを義務付け。",
+        "source": {
+          "organization": "英国エネルギー規制局 (Ofgem) / エネルギー安全保障・ネットゼロ省 (DESNZ)",
+          "title": "Electricity Market Reform: Capacity Market and supplier financial resilience rules",
+          "url": "https://www.ofgem.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "PJM容量市場（Reliability Pricing Model: RPM）およびFERC卸電力規制",
+        "statusOrLevel": "3年先行の信頼性価格モデル（RPM）オークションおよび地域別容量拠出金配分",
+        "keyFeature": "連邦エネルギー規制委員会（FERC）が管轄。卸市場の競争価格で必要予備力を確保。小売事業者には需要規模に応じた事前予約と財務担保金の差し入れを義務付け。",
+        "source": {
+          "organization": "米国連邦エネルギー規制委員会 (FERC) / PJM Interconnection",
+          "title": "PJM Capacity Market (Reliability Pricing Model) Overview",
+          "url": "https://www.ferc.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "フランス容量メカニズム（Mécanisme de capacité）およびARENH制度",
+        "statusOrLevel": "分散型容量証書取引市場（RTE管轄）および原発余剰電力の固定価格割当（ARENH）",
+        "keyFeature": "小売事業者は冬季ピーク時の顧客需要に見合う容量保証証書（Garanties de capacité）を市場で事前調達する義務を負う。急激な市場価格高騰に対し料金上限規制で小売を保護。",
+        "source": {
+          "organization": "フランス送電網公社 (RTE) / エネルギー規制委員会 (CRE)",
+          "title": "Le mécanisme de capacité français et le fonctionnement du marché",
+          "url": "https://www.cre.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "容量予備力（Kapazitätsreserve）および電力市場2.0（Strommarkt 2.0）設計",
+        "statusOrLevel": "全面的な容量市場（固定費全額補償）の導入を拒否し、厳格な戦略的非常時予備力のみ契約",
+        "keyFeature": "市場価格シグナルによる自律的な柔軟性調整（蓄電池・デマンドレスポンス）を重視。市場外に待機する石炭・ガス火力予備力のみを公費契約し、新電力への固定費賦課を回避。",
+        "source": {
+          "organization": "ドイツ連邦経済・気候保護省 (BMWK) / 連邦ネットワーク庁 (BNetzA)",
+          "title": "Kapazitätsreserve und Monitoring der Versorgungssicherheit Elektrizität",
+          "url": "https://www.bundesnetzagentur.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家電力市場（NEM）小売事業者信頼性義務（RRO: Retailer Reliability Obligation）",
+        "statusOrLevel": "エネルギー市場運営会社（AEMO）の予備力ギャップ予測に基づく小売調達強制トリガー",
+        "keyFeature": "平時は容量市場を設けずエネルギースポット市場で運用。数年前に将来の供給力不足が予測された場合のみRROがトリガーされ、小売事業者に先物契約調達を義務付け。",
+        "source": {
+          "organization": "オーストラリア・エネルギー市場委員会 (AEMC) / AEMO",
+          "title": "Retailer Reliability Obligation (RRO) guidelines and compliance",
+          "url": "https://www.aemc.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "電力取引所（KPX）容量価格（CP: Capacity Payment）制度および電気事業法規制",
+        "statusOrLevel": "総括原価主義に基づく全認可発電機への固定容量補償金支給と韓電独占卸市場",
+        "keyFeature": "日本のようなオークション方式ではなく、政府・電力取引所が告示する固定単価で容量料金を一律支給。新電力（直接PPA事業者）の負担バランスを電力産業基盤基金等で調整。",
+        "source": {
+          "organization": "大韓民国産業通商資源部 (MOTIE) / 韓国電力取引所 (KPX)",
+          "title": "Electricity Market Capacity Payment Rules and Power System Stabilization",
+          "url": "https://www.kpx.or.kr"
+        }
+      }
+    ]
+  }
 }

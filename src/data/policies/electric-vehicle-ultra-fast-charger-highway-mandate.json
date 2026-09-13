@@ -225,5 +225,89 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "CreditCard"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の高速道路EV超急速充電器（150kW〜350kW）配備義務化法制・規格比較",
+    "comparisonSummary": "長距離EV移動の航続不安（レンジ・アンザエティ）を解消するため、EUの代替燃料インフラ規則（AFIR）や米国のNEVI計画など、高速道路沿線への出力150kW以上の超急速充電器の法定設置義務付けが急速に進んでいます。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "代替燃料インフラ規則（AFIR: Regulation (EU) 2023/1804）",
+        "statusOrLevel": "TEN-T主要高速道路網において60kmごとに最低400kW（2028年以降600kW）、最低1口150kW以上の急速充電プール設置を法定義務化",
+        "keyFeature": "全充電器でサブスクリプション不要の非接触クレジットカード（タッチ決済）決済端末の搭載を義務付け。価格表示の透明性とリアルタイム稼働状況API公開を強制。",
+        "source": {
+          "organization": "欧州委員会 (European Commission) / 欧州議会",
+          "title": "Alternative Fuels Infrastructure Regulation (AFIR)",
+          "url": "https://transport.ec.europa.eu"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ドイッチュラントネッツ（Deutschlandnetz）超急速充電国家ネットワーク整備事業",
+        "statusOrLevel": "連邦政府が公募により全国約1,000カ所（高速道200カ所含む）に最低300kW急速充電拠点を公設整備",
+        "keyFeature": "高速道路休憩エリア（Tank & Rast）において、1拠点あたり最低4〜8口の300kW以上充電器を配備。上限料金設定や99%稼働率維持を事業者に契約義務付け。",
+        "source": {
+          "organization": "ドイツ連邦デジタル・交通省 (BMDV) / 国立充電インフラ統括機構 (NOW GmbH)",
+          "title": "Das Deutschlandnetz: Schnelle Ladeinfrastruktur für den Fernverkehr",
+          "url": "https://www.bmdv.bund.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国家EVインフラ整備計画（NEVI Formula Program - 超党派インフラ法）",
+        "statusOrLevel": "50億ドルの連邦補助金・指定代替燃料回廊（高速道路）50マイル（80km）ごとに150kW×4口以上設置義務",
+        "keyFeature": "各ポート最低150kW同時出力、Combined Charging System (CCS1) およびテスラ規格（NACS / SAE J3400）対応、97%稼働率保証を連邦受給要件として法定義務化。",
+        "source": {
+          "organization": "米国連邦高速道路局 (FHWA) / エネルギー省・運輸省共同オフィス",
+          "title": "National Electric Vehicle Infrastructure (NEVI) Standards and Requirements",
+          "url": "https://www.fhwa.dot.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "公共充電ポイント規則2023（The Public Charge Point Regulations 2023）",
+        "statusOrLevel": "高速道路サービスエリア（MSA）への超急速充電器配備および99%稼働率法定義務化",
+        "keyFeature": "急速充電器（8kW以上）への非接触型クレジットカード決済機能の義務付け、充電データのオープンデータ化、24時間年中無休の電話サポート体制を全事業者に義務化。",
+        "source": {
+          "organization": "英国運輸省 (DfT) / ゼロ排出車両局 (OZEV)",
+          "title": "The Public Charge Point Regulations 2023 guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "気候・強靭化法（Loi Climat et Résilience）高速道路充電インフラ義務化",
+        "statusOrLevel": "全高速道路サービスエリア（約370カ所）への超急速充電ステーション設置完了義務化達成",
+        "keyFeature": "料金所・サービスエリアのコンセッション契約更新条件に超急速充電器（150kW〜350kW）設置を義務付け。全エリアで100%設置を達成し、複数口配備をさらに拡充。",
+        "source": {
+          "organization": "フランス生態移行・国土結束省 (MTECT)",
+          "title": "Déploiement des bornes de recharge ultra-rapide sur les autoroutes concédées",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "国家発展改革委員会（NDRC）高速道路沿線超急速充電インフラ整備加速指針",
+        "statusOrLevel": "高速道路サービスエリアへの液冷超急速充電器（480kW〜600kW）「超充」網配備推進",
+        "keyFeature": "「充電1秒で1km走行」を掲げる液冷メガワット級超急速充電器を幹線高速道路に集中的に配備。電力グリッドの負荷平準化のため蓄電池併設型ステーションを標準化。",
+        "source": {
+          "organization": "中国国家発展改革委員会 (NDRC) / 国家能源局 (NEA)",
+          "title": "Guidelines on Accelerating the Construction of Charging Infrastructure along Highways",
+          "url": "https://www.ndrc.gov.cn"
+        }
+      }
+    ]
+  }
 }

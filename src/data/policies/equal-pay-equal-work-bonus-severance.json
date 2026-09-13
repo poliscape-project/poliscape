@@ -127,5 +127,89 @@
       "type": "official_document",
       "typeLabel": "最高裁判例集"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の「同一労働同一賃金」法制・有期雇用・非正規雇用への賞与・退職金均等待遇比較",
+    "comparisonSummary": "正規雇用と非正規雇用（パート・有期・派遣）の不合理な待遇格差を解消するため、EU指令に基づく均等待遇原則、フランスの契約満了補償金（10%手当）、豪州のカジュアル割増賃金など、各国が法的な格差是正メカニズムを確立しています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU有期労働指令（Directive 1999/70/EC）およびEU賃金透明性指令（2023年採択）",
+        "statusOrLevel": "有期・パート雇用に対する不差別待遇原則（Pro-rata temporis）の完全法定義務化",
+        "keyFeature": "客観的正当化理由がない限り、賞与、有給休暇、年金等の全労働条件において正規雇用と同等の比率適用（時間比例原則）を義務付け。企業に給与格差の公表を強制。",
+        "source": {
+          "organization": "欧州議会 / 欧州連合理事会",
+          "title": "EU Fixed-term Work Directive 1999/70/EC and Pay Transparency Directive 2023/970",
+          "url": "https://eur-lex.europa.eu"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "労働法典（Code du travail）有期雇用契約満了手当（Prime de précarité）",
+        "statusOrLevel": "有期雇用（CDD）満了時における総賃金の最低10%に相当する不安定雇用手当の支給義務",
+        "keyFeature": "「同一価値労働・同一賃金」の厳格適用に加え、有期契約が正規雇用に切り替わらない場合は雇用主が退職時に賃金総額の10%を手当として上乗せ支給することを法定義務化。",
+        "source": {
+          "organization": "フランス労働・雇用・連帯省 (Ministère du Travail)",
+          "title": "Indemnité de fin de contrat (prime de précarité) pour les salariés en CDD",
+          "url": "https://travail-emploi.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "パートタイム・有期雇用法（TzBfG: Teilzeit- und Befristungsgesetz）",
+        "statusOrLevel": "非正規雇用に対する賞与・企業年金・手当の不差別待遇（Diskriminierungsverbot）法定義務",
+        "keyFeature": "クリスマス賞与（Weihnachtsgeld）や企業年金について、有期・短時間労働者であることのみを理由とした除外を違法と判決。同一労働に対しては完全な時間比例支給を強制。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS) / 連邦労働裁判所 (BAG)",
+          "title": "Gesetz über Teilzeitarbeit und befristete Arbeitsverträge (TzBfG)",
+          "url": "https://www.bmas.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "公正労働法（Fair Work Act 2009）カジュアルローディング（Casual Loading）制度",
+        "statusOrLevel": "非正規（カジュアル）労働者に対する基本時給の25%法定割増支給義務付け",
+        "keyFeature": "非正規労働者には有給休暇や傷病手当、退職解雇予告手当がない代償として、同一業務の正規職員の基本時給に一律25%を上乗せして支払うことを法定義務化。",
+        "source": {
+          "organization": "オーストラリア公正労働オンブズマン (Fair Work Ombudsman)",
+          "title": "Casual employees and casual loading entitlements under Modern Awards",
+          "url": "https://www.fairwork.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "期間制及び短時間勤労者保護等に関する法律（非正規職保護法）および労働委員会差別是正制度",
+        "statusOrLevel": "賞与・各種手当・福利厚生における合理的理由のない差別の禁止と是正命令（懲戒的賠償）",
+        "keyFeature": "非正規労働者が労働委員会に申立を行い、差別と認定された場合は未払い賞与の支給に加え、悪質な場合は最大3倍の懲罰的損害賠償を命じる強力な司法救済制度を運用。",
+        "source": {
+          "organization": "大韓民国雇用労働部 (MOEL) / 中央労働委員会 (NLRC)",
+          "title": "Act on the Protection of Fixed-Term and Part-Time Workers and Correction of Discrimination",
+          "url": "https://www.moel.go.kr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "有期雇用労働者規則2002（Fixed-term Employees Regulations 2002）",
+        "statusOrLevel": "有期契約労働者に対する賞与（Bonus）・研修・昇進機会の正規労働者同等保障",
+        "keyFeature": "客観的合理的根拠がない限り、有期労働者に対し正社員と異なる賞与基準や年金受給資格を適用することを禁止。雇用審判所（Employment Tribunal）での救済を保障。",
+        "source": {
+          "organization": "英国企業・通商省 (DBT) / ACAS",
+          "title": "Fixed-term workers: your rights and equal treatment guidance",
+          "url": "https://www.gov.uk"
+        }
+      }
+    ]
+  }
 }

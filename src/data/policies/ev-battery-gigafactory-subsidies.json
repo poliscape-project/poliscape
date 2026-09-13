@@ -261,5 +261,89 @@
         "commentStandard": "「補助金偏重でハイブリッドの強みを損なう恐れや、将来の廃電池リサイクル・環境規制への対応が後手に回る懸念がある」"
       }
     ]
+  },
+  "international": {
+    "title": "世界のEV車載蓄電池・バッテリーギガファクトリー投資支援およびリサイクル規制比較",
+    "comparisonSummary": "自動車産業の命運を握るEVバッテリーの自前生産に向け、米国インフレ抑制法（IRA）の生産税額控除、EU新バッテリー規則の炭素足跡規制、韓国の国家戦略団地支援など、巨額補助金と環境規制の両輪による熾烈な誘致競争が展開されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "インフレ抑制法（IRA）セクション45X（先進製造業生産税額控除: AMPTC）",
+        "statusOrLevel": "バッテリーセル1kWhあたり35ドル、モジュール10ドル（合計最大45ドル/kWh）の巨額連邦税額控除",
+        "keyFeature": "製造コストの約3分の1に匹敵する前例のない巨額減税措置。さらに消費者向けEV税額控除（7,500ドル）要件として、電池構成部品の北米製造と重要鉱物のFTA国調達を義務付け。",
+        "source": {
+          "organization": "米国エネルギー省 (DOE) / 内国歳入庁 (IRS)",
+          "title": "Section 45X Advanced Manufacturing Production Credit and Clean Vehicle Guidance",
+          "url": "https://www.energy.gov"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU新バッテリー規則（Regulation (EU) 2023/1542）および欧州バッテリー同盟（EBA）",
+        "statusOrLevel": "バッテリーパスポート義務化、ライフサイクル炭素足跡上限設定、リサイクル材最低含有率義務",
+        "keyFeature": "2027年以降、炭素排出量宣言とデジタルパスポートを義務化。2031年以降は再利用コバルト16%、リチウム6%、ニッケル6%の強制含有を義務付け欧州域外勢を牽制。",
+        "source": {
+          "organization": "欧州委員会 (European Commission) / 欧州議会",
+          "title": "EU Battery Regulation (EU) 2023/1542 and European Battery Alliance (EBA250)",
+          "url": "https://environment.ec.europa.eu"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "戦略的イノベーション基金（SIF）および米IRA対抗バッテリー生産補助協定",
+        "statusOrLevel": "フォルクスワーゲン、ステランティス・LG連合等のギガファクトリーへ数百億ドルの生産連動補助金",
+        "keyFeature": "米国IRAと同水準の生産支援（米IRAが存続する期間中マッチング補助）を連邦・州共同で約束し、北米最大級の車載電池クラスターをオンタリオ州等へ誘致成功。",
+        "source": {
+          "organization": "カナダ革新・科学・経済開発省 (ISED) / オンタリオ州政府",
+          "title": "Strategic Innovation Fund contracts with major EV battery manufacturers",
+          "url": "https://ised-isde.canada.ca"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "欧州共通利益重要プロジェクト（IPCEI）バッテリーイノベーション国家支援",
+        "statusOrLevel": "ノースボルト（Northvolt）ハイデ工場やCATLエアフルト工場等への数十億ユーロ規模の公費助成",
+        "keyFeature": "風力発電が豊富な北部シュレースヴィヒ・ホルシュタイン州に再エネ100%駆動のギガファクトリーを誘致。EUのIPCEI制度に基づき連邦・州政府が巨額補助金を共同拠出。",
+        "source": {
+          "organization": "ドイツ連邦経済・気候保護省 (BMWK)",
+          "title": "IPCEI Batteriezellfertigung: Projekte und Fördermaßnahmen in Deutschland",
+          "url": "https://www.bmwk.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "国家先端戦略産業二次電池特化団地指定および租税特例制限法（K-Chips法）",
+        "statusOrLevel": "忠北清州、浦項、セマングム、蔚山を国家二次電池クラスターに指定・最大35%税額控除",
+        "keyFeature": "世界大手3社（LGエナジー、サムスンSDI、SK on）の本国マザーファクトリー機能を強化。インフラ（電力・用水）全額公費整備と次世代全固体電池開発に国家予算を集中投入。",
+        "source": {
+          "organization": "大韓民国産業通商資源部 (MOTIE) / 企画財政部",
+          "title": "Designation of National Advanced Strategic Industry Secondary Battery Complexes",
+          "url": "https://www.motie.go.kr"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "動力電池規格条件（白名単制度）および新エネルギー車動力電池回収利用管理弁法",
+        "statusOrLevel": "CATLやBYD等を軸とした世界バッテリー市場シェア6割超の覇権と国家トレーサビリティ網",
+        "keyFeature": "国家主導で採掘・製錬・正極材・セル・リサイクルまで完全自己完結のエコシステムを構築。国家プラットフォームで全EVバッテリーの個体識別と回収を完全追跡。",
+        "source": {
+          "organization": "中国工業情報化部 (MIIT) / 財政部",
+          "title": "New Energy Vehicle Power Battery Recycling Management Regulations and White List",
+          "url": "https://www.miit.gov.cn"
+        }
+      }
+    ]
   }
 }

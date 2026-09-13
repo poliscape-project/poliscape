@@ -217,5 +217,89 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "CheckCircle2"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の緊急医療用輸血血液・検体ドローン配送法制およびコールドチェーン基準比較",
+    "comparisonSummary": "離島やへき地医療機関での緊急止血・輸血需要に応えるため、ルワンダの国家規模運用をはじめ、米欧豪において血液製剤の温度・振動品質保持ガイドラインや航空安全認証が整備されています。",
+    "countries": [
+      {
+        "country": "ルワンダ",
+        "countryCode": "RW",
+        "flag": "🇷🇼",
+        "systemName": "ルワンダ保健省・民間航空局（RCAA）国家血液ドローン供給ネットワーク",
+        "statusOrLevel": "全国輸血センターとへき地病院を結ぶZipline固定翼ドローンによる24時間定常運用",
+        "keyFeature": "首都キガリ等のハブから全国の病院へ要請後15〜30分で血液パックをパラシュート投下配送。分娩後異常出血等による妊産婦死亡率の大幅低下を達成（世界最大の実績）。",
+        "source": {
+          "organization": "ルワンダ保健省 (Ministry of Health) / ルワンダ民間航空局 (RCAA)",
+          "title": "National Drone Delivery Service for Blood and Essential Medical Products",
+          "url": "https://www.moh.gov.rw"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "FDA生物製剤評価研究センター（CBER）血液輸送指針およびFAA Part 135認証",
+        "statusOrLevel": "温度管理（1〜10℃厳守）コールドチェーンセンサー義務化および都市・離島商用飛行認可",
+        "keyFeature": "ドローン飛行中の振動・加速度・温度変化が赤血球や血小板の溶血を引き起こさないことを検証する厳格なバリデーション基準を策定。ユタ州等で病院間ドローン配送を実用化。",
+        "source": {
+          "organization": "米国食品医薬品局 (FDA) / 連邦航空局 (FAA)",
+          "title": "FDA Biological Product Cold Chain Guidelines and Drone Delivery Clearances",
+          "url": "https://www.fda.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS血液・移植機構（NHSBT）緊急ドローン空輸実証およびCAA認可枠組み",
+        "statusOrLevel": "ロンドンやスコットランド諸島・ワイト島を結ぶ緊急血液・抗がん剤定期ドローン空輸",
+        "keyFeature": "海上横断や長距離飛行において、MHRA適正流通基準（GDP）に準拠したスマート断熱ボックスとリアルタイムGPS・温度データロガーの搭載を法定義務化。",
+        "source": {
+          "organization": "英国国民保健サービス血液・移植機構 (NHSBT) / 民間航空局 (CAA)",
+          "title": "NHS Blood and Transplant: Drone delivery trials for blood and medical products",
+          "url": "https://www.nhsbt.nhs.uk"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "スイス連邦民間航空局（FOCA）特定カテゴリーBVLOS医療ドローン輸送認可",
+        "statusOrLevel": "スイスポスト・Matternetによるチューリッヒ、ベルン、ルツェルン病院間血液検体定常運航",
+        "keyFeature": "人口集中都市上空を毎日数十回自動往復運航。安全二重化パラシュートと衝突回避装置を装備し、検査結果待ち時間を陸上救急搬送の数分の一に短縮。",
+        "source": {
+          "organization": "スイス連邦民間航空局 (FOCA) / スイス連邦保健局 (BAG)",
+          "title": "Medical Drone Logistics Guidelines and SORA Authorisation in Switzerland",
+          "url": "https://www.bazl.admin.ch"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家血液機構（NBA）緊急血液供給枠組みおよびCASA遠隔地空輸指針",
+        "statusOrLevel": "クイーンズランド州・西豪州アウトバック遠隔クリニック向け血液・血漿ドローン供給実証",
+        "keyFeature": "過酷な砂漠酷暑環境（外気温45℃超）に耐える特殊アクティブ冷却ポッドを開発。赤十字血液サービスと連携し、遠隔先住民族コミュニティへの緊急救命物資空輸を制度化。",
+        "source": {
+          "organization": "オーストラリア国家血液機構 (National Blood Authority - NBA) / CASA",
+          "title": "National Blood Supply Contingency Plan and UAS transport validation",
+          "url": "https://www.blood.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "国土交通部ドローン実証都市事業および大韓赤十字社スマート血液供給網",
+        "statusOrLevel": "済州島・新安郡等の多島海地域における島しょ部緊急血液ドローン配送体系",
+        "keyFeature": "船舶欠航時や夜間でも緊急輸血ができるよう、リアルタイム温度モニタリング連動型の自動離着陸ドローンポートを配備。血液管理法に基づく品質保証基準を策定。",
+        "source": {
+          "organization": "大韓民国国土交通部 (MOLIT) / 大韓赤十字社血液管理本部",
+          "title": "Smart Emergency Blood Transport Drone Pilot Project and Standards",
+          "url": "https://www.molit.go.kr"
+        }
+      }
+    ]
+  }
 }

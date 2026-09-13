@@ -217,5 +217,89 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "TrendingUp"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における戦略物資サプライチェーン強靱化法制および巨額製造補助金比較",
+    "comparisonSummary": "半導体、先端蓄電池、重要鉱物、医薬品などの供給途絶リスクに備え、米国CHIPS法、欧州半導体法、韓国K-Chips法など、各国が数兆円規模の国家補助金と税額控除を投入しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "CHIPSおよび科学法（CHIPS and Science Act of 2022）およびインフレ抑制法（IRA）",
+        "statusOrLevel": "半導体製造・研究開発に527億ドルの直接補助金および25%の投資税額控除付与",
+        "keyFeature": "国内ファブ建設を誘致するためTSMC、Intel、Samsung等に巨額直接補助金を配分。受給企業には懸念国（中国等）での先端設備投資を制限するガードレール条項を厳格適用。",
+        "source": {
+          "organization": "米国商務省 (DOC) / NIST",
+          "title": "CHIPS for America: Funding Opportunities and Guardrails Guidance",
+          "url": "https://www.nist.gov"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州半導体法（European Chips Act）および重要原材料法（CRMA）",
+        "statusOrLevel": "430億ユーロの官民投資を動員し2030年までに世界シェア20%倍増を目指す法制",
+        "keyFeature": "「欧州初（First-of-a-kind）」の最先端製造施設に対する国家補助規則の特例緩和を承認。危機時には加盟国間で優先受注・割当を命令できる緊急権限を欧州委員会に付与。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "European Chips Act and Critical Raw Materials Act",
+          "url": "https://commission.europa.eu"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "気候・変革基金（KTF）による半導体・バッテリーギガファクトリー直接支援",
+        "statusOrLevel": "ドレスデンTSMC工場やマクデブルクIntel工場等への数十億〜百億ユーロ規模の連邦補助金拠出",
+        "keyFeature": "連邦経済・気候保護省（BMWK）が欧州IPCEI枠組みを活用し、国内自動車・産業機器向け車載半導体の自前製造サプライチェーンを強靱化。",
+        "source": {
+          "organization": "ドイツ連邦経済・気候保護省 (BMWK)",
+          "title": "Mikroelektronik aus Deutschland: Förderprojekte und Europäische Chips-Initiative",
+          "url": "https://www.bmwk.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "国家先端戦略産業競争力強化法および租税特例制限法（K-Chips法）",
+        "statusOrLevel": "半導体・バッテリー施設投資に対する最大25%〜35%の所得税・法人税額控除",
+        "keyFeature": "龍仁・平沢のメガ半導体クラスター造成に向け、許認可手続きのファストトラック化、工業用水・電力インフラの国庫負担、投資税額控除率の世界的引き上げを実行。",
+        "source": {
+          "organization": "大韓民国産業通商資源部 (MOTIE) / 企画財政部 (MOEF)",
+          "title": "National Advanced Strategic Industry Act and Tax Incentives (K-Chips Act)",
+          "url": "https://www.motie.go.kr"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "産業革新条例第10条の2（台湾版Chips法）",
+        "statusOrLevel": "国際サプライチェーン重要企業の研究開発費25%および先進設備投資5%の税額控除",
+        "keyFeature": "最先端プロセス（2nm等）の台湾国内留保を法的に支援。巨額直接補助金ではなく研究開発減税と電力・水インフラ優先供給により世界シェアトップを維持。",
+        "source": {
+          "organization": "台湾経済部 (Ministry of Economic Affairs - MOEA)",
+          "title": "Statute for Industrial Innovation Article 10-2 (Taiwan Chips Act)",
+          "url": "https://www.moea.gov.tw"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "戦略的イノベーション基金（SIF）および重要鉱物戦略（Critical Minerals Strategy）",
+        "statusOrLevel": "重要鉱物・EVバッテリー材料採掘・精錬・加工施設への数百億カナダドルの共同支援",
+        "keyFeature": "リチウム・ニッケル・コバルト等の鉱山開発とバッテリー正極材工場に対し、米国IRA適格性（北米生産要件）を活かした巨額助成を実施。",
+        "source": {
+          "organization": "カナダ革新・科学・経済開発省 (ISED) / 天然資源省 (NRCan)",
+          "title": "Critical Minerals Strategy and Strategic Innovation Fund",
+          "url": "https://ised-isde.canada.ca"
+        }
+      }
+    ]
+  }
 }

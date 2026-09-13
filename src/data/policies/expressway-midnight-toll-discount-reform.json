@@ -185,5 +185,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の高速道路料金システムにおける時間帯別料金（混雑課金）・夜間割引法制比較",
+    "comparisonSummary": "料金所手前での「割引待ち待機車両」による本線渋滞や事故、深夜過労運転を解消するため、フランスのオフピーク割引、米国の動的料金（HOTレーン）、シンガポールのERP混雑課金など、走行時間や距離に厳密に連動したスマート課金が導入されています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "高速道路コンセッション料金制度（Péage modulé: 時間帯別変動料金）",
+        "statusOrLevel": "A1高速道路等における週末夕方ピーク割増（+25%）とオフピーク割引（-25%）の運用",
+        "keyFeature": "パリ流入高速道路等で混雑緩和を目的に導入。一定時刻を跨ぐことによる急ブレーキ待機を防ぐため、入口通過時間と走行時間帯を連続的に按分して課金。",
+        "source": {
+          "organization": "フランス生態移行・国土結束省 (MTECT) / 高速道路企業連合 (ASFA)",
+          "title": "La modulation temporelle des péages autoroutiers et fluidité du trafic",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "動的課金エクスプレスレーン（Express Toll Lanes / Dynamic Pricing）",
+        "statusOrLevel": "リアルタイム交通量・走行速度に連動した5〜15分ごとの料金自動変動システム",
+        "keyFeature": "混雑時に料金を引き上げ、閑散時に引き下げることで常に時速45マイル（72km/h）以上の走行を保証。待機渋滞を根本的に発生させないアルゴリズム課金を実装。",
+        "source": {
+          "organization": "米国連邦高速道路局 (FHWA)",
+          "title": "Congestion Pricing: Technologies and Dynamic Toll Rate Setting",
+          "url": "https://ops.fhwa.dot.gov"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "電子道路課金システム（ERP 2.0: Electronic Road Pricing）",
+        "statusOrLevel": "GNSS衛星測位と車載器（OBU）による走行距離・時間帯完全連動型スマート課金",
+        "keyFeature": "物理的ガントリー（料金所ゲート）を撤廃し、衛星測位で道路ごとの走行時間帯と距離をミリ秒単位で計算。待機行為を無意味化し、都市・高速道路の最適分散を実現。",
+        "source": {
+          "organization": "シンガポール陸上交通庁 (LTA)",
+          "title": "Next-Generation Electronic Road Pricing (ERP 2.0) System",
+          "url": "https://www.lta.gov.sg"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "M6 Toll高速道路時間帯別・曜日別フレキシブル料金体系",
+        "statusOrLevel": "昼間ピーク・昼間オフピーク・深夜帯（23時〜06時）の完全3区分固定料金",
+        "keyFeature": "料金所手前での待機を防ぐため、深夜帯割引を長時間の時間枠（7時間）で設定。ANPR（自動ナンバープレート認識）によりゲート手前での滞留を厳しく取り締まり。",
+        "source": {
+          "organization": "英国運輸省 (DfT) / National Highways",
+          "title": "M6 Toll pricing structure and strategic road network congestion management",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦トラック通行料（LKW-Maut）距離・CO2排出量連動自動課金",
+        "statusOrLevel": "時間帯による安易な夜間割引を廃止し、排ガス性能・重量・走行距離連動課金に一本化",
+        "keyFeature": "深夜割引がトラックドライバーの過労運転を助長するとして導入せず。OBU（車載器）とGPSで走行実績を自動集計し、待機渋滞のインセンティブを排除。",
+        "source": {
+          "organization": "ドイツ連邦物流・移動庁 (BALM) / Toll Collect",
+          "title": "Lkw-Maut in Deutschland: Mautsätze und CO2-Emissionsklassen",
+          "url": "https://www.balm.bund.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "韓国道路公社（EX）深夜貨物車通行料割引および走行時間比率連動制",
+        "statusOrLevel": "午後9時〜午前6時の高速道路走行時間比率に応じた段階的割引（20%〜50%割引）",
+        "keyFeature": "ゲート通過時刻の一瞬だけで判定するのではなく、「深夜時間帯に走行した時間または距離の割合」が50%以上で最大割引を適用する制度設計により料金所直前待機を防止。",
+        "source": {
+          "organization": "大韓民国国土交通部 (MOLIT) / 韓国道路公社 (EX)",
+          "title": "Highway Toll Midnight Discount System for Freight Vehicles",
+          "url": "https://www.ex.co.kr"
+        }
+      }
+    ]
+  }
 }

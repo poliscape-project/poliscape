@@ -127,5 +127,89 @@
       "type": "white_paper",
       "typeLabel": "観光庁政策資料"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の外国人旅行者向け免税ショッピング（Tax-Free）および出国時還付制度比較",
+    "comparisonSummary": "転売目的の免税不正購入を防止するため、欧州主要国、豪州、シンガポール等では「店頭で消費税込みで購入し、出国時に税関で確認後に税額を還付する（リファンド方式）」が世界標準となっています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "PABLO（電子免税還付システム）空港税関自動認証端末",
+        "statusOrLevel": "全免税取引の電子バーコード化および空港出国時の無人キオスク自動検認・即時リファンド",
+        "keyFeature": "免税店では税込みで決済。空港出国ゲート前で旅行者が電子免税票のバーコードをキオスクにスキャンすると即座に税関承認が下り、クレジットカード等に税額が返金される。",
+        "source": {
+          "organization": "フランス関税・間接税総局 (Douane française)",
+          "title": "PABLO: procédure d'apurement des bordereaux de vente en détaxe",
+          "url": "https://www.douane.gouv.fr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "電子旅行者還付制度（eTRS: Electronic Tourist Refund Scheme）",
+        "statusOrLevel": "ペーパーレス完全デジタル還付・チャンギ空港キオスク自動還付",
+        "keyFeature": "パスポート番号に免税購入履歴が直結。出国時に自動チェックイン機やeTRSキオスクにパスポートを提示するだけでGST（物品サービス税）が自動返金される。",
+        "source": {
+          "organization": "シンガポール内国歳入庁 (IRAS) / シンガポール税関",
+          "title": "Electronic Tourist Refund Scheme (eTRS) for Tourists",
+          "url": "https://www.iras.gov.sg"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "旅行者払戻制度（TRS: Tourist Refund Scheme）およびTRSモバイルアプリ",
+        "statusOrLevel": "スマホアプリによる免税品事前申告と国際空港税関出国時GST還付",
+        "keyFeature": "店頭即時免税は行わず完全リファンド制。アプリで領収書情報を入力して生成したQRコードを空港税関で提示し、現品提示チェックを受けた上で税額を口座返金。",
+        "source": {
+          "organization": "オーストラリア国境警備隊 (ABF) / オーストラリア税務局 (ATO)",
+          "title": "Tourist Refund Scheme (TRS) for international travelers",
+          "url": "https://www.abf.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "事後免税制度（Tax Refund）空港出国時キオスク還付および即時還付限度額管理",
+        "statusOrLevel": "一定額以下の店頭即時還付と高額品の空港出国時全件電子的現物確認の併用",
+        "keyFeature": "少額は利便性のため店頭還付を認める一方、高額品や大量購入者は出国審査前の空港自動キオスクで手荷物検査・現物確認を義務付けて不正転売を遮断。",
+        "source": {
+          "organization": "大韓民国関税庁 (Korea Customs Service) / 国税庁 (NTS)",
+          "title": "Tax Refund System for Foreign Tourists and Airport Departure Procedures",
+          "url": "https://www.customs.go.kr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦税関（Zoll）出国時輸出確認証明（Ausfuhrbescheinigung）制度",
+        "statusOrLevel": "空港税関窓口における現品提示・スタンプ押印後の還付事業者決済",
+        "keyFeature": "EU外へ持ち出す未開封現品とレシートを空港税関官に提示して輸出証明スタンプを受領。免税カウンターや口座振込で付加価値税（VAT）から手数料を引いた額を受領。",
+        "source": {
+          "organization": "ドイツ連邦財務省 (BMF) / 連邦税関総局 (Zoll)",
+          "title": "Tax-free shopping for travelers from non-EU countries",
+          "url": "https://www.zoll.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "訪日・訪英旅行者免税ショッピング（VAT RES）制度の廃止と再編論争",
+        "statusOrLevel": "ブレグジットに伴う空港店頭免税還付の原則廃止および経済影響検証",
+        "keyFeature": "還付管理コストと不正防止の観点から2021年に店頭免税制度を全廃。免税品は国際空港の免税エリア内での直接配送・購入に限定。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC) / 財務省 (HM Treasury)",
+          "title": "VAT Retail Export Scheme policy review and international comparisons",
+          "url": "https://www.gov.uk"
+        }
+      }
+    ]
+  }
 }
