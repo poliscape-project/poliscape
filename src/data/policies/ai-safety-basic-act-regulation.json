@@ -265,6 +265,62 @@
           "title": "A pro-innovation approach to AI regulation (AI規制白書公式)",
           "url": "https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach"
         }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Model AI Governance Framework & AI Verify (実践的AI統治指針)",
+        "statusOrLevel": "世界初の自己評価・オープンソース検証ツール（AI Verify）を展開",
+        "incomeLimit": "硬直的な法令による禁止ではなく、企業の自主的安全性テストを官民協働支援",
+        "keyFeature": "厳格な罰則ではなく、企業が生成AIモデルのバイアスや安全性を実測できる世界初の検証ツールキット『AI Verify』を開発・無償公開。イノベーションを阻害せず、実務的な安全基準を世界標準に育てるアプローチをリードしています。",
+        "source": {
+          "organization": "シンガポール情報通信メディア開発庁 (IMDA)",
+          "title": "Model AI Governance Framework for Generative AI",
+          "url": "https://www.imda.gov.sg"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "Artificial Intelligence and Data Act (AIDA - 人工知能・データ法案)",
+        "statusOrLevel": "高リスクAIシステム開発者に対する重大損害防止と偏見是正の法的義務付け",
+        "incomeLimit": "違反企業には最大で世界年間売上高の3%または2,500万カナダドルの罰金",
+        "keyFeature": "『ディープラーニング発祥の地』として強力なAI産業を持ちつつ、健康・安全・人権に重大な悪影響を及ぼす高リスクAIシステムに対し、リスク評価・監査記録・第三者検証を義務付ける法制化を進めています。",
+        "source": {
+          "organization": "カナダ革新・科学・経済開発省 (ISED)",
+          "title": "The Artificial Intelligence and Data Act (AIDA) Companion document",
+          "url": "https://ised-isde.canada.ca"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "人工知能産業育成および信頼確保基盤造成に関する法律（AI基本法）",
+        "statusOrLevel": "産業育成を最優先にしつつ、高リスクAI・生成AIの事前通知義務を規定",
+        "incomeLimit": "原則自由・事後規制（優先許容・事後規制の基本原則）",
+        "keyFeature": "世界最高水準の半導体・AIインフラ競争力を維持するため『開発の自由』を最大限保障。ただし生命・身体・基本的権利に直結する高リスク領域においては事業者に利用者への事前告知と安全措置を義務付け、大統領直属の国家AI委員会を設置しています。",
+        "source": {
+          "organization": "大韓民国科学技術情報通信部 (MSIT)",
+          "title": "人工知能産業育成および信頼基盤造成関連法案",
+          "url": "https://www.msit.go.kr"
+        }
+      },
+      {
+        "country": "OECD",
+        "countryCode": "OECD",
+        "flag": "🌐",
+        "systemName": "OECD Recommendation on Artificial Intelligence (OECD AI原則・2024改定)",
+        "statusOrLevel": "G7広島AIプロセス等の土台となった国際合意（38加盟国＋パートナー国）",
+        "incomeLimit": "フロンティアAIモデルの透明性、説明責任、プライバシー保護の国際基準",
+        "keyFeature": "2019年に世界で初めて政府間合意されたAI原則を、2024年に生成AIの台頭を踏まえて改定。バイアス防止、知的財産権への配慮、偽情報（ディープフェイク）へのコンテンツ認証など、各国法制度の共通指針として機能しています。",
+        "source": {
+          "organization": "経済協力開発機構 (OECD)",
+          "title": "OECD AI Principles and Policy Observatory",
+          "url": "https://www.oecd.org/en/topics/sub-issues/artificial-intelligence.html"
+        }
       }
     ]
   }

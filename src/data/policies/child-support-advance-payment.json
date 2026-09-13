@@ -183,6 +183,62 @@
           "title": "ARIPA - Agence de recouvrement et d'intermédiation des pensions alimentaires",
           "url": "https://www.pension-alimentaire.caf.fr/"
         }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Child Support Scheme (Services Australia 行政直接徴収制度)",
+        "statusOrLevel": "政府機関が双方の確定申告データを照合し、算定から給与天引きまで全自動執行",
+        "incomeLimit": "支払義務者の雇用主に対して国税庁連携で法的給与天引き命令",
+        "keyFeature": "裁判所を通さず行政（Services Australia）が親の所得・監護日数を公式データで把握し算定。未払いが発生すると国税庁や雇用主に直接差し押さえ命令を出し、空港での出国阻止や税金還付金の強制充当など強力な国家権限で徴収します。",
+        "source": {
+          "organization": "オーストラリア政府サービス庁 (Services Australia)",
+          "title": "Child Support Assessment and Collection Services",
+          "url": "https://www.servicesaustralia.gov.au"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Child Maintenance Service (CMS - 児童扶養料徴収庁)",
+        "statusOrLevel": "政府機関CMSが徴収を代行、悪質滞納者にはパスポート・運転免許剥奪",
+        "incomeLimit": "公的取立利用時は双方に少額手数料（自主払いを促すインセンティブ）",
+        "keyFeature": "親同士の直接交渉が難しい場合、政府のCMSが間に入って銀行口座からの直接引き落としや給与天引き（Deduction from Earnings Order）を実施。さらに滞納が続いた場合は裁判所命令により運転免許やパスポートの停止、最大6週間の拘禁刑まで科せられます。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "Child Maintenance Service (CMS) and enforcement powers",
+          "url": "https://www.gov.uk/child-maintenance-service"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "養育費履行確保および支援に関する法律 (養育費履行管理院)",
+        "statusOrLevel": "女性家族部直属の専門公的機関が法律相談・訴訟・財産調査・公的取立を一貫支援",
+        "incomeLimit": "悪質未納者に対する「身元・氏名公開」「出国禁止」「運転免許停止」の行政制裁",
+        "keyFeature": "2015年に国家機関『養育費履行管理院』を設立。それでも未払いが絶えなかったため、2021年の法改正で滞納者の氏名・職業・顔写真を女性家族部の公式サイトで公開する『身元公開制度』や出国禁止措置を導入し、回収率を飛躍的に高めました。",
+        "source": {
+          "organization": "大韓民国女性家族部 (MOGEF)",
+          "title": "養育費履行管理院の業務および不履行者制裁措置",
+          "url": "https://www.mogef.go.kr"
+        }
+      },
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "Bidragsforskudd (NAV 労働福祉庁による養育費国庫立替給付)",
+        "statusOrLevel": "未払い発生時、国家（NAV）が即座に子どもへ立て替えて支払い、国が親へ求償",
+        "incomeLimit": "子どもの年齢と同居親の所得に応じた3段階の立替基準額（国税庁徴収）",
+        "keyFeature": "離婚によって子どもが貧困に陥ることを防ぐため、相手が支払わない場合は国（NAV）が即座に公費で立替払いを実施。立替金は国税徴収機関（Skatteetaten）が滞納親の給与や財産から強制回収するため、受給親が回収に悩む必要がありません。",
+        "source": {
+          "organization": "ノルウェー労働福祉庁 (NAV)",
+          "title": "Advance payment of child maintenance (Bidragsforskudd)",
+          "url": "https://www.nav.no/en/home"
+        }
       }
     ]
   }

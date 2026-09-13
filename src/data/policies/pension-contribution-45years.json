@@ -303,6 +303,62 @@
           "title": "Social Security Benefit Calculation - 35 Highest-Earning Years",
           "url": "https://www.ssa.gov/oact/cola/Benefits.html"
         }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "Inkomstpension (名目確定拠出年金 NDC システム)",
+        "amount": "生涯の全労働期間における納付実績（18.5%）を個人口座に記録し年金化",
+        "incomeLimit": "納付期間の「上限年数（40年など）」という概念がなく、働いて納めた分だけ増額",
+        "keyFeature": "『納付期間を何年に延長するか』という一律強制の議論ではなく、生涯で納めた年金保険料と利息の総額を受給開始時の平均余命で割って受給額を決定。62歳から何歳まででも就労・納付を継続でき、働いた年数分だけ生涯年金が確実に増える自動均衡システムです。",
+        "source": {
+          "organization": "スウェーデン年金庁 (Pensionsmyndigheten)",
+          "title": "Det allmänna pensionssystemet (公的年金制度と生涯拠出記録)",
+          "url": "https://www.pensionsmyndigheten.se"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "Algemene Ouderdomswet (AOW - 国民基礎年金法)",
+        "amount": "最低賃金と連動する満額定額年金（単身者で月約1,450ユーロ）",
+        "incomeLimit": "15歳から公的受給年齢までの【居住年数1年ごとに2%ずつ満額加算（50年で満額）】",
+        "keyFeature": "年金保険料を納付したかどうかではなく、『オランダに何年間居住・就労していたか（滞在歴）』に基づいて基礎年金を算定。50年間の居住で100%満額となり、受給開始年齢も平均余命の延伸に連動して自動的に67歳以上へ段階的に引き上げられています。",
+        "source": {
+          "organization": "オランダ社会保険銀行 (Sociale Verzekeringsbank - SVB)",
+          "title": "AOW pension: What you need to know about building up AOW",
+          "url": "https://www.svb.nl/en/aow-pension"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Central Provident Fund (CPF) & CPF LIFE (公的強制積立と終身年金)",
+        "amount": "55歳・65歳時点の積立残高（Retirement Sum）に応じた終身月額給付",
+        "incomeLimit": "55歳〜65歳でも労使合計で最大31%〜16.5%の継続拠出義務",
+        "keyFeature": "世代間扶養の賦課方式ではなく完全な自己積立型。シニアになっても就労している限りCPF口座への拠出が継続され、65歳以降に公的終身年金『CPF LIFE』へ移行して一生涯の給付が保証されます。",
+        "source": {
+          "organization": "シンガポール中央積立基金庁 (CPF Board)",
+          "title": "CPF LIFE: A national lifelong annuity scheme",
+          "url": "https://www.cpf.gov.sg"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Superannuation Guarantee (強制企業年金) & Age Pension (公的年金)",
+        "amount": "公的Age Pensionの支給開始年齢を【67歳】へ引き上げ完了",
+        "incomeLimit": "雇用主は賃金の11.5%（将来12%）を個人退職口座へ強制拠出義務",
+        "keyFeature": "税金を原資とする基礎年金（Age Pension）は資産・所得審査つきのセーフティネットに特化し、受給開始年齢を67歳へ引き上げ。その代わり現役時代の雇用主に巨額のスーパーアニュエーション積立を義務付け、生涯拠出による自助年金を構築しています。",
+        "source": {
+          "organization": "オーストラリア国税庁 (Australian Taxation Office - ATO)",
+          "title": "Superannuation guarantee and retirement planning",
+          "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families"
+        }
       }
     ]
   }

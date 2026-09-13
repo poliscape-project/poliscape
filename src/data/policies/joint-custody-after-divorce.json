@@ -195,6 +195,62 @@
           "title": "Family Law Amendment Act 2023 (家族法大改革公式解説)",
           "url": "https://www.ag.gov.au/families-and-marriage/families/family-law-system/family-law-amendment-act-2023"
         }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Children Act 1989 (親責任 Parental Responsibility 制度)",
+        "statusOrLevel": "「親権」を廃止し「親責任」を婚姻中・離婚後も原則双方維持",
+        "incomeLimit": "対立時は裁判所がChild Arrangements Order（子の監護命令）を発令",
+        "keyFeature": "親が子を支配する『親権（Custody）』という概念を1989年法で完全撤廃し、子の福祉を支える『親責任』に移行。離婚しても原則として双方に親責任が残りますが、日常の監護・同居親と面会交流の取り決めは家庭裁判所が子の最善の利益に基づき個別に命令します。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "Making child arrangements if you divorce or separate",
+          "url": "https://www.gov.uk/looking-after-children-divorce"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "Legge 54/2006 (Affidamento condiviso 共同監護原則)",
+        "statusOrLevel": "2006年法で原則「共同監護（Affidamento condiviso）」へ転換",
+        "incomeLimit": "児童虐待・DV・重大な不適格事由がある場合は単独監護へ除外",
+        "keyFeature": "かつては母親への単独親権付与が約8割でしたが、2006年改正法により『子は父母双方と均衡ある関係を維持する権利がある』として共同監護が法的原則となりました。ただしDVや精神的虐待が認められる場合は裁判官の権限で単独監護（Affidamento esclusivo）に切り替わります。",
+        "source": {
+          "organization": "イタリア法務省・公式法令ポータル (Normattiva)",
+          "title": "Legge 8 febbraio 2006, n. 54 (Affidamento condiviso)",
+          "url": "https://www.normattiva.it"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "Föräldrabalken (親族法・共同親権 Gemensam vårdnad)",
+        "statusOrLevel": "離婚後も原則として共同親権（Gemensam vårdnad）が自動継続",
+        "incomeLimit": "自治体の家族法窓口（Familjerätten）による無料調停",
+        "keyFeature": "協議離婚後も特別な申請なしに共同親権が継続します。親同士が対立している場合は自治体の専門機関（Familjerätten）で専門家による合意形成調停が行われ、合意が不可能な重度対立やDV・安全リスクがある場合のみ裁判所が単独親権を命じます。",
+        "source": {
+          "organization": "スウェーデン国家裁判所管理局 (Sveriges Domstolar)",
+          "title": "Vårdnad, boende och umgänge (親権・居住・面会交流ガイド)",
+          "url": "https://www.domstol.se"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "大韓民国民法第909条 (協議離婚時の親権者指定)",
+        "statusOrLevel": "協議により共同親権の選択も可能だが実務上は約8割が単独親権",
+        "incomeLimit": "家庭法院（家庭裁判所）による子の福祉と意思の確認",
+        "keyFeature": "2007年の法改正により離婚時にも父母の合意があれば『共同親権者』を指定することが可能になりました。しかし実務上は葛藤や紛争の継続を避けるため、母親または父親どちらか一方を単独親権者と指定するケースが依然として多数を占めています。",
+        "source": {
+          "organization": "大韓民国法制処 (MOLEG)",
+          "title": "国家法令情報センター: 大韓民国民法第909条（親権者）",
+          "url": "https://www.law.go.kr"
+        }
       }
     ]
   }

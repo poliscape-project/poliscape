@@ -235,6 +235,62 @@
           "title": "Cyber Security Strategy / Critical Infrastructure Act",
           "url": "https://www.cyber.gov.au/"
         }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Loi de programmation militaire (軍事計画法・国家サイバー防御法制)",
+        "statusOrLevel": "国家サイバーセキュリティ庁（ANSSI）に通信事業者への調査・逆侵入権限を付与",
+        "incomeLimit": "憲法評議会（コンセイユ・コンスティチュショネル）による通信の秘密との厳格適合性審査",
+        "keyFeature": "民間重要インフラに対する国家支援型のサイバー攻撃に対抗するため、軍事計画法を改正。ANSSIが通信網のルーティングデータ等を直接取得してサイバー脅威を事前特定し、重大事態では防衛省サイバーコマンドと連携して攻撃サーバーを無力化する法的根拠を整備しました。",
+        "source": {
+          "organization": "フランス国家情報システムセキュリティ庁 (ANSSI)",
+          "title": "Cadre légal de la cyberdéfense et détection des cyberattaques",
+          "url": "https://cyber.gouv.fr"
+        }
+      },
+      {
+        "country": "イスラエル",
+        "countryCode": "IL",
+        "flag": "🇮🇱",
+        "systemName": "INCD Cybersecurity Regulatory Framework (国家サイバー総局法制)",
+        "statusOrLevel": "首相直属の国家サイバー総局（INCD）が全国の民間ネットワークを常時監視・警戒",
+        "incomeLimit": "重大なサイバー脅威発生時、通信事業者への緊急技術介入命令権",
+        "keyFeature": "軍の情報部隊（8200部隊）の知見を民間防衛に統合。平時から重要通信インフラのトラフィックを警戒監視し、病院や送電網へのサイバー攻撃の兆候を検知した場合は、事業者に代わって総局の専門家が直接ネットワークに介入して脅威を隔離・排除します。",
+        "source": {
+          "organization": "イスラエル国家サイバー総局 (INCD / Gov.il)",
+          "title": "National Cyber Directorate operational powers and directives",
+          "url": "https://www.gov.il/en/departments/ministry_of_defense"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Cybersecurity (Amendment) Act 2024 (改正サイバーセキュリティ法)",
+        "statusOrLevel": "CSA長官に基幹インフラ外のクラウド・サプライチェーンに対する予防調査権を付与",
+        "incomeLimit": "重大インシデント時の情報提供命令・技術的介入権（罰則付き）",
+        "keyFeature": "2024年の法改正により、従来の重要情報インフラ（CII）だけでなく、デジタル経済を支える主要クラウドやデータセンター、重要基盤企業に対象を拡大。国家の安全保障を脅かす攻撃に対し、政府機関CSAが能動的に調査・介入する法権限を確立しました。",
+        "source": {
+          "organization": "シンガポールサイバーセキュリティ庁 (CSA)",
+          "title": "Cybersecurity (Amendment) Act 2024 Overview",
+          "url": "https://www.csa.gov.sg"
+        }
+      },
+      {
+        "country": "エストニア",
+        "countryCode": "EE",
+        "flag": "🇪🇪",
+        "systemName": "Cyber Security Act & RIA (国家情報システム庁・国家サイバーコマンド)",
+        "statusOrLevel": "2007年の国家規模サイバー攻撃を教訓に、官民一体の常時防衛と反撃態勢を法制化",
+        "incomeLimit": "NATOサイバー防衛協力センター（CCDCOE）の本部が駐留、共同防衛枠組",
+        "keyFeature": "国家機能の99%がデジタル化されているため、サイバー攻撃を『国家主権への武力攻撃』と同等に位置付け。RIA（国家情報システム庁）と国防軍が連携し、重要通信ネットワークの監視と攻撃インフラへの能動的遮断を法的根拠に基づいて日常的に遂行しています。",
+        "source": {
+          "organization": "エストニア国家情報システム庁 (RIA)",
+          "title": "Cyber security in Estonia and critical infrastructure protection",
+          "url": "https://www.ria.ee/en"
+        }
       }
     ]
   }

@@ -319,6 +319,62 @@
           "title": "Child Tax Credit | Internal Revenue Service",
           "url": "https://www.irs.gov/credits-deductions/individuals/child-tax-credit"
         }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "Barnbidrag (児童手当法・社会保険法)",
+        "amount": "子1人あたり月額1,250クローナ（約1万8,000円）、多子加算あり",
+        "incomeLimit": "親の年収に関わらず【所得制限完全ゼロ】（100%国庫全額公費）",
+        "keyFeature": "生まれたすべての子どもに16歳まで無条件で一律給付（高校在学中は就学手当に自動移行）。所得制限を一切設けず、社会全体で子育ての基礎的費用を支える『普遍主義』のモデル国家となっています。",
+        "source": {
+          "organization": "スウェーデン社会保険庁 (Försäkringskassan)",
+          "title": "Barnbidrag och flerbarnstillägg (児童手当・多子手当公式ガイド)",
+          "url": "https://www.forsakringskassan.se/privatperson/foralder"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Family Tax Benefit (家族税額控除・家族給付金 Part A / B)",
+        "amount": "子どもの年齢に応じて2週間に最大約222豪ドル（月額約4万5,000円）",
+        "incomeLimit": "世帯年収に応じた緩やかな減額スライド（低・中間層に手厚く配分）",
+        "keyFeature": "税額控除と現金給付を一体化させた制度（Services Australia）。低所得世帯ほど給付額が最大化され、中所得世帯にも一定額が支給される傾斜配分方式により、限られた国家予算を最も支援が必要な世帯へ集中的に配分しています。",
+        "source": {
+          "organization": "オーストラリア政府サービス庁 (Services Australia)",
+          "title": "Family Tax Benefit - Support for families with children",
+          "url": "https://www.servicesaustralia.gov.au/family-tax-benefit"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "児童手当法 (アードン・スダン)",
+        "amount": "満8歳未満のすべての児童に月額10万ウォン（約1万1,000円）",
+        "incomeLimit": "所得制限なし（導入当初の所得上位10%除外を批判を受け即時撤廃）",
+        "keyFeature": "超少子化に直面する韓国では、2018年の導入時に所得審査を行っていたものの、行政コストや選別の不公平感が批判され、わずか1年で『所得制限なしの一律給付』へ法改正。さらに乳児向けの手厚い『親給与（満0歳で月100万ウォン）』を新設して重層的に支援しています。",
+        "source": {
+          "organization": "大韓民国保健福祉部 (MOHW)",
+          "title": "児童手当制度のご案内と支給基準",
+          "url": "https://www.mohw.go.kr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "Canada Child Benefit (CCB - カナダ児童手当)",
+        "amount": "6歳未満児に年間最大約7,787カナダドル（月額約7万2,000円）の巨額非課税給付",
+        "incomeLimit": "世帯調整後純所得（AFNI）に応じた累進的逓減（高所得者はゼロ）",
+        "keyFeature": "低所得・中間層に極めて手厚い世界最高水準の非課税給付。完全な所得連動型であり、年収約3万6,000ドル以下の家庭には満額が支給され、子どもの貧困率を劇的に低下させた実績として国連等から高く評価されています。",
+        "source": {
+          "organization": "カナダ国税庁 (Canada Revenue Agency - CRA)",
+          "title": "Canada Child Benefit (CCB) overview and calculation",
+          "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview.html"
+        }
       }
     ]
   }

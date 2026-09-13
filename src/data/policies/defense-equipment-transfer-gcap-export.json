@@ -261,6 +261,62 @@
           "title": "Directorate of Defense Trade Controls - Arms Export Control Act",
           "url": "https://www.pmddtc.state.gov/"
         }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "Legge 185/1990 (防衛装備品輸出入管理法) & GCAP協定",
+        "statusOrLevel": "日英伊3カ国の共同開発条約に基づき国際機関（GIGO）を通じて輸出管理",
+        "incomeLimit": "人権侵害国や武力紛争当事国への輸出を法律で明文禁止、議会への年次報告義務",
+        "keyFeature": "日本・イギリスとともに次期戦闘機（GCAP）を共同開発する中核パートナー。イタリア憲法第11条の平和主義の制約を受けつつも、厳格な議会監視と人権条項（Legge 185）を設けた上で、多国間共同開発品の国際展開を法的に認めています。",
+        "source": {
+          "organization": "イタリア外務・国際協力省 (MAECI - UAMA)",
+          "title": "Autorizzazioni dei Materiali di Armamento (軍用物資輸出入認可)",
+          "url": "https://www.esteri.it"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "Lag (1992:1300) om krigsmateriel (軍用物資法)",
+        "statusOrLevel": "戦闘機グリペン（JAS 39）の輸出を独立審査機関（ISP）が厳格審査",
+        "incomeLimit": "非同盟・中立の歴史から「原則禁止、例外許可」の厳格な輸出基準",
+        "keyFeature": "人口1,000万人規模でありながら自国で戦闘機を開発・輸出する先進国。独立専門機関であるISP（戦略物資検査庁）が、国際連合憲章や人権状況を照らし合わせ、紛争国ではないと判断した国に対してのみ厳格な条件付きで輸出を認めています。",
+        "source": {
+          "organization": "スウェーデン戦略物資検査庁 (ISP)",
+          "title": "Exportkontroll av krigsmateriel (軍用物資の輸出審査基準)",
+          "url": "https://www.isp.se"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "防衛事業法 (DAPA 防衛事業庁による武器輸出振興・管理)",
+        "statusOrLevel": "戦闘機KF-21や戦車K2等の輸出を国家基幹産業として官民挙げて推進",
+        "incomeLimit": "大統領府国家安保室と防衛事業庁の共同審査、輸出金融（輸銀）の巨額支援",
+        "keyFeature": "安全保障上の脅威に対抗して強固な国内防衛産業を構築し、現在では世界トップの武器輸出国の一角へ急成長。技術移転や現地生産の柔軟な提案、政府系金融による資金支援をセットにしてポーランド等へ大規模輸出を展開しています。",
+        "source": {
+          "organization": "大韓民国防衛事業庁 (DAPA)",
+          "title": "防衛事業法および防衛産業輸出支援制度",
+          "url": "https://www.dapa.go.kr"
+        }
+      },
+      {
+        "country": "イスラエル",
+        "countryCode": "IL",
+        "flag": "🇮🇱",
+        "systemName": "Defense Export Control Law (DECA 国防省防衛輸出統制局)",
+        "statusOrLevel": "最先端防空システム（アイアンドーム等）や無人機・レーダーの国際共同輸出",
+        "incomeLimit": "秘密保全協定および外交・安全保障上の適合性を国防省直轄で厳格審査",
+        "keyFeature": "実戦経験に基づく高い技術力を背景に、防衛産業の生産額の約7割を海外へ輸出。機密技術の漏洩を防ぐため国防省直轄の統制局（DECA）が仕向地や使用目的を厳重に追跡・監査する体制を確立しています。",
+        "source": {
+          "organization": "イスラエル国防省 (Ministry of Defense)",
+          "title": "Defense Export Controls Agency (DECA) Regulations",
+          "url": "https://www.gov.il/en/departments/ministry_of_defense"
+        }
       }
     ]
   }

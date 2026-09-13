@@ -273,6 +273,62 @@
           "title": "High Income Child Benefit Charge rules and clawback thresholds",
           "url": "https://www.gov.uk/child-benefit-tax-charge"
         }
+      },
+      {
+        "country": "オーストリア",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "systemName": "Familienlastenausgleichsfonds (FLAF - 家族負担調整基金)",
+        "statusOrLevel": "社会保険料ではなく【雇用主の賃金総額に対する拠出税（約3.7%）】を原資とする独立基金",
+        "incomeLimit": "全額を児童手当・育休手当・教科書無償化などの家族政策専用に特別管理",
+        "keyFeature": "労働者の社会保険料や給与から天引きするのではなく、『次世代育成は企業の社会的責任』として雇用主が支払う給与総額に課税して基金を形成。医療保険財源と完全に分離されており、国民の保険料負担増批判を回避しています。",
+        "source": {
+          "organization": "オーストリア連邦首相府 (Bundeskanzleramt)",
+          "title": "Familienlastenausgleichsfonds (FLAF) und Familienbeihilfe",
+          "url": "https://www.bundeskanzleramt.gv.at"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "低出産高齢社会基本法 (少子化対策特別会計・国庫一般財源)",
+        "statusOrLevel": "医療保険料への上乗せは行わず、一般国庫税収および地方教育交付金の再配分で調達",
+        "incomeLimit": "大統領直属の『低出産高齢社会委員会』が予算の優先順位を統括",
+        "keyFeature": "日本と同様の社会保険システムを持ちながら、少子化対策を医療保険料に上乗せすることはせず、国家の一般財政（税収）から巨額予算を投じる方針を徹底。社会保険料は本来の『医療の対価』としての性格を守るべきという原則を維持しています。",
+        "source": {
+          "organization": "大韓民国法制処 (MOLEG)",
+          "title": "国家法令情報センター: 低出産・高齢社会基本法",
+          "url": "https://www.law.go.kr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Baby Bonus Scheme & Child Development Account (CDA共同マッチング積立)",
+        "statusOrLevel": "親が預金した金額と同額（1:1）を政府が国庫から上乗せ助成する資産形成型",
+        "incomeLimit": "国庫一般会計からの直接拠出（社会保障基金とは完全分離）",
+        "keyFeature": "保険料の徴収ではなく、政府の健全財政黒字を原資に『親が子どものために積み立てた預金に対し、政府が最大1万ドル規模で同額をマッチング贈与』するインセンティブ設計を採用。預金は幼稚園や医療費にのみ利用可能です。",
+        "source": {
+          "organization": "シンガポール社会家庭開発省 (MSF)",
+          "title": "Baby Bonus Scheme and Child Development Account (CDA)",
+          "url": "https://www.msf.gov.sg"
+        }
+      },
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "Kela家族給付財政システム (全額公費・一般税収負担モデル)",
+        "statusOrLevel": "児童手当や育児休業給付の基本部分は社会保険料ではなく【一般税収（国庫100%）】で賄う",
+        "incomeLimit": "地方税・付加価値税等を含む累進課税による所得再配分機能",
+        "keyFeature": "『子育ては私的負担ではなく社会全体の再生産』という思想に基づき、社会保険組合の財政に頼らず、国庫の税収から公平に支出。医療保険の被保険者証とは独立したKela（社会保険庁）カードにより給付が行われます。",
+        "source": {
+          "organization": "フィンランド社会保険庁 (Kela)",
+          "title": "Families and children benefits - Kela social security financing",
+          "url": "https://www.kela.fi/web/en"
+        }
       }
     ]
   }
