@@ -211,5 +211,89 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Sparkles"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における賃上げ促進税制・法人税額控除・赤字中小企業向け賃金引上げ助成政策比較",
+    "comparisonSummary": "物価高を超える構造的賃上げを実現するため、日本が最大45%の法人税額控除と赤字企業向け繰越控除を導入する中、欧米諸国では給与税（社会保険料）直接減免、最低賃金引き上げ助成金、公的調達優遇など、赤字企業にも直接届く支援策が展開されています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "低賃金労働者向け雇用主社会保険料包括軽減措置（Fillon減免）",
+        "statusOrLevel": "赤字・黒字を問わず、給与引き上げ企業の社会保険料負担を直接最大免除",
+        "keyFeature": "法人税を納めていない赤字企業であっても即座にコスト削減恩恵を受けられるよう、企業が支払う社会保障負担金を直接引き下げる給付型モデルを採用。",
+        "source": {
+          "organization": "フランス社会保障・保険料回収機構 (URSSAF)",
+          "title": "Réduction générale des cotisations patronales (Réduction Fillon)",
+          "url": "https://www.urssaf.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "雇用手当（Employment Allowance）及びナショナル・リビング・ウェージ連動",
+        "statusOrLevel": "中小企業に対し年間最大5,000ポンドの雇用主国民保険料（NICs）直接控除",
+        "keyFeature": "賃上げを行う小規模事業者の社会保険料負担を自動的に相殺し、赤字企業でも雇用維持と昇給を両立できるよう政府が直接補助。",
+        "source": {
+          "organization": "英国歳入税関庁 (HMRC)",
+          "title": "Employment Allowance: Reduce your National Insurance contributions",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "雇用機会均等税額控除（WOTC）及び研究開発・賃金給与税相殺措置",
+        "statusOrLevel": "赤字スタートアップ・中小企業向け「給与税（Payroll Tax）からの税額控除（最大25万ドル）」",
+        "keyFeature": "法人税の納税額がない赤字企業であっても、従業員の社会保障給与税から直接控除・相殺できる還付型税制（Refundable Credit）を運用。",
+        "source": {
+          "organization": "内国歳入庁 (IRS)",
+          "title": "Work Opportunity Tax Credit and Payroll Tax Credit for Small Businesses",
+          "url": "https://www.irs.gov"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "進歩的賃金共済制度（Progressive Wage Credit Scheme: PWCS）",
+        "statusOrLevel": "低・中所得層の昇給額の最大50%を政府が「現金直接給付」で共同負担",
+        "keyFeature": "税額控除ではなく政府国庫から企業口座へ直接キャッシュバック。赤字企業であっても賃上げを行えば確実に給付金が支給される。",
+        "source": {
+          "organization": "シンガポール内国歳入庁 (IRAS) / 財務省",
+          "title": "Progressive Wage Credit Scheme (PWCS) Cash Grants",
+          "url": "https://www.iras.gov.sg"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "雇用増大税額控除及び雇用安定資金（赤字中小企業直接支援金）",
+        "statusOrLevel": "賃上げおよび正規雇用拡大に対する法人税控除＋最低賃金引き上げ分の政府直接補填",
+        "keyFeature": "赤字企業のために雇用安定資金を編成し、最低賃金引き上げに伴う人件費増加分の一部を政府が直接補助金として口座振込。",
+        "source": {
+          "organization": "韓国企画財政部 / 雇用労働部",
+          "title": "Tax Incentives for Job Creation and Wage Increase",
+          "url": "https://www.moef.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "賃上げ促進税制拡充（最大45%控除）及び赤字中小企業向け「5年間繰越控除制度」新設",
+        "statusOrLevel": "給与総額増加分の最大45%を法人税額から控除・赤字年度の控除枠を5年間繰越可能に",
+        "keyFeature": "これまで法人税を払っていない赤字中小企業（全体の約6〜7割）に恩恵が届かなかった弱点を克服するため、繰越控除を導入し業務改善助成金を併用。",
+        "source": {
+          "organization": "中小企業庁 / 経済産業省",
+          "title": "中小企業向け賃上げ促進税制の概要と繰越控除措置",
+          "url": "https://www.chusho.meti.go.jp"
+        }
+      }
+    ]
+  }
 }

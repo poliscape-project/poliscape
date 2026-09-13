@@ -225,5 +225,89 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における犯罪被害者等給付金・国選被害者弁護士・公的住居支援制度比較",
+    "comparisonSummary": "凶悪犯罪に巻き込まれた被害者や遺族の生活再建支援に関し、欧米諸国では国庫による高額給付（数千万円水準）、初期段階からの公費専任弁護士配置、加害者からの回収代行（国家立替払）が手厚く法制化されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "犯罪被害者法（VOCA: Victims of Crime Act 1984）及び犯罪被害者基金（CVF）",
+        "statusOrLevel": "連邦刑事罰金・没収資産（年間数十億ドル）を全額積み立てた被害者恒久救済基金",
+        "keyFeature": "税金ではなく有罪となった犯罪者からの罰金で基金を構成。医療費、遺族年金、メンタルヘルス治療費、引越し・住居移転費を包括給付。",
+        "source": {
+          "organization": "米国司法省犯罪被害者局 (OVC)",
+          "title": "Crime Victims Fund and VOCA Formula Grants",
+          "url": "https://ovc.ojp.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "テロ行為その他犯罪被害者保証基金（FGTI）及び付帯私訴（Partie civile）制度",
+        "statusOrLevel": "保険契約賦課金を原資とする国家保証基金による被害者損害の完全肩代わり賠償",
+        "keyFeature": "裁判での加害者判決を待たず、FGTIが被害者・遺族に直接損害賠償金を前払いし、国が加害者に対して求償権を行使。全額国費による弁護士援助を完備。",
+        "source": {
+          "organization": "フランス保証基金 (FGTI) / 司法省",
+          "title": "Fonds de Garantie des Victimes des actes de Terrorisme et d’autres Infractions",
+          "url": "https://www.fondsdegarantie.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "人身傷害補償局（CICA: Criminal Injuries Compensation Authority）スキーム",
+        "statusOrLevel": "国庫による包括的無過失被害補償（最大50万ポンド：約1億円の法定上限）",
+        "keyFeature": "凶悪犯罪による死亡・重傷に対し、明確なタリフ（補償等級表）に基づき迅速給付。公営住宅への緊急優先転居枠を法的に保障。",
+        "source": {
+          "organization": "英国政府人身傷害補償局 (CICA) / 司法省",
+          "title": "Criminal Injuries Compensation Scheme and Tariff of Injuries",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "社会法典第14巻（SGB XIV: 犠牲者補償法改革・2024年全面施行）",
+        "statusOrLevel": "トラウマ外来での即時迅速治療セッション（最長15回無償）及び生涯犠牲者年金",
+        "keyFeature": "事件直後から数日以内に専門家によるトラウマ心理ケアを国の公費で提供。重度後遺症の被害者には生涯にわたる公的年金と介護を国家保障。",
+        "source": {
+          "organization": "連邦労働社会省 (BMAS)",
+          "title": "Soziales Entschädigungsrecht (SGB XIV) und Opferentschädigung",
+          "url": "https://www.bmas.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "各州犯罪被害者支援法（Victims of Crime Assistance Act）及び金融支援裁判所",
+        "statusOrLevel": "州政府による特別給付金（最大6万〜10万豪ドル）及び公費カウンセリング・住居防犯改修",
+        "keyFeature": "事件直後の緊急費用（鍵の交換、防犯カメラ設置、緊急シェルター宿泊費）を即日給付する制度を運用。",
+        "source": {
+          "organization": "ビクトリア州犯罪被害者支援局 (Victims of Crime Victoria)",
+          "title": "Victims of Crime Financial Assistance and Court Support",
+          "url": "https://www.victimsofcrime.vic.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "犯罪被害者等給付金の支給等に関する法律改正・被害者参加弁護士公費負担拡大",
+        "statusOrLevel": "遺族給付金の最低保障額引き上げ（320万円→1,000万円超へ大幅拡充）及び弁護士費用の公費負担",
+        "keyFeature": "加害者が無資力の場合に被害者が救済されない課題を是正するため、公的給付金を引き上げ、自治体による公営住宅の優先入居や家賃補助を展開。",
+        "source": {
+          "organization": "警察庁犯罪被害者等施策推進室",
+          "title": "犯罪被害者等施策推進基本計画と給付金制度の見直し",
+          "url": "https://www.npa.go.jp"
+        }
+      }
+    ]
+  }
 }

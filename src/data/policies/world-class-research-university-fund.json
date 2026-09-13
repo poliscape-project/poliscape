@@ -205,5 +205,89 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "TrendingDown"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における世界トップ研究大学育成プログラム・メガ基金運用ガバナンス比較",
+    "comparisonSummary": "グローバルな頭脳獲得競争と最先端研究で世界をリードするため、米国のアイビープラス基金、中国の双一流計画、シンガポール、ドイツ等の卓越大学集中育成イニシアチブと、日本の国際卓越研究大学制度が比較されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "アイビーリーグ・私立トップ大学エンダウメント及び連邦研究費（NIH/NSF）集中助成",
+        "statusOrLevel": "数兆円規模の独立運用基金＋年間数十億ドルの連邦間接経費（Indirect Cost）配分",
+        "keyFeature": "大学理事会（Board of Trustees）による強固な経営監督とプロのCIO（最高投資責任者）による基金運用で、国の予算に依存しない世界トップの財政基盤を構築。",
+        "source": {
+          "organization": "全米大学ビジネスオフィサー協会 (NACUBO)",
+          "title": "NACUBO-Commonfund Study of Endowments",
+          "url": "https://www.nacubo.org"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "世界一流大学及び一流学科建設構想（双一流：Double First-Class Initiative）",
+        "statusOrLevel": "清華大学・北京大学等約140大学に対する国家予算の巨額集中配分",
+        "keyFeature": "AI・量子・半導体等の特定重点分野を国家指定し、海外からトップ級中国人・外国人研究者を破格の待遇で誘致し世界ランキング急上昇を実現。",
+        "source": {
+          "organization": "中国教育部 (MOE)",
+          "title": "Implementation Measures for the Double First-Class Initiative",
+          "url": "http://www.moe.gov.cn"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "エクセレンス・ユニバーシティ（Exzellenzuniversitäten）制度",
+        "statusOrLevel": "10大学＋1大学連合（ベルリン大学連合）に対する連邦・州恒久助成（7年更新制）",
+        "keyFeature": "全学的なガバナンス改革と国際化を条件に、教授選考の自由度拡大とトップクラス研究施設を整備。",
+        "source": {
+          "organization": "ドイツ科学審議会 (Wissenschaftsrat)",
+          "title": "Exzellenzkommission Förderung von Exzellenzuniversitäten",
+          "url": "https://www.wissenschaftsrat.de"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "研究・イノベーション・企業（RIE2025）計画及び国立研究財団（NRF）集中助成",
+        "statusOrLevel": "GDP比約1%に相当する国家研究開発予算をNUS・NTUへ重点投下",
+        "keyFeature": "世界の一流教授陣をヘッドハンティングするため、欧米トップ校を上回る年俸と潤沢なスタートアップ研究費を国家が直接保証。",
+        "source": {
+          "organization": "シンガポール国立研究財団 (NRF) / 首相府",
+          "title": "Research, Innovation and Enterprise (RIE) 2025 Plan",
+          "url": "https://www.nrf.gov.sg"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ラッセル・グループ（Russell Group）24校集中支援及びエクセレンス助成",
+        "statusOrLevel": "国内研究助成金（UKRI）の過半をトップ研究大学群へ集中配分",
+        "keyFeature": "オックスフォードやケンブリッジ、インペリアル・カレッジ等がスピンオフ企業を多数創出し、巨額の民間ベンチャーキャピタルを呼び込む。",
+        "source": {
+          "organization": "英国研究・技術革新機構 (UKRI) / Russell Group",
+          "title": "Excellence in research and innovation at Russell Group universities",
+          "url": "https://www.ukri.org"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "国際卓越研究大学の研究及び研究成果の活用のための大学改革の推進に関する法律",
+        "statusOrLevel": "10兆円ファンドの運用益から年最大数百億円を認定校（第1号：東北大学）へ最長25年間支援",
+        "keyFeature": "伝統的な教授会自治から合議制「運営方針会議」へのガバナンス移行、若手研究者のポスト拡大、民間資金獲得による自律的財務成長を義務付け。",
+        "source": {
+          "organization": "文部科学省 / 内閣府総合科学技術・イノベーション会議 (CSTI)",
+          "title": "国際卓越研究大学の認定及び大学改革の推進状況",
+          "url": "https://www.mext.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -205,5 +205,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "MapPin"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における赤字地方鉄道の公的再編・上下分離方式・BRT転換法制比較",
+    "comparisonSummary": "人口減少に伴うローカル鉄道の維持困難に対し、欧州諸国（ドイツ、フランス等）では公的上下分離（インフラ公有・運行公募）と連邦地域化交付金が定着している一方、英国では国鉄解体後のバス転換（BRT）やコミュニティ鉄道支援が活用されています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "地域化法（Regionalisierungsgesetz: RegG）及び地方鉄道公有上下分離",
+        "statusOrLevel": "連邦政府から各州への年額100億ユーロ超の「地域化交付金」配分と運行公募制",
+        "keyFeature": "線路インフラは国営・公営企業（DB InfraGO）が維持し、運行は州が民間・公営鉄道会社からコンペで調達。赤字ローカル線も公共サービス義務（PSO）で存続。",
+        "source": {
+          "organization": "連邦デジタル・交通省 (BMDV)",
+          "title": "Regionalisierungsgesetz und Finanzierung des Schienenpersonennahverkehrs",
+          "url": "https://bmdv.bund.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "交通志向法（LOM法: Loi d’orientation des mobilités）及び地方路線（Lignes de desserte fine）協定",
+        "statusOrLevel": "地域圏（Région）への地方小路線管轄移管と自治体出資による上下分離再生",
+        "keyFeature": "赤字路線の廃止を防ぐため、国鉄（SNCF）から地方自治体へインフラ管理権を委譲可能とし、軽量車両（Train Léger）やBRTへの弾力的転換を許可。",
+        "source": {
+          "organization": "フランス生態系移行・領土結束省 (MTE) / SNCF Réseau",
+          "title": "Loi LOM et plan d’action pour les lignes ferroviaires de desserte fine du territoire",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "コミュニティ鉄道戦略（Community Rail Network）及び廃線跡BRT（Busway）転換",
+        "statusOrLevel": "ケンブリッジシャー等での旧鉄道敷を活用したガイドウェイ・バス（BRT）成功例",
+        "keyFeature": "利用者の少ない鉄路を専用バス高速輸送路に完全転換し運行頻度を数倍に向上。また市民ボランティアと連携したコミュニティ鉄道パートナーシップを育成。",
+        "source": {
+          "organization": "英国政府運輸省 (DfT)",
+          "title": "Connecting Communities with the Railways: The Community Rail Development Strategy",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦鉄道法（EBG）地方交通共同発注システム（Bestellsystem Regionaler Personenverkehr）",
+        "statusOrLevel": "連邦とカントン（州）が赤字額を全額折半補填する公共輸送完全保障",
+        "keyFeature": "地方の山岳鉄道や狭軌路線であっても、全国民の移動権を保障するため、公的資金で計画赤字を確実に補填し1時間に1本のダイヤを維持。",
+        "source": {
+          "organization": "スイス連邦交通庁 (BAV)",
+          "title": "Finanzierung und Bestellung des regionalen Personenverkehrs (RPV)",
+          "url": "https://www.bav.admin.ch"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦超党派インフラ法（IIJA）地方公共交通プログラム（FTA Section 5311）",
+        "statusOrLevel": "農村・地方部交通に対する連邦助成（地方都市間バス・デマンド型交通への転換支援）",
+        "keyFeature": "鉄道維持が不可能な過疎地に対し、連邦交通局が運行赤字の最大50%、車両購入の最大80%を補助して地方バス網を確保。",
+        "source": {
+          "organization": "連邦交通局 (FTA)",
+          "title": "Formula Grants for Rural Areas (Section 5311)",
+          "url": "https://www.transit.dot.gov"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "地域公共交通活性化再生法改正（2023年10月施行・国主導の再構築協議会制度）",
+        "statusOrLevel": "輸送密度1,000人未満等の大量赤字路線を対象に国が自治体・JRを仲介し再編審議",
+        "keyFeature": "自治体単独では合意困難な赤字路線に対し、国の関与の下で鉄道維持（上下分離含む）かバス（BRT）等への転換かを合議決定。",
+        "source": {
+          "organization": "国土交通省",
+          "title": "地域公共交通の再構築と再構築協議会制度",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

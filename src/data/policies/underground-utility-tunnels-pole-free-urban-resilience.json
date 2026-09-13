@@ -205,5 +205,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Zap"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国・メガシティにおける電線地中化率・共同溝整備・電柱新設禁止法制比較",
+    "comparisonSummary": "都市景観の向上と台風・地震時の電柱倒壊による道路閉塞防止に向け、欧米主要都市（ロンドン、パリ等）では100%近い地中化を達成しており、シンガポールや台湾でも新設道路の共同溝整備と電柱完全禁止が法制化されています。",
+    "countries": [
+      {
+        "country": "イギリス (ロンドン)",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "道路工事法（New Roads and Street Works Act）地中化完全標準",
+        "statusOrLevel": "ロンドン市街地電線地中化率100%（原則として地上電柱の新設不可）",
+        "keyFeature": "19世紀から共同溝（Subway）および地下埋設を法制化。電力・通信・ガス管の地下包括管理を義務付け、市街地に電柱が一切存在しない都市景観を維持。",
+        "source": {
+          "organization": "英国政府運輸省 (DfT) / ロンドン交通局 (TfL)",
+          "title": "New Roads and Street Works Act and Utility Apparatus Regulations",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス (パリ)",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "道路法典（Code de la voirie routière）及び景観保護条例",
+        "statusOrLevel": "パリ市内電線地中化率100%・歴史的市街地地上配線全面禁止",
+        "keyFeature": "オスマンの都市改造以来、地下下水道網と一体化した地下インフラダクトを整備。地方自治体にも地中化工事費用の特別交付税措置を配分。",
+        "source": {
+          "organization": "フランス生態系移行省 (MTE) / パリ市",
+          "title": "Réseaux de distribution d’électricité et enfouissement des lignes",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "公共事業法（Utilities Act）共通サービスダクト（CSD）義務化",
+        "statusOrLevel": "都市部地中化率100%・マリーナベイ共通共同溝（Common Services Tunnel）",
+        "keyFeature": "地上電柱の新設は法的に禁止。マリーナベイ地区では電力・光ファイバー・地域冷暖房・空圧ゴミ収集管を一体収容する巨大共同溝を完備。",
+        "source": {
+          "organization": "シンガポール電力市場監督庁 (EMA) / SP Group",
+          "title": "Common Services Tunnel (CST) and Underground Infrastructure Regulations",
+          "url": "https://www.ema.gov.sg"
+        }
+      },
+      {
+        "country": "ドイツ (ベルリン)",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "エネルギー経済法（EnWG）及び低圧送電線地下埋設原則",
+        "statusOrLevel": "ベルリン・ハンブルク等大都市地中化率99%以上・景観および防護基準",
+        "keyFeature": "市街地の配電網はすべて歩道下に埋設。高圧送電線についても住民保護と景観保全のため優先的地下敷設法（BBPlG）を運用。",
+        "source": {
+          "organization": "連邦ネットワーク庁 (Bundesnetzagentur)",
+          "title": "Erdkabel im Übertragungsnetz und Verteilnetzregeln",
+          "url": "https://www.bundesnetzagentur.de"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "共同管道法（共同溝法）及び市区道路条例電線地中化推進方針",
+        "statusOrLevel": "台北市等大都市地中化率85%超・台風災害常襲地帯の防災地下化",
+        "keyFeature": "主要幹線道路の新設・改築時に共同溝整備を義務付け。強烈な台風による倒木・電柱倒壊の大規模停電を防ぐため国家予算で電柱撤去を推進。",
+        "source": {
+          "organization": "台湾内政部国土管理署 / 台湾電力",
+          "title": "Common Utility Ducts Act and Underground Power Lines Program",
+          "url": "https://www.nlma.gov.tw"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "無電柱化推進法及び緊急輸送道路における電柱新設禁止措置（道路法第37条）",
+        "statusOrLevel": "東京23区で約8%、全国主要道路平均約1〜2%（低コスト浅層埋設の普及課題）",
+        "keyFeature": "防災拠点や緊急輸送道路での電柱倒壊による救急活動寸断を防ぐため、新設電柱の占用を不許可とし、自治体と電力・通信会社で推進計画を策定。",
+        "source": {
+          "organization": "国土交通省",
+          "title": "無電柱化の推進と低コスト手法の導入",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

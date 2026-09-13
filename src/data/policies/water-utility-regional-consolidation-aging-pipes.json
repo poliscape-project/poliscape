@@ -205,5 +205,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Wallet"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における地方水道事業体の広域統合・耐震老朽化管路更新技術比較",
+    "comparisonSummary": "零細な自治体水道の技術力不足や経営難を克服するため、世界各国では事業体の広域統合（県・流域単位）、スマート水道メーターやAI音響探査による漏水監視、耐震型ダクタイル鋳鉄管・ポリエチレン管への計画的更新が推進されています。",
+    "countries": [
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "200以上の零細水道を10の広域公益企業へ統合した歴史的広域化改革",
+        "statusOrLevel": "全国わずか10社による完全スケールメリット経営・漏水率世界最低（約4〜5%）",
+        "keyFeature": "各社が数十万〜数百万人の住民を受け持つ広域体制を敷き、高度な水処理技術者と管路更新専門チームを常時維持。",
+        "source": {
+          "organization": "オランダ水道協会 (Vewin)",
+          "title": "Regionalisation and efficiency of Dutch drinking water companies",
+          "url": "https://www.vewin.nl"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "EPA水インフラ改善法（WIIN Act）及び鉛給水管交換加速プログラム",
+        "statusOrLevel": "全国900万本以上の鉛管・老朽管更新に対する連邦150億ドル直接交付金",
+        "keyFeature": "中小規模の水道事業体が合併・共同調達を行う場合の優先融資枠を設け、AI音響センサーによる地下漏水箇所のピンポイント自動検出を推進。",
+        "source": {
+          "organization": "米国環境保護庁 (EPA)",
+          "title": "Lead and Copper Rule Improvements and Infrastructure Upgrades",
+          "url": "https://www.epa.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "水・下水協会（Wasser- und Abwasserzweckverbände: Zweckverband）広域連合",
+        "statusOrLevel": "複数自治体が法律上の広域特別目的連合（ツヴェックフェアバント）を形成",
+        "keyFeature": "地方の町村が共同出資して一体的な水管理組合を組織し、管路の耐用年数（80〜100年）に応じた予防保全的更新計画を実行。",
+        "source": {
+          "organization": "ドイツガス水技術科学協会 (DVGW)",
+          "title": "Zweckverbände in der Trinkwasserversorgung und Netzüberwachung",
+          "url": "https://www.dvgw.de"
+        }
+      },
+      {
+        "country": "イギリス (スコットランド)",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "スコティッシュ・ウォーター（Scottish Water）単一公営統合モデル",
+        "statusOrLevel": "旧3分割公営企業を単一の全スコットランド公営公社に一元化",
+        "keyFeature": "イングランドのような民営化を選ばず、全土を単一の公営公社に統合することで過疎地・離島を含む均一な設備投資と管路更新を達成。",
+        "source": {
+          "organization": "スコットランド水資源産業委員会 (WICS) / Scottish Water",
+          "title": "Strategic plan for water infrastructure renewal in Scotland",
+          "url": "https://www.watercommission.co.uk"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "韓国水資源公社（K-water）地方上水道統合委託運営制度",
+        "statusOrLevel": "財政難の地方自治体が国家専門公社K-waterに管路更新と運行を包括長期委託（20〜30年）",
+        "keyFeature": "K-waterがスマートウォーターシティ技術（ICT漏水管理）を導入し、地方都市の有収率（料金回収率）を大幅に改善。",
+        "source": {
+          "organization": "韓国環境部 (ME) / K-water",
+          "title": "Smart Water Management and Regional Water Modernization Project",
+          "url": "https://www.me.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "水道基盤強化計画及び耐震化適合率向上ロードマップ",
+        "statusOrLevel": "基幹管路耐震適合率約42%（耐用年数40年超の老朽管急増と更新率年0.6%台の停滞）",
+        "keyFeature": "都道府県主導での広域化協定とウォーターPPPの導入を進め、官民合同で耐震管路の敷設ペース加速を図る。",
+        "source": {
+          "organization": "国土交通省",
+          "title": "水道の耐震化と基盤強化に向けた取組方針",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

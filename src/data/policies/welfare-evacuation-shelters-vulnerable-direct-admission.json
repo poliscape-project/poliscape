@@ -225,5 +225,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Sparkles"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における要配慮者・高齢者・障がい者向け福祉避難所・直接避難体制法制比較",
+    "comparisonSummary": "大規模災害時に一般避難所での生活が困難な要介護高齢者や医療依存度の高い障がい者を守るため、主要国では特別ニーズ避難所（Special Needs Shelters）の事前登録、バリアフリー介護施設との直接避難協定、専任ケアスタッフの派遣体制が義務付けられています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "FEMA障害者統合調整局（ODIC）及び特別医療ニーズ避難所（Special Medical Needs Shelters）",
+        "statusOrLevel": "フロリダ州等における特別ニーズ登録（PSN: People with Special Needs Registry）義務化",
+        "keyFeature": "酸素吸入器や透析が必要な高齢者を事前登録し、ハリケーン等の災害時には一般避難所を経由せず、非常用電源と医療スタッフが完備された特別避難所へ直行避難。",
+        "source": {
+          "organization": "連邦緊急事態管理局 (FEMA) / フロリダ州保健省",
+          "title": "Office of Disability Integration and Coordination (ODIC) Shelter Guidance",
+          "url": "https://www.fema.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "民間緊急事態法（CCA 2004）要援護者優先レジスター（Priority Services Register: PSR）",
+        "statusOrLevel": "エネルギー企業・地方自治体・NHSが連携した要援護高齢者の事前把握と緊急支援",
+        "keyFeature": "停電や浸水発生時、電力会社や自治体がPSR名簿に基づき、ポータブル酸素吸入器や特別福祉宿泊施設への即時移送を実施。",
+        "source": {
+          "organization": "英国政府内閣府 (Cabinet Office) / Ofgem",
+          "title": "Civil Contingencies Act and identifying vulnerable people in emergencies",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家災害復旧管理局（NEMA）及びコミュニティ脆弱性避難プロトコル",
+        "statusOrLevel": "森林火災・洪水時の高齢者介護施設（Aged Care Facilities）相互直接避難協定",
+        "keyFeature": "被災地域の特養・介護ホームから安全地域の提携介護施設へ、入居者を要介護レベルごとのカルテごと直接転送する協定を事前締結。",
+        "source": {
+          "organization": "豪州国家緊急管理局 (NEMA)",
+          "title": "Vulnerable People in Emergencies Policy and Aged Care Evacuation",
+          "url": "https://www.nema.gov.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "自治体安全防護計画（PCS）及びコミューン要援護者名簿（Registre nominatif）",
+        "statusOrLevel": "熱波・洪水・寒波等の危機時における全コミューン（市町村）での事前登録者安否確認義務",
+        "keyFeature": "市長が名簿に基づき、孤立高齢者や要介護者の個別避難支援計画を策定し、空調完備の福祉施設への直接緊急避難を実施。",
+        "source": {
+          "organization": "フランス内務省民間安全総局 (DGSCGC) / 保健省",
+          "title": "Plan communal de sauvegarde (PCS) et registre des personnes vulnérables",
+          "url": "https://www.interieur.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦市民保護・災害支援庁（BBK）要援護者配慮ガイドライン（Schutz von vulnerablen Gruppen）",
+        "statusOrLevel": "各郡・市の災害対策本部における赤十字等の福祉救援団体（HiOrg）との直接協定",
+        "keyFeature": "障がい者支援施設や老人ホームを事前に「臨時福祉避難所」として指定し、一般避難所と完全に動線を分離して感染症と災害関連死を防止。",
+        "source": {
+          "organization": "連邦市民保護・災害支援庁 (BBK)",
+          "title": "Vulnerable Gruppen im Bevölkerungsschutz und Evakuierungsplanung",
+          "url": "https://www.bbk.bund.de"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "災害対策基本法改正に基づく福祉避難所「直接避難協定」制度及び個別避難計画作成義務",
+        "statusOrLevel": "一般避難所を経由せず対象者と介助者が直接福祉避難所へ向かえる事前指定の全国展開",
+        "keyFeature": "能登半島地震等の災害関連死を防ぐため、特養や旅館・ホテルと事前協定を結び、受入対象者を限定して公示する「直接避難型福祉避難所」の普及を促進。",
+        "source": {
+          "organization": "内閣府防災担当 / 厚生労働省",
+          "title": "福祉避難所の確保・運営ガイドラインの改定について",
+          "url": "https://www.bousai.go.jp"
+        }
+      }
+    ]
+  }
 }

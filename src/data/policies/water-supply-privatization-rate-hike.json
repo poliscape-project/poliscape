@@ -127,5 +127,89 @@
       "type": "white_paper",
       "typeLabel": "水道協会統計調査"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における水道料金改定・原価回収原則・官民連携（PFI/コンセッション）ガバナンス比較",
+    "comparisonSummary": "老朽施設の更新費用急増に伴う水道料金の値上げに対し、主要国では「完全原価回収の原則」、低所得者向け水道料金福祉バウチャー、市民参加による料金監視委員会、自治体主導の広域料金プールの導入が図られています。",
+    "countries": [
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU水枠組み指令（WFD: Water Framework Directive）第9条（費用回収原則）",
+        "statusOrLevel": "「汚染者負担」および「水道サービスの環境・資源コストを含む全原価回収」の全加盟国義務化",
+        "keyFeature": "税金による安易な赤字補填を制限し、持続可能なインフラ投資に必要な料金設定を要求する一方、社会的弱者へのアクセス保障（水の人権）を両立。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Water Framework Directive: Cost recovery for water services",
+          "url": "https://environment.ec.europa.eu"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "低所得家庭水支援プログラム（LIHWAP）及び水道公益事業料金規制",
+        "statusOrLevel": "連邦保健福祉省（HHS）による低所得世帯の水道料金滞納肩代わり・直接補助",
+        "keyFeature": "料金値上げに伴う困窮層の給水停止を防ぐため、連邦予算から直接水道事業者へ補助金を支払い、ライフラインを維持。",
+        "source": {
+          "organization": "連邦保健福祉省子ども・家族局 (ACF / HHS)",
+          "title": "Low Income Household Water Assistance Program (LIHWAP)",
+          "url": "https://www.acf.hhs.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ソーシャル・タリフ（WaterSure）及びOfwat料金上限規制（Price Cap）",
+        "statusOrLevel": "多子世帯や医療機器使用者向けの水道料金上限保護と事業者基金拠出",
+        "keyFeature": "民間水道会社に対し、利益の一部を原資として低所得世帯向けの割引料金（最大50%オフ）を提供するソーシャル・タリフの設置を義務化。",
+        "source": {
+          "organization": "英国消費者水道審議会 (CCW) / Ofwat",
+          "title": "WaterSure and social tariffs for low-income households",
+          "url": "https://www.ccw.org.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "地域水価格連動及び社会的累進料金制（Tarification sociale et progressive）",
+        "statusOrLevel": "基本生活用水（第1ブロック）を格安にし、プール等の過剰使用に高額課金",
+        "keyFeature": "全世帯に不可欠な生活用水量を低料金に抑え、多量消費者に高い単価を課す累進制を自治体が採用し、公平性と節水を促進。",
+        "source": {
+          "organization": "フランス生態系移行省 (MTE)",
+          "title": "L’expérimentation de la tarification sociale de l’eau",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "2011年水道民営化反対国民投票及びARERA全国統一料金規制",
+        "statusOrLevel": "国民投票で民営化と投機的利益率上乗せを拒否・公共独立機関が料金適正化",
+        "keyFeature": "エネルギー・ネットワーク・環境規制庁（ARERA）が全国の水道料金算定基準を一元管理し、無駄なコスト上乗せを排除。",
+        "source": {
+          "organization": "イタリアエネルギー・ネットワーク・環境規制庁 (ARERA)",
+          "title": "Metodo Tariffario Idrico e Bonus Sociale Idrico",
+          "url": "https://www.arera.it"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "水道法第14条（総括原価方式）及び広域化による料金格差是正方針",
+        "statusOrLevel": "自治体ごとの独立採算制（最大8倍以上の料金格差）と段階的値上げラッシュ",
+        "keyFeature": "老朽管更新と耐震化のため将来的に全国で2〜5割の値上げが試算される中、近隣自治体の統合・包括民間委託で経営基盤を強化。",
+        "source": {
+          "organization": "厚生労働省 / 国土交通省",
+          "title": "水道料金の現状と持続可能な水道経営のあり方",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

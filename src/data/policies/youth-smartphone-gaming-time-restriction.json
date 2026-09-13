@@ -205,5 +205,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Activity"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における青少年のスマホ・SNS・オンラインゲーム利用制限・年齢確認義務化法制比較",
+    "comparisonSummary": "青少年のメンタルヘルス悪化、いじめ、ゲーム依存・課金トラブルを防ぐため、中国のゲーム実名制・週3時間規制、欧米各国の年齢確認義務化（アフォーダブルな法的身元確認）、フランスや豪州のSNS年齢下限法制（16歳未満禁止議論）が進展しています。",
+    "countries": [
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "オンライン安全法改正（16歳未満のSNS利用禁止法案・2024年成立）",
+        "statusOrLevel": "世界初の16歳未満に対する主要SNS（Instagram、TikTok等）アカウント保有完全禁止",
+        "keyFeature": "親の同意の有無を問わず、プラットフォーム企業側に生体認証や年齢確認技術を用いた16歳未満の締め出し義務（違反時最大5,000万豪ドル罰金）を課す。",
+        "source": {
+          "organization": "豪州eSafetyコミッショナー / 通信省",
+          "title": "Social media age limits and Online Safety Act reforms",
+          "url": "https://www.esafety.gov.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "SNSデジタル多数年齢法（Loi visant à instaurer une majorité numérique à 15 ans）",
+        "statusOrLevel": "15歳未満のSNS登録に対する保護者の明確な同意義務付け及び学校内スマホ全面禁止",
+        "keyFeature": "小・中学校での校内スマホ持ち込み・使用をすでに法律で完全禁止。SNS企業に対し、実効性のある年齢検証ツールの導入を義務化。",
+        "source": {
+          "organization": "フランス視聴覚・デジタル通信規制局 (Arcom) / 教育省",
+          "title": "Régulation de la majorité numérique et protection des mineurs en ligne",
+          "url": "https://www.arcom.fr"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "国家新聞出版署「未成年者オンラインゲーム依存防止通知」及び国家インターネット青少モード",
+        "statusOrLevel": "未成年者のオンラインゲームプレイを「金土日の週合計3時間（1日1時間）」に完全制限",
+        "keyFeature": "顔認証と国家実名ID認証システムをゲームログインに連動。スマートフォンのOSレベルで夜間利用制限や利用時間上限を強制する「青少模式」を法制化。",
+        "source": {
+          "organization": "国家新聞出版署 (NPPA) / 国家インターネット情報弁公室 (CAC)",
+          "title": "Notice on Preventing Minors from Indulging in Online Games",
+          "url": "http://www.nppa.gov.cn"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "児童オンライン安全法（KOSA: Kids Online Safety Act）及びユタ州ソーシャルメディア法",
+        "statusOrLevel": "未成年に対する深夜帯（22:30〜6:30）のSNSアクセス遮断及び親の閲覧権限義務",
+        "keyFeature": "中毒性を高めるアルゴリズムによる推薦機能のデフォルト無効化や、親による利用時間制限ツールの提供を大手SNSに法定義務付け。",
+        "source": {
+          "organization": "連邦取引委員会 (FTC) / 米国上院商務委員会",
+          "title": "Kids Online Safety Act (KOSA) Legislative Framework",
+          "url": "https://www.ftc.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "情報コミッショナー局（ICO）子どもコード（Age Appropriate Design Code: AADC）",
+        "statusOrLevel": "18歳未満向けオンラインサービスのデフォルト最高プライバシー・中毒防止設定義務",
+        "keyFeature": "子どものスクロールを引き留めるストリーク機能や自動再生を制限し、位置情報追跡を禁止。違反企業には巨額GDPR罰金を適用。",
+        "source": {
+          "organization": "英国情報コミッショナー局 (ICO)",
+          "title": "Age appropriate design: a code of practice for online services",
+          "url": "https://ico.org.uk"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "青少年が安全に安心してインターネットを利用できる環境の整備等に関する法律（青少年ネット利用環境整備法）及び香川県ネット・ゲーム規制条例",
+        "statusOrLevel": "フィルタリング利用促進義務・自治体条例による利用時間目安（1日60分等）と国の安全利用指針",
+        "keyFeature": "スマホ販売時のフィルタリング設定義務に加え、学校でのデジタル・シティズンシップ教育やプラットフォーム企業のペアレンタルコントロール普及を推進。",
+        "source": {
+          "organization": "こども家庭庁 / 総務省",
+          "title": "青少年のインターネット利用環境整備基本計画",
+          "url": "https://www.cfa.go.jp"
+        }
+      }
+    ]
+  }
 }

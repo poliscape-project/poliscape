@@ -205,5 +205,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における法人税控除型インセンティブと直接賃金助成の制度設計比較",
+    "comparisonSummary": "民間企業の自発的賃上げを促す政策手段として、法人税額控除（Tax Credit）方式を採用する国と、社会保険料減免や直接補助金（Direct Grant）を主軸とする国の間で、中小・赤字企業への波及効果を巡る制度比較が進んでいます。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "内国歳入法典第41条研究雇用税額控除及び連邦最低賃金連動",
+        "statusOrLevel": "税額控除（Tax Credit）と給与税控除（Payroll Tax Credit）のハイブリッド制度",
+        "keyFeature": "法人所得税がゼロの中小企業でもFICA税（連邦社会保障税）から差し引くことができるため、実質的な即時キャッシュフロー支援として機能。",
+        "source": {
+          "organization": "米国中小企業庁 (SBA) / IRS",
+          "title": "Payroll Tax Credits and Small Business Incentives",
+          "url": "https://www.sba.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "競争力雇用税額控除（CICE）の社会保険料恒久減免への完全転換モデル",
+        "statusOrLevel": "旧来の法人税控除（CICE）を廃止し、より直接的な給与負担軽減へ一元化",
+        "keyFeature": "税額控除方式は申告から還付までのタイムラグがあり赤字企業に不向きだった反省から、毎月の社会保険料の直接減免に統合。",
+        "source": {
+          "organization": "フランス経済・財務省 (DGFiP)",
+          "title": "Transformation du CICE en allègement pérenne de cotisations patronales",
+          "url": "https://www.economie.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "労働協約自治（Tarifautonomie）及び法定最低賃金委員会モデル",
+        "statusOrLevel": "税制優遇ではなく労使交渉（Tarifvertrag）による賃金決定を原則とする政策体系",
+        "keyFeature": "国が法人税減税で賃上げを誘導するのではなく、法定最低賃金の大幅引き上げと産業別労働協約の普遍的適用により構造的賃上げを実現。",
+        "source": {
+          "organization": "連邦労働社会省 (BMAS)",
+          "title": "Tarifautonomie und Mindestlohnkommission",
+          "url": "https://www.bmas.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "低賃金委員会（Low Pay Commission: LPC）勧告に基づく最低生活賃金引き上げ",
+        "statusOrLevel": "生活賃金（National Living Wage）の中央値66%達成と中小企業給与税控除",
+        "keyFeature": "最低賃金を急速に引き上げつつ、小規模雇用主に対しては雇用手当（Employment Allowance）を拡大して企業の倒産・雇用抑制を防止。",
+        "source": {
+          "organization": "英国低賃金委員会 (LPC) / GOV.UK",
+          "title": "National Living Wage and Low Pay Commission Remit",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "公正労働委員会（FWC）年次賃金審査及び中小企業ブースト税制",
+        "statusOrLevel": "アワード（職種別公定最低賃金）の年次一括引き上げとスキル研修20%特別控除",
+        "keyFeature": "賃上げ原資を確保するための生産性向上投資（デジタル化・従業員研修）に対し、実質120%の特別税務控除を中小企業に付与。",
+        "source": {
+          "organization": "豪州国税庁 (ATO)",
+          "title": "Small Business Technology Investment Boost and Skills Boost",
+          "url": "https://www.ato.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "租税特別措置法に基づく給与等の引上げ及び設備投資を行った場合の税額控除",
+        "statusOrLevel": "大企業最大35%、中小企業最大45%の法人税額控除（教育訓練費上乗せ要件等）",
+        "keyFeature": "継続雇用者の給与総額増加率に応じて控除率を累進化。赤字企業対策として繰越控除制度や補助金審査での加点措置を導入。",
+        "source": {
+          "organization": "財務省 / 経済産業省",
+          "title": "賃上げ促進税制の制度詳細と優遇措置",
+          "url": "https://www.mof.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -217,5 +217,89 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Building"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における不要不動産の国家・自治体放棄・帰属法制及び所有者不明土地対策比較",
+    "comparisonSummary": "山林や農地、原野などの不要不動産を引き取り拒否・放置する所有者不明土地問題に対し、主要国では自治体への無条件放棄の制限、公的信託や土地銀行による無償接収、管理負担金の適正化など、土地の公的管理移行ルールが整備されています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "民法（BGB）第928条（不動産所有権の放棄: Dereliktion）及び州の先買権",
+        "statusOrLevel": "登記所での公証人作成による一方的所有権放棄の合法化と州政府（Land）への帰属",
+        "keyFeature": "所有者は登記放棄を行うことで土地を手放すことが可能。州政府が無主物となった土地を取得するか決定し、土壌汚染等の瑕疵物件は厳格審査。",
+        "source": {
+          "organization": "連邦司法省 (BMJ)",
+          "title": "Bürgerliches Gesetzbuch (BGB) § 928 Aufgabe des Eigentums, Aneignung des Fiskus",
+          "url": "https://www.gesetze-im-internet.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "一般公有財産法典（CGPPP）無主不動産（Biens sans maître）自治体帰属法",
+        "statusOrLevel": "相続人全員が相続放棄した物件または30年間納税・管理がない土地のコミューン（市町村）無償編入",
+        "keyFeature": "市町村が優先的に公有財産として取得し、地域公共スペースや森林保全区域として編入。市町村が拒否した場合は国庫に最終帰属。",
+        "source": {
+          "organization": "フランス生態系移行・領土結束省 / 財務省",
+          "title": "Procédure d’acquisition des biens sans maître par les communes",
+          "url": "https://www.collectivites-locales.gouv.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "各州財産法（Escheat：無主財産国庫帰属）及び地域土地銀行（Land Bank）",
+        "statusOrLevel": "相続人不在財産の州政府帰属（Escheat）及び不要不動産の公的土地銀行への名目的寄贈",
+        "keyFeature": "固定資産税滞納や不要となった山林・宅地を、自治体が設立した土地銀行が引き取り、自然保護区やコミュニティ農園として再生。",
+        "source": {
+          "organization": "全米州財務官協会 (NAUPA) / HUD",
+          "title": "Unclaimed Property Laws and State Escheat Administration",
+          "url": "https://unclaimed.org"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "王室無主財産（Bona Vacantia）及び公的信託（National Trust等）保全",
+        "statusOrLevel": "相続人なき不動産・解散企業の残余財産の国王財産（Crown Estate）への自動帰属",
+        "keyFeature": "管理困難な広大山林や歴史的緑地は、公的トラストや自然保護チャリティが寄贈を受け入れ、税制優遇を活用して保全。",
+        "source": {
+          "organization": "英国政府法務局 (Government Legal Department: GLD)",
+          "title": "Bona Vacantia division: unclaimed estates and land",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "スイス民法（ZGB）第666条（土地所有権の消滅）及びカントン（州）公有地管理",
+        "statusOrLevel": "公的登録抹消による所有権放棄と基礎自治体（Gemeinde）の自然保全指定",
+        "keyFeature": "アルプス山岳地域や急傾斜地などの管理不能な山林地について、基礎自治体が森林法に基づき公的防災林として一元管理。",
+        "source": {
+          "organization": "スイス連邦司法・警察省 (EJPD) / 連邦環境省 (BAFU)",
+          "title": "Schweizerisches Zivilgesetzbuch: Grundeigentum und Aneignung",
+          "url": "https://www.bj.admin.ch"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "相続土地国庫帰属法（2023年4月施行）及び審査基準・10年分管理負担金制度",
+        "statusOrLevel": "建物なし・土壌汚染なし・境界確定等の要件を満たした土地を国庫帰属（負担金原則20万円）",
+        "keyFeature": "所有者不明土地の発生予防のため新設。過大な審査要件（境界紛争や急傾斜地）の緩和や負担金の算定見直しが議論中。",
+        "source": {
+          "organization": "法務省",
+          "title": "相続土地国庫帰属制度の概要と申請手引き",
+          "url": "https://www.moj.go.jp"
+        }
+      }
+    ]
+  }
 }

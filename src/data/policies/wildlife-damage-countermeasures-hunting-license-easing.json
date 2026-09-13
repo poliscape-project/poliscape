@@ -217,5 +217,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Trees"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における大型野生鳥獣管理・狩猟免許要件・銃刀法特例・後継者確保策比較",
+    "comparisonSummary": "狩猟者の高齢化と野生動物被害の急増に対応するため、主要国では狩猟免許取得プロセスのデジタル化、若年層・女性の育成、公用ライフル銃の所持要件緩和、専門の職業的捕獲員（公認シャープシューター）の雇用が進められています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ハンター教育標準化法（Hunter Education Association）及び若手育成プログラム",
+        "statusOrLevel": "オンライン受講による狩猟免許取得と見習い狩猟制度（Apprentice Hunting）",
+        "keyFeature": "未成年でも保護者同伴で見習い狩猟が可能な制度を整備。女性や都市部若者の参入を促す「R3（新規獲得・維持・再活性化）」全米キャンペーンを展開。",
+        "source": {
+          "organization": "全米魚類野生生物局協会 (AFWA)",
+          "title": "National R3 Implementation Strategy for Hunting and Shooting Sports",
+          "url": "https://www.fishwildlife.org"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦狩猟免許（Jagdschein：通称「緑の博士号」）及びRevier（狩猟区）管理責任",
+        "statusOrLevel": "厳しい国家試験（理論・実技・射撃）と若者向け民間狩猟学校（Jagdschule）の普及",
+        "keyFeature": "狩猟区の賃借者に生息数管理と食害賠償の法的義務を課し、社会的ステータスとしての狩猟文化を維持しつつ後継者を確保。",
+        "source": {
+          "organization": "連邦食糧・農業省 (BMEL) / ドイツ狩猟連盟",
+          "title": "Voraussetzungen für die Erteilung des Jagdscheins",
+          "url": "https://www.bmel.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "全国家狩猟免許（Permis de chasser national）費用半減改革",
+        "statusOrLevel": "マクロン政権による狩猟免許手数料の大幅引き下げ（400ユーロ→200ユーロ）",
+        "keyFeature": "地方の農村防衛と獣害抑止を担う狩猟人口を維持するため、免許費用の国庫補助と、警察と連携した安全基準テストの現代化を実施。",
+        "source": {
+          "organization": "フランス国立生物多様性局 (OFB) / FNC",
+          "title": "Examen et délivrance du permis de chasser",
+          "url": "https://www.ofb.gouv.fr"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "狩猟試験（Jägarexamen）及び地域野生生物管理委員会",
+        "statusOrLevel": "人口の約3%が銃所持免許と狩猟資格を保有する国民的狩猟モデル",
+        "keyFeature": "ヘラジカやヒグマの適正管理を地域の共同体（Jaktlag）が担い、初心者へのメンター指導と安全射撃訓練を徹底。",
+        "source": {
+          "organization": "スウェーデン環境保護庁 (Naturvårdsverket) / 警察庁",
+          "title": "Jägarexamen and Firearms Licences for Hunting",
+          "url": "https://www.naturvardsverket.se"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "NZ",
+        "systemName": "環境保全省（DOC）認定職業猟官（Professional Pest Controllers）",
+        "statusOrLevel": "一般スポーツ狩猟と完全に分離した「有給プロによる専門駆除部隊」",
+        "keyFeature": "一般愛好家の高齢化に依存せず、政府がヘリコプター射撃や熱赤外線ドローンを操る専任の害獣駆除員を直接雇用。",
+        "source": {
+          "organization": "ニュージーランド環境保全省 (DOC)",
+          "title": "Wild animal control and professional cull operations",
+          "url": "https://www.doc.govt.nz"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "鳥獣保護管理法・銃刀法改正（ライフル銃所持要件緩和・ハーフライフル規制見直し）",
+        "statusOrLevel": "狩猟者高齢化（60歳以上が過半）に対する技能講習負担軽減・公的捕獲隊（鳥獣被害対策実施隊）の常設化",
+        "keyFeature": "クマ・シカ駆除に必要な銃器所持の特例措置や、自治体職員・地域おこし協力隊による捕獲隊結成を国庫支援。",
+        "source": {
+          "organization": "環境省 / 警察庁",
+          "title": "鳥獣保護管理の担い手育成と銃砲所持許可基準の検討",
+          "url": "https://www.env.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -231,5 +231,89 @@
         "commentStandard": "「法律で支援が義務化されても、現場で派遣できる訪問介護員が枯渇している。受け皿の人手不足を解消しなければ実効性がない」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国におけるヤングケアラー（家族の介護・世話を担う子ども）法的権利・公的支援比較",
+    "comparisonSummary": "病気や障がいのある家族の日常的な世話・介護を担う子ども（ヤングケアラー）の学業遅れや孤立を防ぐため、英国の介護者法（Care Act）や子ども・家族法、豪州のケアラー認知法など、法的権利の明記、学校での早期発見、代替介護サービスの公費提供が先行しています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "子ども・家族法（Children and Families Act 2014）第96条及びケア法（Care Act 2014）",
+        "statusOrLevel": "自治体（Local Authority）に対するヤングケアラーのアセスメント実施法定義務化",
+        "keyFeature": "子どもの年齢や発達に不相応な介護（過重な世話）を予防・停止させるため、成人の家族への公的介護サービス増額を自治体に義務付け。",
+        "source": {
+          "organization": "英国教育省 (DfE) / 保健社会介護省 (DHSC)",
+          "title": "Young carers: rights and statutory guidance for local authorities",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "ケアラー認知法（Carer Recognition Act 2010）及びヤングケアラー奨学金プログラム",
+        "statusOrLevel": "国家ケアラー戦略に基づく学業継続支援金（年額最大3,000豪ドル）の直接給付",
+        "keyFeature": "ケアラー・ゲートウェイ（Carer Gateway）を通じ、24時間の緊急レスパイト（一時預かり）サービスや学業・メンタル相談を無償提供。",
+        "source": {
+          "organization": "豪州社会支援省 (Department of Social Services)",
+          "title": "Young Carer Bursary Programme and Support Services",
+          "url": "https://www.dss.gov.au"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "介護時間法（PflegeZG）及びヤングケアラー支援イニシアチブ（Pausentaste）",
+        "statusOrLevel": "連邦高齢者・女性・青少年省による相談ポータル「一時停止ボタン（Pausentaste）」運営",
+        "keyFeature": "親の介護保険給付の中に「代替介護（Verhinderungspflege）」費用を盛り込み、子どもが介護を担わずに済むようプロの介護ヘルパーを公費派遣。",
+        "source": {
+          "organization": "連邦家族・高齢者・女性・青少年省 (BMFSFJ)",
+          "title": "Pausentaste: Unterstützung für pflegende Kinder und Jugendliche",
+          "url": "https://www.bmfsfj.de"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "保健医療法（HSL）第5章第7条（子どもの権利としての家族支援義務）",
+        "statusOrLevel": "親が重病・精神疾患・依存症等の場合、医療機関が子どもの安全・支援を評価する法定義務",
+        "keyFeature": "医療従事者が患者だけでなく同居する子どもの状況を確認し、自治体の社会福祉局（Socialtjänsten）と連携して家事援助を配備。",
+        "source": {
+          "organization": "スウェーデン保健福祉庁 (Socialstyrelsen)",
+          "title": "Children as next of kin: Healthcare provider statutory obligations",
+          "url": "https://www.socialstyrelsen.se"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "全米ケアギビング連合（NAC）ケアラー戦略及び全米家族ケアラー支援プログラム（NFCSP）",
+        "statusOrLevel": "軍人・退役軍人家族のヤングケアラー（Hidden Helpers）への重点支援プログラム",
+        "keyFeature": "負傷退役軍人を介護する青少年のためのピアサポートキャンプや奨学金制度を官民基金で展開。",
+        "source": {
+          "organization": "連邦高齢者問題局 (ACL) / エリザベス・ドール財団",
+          "title": "Supporting Hidden Helpers: Children and Youth in Caregiving Families",
+          "url": "https://acl.gov"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "子ども・若者育成支援推進法改正（2024年6月施行・ヤングケアラーの法的位置づけ明記）",
+        "statusOrLevel": "国・地方自治体の支援責務の法制化及びスクールソーシャルワーカー等の早期発見配置",
+        "keyFeature": "法文上に「家族の介護その他の日常生活上の世話を過度に行っていると認められる子ども・若者」と明記し、福祉・介護・教育の機関連携を法定義務化。",
+        "source": {
+          "organization": "こども家庭庁",
+          "title": "ヤングケアラー支援ポータルと法改正の概要",
+          "url": "https://www.cfa.go.jp"
+        }
+      }
+    ]
   }
 }

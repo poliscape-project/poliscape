@@ -205,5 +205,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Smartphone"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における野生鳥獣害対策・ジビエサプライチェーン構築・持続的消費政策比較",
+    "comparisonSummary": "森林保全と農林業保護のための捕獲圧維持と、捕獲鳥獣の廃棄をなくすフードロス削減・地産地消に向け、欧州（ドイツ、フランス等）やオセアニアでは、移動解体車（モバイルパッカー）の導入、コールドチェーン整備、ブランド化支援が定着しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "EU食品衛生規則（EC 853/2004）野生肉特例及び「Wild aus der Region」認証",
+        "statusOrLevel": "森林局・狩猟協会による地産ジビエの直接直売所（Forstamt）ネットワーク",
+        "keyFeature": "州立森林局が直接解体・衛生検査を行い、一般市民にパック詰めされた高品質ジビエ肉を低価格で直売する仕組みを確立。",
+        "source": {
+          "organization": "連邦食糧・農業省 (BMEL)",
+          "title": "Hygienische Anforderungen an Wildfleisch in Forstbetrieben",
+          "url": "https://www.bmel.de"
+        }
+      },
+      {
+        "country": "オーストリア",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "systemName": "「Genuss Region Österreich」アルプス・ジビエブランド化",
+        "statusOrLevel": "アルプス鹿・シャモア肉の高級美食観光（ガストロノミー）完全統合",
+        "keyFeature": "全ホテル・レストランで捕獲地トレーサビリティ付きのジビエを提供し、地域観光の目玉として高付加価値化を実現。",
+        "source": {
+          "organization": "オーストリア連邦農業・地域自治省 (BML)",
+          "title": "Genuss Region Österreich: Wild aus den Alpen",
+          "url": "https://info.bml.gv.at"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "ジビエ利用促進計画（Plan Gibier）及びモバイル屠畜・解体ユニット",
+        "statusOrLevel": "山間僻地での品質劣化を防ぐ冷蔵機能付き移動解体車（Abattoir mobile）公費配備",
+        "keyFeature": "捕獲後2時間以内の冷却・内臓摘出を徹底するため、移動式解体トレーラーを導入し、廃棄率を劇的に低減。",
+        "source": {
+          "organization": "フランス農業・食料主権省 (MASA)",
+          "title": "Expérimentation des abattoirs mobiles et filière gibier de chasse",
+          "url": "https://agriculture.gouv.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "自然イングランド（Natural England）低炭素シカ肉イニシアチブ",
+        "statusOrLevel": "牛肉・羊肉に代わる「究極の低炭素・放牧オーガニックミート」としてのシカ肉普及",
+        "keyFeature": "気候変動対策と森林再生（植林した苗木のシカ食害防止）を結び付け、シカ肉消費をカーボンニュートラル行動として啓発。",
+        "source": {
+          "organization": "英国環境・食糧・農村地域省 (Defra)",
+          "title": "Deer management and the environmental benefits of wild venison",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "野生カンガルー・有袋類持続可能収穫計画（Commercial Harvest Plans）",
+        "statusOrLevel": "科学的個体数モニタリングに基づく世界最大の野生肉商業輸出産業",
+        "keyFeature": "生態系を保護するための法定割当枠内で捕獲された野生肉を、高タンパク・超低脂肪の健康食品として世界数十カ国へ輸出。",
+        "source": {
+          "organization": "豪州気候変動・エネルギー・環境・水資源省 (DCCEEW)",
+          "title": "Commercial kangaroo harvest management plans",
+          "url": "https://www.dcceew.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "農林水産省ジビエ利用拡大基本方針及び移動式解体処理車（ジビエカー）普及",
+        "statusOrLevel": "全国の解体処理施設約800箇所の整備とペットフード・皮革（ジビエレザー）総合利用",
+        "keyFeature": "捕獲から解体までの時間短縮のため移動式ジビエカーを配備。外食産業や学校給食での継続的活用に向けた販路開拓を支援。",
+        "source": {
+          "organization": "農林水産省農村振興局",
+          "title": "ジビエ利用拡大基本方針と衛生管理ガイドライン",
+          "url": "https://www.maff.go.jp"
+        }
+      }
+    ]
+  }
 }

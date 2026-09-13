@@ -185,5 +185,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "HeartHandshake"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国におけるシカ・イノシシ急増対策・野生肉（ジビエ）衛生管理・消費拡大法制比較",
+    "comparisonSummary": "森林生態系破壊や農作物被害をもたらす野生動物の激増に対し、欧米諸国（ドイツ、英国、フランス等）では衛生管理された野生鳥獣肉（Wildpret/Venison）の公的食肉検査、処理施設（解体所）補助、学校給食・レストラン流通の標準化が進んでいます。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦狩猟法（BJagdG）及び肉衛生法（Wildfleischhygiene）",
+        "statusOrLevel": "ハンターへの「十分訓練された者（Kundige Person）」資格付与とジビエ正規流通",
+        "keyFeature": "全ハンターが解体前検査の公認資格を持ち、放射能検査や旋毛虫検査をパスした肉のみ「Wildbret」として年間数万トンが高級食材として一般流通。",
+        "source": {
+          "organization": "連邦食糧・農業省 (BMEL) / ドイツ狩猟協会 (DJV)",
+          "title": "Wildfleischgewinnung und Hygienevorschriften",
+          "url": "https://www.bmel.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "農林漁業法典に基づくジビエ衛生管理規則及び農作物食害補償金制度",
+        "statusOrLevel": "狩猟連盟（FNC）が農家への食害を全額自己補填するシステムとジビエ消費促進",
+        "keyFeature": "シカ・イノシシによる被害額を狩猟者が支払う狩猟免許税等で農家に直接賠償。捕獲肉は公認解体処理場（Atelier de traitement du gibier）を経て流通。",
+        "source": {
+          "organization": "フランス農業・食料主権省 (MASA) / 国立生物多様性局 (OFB)",
+          "title": "Régulation du grand gibier et valorisation de la venaison",
+          "url": "https://agriculture.gouv.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "食品基準庁（FSA）野生鳥獣肉衛生ガイド及び英国野生シカ管理戦略",
+        "statusOrLevel": "NHS病院食や学校給食での国産シカ肉（Wild Venison）利用促進",
+        "keyFeature": "生態系保全のためシカ捕獲目標を大幅に引き上げるとともに、捕獲されたシカ肉を公的機関の給食メニューに採用する官民共同プロジェクトを推進。",
+        "source": {
+          "organization": "英国食品基準庁 (FSA) / 林野委員会 (Forestry Commission)",
+          "title": "Wild Game Meat Guide and British Wild Venison Strategy",
+          "url": "https://www.food.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ハンターズ・フォー・ザ・ハングリー（Hunters for the Hungry）寄付法制",
+        "statusOrLevel": "捕獲したシカ肉を公認加工所で解体し、生活困窮者向けフードバンクへ無償提供",
+        "keyFeature": "農務省（USDA）公認の加工業者で処理されたシカ肉の寄付活動を各州法で免責・支援し、害獣駆除と貧困救済を直結。",
+        "source": {
+          "organization": "米国農務省 (USDA) / 各州魚類野生生物局",
+          "title": "Game Meat Donation Programs and Food Safety Oversight",
+          "url": "https://www.usda.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "外来シカ管理国家戦略（National Feral Deer Action Plan）",
+        "statusOrLevel": "外来種として生態系を破壊する野生シカの根絶作戦とペットフード・輸出活用",
+        "keyFeature": "数百万頭に増殖した外来シカに対し、ヘリコプターからの航空狙撃を含む大規模駆除を実施し、捕獲個体の商用資源化を推進。",
+        "source": {
+          "organization": "豪州農業・水資源・環境省 (DAFF)",
+          "title": "National Feral Deer Action Plan",
+          "url": "https://www.agriculture.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "鳥獣被害防止特措法及び「国産ジビエ認証制度」（農林水産省・環境省）",
+        "statusOrLevel": "シカ・イノシシ捕獲頭数半減目標とジビエ利用率向上（年間2,000トン超突破）",
+        "keyFeature": "捕獲個体の約9割が埋設廃棄されている現状を打破するため、衛生認証処理施設の整備補助、ペットフード化、学校給食・社員食堂導入を推進。",
+        "source": {
+          "organization": "農林水産省 / 環境省",
+          "title": "ジビエ利用拡大に向けた取組と国産ジビエ認証制度",
+          "url": "https://www.maff.go.jp"
+        }
+      }
+    ]
+  }
 }

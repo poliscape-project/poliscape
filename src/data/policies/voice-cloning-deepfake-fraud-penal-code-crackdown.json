@@ -211,5 +211,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "FileCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における生成AI悪用・ディープフェイク・ボイスクローン犯罪に対する刑事処罰法制比較",
+    "comparisonSummary": "親族や上司の声・姿を模倣したボイスクローン・ディープフェイクを用いた送金詐欺や選挙妨害に対し、米国、EU、韓国などでは刑罰の加重処罰、透かし・電子署名の義務付け、AI生成物の無断詐称行為の独立罪化が進んでいます。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "FCC音声クローン禁止宣言及び連邦ディープフェイク対策法案（TAKE IT DOWN Act等）",
+        "statusOrLevel": "AIクローン音声を用いた自動架電（ロボコール）の全面違法化・詐欺重罪加重",
+        "keyFeature": "連邦通信委員会（FCC）が電話消費者保護法（TCPA）に基づき、AI音声による勧誘・詐欺電話を完全に違法と認定。司法省が電信詐欺罪等で最高懲役20年の厳罰を科す。",
+        "source": {
+          "organization": "連邦通信委員会 (FCC) / 米国司法省 (DOJ)",
+          "title": "FCC Declares AI-Generated Voices in Robocalls Illegal",
+          "url": "https://www.fcc.gov"
+        }
+      },
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州人工知能法（EU AI Act）透明性義務及びディープフェイク表示規則",
+        "statusOrLevel": "AI生成コンテンツの電子透かし（Watermarking）・ラベル表示義務（最大3,500万ユーロ罰金）",
+        "keyFeature": "画像・音声・動画を生成するAI開発者に対し、機械判読可能なメタデータ埋め込みを義務化。不正利用した詐欺行為については各国の刑法で詐欺罪等の最重刑を適用。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "AI Act: Transparency obligations for generative AI and deepfakes",
+          "url": "https://digital-strategy.ec.europa.eu"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "オンライン安全法（Online Safety Act 2023）及び詐欺法（Fraud Act 2006）適用",
+        "statusOrLevel": "ディープフェイクを用いた不実表示・欺罔行為に対する最大10年の拘禁刑",
+        "keyFeature": "偽造音声を用いた送金指示詐欺について、プラットフォーム側に検知・削除の安全配慮義務を課し、犯行グループに対しては組織犯罪として重罰追及。",
+        "source": {
+          "organization": "英国政府科学・イノベーション・技術省 (DSIT) / 内務省",
+          "title": "Online Safety Act and Tackling AI-enabled Fraud",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "性暴力処罰法第14条の2（虚偽映像物等）及び通信詐欺被害防止法",
+        "statusOrLevel": "ディープフェイク悪用犯罪に対する最高懲役7年の独立法定刑新設",
+        "keyFeature": "選挙運動でのディープフェイク使用を全面禁止したほか、ボイスクローンを用いたボイスフィッシング詐欺グループに対し犯罪組織罪を適用して厳断。",
+        "source": {
+          "organization": "韓国法務部 / 科学技術情報通信部 (MSIT)",
+          "title": "Measures to Prevent and Strictly Punish Deepfake Crimes",
+          "url": "https://www.moj.go.kr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "オンライン虚偽・操作防止法（POFMA）及び刑法詐欺罪改定",
+        "statusOrLevel": "AIなりすまし音声・動画に対する即時訂正・遮断命令及び巨額罰金",
+        "keyFeature": "公人や企業幹部を装ったディープフェイク詐欺を国家の治安・経済に対する重大な脅威と位置付け、警察の電子的差押・口座即時凍結権限を強化。",
+        "source": {
+          "organization": "シンガポール内務省 (MHA) / IMDA",
+          "title": "Combating Scams and Manipulated Media Regulations",
+          "url": "https://www.mha.gov.sg"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "刑法詐欺罪の適用及びAI事業者ガイドライン（総務省・経産省）",
+        "statusOrLevel": "AI悪用詐欺に対する刑法上の欺罔行為としての摘発・電子透かし技術導入検討",
+        "keyFeature": "ボイスクローンやディープフェイクを用いた特殊詐欺が急増する中、生成AI技術の悪用に対する新法制定や法定刑の引き上げが議論中。",
+        "source": {
+          "organization": "警察庁 / デジタル庁",
+          "title": "AI等を悪用した犯罪への対応と特殊詐欺対策",
+          "url": "https://www.npa.go.jp"
+        }
+      }
+    ]
+  }
 }

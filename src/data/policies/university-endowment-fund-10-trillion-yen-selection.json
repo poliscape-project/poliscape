@@ -218,5 +218,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "TrendingUp"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における大学寄付基金（エンダウメント）・世界トップ研究大学選抜支援法制比較",
+    "comparisonSummary": "世界のトップ大学との研究力格差を打破するため、米国の巨大大学基金運用（ハーバード・エール等）やシンガポール・ドイツ・フランスのエクセレンス・イニシアチブ（卓越大学集中支援）をモデルに、日本でも10兆円基金による長期重点助成が開始されました。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "大学寄付基金（Endowment）運用モデル（ハーバード約500億ドル、エール約400億ドル）",
+        "statusOrLevel": "非課税の民間寄付金とオルタナティブ投資による年平均8〜10%の長期高利回り運用",
+        "keyFeature": "運用益を原資に世界トップ研究者の超高給雇用、最先端ラボ整備、全学生への返済不要奨学金を自立的に賄うエコシステムを構築。",
+        "source": {
+          "organization": "米国教育省国立教育統計センター (NCES)",
+          "title": "Endowment Funds of Degree-Granting Institutions",
+          "url": "https://nces.ed.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "エクセレンス・ストラテジー（Exzellenzstrategie: 卓越大学支援戦略）",
+        "statusOrLevel": "連邦と州の共同資金（年額5.33億ユーロ）によるトップ卓越大学（TUミュンヘン、ハイデルベルク等）重点選抜助成",
+        "keyFeature": "国際審査員による厳格な競争選抜を行い、卓越研究クラスターと大学全体への長期資金を集中配分。",
+        "source": {
+          "organization": "ドイツ研究振興協会 (DFG) / 科学審議会 (Wissenschaftsrat)",
+          "title": "Exzellenzstrategie des Bundes und der Länder",
+          "url": "https://www.dfg.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "未来のための投資計画（France 2030 / IdEx: Initiatives d’Excellence）",
+        "statusOrLevel": "数十億ユーロの公的信託基金を造成し、パリ・サクレー大学等の大規模再編大学を世界ランク上位へ押し上げ",
+        "keyFeature": "単科大学や研究所を統合したメガ大学を創設させ、基金の利子配当を恒久的研究インフラと若手教授ポストに重点配当。",
+        "source": {
+          "organization": "フランス高等教育・研究省 (MESR) / 国立研究機構 (ANR)",
+          "title": "Initiatives d’Excellence (IdEx) et France 2030 dans l’enseignement supérieur",
+          "url": "https://www.enseignementsup-recherche.gouv.fr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "大学エンダウメント政府マッチング助成金（Endowment Matching Grant）",
+        "statusOrLevel": "NUS（シンガポール国立大）及びNTUに対する民間寄付への最大1.5〜3倍の政府国庫マッチング拠出",
+        "keyFeature": "大学が民間から寄付を集めると政府が同額以上の国庫資金を基金に上乗せし、1兆円規模の運用基金を短期間で形成。",
+        "source": {
+          "organization": "シンガポール教育省 (MOE)",
+          "title": "Government Matching for Autonomous Universities Endowment Funds",
+          "url": "https://www.moe.gov.sg"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "研究卓越性枠組み（REF: Research Excellence Framework）及びオックスブリッジ基金",
+        "statusOrLevel": "研究成果の質と社会的インパクトに基づく年次数十億ポンドの大学直接配分金（QR Funding）",
+        "keyFeature": "数百年の歴史を持つカレッジ基金（オックスフォード・ケンブリッジ等）と公的研究資金のハイブリッド運用で世界トップ水準を維持。",
+        "source": {
+          "organization": "英国研究・技術革新機構 (UKRI) / Research England",
+          "title": "Research Excellence Framework (REF) and Quality-Related funding",
+          "url": "https://www.ukri.org"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "10兆円大学ファンド（科学技術振興機構JST運用）及び国際卓越研究大学制度",
+        "statusOrLevel": "政府出資＋財投を活用した10兆円元本運用益から年数百億円を数校（東北大学等）に長期重点助成",
+        "keyFeature": "世界最高水準の研究大学を目指し、合議制ガバナンス改革（運営方針会議の設置）と自律的な事業規模年3%成長を認定要件に設定。",
+        "source": {
+          "organization": "文部科学省 / 科学技術振興機構 (JST)",
+          "title": "国際卓越研究大学制度と大学ファンドの運用状況",
+          "url": "https://www.mext.go.jp"
+        }
+      }
+    ]
+  }
 }

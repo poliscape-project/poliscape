@@ -179,5 +179,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Wallet"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における危険・放置空き家対策・固定資産税特例解除・行政代執行法制比較",
+    "comparisonSummary": "少子高齢化や過疎化に伴う空き家・廃屋の放置問題に対し、英米独仏などでは固定資産税の重加算税（最大4倍）、自治体による緊急収容・解体代執行、空き家登録簿の義務化と所有者への解体費用全額求償が法制化されています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "地方政府財政法に基づく長期空家カウンシル・タックス割増課税（Empty Homes Premium）",
+        "statusOrLevel": "2年以上放置された空き家の地方税を最大4倍（400%）に重加算税賦課",
+        "keyFeature": "自治体（カウンシル）は空家管理命令（EDMO）を発令し、所有者の同意なしに住宅を強制接収して改修し、公的賃貸住宅として再活用可能。",
+        "source": {
+          "organization": "英国政府地方開発・住宅・コミュニティ省 (DLUHC)",
+          "title": "Council tax: empty homes premium guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "土地銀行（Land Bank）制度及び危険建物即時代執行法（Demolition Liens）",
+        "statusOrLevel": "放置空家を公的土地銀行が競売・差し押さえ、解体費用を全額不動産担保先取特権化",
+        "keyFeature": "荒廃した空家が治安悪化や火災原因となるのを防ぐため、自治体が即時に解体代執行を行い、費用を所有者に追徴または土地を公有化して再開発。",
+        "source": {
+          "organization": "米国住宅都市開発省 (HUD) / 全米土地銀行ネットワーク",
+          "title": "Revitalizing Abandoned Properties through Land Banks",
+          "url": "https://www.hud.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "空家税（Taxe sur les logements vacants: TLV）及び危険建物対策令",
+        "statusOrLevel": "過密地域の空き家に対する累進課税（初年度17%、翌年以降34%）と市長の緊急代執行権",
+        "keyFeature": "居住可能であるにもかかわらず1年以上放置された物件に重税を課し、崩壊危険のある建物は市長権限で立入検査・即時修繕命令・代執行を実施。",
+        "source": {
+          "organization": "フランス公共財政総局 (DGFiP) / 住宅省",
+          "title": "Taxe sur les logements vacants et procédure de péril",
+          "url": "https://www.impots.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "建設法典（BauGB）第177条・第179条（近代化命令及び撤去命令）",
+        "statusOrLevel": "都市景観・治安を損なう荒廃建築物に対する自治体の強制修繕・除却命令",
+        "keyFeature": "命令に従わない所有者に対しては自治体が代執行を行い、所有者の全財産から費用を強制徴収。所有者不在の場合は裁判所を通じて公的競売。",
+        "source": {
+          "organization": "連邦住宅・都市開発・建築省 (BMWSB)",
+          "title": "Baugesetzbuch: Modernisierungs- und Abbruchgebot",
+          "url": "https://www.bmwsb.bund.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "ビクトリア州空家土地税（Vacant Residential Land Tax: VRLT）",
+        "statusOrLevel": "年間6ヶ月以上空室の住宅に対する物件資本価値の最高3%の追加保有税賦課",
+        "keyFeature": "投機的放置や管理不全を防ぐため、全州規模で空き家を登録・特定し、毎年数万ドルの税金を課して売却または賃貸を強制。",
+        "source": {
+          "organization": "ビクトリア州歳入庁 (State Revenue Office Victoria)",
+          "title": "Vacant Residential Land Tax guidelines",
+          "url": "https://www.sro.vic.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "改正空家等対策特別措置法（2023年12月施行・管理不全空家枠組み）",
+        "statusOrLevel": "放置すれば特定空家になる恐れのある「管理不全空家」も固定資産税の住宅用地特例（1/6減額）を解除（実質6倍増税）",
+        "keyFeature": "従来の倒壊寸前「特定空家」だけでなく、窓割れや雑草繁茂の早期段階で市区町村が指導・勧告し、税優遇を解除して自主除却や売却を促す。",
+        "source": {
+          "organization": "国土交通省",
+          "title": "空家等対策の推進に関する特別措置法の一部を改正する法律について",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

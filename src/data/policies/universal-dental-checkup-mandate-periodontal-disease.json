@@ -211,5 +211,89 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "HeartPulse"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における成人生涯歯科健診・公的予防歯科保障・歯周病対策法制比較",
+    "comparisonSummary": "歯周病と糖尿病・心疾患等の全身疾患との関連が科学的に実証される中、予防歯科先進国（北欧やドイツ等）では成人定期健診の公的保険適用、受診記録のインセンティブ化（ボーナス控除）、学校から高齢期までの生涯健診義務付けが普及しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "法定医療保険（GKV）年次予防歯科健診及びボーナス手帳制度（Bonusheft）",
+        "statusOrLevel": "成人年1回（未成年年2回）の定期健診全額公費・5〜10年連続受診で義歯自己負担最大75%補助",
+        "keyFeature": "年次健診を受けると「ボーナス手帳」にスタンプが押され、将来クラウンやブリッジ、義歯が必要になった際の公的保険給付率が段階的に引き上げられる強力なインセンティブ。",
+        "source": {
+          "organization": "連邦保健省 (BMG) / 歯科医師連盟 (KZBV)",
+          "title": "Zahnärztliche Vorsorgeuntersuchungen und das Bonusheft",
+          "url": "https://www.bundesgesundheitsministerium.de"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "国家歯科ケア補助（Statligt tandvårdsstöd）一般歯科補助金（ATB）",
+        "statusOrLevel": "全成人に対する年次予防歯科バウチャー（ATB）の国庫自動給付（23歳までは完全無料）",
+        "keyFeature": "24歳以上の全国民に毎年または隔年で歯科健診用の電子補助金（300〜600クローナ）を自動付与。予防主体の国民運動により世界最高水準の残存歯数を達成。",
+        "source": {
+          "organization": "スウェーデン社会保険庁 (Försäkringskassan)",
+          "title": "Tandvårdsstöd: Allmänt tandvårdsbidrag och högkostnadsskydd",
+          "url": "https://www.forsakringskassan.se"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国民保健サービス（NHS Dental Services）バンド制定期健診",
+        "statusOrLevel": "低廉な定額自己負担（Band 1）による臨床検査・レントゲン・歯周病指導",
+        "keyFeature": "妊産婦や18歳未満、低所得者はNHS歯科治療が100%完全無料。定期的な口腔チェックと早期介入をプライマリ・ケアとして位置付け。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS)",
+          "title": "NHS dental services and band charges",
+          "url": "https://www.nhs.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "M’T Dentsプログラム（若年層・成人予防歯科プログラム）",
+        "statusOrLevel": "特定年齢（3歳から24歳まで3年ごと、妊婦等）の定期健診・歯石除去100%全額公費",
+        "keyFeature": "対象年齢になると健康保険機構（Ameli）から受診案内と無料クーポンが郵送され、窓口負担ゼロで歯科検診と予防処置が受けられる。",
+        "source": {
+          "organization": "フランス国民健康保険基金 (Assurance Maladie / Ameli)",
+          "title": "Dispositif de prévention bucco-dentaire M’T Dents",
+          "url": "https://www.ameli.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "子ども歯科給付スケジュール（CDBS）及び公的成人歯科ケア計画",
+        "statusOrLevel": "子ども2年間で最大1,095豪ドルの全額公費給付・成人皆歯科導入議論",
+        "keyFeature": "メディケア（公的医療保険）の枠組みで予防的クリーニングとフッ素塗布を保障。成人への包括適用に向けた法制化論争が継続。",
+        "source": {
+          "organization": "豪州保健・高齢者ケア省 (Department of Health and Aged Care)",
+          "title": "Child Dental Benefits Schedule and dental health reform",
+          "url": "https://www.health.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "骨太の方針に基づく「国民皆歯科健診」導入検討・歯科口腔保健推進法",
+        "statusOrLevel": "学校歯科健診（義務）から成人・職場健診への拡大ロードマップ",
+        "keyFeature": "企業健診における歯周病検査の義務化や、健康保険組合を通じた予防歯科健診費用の補助により、健康寿命延伸と医療費適正化を目指す。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "歯科口腔保健の推進と国民皆歯科健診の検討状況",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

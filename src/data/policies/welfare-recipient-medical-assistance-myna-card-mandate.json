@@ -185,5 +185,89 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Calendar"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における低所得者・生活扶助受給者のデジタル医療ID・受診資格即時確認システム比較",
+    "comparisonSummary": "低所得者・社会扶助受給者に対する医療支援において、紙の受給証や診療券の発行コスト削減、過剰診療・重複投薬（医療扶助の適正化）の防止に向け、欧米諸国ではデジタル社会保障カードや即時オンライン資格確認が標準化されています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "カルト・ヴィタル（Carte Vitale：電子健康保険カード）及び連帯補足健康保険（C2S）",
+        "statusOrLevel": "生活保護・低所得者も一般国民と同一のICカード「Carte Vitale」に完全統合",
+        "keyFeature": "医療扶助受給者であることが窓口で差別・識別されないよう同一カードを使用。オンラインで全額公費免除（Tiers payant）が即時適用。",
+        "source": {
+          "organization": "フランス国民健康保険基金 (Ameli)",
+          "title": "La Complémentaire santé solidaire (C2S) et la Carte Vitale",
+          "url": "https://www.ameli.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "メディケイド（Medicaid）電子適格性検証システム（EVS）及びスマートID",
+        "statusOrLevel": "各州メディケイド事務局による医療機関端末でのリアルタイム受診資格照会",
+        "keyFeature": "受給者の資格変動や処方箋履歴を即座にデータベース照会し、オピオイド等の重複処方や不正受給・医療詐欺をAIで自動スクリーニング。",
+        "source": {
+          "organization": "連邦メディケア・メディケイド・サービスセンター (CMS)",
+          "title": "Medicaid Eligibility Verification System (MEVS) Standards",
+          "url": "https://www.medicaid.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "電子健康カード（eGK: elektronische Gesundheitskarte）社会扶助受給者特例（§ 264 SGB V）",
+        "statusOrLevel": "市町村の生活扶助受給者に対し、法定健康保険（AOK等）のeGKカードを交付",
+        "keyFeature": "自治体が保険者へ費用を補填する形で、受給者は一般被保険者と全く同じ電子カードで受診。過剰投薬や重複検査はカード内情報で一元チェック。",
+        "source": {
+          "organization": "連邦保健省 (BMG) / 連邦労働社会省 (BMAS)",
+          "title": "Krankenbehandlung für Empfänger von Sozialhilfe (§ 264 SGB V)",
+          "url": "https://www.bundesgesundheitsministerium.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHSユニバーサル・クレジット連動医療費免除確認（Real-Time Exemption Checking）",
+        "statusOrLevel": "薬局や医療機関でのデジタル即時照会による生活保護受給者の処方箋代金自動免除",
+        "keyFeature": "紙の受給証明書提示を全廃し、NHSシステムが社会保障省（DWP）のデータベースと自動照合して窓口負担ゼロを判定。",
+        "source": {
+          "organization": "英国NHSビジネスサービス庁 (NHSBSA)",
+          "title": "Real Time Exemption Checking (RTEC) for Prescription Charges",
+          "url": "https://www.nhsbsa.nhs.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "サービス・オーストラリア（Services Australia）医療・ヘルスケアカード（Health Care Card）",
+        "statusOrLevel": "デジタルIDアプリ「myGov」と直結したコンセッション資格の即時提示・照会",
+        "keyFeature": "福祉給付受給者のスマートフォン内にデジタル割引カードが自動配信され、医療機関や薬局がワンタップで割引資格を確認。",
+        "source": {
+          "organization": "オーストラリア政府サービス庁 (Services Australia)",
+          "title": "Health Care Card eligibility and digital wallet integration",
+          "url": "https://www.servicesaustralia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "生活保護医療扶助におけるオンライン資格確認（マイナ保険証利用）2024年本格運用",
+        "statusOrLevel": "紙の「医療券」発行業務を廃止し、マイナンバーカードでの即時資格確認へ移行",
+        "keyFeature": "福祉事務所の紙の事務負担（年間数千万件の発行）をゼロにし、重複投薬や頻回受診の適正化と受給者のスムーズな受診アクセスを両立。",
+        "source": {
+          "organization": "厚生労働省社会・援護局",
+          "title": "医療扶助におけるオンライン資格確認の導入について",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -205,5 +205,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "BookOpen"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における大学STEM（科学・技術・工学・数学）学部再編・デジタル人材育成投資比較",
+    "comparisonSummary": "DXやグリーントランスフォーメーションを担う高度デジタル・理工系人材の枯渇に対し、主要国では文系から理系への学部再編インセンティブ、STEM専攻学生への学費減免・給付型奨学金、巨額の官民転換基金が創設されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "CHIPS及び科学法（CHIPS and Science Act 2022）STEM人材基金",
+        "statusOrLevel": "130億ドルのSTEM教育・労働力開発基金による大学・コミュニティカレッジ半導体・工学再編",
+        "keyFeature": "全国の大学に対し、マイクロエレクトロニクスやデータサイエンスの新規学部・ラボ設置費用を直接助成し、学生へのフェローシップを提供。",
+        "source": {
+          "organization": "全米科学財団 (NSF) / 米国商務省",
+          "title": "CHIPS and Science Act STEM Education and Workforce Development Programs",
+          "url": "https://www.nsf.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Office for Students（OfS）STEM資本基金及びAI・データサイエンス奨学金",
+        "statusOrLevel": "大学のハイテク実験施設・工学部定員増に対する数億ポンドの資本助成金配分",
+        "keyFeature": "工学・バイオ・AI関連の学生受け入れ枠を拡大する大学に対し施設整備費を優遇し、非理系学部出身者の修士課程転換（Conversion Course）を全額給付支援。",
+        "source": {
+          "organization": "英国学生局 (Office for Students: OfS)",
+          "title": "Capital funding for STEM subjects and AI conversion courses",
+          "url": "https://www.officeforstudents.org.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "France 2030「未来の職業・スキル（Compétences et métiers d’avenir）」計画",
+        "statusOrLevel": "25億ユーロ基金による大学・グランゼコールの理工系・主権技術分野への専攻再編支援",
+        "keyFeature": "AI、量子、水素、サイバーセキュリティ等の戦略分野において、文系を含む従来カリキュラムを刷新し理工系人材輩出数を倍増させるプログラムに直接助成。",
+        "source": {
+          "organization": "フランス国立研究機構 (ANR) / 高等教育省",
+          "title": "Appel à manifestation d’intérêt Compétences et Métiers d’Avenir",
+          "url": "https://anr.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "将来協定（Zukunftsvertrag Studium und Lehre stärken）及びMINT行動計画2.0",
+        "statusOrLevel": "連邦・州年40億ユーロ協定によるMINT（数学・IT・自然科学・工学）教員ポスト・施設恒久支援",
+        "keyFeature": "大学が理系学部の受入定員を拡大し、中退率の高い理工系初年次教育をメンター制度で補強する施策を国家的に推進。",
+        "source": {
+          "organization": "連邦教育・研究省 (BMBF)",
+          "title": "MINT-Aktionsplan 2.0 zur Stärkung der MINT-Bildung",
+          "url": "https://www.bmbf.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "先端分野定員純増制度及び半導体関連人材育成総合対策",
+        "statusOrLevel": "首都圏大学の総定員規制を特例緩和し、半導体・先端IT学部の定員を純増許可",
+        "keyFeature": "企業と大学が共同設立する「契約学科（就職直結型・学費全額企業負担）」の設置を解禁し、理工系人材の大量育成を国策化。",
+        "source": {
+          "organization": "韓国教育部 (MOE)",
+          "title": "Comprehensive Plan for Nurturing Talent in Advanced Industries",
+          "url": "https://www.moe.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "大学・高専機能強化支援事業（大学改革支援・学位授与機構3000億円基金）",
+        "statusOrLevel": "私立・公立大学の文系学部縮小・理工農系学部への恒久的定員転換に対する最長10年間の継続助成",
+        "keyFeature": "理工系学問を専攻する大学生比率を現行35%から50%へ引き上げるため、設備改修費や教員人件費を1校最大数十億円規模で支援。",
+        "source": {
+          "organization": "文部科学省 / 大学改革支援・学位授与機構 (NIAD-QE)",
+          "title": "大学・高専機能強化支援事業（3000億円基金）選定結果",
+          "url": "https://www.niad.ac.jp"
+        }
+      }
+    ]
+  }
 }

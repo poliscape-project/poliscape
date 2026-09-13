@@ -186,5 +186,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要火山国における活火山防災体制・登山者退避壕（シェルター）・警戒レベル法制比較",
+    "comparisonSummary": "突発的な水蒸気爆発や噴火災害から登山者・地域住民の生命を守るため、日本（御嶽山の教訓）、イタリア、米国、ニュージーランド、アイスランドなどでは、退避シェルターの設置、ヘルメット着用指導、リアルタイム噴火警戒警報の義務化が進められています。",
+    "countries": [
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "国立地球物理学火山学研究所（INGV）監視体制及びエトナ・ストロンボリ火山防災令",
+        "statusOrLevel": "山頂火口域立ち入り時の公認ガイド同行・ヘルメット着用完全義務化",
+        "keyFeature": "活発なエトナ火山やストロンボリ島では、火山活動度に応じて立ち入り高度を法的に厳格制限。要所要所に耐弾性シェルターを配備し、違反者には警察が過料。",
+        "source": {
+          "organization": "イタリア市民保護局 (Dipartimento della Protezione Civile) / INGV",
+          "title": "Rischio vulcanico e monitoraggio dell’Etna e Stromboli",
+          "url": "https://www.protezionecivile.gov.it"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "NZ",
+        "systemName": "国家危機管理庁（NEMA）火山警戒システム及びホワイト島（ファカアリ）噴火後の安全基準",
+        "statusOrLevel": "2019年ホワイト島大惨事を受けた冒険観光安全規制（WorkSafe NZ）の劇的強化",
+        "keyFeature": "火山島への観光上陸に対する厳格なリスク評価と法的責任を規定。火山警戒レベル2以上での観光立ち入り禁止やシェルター基準を再定義。",
+        "source": {
+          "organization": "ニュージーランド国家危機管理庁 (NEMA) / GeoNet",
+          "title": "Volcano Alert Levels and Tourist Safety Management",
+          "url": "https://www.civildefence.govt.nz"
+        }
+      },
+      {
+        "country": "アイスランド",
+        "countryCode": "IS",
+        "flag": "IS",
+        "systemName": "民間防衛・危機管理局（Almannavarnir）レイキャネス半島火山対応",
+        "statusOrLevel": "溶岩流・有害火山ガス対策としての防護堤（Berms）緊急建設と即時避難アラート",
+        "keyFeature": "地震群発を捉えて噴火数時間前にグリンダヴィーク住民やブルーラグーン観光客を完全避難。避難路の確保とガスマスク携帯を指導。",
+        "source": {
+          "organization": "アイスランド気象庁 (IMO) / 民間防衛局",
+          "title": "Civil Protection and Volcanic Hazards in Reykjanes Peninsula",
+          "url": "https://www.almannavarnir.is"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "USGS国家火山早期警報システム（NVEWS）及び国立公園火山安全規定",
+        "statusOrLevel": "レーニア山・セントヘレンズ山等における高密度センサー網とハザードゾーン規制",
+        "keyFeature": "地質調査所（USGS）が24時間体制で火山性地震と地殻変動を常時監視。国立公園局が登山者に自己責任と避難計画提出を義務付け。",
+        "source": {
+          "organization": "米国地質調査所 (USGS)",
+          "title": "National Volcano Early Warning System (NVEWS)",
+          "url": "https://www.usgs.gov"
+        }
+      },
+      {
+        "country": "フィリピン",
+        "countryCode": "PH",
+        "flag": "🇵🇭",
+        "systemName": "フィリピン火山地震研究所（PHIVOLCS）常時危険区域（PDZ）法制",
+        "statusOrLevel": "マヨン火山等の火口周辺6kmを「常時恒久危険区域（PDZ）」に指定・居住立入厳禁",
+        "keyFeature": "観光登山を厳しく制限し、噴火警戒レベル発令時には軍と警察が危険区域内の登山者や住民を強制退去させる強力な権限を行使。",
+        "source": {
+          "organization": "フィリピン火山地震研究所 (PHIVOLCS)",
+          "title": "Mayon and Taal Volcano Alert Level Criteria and Permanent Danger Zone",
+          "url": "https://www.phivolcs.dost.gov.ph"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "活動火山対策特別措置法改正（2024年施行・火山調査研究推進本部設置）",
+        "statusOrLevel": "全国活火山での火山防災協議会設置義務・退避壕（シェルター）整備への国庫補助",
+        "keyFeature": "御嶽山噴火の教訓に基づき、文科省に「火山本部」を発足。登山届の提出義務化や山小屋でのヘルメット配備、噴火速報の全国一斉配信を確立。",
+        "source": {
+          "organization": "内閣府防災担当 / 気象庁 / 文部科学省",
+          "title": "活動火山対策特別措置法の一部を改正する法律の施行について",
+          "url": "https://www.bousai.go.jp"
+        }
+      }
+    ]
+  }
 }

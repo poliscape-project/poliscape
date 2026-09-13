@@ -185,5 +185,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Layers"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における水道広域化・老朽管路更新投資・ウォーターPPP（官民連携・コンセッション）比較",
+    "comparisonSummary": "水道インフラの老朽化と人口減少による料金収入減を背景に、英国の完全民営化モデル、フランスの公私協働（アフェルマージュ・コンセッション）、米国の州回転基金（SRF）、日本のウォーターPPP（運営権設定・包括委託）など、官民連携と広域統合の多様な方式が比較されています。",
+    "countries": [
+      {
+        "country": "イギリス (イングランド)",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "1989年水道完全民営化及び水資源規制庁（Ofwat）価格決定枠組み",
+        "statusOrLevel": "資産所有から運行まで100%完全民営化・独立規制機関Ofwatによる5年ごとの投資規制",
+        "keyFeature": "民間資本による老朽管更新を進めた一方、株主配当優先や下水流出問題が社会問題化し、Ofwatによる巨額罰金と規制強化が進行中。",
+        "source": {
+          "organization": "英国水資源規制庁 (Ofwat)",
+          "title": "Water services regulation and price review (PR24)",
+          "url": "https://www.ofwat.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "公私委託契約（Délégation de Service Public: アフェルマージュ方式）及びパリ再公営化",
+        "statusOrLevel": "資産所有は自治体、施設管理・料金徴収は民間大手（ヴェオリア等）に委託するハイブリッド",
+        "keyFeature": "100年以上の歴史を持つPPP方式。一方、パリ市のように透明性確保と料金抑制を目的に公営企業（Eau de Paris）へ再公営化した事例も共存。",
+        "source": {
+          "organization": "フランス生態系移行省 (MTE) / Eau de Paris",
+          "title": "Gestion des services d’eau et assainissement en France",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "飲料水州回転基金（DWSRF）及び水インフラ金融・イノベーション法（WIFIA）",
+        "statusOrLevel": "連邦EPAによる低利融資と自治体間水道際コーポレーション（Regional Water Authority）",
+        "keyFeature": "鉛給水管の100%全廃に向けて超党派インフラ法から500億ドルを投入。老朽管更新を公的融資と官民パートナーシップで加速。",
+        "source": {
+          "organization": "米国環境保護庁 (EPA)",
+          "title": "Drinking Water State Revolving Fund and Bipartisan Infrastructure Law Funding",
+          "url": "https://www.epa.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "シュタットベルケ（Stadtwerke：自治体公私混合企業）による地域統合管理",
+        "statusOrLevel": "自治体が100%または過半を出資する公営・地域独占企業による水道・電力・ガス一体運営",
+        "keyFeature": "民営化を拒否し、自治体の公的責任（Daseinsvorsorge）を堅持。電力やガスの黒字で水道の老朽管更新費用を内部相互補助。",
+        "source": {
+          "organization": "連邦環境庁 (UBA) / ドイツ自治体企業協会 (VKU)",
+          "title": "Kommunale Wasserwirtschaft und Stadtwerke-Modell",
+          "url": "https://www.umweltbundesamt.de"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "NL",
+        "systemName": "10大公営水道会社モデル（Drinking Water Actに基づく民営化禁止法）",
+        "statusOrLevel": "法律で私企業の営利参入を禁止・自治体が出資する10の独立公営会社が全国を広域カバー",
+        "keyFeature": "営利企業を排除しつつ、10社間でコストや漏水率の「ベンチマーキング（相互比較競争）」を義務付け、世界最高峰の低漏水率（約5%）を維持。",
+        "source": {
+          "organization": "オランダインフラ・水管理省 (IenW) / Vewin",
+          "title": "Drinking Water Act and Public Water Benchmark System",
+          "url": "https://www.vewin.nl"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "改正水道法（水道行政の国交省・環境省移管）及びウォーターPPP推進方針",
+        "statusOrLevel": "複数市町村の水道広域化と公共施設等運営事業（コンセッション方式）の推進",
+        "keyFeature": "人口減で料金収入が激減する中、宮城県等のコンセッション先行例を踏まえ、老朽管更新を民間企業の包括管理で低コスト化。",
+        "source": {
+          "organization": "国土交通省水管理・国土保全局 / 内閣府PPP/PFI推進室",
+          "title": "水道分野におけるウォーターPPPの推進と広域化ガイドライン",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

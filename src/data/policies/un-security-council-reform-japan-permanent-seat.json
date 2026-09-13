@@ -185,5 +185,102 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Ban"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国・グループにおける国連安全保障理事会改革（常任理事国拡大・拒否権制限）構想比較",
+    "comparisonSummary": "機能不全が指摘される国連安保理の改革を巡り、日独印伯の「G4」による常任・非常任双方の拡大案、イタリア主導の「コンセンサス連合（UfC）」による非常任枠限定拡大案、アフリカ連合（AU）のエズルウィニ合意など、各陣営の利害が対立しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "G4（日独印伯）共同提案（常任理事国6カ国・非常任4カ国増枠）",
+        "statusOrLevel": "新常任理事国の新設（アフリカ2、アジア2、中南米1、西欧等1）と拒否権行使凍結受入",
+        "keyFeature": "第二次大戦の敗戦国条項（敵国条項）の削除と、世界第3・第4の拠出金・経済規模に見合った責任ある常任理事国入りを日独で協調推進。",
+        "source": {
+          "organization": "ドイツ連邦外務省 (Auswärtiges Amt)",
+          "title": "Reform of the United Nations Security Council: The G4 Approach",
+          "url": "https://www.auswaertiges-amt.de"
+        }
+      },
+      {
+        "country": "インド",
+        "countryCode": "IN",
+        "flag": "🇮🇳",
+        "systemName": "G4及びグローバルサウス代表権強化イニシアチブ",
+        "statusOrLevel": "世界最多人口（14億人）と成長経済を背景とする常任理事国入り要求",
+        "keyFeature": "発展途上国・グローバルサウスの代表権が欠如している不公正を訴え、アフリカ連合との連携をテコに総会での政府間交渉（IGN）テキスト化を要求。",
+        "source": {
+          "organization": "インド外務省 (MEA)",
+          "title": "India and the United Nations: Security Council Reform",
+          "url": "https://www.mea.gov.in"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "コンセンサス連合（UfC: Uniting for Consensus）グループ提案",
+        "statusOrLevel": "新たな常任理事国の新設に反対・長期再選可能な非常任理事国（新任期議席）の創設",
+        "keyFeature": "特定国に新たな拒否権特権を与えることは民主主義と地理的公平性に反すると主張し、任期延長・ローテーション可能な非常任枠の拡大を主張。",
+        "source": {
+          "organization": "イタリア外務・国際協力省 (MAECI)",
+          "title": "Uniting for Consensus and UN Security Council Reform",
+          "url": "https://www.esteri.it"
+        }
+      },
+      {
+        "country": "アフリカ連合 (AU)",
+        "countryCode": "ET",
+        "flag": "🇪🇹",
+        "systemName": "エズルウィニ合意（Ezulwini Consensus）及びシルテ宣言",
+        "statusOrLevel": "アフリカに対する拒否権付き常任理事国2議席及び非常任計5議席の配分要求",
+        "keyFeature": "安保理決議の過半がアフリカ問題であるにもかかわらず常任枠がゼロである歴史的不正義の是正を主張。拒否権廃止、または全常任国への平等付与を要求。",
+        "source": {
+          "organization": "アフリカ連合 (African Union)",
+          "title": "The Common African Position on the Proposed Reform of the UN (Ezulwini Consensus)",
+          "url": "https://au.int"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "集団虐殺・人道に対する罪における拒否権自主規制イニシアチブ（メキシコ共同）",
+        "statusOrLevel": "G4（日独印伯）およびアフリカ常任理事国入りの全面支持・拒否権制限提案",
+        "keyFeature": "既存P5（常任理事国）の中で最も積極的な改革支持国。大量虐殺や人道危機におけるP5の拒否権行使を自発的に停止する行動規範を主導。",
+        "source": {
+          "organization": "フランス外務省 (MEAE)",
+          "title": "France and the reform of the United Nations Security Council",
+          "url": "https://www.diplomatie.gouv.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "バイデン政権・安保理改革新原則（アフリカ・中南米・日独印常任枠支持）",
+        "statusOrLevel": "新常任理事国の拒否権なしでの増枠支持・P5拒否権説明責任総会決議（リヒテンシュタイン主導）支持",
+        "keyFeature": "拒否権のない常任理事国として日独印およびアフリカ諸国の参入を支持する一方、自らの拒否権維持は堅持。",
+        "source": {
+          "organization": "米国国務省 (U.S. Department of State)",
+          "title": "U.S. Policy on UN Security Council Reform",
+          "url": "https://www.state.gov"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "国連安保理改革・G4共同声明及び人間の安全保障に基づく常任理事国入り提案",
+        "statusOrLevel": "P5の拒否権濫用（ウクライナ侵攻等）の機能不全是正と安保理の実効性回復",
+        "keyFeature": "国連財政への長期貢献と平和構築の実績に基づき、G4と連携して常任・非常任双方の拡大と文書ベースの交渉開始を国連総会で主導。",
+        "source": {
+          "organization": "外務省",
+          "title": "日本の国連外交と安保理改革",
+          "url": "https://www.mofa.go.jp"
+        }
+      }
+    ]
+  }
 }

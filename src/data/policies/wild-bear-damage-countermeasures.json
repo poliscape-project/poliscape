@@ -127,5 +127,89 @@
       "type": "official_document",
       "typeLabel": "警察庁通達資料"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国におけるクマ・大型野生動物の人里出没・市街地緊急捕獲・銃器使用法制比較",
+    "comparisonSummary": "人里や市街地へのクマ出没や人身被害の急増に対し、日本が指定管理鳥獣追加や市街地銃猟緩和を進める中、米国、カナダ、北欧などでは公認プロ猟官（Conservation Officer）の即応出動権限、非致死性ベアスプレー携行、電気柵設置補助が法制化されています。",
+    "countries": [
+      {
+        "country": "アメリカ (アラスカ・モンタナ等)",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "魚類野生生物局（USFWS）及び州環境保全官（Conservation Officer）緊急発砲法制",
+        "statusOrLevel": "治安機関と同等の警察権を持つ専門保全官による市街地・居住区での即時緊急射殺権限",
+        "keyFeature": "一般ハンターの市街地発砲は禁止し、高度に訓練された専門官が麻酔銃・実弾ライフル・ゴム弾を状況に応じて即座に使用するプロ組織を常設。",
+        "source": {
+          "organization": "米国魚類野生生物局 (USFWS) / モンタナ州魚類野生生物公園局",
+          "title": "Bear Management Plan and Wildlife Conflict Protocols",
+          "url": "https://www.fws.gov"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "ブリティッシュコロンビア州保全官サービス（BC Conservation Officer Service）",
+        "statusOrLevel": "特別法執行官（Special Constables）によるクマ出没時の24時間緊急介入",
+        "keyFeature": "Bear Smart Community計画に基づき、ゴミの密閉管理を住民に義務付け。市街地に侵入し人間に慣れたクマ（Food-conditioned bear）は安全優先で即時駆除。",
+        "source": {
+          "organization": "BC州環境・気候変動戦略省保全官サービス (BCCOS)",
+          "title": "Human-Wildlife Conflict Operations and Bear Smart Community Program",
+          "url": "https://www2.gov.bc.ca"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "狩猟法（Jaktlagen）第23条b及びヒグマ保護管理計画（Licensjakt）",
+        "statusOrLevel": "県知事認可による人里危険個体の警察・特別ハンター緊急駆除（Skyddsjakt）",
+        "keyFeature": "個体数調整のための年次ライセンス狩猟枠（年間数千頭生息中数百頭）を設定しつつ、居住地へ接近する危険個体は警察の指揮下で迅速に駆除。",
+        "source": {
+          "organization": "スウェーデン環境保護庁 (Naturvårdsverket)",
+          "title": "Management of Brown Bear and Protection Hunting (Skyddsjakt)",
+          "url": "https://www.naturvardsverket.se"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "アルプス・アペニン・ヒグマ保全行動計画（PACOBACE）",
+        "statusOrLevel": "トレント自治県等における問題個体（Orso problematico）の捕獲・安楽死令状",
+        "keyFeature": "登山者死亡事故を契機に、人里に出没する危険グマの安楽死処分権限を自治県知事に付与する法改正を実施し、保護と住民安全のバランスを再調整。",
+        "source": {
+          "organization": "イタリア環境・エネルギー安全保障省 (MASE) / トレント自治県",
+          "title": "Piano d’Azione per la conservazione dell’Orso Bruno (PACOBACE)",
+          "url": "https://www.mase.gov.it"
+        }
+      },
+      {
+        "country": "ルーマニア",
+        "countryCode": "RO",
+        "flag": "🇷🇴",
+        "systemName": "ヒグマ介入緊急政令（OUG 81/2021）及び緊急介入チーム（Echipa de intervenție）",
+        "statusOrLevel": "市街地侵入時の即時段階的介入（威嚇→麻酔移送→24時間以内の安楽死・射殺）",
+        "keyFeature": "欧州最大のヒグマ生息地（約8,000頭）。町長、国家憲兵隊、公認獣医師、専任ハンターで構成される即応チームが数十分で現場出動する体制を法定義務化。",
+        "source": {
+          "organization": "ルーマニア環境・水資源・森林省 (MMAP)",
+          "title": "Procedura de intervenție imediată pentru prevenirea și combaterea atacurilor de urs",
+          "url": "https://www.mmediu.ro"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "JP",
+        "systemName": "鳥獣保護管理法改正（クマの「指定管理鳥獣」追加）及び市街地銃猟要件緩和（警察官職務執行法4条準用議論）",
+        "statusOrLevel": "国庫補助による捕獲支援拡充と警察官の指示下での市街地麻酔銃・ライフル発砲容認",
+        "keyFeature": "ツキノワグマ・ヒグマを国の管理鳥獣に指定し捕獲費用を国が支援。人命に差し迫った危険がある市街地での猟銃発砲リスクを免責・適法化する法改正を推進。",
+        "source": {
+          "organization": "環境省自然環境局 / 警察庁",
+          "title": "指定管理鳥獣（クマ類）の追加と市街地出没対策",
+          "url": "https://www.env.go.jp"
+        }
+      }
+    ]
+  }
 }
