@@ -185,5 +185,89 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "BookOpen"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の週休3日制（週4日勤務制: 4-Day Workweek）法制・公務員導入および給与水準比較",
+    "comparisonSummary": "ワークライフバランス向上と優秀人材確保のため、ベルギーの法定選択権法制化、英国の大規模企業トライアル（100-80-100原則: 給与100%維持）、アイスランド公共部門の週35時間短縮など、給与を減額しない導入モデルが先行しています。",
+    "countries": [
+      {
+        "country": "ベルギー",
+        "countryCode": "BE",
+        "flag": "🇧🇪",
+        "systemName": "労働協約改革法（Labour Deal: 2022年施行・週休3日選択権法制化）",
+        "statusOrLevel": "全従業員に給与減額なしで「1日9.5〜10時間勤務×週4日」を選択する法的権利を保障",
+        "keyFeature": "週総労働時間（38時間）を維持した圧縮勤務（Compressed hours）モデル。労働者の書面要請を雇用主が拒否する場合、客観的理由を書面で説明する義務を規定。",
+        "source": {
+          "organization": "ベルギー雇用・労働・社会対話連邦公共サービス (FPS Employment)",
+          "title": "The Belgian Labour Deal: Four-day working week and flexible work patterns",
+          "url": "https://employment.belgium.be"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "4 Day Week Global 大規模パイロット実験（100:80:100モデル）",
+        "statusOrLevel": "民間61社・約3,000人規模の6カ月実証（給与100%支給・労働時間80%・生産性100%維持）",
+        "keyFeature": "ケンブリッジ大学等の検証で、従業員の離職率57%低下、病気休暇65%減少、企業売上平均1.4%増を記録。参加企業の92%が実証終了後も週4日制を恒久継続。地方自治体公務員にも試験拡大。",
+        "source": {
+          "organization": "4 Day Week Campaign / 英国オートノミー研究所 (Autonomy)",
+          "title": "The UK National Four-Day Week Pilot: Results and policy recommendations",
+          "url": "https://www.4dayweek.co.uk"
+        }
+      },
+      {
+        "country": "アイスランド",
+        "countryCode": "IS",
+        "flag": "🇮🇸",
+        "systemName": "国家・自治体公務員週労働時間短縮実証（週35〜36時間勤務移行）",
+        "statusOrLevel": "全労働力人口の約86%が給与据え置きのまま短縮勤務・週休3日シフトへ移行完了",
+        "keyFeature": "2015〜2019年のレイキャビク市役所や病院での大規模実験を経て、労働組合との全国労働協約を締結。給与水準を100%維持しながら公的サービスの質を向上。",
+        "source": {
+          "organization": "アイスランド首相府 / 地方公務員労働組合連合 (BSRB)",
+          "title": "Shortening of the Working Week in Iceland: Public sector agreements",
+          "url": "https://www.government.is"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "法定週35時間労働法典および公共サービス省（DGAFP）週4日勤務実証",
+        "statusOrLevel": "中央省庁・社会保険公掌（URSSAF等）における給与維持圧縮型週4日勤務試験導入",
+        "keyFeature": "法定35時間労働を週4日（1日約8時間45分）で消化。給与水準や有給休暇付与日数を一切削減せず、優秀な若手公務員の定着とデジタル窓口シフトを両立。",
+        "source": {
+          "organization": "フランス公共サービス・変革省 (Ministère de la Transformation Publique)",
+          "title": "Expérimentation de la semaine de 4 jours dans la fonction publique",
+          "url": "https://www.fonction-publique.gouv.fr"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "中小製造業向け週4日勤務パイロット助成事業（産業・通商・観光省）",
+        "statusOrLevel": "給与削減を行わずに週32時間勤務へ移行する中小企業への政府直接補助金交付",
+        "keyFeature": "生産性向上のための設備投資や業務プロセス改善を行う中小企業に対し、給与補填費用として企業あたり最大15万ユーロを支給し、給与減額なき移行を後押し。",
+        "source": {
+          "organization": "スペイン産業・観光省 (MINTUR) / 労働社会経済省",
+          "title": "Programa piloto de reducción de la jornada laboral a cuatro días para pymes",
+          "url": "https://www.industria.gob.es"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ドイツ全国45社合同週4日勤務実証プロジェクト（4 Day Week Germany）",
+        "statusOrLevel": "ミュンスター大学主導・給与満額支給（100:80:100）による半年間の生産性・健康モニタリング",
+        "keyFeature": "深刻な熟練労働者不足に直面する中小・中堅企業が参加。無駄な会議の廃止や業務自動化を徹底し、労働時間を減らしても事業業績が維持できることを科学的検証。",
+        "source": {
+          "organization": "ミュンスター大学 (Universität Münster) / 4 Day Week Global",
+          "title": "Wissenschaftliche Begleitstudie zum 4-Tage-Woche-Pilotprojekt in Deutschland",
+          "url": "https://www.uni-muenster.de"
+        }
+      }
+    ]
+  }
 }

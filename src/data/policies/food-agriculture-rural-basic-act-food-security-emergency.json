@@ -179,5 +179,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における食料安全保障基本法制および有事緊急時増産・配給指示権比較",
+    "comparisonSummary": "地政学的紛争や気候危機に伴う輸入途絶に備え、スイスの国家経済供給法、スウェーデンの総力防衛食料計画、米国の国防生産法など、平時からの備蓄義務付けと有事における政府の農家・企業への強制指示権が各国で法制化されています。",
+    "countries": [
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "国家経済供給法（Landesversorgung: LVG - 連邦憲法第102条）",
+        "statusOrLevel": "食料・飼料・肥料等の民間強制備蓄（Pflichtlager: 3〜6カ月分）および作付強制命令権",
+        "keyFeature": "輸入途絶時には連邦政府が直ちに農業生産計画を発動。休耕地の強制耕作や飼料用から食用穀物（小麦・ジャガイモ等）への強制転作、国民への食料配給を大統領令で命令可能。",
+        "source": {
+          "organization": "スイス連邦国家経済供給庁 (BWL)",
+          "title": "National Economic Supply Act and Mandatory Strategic Food Reserves",
+          "url": "https://www.bwl.admin.ch"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "総力防衛（Totalförsvar）体制における食料安全保障戦略および農業生産継続法制",
+        "statusOrLevel": "戦争・危機時における全農家・食品加工工場の国防動員および燃料・電力優先割当",
+        "keyFeature": "NATO加盟に伴い総力防衛を再強化。農業委員会（Jordbruksverket）が危機時の食料流通統制計画を策定。農家には非常時にも耕作を継続する国防義務を規定。",
+        "source": {
+          "organization": "スウェーデン農業委員会 (Jordbruksverket) / 民間防衛庁 (MSB)",
+          "title": "Livsmedelsberedskap: Civil defence and food supply resilience",
+          "url": "https://www.jordbruksverket.se"
+        }
+      },
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "緊急供給法（Emergency Supply Act）および国家緊急供給庁（NESA）備蓄体制",
+        "statusOrLevel": "国内消費量の6カ月分以上に相当する穀物・種子・食用油・燃料の常設国家備蓄",
+        "keyFeature": "官民共同のプール方式でサプライチェーン全体を防御。有事には政府が食品加工・流通企業に対し、指定穀物の優先製粉・特定地域への供給を強制命令できる。",
+        "source": {
+          "organization": "フィンランド国家緊急供給庁 (Huoltovarmuuskeskus - NESA)",
+          "title": "Security of Supply in Finland: Food and Agriculture Sector",
+          "url": "https://www.nesa.fi"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国防生産法（Defense Production Act of 1950: DPA）Title I（優先調達・割当権）",
+        "statusOrLevel": "大統領令に基づく肥料・種子・食肉加工工場の操業継続命令および物資強制配分",
+        "keyFeature": "食料供給網を国家安全保障インフラに指定。コロナ禍では大統領令により食肉処理工場の閉鎖を差し止め操業継続を命令。有事の農業資材の民間優先調達を強制。",
+        "source": {
+          "organization": "米国農務省 (USDA) / 国土安全保障省 (DHS)",
+          "title": "Defense Production Act Authorities and Food Supply Chain Resilience",
+          "url": "https://www.usda.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "食料供給保障法（Ernährungssicherstellungsgesetz: ESG）および予防法制",
+        "statusOrLevel": "食料危機における連邦食料農業省（BMEL）による農産物生産・加工・配給の強制統制権",
+        "keyFeature": "供給危機時に政府令で特定の作物（穀物・豆類）の強制栽培、農業機械・燃料の強制融通、食品価格の公定統制、電子配給カードの発行を執行できる包括的権限を規定。",
+        "source": {
+          "organization": "ドイツ連邦食料・農業省 (BMEL) / 連邦農業食料庁 (BLE)",
+          "title": "Gesetz über die Sicherstellung der Ernährung in einer Krise (ESG)",
+          "url": "https://www.bmel.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "農業・農村及び食品産業基本法および食料安保特別法制（公共備蓄制）",
+        "statusOrLevel": "食料自給率目標の法定格上げおよび有事における公共備蓄米の放出・海外穀物調達命令",
+        "keyFeature": "コメの公共備蓄制度に加え、小麦・大豆の国家備蓄を急拡大。危機時には海外資源開発企業に対し穀物の本国最優先持ち込みを命令できるサプライチェーン法制を整備。",
+        "source": {
+          "organization": "大韓民国農林畜産食品部 (MAFRA)",
+          "title": "Framework Act on Agriculture and Public Food Stockholding System",
+          "url": "https://www.mafra.go.kr"
+        }
+      }
+    ]
+  }
 }

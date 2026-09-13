@@ -205,5 +205,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Wallet"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の科学的海洋資源管理・総許容漁獲量（TAC）および個別漁獲枠（IQ/ITQ）制度比較",
+    "comparisonSummary": "海洋生態系の持続可能性と水産業の高付加価値化に向け、ノルウェー、アイスランド、ニュージーランド等は科学的根拠に基づくTAC管理と個別割当枠（IQ/ITQ）を完全導入し、オリンピック方式の獲り尽くし競争を撲滅しています。",
+    "countries": [
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "海洋資源法（Havressurslova）個別船舶割当（IVQ）および洋上投棄全面禁止（Discard Ban）",
+        "statusOrLevel": "重要魚種のほぼ100%をTACおよび個別漁船クオータで厳格管理・世界最高水準の資源回復",
+        "keyFeature": "魚種ごとに科学的調査に基づき厳格なTACを設定し各漁船に配分。規格外や混獲魚の海中投棄（ディスカード）を法律で全面禁止し、全量を水揚げして活用。",
+        "source": {
+          "organization": "ノルウェー漁業総局 (Fiskeridirektoratet) / 海洋研究所 (IMR)",
+          "title": "Norwegian marine resource management and discard ban enforcement",
+          "url": "https://www.fiskeridir.no"
+        }
+      },
+      {
+        "country": "アイスランド",
+        "countryCode": "IS",
+        "flag": "🇮🇸",
+        "systemName": "個別譲渡性割当制度（ITQ: Individual Transferable Quota）",
+        "statusOrLevel": "全商業魚種を100%カバーする個別割当枠の売買・賃貸借市場メカニズム確立",
+        "keyFeature": "漁獲枠を資産として売買・リース可能にしたことで、最も効率的な漁船への集約が進み漁業利益率が飛躍。過剰投資と早獲り競争を完全に解消。",
+        "source": {
+          "organization": "アイスランド食料・農業・水産省 (Matvælaráðuneytið)",
+          "title": "Fisheries Management Act and the Icelandic ITQ system",
+          "url": "https://www.stjornarradid.is"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "漁業割当管理制度（QMS: Quota Management System - Fisheries Act 1996）",
+        "statusOrLevel": "世界で最も包括的なQMS制度・マオリ先住民の漁業権益（ワイタンギ条約協定）統合",
+        "keyFeature": "約100魚種・600余りの漁業区分に年間漁獲権（ACE）を割当。科学的データに基づく最大持続生産量（MSY）を下回る場合は即座にTACを引き下げ資源を保護。",
+        "source": {
+          "organization": "ニュージーランド第一次産業省 (MPI) / Fisheries New Zealand",
+          "title": "The Quota Management System (QMS) and sustainable fisheries",
+          "url": "https://www.mpi.govt.nz"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "マグナソン・スティーブンス漁業保全管理法（MSA）および漁獲枠シェアプログラム",
+        "statusOrLevel": "全連邦管理漁業（460魚種）における年間漁獲上限（ACL）法定義務化・過剰漁獲即時是正",
+        "keyFeature": "科学統計委員会（SSC）が設定した生物学的許容量を超えるTAC設定を違法化。アラスカ・スケトウダラ漁業等で漁業協同組合型クオータ制を導入し優良資源を維持。",
+        "source": {
+          "organization": "米国海洋大気庁水産局 (NOAA Fisheries)",
+          "title": "Magnuson-Stevens Fishery Conservation and Management Act and Catch Share Programs",
+          "url": "https://www.fisheries.noaa.gov"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "共通漁業政策（CFP: Common Fisheries Policy）および水揚義務（Landing Obligation）",
+        "statusOrLevel": "EU加盟国共通のTAC決定枠組みおよび混獲魚の海中投棄禁止原則の完全適用",
+        "keyFeature": "毎年閣僚理事会が加盟国間の「相対的安定性」に基づき各国の割当枠を決定。投棄禁止に伴いカメラ（CCTV）による洋上リモート電子監視（REM）を導入。",
+        "source": {
+          "organization": "欧州委員会 (European Commission) / 国際海洋探査会議 (ICES)",
+          "title": "Common Fisheries Policy (CFP): TACs and Quotas management",
+          "url": "https://oceans-and-fisheries.ec.europa.eu"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "連邦漁業収穫戦略政策（Commonwealth Fisheries Harvest Strategy Policy）",
+        "statusOrLevel": "最大経済収量（MEY）を基準とする保守的TAC設定および法定漁獲権（SFR）",
+        "keyFeature": "MSY（持続漁獲量）よりもさらに厳しいMEY（最大経済利益水準・資源量を多めに維持）を管理目標に設定。乱獲リスクを徹底排除した高品質ブランディングを推進。",
+        "source": {
+          "organization": "オーストラリア漁業管理庁 (AFMA) / DAFF",
+          "title": "Commonwealth Fisheries Harvest Strategy Policy and Statutory Fishing Rights",
+          "url": "https://www.afma.gov.au"
+        }
+      }
+    ]
+  }
 }

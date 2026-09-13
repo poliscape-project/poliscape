@@ -185,5 +185,89 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Scale"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における高速道路・橋梁の老朽化更新財源および有料道路制度比較",
+    "comparisonSummary": "高度経済成長期に整備された橋梁やトンネルの老朽化対策に向け、米国では連邦燃料税とインフラ法による公費改修、フランスでは料金コンセッション期間延長、ドイツでは恒久公社による管理など、各国が持続可能な更新財源を確保しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "超党派インフラ法（BIL）橋梁投資プログラム（BIP）および道路信託基金（HTF）",
+        "statusOrLevel": "400億ドルの連邦公費による全米老朽橋梁の大規模改修・原則無料高速道路網の維持",
+        "keyFeature": "州間高速道路（Interstate）は原則無料を維持し、連邦ガソリン税等からなる道路信託基金で大規模更新を実施。連邦道路局（FHWA）が橋梁検査基準（NBIS）で全数監視。",
+        "source": {
+          "organization": "米国連邦高速道路局 (FHWA)",
+          "title": "Bridge Investment Program (BIP) under Bipartisan Infrastructure Law",
+          "url": "https://www.fhwa.dot.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "高速道路コンセッション制度（Contrats de concession autoroutière）および更新投資協定",
+        "statusOrLevel": "民間有料道路会社（Vinci, Sanef等）への料金徴収権付与とインフラ大規模改修義務",
+        "keyFeature": "老朽橋梁・トンネルの大規模修繕投資を行う見返りとして、政府が有料徴収期間の数年延長を認める「投資協定（Plan de relance autoroutier）」を法制化。",
+        "source": {
+          "organization": "フランス生態移行・国土結束省 (MTECT) / 運輸省",
+          "title": "Les concessions autoroutières et le contrôle des investissements d'infrastructure",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "道路・高速道路安全国家国家監督局（ANSFISA）および有料道路公有化改革",
+        "statusOrLevel": "2018年モランディ橋崩壊事故を契機とする独立監督機関新設とインフラ点検義務化",
+        "keyFeature": "事故後、最大手運営会社ASPIの株式を政府系投資銀行CDP連合が買収し再国有化。ANSFISAが全橋梁・トンネルのデジタル構造ヘルスモニタリング（SHM）を義務付け。",
+        "source": {
+          "organization": "イタリア持続可能インフラ・モビリティ省 (MIMS) / ANSFISA",
+          "title": "Linee guida per la sicurezza dei ponti e viadotti e ruolo di ANSFISA",
+          "url": "https://www.mit.gov.it"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦アウトバーン公社（Die Autobahn GmbH des Bundes）一元管理体制",
+        "statusOrLevel": "州ごとの分散管理を廃止し連邦公社へ一本化・老朽橋梁4,000基の計画的架け替え",
+        "keyFeature": "乗用車通行料は無料（トラックのみ距離課税Maut）。連邦交通網計画に基づき、老朽化した高速道路橋梁の架け替え予算を連邦予算から安定的に傾斜配分。",
+        "source": {
+          "organization": "ドイツ連邦デジタル・交通省 (BMDV) / Die Autobahn GmbH",
+          "title": "Brückenmodernisierungsprogramm für die Bundesfernstraßen",
+          "url": "https://www.bmdv.bund.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "有料道路法における統合理算制（有料道路回収主義の例外・恒久管理費徴収）",
+        "statusOrLevel": "全国の高速道路網を一括管理し、料金徴収期限（30年）を超えても維持管理費を継続徴収",
+        "keyFeature": "個別路線ごとの費用回収完了にかかわらず、全国の高速道路を一つのネットワークとみなして料金徴収を継続。老朽路線の全面再舗装・橋梁補修の原資に充当。",
+        "source": {
+          "organization": "大韓民国国土交通部 (MOLIT) / 韓国道路公社 (EX)",
+          "title": "Toll Road Act and Highway Facility Safety Modernization Plan",
+          "url": "https://www.molit.go.kr"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "有料公路管理条例（建設借款返済後の維持管理費徴収継続法制）",
+        "statusOrLevel": "有料道路の徴収期限満了後も、道路保守管理費に限定した通行料の恒久徴収を認可",
+        "keyFeature": "世界最大の高速道路網の維持管理費爆発に対応。借款返済後は通行料金を大幅に引き下げつつ、橋梁・トンネルの点検補修費用分を恒久徴収する法改正を実施。",
+        "source": {
+          "organization": "中国交通運輸部 (MOT)",
+          "title": "Regulations on the Administration of Toll Roads and Bridge Safety Inspections",
+          "url": "https://www.mot.gov.cn"
+        }
+      }
+    ]
+  }
 }

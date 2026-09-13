@@ -185,5 +185,89 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Wallet"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の動画配信大手（Netflix・Amazon等）に対する自国コンテンツ制作投資義務（クオータ法制）比較",
+    "comparisonSummary": "グローバル動画配信プラットフォームの市場席巻による自国文化・映画産業の衰退を防ぐため、EU指令の「カタログ30%欧州作品枠」やフランスの売上20%再投資義務、カナダのオンラインストリーミング法など、巨額の国内制作拠出が義務付けられています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "視聴覚メディアサービス指令（AVMSD: Directive (EU) 2018/1808）",
+        "statusOrLevel": "オンデマンド配信カタログの最低30%を欧州作品とすることの法定義務化",
+        "keyFeature": "作品カタログの最低30%割当に加え、アプリのトップ画面等での目立つ掲載（Prominence）を義務付け。さらに各加盟国に配信大手の国内売上に応じた課徴金賦課権を付与。",
+        "source": {
+          "organization": "欧州委員会 (European Commission) / 欧州議会",
+          "title": "Audiovisual Media Services Directive (AVMSD) and quota obligations",
+          "url": "https://digital-strategy.ec.europa.eu"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "オンデマンド視聴覚メディアサービス令（SMAD令: Décret SMAD）",
+        "statusOrLevel": "フランス国内売上高の20%〜25%をフランス語・欧州映像作品の制作に直接再投資する法定義務",
+        "keyFeature": "世界で最も厳格な規制。NetflixやDisney+に対し、国内売上の約2割をフランスの映画・ドラマ制作会社へ発注することを義務付け、うち大半を独立プロデューサー作品に指定。",
+        "source": {
+          "organization": "フランス視聴覚・デジタル通信規制機構 (Arcom) / 文化省",
+          "title": "Décret SMAD: Contribution des plateformes au financement de la création audiovisuelle",
+          "url": "https://www.arcom.fr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "オンラインストリーミング法（Online Streaming Act / Bill C-11）",
+        "statusOrLevel": "外国配信事業者に対するカナダ国内売上の5%を公的制作支援基金（CMF等）へ拠出義務付け",
+        "keyFeature": "ラジオテレビ通信委員会（CRTC）が外資配信を放送法の下で規制。年間2,500万カナダドル以上の売上を持つ事業者に、先住民族コンテンツやカナダ産番組制作基金への拠出を強制。",
+        "source": {
+          "organization": "カナダ・ラジオテレビ通信委員会 (CRTC) / カナダ遺産省",
+          "title": "The Online Streaming Act (Bill C-11) and financial contribution framework",
+          "url": "https://crtc.gc.ca"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家文化政策「Revive」およびストリーミング配信クオータ法制化推進",
+        "statusOrLevel": "ストリーミング大手の豪州国内総売上の最大10%〜20%を豪州産ドラマ制作に支出義務付け",
+        "keyFeature": "伝統的地上波テレビに課されていた自国コンテンツ割当をネット配信にも拡大。通信メディア庁（ACMA）が豪州人スタッフ・俳優比率を満たす作品の支出を監視。",
+        "source": {
+          "organization": "オーストラリア通信・メディア庁 (ACMA) / インフラ・運輸・地域開発・通信・芸術省",
+          "title": "National Cultural Policy 'Revive' and Streaming Content Quota Consultation",
+          "url": "https://www.infrastructure.gov.au"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "視聴覚・メディアサービス法典（TUSMA改正）投資クオータ",
+        "statusOrLevel": "イタリア国内純売上高の最低17%〜20%をイタリア産独立系作品へ投資する義務",
+        "keyFeature": "通信監督庁（AGCOM）が管轄。外国配信プラットフォームに対し、イタリア人監督・脚本家による映画やドキュメンタリーへの共同製作・買い取りノルマを課す。",
+        "source": {
+          "organization": "イタリア通信監督庁 (AGCOM) / 文化省 (MiC)",
+          "title": "Testo Unico dei Servizi di Media Audiovisivi (TUSMA) e obblighi di investimento",
+          "url": "https://www.agcom.it"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "放送通信発展基本法改正議論およびK-コンテンツ共存基金創設構想",
+        "statusOrLevel": "グローバルOTTに対する網使用料（ネットワーク利用料）支払いおよびコンテンツ産業発展基金拠出",
+        "keyFeature": "K-POPやKドラマの世界的ヒットの利益が外資プラットフォームに偏ることを是正するため、国会でOTT事業者の基金拠出法案や公正配分ガイドラインを活発に審議。",
+        "source": {
+          "organization": "大韓民国放送通信委員会 (KCC) / 文化体育観光部 (MCST)",
+          "title": "OTT Policy and Content Industry Win-Win Cooperation Measures",
+          "url": "https://www.kcc.go.kr"
+        }
+      }
+    ]
+  }
 }

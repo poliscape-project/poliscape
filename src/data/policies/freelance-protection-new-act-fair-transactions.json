@@ -185,5 +185,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Calendar"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界のフリーランス・特定受託事業者取引適正化および優越的地位濫用防止法制比較",
+    "comparisonSummary": "発注事業者と個人フリーランスの構造的な交渉力格差を是正するため、書面・電磁的契約内容明示の義務付け、60日以内支払期日の法定化、報酬減額・受領拒絶の禁止など、公正取引法と労働保護法を架橋する法制度が各国で運用されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "全米フリーランス保護法（Freelance Isn't Free Act: 各州制定法）",
+        "statusOrLevel": "書面契約の完全義務化・支払期日指定（原則30日以内）・不当な報酬引き下げ禁止",
+        "keyFeature": "契約締結時の業務内容・報酬額・支払期日・計算方法の書面明示を法定義務化。発注者の報復行為（報復的ブラックリスト化や契約解除）に対する懲罰的損害賠償を規定。",
+        "source": {
+          "organization": "米国ニューヨーク州司法長官事務所 (OAG) / 連邦取引委員会 (FTC)",
+          "title": "Freelance Isn't Free Act guidance and independent contractor rights",
+          "url": "https://ag.ny.gov"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "遅延利息指令（Late Payment Directive 2011/7/EU / 規則改正案）",
+        "statusOrLevel": "企業間取引および個人事業者に対する最大30日以内支払い義務化および法定遅延損害金",
+        "keyFeature": "下請け個人事業者に対する優越的地位乱用を防止。契約で合意していても最長60日を超える支払期間設定を法的に無効とし、年8%＋基準金利の遅延損害金を強制適用。",
+        "source": {
+          "organization": "欧州委員会 (European Commission) / 欧州議会",
+          "title": "Late Payment Directive and proposal for Late Payment Regulation",
+          "url": "https://single-market-economy.ec.europa.eu"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "迅速支払コード（Prompt Payment Code: PPC）および小規模企業コミッショナー法",
+        "statusOrLevel": "大企業による小規模・個人サプライヤーへの30日以内支払義務付けと違反企業公表",
+        "keyFeature": "小規模ビジネス・コミッショナー（SBC）がフリーランスからの苦情申立を受理し調査。不当な支払遅延や値引き強要を行う大企業名を実名公表し公共調達から締め出し。",
+        "source": {
+          "organization": "英国小規模ビジネス・コミッショナー (Small Business Commissioner) / DBT",
+          "title": "Prompt Payment Code: rules and enforcement against late payment",
+          "url": "https://www.smallbusinesscommissioner.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "商法典（Code de commerce）不均衡条項禁止および競争・消費・不正抑止総局（DGCCRF）取締り",
+        "statusOrLevel": "独立個人事業主に対する著しい権利義務の不均衡をもたらす契約条項の無効および巨額過料",
+        "keyFeature": "一方的な発注取り消し、成果物受領後の理不尽なやり直し要求、代金減額を「不当取引行為」としてDGCCRFが定期立ち入り検査。違反発注企業に最大数百万ユーロの民事過料。",
+        "source": {
+          "organization": "フランス経済・財務・産業主権省 (DGCCRF)",
+          "title": "Lutte contre les pratiques restrictives de concurrence et délais de paiement",
+          "url": "https://www.economie.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "オーストラリア消費者法（ACL）不公正契約条項（Unfair Contract Terms: UCT）禁止法制",
+        "statusOrLevel": "小規模・個人事業者向け標準契約における一方的解除・免責条項に対する巨額民事制裁金（2023年導入）",
+        "keyFeature": "発注者が一方的に契約内容を変更できる条項や、フリーランスに過度な損害賠償を負わせる条項を違法化。競争・消費者委員会（ACCC）が違反企業に最高数千万豪ドルの制裁金を科す。",
+        "source": {
+          "organization": "オーストラリア競争・消費者委員会 (ACCC)",
+          "title": "Unfair contract terms law protections for small businesses and independent contractors",
+          "url": "https://www.accc.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "下請取引公正化に関する法律（下請法）および標準契約書告示",
+        "statusOrLevel": "個人受託事業者（フリーランス開発者・デザイナー等）への下請法保護適用拡大",
+        "keyFeature": "発注後即時の書面交付義務、60日以内下請代金支払義務、不当な減額・返品禁止を規定。公正取引委員会が匿名通報システムを運用し報復行為を行った元請けを厳罰処分。",
+        "source": {
+          "organization": "大韓民国公正取引委員会 (KFTC)",
+          "title": "Fair Transactions in Subcontracting Act and Standard Form Contracts for Freelancers",
+          "url": "https://www.ftc.go.kr"
+        }
+      }
+    ]
+  }
 }

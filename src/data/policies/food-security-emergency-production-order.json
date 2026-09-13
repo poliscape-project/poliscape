@@ -127,5 +127,89 @@
       "type": "diet_minutes",
       "typeLabel": "国会審議録"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の緊急事態・有事における農地利用統制・作付転換強制命令法制比較",
+    "comparisonSummary": "極度の食糧危機や海上封鎖などの有事において、政府が農地所有者や農家に対し、特定作物の栽培義務付けや遊休地の強制耕作を命令できる法規定について、各国の私権制限の要件と補償規定が比較されます。",
+    "countries": [
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦経済供給法（LVG）第31条（耕作義務・作付転換指示規定）",
+        "statusOrLevel": "平時からの農地データ登録と危機宣言時におけるゴルフ場・緑地等の強制作付命令",
+        "keyFeature": "第2次大戦時のワレン・プラン（Wahlen-Plan）を近代法制化。危機時には全農地および遊休地に対し、主食穀物やジャガイモの栽培を法定義務化。不服従には公的収用と罰則。",
+        "source": {
+          "organization": "スイス連邦経済供給庁 (BWL) / 農業局 (BLW)",
+          "title": "Verordnung über die Pflichtlagerhaltung und Anordnungen für den landwirtschaftlichen Anbau",
+          "url": "https://www.blw.admin.ch"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "農業法（Agriculture Act）緊急権限規定および戦時緊急権限法の系譜",
+        "statusOrLevel": "国家危機における環境休耕地（ELMs）の緊急解除と食料増産指示",
+        "keyFeature": "第2次大戦時の「Dig for Victory（勝利のための開墾）」の法的権能を保持。サプライチェーン途絶時に大臣が環境保全助成金の条件を一時停止し食用作付を要請可能。",
+        "source": {
+          "organization": "英国環境・食料・農村地域省 (Defra)",
+          "title": "Agriculture Act 2020: Powers to intervene in food supply chain emergencies",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "食料予防法（Ernährungsvorsorgegesetz: EVG）第4条（生産・耕作指示権）",
+        "statusOrLevel": "連邦政府令による農業者への作付比率指示・家畜飼料から主食穀物への強制転換",
+        "keyFeature": "供給途絶時に、連邦大臣が農家に対し「家畜の頭数制限と飼料作付の廃止、小麦・ライ麦・菜種の優先生産」を命令可能。指示に従った農家の経済的損失は国費補償。",
+        "source": {
+          "organization": "ドイツ連邦食料・農業省 (BMEL)",
+          "title": "Ernährungsvorsorgegesetz (EVG) und staatliche Krisenintervention",
+          "url": "https://www.gesetze-im-internet.de"
+        }
+      },
+      {
+        "country": "オーストリア",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "systemName": "経済統制法（Wirtschaftslenkungsgesetz）食料・農業セクション",
+        "statusOrLevel": "連邦憲法に基づく非常時農地利用命令および農業機械の公的強制徴発",
+        "keyFeature": "国際的供給遮断時に、農業会議所と連携して遊休農地の所有権を一時停止し、認定農業組織に耕作を代行委託させる強制使用スキームを法制化。",
+        "source": {
+          "organization": "オーストリア連邦農業・地域・観光省 (BML)",
+          "title": "Wirtschaftslenkungsgesetz und Sicherung der Agrarproduktion",
+          "url": "https://www.bml.gv.at"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "全民防衛動員準備法および食糧管理法（緊急動員計画）",
+        "statusOrLevel": "軍事封鎖・海峡有事に備えた農地作付統制および種苗・肥料の国家一括配分",
+        "keyFeature": "中国による海上封鎖を想定し、休耕田へのサツマイモ・主食米の強制作付計画を策定。農民組織（農会）を通じて農業機械・燃料を集中管理する動員体制を運用。",
+        "source": {
+          "organization": "台湾国防部全民防衛動員署 / 農業部",
+          "title": "All-Out Defense Mobilization Readiness Act and Agricultural Resource Mobilization",
+          "url": "https://aodma.mnd.gov.tw"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "防衛法典（Code de la défense）国家経済資源動員規定",
+        "statusOrLevel": "主要有事・総動員令発令時における農地・食品加工施設の徴用（Réquisition）権限",
+        "keyFeature": "首相の権限により、戦略的食料品（小麦粉、油脂、乳製品）の生産目標を達成するため、農業生産者および農地を直接動員。損失補償は事後算定で国費支給。",
+        "source": {
+          "organization": "フランス農業・食料主権省 / 国防省",
+          "title": "Code de la défense: Régime des réquisitions pour la sécurité nationale",
+          "url": "https://www.legifrance.gouv.fr"
+        }
+      }
+    ]
+  }
 }

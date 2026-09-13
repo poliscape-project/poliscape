@@ -185,5 +185,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Scale"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の農地集約・耕作放棄地流動化および農地中間管理公社制度比較",
+    "comparisonSummary": "高齢化に伴う耕作放棄地の急増と担い手への農地集約に向け、フランスの農地整備公社（SAFER）やドイツの土地整理法など、公的機関が農地を買い取り・借り受けて大規模農家へ再配分するスキームが運用されています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "農地整備公社（SAFER: Sociétés d'aménagement foncier et d'établissement rural）",
+        "statusOrLevel": "農地売買に対する強力な公的「優先先買権（Droit de préemption）」および投機防止",
+        "keyFeature": "農地が売りに出された際、民間の投機的買占めを阻止し若手新規就農者や周辺の大規模農家に集約するため、公定価格で公社が優先的に買い取って配分する権限を持つ。",
+        "source": {
+          "organization": "フランス農業・食料主権省 (Ministère de l'Agriculture) / SAFER",
+          "title": "Missions et prérogatives des Safer pour l'aménagement foncier rural",
+          "url": "https://www.safer.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "土地整備法（Flurbereinigungsgesetz）および農地取引法（Grundstückverkehrsgesetz）",
+        "statusOrLevel": "自治体・公社主導の耕区整理・農地交換（Flurbereinigung）および非農民の農地取得制限",
+        "keyFeature": "細分化された農地を公的プロジェクトで一括再配置・合筆し大型効率農場へ更新。投機目的の非農業者への農地売却には農業官庁の厳格な許可が必要。",
+        "source": {
+          "organization": "ドイツ連邦食料・農業省 (BMEL)",
+          "title": "Flurbereinigung und Bodenordnung im ländlichen Raum",
+          "url": "https://www.bmel.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "韓国農漁村公社（KRC）農地銀行（Farmland Bank）事業および農地年金",
+        "statusOrLevel": "高齢農家の農地を一括買い取り・賃貸受託し青年創業農へ長期低利リース",
+        "keyFeature": "耕作できない高齢農家に「農地年金」を支給し農地を信託。集約した農地をデジタルマップ化し、スマートファーム志向の若手就農者へ優先配分して耕作放棄を撲滅。",
+        "source": {
+          "organization": "大韓民国農林畜産食品部 (MAFRA) / 韓国農漁村公社 (KRC)",
+          "title": "Farmland Bank System and Support for Young Farmers",
+          "url": "https://www.ekr.or.kr"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "国家土地公社（Bureau Beheer Landbouwgronden: BBL）および農地バンク",
+        "statusOrLevel": "農業構造改革・自然再生ゾーン造成のための戦略的農地買い取り・交換プログラム",
+        "keyFeature": "窒素排出規制に対応するため、過密地域の畜産農家から農地を公的買い取りし、持続可能型施設園芸農場や自然保護区へダイナミックに土地利用を転換。",
+        "source": {
+          "organization": "オランダ農業・自然・食品安全省 (LNV) / 企業庁 (RVO)",
+          "title": "Bureau Beheer Landbouwgronden and Land consolidation projects",
+          "url": "https://www.rvo.nl"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "農地銀行（Farmland Bank）および小地主大佃農（小地主・大耕作者）政策",
+        "statusOrLevel": "農業部・各郷鎮農会が仲介する農地長期賃貸借マッチングおよび奨励給付金",
+        "keyFeature": "零細地主から農地を借り上げて認定大規模経営者（大佃農）に一括貸出。農地転用を厳しく制限しつつ、規模拡大農家には機械化補助金を傾斜配分。",
+        "source": {
+          "organization": "台湾農業部 (Ministry of Agriculture)",
+          "title": "Farmland Banking System and Small Landlord Large Tenant Policy",
+          "url": "https://www.moa.gov.tw"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "農務省自然資源保全局（NRCS）農地保全プログラム（ACEP: Agricultural Conservation Easement Program）",
+        "statusOrLevel": "優良農地を住宅・商業開発から守るための保全地役権（Easement）の公的買い取り",
+        "keyFeature": "農家が農地を永久に農業用途に限定する地役権を設定した場合、連邦政府と土地信託団体が対価を一括補償。世代交代時の宅地化・細分化を防止。",
+        "source": {
+          "organization": "米国農務省 (USDA) 自然資源保全局 (NRCS)",
+          "title": "Agricultural Conservation Easement Program (ACEP) - Farmland Protection",
+          "url": "https://www.nrcs.usda.gov"
+        }
+      }
+    ]
+  }
 }

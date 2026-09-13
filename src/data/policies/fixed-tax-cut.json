@@ -241,5 +241,89 @@
         "commentStandard": "「国債発行による一時的なバラマキに終わり、根本的な実質賃金の向上にはつながらなかった」"
       }
     ]
+  },
+  "international": {
+    "title": "世界の物価高対策・一時的減税（Tax Rebate）および低所得者調整現金給付比較",
+    "comparisonSummary": "インフレによる実質賃金低下に対し、米国の経済刺激給付金、ドイツのエネルギー一括控除、豪州の税額控除など、所得税減税と税額控除しきれない層への現金給付（調整給付）を組み合わせた政策が各国で講じられました。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "経済刺激給付金（Economic Impact Payments: EIP / リカバリー・リベート税額控除）",
+        "statusOrLevel": "内国歳入庁（IRS）による年収制限付き直接口座振込（1人あたり1,200〜1,400ドル複数回給付）",
+        "keyFeature": "所得税申告データを活用し、減税措置を「前払い可能税額控除（Refundable Tax Credit）」として設計。税金未納者や低所得者にも小切手や口座振込で全額直接給付。",
+        "source": {
+          "organization": "米国財務省 (U.S. Treasury) / 内国歳入庁 (IRS)",
+          "title": "Economic Impact Payments and Recovery Rebate Credit implementation",
+          "url": "https://www.irs.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "エネルギー価格一括金（Energiepreispauschale: EPP）給付法制",
+        "statusOrLevel": "全就労者・年金生活者・学生に対する一律300ユーロ（非課税・課税対象別）支給",
+        "keyFeature": "給与所得者には雇用主を通じて給与天引き源泉徴収税から300ユーロを一括減税控除。年金生活者には年金保険公団から、低所得者には社会扶助経由で直接給付。",
+        "source": {
+          "organization": "ドイツ連邦財務省 (BMF)",
+          "title": "Energiepreispauschale (EPP): Gesetzliche Umsetzung und Entlastungspakete",
+          "url": "https://www.bundesfinanzministerium.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国民保険料（NICs）引き下げおよび生活費支援給付（Cost of Living Payments）",
+        "statusOrLevel": "全労働者の給与天引き国民保険料率の2%〜4%引き下げ＋低所得世帯への一律900ポンド現金給付",
+        "keyFeature": "減税（給与所得者の可処分所得引き上げ）と、税を払っていない低所得・福祉受給世帯への直接給付金支給を二段構えで実行。",
+        "source": {
+          "organization": "英国財務省 (HM Treasury) / 労働年金省 (DWP)",
+          "title": "Cost of Living Payments and National Insurance contributions cuts",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "低・中所得者税額控除（LMITO: Low and Middle Income Tax Offset）",
+        "statusOrLevel": "年収12万6,000豪ドル以下の納税者に対する確定申告時の一律最大1,500豪ドル税額控除",
+        "keyFeature": "毎月の給与計算を複雑化させず、年末調整・タックスリターン時に自動控除・還付する簡素な設計。税額がゼロの低所得者には別枠の一時生活支援金を支給。",
+        "source": {
+          "organization": "オーストラリア税務局 (ATO) / 財務省 (Treasury)",
+          "title": "Low and middle income tax offset (LMITO) and cost of living relief",
+          "url": "https://www.ato.gov.au"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "保証パッケージ（Assurance Package）およびCDCバウチャー",
+        "statusOrLevel": "消費税（GST）引き上げに伴う全国民への現金給付（最大数千ドル）および電子買い物券配布",
+        "keyFeature": "所得水準や住居タイプに応じて現金直接振込。さらにSingpass連携の「CDCバウチャー」を全世帯に電子配布し、地域の商店街やスーパーでのみ使える形で消費刺激。",
+        "source": {
+          "organization": "シンガポール財務省 (MOF)",
+          "title": "Assurance Package: Offsetting the GST increase and supporting households",
+          "url": "https://www.mof.gov.sg"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "民生回復支援金・緊急災難支援金制度および所得減税措置",
+        "statusOrLevel": "全国民または所得下位層に対する地域愛商品券・クレジットカードポイント支給",
+        "keyFeature": "給与減税ではなく、有効期限（数カ月）付きの地域通貨・電子ポイントとして給付。大手スーパーやオンライン通販での利用を制限し、中小零細自営業者での消費を強制喚起。",
+        "source": {
+          "organization": "大韓民国行政安全部 (MOIS) / 企画財政部 (MOEF)",
+          "title": "Emergency Relief and Local Currency Voucher Distribution Framework",
+          "url": "https://www.mois.go.kr"
+        }
+      }
+    ]
   }
 }

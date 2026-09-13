@@ -225,5 +225,89 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の排他的経済水域（EEZ）における洋上風力・浮体式風力発電法制・海洋空間計画比較",
+    "comparisonSummary": "水深の深い沖合EEZへの浮体式洋上風力展開に向け、英国のScotWindリース、米国の深海海洋リース規則、EUの海洋空間計画指令など、領海外での排他的発電権の法認可と国際法（UNCLOS）適合の制度化が進んでいます。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "クラウン・エステート（Crown Estate）ScotWind浮体式洋上風力リース法制",
+        "statusOrLevel": "世界最大規模（計約28GW中15GWが浮体式）の沖合・深海海底利用権競争オークション",
+        "keyFeature": "国王財産管財機関がEEZを含む海底敷設権を一括公募。漁業者との事前補償協定やサプライチェーン現地調達計画を審査項目に組み込み、世界トップの浮体式集積地を形成。",
+        "source": {
+          "organization": "クラウン・エステート・スコットランド (CES) / 英国エネルギー安全保障・ネットゼロ省",
+          "title": "ScotWind offshore wind leasing and floating wind deployment",
+          "url": "https://www.crownestatescotland.com"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "再エネ加速化法（Loi d'accélération des énergies renouvelables）および海洋計画",
+        "statusOrLevel": "ブルターニュ沖（250MW）および地中海沖（計500MW）の大規模浮体式商用入札完了",
+        "keyFeature": "国家の公共海洋空間計画に基づき、送電網接続設備（RTE沖合変電所）を公費整備。差額決済契約（CfD）による固定価格買い取りで事業者の投資リスクを低減。",
+        "source": {
+          "organization": "フランス生態移行・国土結束省 (MTECT) / エネルギー調整委員会 (CRE)",
+          "title": "L'éolien flottant au large: appels d'offres et zones prioritaires",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "内務省海洋エネルギー管理局（BOEM）外大陸棚（OCS）再生可能エネルギー規則",
+        "statusOrLevel": "カリフォルニア沖・オレゴン沖の太平洋深海水域（水深1,000m級）浮体式風力リース認可",
+        "keyFeature": "外大陸棚土地法（OCSLA）に基づき連邦政府が管轄する沖合EEZでの商業リース権を付与。国防総省（海軍軍事演習空域）や沿岸先住民族との法際調整プロセスを標準化。",
+        "source": {
+          "organization": "米国海洋エネルギー管理局 (BOEM) / 内務省 (DOI)",
+          "title": "BOEM Outer Continental Shelf Renewable Energy Leases and Floating Wind",
+          "url": "https://www.boem.gov"
+        }
+      },
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "洋上エネルギー法（Havenergilova）およびハイウィンド・タンペン（Hywind Tampen）",
+        "statusOrLevel": "世界最大の稼働中浮体式洋上風力ファーム（88MW）運用とEEZ大規模海域開放",
+        "keyFeature": "石油ガス洋上プラットフォームの電化を目的に北海EEZで実用化。EEZにおける海域指定、環境影響評価（EIA）、撤去積立金基金の法定義務を先行法制化。",
+        "source": {
+          "organization": "ノルウェーエネルギー省 (Energidepartementet) / 水道・エネルギー局 (NVE)",
+          "title": "Havenergilova: Offshore Energy Act and floating offshore wind developments",
+          "url": "https://www.regjeringen.no"
+        }
+      },
+      {
+        "country": "ポルトガル",
+        "countryCode": "PT",
+        "flag": "🇵🇹",
+        "systemName": "国家海洋空間計画（PSOEM）およびウィンドフロート・アトランティック（WindFloat）",
+        "statusOrLevel": "大西洋沖合の深海セミサブ（半潜水）型浮体式風力ファーム長期商用実証運用",
+        "keyFeature": "水深100m超の急深な大西洋海域に適した係留アンカー技術を確立。国家計画で沖合EEZの優先風力ゾーンを法的に画定し、ギガワット級入札を展開。",
+        "source": {
+          "organization": "ポルトガル海洋・天然資源総局 (DGRM) / 環境・気候行動省",
+          "title": "Plano de Situação do Ordenamento do Espaço Marítimo (PSOEM)",
+          "url": "https://www.dgrm.mm.gov.pt"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "蔚山沖浮体式洋上風力発電クラスター構想および洋上風力特別法",
+        "statusOrLevel": "東海（日本海）EEZにおける世界最大級（6GW規模）浮体式ファーム官民推進",
+        "keyFeature": "産業通商資源部による発電事業認可。EEZ内での漁民補償協議会制度化や海底ケーブル設置認可のワンストップ化特別法を国会で推進。",
+        "source": {
+          "organization": "大韓民国産業通商資源部 (MOTIE) / 海洋水産部",
+          "title": "Special Act on Offshore Wind Energy Promotion and EEZ Developments",
+          "url": "https://www.motie.go.kr"
+        }
+      }
+    ]
+  }
 }

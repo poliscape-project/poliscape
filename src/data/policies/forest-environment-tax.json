@@ -247,5 +247,89 @@
         "commentStandard": "「人口割で配分された大都市自治体で数十億円が基金に死蔵されており、真に必要な山村に回っていない」"
       }
     ]
+  },
+  "international": {
+    "title": "世界の森林環境税・カーボンオフセット賦課金および森林保全公費財源比較",
+    "comparisonSummary": "森林の間伐・水源涵養・土砂災害防止および2050年ネットゼロ達成に向け、欧州諸国の炭素税配分、米国の森林保全地役権信託、スイスの公費負担原則など、住民や企業から安定的な森林管理財源を調達する制度が運用されています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "低炭素ラベル（Label Bas-Carbone）森林認証および森林伐採税（Taxe sur les bois）",
+        "statusOrLevel": "気候変動適応型森林再生に対する民間企業炭素クレジット資金および公的森林税",
+        "keyFeature": "木材伐採・流通業者に課される森林開発税（CNOF）に加え、政府公認の低炭素ラベル制度により、企業や自治体が国内森林の間伐・植林に直接投資できる市場スキームを運用。",
+        "source": {
+          "organization": "フランス生態移行・国土結束省 (MTECT) / 国有林管理庁 (ONF)",
+          "title": "Le Label Bas-Carbone pour la forêt et la gestion durable des massifs forestiers",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦森林法（Bundeswaldgesetz: BWaldG）および気候適合的森林管理助成（Waldklimafonds）",
+        "statusOrLevel": "連邦二酸化炭素排出枠取引（nEHS）の炭素税収を森林再生活動へ集中的に還流",
+        "keyFeature": "住民税上乗せではなく、化石燃料への炭素価格（CO2税）収入を原資として数百億円規模の森林気候基金を造成。生態系に配慮した混交林化（単一針葉樹からの転換）を農家助成。",
+        "source": {
+          "organization": "ドイツ連邦食料・農業省 (BMEL) / 連邦環境省 (BMUV)",
+          "title": "Bundesprogramm Waldklimafonds und klimaangepasstes Waldmanagement",
+          "url": "https://www.bmel.de"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦森林法（WaG: Waldgesetz）および雪崩・土砂崩落防止防護林公費全額負担原則",
+        "statusOrLevel": "防護林（Schutzwald）の管理・間伐費用に対する連邦・州（カントン）の義務的財政支援",
+        "keyFeature": "急峻なアルプス山岳地の防護林は全土の公共インフラと人命を守る防壁と位置づけ。森林所有者の自己負担に依存せず、連邦環境局（BAFU）が直接予算を投じ計画管理。",
+        "source": {
+          "organization": "スイス連邦環境局 (BAFU) / 森林・木材部門",
+          "title": "Bundesgesetz über den Wald (Waldgesetz) und Schutzwaldmanagement",
+          "url": "https://www.bafu.admin.ch"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "森林遺産プログラム（Forest Legacy Program - 超党派インフラ法・IRA拡充）",
+        "statusOrLevel": "数十億ドルの連邦基金による重要私有林の開発防止・保全地役権の買取り",
+        "keyFeature": "私有林の宅地開発・伐採を防ぐため、森林を維持する所有者に連邦税制優遇と直接交付金を支給。水源地保護と山火事リスク低減の間伐費用を公費負担。",
+        "source": {
+          "organization": "米国農務省森林局 (USDA Forest Service)",
+          "title": "Forest Legacy Program: Conserving private forest lands for public benefit",
+          "url": "https://www.fs.usda.gov"
+        }
+      },
+      {
+        "country": "オーストリア",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "systemName": "森林基金法（Waldfondsgesetz: 3億5,000万ユーロ国家パッケージ）",
+        "statusOrLevel": "害虫（キクイムシ）被害木撤去・気候適応型混合林植林に対する大規模直接補助",
+        "keyFeature": "林業従事者や山林保有自治体に対し、間伐材の搬出や広葉樹混交林への転換費用の最大80%を基金から直接給付。木造公共建築の促進とセットで森林資源を循環利用。",
+        "source": {
+          "organization": "オーストリア連邦農業・地域・観光省 (BML)",
+          "title": "Der österreichische Waldfonds: Maßnahmen zur Stärkung der Forstwirtschaft",
+          "url": "https://www.bml.gv.at"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "山林資源の造成及び管理に関する法律および山林公益直接支払制度",
+        "statusOrLevel": "山林の公益機能（炭素吸収・水源涵養）を維持する山林所有者への直接支払金交付",
+        "keyFeature": "農地直接支払制度に倣い、山林直払法を制定。山林の伐採制限を守り持続可能管理を行う山主に対し、面積に応じて毎年公費支援金を支給。",
+        "source": {
+          "organization": "大韓民国山林庁 (Korea Forest Service)",
+          "title": "Forest Public Interest Direct Payment Act and Sustainable Forest Management",
+          "url": "https://www.forest.go.kr"
+        }
+      }
+    ]
   }
 }

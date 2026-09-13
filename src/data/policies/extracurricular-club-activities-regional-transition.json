@@ -217,5 +217,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の学校教育と青少年スポーツ・文化活動の分離・地域クラブ移行法制比較",
+    "comparisonSummary": "教員の長時間労働是正と子どもたちの多様な活動機会確保のため、欧州の総合型地域スポーツクラブ制度や米国の学校外ユースリーグなど、部活動を学校から地域社会・民間クラブへ委任するモデルが標準的です。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "総合型地域スポーツクラブ（Sportverein）制度および全日制学校（Ganztagsschule）連携",
+        "statusOrLevel": "学校に「部活動」は存在せず、青少年のスポーツ活動は地域クラブ（全国約9万団体）が100%担う体制",
+        "keyFeature": "教員は授業のみに専念。放課後は生徒各自が地域のSportverein（月額数百円〜数千円）に通い、有資格指導者から指導を受ける。全日制学校とクラブの協力協定を推進。",
+        "source": {
+          "organization": "ドイツオリンピックスポーツ連盟 (DOSB) / 連邦内務省 (BMI)",
+          "title": "Sportvereine in Deutschland und Kooperation mit Ganztagsschulen",
+          "url": "https://www.dosb.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "スポーツ省公認地域クラブ（Clubs sportifs）および学校スポーツ連合（UNSS）",
+        "statusOrLevel": "学校体育と民間地域クラブの完全分離・水曜午後や週末の地域スポーツ活動",
+        "keyFeature": "教員が課外活動を強制指導する慣習は皆無。水曜日の午後は授業を行わず、生徒が地域のスポーツクラブや音楽院（Conservatoire）に通う時間を制度的に保障。",
+        "source": {
+          "organization": "フランススポーツ・オリンピック省 (Ministère des Sports) / 国民教育省",
+          "title": "Organisation du sport scolaire (UNSS) et rôle des clubs sportifs associatifs",
+          "url": "https://www.sports.gouv.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "専任コーチ雇用型スクールスポーツおよび地域ユースクラブ（AAU / クラブチーム）",
+        "statusOrLevel": "教員ではなく外部の有資格専門コーチを別途雇用・シーズン制による特定種目偏重防止",
+        "keyFeature": "学校スポーツの指導者は専任契約（有給）で採用され教員の無給時間外労働ではない。春・秋・冬で異なる種目を行う「シーズン制」を徹底し子どもの燃え尽きを防止。",
+        "source": {
+          "organization": "全米州立高校協会連合会 (NFHS) / 各州高校体育連盟",
+          "title": "High School Athletics Participation Survey and Coaching Standards",
+          "url": "https://www.nfhs.org"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "スクール・ゲームズ（School Games）枠組みおよびコミュニティ・スポーツクラブ連携",
+        "statusOrLevel": "Sport England支援による地域クラブと学校施設の放課後オープン連携",
+        "keyFeature": "放課後活動は学校教員ではなく外部のNGB（競技団体公認コーチ）が受託。学校施設を地域に開放し、民間クラブが拠点として運営するコミュニティモデルを展開。",
+        "source": {
+          "organization": "英国文化・メディア・スポーツ省 (DCMS) / Sport England",
+          "title": "School Sport and Activity Action Plan and Community Club Links",
+          "url": "https://www.sportengland.org"
+        }
+      },
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "フィンランド・モデル（The Finnish Model for Leisure Activities: ハラスティング）",
+        "statusOrLevel": "全生徒に希望の放課後余暇活動（スポーツ・アート・プログラミング等）を学校内で無償提供",
+        "keyFeature": "生徒のアンケートに基づき、自治体と外部民間クラブ・専門家が放課後の校内でアクティビティを指導。教員負担ゼロで家庭の経済格差に関わらず全員参加を実現。",
+        "source": {
+          "organization": "フィンランド教育文化省 (OKM)",
+          "title": "The Finnish Model for Leisure Activities (Harrastamisen Suomen malli)",
+          "url": "https://okm.fi"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "学校運動部（エリート合宿）の公共スポーツクラブへの転換推進法制",
+        "statusOrLevel": "暴力・指導者不正を防ぐための学校エリート運動部の解体と地域クラブ統合",
+        "keyFeature": "体育教員や生徒の学校単位合宿を原則廃止し、大韓体育会が主導する地域「指定スポーツクラブ」に移行。一般生徒と競技選手が共に地域施設で活動するモデルへ改革。",
+        "source": {
+          "organization": "大韓民国文化体育観光部 (MCST) / 教育部",
+          "title": "Sports Club Act and Transformation of School Athletic Teams",
+          "url": "https://www.mcst.go.kr"
+        }
+      }
+    ]
+  }
 }

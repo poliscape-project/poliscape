@@ -231,5 +231,89 @@
         "commentStandard": "「転籍解禁により、地方でコストをかけて育てた人材が大都市圏へ流出するリスクが高く、地方施設の採用意欲を削ぐ懸念がある」"
       }
     ]
+  },
+  "international": {
+    "title": "世界の外国人介護・看護人材受入れ法制および国家間獲得競争比較",
+    "comparisonSummary": "高齢化に伴う深刻な介護人材不足に対処するため、ドイツの「トリプル・ウィン」協定、英国のヘルスケアビザ、豪州の永住権接続協約など、各国が語学研修支援、家族帯同権、永住への確実なキャリアパスを提示して人材獲得を競っています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "トリプル・ウィン・プロジェクト（Triple Win - GIZ/連邦雇用庁）および熟練労働者移民法",
+        "statusOrLevel": "ベトナム、フィリピン、ボスニア等の政府機関と提携した介護士育成・国家資格（Pflegefachkraft）取得受入れ",
+        "keyFeature": "現地でのドイツ語教育費用を全額受入国・雇用主が負担。国家公認看護・介護士資格を取得すれば、家族帯同が認められ、数年で永住権申請が可能。",
+        "source": {
+          "organization": "ドイツ連邦雇用庁 (BA) / ドイツ国際協力公社 (GIZ)",
+          "title": "Triple Win Programme for sustainable nursing recruitment",
+          "url": "https://www.arbeitsagentur.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ヘルス・アンド・ケア・ワーカー・ビザ（Health and Care Worker visa）",
+        "statusOrLevel": "NHSおよび認可介護施設向け迅速発給ビザ・最低給与基準特例およびビザ申請料減免",
+        "keyFeature": "他業種より割安なビザ手数料とNHS健康追加料金（IHS）免除を適用。5年間の勤務で永住権（ILR）取得資格が付与される（※近年家族帯同要件の厳格化を議論）。",
+        "source": {
+          "organization": "英国政府内務省 (Home Office) / 保健社会的ケア省 (DHSC)",
+          "title": "Health and Care Worker visa: eligibility and guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "高齢者介護労働協約（Aged Care Industry Labour Agreement）",
+        "statusOrLevel": "認可介護施設で2年間勤務した外国人介護職に対する永住権（PR）直結パスウェイ",
+        "keyFeature": "豪州労働組合との合意に基づき導入。最低年収要件（TSMIT）を満たすことと、2年間のフルタイム勤務を条件に、雇用主指名永住ビザ（Subclass 186）への道を提供。",
+        "source": {
+          "organization": "オーストラリア内務省 (Department of Home Affairs) / 保健省",
+          "title": "Aged Care Industry Labour Agreement for skilled overseas care workers",
+          "url": "https://immi.homeaffairs.gov.au"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "移住労働者中階技術人材移行計画（移工留才久用方案）",
+        "statusOrLevel": "外国人家庭内看護工（介護士）が6年以上勤務した場合の中級熟練労働者・永住権認定",
+        "keyFeature": "東南アジア（インドネシア・フィリピン・ベトナム）からの数十万人の介護職に対し、滞在年数上限（最長14年）を撤廃。一定の中国語力と給与要件を満たせば無期限定住を解禁。",
+        "source": {
+          "organization": "台湾労働部 (Ministry of Labor) / 衛生福利部",
+          "title": "Long-term Retention of Skilled Foreign Care Workers Plan",
+          "url": "https://www.mol.gov.tw"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "家庭内介護者移民パイロット（Home Support Worker Pilot / Enhanced Caregiver Pilot）",
+        "statusOrLevel": "カナダ入国と同時に永住権（PR on Arrival）が付与される新介護移民プログラム",
+        "keyFeature": "認可資格と基礎英語力を有し、介護施設や個人宅での雇用内定を得た外国人介護士に対し、入国時点で直接永住権を付与する世界的にも破格の優遇措置を導入。",
+        "source": {
+          "organization": "カナダ移民・難民・市民権省 (IRCC)",
+          "title": "Permanent residence pilots for home child care providers and home support workers",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "ソウル市外国人家事・介護管理士パイロット事業（雇用許可制E-9特例）",
+        "statusOrLevel": "フィリピン政府と協定を結び政府公認機関が雇用・法定最低賃金適用",
+        "keyFeature": "個人家庭直接雇用ではなく政府公認サービス法人が直接雇用。勤労基準法、4大社会保険、退職金を完全適用し、入国前英語・韓国語研修と身元保証を徹底。",
+        "source": {
+          "organization": "大韓民国雇用労働部 (MOEL) / ソウル特別市",
+          "title": "Foreign Care Worker Pilot Project under Employment Permit System (E-9)",
+          "url": "https://www.moel.go.kr"
+        }
+      }
+    ]
   }
 }

@@ -225,5 +225,89 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Wind"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の先進航空モビリティ（AAM/eVTOL）安全基準・耐空証明・運航認可法制比較",
+    "comparisonSummary": "有人eVTOL（空飛ぶクルマ）の商用運航実現に向け、米国FAA、欧州EASA、中国CAAC等は、機体耐空証明の特別条件（SC-VTOL）、操縦士訓練ライセンス基準、バーティポート離着陸安全基準の法制化を完了させています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州航空安全庁（EASA）VTOL機体特別条件（SC-VTOL: Category Enhanced）",
+        "statusOrLevel": "旅客輸送eVTOLに対する旅客機並みの安全性（破滅的故障確率10のマイナス9乗）法定義務化",
+        "keyFeature": "世界に先駆けて包括的認証基準を公布。エンジン1基停止時でも安全に着陸・飛行継続できる冗長設計や、高層ビル屋上バーティポートの障害物制限空域基準を法制化。",
+        "source": {
+          "organization": "欧州航空安全庁 (EASA)",
+          "title": "Special Condition for Small-Category VTOL Aircraft and Vertiport Prototype Guidance",
+          "url": "https://www.easa.europa.eu"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦航空局（FAA）動力リフト機（Powered-lift）運航・パイロット資格特別規則（SFAR）",
+        "statusOrLevel": "Joby AviationやArcher等への型式証明基準（Part 21.17b）およびデュアルコントロール訓練規則",
+        "keyFeature": "ヘリコプターとも固定翼機とも異なる「パワードリフト」区分を新設。単一操縦桿による運航資格やバッテリー熱暴走防止基準、パイロット養成基準を正式策定。",
+        "source": {
+          "organization": "米国連邦航空局 (FAA)",
+          "title": "Integration of Powered-Lift: Pilot Certification and Operations (SFAR)",
+          "url": "https://www.faa.gov"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "中国民用航空局（CAAC）無人航空機システム運航者証明（OC）および型式証明（TC）",
+        "statusOrLevel": "世界初の旅客用自律飛行型eVTOL（EHang 216-S）に対する型式証明・生産許可証（PC）交付",
+        "keyFeature": "パイロット非搭乗の完全自律飛行・地上管制センター監視による観光・都市間旅客輸送の商業認可を世界最速で交付。都市部エアタクシーの常設商業路線を実証運行中。",
+        "source": {
+          "organization": "中国民用航空局 (CAAC)",
+          "title": "CAAC Issues Standard Airworthiness Certificate and Production Certificate for eVTOL",
+          "url": "http://www.caac.gov.cn"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "民間航空局（CAA）先進エアモビリティ（AAM）安全性戦略ロードマップ",
+        "statusOrLevel": "EASA基準の相互承認（SC-VTOL採用）およびバーティポート安全認可プロセス",
+        "keyFeature": "2026年までの有人試験飛行、2028年定期商用運航を目標に設定。既存のロンドン・ヒースロー空港等の管制空域とeVTOL空域の安全統合プロトコルを実証。",
+        "source": {
+          "organization": "英国民間航空局 (CAA)",
+          "title": "UK Advanced Air Mobility Action Plan and eVTOL safety principles",
+          "url": "https://www.caa.co.uk"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "民間航空庁（CAAS）アドバンスト・エアモビリティ（AAM）規制サンドボックス",
+        "statusOrLevel": "マリーナサウス等における浮体式・陸上バーティポートの設計運用基準策定",
+        "keyFeature": "世界各国の航空規制当局（FAA・EASA・英CAA・日JCAB等）と多国間規制調和タスクフォースを主導。熱帯特有の突風・豪雨環境におけるeVTOL運航制限基準を策定。",
+        "source": {
+          "organization": "シンガポール民間航空庁 (CAAS)",
+          "title": "Civil Aviation Authority of Singapore AAM Regulatory Framework",
+          "url": "https://www.caas.gov.sg"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦デジタル・交通省（BMDV）アーバン・エア・モビリティ（UAM）行動指針",
+        "statusOrLevel": "VolocopterやLilium等の国産eVTOL開発企業に対する型式証明試験および空港連携支援",
+        "keyFeature": "フランクフルト空港やデュッセルドルフ空港と提携し、大都市ハブ空港から地方都市への高速フィーダー輸送として空飛ぶクルマを既存公共交通網に統合。",
+        "source": {
+          "organization": "ドイツ連邦デジタル・交通省 (BMDV) / 連邦航空局 (LBA)",
+          "title": "Aktionsplan Unbemannte Luftfahrtsysteme und innovative Luftfahrtkonzepte",
+          "url": "https://www.bmdv.bund.de"
+        }
+      }
+    ]
+  }
 }

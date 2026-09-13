@@ -261,5 +261,89 @@
         "commentStandard": "「基金から補てん金が出ても、次年度以降の積立金引き上げで農家負担が増え、赤字経営の資金繰りが一向に楽にならない」"
       }
     ]
+  },
+  "international": {
+    "title": "世界の家畜配合飼料価格安定制度および国産飼料用穀物（飼料用トウモロコシ・大豆）自給政策比較",
+    "comparisonSummary": "国際穀物価格の暴騰や為替変動による畜産農家の経営破綻を防ぎ食料安保を強化するため、EUの国産植物タンパク質計画、米国の作物保険・価格損失補償、フランスの飼料自給助成など、各国が飼料基金と国産転作支援を運用しています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "国家植物性タンパク質計画（Plan Protéines Végétales）および飼料自給助成",
+        "statusOrLevel": "輸入大豆ミール依存の半減および国内飼料用マメ科作物・トウモロコシ栽培直接支援",
+        "keyFeature": "1億ユーロ超を投じ、農場内での飼料自給（アルファルファ、エンドウ豆、飼料トウモロコシ）設備を導入する畜産農家に直接補助。南米産輸入飼料からの脱却を国策推進。",
+        "source": {
+          "organization": "フランス農業・食料主権省 (Ministère de l'Agriculture)",
+          "title": "Plan de développement des protéines végétales pour l'autonomie fourragère",
+          "url": "https://agriculture.gouv.fr"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "共通農業政策（CAP 2023-2027）共生直接支払およびEU森林破壊防止規則（EUDR）",
+        "statusOrLevel": "飼料用タンパク質作物に対する結合所得支持（Coupled Support）および森林破壊飼料排除",
+        "keyFeature": "大豆・トウモロコシ等飼料作物を栽培する農家にヘクタールあたり特別上乗せ給付を実施。EUDR規則によりアマゾン森林破壊に関与した輸入大豆の流通を遮断し域内産へ誘導。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "CAP Coupled Income Support for protein crops and EU Deforestation Regulation",
+          "url": "https://agriculture.ec.europa.eu"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦農業法（Farm Bill）価格損失補償（PLC）および乳製品マージン補償プログラム（DMC）",
+        "statusOrLevel": "飼料用トウモロコシ生産者への価格下落補填および畜産農家の飼料コストマージン保険",
+        "keyFeature": "配合飼料価格が上昇して生乳価格とのマージンが基準を下回った場合、USDAが差額を直接畜産農家に保険金給付。世界最大の飼料穀物輸出国として二重の安全網を構築。",
+        "source": {
+          "organization": "米国農務省農業サービス局 (USDA FSA)",
+          "title": "Dairy Margin Coverage (DMC) Program and Price Loss Coverage (PLC)",
+          "url": "https://www.fsa.usda.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦タンパク質植物戦略（Eiweißpflanzenstrategie - EPS）",
+        "statusOrLevel": "国内での飼料用大豆・ソラマメ・飼料ライ麦の作付拡大と地域飼料循環ネットワーク構築",
+        "keyFeature": "遺伝子組み換え（GMO）輸入大豆に依存しない「Ohne Gentechnik（非遺伝子組み換え）」プレミアム牛乳・豚肉市場を育成し、国産飼料利用農家の収益性を保証。",
+        "source": {
+          "organization": "ドイツ連邦食料・農業省 (BMEL) / 連邦農業食料庁 (BLE)",
+          "title": "Eiweißpflanzenstrategie des BMEL für eine nachhaltige Fütterung",
+          "url": "https://www.bmel.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "戦略作物直接支払制（飼料用米・粉質米・飼料用トウモロコシ転作助成）",
+        "statusOrLevel": "主食用米の減反転作として飼料用イネ・子実トウモロコシ栽培農家にヘクタールあたり最大430万ウォン支給",
+        "keyFeature": "配合飼料原料の海外依存度9割超の脆弱性を克服するため、水田での飼料作物栽培に巨額直接支払金を交付。畜産農家との直接供給協定を国庫補助。",
+        "source": {
+          "organization": "大韓民国農林畜産食品部 (MAFRA)",
+          "title": "Strategic Crop Direct Payment Program for Forage and Corn Cultivation",
+          "url": "https://www.mafra.go.kr"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦農業直接支払令（DZV）国産飼料比率義務付け（GMFプログラム）",
+        "statusOrLevel": "牛の飼料の最低85%以上を自前草地・国産粗飼料で賄うことを直接支払金の受給要件化",
+        "keyFeature": "輸入濃厚飼料（トウモロコシ・大豆）に過度に依存した畜産を禁止。牧草地主体の草食畜産への転換農家に環境加算金を給付し、飼料自給率を極限まで引き上げ。",
+        "source": {
+          "organization": "スイス連邦農業局 (BLW)",
+          "title": "Graslandbasierte Milch- und Fleischerzeugung (GMF) Programm",
+          "url": "https://www.blw.admin.ch"
+        }
+      }
+    ]
   }
 }

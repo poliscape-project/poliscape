@@ -225,5 +225,89 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Sparkles"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の森林保全税・交付金の自治体配分基準（人口割 vs 森林面積・管理需要割）比較",
+    "comparisonSummary": "国税として徴収した森林財源の自治体配分において、「大都市（人口割）に過大配分され、広大な森林を抱える過疎山間部に届かない」歪みを是正するため、各国は私有林面積、林道整備需要、土砂災害危険度に応じた傾斜配分基準を法制化しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦・州財政調整法（Finanzausgleichsgesetz）における森林面積・インフラ需要係数",
+        "statusOrLevel": "人口割偏重を排除した「森林面積比率および山岳地形コスト係数」の算入",
+        "keyFeature": "地方交付税（FAG）配分において、広大な森林や急傾斜地を抱える自治体の維持管理費・消防体制負担を客観的コスト指数として算入し、山間自治体に手厚く配分。",
+        "source": {
+          "organization": "ドイツ連邦財務省 (BMF) / 各連邦州財務省",
+          "title": "Kommunaler Finanzausgleich und Berücksichtigung topografischer Lasten",
+          "url": "https://www.bundesfinanzministerium.de"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦新財政調整制度（NFA: Neugestaltung des Finanzausgleichs）地形的過重要因補償",
+        "statusOrLevel": "標高・傾斜度・防護林面積に応じた山岳カントン（自治体）への直接財政補填",
+        "keyFeature": "都市部と山岳部の不均衡を是正するため、「地理的・地形的特別負担（Geografisch-topografische Lasten）」を精密算定。人口が少なくても森林管理面積が広大な地域に優先配当。",
+        "source": {
+          "organization": "スイス連邦財務局 (EFV) / 環境局 (BAFU)",
+          "title": "Neuer Finanzausgleich (NFA): Geografisch-topografischer Lastenausgleich",
+          "url": "https://www.efv.admin.ch"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "森林コミューン全国連合（FNCOFOR）地方交付税林業傾斜配分基準",
+        "statusOrLevel": "公有林・私有林面積および木材生産実績に応じた地方連帯交付金（DSU/DSR）加算",
+        "keyFeature": "農村連帯交付金（DSR）の算定式において、森林面積比率と木材搬出路整備コストを配分係数に明記。大都市への資金流出を防ぎ、中山間地域の基礎自治体に配分。",
+        "source": {
+          "organization": "フランスエコロジー移行省 / 森林コミューン全国連合 (FNCOFOR)",
+          "title": "Dotation de solidarité rurale (DSR) et financement des communes forestières",
+          "url": "https://www.fncofor.fr"
+        }
+      },
+      {
+        "country": "オーストリア",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "systemName": "連邦財政調整法（Finanzausgleichsgesetz: FAG）治山・砂防自治体特別配分",
+        "statusOrLevel": "治山・砂防（Wildbach- und Lawinenverbauung）対象流域面積に応じた目的税交付金配分",
+        "keyFeature": "急峻な山林の土砂崩落を防ぐ治山工事費用を自治体規模ではなく危険山林面積で100%按分。都市住民の観光・レジャー利用の恩恵を山間自治体に還元する仕組みを確立。",
+        "source": {
+          "organization": "オーストリア連邦財務省 (BMF) / 農業省 (BML)",
+          "title": "Finanzausgleichsgesetz und Sonderbedarfszuweisungen für Schutzwaldgemeinden",
+          "url": "https://www.bmf.gv.at"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "山岳自治体開発基金（Fondo per lo sviluppo delle montagne italiane: FOSMIT）",
+        "statusOrLevel": "山岳自治体連合（Unioni montane）に対する森林間伐・水理地質学的リスク管理連動配分",
+        "keyFeature": "全額を山岳自治体に限定配分する特別基金。人口基準を完全に排除し、未管理放置森林の面積や森林火災危険度に基づいて配分額を決定。",
+        "source": {
+          "organization": "イタリア地域問題・自治省 (Dipartimento per gli Affari Regionali) / UNCEM",
+          "title": "Fondo per lo sviluppo delle montagne italiane (FOSMIT) e gestione forestale",
+          "url": "https://www.affariregionali.it"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "地方交付税法における山林環境行政需要算定基準",
+        "statusOrLevel": "山林面積・傾斜度および山火事予防管理面積を普通交付税算定需要に大幅加算",
+        "keyFeature": "国土の63%を占める山林自治体の財政圧迫を防ぐため、普通交付税の「山林環境費」項目を拡充。人口減少が進む山間郡自治体への配分比率を法的に引き上げ。",
+        "source": {
+          "organization": "大韓民国行政安全部 (MOIS) / 山林庁",
+          "title": "Local Allocation Tax Act: Forest Administrative Demand Allocation Criteria",
+          "url": "https://www.mois.go.kr"
+        }
+      }
+    ]
+  }
 }

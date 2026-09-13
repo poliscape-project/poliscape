@@ -205,5 +205,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Ship"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の水産物密漁対策・トレーサビリティ法制（IUU漁業撲滅）比較",
+    "comparisonSummary": "高級水産物（アワビ、ナマコ、キャビア等）の組織的密漁や違法・無報告・無規制（IUU）漁業を根絶するため、EUのIUU規則や米国の水産物輸入監視プログラムなど、全サプライチェーンでの電子漁獲証明・バーコード追跡が義務化されています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU IUU漁業規則（Regulation (EC) No 1005/2008）およびCATCHシステム",
+        "statusOrLevel": "輸入水産物全量に対する公的漁獲証明書（Catch Certificate）の法定義務付け",
+        "keyFeature": "原産国政府が適法操業を証明した書類がない水産物の流通・輸入を全面禁止。デジタルプラットフォーム「CATCH」により電子証明書を税関で瞬時に照合。",
+        "source": {
+          "organization": "欧州委員会海洋・漁業総局 (DG MARE)",
+          "title": "EU rules to combat illegal, unreported and unregulated (IUU) fishing",
+          "url": "https://oceans-and-fisheries.ec.europa.eu"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "水産物輸入監視プログラム（SIMP: Seafood Import Monitoring Program）",
+        "statusOrLevel": "ナマコ・カニ・マグロ等優先13魚種に対する水揚港から米国国境までの全行程追跡義務",
+        "keyFeature": "海洋大気庁（NOAA）が管轄。漁獲船名、操業位置、漁法、加工施設、輸入事業者までの電子的チェーン・オブ・カストディ（管理記録）の保管・提示を義務化。",
+        "source": {
+          "organization": "米国海洋大気庁水産局 (NOAA Fisheries)",
+          "title": "Seafood Import Monitoring Program (SIMP) Requirements",
+          "url": "https://www.fisheries.noaa.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "アワビ・ロブスター漁獲タグ制度およびDNAバーコーディング密漁捜査",
+        "statusOrLevel": "個別アワビへの改ざん防止セキュリティタグ装着義務化および組織密漁特別取締班",
+        "keyFeature": "水揚げ直後に個体タグを装着し、レストランや小売店での無タグ品所持を即時違法化。押収品がどの生息海域から密漁されたかを特定するDNA鑑識網を運用。",
+        "source": {
+          "organization": "オーストラリア農水・環境省 (DAFF) / 各州水産局",
+          "title": "Combating illegal fishing and abalone quota tagging regulations",
+          "url": "https://www.agriculture.gov.au"
+        }
+      },
+      {
+        "country": "南アフリカ",
+        "countryCode": "ZA",
+        "flag": "🇿🇦",
+        "systemName": "海洋生活資源法（MLRA）およびアワビ（Perlemoen）密猟対抗特別部隊",
+        "statusOrLevel": "国際犯罪組織によるアワビ乱獲に対する環境犯罪法執行部隊（Green Scorpions）投入",
+        "keyFeature": "過剰密猟による資源枯渇に対し商業アワビ漁を一時全面停止。密輸品取引をマネーロンダリング罪・組織犯罪防止法で追及し、船舶・車両の強制没収を実施。",
+        "source": {
+          "organization": "南アフリカ林業・漁業・環境省 (DFFE) / 警察特殊捜査局 (Hawks)",
+          "title": "Marine Living Resources Act and anti-poaching operations in coastal areas",
+          "url": "https://www.dffe.gov.za"
+        }
+      },
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "水産物販売法（Fiskesalslagslova）および電子航海日誌（ERS）・VMS義務化",
+        "statusOrLevel": "全漁獲物の公認漁業協同組合経由販売義務化および全船GPSリアルタイム追跡",
+        "keyFeature": "水揚げした魚は例外なく公的販売機関を通さなければならず、密漁品の闇ルート流通を根本遮断。沿岸警備隊が衛星監視とドローンで領海内の操業を常時監視。",
+        "source": {
+          "organization": "ノルウェー漁業総局 (Fiskeridirektoratet)",
+          "title": "Electronic reporting systems (ERS) and sales organization regulations",
+          "url": "https://www.fiskeridir.no"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "水産物流通の管理及び支援に関する法律（水産物履歴制・トレーサビリティ）",
+        "statusOrLevel": "ナマコ・アワビ・タコ等の主要魚種に対する生産〜販売全過程QRコード表示義務化",
+        "keyFeature": "海洋水産部が水産物履歴管理システムを運用。未登録品や虚偽表示業者に対し行政処分と入札制限を課し、消費者が店頭で産地と適法性をスマホで直接照合可能。",
+        "source": {
+          "organization": "大韓民国海洋水産部 (MOF) / 国立水産物品質管理院 (NFQS)",
+          "title": "Fisheries Products Traceability System and Anti-IUU Regulations",
+          "url": "https://www.mof.go.kr"
+        }
+      }
+    ]
+  }
 }

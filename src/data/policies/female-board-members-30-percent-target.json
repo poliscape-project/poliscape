@@ -185,5 +185,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Briefcase"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の企業取締役会における女性役員比率クオータ法制およびジェンダーバランス指針比較",
+    "comparisonSummary": "意思決定層の多様性確保と企業価値向上のため、ノルウェーを皮切りにフランス、ドイツ、EU全域で「女性取締役40%以上」を法定義務化するクオータ制（違反時は過料や決議無効）の導入が世界で進んでいます。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "上場企業取締役会ジェンダーバランス指令（Women on Boards Directive: (EU) 2022/2381）",
+        "statusOrLevel": "2026年までにEU上場企業の非執行取締役の40%以上（全取締役では33%以上）を女性とする法定義務",
+        "keyFeature": "未達成企業には透明な選考プロセスの開示を義務付け。男性候補が女性候補と同等資格の場合、女性を優先採用するアファーマティブ・アクションを法定化。違反企業には過料。",
+        "source": {
+          "organization": "欧州委員会 (European Commission) / 欧州議会",
+          "title": "Directive (EU) 2022/2381 on gender balance on corporate boards",
+          "url": "https://eur-lex.europa.eu"
+        }
+      },
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "会社法改正（2003年制定・世界初の女性役員クオータ法）",
+        "statusOrLevel": "上場企業・公企業取締役会の女性比率最低40%完全法定義務化（違反時は強制解散）",
+        "keyFeature": "目標未達企業に対する最終ペナルティとして「裁判所による法人解散命令」を規定したことで、短期間で全上場企業が40%を達成。2024年からは大中規模非上場企業へも拡大。",
+        "source": {
+          "organization": "ノルウェー商工漁業省 (NFD) / 企業登記局",
+          "title": "Public limited liability companies gender representation requirements",
+          "url": "https://www.regjeringen.no"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "コペ・ジメルマン法（Loi Copé-Zimmermann）およびリキサン法（Loi Rixain）",
+        "statusOrLevel": "取締役会女性比率40%義務化達成（世界最高水準45%超）および執行役員女性40%目標（2030年）",
+        "keyFeature": "役員比率40%未達の場合、役員報酬の支払い停止や選任決議の法的無効を規定。さらにリキサン法で経営幹部（執行役員・上級管理職）にも2030年40%義務を課す。",
+        "source": {
+          "organization": "フランス男女平等・差別是正省 (Ministère de l'Égalité) / 司法省",
+          "title": "Loi Copé-Zimmermann et loi Rixain pour l'égalité économique et professionnelle",
+          "url": "https://www.egalite-femmes-hommes.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "指導的地位均等法II（FüPoG II: Führungspositionen-Gesetz II - 2021年施行）",
+        "statusOrLevel": "役員4名以上の上場企業において取締役会に最低1名の女性選任を法定義務化",
+        "keyFeature": "監査役会（Aufsichtsrat）の30%クオータに加え、業務執行取締役会（Vorstand）にも法定女性参加義務を拡大。女性ゼロ企業には正当な理由開示を強制。",
+        "source": {
+          "organization": "ドイツ連邦司法省 (BMJ) / 連邦家族高齢者女性青少年省 (BMFSFJ)",
+          "title": "Zweites Führungspositionen-Gesetz (FüPoG II) im Bundesgesetzblatt",
+          "url": "https://www.bmj.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "FTSEウィメン・リーダーズ・レビュー（FTSE Women Leaders Review）およびFCA上場規則",
+        "statusOrLevel": "法定義務ではなく企業統治コードによる自主目標設定（FTSE 350取締役女性比率40%達成）",
+        "keyFeature": "金融行動監視機構（FCA）が上場企業に「コンプライ・オア・エクスプレイン（遵守か説明か）」を課し、取締役40%以上かつ主要役職（CEO/CFO/議長）の1枠女性を推奨。",
+        "source": {
+          "organization": "英国金融行動監視機構 (FCA) / FTSE Women Leaders",
+          "title": "FCA policy on diversity and inclusion on company boards and executive committees",
+          "url": "https://www.fca.org.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ナスダック（Nasdaq）取締役会ダイバーシティ規則およびSEC承認枠組み",
+        "statusOrLevel": "最低2名の多様な取締役（女性1名、過小評価マイノリティ等1名）の登用開示義務化",
+        "keyFeature": "カリフォルニア州の法定クオータ法が州憲法裁判所で違憲判決を受けた後、市場主導ルールへ移行。ナスダック上場企業に年次多様性マトリクス開示を義務付け。",
+        "source": {
+          "organization": "米国証券取引委員会 (SEC) / Nasdaq Listing Center",
+          "title": "Nasdaq's Board Diversity Rule and SEC Approval Order",
+          "url": "https://www.sec.gov"
+        }
+      }
+    ]
+  }
 }

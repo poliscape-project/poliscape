@@ -217,5 +217,89 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "ShieldAlert"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界のフリーランス・個人事業主保護法制（公正取引・報酬支払確保・ハラスメント防止）比較",
+    "comparisonSummary": "企業対個人の取引における買い叩き、報酬未払い、一方的な減額・発注取消を防ぐため、米国のフリーランス保護法やEUのプラットフォーム労働指令など、書面契約義務付けや行政救済の法制化が急速に進んでいます。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "フリーランスはタダじゃない法（Freelance Isn't Free Act - ニューヨーク州法等）",
+        "statusOrLevel": "全米各州へ拡大する書面契約の法定義務化・30日以内報酬支払い義務・未払い時の最大2倍賠償",
+        "keyFeature": "800ドル以上の取引で書面契約を強制。発注者が契約後の一方的減額や遅延を行った場合、未払い額の2倍に相当する法定損害賠償と弁護士費用を発注者に課す。",
+        "source": {
+          "organization": "ニューヨーク市消費者・労働者保護局 (DCWP) / ニューヨーク州労働局",
+          "title": "Freelance Isn't Free Act: Legal Protections for Freelance Workers",
+          "url": "https://www.nyc.gov"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EUプラットフォーム労働指令（Platform Work Directive）および個人自営業者団体交渉ガイドライン",
+        "statusOrLevel": "アルゴリズム管理を受けるフリーランスの労働者推定規定および公正取引権利の保障",
+        "keyFeature": "実態として雇用従属関係にあるフリーランスを「労働者」と推定し労働法を完全適用。真の自営業者に対しても独禁法違反とせずに報酬引き上げの団体交渉権を承認。",
+        "source": {
+          "organization": "欧州議会 / 欧州委員会",
+          "title": "Directive on improving working conditions in platform work and Guidelines on collective agreements",
+          "url": "https://www.consilium.europa.eu"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "雇用権利法および中間区分「ワーカー（Worker）」制度・小規模企業コミッショナー法制",
+        "statusOrLevel": "個人自営業者への最低賃金・有給休暇適用判決（Uber最高裁判決）および売掛金回収支援",
+        "keyFeature": "自営業と正社員の間に「Worker」区分を設け、一定の従属性があれば法定最低賃金を保障。中小企業コミッショナー（SBC）が大企業の未払い・遅延取引を公表・是正。",
+        "source": {
+          "organization": "英国小規模ビジネス・コミッショナー事務所 (SBC) / 企業・通商省 (DBT)",
+          "title": "Small Business Commissioner late payment guidance and Worker status rules",
+          "url": "https://www.smallbusinesscommissioner.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "自律型自営業者社会対話法制（Loi Travail / ARPE: 雇用プラットフォーム関係局）",
+        "statusOrLevel": "プラットフォーム個人自営業者に対する労災保険加入義務・最低報酬時間単価の協約化",
+        "keyFeature": "公共機関ARPEを創設し、ライドシェアや配達員などのフリーランスと企業側の集団交渉を制度化。一方的契約解除の禁止やアカウント停止時の異議申立手続きを法制化。",
+        "source": {
+          "organization": "フランス雇用プラットフォーム関係局 (ARPE) / 労働省",
+          "title": "L'Autorité des relations sociales des plateformes d'emploi (ARPE)",
+          "url": "https://www.arpe.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "公正労働法改正（Closing Loopholes Act 2023: 抜け穴塞ぎ法）",
+        "statusOrLevel": "公正労働委員会（FWC）による「従業員類似労働者（Employee-like workers）」への最低基準設定権",
+        "keyFeature": "デジタルプラットフォーム等で働く独立契約者に対し、FWCが最低料金、保険補償、不当な契約解除に対する不服申立権を付与できる強力な規制権限を新設。",
+        "source": {
+          "organization": "オーストラリア公正労働委員会 (Fair Work Commission - FWC)",
+          "title": "Regulating 'employee-like' workers and digital platform standards",
+          "url": "https://www.fwc.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "芸術人福祉法および標準契約書普及義務化・不公正行為申告センター",
+        "statusOrLevel": "文化芸術・コンテンツ分野フリーランスへの雇用保険・労災保険適用および標準契約書強制",
+        "keyFeature": "口頭発注による踏み倒しを排除するため標準契約書使用を指導。取引上の優越的地位乱用に対し文化体育観光部が是正命令・過料処分を下す救済窓口を常設。",
+        "source": {
+          "organization": "大韓民国文化体育観光部 (MCST) / 韓国芸術人福祉財団",
+          "title": "Artist Welfare Act and Standard Contract Guidelines",
+          "url": "https://www.mcst.go.kr"
+        }
+      }
+    ]
+  }
 }

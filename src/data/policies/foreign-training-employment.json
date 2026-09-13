@@ -217,5 +217,89 @@
         "commentStandard": "「事実上の移民解禁政策であるにもかかわらず、治安や社会保障の公平性についての国民合意が薄い」"
       }
     ]
+  },
+  "international": {
+    "title": "世界の外国人労働者受入れ・技能育成法制（転籍の自由・人権保障・長期定住）比較",
+    "comparisonSummary": "国際的な人身取引・強制労働批判を受けた日本の技能実習制度見直しに伴い、韓国の雇用許可制（EPS）、ドイツの熟練移民法、豪州のPALMスキームなど、「転籍の自由」「透明な公的受入れ」「永住への接続」が国際基準となっています。",
+    "countries": [
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "外国人力の雇用等に関する法律（雇用許可制: EPS - Employment Permit System）",
+        "statusOrLevel": "民間ブローカーを完全排除した政府間（G-to-G）直接協定受入れおよび一定の職場移動の自由",
+        "keyFeature": "16カ国政府と協定を結び公的雇用センターが直接選考・配属。原則3回までの事業所変更（転籍）を法律で保障。最長9年8カ月の滞在と熟練技能ビザ（E-7-4）永住パスを整備。",
+        "source": {
+          "organization": "大韓民国雇用労働部 (MOEL) / 韓国産業人力公団 (HRD Korea)",
+          "title": "Employment Permit System (EPS) Framework and Foreign Worker Rights",
+          "url": "https://www.eps.go.kr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "熟練労働者移民法（Fachkräfteeinwanderungsgesetz - 2023年大改正）および機会カード（Chancenkarte）",
+        "statusOrLevel": "職業経験・ポイント制による合法就労解禁および完全な労働者としての転籍・転職の自由",
+        "keyFeature": "「研修・実習」名目ではなく最初から「対等な労働者」として受け入れ。職場変更は自由であり、最低賃金や社会保険は全額ドイツ人と同等。3年で永住許可取得が可能。",
+        "source": {
+          "organization": "ドイツ連邦内務・国土省 (BMI) / 連邦雇用庁 (BA)",
+          "title": "Das neue Fachkräfteeinwanderungsgesetz und die Chancenkarte",
+          "url": "https://www.make-it-in-germany.com"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "太平洋豪州労働モビリティスキーム（PALM scheme）および公正労働法完全適用",
+        "statusOrLevel": "太平洋島しょ国からの農業・食肉加工労働者受入れ・雇用主変更の権利保障",
+        "keyFeature": "労働搾取を防ぐため内務省・雇用省が認定雇用主を厳格審査。労働条件違反があった場合は政府介入により別雇用主へ即時転籍可能。家族帯同パイロットも実施。",
+        "source": {
+          "organization": "オーストラリア外交貿易省 (DFAT) / 雇用労働関係省 (DEWR)",
+          "title": "Pacific Australia Labour Mobility (PALM) scheme regulatory standards",
+          "url": "https://www.palmscheme.gov.au"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "就業服務法および移住労働者職場転籍ガイドライン（転聘準則）",
+        "statusOrLevel": "製造業・建設業・介護移住労働者（約75万人）に対する段階的転籍制限緩和",
+        "keyFeature": "雇用主の合意なき転籍制限がILO等から批判されたため、人権侵害や賃金未払い、経営悪化時の無条件転籍を法定義務化。中階技術人材への移行により無期限滞在を承認。",
+        "source": {
+          "organization": "台湾労働部労動力発展署 (Workforce Development Agency)",
+          "title": "Employment Service Act and Regulations Governing Foreign Worker Job Transfers",
+          "url": "https://www.wda.gov.tw"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "外国人労働力雇用法（EFMA: Employment of Foreign Manpower Act）",
+        "statusOrLevel": "厳格な業種別雇用クオータ（DRC）・外国人雇用税（Levy）と転職同意制度",
+        "keyFeature": "建設業等での契約満了時の雇用主同意なしの自由転職期間（Transfer Scheme）を導入。給与のデジタル銀行振込義務化や宿舎安全基準法（FEDSA）で人権保護を徹底。",
+        "source": {
+          "organization": "シンガポール人材開発省 (MOM)",
+          "title": "Employment of Foreign Manpower Act and Work Permit transfer rules",
+          "url": "https://www.mom.gov.sg"
+        }
+      },
+      {
+        "country": "国際労働機関",
+        "countryCode": "ILO",
+        "flag": "🇺🇳",
+        "systemName": "ILO第97号（移住労働者条約）・第143号（機会均等条約）および強制労働禁止原則",
+        "statusOrLevel": "雇用主変更の自由（移動の自由）の制限を強制労働リスク（指標）として是正勧告",
+        "keyFeature": "手数料を労働者に負担させる悪質送り出し機関の排除、パスポート取り上げの厳禁、均等待遇を全世界に勧告。日本の新制度に対しても国際基準遵守を注視。",
+        "source": {
+          "organization": "国際労働機関 (ILO)",
+          "title": "General principles and operational guidelines for fair recruitment and Decent Work for Migrant Workers",
+          "url": "https://www.ilo.org"
+        }
+      }
+    ]
   }
 }
