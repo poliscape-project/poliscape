@@ -273,6 +273,46 @@
           "title": "Aktivitetsersättning vid nedsatt arbetsförmåga och deltidsarbete",
           "url": "https://www.forsakringskassan.se/privatperson/funktionsnedsattning/aktivitetsersattning"
         }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "障害支援年金（Disability Support Pension - DSP）就労促進枠",
+        "description": "週15時間未満の就労であれば年金受給資格を喪失せず、一定所得限度額までは年金が減額されない所得テスト（Income test）により就労自立を後押し。",
+        "source": {
+          "title": "オーストラリア連邦サービス庁 (Services Australia) - Disability Support Pension and working",
+          "url": "https://www.servicesaustralia.gov.au"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "CPP障害年金（CPP Disability）就労インセンティブ規則",
+        "description": "受給者が就労を試みる際、年間約6,800カナダドルまでは事前の年金停止なしで就労可能。3年以内の再発・就労断念時には無審査で年金を即時復活。",
+        "source": {
+          "title": "カナダ政府 (Canada.ca) - Canada Pension Plan disability vocational rehabilitation",
+          "url": "https://www.canada.ca/en/services/benefits/publicpensions.html"
+        }
+      },
+      {
+        "code": "NO",
+        "country": "ノルウェー",
+        "system": "障害給付（Uføretrygd）の就労所得連動スライド調整制度",
+        "description": "働いても障害年金が打ち切られることはなく、一定の年間所得控除額を超えた就労収入に対してのみ年金額を緩やかに減額調整するシームレス設計。",
+        "source": {
+          "title": "ノルウェー労働福祉庁 (NAV) - Uføretrygd og inntekt",
+          "url": "https://www.nav.no"
+        }
+      },
+      {
+        "code": "FR",
+        "country": "フランス",
+        "system": "成人障害者手当（AAH）就労併給インセンティブ制度",
+        "description": "就労を開始しても最初の6カ月間は手当が全額支給され、その後も給与額の一定割合のみを手当から控除する累積方式（Cumul）により手取り逆転を防止。",
+        "source": {
+          "title": "フランス政府公式ポータル (Service-Public.fr) - Allocation aux adultes handicapés (AAH) et travail",
+          "url": "https://www.service-public.fr"
+        }
       }
     ]
   }

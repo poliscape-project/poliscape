@@ -189,6 +189,46 @@
           "title": "Smoking Prohibition in Certain Places (NEA)",
           "url": "https://www.nea.gov.sg/our-services/smoking-prohibition/overview"
         }
+      },
+      {
+        "code": "NZ",
+        "country": "ニュージーランド",
+        "system": "スモーキーフリー（Smokefree 2025）政策とタバコ物品税累増",
+        "description": "喫煙率5%未満を目指し、1箱あたり約35NZドル（約3,200円）に達する高率課税を維持。学校周辺や公園、ビーチ等の屋外公共空間を全面禁煙化。",
+        "source": {
+          "title": "ニュージーランド保健省 (Health New Zealand) - Smokefree environment regulations",
+          "url": "https://www.health.govt.nz"
+        }
+      },
+      {
+        "code": "ES",
+        "country": "スペイン",
+        "system": "包括的たばこ予防管理計画（PIT）に基づく飲食テラス席・ビーチ禁煙化",
+        "description": "飲食店屋外テラス席、大学キャンパス、公共交通機関の停留所、主要ビーチにおける屋外喫煙禁止を法制化。受動喫煙防止とポイ捨て汚染を根絶。",
+        "source": {
+          "title": "スペイン保健省 (Ministerio de Sanidad) - Plan Integral de Prevención del Tabaquismo",
+          "url": "https://www.sanidad.gob.es"
+        }
+      },
+      {
+        "code": "IT",
+        "country": "イタリア",
+        "system": "屋外喫煙制限条例（ミラノ市・トリノ市等における他者距離規制）",
+        "description": "自治体条例により、バス停、公園、子どもや妊婦の周囲、屋外公共空間において他者から数メートル（3〜5m）以内の喫煙を全面禁止し過料を科す。",
+        "source": {
+          "title": "イタリア保健省 (Ministero della Salute) - Fumo e tutela della salute pubblica",
+          "url": "https://www.salute.gov.it"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "タバコおよびVAPE製品法（TVPA）および屋外敷地境界禁煙規則",
+        "description": "病院、学校、スポーツ施設、公共建築物の出入口や窓から9m以内の屋外全面禁煙を義務化。タバコ1本ごとに健康警告表示を印刷する世界初ルールを施行。",
+        "source": {
+          "title": "カナダ保健省 (Health Canada) - Tobacco products and smoking regulations",
+          "url": "https://www.canada.ca/en/health-canada.html"
+        }
       }
     ]
   }

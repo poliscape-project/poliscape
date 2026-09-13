@@ -183,6 +183,46 @@
           "title": "Energy Efficient Mortgage Program (EEM)",
           "url": "https://www.hud.gov/program_offices/housing/sfh"
         }
+      },
+      {
+        "code": "CH",
+        "country": "スイス",
+        "system": "連邦・州建物プログラム（Das Gebäudeprogramm）と省エネ税制控除",
+        "description": "高断熱・再エネ設備を導入する新築・改修住宅に対し、連邦および各州が直接補助金を交付するとともに、改修費用を所得税から控除可能。",
+        "source": {
+          "title": "スイス連邦エネルギー庁 (BFE) - Das Gebäudeprogramm",
+          "url": "https://www.bfe.admin.ch"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "NatHERS（全国住宅エネルギー格付け）連動グリーン住宅ローン優遇",
+        "description": "7スター以上の高断熱住宅を建築・購入する世帯に対し、主要銀行が住宅ローン金利の特別引き下げ（グリーン住宅ローン）を提供する官民連動モデル。",
+        "source": {
+          "title": "オーストラリア気候変動省 NatHERS - Nationwide House Energy Rating Scheme",
+          "url": "https://www.nathers.gov.au"
+        }
+      },
+      {
+        "code": "NL",
+        "country": "オランダ",
+        "system": "省エネ住宅エネルギーラベル連動型住宅ローン借入枠・金利優遇",
+        "description": "エネルギーラベルA++++等のゼロエネルギー住宅に対し、通常の上限を超える追加住宅ローン借入枠（最大5万ユーロ）および住宅抵当利子税額控除を付与。",
+        "source": {
+          "title": "オランダ企業誘致庁 (RVO) - Energielabel woningen en hypotheken",
+          "url": "https://www.rvo.nl"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "ゼロエネルギー建築（ZEB）認証住宅に対する取得税・財産税軽減",
+        "description": "民間共同住宅へのZEB義務化を段階的に推進。ZEB認証を取得した新築住宅に対し、地方税特例制限法に基づき取得税を最大20%軽減。",
+        "source": {
+          "title": "韓国国土交通部 (MOLIT) - ゼロエネルギー建築物（ZEB）認証制度",
+          "url": "https://www.molit.go.kr"
+        }
       }
     ]
   }

@@ -273,6 +273,46 @@
           "title": "Adoptionsvermittlung und Rechtsgrundlagen",
           "url": "https://www.bmfsfj.de/bmfsfj/themen/familie/chancen-und-foerderung/adoption"
         }
+      },
+      {
+        "code": "SE",
+        "country": "スウェーデン",
+        "system": "親族・子ども法典に基づく家庭裁判所の養子縁組許可と公的支援",
+        "description": "実親の同意を基本としつつ、子どもの最善の利益に反する場合は裁判所が同意を補充。民間営利あっせんを排除し、基礎自治体社会福祉委員会が手続を管轄。",
+        "source": {
+          "title": "スウェーデン家族法・親権支援庁 (MFOF) - Adoptioner och barns rättigheter",
+          "url": "https://www.mfof.se"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "オープン・アダプション（Open Adoption・出自開示・交流継続）原則",
+        "description": "秘密主義を廃止し、養親・実親・子どもの三者間で身元情報を共有し成長後も交流を継続する「開かれた養子縁組」を法律で標準モデルとして推進。",
+        "source": {
+          "title": "オーストラリア社会支援省 (Department of Social Services) - Intercountry and local adoption",
+          "url": "https://www.dss.gov.au"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ（オンタリオ州）",
+        "system": "児童・青少年・家族サービス法（CYFSA）に基づく公的養子あっせん",
+        "description": "保護が必要な児童の恒久的家庭定着（パーマネンシー）を優先。先住民族の子どもの文化的アイデンティティ継承を守る特別規定を法制化。",
+        "source": {
+          "title": "オンタリオ州政府ポータル - Adoption in Ontario",
+          "url": "https://www.ontario.ca"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "国内養子特別法および国際養子法改正（国家責任養子制度の創設）",
+        "description": "民間養子あっせん機関主導の縁組を全廃し、保健福祉部および自治体が縁組の決定・実親相談・事後管理を直接担う国家公的養子制度へと抜本転換。",
+        "source": {
+          "title": "韓国保健福祉部 (MOHW) - 国家養子体系改編推進計画",
+          "url": "https://www.mohw.go.kr"
+        }
       }
     ]
   }

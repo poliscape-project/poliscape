@@ -241,6 +241,46 @@
           "title": "Maximum weekly working hours and 48-hour opt-out agreements",
           "url": "https://www.gov.uk/maximum-weekly-working-hours"
         }
+      },
+      {
+        "code": "CH",
+        "country": "スイス",
+        "system": "労働法（ArG）第73条に基づく自律労働時間協定および健康保護",
+        "description": "年収12万フラン超の専門職に労働時間記録免除を認める一方、雇用主に対し過重労働や燃え尽き症候群を防ぐための定期的な健康面談を法定義務化。",
+        "source": {
+          "title": "スイス連邦経済管財庁 (SECO) - Autonome Arbeitszeitgestaltung und Gesundheitsschutz",
+          "url": "https://www.seco.admin.ch"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "公正労働法に基づく柔軟勤務取り決めおよび安全衛生法疲労管理",
+        "description": "自律的な勤務時間調整を認める契約であっても、労働安全衛生法（WHS）に基づき雇用主が心理的負荷および疲労リスクの評価・防止義務を負う。",
+        "source": {
+          "title": "オーストラリア公正労働担当官 (Fair Work Ombudsman) - Flexible working arrangements and WHS",
+          "url": "https://www.fairwork.gov.au"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "勤労基準法第58条に基づく裁量勤労時間制の労使書面合意と健康措置",
+        "description": "研究開発やデザイン等の指定業務に対し労使合意でみなし労働時間を適用。雇用労働部指針により過労防止のための深夜勤務制限・休息付与を指導。",
+        "source": {
+          "title": "韓国雇用労働部 (MOEL) - 裁量勤労時間制の運営指針と健康保護措置",
+          "url": "https://www.moel.go.kr"
+        }
+      },
+      {
+        "code": "NL",
+        "country": "オランダ",
+        "system": "労働時間法（ATW）自律的労働者適用除外と経営協議会（WOR）監視",
+        "description": "年収が法定基準（最低賃金の3倍以上）を超える自律的職務労働者に対し労働時間規制を緩和する一方、企業内の経営協議会が過労防止体制を定期監査。",
+        "source": {
+          "title": "オランダ社会問題・雇用省 (SZW) - Arbeidstijdenwet en leidinggevenden/specialisten",
+          "url": "https://www.government.nl/ministries/ministry-of-social-affairs-and-employment"
+        }
       }
     ]
   }

@@ -241,6 +241,46 @@
           "title": "Rest breaks at work - Daily rest",
           "url": "https://www.gov.uk/rest-breaks-work"
         }
+      },
+      {
+        "code": "ES",
+        "country": "スペイン",
+        "system": "労働者憲章第34条に基づく勤務間最低12時間の連続休息義務",
+        "description": "勤務終了から次の始業までの間に、最低12時間の連続した休息時間を付与することを雇用主に法定義務化。違反企業には労働監督署が罰則を執行。",
+        "source": {
+          "title": "スペイン首相府 (La Moncloa) - Estatuto de los Trabajadores y jornada laboral",
+          "url": "https://www.lamoncloa.gob.es"
+        }
+      },
+      {
+        "code": "IT",
+        "country": "イタリア",
+        "system": "労働時間令（Decreto Legislativo 66/2003）第7条の11時間休息保障",
+        "description": "EU労働時間指令を国内法化し、24時間ごとに最低11時間の連続した休息を取る権利を法律で厳格に保障。交替勤務でも例外要件を厳格制限。",
+        "source": {
+          "title": "イタリア労働・社会政策省 (Ministero del Lavoro) - Orario di lavoro e riposi giornalieri",
+          "url": "https://www.lavoro.gov.it"
+        }
+      },
+      {
+        "code": "SE",
+        "country": "スウェーデン",
+        "system": "労働時間法（Arbetstidslagen）に基づく11時間連続休息義務",
+        "description": "24時間あたり最低11時間の連続休息（Dygnevila）を義務付け。2023年に救急・消防・医療等の公共セクターでも労使協約の例外運用を厳格化。",
+        "source": {
+          "title": "スウェーデン労働環境庁 (Arbetsmiljöverket) - Regler om dygnevila",
+          "url": "https://www.av.se"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "近代賞（Modern Awards）における10時間休息インターバル条項",
+        "description": "各業界の標準労働協約（Award）において、勤務終了から次のシフトまで最低10時間の休息を義務付け。休息なしで勤務させた場合は割増賃金を強制。",
+        "source": {
+          "title": "オーストラリア公正労働担当官 (Fair Work Ombudsman) - Rest periods between shifts",
+          "url": "https://www.fairwork.gov.au"
+        }
       }
     ]
   }

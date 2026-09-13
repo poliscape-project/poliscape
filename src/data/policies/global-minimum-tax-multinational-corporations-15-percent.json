@@ -241,6 +241,46 @@
           "title": "Global Minimum Tax Act and Implementation Regulations",
           "url": "https://www.moef.go.kr"
         }
+      },
+      {
+        "code": "DE",
+        "country": "ドイツ",
+        "system": "最低課税指令国内法（Mindeststeuergesetz - MinStG）",
+        "description": "年間連結総収入7.5億ユーロ以上の多国籍企業グループに対し、実効税率15%に満たない海外子会社の軽課税所得を合算課税（IIRおよび国内QDMTT）を施行。",
+        "source": {
+          "title": "ドイツ連邦財務省 (BMF) - Gesetz für die Umsetzung der Richtlinie zur Gewährleistung einer globalen Mindestbesteuerung",
+          "url": "https://www.bundesfinanzministerium.de"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "グローバル・ミニマム税法（Global Minimum Tax Act - GMTA）",
+        "description": "OECD柱2規則に完全に準拠し、国内最低トップアップ税（QDMTT）および所得合算ルール（IIR）を法制化。巨大テック企業の課税逃れを封じ込め。",
+        "source": {
+          "title": "カナダ財務省 (Department of Finance Canada) - Global Minimum Tax Act",
+          "url": "https://www.canada.ca/en/department-finance.html"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "多国籍企業グローバルおよび国内最低課税法制（Pillar Two）",
+        "description": "15%の国内最低トップアップ税（DMT）および所得合算ルール（IIR）を導入。オーストラリア国税庁（ATO）が多国籍企業の国際納税データを一元監視。",
+        "source": {
+          "title": "オーストラリア国税庁 (ATO) - Pillar Two global and domestic minimum taxes",
+          "url": "https://www.ato.gov.au"
+        }
+      },
+      {
+        "code": "NL",
+        "country": "オランダ",
+        "system": "2024年最低法人税法（Wet minimumbelasting 2024）",
+        "description": "欧州連合最低課税指令に基づき柱2を国内法制化。タックスヘイブンを利用した多国籍持株会社の不当な税負担軽減を根絶。",
+        "source": {
+          "title": "オランダ財務省 (Ministerie van Financiën) - Wet minimumbelasting 2024 (Pillar Two)",
+          "url": "https://www.government.nl/ministries/ministry-of-finance"
+        }
       }
     ]
   }

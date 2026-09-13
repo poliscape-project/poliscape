@@ -242,6 +242,46 @@
           "title": "Shared Responsibility Framework for Phishing Scams Consultation Paper",
           "url": "https://www.mas.gov.sg/news/media-releases/2023"
         }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "電子決済規則（ePayments Code）に基づく原則無過失返金保証",
+        "description": "利用者に詐欺への関与や暗証番号の漏洩など重大な過失がない限り、不正利用被害額の全額をカード発行金融機関が返金補償することを義務化。",
+        "source": {
+          "title": "オーストラリア証券投資委員会 (ASIC) - ePayments Code",
+          "url": "https://asic.gov.au"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "金融消費者庁（FCAC）不正取引ゼロ免責原則（Zero Liability）",
+        "description": "フィッシング詐欺やカード偽造被害に遭った消費者に対し、カード保有者の過失がない限り不正請求額の支払義務を免除する公的基準を徹底。",
+        "source": {
+          "title": "カナダ金融消費者庁 (FCAC) - Unauthorized transactions and fraud protection",
+          "url": "https://www.canada.ca/en/financial-consumer-agency.html"
+        }
+      },
+      {
+        "code": "DE",
+        "country": "ドイツ",
+        "system": "民法典（BGB）第675v条に基づくカード発行者の不正決済返金義務",
+        "description": "不正決済が発生した場合、銀行・カード会社は翌営業日終了までに口座へ即時返金する義務を負う。消費者の負担上限は故意・重過失がない限り最大50ユーロ。",
+        "source": {
+          "title": "ドイツ連邦金融監督庁 (BaFin) - Unerlaubte Zahlungskartennutzung",
+          "url": "https://www.bafin.de"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "専門金融業法に基づくカード会社の不正使用補償責任とFDS義務化",
+        "description": "紛失・盗難・偽造・ハッキングによる被害に対しカード会社の原則全額補償を法律で義務化。不正検知システム（FDS）の常時稼働を指導。",
+        "source": {
+          "title": "韓国金融委員会 (FSC) - クレジットカード不正決済防止・消費者保護方針",
+          "url": "https://www.fsc.go.kr"
+        }
       }
     ]
   }

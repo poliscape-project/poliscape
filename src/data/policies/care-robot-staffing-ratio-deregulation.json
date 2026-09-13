@@ -287,6 +287,46 @@
           "title": "Medicare and Medicaid Programs: Minimum Staffing Standards for Long-Term Care Facilities",
           "url": "https://www.cms.gov/newsroom"
         }
+      },
+      {
+        "code": "NL",
+        "country": "オランダ",
+        "system": "ヘルスケア・イノベーション基金およびスマートケア技術導入",
+        "description": "夜間の施設巡回にセンサーマットや音響監視AIを導入した介護施設に対し、スタッフの夜間拘束人員要件を柔軟化。介護職員の夜勤負担軽減を実証。",
+        "source": {
+          "title": "オランダ保健福祉スポーツ省 (VWS) - Healthcare innovation and smart sensors",
+          "url": "https://www.government.nl/ministries/ministry-of-health-welfare-and-sport"
+        }
+      },
+      {
+        "code": "SG",
+        "country": "シンガポール",
+        "system": "統合ケア庁（AIC）高齢者ケア・ロボティクス技術助成プログラム",
+        "description": "高齢化に対応し、介護施設における見守りセンサー、自動搬送ロボット、移乗アシスト機器の導入費用を最大80%公費助成。業務効率化とケア質を両立。",
+        "source": {
+          "title": "シンガポール統合ケア庁 (AIC) - Healthcare Productivity Fund and Assistive Tech",
+          "url": "https://www.aic.sg"
+        }
+      },
+      {
+        "code": "FI",
+        "country": "フィンランド",
+        "system": "高齢者福祉法に基づくケアテクノロジー活用基準",
+        "description": "安全センサーや遠隔ビデオ見守りを法的に公認。スタッフ配置基準（0.7人配置等）において、テクノロジー活用による間接業務削減時間を算定考慮。",
+        "source": {
+          "title": "フィンランド社会保健省 (STM) - Technology in elderly care",
+          "url": "https://stm.fi/en"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "スマート高齢親和サービス実証団地および介護ロボット普及事業",
+        "description": "保健福祉部と産業通商資源部が連携し、ベッド型移乗ロボットや排泄予測センサーの介護保険福祉用具給付対象への指定と施設実証を推進。",
+        "source": {
+          "title": "韓国保健福祉部 (MOHW) - スマートケア福祉サービス推進方針",
+          "url": "https://www.mohw.go.kr"
+        }
       }
     ]
   }

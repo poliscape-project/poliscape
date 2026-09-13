@@ -281,6 +281,46 @@
           "title": "Notice PSN02 Prevention of Money Laundering for Digital Payment Token Services",
           "url": "https://www.mas.gov.sg/regulation/notices/psn02-aml-cft-notice---digital-payment-token-service"
         }
+      },
+      {
+        "code": "GB",
+        "country": "英国",
+        "system": "金融行動監視機構（FCA）暗号資産トラベルルール完全施行",
+        "description": "暗号資産交換業者に対し、送金者および受取者の氏名・口座番号等の顧客情報を送金と同時に送受信することを義務化。未対応の海外送金を原則遮断。",
+        "source": {
+          "title": "英国金融行動監視機構 (FCA) - Travel Rule for cryptoasset businesses",
+          "url": "https://www.fca.org.uk"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "金融取引報告分析センター（FINTRAC）暗号資産取引記録・報告義務",
+        "description": "1,000カナダドル相当以上の暗号資産送金に対しトラベルルールを適用。個人管理ウォレット（未ホストウォレット）との取引にもリスク評価を義務化。",
+        "source": {
+          "title": "カナダFINTRAC - Travel rule for virtual currency transfers",
+          "url": "https://fintrac-canafe.canada.ca"
+        }
+      },
+      {
+        "code": "CH",
+        "country": "スイス",
+        "system": "金融市場監督機構（FINMA）暗号資産送金照会規則（AML令第10条）",
+        "description": "送金額に関わらず全暗号資産送金に対しトラベルルールを適用。未認証の個人ウォレットへの出金に対し、所有権の厳格な技術的証明を要求。",
+        "source": {
+          "title": "スイス金融市場監督機構 (FINMA) - Payments on the blockchain and Travel Rule",
+          "url": "https://www.finma.ch"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "特定金融情報法に基づく仮想資産トラベルルール義務化制度",
+        "description": "100万ウォン以上の暗号資産送金に対し送受金者情報の送信を世界に先駆けて完全義務化。未登録の海外取引所への出金を法的に禁止。",
+        "source": {
+          "title": "韓国金融委員会 (FSC) - 仮想資産事業者のトラベルルール履行現況",
+          "url": "https://www.fsc.go.kr"
+        }
       }
     ]
   }
