@@ -185,5 +185,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Wallet"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における副業・兼業の法的自由・労働時間通算管理・割増賃金（残業代）ルール比較",
+    "comparisonSummary": "多様なキャリア形成と過重労働防止を両立するため、欧州はEU労働時間指令に基づき副業先を含めた最大週労働時間を制限し、米国は原則自由契約を採用しており、日本の労働時間通算（労基法38条）の簡素化論議の指標となっています。",
+    "countries": [
+      {
+        "country": "欧州連合 (EU) / フランス",
+        "countryCode": "EU",
+        "flag": "🇫🇷",
+        "systemName": "EU労働時間指令（2003/88/EC）およびフランス労働法典「複数雇用最高上限時間」",
+        "statusOrLevel": "すべての雇用主での労働時間を合算して週最大48時間（連続12週平均44時間）の絶対上限規制",
+        "keyFeature": "労働者が上限を超えて副業することは違法。雇用主は労働者に他社での労働時間申告を求める義務を負い、健康被害や過労を防ぐため法定休憩時間（日11時間）を厳格強制。",
+        "source": {
+          "organization": "フランス労働・完全雇用省 / 欧州委員会",
+          "title": "Cumul d'emplois salariés : règles relatives à la durée maximale du travail",
+          "url": "https://www.travail-emploi.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "労働時間法（ArbZG: Arbeitszeitgesetz）第2条第1項通算規定（Zusammenrechnung）",
+        "statusOrLevel": "本業と副業の労働時間を合算して1日最大10時間・週平均48時間の上限順守義務",
+        "keyFeature": "ミニジョブ等の副業をする際、全雇用の労働時間を合算。上限違反時は雇用主双方が労働監督局から最高3万ユーロの過料対象となるため、雇用契約で事前の副業申告を義務化。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS)",
+          "title": "Arbeitszeitgesetz (ArbZG) - Zusammenrechnung mehrerer Beschäftigungen",
+          "url": "https://www.bmas.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "労働時間規則（Working Time Regulations 1998）オプトアウト制度（48-hour opt-out）",
+        "statusOrLevel": "週48時間上限を原則としつつ、労働者が自発的に書面でオプトアウト（適用除外）合意可能",
+        "keyFeature": "副業を希望する労働者が自らの意思でオプトアウト書面に署名すれば、複数社での労働時間合算制限を免除。残業代は各社ごとの雇用契約に基づき計算。",
+        "source": {
+          "organization": "英国助言調停仲裁局 (Acas) / 労働年金省",
+          "title": "Maximum weekly working hours and 48-hour opt-out agreements",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "公正労働基準法（FLSA）独立事業所残業代算定原則（Joint Employment外の個別算定）",
+        "statusOrLevel": "資本関係のない無関係な別々の会社で働く場合、労働時間は合算されず各社40時間基準で判定",
+        "keyFeature": "本業で週40時間、副業先で週20時間働いても、副業先は時間外割増賃金を支払う義務はない（各社単独で40時間超えでのみ残業代発生）。企業の副業受入の法的ハードルが極めて低い。",
+        "source": {
+          "organization": "米国労働省賃金時間局 (WHD)",
+          "title": "Fair Labor Standards Act (FLSA) Overtime and Joint Employment Rules",
+          "url": "https://www.dol.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "公正労働法（Fair Work Act 2009）副業の権利（Right to secondary employment）",
+        "statusOrLevel": "雇用主による合理的な理由のない副業禁止命令の違法化・各雇用主単位での時間外手当算定",
+        "keyFeature": "競業避止や利益相反、健康安全上の明白なリスクがない限り、雇用主が従業員の副業を禁止することを禁止。労働時間は事業主ごとに個別管理。",
+        "source": {
+          "organization": "豪公正労働オンブズマン (Fair Work Ombudsman)",
+          "title": "Second jobs and moonlighting - Employee rights and employer duties",
+          "url": "https://www.fairwork.gov.au"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "雇用法（Employment Act）デュアル就労管理ガイドライン",
+        "statusOrLevel": "パートタイムおよびギグワークの兼業自由・利益相反や過労防止のための三者ガイドライン",
+        "keyFeature": "兼業を広く推奨しつつ、休息時間確保の責任を労働者本人にも配分。主業雇用主が不当に副業を制限することを抑止。",
+        "source": {
+          "organization": "シンガポール人材開発省 (MOM) / 全国労働組合会議 (NTUC)",
+          "title": "Tripartite Advisory on Dual Employment and Moonlighting",
+          "url": "https://www.mom.gov.sg"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "労働基準法第38条（事業場を異にする場合の労働時間通算）および副業・兼業の促進に関するガイドライン",
+        "statusOrLevel": "異なる会社での労働時間を合算し、法定8時間を超えた部分に後契約会社が割増賃金支払い義務",
+        "keyFeature": "厚労省は「原則副業容認」へモデル就業規則を改定。しかし労基法38条の労働時間通算と残業代支払義務が企業の副業受け入れの巨大な事務的・金銭的ブレーキとなっており、管理モデルの簡素化法改正が検討中。",
+        "source": {
+          "organization": "厚生労働省労働基準局",
+          "title": "副業・兼業の促進に関するガイドライン及び労働時間管理のルール",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

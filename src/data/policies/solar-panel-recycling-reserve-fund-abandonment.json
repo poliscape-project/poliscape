@@ -185,5 +185,102 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Leaf"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国におけるメガソーラー事業終了時の原状回復ボンド・放置パネル撤去代執行法制比較",
+    "comparisonSummary": "メガソーラー事業者の倒産や撤退による放置パネル・環境汚染を防ぐため、欧米自治体は建設認可時に巨額の「撤去保証金（Decommissioning Bond）」信託を義務付けており、日本の放置対策・自治体条例の先行モデルとなっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "各州・郡土地利用条例における廃止措置保証ボンド（Decommissioning Bond / Surety Bond）",
+        "statusOrLevel": "メガソーラー建設許可の絶対要件として解体・原状回復費用の100〜125%相当の信託保証金預託",
+        "keyFeature": "事業者が破産・放置した場合、郡（カウンティ）が預託保証金を没収して行政代執行でパネルを撤去し農地・山林を完全復元。納税者に一切の費用負担を負わせない仕組み。",
+        "source": {
+          "organization": "米国土地管理局 (BLM) / 各州公益事業委員会",
+          "title": "Solar Energy Decommissioning and Reclamation Bonding Requirements",
+          "url": "https://www.blm.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦建設法典（BauGB）第35条第5項原状回復義務（Rückbauverpflichtung）",
+        "statusOrLevel": "屋外開発地域（Außenbereich）での太陽光・風力発電設備に対する書面による解体義務および銀行保証",
+        "keyFeature": "建築確認申請時に、事業者は撤去費用を担保する銀行保証状（Bankbürgschaft）を自治体へ提出することが義務。事業停止から一定期間で自動解体執行。",
+        "source": {
+          "organization": "ドイツ連邦住宅・都市開発・建設省 (BMWSB)",
+          "title": "Baugesetzbuch (BauGB) § 35 - Rückbauverpflichtung für privilegierte Vorhaben",
+          "url": "https://www.bmwsb.bund.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "都市計画許可（Planning Permission）廃止措置条件（Decommissioning Conditions）",
+        "statusOrLevel": "発電停止後6〜12ヶ月以内の全設備撤去義務・エスクロー口座への解体積立金供託",
+        "keyFeature": "地方都市計画局（LPA）が土地賃貸借契約（Lease Agreement）と連動して監視。撤去が履行されない場合、土地所有者と事業者の双方に是正命令を発令。",
+        "source": {
+          "organization": "英国住宅・コミュニティ・地方自治省 (DLUHC)",
+          "title": "Renewable and low carbon energy planning practice guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "環境法典に基づく環境保護分類施設（ICPE）原状回復保証金（Garanties financières）",
+        "statusOrLevel": "大規模地上設置型太陽光発電所に対する県知事（Préfet）への事前財務保証金預託義務付け",
+        "keyFeature": "事業開始前に解体見積書を提出し、銀行保証または公託預託金機関（CDC）へ資金を保全。放置された場合は知事が代執行令を発出。",
+        "source": {
+          "organization": "フランス生態移行省",
+          "title": "Code de l'environnement - Garanties financières et remise en état des sites solaires",
+          "url": "https://www.georisques.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア/NSW州",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "大規模太陽光発電開発ガイドライン（Large-Scale Solar Energy Guideline）原状回復計画",
+        "statusOrLevel": "環境評価法に基づくリハビリテーション・デコミッショニング保証金管理",
+        "keyFeature": "農地や先住民族保有地でのメガソーラー開発において、土壌修復・有害物撤去の費用を第三者エスクロー勘定へ積立することを開発認可（Development Consent）条件に明記。",
+        "source": {
+          "organization": "ニューサウスウェールズ州計画環境局 (DPE)",
+          "title": "Large-Scale Solar Energy Guideline - Decommissioning and Rehabilitation",
+          "url": "https://www.planning.nsw.gov.au"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "単一認可令（Autorizzazione Unica: D.Lgs. 387/2003）原状回復供託金",
+        "statusOrLevel": "州政府に対するメガソーラー撤去費用の銀行保証状（Fideiussione bancaria）提出義務",
+        "keyFeature": "認可取得の前提条件として、解体費用の100%をカバーする金融保証を州へ差し入れ。操業停止後放置された場合は州が保証を実行して撤去工事を即時発注。",
+        "source": {
+          "organization": "イタリア環境・エネルギー安全保障省 (MASE) / 各州政府",
+          "title": "Autorizzazione Unica per impianti fotovoltaici e garanzie per la rimessa in pristino",
+          "url": "https://www.mase.gov.it"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "再エネ特措法に基づく認定取消・公表制度および自治体太陽光発電規制条例",
+        "statusOrLevel": "外部積立未履行時のFIT/FIP認定取消・全国約200自治体による放置防止・設置規制条例",
+        "keyFeature": "事業者倒産や名義変更時の放置を防ぐため、経産省が未積立事業者を公表・売電停止処分。山林開発による土砂災害リスクを懸念する地方自治体が撤去義務条例を相次ぎ制定。",
+        "source": {
+          "organization": "経済産業省資源エネルギー庁 / 環境省",
+          "title": "太陽光発電設備の適正な導入・管理及び廃棄等費用積立未履行への対応",
+          "url": "https://www.enecho.meti.go.jp"
+        }
+      }
+    ]
+  }
 }

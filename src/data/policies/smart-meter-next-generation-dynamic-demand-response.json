@@ -217,5 +217,102 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Sun"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における次世代スマートメーター配備・動的ダイナミックプライシング・デマンドレスポンス（DR）比較",
+    "comparisonSummary": "再エネ大量導入時の系統安定化のため、欧米諸国は卸電力市場と連動したリアルタイム動的料金（Dynamic Tariffs）の提供を事業者に義務付け、家庭用蓄電池やEVの自動充電制御（DR）を普及させています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "次世代スマートメーター（SMETS2）およびオクトパス・エナジー「アジャイル」動的料金",
+        "statusOrLevel": "全家庭へのスマートメーター普及率60%超・30分ごとに電気料金が変動するダイナミックプラン",
+        "keyFeature": "風力余剰時には電気料金が「マイナス（電気を使うと逆にお金がもらえる）」になるプランを商用化。EVや蓄電池が自動で最安時間帯に充電し家庭の光熱費を大幅節約。",
+        "source": {
+          "organization": "英国エネルギー規制機関 (Ofgem) / DESNZ",
+          "title": "Smart meter roll-out and market-wide half-hourly settlement (MHHS)",
+          "url": "https://www.ofgem.gov.uk"
+        }
+      },
+      {
+        "country": "欧州連合 (EU) / スペイン",
+        "countryCode": "EU",
+        "flag": "🇪🇸",
+        "systemName": "EU電力指令（Directive 2019/944）動的電気料金契約義務化およびPVPC料金",
+        "statusOrLevel": "20万件以上の顧客を持つ全電力小売企業に対する動的価格契約（Dynamic Contract）提供義務化",
+        "keyFeature": "スペインでは全世帯にスマートメーター設置完了。規制料金（PVPC）が翌日の時間帯別市場価格（Hourly Market Prices）に100%自動連動し、消費者の自発的ピークシフトを喚起。",
+        "source": {
+          "organization": "欧州委員会 / スペイン国家市場競争委員会 (CNMC)",
+          "title": "Dynamic electricity price contracts and smart metering rollout in the EU",
+          "url": "https://www.cnmc.es"
+        }
+      },
+      {
+        "country": "アメリカ/カリフォルニア州",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "時間帯別料金（Time-of-Use: TOU）デフォルト化および緊急負荷削減プログラム（ELRP）",
+        "statusOrLevel": "全住宅顧客に対するTOU料金の原則デフォルト（自動移行）適用・熱波時の節電キャッシュバック",
+        "keyFeature": "夕方ピーク時（16〜21時）の高価格設定により需要を抑制。猛暑で系統ひっ迫警報（Flex Alert）が出た際、節電に協力した家庭にkWhあたり数ドルの高額報酬を直接還元。",
+        "source": {
+          "organization": "カリフォルニア州公益事業委員会 (CPUC) / CAISO",
+          "title": "Time-of-Use Residential Rates and Emergency Load Reduction Program (ELRP)",
+          "url": "https://www.cpuc.ca.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "エネルギー転換デジタル化法（GNDEW: 2023年改正）スマートメーター義務化",
+        "statusOrLevel": "年間電力消費量6,000kWh以上および大容量太陽光・ヒートポンプ設置世帯へのスマートメーター義務化",
+        "keyFeature": "2025年までに全電力小売会社に動的料金プラン（Dynamische Stromtarife）の提供を法的に義務付け。スマートメーターゲートウェイ（SMGW）経由でEV充電を自動制御。",
+        "source": {
+          "organization": "ドイツ連邦経済気候保護省 (BMWK) / BNetzA",
+          "title": "Gesetz zum Neustart der Digitalisierung der Energiewende (GNDEW)",
+          "url": "https://www.bmwk.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "卸電力市場小売直接連動プラン（Amber Electric等）および仮想発電所（VPP）",
+        "statusOrLevel": "5分ごとの国家電力市場（NEM）卸価格に完全連動する家庭用電気料金プランの普及",
+        "keyFeature": "家庭用テスラPowerwall等の蓄電池をAIが完全自動制御。市場価格が急騰した瞬間に蓄電池からグリッドへ逆潮流売電し、一般家庭が月数万円の売電益を獲得。",
+        "source": {
+          "organization": "オーストラリア・エネルギー市場委員会 (AEMC) / AER",
+          "title": "Smart meter deployment and consumer access to dynamic pricing",
+          "url": "https://www.aemc.gov.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "リンキー（Linky）スマートメーター全土95%配備およびEDFテンポ料金（Tempo）",
+        "statusOrLevel": "全国3,500万世帯へのLinkyメーター配備完了・日によって電気代が色分けされるTempoプラン",
+        "keyFeature": "電気料金を青（格安）・白（通常）・赤（冬のひっ迫ピーク高額日・年22日）に色分け。赤の日は消費者が自発的に暖房や大型家電を止め、国全体のピーク電力を数GW削減。",
+        "source": {
+          "organization": "フランス配電系統運用機関 (Enedis) / エネルギー規制委員会 (CRE)",
+          "title": "Déploiement des compteurs Linky et offres d'électricité à effacement",
+          "url": "https://www.enedis.fr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "第2世代（次世代）スマートメーター導入計画（2025年度〜）およびディマンドリスポンス（DR）促進",
+        "statusOrLevel": "現行スマートメーターの全戸配備完了（第1世代）・5分値測定や双方向通信可能な次世代機への更新",
+        "keyFeature": "大手電力や新電力による「節電ポイント（冬季・夏季DRプログラム）」の普及。再エネ余剰時の「昼間の上げDR（昼に使ってお得）」や市場連動型料金プランの普及環境を整備。",
+        "source": {
+          "organization": "経済産業省資源エネルギー庁",
+          "title": "次世代スマートメーター制度検討会報告書及びディマンドリスポンスの推進",
+          "url": "https://www.meti.go.jp"
+        }
+      }
+    ]
+  }
 }

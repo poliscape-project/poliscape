@@ -217,5 +217,102 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Lock"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国におけるスポーツベッティング収益のスポーツ界・地域社会・草の根育成への還元スキーム比較",
+    "comparisonSummary": "スポーツベッティングを合法化した各国は、得られた税収や拠出金（インテグリティ・フィー）を競技連盟、マイナースポーツ、アスリート育成、スタジアム整備へ直接還元する仕組みを確立しており、日本のスポーツ財源拡大議論の論点となっています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "国立スポーツ庁（ANS）スポーツ税（Taxe Buffet / 賭博税収還元）",
+        "statusOrLevel": "スポーツベッティング売上に対する法定課税分を草の根スポーツ・地方施設整備へ100%直結",
+        "keyFeature": "民間ブックメーカーからの税収の一部を国立スポーツ庁（ANS）に直接プール。プロスポーツだけでなく、地域の小中学校やアマチュアクラブの施設整備・指導員報酬へ還元。",
+        "source": {
+          "organization": "フランス国立スポーツ庁 (ANS) / スポーツ省",
+          "title": "Financement du sport en France et affectation des taxes sur les paris",
+          "url": "https://www.agencedusport.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "競馬賭博賦課金（Horserace Betting Levy）およびプレミアリーグ放映権・ベッティングパートナーシップ",
+        "statusOrLevel": "賭博事業者から総粗利益（GGR）の10%を徴収し競馬・スポーツ界へ年約1億ポンド直接還元",
+        "keyFeature": "法定の競馬賦課金委員会（HBLB）が徴収し、競走馬の福祉、騎手の年金、地方競馬場維持に再配分。サッカー界もデータ放映ライセンス料としてベッティング各社から巨額資金を獲得。",
+        "source": {
+          "organization": "英国競馬賭博賦課金委員会 (HBLB) / DCMS",
+          "title": "Horserace Betting Levy Board annual report and statutory distribution",
+          "url": "https://www.hblb.org.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "製品供給協定（Product Fee / Integrity Agreements）",
+        "statusOrLevel": "ブックメーカーが競技主催者（AFL、NRL、Tennis Australia等）へ売上の1〜3%を支払う義務",
+        "keyFeature": "各州法により、スポーツ団体の試合にオッズをつける賭博企業は、競技団体と整合性・製品利用契約を結びロイヤリティを支払う義務。この資金で競技団体は八百長調査とジュニア育成を実施。",
+        "source": {
+          "organization": "スポーツ・インテグリティ・オーストラリア (SIA)",
+          "title": "National Integrity Framework and Sports Wagering Product Fees",
+          "url": "https://www.sportintegrity.gov.au"
+        }
+      },
+      {
+        "country": "アメリカ/ニューヨーク州",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "モバイルスポーツウェイジャリング税（Mobile Sports Wagering Tax: 税率51%）",
+        "statusOrLevel": "全米最高水準の51%税率・年間10億ドル近くの税収を全州の公立学校教育財源へ直結配分",
+        "keyFeature": "NY州ゲーム委員会が徴収。税収の大部分をK-12教育予算（学校給食・教員人件費等）に充当し、さらに年数百億円を青少年スポーツプログラムやギャンブル依存症予防へ配分。",
+        "source": {
+          "organization": "ニューヨーク州ゲーミング委員会 (NYSGC)",
+          "title": "Mobile Sports Wagering Tax Revenue Distributions and Youth Sports Funding",
+          "url": "https://www.gaming.ny.gov"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "スポーツ基本基金（Fondo Salva Sport）およびベッティング売上課税還元",
+        "statusOrLevel": "国内全スポーツベッティング売上から0.5%を徴収し、スポーツ庁（Sport e Salute）へ配分",
+        "keyFeature": "コロナ禍で打撃を受けたスポーツ界を救済するため特別課徴金を新設。サッカー以外のマイナースポーツやパラリンピック競技団体の活動費を公的に補填。",
+        "source": {
+          "organization": "イタリアスポーツ庁 (Dipartimento per lo Sport) / Sport e Salute",
+          "title": "Fondo per il rilancio del sistema sportivo nazionale e prelievo sui concorsi pronostici",
+          "url": "https://www.sport.governo.it"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "スヴェンスカ・スペル（Svenska Spel）草の根イニシアチブ（Gräsroten）",
+        "statusOrLevel": "公営賭博収益から毎年数千万クローナを、利用者が指定した地域ユースクラブへ直接寄付",
+        "keyFeature": "賭博利用者が自分の応援する地元の少年サッカーチームやアイスホッケーチームをアプリで投票登録。賭け金の比率に応じて国営賭博会社からクラブ口座へ直接育成資金が自動送金。",
+        "source": {
+          "organization": "スウェーデン賭博庁 (Spelinspektionen) / Svenska Spel",
+          "title": "Gräsroten - Svenska Spels stöd till ungdomsidrotten",
+          "url": "https://www.svenskaspel.se"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "スポーツ振興くじ（toto・MEGABIG等）の収益配分制度およびベッティング解禁論議",
+        "statusOrLevel": "独立行政法人日本スポーツ振興センター（JSC）による収益のスポーツ振興基金配分（年数百億円）",
+        "keyFeature": "くじ収益の3/4を地域スポーツ施設改修やトップアスリート育成助成に充当。民間スポーツベッティングが解禁された場合、年間数千億円の還元財源が見込める一方、ギャンブル依存対策やプロ競技の社会的信頼維持が最大の課題。",
+        "source": {
+          "organization": "スポーツ庁 / 日本スポーツ振興センター (JSC)",
+          "title": "スポーツ振興くじ（toto）助成金の配分状況及びスポーツ財源のあり方",
+          "url": "https://www.jpnsport.go.jp"
+        }
+      }
+    ]
+  }
 }

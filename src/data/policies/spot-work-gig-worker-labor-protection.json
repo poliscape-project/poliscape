@@ -205,5 +205,102 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Laptop"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国におけるスポットワーク（スキマバイト）・オンデマンドギグワーカー労働者性判定・保護法制比較",
+    "comparisonSummary": "「アプリで単発就労」するスポットワーカーの急増に対し、EUはプラットフォーム労働指令で労働者性を推定（Presumption of Employment）、加州はプロポジション22、英国はWorker区分で最低賃金や労災を保障しており、日本の労働基準法適用ルールの指標となっています。",
+    "countries": [
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EUプラットフォーム労働指令（Platform Work Directive 2024）",
+        "statusOrLevel": "アプリによるアルゴリズム管理・統制がある場合、ギグワーカーを「被雇用者（労働者）」と法的に推定",
+        "keyFeature": "偽装自営業（Bogus Self-employment）を撲滅。労働者であることの立証責任を個人ではなくプラットフォーム企業に課し、最低賃金、有給休暇、疾病手当、労災補償を義務付け。",
+        "source": {
+          "organization": "欧州委員会 (European Commission) / 欧州議会",
+          "title": "Platform Work Directive - Improving conditions for platform workers",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "労働者（Worker）ステータスおよび最高裁判所Uber判決（2021年）",
+        "statusOrLevel": "個人事業主（Self-employed）と完全雇用者（Employee）の中間区分「Worker」の確立",
+        "keyFeature": "アプリにログインして配車待機している時間全体を労働時間と認定。国家生活賃金（最低賃金）、法定有給休暇（年5.6週）、自動加入職場年金をプラットフォームに強制。",
+        "source": {
+          "organization": "英国最高裁判所 / 雇用年金省 (DWP)",
+          "title": "Uber BV v Aslam - Worker status judgment and Employment Rights",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ/カリフォルニア州",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "プロポジション22（Proposition 22）および独立契約者特例補償法",
+        "statusOrLevel": "アプリベース運転手・配達員を独立契約者と維持しつつ、最低報酬保証（従事時間最低賃金の120%）を義務化",
+        "keyFeature": "AB 5法（ABCテストによる労働者分類）に対する住民投票法。独立事業者の柔軟性を保ちつつ、週労働時間に応じた医療保険手当（Health Care Subsidy）や労災補償を企業負担で提供。",
+        "source": {
+          "organization": "カリフォルニア州労使関係局 (DIR) / 加州最高裁",
+          "title": "Proposition 22 and App-Based Transportation and Delivery Companies",
+          "url": "https://www.dir.ca.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "公正労働法改正（Closing Loopholes Act 2024）「被雇用者に類似した従業員（Employee-like workers）」",
+        "statusOrLevel": "ギグワーカーに対する公正労働委員会（FWC）の最低報酬・不公正停止救済命令権限の創設",
+        "keyFeature": "従来の二者択一（労働者か自営業か）を脱却し、「被雇用者類似ワーカー」基準を新設。アプリからの不当なアカウント即時凍結（Deactivation）に対する公的審査を保障。",
+        "source": {
+          "organization": "豪公正労働委員会 (Fair Work Commission)",
+          "title": "Closing Loopholes - Regulating employee-like work in the gig economy",
+          "url": "https://www.fwc.gov.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "労働法典第7342条「プラットフォームの社会的責任（RSP）」およびARPE（労働対話局）",
+        "statusOrLevel": "プラットフォーム事業者による労災事故保険料の全額負担義務化・ギグワーカー労使代表選挙",
+        "keyFeature": "独立自営業者の資格を維持しつつ、業務中の事故に対する民間労災保険の付保をアプリ事業者に強制。専門公的機関ARPEが団体交渉を仲介し最低報酬レートを合意。",
+        "source": {
+          "organization": "フランス雇用プラットフォーム労働対話局 (ARPE) / 労働省",
+          "title": "Régulation des plateformes numériques et droits des travailleurs indépendants",
+          "url": "https://www.arpe.gouv.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "雇用保険法・産災保険法改正（プラットフォーム従事者適用）",
+        "statusOrLevel": "配達ライダー・代行運転手等のプラットフォーム従事者に対する雇用保険・労災保険の強制加入",
+        "keyFeature": "労働基準法上の労働者でなくても、アプリを通じて労務を提供する者を「労務提供者」として社会保険に一括編入。保険料はプラットフォーム事業者と労働者が折半納付。",
+        "source": {
+          "organization": "大韓民国雇用労働部 / 勤労福祉公団",
+          "title": "Employment Insurance and Industrial Accident Insurance for Platform Workers",
+          "url": "https://www.moel.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "フリーランス・事業者間取引適正化等法（2024年11月施行）およびスポットワーク労働基準法適用関係",
+        "statusOrLevel": "スキマバイトアプリ（タイミー等）の雇用契約型仲介の普及・労基法・最低賃金・労災保険の即時適用徹底",
+        "keyFeature": "日本の大手スポットワークは海外と異なり「1日単位の直接雇用契約（労働者）」を採用。短時間での労働条件明示、即時賃金支払い、キャンセルペナルティ防止、業務上災害時の労災保険適用を厚労省が厳格指導。",
+        "source": {
+          "organization": "厚生労働省労働基準局 / 公正取引委員会",
+          "title": "フリーランス・事業者間取引適正化等法の施行及びスポットワークに関する留意点",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

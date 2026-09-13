@@ -261,5 +261,102 @@
         "commentStandard": "「通信障害や集中豪雨時のセンサー故障など、自然相手の現場でデジタルに過度依存するリスクは大きい」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国におけるスマート農業機器の安全認証・電波周波数開放・官民R&D支援法制比較",
+    "comparisonSummary": "先端アグリテックの開発と普及を加速するため、欧米各国は農業用ロボットの安全基準（ISO/CEN規格）や農事通信専用バンドの開放を進めており、日本のスマート農業新法に基づく開発・普及一体支援の指標となっています。",
+    "countries": [
+      {
+        "country": "欧州連合 (EU) / CEN",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州標準化委員会（CEN/TC 144）自律走行農業機械安全規格（EN 16867 / ISO 18497）",
+        "statusOrLevel": "無人農業トラクター・収穫ロボットのCEマーキング安全認証・障害物検知センサー義務化",
+        "keyFeature": "機械指令（Machinery Directive）に基づく法的認証。周囲の作業者や家畜を赤外線・LiDARで自動検知して緊急停止するセーフティアーキテクチャを標準化。",
+        "source": {
+          "organization": "欧州標準化委員会 (CEN) / 欧州委員会",
+          "title": "Safety of highly automated agricultural machinery - Harmonised standards",
+          "url": "https://www.cen.eu"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ASABE安全規格（ANSI/ASABE S626）およびスマート農業投資イニシアチブ",
+        "statusOrLevel": "全米農業生物工学会（ASABE）による圃場自律走行システムの産業安全標準策定",
+        "keyFeature": "メーカー自主基準と業界規格の協調。農務省国立食料農業研究所（NIFA）が大学・スタートアップ連合に数千万ドルのグラントを配分しオープンソースの農場OS開発を支援。",
+        "source": {
+          "organization": "米国農務省国立食料農業研究所 (NIFA) / ASABE",
+          "title": "Precision Agriculture Grants and Autonomous Machinery Safety Standards",
+          "url": "https://www.nifa.usda.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "農業工学コンソーシアム（AEF: Agricultural Industry Electronics Foundation）共通ISOBUS",
+        "statusOrLevel": "トラクターと作業機の電子通信規格（ISO 11783 / ISOBUS）のグローバル認証機関運用",
+        "keyFeature": "異なるメーカーの機体同士でも端末画面一つでプラグ＆プレイ制御できる国際規格を主導。農機データの独占を防ぎ相互運用性を法制・業界レベルで担保。",
+        "source": {
+          "organization": "農業産業電子財団 (AEF) / 連邦食糧農業省",
+          "title": "ISOBUS Certification and Digital Agricultural Machinery Interoperability",
+          "url": "https://www.aef-online.org"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "穀物研究開発公社（GRDC）自律型農業機械行動規範（Code of Practice）",
+        "statusOrLevel": "世界初の農場自律走行ロボット安全運用コード（Australian Code of Practice for Autonomy in Agriculture）",
+        "keyFeature": "生産者、農機メーカー（SwarmFarm等）、規制当局が共同策定。公道横断時の遠隔監視ルールや保険適用ガイドラインを明確化し、商用導入を迅速化。",
+        "source": {
+          "organization": "豪穀物研究開発公社 (GRDC)",
+          "title": "Code of Practice for Agricultural Mobile Field Robotics",
+          "url": "https://www.grdc.com.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "フランス2030農業ロボティクス計画（Grand Défi Robotique Agricole）",
+        "statusOrLevel": "国家投資計画「France 2030」における農業ロボット・AI開発への1億ユーロ直接助成",
+        "keyFeature": "除草剤（グリホサート等）使用削減と労働力不足を同時に解決する機械除草ロボットの実証配備を優先。実証ファームでの実機テスト費用を国が全額支援。",
+        "source": {
+          "organization": "フランス国立農業・食料・環境研究所 (INRAE) / フランス2030",
+          "title": "Grand défi robotique agricole et transition agroécologique",
+          "url": "https://www.inrae.fr"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "アグリテック・テストベッド（AgTech Fieldlab）規制サンドボックス",
+        "statusOrLevel": "国家イノベーション政策に基づく未認可ドローン・AIロボットの圃場実証特区",
+        "keyFeature": "新技術の実証にあたり、既存の農薬散布規制や航空規制を時限免除するサンドボックス制度を運用。スタートアップが数週間で現地実験可能なスピードを確保。",
+        "source": {
+          "organization": "オランダ経済気候政策省 / ワーゲニンゲン大学",
+          "title": "Fieldlab Precision Agriculture and Regulatory Sandboxes",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "スマート農業技術活用促進法（開発・普及計画認定制度）および電波利用環境整備",
+        "statusOrLevel": "農機メーカーと農業者の共同開発計画に対する支援・自動走行用準天頂衛星「みちびき」補強信号活用",
+        "keyFeature": "開発供給業者と利用農業者が連携した計画を国が一体認定。スマート農機を導入する農業者に対する固定資産税の特例軽減（最大半分）や公的金融機関の無利子融資枠で普及を後押し。",
+        "source": {
+          "organization": "農林水産省",
+          "title": "スマート農業技術活用促進法に基づく基本方針及び支援措置",
+          "url": "https://www.maff.go.jp"
+        }
+      }
+    ]
   }
 }

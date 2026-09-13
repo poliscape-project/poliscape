@@ -205,5 +205,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Laptop"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における自動運転農機（レベル2〜4）・農業用ドローン社会実装支援制度比較",
+    "comparisonSummary": "完全無人トラクター（圃場内自律・遠隔監視）や大型散布ドローンの現場実装をめぐり、米国や豪州は広大な圃場での完全無人運用を先行させ、日本も農業版自動運転ガイドライン改定と新法特例で遠隔監視型自動走行（レベル3）を解禁しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "自律走行トラクター遠隔監視運用（John Deere Autonomous 8R等）",
+        "statusOrLevel": "運転手なし・スマートフォン遠隔監視のみでの24時間完全自律耕起・植え付けの商用化",
+        "keyFeature": "6対のステレオカメラとAIディープラーニングにより障害物を検知して自動停止。作業進捗や異常はスマホアプリに通知され、オペレーターは自宅から複数台を同時監視。",
+        "source": {
+          "organization": "米国農務省 (USDA) / 全米農業工学会",
+          "title": "Commercial Deployment of Fully Autonomous Tractors in US Agriculture",
+          "url": "https://www.usda.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "スワームファーム・ロボティクス（SwarmFarm）自律走行散布プラットフォーム",
+        "statusOrLevel": "小型軽量ロボットの群管理（Swarm）による数万エーカーの除草・施肥作業実用化",
+        "keyFeature": "大型重機による土壌踏み固め（Soil Compaction）を防ぐため、小型ロボットがチームで自律作業。公認オペレーターが遠隔で監視し除草剤使用量を最大80%削減。",
+        "source": {
+          "organization": "豪穀物研究開発公社 (GRDC) / SwarmFarm",
+          "title": "Field Robotic Operations and Swarm Farming Implementation",
+          "url": "https://www.grdc.com.au"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "無人農場（無人農場実験基地）国家実証プロジェクト",
+        "statusOrLevel": "江蘇省・広東省等における無人播種・無人散布・無人収穫の全工程ロボット完結モデル",
+        "keyFeature": "国家主導で数千ムー（数百ヘクタール）の農場を「5G＋北斗衛星」で完全自動化。無人コンバインと無人運搬トラックが協調して稲刈りから穀物搬出まで自動走行。",
+        "source": {
+          "organization": "中華人民共和国農業農村部 / 華南農業大学",
+          "title": "Unmanned Farm Technology and Automated Harvesting Demonstrations",
+          "url": "https://www.moa.gov.cn"
+        }
+      },
+      {
+        "country": "欧州連合 (EU) / デンマーク",
+        "countryCode": "EU",
+        "flag": "🇩🇰",
+        "systemName": "アグロイントリ・ロボティクス（Agrointelli Robotti）自律フィールドツールキャリア",
+        "statusOrLevel": "ディーゼル油圧駆動の自律型台車ロボットによる標準農業アタッチメント牽引商用化",
+        "keyFeature": "市販の既存播種機や中耕除草機をそのまま取り付けて自律作業できるオープンモジュール設計。EUの有機農業拡大目標（農薬削減）に合致し欧州各国で普及。",
+        "source": {
+          "organization": "欧州委員会 / デンマーク農業食料評議会 (L&F)",
+          "title": "Autonomous Agricultural Field Robots and Agroecological Transition",
+          "url": "https://www.lf.dk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "ロボ・アグ（RobAgri）産業アソシエーションおよび農機安全認可",
+        "statusOrLevel": "70社以上の農業ロボットメーカー・研究機関による自律走行テスト・認証フレームワーク",
+        "keyFeature": "ブドウ園の畝間を自律走行して雑草を刈る小型ロボット（Bakus、Ted等）が普及。農家の労働安全（農薬被爆防止・斜面転落防止）を名目に公的補助金が集中配分。",
+        "source": {
+          "organization": "フランス農業ロボット協会 (RobAgri) / INRAE",
+          "title": "RobAgri - Développement et sécurité des robots agricoles en France",
+          "url": "https://www.robagri.fr"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "アグテック・データ共有協定（JoinData）および自律除草ドローン",
+        "statusOrLevel": "農場データ主権を農家が保持する非営利データハブとドローン害虫検知の連動",
+        "keyFeature": "ドローンが上空からマルチスペクトルカメラで雑草や害虫の発生箇所をミリ単位で特定し、その座標データを自律トラクターへ送信して局所スポット散布を行う超高効率連携。",
+        "source": {
+          "organization": "オランダ農業組織 (LTO Nederland) / JoinData",
+          "title": "JoinData - Data distribution and smart farming applications",
+          "url": "https://www.join-data.net"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "農業機械の自動走行に関する安全性確保ガイドライン（レベル1〜3）および新法支援",
+        "statusOrLevel": "有人監視下での自動走行（レベル2）から「遠隔監視による完全無人走行（レベル3）」の実用化",
+        "keyFeature": "農林水産省がガイドラインを改定し、圃場外からのカメラ遠隔監視による無人トラクター作業を法的に解禁。スマート農業技術活用促進法により導入費用の補助と税制優遇を一体提供。",
+        "source": {
+          "organization": "農林水産省",
+          "title": "農業機械の自動走行に関する安全性確保ガイドライン及びスマート農機の導入支援",
+          "url": "https://www.maff.go.jp"
+        }
+      }
+    ]
+  }
 }

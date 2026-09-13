@@ -225,5 +225,102 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Wrench"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における高速鉄道（TGV・ICE・高鉄）を活用した高速貨物輸送（Rail Freight Express）・貨客混載比較",
+    "comparisonSummary": "トラックドライバー不足とCO2削減を両立させるモーダルシフトとして、フランス（かつてのTGVラ・ポスト等）や中国、ドイツは高速鉄道網での高速小口輸送や貨客混載を商用運用しており、日本の新幹線物流の先行事例となっています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "TGV郵便専用高速列車（TGV La Poste / 運用史）およびSNCF Railbow貨客混載",
+        "statusOrLevel": "時速270kmでパリ・リヨン間等を運行した世界初の高速貨物列車実績と旅客TGV貨物スペース活用",
+        "keyFeature": "かつてフランス郵便（La Poste）専用の黄色いTGVが夜間に郵便・急送小包を高速輸送。現在は旅客列車の余剰スペースを活用した即日特急小口輸送をSNCFが展開。",
+        "source": {
+          "organization": "フランス国有鉄道 (SNCF) / 生態移行省",
+          "title": "Fret ferroviaire à grande vitesse et transport combiné de messagerie",
+          "url": "https://www.sncf.com"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "高速鉄道（CRH）専用貨物電車「時速350km動車組」および高鉄快運（China Railway Express）",
+        "statusOrLevel": "北京・上海・広州等で旅客新幹線床下や専用貨物新幹線を活用した翌朝配達高速EC物流",
+        "keyFeature": "中車唐山が世界最速の時速350km貨物新幹線を開発。標準コンテナや大型積載ドアを完備し、電子商取引（JD.com、SFエクスプレス）の超高速配送ネットワークを国営構築。",
+        "source": {
+          "organization": "中国国家鉄路集団 (China State Railway Group) / 交通運輸部",
+          "title": "High-speed Railway Freight Transport Operations and Logistics System",
+          "url": "https://www.china-railway.com.cn"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ドイツ鉄道（DB Cargo）高速貨物列車（InterCargoExpress）および手荷物物流",
+        "statusOrLevel": "ICE高速新線（SFS）を活用した夜間最高時速160〜200kmコンテナ急行貨物運行",
+        "keyFeature": "夜間の旅客閑散時間帯に高速新線を貨物列車に開放。空港と産業拠点を結び、航空貨物の代替（モーダルシフト）として機能。",
+        "source": {
+          "organization": "ドイツ鉄道 (Deutsche Bahn) / 連邦交通省",
+          "title": "Schienengüterverkehr auf Schnellfahrstrecken und Masterplan Schienengüterverkehr",
+          "url": "https://www.bmvd.bund.de"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "メルキタリア・ファスト（Mercitalia Fast / トレニタリア）世界初の高速貨物運行",
+        "statusOrLevel": "カゼルタ（ナポリ近郊）〜ボローニャ間を高速列車ETR500（時速250km・所要3.5時間）で運行",
+        "keyFeature": "旅客新幹線車両を丸ごとロールパレット貨物専用に改造。アウトストラーダ（高速道路）の大型トラック輸送を高速鉄道へ転換し、CO2排出を80%削減。",
+        "source": {
+          "organization": "イタリア国鉄グループ (FS Italiane / Mercitalia)",
+          "title": "Mercitalia Fast - High-speed rail freight service in Italy",
+          "url": "https://www.fsitaliane.it"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "オリオン・ハイスピード・レイル（Orion High Speed Logistics / クラス769・319改造）",
+        "statusOrLevel": "旅客電車を急行小口貨物車に改造・ロンドン都心ターミナル駅へのラストワンマイル高速直通",
+        "keyFeature": "旅客ターミナル（ユーストン等）の空きホームへ夜間乗り入れ、小口荷物を電動カーゴバイクに積み替えてロンドン市内へ即日配送する都市型超低炭素物流。",
+        "source": {
+          "organization": "英国運輸省 (DfT) / Network Rail",
+          "title": "High-speed light logistics on the rail network and freight decarbonisation",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "高速鉄道（AVE）網を活用した郵便・急送貨物輸送プロジェクト",
+        "statusOrLevel": "コレオス（Correos: スペイン郵便公社）とレンフェ（Renfe）共同の高速小包輸送実証",
+        "keyFeature": "マドリード〜バルセロナ間の過密旅客新幹線において、車内空き荷物スペースを活用したB2B医療品・電子部品の即日エクスプレス便を商用化。",
+        "source": {
+          "organization": "スペイン運輸・持続可能モビリティ省 / Renfe",
+          "title": "Estrategia de Movilidad Sostenible - Fret de paquetería en alta velocidad",
+          "url": "https://www.mitma.gob.es"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "JR東日本「はこビュン」およびJR各社による新幹線貨客混載・専用貨物新幹線構想",
+        "statusOrLevel": "東北・上越・北陸・東海道・山陽新幹線の客室・業務用室を活用した産直生鮮品・医療品即日輸送",
+        "keyFeature": "「物流の2024年問題（トラック運転手残業規制）」の救世主として急速拡大。旅客座席への荷物積載や、将来的な座席撤去型「貨物専用新幹線車両」の導入実証を国交省が支援。",
+        "source": {
+          "organization": "国土交通省鉄道局 / 自動車局",
+          "title": "鉄道を活用した貨客混載の推進及び新幹線物流の実用化に向けた取組",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

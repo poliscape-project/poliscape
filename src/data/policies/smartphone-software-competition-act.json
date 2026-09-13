@@ -127,5 +127,102 @@
       "type": "white_paper",
       "typeLabel": "政府デジタル市場資料"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における巨大IT企業（Apple・Google）のアプリストア・サイドローディング・ブラウザ規制比較",
+    "comparisonSummary": "巨大プラットフォーマーの寡占打破と手数料引き下げのため、EUのデジタル市場法（DMA）はアプリのサイドローディングや外部決済を完全義務付け、日本も2024年に「スマホソフトウェア競争促進法」を制定しました。",
+    "countries": [
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "デジタル市場法（DMA: Digital Markets Act / ゲートキーパー規制）",
+        "statusOrLevel": "Apple・Google等をゲートキーパー指定・代替アプリストア、サイドローディング、サードパーティ決済完全義務化",
+        "keyFeature": "違反企業には全世界売上の最大10%（再犯時最大20%）の巨額制裁金。iPhone上でサードパーティ製アプリストア（Epic Games Store等）の開設やウェブ直ダウンロードを強制解禁。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Digital Markets Act (DMA) - Ensuring fair and open digital markets",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "司法省（DOJ）対Apple独占禁止法訴訟およびオープン・アプリ市場法案（OAMA）",
+        "statusOrLevel": "米司法省と十数州によるApple提訴（反トラスト法違反）・超党派アプリストア規制法案審議",
+        "keyFeature": "司法省が「iPhoneエコシステムの壁に囲まれた庭（Walled Garden）」を不当な独占と認定。Epic Games訴訟の連邦高裁判決により、外部決済リンクの掲載制限が違法と確定。",
+        "source": {
+          "organization": "米国司法省反トラスト局 (DOJ Antitrust)",
+          "title": "Justice Department Sues Apple for Monopolizing Smartphone Markets",
+          "url": "https://www.justice.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "デジタル市場・競争・消費者法（DMCC法: Digital Markets, Competition and Consumers Act 2024）",
+        "statusOrLevel": "戦略的市場地位（SMS）指定企業に対する競争・市場庁（CMA）の個別是正行動基準（Conduct Requirements）",
+        "keyFeature": "CMAのデジタル市場部門（DMU）がモバイルブラウザエンジン（WebKit独占）やクラウドゲーミング制限を調査。独自命令でオープンアクセスと手数料適正化を執行。",
+        "source": {
+          "organization": "英国競争・市場庁 (CMA)",
+          "title": "Digital Markets, Competition and Consumers Act 2024 Implementation",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "電気通信事業法改正（いわゆる「Google甲質防止法 / インアプリ決済強制防止法」2021年施行）",
+        "statusOrLevel": "世界初となるアプリ内決済（IAP）強制の法律上の完全禁止・外部決済導入義務付け",
+        "keyFeature": "プラットフォーマーが自社の30%決済システムを強制することを違法化。放送通信委員会（KCC）がGoogleやAppleに対し是正命令と巨額課徴金を課す先行事例。",
+        "source": {
+          "organization": "大韓民国放送通信委員会 (KCC)",
+          "title": "Telecommunications Business Act Amendments on In-App Payment Mandates",
+          "url": "https://www.kcc.go.kr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "デジタルプラットフォームサービス調査（DPBSI）第5次中間報告書",
+        "statusOrLevel": "豪競争・消費者委員会（ACCC）によるアプリマーケットプレイス事前規制勧告",
+        "keyFeature": "Apple・Googleの自己優遇（Self-preferencing）やデフォルト設定囲い込みを禁止し、サードパーティ製決済や代替ストアの排除を制限する法的枠組みの導入を政府に勧告。",
+        "source": {
+          "organization": "豪競争・消費者委員会 (ACCC)",
+          "title": "Digital Platform Services Inquiry - Regulatory reform proposals",
+          "url": "https://www.accc.gov.au"
+        }
+      },
+      {
+        "country": "インド",
+        "countryCode": "IN",
+        "flag": "🇮🇳",
+        "systemName": "インド競争委員会（CCI）Google Android反トラスト命令",
+        "statusOrLevel": "Googleに対する自社アプリ事前インストール強制禁止・サードパーティストア許可命令",
+        "keyFeature": "最高裁判所がCCIの独占是正命令を支持。ユーザーによるデフォルト検索エンジンの自由選択画面表示や外部決済（User Choice Billing）の完全受入れを義務化。",
+        "source": {
+          "organization": "インド競争委員会 (CCI)",
+          "title": "CCI Directs Google to Cease and Desist Anti-Competitive Practices in Android Ecosystem",
+          "url": "https://www.cci.gov.in"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "スマートフォンにおいて利用される特定ソフトウェアに係る競争の促進に関する法律（スマホ新法・2024年成立）",
+        "statusOrLevel": "公正取引委員会による大規模OS・アプリストア・ブラウザ事業者の指定・違反時に国内売上最大20%の課徴金",
+        "keyFeature": "アプリ内決済の強制禁止、他のアプリストアの提供妨害禁止、ブラウザエンジンの制限禁止を法定義務化。セキュリティ・プライバシーの正当理由がある場合のみ例外を認める厳格規制。",
+        "source": {
+          "organization": "公正取引委員会",
+          "title": "スマートフォンにおいて利用される特定ソフトウェアに係る競争の促進に関する法律の公布",
+          "url": "https://www.jftc.go.jp"
+        }
+      }
+    ]
+  }
 }

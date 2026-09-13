@@ -179,5 +179,102 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Heart"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国におけるインクルーシブ教育・通常学級での特別支援教育支援員（パラエデュケーター）配置比較",
+    "comparisonSummary": "国連障害者権利条約（CRPD）に基づく完全なインクルーシブ教育の実現に向け、イタリアは特別支援学校を全廃して通常学級に支援教員を配置、米国・英国は個別教育計画（IEP/EHCP）でマンツーマン介助員を配置しており、日本の支援員拡充の指標となっています。",
+    "countries": [
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "完全インクルージョン法（Loi 517/1977および政令66/2017）",
+        "statusOrLevel": "半世紀前に特別支援学校を全廃・障害児の99%以上が地域の通常学級に100%在籍",
+        "keyFeature": "通常学級担任に加え、障害児数名につき1名の「支援専門教員（Insegnante di sostegno）」を配置。児童を別室に隔離せず、同一の教室で共に学ぶ世界最先端のインクルーシブモデル。",
+        "source": {
+          "organization": "イタリア教育・功績省 (MIM)",
+          "title": "Inclusione scolastica e ruolo dei docenti di sostegno",
+          "url": "https://www.mim.gov.it"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "障害者教育法（IDEA）個別教育計画（IEP）およびパラエデュケーター（Paraprofessional）",
+        "statusOrLevel": "「最も制限の少ない環境（LRE: Least Restrictive Environment）」原則・通常学級での1対1介助員公費配置",
+        "keyFeature": "法定義務のIEPにより、重度障害や自閉症児であっても通常学級へ通学する権利を連邦法で保障。授業中の学習・身体介助を行うパラプロ（支援員）を学区予算で常時配置。",
+        "source": {
+          "organization": "米国教育省特別教育プログラム局 (OSEP)",
+          "title": "Individuals with Disabilities Education Act (IDEA) - LRE and Paraprofessionals",
+          "url": "https://www.ed.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "教育保健ケアプラン（EHCP）およびティーチング・アシスタント（TA: Teaching Assistants）",
+        "statusOrLevel": "イングランド全土の普通学校における約30万人の支援員（TA）配置・自治体とNHS共同支援",
+        "keyFeature": "地方自治体が法的拘束力のあるEHCPを発行。通常学級でのマンツーマン支援（1:1 TA）の予算を学校へ直接交付し、学習困難児の普通校包摂を実現。",
+        "source": {
+          "organization": "英国教育省 (DfE)",
+          "title": "Special educational needs and disability (SEND) code of practice: 0 to 25 years",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "学校随伴支援員（Schulbegleitung / Integrationshelfer）制度",
+        "statusOrLevel": "社会法典第8巻（SGB VIII）および第9巻（SGB IX）に基づく自治体社会福祉局・青少年局全額給付",
+        "keyFeature": "教育委員会の予算ではなく、社会福祉局が障害児1人ひとりに専属の支援員を契約雇用して通常校へ派遣。学校管理と福祉支援が車の両輪として機能。",
+        "source": {
+          "organization": "ドイツ常設各州文部大臣会議 (KMK) / 連邦労働社会省",
+          "title": "Inklusive Bildung von Kindern und Jugendlichen mit Behinderungen in Schulen",
+          "url": "https://www.kmk.org"
+        }
+      },
+      {
+        "country": "カナダ/ニューブランズウィック州",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "インクルーシブ教育政策第322号（Policy 322 - Inclusive Education）",
+        "statusOrLevel": "州内の特別支援学級・特別学校を全廃・全児童を通常教室で教育する国際的模範法制",
+        "keyFeature": "特別支援専門教員（Resource Teacher）と教育アシスタント（Educational Assistant）を通常校に集中配置。教室内でユニバーサルデザイン学習（UDL）を徹底。",
+        "source": {
+          "organization": "ニューブランズウィック州教育省",
+          "title": "Policy 322 on Inclusive Education - Ministry of Education New Brunswick",
+          "url": "https://www.gnb.ca"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "学校法（Skollagen）における特別支援措置（Särskilt stöd）および児童生徒健康チーム",
+        "statusOrLevel": "原則として地域の通常学級に在籍・心理士、看護師、特別支援教育士による包括支援",
+        "keyFeature": "障害の有無で線引きせず、学習に困難を抱える全生徒に対し学校長が「行動計画（Åtgärdsprogram）」を策定しリソースパーソン（介助助手）を機動的に配置。",
+        "source": {
+          "organization": "スウェーデン国家教育庁 (Skolverket)",
+          "title": "Särskilt stöd och extra anpassningar i grundskolan",
+          "url": "https://www.skolverket.se"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "特別支援教育就学奨励費・特別支援教育支援員地方財政措置（文部科学省）",
+        "statusOrLevel": "小中学校通常学級における発達障害等の児童生徒支援員約7万人配備・地方交付税算定増額",
+        "keyFeature": "国連障害者権利委員会からの「分離教育の是正勧告」を受け、通常学級でのインクルーシブ教育推進を加速。通級による指導の拡充や特別支援教育支援員の配置目標を毎年度引き上げ。",
+        "source": {
+          "organization": "文部科学省初等中等教育局",
+          "title": "特別支援教育の推進及び特別支援教育支援員の配置状況について",
+          "url": "https://www.mext.go.jp"
+        }
+      }
+    ]
+  }
 }

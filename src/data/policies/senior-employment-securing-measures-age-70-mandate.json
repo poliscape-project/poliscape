@@ -179,5 +179,102 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国におけるシニア雇用確保措置（定年延長・継続雇用・フリーランス創業支援）制度比較",
+    "comparisonSummary": "超高齢化に伴うシニアの多様な就労ニーズに対応するため、各国は直雇用だけでなく自営・業務委託やボランティア支援を含む包括的枠組みを法認可しており、日本の就業確保措置の先例となっています。",
+    "countries": [
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "シニア雇用促進三者協定（Tripartite Workgroup on Older Workers）",
+        "statusOrLevel": "同一企業での再雇用（Re-employment）義務付けおよび職務再設計補助金",
+        "keyFeature": "雇用主が自社で再雇用できない場合、グループ企業や外部企業への再雇用斡旋、または退職支援金（EAP）の支払いを義務付ける厳格な履行スキーム。",
+        "source": {
+          "organization": "シンガポール人材開発省 (MOM)",
+          "title": "Tripartite Guidelines on the Re-employment of Older Employees",
+          "url": "https://www.mom.gov.sg"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "シニア地域サービス雇用プログラム（SCSEP: Title V OAA）",
+        "statusOrLevel": "55歳以上の低所得シニアに対する地域社会・NPOでの有給就労訓練直接提供",
+        "keyFeature": "一般企業での直接雇用が困難な高齢者に対し、連邦労働省が公費で最低賃金以上の給与を支払いながら学校・図書館等での就労機会を保障。",
+        "source": {
+          "organization": "米国労働省雇用訓練局 (ETA)",
+          "title": "Senior Community Service Employment Program (SCSEP)",
+          "url": "https://www.dol.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "フレキシ年金法（Flexirentengesetz）および生涯労働時間勘定（Wertguthaben）",
+        "statusOrLevel": "定年到達後の年金満額受給＋無制限就労の完全合法化・年金保険料上乗せ積立",
+        "keyFeature": "就業しながら年金を受給しても年金が減額されないどころか、働いて納めた追加年金保険料によって翌年の受給年金額が毎年増額される好循環インセンティブ。",
+        "source": {
+          "organization": "ドイツ連邦年金保険 (Deutsche Rentenversicherung)",
+          "title": "Das Flexirentengesetz - Übergang vom Erwerbsleben in den Ruhestand",
+          "url": "https://www.deutsche-rentenversicherung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "段階的退職制度（Retraite progressive）およびシニア・スキル共有（Mécénat de compétences）",
+        "statusOrLevel": "60歳以降のパートタイム勤務と年金一部受給の併用権・大企業シニアのNPO出向支援",
+        "keyFeature": "定年前に労働時間を40〜80%に減らし、減った収入分を年金から補填する「段階的引退」を法制化。引退前の知見を社会貢献活動に活かす仕組みを後押し。",
+        "source": {
+          "organization": "フランス健康保険・年金公庫 (Cnav) / 労働省",
+          "title": "La retraite progressive : aménagement de fin de carrière",
+          "url": "https://www.service-public.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "移行期退職制度（Transition to Retirement: TTR）",
+        "statusOrLevel": "55〜60歳以降、フルタイム勤務を減らしつつ確定拠出年金（Super）から非課税年金受給",
+        "keyFeature": "退職せず働き続けながら、スーパーアニュエーション勘定から一定額を引き出して生活費を補填。シニア労働者が無理のないペースで就業を継続可能。",
+        "source": {
+          "organization": "オーストラリア税務局 (ATO)",
+          "title": "Transition to retirement (TTR) income stream rules",
+          "url": "https://www.ato.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "高齢者雇用法および老人働き口・社会活動支援事業",
+        "statusOrLevel": "年間100万件規模の公的シニア雇用創出・60歳定年義務化に続く継続雇用義務化議論",
+        "keyFeature": "財政投入による公益型・民間就労型シニア雇用の大量創出に加え、大企業・中堅企業に対し定年後継続雇用（再雇用・定年延長）の法定義務化を検討。",
+        "source": {
+          "organization": "大韓民国保健福祉部 / 雇用労働部",
+          "title": "Elderly Employment and Social Activity Support Project",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "高年齢者就業確保措置（定年延長、定年廃止、継続雇用、業務委託・社会貢献活動）",
+        "statusOrLevel": "70歳までの就業確保措置導入企業率が約3割到達・努力義務から完全義務化への格上げ検討",
+        "keyFeature": "企業に対し5つの措置（①70歳定年引上げ、②定年廃止、③70歳再雇用、④フリーランス契約、⑤社会貢献事業従事）のいずれかを講じるよう促し、シニアの活躍を推進。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "高年齢者就業確保措置の実施状況及び高年齢者雇用安定法の検討",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

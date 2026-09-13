@@ -217,5 +217,102 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における短時間労働者の社会保険適用基準（企業規模要件の有無）比較",
+    "comparisonSummary": "「年収の壁」と不公平感を解消するため、欧米主要国は企業規模要件（従業員数）を一切設けず、1人の企業でも短時間労働者に社会保険を完全適用しており、日本の50人要件撤廃・全事業所適用議論の直接の比較対象です。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "法定社会保険（Sozialversicherung）普遍的適用（企業規模制限なし）",
+        "statusOrLevel": "従業員1人の零細企業であっても月収538ユーロ超の全パートタイム労働者に社会保険適用",
+        "keyFeature": "企業の規模によって労働者の年金・医療保険受給権を差別することは憲法上許容されない。小規模事業主であっても労使折半で社会保険料を納付する法定義務。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS)",
+          "title": "Sozialversicherungspflicht für alle Beschäftigten unabhängig von der Betriebsgröße",
+          "url": "https://www.bmas.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "一般社会保障制度（Régime général）企業規模不問適用原則",
+        "statusOrLevel": "従業員数による適用除外はゼロ・就労初日からすべての企業で社会保険加入義務",
+        "keyFeature": "零細カフェや個人商店であっても、雇用主はURSSAFに社会保険料を納付。企業規模による社保逃れ（50人未満に抑えるインセンティブ）を構造的に排除。",
+        "source": {
+          "organization": "フランス社会保障・URSSAF",
+          "title": "Obligations patronales et affiliation des salariés à la sécurité sociale",
+          "url": "https://www.urssaf.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国民保険（National Insurance）および職場年金自動加入（Auto-Enrolment）",
+        "statusOrLevel": "企業規模制限なし（従業員1人から義務）・週収123ポンド超でNI適用、年収1万ポンドで年金強制加入",
+        "keyFeature": "自動加入法制において大企業から段階的に開始されたが、最終的に1人のマイクロ企業に至るまで全企業へ完全適用完了。零細企業のコスト負担には少額雇用控除（Employment Allowance）で支援。",
+        "source": {
+          "organization": "英国年金規制庁 (The Pensions Regulator) / DWP",
+          "title": "Automatic enrolment duties for all employers regardless of size",
+          "url": "https://www.thepensionsregulator.gov.uk"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "被用者保険（Werknemersverzekeringen）均等適用",
+        "statusOrLevel": "企業規模による差別なし・全事業所のパートタイマーに失業保険・障害保険を同一適用",
+        "keyFeature": "世界一のパートタイム先進国として、零細企業で働く短時間労働者であっても同一の社会保障を受ける権利を法律で厳格に保護。",
+        "source": {
+          "organization": "オランダ被用者保険機構 (UWV) / 社会雇用省",
+          "title": "Social security insurance for part-time workers and small employers",
+          "url": "https://www.uwv.nl"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "社会保障税（FICA）および企業規模要件（ACA医療保険義務との対比）",
+        "statusOrLevel": "公的年金・メディケア（FICA）は企業規模・労働時間ゼロ制限で全労働者に強制適用",
+        "keyFeature": "年金（Social Security）は個人商店のアルバイトであっても全額天引き課税。民間医療保険提供義務（ACA法）にのみ50人要件が存在する二重構造。",
+        "source": {
+          "organization": "米国社会保障局 (SSA) / 内国歳入庁 (IRS)",
+          "title": "Social Security and Medicare Tax (FICA) Employer Responsibilities",
+          "url": "https://www.irs.gov"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "国民年金・国民健康保険の全事業所適用（1人以上事業場義務化）",
+        "statusOrLevel": "2000年代に企業規模要件（5人未満等）を完全撤廃・月60時間以上の全労働者に社保適用",
+        "keyFeature": "零細自営業者の負担に配慮し「トゥリヌリ社会保険支援事業」を通じて、10人未満の小規模事業所の低所得労働者・事業主の保険料を最大80%国庫支援して完全適用を達成。",
+        "source": {
+          "organization": "大韓民国国民年金公団 (NPS) / 保健福祉部",
+          "title": "National Pension Workplace Coverage Expansion and Duru-Nuri Subsidies",
+          "url": "https://www.nps.or.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "被用者保険の適用拡大（企業規模要件50人超の撤廃と全事業所適用法改正論議）",
+        "statusOrLevel": "2024年10月に「51人以上」へ拡大完了・残る「50人以下の中小・零細企業」への完全撤廃審議",
+        "keyFeature": "働く企業の規模によって社会保険に入れるか否かが分かれる不公平を是正し、短時間労働者の将来の厚生年金を確保するため、社会保障審議会が企業規模要件の完全廃止を検討中。中小企業への激変緩和措置が焦点。",
+        "source": {
+          "organization": "厚生労働省年金局",
+          "title": "社会保障審議会年金部会における被用者保険の適用拡大に関する検討論点",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

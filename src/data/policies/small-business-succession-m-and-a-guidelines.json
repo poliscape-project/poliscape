@@ -217,5 +217,102 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Lock"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国におけるスモールビジネス事業承継M&A・悪質買収者対策・経営者個人保証解除比較",
+    "comparisonSummary": "後継者不在による黒字廃業を防ぎつつ、買い手による資産抜きや経営者保証トラブルを防止するため、米国SBAの個人保証免除融資や欧州の事業承継仲介公的認証制度が機能しており、中小企業庁のM&Aガイドライン改定の指針となっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "中小企業庁（SBA 7(a)融資）事業承継ファイナンスおよび個人保証（Personal Guarantee）免除基準",
+        "statusOrLevel": "従業員持株制度（ESOP）や適格M&A承継時における前経営者の個人連帯保証の完全免除・公的保証",
+        "keyFeature": "SBAが融資の最大85%を連邦政府保証。事業譲渡が成立した時点で旧経営者の個人資産担保や個人保証を法的に完全解除し、円滑なリタイアを保障。",
+        "source": {
+          "organization": "米国中小企業庁 (SBA)",
+          "title": "SBA 7(a) Loans for Business Acquisition and Change of Ownership",
+          "url": "https://www.sba.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦経済気候保護省（BMWK）事業承継イニシアチブ（nexxt-change）およびKfW承継融資",
+        "statusOrLevel": "公認商工会議所（IHK）が仲介者を事前審査・悪質ブローカーを排除した公的承継マッチング",
+        "keyFeature": "復興金融公庫（KfW）が後継者に対し低利・無担保の「KfW-Unternehmerkredit」を供与。悪質な略奪的M&Aを防ぐため、公的金融機関が財務デューデリジェンスを厳格支援。",
+        "source": {
+          "organization": "ドイツ連邦経済気候保護省 (BMWK) / KfW",
+          "title": "nexxt-change Unternehmensnachfolge und KfW-Finanzierungshilfen",
+          "url": "https://www.bmwk.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "企業所有権信託（EOT: Employee Ownership Trusts）および英国ビジネス銀行（BBB）保証",
+        "statusOrLevel": "創業者に対する事業売却益のキャピタルゲイン税100%全額免除（EOT活用時）",
+        "keyFeature": "怪しい外部買収者に売る代わりに、従業員信託（EOT）に過半数株式を売却した場合、創業者の売却益所得税を完全非課税化。従業員への安全な事業承継を税制で優遇。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC) / 英国ビジネス銀行",
+          "title": "Employee Ownership Trusts (EOT) tax relief and business succession",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "デュトルイユ法（Pacte Dutreil）事業承継贈与税75%減免およびBpifrance融資",
+        "statusOrLevel": "事業用資産の承継時に資産価値の75%を相続・贈与税課税価格から控除・個人保証解除促進",
+        "keyFeature": "国営投資銀行Bpifranceが事業譲渡保証（Garantie Transmission）を提供し、民間銀行からの借入に伴う前経営者の保証を解除。悪質買収に対する事前通報制度を整備。",
+        "source": {
+          "organization": "フランス経済・財務省 / Bpifrance",
+          "title": "Le Pacte Dutreil et la transmission d'entreprise artisanale et PME",
+          "url": "https://www.economie.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "中小企業キャピタルゲイン税（CGT）事業譲渡特例（Small Business CGT Concessions）",
+        "statusOrLevel": "55歳以上の引退に伴う企業売却益に対する最大50〜100%の非課税リタイアメント控除",
+        "keyFeature": "豪中小企業家族エンタープライズ・オンブズマン（ASBFEO）がM&A契約トラブルを無料調停。不当な残存保証追及や買収後の約束違反（アセットストリッピング）を取り締まり。",
+        "source": {
+          "organization": "豪中小企業・家族企業オンブズマン (ASBFEO) / ATO",
+          "title": "Small business CGT concessions and succession dispute resolution",
+          "url": "https://www.asbfeo.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "家業継承控除制度（最高600億ウォン控除）および中小ベンチャー企業部承継支援",
+        "statusOrLevel": "10年以上継続した中小企業の承継時に相続税課税価格を大幅控除・公的信用保証基金による連帯保証全廃",
+        "keyFeature": "政策金融機関（信用保証基金・技術保証基金）が融資を受ける際の中小企業代表者の連帯保証制度を全面撤廃。経営破綻時の個人破産連鎖を遮断。",
+        "source": {
+          "organization": "大韓民国中小ベンチャー企業部 / 信用保証基金",
+          "title": "Family Business Succession Support System and Joint Guarantee Abolition",
+          "url": "https://www.mss.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "中小M&Aガイドライン改定（中小企業庁）および「経営者保証改革プログラム」",
+        "statusOrLevel": "不適切M&A仲介業者の公的登録取消・買収後の個人保証解除プロトコル・登録専門家データベース",
+        "keyFeature": "廃業危機の中小企業を買い叩いて資産を抜き取り倒産させる悪質買収者（ル・マン事件等）が社会問題化。仲介手数料の透明化、前経営者の個人保証解除の買い手側確約、不適切事業者の排除ルールを改定。",
+        "source": {
+          "organization": "中小企業庁事業環境部",
+          "title": "中小M&Aガイドラインの改定及び経営者保証改革プログラムの推進",
+          "url": "https://www.chusho.meti.go.jp"
+        }
+      }
+    ]
+  }
 }

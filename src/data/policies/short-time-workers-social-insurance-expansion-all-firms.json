@@ -179,5 +179,102 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Wallet"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における小規模事業者・個人事業所への社会保険加入強制と公的保険料助成比較",
+    "comparisonSummary": "零細事業者への社会保険適用拡大に伴う経営破綻を防ぐため、韓国は保険料の最大80%国費補助、欧州は少額雇用控除や税額相殺を導入しており、日本の50人以下企業への社保適用全面拡大の支援策の規範となっています。",
+    "countries": [
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "トゥリヌリ（Duru-nuri）社会保険料支援事業",
+        "statusOrLevel": "10人未満の小規模事業所で働く月給270万ウォン未満の労働者・事業主に対し保険料の80%を国庫補助",
+        "keyFeature": "零細企業への社会保険強制適用に伴う反発を抑えるため、雇用保険・国民年金の保険料の8割を国が直接肩代わり。未加入事業所の一掃とセーフティネット編入を成功させた世界的手本。",
+        "source": {
+          "organization": "大韓民国勤労福祉公団 (COMWEL)",
+          "title": "Duru-nuri Social Insurance Support Program for Small Businesses",
+          "url": "https://www.kcomwel.or.kr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "雇用主雇用控除（Employment Allowance: 年間5,000ポンド控除）",
+        "statusOrLevel": "小規模事業主に対する国民保険料（NICsクラス1）の年間最大5,000ポンド直接免除",
+        "keyFeature": "パートタイム労働者を社会保険に加入させた小規模雇用主の負担を軽減するため、事業主負担分の社会保険料請求書から年5,000ポンドを丸ごと差し引く税務控除システム。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC)",
+          "title": "Employment Allowance: check if you can claim and reduce employer NICs",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ミディジョブ（Midijob: 移行ゾーン538.01〜2,000ユーロ）制度",
+        "statusOrLevel": "短時間からフルタイムへ移行する労働者の社会保険料負担を低減・事業主負担は通常維持",
+        "keyFeature": "月収2,000ユーロ以下の短時間労働者に対し、労働者側の保険料率を段階的に軽減し手取り逆転を防止。零細企業でも事業主負担は予測可能で計画的な雇用が可能。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS)",
+          "title": "Der Übergangsbereich (Midijob) im Sozialversicherungsrecht",
+          "url": "https://www.bmas.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "低賃金雇用主社会保険料減免（Réduction générale des cotisations patronales / フィヨン減免）",
+        "statusOrLevel": "最低賃金（SMIC）の1.6倍未満の労働者を雇用する事業主負担社会保険料の大幅軽減",
+        "keyFeature": "零細企業の雇用維持のため、最低賃金近傍のパートタイム・フルタイム労働者にかかる事業主社会保険料をほぼゼロ近くまで自動減免する強力な恒久税制支援。",
+        "source": {
+          "organization": "フランス社会保障・URSSAF",
+          "title": "Réduction générale des cotisations patronales (ex-allègement Fillon)",
+          "url": "https://www.urssaf.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "スーパーアニュエーション保証（Superannuation Guarantee: 11.5%）月450ドル基準撤廃",
+        "statusOrLevel": "以前存在した「月収450豪ドル未満は免除」規定を完全撤廃・1ドル目からの企業年金拠出義務化",
+        "keyFeature": "低賃金パートタイマーの退職後年金を確保するため、小規模事業者を含む全雇用主に対し、どれほど少額のアルバイト給与であっても全額に11.5%の年金拠出を義務化。",
+        "source": {
+          "organization": "オーストラリア税務局 (ATO)",
+          "title": "Removal of the $450 per month threshold for super guarantee eligibility",
+          "url": "https://www.ato.gov.au"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "単一使用者負担金（Arbetsgivaravgift: 31.42%）および若年・シニア減免特例",
+        "statusOrLevel": "全企業規模一律の社会保険税納付義務・零細企業の若年・高齢者雇用に対する時限減税",
+        "keyFeature": "企業規模による適用除外は一切設けないが、経済危機時や雇用拡大期に小規模企業向けの社会保険税率一時引き下げを実施して経営体力をサポート。",
+        "source": {
+          "organization": "スウェーデン税務庁 (Skatteverket)",
+          "title": "Arbetsgivaravgifter och nedsättning för särskilda åldersgrupper",
+          "url": "https://www.skatteverket.se"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "キャリアアップ助成金（社会保険適用時処遇改善コース）および企業規模要件完全撤廃議論",
+        "statusOrLevel": "手取り減少を補填する手当支給企業に労働者1人あたり最大50万円助成・中小全事業所適用への道筋",
+        "keyFeature": "「年収の壁・支援強化パッケージ」により、保険料自己負担で手取りが減らないよう手当を出した中小企業を国費助成。全事業所適用に伴う中小零細企業の経営打撃を和らげる支援策をパッケージで検討。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "年収の壁・支援強化パッケージ及びキャリアアップ助成金の活用促進",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

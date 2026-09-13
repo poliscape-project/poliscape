@@ -211,5 +211,102 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における定年制完全撤廃・70〜75歳就労継続保障法制比較",
+    "comparisonSummary": "平均寿命の延伸に伴い、米国や英国は定年制を年齢差別として違法・全廃しており、シンガポールや北欧も70歳以上の就労支援を法制化しており、日本の70歳義務化・75歳就業議論の先例となっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "雇用における年齢差別禁止法（ADEA）定年制完全違法化",
+        "statusOrLevel": "定年退職の強制を全廃（75歳以上でも能力がある限り同一条件で勤務継続可能）",
+        "keyFeature": "求人や昇進、解雇において年齢を基準とすることを連邦法で厳格禁止。70代・80代の就労が普通に認められるエイジレス社会を構築。",
+        "source": {
+          "organization": "連邦雇用機会均等委員会 (EEOC)",
+          "title": "The Age Discrimination in Employment Act of 1967 (ADEA)",
+          "url": "https://www.eeoc.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "平等法（Equality Act 2010）デフォルト定年年齢（DRA）撤廃",
+        "statusOrLevel": "強制的な定年退職制度の全面廃止・シニアの柔軟な労働時間（Flexible Working）請求権",
+        "keyFeature": "雇用主が一方的に定年で労働契約を終了することは不当解雇。フルタイムからパートタイムへの段階的移行など柔軟な高齢期就業を保障。",
+        "source": {
+          "organization": "英国助言調停仲裁局 (Acas) / 平等人権委員会",
+          "title": "Age discrimination and default retirement age abolition",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "定年・再雇用法（RRA）に基づく70歳再雇用義務化ロードマップ",
+        "statusOrLevel": "法定定年65歳・再雇用義務70歳への段階的引き上げ（シニア雇用クレジット助成金）",
+        "keyFeature": "高齢労働者を雇用する企業に対し、給与の最大8%を政府が直接補助する「Senior Employment Credit」を支給し70歳就労を強力にバックアップ。",
+        "source": {
+          "organization": "シンガポール人材開発省 (MOM)",
+          "title": "Retirement and Re-employment Act (RRA) Framework",
+          "url": "https://www.mom.gov.sg"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "雇用保護法（LAS: Lagen om anställningsskydd）69歳勤務継続権",
+        "statusOrLevel": "労働者が希望すれば69歳まで解雇されずに勤務を継続できる権利の法制化（70歳引上げ議論）",
+        "keyFeature": "労働者が希望する限り会社は雇用を継続する義務。年金受給開始年齢（66歳）引き上げと連動し、シニアの就労権を法律で段階的に伸長。",
+        "source": {
+          "organization": "スウェーデン雇用省 (Arbetsmarknadsdepartementet)",
+          "title": "Lagen om anställningsskydd (LAS) och rätt att arbeta till 69 år",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "年齢差別禁止法（Age Discrimination Act 2004）およびWork Bonus制度",
+        "statusOrLevel": "強制定年の完全禁止・年金受給者に対する就労控除枠（Work Bonus隔週300豪ドル非課税）",
+        "keyFeature": "高齢者が働いても公的年金（Age Pension）が減額されないよう、年間最大1万1,800豪ドルの就労所得を年金資産査定から除外するインセンティブを整備。",
+        "source": {
+          "organization": "豪社会サービス省 (DSS) / Services Australia",
+          "title": "Work Bonus and Age Pension eligibility for working seniors",
+          "url": "https://www.servicesaustralia.gov.au"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "年金受給年齢引き上げ（Rente mit 67）およびシニア・アクティビティ契約",
+        "statusOrLevel": "公的年金受給開始年齢67歳化・定年後再雇用における時限雇用特例（Flexirentengesetz）",
+        "keyFeature": "年金と給与の全額併給を解禁（年金減額停止ルール撤廃）。定年退職後も労働者が希望すれば有期契約で柔軟に働き続けられる法環境を整備。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS) / 連邦年金保険",
+          "title": "Flexirente und Weiterarbeit nach Erreichen der Regelaltersgrenze",
+          "url": "https://www.bmas.de"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "高年齢者雇用安定法改正（70歳までの就業確保措置の義務化および75歳就労検討）",
+        "statusOrLevel": "70歳までの就業確保努力義務から完全義務化への格上げ論議・定年延長・廃止・創業支援措置",
+        "keyFeature": "労働力不足に対処するため、70歳までの就業確保措置を努力義務から法的義務へ引き上げる議論が加速。さらに健康寿命の延伸を踏まえ75歳までの就労機会拡大が将来視野に。",
+        "source": {
+          "organization": "厚生労働省職業安定局",
+          "title": "高年齢者雇用安定法の施行状況及び70歳就業確保措置の検討",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

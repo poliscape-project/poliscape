@@ -186,5 +186,102 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国におけるスタジアム・アリーナ民営化・PPP/PFI多目的化・地域創生ビジネスモデル比較",
+    "comparisonSummary": "公費依存の赤字ハコモノを脱却し地域経済の起爆剤とするため、米国や欧州は民設民営・コンセッション方式、365日稼働のエンタメ複合施設化を進めており、日本のスポーツ庁「スタジアム・アリーナ改革」のベンチマークとなっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "民間資金主導（Private Financing）多目的アリーナモデル（SoFiスタジアム・チェイスセンター等）",
+        "statusOrLevel": "完全民間資本（数百億〜数千億円）による建設・365日稼働商業・エンタメ複合施設化",
+        "keyFeature": "公金投入を最小限に抑え、ネーミングライツ、VIP高級スイート席、コンサート、商業施設・ホテルの一体開発で巨額の民間投資を回収。最先端5Gスマートインフラを完備。",
+        "source": {
+          "organization": "米国都市土地協会 (ULI) / カリフォルニア州開発局",
+          "title": "Sports Facilities and Entertainment Districts as Catalysts for Real Estate",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス/ロンドン",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "トッテナム・ホットスパースタジアムおよびO2アリーナPFI再生モデル",
+        "statusOrLevel": "可動式ピッチ（サッカー場下にNFL兼用人工芝を格納）・年間数百万人集客の複合拠点",
+        "keyFeature": "世界初の分割スライド式開閉ピッチを導入し、プレミアリーグ翌日にNFLやメガコンサートを開催可能。周辺地域の公営住宅再開発や雇用創出と一体化した官民連携。",
+        "source": {
+          "organization": "大ロンドン庁 (GLA) / 英国スポーツ省 (DCMS)",
+          "title": "Major Sports Venues and Urban Regeneration in London",
+          "url": "https://www.london.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "官民パートナーシップ（PPP）多目的アリーナ（ランクセス・アリーナ、SAPアリーナ等）",
+        "statusOrLevel": "市が土地を提供し民間企業コンソーシアムが建設・運営・維持管理を独立採算で実施",
+        "keyFeature": "ケルンのランクセス・アリーナ等、年間200回以上の氷上ホッケー、ハンドボール、コンサートを開催。市の一般財源からの赤字補填ゼロで税収増と観光客誘致を実現。",
+        "source": {
+          "organization": "ドイツ連邦内務省スポーツ局 (BMI) / 連邦建築省",
+          "title": "ÖPP im Sportstättenbau - Leitfaden für Kommunen und Arenenbetreiber",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス/リヨン",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "グルパマ・スタジアム（OLヴァレ）完全民設民営スマートスタジアムモデル",
+        "statusOrLevel": "オリンピック・リヨンが全額民間調達で建設した仏初の完全自社所有多目的スタジアム",
+        "keyFeature": "医療センター、レジャー施設、オフィス、ホテルを併設した「OL Vallée」を形成。非試合日にも年間数十万人が訪れる通年型地域拠点として機能。",
+        "source": {
+          "organization": "フランススポーツ省 / リヨン都市共同体",
+          "title": "Modèle économique des grands stades et arenas multifonctions privés",
+          "url": "https://www.sports.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "オプタス・スタジアム（Perth Stadium）DBFM型PFIコンセッション",
+        "statusOrLevel": "州政府所有・民間コンソーシアムによる25年間の設計・建設・金融・維持管理（DBFM）運営",
+        "keyFeature": "豪州ンバーワンの多目的アリーナ。LEDファサードやスマートチケットシステムを備え、オーストラリアンフットボール、クリケット、ラグビー、国際公演をシームレスに転換。",
+        "source": {
+          "organization": "西オーストラリア州財務局・インフラ局",
+          "title": "Optus Stadium Project - Public Private Partnership (PPP) Model",
+          "url": "https://www.wa.gov.au"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "シンガポール・スポーツ・ハブ（Singapore Sports Hub）PPP運営から公的買収",
+        "statusOrLevel": "35ヘクタールの巨大スポーツ・商業複合体・PPP運営の課題を受けた政府による公的買い戻し",
+        "keyFeature": "民間PFIで建設したが、地域市民への開放度やイベント誘致の柔軟性を高めるためスポーツ庁（Sport Singapore）が運営権を公的に再取得。公共性と商業性のバランスを示す教訓的事例。",
+        "source": {
+          "organization": "シンガポール・スポーツ庁 (SportSG) / 文化社会青少年省",
+          "title": "Singapore Sports Hub Takeover and Future Activation Plans",
+          "url": "https://www.sportsingapore.gov.sg"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "スポーツ庁・経済産業省「スタジアム・アリーナ改革」およびコンセッション（PFI）推進",
+        "statusOrLevel": "2025年までに全国20カ所の拠点整備目標（エスコンフィールドHOKKAIDO、長崎スタジアムシティ等）",
+        "keyFeature": "「コストセンターからプロフィットセンターへ」の転換を掲げ、民間活力（PFI・コンセッション）を導入。単なるスポーツ施設ではなく、飲食・ホテル・商業を融合した地域創生の核として国が選定・重点支援。",
+        "source": {
+          "organization": "スポーツ庁 / 経済産業省",
+          "title": "スタジアム・アリーナ改革の推進及び多様な世代が集う交流拠点づくり",
+          "url": "https://www.mext.go.jp/sports"
+        }
+      }
+    ]
+  }
 }

@@ -147,5 +147,102 @@
       "text": "パネル放置・投棄を抑止",
       "color": "bg-rose-50 text-rose-800"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における使用済み太陽光パネルの廃棄費用積立・リサイクル義務（EPR・WEEE指令）比較",
+    "comparisonSummary": "2030年代に本格化する使用済み太陽光パネルの大量廃棄と不法投棄を防ぐため、EUはWEEE指令でメーカー回収責任を義務付け、日本はFIT売電収入からの源泉徴収による「廃棄等費用積立制度」を制度化しています。",
+    "countries": [
+      {
+        "country": "欧州連合 (EU) / フランス",
+        "countryCode": "EU",
+        "flag": "🇫🇷",
+        "systemName": "WEEE指令（電気電子機器廃棄物指令 2012/19/EU）およびPV CYCLE公認エコ機関",
+        "statusOrLevel": "太陽光パネルの拡大生産者責任（EPR）完全義務化・製品販売時のリサイクル費用エコ負担金前払い",
+        "keyFeature": "メーカー・輸入業者に使用済みパネルの100%無料回収と最低80%以上のマテリアルリサイクルを義務付け。リサイクル専門非営利団体Sorenが全仏のパネル回収を統括。",
+        "source": {
+          "organization": "フランス生態移行省 / Soren (旧PV CYCLE France)",
+          "title": "Filière REP des panneaux photovoltaïques et directive DEEE",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "電気電子機器法（ElektroG / WEEE国内法）およびEAR財団登録制度",
+        "statusOrLevel": "全パネルメーカーに対する公的リサイクル保証基金（Insolvency-safe guarantee）拠出義務",
+        "keyFeature": "企業が倒産しても将来の廃棄費用が公費負担にならないよう、第三者信託基金へ事前保証金を預託。自治体公営ゴミ処理場での無料引き取りインフラを全国完備。",
+        "source": {
+          "organization": "ドイツ連邦環境省 (BMUV) / 廃電気電子機器登録財団 (Stiftung EAR)",
+          "title": "Elektro- und Elektronikgerätegesetz (ElektroG) - Photovoltaikmodule",
+          "url": "https://www.stiftung-ear.de"
+        }
+      },
+      {
+        "country": "アメリカ/カリフォルニア州",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "有害廃棄物管理法普遍廃棄物規則（Universal Waste Rule）およびワシントン州太陽光EPR法",
+        "statusOrLevel": "鉛等の有害金属を含むパネルの埋立処分禁止・ワシントン州でのメーカー責任回収プログラム法制化",
+        "keyFeature": "パネルを一般ゴミ（MSW）として埋め立てることを禁止。製造メーカーに対し、住宅・メガソーラーからの使用済みパネル回収・リサイクル費用の全額負担を義務付け。",
+        "source": {
+          "organization": "カリフォルニア州有害物質管理局 (DTSC) / EPA",
+          "title": "Photovoltaic (PV) Modules Universal Waste Management Regulations",
+          "url": "https://dtsc.ca.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "製品スチュワードシップ法（Product Stewardship Act）太陽光パネル指定",
+        "statusOrLevel": "ビクトリア州等における太陽光パネルの埋立処分全面禁止（E-waste landfill ban）",
+        "keyFeature": "世界有数の屋根上太陽光普及国。パネルを国の優先製品スチュワードシップリストに指定し、メーカー・販売業者による全国共同回収基金の設立を強制。",
+        "source": {
+          "organization": "豪気候変動・環境省 (DCCEEW) / Sustainability Victoria",
+          "title": "National Product Stewardship Scheme for Photovoltaic Systems",
+          "url": "https://www.dcceew.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "生産者責任再活用制度（EPR: Extended Producer Responsibility）太陽光パネル適用（2023年施行）",
+        "statusOrLevel": "太陽光モジュール製造・輸入業者に対する回収・リサイクル義務率（kgあたり回収賦課金）設定",
+        "keyFeature": "メーカーに年間販売量に応じたリサイクル義務量を課し、未達企業にはリサイクル賦課金を徴収。忠北忠州に全国太陽光再活用センターを建設しシルバー・ガラスを高純度回収。",
+        "source": {
+          "organization": "大韓民国環境部 / 韓国環境公団",
+          "title": "Solar PV Module Extended Producer Responsibility (EPR) Regulations",
+          "url": "https://www.me.go.kr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "WEEE規制（Waste Electrical and Electronic Equipment Regulations 2013）",
+        "statusOrLevel": "太陽光パネル販売企業に対するコンプライアンススキーム（PCS）加入義務化",
+        "keyFeature": "事業者は販売量に応じた年間リサイクル分担金を納付。商用メガソーラー解体時には土地賃貸借契約にデコミッショニング基金（原状回復ボンド）の事前信託を義務付け。",
+        "source": {
+          "organization": "英国環境庁 (Environment Agency) / Defra",
+          "title": "Electrical and electronic equipment (EEE) producer responsibilities - Solar Panels",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "再エネ特措法に基づく太陽光発電設備の廃棄等費用積立制度（2022年7月施行）",
+        "statusOrLevel": "10kW以上の全太陽光発電事業者に対し、売電収入から電力広域的運営推進機関（OCCTO）へ源泉徴収積立",
+        "keyFeature": "事業終了時の放置・不法投棄を防ぐため、稼働10年目以降の売電単価から機械的に積立金を天引き・外部機関（OCCTO）で保全。解体撤去が証明された場合にのみ積立金を返還。",
+        "source": {
+          "organization": "経済産業省資源エネルギー庁 / OCCTO",
+          "title": "太陽光発電設備の廃棄等費用積立制度の運用状況及び詳細規程",
+          "url": "https://www.enecho.meti.go.jp"
+        }
+      }
+    ]
+  }
 }

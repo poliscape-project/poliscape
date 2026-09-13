@@ -225,5 +225,102 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Building"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における下水道管路アセットマネジメント・AIカメラロボット点検・非開削更生技術比較",
+    "comparisonSummary": "老朽下水管の破損による道路陥没を防ぐため、ドイツや米国は自律走行CCTVロボットとAI欠陥判定、非開削反転挿入工法（CIPP）による長寿命化を義務付けており、日本の下水道DXと予防保全の先行規範となっています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ドイツ水・廃水・廃棄物協会（DWA）規格（DWA-M 149）ロボット検査基準",
+        "statusOrLevel": "全下水道管路の定期的CCTVロボットテレビカメラ調査義務化・AI画像ひび割れ自動評価",
+        "keyFeature": "欧州規格（DIN EN 13508）に完全準拠。管内の腐食・継ぎ目ズレを自動数値化し、道路を掘らずに樹脂ライナーを挿入する非開削更生（Schlauchlining）で50年延命。",
+        "source": {
+          "organization": "ドイツ連邦環境省 (BMUV) / DWA",
+          "title": "DWA-M 149 - Zustandserfassung und -beurteilung von Entwässerungssystemen",
+          "url": "https://www.dwa.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "全米パイプライン検査基準（NASSCO PACP: Pipeline Assessment Certification Program）",
+        "statusOrLevel": "全米標準のPACP等級システムおよびEPA同意判決（Consent Decrees）に基づく改修",
+        "keyFeature": "AI搭載のクローラーロボットが管内を走行し、PACPコードに基づいて1〜5の構造劣化グレードを自動付与。陥没リスクの高い重要路線を優先的に連邦インフラ資金で補修。",
+        "source": {
+          "organization": "米国環境保護庁 (EPA) / NASSCO",
+          "title": "Asset Management for Sewer Collection Systems and PACP Standards",
+          "url": "https://www.epa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "英国水産業研究協会（UKWIR）管路アセットマネジメントおよび自律型点検ロボット",
+        "statusOrLevel": "民営水道各社（Thames Water等）に対する規制機関Ofwatによる下水漏れ・陥没ゼロ目標命令",
+        "keyFeature": "小型ドローンや自律推進ロボット（Pipebotsプロジェクト）を管内に放流。AI音響・光学センサーで管壁の厚み減少を検知し、陥没に至る前に予防工事を完了。",
+        "source": {
+          "organization": "英国水利サービス規制局 (Ofwat) / UKWIR",
+          "title": "Water company performance and sewer network asset management",
+          "url": "https://www.ofwat.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "国家非開削技術協会（FSTT）基準およびパリ下水道リアルタイム監視",
+        "statusOrLevel": "巨大石造下水本管から小口径枝管までのロボット点検・非開削更生技術（Travaux sans tranchée）",
+        "keyFeature": "セーヌ川水質改善と都市道路防護のため、管路の内面ライニング更生工法を標準化。道路交通を遮断することなく夜間に下水管を完全再生。",
+        "source": {
+          "organization": "フランス生態移行省 / パリ市下水道局 (SIAAP)",
+          "title": "Rénovation des réseaux d'assainissement par technologies sans tranchée",
+          "url": "https://www.siaap.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "下水道管路老朽化精密調査ガイドライン（環境部）およびAIシンクホール予防診断",
+        "statusOrLevel": "20年超の全国下水管に対するCCTV全量探査義務化・道路陥没危険度評価マップ作成",
+        "keyFeature": "下水管の漏水が周辺土砂を流出させて巨大空洞を生むメカニズムを特定。AI探査ロボットの導入費用を国庫が最大50%補助し、精密調査を義務化。",
+        "source": {
+          "organization": "大韓民国環境部 / 韓国環境公団",
+          "title": "Aging Sewer Pipe Precision Investigation and Sinkhole Prevention",
+          "url": "https://www.me.go.kr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "豪水産業協会（WSAA）下水管路検査コード（WSA 05）",
+        "statusOrLevel": "管路内レーザースキャン・ソナー・CCTV複合ロボットによる3次元管路プロファイリング",
+        "keyFeature": "汚水が流れた状態でも水中ソナーと上部レーザーを併用して沈殿物と腐食を同時測定。AIによる残存寿命予測アルゴリズムで修繕優先順位を完全自動化。",
+        "source": {
+          "organization": "オーストラリア水産業協会 (WSAA)",
+          "title": "Sewer Inspection and Asset Management Code of Australia (WSA 05)",
+          "url": "https://www.wsaa.asn.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "下水道管路メンテナンス基本方針（国土交通省）およびウォーターPPP包括的民間委託",
+        "statusOrLevel": "布設後50年超の老朽管路急増・AIテレビカメラ調査と非開削更生（SPR工法等）の推進",
+        "keyFeature": "道路陥没事故の未然防止に向け、自治体直営から民間包括委託（ウォーターPPP）へ移行。AIによる映像自動ひび割れ検知技術を導入し、点検費用削減と事故ゼロを両立。",
+        "source": {
+          "organization": "国土交通省水管理・国土保全局下水道部",
+          "title": "下水道管路メンテナンスの推進及びAI等を活用した点検技術の導入",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

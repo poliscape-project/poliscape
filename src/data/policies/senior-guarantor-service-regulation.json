@@ -147,5 +147,102 @@
       "text": "身元保証なし入院拒否是正",
       "color": "bg-emerald-50 text-emerald-800"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における民間身元保証・高齢者終活支援ビジネスの消費者保護・公的後見監督比較",
+    "comparisonSummary": "単身高齢者の入院・施設入所や死後事務を請け負う民間身元保証ビジネスのトラブル（高額契約・預託金横領等）に対し、各国は成年後見制度の公的拡充や受託信託財産の分別管理・行政監督を法制化しています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "公的後見人局（Office of the Public Guardian: OPG）およびCare Act公的後見",
+        "statusOrLevel": "身寄りのない高齢者に対する地方自治体（Local Authority）の成年保護専属チーム介入",
+        "keyFeature": "営利の身元保証業者を必要とせず、自治体のソーシャルワーカーが公的に代理人を手配。民間後見人が介在する場合はOPGが財産目録や収支報告を常時厳格監査。",
+        "source": {
+          "organization": "英国公的後見人局 (OPG) / 司法省",
+          "title": "Office of the Public Guardian - Safeguarding vulnerable adults",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "成年世話制度（Rechtliche Betreuung / BGB改正）および公認世話協会（Betreuungsvereine）",
+        "statusOrLevel": "営利目的の身元保証ビジネスを排除・裁判所が任命する公認世話人による財産・身上監護",
+        "keyFeature": "身元引受を民間営利契約に委ねず、州・自治体の認可を受けた公益世話協会が担当。預託金の横領を防ぐため裁判所への定期財産報告が法律で厳格に義務付け。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ)",
+          "title": "Reform des Betreuungsrechts - Mehr Selbstbestimmung für Betreute",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "成人保護司法委託者（MJPM: Mandataire judiciaire à la protection des majeurs）",
+        "statusOrLevel": "国家資格を持つ公認受託者による単身高齢者の財産管理・終活事務の国家監督",
+        "keyFeature": "県知事認可のMJPMのみが身元保証や財産管理を受託可能。巨額の預託金預かりを厳しく制限し、本人の年金口座からの直接引き落とし・行政監査を徹底。",
+        "source": {
+          "organization": "フランス連帯・家族省 / 法務省",
+          "title": "La protection juridique des majeurs et le statut de MJPM",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "州公的後見制度（Public Guardianship）および全米後見協会（NGA）基準",
+        "statusOrLevel": "身寄りのない高齢者に対する郡・州直営の公的後見人任命・信託財産の信託保全義務",
+        "keyFeature": "民間プロ後見人（Professional Guardians）に対し、州裁判所への年次監査報告と供託金ボンド（Surety Bond）加入を義務付け。横領・詐欺には厳罰。",
+        "source": {
+          "organization": "米国全米後見協会 (NGA) / 司法省 (DOJ Elder Justice)",
+          "title": "Standards of Practice for Professional Guardians and Elder Justice Initiative",
+          "url": "https://www.justice.gov/elderjustice"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "公的管財人・後見人局（Public Trustee and Guardian）",
+        "statusOrLevel": "各州政府機関による身寄りのない単身者の遺言作成・財産管理・死後事務の公的直営代行",
+        "keyFeature": "民間保証会社ではなく州公社（Public Trustee）が低廉な法定手数料で遺産整理や施設入所手続きを代行し、民間の悪質ピンハネ・財産収奪を未然に防止。",
+        "source": {
+          "organization": "豪各州公的管財人局 (State Trustees) / 司法長官省",
+          "title": "Role of the Public Advocate and Public Trustee in Elder Protection",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "公的後見管財人事務所（OPGT: Office of the Public Guardian and Trustee）",
+        "statusOrLevel": "州政府機関による身元引受人なき高齢者の医療同意・施設契約・信託財産保全",
+        "keyFeature": "認知症等で孤立した高齢者に対し、州裁判所がOPGTを法定代理人に指定。民間業者の過度な預託金集金ビジネスを排し、州の監査下で資産を保護。",
+        "source": {
+          "organization": "オンタリオ州司法長官省 (MAG) / OPGT",
+          "title": "Office of the Public Guardian and Trustee Mandate and Services",
+          "url": "https://www.ontario.ca"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "身元保証等高齢者サポート事業に関するガイドライン（総務省勧告・消費者庁・厚労省策定）",
+        "statusOrLevel": "高齢者等終身サポート事業者の契約透明化・預託金分別管理・情報開示ルールの策定",
+        "keyFeature": "身元保証人がいない高齢者の増加に伴い民間事業者が急増。契約内容の事前開示、クーリングオフ、死後事務の明確化、預託金の信託保全等のガイドラインを策定し悪質業者を排除。",
+        "source": {
+          "organization": "内閣官房 / 消費者庁 / 厚生労働省",
+          "title": "身元保証等高齢者サポート事業における消費者保護及びガイドラインの策定",
+          "url": "https://www.cas.go.jp"
+        }
+      }
+    ]
+  }
 }

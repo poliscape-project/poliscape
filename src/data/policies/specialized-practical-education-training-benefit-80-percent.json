@@ -217,5 +217,102 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "HeartPulse"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における高度専門資格・デジタル先端スキルの個人直接助成率・受講費用給付水準比較",
+    "comparisonSummary": "労働者の生産性向上と中長期キャリアアップのため、フランス（CPF100%全額公費受講）や北欧（生活費8割給付）は高度資格取得に手厚い直接支援を行っており、日本の教育訓練給付金「最大80%（上限年64万円）」拡充の直接の比較軸です。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "CPF転換プロジェクト（Projet de transition professionnelle: PTP）",
+        "statusOrLevel": "高度専門資格取得講座の受講費用100%全額国費負担＋受講期間中の従前給与100%全額保障",
+        "keyFeature": "キャリアチェンジを志す労働者に対し、最大1年間の有給研修休暇を保障。民間ブートキャンプ（データサイエンスやAI開発）の受講料全額と生活給与を公費プールから支給。",
+        "source": {
+          "organization": "フランス労働・完全雇用省 / Transitions Pro",
+          "title": "Le projet de transition professionnelle (PTP) et financement de la formation",
+          "url": "https://www.travail-emploi.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "マイスターBAföG（Aufstiegs-BAföG / AFBG: 昇進教育促進法）",
+        "statusOrLevel": "高度国家資格（マイスター・専門技術者）取得講座の受講料・試験料の最大75%公費給付",
+        "keyFeature": "受講費用の50%を返済不要の直接助成金として国が支給。残り50%の低利融資も試験合格時に半額免除されるため、実質的に受講費用の75%が公費負担。生活費も毎月非課税給付。",
+        "source": {
+          "organization": "ドイツ連邦教育研究省 (BMBF) / KfW",
+          "title": "Aufstiegs-BAföG (AFBG) für Fachkräfte und Meisterfortbildungen",
+          "url": "https://www.aufstiegs-bafoeg.de"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "スキルズフューチャー・キャリア移行プログラム（SCTP）および中期キャリア手当",
+        "statusOrLevel": "認定コース受講料の最大70〜90%直接補助＋月額最大3,000ドルの訓練生活手当（最長2年）",
+        "keyFeature": "AI・サイバーセキュリティ・バイオ等の成長産業へ転職する40歳以上の労働者を対象に、受講料の9割を政府が直接負担し、さらに生活費を現金給付する世界最強の転職セーフティネット。",
+        "source": {
+          "organization": "シンガポール人材開発省 (MOM) / SSG",
+          "title": "SkillsFuture Career Transition Programme (SCTP) Subsidies",
+          "url": "https://www.skillsfuture.gov.sg"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "移行・能力向上学習支援（Omställningsstudiestöd）",
+        "statusOrLevel": "最大44週間の高度専門学校・大学講座受講期間中、従前賃金の最大80%を非課税給付",
+        "keyFeature": "労働市場の構造転換に対応するため2022年に創設。IT技術者や医療専門職へのリスキリングを志す中堅社会人の給料の8割を国が肩代わりし生活不安を完全解消。",
+        "source": {
+          "organization": "スウェーデン国家学生金融機構 (CSN)",
+          "title": "Omställningsstudiestöd - Bidrag och lån för vuxna i arbetslivet",
+          "url": "https://www.csn.se"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "スキルズ・ブートキャンプ（Skills Bootcamps）政府全額出資プログラム",
+        "statusOrLevel": "最大16週間のデジタル・AI・グリーン先端技術講座を成人学習者に「完全受講料無料（100%国費）」提供",
+        "keyFeature": "国家技能基金（National Skills Fund）から拠出。受講生は自己負担ゼロで学び、修了後に提携企業での面接が100%保証される即効性の高い就職直結型リスキリング。",
+        "source": {
+          "organization": "英国教育省 (DfE)",
+          "title": "Skills Bootcamps - Free courses for adults in digital and green skills",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "WIOAディスロケーテッド・ワーカー助成および登録アプレンティスシップ（Registered Apprenticeship）",
+        "statusOrLevel": "産業転換による失業者・転職希望者に対する高度技術教育訓練費用の全額補助（1人最大1万ドル超）",
+        "keyFeature": "給与を受け取りながらハイテク実習を行うアプレンティスシップに対し、連邦労働省が教育受講料を全額肩代わりし企業の雇用リスクを排除。",
+        "source": {
+          "organization": "米国労働省雇用訓練局 (ETA)",
+          "title": "Workforce Innovation and Opportunity Act Dislocated Worker Program",
+          "url": "https://www.dol.gov"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "専門実践教育訓練給付金（雇用保険法改正・最大80%給付への拡充）",
+        "statusOrLevel": "受講中50%＋資格取得就職20%＋賃金上昇10%で受講費用の最大「80%（年間上限64万円・最長3年計192万円）」直接給付",
+        "keyFeature": "看護師・介護福祉士・IT専門職等の高度講座修了後、一定の賃金アップを達成した場合にさらに10%を上乗せし最大80%給付を実現。個人主導のリスキリングと労働移動を強力に後押し。",
+        "source": {
+          "organization": "厚生労働省職業能力開発局",
+          "title": "専門実践教育訓練給付金の拡充及びキャリア形成促進施策",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

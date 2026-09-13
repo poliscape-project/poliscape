@@ -185,5 +185,102 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国におけるスマート農業（自動運転トラクター・農薬散布ドローン・AI農業）推進法制・規制緩和比較",
+    "comparisonSummary": "農業の担い手不足と精密農業（Precision Farming）推進のため、米国やEUは農業用ドローンの目視外飛行解禁や自律走行トラクターの安全規格化を進めており、日本の「スマート農業技術活用促進法（2024年成立）」の先行モデルとなっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "FAA規則第107部（Part 107）農業ドローン目視外飛行免除（BVLOS Waiver）および自律走行機体規格",
+        "statusOrLevel": "大型農薬散布ドローン（55ポンド超・Part 137）の商用散布認可および無人トラクター商用導入",
+        "keyFeature": "ジョン・ディア社等の完全無人自律走行トラクターが実用化。連邦航空局（FAA）が農地上空でのドローン群制御（スウォーム飛行）や目視外夜間散布の包括特例を迅速認可。",
+        "source": {
+          "organization": "米国連邦航空局 (FAA) / 農務省 (USDA)",
+          "title": "Agricultural Drone Operations (Part 137) and Precision Agriculture Technologies",
+          "url": "https://www.faa.gov"
+        }
+      },
+      {
+        "country": "欧州連合 (EU) / フランス",
+        "countryCode": "EU",
+        "flag": "🇫🇷",
+        "systemName": "Horizon Europeスマート農業プロジェクトおよびEASAドローン特定カテゴリー（Specific Category）",
+        "statusOrLevel": "欧州航空安全庁（EASA）リスク評価（SORA）に基づくブドウ園・急斜面ドローン農薬散布認可",
+        "keyFeature": "急傾斜地での危険作業をドローンに代替させるため特例認可。共通農業政策（CAP）予算を活用し、AI除草ロボット（Naïo Technologies等）の購入費用を最大40%公費補助。",
+        "source": {
+          "organization": "欧州航空安全機関 (EASA) / フランス農業省",
+          "title": "Agricultural drone spraying and autonomous farming robotics in the EU",
+          "url": "https://www.easa.europa.eu"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "豪農林水産省（DAFF）国家精密農業戦略およびCASA広域ドローン規則",
+        "statusOrLevel": "メガファーム（数千〜数万ヘクタール）での完全自動運転コンバインおよび長距離ドローン牧畜監視",
+        "keyFeature": "広大な農地に対応し、民間航空安全局（CASA）が私有地農場上空でのBVLOS（目視外自律飛行）認可プロセスを簡素化。衛星GPS-RTK補正情報を全国無料開放。",
+        "source": {
+          "organization": "豪民間航空安全局 (CASA) / DAFF",
+          "title": "Remotely Piloted Aircraft (RPA) in Agriculture and Precision Farming",
+          "url": "https://www.casa.gov.au"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "ワーゲニンゲン大学アグロフード・ロボティクスおよび完全自律型グリーンハウスAI",
+        "statusOrLevel": "施設園芸におけるAI環境制御・収穫ロボットの自律運用率世界一",
+        "keyFeature": "世界有数の農業輸出大国。温室内の温度、湿度、CO2、光量をAIアルゴリズムが全自動制御し、トマトやパプリカのロボット収穫を標準化。",
+        "source": {
+          "organization": "オランダ農業・自然・食品品質省 / ワーゲニンゲン大学",
+          "title": "Autonomous Greenhouses and Agricultural Robotics Innovations",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "全国スマート農業行動計画および農機自動運転システム導入補助金",
+        "statusOrLevel": "大疆（DJI）・極飛（XAG）による農薬散布ドローンの世界最大普及・北斗衛星ナビ無人トラクター",
+        "keyFeature": "国家農機購置補貼（農機購入補助金）により、北斗衛星自動操舵システムを搭載したトラクターの購入費用の3〜5割を国が直接補助し、黒竜江省等の穀倉地帯で一挙に普及。",
+        "source": {
+          "organization": "中華人民共和国農業農村部",
+          "title": "National Smart Agriculture Action Plan and Agricultural Machinery Subsidies",
+          "url": "https://www.moa.gov.cn"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "農業用デジタル実験場（Digitale Experimentierfelder）支援プログラム",
+        "statusOrLevel": "連邦食糧農業省（BMEL）による14カ所のスマート農業実証フィールドへの数千万ユーロ助成",
+        "keyFeature": "ISOBUS共通通信規格を徹底し、異なるメーカーのトラクターやアタッチメント間でAIデータが相互運用できるオープンプラットフォームを国家主導で開発。",
+        "source": {
+          "organization": "ドイツ連邦食糧農業省 (BMEL)",
+          "title": "Digitale Experimentierfelder in der Landwirtschaft",
+          "url": "https://www.bmel.de"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "スマート農業技術活用促進法（2024年成立・施行）および農業DX構想",
+        "statusOrLevel": "自動運転トラクター（レベル2・3）・農薬散布ドローンの導入計画認定企業への税制優遇・低利融資",
+        "keyFeature": "高齢化と就農者激減（2040年に4分の1へ半減予測）に対処するため新法を制定。生産方式革新事業計画を認定し、日本政策金融公庫の無利子融資や農地集約化特例でスマート農機の社会実装を加速。",
+        "source": {
+          "organization": "農林水産省",
+          "title": "スマート農業技術活用促進法の概要及びスマート農業の全国展開",
+          "url": "https://www.maff.go.jp"
+        }
+      }
+    ]
+  }
 }

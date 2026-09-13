@@ -147,5 +147,102 @@
       "text": "配偶者・子どもの帯同可",
       "color": "bg-teal-50 text-teal-800"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における熟練外国人労働者の在留資格・家族帯同・永住権（PR）申請ルート比較",
+    "comparisonSummary": "深刻な労働力不足を背景に、欧米諸国（独ブルーカード・豪TSSビザ等）は熟練労働者への家族帯同と数年での永住権申請を法制化しており、日本も「特定技能2号」を11分野へ大幅拡大し、事実上の移民・定住政策への転換を進めています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "専門人材移民法改正（Fachkräfteeinwanderungsgesetz 2023）およびチャンスカード（Chancenkarte）",
+        "statusOrLevel": "職業訓練修了者に対する配偶者・子どもの完全帯同自由、およびわずか3年での永住許可（Niederlassungserlaubnis）取得",
+        "keyFeature": "学歴だけでなく実務経験と点数制（ポイント制）で入国を解禁。EUブルーカードの年収要件を大幅に引き下げ、家族の就労制限も完全撤廃。",
+        "source": {
+          "organization": "ドイツ連邦内務省 (BMI) / 外務省",
+          "title": "Das neue Fachkräfteeinwanderungsgesetz und die Chancenkarte",
+          "url": "https://www.make-it-in-germany.com"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "一時技能不足ビザ（TSS Subclass 482）および永住権直接ルート（PR Pathway）",
+        "statusOrLevel": "中長期技能職種における家族帯同・配偶者無制限就労、および2年勤務後の永住ビザ（ENS 186）申請権",
+        "keyFeature": "すべてのTSSビザ保持者に対し、同一雇用主で2年間勤務すれば永住権（PR）へ申請できる明確なパスウェイを法制化し、優秀な外国人労働者の定着を促進。",
+        "source": {
+          "organization": "豪内務省 (Department of Home Affairs)",
+          "title": "Temporary Skill Shortage visa (subclass 482) and Permanent Residence Pathway",
+          "url": "https://immi.homeaffairs.gov.au"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "エクスプレス・エントリー（Express Entry: カナダ経験者クラス CEC）",
+        "statusOrLevel": "カナダ国内で1年以上の熟練就労経験を持つ外国人に対する家族帯同・即時永住権インビテーション",
+        "keyFeature": "包括的ランキングシステム（CRS）で高得点を獲得した技術者は、配偶者と未成年の子ども全員を同伴して永住権を直接取得可能な移民推進モデル。",
+        "source": {
+          "organization": "カナダ移民・難民・市民権省 (IRCC)",
+          "title": "Express Entry - Canadian Experience Class and Family Sponsorship",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "熟練労働者ビザ（Skilled Worker Visa）および5年定住権（ILR: Indefinite Leave to Remain）",
+        "statusOrLevel": "指定適格職種で働く熟練労働者の家族帯同（Dependants）および5年連続就労での永住権取得",
+        "keyFeature": "ポイントベース移民制度を運用。一定の給与基準と英語力をクリアした熟練労働者に対し、永住権（ILR）への確実なステップを法認可。",
+        "source": {
+          "organization": "英国政府内務省 (Home Office)",
+          "title": "Skilled Worker visa - Eligibility, dependants and settlement (ILR)",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Sパス（S Pass / 中技能外国人ビザ）および扶養家族パス（DP）",
+        "statusOrLevel": "月給最低3,150ドル以上の技術者に対する配偶者・子どもの帯同認可、および永住権（PR）申請資格",
+        "keyFeature": "労働市場のテスト（COMPASS評価）を課しつつ、中間技能職（S Pass）保持者がシンガポール経済に貢献している場合、永住権申請への道を開放。",
+        "source": {
+          "organization": "シンガポール人材開発省 (MOM)",
+          "title": "S Pass criteria, family privileges, and permanent residency eligibility",
+          "url": "https://www.mom.gov.sg"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "人材パスポート（Passeport Talent / 複数年滞在許可）および家族滞在特例",
+        "statusOrLevel": "4年有効のマルチ年次滞在許可・家族の自動滞在・就労許可、および5年後の10年居住カード（Carte de résident）",
+        "keyFeature": "熟練労働者の家族は別途の滞在申請や労働許可取得を免除され、到着初日から完全な就労権を享受。多国籍タレントの定住を後押し。",
+        "source": {
+          "organization": "フランス内務省・外国人総局 (DGEF)",
+          "title": "Titre de séjour Passeport talent et procédure simplifiée famille accompagnante",
+          "url": "https://www.service-public.fr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "出入国管理及び難民認定法に基づく「特定技能2号」の対象分野大幅拡大（閣議決定）",
+        "statusOrLevel": "従来の建設・造船の2分野から飲食料品製造・外食・農業・宿泊等11分野へ拡大・在留期限上限なし・配偶者と子の帯同認可",
+        "keyFeature": "「通算5年の上限」がある特定技能1号と異なり、2号は要件を満たせば何回でも在留更新可能で家族帯同が認められ、10年定住による永住許可申請の要件を満たす事実上の長期定住制度へ抜本転換。",
+        "source": {
+          "organization": "出入国在留管理庁",
+          "title": "特定技能2号の対象分野の追加について（閣議決定の概要）",
+          "url": "https://www.moj.go.jp"
+        }
+      }
+    ]
+  }
 }

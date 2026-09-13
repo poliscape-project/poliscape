@@ -185,5 +185,102 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Heart"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における単身高齢者の賃貸住宅入居差別防止・孤独死残置物処理法制比較",
+    "comparisonSummary": "孤独死や家賃滞納を恐れる大家による高齢者の入居拒否（住宅確保困難者問題）に対し、英国やフランスは年齢・属性による入居拒否を法的に禁止し、公的信託や自治体保証が残置物処理と修繕を担保しています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "ビスル保証（Garantie Visale / 公的無料家賃・原状回復保証）および人身保護法",
+        "statusOrLevel": "低所得単身高齢者・生活困窮者に対する国家全額出資の無料滞納・退去時原状回復保証",
+        "keyFeature": "大家に対しAction Logementが家賃滞納や室内の原状回復費用を直接全額補填。さらに年齢や社会的地位による入居差別を刑法（Code pénal）で最高3年の禁錮刑と規定。",
+        "source": {
+          "organization": "フランス住宅省 / Action Logement",
+          "title": "La garantie Visale : caution locative gratuite et lutte contre les discriminations",
+          "url": "https://www.visale.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "借家人権利法案（Renters' Rights Bill）および無主財産（Bona Vacantia）処理手続き",
+        "statusOrLevel": "正当理由なき立ち退き（Section 21廃止）および高齢者・生活保護受給者の入居拒否禁止",
+        "keyFeature": "大家が「高齢だから」「単身だから」と入居を拒否することを違法化。単身者が死亡した際の遺品・残置物は政府法務局（GLD）の公的Bona Vacantia手続きで迅速処分。",
+        "source": {
+          "organization": "英国住宅・コミュニティ・地方自治省 (DLUHC)",
+          "title": "Renters' Rights Bill and Estate Administration Guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "民法典（BGB）第563条賃貸借契約の承継およびベルリン方式強制執行（Berliner Räumung）",
+        "statusOrLevel": "借家人死亡時の同居人・相続人への契約自動承継、および費用を最小化する残置物差押ルール",
+        "keyFeature": "単身借家人が遺言なく死亡した場合、裁判所が直ちに「遺産管理者（Nachlasspfleger）」を任命して残置物を処分。大家の負担を抑える「ベルリン方式（敷地内保管）」を法制化。",
+        "source": {
+          "organization": "ドイツ連邦司法省 (BMJ)",
+          "title": "Bürgerliches Gesetzbuch (BGB) - Fortsetzung des Mietverhältnisses beim Tod des Mieters",
+          "url": "https://www.bmj.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "公正住宅法（Fair Housing Act）および各州遺留財産処理法（Abandoned Property Laws）",
+        "statusOrLevel": "年齢・家族構成による賃貸入居拒絶の連邦法禁止・死亡時通知と一定期間保管後の公的処分",
+        "keyFeature": "住宅都市開発省（HUD）が入居差別を厳重監視。単身者が死亡した場合、州法で定められた通知期間（30日等）経過後に大家が残置物を競売または廃棄できる簡易免責手順を規定。",
+        "source": {
+          "organization": "米国住宅都市開発省 (HUD)",
+          "title": "Fair Housing Act Rights and Landlord Tenant Abandoned Property Guidelines",
+          "url": "https://www.hud.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "各州住宅賃貸借法（Residential Tenancies Acts）残置動産（Goods Left Behind）規則",
+        "statusOrLevel": "単身入居者死亡時の賃貸契約即時終了規定・無価値物の即時廃棄と貴重品の公的信託預託",
+        "keyFeature": "大家は州審判所（NCAT等）の簡易命令により残置物の処分認可を取得可能。高齢者向けには州営住宅（Public Housing）が優先入居枠を提供し民間の負担を軽減。",
+        "source": {
+          "organization": "ニューサウスウェールズ州公正取引局 (NSW Fair Trading)",
+          "title": "Ending a tenancy and goods left behind regulations",
+          "url": "https://www.fairtrading.nsw.gov.au"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "借家法（Hyreslagen）に基づく公的賃貸住宅（Allmännyttan）高齢者受入",
+        "statusOrLevel": "基礎自治体公営住宅企業（Allmännyttan）による身元保証人不要の普遍的賃貸提供",
+        "keyFeature": "保証人制度が存在しないため入居拒否が発生しない。死亡時にはコミューンの社会福祉局が専属チームを派遣し、公費で残置物撤去・清掃を実施。",
+        "source": {
+          "organization": "スウェーデン公営住宅協会 (Sveriges Allmännytta) / 国家保健福祉委員会",
+          "title": "Allmännyttans roll och hantering av dödsbon i hyresrätter",
+          "url": "https://www.sverigesallmannytta.se"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "住宅セーフティネット法改正（2024年成立）および残置物処理等のモデル契約条項（国土交通省・法務省）",
+        "statusOrLevel": "居住支援法人による見守り・家賃債務保証・死亡時の契約解除および残置物処理受託の適法化",
+        "keyFeature": "孤独死後の相続人不在による部屋明け渡し不能リスクを解消するため、死後の賃貸借契約解除と残置物廃棄・売却をあらかじめ委任できる公的モデル契約条項を策定。大家の不安を解消し高齢者入居を促進。",
+        "source": {
+          "organization": "国土交通省住宅局 / 法務省民事局",
+          "title": "残置物の処理等に関するモデル契約条項及び住宅セーフティネット法の改正",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -185,5 +185,102 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "TrendingUp"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における民間スポーツベッティング（スポーツ賭博）の合法化・八百長防止規制・依存症対策比較",
+    "comparisonSummary": "闇市場の根絶と巨額のスポーツ振興財源調達のため、米国最高裁の解禁判決や欧州の公認ライセンス制度はオンラインスポーツベッティングを合法産業化しており、日本のプロ野球やJリーグを対象とする解禁論議の直接の比較対象です。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦最高裁判所PASPA違憲判決（Murphy v. NCAA 2018）および各州合法化",
+        "statusOrLevel": "全米38州以上でスポーツベッティング完全合法化・年間取扱高1,000億ドル超の巨大産業化",
+        "keyFeature": "州ギャンブル規制委員会がDraftKingsやFanDuel等の民間アプリにライセンスを付与。巨額の州税収を教育やインフラに還元しつつ、八百長監視機構（US Integrity）と連携。",
+        "source": {
+          "organization": "全米ギャンブル協会 (AGA) / ニュージャージー州賭博執行局 (DGE)",
+          "title": "State-by-State Sports Betting Regulations and Economic Impact",
+          "url": "https://www.americangambling.org"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "賭博法（Gambling Act 2005）および賭博委員会（UKGC）厳格ライセンス",
+        "statusOrLevel": "民間ブックメーカー（Bet365等）による実店舗・オンライン賭博完全公認・年間巨額税収",
+        "keyFeature": "世界最大のオンライン賭博市場。依存症対策としてクレジットカード利用を完全禁止し、賭け金上限や自己排除登録システム（GAMSTOP）の接続を全事業者に義務付け。",
+        "source": {
+          "organization": "英国賭博委員会 (Gambling Commission) / DCMS",
+          "title": "Gambling Act 2005 and High Stakes White Paper Reforms",
+          "url": "https://www.gamblingcommission.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "国家賭博庁（ANJ: Autorité Nationale des Jeux）オンライン賭博規制法",
+        "statusOrLevel": "サッカー・テニス等の公認オンラインスポーツベッティング全面開放・違法サイト即時ブロッキング",
+        "keyFeature": "認可された民間オペレーター（Winamax、Unibet等）のみ営業可能。試合の公正性を守るため、判定論争が起きやすい個別プレー（イエローカード枚数等）への賭けを禁止。",
+        "source": {
+          "organization": "フランス国家賭博庁 (ANJ)",
+          "title": "Régulation des paris sportifs en ligne et protection des joueurs",
+          "url": "https://www.anj.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "州間賭博条約（GlüStV 2021）および連邦共同賭博監督局（GGL）",
+        "statusOrLevel": "全16州で民間のオンラインスポーツベッティングを公式認可・月間入金上限1,000ユーロ義務化",
+        "keyFeature": "未成年や多重債務者を防ぐため、全事業者を横断する全国一括入金制限（月1,000ユーロ）と中央監視データベース（LUGAS）を運用し厳格に中毒を防止。",
+        "source": {
+          "organization": "ドイツ連邦共同賭博監督庁 (GGL)",
+          "title": "Gemeinsame Glücksspielbehörde der Länder (GGL) - Sportwettenregulierung",
+          "url": "https://www.gluecksspiel-behoerde.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "対話型賭博法（Interactive Gambling Act 2001）およびBetStop全国自己排除制度",
+        "statusOrLevel": "合法的なオンラインスポーツベッティング・生放送中の広告規制・全国単一自己排除レジスタ",
+        "keyFeature": "スポーツ番組中のオッズ紹介やCM放送時間を厳しく制限。スマホからボタン一つで国内全賭博サイトから一括アクセス遮断できる「BetStop」を国家運用。",
+        "source": {
+          "organization": "豪通信メディア庁 (ACMA) / BetStop",
+          "title": "BetStop - The National Self-Exclusion Register and Sports Betting Rules",
+          "url": "https://www.betstop.gov.au"
+        }
+      },
+      {
+        "country": "カナダ/オンタリオ州",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "オンタリオ州iGamingオープンライセンス市場（Alcohol and Gaming Commission of Ontario）",
+        "statusOrLevel": "カナダ初となる民間オンラインスポーツブックの合法化・数十社が認可参入し闇賭博を駆逐",
+        "keyFeature": "従来の州営宝くじ独占から脱却し、適格民間企業に市場を開放。売上の20%を州が税収として徴収し、地域の病院建設や依存症治療基金へ配分。",
+        "source": {
+          "organization": "オンタリオ州アルコール・賭博委員会 (AGCO) / iGaming Ontario",
+          "title": "iGaming Market Framework and Sports Betting Compliance",
+          "url": "https://www.agco.ca"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "刑法第185条・186条（賭博罪）の例外（公営競技・toto）と民間スポーツベッティング合法化議論",
+        "statusOrLevel": "Jリーグ・Bリーグ対象の「toto」は公認・プロ野球や民間オンラインベッティング解禁検討",
+        "keyFeature": "年間数兆円が海外無認可サイトへ流出している実態を受け、経済産業省がスポーツ振興財源確保策として検討。八百長への懸念やギャンブル依存症対策の不十分さから慎重論が根強い。",
+        "source": {
+          "organization": "経済産業省商務情報政策局 / スポーツ庁",
+          "title": "スポーツ未来開拓会議中間報告書及びスポーツベッティングに関する議論",
+          "url": "https://www.meti.go.jp"
+        }
+      }
+    ]
+  }
 }
