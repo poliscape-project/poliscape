@@ -270,6 +270,8 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
                 <span>
                   {showDeepDive
                     ? "詳しい解説を閉じる ▲"
+                    : policy.temporaryPeriod
+                    ? "特例措置の内容・海外ルール・タイムライン・根拠法・一次情報を見る ▼"
                     : policy.international
                     ? "新旧対照・海外ルール・タイムライン・根拠法・一次情報を見る ▼"
                     : policy.status === "discussing" || policy.status === "proposed"
@@ -282,8 +284,13 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
             {/* 展開される詳細セクション */}
             {showDeepDive && (
               <div className="mt-6 pt-6 border-t border-slate-100 text-left space-y-6 animate-in fade-in duration-300">
-                {/* 新旧対照（詳しいビフォーアフター表） */}
-                <PolicyChangesCard changes={policy.changes} isSimpleMode={isSimpleMode} status={policy.status} />
+                {/* 新旧対照（詳しいビフォーアフター表 / 期間限定の特例措置） */}
+                <PolicyChangesCard
+                  changes={policy.changes}
+                  isSimpleMode={isSimpleMode}
+                  status={policy.status}
+                  temporaryPeriod={policy.temporaryPeriod}
+                />
 
                 {/* 🌍 海外主要国のルール比較（国際比較データがある政策のみ） */}
                 {policy.international && (

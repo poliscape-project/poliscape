@@ -55,19 +55,27 @@ export const PolicyHighlightCards: React.FC<PolicyHighlightCardsProps> = ({
     }));
   }
 
+  const isTemporary = !!policy.temporaryPeriod;
+
   // fallback: highlights が未定義の政策は policy.changes から自動生成
   if (!highlights) {
     highlights =
       policy.changes && policy.changes.length > 0
         ? policy.changes.slice(0, 4).map((c, idx) => ({
             label: c.topic,
-            value: c.highlight || (isUnderDiscussion ? "見直し案" : "新制度"),
+            value: c.highlight || (isUnderDiscussion ? "見直し案" : isTemporary ? "特例措置" : "新制度"),
             unit: "",
-            oldValue: isUnderDiscussion ? `現行: ${c.before}` : `これまで: ${c.before}`,
+            oldValue: isUnderDiscussion
+              ? `現行: ${c.before}`
+              : isTemporary
+              ? `通常時: ${c.before}`
+              : `これまで: ${c.before}`,
             description: c.after,
-            badge: c.highlight || (isUnderDiscussion ? "審議中" : "新制度"),
+            badge: c.highlight || (isUnderDiscussion ? "審議中" : isTemporary ? "時限措置" : "新制度"),
             badgeColor: isUnderDiscussion
               ? "bg-amber-100 text-amber-900"
+              : isTemporary
+              ? "bg-blue-100 text-blue-900"
               : idx % 2 === 0
               ? "bg-teal-100 text-teal-800"
               : "bg-emerald-100 text-emerald-800",
@@ -118,7 +126,7 @@ export const PolicyHighlightCards: React.FC<PolicyHighlightCardsProps> = ({
               </div>
 
               <div className="mt-3 pt-2.5 border-t border-slate-100">
-                <div className="text-[11px] text-slate-400 line-through truncate">
+                <div className={`text-[11px] text-slate-400 truncate ${isTemporary ? "" : "line-through"}`}>
                   {card.oldValue}
                 </div>
                 <div className="text-xs font-bold text-teal-700 mt-0.5 leading-snug">

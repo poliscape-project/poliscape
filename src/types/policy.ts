@@ -44,6 +44,8 @@ export interface PolicyTopic {
   categoryLabel: string;
   lastUpdated: string;
   effectiveDate?: string;
+  // 時限措置・期間限定の施策の場合の適用期間表示（例: "2024年6月実施（単年度限定）"）
+  temporaryPeriod?: string;
   status: PolicyStatus;
   statusLabel: string;
 
