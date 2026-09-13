@@ -225,5 +225,102 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "DollarSign"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国におけるマルチ商法（ピラミッドスキーム・MLM・無形商品マルチ）のネット勧誘規制・クーリングオフ法制比較",
+    "comparisonSummary": "情報商材や暗号資産を商材とする「モノなしマルチ」被害の激増に対し、米国FTCは厳格な事業実態審査と違法ピラミッド摘発、欧州は不公正取引指令による全面禁止を敷いており、日本の特商法見直し議論と軌を一にしています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "FTC法第5条ピラミッドスキーム規制（Koscot基準 / FTC v. BurnLounge基準）",
+        "statusOrLevel": "実質的な外部消費者への商品販売実績のない「新規会員勧誘報酬優先モデル」の違法化・資産凍結",
+        "keyFeature": "連邦取引委員会（FTC）が巨大MLM企業（Herbalife、Advocare等）を提訴し巨額和解や是正命令。無形投資や仮想通貨マルチに対し即時Webサイト閉鎖と資金差押えを執行。",
+        "source": {
+          "organization": "連邦取引委員会 (FTC)",
+          "title": "Multi-Level Marketing Businesses and Pyramid Schemes Enforcement",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "欧州連合 (EU) / フランス",
+        "countryCode": "EU",
+        "flag": "🇫🇷",
+        "systemName": "不公正商慣行指令（UCPD 2005/29/EC）ブラックリストおよび消費法典",
+        "statusOrLevel": "ピラミッド型販売スキーム（Vente pyramidale）の全面禁止・最高2年禁錮および30万ユーロ罰金",
+        "keyFeature": "会員紹介によるマージンが主たる収入となるネットワーク販売を「いかなる状況でも不当」なブラックリスト商法に指定。SNS上のインフルエンサーによるマルチ勧誘も刑事処罰。",
+        "source": {
+          "organization": "フランス競争・消費・不正抑止総局 (DGCCRF) / 欧州委員会",
+          "title": "Interdiction de la vente pyramidale et pratiques commerciales déloyales",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "取引不正行為防止消費者保護規則（CPRs 2008）および取引基準局（Trading Standards）",
+        "statusOrLevel": "ピラミッドプロモーションスキームの禁止および14日間の法定クーリングオフ権",
+        "keyFeature": "競争・市場庁（CMA）が管轄。参加者が新規加入者からの金銭拠出のみをあてにして見返りを得るスキームの運用・宣伝・運営への関与を即座に犯罪として訴追。",
+        "source": {
+          "organization": "英国競争・市場庁 (CMA) / 取引基準局 (CTSI)",
+          "title": "Consumer Protection from Unfair Trading Regulations and Pyramid Schemes",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "不正競争防止法（UWG）第16条プログレッシブ販売禁止（Progressive Kundenwerbung）",
+        "statusOrLevel": "雪だるま式顧客勧誘（Schneeballsystem）に対する最高2年の禁錮刑および民法クーリングオフ",
+        "keyFeature": "商品の価値ではなく紹介料を目的に連鎖する販売構造を刑罰付きで禁止。訪問販売・オンライン販売におけるEU共通の14日間無条件契約撤回権（Widerrufsrecht）を完備。",
+        "source": {
+          "organization": "ドイツ連邦司法省 (BMJ) / 連邦消費者センター (vzbv)",
+          "title": "Gesetz gegen den unlauteren Wettbewerb (UWG) - Verbot von Schneeballsystemen",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "オーストラリア消費者法（ACL）ピラミッドスキーム禁止規定",
+        "statusOrLevel": "ACCCによる違法スキーム参加・勧誘者に対する個人最大250万豪ドル、法人最大5,000万豪ドルの民事制裁金",
+        "keyFeature": "「モノなしマルチ（暗号資産、FX自動売買ソフト等）」を直接ターゲット化。参加費の分配が利益の主たる源泉となっている組織を連邦裁判所が即時解散命令。",
+        "source": {
+          "organization": "豪競争・消費者委員会 (ACCC)",
+          "title": "Pyramid schemes and multi-level marketing under the Australian Consumer Law",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "伝銷禁止条例（禁止伝銷条例）および直銷管理条例",
+        "statusOrLevel": "多面的なマルチ商法（多層ネット販売・伝銷）の原則全面禁止・厳格な1層直販のみ認可",
+        "keyFeature": "紹介報酬が2段階以上連鎖する構造をすべて違法な「伝銷」として摘発・刑事罰適用。SNSやライブ配信アプリ（WeChat、Douyin等）でのマルチ勧誘をAI監視で即座に遮断。",
+        "source": {
+          "organization": "中華人民共和国国家市場監督管理総局 (SAMR)",
+          "title": "Regulations on the Prohibition of Multi-level Marketing (Chuanxiao)",
+          "url": "https://www.gov.cn"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "特定商取引法（連鎖販売取引規制）および20日間のクーリングオフ制度",
+        "statusOrLevel": "書面交付から20日以内のクーリングオフ・「モノなしマルチ（役務・副業ノウハウ等）」への規制強化",
+        "keyFeature": "マッチングアプリやSNS経由のブラインド勧誘の多発を受け、消費者庁が行政処分を強化。契約書の電子交付（電磁的記録）に伴うトラブル防止やクーリングオフ起算日の厳格解釈を推進。",
+        "source": {
+          "organization": "消費者庁",
+          "title": "特定商取引に関する法律（連鎖販売取引）の運用状況及び悪質マルチ商法対策",
+          "url": "https://www.caa.go.jp"
+        }
+      }
+    ]
+  }
 }

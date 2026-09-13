@@ -211,5 +211,102 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Clock"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における成人向けセカンドチャンス教育・夜間中学校・移民言語統合プログラム比較",
+    "comparisonSummary": "不登校経験者や外国籍住民の基礎教育機会を保障するため、ドイツは夕間ギムナジウム、米国は成人高校・GED、韓国は放送通信中学を制度化しており、日本も義務教育機会確保法に基づき全都道府県への公立夜間中設置を進めています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "第2教育ルート（Zweiter Bildungsweg: Abendhauptschule / Abendgymnasium）",
+        "statusOrLevel": "就労者・不登校経験者向けの夜間基幹学校・夕間アビトゥーア取得コースの完全公費無償化",
+        "keyFeature": "各連邦州が公立学校として夜間中等学校を設置。授業料無料であり、成人学習者は生活費補助（BAföG）を受給しながら大学入学資格や中等教育修了証を取得可能。",
+        "source": {
+          "organization": "ドイツ常設各州文部大臣会議 (KMK)",
+          "title": "Vereinbarung über Schulen des Zweiten Bildungsweges (Abendhauptschule etc.)",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "成人教育・家族識字法（WIOA Title II: Adult Education）およびGED夜間プログラム",
+        "statusOrLevel": "学区公立高校による成人夜間クラス・ESL（英語学習）・高卒同等認定（GED）無償支援",
+        "keyFeature": "連邦教育省が各州に補助金を交付。中退した若年層や移民成人に対し、夜間やオンラインで基礎読解・計算・英語授業を完全無償または低廉な費用で提供。",
+        "source": {
+          "organization": "米国教育省キャリア・技術・成人教育局 (OCTAE)",
+          "title": "Adult Education and Family Literacy Act (AEFLA) Programs",
+          "url": "https://www.ed.gov"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "放送通信中学校・高等学校および学歴認定夜間市民学校",
+        "statusOrLevel": "全国の主要都市に公立放送通信中学を附置・オンライン学習と隔週登校による学歴保障",
+        "keyFeature": "義務教育を受けられなかった高齢層や不登校生のため、教育庁が正規の中学校に附置する形で開校。通教とスクーリングを組み合わせ、無償で正規の卒業資格を付与。",
+        "source": {
+          "organization": "大韓民国教育部 / 韓国教育開発院 (KEDI)",
+          "title": "Broadcasting and Correspondence Middle School Management",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "マイクロ・リセ（Micro-lycées）および第2チャンス学校（E2C: Écoles de la 2e chance）",
+        "statusOrLevel": "中退・不登校の若年層（16〜25歳）を再収容する公立少人数制特別夜間・再教育校",
+        "keyFeature": "教育省と地方自治体が連携。従来の学校に適応できなかった生徒に個別メンターを配置し、職業訓練手当を支給しながら中等教育卒業資格（バカロレア等）へ導く。",
+        "source": {
+          "organization": "フランス国民教育・青少年省 / E2C Network",
+          "title": "Les micro-lycées et le réseau des écoles de la deuxième chance (E2C)",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "基礎成人教育（Komvux grundläggande）および移民スウェーデン語教育（SFI）",
+        "statusOrLevel": "基礎自治体（コミューン）に対する全未修了成人への義務教育水準クラス無償提供の法定義務",
+        "keyFeature": "学校法（Skollagen）によりコミューンに設置を義務付け。不登校経験者や難民・外国人住民に対し、昼間・夜間・通信制の柔軟な時間帯で無償教育を実施。",
+        "source": {
+          "organization": "スウェーデン国家教育庁 (Skolverket)",
+          "title": "Komvux på grundläggande nivå och utbildning i svenska för invandrare (SFI)",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "成人移民英語プログラム（AMEP）およびTAFEファンデーションスキルコース",
+        "statusOrLevel": "公立専門技術教育機関（TAFE）による夜間・週末の基礎教育・識字・英語無制限受講",
+        "keyFeature": "定住移民や基礎学歴のない若年層に対し、就労可能な英語力・基礎数学を習得するまで無制限・公費負担で受講できる権利を連邦法で保障。",
+        "source": {
+          "organization": "豪内務省 (Department of Home Affairs) / TAFE",
+          "title": "Adult Migrant English Program (AMEP) and Foundation Skills",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "義務教育機会確保法に基づく公立夜間中学校の全都道府県・政令市設置促進",
+        "statusOrLevel": "戦後の混乱期に学べなかった高齢者に加え、不登校生徒・外国籍生徒への対象拡大と公費整備",
+        "keyFeature": "文部科学省が各都道府県・政令市に最低1校以上の設置を強力に要請。教員加配や就学支援を行い、多様な学習歴を持つ生徒へのセーフティネット教育を確立中。",
+        "source": {
+          "organization": "文部科学省",
+          "title": "義務教育機会確保法の趣旨を踏まえた夜間中学校の設置促進・充実",
+          "url": "https://www.mext.go.jp"
+        }
+      }
+    ]
+  }
 }

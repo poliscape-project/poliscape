@@ -179,5 +179,102 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "FileText"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における退職手続き代理・法的代理権（弁護士独占業務）・民間仲介ビジネス規制比較",
+    "comparisonSummary": "民間退職代行サービスの急成長に対し、諸外国は弁護士独占権（Unauthorized Practice of Law）の厳格執行や公的オンブズマンの介入で無資格交渉を禁じており、日本でも非弁行為の線引きとサービス品質適正化の法制化が求められています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "無資格法律実務禁止規則（UPL: Unauthorized Practice of Law）",
+        "statusOrLevel": "雇用主との法的権利交渉（給与請求・契約解除）を無資格民間企業が行うことを厳格禁止・罰則",
+        "keyFeature": "各州法曹協会（State Bar）が非弁活動を常時監視。単なるメッセージ伝達代行であっても、法的要求を含む交渉を仲介することはUPL違反として即時業務停止命令。",
+        "source": {
+          "organization": "アメリカ法曹協会 (ABA) / 各州最高裁判所",
+          "title": "Model Rules of Professional Conduct - Rule 5.5 Unauthorized Practice of Law",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "法的サービス法（Rechtsdienstleistungsgesetz: RDG）",
+        "statusOrLevel": "紛争性のある労働関係の交渉代行を認可弁護士（Rechtsanwalt）等に限定",
+        "keyFeature": "債権回収や登記代行は一部の認可事業者に開放（LegalTech）されているが、退職に伴う労使間の紛争解決交渉は高度な法規規律の下に置かれ、無認可民間業者の参入を遮断。",
+        "source": {
+          "organization": "ドイツ連邦司法省 (BMJ)",
+          "title": "Gesetz über außergerichtliche Rechtsdienstleistungen (RDG)",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "法務サービス法（Legal Services Act 2007）留保法律活動（Reserved Legal Activities）",
+        "statusOrLevel": "訴訟提起や権利関係の代理権を公認法務専門職（ソリシター・バリスター等）に限定",
+        "keyFeature": "法務サービス委員会（LSB）が監督。非弁業者による不当な手数料詐取を防ぐため、オンライン法務プラットフォームも正規の法務認可機関としての登録・保険加入を要求。",
+        "source": {
+          "organization": "英国法務サービス委員会 (LSB) / 司法省",
+          "title": "Legal Services Act 2007 and Reserved Legal Activities Scope",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "弁護士法（Loi du 31 décembre 1971）および法務相談・代理独占規定",
+        "statusOrLevel": "有償での法律相談・紛争代理行為の弁護士独占・違反者に対する刑事処罰",
+        "keyFeature": "退職に伴う労使交渉は弁護士または公認労働組合代表のみが可能。民間企業が「退職通知代行」を謳って法的アドバイスを提供した場合、違法な弁護士業として警察摘発。",
+        "source": {
+          "organization": "フランス全国弁護士評議会 (CNB) / 法務省",
+          "title": "Monopole de la profession d'avocat et exercice illégal du droit",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "各州法律専門職統一法（Legal Profession Uniform Law）",
+        "statusOrLevel": "無資格者による法律事務取扱の禁止・労働組合（Trade Unions）への法定交渉代理権付与",
+        "keyFeature": "民間営利業者の非弁行為を厳禁とする一方、正規の登録労働組合にはFair Work法に基づき組合員のための退職・解雇・賃金交渉代理権を無償付与して労働者を保護。",
+        "source": {
+          "organization": "豪法律サービスコミッショナー (OLSC) / Fair Work",
+          "title": "Legal Profession Uniform Law - Prohibition on Unqualified Legal Practice",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "弁護士法第109条および公認労務士法第27条（業務制限規定）",
+        "statusOrLevel": "退職・賃金等に関する代理業務を弁護士および公認労務士のみに限定・違反者に最高7年懲役",
+        "keyFeature": "無資格民間企業が代行手数料を受け取って会社と交渉することを世界で最も厳しく刑事処罰。退職支援はオンライン労務プラットフォームと提携した正規労務士が担当。",
+        "source": {
+          "organization": "大韓民国法務部 / 雇用労働部",
+          "title": "Attorney-at-Law Act and Certified Public Labor Attorney Act Enforcement",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "弁護士法第72条（非弁護士の法律事務の取扱い等の禁止）および退職代行の業態整理",
+        "statusOrLevel": "単なる「使者（本人の退職意思の伝達）」と「法律事件の代理・交渉」の境界線画定議論",
+        "keyFeature": "民間企業が退職届の提出代行に留まらず、退職日の調整や有休消化の協議に関与した場合の違法性が指摘される。合同労組型（団交権活用）や弁護士直営サービスとの間で業界自主基準策定が進む。",
+        "source": {
+          "organization": "法務省 / 日本弁護士連合会 (日弁連)",
+          "title": "弁護士法第72条の解釈及び退職代行サービスに関する諸問題",
+          "url": "https://www.moj.go.jp"
+        }
+      }
+    ]
+  }
 }

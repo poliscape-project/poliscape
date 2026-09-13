@@ -211,5 +211,102 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Wallet"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国におけるリフィル処方箋（反復利用処方箋・Repeat Dispensing）の普及制度・インセンティブ比較",
+    "comparisonSummary": "医師の業務負担軽減と通院負担抑制のため、米国や豪州・英国はリフィル処方が処方全体の数割〜大半を占めており、日本も2022年に導入したリフィル処方箋の利用率向上（目標設定・薬局加算）に注力しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "リフィル処方箋（Refill Prescription）制度",
+        "statusOrLevel": "慢性疾患薬（高血圧・コレステロール等）において最大5回・最長1年間のリフィル調剤が事実上の標準",
+        "keyFeature": "医師が処方箋に「Refills: 3回」等と記載すれば、患者は再診を受けずに薬局へ連絡するだけで薬を購入可能。PBMや保険会社も90日分まとめ調剤を推奨。",
+        "source": {
+          "organization": "米国食品医薬品局 (FDA) / DEA",
+          "title": "Prescription Refills and Controlled Substances Schedules Regulations",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS電子反復調剤サービス（Electronic Repeat Dispensing: eRD）",
+        "statusOrLevel": "慢性疾患処方箋の約3〜4割がeRDで発行・最長12ヶ月間医師の診察なしで薬局調剤継続",
+        "keyFeature": "GPが初診時に1年分のeRDを発行。薬局の薬剤師が毎回患者の服薬状況や体調変化をチェックした上で次回分を調剤し、異常があればGPへ逆紹介する安全システム。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS England)",
+          "title": "Electronic Repeat Dispensing (eRD) guidance for GP practices and pharmacies",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "PBSリピート処方箋（Repeat Prescriptions）および60日処方改革",
+        "statusOrLevel": "一般処方箋で最大5回（約半年分）のリピート調剤認可・さらに1回あたり60日分処方を解禁",
+        "keyFeature": "患者の調剤薬局通院回数と自己負担を半減させる「60-day dispensing」を導入。慢性疾患患者の通院・調剤コストを劇的に圧縮。",
+        "source": {
+          "organization": "豪保健高齢者ケア省 (DoHAC) / PBS",
+          "title": "Cheaper medicines and 60-day prescriptions under the PBS",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "処方箋リフィルおよび薬剤師による処方更新権限（Pharmacist Prescribing / Renewal）",
+        "statusOrLevel": "州薬事法に基づくリフィル枠・処方箋切れ時にも薬剤師が自ら最長6ヶ月〜1年分を更新延長可能",
+        "keyFeature": "医師不足を補うため、アルバータ州やオンタリオ州等で薬剤師に処方更新権限を付与。容態が安定している患者は病院に行かず薬局だけで処方継続が完結。",
+        "source": {
+          "organization": "カナダ薬剤師協会 (CPhA) / オンタリオ州保健省",
+          "title": "Pharmacists' Expanded Scope of Practice - Renewing and Adapting Prescriptions",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "分割可能処方箋（Ordonnance renouvelable）制度",
+        "statusOrLevel": "最長1年間の処方箋分割調剤・薬剤師による1ヶ月単位の反復交付と緊急時1ヶ月延長権",
+        "keyFeature": "医師が処方期間（3ヶ月〜1年）を指定し、患者は1ヶ月ごとに薬局で薬を受け取る。処方期限切れでも慢性疾患薬であれば薬剤師の裁量で1回分を補充可能。",
+        "source": {
+          "organization": "フランス健康保険公庫 (Ameli)",
+          "title": "Renouvellement d'ordonnance par le médecin ou le pharmacien",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "複数回処方箋（Mehrfachverordnung）制度（2020年導入）",
+        "statusOrLevel": "慢性期患者に対する1年間に最大4回まで分割調剤可能なE-Rezept処方箋の発行",
+        "keyFeature": "デジタル処方箋（E-Rezept）に複数回有効フラグを設定。患者は医師の再診なしで3ヶ月ごとに健康保険カードを薬局にかざすだけで調剤を受けられる。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG) / 連邦合同委員会 (G-BA)",
+          "title": "Mehrfachverordnung von Arzneimitteln bei chronisch Kranken",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "リフィル処方箋制度（2022年4月導入・最大3回反復利用）",
+        "statusOrLevel": "症状安定患者に対する最長3回までの分割調剤・利用率は1%未満と低迷し普及目標設定へ",
+        "keyFeature": "医療機関の受診回数抑制と患者負担軽減を目的に導入されたが、医療機関側の再診料減収懸念等から普及が遅滞。厚労省は調剤報酬・診療報酬での加算評価や数値目標設定による拡大を検討中。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "リフィル処方箋の仕組み及び普及・活用に向けた取組",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

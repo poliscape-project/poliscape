@@ -225,5 +225,102 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Heart"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における鉄道駅ホームドア（可動式ホーム柵）設置義務化・バリアフリー運賃加算制度比較",
+    "comparisonSummary": "視覚障害者の転落事故防止や飛び込み自殺防止のため、シンガポールや韓国は全地下鉄駅へのホームドア100%設置を義務化し、日本も「鉄道駅バリアフリー料金制度」で利用者が薄く広く運賃加算負担する整備モデルを確立しました。",
+    "countries": [
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "陸上交通庁（LTA）全地下鉄・高架駅フルハイトホームドア100%設置義務",
+        "statusOrLevel": "MRT全路線・全地下駅および地上高架駅における密閉型・可動式スクリーンドア完備",
+        "keyFeature": "世界に先駆けてMRT開業時からフルハイト（完全密閉型）ドアを標準設計。冷房効率向上と転落ゼロを同時に達成。費用は全額国家インフラ予算から投下。",
+        "source": {
+          "organization": "シンガポール陸上交通庁 (LTA)",
+          "title": "Platform Screen Doors Implementation in MRT Networks",
+          "url": "https://www.gov.sg"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "都市鉄道法に基づくホームドア（スクリーンドア: PSD）設置義務化令",
+        "statusOrLevel": "ソウル首都圏電鉄および全国主要都市の全地下鉄・電鉄駅でホームドア設置率ほぼ100%",
+        "keyFeature": "飛び込み事故急増を受け、政府とソウル市が巨額の国費・市費を集中投入して短期間で全駅設置を完了。安全事故の大幅減と空気質改善を実証。",
+        "source": {
+          "organization": "大韓民国国土交通部 / ソウル交通公社",
+          "title": "Urban Railway Safety Regulations and Platform Screen Door Standards",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "フランス/パリ",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "RATP自動運転化（メトロ1号線・4号線等）およびホームゲート（Façades de quai）整備",
+        "statusOrLevel": "全自動無人運転（GoA4）路線におけるフルハイトスクリーンドア設置・混雑主要駅展開",
+        "keyFeature": "既存の歴史的地下鉄（100年以上の旧線）を運行維持したまま夜間工事でホームドアを後付け施工。地域圏交通連合（IDFM）の公的インフラ予算で賄う。",
+        "source": {
+          "organization": "パリ交通公団 (RATP) / イル＝ド＝フランス・モビリティ (IDFM)",
+          "title": "Modernisation du métro parisien et portes palières",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "イギリス/ロンドン",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "鉄道アクセシビリティ規則（PRM TSI）およびエリザベス線（Crossrail）密閉ドア",
+        "statusOrLevel": "ジュビリー線延伸部および新線エリザベス線地下駅全駅にフルハイトスクリーンドア配備",
+        "keyFeature": "チューブ（超狭小断面の旧型深層トンネル）では換気・車両規格の制約から後付け困難な課題を抱えつつ、新線建設や大規模再開発駅ではホームドアを標準義務化。",
+        "source": {
+          "organization": "ロンドン交通局 (TfL) / 運輸省 (DfT)",
+          "title": "Elizabeth line station design and platform screen doors specifications",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "障害を持つアメリカ人法（ADA）駅バリアフリー基準およびJFKエアトレイン",
+        "statusOrLevel": "エレベーターや警告点字ブロック（Truncated Domes）を義務化・新交通システムにPSD導入",
+        "keyFeature": "NY地下鉄等では車両ドア位置の不揃いや古いホーム構造のためホームドア普及が極めて低調。転落防止に向けパイロット試験や警告センサーカメラの導入が先行。",
+        "source": {
+          "organization": "米国連邦鉄道局 (FRA) / 司法省 (ADA)",
+          "title": "ADA Accessibility Guidelines for Transportation Facilities",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "都市軌道交通安全基準および全都市地下鉄スクリーンドア標準化",
+        "statusOrLevel": "北京、上海、広州、深圳など全国数十都市の全地下鉄路線でホームドア普及率100%",
+        "keyFeature": "新設地下鉄の建設計画段階で完全フルハイトドアを必須装備として義務付け。高速鉄道（CRH）の主要駅でも可動柵の整備を急速に拡大。",
+        "source": {
+          "organization": "中華人民共和国交通運輸部",
+          "title": "Urban Rail Transit Operating Safety Management Specifications",
+          "url": "https://www.gov.cn"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "バリアフリー法および「鉄道駅バリアフリー料金制度（2021年創設）」",
+        "statusOrLevel": "乗車1回あたり10円等の運賃上乗せを認可・1日10万人以上駅へのホームドア整備義務化",
+        "keyFeature": "国費補助（国・自治体・事業者の各1/3負担）に加え、利用者が負担するバリアフリー料金を活用して首都圏・関西圏の主要私鉄・JRがホームドア整備を爆発的に加速。",
+        "source": {
+          "organization": "国土交通省鉄道局",
+          "title": "鉄道駅バリアフリー料金制度の創設及びホームドアの整備促進",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

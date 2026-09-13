@@ -185,5 +185,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Layers"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における再生プラスチック（PCR）最低使用比率義務化・包装材リサイクル法制比較",
+    "comparisonSummary": "真のサーキュラーエコノミー構築に向け、EUは飲料ボトルに2025年25%・2030年30%の再生材使用を法律で義務付け、米加州は50%義務化を掲げており、日本の自主目標から義務化への転換論議の指針となっています。",
+    "countries": [
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "特定プラスチック指令（SUP指令）および包装・包装廃棄物規則（PPWR）",
+        "statusOrLevel": "PET飲料ボトルへの再生プラ使用率2025年25%、2030年30%義務化・全包装材再利用規制",
+        "keyFeature": "リサイクル率だけでなく「製品に一定割合の再生プラスチック（rPET等）を含めること」を法定義務化。目標未達企業への市場流通禁止や罰則を段階導入。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Packaging and Packaging Waste Regulation (PPWR) Recycled Content Targets",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "アメリカ/カリフォルニア州",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "使用済み再生プラスチック含有義務法（AB 793）",
+        "statusOrLevel": "州内で販売されるプラスチック飲料容器に2022年15%、2025年25%、2030年50%のPCR含有義務付け",
+        "keyFeature": "全米で最も厳しい再生材義務。基準に達していない飲料メーカーに対し、不足分1ポンドあたり20セントの高額ペナルティ（過料）を徴収しリサイクル基盤へ再投資。",
+        "source": {
+          "organization": "カリフォルニア州資源リサイクル回収局 (CalRecycle)",
+          "title": "Postconsumer Recycled Content (PCR) Mandates for Plastic Beverage Containers (AB 793)",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "プラスチック包装税（Plastic Packaging Tax: PPT）",
+        "statusOrLevel": "再生プラスチック比率が30%未満のプラスチック包装に対し1トンあたり217.85ポンド課税",
+        "keyFeature": "強制命令ではなく「税制ペナルティ」により市場メカニズムで再生材利用を誘導。企業がバージンプラスチックを使用する経済的動機を大幅に削ぎ、再生プラ市場を創出。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC)",
+          "title": "Plastic Packaging Tax (PPT) rules and guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "包装法（Verpackungsgesetz: VerpackG）およびデポジット（Pfand）連動",
+        "statusOrLevel": "デポジット回収率98%のボトルリサイクルフローとEU目標を上回る再生材使用率達成",
+        "keyFeature": "中央包装登録局（ZSVR）が企業の包装材組成を完全監査。再生材使用比率を高めたメーカーに対し、デュアルシステム委託費用（ライセンス料）を大幅に割引く経済設計。",
+        "source": {
+          "organization": "ドイツ連邦環境省 (BMUV) / 中央包装登録局 (ZSVR)",
+          "title": "Verpackungsgesetz (VerpackG) und Rezyklateinsatzquoten",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "循環経済法（AGEC法）プラスチック再生材組み込み義務",
+        "statusOrLevel": "2025年までに使い捨てプラスチック包装の再利用・リサイクル100%達成目標",
+        "keyFeature": "国家戦略としてボトルの水平リサイクル（Bottle to Bottle）を推進。食品接触用途の再生プラスチック安全性認証（ANSES審査）を迅速化し供給網を整備。",
+        "source": {
+          "organization": "フランス生態移行・エネルギー省",
+          "title": "Loi AGEC : Incorporation de plastique recyclé dans les emballages",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家包装目標（National Packaging Targets 2025）およびAPCO",
+        "statusOrLevel": "包装材全体における平均50%の再生プラスチック使用目標設定（自主目標から義務化検討）",
+        "keyFeature": "オーストラリア包装公約（APCO）を通じた官民共同イニシアチブ。未達の場合は環境保護法（EPBC Act）に基づく強制的な再生材使用比率の法定義務化を警告。",
+        "source": {
+          "organization": "豪気候変動・エネルギー・環境・水資源省 (DCCEEW) / APCO",
+          "title": "National Packaging Targets and Recycled Content Verification",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "プラスチック資源循環促進法およびプラスチック資源循環戦略（2030年再生材利用倍増）",
+        "statusOrLevel": "PETボトルのリサイクル率86%超・ボトルトゥボトル比率拡大および事業者の再生材利用義務化検討",
+        "keyFeature": "世界トップ水準の分別回収率を誇る一方、再生材の使用は企業の自主目標（自主行動計画）が中心。欧米の義務化規制に対応するため、国内でも特定包装容器への再生プラ最低含有義務化の法制化論議が進行中。",
+        "source": {
+          "organization": "環境省 / 経済産業省",
+          "title": "プラスチック資源循環戦略及び再生材の利用促進に向けた検討",
+          "url": "https://www.env.go.jp"
+        }
+      }
+    ]
+  }
 }

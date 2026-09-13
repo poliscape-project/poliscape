@@ -211,5 +211,102 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における嫡出推定（父性推定）規定・女性の再婚禁止期間・無戸籍児童防止法制比較",
+    "comparisonSummary": "DV避難による無戸籍児の発生を防止するため、フランスやドイツは女性の再婚禁止期間を廃止し、DNA鑑定による客観的親子関係の確定を容易に認めており、日本も2024年の民法改正で再婚禁止期間撤廃と嫡出推定見直しを施行しました。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "民法典（Code civil）第312条嫡出推定および300日再婚禁止期間の全廃",
+        "statusOrLevel": "2004年に女性の再婚禁止期間を完全廃止・婚姻外出生子と嫡出子の法的完全平等化",
+        "keyFeature": "出生届は病院の医師・助産師が3日以内に役場へ直接提出。親の婚姻関係と切り離して戸籍（État civil）が作成されるため、親の離婚係争が無戸籍児童を生む構造が存在しない。",
+        "source": {
+          "organization": "フランス法務省",
+          "title": "Code civil - De la filiation et de la présomption de paternité",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "民法典（BGB）第1592条父性規定および再婚禁止期間の廃止",
+        "statusOrLevel": "再婚禁止期間は1998年親子法改正で完全撤廃・認知および親子関係不存在確認の迅速化",
+        "keyFeature": "離婚成立前の別居期間中に妊娠した場合、元夫の同意と実父の認知届により元夫の嫡出推定を直接排除可能。出生届は登記官に直接届け出られ、無登録児童を防止。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ)",
+          "title": "Reform des Abstammungsrechts und Vaterschaftsanfechtung",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "統一親子法（Uniform Parentage Act: UPA）および任意父性認知（AOP）",
+        "statusOrLevel": "女性の再婚禁止期間は全州で存在せず・出生届時の生物学的父性宣誓（AOP）制度",
+        "keyFeature": "母親が別居中の元夫と離婚していなくても、出産時に実父と連名で「自発的父性認知（AOP）」書面に署名すれば、即座に実父が記載された公的出生証明書（Birth Certificate）が発行。",
+        "source": {
+          "organization": "全米州法統一委員会 (ULC) / HHS",
+          "title": "Uniform Parentage Act (UPA) and Voluntary Acknowledgment of Paternity",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "出生・死亡登録法（Births and Deaths Registration Act 1953）",
+        "statusOrLevel": "女性の再婚待機期間なし・出生から42日以内の登録義務・DNA検査による迅速訂正",
+        "keyFeature": "父親の名前を出生届に記載する際、既婚でなければ母親と同席して共同登録。推定による誤記載があっても裁判所でDNA証拠を提出すれば登記簿の訂正が迅速に認可。",
+        "source": {
+          "organization": "英国登記総局 (General Register Office) / 内務省",
+          "title": "Register a birth and paternity declarations in the UK",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "親子法典（Föräldrabalken）および社会福祉委員会による父性確認",
+        "statusOrLevel": "再婚禁止期間なし・非嫡出子であっても社会福祉委員会が父性を特定・確認する職権義務",
+        "keyFeature": "婚姻関係のない親から生まれた子どもに対し、自治体の社会委員会が調査官を配置して父性を特定し、養育費支払いを確保。子どもの権利条約に基づく完全な身元保障。",
+        "source": {
+          "organization": "スウェーデン家庭法・親権支援庁 (MFoF)",
+          "title": "Föräldrabalken och fastställande av faderskap och föräldraskap",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "民法第844条嫡出推定および親生否認の許可請求制度（2018年憲法裁判所判決後改正）",
+        "statusOrLevel": "離婚後300日以内出生児に対する家庭裁判所の簡易な「親生否認許可請求」新設",
+        "keyFeature": "かつての厳格な訴訟手続きを改め、遺伝子検査結果を添付すれば簡易な審判手続きで元夫の推定を排除し、現在の実父として出生申告できる法改正を先行実施。",
+        "source": {
+          "organization": "大韓民国法務部 / 大法院",
+          "title": "Civil Act Amendments on Paternity Presumption and Child Birth Registration",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "改正民法（2024年4月施行・嫡出推定の見直しと女性の再婚禁止期間廃止）",
+        "statusOrLevel": "女性の「100日再婚禁止期間」を完全撤廃・離婚後300日以内の出生でも再婚後は現夫の子と推定",
+        "keyFeature": "DV等の理由で前夫の子と扱われることを恐れ出生届が出されない無戸籍児問題を解消するため、明治以来の嫡出推定規定を抜本改正。母親や子ども本人からの「親生否認権」も新設。",
+        "source": {
+          "organization": "法務省",
+          "title": "民法（親子法制）等の改正に関する情報（無戸籍問題の解消に向けて）",
+          "url": "https://www.moj.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -185,5 +185,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Calendar"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における外国人居住者ID・滞在許可証と国家デジタル身分証の一体化法制比較",
+    "comparisonSummary": "外国人住民の行政利便性向上と不法滞在防止のため、欧州（エストニアやドイツ）はEU共通仕様の電子滞在許可証（eAT）を自国のeID基盤へ完全統合しており、日本の「特定在留カード」創設もこれらと同一の構造です。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "電子滞在許可証（eAT: elektronischer Aufenthaltstitel）およびOnline-Ausweis機能",
+        "statusOrLevel": "EU規則準拠のICチップ内蔵在留カード・ドイツ国民のIDカードと同一のデジタル行政機能完備",
+        "keyFeature": "滞在許可証カード自体に連邦身分証（eID）機能が搭載されており、外国人住民もドイツ国民と全く同一のスマホアプリ（AusweisApp）で各種行政手続きや銀行口座開設を完結。",
+        "source": {
+          "organization": "ドイツ連邦移民難民庁 (BAMF) / 連邦内務省 (BMI)",
+          "title": "Der elektronische Aufenthaltstitel (eAT) und Online-Ausweisfunktion",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "エストニア",
+        "countryCode": "EE",
+        "flag": "🇪🇪",
+        "systemName": "居住許可カード（Residence Permit Card / Elamisloakaart）",
+        "statusOrLevel": "外国人居住者カードへの国家デジタル署名・eID機能の100%完全一体化",
+        "keyFeature": "エストニア国民カードと全く同一の暗号化チップを搭載。税務申告、デジタル処方箋受領、交通機関利用、民間契約のデジタル署名が外国人カード1枚で完結。",
+        "source": {
+          "organization": "エストニア警察・国境警備局 (PPA)",
+          "title": "Residence permit card and digital identity for foreign residents",
+          "url": "https://www.politsei.ee"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "滞在許可証（Titre de séjour）およびANEF外国人ポータル",
+        "statusOrLevel": "生体認証IC滞在許可証と国家ポータルFranceConnectを通じた税務・医療身分連携",
+        "keyFeature": "生体認証（指紋・顔写真）内蔵カードを交付。FranceConnectデジタル身分証と連結し、社会保障番号（Numéro de sécurité sociale）や運転免許証とオンライン紐付け。",
+        "source": {
+          "organization": "フランス内務省・外国人総局 (DGEF)",
+          "title": "Titre de séjour biométrique et démarches en ligne sur l'ANEF",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "永住権カード（Green Card）/ 就労許可証（EAD）およびREAL ID運転免許連携",
+        "statusOrLevel": "全米各州における非市民（Non-Citizen）向けREAL ID運転免許証の発行とSAVEデータベース照会",
+        "keyFeature": "連邦移民局（USCIS）のSAVEシステムを通じ、各州DMVがリアルタイムで滞在資格を確認した上で、在留期限に連動したREAL ID運転免許証（身分証）を交付。",
+        "source": {
+          "organization": "米国市民権移民局 (USCIS) / DHS",
+          "title": "Systematic Alien Verification for Entitlements (SAVE) Program",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "外国人身分登録証（FIN / Employment Pass）およびSingpass統合",
+        "statusOrLevel": "外国人居住者の就労ビザ・滞在資格を国家デジタルID「Singpass」へ完全統合",
+        "keyFeature": "外国人登録番号（FIN）保有者はSingpassアプリを即時取得可能。スマホ単体で居住証明、納税、銀行手続きを市民と完全に差別なく行える世界最高水準のスマートID。",
+        "source": {
+          "organization": "シンガポール入国管理局 (ICA) / 人材開発省 (MOM)",
+          "title": "Identity Cards for Foreigners and Singpass Integration",
+          "url": "https://www.gov.sg"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "オンラインビザ照会システム（VEVO）およびmyGov連携",
+        "statusOrLevel": "物理的な滞在ビザシールの完全廃止・パスポート番号に基づくデジタルビザ確認とmyGov ID",
+        "keyFeature": "紙やプラスチックの在留カードを発行せず、電子旅券番号にビザ資格をクラウド直結。雇用主や警察はVEVOシステムでオンライン即時照会。myGovIDとも連携。",
+        "source": {
+          "organization": "豪内務省 (Department of Home Affairs)",
+          "title": "Visa Entitlement Verification Online (VEVO) and Digital Identity",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "出入国管理及び難民認定法等改正（2024年成立・特定在留カード制度）",
+        "statusOrLevel": "在留カードとマイナンバーカードを一体化した「特定在留カード」の交付（希望者制・2025年以降開始）",
+        "keyFeature": "2枚のカードを所持・更新する外国人住民の負担を解消。出入国在留管理庁とデジタル庁がシステム連携し、入管窓口でマイナカード機能付きの一体化カードを即日受領可能にする。",
+        "source": {
+          "organization": "出入国在留管理庁 / デジタル庁",
+          "title": "出入国管理及び難民認定法等の一部を改正する法律（特定在留カードの創設）",
+          "url": "https://www.moj.go.jp"
+        }
+      }
+    ]
+  }
 }

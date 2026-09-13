@@ -217,5 +217,102 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "TrendingUp"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における脳卒中・神経リハビリテーションの給付期間上限・生活期リハビリ保障比較",
+    "comparisonSummary": "脳卒中後の機能回復を最大化するため、ドイツは医学的必要性に基づくフェーズ制（B〜E）で無期限リハビリを保障し、英国はNICEガイドラインに基づき在宅・地域での長期ケアをNHS全額公費で継続しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "神経リハビリテーション・フェーズモデル（Phasenmodell der neurologischen Frührehabilitation）",
+        "statusOrLevel": "一律の日数制限なし・フェーズB（急性期早期）からフェーズE（職業復帰）まで継続給付",
+        "keyFeature": "日数の画一的打ち切りを行わず、機能改善の可能性が認められる限り法定健康保険（GKV）や年金保険からリハビリ給付を延長。生活期には地域外来リハビリ施設がサポート。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG) / 連邦年金保険 (DRV)",
+          "title": "Phasenmodell der neurologischen Rehabilitation und BAR-Richtlinien",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NICE脳卒中リハビリテーション国家臨床ガイドライン（NG236）およびESD",
+        "statusOrLevel": "早期支援退院（ESD: Early Supported Discharge）および在宅リハビリテーションの無料提供",
+        "keyFeature": "NHSにおいて退院後も理学療法士・作業療法士・言語聴覚士チームが患者宅を訪問。機能向上が見込める限り、週数回のリハビリテーションを公費全額負担で提供。",
+        "source": {
+          "organization": "英国国立医療技術評価機構 (NICE) / NHS",
+          "title": "Stroke rehabilitation in adults - NICE guideline [NG236]",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "メディケア入院リハビリテーション施設（IRF）「3時間ルール」および外来療法上限撤廃",
+        "statusOrLevel": "集中的リハビリ（1日3時間以上）のIRF給付、およびBipartisan Budget Actによる外来上限撤廃",
+        "keyFeature": "過去にあった外来リハビリの年間給付上限（Therapy Cap）を連邦議会が完全撤廃。医学的必要性がある限り、慢性期・生活期でも理学療法を継続受療可能。",
+        "source": {
+          "organization": "米国メディケア・メディケイド・サービス庁 (CMS)",
+          "title": "Inpatient Rehabilitation Facilities and Therapy Cap Repeal",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "医療・リハビリケア（SMR: Soins médicaux et de réadaptation）および重大疾病（ALD）",
+        "statusOrLevel": "脳卒中患者はALD指定（100%全額公費給付）・日数の画一的上限なく地域ケア移行",
+        "keyFeature": "公的健康保険において患者自己負担ゼロ。回復期専門クリニックでの集中訓練後、自治体の健康ネットワーク（Réseau AVC）を通じて在宅キネシテラピー（理学療法）へ円滑移行。",
+        "source": {
+          "organization": "フランス高等保健機構 (HAS) / 保健省",
+          "title": "Soins médicaux et de réadaptation (SMR) après un accident vasculaire cérébral",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "地域リハビリテーション（Hemsjukvård）および基礎自治体継続プログラム",
+        "statusOrLevel": "地域（Region）病院からコミューン（市町村）へのシームレスな移行・自立維持支援",
+        "keyFeature": "生活期リハビリは基礎自治体の専任スタッフが家庭環境を改修しつつ継続。画一的な医療保険の日数上限を排し、本人が自立した日常生活を営む権利を保障。",
+        "source": {
+          "organization": "スウェーデン国家保健福祉委員会 (Socialstyrelsen)",
+          "title": "Nationella riktlinjer för vård och rehabilitering vid stroke",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "脳卒中財団（Stroke Foundation）国家臨床ガイドラインおよびNDIS",
+        "statusOrLevel": "65歳未満の重度後遺症者に対する国家障害保険制度（NDIS）による生涯リハビリ保障",
+        "keyFeature": "メディケアによる公立病院リハビリに加え、若年性脳卒中サバイバーにはNDISが生涯にわたる機能訓練・アシスティブテクノロジーの費用を全額支給。",
+        "source": {
+          "organization": "オーストラリア脳卒中財団 / DoHAC",
+          "title": "Clinical Guidelines for Stroke Management and NDIS Support",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "診療報酬における脳血管疾患等リハビリテーション料「算定日数上限（180日）」と除外規定",
+        "statusOrLevel": "発症から180日を超えた場合の月13単位制限・介護保険リハビリへの移行促進",
+        "keyFeature": "医療保険財政の適正化を目的に設けられた180日ルールに対し、生活期での機能維持・改善を阻むとの指摘を受け、改善傾向にある患者の例外規定や介護保険リハビリとの連携見直しが進行。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "診療報酬改定における疾患別リハビリテーション料の見直しについて",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

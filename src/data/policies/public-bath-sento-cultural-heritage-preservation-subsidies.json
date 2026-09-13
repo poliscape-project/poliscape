@@ -217,5 +217,102 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における歴史的公衆浴場・サウナ・温泉文化の文化財保全・光熱費公費助成・健康増進拠点化比較",
+    "comparisonSummary": "温浴文化の継承と公衆衛生・コミュニティ維持のため、フィンランドはサウナを無形文化遺産に登録し公費修繕、ハンガリーや英国は歴史的公営浴場を文化財保全基金で支援しており、日本の銭湯支援と共通の理念を有しています。",
+    "countries": [
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "フィンランド・サウナ文化（UNESCO無形文化遺産）および公衆サウナ保全基金",
+        "statusOrLevel": "伝統的公共サウナ（Rajaportti等）の文化財指定および地方自治体による運営・光熱費助成",
+        "keyFeature": "サウナを国民のメンタルヘルスと社会統合の基幹インフラと位置付け。歴史的公共サウナの維持修繕費を国家遺産庁（Museovirasto）が公費助成し、市民の憩いの場を保全。",
+        "source": {
+          "organization": "フィンランド国家遺産庁 (Museovirasto) / 文部文化省",
+          "title": "Sauna culture in Finland - UNESCO Intangible Cultural Heritage",
+          "url": "https://www.museovirasto.fi"
+        }
+      },
+      {
+        "country": "ハンガリー/ブダペスト",
+        "countryCode": "HU",
+        "flag": "🇭🇺",
+        "systemName": "ブダペスト歴史的温泉浴場公社（BGYH）および国営温泉療法（Balneotherapy）",
+        "statusOrLevel": "セーチェーニ温泉・ゲッレールト温泉等の公営管理・公的医療保険処方による入浴割引",
+        "keyFeature": "市営公社が巨大な歴史的浴場を直営し、観光客からの高額料金収入を地元住民の低廉な健康増進利用や老朽配管の大規模改修費用に内部相互補助。",
+        "source": {
+          "organization": "ブダペスト市温泉公社 (BGYH) / ハンガリー観光局",
+          "title": "Budapest Spas and Thermal Baths Preservation and Medical Balneology",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "歴史的ビクトリア朝公衆浴場（Historic Public Baths）保全トラストおよびプール支援基金",
+        "statusOrLevel": "エネルギープライス高騰に対するスポーツ・イングランドによる6,000万ポンドの緊急公費助成",
+        "keyFeature": "イングリッシュ・ヘリテッジが指定建造物（Grade II）の浴場を保護。急激なガス・電気代高騰で閉鎖危機に瀕した歴史的公共温水プールに対し政府が緊急救済基金を配分。",
+        "source": {
+          "organization": "英国文化・メディア・スポーツ省 (DCMS) / Sport England",
+          "title": "Swimming Pool Support Fund and Heritage Bathhouse Protection",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "地域銭湯（モギョクタン）・チムジルバンおよび農山漁村共同浴場設置事業",
+        "statusOrLevel": "過疎地自治体における住民福祉共同入浴施設の設置運営・高齢者入浴利用券（チケット）配布",
+        "keyFeature": "内湯のない高齢者世帯が多い郡部において、自治体が共同浴場を直営または民間銭湯と委託契約。年間数十枚の無料入浴券を高齢者へ支給し健康見守りを兼ねる。",
+        "source": {
+          "organization": "大韓民国行政安全部 / 農林畜産食品部",
+          "title": "Vulnerable Rural Area Joint Bathhouse Project and Elder Care Tickets",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "自治体公営浴場・保養地（Kurort / Heilbad）制度および公的クア入浴給付",
+        "statusOrLevel": "市町村営（Stadtwerke）温水プール・サウナの赤字補填および保養地認定補助金",
+        "keyFeature": "公衆衛生と市民の健康増進のため、市営インフラ公社（Stadtwerke）が電力・ガス事業の利益で公衆温浴施設の赤字を補填する「クロス・サブシディ（交差補助）」が定着。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG) / ドイツ温泉協会 (DHV)",
+          "title": "Kuren und Heilbäder - Gesetzliche Vorsorge- und Reha-Leistungen",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "トルコ",
+        "countryCode": "TR",
+        "flag": "🇹🇷",
+        "systemName": "歴史的ハマム（Turkish Bath / Hamam）文化財保護法および修復助成",
+        "statusOrLevel": "文化観光省によるオスマン帝国期公衆浴場の保存修復基金および観光活用",
+        "keyFeature": "ワクフ（宗教・慈善財団）が所有する伝統的ハマムに対し、国が低利融資と文化財修繕助成金を供与。地元住民の清浄儀礼と外国人観光を組み合わせた自立採算を支援。",
+        "source": {
+          "organization": "トルコ文化観光省 / ワクフ総局",
+          "title": "Protection and Restoration of Historic Turkish Baths (Hamams)",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "公衆浴場法に基づく物価統制令（統制額）および地域銭湯の設備投資・燃料高騰緊急補助",
+        "statusOrLevel": "都道府県ごとの入浴料金上限指定・国の地域生活支援交付金によるボイラー更新・燃料費補填",
+        "keyFeature": "地域の高齢者見守り・ヒートショック予防の健康拠点として再評価。国の交付金を活用し、重油・都市ガス価格高騰対策の直接補助金や登録有形文化財銭湯の改修支援を推進。",
+        "source": {
+          "organization": "厚生労働省 / 総務省",
+          "title": "公衆浴場法関係通知及び公衆浴場維持支援策について",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

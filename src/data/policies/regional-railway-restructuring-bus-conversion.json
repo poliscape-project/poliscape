@@ -205,5 +205,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "MapPin"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における超過疎ローカル線の廃止・バス高速輸送システム（BRT）転換・公費存続判断比較",
+    "comparisonSummary": "沿線人口減少で維持困難となった赤字ローカル鉄道に対し、欧米は輸送密度基準に基づくバス転換や、線路敷を活用した専用道BRTへの改修を国策として実施しており、日本の再構築協議会制度の直接の比較対象となっています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "モビリティ基本法（LOM法）第7〜9級ローカル線（Petites lignes）再編",
+        "statusOrLevel": "輸送密度極小の国鉄末端線に対する各地域圏（Région）主導のバス代替（Autocar TER）転換",
+        "keyFeature": "膨大な改修費がかかる老朽ローカル線を廃止し、定時制の高い急行バス（Car Express）へ転換。または線路敷を舗装した専用道バスやサイクリングロード（Voie Verte）として再活用。",
+        "source": {
+          "organization": "フランス生態移行・地域結束省 / SNCF Réseau",
+          "title": "Plan d'action pour les petites lignes ferroviaires et loi LOM",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ビーチング・アックスの歴史的教訓およびケンブリッジ・ガイドウェイ・バスウェイ（BRT）",
+        "statusOrLevel": "廃線跡を活用した世界最長級の案内軌条式専用道BRT運行・運行頻度数倍化",
+        "keyFeature": "1960年代の過激なローカル線全廃（ビーチング報告）の反省を踏まえつつ、利用者の少ない路線は線路敷をコンクリート専用道バスウェイへ転換し、渋滞なしの高速運行を実現。",
+        "source": {
+          "organization": "英国運輸省 (DfT) / Cambridgeshire County Council",
+          "title": "The Guided Busway and rail corridor repurposing schemes",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "鉄道法（AEG）第11条廃止認可基準および地域化交付金（Regiogeld）活用",
+        "statusOrLevel": "連邦鉄道庁（EBA）による廃止認可・州交通公社による急行バス（PlusBus）転換",
+        "keyFeature": "鉄道事業者が一方的に路線を廃止することは違法。引き受け事業者募集（入札）を義務付け、不成立の場合のみ廃止。州が鉄道と同等の等間隔ダイヤを誇る「PlusBus」で代行輸送を保障。",
+        "source": {
+          "organization": "ドイツ連邦鉄道庁 (EBA) / 連邦交通省 (BMDV)",
+          "title": "Stilllegungsverfahren nach § 11 AEG und PlusBus-Netzwerke",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "陸上運輸委員会（STB）鉄道廃止手続き（Abandonment）およびレールズ・トゥ・トレイルズ",
+        "statusOrLevel": "旅客鉄道のほぼ完全な都市間バス（Intercity Bus）転換・廃線跡の国定トレイル化",
+        "keyFeature": "地方ローカル旅客線はアムトラック幹線を除き自動車・バスへ転換済み。廃止された数万マイルの鉄道コリドーは連邦法（Rails-to-Trails）に基づき将来の再利用に備えて保存。",
+        "source": {
+          "organization": "米国陸上運輸委員会 (STB) / 連邦鉄道局 (FRA)",
+          "title": "Rail Abandonment Process and Rails-to-Trails Conversions",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "各州地方交通戦略（NSW TrainLink Coaches / V/Line Road Coaches）",
+        "statusOrLevel": "内陸過疎鉄道路線の運行停止・州営特急バス（Road Coach）ネットワークへの置換",
+        "keyFeature": "巨額の軌道保守費を削減し、鉄道幹線駅と奥地集落を結ぶエアコン付きデラックスバスを過密運行。シニア割引や車椅子対応リフトを全車両に配備。",
+        "source": {
+          "organization": "ニューサウスウェールズ州運輸局 (Transport for NSW)",
+          "title": "Regional train and coach network planning and replacement services",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダ運輸庁（CTA）鉄道不採算路線廃止通知プロセス（Three-Year Plan）",
+        "statusOrLevel": "3カ年事業計画公表義務・地方政府やショートライン（短距離鉄道）への1ドル譲渡手続き",
+        "keyFeature": "国鉄（CN/CP）の路線廃止にあたり、沿線コミュニティへの売却機会を法制化。買い手がつかない場合は連邦交通省の地域バス補助プログラムへシームレスに移行。",
+        "source": {
+          "organization": "カナダ運輸庁 (CTA)",
+          "title": "Discontinuance of rail lines and Transfer Provisions under the Canada Transportation Act",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "地域公共交通活性化再生法改正（2023年施行・再構築協議会制度）",
+        "statusOrLevel": "輸送密度1,000人未満の赤字ローカル線に対する国主導の再構築協議会設置・BRTやバス転換促進",
+        "keyFeature": "JR各社と自治体の膠着状態を打破するため国が直接介入。気仙沼線・大船渡線BRTや日田彦山線BRTひこぼしラインの実績をモデルに、利便性の高いバス高速輸送への円滑移行を後押し。",
+        "source": {
+          "organization": "国土交通省鉄道局",
+          "title": "地域公共交通の活性化及び再生に関する法律の一部を改正する法律の施行について",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

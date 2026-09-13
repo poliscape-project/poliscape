@@ -127,5 +127,102 @@
       "type": "white_paper",
       "typeLabel": "財務省比較調査"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における給付付き税額控除（勤労税額控除・負の所得税モデル）制度比較",
+    "comparisonSummary": "就労意欲を損なわずに低所得層の貧困を救済するため、米国のEITC、英国のユニバーサル・クレジット、フランスの活動手当など、所得税の控除額が税額を上回る場合に差額を現金給付する制度が定着しており、日本の税制改革の宿題となっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "勤労所得税額控除（EITC: Earned Income Tax Credit）および児童税額控除（CTC）",
+        "statusOrLevel": "低中所得勤労者世帯に対する年間最大約7,400ドルの還付金直接現金給付（連邦税制最大級の貧困対策）",
+        "keyFeature": "就労所得に応じて給付額が逓増（フェーズイン）するため労働意欲を強力に刺激。税額控除しきれない還付部分を内国歳入庁（IRS）が確定申告時に一括口座振込。",
+        "source": {
+          "organization": "米国財務省内国歳入庁 (IRS)",
+          "title": "Earned Income Tax Credit (EITC) Tables and Eligibility Criteria",
+          "url": "https://www.irs.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ユニバーサル・クレジット（Universal Credit: UC / 旧Working Tax Credit）",
+        "statusOrLevel": "勤労・非勤労を問わず6つの低所得給付・税額控除を単一の月次給付金に完全統合",
+        "keyFeature": "就労して収入が増えても、給付金が緩やかに減額（テーパー率55%）される設計により、生活保護の受給トラップ（働くと損をする現象）を排除。",
+        "source": {
+          "organization": "英国雇用年金省 (DWP)",
+          "title": "Universal Credit guide - An introduction to work allowances and taper rates",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "活動手当（Prime d'activité / 旧勤労税額控除PPEの発展型）",
+        "statusOrLevel": "SMIC（最低賃金）近傍の低所得就労者約500万世帯に対する月額平均数百ユーロの直接給付",
+        "keyFeature": "家族手当金庫（CAF）が毎四半期の申告に基づき毎月自動振込。税務申告を待たずに即時性のある生活支援を行い、就労継続と可処分所得向上を担保。",
+        "source": {
+          "organization": "フランス全国家族手当金庫 (CNAF) / 労働省",
+          "title": "La prime d'activité : conditions, calcul et démarches",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダ労働者給付（CWB: Canada Workers Benefit）",
+        "statusOrLevel": "単身者最大約1,428ドル、家族世帯最大約2,461ドルの還付可能型税額控除",
+        "keyFeature": "カナダ歳入庁（CRA）が確定申告時に自動算定。さらに「Advanced Payments（事前支給）」として、年末の申告を待たずに年3回に分けて前払い給付する仕組みを導入。",
+        "source": {
+          "organization": "カナダ歳入庁 (CRA)",
+          "title": "Canada Workers Benefit (CWB) - Eligibility and Advance Payments",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "勤労奨励金（EITC: 勤労所得支援税制）および子ども奨励金（CTC）",
+        "statusOrLevel": "年収基準を満たす低所得単身・共働き世帯に年間最大330万ウォンを国税庁が直接支給",
+        "keyFeature": "アジアで初めて2008年にEITCを導入。半期ごとの申請・支給制度（年2回支給）を採用し、自営業者やプラットフォーム労働者にも広く適用。",
+        "source": {
+          "organization": "大韓民国国税庁 (NTS)",
+          "title": "Earned Income Tax Credit (EITC) Application and Distribution System",
+          "url": "https://www.nts.go.kr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "低中所得者税額控除（LMITO）およびファミリータックスベネフィット（FTB）",
+        "statusOrLevel": "所得連動型の還付可能子育て税額控除（FTB Part A/B）による手厚い家計支援",
+        "keyFeature": "税務署（ATO）とServices Australiaが連動し、税額控除または隔週ごとの直接給付を選択可能。過誤受給を防ぐ年次照合メカニズムを確立。",
+        "source": {
+          "organization": "オーストラリア税務局 (ATO) / Services Australia",
+          "title": "Family Tax Benefit and Tax Offsets for Individuals",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "給付付き税額控除の導入構想およびマイナンバー制度を活用した所得・資産把握",
+        "statusOrLevel": "民主党政権期・税と社会保障の一体改革以来の継続課題・定額減税や低所得給付金による対症的代替",
+        "keyFeature": "軽減税率の代替案やベーシックインカム型セーフティネットとして議論されるが、正確な所得・金融資産のリアルタイム把握（マイナンバー口座紐付け）の遅れと制度設計の複雑さから導入が見送られ続けている。",
+        "source": {
+          "organization": "財務省 / 内閣府",
+          "title": "税と社会保障の一体改革における給付付き税額控除の検討状況",
+          "url": "https://www.mof.go.jp"
+        }
+      }
+    ]
+  }
 }

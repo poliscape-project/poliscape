@@ -185,5 +185,102 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "UserCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における空港保安検査の公的主体（TSA等）vs 民間警備委託・検査員待遇基準比較",
+    "comparisonSummary": "空港保安検査の深刻な人手不足と長蛇の列に対し、米国は全額国費の公的TSA職員が検査を担い、欧州は空港会社が直接雇用または高度資格認定を課しており、航空会社任せから公的主体・空港会社責任へシフトする日本の改革の論点となっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "運輸保安庁（TSA: Transportation Security Administration）連邦直営検査体制",
+        "statusOrLevel": "全米主要・地方空港の保安検査員はすべて連邦公務員（TSA Officers）・国費全額運営",
+        "keyFeature": "9.11同時多発テロを受け民間警備委託を全面廃止。連邦職員として手厚い給与・年金と公的訓練を付与し、航空保安を航空会社ではなく国家の安全保障責務として完結。",
+        "source": {
+          "organization": "米国運輸保安庁 (TSA) / 国土安全保障省",
+          "title": "TSA Workforce and Airport Security Screening Operations",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦警察（Bundespolizei）監督下の航空保安検査員（Luftsicherheitsassistent）制度",
+        "statusOrLevel": "連邦警察が保安基準・検査を直接管轄・民間検査員に対する国家公認高水準労使協約賃金",
+        "keyFeature": "検査員不足による大混乱を受け、連邦内務省が検査員の人件費単価を引き上げ。民間受託企業に対し、連邦警察の公認訓練修了者への高額な業界統一賃金支払いを義務付け。",
+        "source": {
+          "organization": "ドイツ連邦警察 (Bundespolizei) / 連邦内務省",
+          "title": "Luftsicherheitskontrollen und Zuständigkeit der Bundespolizei",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "空港運営会社（Airport Operator）直接責任モデルおよびCAA監督",
+        "statusOrLevel": "保安検査の実施責任は航空会社ではなく空港運営会社が直接負う（直営または専属委託）",
+        "keyFeature": "ヒースローやマンチェスター等、空港運営者が自ら保安検査員を正規雇用。次世代CT手荷物スキャナー導入に巨額投資し、液体・ノートPCの取り出しを不要化して人手不足を技術で突破。",
+        "source": {
+          "organization": "英国民間航空局 (CAA) / 運輸省 (DfT)",
+          "title": "Aviation security regulation and Next Generation Security Checkpoints",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "民間航空総局（DGAC）国家航空保安資格（CQP ASA）および空港税（Taxe d'aéroport）",
+        "statusOrLevel": "旅客1人あたりから徴収する空港税財源で保安検査費用を100%全額公的に手当て",
+        "keyFeature": "航空会社や空港の利潤に左右されないよう、独立の「空港税」プールから保安検査費用を支出。国家認定資格（CQP ASA）保持者のみが従事し高度な身分と処遇を保障。",
+        "source": {
+          "organization": "フランス民間航空総局 (DGAC) / 内務省",
+          "title": "Financement et contrôle de la sûreté de l'aviation civile",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダ航空輸送保安公社（CATSA: Canadian Air Transport Security Authority）",
+        "statusOrLevel": "連邦国営公社CATSAが全89空港の保安検査を一元管轄・専属契約警備企業を監査",
+        "keyFeature": "航空会社から保安検査責任を完全に切り離し、連邦予算と航空保安料金（ATSC）で運用。国営公社が全国均一の研修カリキュラムと給与下限ガイドラインを設定。",
+        "source": {
+          "organization": "カナダ航空輸送保安公社 (CATSA) / カナダ運輸省",
+          "title": "Mandate and Performance of Canadian Air Transport Security Authority",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "チャンギ空港Certis CISCO副警察隊（Auxiliary Police Forces）体制",
+        "statusOrLevel": "警察権限を持つ準公的警備部隊による高度自動化ゲート保安検査の運用",
+        "keyFeature": "警察官と同等の権限を持つ専属保安要員を配置し高給で人材を確保。生体認証（顔認証）自動改札と高精度手荷物スキャンを連動させ、最小限のスタッフで高速処理を実現。",
+        "source": {
+          "organization": "シンガポール警察軍 (SPF) / チャンギ空港グループ",
+          "title": "Airport Auxiliary Police and Aviation Security Framework",
+          "url": "https://www.gov.sg"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "航空法に基づく航空会社の保安検査実施義務から「空港管理者・国」への責任主体見直し論議",
+        "statusOrLevel": "地方空港の国際線再開を阻む保安検査員不足・国交省による処遇改善緊急支援とスマートレーン導入",
+        "keyFeature": "法文上「航空会社の義務」とされてきたため警備会社への買い叩きや低賃金が生じていた構造を是正。コンセッション空港管理者への費用負担義務付けや最新CT検査機器補助を国が推進。",
+        "source": {
+          "organization": "国土交通省航空局",
+          "title": "空港保安検査の高度化及び保安検査員の処遇改善に向けた取組",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -205,5 +205,102 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "HeartPulse"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国におけるプライマリ・ケア（かかりつけ医）の制度化・登録制・ゲートキーパー機能比較",
+    "comparisonSummary": "効率的な受療行動と地域包括ケアのため、英仏は公的登録制と専門医受診時のゲートキーパー制度を敷く一方、日本は患者のフリーアクセスを維持しつつ医療機関の機能を可視化する「報告制度」を創設しました。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS一般医（GP: General Practitioner）登録制およびゲートキーパー制度",
+        "statusOrLevel": "全住民が地域GP診療所に事前登録・救急を除き専門医・大病院への受診はGP紹介状が必須",
+        "keyFeature": "受診費用は完全無料。GPが日常的疾患の治療、予防接種、慢性疾患管理を一手に担い、不要な大病院集中を物理的に遮断する厳格なゲートキーピング。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS England)",
+          "title": "GP services and primary care medical gatekeeping",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "主治医登録制度（Médecin traitant）および受療経路（Parcours de soins）",
+        "statusOrLevel": "患者がかかりつけ医を健康保険へ事前登録・かかりつけ医を経由しない受診は保険償還率をペナルティ減額",
+        "keyFeature": "登録主治医を経由せずに直接専門医を受診した場合、通常70%の保険償還率が30%へ激減する経済的インセンティブにより、自主的な受療経路遵守を徹底。",
+        "source": {
+          "organization": "フランス健康保険公庫 (Assurance Maladie / Ameli)",
+          "title": "Le médecin traitant et le parcours de soins coordonnés",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "家庭医集中ケア契約（Hausarztzentrierte Versorgung: HzV）",
+        "statusOrLevel": "法定健康保険（GKV）法に基づく家庭医（Hausarzt）プログラムへの任意加入",
+        "keyFeature": "患者が家庭医プログラムに登録すると、薬の自己負担免除や夜間特別予約などの優遇を付与。家庭医が専門医（Facharzt）との連携・検査重複を統制。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG) / ドイツ家庭医協会",
+          "title": "Hausarztzentrierte Versorgung (§ 73b SGB V)",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "家庭医（Huisarts）登録制および24時間プライマリケア協同組合",
+        "statusOrLevel": "全住民の家庭医登録義務・大病院受診時の家庭医紹介状完全義務化（自己負担免除）",
+        "keyFeature": "家庭医受診には年間控除額（Eigen risico）が適用されず無料。夜間休日は地域の家庭医が共同出資する「Huisartsenpost」が電話トリアージと初期診療を担当。",
+        "source": {
+          "organization": "オランダ政府 (Government.nl) / オランダ医療研究所",
+          "title": "The role of the GP (huisarts) in Dutch healthcare",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "患者中心のメディカルホーム（PCMH: Patient-Centered Medical Home）およびHMO",
+        "statusOrLevel": "民間HMOプランにおける主治医（PCP）事前指定・包括的ケアマネジメント認証",
+        "keyFeature": "質の高いかかりつけ機能を提供する診療所にNCQA（全米品質保証委員会）が認証を付与。保険会社が定額の人頭払い（Capitation）や成果報酬を上乗せ。",
+        "source": {
+          "organization": "米国医療研究品質局 (AHRQ) / CMS",
+          "title": "Defining the Patient-Centered Medical Home (PCMH)",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "MyMedicare（自発的患者登録制度）およびメディケア包括ケア",
+        "statusOrLevel": "かかりつけGP診療所への任意事前登録により、長時間オンライン診療や手厚い慢性期給付を開放",
+        "keyFeature": "患者が特定のGP診療所をMyMedicareに登録すると、政府が診療所に継続ケア管理料を支給。強制登録ではなくインセンティブ付与でかかりつけ医関係を強化。",
+        "source": {
+          "organization": "豪保健高齢者ケア省 (DoHAC)",
+          "title": "MyMedicare - Voluntary Patient Enrolment in General Practice",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "かかりつけ医機能報告制度（改正医療法・2025年4月施行）",
+        "statusOrLevel": "診療所・病院が自らの「かかりつけ医機能（休日夜間対応、在宅医療、介護連携等）」を都道府県へ毎年報告・公表",
+        "keyFeature": "国民の受診の自由（フリーアクセス）を法的に制限せず、患者が自らのニーズに合ったかかりつけ医を主体的に選択できるよう情報をオープンデータ化。地域医療構想と連動。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "かかりつけ医機能が発揮される制度整備について（医療法改正の概要）",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

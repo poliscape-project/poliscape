@@ -211,5 +211,102 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における急性期病床の削減（ダウンサイジング）・地域医療機能再編・病床再編基金比較",
+    "comparisonSummary": "人口減少と医療財政の健全化のため、欧州諸国は公的病床再編基金を通じて過剰な急性期病床を外来・回復期へ大胆に転換・閉鎖しており、日本の地域医療構想や病床削減支援給付金の先駆的モデルとなっています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "病院構造改革法（Krankenhausstrukturgesetz: KHSG）および病院変革基金（Transformationsfonds）",
+        "statusOrLevel": "連邦・州で総額500億ユーロ規模の病院再編基金・病床削減・統合病院への巨額公費助成",
+        "keyFeature": "小規模赤字病院を高度外来・地域健康センター（Level 1i病院）へ機能転換。病床を削減して外来特化に合意した医療機関に対し、解体費や設備更新費を全額支援。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG)",
+          "title": "Krankenhausreform und der Transformationsfonds zur Bettenreduzierung",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "地域保健医療計画（PRS）および地方病院共同体（GHT: Groupements hospitaliers de territoire）",
+        "statusOrLevel": "全国135の地域病院グループへの全公立病院の強制加盟・急性期病床の集約と回復期転換",
+        "keyFeature": "地域圏保健庁（ARS）が主導。近隣の複数病院間で手術室や救急病床を一元集約し、重複する病床を慢性期やリハビリ病床へダウンサイジングする国家再編令。",
+        "source": {
+          "organization": "フランス保健省 / 地域圏保健庁 (ARS)",
+          "title": "Groupements hospitaliers de territoire (GHT) et restructuration hospitalière",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "統合ケアシステム（ICS: Integrated Care Systems / Health and Care Act 2022）",
+        "statusOrLevel": "42の地域統合ケア委員会（ICB）によるNHS急性期病床の配置統制と在宅シフト",
+        "keyFeature": "NHS財源を一括プール。病院の空き病床を維持するのではなく、地域在宅ケア（Virtual Wards / 仮想病棟）への投資に振り向け、不要な入院病床数を計画的に圧縮。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS England)",
+          "title": "Integrated Care Systems (ICS) and hospital reconfiguration plans",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "包括的医療協定（Integraal Zorgakkoord: IZA）病院再編枠組み",
+        "statusOrLevel": "健康保険者連合（ZN）と病院協会（NVZ）による高度専門急性期病床の地域集中化合意",
+        "keyFeature": "高難度手術の最低症例数基準を厳格化し、小規模病院の手術機能を廃止。地域密着型クリニックへのダウンサイジングを行い、浮いた費用を在宅・プライマリケアへ再配分。",
+        "source": {
+          "organization": "オランダ政府 (Government.nl) / 保健福祉スポーツ省",
+          "title": "Integraal Zorgakkoord (IZA) - Samenwerken aan passende zorg",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "農村救急病院（REH: Rural Emergency Hospital）指定転換プログラム",
+        "statusOrLevel": "経営難の過疎地急性期病院が「入院病床ゼロ・24時間救急外来特化」へ転換時にメディケア5%追加加算",
+        "keyFeature": "空床だらけの過疎地病院の破綻を防ぐため、病床を完全廃棄してREHへダウンサイジングすることを条件に、連邦政府が毎月巨額の固定施設手当（月数百万円）を直接支給。",
+        "source": {
+          "organization": "米国メディケア・メディケイド・サービス庁 (CMS) / HRSA",
+          "title": "Rural Emergency Hospitals (REH) Provider Type and Payment Rules",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "高度医療集約化（Nationell högspecialiserad vård）および地域病床最適化",
+        "statusOrLevel": "国家保健福祉委員会が全国の病床数を常時算定・人口比急性期病床数をOECD最低水準へ集約",
+        "keyFeature": "急性期病床を大学病院レベルの拠点病院に徹底集中。早期退院を促し、基礎自治体のナーシングホームや在宅訪問医療が回復期を受け持つ高効率モデル。",
+        "source": {
+          "organization": "スウェーデン国家保健福祉委員会 (Socialstyrelsen)",
+          "title": "Nationell högspecialiserad vård och optimering av vårdplatser",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "地域医療構想および病床機能再編支援事業（病床削減給付金・病床機能分化）",
+        "statusOrLevel": "病床削減1床あたり数十万円〜百数十万円の公費給付金・地域医療連携推進法人による経営統合",
+        "keyFeature": "2025年地域医療構想に基づき過剰な急性期病床の削減や回復期・慢性期への転換を促進。消費税増税分を財源とする病床機能再編支援基金を活用し、民間病院の自発的ダウンサイジングを財政支援。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "地域医療構想の推進及び病床機能再編支援事業の活用状況",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

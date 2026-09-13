@@ -127,5 +127,102 @@
       "type": "official_document",
       "typeLabel": "デジタル庁ポータル"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における公的医療保険カードのデジタル化・未取得者向け暫定証明書・救済措置比較",
+    "comparisonSummary": "保険証の完全デジタル移行を進める各国において、スマホやICカードを持たない高齢者・社会的弱者の受診権を保障するため、ドイツやフランスは紙の証明書発行や長期有効な代替カードを職権交付し、日本も「資格確認書」の無償自動交付を敷いています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "電子健康保険証（eGK: elektronische Gesundheitskarte）および紙の代替証明書",
+        "statusOrLevel": "ICチップ・顔写真付きカードが原則・未所持者に対する保険金庫の即時「治療資格証明書」発行",
+        "keyFeature": "eGKカードを紛失・未取得の被保険者に対し、法定保険金庫（TKやAOK等）が紙の「Behandlungsausweis（治療証明書）」やデジタル受給資格確認書を即座に診療所へFAX/電子送信。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG) / gematik",
+          "title": "Die elektronische Gesundheitskarte (eGK) und Ersatzbescheinigungen",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "カルト・ヴィタル（Carte Vitale）および権利証書（Attestation de droits）",
+        "statusOrLevel": "ICカードのヴィタル携帯が基本・カード不要の紙の権利証書（A4用紙）を全薬局・病院で公式受理",
+        "keyFeature": "カード未所持・更新遅延者でも、健康保険サイト（Ameli）端末や街頭キオスクで印刷できる紙の「権利証明書」を提出すれば100%同一の保険給付・窓口精算を受けられる救済を標準化。",
+        "source": {
+          "organization": "フランス健康保険公庫 (Assurance Maladie / Ameli)",
+          "title": "L'attestation de droits et la carte Vitale papier et dématérialisée",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "オーストリア",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "systemName": "eカード（e-card / 社会保険チップカード）および身元照会プロトコル",
+        "statusOrLevel": "顔写真付きeカードの普及完了・カード不携帯時のオンライン資格確認と一時デポジット",
+        "keyFeature": "カードを持参しなかった場合でも、社会保険番号（SVNr）と公的身分証で現場オンライン照会。照会不能時は一時預り金を預かり、後日カード提示で全額返金するセーフティネット。",
+        "source": {
+          "organization": "オーストリア社会保険統括協会 (Dachverband der Sozialversicherungsträger)",
+          "title": "Die e-card im österreichischen Gesundheitswesen und Ersatzprozesse",
+          "url": "https://www.oesterreich.gv.at"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "医療専用カード全廃・国家個人身分証（BankID / ID-kort）受診システム",
+        "statusOrLevel": "医療専用の保険証は存在せず・運転免許証やパスポート等の公的身分証明書のみで受診",
+        "keyFeature": "病院の受付端末に身分証をかざすかパーソナルナンバー（社会保障番号）を入力すれば、地域医療データベースから受給資格が自動照会されるため、保険証更新・交付の手間が完全ゼロ。",
+        "source": {
+          "organization": "スウェーデンeHealth局 / Försäkringskassan",
+          "title": "Identitetskontroll och patientregistrering inom hälso- och sjukvård",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHSナンバー（NHS Number）およびカードレス受診インフラ",
+        "statusOrLevel": "保険証カード自体が存在せず・10桁のNHSナンバーと氏名・生年月日で受療資格照会",
+        "keyFeature": "国民皆保険の受給資格確認にカードの物理的所持を要求しない。ホームレスや高齢者であっても個人識別情報が確認できれば無条件で医療アクセスを保障。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS England)",
+          "title": "How to find your NHS number and access healthcare services",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "メディケア・デジタルカード（Medicare Digital Card）および物理カード再発行",
+        "statusOrLevel": "myGovアプリ上のデジタルメディケアカードと緑のプラスチックカードの完全併行維持",
+        "keyFeature": "高齢者やデジタル弱者のため、政府はプラスチック製物理カードの定期自動更新・無償郵送を恒久維持。スマホ移行を強制せず二重アクセスを法的に保障。",
+        "source": {
+          "organization": "豪社会保障サービス庁 (Services Australia)",
+          "title": "Manage your Medicare card and get a digital copy",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "マイナ保険証移行後の「資格確認書」職権交付・最長5年有効化方針",
+        "statusOrLevel": "従来の健康保険証廃止に伴い、マイナ保険証を持たない全被保険者に「資格確認書」を申請なしで職権交付",
+        "keyFeature": "保険者が職権で無償自動交付し、有効期間を当初の1年から最長5年へ延長可能とする方針を決定。高齢者施設での一括管理や紛失時の即時再交付ルールを整え、無保険扱いの発生を防止。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "マイナ保険証への移行と資格確認書の取扱いについて",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

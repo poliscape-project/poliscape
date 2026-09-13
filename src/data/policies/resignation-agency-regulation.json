@@ -127,5 +127,102 @@
       "type": "official_document",
       "typeLabel": "日弁連見解資料"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における退職の自由・労働者の雇用終了通知・退職代行・弁護士法（非弁行為）規制比較",
+    "comparisonSummary": "労働者の即時退職の自由を保護しつつトラブルを防止するため、欧米では予告期間（Notice Period）法制や労働組合の代理権、司法制度の利用が一般的であり、日本独自の「民間退職代行業者」と弁護士法72条（非弁活動）の境界が議論となっています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "随意雇用原則（At-Will Employment Doctrine）",
+        "statusOrLevel": "労働者は予告期間なしでいつでも・いかなる理由でも即座に退職可能（事前同意契約除く）",
+        "keyFeature": "法律上「2週間前の予告」は社会的マナーに過ぎず、当日即時退職が原則自由。雇用主が退職を拒否・強要することは不法監禁や強制労働（13条修正）違反となり得、代行業者が介在する余地がそもそも乏しい。",
+        "source": {
+          "organization": "米国労働省 (DOL) / 全米労働関係委員会 (NLRB)",
+          "title": "At-Will Employment Doctrine and Employee Rights to Terminate",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "雇用権利法（Employment Rights Act 1996）退職通知（Notice of Resignation）およびAcas調停",
+        "statusOrLevel": "契約で定められた予告期間（通常1〜4週間）の遵守・公的調停機関Acasによる無料紛争解決",
+        "keyFeature": "会社が退職届を受理しないハラスメントに対しては、公的調停機関Acasが介入。さらに退職代行ではなく公認労働組合のショップ・スチュワードが労働者の交渉を合法代理。",
+        "source": {
+          "organization": "英国雇用審判所 / 助言調停仲裁局 (Acas)",
+          "title": "Handing in your notice and resignation procedures guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "労働法典（Code du travail）退職通知（Démission）および合意解約（Rupture conventionnelle）",
+        "statusOrLevel": "内容証明郵便（Lettre recommandée）による一方的意思表示で退職確定・会社の拒否権なし",
+        "keyFeature": "退職届は会社の「承認」を必要としない形成権。配達証明郵便が会社に届いた時点で法的に退職手続きが進行。会社の違法行為があれば即時契約破棄（Prise d'acte）を宣告可能。",
+        "source": {
+          "organization": "フランス労働・完全雇用省",
+          "title": "Code du travail : Démission du salarié et préavis",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "民法典（BGB）第622条・第626条解約告知（Kündigung）および重大事由による即時解約",
+        "statusOrLevel": "書面による一方的解約告知（Kündigungsschreiben）・ハラスメント等の重大事由による即時退職権",
+        "keyFeature": "労働者が自筆署名した書面を交付すれば、会社の同意なしに法的に雇用終了。弁護士法（BRAO）により、報酬を得て労働交渉を行う代理権は公認弁護士に厳格限定。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS) / 連邦司法省",
+          "title": "Kündigung des Arbeitsvertrages durch den Arbeitnehmer (§ 622 BGB)",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "公正労働法（Fair Work Act 2009）退職手続きおよび退職強要（Constructive Dismissal）規制",
+        "statusOrLevel": "労働者の自発的退職における一方的通知・雇用主の退職妨害を不当労働行為として処罰",
+        "keyFeature": "退職を阻む嫌がらせを受けた労働者は、公正労働委員会（FWC）へ「みなし解雇（Constructive Dismissal）」として申立て、多額の補償金請求が可能。労働組合が法的手続きを支援。",
+        "source": {
+          "organization": "豪公正労働オンブズマン (Fair Work Ombudsman)",
+          "title": "Notice of termination and resignation from employment",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "勤労基準法第7条「強制勤労の禁止」および退職意思表示の民法規定",
+        "statusOrLevel": "雇用主が労働者の意に反して労働を強制することを厳格禁止・違反事業主への刑事罰",
+        "keyFeature": "会社側が辞表を受理しない場合でも、民法第660条に基づき通知後1ヶ月で雇用契約が法律上自動解約。代行業者ではなく公認労務士（公認労務士法）が正規の代理業務を担当。",
+        "source": {
+          "organization": "大韓民国雇用労働部",
+          "title": "Labor Standards Act - Prohibition of Forced Labor and Resignation Rules",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "民法第627条（退職の自由・2週間前告知）と弁護士法第72条（非弁行為規制）",
+        "statusOrLevel": "民間退職代行・労働組合型・弁護士運営型の乱立・有給消化や残業代請求を巡る非弁論争",
+        "keyFeature": "民法627条により退職届提出後2週間で退職成立。しかし民間業者が未払残業代や有休消化の「交渉」を行うと弁護士法違反（非弁行為）となるため、厚生労働省・法務省がガイドライン策定や法的位置づけの明確化を検討中。",
+        "source": {
+          "organization": "厚生労働省 / 法務省",
+          "title": "労働契約の終了に関するルール及び弁護士法第72条の趣旨",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -205,5 +205,102 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における地方空港のコンセッション（長期運営権民間売却）・LCC誘致・空港着陸料競争比較",
+    "comparisonSummary": "インバウンド誘致と自治体の財政負担軽減のため、欧州諸国は地方空港の民間コンセッション運営と格安航空会社（LCC）向け着陸料割引を早期から推進し、日本も仙台空港や熊本空港等の一括運営民間委託を全国展開しています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "地方空港民間コンセッション法制（リヨン、ニース、トゥールーズ空港等）",
+        "statusOrLevel": " Vinci Airports等の民間コンソーシアムに対する数十年の長期運営権譲渡と公的監督",
+        "keyFeature": "滑走路等のインフラ所有権は国・自治体に残したまま、商業エリア開発と国際LCC誘致を民間が一体運営。非航空系収入（免税店・飲食）を最大化して着陸料を引き下げ。",
+        "source": {
+          "organization": "フランス民間航空総局 (DGAC) / 運輸省",
+          "title": "Concessions des aéroports régionaux et politique aéroportuaire",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "空港法（Airports Act 1986）完全民営化モデル（ルートン・マンチェスター空港等）",
+        "statusOrLevel": "英国主要空港の完全民間売却・民間投資ファンドによるLCC拠点ハブ化",
+        "keyFeature": "ライアンエアーやイージージェット等のLCCと長期数量割引協定を締結。航空管制庁（CAA）の安全監督下で、市場原理による地方空港の競争力強化を達成。",
+        "source": {
+          "organization": "英国民間航空局 (CAA) / 運輸省 (DfT)",
+          "title": "Airport regulation and economic licensing frameworks",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "連邦空港法（Airports Act 1996）99年長期リース・コンセッション",
+        "statusOrLevel": "メルボルン、ブリスベン、ケアンズ等の全主要・地方空港の99年間民間リース売却",
+        "keyFeature": "民間運営会社がターミナル建設に巨額の自己資金を調達。豪競争・消費者委員会（ACCC）が価格監視を行い、過度な独占料金の引き上げを抑制しつつインフラ投資を促進。",
+        "source": {
+          "organization": "豪インフラ運輸地域開発通信省 / ACCC",
+          "title": "Airports Act 1996 and Airport Price Monitoring",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "官民共同出資（PPP）地方空港モデルおよびフランクフルト・ハーン空港等",
+        "statusOrLevel": "州・自治体と民間企業（フラポート等）の合弁運営・低コスト空港（Low-Cost Airport）特化",
+        "keyFeature": "旧米軍基地等を転用した地方空港が格安の着陸料でLCCを誘致。EU国家補助金規制（State Aid Rules）に抵触しない範囲で地域観光振興と連動した自治体補助を実施。",
+        "source": {
+          "organization": "ドイツ連邦デジタル・交通省 (BMDV)",
+          "title": "Flughafenkonzept der Bundesregierung und Regionalflughäfen",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "アエナ（Aena: 空港運営公社）部分民営化（49%株式公開）ネットワーク運営",
+        "statusOrLevel": "国内46空港を一元管理する世界最大級の空港ネットワーク・地方空港の内部相互補助",
+        "keyFeature": "個別空港の切り売りではなく全空港ネットワークを一括管理。マドリード・バルセロナの巨額利益で地方・離島空港の維持費を補填し、全国均質なLCC受入れを実現。",
+        "source": {
+          "organization": "スペイン運輸・持続可能モビリティ省 / Aena",
+          "title": "Red de aeropuertos de Aena y tarifas aeroportuarias incentivadas",
+          "url": "https://www.lamoncloa.gob.es"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "国家民間航空庁（ENAC）40年間全空港コンセッション契約（Gestione Totale）",
+        "statusOrLevel": "ベルガモ空港（Orio al Serio）等のLCC拠点化および地方空港運営民間委託",
+        "keyFeature": "ミラノ近郊の地方軍用空港だったベルガモをライアンエアーの欧州屈指の巨大ハブへ転換。民間運営会社SACBOが高頻度運航と迅速な駐機ターンアラウンドを実現。",
+        "source": {
+          "organization": "イタリア民間航空局 (ENAC)",
+          "title": "Convenzioni di concessione per la gestione totale degli aeroporti",
+          "url": "https://www.governo.it"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "民間資金等活用事業（PFI法改正）に基づく国管理空港の運営権信託（仙台・熊本・福岡・北海道7空港等）",
+        "statusOrLevel": "国や自治体が滑走路を保有したまま運営権を民間へ30〜40年間売却・着陸料弾力化と国際線誘致",
+        "keyFeature": "ビルと滑走路の一体運営により、民間ノウハウで免税エリア拡充や東アジア・東南アジアからの訪日LCC路線への着陸料割引を展開。地域経済活性化とインバウンド地方分散を両立。",
+        "source": {
+          "organization": "国土交通省航空局",
+          "title": "空港運営の民間委託（コンセッション）の推進状況及び航空ネットワークの充実",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

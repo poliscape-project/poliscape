@@ -147,5 +147,102 @@
       "text": "FIP市場連動型へ移行",
       "color": "bg-blue-50 text-blue-800"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における再エネ固定価格買取（FIT）賦課金の国民負担・国費肩代わり・電気料金支援策比較",
+    "comparisonSummary": "再エネ急拡大に伴う電気料金賦課金（再エネ賦課金）の家計負担急増に対し、ドイツは賦課金（EEGサーチャージ）を完全撤廃して国庫負担（気候基金）へ移管し、欧州各国も電力税減税を断行しており、日本の負担抑制策の先例となっています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "再生可能エネルギー法賦課金（EEG-Umlage）の完全廃止（2022年7月施行）",
+        "statusOrLevel": "1kWhあたり約6.5セントあった再エネ賦課金をゼロ化・全額を連邦気候変革基金（KTF）国庫負担へ",
+        "keyFeature": "インフレとエネルギー危機から家計と産業界を保護するため、再エネ買取費用を電気料金上乗せから炭素価格税収（排出量取引売上）を原資とする連邦予算へ完全移管。",
+        "source": {
+          "organization": "ドイツ連邦経済気候保護省 (BMWK)",
+          "title": "Abschaffung der EEG-Umlage zur Entlastung der Stromverbraucher",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "電力公共サービス負担金（CSPE / TICFE）の最低税率引き下げおよび「料金シールド（Bouclier tarifaire）」",
+        "statusOrLevel": "電力税を法的に引き下げ可能なEU最低水準（1MWhあたり1ユーロ）へ減額・電気代値上げ上限規制",
+        "keyFeature": "ロシアのウクライナ侵攻後、政府が電気料金の上昇率を最大4〜15%に抑え込む「関税シールド」を発動。超過した再エネ買取・卸電力差額を巨額の国庫一般財源で全額補填。",
+        "source": {
+          "organization": "フランス経済・財務・産業・デジタル主権省",
+          "title": "Bouclier tarifaire sur l'électricité et baisse de la TICFE/CSPE",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "エネルギー価格保証（Energy Price Guarantee: EPG）およびグリーン・レヴィ（Green Levies）",
+        "statusOrLevel": "標準世帯の年間電気・ガス料金に公的上限を設定・グリーン課徴金の一時的一般税財源肩代わり",
+        "keyFeature": "差額決済契約（CfD）により、市場価格が高騰した際は再エネ発電事業者から超過利益を国が回収して消費者に還元。さらに再エネ政策費用を電気料金から国庫へ一部シフト。",
+        "source": {
+          "organization": "英国エネルギー安全保障・ネットゼロ省 (DESNZ) / Ofgem",
+          "title": "Energy Price Guarantee and Energy Bills Support Scheme",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "システム一般賦課金（Oneri Generali di Sistema）の一時凍結・国庫補助",
+        "statusOrLevel": "電気料金請求書に含まれる再エネ支援賦課金（ASOS）をゼロに引き下げ・公費補填",
+        "keyFeature": "エネルギー・環境規制公社（ARERA）の管理下で、エネルギー危機時に低所得世帯向け「ソーシャル・ボーナス（Bonus Sociale）」を自動拡充し電気代を直接値引き。",
+        "source": {
+          "organization": "イタリア環境・エネルギー安全保障省 (MASE) / ARERA",
+          "title": "Azzeramento degli oneri generali di sistema e Bonus sociale elettrico",
+          "url": "https://www.governo.it"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "イベリア例外（Excepción Ibérica）および電力付加価値税（IVA）引き下げ",
+        "statusOrLevel": "電力にかかるIVA（消費税）を21%から5〜10%へ大幅減税・発電用ガス価格に公的上限",
+        "keyFeature": "再エネ比率が高いポルトガルとともにEU特例承認を取得。化石燃料価格の再エネ・電力価格への波及を遮断し、欧州で最も低水準の電気代を維持して家計を防衛。",
+        "source": {
+          "organization": "スペイン生態移行・人口動態省 (MITECO)",
+          "title": "Mecanismo ibérico de limitación de precios de la electricidad",
+          "url": "https://www.lamoncloa.gob.es"
+        }
+      },
+      {
+        "country": "アメリカ/カリフォルニア州",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "カリフォルニア気候クレジット（California Climate Credit）および所得連動固定料金制",
+        "statusOrLevel": "州キャップ＆トレード収益を住民の電気料金請求書に直接キャッシュバック（年2回自動減額）",
+        "keyFeature": "再エネ拡大に伴う送電網費用を公平配分するため、電気料金を「一律従量料金」から「世帯所得に応じた基本料金＋低廉な従量料金」へ移行する全米初の所得連動改革を断行。",
+        "source": {
+          "organization": "カリフォルニア州公益事業委員会 (CPUC)",
+          "title": "California Climate Credit and Income-Graduated Fixed Charges",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "再エネ特措法に基づく再エネ賦課金（1kWhあたり最大3円台）および電気・ガス価格激変緩和対策事業",
+        "statusOrLevel": "標準世帯で月1,000円超の再エネ賦課金負担・国費数兆円を投じた1kWh最大数円の値引き補助金",
+        "keyFeature": "ウクライナ侵攻後の燃料高騰対策として国費から直接小売電気事業者へ補助金を注入して値引き。賦課金自体の廃止（ドイツ型）には踏み込まず、FIP制度への移行で賦課金総額の頭打ちを模索。",
+        "source": {
+          "organization": "経済産業省資源エネルギー庁",
+          "title": "再生可能エネルギー発電促進賦課金の単価算定及び電気・ガス激変緩和支援",
+          "url": "https://www.meti.go.jp"
+        }
+      }
+    ]
+  }
 }

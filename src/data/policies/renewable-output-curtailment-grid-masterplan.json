@@ -205,5 +205,102 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における再生可能エネルギー出力制御（カーテイルメント）・送電網マスタープラン・蓄電池導入比較",
+    "comparisonSummary": "太陽光や風力の急増による電力余剰と送電網容量不足（出力制御）に対処するため、欧州や豪州は国家主導の長距離連系線（Supergrid）整備や系統用大型蓄電池（BESS）の市場統合を進めており、日本の広域連系線マスタープランの指針となっています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦系統拡張法（BBPlG）高圧直流送電（HVDC: SuedLink）マスタープラン",
+        "statusOrLevel": "風力豊富な北部から産業需要のある南部へ送電する全長数百kmの地下埋設HVDC送電線建設",
+        "keyFeature": "風力出力制御の補償金（リディスパッチ費用）が年数十億ユーロに膨らんだため、連邦ネットワーク庁（BNetzA）が巨額公費で南北送電大動脈の建設を最優先国家プロジェクト化。",
+        "source": {
+          "organization": "ドイツ連邦ネットワーク庁 (BNetzA)",
+          "title": "Netzentwicklungsplan Strom und Netzausbauprojekte (SuedLink)",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "アメリカ/カリフォルニア州",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "加州独立系統運用機関（CAISO）系統用大型蓄電池（BESS）大量導入・西部エネルギー市場",
+        "statusOrLevel": "数GW規模の大容量リチウムイオン蓄電池導入・ダックカーブ（昼間の余剰太陽光）の夕方シフト",
+        "keyFeature": "昼間の太陽光出力制御を激減させるため、蓄電池の市場参加ルールを整備。隣接州と余剰電力をリアルタイム取引する「Western Energy Imbalance Market (WEIM)」で越境融通。",
+        "source": {
+          "organization": "カリフォルニア州独立系統運用機関 (CAISO) / CPUC",
+          "title": "CAISO Energy Storage Integration and Western Energy Markets",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "オーストラリア統合システム計画（ISP: Integrated System Plan）および再エネ特区（REZ）",
+        "statusOrLevel": "豪エネルギー市場運用機関（AEMO）による30年間全土送電網マスタープラン（Marinus Link等）",
+        "keyFeature": "世界最高密度の屋根上太陽光普及による系統不安定化に対し、州間海底連系線の新設や超大型蓄電池（Big Battery）の即時周波数応答（FCAS）義務化で出力制御を最小化。",
+        "source": {
+          "organization": "オーストラリア・エネルギー市場運用機関 (AEMO)",
+          "title": "Integrated System Plan (ISP) for the National Electricity Market",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国家送電網アップグレード計画（The Great Grid Upgrade）および欧州海底相互連系線",
+        "statusOrLevel": "北海洋上風力発電電力を南部に運ぶHVDC幹線東海岸ブースト・フランス等との海底連系線",
+        "keyFeature": "ナショナル・グリッドESOが主導。スコットランドの風力出力制御（Constraint Payments）を解消するため、海底直流送電線「Eastern Green Link」を複数敷設。",
+        "source": {
+          "organization": "英国エネルギー規制機関 (Ofgem) / National Grid ESO",
+          "title": "The Great Grid Upgrade and Accelerated Strategic Transmission Investment",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "欧州連合 (EU) / スペイン",
+        "countryCode": "EU",
+        "flag": "🇪🇸",
+        "systemName": "EU共通利益プロジェクト（PCI）ビスケー湾海底相互連系線（Interconexión España-Francia）",
+        "statusOrLevel": "ピレネー山脈のボトルネックを迂回する海底HVDC送電線建設（送電容量倍増5,000MWへ）",
+        "keyFeature": "イベリア半島の豊富な太陽光・風力を欧州中央市場へ輸出可能にし、「再エネの孤立島」を解消。EUコネクティング・ヨーロッパ・ファシリティ（CEF）が巨額助成金を交付。",
+        "source": {
+          "organization": "欧州委員会 (European Commission) / Red Eléctrica de España",
+          "title": "Projects of Common Interest (PCI) - Biscay Gulf electricity interconnection",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "国家電網（State Grid）特高圧（UHV: 超高圧送電）ネットワーク「西電東送」",
+        "statusOrLevel": "±800kV・±1100kV直流特高圧送電線数十本による新疆・内モンゴルから沿海部への数千km長距離送電",
+        "keyFeature": "広大な砂漠・ゴビ地域の巨大風力・太陽光基地（数億kW）の電力を、送電損失の極めて少ない特高圧グリッドで上海や広州へ一括直送。出力制御率を劇的に引き下げ。",
+        "source": {
+          "organization": "中華人民共和国国家エネルギー局 (NEA) / 国家電網",
+          "title": "Ultra-High Voltage (UHV) Transmission Network Planning",
+          "url": "https://www.gov.cn"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "電力広域的運営推進機関（OCCTO）広域系統長期方針（マスタープラン）および出力制御ルール",
+        "statusOrLevel": "北海道〜東京間海底直流送電（HVDC・200万kW）新設・九州等での出力制御頻発と蓄電池導入支援",
+        "keyFeature": "九州や東北・四国で太陽光の出力制御が春・秋に急増。地域間連系線の容量不足を解消するため、総額数兆円規模の送電網マスタープランを策定し、再エネ賦課金に上乗せして全国投資を実施。",
+        "source": {
+          "organization": "電力広域的運営推進機関 (OCCTO) / 経済産業省",
+          "title": "広域系統長期方針（広域ネットワークマスタープラン）及び出力制御対策",
+          "url": "https://www.meti.go.jp"
+        }
+      }
+    ]
+  }
 }

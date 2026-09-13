@@ -247,5 +247,102 @@
         "commentStandard": "「高額な民間講座を修了しただけで満足し、実際の社内昇給や希望転職に結びつかないミスマッチが多発」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国における成人リスキリング・個人主導型職業教育訓練勘定（CPF / SkillsFuture等）公費給付比較",
+    "comparisonSummary": "デジタル社会・脱炭素への産業シフトに対応するため、フランスは生涯使える個人学習口座（CPF）、シンガポールはSkillsFuture、日本も教育訓練給付金を最大80%（年最大64万円）へ引き上げるなど、個人主導のリスキリング公費支援を世界的に加速させています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "個人職業訓練口座（CPF: Compte personnel de formation）",
+        "statusOrLevel": "全労働者に対し毎年500ユーロ（最大累積5,000ユーロ・約80万円）を生涯勘定へ公的自動積立",
+        "keyFeature": "転職や失業しても権利が消失しないポータブル勘定。スマホ公式アプリ「Mon Compte Formation」から、AI・IT・言語等の認定講座を自己負担ゼロまたは低廉負担で直接受講可能。",
+        "source": {
+          "organization": "フランス預金預かり金公庫 (Caisse des Dépôts) / 労働省",
+          "title": "Mon Compte Formation (CPF) - Droits et gestion de la formation",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "スキルズフューチャー（SkillsFuture Credit）および中高年向け追加給付",
+        "statusOrLevel": "25歳以上の全市民に500ドル、40歳以上の中高年に4,000ドル（約45万円）のリスキリング公費追加付与",
+        "keyFeature": "中高年層の雇用維持とAI時代適応のため、大学院・専門校のディプロマ講座受講時に使える大型クレジットを国庫直接給付。さらに受講中の月額生活手当（月最大3,000ドル）も新設。",
+        "source": {
+          "organization": "シンガポール人材開発省 (MOM) / SkillsFuture Singapore",
+          "title": "SkillsFuture Credit Scheme and Mid-Career Level-Up Programme",
+          "url": "https://www.gov.sg"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "教育休暇法（Bildungsurlaub）および連邦市民手当改革（Qualifizierungsgeld）",
+        "statusOrLevel": "年5日間の有給リスキリング休暇保障・構造転換企業への「資格取得手当（給与の60〜67%公費補助）」",
+        "keyFeature": "自動車産業等のEV転換に伴い、従業員を解雇せず在籍したまま再教育する企業に対し、連邦雇用庁（BA）が教育訓練中の労働者給与の過半を直接補填。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS) / 連邦雇用庁 (BA)",
+          "title": "Weiterbildungsgesetz und das neue Qualifizierungsgeld",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "アプレンティスシップ・レヴィ（Apprenticeship Levy）および生涯技能保証（Lifelong Learning Entitlement: LLE）",
+        "statusOrLevel": "成人に対する4年分相当の高等職業教育ローン枠・大手企業への0.5%訓練税課徴",
+        "keyFeature": "モジュール単位での大学・カレッジ受講を公費後押し。大企業に課徴した訓練税プール資金を、自社およびサプライチェーンの中小企業のリスキリング実習に還元。",
+        "source": {
+          "organization": "英国教育省 (DfE)",
+          "title": "Lifelong Learning Entitlement (LLE) and Apprenticeship Levy guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "移行・能力向上基礎手当（Omställningsstudiestöd / 2022年大改革）",
+        "statusOrLevel": "就労中の社会人（最長44週間）に対し、従来の給与の最大80%を非課税給付＋低利公的融資",
+        "keyFeature": "社会人学生の生活費を国が直接保障。労働市場で需要の高いIT、グリーン産業、看護等へのキャリア転換を志す中堅労働者が無収入にならずに大学で学び直せる世界最強の給付体系。",
+        "source": {
+          "organization": "スウェーデン国家学生金融機構 (CSN)",
+          "title": "Omställningsstudiestöd för vuxna mitt i arbetslivet",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "フィー・フリーTAFE（Fee-Free TAFE）プログラム",
+        "statusOrLevel": "連邦・州共同出資による50万枠以上の公立職業専門学校（TAFE）学費完全無償化",
+        "keyFeature": "介護、テクノロジー、建設、クリーンエネルギー等の人材不足指定分野について、社会人・若年層の資格取得コース授業料を完全免除（受講料ゼロ円化）。",
+        "source": {
+          "organization": "豪雇用職場関係省 (DEWR) / TAFE",
+          "title": "Fee-Free TAFE and Vocational Education and Training Investments",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "雇用保険法改正に基づく教育訓練給付金（専門実践教育訓練・最大80%拡充）および人への投資",
+        "statusOrLevel": "受講費用の最大70%から「80%（年間上限64万円・最長3年計192万円）」へ給付率引き上げ・資格取得就職要件",
+        "keyFeature": "デジタル・AI・看護等の専門実践教育訓練について、修了し資格取得・賃金上昇を達成した場合に受講費用の80%をハローワークからキャッシュバック。さらに社会人リスキリング休暇給付金の創設を推進。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "教育訓練給付制度の拡充及び雇用保険法の一部改正について",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
   }
 }

@@ -211,5 +211,102 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "ShieldAlert"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における就業規則・雇用契約の退職制限条項の無効性・退職の自由保障比較",
+    "comparisonSummary": "会社側が「本人以外の退職連絡は一切受け付けない」「退職には会社の事前承認が必要」と就業規則に規定する退職妨害に対し、欧米法制は労働者本人の一方的解約権を憲法・民法上の強行規定として会社規則を無効と判断しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "民法典（BGB）第622条・第626条および普通取引約款（AGB）統制",
+        "statusOrLevel": "就業規則や雇用契約による法定解約権の排除・過度な退職制限条項の完全無効判決",
+        "keyFeature": "連邦労働裁判所（BAG）の確立した判例により、労働者の退職の自由を制限する約款（「代理受取不可」「退職承認制」等）はすべて民法307条違反で当然無効。書面の送達で確定。",
+        "source": {
+          "organization": "ドイツ連邦労働裁判所 (BAG) / 連邦司法省",
+          "title": "Rechtsprechung des BAG zur Unwirksamkeit von Kündigungserschwernissen",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "労働法典（Code du travail）公秩序性（Ordre public）および破毀院判例",
+        "statusOrLevel": "労働者の退職する権利（Droit de démissionner）を制限するあらゆる労使合意・就業規則の無効化",
+        "keyFeature": "破毀院社会法廷判決により、使用者が退職受任者を指定したり、郵送・代理連絡を拒絶する就業規則は無効。郵便配達証明や司法執行士（Commissaire de justice）送達で対抗可能。",
+        "source": {
+          "organization": "フランス破毀院 (Cour de cassation) / 労働省",
+          "title": "Jurisprudence relative à la liberté fondamentale du salarié de démissionner",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "憲法修正第13条（非自発的隷属の禁止）および随意雇用公序則",
+        "statusOrLevel": "就業規則で従業員の即時退職を拒絶・罰則を科すことは憲法上の強制労働禁止違反",
+        "keyFeature": "企業ハンドブックに「退職届は上司面談が必須」「代理連絡は無効」と書かれていても法的拘束力はゼロ。退職の自由は絶対的であり、連絡方法を問わず通知が届いた時点で雇用関係は終了。",
+        "source": {
+          "organization": "米国司法省民権局 / 全米労働関係委員会 (NLRB)",
+          "title": "13th Amendment Involuntary Servitude Protections and At-Will Rights",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "雇用権利法（Employment Rights Act 1996）不当契約条項法（UCTA）",
+        "statusOrLevel": "法定の通知期間を守っている限り、雇用主が退職の受取・承認を拒絶することは違法",
+        "keyFeature": "雇用審判所（Employment Tribunal）において、会社が退職通知を「形式不備」として認めず出勤を強要した場合、職場いじめ・不当解雇（Constructive Dismissal）として会社に損害賠償命令。",
+        "source": {
+          "organization": "英国雇用審判所 (Employment Tribunals) / Acas",
+          "title": "Unlawful restrictions on resignation and constructive dismissal",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "公正労働法（Fair Work Act 2009）国家雇用基準（NES）強行規定",
+        "statusOrLevel": "NESで定められた最低基準を下回る就業規則条項・退職制限契約の無効化",
+        "keyFeature": "会社側が「本人対面以外の辞職は受理しない」という社内規定を作っても、法律が優先（NES overrides contract）し無効。通知書が会社の支配領域に到達すれば法的に有効。",
+        "source": {
+          "organization": "豪公正労働オンブズマン (Fair Work Ombudsman)",
+          "title": "National Employment Standards precedence over company policies",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "勤労基準法第20条「違約予定の禁止」および民法第660条",
+        "statusOrLevel": "就業規則による退職制限や損害賠償条項の無効化・退職届提出後1ヶ月での契約終了保証",
+        "keyFeature": "雇用主が辞職届の受理を拒絶しても、内容証明郵便等で退職の意思表示が到達すれば、民法第660条により一定期間経過後に自動的に解約効力が発生。社内規則でこの権利を制限することは違法。",
+        "source": {
+          "organization": "大韓民国雇用労働部 / 大法院判例",
+          "title": "Civil Act Article 660 and Invalidation of Resignation Restrictions",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "労働基準法第5条（強制労働の禁止）・民法第627条および就業規則の効力関係（労基法第92条）",
+        "statusOrLevel": "民法627条は強行規定であり、「本人以外の退職通知を拒否する」就業規則条項は法的に無効",
+        "keyFeature": "企業が就業規則に「退職代行等による退職届は受理しない」と定めても、民法の解約権および憲法22条（職業選択の自由）に反し無効。労働基準監督署も退職妨害や離職票発行拒否に対し是正勧告を実施。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "労働基準法第5条（強制労働の禁止）及び就業規則の変更命令に関する基準",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

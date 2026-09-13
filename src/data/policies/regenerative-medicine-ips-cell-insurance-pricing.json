@@ -211,5 +211,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における超高額遺伝子治療・細胞医療（CAR-T・iPS）の公的保険償還・成功報酬型分割払い（OBA）比較",
+    "comparisonSummary": "1回数千万円〜数億円に達する先端再生医療製品（ゾルゲンスマやキムリア等）に対し、各国は「治療効果が出た場合のみ支払う成果報酬型（Outcome-based）」や複数年分割払いを導入し、日本も費用対効果評価や薬価特例引き下げを適用しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "成果連動型価値ベース支払い（Outcomes-Based Agreements: OBA）およびメディケイドCGTアクセスモデル",
+        "statusOrLevel": "1回数百〜数億円の鎌状赤血球症遺伝子治療等に対し、連邦CMS主導の成果連動複数年分割払い契約",
+        "keyFeature": "治療後数年間にわたり効果（輸血不要期間の維持等）が持続した場合にのみ製薬企業に段階的に公金を支払う。患者が再発した場合は製薬会社が返金するリスク分担モデル。",
+        "source": {
+          "organization": "米国メディケア・メディケイド・サービス庁 (CMS)",
+          "title": "Cell and Gene Therapy (CGT) Access Model and Value-Based Care",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "医薬品市場再編法（AMNOG）早期給付認可および年金保険等との成果連動分割償還",
+        "statusOrLevel": "上市から直ちに保険適用（Free Pricing期間）後にG-BAが追加便益評価し公定償還価格を交渉決定",
+        "keyFeature": "ゾルゲンスマやCAR-Tに対し、法定健康保険中央連盟（GKV-SV）が「効果持続時のみ年1回×最長5年分割払い」契約を製薬企業と締結。患者レジストリで予後を厳格追跡。",
+        "source": {
+          "organization": "ドイツ連邦合同委員会 (G-BA) / GKV-Spitzenverband",
+          "title": "Nutzenbewertung von Arzneimitteln (AMNOG) bei Zell- und Gentherapien",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "革新医薬品基金（Innovative Medicines Fund: IMF）およびNICE早期管理アクセス",
+        "statusOrLevel": "年6億8,000万ポンドのIMF・抗がん剤基金（CDF）を通じた臨床データ収集中の迅速公費償還",
+        "keyFeature": "費用対効果基準（QALY）を満たすか不確実な段階でも、データ収集と価格割引協定（Commercial Access Agreement）を条件に暫定保険給付し、数年後にNICEが最終評価。",
+        "source": {
+          "organization": "英国国立医療技術評価機構 (NICE) / NHS England",
+          "title": "Innovative Medicines Fund (IMF) and Managed Access for Gene Therapies",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "早期アクセス制度（Accès précoce）および医療製品経済委員会（CEPS）価格合意",
+        "statusOrLevel": "未承認・承認直後の難病遺伝子治療に対する国費全額前倒し給付（無償アクセス）と後日差額清算",
+        "keyFeature": "治療法のない患者へ新薬を即座に開放。後に製薬企業と政府（CEPS）間で決定した薬価が暫定支払額より低かった場合、差額全額を製薬企業が国庫へ返還する返還金（Remise）義務。",
+        "source": {
+          "organization": "フランス高等保健機構 (HAS) / CEPS",
+          "title": "Autorisation d'accès précoce aux thérapies géniques et cellulaires",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "AIFA成果連動レジストリ（Payment-by-Results / Cost-Sharing）",
+        "statusOrLevel": "イタリア医薬品庁（AIFA）のオンライン患者登録追跡に基づく世界初の完全成功報酬制度",
+        "keyFeature": "全病院の医師が患者の奏効データをAIFAシステムに入力。定められた期日に治療が無効であった場合、製薬企業が公的医療保険へ薬価の100%を自動返金する仕組みを運用。",
+        "source": {
+          "organization": "イタリア医薬品庁 (AIFA)",
+          "title": "Registri Farmaci sottoposti a Monitoraggio e Accordi di rimborso condizionato",
+          "url": "https://www.governo.it"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "医療サービス諮問委員会（MSAC）および特別リスク分担契約（Special Pricing Arrangements）",
+        "statusOrLevel": "PBSおよび公立病院高度医療枠における非公開価格リベートと年間予算上限設定",
+        "keyFeature": "製薬企業と連邦政府間で総額上限（Expenditure Cap）を設定。全国の投与患者数が予測を超えて公費支出が超過した場合、超過分を製薬企業が全額買い取るキャッピング制。",
+        "source": {
+          "organization": "豪医療サービス諮問委員会 (MSAC) / PBAC",
+          "title": "Managed Access Programs and Special Pricing Arrangements for Cell Therapies",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "中央社会保険医療協議会（中医協）薬価算定・費用対効果評価制度および市場拡大再算定",
+        "statusOrLevel": "キムリア（約3,300万円）、ゾルゲンスマ（約1.67億円）等の即時保険収載と高額療養費制度適用",
+        "keyFeature": "国民皆保険の下で新薬承認後原則60〜90日以内に保険収載する世界最速アクセス。医療費膨張を防ぐため費用対効果評価による事後値下げや、患者急増時の市場拡大再算定ルールを運用。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "中央社会保険医療協議会における高額医薬品・再生医療等製品の薬価算定基準",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

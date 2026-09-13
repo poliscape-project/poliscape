@@ -205,5 +205,102 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "PiggyBank"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における後期中等教育（高校）授業料の完全無償化・私立学校助成・所得制限撤廃比較",
+    "comparisonSummary": "教育機会の均等と少子化対策のため、欧州諸国は公立高校の完全無償化を当然の原則とし私立にも公費助成を行う一方、日本は東京都や大阪府が国の所得制限を超えて独自に所得制限撤廃を先行導入しています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "公立リセ（Lycée）完全無償教育および私立協約校（Sous contrat）学費抑制",
+        "statusOrLevel": "公立高校授業料は全世帯所得制限なしで100%完全無料・教科書も無償供与",
+        "keyFeature": "憲法原則に基づく公教育無償。国家と協約を結ぶ私立校（約9割）に対しても教員給与を全額国費で支払うため、私立高校の授業料も年数百ユーロ程度と極めて低廉。",
+        "source": {
+          "organization": "フランス国民教育・青少年省",
+          "title": "Le principe de gratuité de l'enseignement public en France",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "公立ギムナジウム・中等学校の授業料不徴収（Schulgeldfreiheit）原則",
+        "statusOrLevel": "全16連邦州の公立高校において所得に関わらず授業料完全無料・学習材費も公費補助",
+        "keyFeature": "基本法（憲法）に基づき公教育無償を徹底。私立学校（Ersatzschulen）に対しても生徒の親の経済力による選別を禁止（基本法7条4項）し、州が運営費の7〜8割を補助。",
+        "source": {
+          "organization": "ドイツ常設各州文部大臣会議 (KMK)",
+          "title": "Schulgeldfreiheit an öffentlichen Schulen und Ersatzschulfinanzierung",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "イギリス/イングランド",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "公立ステート・スクール（Sixth Form Colleges / Academies）無料教育",
+        "statusOrLevel": "16〜18歳の後期中等教育は全公立学校で所得制限なく完全無料",
+        "keyFeature": "教育教育法に基づき18歳までの教育・訓練参加を義務化。低所得世帯の生徒には16-19 Bursary Fundから現金給付を上乗せして通学費や学用品代を補填。",
+        "source": {
+          "organization": "英国教育省 (DfE)",
+          "title": "16 to 19 education funding and financial support for students",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "ギムナジウム学校法（Gymnasieförordningen）および学童バウチャー（Skolpeng）",
+        "statusOrLevel": "公立・私立（フリースクール）を問わず全生徒の高校授業料が完全無料（学費徴収違法）",
+        "keyFeature": "自治体が全生徒に教育バウチャー（Skolpeng）を交付。民間私立校であっても授業料を親から徴収することは法律で固く禁止されており、完全な機会平等を担保。",
+        "source": {
+          "organization": "スウェーデン国家教育庁 (Skolverket)",
+          "title": "Gymnasieskolan och avgiftsfri utbildning för alla ungdomar",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "公立ハイ・スクール（Public High Schools）普遍的無償教育制度",
+        "statusOrLevel": "学区公立高校は所得に関係なく全米で完全無償（K-12教育の無償性原則）",
+        "keyFeature": "地方固定資産税および州教育財源により運営。富裕層私立校（Prep Schools）は自己負担だが、全米生徒の9割以上が通う公立高校では授業料は一切発生しない。",
+        "source": {
+          "organization": "米国教育省 (ED)",
+          "title": "State and Local Financing of Public Elementary and Secondary Education",
+          "url": "https://www.ed.gov"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "高校無償教育（高橋無償教育）全面施行（2021年完全適用）",
+        "statusOrLevel": "全公立・私立高校（自律型私立高等の特定校除く）の入学金・授業料・学校運営費・教科書代を全世帯完全無償化",
+        "keyFeature": "所得制限を一切設けず、全高校生を対象に中央政府・教育庁・自治体が財源を分担。親の経済格差による教育断絶を根絶するユニバーサル福祉政策。",
+        "source": {
+          "organization": "大韓民国教育部",
+          "title": "High School Free Education Policy Complete Implementation",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "高等学校等就学支援金制度および東京都・大阪府による所得制限撤廃",
+        "statusOrLevel": "国の支援金（年収約910万円未満世帯対象に年11.88万円〜私立最大39.6万円）と自治体独自上乗せ",
+        "keyFeature": "国の制度には年収制限が存在するが、東京都や大阪府が独自財源を投じて「所得制限の完全撤廃・私立実質無償化」を実施。地域間格差の解消に向け国レベルでの所得制限撤廃法案が争点化。",
+        "source": {
+          "organization": "文部科学省",
+          "title": "高等学校等就学支援金制度の概要及び自治体における支援の状況",
+          "url": "https://www.mext.go.jp"
+        }
+      }
+    ]
+  }
 }

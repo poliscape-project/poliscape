@@ -179,5 +179,102 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Building"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における地域医療ポータル・医療機関機能情報の公表と患者の選択支援比較",
+    "comparisonSummary": "患者が適切なプライマリケアを選択できるよう、欧米諸国は診療所の実績や待ち時間、対応疾患を公的ウェブポータルで透明化しており、日本の「かかりつけ医機能報告制度」も住民への情報提供を柱としています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHSプロファイル検索（Find a GP / NHS App）およびCQC格付け公表",
+        "statusOrLevel": "全GP診療所の患者満足度、処方傾向、ケア品質委員会（CQC）監査格付けを完全公開",
+        "keyFeature": "NHSウェブサイト上で郵便番号を入力すると、近隣GPの診療時間、予約の取りやすさ、多言語対応状況を比較でき、住民が好みのGPをオンラインで登録可能。",
+        "source": {
+          "organization": "英国ケア品質委員会 (CQC) / NHS England",
+          "title": "Find and compare GP services and inspection ratings",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦医師ポータル（Bundes-Klinik-Atlas / Arzt-Auskunft）",
+        "statusOrLevel": "連邦保健省公式の医療機関アトラスによる専門性・合併症発生率・治療実績の透明公開",
+        "keyFeature": "法定健康保険中央連盟（GKV-Spitzenverband）が提供する医師検索ナビにより、バリアフリー状況や往診対応能力、夜間救急の連携先を患者が事前に確認可能。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG)",
+          "title": "Transparenz im Gesundheitswesen - Der Bundes-Klinik-Atlas",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "健康保険公式名簿（Annuaire santé d'Ameli）およびDoctolib連携",
+        "statusOrLevel": "全医師の診療料金体系（セクター1: 公定料金 / セクター2: 超過料金あり）と専門資格の公表",
+        "keyFeature": "医師が公定料金を遵守しているか、追加料金（Dépassement d'honoraires）を請求するかを明示。患者が経済的負担を予測して主治医を選べる透明性を担保。",
+        "source": {
+          "organization": "フランス健康保険公庫 (Ameli)",
+          "title": "L'annuaire santé d'Ameli - Trouver un professionnel de santé",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "メディケア・ケア比較ポータル（Medicare Care Compare）",
+        "statusOrLevel": "医師およびグループ診療所の患者評価星評価（Star Ratings）・MIPS品質スコア公開",
+        "keyFeature": "CMS公式ツールで、予防ケア実施率や慢性疾患患者の血圧・血糖管理達成率をスコア化して公表。質の高い医師を患者が選択できるようデータを後押し。",
+        "source": {
+          "organization": "米国メディケア・メディケイド・サービス庁 (CMS)",
+          "title": "Medicare Care Compare - Find & Compare Doctors and Clinicians",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "医療評価ポータル（ZorgkaartNederland）公的支援",
+        "statusOrLevel": "患者連盟（Patiëntenfederatie）が運営する国内最大級の医師・家庭医クチコミ公表基盤",
+        "keyFeature": "政府の助成を受け、医師のコミュニケーション能力や診療所の清潔さに関する患者の生レビューをモデレーション付きで公開。医療の質向上と患者選択の軸として定着。",
+        "source": {
+          "organization": "オランダ患者連盟 (Patiëntenfederatie Nederland)",
+          "title": "ZorgkaartNederland - Onafhankelijke keuze-informatie in de zorg",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "ヘルスダイレクト（Healthdirect Australia Service Finder）",
+        "statusOrLevel": "連邦および州政府共同出資の医療ナビによるGP受入れ状況（Bulk Billing等）検索",
+        "keyFeature": "患者自己負担が発生しないバルク・ビリング（窓口無料）を実施している診療所や、時間外診療（After Hours）を提供する診療所をリアルタイムマップで表示。",
+        "source": {
+          "organization": "豪連邦保健高齢者ケア省 (DoHAC) / Healthdirect",
+          "title": "National Health Services Directory (NHSD) and Service Finder",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "医療情報ネット（ナビイ / 医療機能情報提供制度）の刷新",
+        "statusOrLevel": "かかりつけ医機能（在宅医療対応、認知症対応、入退院支援等）を全国統一システムで検索公表",
+        "keyFeature": "都道府県ごとにバラバラだった医療機能情報を厚生労働省の中央ポータル「ナビイ」へ一元化。患者が身近な地域で夜間対応や在宅看取りを行えるかかりつけ医を探せるよう支援。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "医療情報ネット（ナビイ）の全国統一化及びかかりつけ医機能情報の公表",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }
