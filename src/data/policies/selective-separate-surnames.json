@@ -307,6 +307,62 @@
           "title": "Nom d'usage : utilisation du nom de son époux ou de son épouse",
           "url": "https://www.service-public.fr/particuliers/vosdroits/F868"
         }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "中華人民共和国民法典第1015条 (姓名権)",
+        "amount": "原則「夫婦別姓」、子は父母いずれかの姓を選択",
+        "incomeLimit": "婚姻による改姓義務なし（伝統的慣習）",
+        "keyFeature": "中国も伝統的な宗族思想に基づき「姓は血統を示すものであり婚姻によって変わらない」ため夫婦別姓が法律上の原則。子は父または母の姓を自由に選択可能であり、少数民族の伝統的な命名慣習も法的に尊重されています。",
+        "source": {
+          "organization": "中国全国人民代表大会 (NPC)",
+          "title": "中華人民共和国民法典（婚姻家庭編）",
+          "url": "http://www.npc.gov.cn"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Deed Poll & Marriage Certificate (コモンロー氏名法制)",
+        "amount": "完全自由（婚姻証明書のみで改姓・別姓・結合姓を選択）",
+        "incomeLimit": "法的な同姓義務なし（費用なしで自由選択）",
+        "keyFeature": "英国コモンローでは「人が自分を呼ぶ名前は自由」という原則があり、結婚時に姓を変える義務はありません。婚姻証明書を提示するだけで夫の姓、妻の姓、またはハイフンで繋いだ二重姓に変更可能で、別姓のまま維持することも自由です。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "Change your name by deed poll",
+          "url": "https://www.gov.uk/change-name-deed-poll"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "Lag (2016:1013) om personnamn (人名法)",
+        "amount": "完全自由選択（何もしなければ自動的に別姓維持）",
+        "incomeLimit": "国税庁（Skatteverket）への届出で完了",
+        "keyFeature": "ジェンダー平等先進国のスウェーデンでは、結婚時に手続きをしなければ「自動的に夫婦別姓」が維持されます。同姓を希望する場合は配偶者姓への変更を申請でき、さらに夫婦で全く新しい独自の姓を考案して名乗ることも税務署の審査を経て認められています。",
+        "source": {
+          "organization": "スウェーデン国税庁 (Skatteverket)",
+          "title": "Personnamn (氏名の登録・変更制度公式ポータル)",
+          "url": "https://www.skatteverket.se/privat/folkbokforing/namn.html"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Changing your name after marriage (各州出生死亡婚姻登録局 - BDM)",
+        "amount": "完全自由（婚姻証明書による通称使用・登録）",
+        "incomeLimit": "州の登記手続きによる（連邦法上の義務なし）",
+        "keyFeature": "オーストラリアでは結婚しても自動的には姓は変わらず別姓が基本。配偶者の姓を名乗りたい場合は州のBDM発行の婚姻証明書を用いて身分証（運転免許やメディケアカード）を更新します。近年は男女とも元の姓を残すハイフン結合姓を選ぶカップルも急増しています。",
+        "source": {
+          "organization": "ニューサウスウェールズ州政府 (NSW Government)",
+          "title": "Births Deaths and Marriages (婚姻後の氏名変更・登録ガイド)",
+          "url": "https://www.nsw.gov.au/births-deaths-marriages"
+        }
       }
     ]
   }
