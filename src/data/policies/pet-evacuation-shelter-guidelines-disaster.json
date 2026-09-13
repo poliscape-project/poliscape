@@ -185,5 +185,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "MapPin"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要地震・ハリケーン多発国におけるペット同行避難（PETS Act等）・同伴避難所受入基準比較",
+    "comparisonSummary": "災害時のペット置き去りによる飼い主の被災や避難所でのアレルギー・鳴き声トラブルを防ぐため、米国はカトリーナの教訓からPETS Actで自治体に受入計画を義務付け、日本も環境省ガイドラインで同行避難の体制整備を進めています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ペット避難・輸送基準法（PETS Act: Pets Evacuation and Transportation Standards Act 2006）",
+        "statusOrLevel": "全米自治体に対する非常時ペット避難・シェルター収容計画策定の義務付け（連邦FEMA助成要件）",
+        "keyFeature": "ハリケーン・カトリーナでペット救助拒否により多くの命が失われた教訓から制定。連邦緊急事態管理庁（FEMA）の災害支援金を受け取るにはペット同伴避難計画が法定義務。",
+        "source": {
+          "organization": "連邦緊急事態管理庁 (FEMA) / 米国議会",
+          "title": "Pets Evacuation and Transportation Standards Act (PETS Act) and FEMA Guidelines",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "緊急事態管理フレームワーク（Emergency Management Framework）およびペット受入シェルター",
+        "statusOrLevel": "大規模山火事（フォートマクマレー等）を受けたペット共同避難オペレーション標準化",
+        "keyFeature": "カナダ動物福祉協会（Humane Canada）と自治体が協定を締結。避難所にモバイルペット診療車や屋外特設ケージエリアを配備し、狂犬病ワクチン接種確認とマイクロチップ読取を実施。",
+        "source": {
+          "organization": "カナダ公安省 (Public Safety Canada)",
+          "title": "Emergency Management Guidelines and Animal Welfare in Disasters",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "州緊急事態計画（State Emergency Plans）コンパニオンアニマル避難指針",
+        "statusOrLevel": "ブッシュファイア（森林火災）・大洪水時のペット同行避難シェルター指定",
+        "keyFeature": "ビクトリア州やNSW州等で、地方自治体の指定避難所（Showgroundsや体育館）に動物受け入れゾーンを法制化。RSPCA（王立動物虐待防止協会）が避難所の飼育物資を全面支援。",
+        "source": {
+          "organization": "豪国家緊急事態管理局 (NEMA) / RSPCA Australia",
+          "title": "Disaster Management and Planning for Pets and Livestock",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "国家民間防衛緊急事態管理計画（CDEM Plan）動物緊急時対応",
+        "statusOrLevel": "一次産業省（MPI）およびSPCAによる避難所におけるペット登録・ケージ受入手順策定",
+        "keyFeature": "クライストチャーチ地震等の教訓から、人間用避難所の敷地内に隣接する形でペットシェルターを常設。飼い主がいつでも様子を見に行ける配置を標準化。",
+        "source": {
+          "organization": "ニュージーランド国家緊急事態管理局 (NEMA) / MPI",
+          "title": "Animal Welfare in Emergency Management and CDEM Guidelines",
+          "url": "https://www.civildefence.govt.nz"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "国家市民保護局（Protezione Civile）家庭用ペット同伴避難オペレーション",
+        "statusOrLevel": "地震・火山噴火時の仮設テント村（Tendopoli）におけるペット受入専用エリア設置",
+        "keyFeature": "イタリア動物保護連盟（ENPA）が市民保護局の正規緊急対応部隊に編入。被災地キャンプ内に獣医師常駐のペットケアテントを設置し、避難者とペットの分離不安を防止。",
+        "source": {
+          "organization": "イタリア市民保護局 (Dipartimento della Protezione Civile)",
+          "title": "Gestione e soccorso degli animali da affezione in emergenza",
+          "url": "https://www.governo.it"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "民間不測事態法（Civil Contingencies Act 2004）および洪水避難プロトコル",
+        "statusOrLevel": "地方自治体の緊急対応計画におけるペット保護・一時預かりボランティアネットワーク",
+        "keyFeature": "洪水多発地域において、王立動物虐待防止協会（RSPCA）のボート救助隊が警察・消防と連携してペットを同行救助。近隣の提携ケンネル（民間ペットホテル）への公費一時避難を調整。",
+        "source": {
+          "organization": "英国環境・食糧・農村地域省 (Defra) / RSPCA",
+          "title": "Animal welfare in emergencies and flood evacuation plans",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "人とペットの災害対策ガイドライン（環境省）および「同行避難」「同伴避難」推進",
+        "statusOrLevel": "避難所への「同行避難（連れて逃げること）」原則の周知・同じ空間で過ごす「同伴避難所」整備",
+        "keyFeature": "能登半島地震や東日本大震災の教訓を受け、避難所内でのペット専用スペース（テント・別室・車中泊スペース）の事前確保を自治体地域防災計画に義務付けるようガイドラインを改定。",
+        "source": {
+          "organization": "環境省自然環境局 / 内閣府防災",
+          "title": "災害時におけるペットの救護対策ガイドライン及び避難所受入れの取組",
+          "url": "https://www.env.go.jp"
+        }
+      }
+    ]
+  }
 }

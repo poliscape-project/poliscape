@@ -179,5 +179,102 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における使い捨てプラスチック（SUP）有料化・禁止・アメニティ削減規制比較",
+    "comparisonSummary": "海洋プラごみ削減とサーキュラーエコノミー推進に向け、EU指令は使い捨てカトラリーの流通を全面禁止し、米加州はホテル客室アメニティのプラボトル禁止を法制化しており、日本のプラスチック資源循環法も事業者に有償化や辞退確認を義務付けています。",
+    "countries": [
+      {
+        "country": "欧州連合 (EU) / ドイツ",
+        "countryCode": "EU",
+        "flag": "🇩🇪",
+        "systemName": "特定使い捨てプラスチック禁止令（EU SUP指令 / Einwegkunststoffverbotsverordnung）",
+        "statusOrLevel": "プラスチック製スプーン、フォーク、ナイフ、ストロー、マドラーの市場流通・販売を完全禁止",
+        "keyFeature": "有料化ではなく「物理的な販売・提供の全面禁止」。飲食店やコンビニは木製・竹製・紙製または生分解性代替品への完全切替を義務化。テイクアウト容器にも再利用（Mehrweg）容器の提供を強制。",
+        "source": {
+          "organization": "ドイツ連邦環境省 (BMUV) / 欧州委員会",
+          "title": "Verbot von Einwegkunststoffprodukten und Mehrwegangebotspflicht",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "循環経済・廃棄物防止法（AGEC法: Anti-gaspillage pour une économie circulaire）",
+        "statusOrLevel": "ファストフード店内飲食での使い捨て食器・容器の全面禁止・客室アメニティプラ禁止",
+        "keyFeature": "マクドナルド等の店内飲食で紙カップやプラカトラリーを完全排除し、洗浄可能なリユース食器を義務付け。ホテル業界でも小分けシャンプーボトルの提供を禁止。",
+        "source": {
+          "organization": "フランス生態移行・エネルギー省",
+          "title": "Loi anti-gaspillage pour une économie circulaire (AGEC) - Plastiques à usage unique",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "アメリカ/カリフォルニア州",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "プラスチック汚染防止・包装削減法（SB 54）およびホテル小型プラボトル禁止令（AB 1162）",
+        "statusOrLevel": "ホテル客室での小型プラスチック容器（シャンプー・ローション等）の提供禁止・反則金適用",
+        "keyFeature": "宿泊施設に対し壁掛けディスペンサーや固形石鹸への切替を義務化。SB 54により、2032年までに州内の全使い捨てプラスチック包装を65%リサイクル・25%削減することを強制。",
+        "source": {
+          "organization": "カリフォルニア州資源リサイクル回収局 (CalRecycle)",
+          "title": "Plastic Pollution Prevention and Packaging Producer Responsibility Act (SB 54)",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "使い捨てプラスチック規制（The Environmental Protection Regulations 2023）",
+        "statusOrLevel": "イングランド全土における使い捨てプラスチックカトラリー・皿・発泡スチロール容器の販売禁止",
+        "keyFeature": "小売店、テイクアウト店、フードトラックでの無料提供・販売を問わずプラ製使い捨て食器を全面禁止。自治体の環境衛生官（EHO）が店舗立ち入り検査と罰金執行を実施。",
+        "source": {
+          "organization": "英国環境・食糧・農村地域省 (Defra)",
+          "title": "Single-use plastics ban: plates, bowls, trays and cutlery guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "資源節約・再活用促進法に基づく使い捨て用品（一回用品）使用規制",
+        "statusOrLevel": "50室以上のホテルでの無料アメニティ（歯ブラシ・カミソリ等）提供禁止・カフェ店内プラコップ禁止",
+        "keyFeature": "ホテル宿泊客はアメニティを自持するかフロントで購入する義務。出前配達アプリ（ペダル）でも使い捨てスプーン・箸の「不要」選択をデフォルト（初期値）化。",
+        "source": {
+          "organization": "大韓民国環境部",
+          "title": "Act on the Promotion of Saving and Recycling of Resources - Disposable Items",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "使い捨てプラスチック禁止規則（Single-use Plastics Prohibition Regulations: SUPPR）",
+        "statusOrLevel": "レジ袋、カトラリー、食品容器、リングキャリア、マドラー、ストローの製造・輸入・販売禁止",
+        "keyFeature": "カナダ環境保護法（CEPA）に基づきプラスチックを有害物質に指定して全面禁止を導入（司法判断による見直しと再法制化作業が進行中）。",
+        "source": {
+          "organization": "カナダ環境・気候変動省 (ECCC)",
+          "title": "Single-use Plastics Prohibition Regulations (SUPPR) Overview",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "プラスチックに係る資源循環の促進等に関する法律（プラ新法・2022年施行）",
+        "statusOrLevel": "特定プラスチック使用製品12品目（スプーン、フォーク、歯ブラシ、カミソリ等）の削減義務化",
+        "keyFeature": "コンビニやホテル等の事業者に「有償化」「辞退の確認」「代替素材（木・バイオマス）への転換」「ポイント還元」のいずれかの取組を義務付け。大手コンビニ等で辞退率向上やバイオマス化が進展。",
+        "source": {
+          "organization": "環境省 / 経済産業省",
+          "title": "プラスチックに係る資源循環の促進等に関する法律の概要",
+          "url": "https://www.env.go.jp"
+        }
+      }
+    ]
+  }
 }

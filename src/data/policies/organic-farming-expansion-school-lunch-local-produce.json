@@ -179,5 +179,102 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における有機農業面積拡大目標（Farm to Fork戦略等）と公共調達・学校給食オーガニック化比較",
+    "comparisonSummary": "環境保全と持続可能な食料システム構築に向け、EUは2030年までに農地の25%を有機化する目標を掲げ、フランスは公共食堂での有機食材20%使用を法律で義務付けており、日本の「みどりの食料システム戦略」の先例となっています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "農業・食料法（EGalim法）公共食堂オーガニック20%義務化",
+        "statusOrLevel": "学校給食を含む全公共食堂において、食材の最低50%を持続可能認証品、最低20%を有機（Bio）とする義務付け",
+        "keyFeature": "「ma cantine」プラットフォームで全国の自治体・学校のオーガニック食材調達率を公表。週1回の完全ベジタリアン給食の義務化も連動し、地場産有機農家と学校の長期契約を支援。",
+        "source": {
+          "organization": "フランス農業・食料主権省",
+          "title": "Loi EGalim - Restauration collective et approvisionnement en produits bio",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "デンマーク",
+        "countryCode": "DK",
+        "flag": "🇩🇰",
+        "systemName": "有機給食認証ラベル（Økologisk Spisemærke）およびコペンハーゲン市モデル",
+        "statusOrLevel": "コペンハーゲン市内の全公共学校・保育園給食で有機食材比率約90%を達成",
+        "keyFeature": "食材予算を増やさずに有機比率を高めるため、メニューの旬食材シフト・食材ロス削減・肉類抑制を組み合わせた調理職員トレーニングを国家事業として展開。金・銀・銅の公式認証を発行。",
+        "source": {
+          "organization": "デンマーク食品・農業・漁業省 (Fødevarestyrelsen)",
+          "title": "The Organic Cuisine Label (Det Økologiske Spisemærke)",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "ドイツ / EU",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "EUファーム・トゥ・フォーク戦略（Farm to Fork）およびドイツ「Bio-Strategie 2030」",
+        "statusOrLevel": "2030年までに全農地面積の30%（EU全体は25%）を有機農業にする国家目標",
+        "keyFeature": "連邦政府が公的食堂での有機食材シェアを最低30%に引き上げるガイドラインを策定。有機農地転換・維持に対する手厚いヘクタール単価直接支払いをCAP（共通農業政策）で給付。",
+        "source": {
+          "organization": "ドイツ連邦食糧農業省 (BMEL)",
+          "title": "Bio-Strategie 2030 und die Nationale Strategie für biologische Lebensmittel",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "学校給食オーガニック基金（Fondo mense scolastiche biologiche）",
+        "statusOrLevel": "有機農地面積比率約20%（欧州トップクラス）・自治体有機給食に対する国庫補助金制度",
+        "keyFeature": "有機食材を一定割合以上使用する学校給食を実施する基礎自治体に対し、国が給食費の差額を補填する専用基金を創設。地域の有機小規模農家の販売先を学校給食で直接保障。",
+        "source": {
+          "organization": "イタリア農業・食糧主権・森林省 (MASAF)",
+          "title": "Fondo per le mense scolastiche biologiche e criteri di qualificazione",
+          "url": "https://www.governo.it"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "USDA「Farm to School（農場から学校へ）」グラントプログラム",
+        "statusOrLevel": "全米数万校の公立学区に対する地元有機・生鮮農産物購入助成および食農教育支援",
+        "keyFeature": "全国学校昼食プログラム（NSLP）の一環として、学校が地元オーガニック農家から直接食材を買い入れるサプライチェーン構築に連邦助成金を交付。",
+        "source": {
+          "organization": "米国農務省食品栄養局 (USDA FNS)",
+          "title": "The Patrick Leahy Farm to School Program Grant Awards",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "無償学校給食および親環境農産物（有機・無農薬）公共調達システム",
+        "statusOrLevel": "全公立小中高校における完全無償給食・食材の過半を親環境農産物・地域地産地消で調達",
+        "keyFeature": "ソウル市親環境流通センター等の公社が一括検品・価格調整し、農薬・遺伝子組み換えを排除した安全な食材を全校へ直接配送する公的フードハブを確立。",
+        "source": {
+          "organization": "大韓民国農林畜産食品部 / 各道・市教育庁",
+          "title": "Eco-friendly Agricultural Products Public Procurement for School Meals",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "みどりの食料システム戦略（2050年有機農業25%・100万ha目標）およびオーガニックビレッジ",
+        "statusOrLevel": "全国のオーガニックビレッジ指定市町村による学校給食での有機米・有機野菜導入実証",
+        "keyFeature": "木更津市やいすみ市などの先行事例をモデルに、農水省が交付金を配分。学校給食を一括需要先として位置付け、地元有機農家の販路確保と子どもへの食育を一体推進。",
+        "source": {
+          "organization": "農林水産省",
+          "title": "みどりの食料システム戦略及びオーガニックビレッジの取組",
+          "url": "https://www.maff.go.jp"
+        }
+      }
+    ]
+  }
 }

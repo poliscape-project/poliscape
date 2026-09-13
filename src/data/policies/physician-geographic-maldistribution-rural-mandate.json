@@ -205,5 +205,102 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における医師の地理的偏在是正・へき地勤務義務付け・地域枠・診療所開設規制比較",
+    "comparisonSummary": "都市部への医師集中と地方の医師不足を解決するため、ドイツやフランスは過剰地域での新規開業規制や地方勤務インセンティブ、韓国や豪州は地域枠卒業生への10年勤務義務を課しており、日本の地域枠強化や地方勤務要件のモデルとなっています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "保険医需要計画（Bedarfsplanung）に基づく医師過剰地域の新規開業禁止令",
+        "statusOrLevel": "医師充足率110%超の都市部において法定健康保険（GKV）適用保険医の新規開業を全面凍結",
+        "keyFeature": "連邦合同委員会（G-BA）が地域ごとの必要医師数を厳格算定。医師過剰な大都市では既存医院を買い取る以外に新規開業できず、医師を地方や不足地域へ誘導。各州で「ルーラル・ドクター枠（Landarztquote）」も導入。",
+        "source": {
+          "organization": "ドイツ連邦合同委員会 (G-BA) / 連邦保健省 (BMG)",
+          "title": "Bedarfsplanungs-Richtlinie zur Sicherstellung der vertragsärztlichen Versorgung",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "10年モラトリアム制度（10-Year Moratorium / 19AB条）およびBonded Medical Program",
+        "statusOrLevel": "海外医学部卒医師および地域枠奨学生に対する地方・へき地（DPA地域）での最長10年勤務義務",
+        "keyFeature": "メディケア診療報酬請求権を得るための絶対条件として、政府指定の地方医療過疎地域での10年間勤務を法律で強制。都市部での勝手な開業を遮断。",
+        "source": {
+          "organization": "豪保健高齢者ケア省 (DoHAC)",
+          "title": "Section 19AB and Bonded Medical Program Guidelines",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "地域必須医師制（地域医師枠）および公衆保健医（軍服務代替）制度",
+        "statusOrLevel": "医学部定員拡大に伴う「地域医師枠」導入（奨学金受給・10年間の地方必須医療勤務義務）",
+        "keyFeature": "兵役義務のある男性医師を地方保健所に公衆保健医として配備してきたが、志願者激減を受け、10年間の地方勤務を義務付ける「地域必須医師制」法制化を推進。",
+        "source": {
+          "organization": "大韓民国保健福祉部",
+          "title": "Essential and Regional Healthcare Innovation Strategy",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "地域医療従事契約（CESP）および医療過疎地域（Déserts médicaux）開業助成・規制議論",
+        "statusOrLevel": "医学生への月額約1,200ユーロ奨学金受給者に対する不足地域での同期間勤務義務付け",
+        "keyFeature": "地域圏保健庁（ARS）が最大5万ユーロの開業定着給付金（CAIM）を支給する一方、国会では過密都市部での開業許可制や総合診療医の初期研修地方配属義務化が激しく審議。",
+        "source": {
+          "organization": "フランス保健省 / 地域圏保健庁 (ARS)",
+          "title": "Contrat d'engagement de service public (CESP) et lutte contre les déserts médicaux",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国家医療奉仕団（NHSC: National Health Service Corps）",
+        "statusOrLevel": "医療従事者不足指定地域（HPSA）で2年以上勤務する医師に対する最大10万ドル超の奨学金返済肩代わり",
+        "keyFeature": "巨額の医学部学費ローンを連邦政府が肩代わりすることで、若手医師を農村部や貧困層コミュニティクリニックへ大量に動員する受益・奨励型モデル。",
+        "source": {
+          "organization": "米国保健資源事業局 (HRSA)",
+          "title": "National Health Service Corps (NHSC) Loan Repayment and Scholarship Programs",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "帰還義務付き研修（Return of Service: ROS）およびへき地医療加算",
+        "statusOrLevel": "州政府による研修修了後のへき地・北部先住民族コミュニティ等での一定期間勤務義務",
+        "keyFeature": "オンタリオ州やBC州等が専門研修ポストと連動してROS契約を締結。義務違反者には違約金（数万〜数十万ドル）と医師免許停止等の厳しいペナルティ。",
+        "source": {
+          "organization": "カナダ保健省 (Health Canada) / 各州医師会",
+          "title": "Return of Service (ROS) Programs and Rural Physician Retention",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "地域枠制度（地域医療従事要件9年）および医師偏在指標に基づく診療科・地域調整",
+        "statusOrLevel": "自治医科大学や全国医学部地域枠（卒業後9年間の指定医療機関勤務義務）・管理者要件化",
+        "keyFeature": "厚労省が全国の「医師偏在指標」を策定。地域枠医師の離脱防止（専門医資格取得制限等のペナルティ）を強化し、地域医療機関の管理者（院長等）に一定の地方勤務経験を義務付ける改革を断行。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "医師偏在対策の推進及び地域枠の適切な運用について",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

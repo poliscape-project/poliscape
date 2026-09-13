@@ -205,5 +205,102 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Activity"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国におけるペロブスカイト太陽電池（PSC）の商業実証・公共導入・サプライチェーン国家支援比較",
+    "comparisonSummary": "軽量・柔軟でビルの壁面や耐荷重の低い屋根に設置可能なペロブスカイト太陽電池（日本発の技術）の実用化に向け、日本・EU・中国・米国がギガワット級量産技術と公共調達支援で激しい開発競争を展開しています。",
+    "countries": [
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "ネットゼロ産業法（NZIA）およびHorizon Europeペロブスカイト・シリコンタンデム支援",
+        "statusOrLevel": "次世代太陽光パネル（ペロブスカイト・タンデム型）のEU域内製造シェア40%目標設定",
+        "keyFeature": "オックスフォードPV社等のスタートアップに数億ユーロの公的助成。既存シリコンパネルにペロブスカイトを積層して変換効率30%超を達成する商用モジュールの量産を推進。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Net-Zero Industry Act and Strategic Solar Photovoltaic Projects",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "国家重点研究開発計画「第14次5カ年エネルギー科学技術革新計画」",
+        "statusOrLevel": "江蘇省・浙江省等における100MW級ペロブスカイト商用パイロットプラントの稼働",
+        "keyFeature": "世界の太陽光サプライチェーンを支配する強みを背景に、大型ガラス基板への連続塗布印刷ラインを急速に立ち上げ。公共実証メガソーラーにペロブスカイトモジュールを大量投入。",
+        "source": {
+          "organization": "中華人民共和国国家発展改革委員会 (NDRC) / 国家エネルギー局",
+          "title": "14th Five-Year Plan for Energy Technology Innovation - Perovskite Deployment",
+          "url": "https://www.gov.cn"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "エネルギー省（DOE）太陽エネルギー技術局（SETO）ペロブスカイトコンソーシアム",
+        "statusOrLevel": "インフレ抑制法（IRA）製造税額控除（Section 45X）および耐久性検証プログラム",
+        "keyFeature": "国立再生可能エネルギー研究所（NREL）が中心となり、野外長期耐久性（水分・熱劣化対策）を検証。米国製ペロブスカイトパネルの国内生産設備投資に巨額の税額控除を付与。",
+        "source": {
+          "organization": "米国エネルギー省 (DOE SETO) / NREL",
+          "title": "Perovskite Solar Cells R&D and Domestic Manufacturing Incentives",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "フラウンホーファー太陽エネルギーシステム研究所（ISE）建築一体型太陽光（BIPV）支援",
+        "statusOrLevel": "建物の外壁・ファサードへのペロブスカイト太陽電池導入建築基準策定と公費補助",
+        "keyFeature": "連邦経済気候保護省（BMWK）が「太陽光産業再構築プログラム」を主導。高層ビルの窓ガラスや壁面に組み込む意匠性の高いBIPVモジュールの規格化と安全認証を推進。",
+        "source": {
+          "organization": "ドイツ連邦経済気候保護省 (BMWK) / Fraunhofer ISE",
+          "title": "Photovoltaik-Strategie und bauwerkintegrierte Photovoltaik (BIPV)",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "英国研究・イノベーション機構（UKRI）先進材料・クリーンテック助成",
+        "statusOrLevel": "オックスフォード大学発ベンチャー（Oxford PV）に対する商業ギガファクトリー支援",
+        "keyFeature": "ペロブスカイト技術の基礎特許発祥地としての地位を活かし、商業化資金を官民連携ファンドから供給。欧州メガワット級商業タンデムパネルの出荷を先導。",
+        "source": {
+          "organization": "英国革新・技術庁 (Innovate UK) / DESNZ",
+          "title": "Next-Generation Solar Technologies and Commercialisation Grants",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "産業通商資源部「次世代タンデム型太陽電池ロードマップ」",
+        "statusOrLevel": "ハンファQセルズ等と連携したペロブスカイト・シリコンタンデム電池の2026年商業量産目標",
+        "keyFeature": "国家コア技術に指定。従来のシリコンモジュール製造ラインをタンデム型へ転換するための巨額の税額控除とR&D助成金を集中投下。",
+        "source": {
+          "organization": "大韓民国産業通商資源部 (MOTIE)",
+          "title": "Next-Generation High-Efficiency Tandem Solar Cell Commercialization Strategy",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "グリーンイノベーション基金（GI基金）およびペロブスカイト太陽電池普及タスクフォース",
+        "statusOrLevel": "2025年以降の実用化・公共施設屋根や東京都庁舎壁面等での実証・ヨウ素国産サプライチェーン",
+        "keyFeature": "宮坂力教授（桐蔭横浜大）発の技術であり、主原料のヨウ素（世界シェア第2位・千葉県産）を自給可能。積水化学・カネカ等と連携し、耐荷重の低い体育館屋根やビルの曲面壁面への大量導入を国交省・環境省が推進。",
+        "source": {
+          "organization": "経済産業省資源エネルギー庁 / 環境省",
+          "title": "次世代型太陽電池の開発・導入拡大に向けたアクションプラン",
+          "url": "https://www.meti.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -186,5 +186,102 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の主要観光地におけるオーバーツーリズム対策・二重価格（住民割引/外国人価格）・観光公害抑制税比較",
+    "comparisonSummary": "急増する観光客による住民生活の圧迫（オーバーツーリズム）に対し、ヴェネツィアの入域税、インドやエジプトの二重価格制、バルセロナの観光税増額など、価格メカニズムを活用した需要分散とインフラ維持費調達が世界的に広がっています。",
+    "countries": [
+      {
+        "country": "イタリア/ヴェネツィア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "旧市街アクセス料（Contributo di Accesso）および宿泊税（Tassa di Soggiorno）",
+        "statusOrLevel": "ピーク期の日帰り観光客に対する5〜10ユーロの入場料徴収・宿泊客には1泊最大5ユーロ課税",
+        "keyFeature": "住環境の崩壊を防ぐため世界初となる都市入場料制を導入。住民、通勤者、ベネト州住民は完全免除される一方、無登録の日帰り観光客には最大300ユーロの過料。",
+        "source": {
+          "organization": "ヴェネツィア市庁 (Comune di Venezia)",
+          "title": "Contributo di accesso alla Città antica e regolamento comunale",
+          "url": "https://www.governo.it"
+        }
+      },
+      {
+        "country": "スペイン/バルセロナ",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "自治体観光特別税（Recargo municipal sobre la tasa turística）",
+        "statusOrLevel": "州観光税に加え市独自の上乗せ税を1泊最大4ユーロ（合計1泊最大7.5ユーロ）に増額",
+        "keyFeature": "観光税収をエアコンのない公立学校の冷房設置や住民向け公共住宅建設に直接充当。クルーズ船寄港客への課税も強化し、観光客がもたらす外部不経済を是正。",
+        "source": {
+          "organization": "カタルーニャ自治州政府 / バルセロナ市議会",
+          "title": "Impost sobre les estades en establiments turístics i recàrrec municipal",
+          "url": "https://www.lamoncloa.gob.es"
+        }
+      },
+      {
+        "country": "インド",
+        "countryCode": "IN",
+        "flag": "🇮🇳",
+        "systemName": "歴史的記念物二重価格制（タージ・マハル入場料体系）",
+        "statusOrLevel": "国内居住者50ルピー（約90円）に対し、外国人観光客1,100ルピー（約2,000円）の価格差（約22倍）",
+        "keyFeature": "インド考古調査局（ASI）が数十年前から全国の世界遺産で二重価格を公式運用。自国民の文化財アクセス権を低料金で保障しつつ、外国人旅行者から修繕・清掃財源を高額徴収。",
+        "source": {
+          "organization": "インド考古調査局 (Archaeological Survey of India)",
+          "title": "Ticketed Monuments Entry Fees for Domestic and Foreign Visitors",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "エジプト",
+        "countryCode": "EG",
+        "flag": "🇪🇬",
+        "systemName": "最高遺物評議会（SCA）ピラミッド・博物館二重価格制度",
+        "statusOrLevel": "エジプト人・アラブ諸国市民と一般外国人旅行者の入場料を法的に明確に区別（5〜10倍差）",
+        "keyFeature": "国内物価と国民所得に配慮した内外価格差。外国人向けチケット代金は外貨準備獲得と大規模遺跡の保全・デジタルチケットゲート網整備に直結。",
+        "source": {
+          "organization": "エジプト観光・古代遺物省 (MoTA)",
+          "title": "Supreme Council of Antiquities Regulations and Ticketing Tariffs",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "オランダ/アムステルダム",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "欧州最高水準の宿泊観光税（Toeristenbelasting: 12.5%）",
+        "statusOrLevel": "ホテル宿泊料金の一律12.5%を観光税として課税・クルーズ船乗客にも1日14ユーロ課税",
+        "keyFeature": "安易なパーティー観光客を抑制するため税率を急激に引き上げ。観光税収で旧市街の清掃や警備員増員を賄い、住民の生活環境の平穏を回復。",
+        "source": {
+          "organization": "アムステルダム市 (Gemeente Amsterdam)",
+          "title": "Tourist tax (toeristenbelasting) increase in Amsterdam",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "アメリカ/ハワイ州",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ハスク・フィー（カマアイナ住民割引）および環境保全グリーンフィー構想",
+        "statusOrLevel": "州立公園・ダイヤモンドヘッド等の州外観光客向け有料予約制（ハワイ州民は完全無料）",
+        "keyFeature": "地元住民（Kamaʻāina）は身分証提示で無料・事前予約不要とする一方、州外からの旅行者には事前スロット予約と入園料・駐車料を課して過密を制御。",
+        "source": {
+          "organization": "ハワイ州土地自然資源局 (DLNR)",
+          "title": "State Parks Non-Resident Fees and Kamaʻāina Access Policy",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "自治体宿泊税の導入拡大および観光施設・飲食店の二重価格（インバウンド価格）論争",
+        "statusOrLevel": "京都市・東京都等に続く全国自治体の宿泊税条例制定・姫路城入場料の外国人向け4倍化検討",
+        "keyFeature": "円安を背景とした訪日客集中に対し、姫路城や民間飲食店が「日本人・地元民割引」「訪日外国人適正価格」の二重価格を検討・導入。観光庁は公的施設での価格弾力化指針を整理中。",
+        "source": {
+          "organization": "観光庁 / 総務省",
+          "title": "持続可能な観光地域づくりに向けた受入環境整備及び法定外目的税（宿泊税等）の活用",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

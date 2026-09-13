@@ -217,5 +217,102 @@
         "commentStandard": "「受診抑制によって重大な疾患の早期発見機会が奪われるリスクを十分に考慮すべきだ」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国における外用薬・対症療法薬（湿布・保湿剤・制酸剤）の処方制限・保険適正化スキーム比較",
+    "comparisonSummary": "美容目的や過剰処方の温床となりやすい保湿剤や湿布薬に対し、英国やドイツは処方箋発行のガイドライン制限や18歳未満限定給付を敷いており、日本も1回あたり処方制限や後発品差額選定療養を導入しています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHSイングランド皮膚科用保湿剤（Emollients）適正使用ガイダンス",
+        "statusOrLevel": "軽度の乾燥肌に対するエモリエントクリームの処方停止・アトピー等重度皮膚疾患に厳格限定",
+        "keyFeature": "単なる加齢性乾燥肌への公費処方を全廃し薬局での自費購入を促す一方、重度湿疹や乾癬など医師の継続的管理が必要な疾患に対してのみ処方箋を認可する二層化。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS England)",
+          "title": "Items which should not routinely be prescribed in primary care: Emollients",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦合同委員会（G-BA）医薬品指令別表1（OTC例外リストの限定適用）",
+        "statusOrLevel": "尿素含有保湿剤やNSAID外用消炎鎮痛剤（湿布・ゲル）の成人向け保険給付禁止",
+        "keyFeature": "成人の腰痛・肩こりに対する消炎鎮痛外用薬（フェルビナク等）は一切保険給付されずドラッグストアで購入。小児（12歳未満または発達障害の18歳未満）のみ例外的に給付。",
+        "source": {
+          "organization": "ドイツ連邦合同委員会 (G-BA)",
+          "title": "Arzneimittel-Richtlinie - Verordnungseinschränkungen und -ausschlüsse",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "外用消炎鎮痛剤（NSAIDsゲル・パッチ）の償還率最低ランク（15%）指定",
+        "statusOrLevel": "湿布・外用薬の保険償還率を15%に圧縮・さらに1処方あたり箱数管理を義務付け",
+        "keyFeature": "医療経済評価に基づき、外用薬の全身性効果が限定的であるとして患者の自己負担率を大幅に引き上げ。過剰な長期処方を防ぐため処方期間を厳しく上限規制。",
+        "source": {
+          "organization": "フランス健康保険公庫 (Ameli)",
+          "title": "Taux de remboursement des médicaments et participation forfaitaire",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "医薬品給付委員会（TLV）処方制限基準（Begränsad subvention）",
+        "statusOrLevel": "胃酸分泌抑制薬（オメプラゾール等）の軽症患者向け保険給付除外・難治性潰瘍に限定",
+        "keyFeature": "特定の診断名や他の安価な治療が無効であった場合にのみ保険適用を認める「制限付き償還」を運用。一般的な胸焼けや軽症逆流症には市販薬の自己購入を義務付け。",
+        "source": {
+          "organization": "スウェーデン歯科医薬品給付庁 (TLV)",
+          "title": "Begränsad subvention av läkemedel för magsyra och hudbesvär",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "健康保険審査評価院（HIRA）医薬品給付適正性再評価",
+        "statusOrLevel": "ヒアルロン酸点眼薬・消化機能改善薬等の臨床的有用性再評価と給付枠縮小",
+        "keyFeature": "市販薬と重複する一般対症薬の処方急増を抑制するため、毎年の再評価で効果の立証が不十分な品目の給付上限を引き下げ、または特定病名以外を非給付化。",
+        "source": {
+          "organization": "大韓民国健康保険審査評価院 (HIRA)",
+          "title": "Pharmaceutical Benefit Adequacy Re-evaluation System",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "医薬品給付スキーム（PBS）制限付き給付（Restricted Benefits）",
+        "statusOrLevel": "単なる軽度筋骨格系疼痛に対する湿布・外用薬のPBS給付対象外化",
+        "keyFeature": "処方箋医薬品リスト（PBS）への収載要件を厳格化。外用鎮痛剤は原則として補助対象から外し、患者がスーパーや薬局で通常価格で購入するセルフメディケーションを促進。",
+        "source": {
+          "organization": "豪保健高齢者ケア省 (DoHAC) / PBS",
+          "title": "Pharmaceutical Benefits Scheme (PBS) - General Statement of Policy",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "外用鎮痛消炎剤の処方枚数制限および長期収載品の選定療養（2024年導入）",
+        "statusOrLevel": "湿布薬の1処方あたり上限63枚規制・先発医薬品希望時の差額自己負担（選定療養）化",
+        "keyFeature": "漫然とした大量処方を防ぐため診療報酬で枚数上限を超えた処方を不支給に。さらに後発医薬品が存在するOTC類似薬を患者が先発品で希望した場合、差額の4分の1を自費徴収する改革を断行。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "長期収載品の処方等又は調剤に係る選定療養の導入について",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
   }
 }

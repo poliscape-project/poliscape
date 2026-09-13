@@ -205,5 +205,102 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "UserCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における個人データ保護法制（GDPR / CCPA等）の定期見直し・生成AI学習・仮名化データ活用ルール比較",
+    "comparisonSummary": "個人のプライバシー保護とAI産業のデータ利活用の両立に向け、EUのAI規則・GDPR、米国の州プライバシー法、日本の個人情報保護法3年ごと見直しが、クローリング・仮名加工・オプトアウト権の設計で激しく議論されています。",
+    "countries": [
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "一般データ保護規則（GDPR）およびEU AI規則（AI Act）",
+        "statusOrLevel": "生成AIモデル訓練データに対するGDPR全面適用・高額制裁金（売上の最大7%または3,500万ユーロ）",
+        "keyFeature": "欧州データ保護会議（EDPB）がOpenAIやMetaのデータ収集を調査。ネット上の公開データであっても個人の「忘れられる権利（削除権）」やオプトアウト権が厳格に優先。",
+        "source": {
+          "organization": "欧州データ保護会議 (EDPB) / 欧州委員会",
+          "title": "General Data Protection Regulation (GDPR) and AI Act Implementation",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "アメリカ/カリフォルニア州",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "カリフォルニア州消費者プライバシー法（CCPA / CPRA）",
+        "statusOrLevel": "個人データの「販売・共有禁止（Do Not Sell/Share My Info）」オプトアウト権義務化",
+        "keyFeature": "加州プライバシー保護局（CPPA）が自動意思決定技術（ADMT）やAIプロファイリングに対する事前拒否権とアクセス権の規則案を策定。企業への開示義務を強化。",
+        "source": {
+          "organization": "カリフォルニア州プライバシー保護局 (CPPA) / FTC",
+          "title": "California Consumer Privacy Act Regulations and Automated Decisionmaking",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "データ保護・デジタル情報法案（DPDI法案）および情報コミッショナー庁（ICO）指針",
+        "statusOrLevel": "ブレグジット後のイノベーション優先アプローチ・研究開発目的でのデータ処理要件緩和",
+        "keyFeature": "ICOがAI開発者向けに「正当な利益（Legitimate Interests）」に基づく訓練データ処理の柔軟な解釈ガイドラインを提示。GDPRより企業フレンドリーな独自基準を追求。",
+        "source": {
+          "organization": "英国情報コミッショナー庁 (ICO) / 科学・イノベーション・技術省",
+          "title": "Data protection and artificial intelligence guidance for organizations",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦データ保護法（BDSG）およびデータ保護監督機関会議（DSK）AIチェックリスト",
+        "statusOrLevel": "連邦および16州の厳格な独立データ保護官による生成AIの大規模監査",
+        "keyFeature": "大規模言語モデル（LLM）が個人データを幻覚（ハルシネーション）として出力した場合の訂正義務や、従業員の個人データを社内AIに学習させる場合の厳格同意基準を制定。",
+        "source": {
+          "organization": "ドイツ連邦データ保護・情報自由委員 (BfDI) / DSK",
+          "title": "Künstliche Intelligenz und Datenschutz - Kriterienkatalog der DSK",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "情報科学と自由国家委員会（CNIL）AIアクションプラン",
+        "statusOrLevel": "オープンソースAI開発（Mistral AI等）を育成しつつ個人データ保護を両立する実践的指針",
+        "keyFeature": "スクレイピングデータの事前フィルタリング、モデル重みからの個人情報抽出防止技術、仮名化・匿名化技術の活用に関する世界有数の具体的ハウツー指針をCNILが策定。",
+        "source": {
+          "organization": "フランス国家情報科学・自由委員会 (CNIL)",
+          "title": "Plan d'action de la CNIL pour une IA respectueuse de la vie privée",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "個人情報保護法改正（2023年施行・AI時代対応）および仮名情報制度",
+        "statusOrLevel": "自動化された意思決定に対する拒否権・説明要求権の新設、および公開データのAI学習特例ガイドライン",
+        "keyFeature": "個人情報保護委員会（PIPC）が「AI開発のための公開個人情報処理ガイドライン」を発表。ネット上の公開データについて、正当な目的と安全措置があれば原則同意なし学習を公認。",
+        "source": {
+          "organization": "大韓民国個人情報保護委員会 (PIPC)",
+          "title": "Personal Information Protection Act Amendments and AI Guidelines",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "個人情報の保護に関する法律（いわゆる3年ごと見直し）および生成AI注意喚起",
+        "statusOrLevel": "仮名加工情報の民間利活用促進・不適正利用の抑止・個人情報保護委員会によるOpenAI等への行政指導",
+        "keyFeature": "著作権法30条の4（AI学習への寛容性）と個人情報保護法との整合性を整理。特定個人のプロファイリングを目的としない学習は認める一方、センシティブ情報の無断収集やオプトアウト拒否への規制強化を議論。",
+        "source": {
+          "organization": "個人情報保護委員会",
+          "title": "個人情報保護法いわゆる3年ごと見直しに係る検討論点及び生成AIに関する注意喚起",
+          "url": "https://www.ppc.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -217,5 +217,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "GraduationCap"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国におけるヤングケアラー（Young Carers）の法的認知・早期把握・公的支援プログラム比較",
+    "comparisonSummary": "家族の介護や看病を過度に担う子どもたちを守るため、英国は2014年法で世界初のヤングケアラー個別アセスメント義務を法制化し、日本も2024年に子ども・若者育成支援推進法を改正して法的根拠を明確化しました。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "子ども・家族法（Children and Families Act 2014）およびケア法（Care Act 2014）",
+        "statusOrLevel": "地方自治体に対するヤングケアラー発見時の「権利・ニーズ個別アセスメント」法的義務化",
+        "keyFeature": "学校や自治体がヤングケアラーを特定した場合、子どもが過度なケアを担わないよう、自治体の成人ケア部門が親への公的介護・ヘルパー派遣を増額して肩代わりする責務を負う。",
+        "source": {
+          "organization": "英国保健社会的ケア省 (DHSC) / 教育省",
+          "title": "Young carers: statutory guidance for local authorities on needs assessment",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "ケアラー認識法（Carer Recognition Act 2010）およびヤングケアラー・バーサリー",
+        "statusOrLevel": "25歳以下の若年介護者に対する学業継続奨学金（年間最大3,768豪ドル）の公費支給",
+        "keyFeature": "Carer Gatewayを通じて専任カウンセリングや緊急レスパイトケア（一時預かり）を提供。介護負担による学業中退や就職難を防ぐための直接金銭給付を全国展開。",
+        "source": {
+          "organization": "豪社会支援省 (Department of Social Services) / Carer Gateway",
+          "title": "Young Carer Bursary Program and Carer Gateway Services",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "児童・青少年福祉法（SGB VIII）および連邦家族省若年ケアラー支援イニシアチブ",
+        "statusOrLevel": "家族ケアを担う子どもに対する青少年局（Jugendamt）のソーシャルワーク介入と家族支援",
+        "keyFeature": "無料の匿名相談ホットライン（Pausentaste / 一時停止ボタン）を全国運用。家庭内介護ストレスを抱える青少年にレスパイトキャンプや個別メンターを提供。",
+        "source": {
+          "organization": "ドイツ連邦家族・高齢者・女性・青少年省 (BMFSFJ)",
+          "title": "Initiative Pausentaste - Unterstützung für Kinder und Jugendliche, die pflegen",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "医療保健法（HSL）第5章7条「子どもの視点（Barnperspektivet）」規定",
+        "statusOrLevel": "重病・障害・精神疾患・薬物中毒の親を持つ子どもに対する医療機関の情報提供・支援義務",
+        "keyFeature": "医師や看護師が患者を治療する際、その未成年の子ども（Barn som anhöriga）の生活実態を必ず確認し、基礎自治体の社会福祉部門と連携して支援計画を立てることを法律で義務付け。",
+        "source": {
+          "organization": "スウェーデン国家保健福祉委員会 (Socialstyrelsen)",
+          "title": "Barn som anhöriga - Vägledning för hälso- och sjukvården",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "マヒ・アロハ（Mahi Aroha: ケアラー行動計画）若年ケアラー支援",
+        "statusOrLevel": "政府横断の家族介護者戦略における若手ケアラー（Young Carers）の重点対象化",
+        "keyFeature": "学校教員向けの発見ガイドラインを策定。介護が必要な家族への障害者包括予算（Whānau Ora）を配分し、子どもが家事や通訳、投薬管理から解放される環境を整備。",
+        "source": {
+          "organization": "ニュージーランド社会開発省 (MSD)",
+          "title": "Mahi Aroha: Carers' Strategy Action Plan for Young Carers",
+          "url": "https://www.msd.govt.nz"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "国家家族介護者戦略（Agir pour les aidants）および若年介護者協会（JADE）連携",
+        "statusOrLevel": "若年介護者への休息支援（Répit）および学校内での個別学習支援（PAI）適用",
+        "keyFeature": "全国レベルでヤングケアラーの認知度向上キャンペーンを展開。大学や高校での出席免除や試験日程調整を公的に配慮するガイドラインを文部省が発出。",
+        "source": {
+          "organization": "フランス連帯・家族省 / 保健省",
+          "title": "Stratégie nationale de mobilisation et de soutien des aidants",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "子ども・若者育成支援推進法改正（2024年成立・ヤングケアラー法制化）",
+        "statusOrLevel": "ヤングケアラーを「国・地方自治体が支援すべき対象」として法律上に初めて明確に明記",
+        "keyFeature": "各市区町村におけるヤングケアラー支援窓口・コーディネーターの配置を推進。福祉・教育・医療の連携会議を義務付け、ヘルパー派遣や家事代行による子どもの負担肩代わりを実施。",
+        "source": {
+          "organization": "こども家庭庁 / 厚生労働省",
+          "title": "子ども・若者育成支援推進法の一部を改正する法律の施行について",
+          "url": "https://www.cfa.go.jp"
+        }
+      }
+    ]
+  }
 }

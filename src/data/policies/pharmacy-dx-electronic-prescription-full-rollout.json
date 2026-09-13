@@ -217,5 +217,102 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "CheckCircle2"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における電子処方箋（E-Prescription）の全国義務化・普及率・医療DX基盤比較",
+    "comparisonSummary": "重複投薬や相互作用の防止、医療費削減のため、欧州諸国（北欧・エストニア・英国・ドイツ）は電子処方箋の普及率が9割を超え法的義務化を完了しており、日本もマイナ保険証と連携した電子処方箋の全国義務化へ向けて舵を切っています。",
+    "countries": [
+      {
+        "country": "エストニア",
+        "countryCode": "EE",
+        "flag": "🇪🇪",
+        "systemName": "国家e処方箋（e-Prescription / Digiretsept）",
+        "statusOrLevel": "国内全処方箋の99%以上が電子化・紙の処方箋は例外（停電・通信障害時のみ）",
+        "keyFeature": "医師が処方すると中央健康情報システムに即時登録。患者は身分証（IDカード等）を全国どの薬局でも提示するだけで調剤を受けられる世界最高峰の電子カルテ連携。",
+        "source": {
+          "organization": "エストニア健康保険基金 (Tervisekassa) / TEHIK",
+          "title": "e-Prescription system and health data exchange infrastructure",
+          "url": "https://www.tervisekassa.ee"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦電子処方箋（E-Rezept）義務化（2024年1月全面施行）",
+        "statusOrLevel": "全開業医・病院に対する紙処方箋の廃止およびE-Rezept発行の法的完全義務化",
+        "keyFeature": "gematikが運用するテレマティクスインフラストラクチャ（TI）を経由。患者は健康保険証（eGK）を薬局端末に差し込むだけで処方薬を受け取れる簡便さで普及率が急上昇。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG) / gematik GmbH",
+          "title": "Das E-Rezept ist für alle Praxen und Apotheken verpflichtend",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS電子処方サービス（EPS: Electronic Prescription Service）",
+        "statusOrLevel": "イングランド全土のGP処方箋の95%以上がEPSで処理・指定薬局への自動ルーティング",
+        "keyFeature": "重複処方や投薬相互作用をシステムが自動アラート。患者が事前に指名した「かかりつけ薬局（Nominated Pharmacy）」へ処方データが自動転送され待ち時間をゼロ化。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS England)",
+          "title": "Electronic Prescription Service (EPS) - NHS England Digital",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "国家医薬品リスト（Nationella läkemedelslistan: NLL）",
+        "statusOrLevel": "法制化された中央医薬品データベースへの全処方・調剤データの100%リアルタイム集約",
+        "keyFeature": "医師、薬剤師、患者本人が同一の処方履歴を閲覧可能。複数医療機関からの重複投薬や禁忌薬併用を調剤現場でリアルタイム遮断する安全装置を確立。",
+        "source": {
+          "organization": "スウェーデンeHealth局 (E-hälsomyndigheten)",
+          "title": "Nationella läkemedelslistan (NLL) och e-recept",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "SurescriptsネットワークおよびEPCS（規制物質電子処方義務化法）",
+        "statusOrLevel": "全米処方箋の90%以上が電子処方箋・オピオイド過剰処方防止のため連邦法で電子処方を義務化",
+        "keyFeature": "民間合弁のSurescripts基盤が全米の電子カルテ（EHR）と薬局チェーンを仲介。麻薬・規制薬物（Schedule II）の処方箋改ざんを二要素生体認証付き電子署名で根絶。",
+        "source": {
+          "organization": "米国麻薬取締局 (DEA) / CMS",
+          "title": "Electronic Prescriptions for Controlled Substances (EPCS) Requirements",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "電子処方箋（e-Prescription / Ségur de la santé）",
+        "statusOrLevel": "セギュール医療デジタル化計画に基づく全処方箋のセキュアQRコード・電子化義務化",
+        "keyFeature": "処方箋に暗号化QRコードを印刷・電子送信し、患者ポータル「Mon Espace Santé」に集約。偽造処方箋による不正転売や向精神薬の不正取得を完全に防止。",
+        "source": {
+          "organization": "フランス全国健康保険公庫 (Assurance Maladie)",
+          "title": "Déploiement de la e-prescription en médecine de ville et à l'hôpital",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "電子処方箋管理サービス（厚生労働省・社会保険診療報酬支払基金）およびマイナ保険証連携",
+        "statusOrLevel": "2023年運用開始・重複投薬等チェック機能・2025年までに概ね全ての医療機関・薬局導入目標",
+        "keyFeature": "マイナンバーカードのオンライン資格確認ネットワークを活用。患者の過去の調剤データやアレルギー歴を全国の医師・薬剤師が即座に確認し、医療過誤を防止。導入支援補助金を強化。",
+        "source": {
+          "organization": "厚生労働省 / デジタル庁",
+          "title": "電子処方箋の普及拡大に向けた取組及び地域における医療DX推進",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

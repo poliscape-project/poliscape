@@ -185,5 +185,102 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "UserCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における巨大SNS・プラットフォーム事業者の違法有害情報（誹謗中傷・偽情報）削除義務・透明性法制比較",
+    "comparisonSummary": "深刻化するSNS上の名誉毀損や偽情報に対し、ドイツのNetzDGやEUのデジタルサービス法（DSA）は厳格な削除期限と透明性報告を義務付け、日本も2024年の情プラ法で大規模事業者への削除迅速化と窓口公表を法制化しました。",
+    "countries": [
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "デジタルサービス法（DSA: Digital Services Act）",
+        "statusOrLevel": "超大規模オンラインプラットフォーム（VLOP: X、Meta等）に対する包括的コンテンツモデレーション義務",
+        "keyFeature": "違法コンテンツの通知・行動（Notice and Action）義務化。違法情報の迅速な削除、アルゴリズムのレコメンド基準開示、違反事業者への全世界売上最大6%の巨額制裁金を規定。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "The Digital Services Act - Ensuring a safe and accountable online environment",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ネットワーク執行法（NetzDG: Netzwerkdurchsetzungsgesetz / DSAへ統合移行）",
+        "statusOrLevel": "明白な違法コンテンツ（侮辱・ヘイトスピーチ等）に対する通報後「24時間以内」削除義務",
+        "keyFeature": "プラットフォーム事業者に対し、国内法人の設置と苦情受付窓口の公表を強制。期限内に削除を怠った企業には最大5,000万ユーロの過料を科す世界初の強硬規制。",
+        "source": {
+          "organization": "ドイツ連邦司法庁 (BfJ)",
+          "title": "Netzwerkdurchsetzungsgesetz (NetzDG) - Beschwerdeverfahren und Bußgelder",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "オンライン安全法（Online Safety Act 2023）注意義務（Duty of Care）",
+        "statusOrLevel": "違法コンテンツ（児童虐待・テロ・ヘイト・自殺教唆・悪質な名誉毀損）の事前排除義務",
+        "keyFeature": "通信庁（Ofcom）が監督。被害者からの通報を待つだけでなく、事業者がリスク評価を行い、システム設計レベルで有害情報の拡散を抑止する「注意義務」を法制化。",
+        "source": {
+          "organization": "英国情報通信庁 (Ofcom)",
+          "title": "Online Safety Act 2023 - Platforms' illegal harms duties",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "通信品位法第230条（Communications Decency Act Section 230）および免責見直し論議",
+        "statusOrLevel": "ユーザー投稿に対するプラットフォーム事業者の民事責任免責条項の維持と超党派改革議論",
+        "keyFeature": "「言論の自由（憲法修正第1条）」を最重要視し、事業者に削除義務を課す連邦法制化には極めて慎重。ただし未成年保護（KOSA）や詐欺に関しては免責縮小の法案が審議中。",
+        "source": {
+          "organization": "米国連邦通信委員会 (FCC) / 連邦議会調査局 (CRS)",
+          "title": "Section 230 of the Communications Decency Act - Overview and Debate",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "ネット上の憎悪コンテンツ対策法（アヴィア法・判決後修正）およびアルコム（Arcom）監督",
+        "statusOrLevel": "視聴覚・デジタル通信規制局（Arcom）によるプラットフォームのモデレーション体制常時監査",
+        "keyFeature": "憲法評議会が「24時間以内削除」の過度な検閲リスクを違憲とした経緯を踏まえ、個別の削除強制ではなくプラットフォームの審査体制・人員配備の適正性を監督するアプローチへ洗練。",
+        "source": {
+          "organization": "フランス視聴覚・デジタル通信規制局 (Arcom)",
+          "title": "Lutte contre les contenus haineux en ligne et régulation des plateformes",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "オンライン安全法（Online Safety Act 2021）成人のサイバー悪用（Cyber Abuse）制度",
+        "statusOrLevel": "eSafetyコミッショナーによる悪質な嫌がらせ・脅迫投稿の「24時間以内削除命令」",
+        "keyFeature": "独立公的機関eSafetyが、一般市民からの深刻なサイバー中傷通報を受理し、XやInstagram等のグローバルプラットフォームに対して世界規模での削除命令を発行する強力な管轄権を行使。",
+        "source": {
+          "organization": "豪eSafetyコミッショナー",
+          "title": "Adult Cyber Abuse Scheme - Removal notices and civil penalties",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "情報流通プラットフォーム対処法（旧プロバイダ責任制限法の改正・2024年成立）",
+        "statusOrLevel": "大規模プラットフォーム事業者に対する削除申出への迅速判断（原則1週間以内回答）と体制整備義務",
+        "keyFeature": "総務大臣が一定規模以上のSNS（X、Meta、LINEヤフー等）を指定。日本語対応の削除窓口設置、削除基準の策定・公表、毎年の運用状況の透明性レポート公表を法定義務化。",
+        "source": {
+          "organization": "総務省",
+          "title": "特定電気通信による情報の流通によって発生する権利侵害等への対処に関する法律（情報流通プラットフォーム対処法）",
+          "url": "https://www.soumu.go.jp"
+        }
+      }
+    ]
+  }
 }

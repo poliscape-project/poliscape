@@ -185,5 +185,102 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "FileCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における軽度疾患治療薬（OTC類似薬・市販薬競合品）の公的保険給付縮小・除外（デリスティング）比較",
+    "comparisonSummary": "医療保険財政の持続可能性を保つため、フランスや英国、ドイツは風邪薬、保湿剤、軽度ビタミン剤、ビタミン製剤などの公的保険償還を大幅に縮小・完全除外しており、日本のOTC類似薬改革の重要なベンチマークとなっています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "医療効果判定に基づく保険償還率見直し（Déremboursement / 償還除外）",
+        "statusOrLevel": "医学的有用性（SMR）が「不十分」とされた医薬品（軽度ビタミン剤・静脈炎薬等）の給付完全ゼロ化",
+        "keyFeature": "国立高等保健機構（HAS）が全処方薬の臨床効果を再評価。有用性が中程度の医薬品の償還率を15〜30%に引き下げ、軽症向け一般薬数百品目を保険から完全除外。",
+        "source": {
+          "organization": "フランス高等保健機構 (HAS) / 保健省",
+          "title": "Le service médical rendu (SMR) et le déremboursement des médicaments",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "社会法典第5巻（SGB V）第34条「非処方せん医薬品（OTC薬）」の原則給付除外",
+        "statusOrLevel": "18歳以上の成人に対する薬局販売可能医薬品（OTC薬・風邪薬・軽度鎮痛薬等）の保険給付を全面禁止",
+        "keyFeature": "重篤な疾患治療（がんの痛みに対する鎮痛剤等）の例外リスト（OTC-Ausnahmeliste）を除き、成人が医師から処方された場合であってもOTC薬は全額自費購入が法定原則。",
+        "source": {
+          "organization": "ドイツ連邦合同委員会 (G-BA)",
+          "title": "OTC-Übersicht - Arzneimittel-Richtlinie / Anlage I (§ 34 SGB V)",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHSイングランド「軽度疾患に対する市販可能品（Over-the-Counter）処方停止指針」",
+        "statusOrLevel": "花粉症薬、便秘薬、軽度湿疹保湿剤、頭痛薬など35種類の軽度症状向け処方の原則停止",
+        "keyFeature": "「セルフケア（Self-Care）」を徹底。医師（GP）に対し、ドラッグストアで数ポンドで購入できる日常薬の処方箋発行を原則禁止し、年約1億ポンドのNHS予算を削減。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS England)",
+          "title": "Conditions for which over the counter items should not routinely be prescribed",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "基本保険パッケージ（Basispakket）からの胃薬・ビタミンD等の償還除外",
+        "statusOrLevel": "ビタミンD、プロトンポンプ阻害薬（制酸剤）などの長期服用における自己負担化・給付除外",
+        "keyFeature": "オランダ医療研究所（ZIN）の評価に基づき、一般市販薬で代替可能なビタミン剤等を基本医療保険から除外。浮いた数千万ユーロの財源を最新抗がん剤へ集中配分。",
+        "source": {
+          "organization": "オランダ医療研究所 (Zorginstituut Nederland)",
+          "title": "Pakketbeheer en uitstroom van zelfzorgmiddelen uit het basispakket",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "メディケア・パートDおよび民間保険フォーミュラリー（Formulary）除外",
+        "statusOrLevel": "処方箋なしで購入できるOTC医薬品は公的保険・民間処方薬プランの対象外が標準",
+        "keyFeature": "管理医療（HMO等）において、市販のアレルギー薬（ジルテック等）や湿布は保険償還されず患者が自費購入。高額な医療費控除口座（HSA/FSA）での税制適格支払いで対応。",
+        "source": {
+          "organization": "米国メディケア・メディケイド・サービス庁 (CMS)",
+          "title": "Medicare Part D Formularies and OTC Drug Exclusions",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "基礎医療保険医薬品給付リスト（SL: Spezialitätenliste）の定期見直し",
+        "statusOrLevel": "軽度対症療法薬の給付削減および薬効比較（WZW基準）による価格引下げ",
+        "keyFeature": "連邦公衆衛生庁（BAG）が3年ごとに全保険収載薬の効果・経済性を査定。市販薬として普及している単純なビタミン剤等はSLリストから削除され全額自己負担へ。",
+        "source": {
+          "organization": "スイス連邦公衆衛生庁 (FOPH / BAG)",
+          "title": "Spezialitätenliste (SL) und Überprüfung der Aufnahmebedingungen",
+          "url": "https://www.admin.ch"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "社会保障審議会医療保険部会におけるOTC類似薬の保険給付範囲・自己負担見直し論議",
+        "statusOrLevel": "湿布薬の1処方あたり枚数上限（63枚等）設定・保湿剤（ヒルドイド等）やビタミン剤の給付見直し",
+        "keyFeature": "医療保険財政の健全化のため、市販薬と同等の有効成分を持つ処方薬について、保険給付率の引き下げ（自己負担上乗せ）や保険適用外（自費）化の検討が継続的に議論。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "社会保障審議会医療保険部会における薬剤給付の適正化に関する議論",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

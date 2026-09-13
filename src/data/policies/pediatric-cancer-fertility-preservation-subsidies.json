@@ -217,5 +217,102 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "TrendingUp"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における小児・思春期若年成人（AYA世代）がん患者の妊孕性（にんようせい）温存治療公費助成比較",
+    "comparisonSummary": "がん治療（抗がん剤・放射線）による生殖機能喪失を防ぐため、フランスや北欧は卵子・精子・卵巣組織の凍結保存を公的医療保険で全額無償化しており、日本も小児・AYA世代妊孕性温存助成事業で最大数十万円の公費支援を行っています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "生命倫理法（Loi de bioéthique）に基づく生殖能力温存（Préservation de la fertilité）",
+        "statusOrLevel": "化学療法・放射線治療を受ける全患者に対する精子・卵子・卵巣組織凍結保存の100%完全公費給付",
+        "keyFeature": "公的健康保険（Sécurité sociale）の重大疾病（ALD: Affection de longue durée）枠が適用され、採卵、凍結、毎年の年間保管費用まで患者自己負担は一生涯完全ゼロ。CECOS公的バンクが保管。",
+        "source": {
+          "organization": "フランス生物医学庁 (Agence de la biomédecine)",
+          "title": "Préservation de la fertilité pour raisons médicales et prise en charge ALD",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "社会法典第5巻（SGB V）第27条aに基づく法定健康保険（GKV）給付化",
+        "statusOrLevel": "精子凍結（50歳未満男性）・卵子・卵巣組織凍結（40歳未満女性）の公的保険全額給付",
+        "keyFeature": "不妊化の危険がある性腺毒性治療を受けるAYA世代患者に対し、採取から液体窒素保管費用まで保険給付を法的に義務付け。小児がんサバイバーの将来の挙児希望を保障。",
+        "source": {
+          "organization": "ドイツ連邦合同委員会 (G-BA)",
+          "title": "Kryokonservierung von Ei- oder Samenzellen bei keimzellschädigenden Therapien",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHSイングランド臨床委託ガイダンス（Clinical Commissioning Policy）",
+        "statusOrLevel": "医原性不妊リスクのある小児・AYA世代に対する配偶子・性腺組織のNHS公費採取・最長55年保管",
+        "keyFeature": "ヒト受精・胚研究機構（HFEA）のライセンス下で運用。小児に対する卵巣組織・精巣組織の未成熟凍結技術を含む最先端保存を全額NHS公費負担で提供。",
+        "source": {
+          "organization": "英国NHSイングランド / HFEA",
+          "title": "NHS Clinical Commissioning Policy: Cryopreservation of gametes and gonadal tissue",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "地域保健医療（Region）生殖医療センター公費カバレッジ",
+        "statusOrLevel": "小児およびAYA世代がん患者に対する生殖細胞凍結・保管費用の全額地域医療予算負担",
+        "keyFeature": "カロリンスカ大学病院等の専門バンクが一括管理。思春期前小児の精巣組織凍結など先端技術も臨床研究枠組みで無償提供され、家族の経済格差を排除。",
+        "source": {
+          "organization": "スウェーデン国家保健福祉委員会 (Socialstyrelsen)",
+          "title": "Fertilitetsbevarande åtgärder vid cancerbehandling för unga",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "各州オンコファーティリティ法（Oncofertility State Mandate Laws）",
+        "statusOrLevel": "カリフォルニア、NY、イリノイ等十数州において民間医療保険への妊孕性温存給付義務化",
+        "keyFeature": "連邦一律の公費支援はないが、州法により保険会社に対しがん治療前の採卵・精子凍結（1万〜1.5万ドル相当）のカバレッジを義務付け。低所得者はメディケイド特例で対応。",
+        "source": {
+          "organization": "米国国立がん研究所 (NCI) / Alliance for Fertility Preservation",
+          "title": "Fertility Preservation and State Insurance Mandates for Cancer Patients",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "メディケア給付スケジュール（MBS）オンコファーティリティ給付項目",
+        "statusOrLevel": "悪性腫瘍患者に対する採卵・精子採取・胚凍結手術費用のメディケア公費リベート",
+        "keyFeature": "フューチャー・ファーティリティ・プログラム等の大学病院ネットワークと連携し、年間保管料に対する州政府補助金やチャリティ基金による補填モデルを確立。",
+        "source": {
+          "organization": "豪保健高齢者ケア省 (DoHAC)",
+          "title": "MBS items for fertility preservation in patients with cancer",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "小児・AYA世代がん患者等の妊孕性温存治療研究促進事業（厚生労働省助成制度）",
+        "statusOrLevel": "卵子凍結最大20万円、卵巣組織凍結最大40万円、精子凍結最大2.5万円助成（温存後生殖医療も追加補助）",
+        "keyFeature": "がん治療開始前の迅速な意思決定を支援するため、日本がん・生殖医療学会（JSFP）の登録施設と連携して公費助成。将来の胚移植等の妊孕性温存後生殖医療（最大30万円）も対象拡大。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "小児・AYA世代のがん患者等の妊孕性温存治療研究促進事業の概要",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

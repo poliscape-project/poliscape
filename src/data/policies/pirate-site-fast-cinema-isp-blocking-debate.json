@@ -185,5 +185,102 @@
       "badgeColor": "bg-slate-100 text-slate-700",
       "icon": "Smartphone"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における海賊版著作権侵害サイトに対するISPウェブブロッキング命令・通信の秘密比較",
+    "comparisonSummary": "漫画・アニメ・映画の海賊版やファスト映画による巨額被害に対し、英国や欧州・豪州は司法判断に基づくISPブロッキング（動的インスペクション）を法制化している一方、日本は憲法21条の「通信の秘密」との兼ね合いから行政命令によるブロッキングを見送り、法的・捜査的対処を強化しています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "著作権・意匠・特許法（CDPA）第97A条裁判所ブロッキング差止命令",
+        "statusOrLevel": "高等裁判所が主要ISP（BT、Virgin等）に対し海賊版サイトへのアクセス遮断を命じる司法制度",
+        "keyFeature": "権利者が申し立て、裁判所が侵害の重大性と比例原則を審査して命令。ミラーサイトや新規ドメインに自動追随する「動的ブロッキング命令（Dynamic Injunction）」も標準化。",
+        "source": {
+          "organization": "英国知的財産庁 (IPO) / 司法省",
+          "title": "Court orders for blocking injunctions under Section 97A CDPA",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "著作権法第115A条（オンライン著作権侵害サイトブロッキング法）",
+        "statusOrLevel": "連邦裁判所による海外に拠点を置く海賊版サイト（ミラー含む）のISP強制ブロッキング",
+        "keyFeature": "映画・音楽・出版業界の申立に基づき、主要ISPにDNSブロッキングやIPブロッキングを命令。法改正により検索エンジン（Google等）への検索結果削除命令も可能に。",
+        "source": {
+          "organization": "豪司法長官省 (Attorney-General's Department)",
+          "title": "Copyright Amendment (Online Infringement) Act and Website Blocking",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "欧州連合 (EU) / フランス",
+        "countryCode": "EU",
+        "flag": "🇫🇷",
+        "systemName": "情報社会著作権指令（InfoSoc）第8条3項およびフランスArcom動的ブロッキング",
+        "statusOrLevel": "知的財産法典に基づく裁判所ブロッキング命令・Arcomによるスポーツ生中継・海賊版サイト即時遮断",
+        "keyFeature": "欧州司法裁判所（CJEU）がISPブロッキングは通信の自由と知的財産権の公正な均衡として合法と判示。フランス規制当局Arcomが裁判所命令を補完しミラーサイトを即時ブラックリスト化。",
+        "source": {
+          "organization": "フランス視聴覚・デジタル通信規制局 (Arcom) / 文化省",
+          "title": "Lutte contre le piratage des œuvres et le streaming illégal",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "インターネット上の著作権侵害対策清算機関（CUII: Clearingstelle Urheberrecht im Internet）",
+        "statusOrLevel": "権利者団体と大手ISPによる自主的・裁判外DNSブロッキング共同枠組み",
+        "keyFeature": "元最高裁判事を含む独立審査委員会が「明白な構造的著作権侵害サイト」と全会一致で判定した場合、連邦ネットワーク庁（BNetzA）の法的懸念なし確認を経てISPがDNS遮断を実施。",
+        "source": {
+          "organization": "ドイツ連邦ネットワーク庁 (BNetzA) / CUII",
+          "title": "Clearingstelle Urheberrecht im Internet (CUII) - DNS-Sperren",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "デジタルミレニアム著作権法（DMCA）およびSOPA法案廃案の歴史・連邦差止命令",
+        "statusOrLevel": "DNSブロッキング法制（SOPA）は言論の自由・技術懸念で廃案・連邦地裁によるドメイン押収と資産凍結",
+        "keyFeature": "ISPへの一律ウェブサイト遮断命令は憲法修正第1条（言論の自由）の反発が強く導入見送り。代わりにFBIや司法省（DOJ）による海外レジストラを通じたドメイン差押え（Seizure）で対抗。",
+        "source": {
+          "organization": "米国司法省 (DOJ) / 米国著作権局 (Copyright Office)",
+          "title": "Digital Millennium Copyright Act (DMCA) and Piracy Website Enforcement",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "著作権法（Copyright Act）第325条ネットワークアクセス遮断命令",
+        "statusOrLevel": "高等裁判所による悪質著作権侵害サイト・海賊版テレビボックス（ISD）の動的遮断命令",
+        "keyFeature": "違法ストリーミングアプリが内蔵されたセットトップボックスや海賊版漫画サイトに対し、IPアドレスやDNSの動的リスト更新を認める広範なブロッキング命令を発出。",
+        "source": {
+          "organization": "シンガポール知的財産庁 (IPOS)",
+          "title": "Copyright Act 2021 and Site Blocking Orders for Online Infringement",
+          "url": "https://www.gov.sg"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "憲法第21条「通信の秘密」・電気通信事業法第4条と海賊版対策タスクフォース",
+        "statusOrLevel": "行政主導のISPブロッキング法制化は見送り・刑事告発（ファスト映画投稿者逮捕・損害賠償判決）とリーチサイト規制",
+        "keyFeature": "漫画村事件等を受けブロッキング法制化が検討されたが、「通信の秘密」侵害や検閲への強い懸念から合意に至らず。著作権法改正によるリーチサイト規制・違法ダウンロード対象拡大・CDN（Cloudflare等）への差止訴訟で対応。",
+        "source": {
+          "organization": "文化庁 / 総務省 / 内閣府知的財産戦略推進事務局",
+          "title": "インターネット上の海賊版対策に関する総合対策及び著作権法の一部改正",
+          "url": "https://www.bunka.go.jp"
+        }
+      }
+    ]
+  }
 }

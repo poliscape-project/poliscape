@@ -211,5 +211,102 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Laptop"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における耐量子計算機暗号（PQC: Post-Quantum Cryptography）国家標準・政府機関移行計画比較",
+    "comparisonSummary": "将来の量子コンピュータによる現行RSA・楕円曲線暗号解読（ショアのアルゴリズム）の脅威に対抗し、米国NISTはPQC標準暗号を正式決定し大統領令で政府移行を義務付け、欧州・日本も重要インフラの移行ロードマップを策定しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "NIST PQC国家標準（FIPS 203/204/205）および国家安全保障覚書（NSM-10）",
+        "statusOrLevel": "2024年にML-KEM/ML-DSA等の正式標準を承認・全連邦機関の暗号システムを2035年までにPQC移行義務化",
+        "keyFeature": "「今盗んで後で解読（Harvest Now, Decrypt Later）」脅威に対処。行政管理予算局（OMB）が各省庁に脆弱な暗号インベントリの提出と暗号アジリティ（俊敏性）の実装を命じる。",
+        "source": {
+          "organization": "米国国立標準技術研究所 (NIST) / CISA",
+          "title": "Post-Quantum Cryptography Standardization and Migration Guidance (NSM-10)",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "欧州連合 (EU) / ドイツ",
+        "countryCode": "EU",
+        "flag": "🇩🇪",
+        "systemName": "連邦情報セキュリティ庁（BSI）PQC移行勧告（BSI TR-02102）およびハイブリッド暗号方式",
+        "statusOrLevel": "現行の古典暗号と耐量子暗号を二重に組み合わせる「ハイブリッド方式」の早期導入勧告",
+        "keyFeature": "PQC自体の未知の数学的脆弱性に備え、既存暗号とPQCを同時に適用するハイブリッド実装を通信インフラや政府VPNに要求。FrodoKEM等の代替格子暗号も評価。",
+        "source": {
+          "organization": "ドイツ連邦情報セキュリティ庁 (BSI)",
+          "title": "Migration zu Post-Quanten-Kryptografie - Handlungsempfehlungen des BSI",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "国家情報システムセキュリティ庁（ANSSI）科学意見書および段階的移行方針",
+        "statusOrLevel": "重要インフラ事業者（OIV）に対するハイブリッド暗号フェーズ1（2025年まで）導入指示",
+        "keyFeature": "ANSSIは単独のPQCへの拙速な完全移行を戒め、古典暗号＋PQCの二重署名・カプセル化を必須化。2030年以降のフェーズ3で完全な単体PQCへ移行する慎重なロードマップを堅持。",
+        "source": {
+          "organization": "フランス国家情報システムセキュリティ庁 (ANSSI)",
+          "title": "Avis scientifique et technique de l'ANSSI sur la transition vers la cryptographie post-quantique",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国家サイバーセキュリティセンター（NCSC）PQC移行ガイダンス",
+        "statusOrLevel": "政府・防衛・金融分野における量子耐性アルゴリズムへの計画的移行スケジュール策定",
+        "keyFeature": "GCHQの専門組織NCSCが、商用製品（TLS・IPsec等）へのNIST標準PQCアルゴリズム統合を推奨。量子鍵配送（QKD）よりもソフトウェアベースのPQCを最優先技術と位置付け。",
+        "source": {
+          "organization": "英国国家サイバーセキュリティセンター (NCSC)",
+          "title": "Preparing for Quantum-Safe Cryptography and Migration Timeline",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "豪サイバーセキュリティセンター（ACSC）情報セキュリティマニュアル（ISM）暗号規格",
+        "statusOrLevel": "連邦政府機関に対する暗号アジリティ確保および重要データの量子耐性暗号化命令",
+        "keyFeature": "シークレット以上の機密データを長期保有する機関に対し、将来の量子解読リスクを評価し暗号化アルゴリズムを容易に差し替え可能なシステム構造へ改修することを義務付け。",
+        "source": {
+          "organization": "オーストラリア信号局 (ASD) / ACSC",
+          "title": "Post-Quantum Cryptography Guidelines and Information Security Manual",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "国家暗号管理局（SCA）商用暗号アルゴリズム（SMシリーズ）耐量子化および量子通信網",
+        "statusOrLevel": "北京・上海間量子暗号通信バックボーン「京滬幹線」運用および国産PQC標準化",
+        "keyFeature": "地上数千kmの光ファイバー網と量子科学衛星「墨子号」を連結した量子鍵配送（QKD）で先行。同時に国家独自の耐量子商用暗号アルゴリズムの選定コンペを進行。",
+        "source": {
+          "organization": "中華人民共和国国家暗号管理局 / 中国科学院",
+          "title": "Commercial Cryptography Regulations and Quantum Communication Network",
+          "url": "https://www.gov.cn"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "CRYPTREC（電子政府推奨暗号検討会）耐量子暗号移行方針および内閣サイバー（NISC）戦略",
+        "statusOrLevel": "政府統一基準における2030年代PQC移行ロードマップ策定・NICT等による量子暗号通信（QKD）実証",
+        "keyFeature": "デジタル庁のガバメントクラウドや各省庁システムにおいて、NIST標準化に対応した暗号アルゴリズムへの更新手順を準備。東芝・NEC・NICT等が参画するテストベッドで量子安全通信網を構築。",
+        "source": {
+          "organization": "内閣サイバーセキュリティセンター (NISC) / 総務省 / 経済産業省 (CRYPTREC)",
+          "title": "耐量子計算機暗号への移行に向けた基本方針及び暗号技術評価プロジェクト",
+          "url": "https://www.cas.go.jp"
+        }
+      }
+    ]
+  }
 }

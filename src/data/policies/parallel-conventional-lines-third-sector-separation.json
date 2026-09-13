@@ -185,5 +185,102 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Zap"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における高速鉄道開業に伴う在来線・地域フィーダー路線の運営分離・上下分離・公費補填比較",
+    "comparisonSummary": "高速鉄道整備と並行在来線の維持をめぐり、欧州諸国（独仏等）は「上下分離」と公的運行委託（PSO）により直通列車網と地域交通を国・州が全額維持する一方、日本はJRからの「経営分離・第三セクター化」という独自の枠組みを採用しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "鉄道地域化法（Regionalisierungsgesetz）および連邦地域化交付金",
+        "statusOrLevel": "ICE高速新線開業後も在来線は廃止せず、連邦交付金（年100億ユーロ超）で州が地域列車運行を全額買い取り",
+        "keyFeature": "上下分離方式。DBインフラ網の上で、州交通公社が地域列車（RE/RB）の運行を競争入札で事業者に委託。高速鉄道開業による地域ローカル線の経営分離や廃線は発生しない。",
+        "source": {
+          "organization": "ドイツ連邦デジタル・交通省 (BMDV)",
+          "title": "Regionalisierungsgesetz und Finanzierung des Schienenpersonennahverkehrs",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "TGV高速新線（LGV）と地域圏急行輸送（TER: Transport express régional）",
+        "statusOrLevel": "TGV開業後も在来線はSNCFレゾ（国鉄インフラ）が維持・各地域圏（Région）が赤字補填契約",
+        "keyFeature": "国鉄（SNCF）から在来線を第三セクターへ切り離すことは行わず、地方議会（地域圏）がSNCFと協定を結び、通勤・通学在来線の運行費用を公費負担してネットワークを一体維持。",
+        "source": {
+          "organization": "フランス生態移行・交通省 / フランス地方自治体連合",
+          "title": "Organisation et financement des transports ferroviaires régionaux (TER)",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "高速鉄道（AVE）網拡張と中距離在来線（Media Distancia / Cercanías）の公共サービス義務（PSO）",
+        "statusOrLevel": "インフラ公社Adifが一元管理・中距離・近郊在来線は全額国家補助のPSO路線に指定",
+        "keyFeature": "世界第2位の高速鉄道網を整備しつつ、並行する在来線の運行は国営レンフェ（Renfe）が継続。定期券無料化キャンペーンなど在来線利用促進策を国家主導で断行。",
+        "source": {
+          "organization": "スペイン運輸・持続可能モビリティ省 / Adif",
+          "title": "Obligaciones de Servicio Público (OSP) en el transporte ferroviario",
+          "url": "https://www.lamoncloa.gob.es"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "グレート・ブリティッシュ・レールウェイズ（GBR）再国営化と旅客鉄道改革",
+        "statusOrLevel": "高速新線（HS2）と既存ウェストコースト本線（WCML）の一体的運行管理",
+        "keyFeature": "民間フランチャイズ制の破綻を受け、上下統合型の公的機関GBRへ移行。高速線開業に伴う在来線の切り離しは行わず、線路容量が空いた在来線に地域列車を増便する方針。",
+        "source": {
+          "organization": "英国運輸省 (DfT)",
+          "title": "Great British Railways: The Williams-Shapps Plan for Rail",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "KTX高速鉄道開業と並行一般鉄道（ムグンファ号等）の公的損失補填（PSO）",
+        "statusOrLevel": "韓国鉄道公社（KORAIL）が高速鉄道・在来線を一体運行・並行在来線の赤字を国庫PSO補填",
+        "keyFeature": "高速線開業後も在来線の経営分離は行わず、KORAILの高速鉄道黒字による内部相互補助および国土交通部の公的サービス義務（PSO）予算で在来線普通列車の運行を継続。",
+        "source": {
+          "organization": "大韓民国国土交通部 / 韓国鉄道公社",
+          "title": "Railway Public Service Obligation (PSO) and General Rail Compensation",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "高速鉄道フレッチャロッサ（Frecciarossa）と州立契約地域鉄道（Regionale）",
+        "statusOrLevel": "高速新線開業で空いた在来線に近郊電車を過密ダイヤ化・州政府が運行費用を全額拠出",
+        "keyFeature": "民営オープンアクセス高速列車（Italo等）との競争で得たインフラ線路使用料を、国営インフラ会社（RFI）が在来線の信号近代化・電化改修に再投資。",
+        "source": {
+          "organization": "イタリア運輸省 (MIT) / トレニタリア",
+          "title": "Contratti di servizio per il trasporto ferroviario regionale",
+          "url": "https://www.governo.it"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "整備新幹線スキームに基づく「並行在来線の経営分離」と第三セクター鉄道設立",
+        "statusOrLevel": "新幹線開業時にJRが並行在来線を分離（沿線自治体合意要件）・自治体出資の三セクが運行引き継ぎ",
+        "keyFeature": "JR各社の経営安定のため新幹線開業区間の在来線を切り離し。貨物調整金や鉄道軌道整備法補助で貨物運行・老朽設備更新を支えるが、沿線自治体の巨額な赤字補填負担が深刻化。",
+        "source": {
+          "organization": "国土交通省鉄道局",
+          "title": "整備新幹線の並行在来線対策及び地域公共交通確保維持改善事業",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -211,5 +211,102 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Scale"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における短時間労働者（パート・ギグワーカー）の社会保険適用基準（労働時間・企業規模要件）比較",
+    "comparisonSummary": "「年収の壁」の解消と非正規雇用のセーフティネット強化に向け、欧州主要国は労働時間や企業規模を問わず「初日・1時間目から」社会保険を原則適用しており、日本の週20時間要件や企業規模要件の撤廃議論がこれに追随しています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "一般社会保障制度（Régime général）普遍的適用原則",
+        "statusOrLevel": "企業規模要件なし・週の最低労働時間要件なし・就労第1日目から健康保険・労災保険適用",
+        "keyFeature": "週1時間だけの労働であっても雇用主と労働者は社会保険料（URSSAF）を按分拠出。年金受給資格は労働時間ではなく四半期ごとの最低稼得所得（SMIC連動）で判定。",
+        "source": {
+          "organization": "フランス社会保障・URSSAF",
+          "title": "Affiliation et cotisations des salariés à temps partiel",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ミニジョブ制度改革（Minijob上限538ユーロ）およびミディジョブ（移行ゾーン）",
+        "statusOrLevel": "企業規模制限なし・月収538ユーロ超の全短時間労働者に社会保険（年金・医療・介護）を強制適用",
+        "keyFeature": "週の労働時間制限は撤廃済み。月538ユーロ以下の小規模雇用（ミニジョブ）でも事業主が約30%の定額社保負担を拠出し、労働者は原則として法定年金保険に加入（適用除外申請可能）。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS) / ミニジョブセンター",
+          "title": "Minijobs und Übergangsbereich (Midijob) Regelungen",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国民保険（National Insurance: NI）および企業年金自動加入（Auto-Enrolment）",
+        "statusOrLevel": "企業規模要件なし・週収123ポンド以上の全労働者にNI適用・年収1万ポンド以上で年金自動加入",
+        "keyFeature": "週の労働時間要件は存在せず週給基準のみで判定。22歳以上で年収1万ポンドを超える労働者は、パートタイムであっても雇用主が年金勘定へ最低3%を上乗せ拠出する義務。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC) / 年金規制機関 (TPR)",
+          "title": "National Insurance rates and categories and Automatic enrolment duties",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "労働時間均等処遇法（WAA）および包括的被用者保険",
+        "statusOrLevel": "企業規模不問・パートタイム労働者比率世界一（約50%）を支える同一労働同一処遇保障",
+        "keyFeature": "フルタイムとパートタイムの労働条件差別を法律で厳格禁止。労働時間に応じた比例ベースで疾病保険（ZW）や失業保険（WW）が完全適用される。",
+        "source": {
+          "organization": "オランダ社会雇用省 (SZW)",
+          "title": "Equal treatment of full-time and part-time workers (Wet onderscheid arbeidsduur)",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "普遍的所得比例社会保険制度（Inkomstpension）",
+        "statusOrLevel": "企業規模・週労働時間の要件なし・年間所得約2万4,000クローナ超で全額年金算定",
+        "keyFeature": "雇用主はすべての被雇用者の全給与に対し約31.42%の使用者負担社会保険税（Arbetsgivaravgifter）を税務署へ納付。短時間パートであっても全額が個人の将来年金へ蓄積。",
+        "source": {
+          "organization": "スウェーデン年金庁 (Pensionsmyndigheten) / 税務庁",
+          "title": "Socialavgifter och intjäning till allmän pension",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "社会保障税（FICA: Social Security & Medicare）および医療保険改革法（ACA）",
+        "statusOrLevel": "企業規模・労働時間不問で全労働者の給与から7.65%のFICA税徴収・年金クレジット加算",
+        "keyFeature": "年金と高齢者医療（FICA）は短時間労働者であっても初日・全賃金から徴収。民間医療保険（ACA）についてはフルタイム相当（週30時間以上・従業員50人以上）企業に提供義務。",
+        "source": {
+          "organization": "米国社会保障局 (SSA) / 内国歳入庁 (IRS)",
+          "title": "Social Security Credits and FICA Tax Requirements for Part-Time Workers",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "短時間労働者に対する健康保険・厚生年金保険の適用拡大（企業規模要件の段階的撤廃）",
+        "statusOrLevel": "週20時間以上・月収8.8万円以上の社保適用対象を50人超企業へ拡大・さらに企業規模要件完全撤廃を議論",
+        "keyFeature": "厚生年金の適用対象を大企業から51人以上の中小企業へ段階的に拡大。いわゆる「年収の壁（106万円・130万円）」を解消し、将来の基礎年金水準を底上げするため、企業規模要件の完全廃止と週10時間等の検討が進行中。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "社会保障審議会年金部会における短時間労働者に対する被用者保険の適用拡大",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

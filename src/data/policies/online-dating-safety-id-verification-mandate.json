@@ -205,5 +205,102 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国におけるマッチングアプリ・出会い系サービスの公的身分確認（KYC）義務化・ロマンス詐欺防止規制比較",
+    "comparisonSummary": "オンライン上のなりすましや国際ロマンス詐欺（豚の屠殺詐欺等）の激増を受け、豪州は業界自主規範の法制化、英国はオンライン安全法での事業者責任強化、米国はFTCによる詐欺プロファイル排除命令を執行しています。",
+    "countries": [
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "オンラインデート安全行動規範（Online Dating Industry Code）",
+        "statusOrLevel": "Match GroupやBumble等の主要プラットフォームに対する政府主導の厳格安全規範策定",
+        "keyFeature": "詐欺アカウントの24時間以内凍結、悪質ユーザー情報の事業者間リアルタイム共有、オーストラリア連邦警察（AFP）やScamwatchとの直接捜査連携システムを義務化。",
+        "source": {
+          "organization": "豪eSafetyコミッショナー / 通信省",
+          "title": "Online Dating Industry Code and Safety Guidelines",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "オンライン安全法（Online Safety Act 2023）および不正広告デューティ",
+        "statusOrLevel": "マッチングアプリを含むプラットフォームに対するロマンス詐欺・詐欺広告のプロアクティブ排除義務",
+        "keyFeature": "Ofcom（通信庁）が監督。詐欺被害を防止するための本人確認技術（顔認証・生体認証等）の導入を促し、安全義務に違反したプラットフォームには全世界売上の最大10%の巨額制裁金。",
+        "source": {
+          "organization": "英国情報通信庁 (Ofcom) / 内務省",
+          "title": "Online Safety Act 2023 - Fraud and scams duty guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦取引委員会法（FTC Act）およびFBIインターネット犯罪苦情センター（IC3）",
+        "statusOrLevel": "ロマンス詐欺・架空プロファイルに対するFTC法執行および州法での身元照合開示法",
+        "keyFeature": "カリフォルニア州等で、アプリ事業者が犯罪歴照会（バックグラウンドチェック）を行っているか否かをユーザーに明示するよう義務付け。FBIが金融機関と連携し凍結オペレーションを展開。",
+        "source": {
+          "organization": "連邦取引委員会 (FTC) / FBI IC3",
+          "title": "Romance Scams and Dating App Consumer Protection Enforcement",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "サイバー空間セキュリティ法（Loi SREN）におけるデジタル身分証連携",
+        "statusOrLevel": "児童ポルノ閲覧遮断・なりすましアカウント作成者に対する公的デジタルID認証の要求",
+        "keyFeature": "国家サイバー犯罪対策中央局（OFAC）がマッチングアプリの詐欺ボットを監視。違法行為を行ったアカウントに対し、裁判所命令なしで即時停止を命じる行政権限を行使。",
+        "source": {
+          "organization": "フランス内務省 / 国家情報システムセキュリティ庁 (ANSSI)",
+          "title": "Loi visant à sécuriser et réguler l'espace numérique (SREN)",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "オンライン犯罪危害法（Online Criminal Harms Act: OCHA）",
+        "statusOrLevel": "警察による詐欺疑いアカウント・アプリ機能に対する即時アクセス遮断命令発令権限",
+        "keyFeature": "ロマンス詐欺や投資詐欺の兆候がある通信に対し、警察がマッチングアプリ事業者へ即時利用停止（Account Restriction Direction）を命じる強力な予防的介入モデル。",
+        "source": {
+          "organization": "シンガポール内務省 (MHA) / 警察軍 (SPF)",
+          "title": "Online Criminal Harms Act (OCHA) Scams Enforcement",
+          "url": "https://www.gov.sg"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "情報通信網法に基づく携帯電話本人確認（PASS / SMS）およびロマンス詐欺対策",
+        "statusOrLevel": "韓国内で提供される主要マッチングサービスにおける通信キャリア本人確認の事実上標準化",
+        "keyFeature": "住民登録番号に紐付いた携帯電話実名認証を義務付けることで、捨てアカウントや海外詐欺グループの大量ボット侵入を物理的・技術的に遮断。",
+        "source": {
+          "organization": "大韓民国放送通信委員会 (KCC) / 警察庁",
+          "title": "Information and Communications Network Act Real-Name Verification",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "出会い系サイト規制法およびマッチングアプリ事業者の本人確認・安全ガイドライン",
+        "statusOrLevel": "公的身分証明書（運転免許証・マイナンバーカード等）による18歳以上確認の義務付け",
+        "keyFeature": "警察庁および業界団体（MSCA）による自主規制の厳格化。免許証の厚み撮影やeKYC（公的個人認証）の導入を推奨し、悪質な投資詐欺・ロマンス詐欺プロファイルの排除を強化。",
+        "source": {
+          "organization": "警察庁 / こども家庭庁",
+          "title": "インターネット異性紹介事業を利用して児童を誘引する行為の規制等に関する法律の運用",
+          "url": "https://www.npa.go.jp"
+        }
+      }
+    ]
+  }
 }

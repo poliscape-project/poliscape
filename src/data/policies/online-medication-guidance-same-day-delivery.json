@@ -211,5 +211,102 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "FileCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における電子処方箋連動型オンライン服薬指導・郵便・ドローン医薬品配送インフラ比較",
+    "comparisonSummary": "オンライン診療の完結には処方薬の受け取りが不可欠であり、米国やスウェーデンは郵便・宅配調剤（Mail-order Pharmacy）が全調剤の数割を占め、日本も電子処方箋とオンライン服薬指導の普及で即日配送網を構築しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "メールオーダー薬局（Mail-Order Pharmacy）およびCVS/Amazon Pharmacy配送",
+        "statusOrLevel": "全処方箋の約20〜30%が通信販売・宅配調剤・プライム会員向け即日・翌日配送",
+        "keyFeature": "PBM（薬剤給付管理会社）が郵便調剤にインセンティブ（90日分処方の自己負担割引等）を付与。厳格な温度管理コールドチェーンと追跡アプリによりインスリン等も安全配送。",
+        "source": {
+          "organization": "米国食品医薬品局 (FDA) / 各州薬事委員会",
+          "title": "Mail-Order Pharmacy Regulations and Prescription Drug Distribution",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "国家e処方箋（Nationella e-recept）およびオンライン薬局（Apotea等）",
+        "statusOrLevel": "全処方箋の99%超が完全電子化・オンライン専業薬局の市場シェアが3割突破",
+        "keyFeature": "医師が処方箋を発行すると中央国家薬局データベースに即時反映。患者はスマホで好きなオンライン薬局を選び、電子認証（BankID）で服薬確認後に自宅郵便受けへ当日配達。",
+        "source": {
+          "organization": "スウェーデンeHealth局 (E-hälsomyndigheten)",
+          "title": "National e-Prescriptions and Digital Pharmacy Operations",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS電子処方サービス（EPS）および指定オンライン薬局（Pharmacy2U等）",
+        "statusOrLevel": "イングランド全土でのEPS普及率95%超・NHS提携薬局による郵便・宅配無料配送",
+        "keyFeature": "慢性疾患患者のリピート処方箋（Electronic Repeat Dispensing）が自動更新され、定期薬が自動的に自宅へ届くシステムをNHSが公式支援し薬局窓口の混雑を解消。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS England)",
+          "title": "Electronic Prescription Service (EPS) and Distance Selling Pharmacies",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦電子処方箋（E-Rezept）およびメールオーダー薬局（DocMorris / Shop Apotheke）",
+        "statusOrLevel": "2024年1月からの全診療所・薬局におけるE-Rezept完全義務化・健康保険カード直接読取",
+        "keyFeature": "紙の処方箋（ピンクの処方箋）を廃止。スマートフォン（gematik公式アプリ）や健康保険eGKカードを薬局にかざすだけで調剤可能。宅配薬局への注文もワンタップで連動。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG) / gematik",
+          "title": "Das E-Rezept ist Standard - Digitalisierung im Gesundheitswesen",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "PBS電子処方トークン（Electronic Prescriptions Token）および薬局宅配",
+        "statusOrLevel": "SMSやメールでQRコード付きトークンを患者に送信・地元薬局による即日デリバリー",
+        "keyFeature": "医薬品給付スキーム（PBS）と完全連動。患者は届いたトークンを地域薬局のアプリへ転送するだけで、服薬カウンセリングを電話・ビデオで受けた上で当日中に薬が配送される。",
+        "source": {
+          "organization": "豪デジタルヘルス庁 (ADHA)",
+          "title": "Electronic Prescriptions System and Pharmacy Delivery Guidelines",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "電子処方箋（e-Prescription）および遠隔調剤薬局ネットワーク",
+        "statusOrLevel": "Mon Espace Santé（国民健康ポータル）連携・対面薬局網を重視しつつ宅配を認可",
+        "keyFeature": "地域薬局の過疎化を防ぐため、完全オンライン専業薬局の台頭を厳しく制限しつつ、既存の実店舗薬局が地域患者へオンライン指導を行って宅配するハイブリッドモデルを維持。",
+        "source": {
+          "organization": "フランス全国薬剤師会 (Ordre National des Pharmaciens)",
+          "title": "La prescription électronique et la délivrance de médicaments à domicile",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "医薬品医療機器等法（薬機法）オンライン服薬指導および電子処方箋管理サービス",
+        "statusOrLevel": "ビデオ通話による服薬指導の完全合法化・ヤマト運輸等の配送網と連携した当日便・置配",
+        "keyFeature": "調剤薬局が患者の自宅へビデオ通話で用法用量や副作用を説明した上で、宅配業者や自社スタッフが配送。マイナ保険証と連携した全国電子処方箋管理サーバーの普及を加速。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "オンライン服薬指導の実施要領及び電子処方箋の普及推進",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

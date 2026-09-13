@@ -127,5 +127,102 @@
       "type": "official_document",
       "typeLabel": "デジタル庁医療DX資料"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国におけるオンライン診療（テレヘルス）の初診開放・保険償還・遠隔医療法制比較",
+    "comparisonSummary": "コロナ禍を契機に、米国や欧州諸国はオンライン診療の初診適用恒久化と対面診療と同額の保険償還（支払同等性）を確立しており、日本の恒久化ガイドラインもへき地医療から都市部の利便性向上へ急速に拡大しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "メディケア・テレヘルス恒久規制緩和および各州支払同等法（Payment Parity Laws）",
+        "statusOrLevel": "初診オンライン診療の完全合法化・対面診療と同一の診療報酬支払義務化（数十州）",
+        "keyFeature": "自宅からのビデオ診療だけでなく電話音声のみの診療（Audio-only）も公的保険の給付対象。州を跨ぐ医師免許相互承認協定（IMLC）により全米規模の遠隔医療プラットフォームが成長。",
+        "source": {
+          "organization": "米国保健福祉省 (HHS) / CMS",
+          "title": "Telehealth Policy Changes and Medicare Coverage Provisions",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHSデジタルファースト（Digital-First Primary Care）およびNHSアプリ",
+        "statusOrLevel": "公立一般医（GP）受診の約3〜4割が遠隔診療（オンライン問診・電話・ビデオ）で運用",
+        "keyFeature": "NHSアプリから直接オンライン相談（e-Consult）を行い、医師がチャットまたはビデオで対応。患者の自己負担ゼロで即時に全国電子処方箋（EPS）が発行される。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS) / DHSC",
+          "title": "Digital-first primary care and remote consultation guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "遠隔医療協定（Avenant 6）およびドクトリブ（Doctolib）医療予約インフラ",
+        "statusOrLevel": "全医師による遠隔診療（Téléconsultation）への100%保険適用（対面と同一基本診療報酬25ユーロ）",
+        "keyFeature": "かかりつけ医制度（Médecin traitant）の枠内での受診を原則としつつ、医療過疎地（Déserts médicaux）の住民には初診からのオンライン受診を完全特例容認。",
+        "source": {
+          "organization": "フランス健康保険公庫 (Assurance Maladie / Ameli)",
+          "title": "Téléconsultation médicale : conditions de prise en charge et tarifs",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "遠隔治療禁止緩和（Fernbehandlungsverbot解除）およびデジタルケア法（DVG）",
+        "statusOrLevel": "初診からのオンライン診療を医師会法で解禁・法定健康保険（GKV）での正式点数化",
+        "keyFeature": "医師法の「遠隔治療禁止規定」を大改正し、対面なしでの初診・病気休暇証明書（AU-Bescheinigung）のオンライン発行を合法化。デジタル治療アプリ（DiGA）の処方も連動。",
+        "source": {
+          "organization": "ドイツ連邦医師会 (BÄK) / 連邦保健省 (BMG)",
+          "title": "Fernbehandlung in der ärztlichen Versorgung und Telemedizin-Regelungen",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "KRY / Min Doktor 民間デジタルヘルスケアプラットフォームと地域公費償還",
+        "statusOrLevel": "全土どこからでもスマホアプリで即座にプライマリケア医師の初診受診が可能",
+        "keyFeature": "患者が支払う窓口自己負担金（約100〜250クローナ）以外の診療報酬を患者居住地域の公的医療予算からプラットフォームへ直接支払うオープンモデルを先駆けて確立。",
+        "source": {
+          "organization": "スウェーデン地方自治体・地域連合 (SKR) / 保健福祉委員会",
+          "title": "Digitala vårdtjänster och primärvårdens utveckling",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "メディケア給付スケジュール（MBS）恒久テレヘルス項目",
+        "statusOrLevel": "GPおよび専門医によるビデオ・電話診療の恒久的公的メディケア全額給付",
+        "keyFeature": "広大な国土のへき地医療を救済するため、過去12ヶ月以内に対面実績のあるかかりつけGPへの遠隔受診を原則としつつ、メンタルヘルスや急病時は無条件初診を公認。",
+        "source": {
+          "organization": "豪保健高齢者ケア省 (DoHAC)",
+          "title": "Ongoing MBS Telehealth Services Arrangements",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "オンライン診療の適切な実施に関する指針（厚生労働省恒久化ガイドライン）",
+        "statusOrLevel": "初診からのオンライン診療を恒久的に容認・診療報酬上のオンライン初診料（対面よりやや低額）設定",
+        "keyFeature": "初診時は原則として患者の基礎情報（過去の診療録・健康診断結果等）を医師が確認できることを要件化。麻薬・向精神薬の初診処方を禁止しつつ、過疎地やへき地診療所への特例を整備。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "オンライン診療の適切な実施に関する指針の改定及び診療報酬改定",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }
