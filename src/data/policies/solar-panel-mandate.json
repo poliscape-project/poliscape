@@ -273,6 +273,46 @@
           "title": "Energy Performance of Buildings Directive - Solar standard for buildings",
           "url": "https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficient-buildings/energy-performance-buildings-directive_en"
         }
+      },
+      {
+        "code": "CH",
+        "country": "スイス",
+        "system": "連邦エネルギー法に基づく新築建物の屋根太陽光自家発電義務化",
+        "description": "建築面積300㎡超の新築建物に対し屋根等への太陽光発電設備の設置を義務付け。各州（カントン）のエネルギー規制基準（MuKEn）と連動して全国展開。",
+        "source": {
+          "title": "スイス連邦エネルギー庁 (BFE) - Solarpflicht für Neubauten",
+          "url": "https://www.bfe.admin.ch"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "国家建設基準（NCC）7スター省エネ基準および屋根ソーラー普及率世界一",
+        "description": "新築住宅の断熱・熱性能を7つ星に引き上げるとともに、小規模再生可能エネルギー制度（SRES）の即時公的助成により戸建て住宅の屋根設置率35%超を達成。",
+        "source": {
+          "title": "オーストラリア建築基準委員会 (ABCB) - National Construction Code energy efficiency",
+          "url": "https://www.abcb.gov.au"
+        }
+      },
+      {
+        "code": "ES",
+        "country": "スペイン",
+        "system": "技術建築基準（CTE DB-HE）に基づく新築建物太陽光発電義務化",
+        "description": "新築・大規模改修ビルに対し、最低限の太陽光発電（PV）または太陽熱利用設備の導入を法令で義務化。「太陽光税」廃止後の自家消費減税を大幅拡充。",
+        "source": {
+          "title": "スペイン生態系移行・人口問題省 (MITECO) - Autoconsumo solar fotovoltaico",
+          "url": "https://www.miteco.gob.es"
+        }
+      },
+      {
+        "code": "NL",
+        "country": "オランダ",
+        "system": "ネットメータリング制度（Salderingsregeling）および商業新築屋根義務",
+        "description": "商業ビル新築時の屋根強度・ソーラー設置義務化に加え、家庭用屋根太陽光の売電電力量と消費電力量を同単価で相殺できる強力な税制優遇で普及率欧州首位へ。",
+        "source": {
+          "title": "オランダ企業誘致庁 (RVO) - Salderingsregeling voor zonnepanelen",
+          "url": "https://www.rvo.nl"
+        }
       }
     ]
   }

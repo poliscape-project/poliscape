@@ -281,6 +281,46 @@
           "title": "Gesetz für einen besseren Schutz hinweisgebender Personen (Hinweisgeberschutzgesetz)",
           "url": "https://www.bmj.de/DE/themen/wirtschaft_finanzen/hinweisgeberschutz/hinweisgeberschutz_node.html"
         }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "公益開示法（Public Interest Disclosure Act）および重過料・刑事罰",
+        "description": "通報者に対する解雇や降格、嫌がらせ等の報復行為を行った者に対し、重い刑事罰（禁錮刑）および無制限の民事損害賠償・懲罰的賠償を法律で規定。",
+        "source": {
+          "title": "オーストラリア連邦オンブズマン (Commonwealth Ombudsman) - Public Interest Disclosure scheme",
+          "url": "https://www.ombudsman.gov.au"
+        }
+      },
+      {
+        "code": "FR",
+        "country": "フランス",
+        "system": "ヴァザック法（Loi Waserman・通報者保護強化法）",
+        "description": "通報者を提訴した企業への濫訴制裁金（最高6万ユーロ）の新設、報復に対する禁錮3年・罰金4.5万ユーロの刑事罰、権利擁護官による公的資金支援を導入。",
+        "source": {
+          "title": "フランス権利擁護官 (Défenseur des droits) - Protection des lanceurs d'alerte",
+          "url": "https://www.defenseurdesdroits.fr"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "公益通報者保護法に基づく国民権益委員会の強力な保護・身元秘匿命令",
+        "description": "公的監視機関（ACRC）が通報者に対し警察による身辺警護、弁護士による代理申告（非実名通報）、不利益処分に対する取消命令および過怠金賦課を執行。",
+        "source": {
+          "title": "韓国国民権益委員会 (ACRC) - 公益通報者保護制度案内",
+          "url": "https://www.acrc.go.kr"
+        }
+      },
+      {
+        "code": "NL",
+        "country": "オランダ",
+        "system": "内部通報者保護機関（House for Whistleblowers）法",
+        "description": "国家独立機関「内部通報者の家」が通報者への法的・心理的助言を提供するとともに、通報後の報復や組織内の不正構造を公的に強制調査する権限を行使。",
+        "source": {
+          "title": "オランダ内部通報者庁 (Huis voor Klokkenluiders) - Investigation and Advice",
+          "url": "https://www.huisvoorklokkenluiders.nl"
+        }
       }
     ]
   }

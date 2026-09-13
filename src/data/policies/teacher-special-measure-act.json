@@ -273,6 +273,46 @@
           "title": "Collective Bargaining and Teacher Contracts (NEA)",
           "url": "https://www.nea.gov/"
         }
+      },
+      {
+        "code": "FI",
+        "country": "フィンランド",
+        "system": "教員包括労働協約（OVTES）に基づく授業コマ数基準給与体系",
+        "description": "教員の勤務時間は週当たりの授業担当コマ数（約18〜24時間）を基準に算定。規定コマ数を超える授業や補習、校務分掌には明確な超過手当を全額支給。",
+        "source": {
+          "title": "フィンランド国家教育庁 (Opetushallitus) - Teachers' working conditions and hours",
+          "url": "https://www.oph.fi/en"
+        }
+      },
+      {
+        "code": "SE",
+        "country": "スウェーデン",
+        "system": "年次労働時間制（Ferietjänst）および裁量労働協約モデル",
+        "description": "学校での拘束時間（週約35時間）と授業準備や評価のための自律的裁量時間（週約10時間）を明確に分離。夏休み等の長期休業と柔軟な時間配分を両立。",
+        "source": {
+          "title": "スウェーデン国家教育庁 (Skolverket) - Arbetsmiljö och lärares arbetstid",
+          "url": "https://www.skolverket.se"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "公立学校教員エンタープライズ協約（Enterprise Agreements）",
+        "description": "州政府と教員組合の団体協約により、週38時間労働および最大授業時間数を厳格に規定。キャンプ指導や放課後課外活動には規定の時間外手当・代休を保障。",
+        "source": {
+          "title": "オーストラリア教育省 (Department of Education) - Teacher workforce standards",
+          "url": "https://www.education.gov.au"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "教育公務員手当令に基づく教職手当および超過勤務手当の併給",
+        "description": "職務の特殊性に応じた定額「教職手当」を支給しつつ、放課後指導や部活動などの時間外労働に対しては指紋・電子出退勤システムに基づく超過勤務手当を併給。",
+        "source": {
+          "title": "韓国教育部 (MOE) - 教員人事および給与・手当制度",
+          "url": "https://www.moe.go.kr"
+        }
       }
     ]
   }

@@ -267,6 +267,46 @@
           "title": "Kontrollen des Bundesamtes für Logistik und Mobilität",
           "url": "https://www.balm.bund.de/DE/Themen"
         }
+      },
+      {
+        "code": "GB",
+        "country": "英国",
+        "system": "ドライバー労働時間規則（GB Domestic / EU Rules）とデジタル監査",
+        "description": "運転時間および待機時間を含む全勤務時間をスマートタコグラフにより秒単位で記録。違反運行を行った運送会社および荷主に対しDVSAが即座に運行停止命令。",
+        "source": {
+          "title": "英国運転者・車両規格庁 (DVSA) - Drivers' hours rules and enforcement",
+          "url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency"
+        }
+      },
+      {
+        "code": "FR",
+        "country": "フランス",
+        "system": "輸送法典（Code des transports）に基づく荷待ち待機料金（Détention）義務化",
+        "description": "荷積み・荷卸しにおける契約上の許容時間（通常1〜2時間）を超過した待機に対し、荷主が運送事業者へ法定待機補償料を支払うことを法律で義務化。",
+        "source": {
+          "title": "フランス生態系移行省 (Ministère de la Transition écologique) - Réglementation du transport routier de marchandises",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "安全運賃制（Safe Rates）実証実験と荷待ち時間監視",
+        "description": "過労・過積載・スピード違反を防止するため、荷主が運送事業者に支払うべき公的最低運賃基準を設定。荷待ち時間の長期化に対するペナルティを制度化。",
+        "source": {
+          "title": "韓国国土交通部 (MOLIT) - 貨物自動車安全運賃および物流正常化",
+          "url": "https://www.molit.go.kr"
+        }
+      },
+      {
+        "code": "ES",
+        "country": "スペイン",
+        "system": "道路貨物輸送法改正による荷主の積込作業原則禁止と待機料請求権",
+        "description": "ドライバーの過重労働を防ぐため積込・荷降ろし作業を荷主側責任と明記。1時間を超える荷待ち待機に対し、1時間あたりの公定待機料を荷主へ自動請求可能。",
+        "source": {
+          "title": "スペイン運輸・持続可能モビリティ省 - Ley de ordenación de los transportes terrestres",
+          "url": "https://www.transportes.gob.es"
+        }
       }
     ]
   }

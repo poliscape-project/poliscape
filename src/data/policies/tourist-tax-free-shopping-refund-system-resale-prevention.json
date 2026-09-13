@@ -242,6 +242,46 @@
           "title": "Tax-free shopping for non-EU visitors ended in Great Britain",
           "url": "https://www.gov.uk/tax-on-shopping/taxfree-shopping"
         }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "ツーリスト・リファンド・スキーム（TRS・空港出国時税還付）",
+        "description": "店頭購入時は消費税（GST）込みの満額を支払い、国際空港の出国審査後に税関で商品・レシートを提示して初めて税金が口座還付される完全リファンド制。",
+        "source": {
+          "title": "オーストラリア国境警備部隊 (ABF) - Tourist Refund Scheme (TRS)",
+          "url": "https://www.abf.gov.au"
+        }
+      },
+      {
+        "code": "FR",
+        "country": "フランス",
+        "system": "PABLOシステム（電子免税書類バーコード自動スキャン認証）",
+        "description": "空港出国ターミナルに設置された電子端末「PABLO」でバーコードを読み取り、税関がリアルタイムで出国確認。不正転売目的の国内横流しを防止。",
+        "source": {
+          "title": "フランス税関総局 (Douane française) - Détaxe touristique et bornes PABLO",
+          "url": "https://www.douane.gouv.fr"
+        }
+      },
+      {
+        "code": "TH",
+        "country": "タイ",
+        "system": "外国人旅行者向けVATリファンド制度（空港税関検査・即時還付）",
+        "description": "店頭では付加価値税（VAT）を支払った上で免税書類（PP10）を受け取り、出国時に空港税関での現品確認を経て免税カウンターで現金またはカードへ還付。",
+        "source": {
+          "title": "タイ歳入庁 (Revenue Department) - VAT Refund for Tourists",
+          "url": "https://www.rd.go.th"
+        }
+      },
+      {
+        "code": "CH",
+        "country": "スイス",
+        "system": "連邦税関国境警備局（BAZG）出国時スタンプ・免税還付モデル",
+        "description": "国境および空港の税関窓口で輸出証明スタンプを取得した後、免税代行業者（Global Blue等）を通じて税額の払戻しを受ける厳格な水際確認方式。",
+        "source": {
+          "title": "スイス連邦税関国境警備局 (BAZG) - Steuerbefreiung und Ausfuhr im Reiseverkehr",
+          "url": "https://www.bazg.admin.ch"
+        }
       }
     ]
   }

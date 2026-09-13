@@ -311,6 +311,46 @@
           "title": "Student finance for undergraduates (英国学生金融公式)",
           "url": "https://www.gov.uk/student-finance"
         }
+      },
+      {
+        "code": "NO",
+        "country": "ノルウェー",
+        "system": "高等教育法に基づく国公立大学の学費完全無償化（普遍的権利）",
+        "description": "子どもの数や世帯年収に関わらず、すべての国公立大学の授業料が完全無料。生活費を支援する学生ローン・給付型奨学金（Lånekassen）も全員に提供。",
+        "source": {
+          "title": "ノルウェー政府ポータル (Regjeringen.no) - Higher Education Act and Tuition Fees",
+          "url": "https://www.regjeringen.no/en"
+        }
+      },
+      {
+        "code": "FI",
+        "country": "フィンランド",
+        "system": "大学法に基づくEU/EEA市民の大学授業料完全無料制度",
+        "description": "学士・修士課程の大学授業料は全額公費負担。さらに社会保険庁（Kela）から学生本人へ月額の返済不要な学生手当（Opintotuki）と住宅手当を直接給付。",
+        "source": {
+          "title": "フィンランド教育文化省 (OKM) - Higher education policy and student financial aid",
+          "url": "https://okm.fi/en"
+        }
+      },
+      {
+        "code": "FR",
+        "country": "フランス",
+        "system": "国立大学極低額登録料制および世帯状況に応じた全額免除奨学金（Crous）",
+        "description": "公立大学の年間登録料は年2万円〜数十万円程度に抑制。多子世帯や低所得世帯の学生はCROUS基準奨学金の受給により登録料および学生保険が全額免除。",
+        "source": {
+          "title": "フランス高等教育・研究省 - Bourses et aides financières sur critères sociaux",
+          "url": "https://www.enseignementsup-recherche.gouv.fr"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "高等教育拠出金制度（HECS-HELP・所得連動型卒業後後払い）",
+        "description": "在学中の授業料支払いは不要。卒業後に年収が一定基準（約5.4万豪ドル超）を超えた時点で、所得の1〜10%を税金とともに分割返済する合理的モデル。",
+        "source": {
+          "title": "オーストラリア連邦政府 Study Assist - Higher Education Loan Program (HELP)",
+          "url": "https://www.studyassist.gov.au"
+        }
       }
     ]
   }

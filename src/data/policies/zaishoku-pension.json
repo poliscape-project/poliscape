@@ -297,6 +297,46 @@
           "title": "Cumul emploi-retraite : règles et conditions",
           "url": "https://www.service-public.fr/particuliers/vosdroits/F13243"
         }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "Age Pension「就労ボーナス（Work Bonus）」による年金非減額措置",
+        "description": "公的年金受給者がアルバイトや再雇用で働いても、2週間あたり300豪ドル（年7,800豪ドル）までの就労所得を所得テストの対象外とし、年金を全額支給。",
+        "source": {
+          "title": "オーストラリア連邦サービス庁 (Services Australia) - Work Bonus and Age Pension",
+          "url": "https://www.servicesaustralia.gov.au"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "カナダ年金プラン（CPP）就労後給付制度（Post-Retirement Benefit - PRB）",
+        "description": "60〜70歳で年金を受給しながら就労を継続する場合、年金カットは一切行わず、追加で納付した保険料に応じて翌年から生涯受け取れる年金額が永久増額。",
+        "source": {
+          "title": "カナダ政府 (Canada.ca) - Post-Retirement Benefit (PRB)",
+          "url": "https://www.canada.ca/en/services/benefits/publicpensions.html"
+        }
+      },
+      {
+        "code": "SE",
+        "country": "スウェーデン",
+        "system": "在職年金全額併給および就労継続による年金受給権の上乗せ蓄積",
+        "description": "年金受給開始後に得た就労所得によって年金が減額される仕組みは存在せず、働いた分だけ年金勘定へ保険料が自動蓄積され将来年金額が増加。",
+        "source": {
+          "title": "スウェーデン年金庁 (Pensionsmyndigheten) - Arbeta samtidigt som du tar ut pension",
+          "url": "https://www.pensionsmyndigheten.se"
+        }
+      },
+      {
+        "code": "NL",
+        "country": "オランダ",
+        "system": "AOW基礎年金の就労所得無制限・全額無条件給付制度",
+        "description": "退職年齢に達したすべての国民に対し、就労収入や給与水準にかかわらず一律全額のAOW基礎年金を給付。高齢者の就労意欲を阻害しない制度設計を徹底。",
+        "source": {
+          "title": "オランダ社会保険銀行 (SVB) - Income and your AOW pension",
+          "url": "https://www.svb.nl/en"
+        }
       }
     ]
   }

@@ -261,6 +261,46 @@
           "title": "Additional Buyer's Stamp Duty (ABSD) Rates and Assessment",
           "url": "https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/additional-buyer's-stamp-duty-(absd)"
         }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "相続税・贈与税廃止とキャピタルゲイン税（CGT）による時価課税モデル",
+        "description": "遺産税そのものを課さず、相続人が高層マンション等の資産を将来売却した際、被相続人の取得価格からの含み益全体に対し時価ベースで厳格にCGT課税。",
+        "source": {
+          "title": "オーストラリア国税庁 (ATO) - Deceased estates and capital gains tax",
+          "url": "https://www.ato.gov.au"
+        }
+      },
+      {
+        "code": "DE",
+        "country": "ドイツ",
+        "system": "相続税法・評価法に基づく客観的市場価格（Verkehrswert）課税原則",
+        "description": "不動産の相続税評価額に独自の乖離特例を認めず、独立鑑定士による市場取引価格（Verkehrswert）を原則基準として算定し、富裕層の節税を防止。",
+        "source": {
+          "title": "ドイツ連邦財務省 (BMF) - Erbschaftsteuer und Grundbesitzbewertung",
+          "url": "https://www.bundesfinanzministerium.de"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "高額タワーマンションに対する鑑定評価事業（時価課税の徹底）",
+        "description": "公定公示価格と実取引時価の乖離が大きい超高級コンドミニアムに対し、国税庁が独自費用で時価鑑定評価を実施し、時価に基づく重課税を断行。",
+        "source": {
+          "title": "韓国国税庁 (NTS) - 相続・贈与税の不動産時価評価案内",
+          "url": "https://www.nts.go.kr"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "死亡時みなし譲渡課税制度（Deemed Disposition at Death）",
+        "description": "人が死亡した瞬間に全保有不動産を時価で売却したものと「みなして」譲渡所得税（CGT）を精算課税。評価額圧縮による節税スキームを原理的に排除。",
+        "source": {
+          "title": "カナダ歳入庁 (CRA) - Deemed disposition of property on death",
+          "url": "https://www.canada.ca/en/revenue-agency.html"
+        }
       }
     ]
   }

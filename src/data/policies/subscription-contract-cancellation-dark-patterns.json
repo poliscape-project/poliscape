@@ -261,6 +261,46 @@
           "title": "Subscription contracts: consumer protection measures",
           "url": "https://www.gov.uk/government/publications"
         }
+      },
+      {
+        "code": "FR",
+        "country": "フランス",
+        "system": "消費法典（Code de la consommation）「3クリック解約ボタン」法定義務化",
+        "description": "オンラインで締結可能な全サブスク契約に対し、ウェブサイトやアプリ上に「解約通知ボタン」を目立つように設置し、3クリック以内で完了させることを義務化。",
+        "source": {
+          "title": "フランス競争・消費者問題・不正抑止総局 (DGCCRF) - Résiliation en trois clics des contrats",
+          "url": "https://www.economie.gouv.fr/dgccrf"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "オーストラリア消費者法（ACL）不公正取引慣行・欺瞞的デザイン規制",
+        "description": "ACCCが定期購入の自動更新や解約妨害（ロースト・イン・ザ・迷路）を徹底調査。解約を困難にするダークパターンを不公正行為として巨額の民事制裁金を請求。",
+        "source": {
+          "title": "オーストラリア競争・消費者委員会 (ACCC) - Dark patterns and subscription traps",
+          "url": "https://www.accc.gov.au"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "電子商取引法およびダークパターン防止規制指針",
+        "description": "公正取引委員会（FTC）が自動更新前の事前同意取得を義務付け。解約導線の隠蔽や複雑化などの代表的ダークパターン19類型を明示し、是正命令と過徴金を執行。",
+        "source": {
+          "title": "韓国公正取引委員会 (KFTC) - オンラインプラットフォームダークパターンガイドライン",
+          "url": "https://www.ftc.go.kr"
+        }
+      },
+      {
+        "code": "ES",
+        "country": "スペイン",
+        "system": "消費者・利用者保護総合法（TRLGDCU）による契約解除対称性原則",
+        "description": "契約締結時と同じ容易さ・手段でいつでも解約できる権利を法律で保障。電話のみ・書面郵送のみの解約強制など一方的不利な条項を無効化。",
+        "source": {
+          "title": "スペイン消費省 (Ministerio de Consumo) - Derechos de los consumidores y suscripciones",
+          "url": "https://www.consumo.gob.es"
+        }
       }
     ]
   }

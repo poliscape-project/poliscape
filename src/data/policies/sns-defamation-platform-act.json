@@ -183,6 +183,46 @@
           "title": "47 U.S. Code § 230 - Protection for private blocking and screening of offensive material",
           "url": "https://www.law.cornell.edu/uscode/text/47/230"
         }
+      },
+      {
+        "code": "GB",
+        "country": "英国",
+        "system": "2023年オンライン安全法（Online Safety Act）およびOfcomの監督権限",
+        "description": "通信庁（Ofcom）が巨大PFに対し違法コンテンツ（ヘイト・詐欺・脅迫）の迅速削除とリスク評価を義務付け。重大違反時に最大1,800万ポンドまたは全世界売上10%の巨額罰金。",
+        "source": {
+          "title": "英国通信庁 (Ofcom) - Online Safety Act regulation",
+          "url": "https://www.ofcom.org.uk"
+        }
+      },
+      {
+        "code": "FR",
+        "country": "フランス",
+        "system": "オンライン・ヘイトスピーチ対策法（Avia法骨子）およびArcom規制",
+        "description": "視聴覚・デジタル通信規制局（Arcom）がプラットフォームのコンテンツモデレーション手順を監視。人種差別・性差別・人権侵害表現に対する削除窓口設置を義務化。",
+        "source": {
+          "title": "フランス視聴覚・デジタル通信規制局 (Arcom) - Régulation des plateformes en ligne",
+          "url": "https://www.arcom.fr"
+        }
+      },
+      {
+        "code": "SG",
+        "country": "シンガポール",
+        "system": "オンライン犯罪危害法（Online Criminal Harms Act - OCHA）",
+        "description": "詐欺広告、なりすましアカウント、名誉毀損等の悪質コンテンツに対し、内務省・警察が指定PFへ数時間以内のアカウント停止やアクセス遮断命令を直接発令。",
+        "source": {
+          "title": "シンガポール内務省 (MHA) - Online Criminal Harms Act",
+          "url": "https://www.mha.gov.sg"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "情報通信網法に基づく「臨時措置制度」（24時間以内アクセス遮断）",
+        "description": "ネット上の名誉毀損や権利侵害を申告された事業者は、事実確認に先立ち直ちに当該投稿を30日間ブラインド（非公開）にする臨時措置を法定義務として運用。",
+        "source": {
+          "title": "韓国放送通信委員会 (KCC) - インターネット被害救済および情報通信網法",
+          "url": "https://www.kcc.go.kr"
+        }
       }
     ]
   }
