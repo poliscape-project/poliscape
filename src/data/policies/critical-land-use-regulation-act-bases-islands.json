@@ -205,5 +205,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の安全保障上重要施設・国境離島周辺の不動産取得規制・事前審査法制",
+    "comparisonSummary": "外国資本による軍事基地周辺や重要インフラ、国境離島の土地買収に対し、米国（CFIUS不動産管轄権拡大）、カナダ、オーストラリア、韓国などは、安全保障上の重要区域を指定し、外国人・外国企業による不動産売買の事前届出・不認可・強制売却命令を法制化しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "対米外国投資委員会（CFIUS）不動産取引管轄権（FIRRMA Part 802）",
+        "statusOrLevel": "全米数百か所の軍事基地・ミサイル発射場周辺100マイル以内の不動産取引審査",
+        "keyFeature": "財務省主導のCFIUSが、軍事基地や秘密施設近傍の土地購入・賃貸借契約を強制審査。安全保障上のリスクがあると判断した場合、大統領命令により取引の中止や買収済み不動産の売却を強制執行。",
+        "source": {
+          "organization": "米国財務省 (Department of the Treasury - CFIUS)",
+          "title": "CFIUS Real Estate Regulations and covered military installations list",
+          "url": "https://home.treasury.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "外国投資改革法（Foreign Investment Reform Act 2020）国家安全保障テスト",
+        "statusOrLevel": "金額の多寡に関わらず「国家安全保障土地・重要インフラ」周辺取得の事前届出義務化",
+        "keyFeature": "国防施設、通信施設、港湾周辺の土地取得に対し、少額取引であっても外国投資審査委員会（FIRB）への事前申請を義務化。違反した外国人には高額過料および強制原状回復命令。",
+        "source": {
+          "organization": "オーストラリア外国投資審査委員会 (FIRB) / 財務省",
+          "title": "National Security test for foreign investment in sensitive land and infrastructure",
+          "url": "https://www.firb.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "軍事基地および軍事施設保護法（軍事施設保護区域不動産取得許可制）",
+        "statusOrLevel": "休戦ライン沿岸・軍事基地・国防施設保護区域内での土地取引に対する国防部事前認可",
+        "keyFeature": "外国人だけでなく国内事業者であっても、重要防衛施設周辺での土地購入・建物新増築には軍部隊長の同意が必須。国境離島（白翎島・延坪島等）の土地所有状況をリアルタイム監視。",
+        "source": {
+          "organization": "韓国国防部 (MND) / 国土交通部",
+          "title": "Military Bases and Installations Protection Act - Land transaction permits",
+          "url": "https://www.mnd.go.kr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "投資カナダ法（Investment Canada Act）国家安全保障審査（National Security Review）",
+        "statusOrLevel": "重要鉱山・軍事演習場・国境重要施設近傍の外国企業買収に対する大統領（総督）不認可",
+        "keyFeature": "極北防衛施設やNORAD（北米航空宇宙防衛司令部）施設近郊での土地・施設取得を徹底監視。外国国有企業によるカナダ重要資産買収を国家安保を理由に遮断。",
+        "source": {
+          "organization": "カナダ革新・科学・経済開発省 (ISED)",
+          "title": "Guidelines on the National Security Review of Investments under the Investment Canada Act",
+          "url": "https://ised-isde.canada.ca"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "通貨金融法典（Code monétaire et financier）外国投資事前認可（IEF）",
+        "statusOrLevel": "防衛施設周辺および安全保障関連技術・インフラに対する外国資本出資の完全届出制",
+        "keyFeature": "財務省（Bercy）が国家安全保障、公の秩序、国防を脅かす海外投資を事前審査。軍事基地周辺の重要敷地やデュアルユース研究施設への間接出資も監視対象。",
+        "source": {
+          "organization": "フランス経済・財務・産業主権省 (DG Trésor)",
+          "title": "Réglementation des investissements étrangers en France (IEF)",
+          "url": "https://www.tresor.economie.gouv.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国家安全保障および投資法2021（National Security and Investment Act 2021 - NSI Act）",
+        "statusOrLevel": "内閣府投資審査ユニット（ISU）による重要不動産・軍需サプライヤー買収の介入権限",
+        "keyFeature": "軍事施設近接不動産や重要港湾・通信施設への取得について、事前届出を義務付け。国家安全保障上のリスクが認められる場合、取引の事後無効化や条件付き変更命令を執行。",
+        "source": {
+          "organization": "英国閣僚府投資審査ユニット (Investment Security Unit - ISU)",
+          "title": "National Security and Investment Act 2021 guidance and notices",
+          "url": "https://www.gov.uk/government/organisations/cabinet-office"
+        }
+      }
+    ]
+  }
 }

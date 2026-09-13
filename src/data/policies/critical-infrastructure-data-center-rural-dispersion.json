@@ -185,5 +185,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Clock"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の重要データセンター・海底ケーブル陸揚げ拠点の地方分散と国土強靭化法制",
+    "comparisonSummary": "AI需要による電力消費爆発と自然災害・地政学リスクに対し、米国、ノルウェー、アイルランド、フランス、オーストラリアなどは、首都圏へのデータセンター新設制限、再生可能エネルギー豊富な地方拠点への税制優遇、海底ケーブル陸揚げ局の複線化を推進しています。",
+    "countries": [
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "国家データセンター戦略（Norwegian Data Centre Strategy）およびグリーン税制",
+        "statusOrLevel": "水力発電直結型地方ギガワットデータセンター誘致・熱利用（排熱回収）義務化",
+        "keyFeature": "豊富な北極圏水力発電と冷涼気候を活かし、地方自治体へのデータセンター立地に減税を付与。大規模データセンターに対し、近隣地域暖房や養殖場への排熱再利用計画の策定を義務付け。",
+        "source": {
+          "organization": "ノルウェー自治体・地方開発省 (KDD) / 通信庁 (Nkom)",
+          "title": "Norwegian Data Centre Strategy: Powered by Nature and local resilience",
+          "url": "https://www.regjeringen.no"
+        }
+      },
+      {
+        "country": "アイルランド",
+        "countryCode": "IE",
+        "flag": "🇮🇪",
+        "systemName": "環境・気候・通信省（DECC）データセンター立地原則および電力グリッド接続規制",
+        "statusOrLevel": "ダブリン首都圏への送電網負荷集中を抑制・地方風力発電併設サイトへの立地誘導",
+        "keyFeature": "データセンター消費電力が国家全体の20%を超える事態を受け、送電網会社（EirGrid）がダブリン周辺の新設を原則凍結。自前で蓄電池や再エネ自家発電を備えた地方施設のみ接続認可。",
+        "source": {
+          "organization": "アイルランド環境・気候・通信省 (DECC) / EirGrid",
+          "title": "Government Statement on The Role of Data Centres in Ireland's Enterprise Strategy",
+          "url": "https://www.gov.ie/en/organisation/department-of-the-environment-climate-and-communications/"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "エネルギー省（DOE）次世代データセンター冷却イニシアチブおよび地方再エネ連携",
+        "statusOrLevel": "バージニア州「データセンター・アレイ」過密緩和と中西部・南部地方分散投資",
+        "keyFeature": "世界トラフィックの70%が集中する北バージニアの送電容量逼迫を受け、オハイオ・アイオワ等の原発・風力発電地帯への移転を税額控除で誘導。海底ケーブル陸揚げ局も複数州へ分散。",
+        "source": {
+          "organization": "米国エネルギー省 (DOE) / 連邦エネルギー規制委員会 (FERC)",
+          "title": "Data Center Energy Efficiency and Grid Reliability initiatives",
+          "url": "https://www.energy.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "国家データセンター戦略およびマルセイユ海底ケーブル国際ハブ分散",
+        "statusOrLevel": "パリ一極集中から地中海沿岸（マルセイユ）への国際海底ケーブル陸揚げ局分散",
+        "keyFeature": "パリ周辺の電力網負荷を分散するため、マルセイユを欧州・アジア・アフリカを結ぶ海底ケーブルの第2重要拠点として整備。地方立地データセンターに対し電気税（TICFE）の軽減措置を付与。",
+        "source": {
+          "organization": "フランス経済・財務・産業主権省 (Bercy) / Arcep",
+          "title": "Stratégie nationale pour le cloud et accueil des câbles sous-marins",
+          "url": "https://www.entreprises.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "重要インフラセキュリティ法（SOCI Act）および海底通信ケーブル保護区制度",
+        "statusOrLevel": "シドニー集中からの脱却・パースおよびダーウィンへの北方直接海底ケーブル分散",
+        "keyFeature": "通信安全保障のため、豪州通信メディア庁（ACMA）が海底ケーブル保護区（Protection Zones）を指定。災害・地政学リスクを回避するため西海岸・北部への陸揚げ拠点の分散を国策支援。",
+        "source": {
+          "organization": "オーストラリア通信メディア庁 (ACMA) / 内務省",
+          "title": "Submarine telecommunications cables protection and critical infrastructure resilience",
+          "url": "https://www.acma.gov.au"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "グリーン・データセンター・ロードマップ（IMDA / EDB）",
+        "statusOrLevel": "土地・電力制約に伴う一時モラトリアム解除・PUE 1.3以下の超高効率基準義務化",
+        "keyFeature": "狭小な都市国家での電力危機を防ぐため、新規データセンター建設に世界最高峰の省エネ基準（PUE 1.3以下・液冷技術等）を義務付け。近隣国（マレーシア・インドネシア）との分散連携を模索。",
+        "source": {
+          "organization": "シンガポール情報通信メディア開発庁 (IMDA) / 経済開発庁 (EDB)",
+          "title": "Green Data Centre Roadmap: Sustainable digital infrastructure growth",
+          "url": "https://www.imda.gov.sg"
+        }
+      }
+    ]
+  }
 }

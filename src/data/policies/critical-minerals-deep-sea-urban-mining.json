@@ -261,5 +261,89 @@
         "commentStandard": "「過酷な深海環境での商業採掘コストは未知数であり、市況の価格変動に耐えられず多額の国費が沈没する懸念がある」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国の重要鉱物（レアアース・リチウム）国家備蓄・都市鉱山循環利用法制",
+    "comparisonSummary": "中国のレアアース寡占に対するサプライチェーン強靭化のため、欧州連合（重要原材料法CRMA）、米国（国防生産法Title III・IRA重要鉱物要件）、カナダ、オーストラリアなどが、廃電子機器からのリサイクル回収率目標の義務化と精錬施設への公費出資を推進しています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州重要原材料法（Critical Raw Materials Act - CRMA 2024）",
+        "statusOrLevel": "2030年までに域内消費の25%以上をリサイクル材（都市鉱山）で調達する法的義務化",
+        "keyFeature": "特定第3国への依存度を65%未満に抑える目標を法制化。永久磁石（ネオジム等）に含まれるレアアースの回収・リサイクル率表示義務や、都市鉱山からの金属抽出プロジェクトを戦略指定。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - Internal Market)",
+          "title": "European Critical Raw Materials Act: secure and sustainable supply chains",
+          "url": "https://single-market-economy.ec.europa.eu"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国防生産法（DPA）Title III重要鉱物支援およびIRA重要鉱物税額控除",
+        "statusOrLevel": "国内および同盟国（FTA締結国）でのレアアース精錬・電池リサイクル施設への直接補助金",
+        "keyFeature": "エネルギー省（DOE）および国防総省（DoD）が、ブラックマス（廃電池粉末）からのリチウム・コバルト回収プラントに数十億ドルを助成。EV税額控除の要件にリサイクル鉱物利用比率を規定。",
+        "source": {
+          "organization": "米国エネルギー省 (DOE) / 国防総省",
+          "title": "Critical Materials Assessment and Defense Production Act battery recycling grants",
+          "url": "https://www.energy.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "重要鉱物戦略2023-2030（Critical Minerals Strategy）および40億豪ドル国家基金",
+        "statusOrLevel": "レアアース・リチウム採掘大国としての高付加価値国内精錬・リサイクル産業育成",
+        "keyFeature": "輸出信用機関（Export Finance Australia）等を通じ、中国を経由しない精錬サプライチェーンの構築を支援。廃太陽光パネルやEVバッテリーからの銀・インジウム回収技術を国家実証。",
+        "source": {
+          "organization": "オーストラリア連邦産業・科学・資源省 (DISR)",
+          "title": "Critical Minerals Strategy 2023–2030 and Critical Minerals Facility",
+          "url": "https://www.industry.gov.au"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダ重要鉱物戦略（38億加ドル基金）および重要鉱物探査税額控除（CMETC）",
+        "statusOrLevel": "北米車載電池サプライチェーン（USMCA）中核としての重要鉱物循環拠点整備",
+        "keyFeature": "天然資源省（NRCan）が主導し、リチウム・ニッケル・レアアースの探査から都市鉱山リサイクル（Li-Cycle等）まで一括税額控除・融資を提供。先住民族との共同開発を義務化。",
+        "source": {
+          "organization": "カナダ天然資源省 (Natural Resources Canada - NRCan)",
+          "title": "Canadian Critical Minerals Strategy and circular economy programs",
+          "url": "https://natural-resources.canada.ca"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "国家鉱物資源基金（20億ユーロ）およびWEEE廃電子機器リサイクル指令",
+        "statusOrLevel": "北部バッテリー・バレーにおける使用済み電池・電子機器からのクローズドループ金属回収",
+        "keyFeature": "環境移行庁（ADEME）が資金を拠出し、オラノ社等による廃リチウムイオン電池の湿式精錬リサイクル工場を建設。永久磁石の分別回収を家電メーカーに法定義務化。",
+        "source": {
+          "organization": "フランス生態系移行・国土連帯省 / ADEME",
+          "title": "Sécurisation de l'approvisionnement en métaux critiques et recyclage",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "国家資源安保特別法（2024年成立）および重要鉱物備蓄・循環利用法制",
+        "statusOrLevel": "韓国鉱害鉱業公団（KOMIR）による100日分超のレアメタル国家備蓄と廃バッテリー再資源化",
+        "keyFeature": "バッテリー製造大国として、特定国依存度の高い黒鉛・希土類等のサプライチェーン崩壊に備え、国家備蓄基地を拡充。国内廃バッテリーからの重要鉱物抽出企業に法人税減免を適用。",
+        "source": {
+          "organization": "韓国産業通商資源部 (MOTIE) / KOMIR",
+          "title": "Special Act on National Resource Security - Critical minerals management",
+          "url": "https://www.motie.go.kr"
+        }
+      }
+    ]
   }
 }

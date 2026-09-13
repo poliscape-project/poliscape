@@ -205,5 +205,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の敵基地・長距離スタンドオフ精密攻撃能力および抑止ドクトリン",
+    "comparisonSummary": "防衛ドクトリンにおける長距離打撃力に関し、米国（統合全領域作戦JADO・トマホーク配備）、韓国（キルチェーン・大量反撃報復KMPR）、英国、フランス、オーストラリア、台湾などが、敵のミサイル発射前・直後の攻撃抑止能力を法制および国家戦略に位置付けています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "統合全領域指揮統制（JADC2）および長距離精密火力（LRPF）ドクトリン",
+        "statusOrLevel": "陸軍中距離能力（MRCタイフォン）およびトマホーク巡航ミサイルのインド太平洋前方配備",
+        "keyFeature": "敵性国の防空ミサイル射程外（スタンドオフ）から指揮中枢や移動式発射台（TEL）を打撃する統合攻撃網を構築。同盟国（日・豪・韓）とのセンサー・シューター連携を推進。",
+        "source": {
+          "organization": "米国国防総省 (Department of Defense - DoD)",
+          "title": "National Defense Strategy - Integrated Deterrence and Long-Range Precision Fires",
+          "url": "https://www.defense.gov"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "韓国型3軸体系（Kill Chain / KAMD / KMPR大量反撃報復）",
+        "statusOrLevel": "北朝鮮の核・ミサイル発射兆候検知時の先制打撃能力（玄武弾道ミサイル等）公式配備",
+        "keyFeature": "国防部が「キルチェーン」を公式ドクトリン化。発射兆候を捉えた段階で大深度地下要塞やミサイル基地を破壊する長距離弾道・巡航ミサイル網を独自開発・大量配備。",
+        "source": {
+          "organization": "韓国国防部 (MND) / 聯合参謀本部",
+          "title": "Defense White Paper: Korean Triad System and Kill Chain operational concept",
+          "url": "https://www.mnd.go.kr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国防戦略見直し（NDS 2024）および長距離打撃力（Long-Range Strike）優先配備",
+        "statusOrLevel": "トマホーク巡航ミサイル配備および国内誘導兵器製造（GWEO）エンタープライズ",
+        "keyFeature": "海軍フリゲート艦・駆逐艦および将来原潜（AUKUS）へのトマホーク配備を決定。長距離精密攻撃能力により、豪本土から数千キロ離れた海上アプローチでの抑止力を確立。",
+        "source": {
+          "organization": "オーストラリア国防省 (Defence Australia)",
+          "title": "National Defence Strategy: Enhancing the ADF's long-range strike capabilities",
+          "url": "https://www.defence.gov.au"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "全体防衛構想（ODC）および非対称戦力・長距離巡航ミサイル（雄風2E / 雄昇）",
+        "statusOrLevel": "中国内陸部軍事基地・指揮所への報復打撃が可能な射程1,000km超ミサイル量産配備",
+        "keyFeature": "国防部国家中山科学研究院（NCSIST）が国産開発。侵攻企図をくじく「重層抑止（Multi-domain Deterrence）」に基づき、沿岸集結地や空軍基地への報復能力を常時保持。",
+        "source": {
+          "organization": "台湾国防部 (Ministry of National Defense - MND)",
+          "title": "四年期国防総検討（QDR）及び非対称作戦戦力構築戦略",
+          "url": "https://www.mnd.gov.tw"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "戦略的防衛安全保障見直し（SDSR）およびストーム・シャドウ巡航ミサイル",
+        "statusOrLevel": "空軍タイフーン搭載長距離空中発射巡航ミサイルおよび将来打撃兵器共同開発",
+        "keyFeature": "GPS/地形照合誘導によるステルススタンドオフ攻撃兵器を実戦運用。次世代長距離対艦・対地巡航ミサイル（FC/ASW）をフランスと共同開発し抑止力を維持。",
+        "source": {
+          "organization": "英国国防省 (Ministry of Defence - MOD)",
+          "title": "Defence Command Paper: Deep and precision strike capabilities",
+          "url": "https://www.gov.uk/government/organisations/ministry-of-defence"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "軍事計画法（LPM）長距離精密深部打撃（Frappes dans la profondeur）",
+        "statusOrLevel": "SCALP-EG巡航ミサイルおよび海軍水上艦・潜水艦発射型巡航ミサイル（MdCN）",
+        "keyFeature": "核抑止力（Force de frappe）に加え、通常弾頭による射程1,000km級の艦船・潜水艦発射巡航ミサイル（MdCN）を独自保有し、遠隔地目標に対するスタンドオフ攻撃力を完備。",
+        "source": {
+          "organization": "フランス国防省 (Ministère des Armées)",
+          "title": "Loi de programmation militaire: capacités de frappe de précision dans la profondeur",
+          "url": "https://www.defense.gouv.fr"
+        }
+      }
+    ]
+  }
 }

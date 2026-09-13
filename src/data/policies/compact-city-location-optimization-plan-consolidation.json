@@ -211,5 +211,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Car"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の都市縮小・コンパクトシティ政策および立地適正化法制",
+    "comparisonSummary": "人口減少やインフラ維持費の増大に対し、米国（デトロイト等の権利縮小計画）、ドイツ（旧東独の都市解体・再編Stadtumbau）、英国（グリーンベルトとブラウンフィールド再生）、フランス（都市刷新法）など、居住誘導区域の設定と郊外スプロール抑制が法制化されています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "都市再編計画（Stadtumbau Ost/West）および連邦建築法典（BauGB）",
+        "statusOrLevel": "人口減少都市における空き家計画的解体・緑地化助成と都市中心部への投資集中",
+        "keyFeature": "旧東独の人口流出都市で空き家数十万戸を公費解体し、過剰な水道・下水道インフラを計画縮小（ Rückbau）。中心市街地の歴史的建造物再生と生活インフラ集約に連邦・州助成金を集中投下。",
+        "source": {
+          "organization": "ドイツ連邦住宅・都市開発・建築省 (BMWSB)",
+          "title": "Stadtumbau und Städtebauförderung: Anpassung an den demografischen Wandel",
+          "url": "https://www.bmwsb.bund.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ラストベルト都市縮小戦略（Right-Sizing Cities）および土地銀行（Land Bank）法",
+        "statusOrLevel": "デトロイト・クリーブランド等での過疎区画の公有地化・都市農業転換とサービス撤退",
+        "keyFeature": "人口半減都市において郡土地銀行（Land Bank）が放棄不動産を差し押さえ一括管理。インフラ維持困難な地区の住民を中心部へ移住誘導し、空いた広大区画を都市農園やグリーンインフラへ再編。",
+        "source": {
+          "organization": "米国住宅都市開発省 (HUD) / デトロイト市未来計画局",
+          "title": "Right-Sizing Cities and Community Land Trust strategies",
+          "url": "https://www.hud.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国家計画方針フレームワーク（NPPF）および都市再生ブラウンフィールド優先原則",
+        "statusOrLevel": "郊外開発を制限するグリーンベルト保全および中心部工場跡地（ブラウンフィールド）開発義務",
+        "keyFeature": "自治体の都市計画（Local Plan）において、郊外農地への無秩序な市街地拡大（スプロール）を厳禁。既存市街地内の遊休地を優先開発する方針を定め、公共交通指向型開発（TOD）を推進。",
+        "source": {
+          "organization": "英国住宅・コミュニティ・地方自治省 (DLUHC)",
+          "title": "National Planning Policy Framework (NPPF): Promoting sustainable transport and compact development",
+          "url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "連帯・都市刷新法（Loi SRU）および「中心市街地アクション（Action Coeur de Ville）」",
+        "statusOrLevel": "中規模地方都市200箇所以上への50億ユーロ集中投資と市街地拡散防止規制",
+        "keyFeature": "郊外大型ショッピングモールの新設を厳しく制限し、地方都市中心部の商業・住宅・医療再生に国費を集中助成。気候・回復力法により「2050年までに農地純消失ゼロ（ZAN）」を法定化。",
+        "source": {
+          "organization": "フランス国家国土連帯庁 (ANCT) / 生態系移行省",
+          "title": "Programme Action Cœur de Ville et zéro artificialisation nette (ZAN)",
+          "url": "https://agence-cohesion-territoires.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家スマートシティ計画およびメルボルン「20分ネイバーフッド（20-Minute Neighbourhood）」",
+        "statusOrLevel": "徒歩・自転車・公共交通で20分圏内に全生活機能を完結させる都市集約マスタープラン",
+        "keyFeature": "広大な郊外拡張による車依存とインフラ維持費増大を是正するため、ビクトリア州計画法に基づき、住宅地ごとの医療・学校・商店・公園アクセスの集約度を指標化して重点投資。",
+        "source": {
+          "organization": "オーストラリア・ビクトリア州環境土地水計画省 (DEWLP)",
+          "title": "20-Minute Neighbourhoods: Creating local, walkable communities",
+          "url": "https://www.planning.vic.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "都市再生活性化および支援に関する特別法（都市再生特別法）",
+        "statusOrLevel": "地方衰退都市に対する国家都市再生ニューディール事業（毎年100箇所集中支援）",
+        "keyFeature": "国土交通部が人口減少・産業衰退が深刻な地方都市を選定し、既存インフラのコンパクト化と中心駅周辺の官民複合拠点（生活SOC）整備を国費手厚く支援。",
+        "source": {
+          "organization": "韓国国土交通部 (MOLIT)",
+          "title": "Special Act on the Revitalization and Support of Urban Regeneration",
+          "url": "https://www.molit.go.kr"
+        }
+      }
+    ]
+  }
 }

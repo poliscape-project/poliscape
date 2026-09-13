@@ -185,5 +185,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の公的証明書デジタル交付・自治体クラウド標準化（ガバメントクラウド）法制",
+    "comparisonSummary": "行政サービスのデジタル化と自治体システムの共通化に対し、エストニア（X-Road）、英国（GovTech / GOV.UK Cloud）、デンマーク（NemKonto/MitID）、韓国（政府24・共通プラットフォーム）など、国家統一クラウド基盤とAPI連携による完全ペーパーレス化が進んでいます。",
+    "countries": [
+      {
+        "country": "エストニア",
+        "countryCode": "EE",
+        "flag": "🇪🇪",
+        "systemName": "データ連携基盤「X-Road」およびワンスオンリー（一度きり）原則",
+        "statusOrLevel": "国家99%以上の行政手続き完全オンライン化・紙の証明書発行そのものの全廃",
+        "keyFeature": "デジタル庁と地方自治体が分散型データベース連携基盤「X-Road」で直結。住民票や戸籍に相当する公的証明書を紙で取り寄せる必要がなく、行政機関や銀行が本人の同意に基づきデータを直接参照。",
+        "source": {
+          "organization": "エストニア情報システム庁 (RIA)",
+          "title": "X-Road: The backbone of e-Estonia and Once-Only principle implementation",
+          "url": "https://www.ria.ee"
+        }
+      },
+      {
+        "country": "デンマーク",
+        "countryCode": "DK",
+        "flag": "🇩🇰",
+        "systemName": "自治体共通デジタル戦略（KOMBIT）および国家デジタル郵便（Digital Post）",
+        "statusOrLevel": "全98自治体の基幹情報システム共通化・全国民への公的デジタル私書箱配備",
+        "keyFeature": "全国の自治体が出資する公企業KOMBITが、住民登録・福祉・税務システムを一元的に調達・標準化。公的証明書は住民ポータル「borger.dk」から暗号化PDFで即時ダウンロード可能。",
+        "source": {
+          "organization": "デンマーク・デジタル庁 (Digitaliseringsstyrelsen) / KOMBIT",
+          "title": "Common Municipal IT Architecture and mandatory Digital Post for citizens",
+          "url": "https://digst.dk"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "英国政府クラウドファースト戦略（Cloud First Policy）およびGOV.UK One Login",
+        "statusOrLevel": "中央省庁・地方協議会（Local Councils）のパブリッククラウド全面移行と共通認証",
+        "keyFeature": "政府デジタルサービス（GDS）が主導し、自治体システム調達プラットフォーム「Crown Commercial Service (G-Cloud)」を運用。全行政サービスのログイン基盤をOne Loginに一本化。",
+        "source": {
+          "organization": "英国閣僚府政府デジタルサービス (GDS) / CCS",
+          "title": "Government Cloud First Policy and GOV.UK One Login roadmap",
+          "url": "https://www.gov.uk/government/organisations/government-digital-service"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "電子政府法および統合行政ポータル「政府24」・無人証明書自動発行機",
+        "statusOrLevel": "全国地下鉄駅・マート・コンビニ等での住民登録謄本等自動発行およびモバイル身分証",
+        "keyFeature": "行政安全部が全国自治体の行政データを統合。全国数千箇所の無人発給機で指紋認証により各種証明書を即時発行可能。スマートフォン内の「モバイル住民登録証」と完全連動。",
+        "source": {
+          "organization": "韓国行政安全部 (MOIS) / 政府24",
+          "title": "Electronic Government Act - Government 24 integrated public service portal",
+          "url": "https://www.mois.go.kr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "ガバメント・コマーシャル・クラウド（GCC）戦略およびSingpass API連携",
+        "statusOrLevel": "国家行政システムの商用クラウド（AWS/Azure/GCP）全面移行とデジタル証明書",
+        "keyFeature": "政府テクノロジー庁（GovTech）が高度なセキュリティ基準を満たした政府共通クラウドGCCを構築。出生証明や婚姻証明はデジタル原本（OpenCerts/TradeTrust規格）で電子発行。",
+        "source": {
+          "organization": "シンガポール政府テクノロジー庁 (GovTech Singapore)",
+          "title": "Government Commercial Cloud (GCC) and National Digital Identity infrastructure",
+          "url": "https://www.tech.gov.sg"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦クラウド・スマート戦略（Cloud Smart）およびFedRAMP認証制度",
+        "statusOrLevel": "政府調達クラウドへの厳格な国家サイバー認証（FedRAMP）およびAPI標準化",
+        "keyFeature": "連邦一般調達局（GSA）がFedRAMPを運用し、地方自治体や州政府も準拠。各州の陸運局（DMV）証明書や住民記録のデジタル化と、民間ポータルとの安全なAPI接続を推進。",
+        "source": {
+          "organization": "米国連邦一般調達局 (GSA) / CIO評議会",
+          "title": "Federal Cloud Smart Strategy and FedRAMP security authorization program",
+          "url": "https://www.fedramp.gov"
+        }
+      }
+    ]
+  }
 }

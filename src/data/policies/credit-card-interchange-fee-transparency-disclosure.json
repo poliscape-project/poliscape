@@ -185,5 +185,89 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国のクレジットカード加盟店手数料（インターチェンジフィー）上限規制・開示法制",
+    "comparisonSummary": "キャッシュレス決済の普及と中小店舗の負担軽減に向け、欧州連合（EU）や英国がインターチェンジフィー（加盟店手数料の内訳）に厳格な上限規制（デビット0.2%、クレジット0.3%）を課している一方、米国（Durbin修正条項・Credit Card Competition Act案）や豪州も手数料透明化と競争促進を法制化しています。",
+    "countries": [
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "インターチェンジフィー規則（Interchange Fee Regulation - IFR 2015/751）",
+        "statusOrLevel": "デビットカード上限0.2%・クレジットカード上限0.3%の法的キャップ規制",
+        "keyFeature": "カード決済にかかる銀行間手数料を法律で厳格に上限規制し、店舗が支払う加盟店手数料を大幅低減。カード会社に対し、決済明細におけるインターチェンジフィーの明確な分離開示を義務付け。",
+        "source": {
+          "organization": "欧州委員会 (European Commission - Competition) / 欧州銀行監督庁 (EBA)",
+          "title": "Interchange Fee Regulation (IFR): Monitoring and consumer payment transparency",
+          "url": "https://competition-policy.ec.europa.eu"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "決済システム規制機関（PSR）インターチェンジフィー監視法制",
+        "statusOrLevel": "上限規制の継続維持およびクロスボーダー取引（欧州間手数料引き上げ）の調査・介入",
+        "keyFeature": "金融行動監視機構（FCA）傘下の独立規制機関PSRが、Visa・Mastercardの市場寡占を常時監視。手数料構造の透明性を監査し、過度な値上げに対して公的介入措置を発動。",
+        "source": {
+          "organization": "英国決済システム規制機関 (Payment Systems Regulator - PSR)",
+          "title": "Card-acquiring market review and cross-border interchange fees oversight",
+          "url": "https://www.psr.org.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ドッド・フランク法ダービン修正条項（Durbin Amendment）およびクレジットカード競争促進法案",
+        "statusOrLevel": "デビットカード手数料の上限規制（約21セント＋0.05%）および複数決済網選択義務",
+        "keyFeature": "連邦準備制度理事会（FRB）が大規模銀行のデビット手数料に上限を設定。さらに議会ではVisa/Mastercard独占を打破し加盟店手数料を下げるため、複数ネットワークの利用を義務付ける競争法案を審議。",
+        "source": {
+          "organization": "連邦準備制度理事会 (Federal Reserve Board - FRB) / FTC",
+          "title": "Regulation II (Debit Card Interchange Fees and Routing)",
+          "url": "https://www.federalreserve.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "豪州準備銀行（RBA）決済システム理事会カード決済基準（Standard No. 1）",
+        "statusOrLevel": "加重平均上限規制（クレジット0.50%・デビット8セント）およびサーチャージ規制",
+        "keyFeature": "中央銀行RBAが2000年代初頭から世界に先駆けてインターチェンジフィーの加重平均上限を導入。店舗が過大なカード手数料を顧客に転嫁する「サーチャージ（追加料金）」の実費上限も設定。",
+        "source": {
+          "organization": "オーストラリア準備銀行 (Reserve Bank of Australia - RBA)",
+          "title": "Card Payments Regulation and Interchange Fee Benchmarks",
+          "url": "https://www.rba.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "専門金融業法（適格原価制度に基づく加盟店手数料率算定・改定）",
+        "statusOrLevel": "零細・中小加盟店（年商30億ウォン以下）に対する公的優遇手数料率（0.5%〜1.5%）",
+        "keyFeature": "金融委員会（FSC）が3年ごとに資金調達原価やリスク管理費用を再計算する「適格原価制度」を運用。売上規模に応じた優遇手数料率を法律で義務付け、中小商店の負担を軽減。",
+        "source": {
+          "organization": "韓国金融委員会 (Financial Services Commission - FSC)",
+          "title": "Credit Finance Business Act - Credit card merchant fee rate adjustments",
+          "url": "https://www.fsc.go.kr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "中小企業クレジットカード手数料自主引下げ協定（カナダ財務省）",
+        "statusOrLevel": "Visa・Mastercardとの協定により中小加盟店手数料を平均0.95%に引き下げ",
+        "keyFeature": "年間クレジット取引額が一定基準以下の中小企業を対象に、インターチェンジ手数料を最大27%削減する公的合意を2024年に施行。独立競争局（Competition Bureau）が履行を監視。",
+        "source": {
+          "organization": "カナダ財務省 (Department of Finance Canada)",
+          "title": "Lower credit card transaction fees for small businesses agreement",
+          "url": "https://www.canada.ca/en/department-finance.html"
+        }
+      }
+    ]
+  }
 }

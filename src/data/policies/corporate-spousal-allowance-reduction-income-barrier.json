@@ -185,5 +185,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Briefcase"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の配偶者扶養控除・家族手当制度と既婚女性就労インセンティブ税制",
+    "comparisonSummary": "共働き世帯が多数派となる中、配偶者の収入制限を伴う手当や税制上の控除（年収の壁）に対し、欧州（北欧・英国・フランス）は世帯単位課税から「個人単位課税」への移行や就労促進税額控除（In-work tax credit）により、就労調整（働き控え）を解消しています。",
+    "countries": [
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "個人単位課税制度（Individual Taxation・1971年税制改革）",
+        "statusOrLevel": "夫婦合算課税・配偶者控除の完全全廃・世界最高水準の女性就業率（80%超）達成",
+        "keyFeature": "配偶者の所得にかかわらず各個人が完全に独立して所得税を申告・納税。夫の扶養に入ることで税や社会保険が優遇される仕組みを撤廃し、パート主婦の就業調整インセンティブを制度的に撲滅。",
+        "source": {
+          "organization": "スウェーデン国税庁 (Skatteverket)",
+          "title": "Individual taxation reform and gender equality in the Swedish labor market",
+          "url": "https://www.skatteverket.se"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "個人単位課税およびユニバーサル・クレジット（Universal Credit）就労給付",
+        "statusOrLevel": "配偶者手当等の扶養控除廃止・所得連動型就労支援バウチャーへの一本化",
+        "keyFeature": "1990年に完全個人単位課税へ移行。世帯所得に応じた統合給付「ユニバーサル・クレジット」では、就業時間を延ばしても給付が急激に打ち切られないテーパー率（減額率55%）を設計し就業を奨励。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC) / 労働年金省 (DWP)",
+          "title": "Universal Credit work allowance and individual income tax rules",
+          "url": "https://www.gov.uk/government/organisations/hm-revenue-customs"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "夫婦分割課税制度（Ehegattensplitting）およびミニジョブ（Minijob）改革",
+        "statusOrLevel": "配偶者所得が低いほど大幅節税となる伝統制度への批判と538ユーロ上限引き上げ",
+        "keyFeature": "夫婦の所得を合算半減して累進課税を適用するため、専業主婦世帯の減税効果が大きい一方、妻が就職すると世帯税率が跳ね上がる「就労ペナルティ」が国会で最大の税制争点。",
+        "source": {
+          "organization": "ドイツ連邦財務省 (BMF)",
+          "title": "Ehegattensplitting und Reform der Steuerklassen für Verheiratete",
+          "url": "https://www.bundesfinanzministerium.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "世帯員数課税方式（N分N乗方式 / Quotient familial）および活動手当（Prime d'activité）",
+        "statusOrLevel": "子どもの数が多いほど大幅減税・低所得就業者への勤労インセンティブ給付",
+        "keyFeature": "世帯合算課税を維持しつつ、子どもの数に応じて課税所得を分割。低賃金パート労働者に対しては、就労収入に上乗せして給付金が支給される「Prime d'activité」により就労を支援。",
+        "source": {
+          "organization": "フランス家族手当金庫 (CAF) / 公共財政総局 (DGFiP)",
+          "title": "Prime d'activité pour les travailleurs modestes et quotient familial",
+          "url": "https://www.caf.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "勤労所得税額控除（Earned Income Tax Credit - EITC）および夫婦合算申告（MFJ）",
+        "statusOrLevel": "低中所得世帯の就労所得に比例して還付される最大7,000ドル超の給付付き税額控除",
+        "keyFeature": "所得税法上、夫婦合算申告（Married Filing Jointly）を選択可能。EITCにより、働くほど税金が還付される仕組みを導入し、シングルマザーや低所得夫婦の就業を強力にインセンティブ付け。",
+        "source": {
+          "organization": "米国内国歳入庁 (IRS)",
+          "title": "Earned Income Tax Credit (EITC) eligibility and Married Filing Jointly guidelines",
+          "url": "https://www.irs.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "完全個人課税制度およびファミリー・タックス・ベネフィット（FTB Part A/B）",
+        "statusOrLevel": "税制上は完全個人課税・子育て支援給付のみ世帯所得で判定するハイブリッド方式",
+        "keyFeature": "税金は個人ごとに申告するため妻の就労で夫の税率が上がることはない。片働き世帯向けのFTB Part B給付には上限があり、子どもの成長に伴い母親の職場復帰を促す設計。",
+        "source": {
+          "organization": "オーストラリア国税庁 (ATO) / サービス・オーストラリア",
+          "title": "Individual income tax assessment and Family Tax Benefit Part A and B",
+          "url": "https://www.ato.gov.au"
+        }
+      }
+    ]
+  }
 }

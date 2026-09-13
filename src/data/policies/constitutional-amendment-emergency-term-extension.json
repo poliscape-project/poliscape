@@ -185,5 +185,89 @@
       "badgeColor": "bg-slate-100 text-slate-700",
       "icon": "Scale"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の憲法における緊急事態条項・議会任期延長および緊急立法権法制",
+    "comparisonSummary": "大規模災害や武力攻撃事態における民主的統治の維持に関し、ドイツ基本法、フランス憲法、カナダ、韓国などは、選挙実施不能時の「議会任期延長特例」や「緊急合同委員会（代行議会）」の設置要件を憲法に明文化しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ドイツ連邦共和国基本法（Grundgesetz）防衛事態条項（第115条a〜l）",
+        "statusOrLevel": "防衛事態下における連邦議会任期の自動延長特例および合同委員会（代行議会）規定",
+        "keyFeature": "武力攻撃事態（Verteidigungsfall）において連邦議会の選挙が実施できない場合、任期は防衛事態終結後6か月まで延長。議会招集不能時は連邦議会・連邦参議院の議員で構成する「合同委員会」が緊急立法権を行使。",
+        "source": {
+          "organization": "ドイツ連邦憲法裁判所 (BVerfG) / 連邦議会 (Bundestag)",
+          "title": "Grundgesetz für die Bundesrepublik Deutschland - Notstandsverfassung (Art. 115a-l)",
+          "url": "https://www.bundestag.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "フランス第5共和政憲法第16条（大統領非常事態権限）および緊急状態法（Loi sur l'état d'urgence）",
+        "statusOrLevel": "憲法裁判所（憲法院）の審査を伴う大統領緊急権限および議会解散禁止規定",
+        "keyFeature": "国家の存立が脅かされた際、大統領が行政・軍事全権を掌握可能だが、国会は法律上当然に召集され、この期間中の議会解散は憲法上厳格に禁止。30日経過後は議長等の申立で憲法院が権限継続の当否を審査。",
+        "source": {
+          "organization": "フランス憲法院 (Conseil constitutionnel)",
+          "title": "Constitution du 4 octobre 1958 - Article 16 et pouvoirs exceptionnels",
+          "url": "https://www.conseil-constitutionnel.fr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "憲法法1982（カナダ権利と自由の憲章 第4条）および緊急事態法（Emergencies Act）",
+        "statusOrLevel": "戦争・侵略・反乱時における下院議員任期の5年超延長条項（下院1/3以上の反対がない限り認可）",
+        "keyFeature": "憲章第4条第2項に基づき、有事には下院任期を延長可能。ただし連邦緊急事態法に基づく政府の緊急命令は、発令から7日以内に連邦議会両院での審議・承認を要し、議会による取消権を保障。",
+        "source": {
+          "organization": "カナダ司法省 (Department of Justice Canada)",
+          "title": "Canadian Charter of Rights and Freedoms - Section 4: Maximum duration of legislative bodies",
+          "url": "https://laws-lois.justice.gc.ca"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "大韓民国憲法第76条・第77条（緊急財政経済処分権・戒厳宣告権）",
+        "statusOrLevel": "大統領の戒厳宣告および国会過半数要求による戒厳即時解除義務付け",
+        "keyFeature": "戦時・事変に際し大統領が非常戒厳を布告できるが、国会に通告する義務があり、国会が在籍議員の過半数の賛成で戒厳解除を要求した場合、大統領は直ちに解除しなければならない絶対的議会統制を規定。",
+        "source": {
+          "organization": "韓国憲法裁判所 (Constitutional Court of Korea) / 国会",
+          "title": "Constitution of the Republic of Korea - Articles 76 and 77 (Martial Law and emergency powers)",
+          "url": "https://www.ccourt.go.kr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "民事緊急事態法2004（Civil Contingencies Act 2004）および議会任期法制",
+        "statusOrLevel": "緊急事態規則の発令と7日以内の議会承認義務付け・平時の成文議会解散法",
+        "keyFeature": "大規模テロや災害時に内閣が緊急規則を制定できるが、7日以内に議会の承認を得なければ失効。第二次大戦時には議会法（Prolongation of Parliament Act）を制定して総選挙を延期した歴史的慣例。",
+        "source": {
+          "organization": "英国閣僚府 (Cabinet Office)",
+          "title": "Civil Contingencies Act 2004: Emergency powers and parliamentary scrutiny",
+          "url": "https://www.gov.uk/government/organisations/cabinet-office"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦憲法第173条・第185条（連邦議会および連邦参事会の安全確保権限）",
+        "statusOrLevel": "連邦参事会（内閣）の緊急令制定権および最長6か月の議会失効ルール",
+        "keyFeature": "国家の秩序維持のため内閣が緊急令（Notverordnung）を出せるが、最長6か月以内に連邦議会が法律として承認しない限り効力を失う。民主的直接投票（レファレンダム）の例外規定を厳格統制。",
+        "source": {
+          "organization": "スイス連邦司法警察省 (EJPD) / 連邦議会",
+          "title": "Bundesverfassung der Schweizerischen Eidgenossenschaft - Notrecht und Bundesversammlung",
+          "url": "https://www.fedlex.admin.ch"
+        }
+      }
+    ]
+  }
 }

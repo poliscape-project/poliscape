@@ -185,5 +185,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国の自由刑単一化（刑務作業義務の見直し・再犯防止リハビリテーション中心法制）",
+    "comparisonSummary": "懲役（義務的強制労働）と禁錮（身柄拘束のみ）を廃止し一本化する改革は欧州諸国が先駆けて実施。ドイツ、フランス、スウェーデン、英国などは、刑罰の本質を「強制労働」から「教育・治療・再犯防止プログラムの個別処遇（リハビリテーション）」へと転換しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "刑執行法（Strafvollzugsgesetz - StVollzG）に基づく単一自由刑（Freiheitsstrafe）",
+        "statusOrLevel": "1977年に懲役・禁錮を廃止・受刑者の社会復帰（Resozialisierung）を最高原則化",
+        "keyFeature": "刑務作業を懲罰的苦役ではなく職業訓練・社会復帰訓練と位置付け。受刑者個々の学力・薬物依存・心理的問題に応じた個別処遇計画を策定し、開放処遇（Freigang）により刑務所外就労を推進。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ)",
+          "title": "Strafvollzugsgesetz (StVollzG) - Vollzug der Freiheitsstrafe und Resozialisierung",
+          "url": "https://www.bmj.de"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "刑務所および保護観察法（Fängelselagen）リハビリテーション中心モデル",
+        "statusOrLevel": "強制労働の概念はなく、個別プログラム（薬物離脱・認知行動療法）の受講が主軸",
+        "keyFeature": "刑務保護観察庁（Kriminalvården）が運営。受刑者の自由を奪うこと自体が罰であり、刑務所内は可能な限り一般社会に近い環境を維持。再犯率を世界最低水準に抑えることに成功。",
+        "source": {
+          "organization": "スウェーデン刑務保護観察庁 (Kriminalvården)",
+          "title": "Prison and Probation Service: Better out - Rehabilitation and sentence planning",
+          "url": "https://www.kriminalvarden.se"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "刑法典（Code pénal）拘禁刑（Réclusion/Emprisonnement）および刑執行裁判官（JAP）制度",
+        "statusOrLevel": "強制労働（Travaux forcés）は歴史的に全廃・刑務作業は受刑者の任意労働契約",
+        "keyFeature": "刑罰執行裁判官（JAP）が受刑者一人ひとりの改善度合いを直接審査し、社会奉仕活動、電子監視付き自宅拘禁、仮釈放への移行を決定。刑務作業は労働法に準じた有償活動。",
+        "source": {
+          "organization": "フランス司法省刑務管理局 (Direction de l'administration pénitentiaire - DAP)",
+          "title": "Régime pénitentiaire et travail en détention: droits et réinsertion des détenus",
+          "url": "https://www.justice.gouv.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "刑事司法法（Criminal Justice Act）単一拘禁刑および教育・就労訓練義務",
+        "statusOrLevel": "重労働刑（Hard Labour）は1948年に全廃・出所後の就職支援（Employment Advisory Boards）",
+        "keyFeature": "刑務所・保護観察局（HMPPS）が管轄。民間企業と連携したワークショップを刑務所内に設置し、受刑者に出所後即戦力となる技能検定を取得させ、再犯率低下を狙う。",
+        "source": {
+          "organization": "英国司法省 (Ministry of Justice) / HMPPS",
+          "title": "Prison education and employment strategy for reducing reoffending",
+          "url": "https://www.gov.uk/government/organisations/ministry-of-justice"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "司法拘禁原則法（Penitentiaire beginselenwet - Pbw）",
+        "statusOrLevel": "受刑者数の劇的減少と刑務所の閉鎖・電子足輪および外来心理治療の徹底活用",
+        "keyFeature": "拘禁刑の執行において受刑者の自己責任と社会復帰を重視。実刑期間の短期化と地域奉仕活動への置換を積極活用し、再犯リスクに応じた柔軟な段階的社会復帰を運用。",
+        "source": {
+          "organization": "オランダ司法・安全保障省 (Custodial Institutions Agency - DJI)",
+          "title": "Penitentiaire beginselenwet and humane execution of prison sentences",
+          "url": "https://www.dji.nl"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "超党派刑事司法改革法（First Step Act 2018）および連邦刑務所局（BOP）制度",
+        "statusOrLevel": "連邦受刑者に対する再犯防止プログラム受講連動型早期釈放クレジット制度",
+        "keyFeature": "連邦刑務所において受刑者がエビデンスに基づく教育・職業訓練プログラムを修了するごとに、釈放前施設や自宅拘禁への移行時期を前倒しできるポイント制度を導入。",
+        "source": {
+          "organization": "米国連邦刑務所局 (Federal Bureau of Prisons - BOP) / 司法省",
+          "title": "First Step Act: Earned Time Credits and evidence-based recidivism reduction",
+          "url": "https://www.bop.gov"
+        }
+      }
+    ]
+  }
 }
