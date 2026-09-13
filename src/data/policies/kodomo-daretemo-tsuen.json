@@ -303,6 +303,46 @@
           "title": "Help paying for childcare - 15 and 30 hours free childcare schemes",
           "url": "https://www.gov.uk/help-with-childcare-costs/free-childcare-and-education-for-2-to-4-year-olds"
         }
+      },
+      {
+        "code": "NO",
+        "country": "ノルウェー",
+        "system": "幼稚園法（Barnehageloven）に基づく1歳児からの普遍的利用権",
+        "description": "親の就労有無や家庭環境に関わらず、満1歳を迎えたすべての子どもに対し、自治体による公認保育施設（Barnehage）の利用枠提供を法律で義務化。",
+        "source": {
+          "title": "ノルウェー教育訓練庁 (Udir) - Rett til barnehageplass",
+          "url": "https://www.udir.no"
+        }
+      },
+      {
+        "code": "FI",
+        "country": "フィンランド",
+        "system": "早期幼児教育保育（ECEC）の主観的権利（Subjective Right）",
+        "description": "親が働いていなくてもすべての子どもが週20時間（希望により全日）の幼児教育を受ける法的所有権を確立。社会性の発達と教育格差の是正を保障。",
+        "source": {
+          "title": "フィンランド国家教育庁 (Opetushallitus) - Early childhood education and care",
+          "url": "https://www.oph.fi/en"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "子どもケア補助金（Child Care Subsidy）の低所得・非就労支援枠",
+        "description": "保護者の就労時間要件（Activity Test）を原則としつつ、特別な支援を要する家庭や低所得層に対し、週最大24〜36時間の補助付き保育利用枠を保障。",
+        "source": {
+          "title": "オーストラリア教育省 (Department of Education) - Child Care Subsidy",
+          "url": "https://www.education.gov.au"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "時間制保育サービス（時間単位一時預かり制度）",
+        "description": "家庭で乳幼児を育てる保護者を対象に、全国の指定オリニチブ（保育園）や育児総合支援センターで月最大60時間まで時間単位で利用できる一時預かりを公費支援。",
+        "source": {
+          "title": "韓国保健福祉部 (MOHW) - 時間制保育事業案内",
+          "url": "https://www.mohw.go.kr"
+        }
       }
     ]
   }

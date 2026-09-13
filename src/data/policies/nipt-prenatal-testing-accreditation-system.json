@@ -241,6 +241,46 @@
           "title": "Nicht-invasive Pränataldiagnostik (NIPD) zur Bestimmung des Risikos von Trisomien",
           "url": "https://www.g-ba.de/themen/methodenbewertung"
         }
+      },
+      {
+        "code": "BE",
+        "country": "ベルギー",
+        "system": "全妊婦を対象とするNIPT公的医療保険全額適用制度",
+        "description": "2017年に世界初で全妊婦を対象にNIPTの保険償還を決定。大学病院等8つの遺伝センターが受託し、患者の自己負担をほぼゼロ（約9ユーロ）に設定。",
+        "source": {
+          "title": "ベルギー国立健康障害保険機構 (INAMI/RIZIV) - Dépistage prénatal non invasif (NIPT)",
+          "url": "https://www.inami.fgov.be"
+        }
+      },
+      {
+        "code": "CH",
+        "country": "スイス",
+        "system": "基本医療保険（LaMal）による高リスク妊婦へのNIPT給付",
+        "description": "第1三半期スクリーニング検査でダウン症等のリスクが1000分の1以上と判定された場合、医師の処方箋に基づき基礎保険からNIPT費用を全額支給。",
+        "source": {
+          "title": "スイス連邦保健庁 (BAG) - Nicht-invasiver Pränataltest (NIPT)",
+          "url": "https://www.bag.admin.ch"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "公立病院遺伝診療部門およびメディケア助成議論",
+        "description": "民間クリニックでの自己負担が一般的である一方、遺伝的高リスクと診断された妊婦に対しては州立公立病院の遺伝外来で無料提供する体制を整備。",
+        "source": {
+          "title": "オーストラリア連邦保健省 (Department of Health and Aged Care) - Prenatal testing",
+          "url": "https://www.health.gov.au"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "生命倫理法に基づく遺伝子検査規制と産婦人科自費診療",
+        "description": "胎児の性別選別目的での検査を法律で固く禁じる一方、染色体異常の非侵襲的出生前検査として産婦人科専門医による適切なインフォームドコンセントを指導。",
+        "source": {
+          "title": "韓国保健福祉部 (MOHW) - 生命倫理および安全に関する法律",
+          "url": "https://www.mohw.go.kr"
+        }
       }
     ]
   }

@@ -303,6 +303,46 @@
           "title": "Land Records and Title Insurance Fundamentals",
           "url": "https://www.alta.org"
         }
+      },
+      {
+        "code": "AT",
+        "country": "オーストリア",
+        "system": "裁判所主導の公的検認手続（Verlassenschaftsverfahren）と自動登記",
+        "description": "人が死亡すると裁判所と公証人が職権で全遺産手続を開始。相続人確定と財産目録作成を経て、裁判所決定により不動産登記簿へ自動的に名義書換。",
+        "source": {
+          "title": "オーストリア連邦政府ポータル (oesterreich.gv.at) - Verlassenschaftsverfahren",
+          "url": "https://www.oesterreich.gv.at"
+        }
+      },
+      {
+        "code": "CH",
+        "country": "スイス",
+        "system": "民法典に基づく相続証明書（Erbschein）と土地登記義務",
+        "description": "相続発生時に管轄当局が法定相続人証明書を発行。不動産の権利移転は土地登記簿（Grundbuch）への公的登録によって初めて法的効力を取得。",
+        "source": {
+          "title": "スイス連邦公式ポータル (ch.ch) - Erbgang und Grundbucheintrag",
+          "url": "https://www.ch.ch"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "不動産登記特別措置法に基づく登記義務および過怠金制度",
+        "description": "不動産の所有権移転契約や相続に関し、一定期間内に登記を申請しない者に対して登録税相当額の過怠金を科し、登記の迅速化を担保。",
+        "source": {
+          "title": "韓国大法院 (Supreme Court of Korea) - 不動産登記手続案内",
+          "url": "https://www.scourt.go.kr"
+        }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "トレンズシステム（Torrens Title）に基づく登記公信力と遺産名義変更",
+        "description": "公的登記簿の記載に完全な公信力を付与。遺言検認判決（Probate）または遺産管理人選任を経て、州土地登記所に名義書換手続を速やかに申請。",
+        "source": {
+          "title": "オーストラリアNSW州政府ポータル - Deceased estates and land registry",
+          "url": "https://www.nsw.gov.au"
+        }
       }
     ]
   }

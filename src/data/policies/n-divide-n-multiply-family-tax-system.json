@@ -241,6 +241,46 @@
           "title": "Marriage Allowance - Transfer Personal Allowance",
           "url": "https://www.gov.uk/marriage-allowance"
         }
+      },
+      {
+        "code": "PT",
+        "country": "ポルトガル",
+        "system": "世帯二分二乗方式（Quotiente Familiar）と子ども控除",
+        "description": "夫婦の所得を合算して2で除した税率を適用する二分二乗方式に加え、扶養児童の人数に応じた固定税額控除を付加し世帯課税の累進負担を緩和。",
+        "source": {
+          "title": "ポルトガル税務関税庁 (Autoridade Tributária e Aduaneira) - IRS Familiar",
+          "url": "https://www.portaldasfinancas.gov.pt"
+        }
+      },
+      {
+        "code": "LU",
+        "country": "ルクセンブルク",
+        "system": "税率区分クラス制度（Classe 1 / 1a / 2）による世帯優遇課税",
+        "description": "単身者（クラス1）、ひとり親・一定年齢以上（クラス1a）、既婚世帯（クラス2）に区分し、既婚世帯には完全な二分二乗課税を適用して所得格差を平準化。",
+        "source": {
+          "title": "ルクセンブルク直接税務局 (ACD) - Classes d'impôt et imposition des ménages",
+          "url": "https://impotsdirects.public.lu"
+        }
+      },
+      {
+        "code": "BE",
+        "country": "ベルギー",
+        "system": "婚姻係数制度（Quotient conjugal）による所得移転控除",
+        "description": "配偶者の一方に収入がないか極めて低い場合、主たる稼ぎ手の純所得の最大30%（上限額あり）を配偶者の所得とみなして低税率を適用する世帯合算調整。",
+        "source": {
+          "title": "ベルギー連邦財政庁 (FPS Finances) - Quotient conjugal et fiscalité des familles",
+          "url": "https://finances.belgium.be"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "世帯純所得連動型カナダ子ども給付金（CCB）",
+        "description": "課税そのものは個人単位を基本としつつ、給付金（CCB）の支給額を「世帯合算純所得（AFNI）」と子どもの人数に反比例して決定する累進的再配分モデル。",
+        "source": {
+          "title": "カナダ歳入庁 (CRA) - Canada Child Benefit (CCB)",
+          "url": "https://www.canada.ca/en/revenue-agency.html"
+        }
       }
     ]
   }

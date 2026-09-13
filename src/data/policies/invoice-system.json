@@ -297,6 +297,46 @@
           "title": "Umsatzsteuergesetz (UStG § 19 Besteuerung der Kleinunternehmer)",
           "url": "https://www.gesetze-im-internet.de/ustg_1980/__19.html"
         }
+      },
+      {
+        "code": "IT",
+        "country": "イタリア",
+        "system": "電子請求書送受信交換システム（Sistema di Interscambio - SDI）",
+        "description": "全事業者（B2B・B2C）に対し税務署の公的サーバー（SDI）経由でのXML電子インボイス発行を義務付け、リアルタイムで売上税額を完全捕捉。",
+        "source": {
+          "title": "イタリア税務署 (Agenzia delle Entrate) - Fatturazione elettronica e SDI",
+          "url": "https://www.agenziaentrate.gov.it"
+        }
+      },
+      {
+        "code": "ES",
+        "country": "スペイン",
+        "system": "即時売上情報提供制度（SII）およびVeri*factu不正防止インボイス",
+        "description": "大企業への売上データ即時送信義務（SII）に加え、改ざん不能なQRコード付き請求書発行システム（Veri*factu）を中小事業者へ全面拡大。",
+        "source": {
+          "title": "スペイン国家税務庁 (AEAT) - Suministro Inmediato de Información (SII)",
+          "url": "https://sede.agenciatributaria.gob.es"
+        }
+      },
+      {
+        "code": "SG",
+        "country": "シンガポール",
+        "system": "物品サービス税（GST）登録義務およびInvoiceNowネットワーク",
+        "description": "年間売上100万Sドル超の事業者にGSTインボイス発行を義務付けるとともに、国際標準Peppolに基づく電子請求網InvoiceNowの導入を国家主導で推進。",
+        "source": {
+          "title": "シンガポール内国歳入庁 (IRAS) - Goods and Services Tax (GST) and Invoicing",
+          "url": "https://www.iras.gov.sg"
+        }
+      },
+      {
+        "code": "KR",
+        "country": "韓国",
+        "system": "電子税金計算書（Electronic Tax Invoice）義務化制度",
+        "description": "すべての法人および一定売上以上の個人事業者に対し、付加価値税の電子計算書発行と国税庁（ホームタックス）への翌日送信を法律で義務化。",
+        "source": {
+          "title": "韓国国税庁 (NTS) - 電子税金計算書制度案内",
+          "url": "https://www.nts.go.kr"
+        }
       }
     ]
   }

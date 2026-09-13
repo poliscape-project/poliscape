@@ -261,6 +261,46 @@
           "title": "Renewable Energy on the Outer Continental Shelf | BOEM",
           "url": "https://www.boem.gov/renewable-energy"
         }
+      },
+      {
+        "code": "DE",
+        "country": "ドイツ",
+        "system": "洋上風力エネルギー法（WindSeeG）と中央集権的EEZ公募入札制",
+        "description": "連邦海運水路庁（BSH）がEEZ内の海域サイトを事前調査（風況・海底地盤・環境影響）した上で入札を実施。2030年30GWの洋上風力目標を国家主導で推進。",
+        "source": {
+          "title": "ドイツ連邦海運水路庁 (BSH) - Flächenentwicklungsplan Offshore-Windenergie",
+          "url": "https://www.bsh.de"
+        }
+      },
+      {
+        "code": "NL",
+        "country": "オランダ",
+        "system": "北海洋上風力ロードマップと公的送電事業者TenneT連携モデル",
+        "description": "政府が指定したEEZ海域に対し、送電網（洋上変電所・海底ケーブル）を国営送電会社TenneTが公的に一括整備・接続保証することで事業リスクを低減。",
+        "source": {
+          "title": "オランダ企業誘致庁 (RVO) - Offshore Wind Energy in the Netherlands",
+          "url": "https://www.rvo.nl"
+        }
+      },
+      {
+        "code": "BE",
+        "country": "ベルギー",
+        "system": "北海海洋空間計画およびプリンセス・エリザベス・アイランドEEZ開発",
+        "description": "領海および広大なEEZにおいて世界初のエネルギープリンセス島（人工島型送電ハブ）を構築し、ハイブリッド国際連系線と洋上風力の大規模連系を実現。",
+        "source": {
+          "title": "ベルギー連邦経済省 (FPS Economy) - Offshore wind energy",
+          "url": "https://economie.fgov.be"
+        }
+      },
+      {
+        "code": "TW",
+        "country": "台湾",
+        "system": "再生可能エネルギー発展条例に基づく台湾海峡ゾーン開発公募",
+        "description": "領海からEEZ水域にかけたゾーン開発（ブロック開発）入札を実施。固定価格買取からコーポレートPPA（CPPA）への移行とサプライチェーン国産化要件を運用。",
+        "source": {
+          "title": "台湾経済部 (Ministry of Economic Affairs) - 洋上風力発展政策",
+          "url": "https://www.moea.gov.tw"
+        }
       }
     ]
   }

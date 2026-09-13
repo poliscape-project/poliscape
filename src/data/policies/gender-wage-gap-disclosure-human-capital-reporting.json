@@ -241,6 +241,46 @@
           "title": "Pay transparency: EU rules on equal pay for equal work",
           "url": "https://commission.europa.eu/strategy-and-policy/priorities-2019-2024"
         }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "職場ジェンダー平等庁（WGEA）による企業別賃金格差の完全実名公表",
+        "description": "従業員100人以上の民間企業に対し、基本給および総報酬の男女格差データ（中央値・平均値）を義務提出させ、政府ポータル上で企業実名とともに一般公開。",
+        "source": {
+          "title": "オーストラリア職場ジェンダー平等庁 (WGEA) - Employer gender pay gaps publishing",
+          "url": "https://www.wgea.gov.au"
+        }
+      },
+      {
+        "code": "DE",
+        "country": "ドイツ",
+        "system": "賃金透明化法（EntgTranspG）に基づく個別情報請求権と報告義務",
+        "description": "従業員200人以上の企業において、労働者が異性の同種業務グループの報酬中央値の開示を請求可能。500人以上の企業には定期的な是正報告書の作成を義務化。",
+        "source": {
+          "title": "ドイツ連邦家族・高齢者・女性・青少年省 (BMFSFJ) - Entgelttransparenzgesetz",
+          "url": "https://www.bmfsfj.de"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "同一価値労働同一賃金法（Pay Equity Act）と格差是正計画",
+        "description": "連邦規制下の全事業者に対し、同一価値の職務間で男女間の不当な賃金格差がないかを評価・是正する「ペイ・エクイティ委員会」の設置と計画策定を法定義務化。",
+        "source": {
+          "title": "カナダ政府 (Canada.ca) - Pay Equity Act implementation",
+          "url": "https://www.canada.ca/en/canadian-heritage.html"
+        }
+      },
+      {
+        "code": "ES",
+        "country": "スペイン",
+        "system": "男女賃金台帳（Registro Retributivo）義務化と男女平等行動計画",
+        "description": "全企業に全役職・雇用の男女別平均・中央値賃金台帳の保管を義務付け。格差が25%以上ある場合、業務上の客観的理由による正当化証明を法律で要求。",
+        "source": {
+          "title": "スペイン平等省 (Ministerio de Igualdad) - Igualdad retributiva",
+          "url": "https://www.igualdad.gob.es"
+        }
       }
     ]
   }

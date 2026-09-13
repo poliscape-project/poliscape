@@ -265,6 +265,46 @@
           "title": "最低賃金決定現況 (公式公表資料)",
           "url": "http://www.minimumwage.go.kr"
         }
+      },
+      {
+        "code": "GB",
+        "country": "英国",
+        "system": "全国生活賃金（National Living Wage）と中央値66%目標",
+        "description": "独立専門機関「低賃金委員会（LPC）」の勧告に基づき、フルタイム労働者の中央値賃金の3分の2（66%）を達成する意欲的な法定賃金引上げを実現。",
+        "source": {
+          "title": "英国低賃金委員会 (Low Pay Commission) - National Living Wage Reports",
+          "url": "https://www.gov.uk/government/organisations/low-pay-commission"
+        }
+      },
+      {
+        "code": "FR",
+        "country": "フランス",
+        "system": "法定最低成長賃金（SMIC）の物価自動スライド連動制",
+        "description": "低所得世帯の消費者物価指数が2%以上上昇した際、年度途中でも即座に自動引き上げが行われる強力な購買力防衛メカニズムを法制化。",
+        "source": {
+          "title": "フランス政府公式ポータル (Service-Public.fr) - Salaire minimum de croissance (Smic)",
+          "url": "https://www.service-public.fr"
+        }
+      },
+      {
+        "code": "NZ",
+        "country": "ニュージーランド",
+        "system": "成人法定最低賃金および公正賃金協定（FPA）法制",
+        "description": "毎年4月に経済指標と生計費を勘案して政府が改定。業種別の労働条件底上げを目指す公正賃金協定（FPA）など労使交渉を通じた底上げを追求。",
+        "source": {
+          "title": "ニュージーランド雇用省 (Employment New Zealand) - Minimum wage rates",
+          "url": "https://www.employment.govt.nz"
+        }
+      },
+      {
+        "code": "ES",
+        "country": "スペイン",
+        "system": "職種間最低賃金（SMI）の段階的大幅引き上げ政策",
+        "description": "政労合意に基づき、直近5年間でSMIを50%以上引き上げ平均賃金の60%水準へ到達。若年層や非正規雇用の処遇改善と雇用維持を両立。",
+        "source": {
+          "title": "スペイン首相府 (La Moncloa) - Subida del Salario Mínimo Interprofesional (SMI)",
+          "url": "https://www.lamoncloa.gob.es"
+        }
       }
     ]
   }

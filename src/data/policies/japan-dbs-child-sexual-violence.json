@@ -183,6 +183,46 @@
           "title": "Erweitertes Führungszeugnis für kinder- und jugendnahe Tätigkeiten",
           "url": "https://www.bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis"
         }
+      },
+      {
+        "code": "AU",
+        "country": "オーストラリア",
+        "system": "Working with Children Check（WWCC・児童関連業務従事適性確認）",
+        "description": "子どもと接するすべての有給・ボランティア従事者に対し、性犯罪・暴力犯罪歴および職場調査結果を網羅したWWCC認証の事前取得を法律で義務化。",
+        "source": {
+          "title": "オーストラリア連邦サービス庁 (Services Australia) - Working with Children Checks",
+          "url": "https://www.servicesaustralia.gov.au"
+        }
+      },
+      {
+        "code": "NZ",
+        "country": "ニュージーランド",
+        "system": "2014年子ども法（Children's Act 2014）に基づく安全審査義務",
+        "description": "公費援助を受ける全教育・保育・医療機関に対し、子どもに直接接する従事者（Core Children's Worker）の警察前歴照会と3年ごとの更新審査を義務付け。",
+        "source": {
+          "title": "ニュージーランド子ども省 (Oranga Tamariki) - Safety checking under Children's Act",
+          "url": "https://www.orangatamariki.govt.nz"
+        }
+      },
+      {
+        "code": "CA",
+        "country": "カナダ",
+        "system": "脆弱層照会制度（Vulnerable Sector Check - VSC）",
+        "description": "王立カナダ騎馬警察（RCMP）と連携し、子どもや高齢者等の保護対象者をケアする職に就く者に対し、恩赦（Pardon）された性犯罪歴も含めて照会・開示。",
+        "source": {
+          "title": "王立カナダ騎馬警察 (RCMP) - Vulnerable Sector Checks",
+          "url": "https://www.rcmp-grc.gc.ca"
+        }
+      },
+      {
+        "code": "SE",
+        "country": "スウェーデン",
+        "system": "学校・保育所等従事者に対する警察犯罪登録証明書提出義務",
+        "description": "幼稚園、学校、学童保育等で雇用される全従事者に対し、性犯罪・児童ポルノ・重大暴力犯罪の記録に関する警察発行の無犯罪証明書の提出を義務化。",
+        "source": {
+          "title": "スウェーデン国家警察 (Polisen) - Registerutdrag för arbete med barn",
+          "url": "https://polisen.se"
+        }
       }
     ]
   }
