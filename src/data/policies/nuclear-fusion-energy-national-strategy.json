@@ -185,5 +185,102 @@
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Clock"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における核融合エネルギー国家戦略・原型炉開発・フュージョンスタートアップ官民投資比較",
+    "comparisonSummary": "「究極のクリーンエネルギー」実用化に向け、米国や英国はITER（国際熱核融合実験炉）と並行して民間主導の商用パイロットプラント（STEP等）への直接出資を加速し、日本も2023年に国家フュージョン戦略を策定しました。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ホワイトハウス核融合商業化マイルストーンプログラム（Milestone-Based Fusion Development）",
+        "statusOrLevel": "2030年代の核融合パイロットプラント（FPP）稼働目標・民間8社に数億ドルの公金マッチング",
+        "keyFeature": "ローレンス・リバモア国立研究所（NIF）での正味エネルギー利得（Q>1）達成を受け、コモンウェルス・フュージョン・システムズ（CFS）等へNASA方式のマイルストーン投資を執行。",
+        "source": {
+          "organization": "米国エネルギー省 (DOE)",
+          "title": "Milestone-Based Fusion Development Program and Decadal Strategy for Fusion",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "エネルギー生産用球状トカマク（STEP: Spherical Tokamak for Energy Production）",
+        "statusOrLevel": "2040年までに核融合原型炉による商業グリッド売電開始・ノッティンガムシャー建設地決定",
+        "keyFeature": "英国原子力公社（UKAEA）主導で25億ポンド超を投じる国家直轄プロジェクト。独立事業体「UK Industrial Fusion Solutions（UKIFS）」を設立し官民合弁で建設を推進。",
+        "source": {
+          "organization": "英国原子力公社 (UKAEA) / DESNZ",
+          "title": "Spherical Tokamak for Energy Production (STEP) Programme",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦教育研究省（BMBF）核融合研究ポジションペーパー「Fusion 2040」",
+        "statusOrLevel": "マックス・プランク研究所（ヴェンデルシュタイン7-Xステラレータ）およびスタートアップ支援",
+        "keyFeature": "ステラレータ方式で世界をリード。Proxima FusionやMarvel Fusion等の民間企業に対し、連邦政府が10億ユーロ規模の研究開発投資パッケージを投入。",
+        "source": {
+          "organization": "ドイツ連邦教育研究省 (BMBF)",
+          "title": "Positionspapier Fusionsforschung - Auf dem Weg zum Fusionskraftwerk",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス / EU",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "ITER（国際熱核融合実験炉・カダラッシュ建設）およびEurofusion戦略",
+        "statusOrLevel": "世界35カ国連携による世界最大のトカマク型実験炉建設（総事業費200億ユーロ超）",
+        "keyFeature": "超伝導電磁石・プラズマ閉じ込め実証の中心拠点。ITERの運転データを基に次世代欧州実証炉「DEMO」の設計をEurofusionコンソーシアムが進行中。",
+        "source": {
+          "organization": "国際熱核融合実験炉機構 (ITER Organization) / 欧州委員会",
+          "title": "ITER Project Progress and European Research Roadmap to Fusion Energy",
+          "url": "https://www.iter.org"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "超伝導トカマク「EAST（人工太陽）」および中国核融合工学試験炉（CFETR）",
+        "statusOrLevel": "合肥市等で1億度プラズマの長時間維持記録更新・CFETR（1GW級原型炉）の建設計画",
+        "keyFeature": "国家主導の巨大予算と人材投入により急速に欧米にキャッチアップ。ITERの重要コンポーネント製造を担いつつ、自前の大型工学試験炉を2030年代に立ち上げ予定。",
+        "source": {
+          "organization": "中華人民共和国科学技術部 / 中国科学院合肥物質科学研究院",
+          "title": "EAST Superconducting Tokamak Operations and CFETR Strategy",
+          "url": "https://www.gov.cn"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "ジェネラル・フュージョン（General Fusion）官民パートナーシップ",
+        "statusOrLevel": "連邦戦略的イノベーション基金（SIF）による磁化標的核融合（MTF）実証支援",
+        "keyFeature": "液体金属ライナー圧縮方式を採用する先駆的スタートアップに対し、連邦政府と英国政府が共同投資。チョークリバー研究所での実証試験を進める。",
+        "source": {
+          "organization": "カナダ革新・科学・経済開発省 (ISED)",
+          "title": "Strategic Innovation Fund Investment in Fusion Energy Technology",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "フュージョンエネルギー・イノベーション戦略（2023年内閣総理大臣決定）",
+        "statusOrLevel": "JT-60SA（世界最大の超伝導トカマク）稼働・原型炉（DEMO）早期実現タスクフォース",
+        "keyFeature": "QST那珂研究所のJT-60SAで初プラズマ着火に成功（ギネス世界記録）。民間フュージョン企業（Kyoto Fusioneering等）の育成とサプライチェーン形成支援を国家戦略に位置付け。",
+        "source": {
+          "organization": "内閣府 / 文部科学省 / 経済産業省",
+          "title": "フュージョンエネルギー・イノベーション戦略の策定について",
+          "url": "https://www.cas.go.jp"
+        }
+      }
+    ]
+  }
 }

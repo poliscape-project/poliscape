@@ -241,5 +241,102 @@
         "commentStandard": "「投資余力のない低所得世帯には恩恵がなく、資産所得格差が一段と拡大するのでは」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国における個人投資非課税制度（ISA / Roth IRA / TFSA）の投資枠・非課税期間比較",
+    "comparisonSummary": "「貯蓄から投資へ」を促すため、日本は2024年に英国のISAをモデルとした新NISAを始動（生涯1,800万円非課税・恒久化）させ、米国のRoth IRAやカナダのTFSAと並ぶ世界最高水準の非課税投資環境を構築しました。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "個人貯蓄勘定（ISA: Individual Savings Account）",
+        "statusOrLevel": "年間非課税投資枠2万ポンド（約400万円）・非課税保有期間は恒久・生涯投資上限なし",
+        "keyFeature": "新NISAの直接のモデル。株式型（Stocks and Shares ISA）や現金型（Cash ISA）を合算して年2万ポンドまで非課税運用可能。利益・配当・売却益は一生涯完全非課税。",
+        "source": {
+          "organization": "英国歳入関税庁 (HMRC) / 財務省",
+          "title": "Individual Savings Accounts (ISAs) rules and subscription limits",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ロスコール（Roth IRA: Individual Retirement Account）",
+        "statusOrLevel": "年間最大7,000ドル（50歳以上は8,000ドル）拠出・運用益・引き出し完全非課税",
+        "keyFeature": "税引き後資金で拠出する年金勘定。59.5歳以降の引き出しはキャピタルゲイン・配当すべて所得税ゼロ。拠出元本部分はペナルティなしでいつでも引き出し可能。",
+        "source": {
+          "organization": "米国財務省内国歳入庁 (IRS)",
+          "title": "Roth IRAs contribution limits and eligibility rules",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "非課税貯蓄口座（TFSA: Tax-Free Savings Account）",
+        "statusOrLevel": "年間投資枠約7,000カナダドル（毎年インフレ調整）・生涯累積枠約9万5,000ドル",
+        "keyFeature": "未使用枠を翌年以降に無期限でキャリーオーバー可能。引き出した元本・利益の枠が翌年に復活して再利用できる極めて柔軟な非課税資産形成制度。",
+        "source": {
+          "organization": "カナダ歳入庁 (CRA)",
+          "title": "The Tax-Free Savings Account (TFSA) guide for individuals",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "投資貯蓄口座（ISK: Investeringssparkonto）",
+        "statusOrLevel": "取引ごとの売却益課税ゼロ・口座残高全体に対するみなし低率課税（標準利回り課税）",
+        "keyFeature": "確定申告の手間を省くため、個別の株取引損益を計算せず、口座残高に国債金利連動の一定率（約1%）を掛けた金額のみを課税ベースとする簡潔な制度。",
+        "source": {
+          "organization": "スウェーデン税務庁 (Skatteverket)",
+          "title": "Investeringssparkonto (ISK) - Regler och schablonbeskattning",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "ファーストホーム・スーパーセーバー制度（FHSS）および優遇税制",
+        "statusOrLevel": "スーパーアニュエーション勘定を活用した住宅購入用非課税・優遇投資（最大5万豪ドル）",
+        "keyFeature": "公的年金枠の優遇税率（15%）を利用してマイホーム購入頭金を運用積立。通常所得税率との差額分だけ効率的な資産形成が可能。",
+        "source": {
+          "organization": "オーストラリア税務局 (ATO)",
+          "title": "First home super saver scheme and investment tax concessions",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "個人総合資産管理口座（ISA）抜本拡充（韓国版ISA）",
+        "statusOrLevel": "年間拠出枠2,000万ウォン（年4,000万ウォンへ倍増法案）・非課税限度最大1,000万ウォン",
+        "keyFeature": "国内株式・投信・預金を一元管理。投資損失と配当利益を通算（損益通算）でき、非課税限度を超えた利益に対しても9.9%の分離課税優遇を付与。",
+        "source": {
+          "organization": "大韓民国企画財政部 / 金融委員会",
+          "title": "Individual Savings Account (ISA) tax reform and expansion",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "新NISA（少額投資非課税制度・2024年抜本拡充）",
+        "statusOrLevel": "年間投資枠最大360万円・生涯非課税限度額1,800万円・非課税保有期間の恒久化・売却枠復活",
+        "keyFeature": "「つみたて投資枠」（年120万）と「成長投資枠」（年240万）の併用が可能。資産売却時に簿価ベースで生涯投資枠が翌年復活する画期的な仕組みを実装。",
+        "source": {
+          "organization": "金融庁",
+          "title": "新しいNISA（少額投資非課税制度）の概要及び推進状況",
+          "url": "https://www.fsa.go.jp"
+        }
+      }
+    ]
   }
 }

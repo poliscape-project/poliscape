@@ -255,5 +255,102 @@
         "commentStandard": "「用水路の泥上げや農道整備など、地域の共同作業に参加してくれないと村の農業インフラそのものが維持できない」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国における新規就農者直接給付・若手就農支援（農業承継）政策比較",
+    "comparisonSummary": "農業者の急激な高齢化に直面する中、EUやフランスは共通農業政策（CAP）を通じて若手就農者（Young Farmers）への巨額の初期給付金や加算支払いを制度化し、日本も年間最大150万円の給付金で参入を後押ししています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "若手農業者就農助成金（DJA: Dotation Jeunes Agriculteurs）",
+        "statusOrLevel": "40歳未満の新規就農者に対する最大数万ユーロ（約300万〜600万円）の返済不要直接給付",
+        "keyFeature": "就農計画（PPP）の審査通過者に一括支給。さらに土地取得公社（SAFER）が農地売買に先買権を行使し、新規就農者への農地優先配分を国家レベルで執行。",
+        "source": {
+          "organization": "フランス農業・食料主権省",
+          "title": "Dotation jeunes agriculteurs (DJA) et installation agricole",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ / EU",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "共通農業政策（CAP）若手農業者追加直接支払（Junglandwirte-Einkommensunterstützung）",
+        "statusOrLevel": "40歳以下の就農から5年間、第1柱直接支払にヘクタールあたり最大134ユーロ/年の公費上乗せ",
+        "keyFeature": "EUの第1柱・第2柱予算をフル動員。連邦および州の農村開発プログラム（GAK）と連携し、トラクター等の設備投資に対する40〜50%の直接補助を実施。",
+        "source": {
+          "organization": "ドイツ連邦食糧農業省 (BMEL)",
+          "title": "GAP-Strategieplan: Einkommensunterstützung für Junglandwirte",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "農務省（USDA）新規就農者・牧場主プログラム（Beginning Farmers and Ranchers）",
+        "statusOrLevel": "経験10年未満の就農者に対する低利マイクロローン融資（最大5万ドル）および農地購入優先枠",
+        "keyFeature": "農業サービス局（FSA）が民間銀行から融資を受けられない新規参入者に対し、低利・無担保での運転資金貸付や農地取得保証を実施。女性・マイノリティ枠も整備。",
+        "source": {
+          "organization": "米国農務省 (USDA) / 農業サービス局 (FSA)",
+          "title": "Beginning Farmers and Ranchers Loans and Technical Assistance",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "農業開発公社（ISMEA）若手就農「Generazione Terra」資金",
+        "statusOrLevel": "41歳未満の若手就農者に対する農地購入資金の100%全額低利融資（最長30年）",
+        "keyFeature": "土地取得公金公社ISMEAが農地バンク（Banca delle Terre）を運営し、耕作放棄地や国有地を若手農業者に格安で長期貸与・譲渡。初期資本の参入障壁を解消。",
+        "source": {
+          "organization": "イタリア農業・食糧主権・森林省 / ISMEA",
+          "title": "Misure a sostegno dei giovani agricoltori e ricambio generazionale",
+          "url": "https://www.governo.it"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "農業事業承継ファンド（Bedrijfsovernamefonds）および持続可能イノベーション支援",
+        "statusOrLevel": "スマート農業・温室園芸の後継者に対する最大数十万ユーロ規模の劣後ローン供与",
+        "keyFeature": "世界屈指の高収益アグリビジネスモデルを維持するため、親族外承継を含む若手後継者に対し、国家ファンドが低利の資本性劣後資金を注入。",
+        "source": {
+          "organization": "オランダ農業・自然・食品品質省",
+          "title": "National Strategic Plan - Support for young farmers and farm succession",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "地方金融公社（RIC）新規農業者ローン（First Farm Loan）",
+        "statusOrLevel": "初回農場購入・事業承継のための最大200万豪ドルの超低利公的融資（最長10年）",
+        "keyFeature": "連邦政府出資のRICが民間金融機関より有利な金利で就農・承継を支援。最初の数年間は利息のみ支払いとする据置期間を設け、経営立ち上げを支援。",
+        "source": {
+          "organization": "豪地域投資公社 (RIC) / 農業水産森林省",
+          "title": "First Farm Loan - Concessional loans for first-time primary producers",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "新規就農者育成総合対策（就農準備資金・経営開始資金）",
+        "statusOrLevel": "就農準備研修中月12.5万円（年150万円・最長2年）、就農直後年間最大150万円（最長3年）支給",
+        "keyFeature": "親元就農だけでなく非農家出身者の参入を促すため、研修期間中および立ち上げ初期に生活費給付金を交付。さらに農地中間管理機構（農地バンク）を通じた集約化を推進。",
+        "source": {
+          "organization": "農林水産省",
+          "title": "新規就農者育成総合対策（就農準備資金・経営開始資金・経営発展支援事業）",
+          "url": "https://www.maff.go.jp"
+        }
+      }
+    ]
   }
 }

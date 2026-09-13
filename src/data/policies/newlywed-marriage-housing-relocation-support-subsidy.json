@@ -211,5 +211,102 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "MapPin"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における新婚世帯・若年カップル向け住宅取得・家賃直接給付比較",
+    "comparisonSummary": "少子化対策と若年層の経済的自立を両立させるため、韓国やシンガポールは新婚優先の公営住宅割当・低利住宅ローンを提供し、欧州は住宅手当（APL等）の若年加算を通じて新生活を支援しています。",
+    "countries": [
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "新婚夫婦特別供給（アパート特別分譲枠）および「ボグムジャリローン」",
+        "statusOrLevel": "公共・民間分譲アパートの最大20〜30%を新婚世帯（結婚7年以内）へ優先特別割当",
+        "keyFeature": "超低出生率を克服するため、新婚夫婦向けに年1%台の低利固定住宅購入資金貸付（ディディムドルローン）や、低廉な公営賃貸「幸福住宅」を大量供給。",
+        "source": {
+          "organization": "大韓民国国土交通部 / 韓国土地住宅公社 (LH)",
+          "title": "Special Housing Supply for Newlyweds and Low-Interest Housing Loans",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "公営住宅（HDB）新婚ファーストタイマー特別補助金（CPF Housing Grants）",
+        "statusOrLevel": "新規HDB購入の新婚夫婦に最大8万シンガポールドル（約900万円）の直接住宅補助金",
+        "keyFeature": "Build-To-Order（BTO）新築フラットの優先予約枠を新婚世帯に付与。両親の近くに住む場合はさらに「近居補助金（Proximity Housing Grant）」を加算。",
+        "source": {
+          "organization": "シンガポール住宅開発庁 (HDB)",
+          "title": "CPF Housing Grants for First-Timer Couples and Families",
+          "url": "https://www.gov.sg"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "個人住宅手当（APL）および無利子住宅ローン（PTZ: Prêt à taux zéro）",
+        "statusOrLevel": "所得連動型毎居家賃直接補助・初回新居購入者に対する国費全額利子補填ローン",
+        "keyFeature": "婚姻関係の有無を問わず同棲・PACSカップルにも平等にAPLを給付。家族手当金庫（CAF）から家主口座へ直接家賃補助が振り込まれ若年層の自立を支援。",
+        "source": {
+          "organization": "フランス全国家族手当金庫 (CNAF) / 住宅省",
+          "title": "Aide personnalisée au logement (APL) et Prêt à taux zéro (PTZ)",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦住宅手当（Wohngeld Plus）およびKfW若年ファミリー住宅購入プログラム",
+        "statusOrLevel": "低所得新婚・子育て世帯への月数百ユーロの家賃補助・国営復興金融公庫（KfW）低利融資",
+        "keyFeature": "住宅手当法の大改正により支給世帯を3倍に拡大。新婚世帯が省エネ住宅（EH40基準）を新築・購入する際にKfWが最大24万ユーロの超低利融資を提供。",
+        "source": {
+          "organization": "ドイツ連邦住宅・都市開発・建設省 (BMWSB) / KfW",
+          "title": "Wohngeld Plus und KfW-Förderung Wohneigentum für Familien",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ファースト・ホームズ制度（First Homes Scheme）およびLifetime ISA",
+        "statusOrLevel": "新築住宅を市場価格の30〜50%割引で地元ファーストタイマー新婚世帯に販売",
+        "keyFeature": "将来の転売時にも同じ割引率が次世代の新規購入者に引き継がれる恒久廉価住宅制度。Lifetime ISAでは住宅購入積立金に対し政府が25%の公金ボーナスを支給。",
+        "source": {
+          "organization": "英国住宅・コミュニティ・地方自治省 (DLUHC)",
+          "title": "First Homes Scheme guidance and Lifetime ISA government bonus",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "住宅手当（Bostadsbidrag）若年層特例給付",
+        "statusOrLevel": "29歳以下の単身・若年カップルに対する所得連動型家賃補助（子どもなしでも受給可能）",
+        "keyFeature": "社会保険庁（Försäkringskassan）が家賃と所得を査定し毎月給付。若者が親元から独立してカップルで新生活を始める際の経済的ハードルを劇的に低減。",
+        "source": {
+          "organization": "スウェーデン社会保険庁 (Försäkringskassan)",
+          "title": "Bostadsbidrag till unga under 29 år och barnfamiljer",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "結婚新生活支援事業（地域少子化対策重点推進交付金）",
+        "statusOrLevel": "新婚世帯（夫婦とも39歳以下・世帯年収500万円未満）に家賃・敷金・引越し代最大60万円補助",
+        "keyFeature": "こども家庭庁の交付金を活用し市区町村が実施。夫婦ともに29歳以下の場合は最大60万円、39歳以下の場合は最大30万円を給付し、結婚に伴う初期費用の負担を直接緩和。",
+        "source": {
+          "organization": "こども家庭庁",
+          "title": "結婚新生活支援事業（地域少子化対策重点推進交付金）の実施状況",
+          "url": "https://www.cfa.go.jp"
+        }
+      }
+    ]
+  }
 }

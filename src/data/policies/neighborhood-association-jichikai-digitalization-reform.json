@@ -211,5 +211,102 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における地域コミュニティ組織・住民協議会の公的支援・デジタル化（Civic Tech）比較",
+    "comparisonSummary": "地縁団体の役員高齢化や加入率低下に対し、欧米諸国は近隣協議会（Neighborhood Council）の公的法人化、デジタル参加プラットフォーム（Decidim・Nextdoor等）の公費導入により若年層の参加を促進しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "近隣協議会（Neighborhood Councils / HOA）および地域SNS連携",
+        "statusOrLevel": "ロサンゼルス市等における市憲章公認の近隣協議会制度・自治体予算配分と投票",
+        "keyFeature": "市が予算とスタッフを支援し、都市計画や警察活動に諮問答申。民間地域特化SNS「Nextdoor」を警察・消防・自治体が公式採用し、回覧板に頼らない防災・治安情報共有を推進。",
+        "source": {
+          "organization": "ロサンゼルス市近隣活性化局 (EmpowerLA)",
+          "title": "Los Angeles Neighborhood Council System and Civic Engagement",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "パリッシュ・カウンシル（Parish / Town Councils）およびコミュニティ権利法",
+        "statusOrLevel": "地方自治の最末端法定協議会・住民税（Precept）の一部徴収権を持つ公的法人",
+        "keyFeature": "地域主義法（Localism Act 2011）に基づき、集会所や公園の管理、都市計画への意見権を付与。行政デジタルツールによるオンライン会合開催や住民投票を法公認。",
+        "source": {
+          "organization": "英国地方自治協会 (NALC) / 住宅・コミュニティ・地方自治省",
+          "title": "Parish and town councils governance and statutory powers",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "街区協議会（Conseils de quartier）および参加型予算（Budget participatif）",
+        "statusOrLevel": "人口8万人以上のコミューンに対する街区協議会設置義務化（民主主義近接法）",
+        "keyFeature": "住民代表と市議が定期的に地域課題を討議。パリ市等では投資予算の5%を住民オンライン投票で決定する参加型予算プラットフォームを常設。",
+        "source": {
+          "organization": "フランス内務省・地方自治体総局 (DGCL)",
+          "title": "Démocratie de proximité et fonctionnement des conseils de quartier",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "地区評議会（Ortsbeirat / Bezirksvertretung）および市民活動ポータル",
+        "statusOrLevel": "州自治体法に基づく末端行政区住民評議会・ボランティア登録ポータル",
+        "keyFeature": "都市部では市民活動（Ehrenamt）に対する州の保険付保や謝礼金非課税枠を提供。デジタル回覧板アプリ等による防災・イベント情報の一括配信を自治体が助成。",
+        "source": {
+          "organization": "ドイツ連邦内務省 (BMI)",
+          "title": "Bürgerbeteiligung und Stärkung des Ehrenamts in den Kommunen",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "スペイン/バルセロナ",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "オープンソース住民参加基盤「Decidim（デシディム）」",
+        "statusOrLevel": "市内の地区集会・自治会意見集約を完全オープンソースの市民参加基盤で統合",
+        "keyFeature": "役員の集計負担を解消するため、政策提案、議論、投票を一元管理するDecidimを開発。世界数十都市の自治会・住民組織へ水平展開。",
+        "source": {
+          "organization": "バルセロナ市庁 / スペイン地方行政局",
+          "title": "Decidim Barcelona - Digital platform for citizen participation",
+          "url": "https://www.lamoncloa.gob.es"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "住民自治会（住民自治センター）およびスマートアパート管理アプリ",
+        "statusOrLevel": "行政洞ごとの住民自治会への権限拡大・アパート団地入居者代表会議のデジタル化",
+        "keyFeature": "マンション管理アプリ（アパートナー等）を通じた電子投票・回覧板の義務化を推進。行政安全部が主導し、紙の回覧板や集金を排除したスマート住民自治を展開。",
+        "source": {
+          "organization": "大韓民国行政安全部",
+          "title": "Resident Autonomy Committee Activation and Smart Management System",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "地方自治法に基づく認可地縁団体制度および地域コミュニティDX支援",
+        "statusOrLevel": "不動産登記可能な認可地縁団体の拡大・総務省による町内会デジタル化支援モデル事業",
+        "keyFeature": "役員のなり手不足や負担軽減のため、総務省がLINE公式アカウントやBAND等の地域アプリ導入実証を補助。任意団体から認可地縁団体への移行簡素化を推進。",
+        "source": {
+          "organization": "総務省",
+          "title": "地域コミュニティに関する研究会報告書及び地域DX推進指針",
+          "url": "https://www.cas.go.jp"
+        }
+      }
+    ]
+  }
 }

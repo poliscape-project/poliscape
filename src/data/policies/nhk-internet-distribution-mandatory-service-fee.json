@@ -185,5 +185,102 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Calendar"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における公共放送のインターネット配信「必須業務化」とデジタル受信料（拠出金）制度比較",
+    "comparisonSummary": "テレビ非保有世帯の急増とスマホ視聴の定着に対応し、ドイツは世帯住居単位の包括負担金、英国はiPlayer利用へのライセンス義務化を敷いており、日本の放送法改正によるネット必須業務化もこれらに倣っています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "BBCテレビジョン・ライセンス（TV Licence）のBBC iPlayer適用",
+        "statusOrLevel": "年額169.50ポンド（約3万3,000円）・オンデマンド（iPlayer）視聴者にもライセンス購入義務",
+        "keyFeature": "2016年の法改正で「生放送視聴」だけでなく「iPlayerの全配信コンテンツ視聴」にも受信許可証を法的に義務付け。テレビがなくてもスマホ・PCでiPlayerを見る者は支払い対象。",
+        "source": {
+          "organization": "英国デジタル・文化・メディア・スポーツ省 (DCMS) / TV Licensing",
+          "title": "TV Licence rules for online streaming and BBC iPlayer",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "放送分担金（Rundfunkbeitrag / 旧GEZ）世帯単位一律課徴制度",
+        "statusOrLevel": "テレビ・ラジオ・PC・スマホの保有に関わらず全世帯一律月額18.36ユーロ徴収",
+        "keyFeature": "受信機器の有無を問う不毛な確認調査を全廃し、全世帯・全事業所に一律課徴する「住居税型」モデル。公営ARD/ZDFのネットポータル（Mediathek）は全額この財源で運用。",
+        "source": {
+          "organization": "ドイツ連邦州放送委員会 / ARD ZDF Deutschlandradio Beitragsservice",
+          "title": "Der Rundfunkbeitrag - Gesetzliche Grundlagen und Beitragsstaatsvertrag",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "テレビ受信料（Redevance télé）の完全廃止と国家付加価値税（TVA）財源移管",
+        "statusOrLevel": "2022年に従来の年138ユーロの受信料を完全撤廃・一般消費税（VAT）の一部をフランス・テレビジョン等へ配分",
+        "keyFeature": "インフレ下での家計負担軽減と徴収コスト削減のため受信料を全廃。公的放送のデジタル配信サービス（france.tv）の運営費は国税一般財源から自動拠出。",
+        "source": {
+          "organization": "フランス文化省 / 経済・財務省",
+          "title": "Suppression de la contribution à l'audiovisuel public (redevance télé)",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "セラフェ放送分担金（Serafe Radio- und Fernsehabgabe）",
+        "statusOrLevel": "全世帯一律年間335スイスフラン（引き下げ議論進行中）・機器有無不問",
+        "keyFeature": "国民投票で受信料全廃案（No Billag）を否決した上で、税務データと連動した民間代行企業Serafeが全世帯から機械的に徴収。公共放送SRG SSRの多言語ネット配信を支える。",
+        "source": {
+          "organization": "スイス連邦通信庁 (OFCOM / BAKOM)",
+          "title": "Abgabe für Radio und Fernsehen (Serafe) Regelungen",
+          "url": "https://www.admin.ch"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "KBS受信料の電気料金分離徴収令（放送法施行令改正）",
+        "statusOrLevel": "月額2,500ウォン・電力公社（KEPCO）電気料金への一括合算請求を禁止・個別分離徴収へ",
+        "keyFeature": "国民の選択権を理由に分離徴収を大統領令で施行した結果、KBSの受信料収入が激減。ネット配信プラットフォームへの課徴義務化は導入されず経営危機が深刻化。",
+        "source": {
+          "organization": "大韓民国放送通信委員会 (KCC)",
+          "title": "Broadcasting Act Enforcement Decree - Television License Fee Separation",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "公共放送サービス（PBS / NPR）連邦公金交付金および寄付金モデル",
+        "statusOrLevel": "受信料制度は一切存在せず・公共放送公社（CPB）連邦助成金および民間視聴者寄付金で運営",
+        "keyFeature": "公共放送に受信料を義務付ける法体系を持たず、PBSのオンデマンドアプリ（Passport）は月5ドル以上の自主的寄付を行った会員にプレミアム配信を開放する任意モデル。",
+        "source": {
+          "organization": "米国公共放送公社 (CPB) / 連邦通信委員会 (FCC)",
+          "title": "Corporation for Public Broadcasting Funding and Public Television Operations",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "改正放送法（2024年成立）におけるNHKネット配信の「必須業務化」とネット受信料",
+        "statusOrLevel": "放送と同等の必須業務に格上げ・アプリ等で自発的にネット配信を受信する者から費用徴収",
+        "keyFeature": "テレビを持たない者でも、スマホやPCでNHK配信アプリをダウンロードし規約に同意・利用登録した者のみに受信契約義務が発生。「スマホ所持だけで自動徴収」される懸念は法的に否定。",
+        "source": {
+          "organization": "総務省",
+          "title": "放送法の一部を改正する法律（NHKのインターネット活用業務の必須業務化）",
+          "url": "https://www.soumu.go.jp"
+        }
+      }
+    ]
+  }
 }

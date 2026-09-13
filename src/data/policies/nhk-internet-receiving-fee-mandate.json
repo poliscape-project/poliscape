@@ -205,5 +205,102 @@
       "badgeColor": "bg-slate-100 text-slate-700",
       "icon": "Laptop"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における公共放送デジタル配信利用者の受信規約・アカウント登録・受信料賦課スキーム比較",
+    "comparisonSummary": "インターネット空間での公共放送の役割再定義が進む中、英国BBCはアカウント認証（BBC ID）によるライセンス保有確認を徹底し、欧州大陸諸国は世帯単位の包括税制へシフトする一方、日本は「自発的利用登録者への限定課金」という独自折衷案を採用しました。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "BBC IDログイン義務化およびテレビライセンス確認プロトコル",
+        "statusOrLevel": "iPlayer視聴時に「BBCアカウント」へのサインインおよびライセンス保有宣誓を義務付け",
+        "keyFeature": "画面上で「あなたはTVライセンスを持っていますか？」と確認。虚偽申告には最大1,000ポンドの罰金刑が科されるが、IPアドレスや通信ログによる強権的な追跡はプライバシー配慮から制限。",
+        "source": {
+          "organization": "英国デジタル・文化・メディア・スポーツ省 (DCMS) / BBC",
+          "title": "BBC Charter Review and BBC iPlayer Account Verification",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "公営放送（ARD/ZDF）オープンアクセスMediathekプラットフォーム",
+        "statusOrLevel": "全世帯課徴（Rundfunkbeitrag）を前提とするため、ネット視聴時のログイン・追加料金は完全不要",
+        "keyFeature": "国民全員が住居単位で既に支払っているため、スマホやPCのアプリ・ブラウザで高品質な見逃し配信・ニュース映像をパスワードや会員登録なしで誰でも即座に無料視聴可能。",
+        "source": {
+          "organization": "ドイツ連邦州放送委員会 (Rundfunkkommission)",
+          "title": "Telemedienauftrag der öffentlich-rechtlichen Rundfunkanstalten",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "個人所得税連動型「公共サービス税（Public service-avgift）」",
+        "statusOrLevel": "18歳以上の納税者全員に対し課税所得の1%（年最大約1,300クローナ・約1万8,000円）を税務署が自動徴収",
+        "keyFeature": "2019年に旧来の機器受信料を廃止。税金として徴収し独立基金（Rundradiofonden）を経由してSVT・SRに配分するため、ネット利用登録や徴収コストが完全にゼロ化。",
+        "source": {
+          "organization": "スウェーデン税務庁 (Skatteverket) / 放送視聴覚庁 (MPRT)",
+          "title": "Public service-avgift och finansiering av public service",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "CBC/Radio-Canadaのフリーミアム型デジタル配信「CBC Gem」",
+        "statusOrLevel": "国費直接交付金（議会承認予算）を基盤とし、一般配信は無料・広告なしプレミアムは月額課金",
+        "keyFeature": "受信料制度を持たず、基本の公共ニュース・同時配信はカナダ国内IPから完全無料開放。オンデマンドの過去アーカイブや高画質配信のみ月額約5ドルのサブスクリプションで提供。",
+        "source": {
+          "organization": "カナダ文化遺産省 (Canadian Heritage) / CRTC",
+          "title": "CBC/Radio-Canada Mandate and Digital Services Regulations",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "豪公共放送ABC「ABC iview」無料アカウント登録制",
+        "statusOrLevel": "連邦税財源による全額国庫補助・2023年以降iview利用時に無料ABCアカウントログインを推奨/義務化",
+        "keyFeature": "受信料は一切存在しないが、パーソナライズ機能向上と利用動向分析のためアカウント登録を導入。未登録者へのアクセス遮断を巡り議会でプライバシー論争が発生。",
+        "source": {
+          "organization": "豪通信メディア庁 (ACMA) / インフラ運輸地域開発通信省",
+          "title": "Australian Broadcasting Corporation (ABC) Funding and Charter",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "RAIテレビ受信料の電気料金合算賦課（Canone RAI in bolletta）",
+        "statusOrLevel": "年額70ユーロ（従来の90ユーロから減額）・家庭用電力契約に自動分割加算",
+        "keyFeature": "電力メーター単位で徴収することで未払い率を大幅圧縮。ネット配信「RaiPlay」は登録無料（広告付き）で開放されており、ネット単体利用に対する追加課金は存在しない。",
+        "source": {
+          "organization": "イタリア経済開発省 / イタリア歳入庁 (Agenzia delle Entrate)",
+          "title": "Canone TV ordinario nella bolletta elettrica e RaiPlay",
+          "url": "https://www.governo.it"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "NHKインターネット活用業務の実施基準およびネット受信契約約款",
+        "statusOrLevel": "地上契約と同額（月額1,100円程度）の負担・テレビ契約者は追加負担なしで利用可能",
+        "keyFeature": "テレビ受信契約を結んでいる世帯は追加料金ゼロ。テレビを持たずスマホのみで視聴する単身者等に対しては、契約同意の上でID・パスワードを発行し課金する仕組みを2025年秋以降に本格開始。",
+        "source": {
+          "organization": "総務省 / 日本放送協会",
+          "title": "インターネット配信の必須業務化に伴う受信料額及び受託規約の認可方針",
+          "url": "https://www.soumu.go.jp"
+        }
+      }
+    ]
+  }
 }

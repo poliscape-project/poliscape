@@ -179,5 +179,102 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における新型出生前診断（NIPT: 無侵襲的出生前遺伝学的検査）の公的認証・保険適用・カウンセリング体制比較",
+    "comparisonSummary": "母体血によるダウン症等の染色体異常検査（NIPT）に対し、欧州各国（英仏独）は公的医療保険の適用と公認カウンセリングを義務付ける一方、日本は学会主導の認証医療機関制度による情報管理と無認証クリニック対策に腐心しています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS胎児スクリーニングプログラム（Fetal Anomaly Screening Programme: FASP）",
+        "statusOrLevel": "公的NHSにおいて高リスク妊婦に対するNIPT検査を完全無料・公費全額負担で提供",
+        "keyFeature": "初期複合スクリーニングで陽性（確率1/150以上）と判定された妊婦に対し、流死産リスクのある羊水検査の前に選択肢として公費NIPTを提供し羊水検査数を大幅削減。",
+        "source": {
+          "organization": "英国公衆衛生庁 (UKHSA) / NHS",
+          "title": "NHS Non-invasive prenatal testing (NIPT) screening pathways",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "公衆衛生法典に基づく出生前遺伝学的検査および公的健康保険全額適用",
+        "statusOrLevel": "初期血液マーカー等でリスク1/1,000以上の妊婦に対しNIPT費用を100%全額公費給付",
+        "keyFeature": "国立高等保健機構（HAS）の推奨に基づき2019年から公的医療保険に収載。認可を受けた遺伝カウンセラーによるインフォームド・コンセントが受検の絶対要件。",
+        "source": {
+          "organization": "フランス高等保健機構 (HAS) / 保健省",
+          "title": "Dépistage prénatal de la trisomie 21 et prise en charge du test ADNlcT",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦合同委員会（G-BA）決定に基づく法定健康保険（GKV）保険適用",
+        "statusOrLevel": "個別妊婦の特別な心理的・医療的負担がある場合、公的健康保険からNIPT費用を給付",
+        "keyFeature": "「全妊婦への一律スクリーニング」ではなく、医師との詳細なカウンセリングを経て不安が極めて高い場合に限り保険適用を認める厳格な倫理的枠組みを採用。",
+        "source": {
+          "organization": "ドイツ連邦合同委員会 (G-BA)",
+          "title": "Nicht-invasive Pränataldiagnostik (NIPT) zur Bestimmung des Risikos von Trisomien",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "国家スクリーニングプログラム（TRIDENT研究から国家事業へ移行）",
+        "statusOrLevel": "全希望妊婦に対するNIPT検査の完全無償化（2023年4月以降、国費全額負担）",
+        "keyFeature": "従来は175ユーロの自己負担があったが、経済格差による情報不平等を解消するため全額国庫負担へ移行。全土の地域大学病院遺伝子センターが一元管理。",
+        "source": {
+          "organization": "オランダ国立公衆衛生環境研究所 (RIVM)",
+          "title": "NIPT prenatal screening guidelines and National Programme",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "米国産科婦人科学会（ACOG）臨床指針および民間保険カバレッジ",
+        "statusOrLevel": "年齢やリスクの高低を問わず、すべての単胎妊婦に対するNIPT受検選択肢の提示を推奨",
+        "keyFeature": "ACOGおよびACMGGが全妊婦へのNIPT推奨ガイドラインを発出したことで、民間医療保険会社が一般妊婦の検査費用も広くカバーする商業的普及モデル。",
+        "source": {
+          "organization": "米国産科婦人科学会 (ACOG) / CDC",
+          "title": "Screening for Fetal Chromosomal Abnormalities (ACOG Practice Bulletin)",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "連邦保険法（LAMal）に基づく出生前遺伝子検査給付基準",
+        "statusOrLevel": "第1期スクリーニングでリスク1/1,000以上の妊婦に対し基礎医療保険から全額給付",
+        "keyFeature": "認可された公認臨床遺伝専門医または指定産婦人科医のみが処方可能。安易な性別判定目的の商業利用を法的に厳しく規制。",
+        "source": {
+          "organization": "スイス連邦公衆衛生庁 (BAG / FOPH)",
+          "title": "Nicht-invasiver Pränataltest (NIPT) - Leistungspflicht der obligatorischen Krankenpflegeversicherung",
+          "url": "https://www.admin.ch"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "出生前検査認証制度等運営委員会（日本医学会等）による認証医療機関制度",
+        "statusOrLevel": "基幹施設・連携施設の公的認証および遺伝カウンセリング義務化・全額自己負担（自由診療）",
+        "keyFeature": "カウンセリング体制を担保した認証施設を整備する一方、美容外科や無認可クリニックがネット集客で安易に検査を行う実態が横行。こども家庭庁・厚労省が正確な情報提供ポータルを構築中。",
+        "source": {
+          "organization": "こども家庭庁 / 厚生労働省",
+          "title": "NIPT等の出生前検査に関する専門委員会報告書及び情報提供のあり方",
+          "url": "https://www.cfa.go.jp"
+        }
+      }
+    ]
+  }
 }

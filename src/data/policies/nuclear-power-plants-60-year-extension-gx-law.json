@@ -186,5 +186,102 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における原子力発電所の経年高経年化安全評価（AMP）・中性子照射脆化対策と法規制比較",
+    "comparisonSummary": "原子炉圧力容器の照射脆化やコンクリート劣化など高経年化の工学的課題に対し、国際原子力機関（IAEA）のSALTO指針をベースに各国が科学的監視基準を策定しており、日本のGX法も技術的客観性の確保に注力しています。",
+    "countries": [
+      {
+        "country": "国際原子力機関 (IAEA)",
+        "countryCode": "UN",
+        "flag": "🇺🇳",
+        "systemName": "長期運転安全評価（SALTO: Safety Aspects of Long Term Operation）ピアレビュー",
+        "statusOrLevel": "加盟国の高経年化炉に対する国際専門家チームによる劣化管理プログラム監査",
+        "keyFeature": "圧力容器、ケーブル、配管、コンクリート構造物の経年劣化監視基準（IGALL）を策定。各国規制機関が長期運転を認可する際の事実上の国際技術標準として機能。",
+        "source": {
+          "organization": "国際原子力機関 (IAEA)",
+          "title": "SALTO Peer Review Services and Ageing Management for Nuclear Power Plants",
+          "url": "https://www.iaea.org"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "NUREG-1801（GALLレポート: Generic Aging Lessons Learned）",
+        "statusOrLevel": "40年〜80年運転における全機器劣化事象の標準監視・試験手法マニュアル",
+        "keyFeature": "加圧熱衝撃（PTS）対策や電気ケーブルの絶縁劣化判定基準を明示。事業者はGALLレポート準拠の劣化管理プログラム（AMP）を提出することで審査期間を効率化。",
+        "source": {
+          "organization": "米国原子力規制委員会 (NRC)",
+          "title": "NUREG-1801 - Generic Aging Lessons Learned (GALL) Report",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "IRSN（放射線防護原子力安全研究所）高経年化評価指針",
+        "statusOrLevel": "原子炉格納容器の気密性試験・一次冷却系配管の超音波非破壊検査義務化",
+        "keyFeature": "原発の型式が標準化（CP0/CP1/P4シリーズ）されている強みを活かし、同一シリーズの1基で得られた劣化知見を全国の同型炉へ即時水平展開して予防保全を実施。",
+        "source": {
+          "organization": "フランス放射線防護原子力安全研究所 (IRSN)",
+          "title": "Evaluation of the long-term operation of nuclear reactors",
+          "url": "https://www.asn.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦原子力安全基準委員会（KTA）高経年化管理指針（KTA 1403）",
+        "statusOrLevel": "閉鎖前の原発および廃炉プロセスにおける機器経年劣化・安全性監視基準",
+        "keyFeature": "原発停止後も燃料プールの冷却や解体中の構造健全性を担保するため、世界最高レベルのKTA規格に基づく劣化監視を継続運用。",
+        "source": {
+          "organization": "ドイツ原子力安全基準委員会 (KTA)",
+          "title": "KTA 1403 - Alterungsmanagement in Kernkraftwerken",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "原子力安全技術院（KINS）周期別安全性評価（PSR）技術基準",
+        "statusOrLevel": "継続運転（寿命延長）申請時における中性子照射脆化試験片（監視試験片）評価",
+        "keyFeature": "圧力容器内部に設置された金属試験片を定期的に引き抜き、シャルピー衝撃試験等で靭性低下を実測。設計基準値以上の耐衝撃性が証明された炉のみ延長認可。",
+        "source": {
+          "organization": "韓国原子力安全技術院 (KINS)",
+          "title": "Periodic Safety Review and Aging Management of Nuclear Reactors",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "ENSIガイドラインG08（高経年化管理および包括的長寿命化安全評価）",
+        "statusOrLevel": "ベツナウ原発等における鍛造鋼圧力容器の超音波微小欠陥検査と安全裕度証明",
+        "keyFeature": "世界最古炉を安全に稼働させるため、圧力容器に存在する微細な気泡・介在物の影響を三次元破壊力学モデルで再計算。極めて厳しい安全裕度を立証して稼働継続を許可。",
+        "source": {
+          "organization": "スイス連邦核安全検査局 (ENSI)",
+          "title": "Richtlinie ENSI-G08 - Alterungsmanagement von Kernanlagen",
+          "url": "https://www.admin.ch"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "新「高経年化技術評価（PLANT）」および劣化状況把握のための法定確認",
+        "statusOrLevel": "30年超運転炉に対する10年ごとの劣化予測・長期施設管理計画認可義務付け",
+        "keyFeature": "中性子による圧力容器の脆化、コンクリートの中性化・熱劣化、ケーブル絶縁劣化について詳細な予測シミュレーションを義務化。不合格となった原子炉は即時停止命令の対象。",
+        "source": {
+          "organization": "原子力規制委員会",
+          "title": "高経年化技術評価（PLANT）及び長期施設管理計画の認可基準",
+          "url": "https://www.nra.go.jp"
+        }
+      }
+    ]
+  }
 }

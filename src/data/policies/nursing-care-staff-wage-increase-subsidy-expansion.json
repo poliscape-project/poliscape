@@ -217,5 +217,102 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Laptop"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における介護労働者・ケアワーカーの処遇改善・賃金底上げ・公的助成制度比較",
+    "comparisonSummary": "深刻な介護職員不足を背景に、ドイツは介護職最低賃金の引き上げと協約賃金の義務化、米国はメディケイド直接投資、フランスはセギュール合意による月額一律昇給を実施しており、日本の処遇改善加算一本化と軌を一にしています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "介護職員協約賃金支払義務化（Tariftreuegesetz）および介護最低賃金",
+        "statusOrLevel": "介護施設が保険指定を受けるための労使協約水準賃金（月額約3,500〜4,000ユーロ等）支払い義務化",
+        "keyFeature": "介護職の法定最低賃金を一般最低賃金より高く設定（時給18〜20ユーロ超）。協約賃金を支払わない事業所の保険適用認可を剥奪する強力な法改正で賃金を急激に底上げ。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS) / 連邦保健省 (BMG)",
+          "title": "Pflege-Mindestlohn und Tariftreue-Regelung für Pflegekräfte",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "セギュール保健協定（Accords de Ségur）による月額一律昇給給付",
+        "statusOrLevel": "介護施設（EHPAD）および在宅ケア職員に対する月額183ユーロ（約3万円）の国費恒久昇給",
+        "keyFeature": "コロナ禍でのケア労働の功績を評価し、全額国費を投入して基本給を一律底上げ。さらに夜勤手当や日曜勤務手当の大幅増額を公的に義務付け。",
+        "source": {
+          "organization": "フランス連帯・家族省 / 保健省",
+          "title": "Accords du Ségur de la santé - Revalorisation des carrières et des salaires",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "メディケイド在宅・地域基盤サービス（HCBS）80/20規則",
+        "statusOrLevel": "バイデン政権大統領令に基づくメディケイド介護報酬の最低80%を職員賃金に直接配分する義務化",
+        "keyFeature": "事業者のピンハネを防止するため、連邦・州から支給される公的介護報酬の80%以上を現場直接ケアワーカーの給与・手当に充当することを法制化。",
+        "source": {
+          "organization": "米国メディケア・メディケイド・サービス庁 (CMS)",
+          "title": "Ensuring Access to Medicaid Services Rule (80/20 Direct Care Wage Requirement)",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "成人社会的ケア労働力経路（Adult Social Care Workforce Pathway）",
+        "statusOrLevel": "政府による2億5,000万ポンドの資格取得支援金およびケアワーカー資格枠組み策定",
+        "keyFeature": "全国共通のケアワーカー技能階層（Pathway）を構築し、資格取得に応じた昇給基準を提示。ただしNHS（病院）との賃金格差が大きく、離職防止が国家課題。",
+        "source": {
+          "organization": "英国保健社会的ケア省 (DHSC)",
+          "title": "Adult social care workforce pathway and care workforce reform",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "公正労働委員会（FWC）決定に基づく介護職15%大幅賃上げ国費補填",
+        "statusOrLevel": "連邦政府が数十億豪ドルを拠出し、認定介護職員（Aged Care Workers）の基本給を15%一斉引き上げ",
+        "keyFeature": "介護王立委員会の提言を受け、労使協約（Award）改定で基本給を一挙に15%増額。施設運営者の赤字化を防ぐため、昇給原資の全額を連邦政府の追加補助金で補填。",
+        "source": {
+          "organization": "豪公正労働委員会 (Fair Work Commission) / DoHAC",
+          "title": "Aged Care Work Value Case and 15% Wage Increase Funding",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "高齢者ケア向上プログラム（Äldreomsorgslyftet）",
+        "statusOrLevel": "無資格の介護職員に対し勤務時間中の看護師・准看護師資格取得を全額給与保障で実施",
+        "keyFeature": "国費補助金により、自治体が雇用する非正規ケアワーカーが勤務時間の半分を使って有給で専門学校に通学可能に。正規雇用化と賃金水準の向上をセットで達成。",
+        "source": {
+          "organization": "スウェーデン国家保健福祉委員会 (Socialstyrelsen)",
+          "title": "Äldreomsorgslyftet - Satsning på utbildning av personal inom äldreomsorg",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "介護職員等処遇改善加算の一本化（2024年度介護報酬改定）",
+        "statusOrLevel": "従来の3つの加算を「新加算」に統合・月額最大数万円相当の賃上げを事業所へ助成",
+        "keyFeature": "複雑だった事務手続きを大幅簡素化し、加算取得率を向上。賃上げの一定割合を基本給の引き上げ（ベア）に充当することを要件化し、他産業との賃金格差縮小を推進。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "介護職員等処遇改善加算等に関する基本的考え方並びに事務処理手順及び様式例の提示について",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -127,5 +127,102 @@
       "type": "official_document",
       "typeLabel": "規制委安全基準資料"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要原子力保有国における原子炉の運転期間上限（認可期間延長・80年運転）制度比較",
+    "comparisonSummary": "電力の安定供給と脱炭素電源確保のため、米国は80年運転（第2回期間延長）を認可し、フランスは年数上限を設けず10年ごとの安全審査で延長を認めるなど、法的な運転年数制限を撤廃・緩和する潮流が主流です。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "原子力規制委員会（NRC）後続ライセンス更新（SLR: Subsequent License Renewal）",
+        "statusOrLevel": "当初認可40年＋第1回更新20年（計60年）＋第2回更新20年（計80年運転認可）",
+        "keyFeature": "ピーチボトム原発やターキーポイント原発等で80年運転認可を正式発給。法律上の上限年数は存在せず、NRCによる経年劣化評価（中性子照射脆化等）を満たす限り更新可能。",
+        "source": {
+          "organization": "米国原子力規制委員会 (NRC)",
+          "title": "Subsequent License Renewal (SLR) for Nuclear Power Plants beyond 60 Years",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "原子力安全局（ASN）10年定期安全レビュー（VD: Visite Décennale）",
+        "statusOrLevel": "法律上の運転年数上限なし・900MW級・1300MW級原子炉の50年・60年超運転を順次認可",
+        "keyFeature": "当初から運転期間の上限を法律で定めず、10年ごとの大規模定期検査（VD4等）で安全改修の実施を条件に継続認可。マクロン大統領が安全基準を満たす全炉の60年超運転方針を表明。",
+        "source": {
+          "organization": "フランス原子力安全局 (ASN)",
+          "title": "Poursuite de fonctionnement des réacteurs de 900 MWe au-delà de 40 ans",
+          "url": "https://www.asn.fr"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "原子力エネルギー法（KEG）に基づく無期限運転許可制度",
+        "statusOrLevel": "世界最古のベツナウ原発1号機（1969年稼働・55年超）を含む全炉で年数制限なし",
+        "keyFeature": "連邦核安全検査局（ENSI）の安全基準を満たし続ける限り無期限で運転可能。国民投票で「45年運転制限イニシアチブ」が否決され、安全性が担保される限り稼働を継続。",
+        "source": {
+          "organization": "スイス連邦核安全検査局 (ENSI)",
+          "title": "Betriebsdauer von Schweizer Kernkraftwerken und Sicherheitsaufsicht",
+          "url": "https://www.admin.ch"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "原子力安全法に基づく継続運転（経年炉寿命延長）審査",
+        "statusOrLevel": "設計寿命（30〜40年）満了後の10年間延長認可（古里2号機等の継続運転申請）",
+        "keyFeature": "文在寅前政権の脱原発政策（閉炉方針）を尹錫悦政権が完全転換。原発10基の継続運転申請を一括処理し、脱炭素と産業競争力維持のため60年運転を視野に認可手続きを加速。",
+        "source": {
+          "organization": "大韓民国原子力安全委員会 (NSSC)",
+          "title": "Continuous Operation Approval Process for Aging Nuclear Power Plants",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダ原子力安全委員会（CNSC）CANDU炉大規模改修（Refurbishment）",
+        "statusOrLevel": "ブルース原発・ダーリントン原発の燃料集合体・圧力管全面交換による30年超寿命延長",
+        "keyFeature": "重水減速重水冷却炉（CANDU）の主要配管を交換する大規模改修工事に民間資金を投入。約30年延命させ、合計60年以上の長期運転を実現。",
+        "source": {
+          "organization": "カナダ原子力安全委員会 (CNSC)",
+          "title": "Nuclear Power Plant Life Extension and Refurbishment Projects",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "原子力法（Atomgesetz）に基づく全稼働炉の運転完全終了（Atomausstieg）",
+        "statusOrLevel": "ウクライナ危機による一時予備待機を経て、2023年4月に最後の3基を完全停止・廃炉",
+        "keyFeature": "老朽化や寿命に関わらず、政治的合意に基づき残余発電量を制限して全原発を閉鎖。欧州他国とは対照的に運転延長を一切認めず再エネへの完全転換を選択。",
+        "source": {
+          "organization": "ドイツ連邦環境・自然保護・原子力安全・消費者保護省 (BMUV)",
+          "title": "Endgültiger Atomausstieg in Deutschland und Stilllegung",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "GX脱炭素電源法（2023年成立・電気事業法改正）における「60年超」運転認可",
+        "statusOrLevel": "「原則40年・最長60年」枠組みを維持しつつ、安全審査や行政指導等による「停止期間」をカウントから除外",
+        "keyFeature": "東日本大震災後の規制審査対応や裁判所仮処分による稼働停止期間を法定運転期間から除外することで、実質的な稼働年数として60年を超える長期運転を可能にした。規制基準は原子力規制委員会が厳格審査。",
+        "source": {
+          "organization": "経済産業省資源エネルギー庁 / 原子力規制委員会",
+          "title": "GX脱炭素電源法（電気事業法及び原子炉等規制法改正の概要）",
+          "url": "https://www.meti.go.jp"
+        }
+      }
+    ]
+  }
 }

@@ -225,5 +225,102 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Zap"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における原子力発電所の経年劣化管理（高経年化技術評価）および他律的停止期間の算定法制比較",
+    "comparisonSummary": "稼働年数の上限をめぐり、国際的には法律による年数制限（40年制限等）を置かず規制機関の科学的劣化評価で継続認可する手法が主流であり、日本の停止期間控除ルールは諸外国の稼働実態との整合性を図る試みです。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦規則第10編第54部（10 CFR Part 54）ライセンス更新規則",
+        "statusOrLevel": "法的な運転停止期間の除外規定は不要（そもそも一律の運転期間上限が存在しない）",
+        "keyFeature": "NRCの安全認可は年数ではなく機器の経年劣化管理計画（AMP）の妥当性で判断。停止期間があってもなくても、技術基準を満たせば20年単位で無期限に更新可能。",
+        "source": {
+          "organization": "米国原子力規制委員会 (NRC)",
+          "title": "Standard Review Plan for Review of License Renewal Applications for Nuclear Power Plants",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "原子力規制局（ONR）サイトライセンス定期安全審査（PSR: Periodic Safety Review）",
+        "statusOrLevel": "10年ごとの定期安全審査に基づく運転許可・事業者の投資判断による稼働継続",
+        "keyFeature": "サイズウェルB加圧水型原発等において、法的な運転年数上限を設けず事業者がONRの承認を得て20年の運転延長を計画。機器の物理的劣化が唯一の制約要因。",
+        "source": {
+          "organization": "英国原子力規制局 (ONR)",
+          "title": "Periodic Safety Reviews (PSR) of Nuclear Power Reactors",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "環境法典に基づく高経年化対応プログラム（Grand Carénage）",
+        "statusOrLevel": "EDFが数百億ユーロを投じる原子炉大規模機器更新計画・50年超運転の標準化",
+        "keyFeature": "蒸気発生器の交換や格納容器の気密補修を計画的に実施。予期せぬ腐食トラブル（応力腐食割れ等）で長期間停止した場合でも、法的なペナルティや年数ペナルティは一切発生しない。",
+        "source": {
+          "organization": "フランス電力 (EDF) / 原子力安全局 (ASN)",
+          "title": "Le programme Grand Carénage et la prolongation de la durée de fonctionnement",
+          "url": "https://www.asn.fr"
+        }
+      },
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "放射線・原子力安全センター（STUK）運転ライセンス更新制度",
+        "statusOrLevel": "ロヴィーサ原発（ロシア型VVER-440）の2050年までの70年超運転ライセンスを承認",
+        "keyFeature": "政府がSTUKの技術評価に基づき20年間の営業運転延長許可を発給。徹底的な耐震補強と最新デジタル計装制御盤への更新で極めて高い安全性を維持。",
+        "source": {
+          "organization": "フィンランド放射線・原子力安全センター (STUK)",
+          "title": "Operating licence renewal for the Loviisa nuclear power plant",
+          "url": "https://www.valtioneuvosto.fi"
+        }
+      },
+      {
+        "country": "ベルギー",
+        "countryCode": "BE",
+        "flag": "🇧🇪",
+        "systemName": "原子力段階的廃止法改正（2023年合意）による10年間稼働延長",
+        "statusOrLevel": "ドール4号機およびティアンジュ3号機の運転期間を2035年まで10年間延長決定",
+        "keyFeature": "脱原発方針を掲げていたが、ロシアのガス供給停止に伴う電力危機を受け方針転換。連邦政府とエンジー社が合弁会社を設立し、改修費用と将来の廃棄物処理費用を折半。",
+        "source": {
+          "organization": "ベルギー連邦原子力規制庁 (FANC / AFCN)",
+          "title": "Extension of the operating lifetime of the Doel 4 and Tihange 3 reactors",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "放射線安全庁（SSM）高経年化管理基準および原発増設方針",
+        "statusOrLevel": "既存6基の原子炉（フォルスマルク等）を60年超〜80年運転する改修投資を計画",
+        "keyFeature": "新政権が気候目標達成のため脱原発路線を完全破棄。既存炉の長期運転認可を後押しするとともに、新規原発建設を可能にする法改正を実施。",
+        "source": {
+          "organization": "スウェーデン放射線安全庁 (SSM)",
+          "title": "Åldringsövervakning och långtidsdrift för svenska kärnkraftverk",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "原子炉等規制法から電気事業法への運転期間規定移管と高経年化確認制度",
+        "statusOrLevel": "運転開始から30年以降、10年を超えない期間ごとに原子力規制委員会の技術認可を取得義務化",
+        "keyFeature": "運転期間の利用政策判断を経済産業省（電気事業法）に移管する一方、安全規制は規制委員会が独立して担保。停止期間カウント除外により最長70〜80年程度まで稼働可能な余地を確保。",
+        "source": {
+          "organization": "原子力規制委員会 / 経済産業省",
+          "title": "高経年化した発電用原子炉の安全規制に関する新制度",
+          "url": "https://www.nra.go.jp"
+        }
+      }
+    ]
+  }
 }

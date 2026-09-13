@@ -231,5 +231,102 @@
         "commentStandard": "「相部屋はプライバシーがなく音や臭いも我慢して生活している環境。そこにホテルコストを請求することに現場も強い違和感を持つ」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国における公的高齢者施設（特養相当）の多床室・個室居住費（室料・ホテルコスト）自己負担比較",
+    "comparisonSummary": "介護保険財政の持続性と公平性のため、欧米では施設入所時の「介護サービス費」と「居住・滞在費（ホテルコスト）」を厳格に分離し、相部屋・個室を問わず実費自己負担とする原則が定着しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "社会法典第11巻（SGB XI）滞在・宿泊費（Unterkunft und Verpflegung: U&V）",
+        "statusOrLevel": "部屋の形態に関わらず食費・室料（U&V費用・月額約800〜1,200ユーロ）は全額自己負担",
+        "keyFeature": "保険給付は純粋な身体介護費用に限定。施設が相部屋であっても水道光熱費や減価償却費（Investitionskosten）を含む室料は全額入所者が支払う（払えない場合は社会扶助）。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG)",
+          "title": "Kosten für Unterkunft und Verpflegung im Pflegeheim",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "長期介護法（Wlz）施設入所自己負担金（Inkomensafhankelijke eigen bijdrage）",
+        "statusOrLevel": "個室・多床室を問わず世帯所得・資産に応じた月額最高約2,600ユーロの自己負担",
+        "keyFeature": "入所後4ヶ月目までは低額負担（家賃の二重払い配慮）だが、それ以降は年金受給額のほぼ全額が室料・食費・介護費を含む包括負担として中央管理機構（CAK）に徴収される。",
+        "source": {
+          "organization": "オランダ中央管理機構 (CAK) / 保健福祉スポーツ省",
+          "title": "Eigen bijdrage Wet langdurige zorg (Wlz) en verblijf in een instelling",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "高齢者依存型老人ホーム（EHPAD）宿泊料金（Tarif hébergement）",
+        "statusOrLevel": "県議会（Département）が認可する日額室料（平均日額60〜90ユーロ・月約2,000ユーロ）自己負担",
+        "keyFeature": "介護費用（Tarif dépendance）の一部は公費（APA）で賄われるが、部屋代・食費である宿泊料金は相部屋であっても100%全額自己負担が原則。",
+        "source": {
+          "organization": "フランス全国自立支援金庫 (CNSA) / 連帯省",
+          "title": "Tarif hébergement en EHPAD et aide sociale à l'hébergement (ASH)",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "ケアホーム入居費用（Care Home Accommodation Fees）",
+        "statusOrLevel": "全額自己負担者（セルフファンダー）は週平均800〜1,200ポンド（相部屋・個室問わず）負担",
+        "keyFeature": "地方自治体から補助を受ける場合でも、相部屋から個室への移行や設備の良い部屋を希望する際は、家族が差額（Top-up Fee）を私費で支払うことが標準化。",
+        "source": {
+          "organization": "英国保健社会的ケア省 (DHSC)",
+          "title": "Paying for care and top-up fees in care homes guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ナーシングホーム（Nursing Home）メディケイド室料基準",
+        "statusOrLevel": "民間自己負担は月平均7,000〜9,000ドル・メディケイド適用者は個人控除を除く全所得没収",
+        "keyFeature": "メディケイド受給者は半個室（Semi-private room / 相部屋）に配置されるが、月50ドル程度の個人小遣い（Personal Needs Allowance）を除く全受給年金が室料相殺に充てられる。",
+        "source": {
+          "organization": "米国メディケア・メディケイド・サービス庁 (CMS)",
+          "title": "Medicaid Long Term Care Nursing Facility Eligibility and Costs",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "特別養護住宅（Särskilt boende）における家賃（Hyra）契約",
+        "statusOrLevel": "施設内は全戸個室原則・通常の賃貸借契約に基づき市町村へ市場水準家賃を直接支払い",
+        "keyFeature": "多床室は原則として廃止され全室個室化。入居者は市町村と賃貸借契約を結んで家賃・食費を支払う。家賃補助金（Bostadstillägg）が高齢者へ直接支給される。",
+        "source": {
+          "organization": "スウェーデン国家保健福祉委員会 (Socialstyrelsen)",
+          "title": "Hyra och avgifter i särskilt boende för äldre",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "特別養護老人ホーム多床室の室料自己負担化（補足給付・負担限度額認定）",
+        "statusOrLevel": "従来型多床室の室料（月額約1.5万〜2.5万円相当）を一定所得以上の入所者に自己負担導入",
+        "keyFeature": "個室入所者との公平性や在宅生活者との負担均衡を図るため、高所得・中間所得層の多床室室料を順次自己負担化。低所得者（非課税世帯等）には補足給付で負担を据え置き。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "介護保険制度改革における施設給付（多床室の室料負担）の見直し",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
   }
 }

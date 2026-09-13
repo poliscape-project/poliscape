@@ -185,5 +185,102 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における同志国軍隊・治安機関への直接軍事能力構築支援（軍事無償供与・OSA）比較",
+    "comparisonSummary": "地域の抑止力強化と同志国連携のため、米国のFMF、EUの欧州平和ファシリティ（EPF）、フランスの軍事協力基金等、防衛装備品や軍用インフラを直接無償供与する枠組みが定着しており、日本のOSA（2023年創設）もこれらに合流しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "外国軍事融資（FMF: Foreign Military Financing）および第333条能力構築支援",
+        "statusOrLevel": "同盟国・同志国軍に対する年間数十億ドル規模の防衛装備無償供与・軍事訓練支援",
+        "keyFeature": "国務省が資金を拠出し国防総省（DSCA）が執行。台湾、フィリピン、ウクライナ等の軍隊に対し、レーダー、哨戒艇、対空装備を直接供与して即応防衛力を強化。",
+        "source": {
+          "organization": "米国国防安全保障協力局 (DSCA) / 国務省",
+          "title": "Foreign Military Financing (FMF) and Building Partner Capacity Programs",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州平和ファシリティ（EPF: European Peace Facility）",
+        "statusOrLevel": "EU域外国・同志国軍隊への弾薬・防衛装備品供与およびインフラ支援基金（総額100億ユーロ超）",
+        "keyFeature": "EU共通予算外の特別基金として創設。ウクライナへの武器供与のほか、モルドバ、ジョージア、アフリカ諸国の軍隊に対して通信機や地雷除去装備を直接無償提供。",
+        "source": {
+          "organization": "欧州対外行動局 (EEAS) / 欧州理事会",
+          "title": "European Peace Facility - Supporting partners' military and defence capabilities",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "防衛・治安協力総局（DCSD）軍事構造化協力および装備支援基金",
+        "statusOrLevel": "アフリカ・中東・インド太平洋の同志国軍隊への非殺傷装備供与・士官学校教育",
+        "keyFeature": "外務省と軍事省が密接に連携。パートナー国の沿岸警備部隊や特殊作戦部隊に対し、哨戒艇、監視レーダー、防護装備を直接供与し、海賊対処や航行の自由作戦を支援。",
+        "source": {
+          "organization": "フランス軍事省 / 外務・欧州省 (DCSD)",
+          "title": "Direction de la coopération de sécurité et de défense (DCSD)",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "防衛安全保障協力（International Defence Engagement Strategy: IDES）",
+        "statusOrLevel": "国防省（MOD）による同志国軍向けキャパシティ・ビルディング・装備移転",
+        "keyFeature": "オマーンやウクライナ、東南アジア諸国の軍隊に対し、王立軍事アカデミー（サンドハースト）での指揮官育成と合わせ、装甲車両や海上ドローンなどの装備支援を無償提供。",
+        "source": {
+          "organization": "英国国防省 (MOD) / FCDO",
+          "title": "International Defence Engagement Strategy and partner capacity building",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "防衛協力プログラム（DCP: Defence Cooperation Program）",
+        "statusOrLevel": "太平洋島嶼国および東南アジア（PNG、フィジー、フィリピン等）軍隊・警備隊への装備供与",
+        "keyFeature": "ガーディアン級高速哨戒艇（Guardian-class patrol boats）を大洋州諸国に無償供与し、燃料・維持整備・豪海軍技術指導官の長期派遣までワンストップで支援。",
+        "source": {
+          "organization": "豪国防省 (Department of Defence)",
+          "title": "Defence Cooperation Program (DCP) in the South West Pacific",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "不用軍事装備品（退役艦艇・戦闘機）の無償譲渡および防衛ODA連携",
+        "statusOrLevel": "フィリピン・ベトナム・南米諸国軍へのコルベット艦・哨戒艇・T-50練習機の無償供与",
+        "keyFeature": "韓国軍で退役した状態良好な海軍哨戒艦や戦車を同志国へ無償譲渡し、事後の部品供給・弾薬販売・新型K-防産（K-Defense）装備輸出の足がかりとする戦略的展開。",
+        "source": {
+          "organization": "大韓民国国防部 / 防衛事業庁 (DAPA)",
+          "title": "Transfer of Surplus Military Equipment and International Defense Cooperation",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "政府安全保障能力強化支援（OSA: Official Security Assistance・2023年創設）",
+        "statusOrLevel": "非軍事目的に限定されるODAとは別枠で、同志国の軍隊等へ防衛装備品・インフラ整備を直接無償供与",
+        "keyFeature": "フィリピン海軍への沿岸監視レーダー供与、マレーシアへの救難艇供与等から開始。防衛装備移転三原則の運用指針に基づき、インド太平洋の海洋安全保障と抑止力を直接強化。",
+        "source": {
+          "organization": "外務省 / 防衛省",
+          "title": "政府安全保障能力強化支援（OSA: Official Security Assistance）の創設と実施",
+          "url": "https://www.mofa.go.jp"
+        }
+      }
+    ]
+  }
 }

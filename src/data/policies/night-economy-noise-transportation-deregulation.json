@@ -217,5 +217,102 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Sparkles"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要都市におけるナイトタイムエコノミー振興・夜間市長（Night Czar）・深夜交通・騒音規制比較",
+    "comparisonSummary": "都市の夜間経済活性化と住環境の静けさを両立させるため、ロンドンやベルリン、アムステルダムは「夜間市長」の設置、24時間地下鉄運行、「騒音発生物件の先住者保護（Agent of Change原則）」を法制化しています。",
+    "countries": [
+      {
+        "country": "イギリス/ロンドン",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "夜間市長（Night Czar）・ナイトチューブ（Night Tube）・変更主体責任原則（Agent of Change）",
+        "statusOrLevel": "週末主要地下鉄路線の24時間連続運行・音楽ベニュー周辺の新築マンション防音負担義務",
+        "keyFeature": "ロンドン市都市計画に「Agent of Change原則」を法制化。既存のライブハウス周辺に後からマンションを建設する開発業者側に防音工事費用を義務付け、住民苦情による閉店を防止。",
+        "source": {
+          "organization": "大ロンドン庁 (GLA)",
+          "title": "London Night Time Commission and the Agent of Change Principle",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ/ベルリン",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "クラブコミッション（Clubcommission）および夜間文化財指定・騒音保護基金",
+        "statusOrLevel": "連邦建築使用令（BauNVO）改正によりテクノクラブ等を風俗店から「文化施設」へ昇格",
+        "keyFeature": "クラブ文化を州の重要文化遺産と位置付け、州政府がクラブの防音改修に最大10万ユーロを公費助成する「Lärmschutzfonds（騒音保護基金）」を常設運用。",
+        "source": {
+          "organization": "ベルリン州上院経済・エネルギー・企業省 / 連邦建築省",
+          "title": "BauNVO-Reform: Clubs als Kulturstätten und Schallschutzförderung",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "オランダ/アムステルダム",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "夜間市長（Nachtburgemeester）および24時間営業ライセンス（24-uursvergunning）",
+        "statusOrLevel": "市内特定ゾーンにおける24時間営業許可証の発行・中心街外郭部への夜間経済分散",
+        "keyFeature": "住宅密集地の中心街（赤線地帯等）では深夜のアルコール販売や店舗営業を厳しく制限する一方、郊外の再開発複合施設に24時間ライセンスを与えて共生を実現。",
+        "source": {
+          "organization": "アムステルダム市 (Gemeente Amsterdam)",
+          "title": "Night Vision Amsterdam and 24-hour venue regulations",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "オーストラリア/シドニー",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "24時間経済コミッショナー（24-Hour Economy Commissioner）およびロックアウト法廃止",
+        "statusOrLevel": "治安悪化で衰退した夜間経済を再生するため深夜入店規制（Lockout Laws）を全面撤廃",
+        "keyFeature": "NSW州政府が「ネオン・グリッド」戦略を策定。屋外飲食（Alfresco Dining）の歩道占用規制を緩和し、深夜バス・ライトレールの増便と連動させて夜間文化を再興。",
+        "source": {
+          "organization": "ニューサウスウェールズ州政府 (NSW 24-Hour Economy)",
+          "title": "24-Hour Economy Strategy for Greater Sydney",
+          "url": "https://www.service.nsw.gov.au"
+        }
+      },
+      {
+        "country": "アメリカ/ニューヨーク市",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "夜間生活局（Office of Nightlife / ナイトライフ市長）およびMTA24時間地下鉄",
+        "statusOrLevel": "全米唯一の通年24時間全路線地下鉄運行・市長直属のナイトライフ調停委員会",
+        "keyFeature": "24時間地下鉄が夜間労働者と観光客の移動を完全保障。市夜間生活局が騒音トラブルを警察の強制捜査ではなく地域対話と調停（Mediation）で解決するプログラムを運営。",
+        "source": {
+          "organization": "ニューヨーク市長室メディア・エンターテインメント局 (MOME)",
+          "title": "Office of Nightlife and Community Mediation Programs",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "フランス/パリ市",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "夜間評議会（Conseil de la nuit）および深夜騒音仲裁ピエロ（Les Pierrots）",
+        "statusOrLevel": "テラス席の深夜営業許可と歩行者優先化・夜間騒音防止の啓発チーム巡回",
+        "keyFeature": "夏期テラス席（Terrasses estivales）の深夜利用を促進しつつ、騒音苦情が多発するバー街にパフォーマーや仲裁員（Les Pierrots）を派遣し、静寂と賑わいの両立を図る。",
+        "source": {
+          "organization": "パリ市庁 (Ville de Paris)",
+          "title": "Charte de la vie nocturne et missions du Conseil de la nuit",
+          "url": "https://www.paris.fr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "観光庁・自治体によるナイトタイムエコノミー推進事業および風営法規制緩和",
+        "statusOrLevel": "深夜酒類提供飲食店・クラブの営業規制見直し・終電延長や夜間イベント実証",
+        "keyFeature": "訪日外国人消費拡大に向け、寺社・博物館の夜間特別開館や屋外フードイベントを助成。鉄道各社の深夜終電繰り上げと深夜バス不足、住宅地近接による騒音苦情の解決が課題。",
+        "source": {
+          "organization": "観光庁 / 経済産業省",
+          "title": "地域におけるナイトタイムエコノミーの推進に向けた手引き",
+          "url": "https://www.mlit.go.jp"
+        }
+      }
+    ]
+  }
 }

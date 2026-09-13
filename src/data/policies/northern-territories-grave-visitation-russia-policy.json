@@ -185,5 +185,102 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "ShieldAlert"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国におけるロシアとの主権係争地域・国境・人道的一時訪問（墓参）外交枠組み比較",
+    "comparisonSummary": "ウクライナ侵攻に伴う対露制裁とロシア側の対抗措置により、日本とロシア間の北方四島「ビザなし交流・墓参事業」は全面停止しており、他国（フィンランド・バルト諸国等）の対露国境管理・人道協定の凍結と共通の構造に直面しています。",
+    "countries": [
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "対露国境閉鎖法（国境警備法改正）および旧カレリア地域訪問停止",
+        "statusOrLevel": "ロシアとの全長1,340kmの陸上国境検問所を完全閉鎖・ハイブリッド脅威対策",
+        "keyFeature": "ロシアによる移民送り込み等の圧力に対抗し、全東部国境を封鎖。第二次大戦でソ連に割譲されたカレリア地方への遺族・元住民の墓参や訪問交流も無期限凍結。",
+        "source": {
+          "organization": "フィンランド内務省 / 国境警備隊 (Rajavartiolaitos)",
+          "title": "Eastern border closure and Temporary measures to combat instrumentalised migration",
+          "url": "https://www.valtioneuvosto.fi"
+        }
+      },
+      {
+        "country": "エストニア",
+        "countryCode": "EE",
+        "flag": "🇪🇪",
+        "systemName": "ペツェリ（Petseri）地域国境条約問題および対露越境人道ビザ制限",
+        "statusOrLevel": "タルトゥ条約に基づく歴史的領有権主張と未批准国境線・ロシア側住民との往来制限",
+        "keyFeature": "ロシアとの国境画定条約批准が長年停滞。ウクライナ侵攻後はロシア国民へのビザ発給を全面停止し、国境地帯の元住民家族による人道往来も厳格に審査・縮小。",
+        "source": {
+          "organization": "エストニア外務省",
+          "title": "Estonian-Russian Border Relations and Sanctions Enforcement",
+          "url": "https://www.valitsus.ee"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "カリーニングラード（旧東プロイセン）人道往来および対露二国間協定凍結",
+        "statusOrLevel": "第二次大戦後の国境承認（2+4条約）と対露文化・学術・人道交流プログラム全面停止",
+        "keyFeature": "領土権主張は存在しないが、旧ケーニヒスベルク追放住民協議会等の歴史的関係が存在。侵攻後は政府レベルの交流枠組みを全停止し、対露経済制裁を徹底。",
+        "source": {
+          "organization": "ドイツ連邦外務省 (Auswärtiges Amt)",
+          "title": "Bilaterale Beziehungen zu Russland und Aussetzung von Kooperationsabkommen",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "ジョージア",
+        "countryCode": "GE",
+        "flag": "🇬🇪",
+        "systemName": "占領地域法（Law on Occupied Territories）および行政境界線（ABL）管理",
+        "statusOrLevel": "ロシア軍実効支配下のアブハジア・南オセチア境界線における人道往来制限",
+        "keyFeature": "ジュネーブ国際協議（GID）を通じて人道アクセスや行方不明者捜索を模索するが、ロシア側の国境線要塞化（ボーダライゼーション）により住民の墓参や農地往来が分断。",
+        "source": {
+          "organization": "ジョージア外務省 / 和解・市民平等省",
+          "title": "Geneva International Discussions (GID) and Situation in Occupied Territories",
+          "url": "https://www.gov.ge"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "北方領土に対する日本主権の公式承認立場（State Department Statement）",
+        "statusOrLevel": "北方四島に対する日本の主権を明確に支持・ロシアの不法占拠と一方的領有化を非難",
+        "keyFeature": "G7の一員として日本の対露制裁と連携。国務省声明等で元島民の権利と人道的交流の正当性を支持しつつ、ロシアの極東軍事力強化を強く牽制。",
+        "source": {
+          "organization": "米国国務省 (Department of State)",
+          "title": "United States Position on the Northern Territories",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "ウクライナ",
+        "countryCode": "UA",
+        "flag": "🇺🇦",
+        "systemName": "最高会議（ヴェルホーヴナ・ラーダ）による北方領土「日本帰属承認」決議",
+        "statusOrLevel": "北方四島を「ロシアによって不法占拠された日本の主権領土」と法的に公式認定",
+        "keyFeature": "クリミアや東部併合に対抗する国際法秩序維持の観点から、ゼレンスキー大統領が日本の領有権を全面承認する大統領令に署名。国際社会へ対露非難の同調を呼びかけ。",
+        "source": {
+          "organization": "ウクライナ最高会議 / 大統領府",
+          "title": "Decree on the Recognition of the Northern Territories as Sovereign Territory of Japan",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "北方四島交流等事業（ビザなし交流・自由訪問・北方墓参）および平和条約交渉",
+        "statusOrLevel": "ロシア側の平和条約交渉中断・事業停止通告に対し、元島民の高齢化を踏まえた墓参再開を最優先要求",
+        "keyFeature": "ロシアのウクライナ侵略に対するG7協調制裁を堅持しつつ、外相会談等で人道的分野である元島民の墓参事業再開を強く働きかけ。洋上慰霊等の代替措置を実施。",
+        "source": {
+          "organization": "外務省 / 内閣府北方対策本部",
+          "title": "北方領土問題の概要及び元島民による北方墓参・人道事業の現状",
+          "url": "https://www.mofa.go.jp"
+        }
+      }
+    ]
+  }
 }

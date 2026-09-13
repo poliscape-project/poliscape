@@ -247,5 +247,102 @@
         "commentStandard": "「利用控えによって要介護度が重度化し、結果として医療費や救急搬送の増加を招く本末転倒の懸念」"
       }
     ]
+  },
+  "international": {
+    "title": "主要先進国における公的介護保障の自己負担割合（資産・所得連動型コペイメント）比較",
+    "comparisonSummary": "高齢化に伴う社会保障費の急増を抑えるため、ドイツは定額自己負担（自己負担上限設定）、英国は厳格な資産調査（ミーンズテスト）、フランスは所得に応じた累進利用料制を敷いており、日本の2割負担対象拡大議論の比較軸となっています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "法定介護保険（SGB XI）自己負担金（Eigenanteil）および施設入所負担軽減法",
+        "statusOrLevel": "施設入所時の介護費用に定額自己負担・在所年数に応じた公費補助（1年目15%〜4年目70%助成）",
+        "keyFeature": "入所期間が長期化するほど自己負担が軽くなる累退的補助を導入。在宅介護では給付上限を超える部分が100%自己負担となり、資産のない低所得者は社会扶助（生活保護）で補填。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG)",
+          "title": "Eigenanteil in der Pflege und Entlastung bei vollstationärer Pflege",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "成人社会的ケア資産調査（Care Act Means Testing）および負担上限（Care Cap）延期",
+        "statusOrLevel": "保有資産2万3,250ポンド（約450万円）以上の高齢者は介護費用全額自己負担（10割負担）",
+        "keyFeature": "自宅不動産を含む資産が基準額を超える高齢者は一切の公費補助を受けられない過酷な資産調査型。生涯負担上限（8万6,000ポンド）導入法案は財政難で度々延期。",
+        "source": {
+          "organization": "英国保健社会的ケア省 (DHSC)",
+          "title": "Financial assessment for social care and charging reform guidelines",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "個人自立手当（APA）における所得連動型自己負担（Ticket modérateur）",
+        "statusOrLevel": "利用者の世帯所得（年金・資産）に応じた0%〜90%の段階的自己負担制",
+        "keyFeature": "低所得層は自己負担ほぼゼロで給付される一方、高所得高齢者はケアプラン費用の最大90%を自己負担。所得に応じたシームレスな累進負担で財政公平性を維持。",
+        "source": {
+          "organization": "フランス全国自立支援金庫 (CNSA)",
+          "title": "Participation financière du bénéficiaire de l'APA (Ticket modérateur)",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "コミューン介護サービス最大利用料制度（Maxtaxa）",
+        "statusOrLevel": "月額自己負担上限（Maxtaxa）約2,570クローナ（約3万6,000円）・最低生活費留保（Förbehållsbelopp）",
+        "keyFeature": "所得比例の利用料を課すが、どんなに高所得者でも月約3.6万円を超える請求は違法。さらに利用料支払い後に本人の手元に生活費最低基準が残るよう減免する厳格なセーフティネット。",
+        "source": {
+          "organization": "スウェーデン国家保健福祉委員会 (Socialstyrelsen)",
+          "title": "Avgifter inom äldreomsorg och maxtaxa",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "My Aged Care 所得・資産調査（Means Tested Care Fee）",
+        "statusOrLevel": "日額基本利用料（年金の85%）＋所得・資産に応じた手段テスト介護料（年間上限約3万3,000豪ドル）",
+        "keyFeature": "生涯自己負担上限（Lifetime Cap: 約8万豪ドル）を設定し、それを超えると自己負担がゼロになる仕組み。富裕層には高額な負担を求めつつ破産を防止。",
+        "source": {
+          "organization": "豪保健高齢者ケア省 (DoHAC)",
+          "title": "Aged care fees and charges - Income and means assessments",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "老人長期療養保険の自己負担金制度（本人口座負担率）",
+        "statusOrLevel": "在宅給付15%負担、施設給付20%負担・低所得者減免（6〜9%負担）",
+        "keyFeature": "施設入所者には一律20%負担を義務付け、在宅サービス利用を誘導。食費や居住費などの非給付項目は全額全額自己負担とし、保険財政の急激な悪化を抑制。",
+        "source": {
+          "organization": "大韓民国国民健康保険公団 (NHIS)",
+          "title": "Long-Term Care Insurance Copayments and Reduction System",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "介護保険利用料の自己負担割合（原則1割・一定以上所得者2割・3割負担）",
+        "statusOrLevel": "単身年収280万円以上は2割、340万円以上は3割・「原則2割」対象拡大が継続審議",
+        "keyFeature": "少子高齢化に伴う現役世代の保険料上昇を抑えるため、2割負担の対象者を所得上位20%からさらに拡大する案が社会保障審議会で議論。生活困窮への懸念から見送りと再検討が反復。",
+        "source": {
+          "organization": "厚生労働省",
+          "title": "社会保障審議会介護保険部会における給付と負担の見直し議論",
+          "url": "https://www.mhlw.go.jp"
+        }
+      }
+    ]
   }
 }

@@ -205,5 +205,102 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Activity"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における「同意なき性行為（Only Yes Means Yes）」の処罰法制・性的姿態撮影罪比較",
+    "comparisonSummary": "性被害者の尊厳を守るため、スウェーデン・英国・ドイツ・カナダ等は「暴行・脅迫」要件から「明確な同意の欠如」を処罰根拠とする同意原則法へ移行しており、日本も2023年刑法改正で「不同意性交等罪」の創設と撮影罪新設を実現しました。",
+    "countries": [
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "同意ベース強姦法（Samtyckeslagen / 刑法典第6章）",
+        "statusOrLevel": "自発的な同意の表明がない性行為をすべて強姦（Våldtäkt）と規定・過失強姦罪の新設",
+        "keyFeature": "暴行や脅迫、抗拒不能の立証を不要化。「言葉や行動で明確に同意を示したか」を行為者側に要求し、不注意による性行為にも「過失強姦罪（Oaktsam våldtäkt）」を適用し有罪判決数が7割以上増加。",
+        "source": {
+          "organization": "スウェーデン法務省 / 国家犯罪防止委員会 (Brå)",
+          "title": "Den nya samtyckeslagen och dess tillämpning i domstolarna",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "性犯罪法（Sexual Offences Act 2003）および盗撮防止法（Voyeurism Offences Act）",
+        "statusOrLevel": "同意（Consent）の肯定的定義（自由な意思と能力に基づく合意）およびアップスカーティング（盗撮）独立重罰化",
+        "keyFeature": "泥酔・睡眠・詐欺等による承諾は法的に「同意無効」と明記。スカート内盗撮行為を独立の性犯罪（Voyeurism）として最高2年の禁錮刑に処す。",
+        "source": {
+          "organization": "英国司法省 (MoJ) / 王立検察庁 (CPS)",
+          "title": "Sexual Offences Act 2003 - Definition of Consent and Voyeurism Offences",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "刑法典（StGB）第177条「No means No（意に反する性行為）」改革",
+        "statusOrLevel": "被害者の識別可能な反対の意思（Nein）に反して性行為を行った場合に強姦・性的侵害を構成",
+        "keyFeature": "2016年の大改正で「暴行・脅迫」要件を撤廃。被害者が「嫌だ」と拒絶の意思を示していれば、物理的抵抗を行わなくても即座に犯罪が成立。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ)",
+          "title": "Reform des Sexualstrafrechts - Schutz der sexuellen Selbstbestimmung (§ 177 StGB)",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "刑法典第222条-23強姦罪および性暴力・セクハラ防止法（Schiappa法）",
+        "statusOrLevel": "15歳未満の児童に対する成人からの性行為を「同意なしの強姦」と擬制・時効30年へ延長",
+        "keyFeature": "配偶者・パートナー間での性暴力に対する厳罰化。公共空間での性的嫌がらせ（カトコーリング）への即時反則金制度や盗撮行為への厳しい懲役刑を導入。",
+        "source": {
+          "organization": "フランス法務省",
+          "title": "Code pénal - Des viols et agressions sexuelles et protection des mineurs",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダ刑法（Criminal Code）第273条肯定的同意原則（Affirmative Consent）",
+        "statusOrLevel": "性行為の全過程における継続的かつ積極的な同意合意を要求・泥酔状態での同意全面無効",
+        "keyFeature": "「沈黙や受動的服従は同意ではない」と法文上明記。最高裁判決（Ewanchuk事件等）により、主観的な「相手も同意していると思った」という誤信の抗弁を厳格に排除。",
+        "source": {
+          "organization": "カナダ司法省 (Department of Justice)",
+          "title": "Criminal Code provisions on Sexual Assault and Consent",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "各州刑法改正（肯定的同意・Affirmative Consentモデル）",
+        "statusOrLevel": "ニューサウスウェールズ州・ビクトリア州等における同意確認努力（合理的措置）義務化",
+        "keyFeature": "行為者が性行為時に「相手が同意していることを確認するために合理的な言葉や行動をとったか」を立証できなければ有罪となる積極的合意法制を標準化。",
+        "source": {
+          "organization": "豪司法長官省 (Attorney-General's Department)",
+          "title": "National Principles to Address Coercive Control and Affirmative Consent Laws",
+          "url": "https://www.australia.gov.au"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "改正刑法（2023年施行・不同意性交等罪）および性的姿態撮影処罰法新設",
+        "statusOrLevel": "従来の「強制性交等罪」を改め「不同意性交等罪」創設・公訴時効5年延長・性交同意年齢16歳へ引上げ",
+        "keyFeature": "暴行・脅迫だけでなく「アルコール・薬物の影響」「地位に基づく影響力（虐待・上下関係）」など処罰対象となる8つの具体的要件を明示。盗撮行為を全国一律で厳罰化する撮影罪も同時制定。",
+        "source": {
+          "organization": "法務省",
+          "title": "刑法及び刑事訴訟法の一部を改正する法律並びに性的姿態撮影等処罰法の概要",
+          "url": "https://www.moj.go.jp"
+        }
+      }
+    ]
+  }
 }

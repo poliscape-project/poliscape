@@ -185,5 +185,102 @@
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における次世代革新炉（SMR・第4世代高温ガス炉）の国家開発戦略・規制認可比較",
+    "comparisonSummary": "脱炭素電源の確保とエネルギー安全保障のため、米国・英国・フランス・日本は小型モジュール炉（SMR）や高温ガス炉の官民共同開発に数千億円規模の国費を投入し、規制認可の迅速化を進めています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "エネルギー省（DOE）先進的原子炉実証プログラム（ARDP）",
+        "statusOrLevel": "ニュースケール（NuScale）、テラパワー（Natrium）、X-energy等への数十億ドル直接助成",
+        "keyFeature": "原子力規制委員会（NRC）がNuScaleのSMR設計認証を世界で初めて正式承認。石炭火力発電所跡地にSMRを建設し、送電網インフラを再利用するプロジェクトを推進。",
+        "source": {
+          "organization": "米国エネルギー省 (DOE) / 原子力規制委員会 (NRC)",
+          "title": "Advanced Reactor Demonstration Program (ARDP) and SMR Licensing",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "グレート・ブリティッシュ・ニュークリア（Great British Nuclear: GBN）SMR技術選定",
+        "statusOrLevel": "政府機関GBNが主導する数十億ポンドのSMRコンペ・2030年代の商業運転開始目標",
+        "keyFeature": "ロールス・ロイス製SMRなどを最終選考。包括的設計審査（GDA）を迅速化し、2050年までに原発設備容量を2,400万kW（国内電力の25%）へ引き上げるロードマップを推進。",
+        "source": {
+          "organization": "英国エネルギー安全保障・ネットゼロ省 (DESNZ) / GBN",
+          "title": "Great British Nuclear and Small Modular Reactor Technology Selection",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "フランス2030（France 2030）革新炉支援およびNuward SMRプロジェクト",
+        "statusOrLevel": "EDF主導のSMR「Nuward」開発に10億ユーロ助成・EPR2大型革新炉6基新設着工",
+        "keyFeature": "欧州原子力安全機関（ASN等）と多国間共同規制審査（Joint Early Review）を主導。産業用高温熱供給や水素製造を視野に入れた小型炉実証を国家プロジェクトとして推進。",
+        "source": {
+          "organization": "フランス生態移行・エネルギー省 / フランス2030",
+          "title": "France 2030 : Développement de réacteurs nucléaires innovants (SMR)",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダSMRアクションプラン（SMR Action Plan）",
+        "statusOrLevel": "オンタリオ・パワー・ジェネレーション（OPG）ダーリントン原発敷地内でのGE日立製BWRX-300着工",
+        "keyFeature": "G7で最も早く商業用グリッド接続SMRの現地建設に着手。カナダ原子力安全委員会（CNSC）が認可プロセスを主導し、2028〜2029年の運転開始を計画。",
+        "source": {
+          "organization": "カナダ天然資源省 (NRCan) / CNSC",
+          "title": "Canada's Small Modular Reactor (SMR) Action Plan",
+          "url": "https://www.canada.ca"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "商業用高温ガス炉（HTR-PM）および陸上SMR「玲龍一号（ACP100）」",
+        "statusOrLevel": "山東省石島湾の高温ガス炉が商業運転開始・海南省で陸上SMRの建設進行中",
+        "keyFeature": "世界初となる第4世代原子炉（HTR-PM）の商用グリッド連系を達成。水冷却を必要としないヘリウム冷却ペブルベッド型により過酷事故時の受動的安全性を実証。",
+        "source": {
+          "organization": "中華人民共和国国家エネルギー局 (NEA)",
+          "title": "Commercial Operation of High-Temperature Gas-Cooled Reactor (HTR-PM)",
+          "url": "https://www.gov.cn"
+        }
+      },
+      {
+        "country": "ポーランド",
+        "countryCode": "PL",
+        "flag": "🇵🇱",
+        "systemName": "国営・民間重工業主導のSMR大量導入計画（ORLEN Synthos Green Energy等）",
+        "statusOrLevel": "脱石炭火力転換に向け、数十基規模のBWRX-300小型炉導入計画を政府承認",
+        "keyFeature": "気候変動対策とロシア産化石燃料からの完全脱却を目指し、民間エネルギー・化学企業が中心となってSMRを産業拠点へ集中配置する画期的モデルを推進。",
+        "source": {
+          "organization": "ポーランド気候環境省 / 国立原子力機関 (PAA)",
+          "title": "Polish Nuclear Power Programme and Small Modular Reactor Strategy",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "GX脱炭素電源法に基づく次世代革新炉（革新軽水炉・SMR・高温ガス炉）開発ロードマップ",
+        "statusOrLevel": "三菱重工（SRZ-1200）等の革新軽水炉開発支援・JAEA高温工学試験研究炉（HTTR）実証",
+        "keyFeature": "廃炉を決定した原発の敷地内での次世代革新炉への建替え（リプレース）を具体化。高温ガス炉による水素製造実証や日米英連携のナトリウム冷却高速炉開発を進める。",
+        "source": {
+          "organization": "経済産業省資源エネルギー庁",
+          "title": "次世代革新炉の開発・建設に向けた工程表及びGX実現に向けた基本方針",
+          "url": "https://www.meti.go.jp"
+        }
+      }
+    ]
+  }
 }

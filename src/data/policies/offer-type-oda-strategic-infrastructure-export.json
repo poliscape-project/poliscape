@@ -185,5 +185,102 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Scale"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における提案型開発協力（オファー型ODA）・戦略的経済協力・インフラ輸出枠組み比較",
+    "comparisonSummary": "途上国からの要請を待つ「要請主義」の限界を克服し、経済安全保障やサプライチェーン強靭化を図るため、欧米諸国は自ら主導して案件を形成・提案する「オファー型協力（Global Gateway・PGII）」へ全面転換しています。",
+    "countries": [
+      {
+        "country": "欧州連合 (EU)",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "グローバル・ゲートウェイ（Global Gateway）戦略",
+        "statusOrLevel": "2027年までに官民で最大3,000億ユーロを動員する戦略的インフラ提案型パッケージ",
+        "keyFeature": "中国の「一帯一路」に対抗し、デジタル・気候変動・重要鉱物分野でEU側から包括的プロジェクトを途上国へ提案。Team Europe（EU機関・各国援助機関・民間企業）が一体化。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "Global Gateway - Strategic Infrastructure and Development Partnerships",
+          "url": "https://www.oecd.org"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "グローバル・インフラ投資パートナーシップ（PGI: Partnership for Global Infrastructure and Investment）",
+        "statusOrLevel": "G7枠組みで6,000億ドル規模の動員を目指す戦略的インフラ投資・DFC（国際開発金融公社）融資",
+        "keyFeature": "途上国の要請待ちではなく、ロビト回廊（アフリカ重要鉱物鉄道）のように米国の経済安保に直結する戦略案件を自ら企画し、低利融資と官民投資をパッケージ提案。",
+        "source": {
+          "organization": "米国国際開発金融公社 (DFC) / 国務省",
+          "title": "Partnership for Global Infrastructure and Investment (PGI) Initiatives",
+          "url": "https://www.usa.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "フランス開発庁（AFD）戦略的案件形成およびプロパルコ（Proparco）民間投融資",
+        "statusOrLevel": "エネルギー移行パートナーシップ（JETP）等の気候・地政学重点案件を相手国へ逆提案",
+        "keyFeature": "アフリカ・インド太平洋諸国に対し、脱炭素・港湾・水インフラ事業をフランス企業連合（Eiffage、Total等）の技術と抱き合わせて政策対話の中でトップダウン提案。",
+        "source": {
+          "organization": "フランス外務・欧州省 / フランス開発庁 (AFD)",
+          "title": "Stratégie de développement solidaire et partenariats internationaux",
+          "url": "https://www.gouvernement.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦経済協力開発省（BMZ）グローバル移行パートナーシップおよびKfW開発銀行",
+        "statusOrLevel": "グリーン水素回廊・重要原材料調達に向けた二国間戦略協定の能動的形成",
+        "keyFeature": "アフリカや中南米諸国に対し、再エネ由来グリーン水素製造プラントの建設と独企業への長期オフテイク契約をワンセットにした開発協力モデルを積極的に提案。",
+        "source": {
+          "organization": "ドイツ連邦経済協力開発省 (BMZ) / KfW Entwicklungsbank",
+          "title": "BMZ-Strategie für nachhaltige Infrastruktur und Energiepartnerschaften",
+          "url": "https://www.bundesregierung.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "英国際投資公社（BII: British International Investment）インフラ投資戦略",
+        "statusOrLevel": "英国の外交・通商戦略に直結するクリーンインフラ・通信網への直接出資・オファー型組成",
+        "keyFeature": "旧来の慈善的無償援助から脱却し、投資リターンと相手国の経済成長を両立させるオファー型投融資を展開。アフリカでのデータセンターや太陽光発電網を主導。",
+        "source": {
+          "organization": "英国外務・英連邦・開発省 (FCDO) / BII",
+          "title": "British International Investment Strategy and Development Finance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "対外経済協力基金（EDCF）戦略的提案型事業（Pre-FS支援）",
+        "statusOrLevel": "相手国政府への事前フィージビリティスタディ（F/S）無償提供とインフラ受注直結モデル",
+        "keyFeature": "輸出入銀行（KEXIM）が韓国企業の強み（スマートシティ、高速鉄道、半導体関連インフラ）を活かしたマスタープランを策定して相手国に持ち込み、EDCF借款案件化。",
+        "source": {
+          "organization": "大韓民国企画財政部 / 韓国輸出入銀行 (KEXIM)",
+          "title": "Economic Development Cooperation Fund (EDCF) Strategic Projects",
+          "url": "https://www.korea.go.kr"
+        }
+      },
+      {
+        "country": "日本",
+        "countryCode": "JP",
+        "flag": "🇯🇵",
+        "systemName": "開発協力大綱改定（2023年）に基づく「オファー型ODA（提案型協力）」の創設",
+        "statusOrLevel": "相手国からの要請を待たず、日本の強みや戦略的関心に基づく開発協力メニューを能動的提案",
+        "keyFeature": "従来の受動的な「要請主義」を脱却。サプライチェーン強靭化、脱炭素（AZEC）、質の高いインフラ輸出を企図し、JICA・JBIC・民間企業が一体となった案件形成を推進。",
+        "source": {
+          "organization": "外務省",
+          "title": "開発協力大綱の改定及びオファー型開発協力の推進について",
+          "url": "https://www.mofa.go.jp"
+        }
+      }
+    ]
+  }
 }
