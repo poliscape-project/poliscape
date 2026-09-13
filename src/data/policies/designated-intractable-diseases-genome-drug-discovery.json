@@ -185,5 +185,89 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "ShieldAlert"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における希少疾病用医薬品（オーファンドラッグ）法制・ゲノム創薬支援",
+    "comparisonSummary": "患者数が極めて少ない希少疾患・難病の治療法確立に向け、米国、EU、英国等は税額控除、市場独占権付与、迅速承認パスウェイ、全ゲノム解析基盤の公費整備を展開し創薬を促しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "希少疾病用医薬品法（Orphan Drug Act: ODA）およびFDA希少疾患創薬アクセラレーター",
+        "statusOrLevel": "7年間の市場独占権付与・治験費用25%の税額控除・FDA審査手数料免除",
+        "keyFeature": "FDAの優先審査（Priority Review Voucher）制度により画期的難病治療薬の開発インセンティブを最大化。全米の希少疾患患者レジストリとゲノム創薬研究を直結。",
+        "source": {
+          "organization": "米国食品医薬品局 (FDA)",
+          "title": "Designating an Orphan Product: Drugs and Biological Products",
+          "url": "https://www.fda.gov"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU希少疾病用医薬品規則（Regulation (EC) No 141/2000）およびPRIME制度",
+        "statusOrLevel": "10年間の市場独占権（小児適応で12年間）および欧州医薬品庁（EMA）による優先審査",
+        "keyFeature": "欧州希少疾患レファレンスネットワーク（ERN）を通じてEU域内24の専門医療ネットワークを構築し、希少遺伝子疾患のゲノム診断・国際共同治験を推進。",
+        "source": {
+          "organization": "欧州医薬品庁 (EMA) / 欧州委員会 (European Commission)",
+          "title": "Orphan designation: Overview and regulatory framework",
+          "url": "https://www.ema.europa.eu"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "英国希少疾患行動計画（Rare Diseases Action Plan）およびジェノミクス・イングランド",
+        "statusOrLevel": "NHS（国民保健サービス）での全ゲノム解析（WGS）日常臨床導入と迅速アクセス制度",
+        "keyFeature": "10万人ゲノム計画をベースにNHSゲノミック・メディスン・サービスを構築。原因不明難病患者の全ゲノム解析を無償で実施し新薬開発ターゲットを発掘。",
+        "source": {
+          "organization": "英国保健社会的ケア省 (DHSC) / Genomics England",
+          "title": "England Rare Diseases Action Plan and Genomic Medicine Service",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "国家希少疾患計画（Plan National Maladies Rares: PNMR）",
+        "statusOrLevel": "希少疾患専門センター（CRMR）ネットワークと早期アクセス承認（Accès Précoce）制度",
+        "keyFeature": "公的保険による未承認オーファンドラッグの早期アクセス費用全額補填。フランスゲノム医療2025計画に基づく高速シーケンス基盤運用。",
+        "source": {
+          "organization": "フランス連帯・保健省 (Ministère de la Santé)",
+          "title": "Plan national maladies rares (PNMR) et accès précoce aux médicaments",
+          "url": "https://sante.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家希少疾患戦略行動計画（National Strategic Action Plan for Rare Diseases）",
+        "statusOrLevel": "薬品給付制度（PBS）の希少疾患薬迅速収載およびTGAオーファン指定制度",
+        "keyFeature": "ゲノミクス・ヘルス・フューチャーズ・ミッションによる連邦基金（5億豪ドル）を投じ、小児遺伝性難病のゲノム解析とプレシジョン創薬を公費助成。",
+        "source": {
+          "organization": "オーストラリア保健・高齢者福祉省 (Department of Health and Aged Care)",
+          "title": "National Strategic Action Plan for Rare Diseases",
+          "url": "https://www.health.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "希少疾患管理法（Rare Disease Management Act）および国家バイオビッグデータ事業",
+        "statusOrLevel": "指定希少疾患の自己負担上限10%特例制度および迅速審査特例制度",
+        "keyFeature": "疾病管理庁（KDCA）が希少疾患指定を毎年拡大。100万人規模のバイオビッグデータ構築事業と連携し、希少難病患者の全ゲノム解析と国産新薬開発を直結支援。",
+        "source": {
+          "organization": "大韓民国疾病管理庁 (KDCA) / 食品医薬品安全処 (MFDS)",
+          "title": "Rare Disease Management Act and Support Policies",
+          "url": "https://www.kdca.go.kr"
+        }
+      }
+    ]
+  }
 }

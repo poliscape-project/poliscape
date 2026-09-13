@@ -185,5 +185,102 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Calendar"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における認知症施策推進法および意思決定支援・バリアフリー金融",
+    "comparisonSummary": "超高齢化が進む先進諸国では、認知症当事者の尊厳保持と自己決定権の尊重を軸とした基本法整備が進んでいます。特に英国やドイツでは本人の意思決定能力を補佐する法制度や金融機関の代行取引ガイドラインが先行しています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "意思決定能力法（Mental Capacity Act 2005）および認知症フレンドリー金融憲章",
+        "statusOrLevel": "法的な継続的代理権（LPA）のオンライン登録制度および銀行協会の認知症対応指針",
+        "keyFeature": "能力の推定原則に基づき、本人が意思決定できるよう最大限の支援を義務付け。英国銀行協会（UK Finance）が認知症フレンドリーな口座管理・代理権確認の共通プロトコルを運用。",
+        "source": {
+          "organization": "英国司法省 (Ministry of Justice) / UK Finance",
+          "title": "Mental Capacity Act 2005 guidance and Dementia-Friendly Financial Services Charter",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "成年世話法（Betreuungsrecht）大改正（2023年施行）および国家認知症戦略",
+        "statusOrLevel": "本人の意思尊重・代理人による代行から支援付き意思決定（Unterstützte Entscheidungsfindung）への大転換",
+        "keyFeature": "従来の包括的代理から、本人の意思と選好を最優先する世話人制度へ抜本改正。銀行取引においても委任状（Vorsorgevollmacht）の事前登録と本人の自己決定支援を制度化。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ) / 連邦保健省 (BMG)",
+          "title": "Reform des Vormundschafts- und Betreuungsrechts und Nationale Demenzstrategie",
+          "url": "https://www.bmj.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "全米アルツハイマー病対策法（NAPA: National Alzheimer's Project Act）および高齢者金融保護法制",
+        "statusOrLevel": "連邦諮問委員会による国家戦略更新と消費者金融保護局（CFPB）による金融詐欺・資産保護規制",
+        "keyFeature": "CFPBが金融機関向けに認知能力低下顧客の資産保護・成年後見・信頼できる連絡先（Trusted Contact）設定のガイドラインを策定。",
+        "source": {
+          "organization": "米国保健福祉省 (HHS) / 消費者金融保護局 (CFPB)",
+          "title": "National Plan to Address Alzheimer's Disease and CFPB Managing Someone Else's Money",
+          "url": "https://www.hhs.gov"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "国家認知症戦略（Nationell strategi för demenssjukdom）およびシルフィアホームモデル",
+        "statusOrLevel": "自治体主導の個別ケアプラン策定と成年後見人（God man）制度",
+        "keyFeature": "国王財団シルフィアホームによる包括的認知症ケア認定。金融機関や行政手続きにおいて本人の同意と親族・後見人によるサポート手続きを明確化。",
+        "source": {
+          "organization": "スウェーデン保健福祉庁 (Socialstyrelsen)",
+          "title": "Nationella riktlinjer för vård och omsorg vid demenssjukdom",
+          "url": "https://www.socialstyrelsen.se"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家認知症行動計画（National Dementia Action Plan）および銀行協会認知症ガイドライン",
+        "statusOrLevel": "オーストラリア銀行協会（ABA）による脆弱な顧客保護指針および認知症当事者参画",
+        "keyFeature": "ABAが金融機関向けに「認知機能が低下した顧客への対応原則」を定め、委任状悪用防止と本人の金融アクセス維持の両立を推進。",
+        "source": {
+          "organization": "オーストラリア保健・高齢者福祉省 (Department of Health and Aged Care) / ABA",
+          "title": "National Dementia Action Plan and ABA Cognitive Impairment Guidelines",
+          "url": "https://www.health.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "認知症国家責任制（Dementia National Responsibility System）および認知症安心センター",
+        "statusOrLevel": "全国256カ所の認知症安心センターによる早期スクリーニング・金融資産詐欺予防教育",
+        "keyFeature": "国家主導で医療費・介護費の自己負担を大幅軽減。金融監督院が認知症高齢者向けの資産信託・成年後見支援金融商品の普及を指導。",
+        "source": {
+          "organization": "大韓民国保健福祉部 (MOHW) / 金融監督院 (FSS)",
+          "title": "National Responsibility System for Dementia and Elderly Financial Protection",
+          "url": "https://www.mohw.go.kr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "意思決定能力法（Mental Capacity Act）および認知症フレンドリーコミュニティ（DFC）",
+        "statusOrLevel": "オンライン持久代理委託（e-LPA）システムの全国導入と金融機関自動照会",
+        "keyFeature": "意思能力喪失に備えた代理権登録を完全デジタル化。政府アプリSingpassを通じて銀行や医療機関が即座に法的権限を確認可能。",
+        "source": {
+          "organization": "シンガポール公的保護官事務所 (OPG) / 保健省 (MOH)",
+          "title": "Mental Capacity Act and Electronic Lasting Power of Attorney (eLPA) System",
+          "url": "https://www.msf.gov.sg"
+        }
+      }
+    ]
+  }
 }

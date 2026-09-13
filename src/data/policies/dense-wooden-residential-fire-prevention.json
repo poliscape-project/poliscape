@@ -205,5 +205,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の歴史的・過密木造市街地における防火法制・都市再開発比較",
+    "comparisonSummary": "歴史的経緯から形成された木造過密地域や狭小道路地区に対し、各国は建築基準法による耐火構造義務付け、避難道路整備、公的買収による防災空間創出など多層的な防火都市計画を展開しています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "建築安全法（Building Safety Act 2022）および消防安全法制",
+        "statusOrLevel": "過密都市部における防火区画・外壁不燃化基準の抜本厳格化",
+        "keyFeature": "密集市街地の狭小道路における消防活動困難区域の指定と、建替え時の不燃材料使用・スプリンクラー設置義務化。地方自治体による危険建築物の是正命令権限を強化。",
+        "source": {
+          "organization": "英国住宅・コミュニティ・地方自治省 (DLUHC)",
+          "title": "Building Safety Act 2022 and Fire Safety Guidance",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国際都市・野生インターフェース規範（IWUIC）および都市防火区画条例",
+        "statusOrLevel": "サンフランシスコ等の歴史的木造過密地区における耐震・防火レトロフィット義務化",
+        "keyFeature": "木造密集地域の建築物に対し、外壁耐火被覆、屋根不燃化、非常用消火設備設置を義務付け。低利融資と固定資産税猶予措置で自主建替えを後押し。",
+        "source": {
+          "organization": "米国連邦緊急事態管理庁 (FEMA) / 国際コード協議会 (ICC)",
+          "title": "International Wildland-Urban Interface Code and Urban Fire Safety",
+          "url": "https://www.fema.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦統一建築基準（Musterbauordnung: MBO）および都市再生法制",
+        "statusOrLevel": "歴史的旧市街（Altstadt）における厳格な防火壁（Brandwand）設置義務",
+        "keyFeature": "隣棟間隔が狭い過密市街地では境界壁に無開口の耐火防火壁設置を法定。自治体による都市整備措置（Städtebauliche Sanierungsmaßnahme）で道路拡幅を推進。",
+        "source": {
+          "organization": "ドイツ連邦住宅・都市開発・建築省 (BMWSB)",
+          "title": "Musterbauordnung und Städtebauförderung",
+          "url": "https://www.bmwsb.bund.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "都市計画法典（Code de l'urbanisme）および不衛生過密住居改善法制",
+        "statusOrLevel": "老朽過密市街地の収用・再開発特例区域（ZAC: 協調開発区域）制度",
+        "keyFeature": "火災リスクの高い狭小路地密集地を公共公益事業（DUP）宣言により一括収用・再開発。パリ等での中庭型防火避難経路の確保を義務化。",
+        "source": {
+          "organization": "フランス生態移行・国土結束省 (MTECT)",
+          "title": "Lutte contre l'habitat indigne et rénovation urbaine",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "都市及び住居環境整備法および小規模住宅整備特例法",
+        "statusOrLevel": "老朽低層住宅密集地における街区住宅整備事業および小規模再開発特例",
+        "keyFeature": "木造・老朽密集地域の消防車進入不能道路（幅員4m未満）解消に向け、公共主導のファストトラック再開発を実施。容積率緩和とインフラ整備公費支援。",
+        "source": {
+          "organization": "大韓民国国土交通部 (MOLIT)",
+          "title": "Act on the Improvement of Urban Areas and Residential Environments",
+          "url": "https://www.molit.go.kr"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "都市危険及老旧建築物加速重建条例（危老条例）",
+        "statusOrLevel": "狭小木造・耐震防火不足建築物の建替えに対する容積率最大1.4倍ボーナス",
+        "keyFeature": "土地所有者100%同意での迅速認可枠組みを設け、過密路地のセットバック（道路後退）拡幅と耐火建築物への更新を集中的に誘導。",
+        "source": {
+          "organization": "台湾内政部国土管理署 (National Land Management Agency)",
+          "title": "Urban Dangerous and Old Buildings Acceleration of Reconstruction Act",
+          "url": "https://www.moi.gov.tw"
+        }
+      }
+    ]
+  }
 }

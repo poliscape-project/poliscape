@@ -217,5 +217,89 @@
         "commentStandard": "「『5万円だけPayPayで残りは銀行』といった分割振込への対応で振込手数料と労務コストがかさむ」"
       }
     ]
+  },
+  "international": {
+    "title": "世界の給与デジタル払い（Payroll Card・電子マネー給与支給）法制比較",
+    "comparisonSummary": "キャッシュレス社会の進展やギグワーカーの増加を背景に、銀行口座を介さない給料支払い（資金移動業者・電子ウォレット・給料カード）について、各国は預金者保護と同等の安全性・換金性要件を設けて運用しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "公正労働基準法（FLSA）および連邦準備制度規則E（ペイロールカード規定）",
+        "statusOrLevel": "全米で定着する給与カード（Payroll Card）および即時賃金アクセス（EWA）",
+        "keyFeature": "給与カードでの支払いを認める一方、従業員に最低月1回の無料現金引き出し権を保障。銀行振込や小切手など従来の受取方法を選択する自由を義務付け。",
+        "source": {
+          "organization": "米国消費者金融保護局 (CFPB) / 労働省 (DOL)",
+          "title": "Payroll Card Rules under Regulation E and Fair Labor Standards Act",
+          "url": "https://www.consumerfinance.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "雇用権利法1996（Employment Rights Act 1996）およびFCA電子マネー規則",
+        "statusOrLevel": "電子マネー機関（EMI）口座への給与直接振込およびオープンバンキング連携",
+        "keyFeature": "労働者の明示的書面合意を条件に、FCA認可のフィンテック・デジタルウォレットへの賃金支払いを容認。資金保全（Safeguarding）規制で預金保険同等の保護を確保。",
+        "source": {
+          "organization": "英国金融行動監視機構 (FCA) / 雇用法制",
+          "title": "Electronic Money Regulations and wage payment methods under Employment Rights Act",
+          "url": "https://www.fca.org.uk"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "デジタル人民元（e-CNY）法制および公務員・民間給与直接支給制度",
+        "statusOrLevel": "江蘇省常熟市等での公務員・公的機関職員給与の100%デジタル人民元支給実現",
+        "keyFeature": "中央銀行デジタル通貨（CBDC）ウォレットに直接給料を振込。手数料ゼロ、銀行口座不要、オフライン決済可能で、国家主導の法定通貨デジタル化を推進。",
+        "source": {
+          "organization": "中国人民銀行 (PBOC)",
+          "title": "Digital Fiat Currency (e-CNY) Pilot Progress and Regulatory Guidelines",
+          "url": "http://www.pbc.gov.cn"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "雇用法（Employment Act）およびペイナウ（PayNow）給与振込システム",
+        "statusOrLevel": "MAS認可主要決済機関（MPI）ウォレットおよび国民ID連携即時給料送金",
+        "keyFeature": "雇用主は従業員の同意に基づき、銀行口座または認可電子決済アカウント（GrabPay等）に給与振込可能。資金決済法（PS Act）で顧客資金の分別管理を厳格化。",
+        "source": {
+          "organization": "シンガポール通貨庁 (MAS) / 人材開発省 (MOM)",
+          "title": "Employment Act salary payment guidelines and Payment Services Act",
+          "url": "https://www.mom.gov.sg"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "勤労基準法第43条（賃金直接払・通貨払の原則）および金融規制サンドボックス",
+        "statusOrLevel": "革新金融サービス特例による前払い電子支払手段（Pay）への給与振込実証",
+        "keyFeature": "原則として通貨（現金または銀行口座）支払いを義務付けつつ、破綻隔離信託スキームを備えた大型フィンテック業者への給与振込実証特例を認可。",
+        "source": {
+          "organization": "大韓民国雇用労働部 (MOEL) / 金融委員会 (FSC)",
+          "title": "Labor Standards Act wage payment principles and FinTech regulatory sandbox",
+          "url": "https://www.moel.go.kr"
+        }
+      },
+      {
+        "country": "フィリピン",
+        "countryCode": "PH",
+        "flag": "🇵🇭",
+        "systemName": "フィリピン中央銀行（BSP）国家決済システム法および電子マネー給料振込促進",
+        "statusOrLevel": "GCash・Maya等の認可EMI電子ウォレットへの給与直接振込が全土に定着",
+        "keyFeature": "銀行口座未保有者（Unbanked層）の金融包摂を目的に、電子マネーへの給料支給を積極公認。雇用主の現金手渡しリスクを排除しデジタル明細発行を義務付け。",
+        "source": {
+          "organization": "フィリピン中央銀行 (Bangko Sentral ng Pilipinas - BSP)",
+          "title": "National Payment Systems Act and Electronic Money Issuer Regulations",
+          "url": "https://www.bsp.gov.ph"
+        }
+      }
+    ]
   }
 }

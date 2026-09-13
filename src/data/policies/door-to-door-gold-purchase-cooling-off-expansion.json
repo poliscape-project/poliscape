@@ -205,5 +205,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "FileCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の訪問購入（Door-to-door Buying / 押し買い）規制および消費者保護法制",
+    "comparisonSummary": "高齢者宅等に突然押しかけて貴金属や美術品を安価で強引に買い叩く悪質手口（押し買い）に対し、主要国では不招請勧誘の禁止、クーリングオフ期間中の物品引渡し拒絶権、即時現金払いの禁止などの厳格規制を導入しています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "消費者契約規則2013（Consumer Contracts Regulations 2013）",
+        "statusOrLevel": "事業所外取引における14日間の無条件契約解除権（クーリングオフ）完全保障",
+        "keyFeature": "家庭内での訪問取引において、事前の明確な約束がない勧誘（不招請勧誘）を厳格規制。クーリングオフ期間内の物品転売を禁止し、違反業者には刑事罰を含む制裁。",
+        "source": {
+          "organization": "英国企業・通商省 (DBT) / 競争・市場庁 (CMA)",
+          "title": "The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦取引委員会（FTC）クーリングオフ規則（16 CFR Part 429）",
+        "statusOrLevel": "自宅・事業所以外で行われる25ドル以上の売買取引に対する3日間の無条件解約権",
+        "keyFeature": "業者に対して解約権告知書面の交付を義務付け。高齢者を標的とした貴金属や宝石の詐欺的買取りに対して各州司法長官（AG）が不公正取引防止法で厳格取締り。",
+        "source": {
+          "organization": "米国連邦取引委員会 (FTC)",
+          "title": "FTC Cooling-Off Rule: When and How to Cancel an In-Home Transaction",
+          "url": "https://www.ftc.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "消費者法典（Code de la consommation）訪問販売・買取り厳格規制",
+        "statusOrLevel": "14日間の撤回権保障および貴金属・金地金の訪問買取り時における現金決済全面禁止",
+        "keyFeature": "マネーロンダリング防止および消費者保護のため、貴金属の買取り取引はすべて銀行振込または記名小切手決済を義務化。訪問時の即日引き渡し要求を厳密に制限。",
+        "source": {
+          "organization": "フランス経済・財務・産業主権省 (DGCCRF)",
+          "title": "Code de la consommation: Démarchage à domicile et achat de métaux précieux",
+          "url": "https://www.economie.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "民法典（BGB § 312b）事業所外契約（Außergeschäftsraumverträge）規制",
+        "statusOrLevel": "14日間の撤回権（Widerrufsrecht）および古物商営業許可法制（Gewerbeordnung）",
+        "keyFeature": "消費者宅で締結された物品売買契約について、適切な告知がない場合は撤回権期間を最大1年14日に延長。貴金属買取り業者の身元確認・記録保存義務を徹底。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ) / 連邦消費者保護庁 (BMUV)",
+          "title": "Bürgerliches Gesetzbuch (BGB) Widerrufsrecht bei Außergeschäftsraumverträgen",
+          "url": "https://www.bmj.de"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "オーストラリア消費者法（ACL: Australian Consumer Law）不招請取引規則",
+        "statusOrLevel": "不招請訪問取引における10営業日のクーリングオフ期間および訪問時間規制",
+        "keyFeature": "事前の承諾なき訪問購入勧誘を制限。クーリングオフ期間中に業者が物品を受け取ることを制限し、消費者が物品引渡しを留保できる権利を明文化。",
+        "source": {
+          "organization": "オーストラリア競争・消費者委員会 (ACCC)",
+          "title": "Unsolicited consumer agreements and door-to-door selling rules",
+          "url": "https://www.accc.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "訪問販売等に関する法律および古物営業・貴金属取引保護指針",
+        "statusOrLevel": "14日間の青約撤回権保障および訪問買取事業者の登録・身元提示義務化",
+        "keyFeature": "公正取引委員会が不当な勧誘・契約強要を禁止。高齢者宅での強引な貴金属買取に対して行政処分と刑事告発を連動させる特別取締体制を運用。",
+        "source": {
+          "organization": "大韓民国公正取引委員会 (KFTC) / 警察庁",
+          "title": "Act on Door-to-Door Sales and Consumer Protection Measures",
+          "url": "https://www.ftc.go.kr"
+        }
+      }
+    ]
+  }
 }

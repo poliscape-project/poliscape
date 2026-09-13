@@ -179,5 +179,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Briefcase"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要先進国における博士課程大学院生の生活費支援・研究環境処遇比較",
+    "comparisonSummary": "科学技術イノベーションの国際競争力を支えるため、米欧主要国では博士課程学生を「無償給与の学生」ではなく「給与と社会保険が支給される初期研究者（従業員）」として雇用する制度が定着しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "全米科学財団大学院研究フェローシップ（NSF GRFP）およびRA/TA雇用給与体系",
+        "statusOrLevel": "博士院生の約8割が年間3万5,000ドル〜4万5,000ドル程度の生活費＋授業料全額免除を受給",
+        "keyFeature": "研究助手を務めるRA（Research Assistant）や教育助手のTAとして大学と雇用契約を締結。医療保険も大学負担で支給され、経済的自立を前提に研究に専念。",
+        "source": {
+          "organization": "米国全米科学財団 (NSF) / 各州立大学・私立大学連合",
+          "title": "NSF Graduate Research Fellowship Program (GRFP) and Graduate Stipends",
+          "url": "https://www.nsf.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "公務員労働協約（TV-L / TVöD）に基づく研究員雇用契約およびDFG研究奨励",
+        "statusOrLevel": "博士学生を大学・マックスプランク研究所等の公的研究機関で研究員雇用（TV-L E13の50%〜100%給与）",
+        "keyFeature": "月額2,000〜3,500ユーロ超の給与に加え、公的年金・医療保険・失業保険が完全付与される。大学授業料は全国で原則無料。",
+        "source": {
+          "organization": "ドイツ研究振興協会 (DFG) / 連邦教育研究省 (BMBF)",
+          "title": "Wissenschaftszeitvertragsgesetz (WissZeitVG) und Promotionsstellen",
+          "url": "https://www.dfg.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "博士契約（Contrat doctoral）制度および研究プログラミング法（LPR）",
+        "statusOrLevel": "国家統一労働契約による最低給与保障（月額税抜約2,100ユーロ〜）および完全社会保障",
+        "keyFeature": "3年間の有期労働者として公立大学・公的研究機関と雇用契約を締結。企業と大学が共同雇用する産業協定博士（CIFRE）制度により民間企業研究者へのキャリアパスを直結。",
+        "source": {
+          "organization": "フランス高等教育・研究省 (MESR)",
+          "title": "Le contrat doctoral et le financement des thèses (Loi de programmation de la recherche)",
+          "url": "https://www.enseignementsup-recherche.gouv.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "英国研究・イノベーション機構（UKRI）大学院スチューデントシップ",
+        "statusOrLevel": "非課税の生活費スティペンド（年間約1万9,000ポンド超〜）および学費全額給付",
+        "keyFeature": "UKRI傘下の研究会議が包括予算を各大学の博士訓練拠点（CDT）に配分。物価高騰に連動した定期的な給付単価引き上げを実施。",
+        "source": {
+          "organization": "英国研究・イノベーション機構 (UKRI)",
+          "title": "UKRI postgraduate studentship stipends and funding policy",
+          "url": "https://www.ukri.org"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "高等教育令（Högskoleförordningen）博士研究員正規雇用制度",
+        "statusOrLevel": "大学院入学と同時に大学のフルタイム雇用職員となり月額約3万〜3万5,000クローナ支給",
+        "keyFeature": "博士学生に対する無給や奨学金のみの在籍を法律で原則禁止。有給休暇・育児休業・退職金権利が正職員と同等に完全保障される。",
+        "source": {
+          "organization": "スウェーデン高等教育庁 (UKÄ) / 教育省",
+          "title": "Högskoleförordningen: Doktorandanställning och villkor för forskarutbildning",
+          "url": "https://www.uka.se"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "ブレイン・コリア21（BK21）および研究生活奨励金（韓国版Stipend制度）",
+        "statusOrLevel": "理工系博士課程学生に対する月額最低保障（月150万〜200万ウォン以上）の国家制度化",
+        "keyFeature": "国家R&Dプロジェクトの学生人件費プール制度を拡充し、教員の外部資金獲得状況に左右されない基礎生活費の安定支給を科学技術特別法で制度化。",
+        "source": {
+          "organization": "大韓民国科学技術情報通信部 (MSIT) / 教育部 (MOE)",
+          "title": "Brain Korea 21 (BK21) and National Science & Technology Research Stipend Plan",
+          "url": "https://www.msit.go.kr"
+        }
+      }
+    ]
+  }
 }

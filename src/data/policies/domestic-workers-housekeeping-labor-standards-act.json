@@ -185,5 +185,89 @@
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "TrendingDown"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の家事労働者・家政婦に対する労働法適用および雇用保障制度比較",
+    "comparisonSummary": "個人家庭内で働く家事代行・介護労働者は労働基準法等の除外対象とされやすい歴史的経緯がありましたが、ILO第189号条約の採択以降、主要国では法定最低賃金、労働時間規制、労災保険の適用が法制化されています。",
+    "countries": [
+      {
+        "country": "国際労働機関",
+        "countryCode": "ILO",
+        "flag": "🇺🇳",
+        "systemName": "家庭内労働者の適切な労働条件に関する条約（ILO第189号条約: 2011年採択）",
+        "statusOrLevel": "世界の家事労働者に一般労働者と同等のディーセント・ワーク基準を保障する国際基準",
+        "keyFeature": "書面契約の義務化、法定最低賃金の適用、週休24時間の保障、労災補償、暴力・ハラスメントからの保護を批准国に法定義務付け。",
+        "source": {
+          "organization": "国際労働機関 (ILO)",
+          "title": "Domestic Workers Convention, 2011 (No. 189)",
+          "url": "https://www.ilo.org"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "小切手雇用制度（CESU: Chèque Emploi Service Universel）および個別雇用主集団協約",
+        "statusOrLevel": "個人家庭雇用家事代行に対する公的社会保険の完全適用と50%所得税額控除",
+        "keyFeature": "CESUシステムにより雇用主（個人）は簡素なWeb申告で給与支払いと社会保険料納付を完結。家事労働者は最低賃金や年金・失業保険が完全保障される。",
+        "source": {
+          "organization": "フランス労働・雇用・連帯省 (Ministère du Travail) / URSSAF",
+          "title": "Le Chèque emploi service universel (Cesu) et la convention collective nationale",
+          "url": "https://www.travail-emploi.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "労働時間法およびミニジョブ・家庭内雇用（Minijob in Privathaushalten）制度",
+        "statusOrLevel": "私的家庭雇用への法定最低賃金適用および少額雇用センター（Minijob-Zentrale）登録義務",
+        "keyFeature": "個人雇用主がミニジョブセンターに登録することで、割安な社会保険料負担で法的な労災保険・年金資格を付与。労働基準法上の有給休暇・疾病手当も適用。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省 (BMAS) / Minijob-Zentrale",
+          "title": "Haushaltshilfen: Arbeitsrechtliche Grundlagen und Minijob-Zentrale",
+          "url": "https://www.bmas.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "家事労働者権利章典（Domestic Workers Bill of Rights - 各州制定法）",
+        "statusOrLevel": "ニューヨーク州、カリフォルニア州、イリノイ州等における労働基準法適用拡大",
+        "keyFeature": "歴史的適用除外を撤廃し、超過勤務手当（残業代）、最低賃金、差別・セクハラ防止法、書面雇用契約を義務化。連邦レベルでも法案が議会審議中。",
+        "source": {
+          "organization": "米国労働省 (DOL) / ニューヨーク州労働局",
+          "title": "New York State Domestic Workers' Bill of Rights and Federal FLSA coverage",
+          "url": "https://www.dol.gov"
+        }
+      },
+      {
+        "country": "フィリピン",
+        "countryCode": "PH",
+        "flag": "🇵🇭",
+        "systemName": "カサムバハイ法（Batas Kasambahay - RA 10361 家事労働者保護法）",
+        "statusOrLevel": "国内家事労働者の法定最低賃金・公的社会保障（SSS/PhilHealth）強制加入",
+        "keyFeature": "ILO189号条約批准に基づき制定。1日8時間労働、年次有給休暇、雇用主による社会保険料全額負担（最低賃金受給者の場合）を法定義務化。",
+        "source": {
+          "organization": "フィリピン労働雇用省 (DOLE)",
+          "title": "Republic Act No. 10361 Domestic Workers Act (Batas Kasambahay)",
+          "url": "https://www.dole.gov.ph"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "家事労働者雇用改善等に関する法律（家事労働者法: 2022年施行）",
+        "statusOrLevel": "70年ぶりに勤労基準法の適用除外を解消・政府公認「家事サービス提供機関」制度",
+        "keyFeature": "政府認証を受けた法人事業所が家事労働者を直接正規雇用し、勤労基準法、退職金、有給休暇、4大社会保険を全面適用。サービス利用者へも公的品質保証を提供。",
+        "source": {
+          "organization": "大韓民国雇用労働部 (MOEL)",
+          "title": "Act on the Employment Improvement of Domestic Workers",
+          "url": "https://www.moel.go.kr"
+        }
+      }
+    ]
+  }
 }

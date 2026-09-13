@@ -127,5 +127,89 @@
       "type": "white_paper",
       "typeLabel": "協会提言資料"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の尊厳死・事前ケア計画（Advance Care Planning: ACP）・終末期意思決定法制",
+    "comparisonSummary": "過剰な延命治療を控え本人の意思に基づく平穏な死を迎えるための法制として、リビングウィル（事前指示書）の法的有効性の確立や医師による治療指示書（POLST）の標準化が欧米諸国で先行しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "患者自己決定法（PSDA: Patient Self-Determination Act）およびPOLST制度",
+        "statusOrLevel": "全米各州における事前医療指示書（Living Will）および医師延命治療指示書（POLST）の法定化",
+        "keyFeature": "メディケア・メディケイド受給医療機関に対し、入院時に事前指示書の有無確認と情報提供を法定義務化。医師の署名付きPOLSTは救急搬送時にも即座に拘束力を持つ。",
+        "source": {
+          "organization": "米国保健福祉省 (HHS) / 国立衛生研究所 (NIH)",
+          "title": "Advance Care Planning: Healthcare Directives and POLST Paradigm",
+          "url": "https://www.nia.nih.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "意思決定能力法（Mental Capacity Act 2005）ADRT規定",
+        "statusOrLevel": "治療拒否の事前決定（Advance Decision to Refuse Treatment: ADRT）の法的拘束力保障",
+        "keyFeature": "意思能力がある間に作成されたADRTは医師に対して法的拘束力を持つ。終末期の栄養補給や人工呼吸器の中止を本人が事前に合法的に拒否可能。",
+        "source": {
+          "organization": "英国国民保健サービス (NHS) / 司法省",
+          "title": "Advance decision (living will) and Advance Statement of Wishes",
+          "url": "https://www.nhs.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "患者遺言法（Patientenverfügungsgesetz - BGB § 1827）",
+        "statusOrLevel": "民法典に明記された患者遺言（Patientenverfügung）の絶対的拘束力",
+        "keyFeature": "特定の病状における延命治療の同意または不同意を明記した書面は、疾患の時期や段階に関わらず医師・世話人に完全な拘束力を持つ。裁判所の許可も原則不要。",
+        "source": {
+          "organization": "ドイツ連邦法務省 (BMJ)",
+          "title": "Patientenverfügung: Gesetzliche Verankerung im Bürgerlichen Gesetzbuch",
+          "url": "https://www.bmj.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "延命医療決定法（ホスピス・緩和ケア及び終末期患者の延命医療決定に関する法律）",
+        "statusOrLevel": "国家主導の事前延命医療意向書（AD）全国登録システム（登録者200万人突破）",
+        "keyFeature": "19歳以上であれば全国の登録機関で事前指示書を電子登録可能。終末期判定を受けた患者について、心肺蘇生や人工呼吸器など4大延命医療の中止が合法的に執行可能。",
+        "source": {
+          "organization": "大韓民国保健福祉部 (MOHW) / 国立延命医療管理機関 (NMC)",
+          "title": "Act on Decisions on Life-Sustaining Treatment for Patients at the End of Life",
+          "url": "https://www.mohw.go.kr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "事前ケア指示法（Advance Care Directives Act）および各州尊厳死法（VAD）",
+        "statusOrLevel": "全国共通のACP指針と全州における自発的尊厳死法（Voluntary Assisted Dying）制定完了",
+        "keyFeature": "治療不開始・中止の事前指示に加え、末期患者に対する厳格な要件（2名の医師判定、余命6カ月以内等）を満たした場合の自発的尊厳死・安楽死手続きを合法化。",
+        "source": {
+          "organization": "オーストラリア保健・高齢者福祉省 (Department of Health and Aged Care)",
+          "title": "Advance Care Planning and Voluntary Assisted Dying Legislative Framework",
+          "url": "https://www.health.gov.au"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "医療幇助自殺・尊厳死法（MAID: Medical Assistance in Dying - 連邦刑法改正）",
+        "statusOrLevel": "深刻で回復不能な病態にある成人に対する医療扶助による死の公的承認",
+        "keyFeature": "本人の明確な自発的要請に基づき、医師またはナース・プラクティショナーによる終末期援助を実施。年間全死亡の約4%を占め、厳格な報告・監視制度を運用。",
+        "source": {
+          "organization": "カナダ保健省 (Health Canada) / 司法省",
+          "title": "Medical assistance in dying: Overview and legislative reporting",
+          "url": "https://www.canada.ca"
+        }
+      }
+    ]
+  }
 }

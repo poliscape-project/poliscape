@@ -217,5 +217,89 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Heart"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の初等中等教育における国家カリキュラム準拠デジタル教科書の配備体系",
+    "comparisonSummary": "国定制・検定制をとる国々において、国家カリキュラムに対応したデジタル教科書の全国配備が進められています。通信環境格差（デジタルデバイド）への対策や紙の教材との最適な役割分担が各国の焦点です。",
+    "countries": [
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "スマート教育推進戦略および初中等教育法改正",
+        "statusOrLevel": "2025年からの小中高段階的AI教科書導入・生徒ごとの学習データダッシュボード",
+        "keyFeature": "紙教科書と同一内容をデジタル化する段階から、AIが個別指導を行うインテリジェント教材へと法制を抜本改正。貧困家庭へは高速通信費と端末を全額公費補助。",
+        "source": {
+          "organization": "大韓民国教育部 (MOE)",
+          "title": "Comprehensive Plan for Smart Education and AI Textbooks",
+          "url": "https://www.moe.go.kr"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "教育デジタル化計画（Plan Numérique pour l'Éducation）およびデジタル教材リソースマネージャー（GAR）",
+        "statusOrLevel": "全国統一のセキュアアクセス基盤（GAR）を通じた認定デジタル教科書配信",
+        "keyFeature": "生徒の個人情報を保護するため文部省直属のGARプラットフォームを運用。各出版社と提携し、紙の教科書購入校に割引・無償でデジタル版アクセスを付与。",
+        "source": {
+          "organization": "フランス国民教育・青少年省 (MENJ)",
+          "title": "Le gestionnaire d'accès aux ressources (GAR) et manuels numériques",
+          "url": "https://www.education.gouv.fr"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "学校法（Skollagen）改正および基礎教科書保障国家プロジェクト",
+        "statusOrLevel": "年間数億クローナを投じた紙教科書回帰支援とデジタル端末利用時間の制限指針",
+        "keyFeature": "6歳以下のデジタルスクリーン原則排除、小学校での紙の本による読書教育の義務化を推進。デジタルはプログラミングや探究科目に特化。",
+        "source": {
+          "organization": "スウェーデン教育省 (Regeringskansliet)",
+          "title": "Ändringar i skollagen för att stärカ elevernas tillgång till läroböcker",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "オーストラリア全国教育カリキュラム（ACARA）デジタルリソース基盤",
+        "statusOrLevel": "各州教育省によるデジタル教材ライセンスの一括購入と学校現場への配備",
+        "keyFeature": "全国カリキュラムACARAに直結した電子書籍・インタラクティブ教材を提供。農村・遠隔地（アウトバック）へのオフラインキャッシュ機能付き教材配信を標準化。",
+        "source": {
+          "organization": "オーストラリア教育・評価・報告機構 (ACARA)",
+          "title": "Australian Curriculum digital resources and accessibility frameworks",
+          "url": "https://www.acara.edu.au"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "エドテック戦略（EdTech Strategy）およびオーク・ナショナル・アカデミー",
+        "statusOrLevel": "政府公認オンライン教材アカデミーによる無償カリキュラム準拠デジタル教材の全国提供",
+        "keyFeature": "コロナ禍を機に設立されたOak National Academyを恒久公的機関化。質の高い授業動画とデジタル教科書を無償提供し、学校ごとの紙教材と併用。",
+        "source": {
+          "organization": "英国教育省 (DfE) / Oak National Academy",
+          "title": "EdTech Strategy and Oak National Academy Curriculum Resources",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "国家コアカリキュラム（National Core Curriculum）およびオープン教育リソースポータル（aoe.fi）",
+        "statusOrLevel": "地方自治体と教員の高度な教材採択自由度・紙とデジタルの柔軟な併用",
+        "keyFeature": "教科書の国定制・検定制を行わず、教員が紙とデジタルを自由に組み合わせる裁量を尊重。政府ポータル（AOE）で高品質なオープン教材を無償共有。",
+        "source": {
+          "organization": "フィンランド国家教育庁 (Opetushallitus)",
+          "title": "National Core Curriculum for Basic Education and Open Educational Resources",
+          "url": "https://www.oph.fi"
+        }
+      }
+    ]
+  }
 }

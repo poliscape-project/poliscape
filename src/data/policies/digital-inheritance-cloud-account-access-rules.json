@@ -205,5 +205,89 @@
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "FileCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界のデジタル遺産・オンラインアカウント承継法制比較",
+    "comparisonSummary": "クラウドストレージ、SNS、暗号資産、電子決済など死後のデジタル資産へのアクセス権とプライバシー保護を巡り、米国RUFADAA法やドイツ連邦通常裁判所判例など包括的なルール確立が進んでいます。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "デジタル資産への受託者アクセス統一法改正法（RUFADAA）",
+        "statusOrLevel": "全米ほぼすべての州で制定されたデジタル遺産アクセスの標準法制",
+        "keyFeature": "オンラインツールの事前指定（レガシー連絡先等）＞ 遺言書 ＞ 利用規約の3層構造で優先順位を明確化。通信内容自体の開示には本人の明示的同意を要求。",
+        "source": {
+          "organization": "全米統一法律委員会 (Uniform Law Commission)",
+          "title": "Revised Uniform Fiduciary Access to Digital Assets Act (RUFADAA)",
+          "url": "https://www.uniformlaws.org"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "民法典（BGB）一般相続原則および連邦通常裁判所（BGH）2018年デジタル遺産判決",
+        "statusOrLevel": "SNSアカウント・メッセージ履歴を「紙の日記・手紙」と同等に包括承継対象と認定",
+        "keyFeature": "利用契約上の権利義務は相続人に包括承継されると最高裁が明言。プライバシー権よりも相続人の財産・人格的承継権を優先し、事業者にアクセス提供を命令。",
+        "source": {
+          "organization": "ドイツ連邦通常裁判所 (BGH) / 連邦法務省 (BMJ)",
+          "title": "Urteil des Bundesgerichtshofs zum digitalen Nachlass (Az. III ZR 183/17)",
+          "url": "https://www.bundesgerichtshof.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "デジタル共和国法（Loi pour une République numérique）死後データ自己決定権",
+        "statusOrLevel": "個人情報保護法（Loi Informatique et Libertés）第85条に基づく事前指示権",
+        "keyFeature": "生前に自身の個人データの保存・削除・第三者開示に関する一般指針・個別指針を登録可能。CNIL認定の信頼できる第三者機関に死後データ執行を委託。",
+        "source": {
+          "organization": "フランス情報処理・自由全国委員会 (CNIL)",
+          "title": "Mort numérique: directive post-mortem et droits des héritiers",
+          "url": "https://www.cnil.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "法制度委員会（Law Commission）デジタル資産承継プロジェクト",
+        "statusOrLevel": "電子通信法・コンピュータ不正利用法との調整および遺言執行者アクセス法制化",
+        "keyFeature": "デジタル資産を「第3の個人財産（Third category of personal property）」として法的に位置づけ、クラウドサービス事業者へのデータ引き渡し要請権を明確化中。",
+        "source": {
+          "organization": "英国法律委員会 (Law Commission) / 司法省",
+          "title": "Digital Assets: Final Report and reform proposals",
+          "url": "https://www.lawcom.gov.uk"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "情報通信網法およびデジタル遺産承継特別法制定議論",
+        "statusOrLevel": "金融資産（ネットバンク・仮想資産）の法定相続人開示義務とSNS追悼アカウント制度",
+        "keyFeature": "電子金融・暗号資産取引所に対しては相続証明書提示による即時残高確認・払い戻しを義務付け。個人私生活通信データは遺言指定人への限定開示指針を策定。",
+        "source": {
+          "organization": "大韓民国個人情報保護委員会 (PIPC) / 放送通信委員会 (KCC)",
+          "title": "Digital Legacy Inheritance Guidelines and Protection Act",
+          "url": "https://www.pipc.go.kr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸G",
+        "systemName": "個人データ保護法（PDPA）死後データ規定および遺言執行法制",
+        "statusOrLevel": "死亡後10年間の個人データ保護原則と遺言執行者によるアカウント閉鎖請求権",
+        "keyFeature": "死亡者の個人データについて親族の開示請求権を限定しつつ、金融的価値のあるデジタル資産については遺言執行者（Executor）の管理権限を明確化。",
+        "source": {
+          "organization": "シンガポール個人データ保護委員会 (PDPC)",
+          "title": "Advisory Guidelines on Key Concepts in the Personal Data Protection Act",
+          "url": "https://www.pdpc.gov.sg"
+        }
+      }
+    ]
+  }
 }

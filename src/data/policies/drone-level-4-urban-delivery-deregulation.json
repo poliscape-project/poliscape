@@ -185,5 +185,89 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Cpu"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の都市部・有人地帯ドローン目視外配送（BVLOS / レベル4）法制・社会実装比較",
+    "comparisonSummary": "第三者上空を含む都市部・住宅地でのドローン完全自律配送（日本におけるレベル4相当）の実現に向け、各国はエアキャリア認証、衝突回避センサー搭載義務、万一のパラシュート開傘基準などを法制化しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦航空法Part 135エアキャリア（定期航空運送事業）認証",
+        "statusOrLevel": "Alphabet Wing、Zipline、Amazon Prime Air等への商用有人地帯配送認可",
+        "keyFeature": "有人航空会社と同等の厳格なPart 135認証をドローン配送事業者に付与。テキサス州ダラス大都市圏等で戸建て住宅の庭先への日用品・医薬品自律配送が定着。",
+        "source": {
+          "organization": "米国連邦航空局 (FAA)",
+          "title": "FAA Part 135 Air Carrier Certification for Drone Delivery Operators",
+          "url": "https://www.faa.gov"
+        }
+      },
+      {
+        "country": "アイルランド",
+        "countryCode": "IE",
+        "flag": "🇮🇪",
+        "systemName": "アイルランド航空局（IAA）LUC（軽無人航空機システム運航者証明）",
+        "statusOrLevel": "Manna Drone Deliveryによるダブリン郊外住宅地での商用フード・医薬品配送",
+        "keyFeature": "EASA規則に基づくLUCを取得し、人口密集地域上空での数万件規模の自動配達を無事故で運用。テイクオフからデリバリーまでを自律航行しテザー（吊り下げ）降下。",
+        "source": {
+          "organization": "アイルランド航空局 (Irish Aviation Authority - IAA)",
+          "title": "Light UAS Operator Certificate (LUC) and urban delivery authorizations",
+          "url": "https://www.iaa.ie"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "民用無人操縦航空機安全管理条例（2024年施行）および美団（Meituan）商用認可",
+        "statusOrLevel": "深圳・上海等の超高層ビル密集都市部における日常的フード・物資ドローンデリバリー",
+        "keyFeature": "10万件以上の商業都市配送実績を公式公認。高層ビル屋上や街頭専用キオスク（自動受取ロッカー）への着陸ルートを都市インフラとして常設運用。",
+        "source": {
+          "organization": "中国民用航空局 (CAAC) / 国家空中交通管制委員会",
+          "title": "Regulations on the Safety Management of Civil Unmanned Aircraft",
+          "url": "http://www.caac.gov.cn"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "民間航空局（CAA）イノベーション・サンドボックスおよび有人地帯運航許可（Specific Category）",
+        "statusOrLevel": "NHS医療検体・緊急血液の都市部病院間定常BVLOS飛行認可",
+        "keyFeature": "人口集中地区上空を飛行するため、機体安全冗長化システム（二重電源・緊急着陸パラシュート・自動衝突回避DAA）の装備を厳格義務付け。",
+        "source": {
+          "organization": "英国民間航空局 (CAA)",
+          "title": "CAA Innovation Sandbox and Specific Category Operations Authorisation",
+          "url": "https://www.caa.co.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "CASA有人地帯目視外飛行特別認可（BVLOS over Populated Areas）",
+        "statusOrLevel": "キャンベラ、クイーンズランド州ローガン等での住宅街直上ドローン商業配送運用",
+        "keyFeature": "騒音基準ガイドラインを策定し住民受容性を確保。フェイルセーフ機能として通信遮断時の自動帰還（RTH）および安全着陸モードを法定義務化。",
+        "source": {
+          "organization": "オーストラリア民間航空安全局 (CASA)",
+          "title": "Operations over populated areas and drone noise regulations",
+          "url": "https://www.casa.gov.au"
+        }
+      },
+      {
+        "country": "ルワンダ",
+        "countryCode": "RW",
+        "flag": "🇷🇼",
+        "systemName": "ルワンダ民間航空局（RCAA）性能ベース国家ドローン法制（Performance-Based Regulation）",
+        "statusOrLevel": "Ziplineによる国家全土病院への輸血用血液・ワクチン24時間目視外配送ネットワーク",
+        "keyFeature": "世界に先駆けて固定翼長距離自律ドローンの全国運航を全面制度化。累計数十万フライトの商用BVLOS実績を持ち、世界の都市部展開の安全データモデルを提供。",
+        "source": {
+          "organization": "ルワンダ民間航空局 (Rwanda Civil Aviation Authority - RCAA)",
+          "title": "Performance-Based Regulation for Unmanned Aircraft Systems",
+          "url": "https://www.caa.gov.rw"
+        }
+      }
+    ]
+  }
 }

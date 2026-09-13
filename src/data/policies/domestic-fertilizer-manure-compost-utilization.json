@@ -217,5 +217,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国における下水汚泥・家畜ふん尿の肥料化（バイオ肥料）およびリン資源回収法制",
+    "comparisonSummary": "化石燃料や海外鉱物資源に依存する化学肥料からの脱却に向け、EUや米国等では下水汚泥からのリン回収義務化や、家畜糞尿を原料とする有機バイオ肥料の規格化・利用助成が加速しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "下水汚泥令（AbfKlärV: Klärschlammverordnung）リン回収義務化法制",
+        "statusOrLevel": "2029年以降、大規模下水処理場（5万人以上規模）におけるリン（P）の直接回収・再資源化義務付け",
+        "keyFeature": "汚泥焼却灰からのリン化学回収プラントの建設を義務付け。重金属等の有害物質を除去した高品質再生リン肥料を国内農業へ循環供給。",
+        "source": {
+          "organization": "ドイツ連邦環境省 (BMUV) / 連邦食料・農業省 (BMEL)",
+          "title": "Verordnung zur Neuordnung der Klärschlammverwertung (Klärschlammverordnung - AbfKlärV)",
+          "url": "https://www.bmuv.de"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU肥料製品規則（Regulation (EU) 2019/1009）およびファーム・トゥ・フォーク戦略",
+        "statusOrLevel": "2030年までに肥料からの栄養素損失を50%削減・リサイクル有機肥料のEU共通CEマーキング導入",
+        "keyFeature": "有機性堆肥、消化液、ストルバイト（リン酸マグネシウムアンモニウム）を正式な肥料製品（CE認証）としてEU全域での自由流通を解禁。",
+        "source": {
+          "organization": "欧州委員会 (European Commission)",
+          "title": "EU Fertilising Products Regulation (EU) 2019/1009 and Farm to Fork Strategy",
+          "url": "https://ec.europa.eu"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "肥料法（Meststoffenwet）および窒素・リン総量規制",
+        "statusOrLevel": "家畜ふん尿処理の厳格義務化とメタン発酵バイオガス残渣（消化液）の高付加価値化",
+        "keyFeature": "国土の富栄養化を防ぐため農場ごとの肥料投入上限を電子管理。余剰ふん尿を大規模バイオリアクターで濃縮液肥・ペレット肥料へ転換し輸出・国内利用。",
+        "source": {
+          "organization": "オランダ農業・自然・食品安全省 (LNV)",
+          "title": "Meststoffenwet and Circular Agriculture Policies",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "農務省（USDA）肥料生産拡大プログラム（FPEP）およびEPAバイオソリッド規則",
+        "statusOrLevel": "国内バイオ肥料・有機堆肥製造インフラ拡大への5億ドル超の直接助成",
+        "keyFeature": "連邦環境保護庁（EPA Part 503）の厳格な病原菌・重金属不検出基準をクリアしたバイオソリッド（Class A下水汚泥肥料）の農地利用を推進。",
+        "source": {
+          "organization": "米国農務省 (USDA) / 連邦環境保護庁 (EPA)",
+          "title": "Fertilizer Production Expansion Program (FPEP) and Biosolids Rule (40 CFR Part 503)",
+          "url": "https://www.usda.gov"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "循環経済・廃棄物防止法（Loi AGEC）バイオ廃棄物分別義務化",
+        "statusOrLevel": "生ゴミ・食品廃棄物の全戸分別回収義務付けとメタン化・堆肥化プラント助成",
+        "keyFeature": "下水汚泥堆肥の品質追跡トレーサビリティ基準（Socle de conformité）を策定。化学肥料高騰対策として国産有機コンポスト利用農家への優遇補助金を実施。",
+        "source": {
+          "organization": "フランス農業・食料主権省 (Ministère de l'Agriculture) / ADEME",
+          "title": "Loi AGEC et valorisation agronomique des boues et biodéchets",
+          "url": "https://agriculture.gouv.fr"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "肥料管理法および家畜糞尿の管理及び利用に関する法律",
+        "statusOrLevel": "家畜糞尿バイオ固形燃料化および下水汚泥バイオガス化による肥料化支援",
+        "keyFeature": "海洋投入全面禁止以降、陸上リサイクル体制を確立。農林畜産食品部が「エコ肥料支援事業」を通じて国内堆肥・バイオ肥料の購入費を毎年公費補助。",
+        "source": {
+          "organization": "大韓民国農林畜産食品部 (MAFRA) / 環境部 (ME)",
+          "title": "Fertilizer Management Act and Eco-friendly Fertilizer Support Projects",
+          "url": "https://www.mafra.go.kr"
+        }
+      }
+    ]
+  }
 }

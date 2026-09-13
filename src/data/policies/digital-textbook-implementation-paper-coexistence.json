@@ -185,5 +185,89 @@
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Coins"
     }
-  ]
+  ],
+  "international": {
+    "title": "主要国におけるデジタル教科書・教材の導入水準と紙教科書の併用政策",
+    "comparisonSummary": "児童生徒の1人1台端末普及に伴い、デジタル教科書の導入が進む一方、読解力低下や視力への懸念から北欧諸国（スウェーデン等）では「紙の教科書回帰」が進むなど、世界で紙とデジタルの最適なハイブリッド構成が模索されています。",
+    "countries": [
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "AIデジタル教科書推進戦略（2025年本格導入法制）",
+        "statusOrLevel": "小中高の数学・英語・情報科目を皮切りにAI搭載型デジタル教科書を全国導入",
+        "keyFeature": "学習者の理解度に応じた適応型（アダプティブ）AI機能を公定教科書に義務付け。紙の教科書も当面併用し、段階的移行を実施。",
+        "source": {
+          "organization": "大韓民国教育部 (MOE) / 韓国教育学術情報院 (KERIS)",
+          "title": "AI Digital Textbook Development Guidelines and Implementation Plan",
+          "url": "https://www.moe.go.kr"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "国家読解力向上戦略および紙の教科書予算特別措置（2023年方針転換）",
+        "statusOrLevel": "過度なスクリーン学習の見直しと全児童への紙の教科書1人1冊保障予算投じ",
+        "keyFeature": "PIRLS読解力調査結果や小児科医学界の警告を受け、低学年での紙の教科書・手書き学習を再重視。紙とデジタルのバランスを法的に再定義。",
+        "source": {
+          "organization": "スウェーデン教育省 (Utbildningsdepartementet) / 国立教育庁 (Skolverket)",
+          "title": "Investering i tryckta läromedel och ändring i läroplanen",
+          "url": "https://www.regeringen.se"
+        }
+      },
+      {
+        "country": "エストニア",
+        "countryCode": "EE",
+        "flag": "🇪🇪",
+        "systemName": "eスクール（e-School）およびデジタル学習教材ポータル（Opiq）",
+        "statusOrLevel": "初等・中等教育のデジタル教材100%整備・紙とデジタルの完全ハイブリッド運用",
+        "keyFeature": "クラウド上の学習リソースポータルOpiqを全校に無償開放。教科書検定に合格したデジタルコンテンツが紙の書籍と完全同期して利用可能。",
+        "source": {
+          "organization": "エストニア教育研究省 (Haridus- ja Teadusministeerium)",
+          "title": "Digital focus in Estonian education and Opiq digital learning platform",
+          "url": "https://www.hm.ee"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "すべての生徒の成功法（ESSA: Every Student Succeeds Act）州教育委員会採択制度",
+        "statusOrLevel": "カリフォルニア州やテキサス州等におけるオープン教育リソース（OER）電子採択",
+        "keyFeature": "各州がデジタル教材の採択基準を策定。教科書予算をデジタルライセンスと紙の両方に充当可能とし、各学区の裁量でハイブリッド運用を決定。",
+        "source": {
+          "organization": "米国教育省 (U.S. Department of Education - ED)",
+          "title": "Every Student Succeeds Act (ESSA) and National Educational Technology Plan",
+          "url": "https://www.ed.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "デジタルスクール協定（DigitalPakt Schule）および州文相会議（KMK）指針",
+        "statusOrLevel": "各連邦州（Länder）による紙の教科書給与義務と補完的デジタル教材ライセンス配備",
+        "keyFeature": "学校のインフラ整備に65億ユーロを投入。教科書無償給与原則（Lernmittelfreiheit）に基づき、紙の教科書を基本としつつデジタル版の利用権を併せて付与。",
+        "source": {
+          "organization": "ドイツ文部科学省 (BMBF) / 州文相会議 (KMK)",
+          "title": "DigitalPakt Schule und Bildung in der digitalen Welt",
+          "url": "https://www.bmbf.de"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "スチューデント・ラーニング・スペース（SLS）国家統合教育プラットフォーム",
+        "statusOrLevel": "全公立学校の国家カリキュラム完全準拠デジタルポータル運用と紙教科書併用",
+        "keyFeature": "文部省自らが開発したSLSを通じて公式教材・双方向課題を配信。紙のワークブックで基礎計算・記述力を養い、SLSで探究学習を行う併用設計。",
+        "source": {
+          "organization": "シンガポール教育省 (MOE)",
+          "title": "Singapore Student Learning Space (SLS) and EdTech Masterplan",
+          "url": "https://www.moe.gov.sg"
+        }
+      }
+    ]
+  }
 }

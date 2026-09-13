@@ -211,5 +211,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Building"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界のドローン専用航路（ドローンハイウェイ）整備および通信・電波法制比較",
+    "comparisonSummary": "ドローンの広域目視外飛行（BVLOS）を全国展開するため、送電線上空等の既存インフラを活用した航路設定や、5G/LTE携帯電話回線の空域利用解禁、周波数共用ルールの法制化が進展しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦通信委員会（FCC）ドローン専用周波数規則およびFAAリモートID",
+        "statusOrLevel": "5GHz帯（5030-5091MHz）の無人航空機管制通信（C2）専用割当およびセルラー通信利用",
+        "keyFeature": "FCCが携帯キャリア網の空域通信利用ガイドラインを策定。全米空域を飛行するドローンにリアルタイム発信機（Remote ID）の搭載を義務付け。",
+        "source": {
+          "organization": "米国連邦通信委員会 (FCC) / 連邦航空局 (FAA)",
+          "title": "FCC Drone Spectrum Rulemaking and FAA Remote ID Rule",
+          "url": "https://www.fcc.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "スカイウェイ・プロジェクト（Project Skyway）およびOfcom空域電波免許制度",
+        "statusOrLevel": "世界最長（165マイル）のドローン回廊構築とセルラー通信認可",
+        "keyFeature": "レディング〜オックスフォード〜ケンブリッジ間をセンサー地上局で結び、トランスポンダー非搭載機も検知可能な安全航路を公設。Ofcomがドローン用包括無線局免許を導入。",
+        "source": {
+          "organization": "英国通信庁 (Ofcom) / 民間航空局 (CAA)",
+          "title": "Project Skyway: Automated flight superhighway and spectrum authorization",
+          "url": "https://www.ofcom.org.uk"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU U-space枠組み指令（Implementing Regulation (EU) 2021/664）",
+        "statusOrLevel": "デジタル空域管理サービスプロバイダー（USSP）相互接続基準の完全施行",
+        "keyFeature": "送電網や河川・高速道路上空をU-space空域に指定。通信プロバイダーと航空当局がAPI連携し、飛行経路の重複・衝突をミリ秒単位で自動調整。",
+        "source": {
+          "organization": "欧州委員会 (European Commission) / 欧州航空安全庁 (EASA)",
+          "title": "U-space legislative framework for drone operations",
+          "url": "https://eur-lex.europa.eu"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "スイス連邦民間航空局（FOCA）スイスU-space（SUSI）アーキテクチャ",
+        "statusOrLevel": "欧州先駆となる全国土U-space展開およびスイスコム5G空域通信ネットワーク",
+        "keyFeature": "全国の携帯電話基地局のビームフォーミング技術を活用し、高度150m以下の全空域で高速・超低遅延通信を保証。医療ドローン定期便の商用運航を実現。",
+        "source": {
+          "organization": "スイス連邦民間航空局 (FOCA) / 通信庁 (BAKOM)",
+          "title": "Swiss U-space Implementation (SUSI) and Cellular C2 for Drones",
+          "url": "https://www.bazl.admin.ch"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "ドローン活用促進及び基盤造成に関する法律およびドローンハイウェイ構築計画",
+        "statusOrLevel": "全国主要河川・幹線道路上空を活用したドローン専用空路網指定および5G通信特例",
+        "keyFeature": "電波法を改正し、地上波干渉防止措置を施した上での移動通信網（LTE/5G）空域利用を全面解禁。国土交通部が「K-Drone System」でリアルタイム管制。",
+        "source": {
+          "organization": "大韓民国国土交通部 (MOLIT) / 科学技術情報通信部 (MSIT)",
+          "title": "Drone Promotion Act and K-Drone Real-Time Traffic Management System",
+          "url": "https://www.molit.go.kr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "民間航空安全局（CASA）デジタル空域システム（FIMS）およびACMA電波規則",
+        "statusOrLevel": "フライト情報管理システム（FIMS）による有人機・無人機空域回廊共存運用",
+        "keyFeature": "広大な大陸の物流を効率化するため、通信・メディア庁（ACMA）が衛星通信（スターリンク等）と地上LTEを冗長化させた長距離BVLOS回廊の電波特例を認可。",
+        "source": {
+          "organization": "オーストラリア民間航空安全局 (CASA) / ACMA",
+          "title": "Flight Information Management System (FIMS) and Remotely Piloted Aircraft Spectrum",
+          "url": "https://www.casa.gov.au"
+        }
+      }
+    ]
+  }
 }

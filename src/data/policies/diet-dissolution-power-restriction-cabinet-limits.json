@@ -185,5 +185,89 @@
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Users"
     }
-  ]
+  ],
+  "international": {
+    "title": "議院内閣制・立憲民主主義国における議会解散権の要件・制約法制比較",
+    "comparisonSummary": "議院内閣制をとる主要国において、首相による恣意的な解散権行使を制限するため、解散要件の厳格化（不信任可決時のみ、議会特別多数の同意義務付けなど）や大統領による牽制規定が設けられています。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "議会解散・召集法2022（Dissolution and Calling of Parliament Act 2022）",
+        "statusOrLevel": "2011年任期固定議会法（FTPA）の議会同意要件を廃止し国王大権・首相解散権を復元",
+        "keyFeature": "2011年に解散権を「下院3分の2の賛成」または「不信任決議」に制限したが、議会膠着（ブレグジット混乱）を招いたため2022年に原則廃止し国王大権を復活。司法審査の対象外（非司法審査性）を明記。",
+        "source": {
+          "organization": "英国議会 (UK Parliament) / 内閣府",
+          "title": "Dissolution and Calling of Parliament Act 2022 Explanatory Notes",
+          "url": "https://www.legislation.gov.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ボン基本法（Grundgesetz）第67条・第68条（建設的不信任および解散制限）",
+        "statusOrLevel": "首相による自由解散権を全面否認・極めて限定的な解散要件",
+        "keyFeature": "首相信任決議案が連邦議会で否決された場合にのみ、首相の提案を受け連邦大統領が裁量で解散を決定可能。後継首相を選出しない不信任（破壊的不信任）は禁止。",
+        "source": {
+          "organization": "ドイツ連邦憲法裁判所 (BVerfG) / 連邦議会 (Bundestag)",
+          "title": "Basic Law for the Federal Republic of Germany (Articles 67 and 68)",
+          "url": "https://www.gesetze-im-internet.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "第5共和政憲法第12条（共和国大統領の国民議会解散権）",
+        "statusOrLevel": "大統領の専管大権・解散後1年間の再解散禁止規定（憲法上のハードル）",
+        "keyFeature": "大統領は首相および両院議長の意見を聴取した上で議会を解散可能（副署不要）。ただし、一度解散した後は総選挙後1年間は再度の解散が憲法上厳格に禁止。",
+        "source": {
+          "organization": "フランス憲法評議会 (Conseil constitutionnel) / 国民議会 (Assemblée nationale)",
+          "title": "Constitution du 4 octobre 1958 - Article 12",
+          "url": "https://www.conseil-constitutionnel.fr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダ選挙法（Canada Elections Act）固定選挙日規定",
+        "statusOrLevel": "4年ごとの固定選挙日規定と総督による国王大権解散権の並存",
+        "keyFeature": "選挙法で原則4年任期（10月第3月曜日）を規定しつつも、首相の助言に基づく総督の解散大権を留保。最高裁は首相の解散助言権を合憲と判断。",
+        "source": {
+          "organization": "カナダ選挙管理委員会 (Elections Canada) / 司法省",
+          "title": "Canada Elections Act - Fixed Election Dates Provision",
+          "url": "https://www.elections.ca"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "連邦憲法第57条（両院不一致による同日解散: Double Dissolution）",
+        "statusOrLevel": "下院の単独解散（3年任期）と両院膠着時の両院同時全面解散の厳格な二段構え",
+        "keyFeature": "下院を通過した法案が上院で2回否決・大幅修正された場合に限り、総督が上下両院を同時に解散できる特殊な憲法手続きを規定。",
+        "source": {
+          "organization": "オーストラリア連邦議会 (Parliament of Australia)",
+          "title": "Australian Constitution - Section 57 Double Dissolution",
+          "url": "https://www.aph.gov.au"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "イタリア共和国憲法第88条（大統領の議会解散権）",
+        "statusOrLevel": "大統領の権限・大統領任期末期6カ月間（白い半年: semestre bianco）の解散禁止",
+        "keyFeature": "首相ではなく中立的な大統領が両院議長との協議の上で解散を決定。自身の再選を狙った恣意的解散を防ぐため、大統領任期最後の6カ月は解散権が停止される。",
+        "source": {
+          "organization": "イタリア共和国大統領府 (Quirinale) / 上院 (Senato della Repubblica)",
+          "title": "Costituzione della Repubblica Italiana - Articolo 88",
+          "url": "https://www.quirinale.it"
+        }
+      }
+    ]
+  }
 }

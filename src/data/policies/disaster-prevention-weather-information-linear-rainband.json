@@ -205,5 +205,89 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Smartphone"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の極端気象・線状対流系豪雨の早期警戒システムおよび避難情報伝達法制",
+    "comparisonSummary": "地球温暖化による線状対流系（バックビルディング型豪雨）や突発的鉄砲水に対し、主要国はフェーズドアレイレーダーやAI数値予報による半日前〜数時間前の予測高度化と、スマホ緊急速報一斉配信を展開しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "国立気象局（NWS）鉄砲水緊急事態（Flash Flood Emergency）警報体系",
+        "statusOrLevel": "二重偏波ドップラーレーダー網（NEXRAD）およびワイヤレス緊急警報（WEA）強制配信",
+        "keyFeature": "人的被害が差し迫ったカタストロフィックな局地豪雨に対し、最高位の「フラッシュフラッド緊急事態」を発令。対象地域の全スマホにマナーモード解除で大音量警報を同報送信。",
+        "source": {
+          "organization": "米国海洋大気庁 (NOAA) / 連邦緊急事態管理庁 (FEMA)",
+          "title": "National Weather Service Flash Flood Warning System and Wireless Emergency Alerts",
+          "url": "https://www.weather.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "気象庁（Met Office）気象警報システムおよび環境庁洪水警報サービス",
+        "statusOrLevel": "スーパーコンピュータによる局地高解像度アンサンブル予報と緊急アラート（Emergency Alerts）",
+        "keyFeature": "暴雨・浸水リスクを「影響度×発生確率」のマトリクスで4段階（赤・琥珀・黄・緑）評価。赤色警報発令時は人命の危険を伴う即時避難指示をセルブロードキャストで配信。",
+        "source": {
+          "organization": "英国気象庁 (Met Office) / 環境庁 (Environment Agency)",
+          "title": "National Severe Weather Warning Service and UK Emergency Alerts",
+          "url": "https://www.metoffice.gov.uk"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "メテオ・フランス（Météo-France）ビジランス（Vigilance）警戒システム",
+        "statusOrLevel": "地中海沿岸のエピソード・セヴェノール（局地停滞豪雨）早期探知網およびFR-Alert",
+        "keyFeature": "線状降水帯に類似した秋季の集中豪雨（セヴェノール現象）に対し、24時間前〜半日前予測を発令。内務省の「FR-Alert」システムで指定危険自治体に即時避難通告を配信。",
+        "source": {
+          "organization": "フランス気象局 (Météo-France) / 内務省 (Ministère de l'Intérieur)",
+          "title": "Dispositif Vigilance météorologique et système FR-Alert",
+          "url": "https://meteofrance.com"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "気象局（BOM）激甚雷雨・鉄砲水警報および豪州緊急警報（Emergency Alert）",
+        "statusOrLevel": "高解像度数値モデル（ACCESS）による対流雲追跡と電話網一斉位置情報アラート",
+        "keyFeature": "突発的な集中豪雨セルをリアルタイム追跡。州警察・緊急サービス局（SES）と直結し、浸水想定域の住民へ固定電話・携帯電話両方に音声・SMSで避難勧告を発信。",
+        "source": {
+          "organization": "オーストラリア気象局 (Bureau of Meteorology - BOM)",
+          "title": "Severe Thunderstorm and Flash Flood Warning Services",
+          "url": "https://www.bom.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "気象庁（KMA）極限豪雨緊急災難メール（CBS）直接発信制度",
+        "statusOrLevel": "気象庁による自治体を経由しない「1時間50mmかつ3時間90mm」直通警報配信",
+        "keyFeature": "地下室浸水等の人命被害を防ぐため、従来の行政伝達経路をバイパスし、気象庁レーダーが極限豪雨を検知した瞬間に該当洞（町内）の全携帯へ直接警報を自動発信。",
+        "source": {
+          "organization": "大韓民国気象庁 (KMA) / 行政安全部 (MOIS)",
+          "title": "Extreme Heavy Rain Emergency Disaster Text Service System",
+          "url": "https://www.kma.go.kr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ドイツ気象庁（DWD）WarnWetterおよび連邦災害警報モジュラーシステム（MoWaS）",
+        "statusOrLevel": "2021年アール渓谷大水害を教訓とした全国セルブロードキャスト（DE-Alert）の完全配備",
+        "keyFeature": "DWDの極端気象警報と連邦市民保護庁（BBK）のMoWaS基盤が連動。アプリ（NINA）や携帯電波基地局同報により、局地河川氾濫の危険を住民へ強制アラート。",
+        "source": {
+          "organization": "ドイツ連邦気象庁 (DWD) / 連邦市民保護・災害支援庁 (BBK)",
+          "title": "DWD Unwetterwarnungen und Notfall-Informations- und Nachrichten-App (NINA)",
+          "url": "https://www.dwd.de"
+        }
+      }
+    ]
+  }
 }

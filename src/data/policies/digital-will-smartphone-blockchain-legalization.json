@@ -211,5 +211,89 @@
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "ShieldCheck"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界の電子遺言（Electronic Wills: e-Will）・デジタル署名遺言法制比較",
+    "comparisonSummary": "遺言作成の容易化と真正性担保を目的に、米国や豪州などではスマートフォン作成や遠隔ビデオ公証による電子遺言（e-Will）を認める法制化が進展しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "電子遺言統一法（Uniform Electronic Wills Act: UEWA）",
+        "statusOrLevel": "ネバダ州、フロリダ州、コロラド州、ユタ州等における電子遺言の正式法制化",
+        "keyFeature": "スマートフォンやPCで作成したデジタルテキストに電子署名を付与し、オンラインの遠隔公証人（RON）と証人の立ち会い録画を行うことで有効な遺言と認める。",
+        "source": {
+          "organization": "全米統一法律委員会 (Uniform Law Commission)",
+          "title": "Uniform Electronic Wills Act (UEWA) Enactment Status",
+          "url": "https://www.uniformlaws.org"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "遺産承継法（Succession Act）非定型遺言（Dispensing Power）規定",
+        "statusOrLevel": "スマホのメモアプリ、テキストメッセージ、ビデオ録画を有効な遺言と認める司法判断の定着",
+        "keyFeature": "法律上の厳格な署名要件を欠いていても、本人の最終意思であることが明白であれば裁判所が有効性を追認できる裁量救済規定を各州で運用。",
+        "source": {
+          "organization": "ニューサウスウェールズ州法改正委員会 (NSW Law Reform Commission)",
+          "title": "Succession Act and Informal Wills Dispensing Powers",
+          "url": "https://www.lawreform.justice.nsw.gov.au"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "ブリティッシュコロンビア州遺産法改正法（Bill 21 - WESA Reform）",
+        "statusOrLevel": "北米先駆となる電子遺言の完全法制化（2021年施行）",
+        "keyFeature": "電子形式で作成・保存された遺言書に、本人および2名以上の証人が電磁的署名を行うことで正式な法的効力を認める。原本の電磁的保管義務を規定。",
+        "source": {
+          "organization": "ブリティッシュコロンビア州司法省 (BC Ministry of Attorney General)",
+          "title": "Wills, Estates and Succession Amendment Act (Electronic Wills)",
+          "url": "https://www.gov.bc.ca"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "英国法律委員会（Law Commission）遺言法抜本改革プロジェクト",
+        "statusOrLevel": "自筆要件の緩和と電子遺言・ビデオ遺言の正式承認に向けた法制化勧告",
+        "keyFeature": "1837年遺言法の時代遅れな要件を改め、セキュリティ基準を満たした電磁的遺言書作成を認める新法制定を答申中。裁判所の裁量による不備遺言救済も提案。",
+        "source": {
+          "organization": "英国法律委員会 (Law Commission)",
+          "title": "Making a will: modernising the law on wills in England and Wales",
+          "url": "https://www.lawcom.gov.uk"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "遺言法2007（Wills Act 2007）第14条（非定型文書の有効性承認規定）",
+        "statusOrLevel": "高等裁判所によるスマートフォン・パソコン保存遺言の柔軟な有効承認",
+        "keyFeature": "法定書式を満たさないデジタル文書であっても、本人の真正な遺言意思が証明されれば高等裁判所が正式な遺言として承認可能。",
+        "source": {
+          "organization": "ニュージーランド法務省 (Ministry of Justice)",
+          "title": "Wills Act 2007 Section 14 and Court validating powers",
+          "url": "https://www.justice.govt.nz"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "民法第1060条遺言法定主義およびブロックチェーン公証実証事業",
+        "statusOrLevel": "自筆証書遺言の厳格主義維持とフィンテック・ブロックチェーン活用遺言実証",
+        "keyFeature": "現行法上は自筆・押印要件が厳格だが、高齢化に伴いスマートフォン作成・公認電子署名・ブロックチェーン記録による電子遺言導入の法改正案が国会提出中。",
+        "source": {
+          "organization": "大韓民国法務部 (MOJ) / 科学技術情報通信部 (MSIT)",
+          "title": "Civil Act inheritance provisions and blockchain notary pilot studies",
+          "url": "https://www.moj.go.kr"
+        }
+      }
+    ]
+  }
 }

@@ -217,5 +217,89 @@
         "commentStandard": "「トラック配送より運賃が高ければ定着しない。ビジネスモデルとしての持続可能性が問われている」"
       }
     ]
+  },
+  "international": {
+    "title": "世界の先進航空モビリティ（AAM: eVTOL・空飛ぶクルマ）およびドローン物流法制比較",
+    "comparisonSummary": "電動垂直離着陸機（eVTOL）や長距離配送ドローンの実用化に向け、米国FAA、欧州EASA、中国CAAC等は機体耐空証明基準、空域管理システム（UTM）、バーティポート整備基準の法制化を急速に進めています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦航空局（FAA）先進航空モビリティ（AAM）統合実施計画およびPart 108 BVLOS規則",
+        "statusOrLevel": "eVTOLパイロット操縦資格・動力リフト型式証明基準（Part 21.17b）の正式策定",
+        "keyFeature": "2028年ロサンゼルス五輪等での商業運航を見据え、バーティポート（Vertiport）設計ガイドラインを公表。低高度空域でのドローンとeVTOLの安全統合管制を推進。",
+        "source": {
+          "organization": "米国連邦航空局 (FAA)",
+          "title": "Advanced Air Mobility (AAM) Implementation Plan and BVLOS Rulemaking",
+          "url": "https://www.faa.gov"
+        }
+      },
+      {
+        "country": "欧州連合",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州航空安全庁（EASA）イノベーティブ・エアモビリティ（IAM）規制枠組み",
+        "statusOrLevel": "世界初のVTOL機体特別条件（SC-VTOL）策定およびU-space空域統合指令完全施行",
+        "keyFeature": "都市上空飛行に耐えうる旅客機同等の安全性（10のマイナス9乗/飛行時間）基準を策定。欧州全域で統一されたデジタルU-space空域サービスプロバイダー体制を運用。",
+        "source": {
+          "organization": "欧州航空安全庁 (EASA)",
+          "title": "Innovative Air Mobility and Special Condition for VTOL aircraft",
+          "url": "https://www.easa.europa.eu"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "中国民用航空局（CAAC）無人旅客航空システム型式証明（TC）および低空経済促進法制",
+        "statusOrLevel": "世界初となる自律飛行型無人eVTOL（EHang EH216-S）への型式証明・標準耐空証明交付",
+        "keyFeature": "「低空経済」を国家戦略振興産業に位置づけ。深圳、広州、合肥などで観光・都市間移動の商業無人eVTOL運航認可を世界最速で交付。",
+        "source": {
+          "organization": "中国民用航空局 (CAAC)",
+          "title": "Civil Unmanned Aircraft System Type Certification and Low-Altitude Economy Policy",
+          "url": "http://www.caac.gov.cn"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "民間航空局（CAA）フューチャー・フライト・チャレンジおよびAAMロードマップ",
+        "statusOrLevel": "BVLOS（目視外飛行）統合回廊実証および次世代バーティポート安全認可指針",
+        "keyFeature": "地上センサー網と協調した空域回廊「Project Skyway」を展開。2026年までのeVTOL有人商業飛行、2030年までの自律運航確立をロードマップに明記。",
+        "source": {
+          "organization": "英国民間航空局 (CAA) / 運輸省 (DfT)",
+          "title": "Future Flight Action Plan and eVTOL Certification Strategy",
+          "url": "https://www.caa.co.uk"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "韓国型都心航空交通（K-UAM）法制および都心航空交通活用促進に関する法律",
+        "statusOrLevel": "2025年ソウル首都圏実証路線の商用化に向けた包括的特例法制定完了",
+        "keyFeature": "漢江回廊などを飛行ルートに指定し、既存航空法の適用を大胆に除外するサンドボックス特例法を施行。現代自動車・通信大手連合が官民合同実証を主導。",
+        "source": {
+          "organization": "大韓民国国土交通部 (MOLIT)",
+          "title": "Act on the Promotion and Demonstration of Urban Air Mobility (K-UAM)",
+          "url": "https://www.molit.go.kr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "シンガポール民間航空庁（CAAS）先進エアモビリティ（AAM）規制サンドボックス",
+        "statusOrLevel": "マリーナベイ等における水上・陸上バーティポート実証および多国間安全基準調和",
+        "keyFeature": "密集都市国家特有の安全要件（高層ビル街気流対策・緊急着水フロート基準等）を策定。FAA・EASAと相互協力覚書を締結し型式証明の相互承認をリード。",
+        "source": {
+          "organization": "シンガポール民間航空庁 (CAAS)",
+          "title": "Advanced Air Mobility Sandbox and Vertiport Operational Standards",
+          "url": "https://www.caas.gov.sg"
+        }
+      }
+    ]
   }
 }

@@ -217,5 +217,89 @@
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "CheckCircle2"
     }
-  ]
+  ],
+  "international": {
+    "title": "世界のインクルーシブ教育・発達支援制度およびデジタル福祉受給管理",
+    "comparisonSummary": "神経発達症（自閉スペクトラム症・ADHD等）の早期発見・療育支援において、先進国では乳幼児健診からのシームレスな個別支援計画策定、教育・医療連携、デジタルポータルを通じた受給申請・給付金決済が進展しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "障害者教育法（IDEA: Individuals with Disabilities Education Act）Part C/B",
+        "statusOrLevel": "0〜3歳児への早期介入（IFSP）および公教育における個別教育計画（IEP）法定義務化",
+        "keyFeature": "連邦法に基づき各州が早期介入プログラムを無償提供。電子カルテ・教育記録を連携させたポータルで療育・特別支援サービスの受給と実績をオンライン管理。",
+        "source": {
+          "organization": "米国教育省 (ED) / 保健福祉省 (HHS)",
+          "title": "IDEA Part C Early Intervention and Individualized Education Programs",
+          "url": "https://www.ed.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "子ども・家族法2014（Children and Families Act 2014）およびEHCプラン",
+        "statusOrLevel": "0〜25歳を対象とする教育・健康・ケア計画（Education, Health and Care plan）",
+        "keyFeature": "地方自治体（Local Authority）が医療・福祉・教育を統合したEHCプランをデジタル発行。個人予算（Personal Budget）の直接交付により保護者が支援サービスを選択購入可能。",
+        "source": {
+          "organization": "英国教育省 (DfE)",
+          "title": "SEND code of practice: 0 to 25 years and EHC plans",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "基礎教育法（Basic Education Act）3段階支援モデル（Kolmiportainen tuki）",
+        "statusOrLevel": "全校児を対象とする通常支援・強化支援・特別支援のシームレスな移行",
+        "keyFeature": "診断名の有無に関わらず、困難が生じた時点で即座に特別支援教員が介入。全国共通の学籍・福祉システム（Wilma）で保護者・教員・専門職がリアルタイム連携。",
+        "source": {
+          "organization": "フィンランド国家教育庁 (Opetushallitus)",
+          "title": "Three-tiered support for learning and school attendance",
+          "url": "https://www.oph.fi"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家障害保険制度（NDIS）早期幼児期アプローチ（Early Childhood Approach）",
+        "statusOrLevel": "9歳未満の発達遅滞児に対する診断不要の早期アクセス・公費個人予算給付",
+        "keyFeature": "NDIS公式モバイルアプリを通じて給付受給証を管理し、療育サービス事業者への支払い決済をデジタル完結。専門パートナーが個別プランニングを伴走。",
+        "source": {
+          "organization": "オーストラリア国家障害保険庁 (NDIA)",
+          "title": "Early childhood approach and NDIS digital participant portal",
+          "url": "https://www.ndis.gov.au"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "社会法典第8巻（SGB VIII）児童・青少年福祉法および早期療育所（Frühförderstellen）",
+        "statusOrLevel": "インクルージョン支援の法定義務化および学際的早期療育（Interdisziplinäre Frühförderung）",
+        "keyFeature": "小児科医、心理士、教育専門職が一体となった公費早期療育を提供。オンライン受給申請（OZG推進）により自治体間手続きをDX化。",
+        "source": {
+          "organization": "ドイツ連邦家族・高齢者・女性・青少年省 (BMFSFJ)",
+          "title": "Kinder- und Jugendstärkungsgesetz (KJSG) und Frühförderung",
+          "url": "https://www.bmfsfj.de"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "発達障害者権利保障及び支援に関する法律および電子バウチャー制度",
+        "statusOrLevel": "発達リハビリテーションサービス電子バウチャー（国民幸福カード決済）の全国網",
+        "keyFeature": "受給資格証をICカード・スマホアプリに統合。月額給付枠が自動チャージされ、認可療育機関で端末タップのみで決済・実績報告が完了するDX体制を構築。",
+        "source": {
+          "organization": "大韓民国保健福祉部 (MOHW) / 社会保障情報院 (SSIS)",
+          "title": "Developmental Disabilities Act and Electronic Voucher System",
+          "url": "https://www.mohw.go.kr"
+        }
+      }
+    ]
+  }
 }
