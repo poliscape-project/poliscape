@@ -245,6 +245,62 @@
           "title": "Nomination of Candidates - Removal of Deposit Requirement",
           "url": "https://www.elections.ca/content.aspx?section=pol&document=index&dir=can&lang=e"
         }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Bundeswahlgesetz (連邦選挙法・供託金ゼロ制度)",
+        "amount": "連邦議会選挙の供託金は【完全無料（0ユーロ）】",
+        "incomeLimit": "金銭の代わりに「有権者200名の推薦署名」（小選挙区）で立候補可能",
+        "keyFeature": "『金銭の多寡によって国民の立候補の自由が妨げられてはならない』という基本法（憲法）の平等の精神に基づき、金銭供託を一切要求しません。政党公認のない無所属候補者であっても有権者の署名を集めれば誰でも出馬可能です。",
+        "source": {
+          "organization": "ドイツ連邦選挙管理委員会 (Die Bundeswahlleiterin)",
+          "title": "Wählbarkeit und Zulassung von Wahlvorschlägen zum Bundestag",
+          "url": "https://www.bundeswahlleiterin.de"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "Legge Elettorale (選挙法・供託金不要と市民推薦署名要件)",
+        "amount": "国政選挙（上院・下院）における供託金は【ゼロ（不要）】",
+        "incomeLimit": "選挙区内の有権者による法定推薦署名（公証人立会）の提出義務",
+        "keyFeature": "財産資格による立候補制限を憲法違反とみなす伝統から、供託金制度を採用していません。金銭の没収リスクがないため、若者や市民団体が新党を立ち上げて国政に挑戦するハードルが極めて低く保たれています。",
+        "source": {
+          "organization": "イタリア内務省 (Ministero dell'Interno - Dipartimento Affari Interni)",
+          "title": "Elezioni politiche e presentazione delle candidature",
+          "url": "https://dait.interno.gov.it"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Commonwealth Electoral Act 1918 (連邦選挙法・低額供託金)",
+        "amount": "下院候補者2,000豪ドル（約20万円）、上院候補者3,000豪ドル（約30万円）",
+        "incomeLimit": "得票率4%以上で全額返還（日本の10%に比べ極めて緩やかな没収基準）",
+        "keyFeature": "日本の衆院小選挙区300万円・比例600万円（世界最高額）と比べ、10分の1以下の極めて良心的な金額設定。得票率が4%を超えれば全額返還されるため、若者や女性の政治参加を阻害しない設計となっています。",
+        "source": {
+          "organization": "オーストラリア選挙管理委員会 (Australian Electoral Commission - AEC)",
+          "title": "Candidate nominations and electoral deposits under Commonwealth Electoral Act",
+          "url": "https://www.aec.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "大韓民国公職選挙法第56条 (供託金違憲判決と青年候補者半額減免)",
+        "amount": "国会議員選挙の供託金は1,500万ウォン（約160万円・かつての2,000万ウォンから違憲判決で減額）",
+        "incomeLimit": "29歳以下は750万ウォン（半額）、39歳以下は1,050万ウォン（3割減免）の青年優遇",
+        "keyFeature": "憲法裁判所が『高額すぎる供託金は国民の公務就任権を侵害する』と違憲判決を下し大幅引き下げ。さらに若者の政界進出を国策で促すため、20代候補者は50%減額、30代候補者は30%減額する年齢連動ディスカウントを法制化しました。",
+        "source": {
+          "organization": "大韓民国中央選挙管理委員会 (NEC)",
+          "title": "公職選挙法第56条（寄託金）および青年候補者減免規定",
+          "url": "https://www.nec.go.kr"
+        }
       }
     ]
   }

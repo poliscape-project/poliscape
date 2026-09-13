@@ -307,6 +307,62 @@
           "title": "Elektrokleinstfahrzeuge - eKFV (小型電気車両公式法令解説)",
           "url": "https://bmdv.bund.de/SharedDocs/DE/Artikel/StV/Strassenverkehr/elektrokleinstfahrzeuge-verordnung.html"
         }
+      },
+      {
+        "country": "アメリカ（カリフォルニア州）",
+        "countryCode": "US-CA",
+        "flag": "🇺🇸",
+        "systemName": "California Vehicle Code § 21235 (電動スクーター運行法制)",
+        "amount": "最高速度15mph（約24km/h）、有効な自動車運転免許の所持が必須",
+        "incomeLimit": "歩道走行は法律で完全禁止（車道または自転車専用レーンのみ）",
+        "keyFeature": "シェアリング発祥の地として法制化。運転免許の所持（仮免許含む）を義務付け、歩道走行を厳罰禁止。18歳未満にはヘルメット着用を義務付け、事故発生時の損害賠償責任保険をプラットフォーム事業者に課しています。",
+        "source": {
+          "organization": "カリフォルニア州車両管理局 (California DMV)",
+          "title": "Motorized Scooter Laws and Safety Rules (CVC § 21235)",
+          "url": "https://www.dmv.ca.gov"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "Dirección General de Tráfico (DGT - 個人移動車両 VMP 規制令)",
+        "amount": "最高速度25km/h、歩道・高速道路の走行完全禁止、ヘルメット義務化",
+        "incomeLimit": "車両認証証明書（Certificado de circulación）および反射材・ライト義務",
+        "keyFeature": "歩行者事故の多発を受け、交通総局（DGT）が2021年に全国統一基準を導入。歩道走行を禁錮・罰金対象とし、2024年以降は技術認証を受けた公式登録車両しか公道を走れない型式証明制度を導入しました。",
+        "source": {
+          "organization": "スペイン交通総局 (Dirección General de Tráfico - DGT)",
+          "title": "Normativa de Vehículos de Movilidad Personal (VMP)",
+          "url": "https://www.dgt.es"
+        }
+      },
+      {
+        "country": "オーストラリア（ビクトリア州）",
+        "countryCode": "AU-VIC",
+        "flag": "🇦🇺",
+        "systemName": "Road Safety Road Rules (e-scooter trial regulations)",
+        "amount": "最高速度20km/h、全年齢で【ヘルメット着用が絶対義務】（罰金制）",
+        "incomeLimit": "GPSジオフェンシングによる歩行者密集地での遠隔自動減速・進入制限",
+        "keyFeature": "メルボルン等の実証実験を経て法制化。豪州の厳しい自転車ヘルメット法と同様に、電動キックボードもヘルメット非着用に対し高額な反則金を即座に科すなど、人身被害軽減を最優先にした運用を徹底しています。",
+        "source": {
+          "organization": "ビクトリア州道路交通局 (VicRoads)",
+          "title": "E-scooter rules and safety regulations in Victoria",
+          "url": "https://www.vicroads.vic.gov.au"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "Codice della Strada (新道路交通法・マイクロモビリティ厳罰化)",
+        "amount": "【ナンバープレート表示・個人賠償責任保険・ヘルメット】の全着用義務化",
+        "incomeLimit": "最高速度20km/h（歩行者エリア6km/h）、歩道走行・逆走への高額罰金",
+        "keyFeature": "死傷事故が社会問題化したことを受け、2023年〜2024年の道交法大改正で規制を一気に厳格化。特定小型車両であっても自動車並みにナンバープレートと自賠責保険の加入を義務付け、無法運転を根絶する方針を打ち出しました。",
+        "source": {
+          "organization": "イタリア国家警察 (Polizia di Stato - Polizia Stradale)",
+          "title": "Nuove regole per i monopattini elettrici nel Codice della Strada",
+          "url": "https://www.poliziadistato.it"
+        }
       }
     ]
   }

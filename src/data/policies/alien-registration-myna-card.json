@@ -273,6 +273,62 @@
           "title": "Permanent Resident Card (Green Card) Security Features",
           "url": "https://www.uscis.gov/green-card"
         }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Aufenthaltsgesetz (滞在法・電子滞在許可証 eAT 制度)",
+        "statusOrLevel": "非接触ICチップ搭載の【電子滞在許可証（elektronischer Aufenthaltstitel - eAT）】",
+        "incomeLimit": "生体認証（指紋2指＋顔写真）および国家電子身分証明（Online-Ausweisfunktion）統合",
+        "keyFeature": "在留許可証に生体認証チップとPKI電子署名機能を完全統合。在留カード単体で政府のデジタルポータル（BundID）にログインして確定申告や各種申請をオンライン完結できる電子身分証として機能しています。",
+        "source": {
+          "organization": "ドイツ連邦移民難民庁 (BAMF)",
+          "title": "Der elektronische Aufenthaltstitel (eAT) und seine Funktionen",
+          "url": "https://www.bamf.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Code de l'entrée et du séjour des étrangers (CESEDA - バイオメトリック滞在許可証)",
+        "statusOrLevel": "生体認証チップ搭載の統一フォーマット滞在許可証（Titre de séjour biométrique）",
+        "incomeLimit": "CAF（家族手当金庫）および社会保障番号（Sécurité Sociale）と一元連動",
+        "keyFeature": "EU統一規格に基づき指紋と顔写真をICチップに格納。内務省の出入国管理サーバーと社会保障金庫がリアルタイムで接続されており、カード1枚で適法滞在資格・就労資格・医療保険受給権が瞬時に照合されます。",
+        "source": {
+          "organization": "フランス内務省 (Direction générale des étrangers en France)",
+          "title": "Titres de séjour pour étrangers en France et démarches en ligne",
+          "url": "https://www.immigration.interieur.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Visa Entitlement Verification Online (VEVO - クラウド在留資格確認システム)",
+        "statusOrLevel": "【物理的な滞在許可カードを全廃】、パスポート番号による100%クラウド在留資格確認",
+        "incomeLimit": "雇用主・銀行・家主が政府VEVOポータルでリアルタイムに就労・滞在条件を照会",
+        "keyFeature": "プラスチックの在留カードを発行せず、内務省のクラウドデータベース（VEVO）で一元管理。偽造カード問題が原理的に発生せず、雇用主はスマホで外国人のパスポート番号を照合するだけで就労可能時間を即座に確認できます。",
+        "source": {
+          "organization": "オーストラリア内務省 (Department of Home Affairs)",
+          "title": "Check visa details and conditions online (VEVO)",
+          "url": "https://immi.homeaffairs.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "出入国管理法第31条 (外国人登録証 ARC・スマートモバイル外国人身分証)",
+        "statusOrLevel": "ICチップ搭載の外国人登録証に加え、【モバイル外国人身分証アプリ】の本格運用",
+        "incomeLimit": "政府行政情報共同利用網を通じて銀行口座開設・携帯電話開通・健康保険と連動",
+        "keyFeature": "法務部が発行する外国人登録証（ARC）をマイナンバー的役割を持つ住民登録番号システムと連動。さらにスマホアプリ内に身分証を格納できる『モバイル外国人身分証』を導入し、日常生活のデジタル利便性を大幅に高めています。",
+        "source": {
+          "organization": "大韓民国法務部出入国・外国人政策本部 (Hi Korea)",
+          "title": "外国人登録制度および外国人登録証の発行案内",
+          "url": "https://www.hikorea.go.kr"
+        }
       }
     ]
   }

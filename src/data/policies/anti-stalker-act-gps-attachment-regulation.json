@@ -281,6 +281,62 @@
           "title": "National Plan to End Violence against Women and Children",
           "url": "https://www.ag.gov.au/families-and-marriage/families/family-violence"
         }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Code pénal Art. 222-33-2-2 (刑法・位置情報電子追跡禁止規定)",
+        "statusOrLevel": "相手の同意なく位置情報トラッカー（GPS・AirTag等）を設置した場合【最大2年禁錮・3万ユーロ罰金】",
+        "incomeLimit": "配偶者・元パートナーに対する犯行は【最大3年禁錮・4万5,000ユーロ罰金】へ加重処罰",
+        "keyFeature": "刑法を改正し、自動車や所持品にGPS機器を取り付ける行為や位置情報アプリを無断でインストールする行為を独立した『ストーカー加重犯罪』として明文規定。証拠が確認され次第、警察が即時逮捕できる法体系を整備しました。",
+        "source": {
+          "organization": "フランス司法省 (Ministère de la Justice)",
+          "title": "Loi visant à protéger les victimes de violences conjugales et géolocalisation illégale",
+          "url": "https://www.justice.gouv.fr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "Criminal Code Section 264 (犯罪的つきまとい罪・電子的監視規制)",
+        "statusOrLevel": "GPSや追跡タグを用いた位置監視は【最高10年の禁錮刑】を科す重大犯罪",
+        "incomeLimit": "被害者が身の危険を感じた時点で成立（警告前置なしに即時刑事立件）",
+        "keyFeature": "刑法264条の『犯罪的つきまとい（Criminal Harassment）』において、物理的な尾行だけでなく、電子的手段による位置情報の無断追跡を完全に同等の暴力行為とみなして重罰を科しています。",
+        "source": {
+          "organization": "カナダ司法省 (Department of Justice Canada)",
+          "title": "Criminal Code (R.S.C., 1985, c. C-46) Section 264 Criminal harassment",
+          "url": "https://www.justice.gc.ca"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "ストーカー犯罪の処罰等に関する法律 (ストーカー処罰法・電子足輪連動改正)",
+        "statusOrLevel": "相手の同意のない位置情報の収集・追跡を明確に処罰対象に追加、被害者保護命令強化",
+        "incomeLimit": "加害者に対する【GPS電子足輪（位置追跡電子装置）着用命令】の導入",
+        "keyFeature": "新堂駅ストーカー殺人事件等を契機に法改正。接近禁止命令に違反する恐れのある加害者に対し、裁判前の捜査段階でも位置追跡電子足輪を装着させ、被害者に近づいた瞬間に警察へ自動通報されるハイテク防犯体制を確立しました。",
+        "source": {
+          "organization": "大韓民国警察庁 (KNPA)",
+          "title": "ストーカー処罰法改正および位置情報追跡等に対する厳正対応方針",
+          "url": "https://www.police.go.kr"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "Harassment Act 1997 & Harmful Digital Communications Act",
+        "statusOrLevel": "位置情報トラッキング・通信監視に対する【裁判所接近禁止命令（Restraining Order）】",
+        "incomeLimit": "違反者に対し最大2年（再犯時最大3年）の禁錮刑および電子的ログ開示命令",
+        "keyFeature": "物理的な接近だけでなく、AirTag等のデジタルタグを他人の車や荷物に取り付ける行為を包括的にハラスメントと認定。裁判所が迅速に接近禁止命令を発令し、破った場合は直ちに刑事事件として身柄を拘束します。",
+        "source": {
+          "organization": "ニュージーランド司法省 (Ministry of Justice NZ)",
+          "title": "Harassment Act 1997 and applying for a restraining order",
+          "url": "https://www.justice.govt.nz"
+        }
       }
     ]
   }

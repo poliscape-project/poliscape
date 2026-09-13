@@ -183,6 +183,62 @@
           "title": "Renewing your driver licence at 75 and over",
           "url": "https://www.nzta.govt.nz/driver-licences/renewing-replacing-and-updating/renewing-for-seniors/"
         }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Fahrerlaubnis-Verordnung (FeV - 運転免許生涯有効原則)",
+        "statusOrLevel": "運転免許に【有効期限・高齢者講習・定年検査は原則なし（生涯保有）】",
+        "incomeLimit": "医師が運転不適格と認めた場合の自主返納助成（公共交通乗り放題パス贈呈）",
+        "keyFeature": "EU指令に基づきカードの15年更新が義務付けられたものの、適性検査や年齢による実車試験は一切なし。『個人の自己責任と自由』を重んじ、自治体は免許返納者に対して1年間の無料鉄道定期券を提供するなどインセンティブによる返納を促しています。",
+        "source": {
+          "organization": "ドイツ連邦デジタル・交通省 (BMDV)",
+          "title": "Fahrerlaubnisrecht und Senioren im Straßenverkehr",
+          "url": "https://www.bmdv.bund.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Code de la route (道路交通法典・高齢運転者適性議論)",
+        "statusOrLevel": "高齢者への義務的身体検査なし（医師による通報・任意診断）",
+        "incomeLimit": "欧州議会の70歳以上定期健康診断義務付け案に対し、過疎地の高齢者孤立懸念から政府が反対",
+        "keyFeature": "公共交通機関が乏しい地方過疎地で高齢者の免許を取り上げると生活が成り立たなくなるため、年齢による一律の実車試験や医師診断の義務化に慎重。安全運転支援装置（サポカー）の普及と家族による見守りを重視しています。",
+        "source": {
+          "organization": "フランス内務省・道路安全局 (Sécurité Routière)",
+          "title": "Seniors au volant : aptitudes et conseils pour une conduite sûre",
+          "url": "https://www.securite-routiere.gouv.fr"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "Körkortslagen (運転免許法・医師による通報義務制度)",
+        "statusOrLevel": "一律の高齢実車試験は行わず、【医師に対する運転不適格患者の通報義務化】",
+        "incomeLimit": "認知症や視力障害等を診断した医師は、運輸庁（Transportstyrelsen）へ通報が法律上の義務",
+        "keyFeature": "年齢による一律選別ではなく医療的見地を徹底。すべての医師は認知症や脳卒中等で運転に支障があると診断した場合、患者の同意がなくても行政に通報する法的義務を負い、それに基づき運輸庁が免許停止・取消処分を下します。",
+        "source": {
+          "organization": "スウェーデン運輸庁 (Transportstyrelsen)",
+          "title": "Läkares anmälningsskyldighet och medicinska krav för körkort",
+          "url": "https://www.transportstyrelsen.se"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "大韓民国道路交通法第87条 (高齢運転者適性検査短縮と条件付き免許)",
+        "statusOrLevel": "75歳以上の免許更新期間を【5年から3年へ短縮】、認知機能検査と交通安全教育義務化",
+        "incomeLimit": "夜間・高速道路走行を制限する『条件付き運転免許』制度の導入推進",
+        "keyFeature": "高齢ドライバーによる逆走・暴走死亡事故が急増したため法改正。75歳以上は更新を3年毎とし認知検査を義務付け。さらに免許を自主返納した高齢者に対し各自治体が10万〜30万ウォンの交通カードを支給し、返納を後押ししています。",
+        "source": {
+          "organization": "大韓民国警察庁 (KNPA)",
+          "title": "高齢運転者交通安全教育および運転免許自主返納支援制度",
+          "url": "https://www.police.go.kr"
+        }
       }
     ]
   }

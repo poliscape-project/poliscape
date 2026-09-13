@@ -261,6 +261,62 @@
           "title": "Mamad and Protected Spaces Regulations",
           "url": "https://www.oref.org.il/en"
         }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "民防衛基本法 (国民安全処・民間防衛避難施設指定制度)",
+        "statusOrLevel": "全国約1万7,000カ所の地下鉄駅舎・公共施設・アパート地下駐車場を【民防衛シェルター】指定",
+        "incomeLimit": "スマホアプリ『安全ディディミ（Safe Korea）』による最寄り地下シェルター即時ナビ",
+        "keyFeature": "北朝鮮の長距離砲・ミサイル脅威に常時備え、大都市のすべての地下鉄駅舎や高層マンションの地下階を法的に緊急避難施設に指定。定期的な全国民参加の空爆退避訓練（民防衛の日）を実施しています。",
+        "source": {
+          "organization": "大韓民国行政安全部 (Safe Korea / 國家災難安全ポータル)",
+          "title": "民防衛避難施設のご案内および行動要領",
+          "url": "https://www.safekorea.go.kr"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "Lag (2006:545) om skyddsrum (防空壕法・民間防衛庁MSB管理)",
+        "statusOrLevel": "全国約6万5,000カ所の公認防空シェルター（Skyddsrum）により【人口の7割以上（約700万人）を収容可能】",
+        "incomeLimit": "爆風・破片・毒ガス・放射性降下物を遮断する換気フィルター・耐爆扉の設置義務",
+        "keyFeature": "冷戦期から築き上げた世界屈指のシェルター網を法的に維持。住宅や公共ビルの地下に設置され、有事の際は48時間以内に物資を搬入して避難所化する義務があり、民間防衛庁MSBが毎年定期検査を行っています。",
+        "source": {
+          "organization": "スウェーデン民間防衛庁 (Myndigheten för samhällsskydd och beredskap - MSB)",
+          "title": "Skyddsrum: Vad du behöver veta om skyddsrum i Sverige",
+          "url": "https://www.msb.se"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "防空避難設備管理法制 & 警政署防空避難專區",
+        "statusOrLevel": "全土10万カ所以上（約8,000万人分・人口の3倍以上）の地下避難施設を指定・公開",
+        "incomeLimit": "内政部警政署の地図アプリおよびGoogle Maps連携によるワンタップ避難案内",
+        "keyFeature": "中国による軍事侵攻やミサイル攻撃の脅威に備え、建築基準法で一定規模以上のビルの地下階に防空避難設備の設置を義務付け。毎年全土で行われる防空演習（万安演習）で住民の地下退避を徹底しています。",
+        "source": {
+          "organization": "台湾内政部警政署 (National Police Agency - NPA)",
+          "title": "防空避難專區 (防空避難設備マップおよび管理基準)",
+          "url": "https://www.npa.gov.tw"
+        }
+      },
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "Sivilbeskyttelsesloven (民間防衛法・公共シェルター Tilfluktsrom)",
+        "statusOrLevel": "全国約2万カ所の公共および民間防空シェルター（約250万人分）の法的一斉点検",
+        "incomeLimit": "一定規模以上の商業ビル・学校への耐爆気密シェルター建設義務法制",
+        "keyFeature": "ウクライナ戦争の勃発を受け、民間防衛庁（DSB）が全国の地下防空壕の緊急点検と近代化改修を推進。自治体の地下駐車場や公共空間を核シェルター基準に耐えうる非常退避拠点として維持管理しています。",
+        "source": {
+          "organization": "ノルウェー民間防衛庁 (Direktoratet for samfunnssikkerhet og beredskap - DSB)",
+          "title": "Tilfluktsrom: Offentlige og private tilfluktsrom i Norge",
+          "url": "https://www.dsb.no"
+        }
       }
     ]
   }

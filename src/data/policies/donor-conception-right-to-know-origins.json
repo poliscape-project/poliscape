@@ -241,6 +241,62 @@
           "title": "Accessing donor records and historical donor registers",
           "url": "https://www.varta.org.au/"
         }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Loi de bioéthique 2021 (生体倫理法改正・ドナー匿名性撤廃)",
+        "statusOrLevel": "子どもが18歳に達した際、精子・卵子ドナーの【身元情報開示請求権】を法認",
+        "incomeLimit": "新規ドナーに対し、将来の情報開示（氏名・生年月日・外見的特徴等）への事前同意を義務化",
+        "keyFeature": "長年堅持してきた『ドナー完全匿名原則』を2021年に大転換。『子どもには自らの出自を知る基本的人権がある』と認め、国家生体倫理委員会（Agence de la biomédecine）に出自照会登録機関を設置しました。",
+        "source": {
+          "organization": "フランス生体内医療庁 (Agence de la biomédecine)",
+          "title": "Accès aux origines des personnes nées d'une PMA avec tiers donneur",
+          "url": "https://www.agence-biomedecine.fr"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "Wet donorgegevens kunstmatige bevruchting (ドナー情報法・匿名提供完全禁止)",
+        "statusOrLevel": "2004年以降【匿名の精子・卵子提供を全面禁止】、国家中央登録簿への記録義務",
+        "incomeLimit": "子どもが16歳になった際、ドナーの身元・連絡先情報を請求可能",
+        "keyFeature": "匿名提供を法律で違法化し、すべての生殖補助医療データを国家登録センターに一元保存。子が12歳でドナーの身体的・社会的特徴、16歳で氏名・住所等の個人識別情報を知る権利を段階的に保障しています。",
+        "source": {
+          "organization": "オランダ政府 (Rijksoverheid)",
+          "title": "Afstamming en donorgegevens bij kunstmatige bevruchting",
+          "url": "https://www.rijksoverheid.nl"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "Human Assisted Reproductive Technology Act 2004 (HART法)",
+        "statusOrLevel": "匿名ドナー提供の違法化、出生登録簿（BDM）にドナー提供出生である旨を明記",
+        "incomeLimit": "商業的提供（金銭授受）を厳禁、純粋な利他的ドナーのみを認可",
+        "keyFeature": "マオリの伝統文化である『家系・血統（Whakapapa）』を重んじる思想が法制化に影響。商業的取引を排除した上で、子は18歳（または16歳以上で裁判所許可）で出自情報を開示請求できる権利を確立しました。",
+        "source": {
+          "organization": "ニュージーランド保健省 (Ministry of Health NZ)",
+          "title": "Human Assisted Reproductive Technology (HART) Act and donor register",
+          "url": "https://www.health.govt.nz"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "Assisted Human Reproduction Act (AHRA - 連邦生殖補助医療法)",
+        "statusOrLevel": "ドナー精子・卵子の商業的売買を刑事罰で禁止（最大50万ドルの罰金・10年禁錮）",
+        "incomeLimit": "ドナーの実費弁償のみ許容、州ごとの健康情報保護法による出自情報管理",
+        "keyFeature": "人間の生殖細胞の商業的商品化を徹底的に禁止。ドナーの身元開示については各州のプライバシー法や最高裁判決に基づき、子どもの精神的発達と福祉を最優先にした情報アクセス制度の法制化が進められています。",
+        "source": {
+          "organization": "カナダ保健省 (Health Canada)",
+          "title": "Assisted Human Reproduction Act and regulations",
+          "url": "https://www.canada.ca/en/health-canada.html"
+        }
       }
     ]
   }

@@ -262,6 +262,62 @@
           "title": "Disability Confident employer scheme (DWP)",
           "url": "https://www.gov.uk/government/collections/disability-confident-campaign"
         }
+      },
+      {
+        "country": "オーストリア",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "systemName": "Behinderteneinstellungsgesetz (BEinstG - 障がい者雇用義務法)",
+        "statusOrLevel": "従業員25名以上の企業に対し【4%の雇用義務割当】、未達成企業へ高額負担金",
+        "incomeLimit": "未達成1名あたり月額数百ユーロの調整金（Ausgleichstaxe）を雇用基金へ充当",
+        "keyFeature": "日本の2.7%より遥かに高い4%の雇用率を義務付け。企業が雇用義務を免れるためのダミー代行会社を排除し、社会省サービス局（SMS）が実際の職場環境適応と直接雇用を重点支援しています。",
+        "source": {
+          "organization": "オーストリア社会省サービス局 (Sozialministeriumservice)",
+          "title": "Behinderteneinstellungsgesetz und Ausgleichstaxe",
+          "url": "https://www.sozialministeriumservice.at"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "Legge 68/1999 (障がい者の労働権利法・雇用促進法)",
+        "statusOrLevel": "従業員50名以上の企業に対し【7%の義務割当（Collocamento mirato）】",
+        "incomeLimit": "障がい者の適性と企業の職務内容をマッチングする個別『標的配置』の義務化",
+        "keyFeature": "単に数を合わせる農園型代行のような形式的雇用を禁止。県立労働センターの専門チームが障害者の能力と企業の業務を科学的に分析し、真に戦力として定着させる『標的配置（Collocamento mirato）』を義務付けています。",
+        "source": {
+          "organization": "イタリア労働社会政策省 (Cliclavoro)",
+          "title": "Collocamento mirato delle persone con disabilità (Legge 68/99)",
+          "url": "https://www.cliclavoro.gov.it"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "障害者雇用促進および職業リハビリテーション法",
+        "statusOrLevel": "国家・公的機関【3.8%】、民間企業【3.1%】の義務雇用率を法制化",
+        "incomeLimit": "未達成企業に対し月額最大200万ウォン（最低賃金水準）の負担金を強制徴収",
+        "keyFeature": "雇用義務を満たさない大企業や財閥の社名を毎年公表（ネーム＆シェイム）。さらに未達1人あたりの負担金を段階的に引き上げ、障害者標準事業場の設立など本格的な直接雇用への投資を促しています。",
+        "source": {
+          "organization": "韓国障害者雇用公団 (KEAD)",
+          "title": "障害者雇用義務制度および負担金・報奨金のご案内",
+          "url": "https://www.kead.or.kr"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "Ley General de Discapacidad (障がい者権利および社会包摂基本法)",
+        "amount": "従業員50名以上の企業に対し【2%の直接雇用義務】",
+        "incomeLimit": "特別雇用センター（CEE）との製品調達契約による代替措置を公認管理",
+        "keyFeature": "直接雇用が困難な例外時に限り、障がい者が7割以上を占める社会福祉企業『特別雇用センター（CEE）』からの物品購入や業務委託を代替雇用として認可。代行ビジネスの悪用を防ぐ厳格な認可監督体制を敷いています。",
+        "source": {
+          "organization": "スペイン社会権利・包摂・社会福祉省 (Ministerio de Inclusión)",
+          "title": "Inclusión laboral de las personas con discapacidad y Centros Especiales de Empleo",
+          "url": "https://www.inclusion.gob.es"
+        }
       }
     ]
   }

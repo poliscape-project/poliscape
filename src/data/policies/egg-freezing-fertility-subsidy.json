@@ -183,6 +183,62 @@
           "title": "Storage limits for eggs, sperm and embryos - Health and Care Act 2022",
           "url": "https://www.hfea.gov.uk/treatments/fertility-preservation/egg-freezing/"
         }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Assisted Reproduction Services Regulations (社会的卵子凍結解禁)",
+        "amount": "21歳〜37歳のすべての女性に対し【非医学的（社会的）卵子凍結を合法化】",
+        "incomeLimit": "施術前の医師・心理カウンセラーによるインフォームド・コンセント義務化",
+        "keyFeature": "かつては癌治療等の医学的理由に限定されていましたが、女性のキャリア形成と少子化対策のため2023年に方針を大転換。未婚であっても自己選択として卵子凍結を行える法的権利を認める先進的法制へ移行しました。",
+        "source": {
+          "organization": "シンガポール保健省 (Ministry of Health - MOH)",
+          "title": "Elective egg freezing framework and assisted reproduction regulations",
+          "url": "https://www.moh.gov.sg"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Medicare Benefits Schedule (MBS) & State Fertility Vouchers",
+        "amount": "医学的適応の卵子凍結に公的メディケア適用、州政府による助成バウチャー",
+        "incomeLimit": "NSW州等で不妊治療・受精卵・卵子保存に対し最大2,000豪ドルの公費還付",
+        "keyFeature": "病気等による医学的理由での卵子凍結は連邦公的医療保険（Medicare）で手厚くカバー。さらにニューサウスウェールズ州などでは独自の不妊治療リベートを新設し、女性の生殖医療アクセスにかかる経済的負担を大幅に削減しています。",
+        "source": {
+          "organization": "オーストラリア保健高齢者福祉省 (Department of Health and Aged Care)",
+          "title": "Medicare support for assisted reproductive technology and fertility services",
+          "url": "https://www.health.gov.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "母子保健法およびソウル市未婚女性卵子凍結手術費支援事業",
+        "amount": "未婚・既婚を問わず【最大200万ウォン（費用の50%）】の公費直接助成",
+        "incomeLimit": "20〜49歳の女性で卵巣予備能（AMH）検査基準を満たす者を対象",
+        "keyFeature": "世界最低の出生率を打破するため、ソウル市や京畿道などの地方自治体が先導して『社会的卵子凍結』への巨額公金助成を開始。将来の妊娠・出産を希望する働く未婚女性に対し、検査費や採卵・凍結費用を直接補助しています。",
+        "source": {
+          "organization": "ソウル特別市 (Seoul Metropolitan Government)",
+          "title": "ソウル市女性の卵子凍結施術費支援事業のご案内",
+          "url": "https://www.seoul.go.kr"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "Ley 14/2006 sobre técnicas de reproducción humana asistida",
+        "amount": "世界最大の生殖補助医療拠点、卵子の【法的な保存期間制限なし（無期限）】",
+        "incomeLimit": "18歳以上のすべての女性に未婚・性的指向に関わらず生殖医療アクセス権を保障",
+        "keyFeature": "ヨーロッパで最も進歩的な生殖医療法を整備。女性が希望する限り凍結卵子を法的な期限なく保管でき、公的医療保険（SNS）でも一定の不妊治療がカバーされるため、世界中から卵子凍結や治療を求める女性が集まるハブとなっています。",
+        "source": {
+          "organization": "スペイン保健省 (Ministerio de Sanidad)",
+          "title": "Reproducción humana asistida y registro nacional de actividad",
+          "url": "https://www.sanidad.gob.es"
+        }
       }
     ]
   }

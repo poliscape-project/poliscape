@@ -261,6 +261,62 @@
           "title": "Code pénal - Article 313-6-2 : Vente illicite de billets de spectacle",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025514605/"
         }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Bürgerliches Gesetzbuch (BGB) & Gesetz gegen den unlauteren Wettbewerb (UWG)",
+        "statusOrLevel": "主催者の利用規約による【定価を超える転売の禁止条項】を裁判所が強力に支持",
+        "incomeLimit": "Viagogo等の高額転売プラットフォームに対する差止請求と巨額損害賠償判決",
+        "keyFeature": "ブンデスリーガやコンサート業界が主導し、チケットを『記名式・定価譲渡のみ可』とする規約を裁判所が合憲合法と支持。悪質な転売仲介サイトに対し連邦カルテル庁や消費者連盟が差止命令を勝ち取っています。",
+        "source": {
+          "organization": "ドイツ連邦カルテル庁 (Bundeskartellamt)",
+          "title": "Sektoruntersuchung Online-Ticket-Vertrieb und Verbraucherschutz",
+          "url": "https://www.bundeskartellamt.de"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "Ley de Espectáculos Públicos & Ley de Consumo (不正転売規制令)",
+        "statusOrLevel": "街頭・インターネット上を問わず【チケットの路上転売および投機的再販の禁止】",
+        "incomeLimit": "消費省によるダイナミックプライシング（需要連動価格）の不当表示・優越的地位乱用調査",
+        "keyFeature": "オアシス公演等で問題化した過度な価格つり上げ（変動価格制）に対し、消費省が消費者保護法違反の疑いで調査を開始。チケットの再販売は公式リセール窓口での定価（手数料上限あり）に限定されています。",
+        "source": {
+          "organization": "スペイン消費省 (Ministerio de Consumo)",
+          "title": "Investigación sobre la venta de entradas, precios dinámicos y reventa",
+          "url": "https://www.consumo.gob.es"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "Legge di Bilancio 2017 Art. 1 comma 545 (二次流通チケット販売禁止法)",
+        "statusOrLevel": "チケット買い占めボット（自動購入ソフト）利用に対する【最高18万ユーロの過料】",
+        "incomeLimit": "5,000人規模以上の音楽コンサートにおける【チケットへの購入者氏名記載義務化】",
+        "keyFeature": "転売ヤーによるチケット買い占めを根絶するため、自動購入ボットの利用を法律で厳罰化。入場時に身分証明書（パスポートやID）とチケットの記載氏名を照合する本人確認を主催者に義務付けています。",
+        "source": {
+          "organization": "イタリア市場競争保護局 (AGCM)",
+          "title": "Provvedimenti in materia di secondary ticketing e bagarinaggio online",
+          "url": "https://www.agcm.it"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "大韓民国公演法第4条の2改正 (マクロプログラム利用不正販売禁止法・2024年施行)",
+        "statusOrLevel": "マクロプログラムを用いて購入したチケットの転売に対し【最大1年の懲役または1,000万ウォンの罰金】",
+        "incomeLimit": "文化体育観光部・警察庁・韓国コンテンツ振興院による『闇チケット通報センター』運営",
+        "keyFeature": "K-POPコンサートのチケットが高額転売される問題を撲滅するため、2024年3月に改正法を施行。自動入力プログラム（マクロ）を使って不正に取得したチケットの販売を刑事罰化し、通報者への報償金制度を整備しました。",
+        "source": {
+          "organization": "大韓民国文化体育観光部 (MCST / 大韓民国政策ブリーフィング)",
+          "title": "改正公演法施行・マクロ利用不正前売チケット処罰案内",
+          "url": "https://www.korea.kr"
+        }
       }
     ]
   }
