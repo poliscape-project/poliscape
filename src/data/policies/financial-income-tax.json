@@ -273,6 +273,62 @@
           "title": "Abgeltungsteuer auf Kapitalerträge",
           "url": "https://www.bundesfinanzministerium.de/"
         }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "Dual Income Tax (二元的所得税制・資本所得一律30%課税)",
+        "amount": "給与等の勤労所得は最大約52%の累進課税、株式配当・譲渡益は【一律30%立替課税】",
+        "incomeLimit": "個人貯蓄口座（ISK）利用時は元本評価額に対する低率のみなし課税を選択可能",
+        "keyFeature": "『労働と資本を明確に分離』する二元的所得税制の創始国。キャピタルゲインを一律30%とすることで富裕層の海外逃避を防ぎつつ、投資奨励勘定（ISK）を通じて一般国民の長期資産形成を強力に後押ししています。",
+        "source": {
+          "organization": "スウェーデン国税庁 (Skatteverket)",
+          "title": "Skatt på kapital och investeringssparkonto (ISK)",
+          "url": "https://www.skatteverket.se"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Inland Revenue Authority of Singapore (キャピタルゲイン完全非課税制度)",
+        "amount": "個人および法人が得た株式・投資信託の売却益は【税率0%（完全非課税）】",
+        "incomeLimit": "専業トレーダー等の反復的事業取引とみなされた場合のみ事業所得課税",
+        "keyFeature": "アジアの国際金融センターとしての地位を盤石にするため、株式や債券のキャピタルゲインに税金を一切課さない思い切った税制を採用。世界中の富裕層や機関投資家、ファミリーオフィスの資金を呼び込む最大の武器となっています。",
+        "source": {
+          "organization": "シンガポール内国歳入庁 (IRAS)",
+          "title": "Gains from sale of shares and investments (Non-taxable capital gains)",
+          "url": "https://www.iras.gov.sg"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "大韓民国所得税法（金融投資所得税の新設延期・廃止論争）",
+        "amount": "株式譲渡益に最大25%課税する『金投税』を巡り、個人投資家の反発で国会大激論",
+        "incomeLimit": "現状は大株主（保有額10億ウォン以上等）のみに株式譲渡税を課税",
+        "keyFeature": "年間5,000万ウォン超の株式益に課税する『金融投資所得税』を導入予定でしたが、1,400万人の個人投資家から『韓国市場からの資金流出を招く』と激しい反対運動が起き、与野党間で廃止・再延期を巡る政治的妥協が繰り返されています。",
+        "source": {
+          "organization": "大韓民国企画財政部 (MOEF)",
+          "title": "税法改正案・金融投資所得税関連政策ブリーフィング",
+          "url": "https://www.moef.go.kr"
+        }
+      },
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "Aksjonærmodellen (株主モデル課税・超過利得課税制度)",
+        "amount": "無リスク金利を超える株式譲渡益・配当に対して【実効約37.8%の重課税】",
+        "incomeLimit": "安全利子率（国債利回り相当）までの利益は非課税控除",
+        "keyFeature": "『給与所得と資本所得の税率格差をなくす』ため、安全資産の利回りを上回るキャピタルゲインに対して所得税と連動させた高い実効税率（37.84%）を適用。富裕層が役員報酬を配当に付け替えて節税する手口を根絶しています。",
+        "source": {
+          "organization": "ノルウェー国税庁 (Skatteetaten)",
+          "title": "Tax on shares and securities - The shareholder model",
+          "url": "https://www.skatteetaten.no/en/person"
+        }
       }
     ]
   }

@@ -277,6 +277,62 @@
           "title": "Unfair dismissal - GOV.UK (不公正解雇公式ガイド)",
           "url": "https://www.gov.uk/dismissal/unfair-and-constructive-dismissal"
         }
+      },
+      {
+        "country": "デンマーク",
+        "countryCode": "DK",
+        "flag": "🇩🇰",
+        "systemName": "Flexicurity (フレキシキュリティ：柔軟な解雇と手厚い再教育の融合)",
+        "statusOrLevel": "解雇規制は極めて緩やか（金銭補償による即時解雇が可能）",
+        "incomeLimit": "直前賃金の最大90%を最長2年間保障する手厚い失業保険と公的リスキリング",
+        "keyFeature": "企業は業績や方針転換に応じて容易に従業員を解雇できますが、失業者は手厚い失業給付を受けながら国が全額負担する職業訓練を受け、平均数ヶ月で新たな成長産業へ転職。雇用の流動性と労働者の所得保障を高度に両立させた奇跡のモデルとして世界中から視察が相次いでいます。",
+        "source": {
+          "organization": "デンマーク雇用省 (Beskæftigelsesministeriet)",
+          "title": "The Danish Flexicurity model and labor market policy",
+          "url": "https://bm.dk"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "Lag (1982:80) om anställningsskydd (LAS - 雇用保護法改正2022)",
+        "statusOrLevel": "不当解雇訴訟時、雇用継続ではなく【金銭解決（賃金最大32ヶ月分）】による契約終了",
+        "incomeLimit": "企業規模に関わらず専門職・技術者の例外除外枠を拡大",
+        "keyFeature": "2022年の歴史的労使大妥協により雇用保護法を抜本改正。裁判所が不当解雇と認めた場合でも、企業が拒否すれば巨額の損害賠償金（金銭補償）を支払うことで雇用関係を合法的に解消できる制度を確立し、中小企業の採用意欲を高めています。",
+        "source": {
+          "organization": "スウェーデン政府 (Regeringskansliet)",
+          "title": "En reformerad arbetsrätt - ett modernt anställningsskydd (LAS)",
+          "url": "https://www.government.se"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "大韓民国勤労基準法第23条・第24条 (整理解雇の4要件と労働委員会救済)",
+        "statusOrLevel": "日本とほぼ同一の厳格な整理解雇法理、不当解雇には原職復帰命令が原則",
+        "incomeLimit": "解雇予告手当（30日分賃金）または労働委員会による金銭補償命令（希望時のみ）",
+        "keyFeature": "日本と同様に判例法理が厳しく、正当な理由のない解雇は無効。ただし労働者が原職復帰を望まない場合には、労働委員会が企業に対して解雇期間中の賃金相当額を金銭で支払わせる『金銭補償命令制度』を導入しています。",
+        "source": {
+          "organization": "大韓民国雇用労働部 (MOEL)",
+          "title": "勤労基準法第23条（解雇等の制限）および労働委員会救済手続",
+          "url": "https://www.moel.go.kr"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "Jobs Act (労働法改革・不当解雇の原則金銭解決化令)",
+        "statusOrLevel": "不当解雇に対する従来の「原職復帰命令」を原則廃止し、勤続年数比例の金銭解決へ一本化",
+        "incomeLimit": "勤続1年あたり賃金の2ヶ月分（下限6ヶ月〜上限36ヶ月分）の損害賠償",
+        "keyFeature": "レンツィ政権下のJobs Act改革により、差別的解雇などを除く経済的解雇については裁判所による復職命令を原則撤廃。勤続年数に応じた計算式に基づく金銭補償を支払うことで雇用関係を終了できる予測可能性を企業に提供し、正規雇用の採用を促進しました。",
+        "source": {
+          "organization": "イタリア労働社会政策省 (Ministero del Lavoro e delle Politiche Sociali)",
+          "title": "Jobs Act e tutele crescenti contro i licenziamenti",
+          "url": "https://www.lavoro.gov.it"
+        }
       }
     ]
   }

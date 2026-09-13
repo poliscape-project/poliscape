@@ -241,6 +241,62 @@
           "title": "Check if you need to pay tax when you sell cryptoassets",
           "url": "https://www.gov.uk/guidance/check-if-you-need-to-pay-tax-when-you-sell-cryptoassets"
         }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "Bundesgesetz über die direkte Bundessteuer (連邦直接税法・クリプトバレー税制)",
+        "amount": "個人投資家が私的資産として保有する暗号資産の売却益は【原則完全非課税（税率0%）】",
+        "incomeLimit": "年末時点の保有残高に対して各州の「富裕税（低率）」のみが課税対象",
+        "keyFeature": "ツーク州の『クリプトバレー』をはじめ国を挙げてWeb3企業を誘致。個人が自己資金で暗号資産を売買して得たキャピタルゲインは税務上の非課税所得と扱われ、事業的取引でない限り所得税は課されません。",
+        "source": {
+          "organization": "スイス連邦税務局 (Eidgenössische Steuerverwaltung - ESTV)",
+          "title": "Kryptowährungen und direkte Bundessteuer (暗号通貨課税指針)",
+          "url": "https://www.estv.admin.ch"
+        }
+      },
+      {
+        "country": "ポルトガル",
+        "countryCode": "PT",
+        "flag": "🇵🇹",
+        "systemName": "Código do IRS (個人所得税法第10条・暗号資産保有期間別課税)",
+        "amount": "365日以上保有した暗号資産の売却益は【税率0%（完全免税）】",
+        "incomeLimit": "保有期間1年未満の短期売買益のみ28%の申告分離課税を適用",
+        "keyFeature": "かつて暗号資産の完全無税国として世界中のクリプト移住者を集めましたが、2023年に法改正。投機的な短期取引には28%の分離課税を課す一方、1年以上保有した長期投資家に対しては税率0%を維持し、長期的なエコシステム定着を促進しています。",
+        "source": {
+          "organization": "ポルトガル租税関税庁 (Autoridade Tributária e Aduaneira - AT)",
+          "title": "Tributação dos criptoativos em sede de IRS",
+          "url": "https://www.portaldasfinancas.gov.pt"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "大韓民国所得税法第37条 (仮想資産所得に対する20%分離課税法)",
+        "amount": "年250万ウォン控除後の仮想資産譲渡益に【地方税込み22%の申告分離課税】",
+        "incomeLimit": "投資家保護と市場環境を理由に、施行時期を2025年以降へ複数回延期",
+        "keyFeature": "暗号資産取引高が世界屈指の韓国では、総合課税ではなく株式と同様の『20%分離課税』をすでに法律として成立させました。しかし若年層投資家の反発や市場低迷への配慮から、与野党が選挙のたびに施行期日を先送りする政治的争点となっています。",
+        "source": {
+          "organization": "大韓民国国税庁 (NTS)",
+          "title": "仮想資産所得課税制度の概要と施行準備",
+          "url": "https://www.nts.go.kr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Australian Taxation Office (ATO - 暗号資産キャピタルゲイン税 CGT)",
+        "amount": "1年以上保有した暗号資産の売却益は【50%のCGTディスカウント（課税対象半額）】",
+        "incomeLimit": "取引所データと税務署システムの自動突合による申告漏れ防止",
+        "keyFeature": "暗号資産を通貨ではなく資産（CGTアセット）として扱い、個人の総合所得税率で課税。ただし1年以上保有していれば売却益の半分が非課税控除されるため、長期保有者にとっては実質税率が大幅に軽減される仕組みとなっています。",
+        "source": {
+          "organization": "オーストラリア国税庁 (Australian Taxation Office - ATO)",
+          "title": "Crypto asset investments and Capital Gains Tax (CGT)",
+          "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/crypto-asset-investments"
+        }
       }
     ]
   }

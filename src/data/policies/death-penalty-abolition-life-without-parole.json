@@ -241,6 +241,62 @@
           "title": "Bureau of Justice Statistics: Capital Punishment",
           "url": "https://bjs.ojp.gov/topics/courts"
         }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "刑法第41条（死刑規定存置）および執行モラトリアム",
+        "statusOrLevel": "1997年12月以降【25年以上死刑執行ゼロ】（アムネスティ認定・事実上の廃止国）",
+        "incomeLimit": "国会に死刑廃止・仮釈放のない無期懲役創設法案が繰り返し提出",
+        "keyFeature": "金大中政権以降、歴代大統領が執行命令書への署名を拒絶し続け、四半世紀にわたり執行が途絶。憲法裁判所では死刑合憲判決が維持されているものの、実務上は執行を行わないモラトリアム状態を継続し、終身刑の法制化論議が進んでいます。",
+        "source": {
+          "organization": "大韓民国法務部 (MOJ)",
+          "title": "大韓民国刑法第41条（刑の種類）および行刑制度",
+          "url": "https://www.moj.go.kr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Crimes Legislation Amendment Act 2010 (死刑完全根絶法)",
+        "statusOrLevel": "全州・連邦で死刑を完全廃止、将来の復活も連邦法で永久禁止",
+        "incomeLimit": "極刑として「仮釈放なし終身刑（Life imprisonment without parole）」を運用",
+        "keyFeature": "1967年の最後の執行以降、各州が相次いで死刑を廃止。2010年には連邦議会が『いかなる州法・連邦法においても死刑の復活を禁止する』法案を超党派で可決し、国際的にも死刑廃止を推進する外交方針を掲げています。",
+        "source": {
+          "organization": "オーストラリア司法省 (Attorney-General's Department)",
+          "title": "Australia's opposition to the death penalty and legal framework",
+          "url": "https://www.ag.gov.au"
+        }
+      },
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "Straffeloven (ノルウェー刑法・死刑および終身刑の完全全廃)",
+        "statusOrLevel": "法定刑の上限は原則【禁錮21年】（テロ・人道犯罪等で最大30年）",
+        "incomeLimit": "再犯リスクが高い場合は「予防拘禁（Forvaring）」で5年ごとに期間延長",
+        "keyFeature": "応報（復讐）ではなく社会復帰（リハビリテーション）を刑罰の唯一の目的と位置付け、死刑のみならず仮釈放のない終身刑も全廃。77名を殺害した連続テロ犯に対しても最高刑21年が言い渡されましたが、危険性が消えない限り予防拘禁を延長し続ける二重構造をとっています。",
+        "source": {
+          "organization": "ノルウェー司法公安省 (Justis- og beredskapsdepartementet)",
+          "title": "Penal Code (Straffeloven) and sentencing framework",
+          "url": "https://www.regjeringen.no/en/dep/jd/id463"
+        }
+      },
+      {
+        "country": "イタリア",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "systemName": "イタリア共和国憲法第27条 (死刑の絶対的禁止) & 終身刑 (Ergastolo)",
+        "statusOrLevel": "憲法で平時・戦時を問わず死刑を絶対禁止、エルガストロ（終身刑）を運用",
+        "incomeLimit": "欧州人権裁判所判決を受け「反省と更生可能性のある終身刑」へ見直し",
+        "keyFeature": "ファシズム時代の反省から1947年憲法で平時死刑を廃止、1994年に軍事刑法からも全廃。極刑として終身刑（Ergastolo）を科しますが、26年以上の服役と明確な更生の兆候があれば仮釈放申請を認めるなど、人間の尊厳と社会復帰の理念を徹底しています。",
+        "source": {
+          "organization": "イタリア法務省・公式法令ポータル (Normattiva)",
+          "title": "Costituzione della Repubblica Italiana - Articolo 27",
+          "url": "https://www.normattiva.it"
+        }
       }
     ]
   }

@@ -277,6 +277,62 @@
           "title": "Équipements obligatoires à vélo (自転車必須装備と禁止事項公式ルール)",
           "url": "https://www.service-public.fr/particuliers/vosdroits/F34169"
         }
+      },
+      {
+        "country": "デンマーク",
+        "countryCode": "DK",
+        "flag": "🇩🇰",
+        "systemName": "Færdselsloven (道路交通法・自転車交通違反定額反則金制度)",
+        "amount": "信号無視1,000クローナ（約2万2,000円）、スマホ運転・逆走等に高額定額反則金",
+        "incomeLimit": "警察官による現場告知と電子決済（反則金の支払いで刑事訴追を免除）",
+        "keyFeature": "自転車通勤率が4割を超えるコペンハーゲン等において、自転車にも自動車と同等の交通安全ルールを適用。信号無視や夜間無灯火、運転中のスマホ利用に対し警察がその場で高額な反則金切符を交付し、秩序を維持しています。",
+        "source": {
+          "organization": "デンマーク国家警察 (Rigspolitiet)",
+          "title": "Bødetakster for cyklister (自転車違反の反則金額一覧)",
+          "url": "https://politi.dk"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "The Highway Code (道路交通規範・道路使用者ヒエラルキー改正) & FPN",
+        "amount": "軽微違反に定額反則金告知（Fixed Penalty Notice - 30〜50ポンド）、危険運転には刑事罰",
+        "incomeLimit": "歩行者最優先ピラミッド（歩行者 ＞ 自転車 ＞ 車両）の法的明確化",
+        "keyFeature": "2022年のHighway Code大改正により『危害を加える可能性が最も低い歩行者を全員で保護する』ヒエラルキーを確立。自転車には歩行者保護を義務付ける一方、赤信号無視や歩道暴走には警察が定額反則金（FPN）を即時科します。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "The Highway Code: Rules for cyclists (Rules 59 to 82)",
+          "url": "https://www.gov.uk/guidance/the-highway-code"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "Ordonnance sur les amendes d'ordre (簡易反則金令・自転車反則金リスト)",
+        "amount": "信号無視60フラン（約1万円）、歩道走行40フラン、無灯火40フラン等の統一反則金",
+        "incomeLimit": "前科のつかない行政上の簡易手続き（30日以内の納付で事件終結）",
+        "keyFeature": "道路交通法上の軽微な交通違反について、裁判手続きを経ずに警察官がその場で定額の反則金納付書を交付する『簡易反則金制度（OBV）』を自転車にも全面適用。迅速な処理と実効性のある違反抑止を実現しています。",
+        "source": {
+          "organization": "スイス連邦道路庁 (Bundesamt für Strassen - ASTRA)",
+          "title": "Ordonnance sur les amendes d'ordre (OBV / Ordnungsbussenverordnung)",
+          "url": "https://www.astra.admin.ch"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Active Mobility Act (アクティブモビリティ法・歩道通行規制法制)",
+        "amount": "歩道走行禁止（自転車専用レーン・車道のみ）、違反時は最大2,000ドルの罰金",
+        "incomeLimit": "陸上交通庁（LTA）のアクティブモビリティ取締官による街頭監視・取り締まり",
+        "keyFeature": "歩行者との衝突事故が急増したことを受け、法律で電動キックボードや自転車の歩道走行を厳格に禁止。LTAの専任取締官が街頭でスピード測定や監視を行い、悪質な無謀運転に対しては高額な反則金と身柄拘束で対処しています。",
+        "source": {
+          "organization": "シンガポール陸上交通庁 (Land Transport Authority - LTA)",
+          "title": "Active Mobility Act and Rules for Cycling on Public Paths",
+          "url": "https://www.lta.gov.sg"
+        }
       }
     ]
   }

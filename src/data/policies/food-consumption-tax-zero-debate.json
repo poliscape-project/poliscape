@@ -183,6 +183,62 @@
           "title": "Taux de TVA pour les produits alimentaires de première nécessité",
           "url": "https://www.service-public.fr/professionnels-entreprises/vosdroits/F23567"
         }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "Real Decreto-ley de medidas urgentes (物価高対策・主食付加価値税0%減税令)",
+        "amount": "パン・牛乳・卵・チーズ・野菜・オリーブ油等の付加価値税（通常4%）を【完全0%】へ引き下げ",
+        "incomeLimit": "インフレ対策の時限的措置として導入され、物価動向を見ながら段階的に通常税率へ復帰",
+        "keyFeature": "ウクライナ危機による急激な食品インフレに対応し、生活必需品の消費税を一時ゼロにする実験を敢行。流通業者の便乗値上げを防ぐため国家競争委員会（CNMC）が店頭価格を厳格監視し、低所得世帯の食費負担を即効性をもって軽減しました。",
+        "source": {
+          "organization": "スペイン財務省 (Ministerio de Hacienda)",
+          "title": "Medidas de apoyo fiscal contra la inflación y reducción del IVA alimentario",
+          "url": "https://www.hacienda.gob.es"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "Excise Tax Act (連邦物品サービス税 GST - 基本食料品のゼロ税率制度)",
+        "amount": "生鮮肉・魚・野菜・果物・牛乳・パン等の家庭用食料品は【税率0%（Zero-rated）】",
+        "incomeLimit": "スナック菓子・炭酸飲料・外食・テイクアウト調理品は標準税率（5%）課税",
+        "keyFeature": "『食料は生存の基本権』として、加工・調理されていない基礎食料品には連邦税GSTを一切課税せず0%税率を適用。外食やジャンクフードには課税する明快な品目線引きにより、逆進性を緩和しつつ事業者の仕入税額控除も全額認められています。",
+        "source": {
+          "organization": "カナダ国税庁 (Canada Revenue Agency - CRA)",
+          "title": "GST/HST and basic groceries (Zero-rated food products)",
+          "url": "https://www.canada.ca/en/revenue-agency.html"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "大韓民国付加価値税法第26条 (未加工食料品等の付加価値税完全免税)",
+        "amount": "米・野菜・肉・魚・キムチなど【未加工の生活必需食料品は10%消費税が完全免税】",
+        "incomeLimit": "包装・加工・缶詰化された食品や外食は標準税率10%課税",
+        "keyFeature": "1977年の付加価値税導入当初から、主食の米をはじめ加工されていない農水産物・畜産物には10%の税金を一切課さない免税制度を堅持。食料品を非課税にすることで、低所得世帯のエンゲル係数の上昇と税の逆進性を強力に防いでいます。",
+        "source": {
+          "organization": "大韓民国国税庁 (NTS)",
+          "title": "付加価値税法第26条（財貨または用役の供給に対する免税）",
+          "url": "https://www.nts.go.kr"
+        }
+      },
+      {
+        "country": "アイルランド",
+        "countryCode": "IE",
+        "flag": "🇮🇪",
+        "systemName": "Value-Added Tax Consolidation Act (基礎食料品ゼロ税率 VAT Zero Rating)",
+        "amount": "パン・生乳・茶・肉・野菜などの基本的食料品は【消費税0%】（標準税率は23%）",
+        "incomeLimit": "EU加盟前から運用していたゼロ税率の特例継続をEU指令で認められた制度",
+        "keyFeature": "標準税率が23%という高付加価値税国でありながら、国民の主食となる基礎食料品には0%税率を維持。EUのVAT指令でも歴史的特例として公認されており、インフレ局面でも庶民の食卓コストを守る防波堤となっています。",
+        "source": {
+          "organization": "アイルランド国税庁 (Revenue Commissioners)",
+          "title": "VAT rates on food and drink (Zero rate guidance)",
+          "url": "https://www.revenue.ie"
+        }
       }
     ]
   }

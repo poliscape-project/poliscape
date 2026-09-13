@@ -305,6 +305,62 @@
           "title": "Your Medicare Card | Medicare.gov",
           "url": "https://www.medicare.gov/basics/get-started-with-medicare/using-medicare/your-medicare-card"
         }
+      },
+      {
+        "country": "オーストリア",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "systemName": "e-card System (顔写真付き電子健康保険カード・全土オンライン義務化)",
+        "statusOrLevel": "全受診時に提示必須のICカード、不正利用防止のため顔写真登録を義務化",
+        "incomeLimit": "全医療機関が電子カルテ（ELGA）および処方箋サーバーと完全連携",
+        "keyFeature": "2005年から全国民に『e-card』を配布し紙の保険証を完全廃止。カードの貸し借りや不正利用を防ぐため、警察のパスポート・運転免許写真データベースと自動連携して顔写真をカード券面に印刷する制度改革を完遂しました。",
+        "source": {
+          "organization": "オーストリア連邦社会保障庁 (Dachverband der Sozialversicherungsträger)",
+          "title": "Das e-card System und elektronische Gesundheitsakte (ELGA)",
+          "url": "https://www.chipkarte.at"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "全民健康保険ICカード (National Health Insurance IC Card)",
+        "statusOrLevel": "全国民・在留外国人に義務付けられたICチップ搭載スマート健康保険証",
+        "incomeLimit": "医療機関での即時オンライン資格確認、重複処方・重複検査の自動ブロック",
+        "keyFeature": "世界最高峰の医療ITインフラ。コロナ禍でもマスクの購入管理やワクチン接種記録に即時活用された実績を持ち、病院の受付機にカードを差し込むだけで数秒で資格確認と過去の投薬履歴照会が完了します。",
+        "source": {
+          "organization": "台湾衛生福利部中央健康保険署 (NHI)",
+          "title": "全民健康保險IC卡與健保快易通App",
+          "url": "https://www.nhi.gov.tw"
+        }
+      },
+      {
+        "country": "ベルギー",
+        "countryCode": "BE",
+        "flag": "🇧🇪",
+        "systemName": "eID (電子身分証明書) への健康保険証機能の完全統合 (SISカード廃止)",
+        "statusOrLevel": "独自の健康保険証（SISカード）を完全廃止し、国家身分証（eID）1枚へ一本化",
+        "incomeLimit": "小児には顔写真なしのKids-ID、成人には国家PKI搭載eIDカード",
+        "keyFeature": "かつて存在した医療専用のSISカードを2014年に完全撤廃し、内務省発行の国家IDカード（eID）のチップに直接医療保険の被保険者資格を紐付け。国民は財布に身分証を1枚入れるだけで病院受診から行政手続きまで完結します。",
+        "source": {
+          "organization": "ベルギー社会保障連邦公共サービス (SPF Sécurité Sociale)",
+          "title": "Identification des assurés sociaux et utilisation de l'eID",
+          "url": "https://socialsecurity.belgium.be"
+        }
+      },
+      {
+        "country": "デンマーク",
+        "countryCode": "DK",
+        "flag": "🇩🇰",
+        "systemName": "Sundhedskortet (デジタル健康保険証スマホアプリ & 黄色い健康保険カード)",
+        "statusOrLevel": "物理プラスチックカードに加え、公式スマホアプリで健康保険証を完全デジタル化",
+        "incomeLimit": "国家デジタルID（MitID）と連動し、子どもや家族の保険証も一括管理",
+        "keyFeature": "全土で広く使われていた『黄色いカード（Sundhedskort）』をスマホアプリ化。病院や薬局のバーコードリーダーにかざすだけで受付でき、200万人以上の国民が物理カードを持ち歩かずに受診するデジタル先進国です。",
+        "source": {
+          "organization": "デンマークデジタル庁 (Digitaliseringsstyrelsen)",
+          "title": "Sundhedskort-appen - Det digitale sundhedskort",
+          "url": "https://digst.dk"
+        }
       }
     ]
   }

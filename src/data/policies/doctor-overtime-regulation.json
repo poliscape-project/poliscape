@@ -273,6 +273,62 @@
           "title": "Tarifvertrag für Ärztinnen und Ärzte (TV-Ärzte) und Arbeitszeitgesetz",
           "url": "https://www.marburger-bund.de"
         }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Statut des praticiens hospitaliers (公立病院医師の労働時間法制)",
+        "amount": "週35時間労働原則（医師は週10半日制・Demi-journées）と代償休日義務",
+        "incomeLimit": "当直（Garde）勤務後は【最低11時間の連続休息】を法律で絶対保障",
+        "keyFeature": "医師も一般労働者と同様に週35時間法（公立病院では週10コマ勤務）の対象。当直業務を行った直後は法律により翌日の通常勤務が完全に禁止され、代償休日を強制取得させることで過労死や医療事故を徹底防止しています。",
+        "source": {
+          "organization": "フランス保健・予防省 (Ministère de la Santé)",
+          "title": "Temps de travail et organisation des gardes des médecins hospitaliers",
+          "url": "https://sante.gouv.fr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "National Code of Practice - Hours of Work (豪州医師会 勤務時間行動規範)",
+        "amount": "連続勤務最大16時間、週最大勤務時間50時間（残業含む）の厳格ガイドライン",
+        "incomeLimit": "リスク評価ツールによる疲労度スコアリングと当直明けの臨床業務制限",
+        "keyFeature": "豪州医師会（AMA）と保健省が共同で『医師の疲労リスク管理コード』を策定。当直明けの連続勤務を厳禁とし、病院側が安全基準を破った場合は研修医の引き揚げ処分など強力なペナルティを科して遵守させています。",
+        "source": {
+          "organization": "オーストラリア医師会 (Australian Medical Association - AMA)",
+          "title": "National Code of Practice - Hours of Work, Shiftwork and Rostering",
+          "url": "https://www.ama.com.au"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "専攻医の修練環境改善および地位向上のための法律（専攻医法）",
+        "amount": "修練時間の上限を【週最大80時間・連続36時間】と法律で明文化",
+        "incomeLimit": "大学病院の過酷な当直労働と専攻医ストライキを契機に、連続36時間から短縮法改正へ",
+        "keyFeature": "以前は週100時間超の当直が横行していた大学病院の専攻医（研修医・レジデント）を保護するため単独法を制定。違反した病院には是正命令と過料を科し、現在はさらに連続勤務時間を短縮する法改正が進められています。",
+        "source": {
+          "organization": "大韓民国保健福祉部 (MOHW)",
+          "title": "専攻医法（修練時間の上限および休息時間の保障）",
+          "url": "https://www.mohw.go.kr"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "Arbetstidslagen (労働時間法) & 労使協約 (Kollektivavtal)",
+        "amount": "週40時間労働、24時間ごとに【最低11時間の連続夜間休息】を絶対義務化",
+        "incomeLimit": "EU労働時間指令の厳格適用により、当直明けの即座インターバル休息が法制化",
+        "keyFeature": "EU指令に基づき、2023年秋から『24時間以内に最低11時間の連続休息』を例外なく医師にも適用。当直で夜間に対応した医師は翌朝そのまま帰宅することが法律で義務付けられ、地域病院のシフト編成の抜本的見直しが行われました。",
+        "source": {
+          "organization": "スウェーデン労働環境庁 (Arbetsmiljöverket)",
+          "title": "Arbetstidslagen och regler för dygnsvila och veckovila",
+          "url": "https://www.av.se"
+        }
       }
     ]
   }

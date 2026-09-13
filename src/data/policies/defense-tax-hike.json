@@ -297,6 +297,62 @@
           "title": "Department of Defense Budget Materials and NDAA",
           "url": "https://www.defense.gov/Spotlights/FY2025-Defense-Budget/"
         }
+      },
+      {
+        "country": "ポーランド",
+        "countryCode": "PL",
+        "flag": "🇵🇱",
+        "systemName": "Ustawa o obronie Ojczyzny (祖国防衛法・国防費GDP比4%超枠組)",
+        "statusOrLevel": "NATO加盟国最高水準の【GDP比4.1%超】へ軍事費を激増",
+        "incomeLimit": "特別軍備基金（BGK開発銀行）の債券発行と国庫支出を併用して調達",
+        "keyFeature": "ロシアのウクライナ侵攻を受け、2022年に祖国防衛法を制定。増税に頼りすぎず、国営開発銀行の軍備基金を通じた債券発行と一般予算の組み替えにより、米製エイブラムス戦車や韓国製戦闘機・自走砲を桁外れの規模で即時調達しています。",
+        "source": {
+          "organization": "ポーランド国防省 (Ministerstwo Obrony Narodowej - MON)",
+          "title": "Ustawa o obronie Ojczyzny i Fundusz Wsparcia Sił Zbrojnych",
+          "url": "https://www.gov.pl/web/obrona-narodowa"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Strategic Defence Review (国防費GDP比2.5%引き上げ公約)",
+        "statusOrLevel": "NATO目標（2%）を上回る【GDP比2.5%】への段階的引き上げ目標",
+        "incomeLimit": "公務員人件費の削減および非防衛予算の緊縮と連動",
+        "keyFeature": "NATOの創設メンバーとして一貫して2%基準を達成しつつ、次世代戦闘機GCAPや原子力潜水艦AUKUSの巨額支出に対応するため2.5%目標を設定。増税ではなく、政府部門の行政効率化と経済成長による自然増収での調達を基本方針としています。",
+        "source": {
+          "organization": "英国国防省 (Ministry of Defence - MOD)",
+          "title": "Defence spending and Strategic Defence Review updates",
+          "url": "https://www.gov.uk/government/organisations/ministry-of-defence"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Loi de programmation militaire 2024-2030 (軍事計画法・4,130億ユーロ計画)",
+        "statusOrLevel": "過去最大の国防予算倍増計画により【NATO基準2%を完全達成】",
+        "incomeLimit": "原子力抑止力の近代化、サイバー・宇宙戦力への優先配分",
+        "keyFeature": "マクロン政権下で7年間にわたる長期軍備支出法を制定。前計画比40%増となる4,130億ユーロ（約65兆円）を投入し、核戦力や空母打撃群の刷新を進めるとともに、欧州防衛の自立（戦略的自律性）を牽引しています。",
+        "source": {
+          "organization": "フランス国防省 (Ministère des Armées)",
+          "title": "Loi de programmation militaire (LPM) 2024-2030",
+          "url": "https://www.defense.gouv.fr"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "海空戦力提升特別条例 & 国防総預算 (対中抑止・GDP比2.5%水準)",
+        "statusOrLevel": "通常予算に加え【特別予算の併用】で過去最大の防衛費を確保",
+        "incomeLimit": "非対称戦力（対艦ミサイル・無人機・防空網）への集中投資",
+        "keyFeature": "軍事侵攻の脅威が高まる中、年度通常予算とは別に巨額の特別予算立法を通じて機動的に財源を調達。増税による景気冷え込みを避けつつ、国債発行と歳計余剰金を活用して防空インフラと国産潜水艦の開発を急ピッチで進めています。",
+        "source": {
+          "organization": "中華民国国防部 (MND)",
+          "title": "中華民国国防報告書および海空戦力特別予算",
+          "url": "https://www.mnd.gov.tw"
+        }
       }
     ]
   }

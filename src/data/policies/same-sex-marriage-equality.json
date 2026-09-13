@@ -211,6 +211,62 @@
           "title": "司法院釋字第七四八號解釋施行法",
           "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0000008"
         }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "Burgerlijk Wetboek (オランダ民法第1編・世界初の同性婚法)",
+        "amount": "完全な婚姻の平等（異性婚と全く同一の権利・義務・共同親権）",
+        "incomeLimit": "2001年4月1日施行（世界で初めて同性婚を法制化）",
+        "keyFeature": "2001年に世界で初めて同性婚を合法化。それまでの登録パートナーシップ制から一歩進め、民法上の婚姻要件を『男女』から『2人の個人』へ改正。養子縁組、相続、税制、親権において異性カップルと完全に同一の法的権利を保障しています。",
+        "source": {
+          "organization": "オランダ司法安全省 (Ministerie van Justitie en Veiligheid)",
+          "title": "Marriage, registered partnership and cohabitation agreements",
+          "url": "https://www.government.nl"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Marriage (Same Sex Couples) Act 2013 (同性婚法)",
+        "amount": "完全な婚姻の平等（民法上の婚姻・シビルパートナーシップからの移行）",
+        "incomeLimit": "宗教団体に対する挙式の強制は免除（信教の自由との両立）",
+        "keyFeature": "保守党キャメロン政権下で2013年に法案可決。公的な民事婚において完全な婚姻の平等を保障する一方、同性婚の挙式を望まない宗教団体（英国国教会等）に対しては挙式を強制されない免責条項を設けることで、信教の自由との政治的妥協を図りました。",
+        "source": {
+          "organization": "英国政府公式ポータル (GOV.UK)",
+          "title": "Marriages and civil partnerships in England and Wales",
+          "url": "https://www.gov.uk/marriages-civil-partnerships"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Marriage Amendment (Definition and Religious Freedoms) Act 2017",
+        "amount": "完全な婚姻の平等（婚姻法第5条『男女』から『2人』へ改正）",
+        "incomeLimit": "2017年全国郵便投票（賛成61.6%）を経て超党派で法案可決",
+        "keyFeature": "長年の激しい国論分裂を経て、政府が2017年に全有権者を対象とした法的拘束力のない『全国郵便調査（国民投票的世論調査）』を実施。投票率79.5%、賛成61.6%という圧倒的民意を確認した上で、連邦議会が迅速に法改正を可決しました。",
+        "source": {
+          "organization": "オーストラリア司法省 (Attorney-General's Department)",
+          "title": "Marriage equality in Australia and legal framework",
+          "url": "https://www.ag.gov.au/families-and-marriage/marriage"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "Civil Marriage Act 2005 (民間婚姻法・連邦法制化)",
+        "amount": "完全な婚姻の平等（北米大陸初の全国合法化）",
+        "incomeLimit": "各州最高裁の違憲判決の連鎖を経て連邦法改正",
+        "keyFeature": "2003年以降、オンタリオ州やブリティッシュコロンビア州の裁判所が『同性カップルを婚姻から排除することは憲法上の権利章典（平等権）に違反する』と相次ぎ判決。連邦最高裁の勧告を経て、2005年に連邦議会が全国規模の婚姻法改正を成立させました。",
+        "source": {
+          "organization": "カナダ司法省 (Department of Justice Canada)",
+          "title": "Civil Marriage Act (S.C. 2005, c. 33)",
+          "url": "https://www.justice.gc.ca"
+        }
       }
     ]
   }
