@@ -273,6 +273,58 @@
           "title": "Principles of secure software development and supply chain security",
           "url": "https://www.ncsc.gov.uk/collection/developers-collection/principles"
         }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "国家サイバー安保基本計画およびソフトウェアサプライチェーンセキュリティ指針",
+        "statusOrLevel": "科学技術情報通信部（MSIT）によるSBOM標準フォーマット実証と公共調達要件化",
+        "keyFeature": "国家情報院およびMSITが中心となり、オープンソースソフトウェア（OSS）の依存関係と既知の脆弱性（CVE）を可視化するSBOM導入ガイドラインを策定。公共機関や通信・金融などの主要情報通信基盤への納入製品に対し、SPDX/CycloneDX形式のSBOM提出義務化を段階的に拡大。",
+        "source": {
+          "organization": "韓国科学技術情報通信部 (MSIT) / 韓国インターネット振興院 (KISA)",
+          "title": "Software supply chain security policy and SBOM pilot verification",
+          "url": "https://www.msit.go.kr"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "サイバーセキュリティ法改正およびソフトウェアサプライチェーン管理指針",
+        "statusOrLevel": "重要情報インフラ（CII）指定事業者に対するサードパーティ脆弱性管理の義務化",
+        "keyFeature": "シンガポールサイバーセキュリティ庁（CSA）が、病院、銀行、電力などの重要基盤システムで利用される商用・オープンソースソフトウェアのサプライチェーンリスク評価基準を制定。SBOMを活用した脆弱性自動検知とインシデント報告を義務付けています。",
+        "source": {
+          "organization": "シンガポールサイバーセキュリティ庁 (CSA)",
+          "title": "Cybersecurity Act and Software Supply Chain Security Guidance for Critical Information Infrastructure",
+          "url": "https://www.csa.gov.sg"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "重要インフラセキュリティ法（SOCI Act）および豪州サイバーセキュリティセンター（ACSC）指針",
+        "statusOrLevel": "重要インフラ事業者のサプライチェーンサイバーリスク評価におけるSBOM活用推奨",
+        "keyFeature": "オーストラリア信号本部（ASD）傘下のACSCが、医療機器、通信機器、防衛調達においてベンダーにSBOMの添付を強く推奨。米豪二国間サイバー協議に基づき、ソフトウェア部品表の機械可読規格の共通化とリアルタイム脆弱性開示を推進。",
+        "source": {
+          "organization": "オーストラリアサイバーセキュリティセンター (Australian Cyber Security Centre - ACSC)",
+          "title": "Principles for software supply chain security and vulnerability management",
+          "url": "https://www.cyber.gov.au"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダサイバーセキュリティセンター（CCCS）調達ガイドラインおよびSBOM方針",
+        "statusOrLevel": "連邦政府IT調達におけるソフトウェア透明性確保と重要システムへのSBOM展開",
+        "keyFeature": "連邦政府機関や防衛部門向けソフトウェア調達において、サプライチェーンを介したバックドアやマルウェア混入を遮断するため、ベンダーに対してSBOMの作成と保守を要請。米国サイバーインフラセキュリティ庁（CISA）と連携した規格統合を実施。",
+        "source": {
+          "organization": "カナダサイバーセキュリティセンター (Canadian Centre for Cyber Security - CCCS)",
+          "title": "Software supply chain integrity and Cyber Security procurement guidance",
+          "url": "https://www.cyber.gc.ca"
+        }
       }
     ]
   }

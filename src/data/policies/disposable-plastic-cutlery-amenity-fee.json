@@ -183,6 +183,58 @@
           "title": "Single-use plastics bans and restrictions in England",
           "url": "https://www.gov.uk/guidance/single-use-plastics-bans-and-restrictions"
         }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "資源リサイクル促進法改正および宿泊施設・飲食店使い捨て用品規制",
+        "statusOrLevel": "50室以上のホテルで使い捨てアメニティ無償提供禁止・違反時最大300万ウォン過料",
+        "keyFeature": "2024年3月より客室50室以上の宿泊施設において、プラスチック製歯ブラシ、カミソリ、シャンプー容器等の使い捨てアメニティの無料提供を全面禁止・有料化を義務付け。飲食店内でのプラスチック製スプーンやストローの無償提供も厳格に取り締まり。",
+        "source": {
+          "organization": "韓国環境部 (Ministry of Environment)",
+          "title": "Act on the Promotion of Saving and Recycling of Resources - Single-use plastics restriction",
+          "url": "https://www.me.go.kr"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "使い捨て宿泊用品制限政策（一次用旅宿用品限制使用對象及實施方式）",
+        "statusOrLevel": "2025年よりホテル客室での使い捨てアメニティ（歯ブラシ・クシ等）事前配置全面禁止",
+        "keyFeature": "台湾環境部が公布した基準に基づき、ホテル・旅館・民宿等において、プラスチック製歯ブラシ、カミソリ、コーム、シャワーキャップ等の客室への事前配置を禁止。宿泊者が持参するか、フロントで有料購入する仕組みへ移行させ、プラスチック廃棄物を大幅削減。",
+        "source": {
+          "organization": "台湾環境部 (Ministry of Environment)",
+          "title": "Restriction on Single-Use Lodging Amenities in Hotels and Hostels",
+          "url": "https://www.moenv.gov.tw"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "各州・準州の使い捨てプラスチック禁止法制（Single-Use Plastics Ban）",
+        "statusOrLevel": "プラスチック製スプーン、フォーク、ナイフ、ストローの提供・販売を全豪規模で禁止",
+        "keyFeature": "ニューサウスウェールズ州、ビクトリア州、クイーンズランド州など各州法により、飲食店、テイクアウト店、イベント等での使い捨てプラスチック製カトラリー（スプーン・フォーク等）の提供を完全禁止。竹や木製、紙製への切り替えを義務付け、違反事業者には高額過料。",
+        "source": {
+          "organization": "オーストラリア連邦気候変動・エネルギー・環境・水資源省 (DCCEEW)",
+          "title": "National Plastics Plan and State-level single-use plastics bans",
+          "url": "https://www.dcceew.gov.au"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "使い捨てプラスチック禁止令および包装法（VerpackG）リユース容器提供義務",
+        "statusOrLevel": "プラスチックカトラリー流通禁止および飲食店への再利用可能容器オプション提供義務化",
+        "keyFeature": "EU指令に基づきプラスチックスプーンやマドラーの販売を禁止した上で、2023年施行の包装法改正により、テイクアウト飲食店やカフェに対し、使い捨てプラスチック容器と同等以下の価格でリユース（再利用）容器を選択肢として提示することを義務付け。",
+        "source": {
+          "organization": "ドイツ連邦環境・自然保護・原子力安全・消費者保護省 (BMUV)",
+          "title": "Einwegkunststoffverbot und Mehrwegangebotspflicht in der Gastronomie",
+          "url": "https://www.bmuv.de"
+        }
       }
     ]
   }

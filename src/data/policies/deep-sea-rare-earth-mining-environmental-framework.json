@@ -273,6 +273,58 @@
           "title": "Deep Seabed Hard Mineral Resources Act (DSHMRA) Regulations",
           "url": "https://www.noaa.gov/"
         }
+      },
+      {
+        "country": "クック諸島",
+        "countryCode": "CK",
+        "flag": "🇨🇰",
+        "systemName": "海底鉱物法（Seabed Minerals Act 2019）および多金属団塊探査ライセンス",
+        "statusOrLevel": "自国EEZ内での多金属団塊探査の国家推進・厳格な環境ベースライン調査",
+        "keyFeature": "太平洋島嶼国として世界に先駆けて海底鉱物機構（SBMA）を設置し、自国EEZに豊富に存在するコバルトやニッケルを含む深海マンガン団塊の探査ライセンスを複数社に付与。将来の商業採掘に向け、海洋生態系への影響を評価するベースライン調査を先行実施。",
+        "source": {
+          "organization": "クック諸島海底鉱物機構 (Cook Islands Seabed Minerals Authority - SBMA)",
+          "title": "Seabed Minerals Act 2019 and Exploration Licensing Regime",
+          "url": "https://www.sbma.gov.ck"
+        }
+      },
+      {
+        "country": "ナウル",
+        "countryCode": "NR",
+        "flag": "🇳🇷",
+        "systemName": "国連海洋法条約（UNCLOS）深海底開発条項に基づく「2年規則」発動",
+        "statusOrLevel": "国際海底機構（ISA）に対して深海底商業採掘コードの早期策定・承認を正式要請",
+        "keyFeature": "2021年にナウル政府がUNCLOS付属協定の条項を行使し、国際海底機構（ISA）に対し公海（深海底エリア）における商業採掘規則（Exploitation Code）を2年以内に策定するよう要請。これにより深海資源開発のルール作りをめぐる国際的議論が急速に激化しました。",
+        "source": {
+          "organization": "国際海底機構 (International Seabed Authority - ISA)",
+          "title": "Council decisions on the two-year rule notification by Nauru",
+          "url": "https://www.isa.org.jm"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "深海採掘モラトリアム方針および国家海洋戦略法制",
+        "statusOrLevel": "国際会議で公海・自国EEZにおける深海底商業採掘の全面禁止（モラトリアム）を主導",
+        "keyFeature": "マクロン大統領が国連海洋会議などで「深海生態系に関する科学的知見が十分に解明されていない段階での商業採掘は認めるべきでない」と演説し、モラトリアムを提唱。海外県を含む世界第2位の自国EEZ内での深海鉱物採掘を法的に禁止する方針を決定。",
+        "source": {
+          "organization": "フランス生態系移行・国土連帯省 (Ministère de la Transition écologique)",
+          "title": "Stratégie nationale pour la mer et le littoral: position sur les grands fonds marins",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "深海底鉱物採掘一時停止（モラトリアム）支持表明および環境監査基準",
+        "statusOrLevel": "十分な科学的証拠と国際環境基準が整うまでの深海底商業採掘ライセンス凍結",
+        "keyFeature": "英国議会環境監査委員会の提言を受け、政府は深海生態系への不可逆的な環境破壊リスクを回避するため、国際海底機構（ISA）において確固たる環境規制と科学的モニタリングが確立されるまで商業採掘を支援・後援しない一時停止（モラトリアム）支持へと政策を転換。",
+        "source": {
+          "organization": "英国環境・食糧・農村地域省 (Defra)",
+          "title": "UK government position on deep sea mining moratorium and marine environmental protection",
+          "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+        }
       }
     ]
   }

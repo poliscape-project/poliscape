@@ -241,6 +241,58 @@
           "title": "United States Signs the High Seas Treaty (BBNJ Agreement)",
           "url": "https://www.state.gov"
         }
+      },
+      {
+        "country": "パラオ",
+        "countryCode": "PW",
+        "flag": "🇵🇼",
+        "systemName": "国連海洋法条約下における公海生物多様性協定（BBNJ）批准",
+        "statusOrLevel": "2024年1月に世界で初めて正式批准書を国連事務総長へ寄託",
+        "keyFeature": "自国排他的経済水域（EEZ）の80%を海洋保護区に設定している小島嶼開発途上国（SIDS）として、公海における海洋生態系保護区の創設を牽引するため世界最速でBBNJ条約を正式批准。条約発効（60カ国批准要件）に向けた国際的リーダーシップを発揮しています。",
+        "source": {
+          "organization": "国際連合条約局 (United Nations Treaty Collection - BBNJ)",
+          "title": "Agreement under UNCLOS on the Conservation and Sustainable Use of Marine Biological Diversity",
+          "url": "https://treaties.un.org"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "BBNJ政府間会議議長国としての合意形成主導と早期批准手続き",
+        "statusOrLevel": "国連政府間交渉議長国（Rena Lee大使）として歴史的合意妥結を牽引",
+        "keyFeature": "国連において長年にわたり対立が続いた公海上の海洋遺伝資源（MGR）から得られる利益の公平な配分メカニズムや公海海洋保護区（MPA）設立手続きに関して妥協案を取りまとめ、2023年3月の全会一致合意を主導。早期批准に向けた国内法整備を完了。",
+        "source": {
+          "organization": "シンガポール外務省 (Ministry of Foreign Affairs Singapore - MFA)",
+          "title": "Singapore leads international consensus on UN High Seas Biodiversity Treaty",
+          "url": "https://www.mfa.gov.sg"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "BBNJ協定署名およびグローバル・オーシャン・アライアンス（30by30）",
+        "statusOrLevel": "公海条約に署名・2030年までに世界の海洋の30%を保護する目標を主導",
+        "keyFeature": "「Global Ocean Alliance」の議長国として世界の海洋の30%を2030年までに保護区化する「30by30」目標を提唱。BBNJ協定に早期署名し、海外領土周辺の大規模海洋保護区ネットワーク（Blue Belt）の経験を公海保護区の運用枠組みへ展開しています。",
+        "source": {
+          "organization": "英国外交・英連邦・開発省 (Foreign, Commonwealth & Development Office - FCDO)",
+          "title": "UK signs historic High Seas Treaty to protect international waters",
+          "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "BBNJ協定批准推進および連邦環境省（BMUV）海洋保護イニシアチブ",
+        "statusOrLevel": "EU加盟国として公海海洋保護区選定支援および深海採掘予防原則の貫徹",
+        "keyFeature": "連邦環境省（BMUV）が中心となり、公海で行われる開発行為に対する事前環境影響評価（EIA）の義務付けを強く支持。科学的データが確立されるまでの深海底商業採掘の一時停止（予防的アプローチ）を堅持しつつ、途上国の海洋保護能力構築支援基金へ拠出しています。",
+        "source": {
+          "organization": "ドイツ連邦環境・自然保護・原子力安全・消費者保護省 (BMUV)",
+          "title": "Meere und Flüsse - Schutz der biologischen Vielfalt in der Hohen See (BBNJ-Abkommen)",
+          "url": "https://www.bmuv.de"
+        }
       }
     ]
   }

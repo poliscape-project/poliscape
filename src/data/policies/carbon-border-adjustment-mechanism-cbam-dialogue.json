@@ -273,6 +273,58 @@
           "title": "Korea Emissions Trading Scheme (K-ETS) and CBAM response",
           "url": "https://www.me.go.kr"
         }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "連邦国境炭素調整（Border Carbon Adjustments - BCA）協議および炭素価格法",
+        "statusOrLevel": "国内炭素税（2030年までに170加ドル/t目標）と平仄を合わせた国境炭素課税検討",
+        "keyFeature": "連邦政府は国内の炭素価格を段階的に引き上げる一方、鉄鋼やアルミニウムなど炭素集約型産業の国際競争力維持と炭素リーケージ防止を目的に、輸入品に対する国境炭素調整措置の導入に関するパブリックコンサルテーションを実施し、米国・EUと協調。",
+        "source": {
+          "organization": "カナダ財務省 (Department of Finance Canada)",
+          "title": "Consultations on Border Carbon Adjustments to support low-carbon economy",
+          "url": "https://www.canada.ca/en/department-finance.html"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "セーフガード・メカニズム（Safeguard Mechanism）改革と豪州版CBAM調査",
+        "statusOrLevel": "大規模排出施設への年4.9%排出削減義務付けと炭素国境調整導入のレビュー",
+        "keyFeature": "主要な重化学工業・資源採掘施設に排出上限（ベースライン）を課すセーフガード法を2023年に強化。海外からの安価な高炭素製品流入を防ぎ国内クリーン鉄鋼・水素産業を育成するため、豪州版炭素国境調整措置の導入可能性に関する政策評価を実施。",
+        "source": {
+          "organization": "オーストラリア連邦気候変動・エネルギー・環境・水資源省 (DCCEEW)",
+          "title": "Safeguard Mechanism and Australian Carbon Border Adjustment Mechanism Review",
+          "url": "https://www.dcceew.gov.au"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "気候変動対応法（氣候變遷因應法）および炭素賦課金・輸入排出調整法制",
+        "statusOrLevel": "国内大排出源への炭素賦課金徴収および同等輸入品に対する炭素課税条項",
+        "keyFeature": "2023年成立の気候変動対応法に基づき、鉄鋼や半導体産業の温室効果ガス排出に炭素賦課金を導入。EUのCBAMに対応するため輸出企業向け排出算定プラットフォームを国家支援するとともに、将来的に海外からの輸入品に対しても同等の炭素賦課金を課す法的根拠を整備。",
+        "source": {
+          "organization": "台湾環境部 (Ministry of Environment)",
+          "title": "Climate Change Response Act - Carbon Fee and Border Carbon Measures",
+          "url": "https://www.moenv.gov.tw"
+        }
+      },
+      {
+        "country": "インド",
+        "countryCode": "IN",
+        "flag": "🇮🇳",
+        "systemName": "炭素信用取引制度（Carbon Credit Trading Scheme - CCTS）と対CBAM通商交渉",
+        "statusOrLevel": "国内炭素市場創設とEU CBAMに対するWTO提訴検討・途上国差別是正要求",
+        "keyFeature": "EUのCBAMを途上国の成長を阻害する保護貿易関税であるとして激しく批判し、WTOへの提訴や欧州製品への対抗関税を検討。同時に自国鉄鋼産業の脱炭素化を加速させるため、電力省・エネルギー効率局が主導して国内炭素クレジット市場の立ち上げを進行。",
+        "source": {
+          "organization": "インド電力省 (Ministry of Power) / エネルギー効率局 (BEE)",
+          "title": "Carbon Credit Trading Scheme (CCTS) and industrial decarbonisation framework",
+          "url": "https://powermin.gov.in"
+        }
       }
     ]
   }

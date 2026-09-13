@@ -267,6 +267,58 @@
           "title": "Biometric data guidance for organisations and payment providers",
           "url": "https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr"
         }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "国家デジタルID生体認証基盤「Singpass Face Verification」",
+        "statusOrLevel": "政府公認の顔認証基盤を民間金融・決済機関にAPI開放（ゼロトラスト照合）",
+        "keyFeature": "政府主導のデジタルID「Singpass」に統合された顔認証システムを銀行や決済事業者に開放。民間企業が生体特徴量（顔写真やベクター）を自社サーバーに直接保存することなく、政府のセキュア基盤との照合結果のみを受け取る分散型プライバシー保護モデルを運用。",
+        "source": {
+          "organization": "シンガポール政府テクノロジー庁 (GovTech Singapore)",
+          "title": "Singpass Face Verification: National digital identity biometric service",
+          "url": "https://www.tech.gov.sg"
+        }
+      },
+      {
+        "country": "インド",
+        "countryCode": "IN",
+        "flag": "🇮🇳",
+        "systemName": "Aadhaar生体認証決済システム（Aadhaar Enabled Payment System - AEPS）",
+        "statusOrLevel": "13億人の指紋・虹彩・顔認証データを紐付けた全国金融決済インフラ",
+        "keyFeature": "国民識別番号Aadhaarの生体データ（指紋・虹彩）と銀行口座を接続し、スマートフォンやカードを持たない地方住民でもマイクロATMで指紋照合するだけで現金引き出しや送金が可能な公的決済基盤を展開。なりすまし防止のためAI顔認証・生体検知技術（Liveness Detection）を導入。",
+        "source": {
+          "organization": "インド固有識別番号庁 (Unique Identification Authority of India - UIDAI)",
+          "title": "Aadhaar Enabled Payment System (AEPS) and Biometric Authentication Guidelines",
+          "url": "https://uidai.gov.in"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "金融決済院（KFTC）生体情報分散管理システムおよび電子金融取引法",
+        "statusOrLevel": "指静脈・手のひら静脈・顔認証情報の分割保管・照合を金融機関に義務化",
+        "keyFeature": "個人の生体情報を1つのサーバーにそのまま保存することを禁じ、生体特徴量を2つに暗号分割して一方を金融機関、もう一方を公的機関（金融決済院）に分散保管する「生体情報分散管理」を法制化。片方のデータが漏洩しても悪用不能な強固なセキュリティを確立。",
+        "source": {
+          "organization": "韓国金融委員会 (Financial Services Commission - FSC)",
+          "title": "Financial security and biometric data split-storage regulation",
+          "url": "https://www.fsc.go.kr"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "連邦デジタルID法（Digital ID Act 2024）およびTDIFフレームワーク",
+        "statusOrLevel": "生体認証決済・本人確認の国家認定基準（厳格な事前同意・商用利用禁止）",
+        "keyFeature": "2024年に可決された連邦デジタルID法に基づき、生体認証を用いた決済や本人確認を行う民間事業者にTrusted Digital Identity Framework（TDIF）の認証取得を義務化。生体データをプロファイリングやマーケティング目的で転用・販売することを法律で禁止。",
+        "source": {
+          "organization": "オーストラリア連邦デジタル変革庁 (Digital Transformation Agency - DTA)",
+          "title": "Digital ID legislation and Trusted Digital Identity Framework (TDIF)",
+          "url": "https://www.dta.gov.au"
+        }
       }
     ]
   }

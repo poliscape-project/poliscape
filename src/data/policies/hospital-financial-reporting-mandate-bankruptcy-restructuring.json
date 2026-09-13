@@ -241,6 +241,58 @@
           "title": "Données financières et d'activité hospitalière",
           "url": "https://www.atih.sante.fr/"
         }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家保健医療改革協定（National Health Reform Agreement）および病院財務・原価報告",
+        "statusOrLevel": "独立病院価格決定機構（IHACPA）による公立・民間病院の診療原価データ公表義務化",
+        "keyFeature": "全国の病院に対し、統一的なアクティビティベース診療原価（Activity Based Funding - ABF）データの提出を義務付け。病院ごとの運営収支やコスト構造を透明化し、地域医療計画における病床適正化や連邦・州政府の交付金算定基準に活用。",
+        "source": {
+          "organization": "オーストラリア独立保健医療価格決定機構 (IHACPA)",
+          "title": "National Efficient Price Determination and Public Hospital Activity and Costing Data",
+          "url": "https://www.ihacpa.gov.au"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダ保健情報研究所（CIHI）病院財務・臨床データベース報告制度",
+        "statusOrLevel": "各州地域保健局（RHA）を通じた病院経営データ・財務諸表の標準化収集と公開",
+        "keyFeature": "各州保健省およびCIHIが、全公立病院の運営収支、医師・看護師人件費比率、病床稼働率、累積負債を標準コードで収集・公表。赤字累積病院に対する州政府による経営監査派遣や地域病院再編・機能分化基準を策定。",
+        "source": {
+          "organization": "カナダ保健情報研究所 (Canadian Institute for Health Information - CIHI)",
+          "title": "Canadian MIS Database (CMDB) - Hospital Financial and Statistical Reporting",
+          "url": "https://www.cihi.ca"
+        }
+      },
+      {
+        "country": "オランダ",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "systemName": "医療市場再編法（Wet marktordening gezondheidszorg - WMG）および破綻警戒制度",
+        "statusOrLevel": "オランダ医療機関機構（NZa）による病院財務モニタリングと秩序ある破綻・再編手続き",
+        "keyFeature": "市場競争と民間保険者を軸とする医療保険制度のもとで、独立規制機関（NZa）が病院の流動性比率や債務超過リスクを常時モニタリング。病院倒産が認められる一方、地域の中核救急医療が突然喪失しないよう早期再編・買収斡旋手続きを厳格に規定。",
+        "source": {
+          "organization": "オランダ医療機関機構 (Nederlandse Zorgautoriteit - NZa)",
+          "title": "Financieel toezicht zorgaanbieders en continuïteit van cruciale zorg",
+          "url": "https://www.nza.nl"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "保健省（MOH）公的医療クラスター統括・病院財務監督制度",
+        "statusOrLevel": "3大公的医療クラスター（SingHealth, NHG, NUHS）による財務統合報告と経営責任",
+        "keyFeature": "全国の公的病院を地域別に3つの統括法人（クラスター）に再編統合し、急性期総合病院からコミュニティ病院、地域診療所までの財務と人的リソースを一括配分。病院単体の赤字・黒字にとらわれず、クラスター全体の統合財務諸表開示と医療成果指標を監督。",
+        "source": {
+          "organization": "シンガポール保健省 (Ministry of Health Singapore - MOH)",
+          "title": "Healthcare Services Act and Public Healthcare Cluster Financial Governance",
+          "url": "https://www.moh.gov.sg"
+        }
       }
     ]
   }

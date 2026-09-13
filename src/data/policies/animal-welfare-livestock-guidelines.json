@@ -317,6 +317,58 @@
           "title": "Tierschutz in der Nutztierhaltung - Geflügel",
           "url": "https://www.blv.admin.ch/blv/de/home/tiere/tierschutz/nutztierhaltung.html"
         }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "動物福祉法制および家畜福祉健康移行パスウェイ（Defra）",
+        "statusOrLevel": "バタリーケージ・豚妊娠ストール完全禁止＆農家設備改修補助金",
+        "keyFeature": "豚の妊娠ストール拘束飼育を早期に全面禁止したほか、採卵鶏のバタリーケージも全廃。環境・食糧・農村地域省（Defra）は「Animal Health and Welfare Pathway」を創設し、農家のケージフリー飼育への転換や高福祉設備の導入費用に対して直接補助金を交付し、生産者の経営負担を緩和しています。",
+        "source": {
+          "organization": "英国環境・食糧・農村地域省 (Department for Environment, Food & Rural Affairs - Defra)",
+          "title": "Animal Health and Welfare Pathway: Animal welfare guidance and funding",
+          "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+        }
+      },
+      {
+        "country": "ニュージーランド",
+        "countryCode": "NZ",
+        "flag": "🇳🇿",
+        "systemName": "動物福祉法（Animal Welfare Act 1999）および採卵鶏福祉行動規範",
+        "statusOrLevel": "2023年1月に従来のバタリーケージ完全禁止・平飼いまたはコロニーケージへ移行",
+        "keyFeature": "10年間の猶予期間を経て2022年末をもって従来のバタリーケージの所持・使用を完全違法化。第一次産業省（MPI）が査察を実施し、コロニーケージ（改善型エンリッチドケージ）または平飼い・放牧飼育（フリーレンジ）への転換を達成しました。",
+        "source": {
+          "organization": "ニュージーランド第一次産業省 (Ministry for Primary Industries - MPI)",
+          "title": "Animal welfare regulations - Layer hens code of welfare transition",
+          "url": "https://www.mpi.govt.nz"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "オーストラリア家禽動物福祉基準・ガイドライン（Standards and Guidelines for Poultry）",
+        "statusOrLevel": "2036年までの従来のバタリーケージ段階的全廃を連邦・州農相で合意",
+        "keyFeature": "連邦および各州・準州の農業担当大臣会合において、2036年までに従来のバタリーケージを廃止する国家基準を採択。州ごとに導入スケジュールを策定し、大規模鶏舎の改修投資サイクルに合わせた段階的フェーズアウトを進めています。",
+        "source": {
+          "organization": "オーストラリア連邦農業・水産・森林省 (DAFF)",
+          "title": "Australian Animal Welfare Standards and Guidelines for Poultry",
+          "url": "https://www.agriculture.gov.au"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "農業・食品法（Loi EGalim）および雄ひよこ殺処分禁止令",
+        "statusOrLevel": "ケージ鶏舎の新規増設禁止・生卵の平飼い切り替え・性判別技術義務化",
+        "keyFeature": "EGalim法に基づき、採卵鶏の新規または改修によるケージ飼育設備の増設を禁止。大手スーパー各社による生卵のケージ飼育品取り扱い停止を推進するとともに、2022年末からは孵化段階での性判別技術の導入を義務付け、雄ひよこの大量殺処分を世界に先駆けて禁止しました。",
+        "source": {
+          "organization": "フランス農業・食料主権省 (Ministère de l'Agriculture et de la Souveraineté alimentaire)",
+          "title": "Bien-être animal: interdiction de la mise à mort des poussins mâles et mesures d'accompagnement",
+          "url": "https://agriculture.gouv.fr"
+        }
       }
     ]
   }

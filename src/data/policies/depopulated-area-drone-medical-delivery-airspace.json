@@ -281,6 +281,58 @@
           "title": "Civil Drones Operations in the Specific Category and U-Space",
           "url": "https://www.easa.europa.eu/en/domains/civil-drones-rpas/specific-category-civil-drones"
         }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "民間航空局（CAA）無人航空機飛行回廊およびNHS離島ドローン医療配送",
+        "statusOrLevel": "スコットランド西岸離島やワイト島への処方薬・化学療法薬ドローン輸送の社会実装",
+        "keyFeature": "国民保健サービス（NHS）と提携し、悪天候でも運航可能な専用空域回廊（Temporary Danger Area等）を設定。本土の病院からスコットランドのマル島などの離島診療所へ、有効期限の短い抗がん剤や緊急検体を定期ドローン空輸する定期運航を実施。",
+        "source": {
+          "organization": "英国民間航空局 (Civil Aviation Authority - CAA)",
+          "title": "Beyond Visual Line of Sight (BVLOS) medical drone trials and airspace integration",
+          "url": "https://www.caa.co.uk"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダ運輸省（Transport Canada）目視外飛行（BVLOS）特例および極北遠隔医療輸送",
+        "statusOrLevel": "冬季に陸路が孤立する北部先住民族居住区へのワクチン・医薬品の長距離空輸",
+        "keyFeature": "極寒冷地や広大な無人地帯を抱えるカナダにおいて、運輸省が特殊飛行運航証明（SFOC）の枠組みで長距離目視外飛行を特例認可。オンタリオ州北部や準州の先住民族コミュニティへ、インスリンや血液検体を定期輸送する自律ドローン回廊を運用。",
+        "source": {
+          "organization": "カナダ運輸省 (Transport Canada)",
+          "title": "Remotely Piloted Aircraft Systems (RPAS) - BVLOS operations for remote communities",
+          "url": "https://tc.canada.ca"
+        }
+      },
+      {
+        "country": "ガーナ",
+        "countryCode": "GH",
+        "flag": "🇬🇧",
+        "systemName": "国家規模自律ドローン医療サプライチェーン網（Zipline提携）",
+        "statusOrLevel": "全国6か所のドローン基地から数千の農村・離島医療施設へ24時間即時空輸",
+        "keyFeature": "保健省（MOH）が主導し、輸血用血液パック、狂犬病ワクチン、抗毒素血清、救急医薬品を全国規模でドローン即時空輸。道路インフラが冠水や悪路で寸断される僻地でも30分以内に医療物資を投下配送し、妊産婦死亡率の低減等で世界的成功モデルとして知られる。",
+        "source": {
+          "organization": "ガーナ保健省 (Ministry of Health Ghana)",
+          "title": "National Medical Drone Delivery Service to remote healthcare facilities",
+          "url": "https://www.moh.gov.gh"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "スイス連邦民間航空局（FOCA）U-space規制と都市・山間部医療検体輸送",
+        "statusOrLevel": "チューリッヒやルガーノにおける病院グループ間での血液検体・緊急薬自動ドローン空輸",
+        "keyFeature": "欧州で先行して低空域ドローン航空管制（U-space）システムを実用化。都市部およびアルプス山岳部の病院間で、交通渋滞を回避して緊急血液検体や移植組織を自動飛行ドローンで常時ピストン輸送する商業運航を公式認可。",
+        "source": {
+          "organization": "スイス連邦民間航空局 (Federal Office of Civil Aviation - FOCA)",
+          "title": "U-space Switzerland and commercial drone medical transportation authorization",
+          "url": "https://www.bazl.admin.ch"
+        }
       }
     ]
   }

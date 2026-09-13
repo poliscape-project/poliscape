@@ -273,6 +273,58 @@
           "title": "Battery Pass - Demonstrating the EU Digital Product Passport",
           "url": "https://thebatterypass.eu/"
         }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "廃棄物電池規則（Waste Batteries Regulations）改正およびUK蓄電池戦略",
+        "statusOrLevel": "自動車メーカーへのEVバッテリー全数回収義務付けとレアメタル回収目標",
+        "keyFeature": "2035年の新車脱炭素化目標に合わせ、自動車メーカーに対して使用済みEVバッテリーの無償引き取りと全数トレーサビリティ管理を義務付け。コバルト、リチウム、ニッケルの国内循環精錬施設を育成する「UK Battery Strategy」を策定。",
+        "source": {
+          "organization": "英国環境・食糧・農村地域省 (Defra)",
+          "title": "Waste batteries and accumulators regulations: Producer responsibility and critical raw materials",
+          "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+        }
+      },
+      {
+        "country": "韓国",
+        "countryCode": "KR",
+        "flag": "🇰🇷",
+        "systemName": "大気環境保全法および廃バッテリー循環利用・国家バッテリーパスポート基盤",
+        "statusOrLevel": "廃蓄電池の全数追跡登録システムの構築とリユース（定置用ESS転用）認可",
+        "keyFeature": "国庫補助金を受給したEVの廃バッテリーについて、韓国環境公団による残存性能評価制度を確立し、定置用蓄電システム（ESS）等へのリユース市場を法制化。原材料採掘から製造、走行履歴、回収までを追跡する韓国版バッテリーパスポートを導入。",
+        "source": {
+          "organization": "韓国環境部 (Ministry of Environment)",
+          "title": "Clean Air Conservation Act - EV battery recycling and circular economy ecosystem",
+          "url": "https://www.me.go.kr"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "カナダ重要鉱物戦略（Critical Minerals Strategy）および州レベル車載電池EPR義務化",
+        "statusOrLevel": "オンタリオ州等でのEVバッテリー拡大生産者責任（EPR）とリサイクル工場大型投資",
+        "keyFeature": "北米サプライチェーン協定（USMCA）のもと、Li-Cycle社等のバッテリーリサイクル基盤へ巨額の財政支援を実施。各州法により自動車メーカーにバッテリーのライフサイクル管理責任を課し、ブラックマスからのレアメタル高純度回収率を法制基準化。",
+        "source": {
+          "organization": "カナダ天然資源省 (Natural Resources Canada - NRCan)",
+          "title": "Critical Minerals Strategy - EV battery recycling and supply chain resilience",
+          "url": "https://natural-resources.canada.ca"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "循環経済法（Loi AGEC）およびEU新電池規則に基づくバッテリー・バレー構想",
+        "statusOrLevel": "北部メガクラスタでの電池パスポート適合支援とクローズドループリサイクル義務",
+        "keyFeature": "北部ダンケルク一帯にギガファクトリーとリサイクル拠点が集積する「バッテリー・バレー」を整備。EU電池規則（2023/1542）に基づき、炭素フットプリント開示や再生材料（再生リチウム・コバルト）の最低使用比率適合を公的支援。",
+        "source": {
+          "organization": "フランス生態系移行・国土連帯省 (Ministère de la Transition écologique)",
+          "title": "Filière batteries et véhicules électriques: économie circulaire et règlement européen",
+          "url": "https://www.ecologie.gouv.fr"
+        }
       }
     ]
   }
