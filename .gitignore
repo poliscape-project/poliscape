@@ -41,5 +41,7 @@ yarn-error.log*
 next-env.d.ts
 
 .vercel
-.env*
+# executables
+*.exe
+scripts/bot/cloudflared.exe
 新規 テキスト ドキュメント.txt
