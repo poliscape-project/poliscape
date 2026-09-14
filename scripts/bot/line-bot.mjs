@@ -265,6 +265,7 @@ async function generatePolicyJson(topic) {
   });
 
   if (!jsonStr) return null;
+  const cleanJson = jsonStr.replace(/^```json\s*/i, '').replace(/^```\s*/i, '').replace(/```\s*$/i, '').trim();
   try {
     return JSON.parse(cleanJson);
   } catch (e) {
