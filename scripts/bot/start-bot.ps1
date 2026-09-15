@@ -30,7 +30,7 @@ $telegramProcess = $null
 if ($hasTelegramToken) {
     Write-Host "[1/3] Telegram Bot を起動中..." -ForegroundColor Yellow
     $telegramProcess = Start-Process -FilePath "node" `
-        -ArgumentList "scripts/bot/telegram-bot.mjs" `
+        -ArgumentList "--watch", "scripts/bot/telegram-bot.mjs" `
         -WorkingDirectory $projectDir `
         -PassThru -WindowStyle Minimized
     Start-Sleep -Seconds 1
@@ -44,7 +44,7 @@ if ($hasTelegramToken) {
 # 2. LINE Bot サーバー起動
 Write-Host "[2/3] LINE Bot サーバーを起動中..." -ForegroundColor Yellow
 $botProcess = Start-Process -FilePath "node" `
-    -ArgumentList "scripts/bot/line-bot.mjs" `
+    -ArgumentList "--watch", "scripts/bot/line-bot.mjs" `
     -WorkingDirectory $projectDir `
     -PassThru -WindowStyle Minimized
 Start-Sleep -Seconds 2
