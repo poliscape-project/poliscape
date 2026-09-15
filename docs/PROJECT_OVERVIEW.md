@@ -78,7 +78,12 @@ src/
 │   ├── policy.ts                  # 政策 TypeScript 型定義
 │   └── law.ts                     # 根拠法（FoundationLaw）TypeScript 型定義
 │
-└── scripts/                       # ユーティリティスクリプト（8ファイル）
+└── scripts/                       # ユーティリティスクリプト
+    ├── bot/                       # ★ マルチデバイス開発 Bot（24時間常駐）
+    │   ├── telegram-bot.mjs       # Telegram Bot（メインコンソール・ロングポーリング・532行）
+    │   ├── line-bot.mjs           # LINE Bot（サブコンソール・Webhook・450行）
+    │   ├── start-bot.ps1          # 統合ランチャー（Telegram + LINE + cloudflared 一括起動）
+    │   └── cloudflared.exe        # Cloudflare Tunnel バイナリ（.gitignore対象）
     ├── analyze-issue.js           # AI自動ファクトチェック（Gemini API連携）
     ├── check-facts.js             # 全500政策JSONの静的検査ツール
     ├── migrate-categories.js      # カテゴリ統合マイグレーション
@@ -95,6 +100,36 @@ src/
 └── ISSUE_TEMPLATE/
     └── fact_check_report.md       # 事実誤認報告用Issueテンプレート
 ```
+
+---
+
+## マルチデバイス開発 Bot インフラ
+
+### 全体構成
+
+```
+📱 スマホ ──→ Telegram Bot（ロングポーリング）──→ 🖥️ デスクトップPC（24h常駐）
+              LINE Bot（Webhook + cloudflared）──→    ↕ Git auto pull/push
+                                                     ☁️ GitHub → Vercel 自動デプロイ
+```
+
+### Telegram Bot（`scripts/bot/telegram-bot.mjs`）
+- **接続方式**: ロングポーリング（外部トンネル不要・再起動時のURL変更なし）
+- **マルチデバイス**: スマホ・デスクトップ・ノートPCすべてで同時利用可能
+- **UI**: インラインボタン（「🚀 作成＆Push」等）
+- **AI**: Gemini 3.8 Flash（3.6 / 2.0 自動フォールバック）
+- **コマンド**: `/status`, `/search`, 政策追加（2段階承認）, アイデア記録, 自然対話
+
+### LINE Bot（`scripts/bot/line-bot.mjs`）
+- **接続方式**: Webhook（cloudflared トンネル経由）
+- **LINE アカウント**: `@320ygfjy`（PoliScape）
+- **機能**: Telegram Bot と同等
+
+### 統合ランチャー（`scripts/bot/start-bot.ps1`）
+- Telegram Bot → LINE Bot → cloudflared を順番に起動
+- cloudflared 起動後に LINE Webhook URL を API で自動更新
+- プロセス監視ループ付き（異常終了時のクリーンアップ）
+- デスクトップPCのスタートアップに登録済み
 
 ---
 
