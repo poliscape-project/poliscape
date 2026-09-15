@@ -134,19 +134,37 @@
 - 統合ランチャー `start-bot.ps1` の配備（LINE Webhook URL 自動更新機能付き）
 - GitHub Collaborator 設定（`dtake-dtake` を Write 権限で追加）
 
+### 8. Telegram Bot の機能拡張 ＆ バグ修正（2026-09-15〜16）
+- **`/edit` コマンド追加**: 既存政策データをスマホから検索→選択→自然言語で修正指示→確認ボタン→push
+- **一括政策追加**: 「一括政策追加: A, B, C」で複数政策を一度に生成＆push
+- **Geminiモデル修正**: 廃止済み `gemini-2.5-flash` → `gemini-3.8-flash / 3.6 / 2.0` フォールバックチェーン
+- **システムプロンプト強化**: AIが自分自身のBot機能・プロジェクト構造を把握した上で回答するように改善
+- **`--watch` 自動再起動**: `node --watch` でコード変更時にBotが自動再起動（`git pull` だけで反映）
+- **`start-bot.ps1` UTF-8 BOM対応**: Windows PowerShell 5.1 で日本語・絵文字が文字化けする構文エラーを解消
+- **sendMessage自動フォールバック**: Telegram API のHTMLパースエラー時にプレーンテキストで自動再送
+
+---
+
+## 運用方針（ユーザー確定・2026-09-16）
+
+> **「作業はPC、スマホはメモ帳」**
+
+- **本格的な開発・修正**: ノートPC or デスクトップPCのAntigravityで実施（画面を見ながら、自然な日本語で指示するだけ）
+- **スマホの役割**: 布団の中や移動中に思いついたアイデアをTelegramに投げておく（`docs/IDEAS.md` に自動蓄積）
+- **Telegram Bot はメモ帳＆ステータス確認用**として活躍。無理にスマホで全部やろうとしない。
+
 ---
 
 ## 今後やること・ロードマップ
 
 ### 直近
-1. **スマホからの政策追加テスト**（Telegram Bot の 2段階承認フロー実機確認）
-2. **Day 9以降のX投稿コンテンツ準備**（候補は `CONTENT_PIPELINE.md` に記載）
-3. **マルチプロジェクト対応**（他の3プロジェクトも同一 Bot から操作可能に拡張）
+1. **Day 9以降のX投稿コンテンツ準備**（候補は `CONTENT_PIPELINE.md` に記載）
+2. **マルチプロジェクト対応**（他の3プロジェクトも同一 Bot から操作可能に拡張・優先度は低め）
 
 ### 中期
-- Cloudflare 固定URL化（LINE Bot用、再起動時のURL変更を完全解消）
-- 新機能のプロトタイピング（候補は `IDEAS.md` に記載）
+- PoliScape 本体の新機能・UI改善（候補は `IDEAS.md` に記載）
 - 政策データの継続的な更新・追加
+- Cloudflare 固定URL化（LINE Bot用・優先度低）
 
 ---
 
@@ -158,3 +176,10 @@
 4. `scripts/bot/start-bot.ps1` をスタートアップに登録
 5. GitHub 認証設定（`gh auth login` で `dtake-dtake` アカウント）
 6. Collaborator 招待承認（`poliscape-project` から Write 権限）
+
+## 既知の注意点
+
+- **Bot のコード変更後**: `git push` → デスクトップ側で `git pull` → `--watch` により自動再起動（手動再起動不要）
+- **`start-bot.ps1` 自体の変更後**: ランチャー自体は `--watch` 対象外のため手動再起動が必要
+- **Gemini API**: `gemini-2.5-flash` と `gemini-1.5-flash` は廃止済み。使わないこと
+- **PowerShell スクリプト**: 日本語・絵文字を含む `.ps1` ファイルは必ず **UTF-8 BOM付き** で保存すること（Windows PowerShell 5.1 対策）
