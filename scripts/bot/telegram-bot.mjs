@@ -43,6 +43,7 @@ const TG_API = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}`;
 // メモリ管理
 const conversationHistory = new Map();
 const pendingPolicyDrafts = new Map();
+const pendingPolicyEdits = new Map(); // { id, original, modified, step }
 
 // Telegram メソッド呼び出し
 async function tgCall(method, body = {}) {
@@ -297,6 +298,103 @@ async function generatePolicyJson(topic) {
   }
 }
 
+// 既存政策の修正をAI生成
+async function generatePolicyEdit(original, instruction) {
+  const prompt = `以下は日本の政策カタログ「PoliScape」に登録されている政策のJSON（一部）です。
+ユーザーの修正指示に従い、修正後のJSON全体を出力してください。
+
+【現在のデータ】
+${JSON.stringify(original, null, 2)}
+
+【ユーザーの修正指示】
+${instruction}
+
+【出力ルール】
+- 必ず純粋な有効なJSON形式のみで出力してください（Markdownコードブロック不要）
+- 修正指示に関係するフィールドのみ変更し、他のフィールドは元のまま維持してください
+- id は絶対に変更しないでください`;
+
+  const jsonStr = await callGeminiRaw({
+    contents: [{ parts: [{ text: prompt }] }],
+    systemInstruction: { parts: [{ text: 'あなたは政策データの編集アシスタントです。指示通りにJSONを修正し、JSONのみを出力してください。' }] },
+  });
+
+  if (!jsonStr) return null;
+  const cleanJson = jsonStr.replace(/^```json\s*/i, '').replace(/^```\s*/i, '').replace(/```\s*$/i, '').trim();
+  try {
+    const parsed = JSON.parse(cleanJson);
+    parsed.id = original.id; // id は絶対に変更させない
+    return parsed;
+  } catch (e) {
+    console.error('Edit JSON parse failed:', e.message);
+    return null;
+  }
+}
+
+// 政策修正の適用＆Push
+async function applyPolicyEdit(editData) {
+  const jsonPath = path.join(rootDir, `src/data/policies/${editData.id}.json`);
+  if (!fs.existsSync(jsonPath)) {
+    return `❌ ファイルが見つかりません: <code>${editData.id}.json</code>`;
+  }
+
+  editData.modified.lastUpdated = new Date().toISOString().split('T')[0];
+  fs.writeFileSync(jsonPath, JSON.stringify(editData.modified, null, 2), 'utf8');
+
+  try {
+    await execAsync(
+      `git add src/data/policies/${editData.id}.json && git commit -m "fix(policy): update ${editData.modified.title || editData.id} via Telegram" && git push origin main`,
+      { cwd: rootDir }
+    );
+    return `✅ <b>政策データを修正してGitHubにプッシュしました！</b>
+
+📄 <b>【${escapeHtml(editData.modified.title)}】</b>
+・ID: <code>${editData.id}</code>
+
+Vercelの自動ビルド＆デプロイが開始されました。
+👉 <a href="https://poliscape.vercel.app/policies/${editData.id}">本番プレビュー</a>`;
+  } catch (e) {
+    return `⚠️ ローカルに保存しましたがGit pushに失敗: ${escapeHtml(e.message.slice(0, 80))}`;
+  }
+}
+
+// 修正箇所のdiff表示を生成
+function generateDiffSummary(original, modified) {
+  const diffs = [];
+  const checkFields = ['title', 'catchphrase', 'categoryLabel', 'status', 'statusLabel', 'effectiveDate'];
+  for (const f of checkFields) {
+    if (original[f] !== modified[f] && modified[f] !== undefined) {
+      diffs.push(`• <b>${f}</b>: ${escapeHtml(String(original[f]))} → ${escapeHtml(String(modified[f]))}`);
+    }
+  }
+  // summary
+  if (JSON.stringify(original.summary) !== JSON.stringify(modified.summary)) {
+    diffs.push('• <b>summary</b> (要約): 変更あり');
+  }
+  // background
+  if (JSON.stringify(original.background) !== JSON.stringify(modified.background)) {
+    diffs.push('• <b>background</b> (背景): 変更あり');
+  }
+  // perspectives
+  if (JSON.stringify(original.perspectives) !== JSON.stringify(modified.perspectives)) {
+    diffs.push('• <b>perspectives</b> (メリット/課題): 変更あり');
+  }
+  // timeline
+  if (JSON.stringify(original.timeline) !== JSON.stringify(modified.timeline)) {
+    diffs.push('• <b>timeline</b> (タイムライン): 変更あり');
+  }
+  // sources
+  if (JSON.stringify(original.sources) !== JSON.stringify(modified.sources)) {
+    diffs.push('• <b>sources</b> (情報源): 変更あり');
+  }
+  // badges
+  if (JSON.stringify(original.badges) !== JSON.stringify(modified.badges)) {
+    diffs.push('• <b>badges</b> (バッジ): 変更あり');
+  }
+  if (diffs.length === 0) diffs.push('（差分なし）');
+  return diffs.join('\n');
+}
+
 // メッセージハンドラー
 async function handleIncomingMessage(msg) {
   const chatId = msg.chat.id;
@@ -322,6 +420,7 @@ async function handleIncomingMessage(msg) {
 • <code>/status</code> - サイト・リポジトリの稼働状況
 • <code>/search &lt;キーワード&gt;</code> - 登録済み政策を検索
 • <code>政策追加: &lt;テーマ&gt;</code> - 新規政策ドラフトをAI生成
+• <code>/edit &lt;キーワード&gt;</code> - 既存政策データを修正
 • <code>アイデア: &lt;メモ&gt;</code> - <code>docs/IDEAS.md</code> に記録＆Push
 • その他、何でも自由に話しかけてください！`;
     await sendMessage(chatId, helpMsg);
@@ -364,6 +463,61 @@ async function handleIncomingMessage(msg) {
         reply += `• <b>${escapeHtml(p.title)}</b> (<code>${p.id}</code>)\n  └ <i>${escapeHtml(p.catchphrase || '')}</i>\n  👉 <a href="https://poliscape.vercel.app/policies/${p.id}">ページを開く</a>\n\n`;
       }
       await sendMessage(chatId, reply);
+    }
+    return;
+  }
+
+  // 政策修正 (/edit または「政策修正:」)
+  if (text.startsWith('/edit') || text.startsWith('政策修正:') || text.startsWith('政策修正：')) {
+    const kw = text.replace(/^(\/edit|政策修正[：:])\s*/, '').trim();
+    if (!kw) {
+      await sendMessage(chatId, '✏️ 修正したい政策のキーワードを入力してください。\n(例: <code>/edit 年金</code> または <code>政策修正: 児童手当</code>)');
+      return;
+    }
+    const results = searchPolicies(kw);
+    if (results.length === 0) {
+      await sendMessage(chatId, `🔍 「<b>${escapeHtml(kw)}</b>」に一致する政策が見つかりませんでした。`);
+    } else {
+      const buttons = results.map(p => ([{
+        text: `✏️ ${p.title}`,
+        callback_data: `edit_select_${p.id}`.slice(0, 64),
+      }]));
+      await sendMessage(chatId, `✏️ <b>修正する政策を選んでください:</b>`, {
+        reply_markup: { inline_keyboard: buttons },
+      });
+    }
+    return;
+  }
+
+  // 修正指示の待ち受け中（edit_select 後のテキスト入力）
+  const editSession = pendingPolicyEdits.get(chatId);
+  if (editSession && editSession.step === 'awaiting_instruction') {
+    await sendMessage(chatId, `⏳ AI が修正内容を反映中... (約10秒)`);
+    const modified = await generatePolicyEdit(editSession.original, text);
+    if (modified) {
+      editSession.modified = modified;
+      editSession.step = 'awaiting_confirm';
+      pendingPolicyEdits.set(chatId, editSession);
+
+      const diffText = generateDiffSummary(editSession.original, modified);
+      const confirmMsg = `📝 <b>【修正プレビュー】</b>
+
+📄 <b>${escapeHtml(modified.title)}</b> (<code>${editSession.id}</code>)
+
+<b>変更箇所:</b>
+${diffText}
+
+この修正を適用してGitHubにプッシュしますか？`;
+      await sendMessage(chatId, confirmMsg, {
+        reply_markup: {
+          inline_keyboard: [[
+            { text: '✅ 適用＆Push', callback_data: 'apply_edit' },
+            { text: '❌ キャンセル', callback_data: 'cancel_edit' },
+          ]],
+        },
+      });
+    } else {
+      await sendMessage(chatId, '❌ 修正の生成に失敗しました。もう一度指示を送ってみてください。');
     }
     return;
   }
@@ -491,6 +645,58 @@ async function handleCallbackQuery(cb) {
     pendingPolicyDrafts.delete(chatId);
     await answerCallback(cbId, 'キャンセルしました');
     await sendMessage(chatId, '👌 ドラフトをキャンセルしました！');
+  } else if (data.startsWith('edit_select_')) {
+    // 政策修正: 対象政策の選択
+    const policyId = data.replace('edit_select_', '');
+    const jsonPath = path.join(rootDir, `src/data/policies/${policyId}.json`);
+    if (!fs.existsSync(jsonPath)) {
+      await answerCallback(cbId, '政策ファイルが見つかりません');
+      return;
+    }
+    const original = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
+    pendingPolicyEdits.set(chatId, { id: policyId, original, modified: null, step: 'awaiting_instruction' });
+    await answerCallback(cbId, '政策を選択しました');
+
+    const currentInfo = `✏️ <b>【${escapeHtml(original.title)}】を修正します</b>
+
+📌 ID: <code>${policyId}</code>
+🏷️ カテゴリ: ${escapeHtml(original.categoryLabel || '')}
+⚖️ ステータス: ${escapeHtml(original.statusLabel || '')}
+
+<b>現在の3行要約:</b>
+1. ${escapeHtml(original.summary?.standard?.[0] || '')}
+2. ${escapeHtml(original.summary?.standard?.[1] || '')}
+3. ${escapeHtml(original.summary?.standard?.[2] || '')}
+
+<b>どのように修正しますか？</b>
+自然な日本語で指示してください。
+(例: 「要約の1行目を〜に変更して」「ステータスを成立済みに変更」「タイムラインに2025年4月施行を追加」)`;
+
+    await sendMessage(chatId, currentInfo, {
+      reply_markup: {
+        inline_keyboard: [[{ text: '❌ やめる', callback_data: 'cancel_edit' }]],
+      },
+    });
+  } else if (data === 'apply_edit') {
+    // 政策修正: 適用＆Push
+    const editData = pendingPolicyEdits.get(chatId);
+    if (!editData || !editData.modified) {
+      await answerCallback(cbId, '保留中の修正が見つかりません');
+      return;
+    }
+    await answerCallback(cbId, '✅ 修正を適用中...');
+    await sendMessage(chatId, '⏳ 政策データを修正してGitHubにプッシュ中...');
+    try {
+      const result = await applyPolicyEdit(editData);
+      pendingPolicyEdits.delete(chatId);
+      await sendMessage(chatId, result);
+    } catch (e) {
+      await sendMessage(chatId, `❌ 修正エラー: ${escapeHtml(e.message)}`);
+    }
+  } else if (data === 'cancel_edit') {
+    pendingPolicyEdits.delete(chatId);
+    await answerCallback(cbId, 'キャンセルしました');
+    await sendMessage(chatId, '👌 修正をキャンセルしました！');
   }
 }
 
