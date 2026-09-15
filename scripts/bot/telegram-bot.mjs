@@ -43,6 +43,7 @@ const TG_API = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}`;
 // メモリ管理
 const conversationHistory = new Map();
 const pendingPolicyDrafts = new Map();
+const pendingBulkDrafts = new Map();
 const pendingPolicyEdits = new Map(); // { id, original, modified, step }
 
 // Telegram メソッド呼び出し
@@ -209,6 +210,72 @@ async function applyPolicyDraft(draft) {
 
 Vercelの自動ビルド＆デプロイが開始されました。
 👉 <a href="https://poliscape.vercel.app/policies/${draft.id}">本番プレビュー</a>`;
+}
+
+// 複数政策JSONの一括作成と policies.ts への一括登録
+async function applyBulkPolicyDrafts(drafts) {
+  if (!drafts || drafts.length === 0) return '❌ ドラフトが存在しません。';
+
+  const createdDrafts = [];
+  const skippedDrafts = [];
+
+  // 1. 各JSONファイルを書き出し
+  for (const draft of drafts) {
+    const jsonPath = path.join(rootDir, `src/data/policies/${draft.id}.json`);
+    if (fs.existsSync(jsonPath)) {
+      skippedDrafts.push(draft);
+      continue;
+    }
+    fs.writeFileSync(jsonPath, JSON.stringify(draft, null, 2), 'utf8');
+    createdDrafts.push(draft);
+  }
+
+  if (createdDrafts.length === 0) {
+    return '❌ 指定された政策IDはすべて既に存在していました。';
+  }
+
+  // 2. src/lib/policies.ts に一括登録
+  const policiesTsPath = path.join(rootDir, 'src/lib/policies.ts');
+  let tsContent = fs.readFileSync(policiesTsPath, 'utf8');
+
+  let importBlock = '';
+  let arrayBlock = '';
+  for (const draft of createdDrafts) {
+    const varName = draft.id.replace(/-([a-z0-9])/g, (_, g) => g.toUpperCase()) + 'Data';
+    importBlock += `import ${varName} from "@/data/policies/${draft.id}.json";\n`;
+    arrayBlock += `  ${varName} as PolicyTopic,\n`;
+  }
+
+  const firstImportIdx = tsContent.indexOf('import ');
+  tsContent = tsContent.slice(0, firstImportIdx) + importBlock + tsContent.slice(firstImportIdx);
+
+  const closingBracketIdx = tsContent.lastIndexOf('];');
+  if (closingBracketIdx !== -1) {
+    tsContent = tsContent.slice(0, closingBracketIdx) + arrayBlock + tsContent.slice(closingBracketIdx);
+    fs.writeFileSync(policiesTsPath, tsContent, 'utf8');
+  } else {
+    throw new Error('policies.ts の配列終端が見つかりませんでした。');
+  }
+
+  // 3. Git commit & push
+  const filePaths = createdDrafts.map(d => `src/data/policies/${d.id}.json`).join(' ');
+  await execAsync(
+    `git add ${filePaths} src/lib/policies.ts && git commit -m "feat(policy): bulk add ${createdDrafts.length} policies via Telegram" && git push origin main`,
+    { cwd: rootDir }
+  );
+
+  const totalPolicies = fs.readdirSync(path.join(rootDir, 'src/data/policies')).filter(f => f.endsWith('.json')).length;
+
+  let msg = `🎉 <b>${createdDrafts.length}件の政策ページを一括作成し、GitHubにプッシュしました！</b>\n\n`;
+  for (let i = 0; i < createdDrafts.length; i++) {
+    const d = createdDrafts[i];
+    msg += `${i + 1}. 📄 <b>${escapeHtml(d.title)}</b> (<code>${d.id}</code>)\n   👉 <a href="https://poliscape.vercel.app/policies/${d.id}">本番プレビュー</a>\n`;
+  }
+  if (skippedDrafts.length > 0) {
+    msg += `\n⚠️ 既存のためスキップ: ${skippedDrafts.map(d => d.id).join(', ')}\n`;
+  }
+  msg += `\n📊 総政策数: <b>${totalPolicies} 件</b>に増加！🚀\nVercelの自動デプロイが開始されました。`;
+  return msg;
 }
 
 // Gemini API 呼び出し
@@ -438,6 +505,7 @@ async function handleIncomingMessage(msg) {
 • <code>/status</code> - サイト・リポジトリの稼働状況
 • <code>/search &lt;キーワード&gt;</code> - 登録済み政策を検索
 • <code>政策追加: &lt;テーマ&gt;</code> - 新規政策ドラフトをAI生成
+• <code>一括政策追加: テーマ1, テーマ2</code> - 複数政策をまとめて自動生成＆Push
 • <code>/edit &lt;キーワード&gt;</code> - 既存政策データを修正
 • <code>アイデア: &lt;メモ&gt;</code> - <code>docs/IDEAS.md</code> に記録＆Push
 • その他、何でも自由に話しかけてください！`;
@@ -540,6 +608,77 @@ ${diffText}
     return;
   }
 
+  // 一括政策追加リクエスト
+  const isBulkPolicyAdd =
+    text.startsWith('/bulk') ||
+    text.startsWith('一括政策追加:') ||
+    text.startsWith('一括政策追加：') ||
+    text.startsWith('一括追加:') ||
+    text.startsWith('一括追加：');
+
+  if (isBulkPolicyAdd) {
+    const rawList = text
+      .replace(/^(\/bulk|一括政策追加[：:]|一括追加[：:])\s*/, '')
+      .trim();
+
+    // カンマ、読点、改行で分割
+    const topics = rawList
+      .split(/[,、\n]+/)
+      .map(t => t.trim())
+      .filter(t => t.length >= 2);
+
+    if (topics.length === 0) {
+      await sendMessage(chatId, '⚠️ 追加したいテーマをカンマ区切りで入力してください。\n(例: <code>一括政策追加: 給食無償化, ライドシェア解禁, 選択的夫婦別姓</code>)');
+      return;
+    }
+
+    if (topics.length > 5) {
+      await sendMessage(chatId, '⚠️ 一度に生成できるのは最大5件までです（APIレート制限および正確性のため）。5件以内に絞って再実行してください。');
+      return;
+    }
+
+    await sendMessage(chatId, `⏳ <b>${topics.length}件の政策データを一括設計・生成中...</b>\n（1件あたり約10秒かかります。完了まで少々お待ちください）`);
+
+    const generatedDrafts = [];
+    for (let i = 0; i < topics.length; i++) {
+      const topic = topics[i];
+      const draft = await generatePolicyJson(topic);
+      if (draft && draft.title && draft.summary?.standard) {
+        generatedDrafts.push(draft);
+      } else {
+        await sendMessage(chatId, `⚠️ 「${escapeHtml(topic)}」のドラフト生成に失敗しました（スキップします）。`);
+      }
+    }
+
+    if (generatedDrafts.length === 0) {
+      await sendMessage(chatId, '❌ すべての政策ドラフト生成に失敗しました。テーマを変えて再度お試しください。');
+      return;
+    }
+
+    pendingBulkDrafts.set(chatId, generatedDrafts);
+
+    let previewMsg = `📝 <b>【${generatedDrafts.length}件の政策下書きが完成しました！】</b>\n\n`;
+    for (let i = 0; i < generatedDrafts.length; i++) {
+      const d = generatedDrafts[i];
+      previewMsg += `<b>${i + 1}. ${escapeHtml(d.title)}</b>\n`;
+      previewMsg += `   ID: <code>${d.id}</code> | 🏷️ ${escapeHtml(d.categoryLabel)} | ⚖️ ${escapeHtml(d.statusLabel)}\n`;
+      previewMsg += `   💡 ${escapeHtml(d.summary?.standard?.[0] || '')}\n\n`;
+    }
+    previewMsg += `この内容でまとめて政策JSONを作成し、GitHubにプッシュ（本番デプロイ）しますか？`;
+
+    await sendMessage(chatId, previewMsg, {
+      reply_markup: {
+        inline_keyboard: [
+          [
+            { text: `🚀 ${generatedDrafts.length}件まとめて作成＆Push`, callback_data: 'apply_bulk_draft' },
+            { text: '❌ キャンセル', callback_data: 'cancel_bulk_draft' },
+          ],
+        ],
+      },
+    });
+    return;
+  }
+
   // 政策追加リクエスト
   const isPolicyAdd =
     text.startsWith('/policy') ||
@@ -628,6 +767,7 @@ GitHub main へのpushでVercelに自動デプロイされる。
 【あなた（このBot）ができること ※既に実装済み】
 このTelegram Botは以下のコマンドで政策データを直接操作できます：
 ・「政策追加: 〇〇」→ AIが政策JSONを自動生成し、ボタン確認後にGitHubへpush。Vercel自動デプロイで本番反映。
+・「一括政策追加: テーマ1, テーマ2」→ 複数政策をまとめて自動生成＆1回のGit pushで一括デプロイ。
 ・「/edit 〇〇」→ 既存の政策データを検索→選択→自然言語で修正指示→ボタン確認後にpush。
 ・「/search 〇〇」→ 500件の政策を全文検索。
 ・「アイデア: 〇〇」→ docs/IDEAS.md に追記してpush。
@@ -684,6 +824,25 @@ async function handleCallbackQuery(cb) {
     pendingPolicyDrafts.delete(chatId);
     await answerCallback(cbId, 'キャンセルしました');
     await sendMessage(chatId, '👌 ドラフトをキャンセルしました！');
+  } else if (data === 'apply_bulk_draft') {
+    const drafts = pendingBulkDrafts.get(chatId);
+    if (!drafts || drafts.length === 0) {
+      await answerCallback(cbId, '保留中の一括ドラフトが見つかりません。');
+      return;
+    }
+    await answerCallback(cbId, `🚀 ${drafts.length}件を一括作成＆Push中...`);
+    await sendMessage(chatId, `⏳ <b>${drafts.length}件の政策JSONを一括作成し、GitHubにプッシュ中...</b>`);
+    try {
+      const result = await applyBulkPolicyDrafts(drafts);
+      pendingBulkDrafts.delete(chatId);
+      await sendMessage(chatId, result);
+    } catch (e) {
+      await sendMessage(chatId, `❌ 一括作成エラー: ${escapeHtml(e.message)}`);
+    }
+  } else if (data === 'cancel_bulk_draft') {
+    pendingBulkDrafts.delete(chatId);
+    await answerCallback(cbId, '一括ドラフトをキャンセルしました');
+    await sendMessage(chatId, '👌 一括ドラフトをキャンセルしました！');
   } else if (data.startsWith('edit_select_')) {
     // 政策修正: 対象政策の選択
     const policyId = data.replace('edit_select_', '');
