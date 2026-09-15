@@ -60,15 +60,33 @@ async function tgCall(method, body = {}) {
   }
 }
 
-// メッセージ送信ヘルパー (HTML形式)
-async function sendMessage(chatId, htmlText, extra = {}) {
-  return await tgCall('sendMessage', {
+// メッセージ送信ヘルパー (HTML形式 + プレーンテキスト自動フォールバック)
+async function sendMessage(chatId, text, extra = {}) {
+  // <br> タグを改行に変換
+  let cleanedText = String(text)
+    .replace(/<br\s*\/?>/gi, '\n')
+    .replace(/<\/?p>/gi, '\n');
+
+  const res = await tgCall('sendMessage', {
     chat_id: chatId,
-    text: htmlText,
+    text: cleanedText,
     parse_mode: 'HTML',
     disable_web_page_preview: true,
     ...extra,
   });
+
+  // もし HTML パースエラー等で送信失敗した場合、プレーンテキストとして再試行
+  if (!res || !res.ok) {
+    console.warn('⚠️ HTML送信失敗。プレーンテキストで再送試行:', res?.description);
+    const plainText = cleanedText.replace(/<[^>]+>/g, '');
+    return await tgCall('sendMessage', {
+      chat_id: chatId,
+      text: plainText,
+      disable_web_page_preview: true,
+      ...extra,
+    });
+  }
+  return res;
 }
 
 // コールバック応答ヘルパー
@@ -635,7 +653,7 @@ GitHub main へのpushでVercelに自動デプロイされる。
   if (reply) {
     history.push({ role: 'model', parts: [{ text: reply }] });
     conversationHistory.set(chatId, history);
-    await sendMessage(chatId, escapeHtml(reply));
+    await sendMessage(chatId, reply);
   } else {
     await sendMessage(chatId, '申し訳ありません、応答の生成中にエラーが発生しました。');
   }
