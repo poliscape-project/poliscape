@@ -196,7 +196,7 @@ Vercelの自動ビルド＆デプロイが開始されました。
 // Gemini API 呼び出し
 async function callGeminiRaw(payload) {
   if (!GEMINI_API_KEY) return null;
-  const models = ['gemini-2.5-flash', 'gemini-2.0-flash'];
+  const models = ['gemini-3.8-flash', 'gemini-3.6-flash', 'gemini-2.0-flash'];
   for (const model of models) {
     for (let attempt = 0; attempt < 2; attempt++) {
       try {
