@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "食品ロス削減",
-    "ダイナミックプライシング",
-    "電子棚札",
-    "DX",
-    "循環経済"
+    {
+      "label": "食品ロス削減",
+      "text": "食品ロス削減",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "ダイナミックプライシング",
+      "text": "ダイナミックプライシング",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "電子棚札",
+      "text": "電子棚札",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "DX",
+      "text": "DX",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "循環経済",
+      "text": "循環経済",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

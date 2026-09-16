@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "重要インフラ",
-    "マルチクラウド",
-    "脱ロックイン",
-    "サイバー強靭化",
-    "経済安保"
+    {
+      "label": "重要インフラ",
+      "text": "重要インフラ",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "マルチクラウド",
+      "text": "マルチクラウド",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "脱ロックイン",
+      "text": "脱ロックイン",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "サイバー強靭化",
+      "text": "サイバー強靭化",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "経済安保",
+      "text": "経済安保",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

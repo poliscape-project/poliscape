@@ -120,11 +120,36 @@
     }
   ],
   "badges": [
-    "生成AI",
-    "著作権",
-    "AIガバナンス",
-    "透明性",
-    "広島AIプロセス"
+    {
+      "label": "生成AI",
+      "text": "生成AI",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "著作権",
+      "text": "著作権",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "AIガバナンス",
+      "text": "AIガバナンス",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "透明性",
+      "text": "透明性",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "広島AIプロセス",
+      "text": "広島AIプロセス",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -213,5 +238,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

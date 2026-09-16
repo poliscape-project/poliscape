@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "ストックオプション",
-    "スタートアップ支援",
-    "税制適格SO",
-    "人材獲得"
+    {
+      "label": "ストックオプション",
+      "text": "ストックオプション",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "スタートアップ支援",
+      "text": "スタートアップ支援",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "税制適格SO",
+      "text": "税制適格SO",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "人材獲得",
+      "text": "人材獲得",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

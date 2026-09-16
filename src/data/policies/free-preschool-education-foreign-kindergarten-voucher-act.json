@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "幼保無償化",
-    "多文化共生",
-    "外国人学校",
-    "子どもの権利"
+    {
+      "label": "幼保無償化",
+      "text": "幼保無償化",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "多文化共生",
+      "text": "多文化共生",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "外国人学校",
+      "text": "外国人学校",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "子どもの権利",
+      "text": "子どもの権利",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

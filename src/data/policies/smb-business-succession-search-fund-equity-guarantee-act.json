@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "事業承継",
-    "サーチファンド",
-    "中小企業",
-    "後継者不在",
-    "個人保証免除"
+    {
+      "label": "事業承継",
+      "text": "事業承継",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "サーチファンド",
+      "text": "サーチファンド",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "中小企業",
+      "text": "中小企業",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "後継者不在",
+      "text": "後継者不在",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "個人保証免除",
+      "text": "個人保証免除",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

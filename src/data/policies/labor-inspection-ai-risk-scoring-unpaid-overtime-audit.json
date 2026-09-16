@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "労基署DX",
-    "サービス残業根絶",
-    "AI監査",
-    "過労死防止",
-    "労働基準監督官"
+    {
+      "label": "労基署DX",
+      "text": "労基署DX",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "サービス残業根絶",
+      "text": "サービス残業根絶",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "AI監査",
+      "text": "AI監査",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "過労死防止",
+      "text": "過労死防止",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "労働基準監督官",
+      "text": "労働基準監督官",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

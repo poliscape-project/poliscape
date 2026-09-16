@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "科学技術立国",
-    "博士課程",
-    "給付型奨学金",
-    "若手研究者支援"
+    {
+      "label": "科学技術立国",
+      "text": "科学技術立国",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "博士課程",
+      "text": "博士課程",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "給付型奨学金",
+      "text": "給付型奨学金",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "若手研究者支援",
+      "text": "若手研究者支援",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

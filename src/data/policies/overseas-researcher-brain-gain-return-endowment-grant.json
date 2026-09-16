@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "頭脳循環",
-    "科学技術立国",
-    "研究者支援",
-    "国際競争力"
+    {
+      "label": "頭脳循環",
+      "text": "頭脳循環",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "科学技術立国",
+      "text": "科学技術立国",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "研究者支援",
+      "text": "研究者支援",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "国際競争力",
+      "text": "国際競争力",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

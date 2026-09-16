@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "デジタルノマド",
-    "ビザ緩和",
-    "インバウンド",
-    "地方創生",
-    "ワーケーション"
+    {
+      "label": "デジタルノマド",
+      "text": "デジタルノマド",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "ビザ緩和",
+      "text": "ビザ緩和",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "インバウンド",
+      "text": "インバウンド",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "地方創生",
+      "text": "地方創生",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "ワーケーション",
+      "text": "ワーケーション",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

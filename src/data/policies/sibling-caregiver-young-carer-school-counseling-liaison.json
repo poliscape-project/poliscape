@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "ヤングケアラー",
-    "きょうだい児",
-    "学校福祉連携",
-    "教育支援"
+    {
+      "label": "ヤングケアラー",
+      "text": "ヤングケアラー",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "きょうだい児",
+      "text": "きょうだい児",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "学校福祉連携",
+      "text": "学校福祉連携",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "教育支援",
+      "text": "教育支援",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

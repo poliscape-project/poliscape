@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "セキュリティトークン",
-    "STO",
-    "デジタル証券",
-    "不動産小口化",
-    "FinTech"
+    {
+      "label": "セキュリティトークン",
+      "text": "セキュリティトークン",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "STO",
+      "text": "STO",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "デジタル証券",
+      "text": "デジタル証券",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "不動産小口化",
+      "text": "不動産小口化",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "FinTech",
+      "text": "FinTech",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

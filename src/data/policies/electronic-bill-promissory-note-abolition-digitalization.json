@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "約束手形廃止",
-    "でんさい",
-    "電子記録債権",
-    "下請法",
-    "資金繰り改善"
+    {
+      "label": "約束手形廃止",
+      "text": "約束手形廃止",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "でんさい",
+      "text": "でんさい",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "電子記録債権",
+      "text": "電子記録債権",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "下請法",
+      "text": "下請法",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "資金繰り改善",
+      "text": "資金繰り改善",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

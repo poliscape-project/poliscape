@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "Web3",
-    "暗号資産",
-    "税制改正",
-    "スタートアップ",
-    "期末時価評価"
+    {
+      "label": "Web3",
+      "text": "Web3",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "暗号資産",
+      "text": "暗号資産",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "税制改正",
+      "text": "税制改正",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "スタートアップ",
+      "text": "スタートアップ",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "期末時価評価",
+      "text": "期末時価評価",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

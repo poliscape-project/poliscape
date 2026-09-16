@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "特殊詐欺対策",
-    "番号偽装",
-    "スプーフィング遮断",
-    "国際電話",
-    "治安維持"
+    {
+      "label": "特殊詐欺対策",
+      "text": "特殊詐欺対策",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "番号偽装",
+      "text": "番号偽装",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "スプーフィング遮断",
+      "text": "スプーフィング遮断",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "国際電話",
+      "text": "国際電話",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "治安維持",
+      "text": "治安維持",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

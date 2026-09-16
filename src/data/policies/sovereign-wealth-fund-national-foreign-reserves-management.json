@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "SWF",
-    "政府系ファンド",
-    "資産運用立国",
-    "経済安保",
-    "外貨準備"
+    {
+      "label": "SWF",
+      "text": "SWF",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "政府系ファンド",
+      "text": "政府系ファンド",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "資産運用立国",
+      "text": "資産運用立国",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "経済安保",
+      "text": "経済安保",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "外貨準備",
+      "text": "外貨準備",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

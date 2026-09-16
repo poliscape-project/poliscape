@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "働き方改革",
-    "教員支援",
-    "メンタルヘルス",
-    "産業保健"
+    {
+      "label": "働き方改革",
+      "text": "働き方改革",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "教員支援",
+      "text": "教員支援",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "メンタルヘルス",
+      "text": "メンタルヘルス",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "産業保健",
+      "text": "産業保健",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

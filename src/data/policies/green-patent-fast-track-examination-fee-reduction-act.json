@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "知的財産",
-    "グリーン特許",
-    "特許早期審査",
-    "GX",
-    "スタートアップ支援"
+    {
+      "label": "知的財産",
+      "text": "知的財産",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "グリーン特許",
+      "text": "グリーン特許",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "特許早期審査",
+      "text": "特許早期審査",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "GX",
+      "text": "GX",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "スタートアップ支援",
+      "text": "スタートアップ支援",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

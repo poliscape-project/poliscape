@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "民事執行法",
-    "養育費回収",
-    "預貯金照会",
-    "強制執行",
-    "法務省"
+    {
+      "label": "民事執行法",
+      "text": "民事執行法",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "養育費回収",
+      "text": "養育費回収",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "預貯金照会",
+      "text": "預貯金照会",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "強制執行",
+      "text": "強制執行",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "法務省",
+      "text": "法務省",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

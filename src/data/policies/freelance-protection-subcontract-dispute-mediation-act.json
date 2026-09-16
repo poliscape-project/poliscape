@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "フリーランス新法",
-    "ADR",
-    "裁判外紛争解決",
-    "報酬未払い防止",
-    "中小企業庁"
+    {
+      "label": "フリーランス新法",
+      "text": "フリーランス新法",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "ADR",
+      "text": "ADR",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "裁判外紛争解決",
+      "text": "裁判外紛争解決",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "報酬未払い防止",
+      "text": "報酬未払い防止",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "中小企業庁",
+      "text": "中小企業庁",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

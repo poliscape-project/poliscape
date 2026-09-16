@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "建築基準法改正",
-    "CLT",
-    "都市木造化",
-    "脱炭素",
-    "林業再生"
+    {
+      "label": "建築基準法改正",
+      "text": "建築基準法改正",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "CLT",
+      "text": "CLT",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "都市木造化",
+      "text": "都市木造化",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "脱炭素",
+      "text": "脱炭素",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "林業再生",
+      "text": "林業再生",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

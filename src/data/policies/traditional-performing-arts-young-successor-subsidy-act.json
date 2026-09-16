@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "伝統芸能",
-    "後継者育成",
-    "無形文化財",
-    "若手支援"
+    {
+      "label": "伝統芸能",
+      "text": "伝統芸能",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "後継者育成",
+      "text": "後継者育成",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "無形文化財",
+      "text": "無形文化財",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "若手支援",
+      "text": "若手支援",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

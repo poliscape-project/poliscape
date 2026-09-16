@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "スクールカウンセラー",
-    "不登校支援",
-    "いじめ対策",
-    "福祉連携"
+    {
+      "label": "スクールカウンセラー",
+      "text": "スクールカウンセラー",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "不登校支援",
+      "text": "不登校支援",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "いじめ対策",
+      "text": "いじめ対策",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "福祉連携",
+      "text": "福祉連携",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

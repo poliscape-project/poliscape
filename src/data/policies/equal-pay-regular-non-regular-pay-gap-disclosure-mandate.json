@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "同一労働同一賃金",
-    "賃金格差",
-    "人的資本開示",
-    "非正規雇用",
-    "有価証券報告書"
+    {
+      "label": "同一労働同一賃金",
+      "text": "同一労働同一賃金",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "賃金格差",
+      "text": "賃金格差",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "人的資本開示",
+      "text": "人的資本開示",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "非正規雇用",
+      "text": "非正規雇用",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "有価証券報告書",
+      "text": "有価証券報告書",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "宇宙開発",
-    "光通信",
-    "レーザー通信",
-    "JAXA",
-    "宇宙戦略基金"
+    {
+      "label": "宇宙開発",
+      "text": "宇宙開発",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "光通信",
+      "text": "光通信",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "レーザー通信",
+      "text": "レーザー通信",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "JAXA",
+      "text": "JAXA",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "宇宙戦略基金",
+      "text": "宇宙戦略基金",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

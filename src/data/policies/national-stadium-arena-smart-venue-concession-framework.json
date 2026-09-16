@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "スタジアム改革",
-    "スマートアリーナ",
-    "PFI・PPP",
-    "地域活性化"
+    {
+      "label": "スタジアム改革",
+      "text": "スタジアム改革",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "スマートアリーナ",
+      "text": "スマートアリーナ",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "PFI・PPP",
+      "text": "PFI・PPP",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "地域活性化",
+      "text": "地域活性化",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

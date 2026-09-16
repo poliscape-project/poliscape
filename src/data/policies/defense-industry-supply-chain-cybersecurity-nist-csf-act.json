@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "防衛装備",
-    "サイバーセキュリティ",
-    "NIST",
-    "経済安全保障",
-    "サプライチェーン"
+    {
+      "label": "防衛装備",
+      "text": "防衛装備",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "サイバーセキュリティ",
+      "text": "サイバーセキュリティ",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "NIST",
+      "text": "NIST",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "経済安全保障",
+      "text": "経済安全保障",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "サプライチェーン",
+      "text": "サプライチェーン",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

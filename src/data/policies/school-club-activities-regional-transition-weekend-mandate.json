@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "部活動改革",
-    "地域クラブ",
-    "教員の働き方",
-    "スポーツ振興"
+    {
+      "label": "部活動改革",
+      "text": "部活動改革",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "地域クラブ",
+      "text": "地域クラブ",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "教員の働き方",
+      "text": "教員の働き方",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "スポーツ振興",
+      "text": "スポーツ振興",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

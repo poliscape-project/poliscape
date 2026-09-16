@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "電子図書館",
-    "読書バリアフリー",
-    "国会図書館",
-    "著作権法改正"
+    {
+      "label": "電子図書館",
+      "text": "電子図書館",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "読書バリアフリー",
+      "text": "読書バリアフリー",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "国会図書館",
+      "text": "国会図書館",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "著作権法改正",
+      "text": "著作権法改正",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

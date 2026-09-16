@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "教育DX",
-    "GIGAスクール",
-    "ICT教育",
-    "公費補助"
+    {
+      "label": "教育DX",
+      "text": "教育DX",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "GIGAスクール",
+      "text": "GIGAスクール",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "ICT教育",
+      "text": "ICT教育",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "公費補助",
+      "text": "公費補助",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

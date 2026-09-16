@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "CCS事業法",
-    "二酸化炭素貯留",
-    "GX",
-    "カーボンニュートラル",
-    "JOGMEC"
+    {
+      "label": "CCS事業法",
+      "text": "CCS事業法",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "二酸化炭素貯留",
+      "text": "二酸化炭素貯留",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "GX",
+      "text": "GX",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "カーボンニュートラル",
+      "text": "カーボンニュートラル",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "JOGMEC",
+      "text": "JOGMEC",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "サンドボックス",
-    "規制緩和",
-    "フィンテック",
-    "スタートアップ",
-    "ファストトラック"
+    {
+      "label": "サンドボックス",
+      "text": "サンドボックス",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "規制緩和",
+      "text": "規制緩和",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "フィンテック",
+      "text": "フィンテック",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "スタートアップ",
+      "text": "スタートアップ",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "ファストトラック",
+      "text": "ファストトラック",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

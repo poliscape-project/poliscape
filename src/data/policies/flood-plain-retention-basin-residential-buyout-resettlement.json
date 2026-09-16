@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "流域治水",
-    "防災集団移転",
-    "宅地公費買収",
-    "遊水地",
-    "線状降水帯対策"
+    {
+      "label": "流域治水",
+      "text": "流域治水",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "防災集団移転",
+      "text": "防災集団移転",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "宅地公費買収",
+      "text": "宅地公費買収",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "遊水地",
+      "text": "遊水地",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "線状降水帯対策",
+      "text": "線状降水帯対策",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

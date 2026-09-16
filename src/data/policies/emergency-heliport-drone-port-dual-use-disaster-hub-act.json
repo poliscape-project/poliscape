@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "防災ヘリポート",
-    "ドローンポート",
-    "孤立集落対策",
-    "流域防災",
-    "航空DX"
+    {
+      "label": "防災ヘリポート",
+      "text": "防災ヘリポート",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "ドローンポート",
+      "text": "ドローンポート",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "孤立集落対策",
+      "text": "孤立集落対策",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "流域防災",
+      "text": "流域防災",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "航空DX",
+      "text": "航空DX",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

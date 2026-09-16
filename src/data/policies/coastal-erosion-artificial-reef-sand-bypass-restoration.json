@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "海岸侵食対策",
-    "サンドバイパス",
-    "人工リーフ",
-    "防災減災",
-    "国土保全"
+    {
+      "label": "海岸侵食対策",
+      "text": "海岸侵食対策",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "サンドバイパス",
+      "text": "サンドバイパス",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "人工リーフ",
+      "text": "人工リーフ",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "防災減災",
+      "text": "防災減災",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "国土保全",
+      "text": "国土保全",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

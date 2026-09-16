@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "水素社会推進法",
-    "脱炭素",
-    "コンビナート再生",
-    "GX",
-    "パイプライン"
+    {
+      "label": "水素社会推進法",
+      "text": "水素社会推進法",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "脱炭素",
+      "text": "脱炭素",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "コンビナート再生",
+      "text": "コンビナート再生",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "GX",
+      "text": "GX",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "パイプライン",
+      "text": "パイプライン",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

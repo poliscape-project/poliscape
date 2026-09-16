@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "最低賃金",
-    "時給1500円",
-    "業務改善助成金",
-    "賃上げ",
-    "デフレ脱却"
+    {
+      "label": "最低賃金",
+      "text": "最低賃金",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "時給1500円",
+      "text": "時給1500円",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "業務改善助成金",
+      "text": "業務改善助成金",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "賃上げ",
+      "text": "賃上げ",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "デフレ脱却",
+      "text": "デフレ脱却",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

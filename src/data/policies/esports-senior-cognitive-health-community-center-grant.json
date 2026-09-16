@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "eスポーツ",
-    "健康長寿",
-    "フレイル予防",
-    "シニア支援"
+    {
+      "label": "eスポーツ",
+      "text": "eスポーツ",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "健康長寿",
+      "text": "健康長寿",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "フレイル予防",
+      "text": "フレイル予防",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "シニア支援",
+      "text": "シニア支援",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

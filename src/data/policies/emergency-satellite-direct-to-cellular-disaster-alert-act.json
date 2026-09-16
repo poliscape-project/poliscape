@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "衛星直接通信",
-    "Direct-to-Cell",
-    "防災DX",
-    "電波法改正",
-    "通信レジリエンス"
+    {
+      "label": "衛星直接通信",
+      "text": "衛星直接通信",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "Direct-to-Cell",
+      "text": "Direct-to-Cell",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "防災DX",
+      "text": "防災DX",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "電波法改正",
+      "text": "電波法改正",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "通信レジリエンス",
+      "text": "通信レジリエンス",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

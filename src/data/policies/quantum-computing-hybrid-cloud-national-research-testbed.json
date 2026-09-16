@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "量子コンピュータ",
-    "富岳",
-    "スーパーコンピュータ",
-    "先端技術",
-    "マテリアルDX"
+    {
+      "label": "量子コンピュータ",
+      "text": "量子コンピュータ",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "富岳",
+      "text": "富岳",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "スーパーコンピュータ",
+      "text": "スーパーコンピュータ",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "先端技術",
+      "text": "先端技術",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "マテリアルDX",
+      "text": "マテリアルDX",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

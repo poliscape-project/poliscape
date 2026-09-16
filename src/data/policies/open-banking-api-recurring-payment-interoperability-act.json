@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "オープンバンキング",
-    "フィンテック",
-    "API標準化",
-    "即時決済",
-    "A2A"
+    {
+      "label": "オープンバンキング",
+      "text": "オープンバンキング",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "フィンテック",
+      "text": "フィンテック",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "API標準化",
+      "text": "API標準化",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "即時決済",
+      "text": "即時決済",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "A2A",
+      "text": "A2A",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "ロードヒーティング",
-    "下水熱利用",
-    "地中熱",
-    "豪雪地帯対策",
-    "省エネ融雪"
+    {
+      "label": "ロードヒーティング",
+      "text": "ロードヒーティング",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "下水熱利用",
+      "text": "下水熱利用",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "地中熱",
+      "text": "地中熱",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "豪雪地帯対策",
+      "text": "豪雪地帯対策",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "省エネ融雪",
+      "text": "省エネ融雪",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

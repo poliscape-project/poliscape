@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "税関DX",
-    "AI画像認識",
-    "知的財産保護",
-    "模倣品排除",
-    "水際対策"
+    {
+      "label": "税関DX",
+      "text": "税関DX",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "AI画像認識",
+      "text": "AI画像認識",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "知的財産保護",
+      "text": "知的財産保護",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "模倣品排除",
+      "text": "模倣品排除",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "水際対策",
+      "text": "水際対策",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

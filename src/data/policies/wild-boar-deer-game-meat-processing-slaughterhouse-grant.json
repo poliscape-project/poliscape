@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "ジビエ振興",
-    "鳥獣被害対策",
-    "国産ジビエ認証",
-    "地域資源",
-    "食の安全"
+    {
+      "label": "ジビエ振興",
+      "text": "ジビエ振興",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "鳥獣被害対策",
+      "text": "鳥獣被害対策",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "国産ジビエ認証",
+      "text": "国産ジビエ認証",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "地域資源",
+      "text": "地域資源",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "食の安全",
+      "text": "食の安全",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

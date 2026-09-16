@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "犯罪被害者支援",
-    "給付金増額",
-    "強制執行",
-    "立替払い",
-    "警察庁"
+    {
+      "label": "犯罪被害者支援",
+      "text": "犯罪被害者支援",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "給付金増額",
+      "text": "給付金増額",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "強制執行",
+      "text": "強制執行",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "立替払い",
+      "text": "立替払い",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "警察庁",
+      "text": "警察庁",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

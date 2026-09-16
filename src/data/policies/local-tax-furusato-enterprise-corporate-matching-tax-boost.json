@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "企業版ふるさと納税",
-    "地方創生",
-    "法人税減税",
-    "官民共創",
-    "人材派遣型"
+    {
+      "label": "企業版ふるさと納税",
+      "text": "企業版ふるさと納税",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "地方創生",
+      "text": "地方創生",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "法人税減税",
+      "text": "法人税減税",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "官民共創",
+      "text": "官民共創",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "人材派遣型",
+      "text": "人材派遣型",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

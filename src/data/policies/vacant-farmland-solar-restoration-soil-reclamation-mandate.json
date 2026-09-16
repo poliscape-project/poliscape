@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "荒廃農地再生",
-    "新規就農",
-    "農地バンク",
-    "土壌改良",
-    "地代無償貸与"
+    {
+      "label": "荒廃農地再生",
+      "text": "荒廃農地再生",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "新規就農",
+      "text": "新規就農",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "農地バンク",
+      "text": "農地バンク",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "土壌改良",
+      "text": "土壌改良",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "地代無償貸与",
+      "text": "地代無償貸与",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

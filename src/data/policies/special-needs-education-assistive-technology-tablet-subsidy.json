@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "特別支援教育",
-    "アシスティブテクノロジー",
-    "視線入力",
-    "インクルーシブ教育"
+    {
+      "label": "特別支援教育",
+      "text": "特別支援教育",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "アシスティブテクノロジー",
+      "text": "アシスティブテクノロジー",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "視線入力",
+      "text": "視線入力",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "インクルーシブ教育",
+      "text": "インクルーシブ教育",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

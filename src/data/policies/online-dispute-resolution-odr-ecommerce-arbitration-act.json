@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "ODR",
-    "オンライン紛争解決",
-    "司法DX",
-    "フリマトラブル",
-    "法務省"
+    {
+      "label": "ODR",
+      "text": "ODR",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "オンライン紛争解決",
+      "text": "オンライン紛争解決",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "司法DX",
+      "text": "司法DX",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "フリマトラブル",
+      "text": "フリマトラブル",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "法務省",
+      "text": "法務省",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "テレワーク",
-    "プライバシー保護",
-    "ボスウェア規制",
-    "パワハラ防止",
-    "労働環境"
+    {
+      "label": "テレワーク",
+      "text": "テレワーク",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "プライバシー保護",
+      "text": "プライバシー保護",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "ボスウェア規制",
+      "text": "ボスウェア規制",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "パワハラ防止",
+      "text": "パワハラ防止",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "労働環境",
+      "text": "労働環境",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

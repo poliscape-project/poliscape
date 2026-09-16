@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "無人運航船",
-    "海事DX",
-    "自動運転",
-    "MEGURI2040",
-    "物流2024年問題"
+    {
+      "label": "無人運航船",
+      "text": "無人運航船",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "海事DX",
+      "text": "海事DX",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "自動運転",
+      "text": "自動運転",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "MEGURI2040",
+      "text": "MEGURI2040",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "物流2024年問題",
+      "text": "物流2024年問題",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "バイオものづくり",
-    "合成生物学",
-    "バイオファウンドリ",
-    "カーボンニュートラル"
+    {
+      "label": "バイオものづくり",
+      "text": "バイオものづくり",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "合成生物学",
+      "text": "合成生物学",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "バイオファウンドリ",
+      "text": "バイオファウンドリ",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "カーボンニュートラル",
+      "text": "カーボンニュートラル",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

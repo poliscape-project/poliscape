@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "水道耐震化",
-    "ダクタイル鉄管",
-    "断水ゼロ",
-    "防災減災",
-    "国土交通省"
+    {
+      "label": "水道耐震化",
+      "text": "水道耐震化",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "ダクタイル鉄管",
+      "text": "ダクタイル鉄管",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "断水ゼロ",
+      "text": "断水ゼロ",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "防災減災",
+      "text": "防災減災",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "国土交通省",
+      "text": "国土交通省",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

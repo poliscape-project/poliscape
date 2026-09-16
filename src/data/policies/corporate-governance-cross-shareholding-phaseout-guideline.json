@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "コーポレートガバナンス",
-    "政策保有株式",
-    "持ち合い解消",
-    "資本効率",
-    "PBR改革"
+    {
+      "label": "コーポレートガバナンス",
+      "text": "コーポレートガバナンス",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "政策保有株式",
+      "text": "政策保有株式",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "持ち合い解消",
+      "text": "持ち合い解消",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "資本効率",
+      "text": "資本効率",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "PBR改革",
+      "text": "PBR改革",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

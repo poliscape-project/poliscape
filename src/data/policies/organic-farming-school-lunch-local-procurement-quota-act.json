@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "みどりの食料システム",
-    "有機農業",
-    "オーガニック給食",
-    "食育",
-    "地産地消"
+    {
+      "label": "みどりの食料システム",
+      "text": "みどりの食料システム",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "有機農業",
+      "text": "有機農業",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "オーガニック給食",
+      "text": "オーガニック給食",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "食育",
+      "text": "食育",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "地産地消",
+      "text": "地産地消",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

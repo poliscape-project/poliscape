@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "裁判DX",
-    "AI文字起こし",
-    "司法改革",
-    "最高裁判所",
-    "民事訴訟IT化"
+    {
+      "label": "裁判DX",
+      "text": "裁判DX",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "AI文字起こし",
+      "text": "AI文字起こし",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "司法改革",
+      "text": "司法改革",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "最高裁判所",
+      "text": "最高裁判所",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "民事訴訟IT化",
+      "text": "民事訴訟IT化",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "離島振興",
-    "有人国境離島法",
-    "運賃格差是正",
-    "地方創生",
-    "生活物資補助"
+    {
+      "label": "離島振興",
+      "text": "離島振興",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "有人国境離島法",
+      "text": "有人国境離島法",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "運賃格差是正",
+      "text": "運賃格差是正",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "地方創生",
+      "text": "地方創生",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "生活物資補助",
+      "text": "生活物資補助",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

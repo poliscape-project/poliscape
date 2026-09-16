@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "交通安全",
-    "踏み間違い防止",
-    "高齢ドライバー",
-    "サポカー",
-    "生活の足"
+    {
+      "label": "交通安全",
+      "text": "交通安全",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "踏み間違い防止",
+      "text": "踏み間違い防止",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "高齢ドライバー",
+      "text": "高齢ドライバー",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "サポカー",
+      "text": "サポカー",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "生活の足",
+      "text": "生活の足",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "子どもアドボカシー",
-    "社会的養護",
-    "子どもの権利",
-    "児童福祉法改正"
+    {
+      "label": "子どもアドボカシー",
+      "text": "子どもアドボカシー",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "社会的養護",
+      "text": "社会的養護",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "子どもの権利",
+      "text": "子どもの権利",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "児童福祉法改正",
+      "text": "児童福祉法改正",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

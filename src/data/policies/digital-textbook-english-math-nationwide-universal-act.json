@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "デジタル教科書",
-    "義務教育無償",
-    "英語教育",
-    "アクセシビリティ"
+    {
+      "label": "デジタル教科書",
+      "text": "デジタル教科書",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "義務教育無償",
+      "text": "義務教育無償",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "英語教育",
+      "text": "英語教育",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "アクセシビリティ",
+      "text": "アクセシビリティ",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "デジタル遺言",
-    "公証人法",
-    "公正証書",
-    "マイナンバーカード",
-    "終活DX"
+    {
+      "label": "デジタル遺言",
+      "text": "デジタル遺言",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "公証人法",
+      "text": "公証人法",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "公正証書",
+      "text": "公正証書",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "マイナンバーカード",
+      "text": "マイナンバーカード",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "終活DX",
+      "text": "終活DX",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

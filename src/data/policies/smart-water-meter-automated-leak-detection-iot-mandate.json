@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "スマート水道メーター",
-    "漏水検知",
-    "水道DX",
-    "高齢者見守り",
-    "国土交通省"
+    {
+      "label": "スマート水道メーター",
+      "text": "スマート水道メーター",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "漏水検知",
+      "text": "漏水検知",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "水道DX",
+      "text": "水道DX",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "高齢者見守り",
+      "text": "高齢者見守り",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "国土交通省",
+      "text": "国土交通省",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

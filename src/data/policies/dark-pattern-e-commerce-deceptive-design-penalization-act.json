@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "ダークパターン規制",
-    "特定商取引法",
-    "定期購入トラブル",
-    "消費者庁",
-    "サブスク解約"
+    {
+      "label": "ダークパターン規制",
+      "text": "ダークパターン規制",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "特定商取引法",
+      "text": "特定商取引法",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "定期購入トラブル",
+      "text": "定期購入トラブル",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "消費者庁",
+      "text": "消費者庁",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "サブスク解約",
+      "text": "サブスク解約",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

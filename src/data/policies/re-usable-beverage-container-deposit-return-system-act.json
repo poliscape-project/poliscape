@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "デポジット制度",
-    "ペットボトルリサイクル",
-    "プラスチック循環",
-    "環境省",
-    "ポイ捨て防止"
+    {
+      "label": "デポジット制度",
+      "text": "デポジット制度",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "ペットボトルリサイクル",
+      "text": "ペットボトルリサイクル",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "プラスチック循環",
+      "text": "プラスチック循環",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "環境省",
+      "text": "環境省",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "ポイ捨て防止",
+      "text": "ポイ捨て防止",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

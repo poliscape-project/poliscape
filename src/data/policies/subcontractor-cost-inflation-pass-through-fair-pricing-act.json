@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "価格転嫁",
-    "下請法",
-    "買いたたき根絶",
-    "公正取引委員会",
-    "中小企業賃上げ"
+    {
+      "label": "価格転嫁",
+      "text": "価格転嫁",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "下請法",
+      "text": "下請法",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "買いたたき根絶",
+      "text": "買いたたき根絶",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "公正取引委員会",
+      "text": "公正取引委員会",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "中小企業賃上げ",
+      "text": "中小企業賃上げ",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

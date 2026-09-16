@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "公益通報者保護",
-    "内部告発",
-    "コンプライアンス",
-    "企業統治",
-    "消費者庁"
+    {
+      "label": "公益通報者保護",
+      "text": "公益通報者保護",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "内部告発",
+      "text": "内部告発",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "コンプライアンス",
+      "text": "コンプライアンス",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "企業統治",
+      "text": "企業統治",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "消費者庁",
+      "text": "消費者庁",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

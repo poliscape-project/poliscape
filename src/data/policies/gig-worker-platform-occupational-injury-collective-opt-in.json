@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "ギグワーカー",
-    "労災保険",
-    "特別加入",
-    "フードデリバリー",
-    "セーフティネット"
+    {
+      "label": "ギグワーカー",
+      "text": "ギグワーカー",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "労災保険",
+      "text": "労災保険",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "特別加入",
+      "text": "特別加入",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "フードデリバリー",
+      "text": "フードデリバリー",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "セーフティネット",
+      "text": "セーフティネット",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

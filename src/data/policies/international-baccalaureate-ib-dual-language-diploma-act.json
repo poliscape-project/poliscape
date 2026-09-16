@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "国際バカロレア",
-    "IB教育",
-    "グローバル人材",
-    "公立高校改革"
+    {
+      "label": "国際バカロレア",
+      "text": "国際バカロレア",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "IB教育",
+      "text": "IB教育",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "グローバル人材",
+      "text": "グローバル人材",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "公立高校改革",
+      "text": "公立高校改革",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

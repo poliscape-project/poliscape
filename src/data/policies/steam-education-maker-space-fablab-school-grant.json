@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "STEAM教育",
-    "ファブラボ",
-    "3Dプリンタ",
-    "探究学習"
+    {
+      "label": "STEAM教育",
+      "text": "STEAM教育",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "ファブラボ",
+      "text": "ファブラボ",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "3Dプリンタ",
+      "text": "3Dプリンタ",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "探究学習",
+      "text": "探究学習",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

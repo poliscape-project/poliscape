@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "所有者不明土地",
-    "相続登記義務化",
-    "国庫帰属制度",
-    "不動産DX",
-    "地方創生"
+    {
+      "label": "所有者不明土地",
+      "text": "所有者不明土地",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "相続登記義務化",
+      "text": "相続登記義務化",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "国庫帰属制度",
+      "text": "国庫帰属制度",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "不動産DX",
+      "text": "不動産DX",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "地方創生",
+      "text": "地方創生",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

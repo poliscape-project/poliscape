@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "ストーカー規制法",
-    "AirTag悪用防止",
-    "位置情報追跡",
-    "生活安全",
-    "警察庁"
+    {
+      "label": "ストーカー規制法",
+      "text": "ストーカー規制法",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "AirTag悪用防止",
+      "text": "AirTag悪用防止",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "位置情報追跡",
+      "text": "位置情報追跡",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "生活安全",
+      "text": "生活安全",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "警察庁",
+      "text": "警察庁",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

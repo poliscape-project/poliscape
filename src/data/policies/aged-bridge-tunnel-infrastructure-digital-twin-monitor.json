@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "インフラDX",
-    "デジタルツイン",
-    "橋梁点検",
-    "老朽化対策",
-    "国土交通省"
+    {
+      "label": "インフラDX",
+      "text": "インフラDX",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "デジタルツイン",
+      "text": "デジタルツイン",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "橋梁点検",
+      "text": "橋梁点検",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "老朽化対策",
+      "text": "老朽化対策",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "国土交通省",
+      "text": "国土交通省",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

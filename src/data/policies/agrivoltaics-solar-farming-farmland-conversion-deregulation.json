@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "ソーラーシェアリング",
-    "営農型太陽光",
-    "みどりの食料システム",
-    "規制緩和",
-    "農地再生"
+    {
+      "label": "ソーラーシェアリング",
+      "text": "ソーラーシェアリング",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "営農型太陽光",
+      "text": "営農型太陽光",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "みどりの食料システム",
+      "text": "みどりの食料システム",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "規制緩和",
+      "text": "規制緩和",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "農地再生",
+      "text": "農地再生",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

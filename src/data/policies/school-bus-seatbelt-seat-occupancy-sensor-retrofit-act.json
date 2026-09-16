@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "子どもの安全",
-    "送迎バス",
-    "置き去り防止",
-    "交通安全"
+    {
+      "label": "子どもの安全",
+      "text": "子どもの安全",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "送迎バス",
+      "text": "送迎バス",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "置き去り防止",
+      "text": "置き去り防止",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "交通安全",
+      "text": "交通安全",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

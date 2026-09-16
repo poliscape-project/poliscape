@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "労働法制",
-    "解雇無効",
-    "金銭解決制度",
-    "労働政策審議会",
-    "雇用流動化"
+    {
+      "label": "労働法制",
+      "text": "労働法制",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "解雇無効",
+      "text": "解雇無効",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "金銭解決制度",
+      "text": "金銭解決制度",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "労働政策審議会",
+      "text": "労働政策審議会",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "雇用流動化",
+      "text": "雇用流動化",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

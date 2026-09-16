@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "クラスアクション",
-    "消費者保護",
-    "集団訴訟",
-    "慰謝料請求",
-    "消費者庁"
+    {
+      "label": "クラスアクション",
+      "text": "クラスアクション",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "消費者保護",
+      "text": "消費者保護",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "集団訴訟",
+      "text": "集団訴訟",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "慰謝料請求",
+      "text": "慰謝料請求",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "消費者庁",
+      "text": "消費者庁",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

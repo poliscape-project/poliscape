@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "EV充電器",
-    "急速充電150kW",
-    "高速道路SAPA",
-    "脱炭素",
-    "モビリティDX"
+    {
+      "label": "EV充電器",
+      "text": "EV充電器",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "急速充電150kW",
+      "text": "急速充電150kW",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "高速道路SAPA",
+      "text": "高速道路SAPA",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "脱炭素",
+      "text": "脱炭素",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "モビリティDX",
+      "text": "モビリティDX",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

@@ -113,11 +113,36 @@
     }
   ],
   "badges": [
-    "地方銀行",
-    "独禁法特例法",
-    "地銀再編",
-    "システム共同化",
-    "地域金融"
+    {
+      "label": "地方銀行",
+      "text": "地方銀行",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "独禁法特例法",
+      "text": "独禁法特例法",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "地銀再編",
+      "text": "地銀再編",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "システム共同化",
+      "text": "システム共同化",
+      "variant": "blue",
+      "color": "blue"
+    },
+    {
+      "label": "地域金融",
+      "text": "地域金融",
+      "variant": "positive",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -206,5 +231,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

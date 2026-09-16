@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "クリエイター支援",
-    "フリーランス新法",
-    "著作権契約",
-    "アニメ産業"
+    {
+      "label": "クリエイター支援",
+      "text": "クリエイター支援",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "フリーランス新法",
+      "text": "フリーランス新法",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "著作権契約",
+      "text": "著作権契約",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "アニメ産業",
+      "text": "アニメ産業",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }

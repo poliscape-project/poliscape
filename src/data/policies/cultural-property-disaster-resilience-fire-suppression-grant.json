@@ -113,10 +113,30 @@
     }
   ],
   "badges": [
-    "文化財保護",
-    "防災DX",
-    "耐震補強",
-    "消防ドローン"
+    {
+      "label": "文化財保護",
+      "text": "文化財保護",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "防災DX",
+      "text": "防災DX",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "耐震補強",
+      "text": "耐震補強",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "消防ドローン",
+      "text": "消防ドローン",
+      "variant": "blue",
+      "color": "blue"
+    }
   ],
   "highlights": [
     {
@@ -205,5 +225,6 @@
         }
       }
     ]
-  }
+  },
+  "statusLabel": "実施・運用中"
 }
