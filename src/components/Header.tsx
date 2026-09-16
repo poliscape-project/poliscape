@@ -42,37 +42,39 @@ export const Header: React.FC<HeaderProps> = ({
         </Link>
 
         {/* コントロール：根拠法ナビ & やさしい日本語トグル */}
-        <div className="flex items-center gap-2 self-end sm:self-auto flex-wrap">
-          <Link
-            href="/laws"
-            className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold bg-indigo-50 text-indigo-800 hover:bg-indigo-100 border border-indigo-200/70 transition-all shadow-2xs cursor-pointer"
-            title="主要53法律の解説と関連政策一覧"
-          >
-            <Landmark className="w-3.5 h-3.5 text-indigo-600" />
-            <span>根拠法アーカイブ</span>
-          </Link>
-
-          <button
-            type="button"
-            onClick={onToggleSimpleMode}
-            className={`inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full text-xs font-medium transition-all shadow-sm ${
-              isSimpleMode
-                ? "bg-amber-500 text-white ring-2 ring-amber-300 shadow-amber-100"
-                : "bg-slate-100 text-slate-700 hover:bg-slate-200"
-            }`}
-            aria-pressed={isSimpleMode}
-          >
-            <Sparkles className={`w-3.5 h-3.5 ${isSimpleMode ? "animate-pulse" : "text-slate-500"}`} />
-            <span>やさしい日本語モード</span>
-            <span
-              className={`text-[10px] px-1.5 py-0.2 rounded-full font-bold uppercase ${
-                isSimpleMode ? "bg-white text-amber-700" : "bg-slate-200 text-slate-600"
-              }`}
+        <nav aria-label="メインナビゲーション">
+          <div className="flex items-center gap-2 self-end sm:self-auto flex-wrap">
+            <Link
+              href="/laws"
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold bg-indigo-50 text-indigo-800 hover:bg-indigo-100 border border-indigo-200/70 transition-all shadow-2xs cursor-pointer"
+              title="主要53法律の解説と関連政策一覧"
             >
-              {isSimpleMode ? "ON" : "OFF"}
-            </span>
-          </button>
-        </div>
+              <Landmark className="w-3.5 h-3.5 text-indigo-600" />
+              <span>根拠法アーカイブ</span>
+            </Link>
+
+            <button
+              type="button"
+              onClick={onToggleSimpleMode}
+              className={`inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full text-xs font-medium transition-all shadow-sm ${
+                isSimpleMode
+                  ? "bg-amber-500 text-white ring-2 ring-amber-300 shadow-amber-100"
+                  : "bg-slate-100 text-slate-700 hover:bg-slate-200"
+              }`}
+              aria-pressed={isSimpleMode}
+            >
+              <Sparkles className={`w-3.5 h-3.5 ${isSimpleMode ? "animate-pulse" : "text-slate-500"}`} />
+              <span>やさしい日本語モード</span>
+              <span
+                className={`text-[10px] px-1.5 py-0.2 rounded-full font-bold uppercase ${
+                  isSimpleMode ? "bg-white text-amber-700" : "bg-slate-200 text-slate-600"
+                }`}
+              >
+                {isSimpleMode ? "ON" : "OFF"}
+              </span>
+            </button>
+          </div>
+        </nav>
       </div>
     </header>
   );

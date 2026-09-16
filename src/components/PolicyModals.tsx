@@ -1,14 +1,71 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect, useRef, useCallback } from "react";
 import { ShieldCheck, Scale, AlertCircle, FileText, X } from "lucide-react";
 
 type ModalType = "about" | "neutrality" | "disclaimer" | "privacy" | null;
 
 export const PolicyModals: React.FC = () => {
   const [activeModal, setActiveModal] = useState<ModalType>(null);
+  const modalRef = useRef<HTMLDivElement>(null);
+  const closeButtonRef = useRef<HTMLButtonElement>(null);
+  const previousActiveElement = useRef<HTMLElement | null>(null);
 
-  const closeModal = () => setActiveModal(null);
+  const closeModal = useCallback(() => setActiveModal(null), []);
+
+  useEffect(() => {
+    if (!activeModal) return;
+
+    if (!previousActiveElement.current) {
+      previousActiveElement.current = document.activeElement as HTMLElement;
+    }
+
+    const originalOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+
+    closeButtonRef.current?.focus();
+
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === "Escape") {
+        e.preventDefault();
+        closeModal();
+        return;
+      }
+
+      if (e.key === "Tab") {
+        if (!modalRef.current) return;
+        const focusableElements = modalRef.current.querySelectorAll<HTMLElement>(
+          'button:not([disabled]), [href], input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])'
+        );
+        if (focusableElements.length === 0) return;
+
+        const firstElement = focusableElements[0];
+        const lastElement = focusableElements[focusableElements.length - 1];
+
+        if (!modalRef.current.contains(document.activeElement)) {
+          e.preventDefault();
+          firstElement.focus();
+        } else if (e.shiftKey && document.activeElement === firstElement) {
+          e.preventDefault();
+          lastElement.focus();
+        } else if (!e.shiftKey && document.activeElement === lastElement) {
+          e.preventDefault();
+          firstElement.focus();
+        }
+      }
+    };
+
+    document.addEventListener("keydown", handleKeyDown);
+
+    return () => {
+      document.removeEventListener("keydown", handleKeyDown);
+      document.body.style.overflow = originalOverflow;
+      if (previousActiveElement.current && typeof previousActiveElement.current.focus === "function") {
+        previousActiveElement.current.focus();
+        previousActiveElement.current = null;
+      }
+    };
+  }, [activeModal, closeModal]);
 
   return (
     <>
@@ -53,6 +110,7 @@ export const PolicyModals: React.FC = () => {
           onClick={closeModal}
         >
           <div
+            ref={modalRef}
             className="bg-white rounded-2xl max-w-xl w-full p-6 sm:p-7 shadow-2xl border border-slate-200 max-h-[85vh] overflow-y-auto"
             onClick={(e) => e.stopPropagation()}
           >
@@ -70,6 +128,7 @@ export const PolicyModals: React.FC = () => {
                 </h2>
               </div>
               <button
+                ref={closeButtonRef}
                 type="button"
                 onClick={closeModal}
                 className="p-1.5 rounded-lg text-slate-400 hover:text-slate-600 hover:bg-slate-100 transition-colors"

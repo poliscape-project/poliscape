@@ -13,6 +13,21 @@ export const PolicyTimeline: React.FC<PolicyTimelineProps> = ({
   timeline,
   isSimpleMode,
 }) => {
+  // 日付文字列から未来かどうかを判定
+  const isFutureDate = (dateStr: string): boolean => {
+    const now = new Date();
+    // "2026年10月" "2025年4月1日" "2024年度" etc.
+    const yearMatch = dateStr.match(/(\d{4})/);
+    if (!yearMatch) return false;
+    const year = parseInt(yearMatch[1], 10);
+    const monthMatch = dateStr.match(/(\d{1,2})月/);
+    const month = monthMatch ? parseInt(monthMatch[1], 10) : 12;
+    const dayMatch = dateStr.match(/(\d{1,2})日/);
+    const day = dayMatch ? parseInt(dayMatch[1], 10) : 1;
+    const stepDate = new Date(year, month - 1, day);
+    return stepDate > now;
+  };
+
   return (
     <section className="bg-white rounded-2xl border border-slate-200/80 shadow-sm p-5 sm:p-7">
       <div className="mb-6">
@@ -24,28 +39,41 @@ export const PolicyTimeline: React.FC<PolicyTimelineProps> = ({
         </p>
       </div>
 
-      <div className="relative border-l-2 border-teal-200 ml-4 pl-6 space-y-6">
-        {timeline.map((step, idx) => (
-          <div key={idx} className="relative group">
-            {/* ステップアイコン（タイムライン上の丸印） */}
-            <div className="absolute -left-[35px] top-0 w-6 h-6 rounded-full bg-teal-600 text-white flex items-center justify-center text-xs shadow-xs">
-              <Check className="w-3.5 h-3.5 stroke-[3]" />
-            </div>
+      <ol className="relative border-l-2 border-teal-200 ml-4 pl-6 space-y-6 list-none">
+        {timeline.map((step, idx) => {
+          const isFuture = isFutureDate(step.date);
+          return (
+            <li key={idx} className="relative group">
+              {/* ステップアイコン（タイムライン上の丸印） */}
+              <div className={`absolute -left-[35px] top-0 w-6 h-6 rounded-full text-white flex items-center justify-center text-xs shadow-xs ${
+                isFuture ? "bg-amber-500" : "bg-teal-600"
+              }`}>
+                {isFuture ? (
+                  <Clock className="w-3.5 h-3.5 stroke-[3]" />
+                ) : (
+                  <Check className="w-3.5 h-3.5 stroke-[3]" />
+                )}
+              </div>
 
-            <div>
-              <span className="text-xs font-semibold text-teal-700 bg-teal-50 px-2 py-0.5 rounded border border-teal-200/60 inline-block mb-1">
-                {step.date}
-              </span>
-              <h4 className="font-bold text-slate-900 text-sm sm:text-base">
-                {step.label}
-              </h4>
-              <p className="text-xs sm:text-sm text-slate-600 mt-1 leading-relaxed">
-                {step.description}
-              </p>
-            </div>
-          </div>
-        ))}
-      </div>
+              <div>
+                <span className={`text-xs font-semibold px-2 py-0.5 rounded border inline-block mb-1 ${
+                  isFuture
+                    ? "text-amber-700 bg-amber-50 border-amber-200/60"
+                    : "text-teal-700 bg-teal-50 border-teal-200/60"
+                }`}>
+                  {step.date}{isFuture ? "（予定）" : ""}
+                </span>
+                <h4 className="font-bold text-slate-900 text-sm sm:text-base">
+                  {step.label}
+                </h4>
+                <p className="text-xs sm:text-sm text-slate-600 mt-1 leading-relaxed">
+                  {step.description}
+                </p>
+              </div>
+            </li>
+          );
+        })}
+      </ol>
     </section>
   );
 };

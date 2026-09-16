@@ -3,12 +3,12 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
 const geistSans = Geist({
-  variable: "--font-font-sans",
+  variable: "--font-geist-sans",
   subsets: ["latin"],
 });
 
 const geistMono = Geist_Mono({
-  variable: "--font-font-mono",
+  variable: "--font-geist-mono",
   subsets: ["latin"],
 });
 
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     default: "PoliScape ポリスケープ | 公的データと客観的事実で知る、日本の政策カタログ",
     template: "%s | PoliScape ポリスケープ",
   },
-  description: "公的データと客観的事実で知る、日本の政策カタログ。500件以上の政策を両論併記・一次情報ソース付きでわかりやすく解説するシビックテックツール。",
+  description: "公的データと客観的事実で知る、日本の政策カタログ。1500件以上の政策を両論併記・一次情報ソース付きでわかりやすく解説するシビックテックツール。",
   keywords: ["政策", "政治", "シビックテック", "給付金", "減税", "一次情報", "両論併記", "ポリスケープ", "PoliScape"],
   authors: [{ name: "PoliScape Project" }],
   creator: "PoliScape Project",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://poliscape.vercel.app"),
   openGraph: {
     title: "PoliScape ポリスケープ | 公的データと客観的事実で知る、日本の政策カタログ",
-    description: "公的データと客観的事実で知る、日本の政策カタログ。500件以上の政策を両論併記・一次情報ソース付きでわかりやすく解説。",
+    description: "公的データと客観的事実で知る、日本の政策カタログ。1500件以上の政策を両論併記・一次情報ソース付きでわかりやすく解説。",
     siteName: "PoliScape ポリスケープ",
     locale: "ja_JP",
     type: "website",
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "PoliScape ポリスケープ | 公的データと客観的事実で知る、日本の政策カタログ",
-    description: "公的データと客観的事実で知る、日本の政策カタログ。500件以上の政策を両論併記・一次情報ソース付きでわかりやすく解説。",
+    description: "公的データと客観的事実で知る、日本の政策カタログ。1500件以上の政策を両論併記・一次情報ソース付きでわかりやすく解説。",
     images: ["/og-image.png"],
   },
 };

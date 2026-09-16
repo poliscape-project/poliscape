@@ -264,6 +264,7 @@ export const PolicyDetailView: React.FC<{ policy: PolicyTopic }> = ({ policy }) 
               <button
                 type="button"
                 onClick={() => setShowDeepDive((prev) => !prev)}
+                aria-expanded={showDeepDive}
                 className="inline-flex items-center gap-2 bg-slate-900 hover:bg-slate-800 text-white text-xs font-bold px-5 py-2.5 rounded-xl transition-all shadow-sm cursor-pointer"
               >
                 <FileText className="w-3.5 h-3.5" />

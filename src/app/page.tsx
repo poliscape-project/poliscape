@@ -370,6 +370,7 @@ export default function HomePage() {
                 setDisplayCount(24);
               }}
               placeholder="政策名、キーワード、対象者で検索（例: 年収の壁、マイナ、年金、減税、スマホ...）"
+              aria-label="政策を検索"
               className="w-full pl-11 pr-10 py-3 rounded-2xl bg-slate-50 border border-slate-200 text-sm placeholder:text-slate-400 focus:outline-none focus:bg-white focus:ring-2 focus:ring-teal-500 focus:border-transparent transition-all"
             />
             {searchQuery && (
@@ -633,7 +634,9 @@ export default function HomePage() {
                         {policy.title}
                       </h3>
                       <p className="text-xs text-slate-500 mt-1.5 leading-relaxed line-clamp-2">
-                        {policy.catchphrase}
+                        {isSimpleMode && policy.summary?.simple?.[0]
+                          ? policy.summary.simple[0]
+                          : policy.catchphrase}
                       </p>
 
                       {/* 特大数字ハイライトバッジ */}
@@ -711,7 +714,9 @@ export default function HomePage() {
                         {policy.title}
                       </h3>
                       <p className="text-xs text-slate-500 mt-0.5 truncate">
-                        {policy.catchphrase}
+                        {isSimpleMode && policy.summary?.simple?.[0]
+                          ? policy.summary.simple[0]
+                          : policy.catchphrase}
                       </p>
                     </div>
 

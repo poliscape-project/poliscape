@@ -150,15 +150,15 @@ export const PolicyChangesCard: React.FC<PolicyChangesCardProps> = ({
                   >
                     {isUnderDiscussion ? "現行ルール" : isTemporary ? "通常時" : "これまで"}
                   </span>
-                  <span
-                    className={
-                      isUnderDiscussion || isTemporary
-                        ? "text-slate-700 font-medium"
-                        : "text-slate-500 line-through decoration-slate-400"
-                    }
-                  >
-                    {item.before}
-                  </span>
+                  {isUnderDiscussion || isTemporary ? (
+                    <span className="text-slate-700 font-medium">
+                      {item.before}
+                    </span>
+                  ) : (
+                    <del className="text-slate-500 decoration-slate-400 no-underline line-through">
+                      {item.before}
+                    </del>
+                  )}
                 </div>
 
                 {/* 変化の矢印 */}
@@ -171,7 +171,7 @@ export const PolicyChangesCard: React.FC<PolicyChangesCardProps> = ({
                       : "text-teal-600"
                   }`}
                 >
-                  <ArrowRight className="w-3.5 h-3.5 rotate-90 md:rotate-0" />
+                  <ArrowRight className="w-3.5 h-3.5 rotate-90" />
                   <span className="text-[10px] font-bold uppercase tracking-wider">
                     {isUnderDiscussion ? "見直し案（議論中）" : isTemporary ? "特例措置" : "新制度"}
                   </span>
