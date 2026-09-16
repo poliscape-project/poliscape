@@ -1,0 +1,210 @@
+{
+  "id": "anti-stalking-gps-airtag-unauthorized-tracking-criminal",
+  "title": "ストーカー規制法改正（スマートタグ・位置情報共有アプリの悪用即時処罰）",
+  "category": "admin",
+  "subcategory": "治安・ストーカー対策",
+  "status": "施行中",
+  "date": "2024-05",
+  "lastUpdated": "2026-03",
+  "catchphrase": "見えない尾行を許さない。AirTagやアプリを用いた無断位置情報追跡を即時処罰",
+  "summary": {
+    "standard": [
+      "スマートタグ（AirTag等）の車や所持品への無断取り付けや、スマホの位置情報共有アプリを無断インストールして位置情報を監視する行為を厳格に取り締まる改正ストーカー規制法。",
+      "従来の「つきまとい等」の解釈を改定し、被害者の承諾なくGPS・タグ等で現在位置を取得する行為そのものを「直ちに犯罪（直罰化）」と規定。",
+      "警察による接近禁止命令の発出要件を大幅に緩和し、警告を経ずに即座に逮捕・家宅捜索できる緊急保護スキームを全国配備した。"
+    ],
+    "simple": [
+      "相手の車やカバンにこっそり小型タグ（AirTagなど）を隠したり、スマホに勝手にアプリを入れて居場所を見張るストーカー行為を、警察がすぐに逮捕できるように法律を厳しくしました。",
+      "警告を待たずにすぐに犯人を捕まえ、被害者を危険から守ります。"
+    ]
+  },
+  "background": {
+    "standard": "小型紛失防止タグ（AirTag等）がストーカーの悪質な「安価なGPS追跡装置」として悪用され、被害者の自宅や勤務先が特定されて凶悪犯罪に発展するケースが相次いだ。従来の法律の文言の隙間（実物のつきまといがないと処罰困難）を埋めるため、警察庁が電子的位置取得行為の完全違法化を断行した。",
+    "simple": "鍵などを探すための小さなタグを、相手のカバンや車の裏にこっそり貼り付けて、居場所をストーカーする事件が相次ぎました。昔の法律では「本人が後ろをつけてこないと逮捕できない」ことになっていたため、遠隔で見張る行為も一発で犯罪になるように直しました。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "無断位置情報取得の処罰要件",
+      "before": "実地での付きまとい行為や警告違反が必要で、タグ設置単独での即時逮捕が困難",
+      "after": "承諾のないタグ設置・アプリ追跡行為そのものを独立した犯罪として即座に摘発可能",
+      "highlight": "無断位置取得の即時直罰化",
+      "icon": "shield-check"
+    },
+    {
+      "id": "c2",
+      "topic": "禁止命令のスピード",
+      "before": "警察の聴聞手続き等で接近禁止命令が出るまで数日から数週間を要した",
+      "after": "重大な危険があると認める時は、聴聞なしで即日「緊急接近禁止命令」を発令可能",
+      "highlight": "即日緊急接近禁止命令の発令",
+      "icon": "clock"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "ストーカー規制強化のメリット",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "重大な凶悪事件（殺人・傷害）の未然抑止",
+        "summary": "居場所を突き止められた後の直接襲撃を、位置取得の段階で先手を打って遮断。",
+        "detail": "タグが見つかったその日に警察が捜索差押えに踏み込み、犯人のスマートフォンを押収して接近を物理的に封じ込める。",
+        "simpleDetail": "居場所がバレて襲われる前に、タグを仕掛けた犯人を警察がすぐに見つけ出して捕まえます。",
+        "tag": "生命防衛"
+      },
+      {
+        "id": "b2",
+        "title": "被害者の深刻な精神的恐怖とプライバシー侵害の解消",
+        "summary": "「どこにいても見張られている」という24時間のパニック状態からの解放。",
+        "detail": "警察による車両・手荷物のスキャン検査（隠しタグ発見装置の無償配備）により、安全を確認して日常生活を取り戻せる。",
+        "simpleDetail": "「どこにいても追いかけてくる」という怖い思いをなくし、安心して街を歩けるようになります。",
+        "tag": "安心感回復"
+      }
+    ],
+    "challengesTitle": "運用上の課題と懸念",
+    "challenges": [
+      {
+        "id": "ch1",
+        "title": "夫婦間・家族間トラブルにおける適用判定の難しさ",
+        "summary": "配偶者の浮気調査や子どもの見守りGPSとの境界線。",
+        "detail": "正当な監護権の行使と、離婚調停中の違法な配偶者監視を客観的に見分ける警察官の捜査判断基準の標準化が必要。",
+        "simpleDetail": "親が子どもの安全のために持たせているGPSと、ストーカーの悪質な監視をどう区別するかが重要です。",
+        "tag": "家族間線引き"
+      },
+      {
+        "id": "ch2",
+        "title": "海外製・ノーブランド格安タグの技術的検知の難しさ",
+        "summary": "iPhoneの警告が出ない中国製等の非Apple規格タグの悪用。",
+        "detail": "警察署に全周波数帯（BLE・UWB）の電波を走査して隠しタグを物理的に探知する専用スキャナーの配備が急務。",
+        "simpleDetail": "スマホに「近くにタグがあります」と警告が出ない特殊な外国製タグをどうやって見つけるかが課題です。",
+        "tag": "非正規タグ対策"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2021-08",
+      "label": "法改正第1弾",
+      "title": "ストーカー規制法改正（GPS機器の無断取り付け禁止）施行",
+      "status": "done",
+      "description": "GPS機器の車への取り付け等を禁止対象に追加。"
+    },
+    {
+      "date": "2024-05",
+      "label": "法改正第2弾",
+      "title": "スマートタグ及び位置情報アプリの即時直罰化完全施行",
+      "status": "current",
+      "description": "警告なし即時逮捕基準と緊急禁止命令の全国運用を開始。"
+    },
+    {
+      "date": "2025-06",
+      "label": "機器配備",
+      "title": "全国警察署への隠しタグ探知スキャナー完全配備",
+      "status": "scheduled",
+      "description": "被害者の車やカバンから未知のタグを数分で発見する機器を配備予定。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "ストーカー規制法の改正概要及び位置情報機器等を用いたつきまとい行為への対処指針",
+      "organization": "警察庁・生活安全局",
+      "url": "https://www.npa.go.jp",
+      "date": "2024-04",
+      "type": "official"
+    }
+  ],
+  "badges": [
+    "ストーカー規制法",
+    "AirTag悪用防止",
+    "位置情報追跡",
+    "生活安全",
+    "警察庁"
+  ],
+  "highlights": [
+    {
+      "label": "処罰のスピード",
+      "value": "直罰化（即時逮捕）",
+      "unit": "",
+      "oldValue": "警察の警告が前提",
+      "description": "承諾のないタグ設置・追跡行為は警告を経ずに即座に逮捕・起訴可能",
+      "badge": "即時逮捕可能",
+      "badgeColor": "red",
+      "icon": "shield-check"
+    },
+    {
+      "label": "緊急接近禁止命令",
+      "value": "即日発令",
+      "unit": "",
+      "oldValue": "数日〜数週間の手続き",
+      "description": "被害者の身に危険が迫っている場合は当日中に法的接近禁止を発令",
+      "badge": "即日保護",
+      "badgeColor": "green",
+      "icon": "clock"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "ストーカー被害に遭った20代女性",
+        "commentStandard": "車の底にAirTagが貼り付けられているのを見つけて警察に駆け込んだところ、その日のうちに元交際相手が特定されて逮捕され、本当に命が救われました。",
+        "commentSimple": "車に変なタグをつけられて怖くて警察に行ったら、その日のうちに犯人を捕まえてくれて本当に助かりました。"
+      },
+      {
+        "speaker": "警察署 生活安全課 ストーカー対策官",
+        "commentStandard": "以前は『警告』を出してからでないと動けず歯がゆい思いをしましたが、新法によりタグが見つかった時点で直ちに家宅捜索を打てるようになり、証拠隠滅を防げています。",
+        "commentSimple": "タグが見つかった瞬間にすぐ犯人の家を家宅捜索してスマホを押収できるようになったので、捜査がとても早くなりました。"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "離婚調停中の弁護士",
+        "commentStandard": "子どものランドセルに見守りGPSを入れている親に対し、別居中の配偶者が『ストーカー法違反だ』と警察に通報するような過剰反応トラブルが増えています。",
+        "commentSimple": "子どもの安全のためのGPSなのに、仲の悪い夫婦の間で「違法ストーカーだ」と通報合戦になるトラブルが増えています。"
+      }
+    ]
+  },
+  "international": {
+    "title": "主要国におけるスマートタグ・電子的位置追跡（Electronic Stalking）規制の比較",
+    "comparisonSummary": "アメリカ各州や欧州各国でもAirTag悪用に対する重罪化が急速に進み、Apple・Googleも業界統一の検知規格を策定。",
+    "countries": [
+      {
+        "country": "アメリカ（オハイオ州・テキサス州等）",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "無断追跡装置禁止法（Anti-Tracking Device Laws）",
+        "amount": "重罪（Felony）処罰",
+        "keyFeature": "本人の同意なく他人の車両や財産に追跡装置を取り付ける行為を一律で重罪（フェロニー）と規定し即時収監。",
+        "source": {
+          "organization": "National Conference of State Legislatures (NCSL)",
+          "title": "State Electronic Tracking Laws",
+          "url": "https://www.ncsl.org"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "家庭内虐待法（Domestic Abuse Act 2021）強要・威圧的行動（Coercive Control）",
+        "amount": "最長5年の拘禁刑",
+        "keyFeature": "配偶者の位置情報をスマートタグや監視アプリで追跡する行為を「精神的虐待・強要罪」として重罰化。",
+        "source": {
+          "organization": "UK Crown Prosecution Service (CPS)",
+          "title": "Stalking and Harassment Offences",
+          "url": "https://www.cps.gov.uk"
+        }
+      },
+      {
+        "country": "国際標準（民間協調）",
+        "countryCode": "UN",
+        "flag": "🌐",
+        "systemName": "IETF「不要な追跡アラート標準規格（DULT: Detecting Unwanted Location Trackers）」",
+        "amount": "Apple・Google公式共同策定",
+        "keyFeature": "OSを問わず（iOSでもAndroidでも）、他人のBluetoothタグが一緒に移動していることを自動検知してスマホに警報を表示。",
+        "source": {
+          "organization": "IETF",
+          "title": "Detecting Unwanted Location Trackers Specification",
+          "url": "https://datatracker.ietf.org"
+        }
+      }
+    ]
+  }
+}

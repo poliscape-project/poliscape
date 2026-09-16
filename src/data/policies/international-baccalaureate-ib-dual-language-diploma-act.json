@@ -1,0 +1,209 @@
+{
+  "id": "international-baccalaureate-ib-dual-language-diploma-act",
+  "title": "公立高校における国際バカロレア（日本語DP）認定校拡大支援",
+  "category": "education",
+  "subcategory": "学校運営",
+  "status": "施行中",
+  "date": "2024-05",
+  "lastUpdated": "2026-03",
+  "catchphrase": "世界基準の学びを公立高校で。日本語DP導入支援で国際進学の扉を開く",
+  "summary": {
+    "standard": [
+      "国際的に通用する大学入学資格を授与する「国際バカロレア（IB）ディプロマ・プログラム（DP）」を全国の公立高校へ普及させるための国庫支援制度。",
+      "一部の教科（数学、理科、社会、芸術等）を日本語で履修可能とした「日本語DP」を活用し、英語力のみに偏らない探究・論述型教育を公教育に定着させる。",
+      "認定校および認定候補校に対し、ネイティブ教員雇用費、教員のIB公式ワークショップ研修受講費、年間認定料を最大年1,500万円補助する。"
+    ],
+    "simple": [
+      "世界の有名大学に入りやすくなる「国際バカロレア」という教育プログラムを、普通の公立高校でも受けられるように国が支援します。",
+      "英語だけでなく日本語も使いながら、自分で調べて論文を書くハイレベルな授業を学べます。"
+    ]
+  },
+  "background": {
+    "standard": "従来IBプログラムは一部の私立インターナショナルスクール等に限られ、高額な学費（年200万〜300万円超）が保護者の大きな障壁となっていた。グローバル人材育成と探究学習の高度化のため、公立高校で安価にIB教育を受けられる拠点の全国展開が進められている。",
+    "simple": "世界基準の進学プログラムは高い学費がかかる私立や外国人学校にしかありませんでした。お金持ちだけでなく誰でも挑戦できるよう、公立高校での導入を増やしています。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "公立校への財政・教員補助",
+      "before": "公立校の認定申請は自治体単独予算に依存し、認定費用や教員確保が困難",
+      "after": "国が研修費・外国人教員人件費・年間登録料を最大年1,500万円手厚く補助",
+      "highlight": "年最大1500万円の公費支援",
+      "icon": "currency-yen"
+    },
+    {
+      "id": "c2",
+      "topic": "公立IB校の全国配置",
+      "before": "大都市圏の数校のみに偏在",
+      "after": "各都道府県に少なくとも1校以上の公立IB校設置を目標に重点伴走支援",
+      "highlight": "全都道府県1校以上設置目標",
+      "icon": "building-library"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "公立IB校拡大のメリット",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "海外トップ大学および国内総合型選抜への進学ルート拡大",
+        "summary": "海外大進学の資格要件を満たすと同時に、国内大のIB入試枠も活用可能。",
+        "detail": "TOEFL等の資格取得に加え、世界共通の統一試験スコアによりオックスフォードやハーバード、東大・京大等の特別選抜に直結する。",
+        "simpleDetail": "日本の大学だけでなく、海外の有名な大学にも進学しやすくなります。",
+        "tag": "進学機会拡大"
+      },
+      {
+        "id": "b2",
+        "title": "公教育全体の探究・アクティブラーニングへの波及効果",
+        "summary": "IBの指導法（TOK・課題論文など）が一般コースの教員や授業にも好影響を与える。",
+        "detail": "暗記中心からクリティカルシンキング（批判的思考）や論述指導へと、公立高校全体の指導ノウハウが底上げされる。",
+        "simpleDetail": "自分で問いを見つけて深く考える授業のやり方が学校全体に広がります。",
+        "tag": "教育手法革新"
+      }
+    ],
+    "challengesTitle": "普及に向けた課題",
+    "challenges": [
+      {
+        "id": "ch1",
+        "title": "教員の確保と異常に重いカリキュラム負担",
+        "summary": "IB指導資格を持つ教員の異動問題と、指導・添削に伴う教員の過重労働。",
+        "detail": "公立校の人事異動によりIB担当教員が他校へ転出するとコース運営が破綻するリスクがあり、特例的な長期配置や外部人材登用が必要。",
+        "simpleDetail": "教えられる先生が少なく、先生の異動で続けられなくなる心配があります。",
+        "tag": "指導教員不足"
+      },
+      {
+        "id": "ch2",
+        "title": "生徒の過重な学習負荷と脱落（ドロップアウト）リスク",
+        "summary": "日本語DPであっても高い英語力と長文論文執筆が課され、両立の負担が極めて重い。",
+        "detail": "国内の高校卒業要件（学習指導要領）とIB要件の双方をこなす必要があり、適切なカウンセリングと履修柔軟化が求められる。",
+        "simpleDetail": "勉強の量がとても多くて大変なため、途中でついていけなくなる生徒へのケアが必要です。",
+        "tag": "学習負荷"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2013-05",
+      "label": "合意",
+      "title": "文科省とIB機構による「日本語DP」開発合意",
+      "status": "done",
+      "description": "世界初のデュアルランゲージ（日本語DP）導入を決定。"
+    },
+    {
+      "date": "2020-04",
+      "label": "公立校展開",
+      "title": "公立高校でのIB認定校の段階的増加",
+      "status": "done",
+      "description": "全国の先進的公立高校でIBコースが開設。"
+    },
+    {
+      "date": "2024-05",
+      "label": "補助強化",
+      "title": "IB教育推進支援交付金の拡充",
+      "status": "current",
+      "description": "全都道府県への公立IB校設置に向けた重点補助を開始。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "国際バカロレアの普及促進に関する取組について",
+      "organization": "文部科学省",
+      "url": "https://www.mext.go.jp",
+      "date": "2024-02",
+      "type": "official"
+    }
+  ],
+  "badges": [
+    "国際バカロレア",
+    "IB教育",
+    "グローバル人材",
+    "公立高校改革"
+  ],
+  "highlights": [
+    {
+      "label": "補助金上限額",
+      "value": "1500",
+      "unit": "万円/年",
+      "oldValue": "500万円",
+      "description": "外国人講師雇用やワークショップ研修費用を大幅拡充",
+      "badge": "手厚い補助",
+      "badgeColor": "blue",
+      "icon": "currency-yen"
+    },
+    {
+      "label": "全国公立認定校目標",
+      "value": "50",
+      "unit": "校超",
+      "oldValue": "約20校",
+      "description": "全都道府県に最低1校以上の公立IB校ネットワークを確立",
+      "badge": "全国配置",
+      "badgeColor": "green",
+      "icon": "building-library"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "公立高校 IBコース在籍生徒",
+        "commentStandard": "私立の高い学費を払えない家庭環境でも、公立の学費で世界共通のディプロマに挑戦できて本当に感謝しています。",
+        "commentSimple": "学費が安い公立高校で世界基準の勉強ができて、将来の夢が広がりました。"
+      },
+      {
+        "speaker": "公立IB認定校 校長",
+        "commentStandard": "生徒が自分で課題を設定し、英語論文を書き上げる力が飛躍的に伸び、国内外の推薦入試で目覚ましい成果が出ています。",
+        "commentSimple": "生徒たちが自分で深く考えて論文を書く力がつき、進路の選択肢がとても広がりました。"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "IB担当教諭（数学・物理）",
+        "commentStandard": "世界基準の英語採点基準に合わせたレポート添削に膨大な時間がかかり、一般の教員業務との両立が極めて過酷です。",
+        "commentSimple": "英語でのレポート添削や特別な準備にとても時間がかかり、先生の仕事がかなり大変です。"
+      }
+    ]
+  },
+  "international": {
+    "title": "主要国における公立学校への国際バカロレア（IB）導入状況の比較",
+    "comparisonSummary": "アメリカやオーストラリアでは公立学校へのIB導入が早くから進み、学力底上げと多様性推進の手段として定着している。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "公立学区におけるマグネット・スクールIB導入",
+        "amount": "学区公費全額負担",
+        "keyFeature": "全米で約1,800校以上のIB校が存在し、その約9割が公立学校。インナーシティの学力向上プログラムとして活用。",
+        "source": {
+          "organization": "IB Americas",
+          "title": "IB World Schools Yearbook USA",
+          "url": "https://www.ibo.org"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "州立高校（State High School）IB DPコース",
+        "amount": "州政府助成",
+        "keyFeature": "公立校でATAR（大学入学ランキング）換算が可能なプログラムとして多数導入され、ギフテッド教育としても機能。",
+        "source": {
+          "organization": "Australian Government Department of Education",
+          "title": "International Baccalaureate in Australia",
+          "url": "https://www.education.gov.au"
+        }
+      },
+      {
+        "country": "カナダ",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "公立教育委員会（School Board）包括認定",
+        "amount": "州公教育費枠組み",
+        "keyFeature": "オンタリオ州やブリティッシュコロンビア州の公立高校で広く導入され、バイリンガル（英語・仏語）DPが普及。",
+        "source": {
+          "organization": "Canadian IB Advocates",
+          "title": "IB in Canadian Public Schools",
+          "url": "https://www.ciba-schools.org"
+        }
+      }
+    ]
+  }
+}

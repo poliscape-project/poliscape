@@ -1,0 +1,210 @@
+{
+  "id": "online-dispute-resolution-odr-ecommerce-arbitration-act",
+  "title": "小口電子商取引におけるオンライン紛争解決（ODR）基盤の公的整備法",
+  "category": "admin",
+  "subcategory": "司法DX・消費者保護",
+  "status": "施行中",
+  "date": "2024-05",
+  "lastUpdated": "2026-03",
+  "catchphrase": "スマホで裁判なしのスピード解決。小口取引トラブルをAIと調停で解決する公的ODR",
+  "summary": {
+    "standard": [
+      "フリマアプリ（メルカリ・ヤフオク等）や越境EC、ネットオークション等で急増する数千円〜数十万円の取引トラブルを、裁判所に行かずに完全オンラインで解決する「公的ODR（Online Dispute Resolution）プラットフォーム」の法制化。",
+      "AIチャットボットによる自動和解交渉（自動オファー提示・合意形成アルゴリズム）と、民間登録調停人（弁護士・専門家）によるオンライン調停・仲裁をシームレスに統合。",
+      "成立したODR合意に「執行力（債務名義）」を付与する特例を設け、不履行時には相手方の口座や売上金を即時差押えできる実効性を確保する。"
+    ],
+    "simple": [
+      "メルカリなどのフリマやネット通販で「偽物が届いた」「商品が壊れていたのにお金を返してくれない」というトラブルを、裁判をせずにスマホの画面だけで解決できる国の仕組み（ODR）を作りました。",
+      "AIや専門の調停員が仲直りの条件を提案してくれ、約束を守らない相手からはお金を強制的に回収できます。"
+    ]
+  },
+  "background": {
+    "standard": "CtoC取引や越境ECの爆発的普及に伴い、小口の売買トラブルが急増。しかし数万円以下の被害では弁護士費用や裁判所への出頭が割に合わず、消費者の9割以上が諦めていた。国連UNCITRALのODR技術指針に基づき、法務省とデジタル庁が日本版公的ODR基盤を制度化した。",
+    "simple": "フリマアプリで騙されても、1万円や2万円のために弁護士を頼んだり裁判所に行くのは損なので、みんな泣き寝入りしていました。スマホのチャットだけで、誰でも安く簡単にお金を取り戻せるインターネット裁判所のような窓口を作りました。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "小口紛争解決の手段",
+      "before": "プラットフォームの事務局対応のみ（補償対象外だと当事者間任せで泣き寝入り）",
+      "after": "法務省認定の公的ODRシステムへ連携し、中立な調停人・AIが即座に介入",
+      "highlight": "公的ODRプラットフォームの創設",
+      "icon": "laptop"
+    },
+    {
+      "id": "c2",
+      "topic": "合意の法的強制力",
+      "before": "当事者間の口約束やチャット上の合意に過ぎず、相手が踏み倒せば終わり",
+      "after": "認証ODR手続きで成立した和解に裁判判決と同等の「執行力」を特例付与",
+      "highlight": "ODR和解合意への執行力付与",
+      "icon": "shield-check"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "公的ODR基盤整備のメリット",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "フリマ・EC利用者の少額被害の完全救済",
+        "summary": "「数千円のトラブル」でも、数分で申立てが完了し数週間で合意解決。",
+        "detail": "スマホから証拠写真やチャット履歴をアップロードするだけで、AIが類似の判例・解決基準を提示し、納得感のある返金和解へ導く。",
+        "simpleDetail": "スマホで写真とメッセージを送るだけで、AIや先生が妥当な返金額を決めて解決してくれます。",
+        "tag": "少額被害救済"
+      },
+      {
+        "id": "b2",
+        "title": "司法アクセスの民主化と裁判所の負担軽減",
+        "summary": "裁判所に1度も行くことなく、いつでもどこからでも法的解決にアクセス可能。",
+        "detail": "小口事件がODRで迅速処理されることで、地方裁判所や簡易裁判所が重大事件の審理に専念できる環境が整う。",
+        "simpleDetail": "平日昼間にわざわざ裁判所に行かなくても、夜や休日にスマホから法的に正しい解決ができます。",
+        "tag": "司法アクセス改革"
+      }
+    ],
+    "challengesTitle": "運用上の課題と懸念",
+    "challenges": [
+      {
+        "id": "ch1",
+        "title": "相手方がODRプラットフォームへの参加を拒否・無視する問題",
+        "summary": "悪質な出品者や詐欺的事業者がチャットにログインせず放置するケース。",
+        "detail": "大手プラットフォームの利用規約に「ODR利用義務（不参加時はアカウント永久BAN・売上金保留）」を組み込む官民連携が必須。",
+        "simpleDetail": "悪い出品者が話し合いを無視して逃げ出さないよう、アプリ側と連携して売上金を止めるなどの仕組みが必要です。",
+        "tag": "参加実効性"
+      },
+      {
+        "id": "ch2",
+        "title": "AI調停アルゴリズムの透明性とバイアスの排除",
+        "summary": "AIが提示する和解金額の根拠に対する不信感。",
+        "detail": "過去の司法判例や消費生活相談データを客観的に学習させ、アルゴリズムの判断理由（説明可能性）を当事者に開示する設計が求められる。",
+        "simpleDetail": "AIが「この金額で手を打ちましょう」と言ってきたときに、なぜその金額なのか納得できる説明が必要です。",
+        "tag": "AI透明性"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020-03",
+      "label": "構想",
+      "title": "政府ODR活性化検討会「ODR推進基本方針」策定",
+      "status": "done",
+      "description": "日本版ODRプラットフォームのロードマップを発表。"
+    },
+    {
+      "date": "2023-06",
+      "label": "実証事業",
+      "title": "法務省「ODR実証プラットフォーム」パイロット稼働",
+      "status": "done",
+      "description": "フリマアプリ事業者と連携した小口調停実証を開始。"
+    },
+    {
+      "date": "2024-05",
+      "label": "本格制度化",
+      "title": "改正ADR法に基づく執行力付き公的ODRの全面運用開始",
+      "status": "current",
+      "description": "全国のECプラットフォームと連携したオンライン即時解決網が稼働。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "ODR（オンライン紛争解決）の推進に関する基本方針及び運用要領",
+      "organization": "法務省・デジタル庁・消費者庁",
+      "url": "https://www.moj.go.jp",
+      "date": "2024-04",
+      "type": "official"
+    }
+  ],
+  "badges": [
+    "ODR",
+    "オンライン紛争解決",
+    "司法DX",
+    "フリマトラブル",
+    "法務省"
+  ],
+  "highlights": [
+    {
+      "label": "平均解決所要期間",
+      "value": "約2",
+      "unit": "週間以内",
+      "oldValue": "裁判で数ヶ月〜半年",
+      "description": "AIアシストとオンラインチャット調停により圧倒的スピード決着",
+      "badge": "スピード解決",
+      "badgeColor": "green",
+      "icon": "clock"
+    },
+    {
+      "label": "申立手続き",
+      "value": "スマホ完結",
+      "unit": "（来庁不要）",
+      "oldValue": "平日に裁判所へ出頭",
+      "description": "24時間365日いつでもスマホから証拠提出と調停参加が可能",
+      "badge": "完全オンライン",
+      "badgeColor": "blue",
+      "icon": "laptop"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "フリマアプリで偽物スニーカーを掴まされた20代学生",
+        "commentStandard": "出品者から『ノークレームノーリターン』と突っぱねられて諦めていましたが、公的ODRに申請したら調停員が間に入り、10日後に無事全額返金されました。",
+        "commentSimple": "相手から無視されて泣き寝入りしそうでしたが、スマホのODRを使ったら先生が間に入ってくれて全額取り戻せました。"
+      },
+      {
+        "speaker": "ODR認定調停人（弁護士）",
+        "commentStandard": "AIが事前に双方の言い分と証拠画像を整理して論点シートを作ってくれるため、調停人は短時間のチャット指導で公平な合意に導けます。",
+        "commentSimple": "AIがあらかじめ要点をまとめてくれるので、短時間のチャットのやり取りだけでスムーズに仲直りさせられます。"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "大手ECモール 出品事業者（個人事業主）",
+        "commentStandard": "悪質なクレーマーが理不尽な要求でODRを乱用してくるケースがあり、不当な要求をAIが初期段階で却下するフィルターを強化してほしいです。",
+        "commentSimple": "言いがかりをつけてくる悪質なクレーマーの申し立てを、AIが最初にちゃんと断ってくれる仕組みが必要です。"
+      }
+    ]
+  },
+  "international": {
+    "title": "主要国におけるオンライン紛争解決（ODR: Online Dispute Resolution）制度の比較",
+    "comparisonSummary": "EUはEU ODRプラットフォームを全ECサイトに義務化。カナダ・ブリティッシュコロンビア州はCRT（民事解決審判所）で裁判を完全オンライン化。",
+    "countries": [
+      {
+        "country": "カナダ（BC州）",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "systemName": "民事解決審判所（Civil Resolution Tribunal - CRT）",
+        "amount": "5,000ドル以下の小口請求完全オンライン裁判所",
+        "keyFeature": "世界初のオンライン裁判所。Solution Explorerによる自動診断からチャット調停、審判まで24時間完全スマホ完結。判決は裁判所と同等の執行力。",
+        "source": {
+          "organization": "Civil Resolution Tribunal BC",
+          "title": "Canada's First Online Tribunal",
+          "url": "https://civilresolutionbc.ca"
+        }
+      },
+      {
+        "country": "EU全域",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EUオンライン紛争解決プラットフォーム（European ODR Platform）",
+        "amount": "全EC事業者にリンク設置義務",
+        "keyFeature": "EU全27カ国の公認ADR機関を単一ポータルで統合。多言語自動翻訳により異なる国同士の越境ECトラブルを即座に調停。",
+        "source": {
+          "organization": "European Commission",
+          "title": "Online Dispute Resolution",
+          "url": "https://ec.europa.eu/consumers/odr"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "インターネット裁判所（杭州・北京・広州互聯網法院）",
+        "amount": "ブロックチェーン証拠保存＋AI裁判官",
+        "keyFeature": "ECや著作権トラブルに特化した専門インターネット裁判所。証拠をチェーンに刻み、AIが判決文草案を自動生成して数日で結審。",
+        "source": {
+          "organization": "杭州互聯網法院",
+          "title": "Hangzhou Internet Court",
+          "url": "https://www.netcourt.gov.cn"
+        }
+      }
+    ]
+  }
+}

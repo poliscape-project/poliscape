@@ -1,0 +1,209 @@
+{
+  "id": "steam-education-maker-space-fablab-school-grant",
+  "title": "小中高におけるSTEAM教育推進ファブラボ・3Dプリンタ教室整備助成",
+  "category": "education",
+  "subcategory": "教育ICT",
+  "status": "施行中",
+  "date": "2024-06",
+  "lastUpdated": "2026-03",
+  "catchphrase": "つくることで学ぶ。学校のものづくり拠点化でSTEAM人材を育成",
+  "summary": {
+    "standard": [
+      "科学・技術・工学・芸術・数学を横断するSTEAM教育を実践するため、全国の小中高校の技術室や空き教室を「メイカースペース（学校版ファブラボ）」へ改修する助成制度。",
+      "3Dプリンタ、レーザー加工機、小型CNC、マイコンボード（micro:bitやArduino等）の導入費用を国と自治体が最大1,000万円まで助成。",
+      "地域の発明クラブや民間メイカースペースと連携し、探究学習やPBL（課題解決型学習）において生徒がアイデアを即座にプロトタイプ化できる環境を構築する。"
+    ],
+    "simple": [
+      "学校の技術室などに、3Dプリンターやレーザーカッターを置いて、誰でも自由にアイデアを形にできる部屋（メイカースペース）を作ります。",
+      "ロボットを作ったりプログラミングを学んだりして、ものづくりの楽しさと科学を学びます。"
+    ]
+  },
+  "background": {
+    "standard": "デジタル技術の発展に伴い、教科書の知識暗記だけでなく、自ら課題を発見し試作品を作って解決する「創造的学び」が重視されている。しかし従来の学校技術室はノコギリやカンナなど伝統木工設備にとどまり、先端デジタルものづくり環境の整備が急務とされていた。",
+    "simple": "これまでの技術室にはノコギリや金づちしかありませんでした。今の時代に合わせて、3Dプリンターやパソコンを使って新しいものを作れるように学校を新しくします。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "学校ものづくり設備",
+      "before": "伝統的な木工・金工設備のみで、デジタル工作機械はほぼ皆無",
+      "after": "3Dプリンタやレーザー加工機、マイコンを完備したメイカースペースを整備",
+      "highlight": "デジタル工作機械の標準配備",
+      "icon": "cpu"
+    },
+    {
+      "id": "c2",
+      "topic": "学習アプローチ",
+      "before": "決まった本棚や文房具入れを全員が同じ手順で作る実習",
+      "after": "地域の課題や身の回りの不便を解決するプロトタイプを自ら設計・造形",
+      "highlight": "課題解決型プロトタイピング",
+      "icon": "sparkles"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "メイカースペース整備のメリット",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "実践的創造力と工学的思考（エンジニアリング）の育成",
+        "summary": "失敗を恐れず試行錯誤（イテレーション）を高速で繰り返す能力が身につく。",
+        "detail": "3D CADでモデリングしその場でプリントして検証する体験を通じ、デジタルネイティブ世代のハードウェア開発力を飛躍的に高める。",
+        "simpleDetail": "自分で考えたデザインをその場ですぐ立体にして試すことができるようになります。",
+        "tag": "イノベーション教育"
+      },
+      {
+        "id": "b2",
+        "title": "探究学習の質の向上と不登校生徒の居場所づくり",
+        "summary": "座学が苦手な生徒も手を動かす創作活動を通じて自己肯定感を獲得。",
+        "detail": "ものづくりに没頭できるスペースが学校内に存在することで、特別な才能や関心を持つ生徒のオルタナティブな学習拠点としても機能する。",
+        "simpleDetail": "勉強が苦手でも、工作やロボット作りが得意な子が活躍できる場所ができます。",
+        "tag": "多様な居場所"
+      }
+    ],
+    "challengesTitle": "導入・運用上の課題",
+    "challenges": [
+      {
+        "id": "ch1",
+        "title": "指導できる教員の不足と安全管理の負担",
+        "summary": "3Dプリンタやレーザー加工機の操作や保守に精通した技術科教員が僅少。",
+        "detail": "火災防止や換気、刃物・レーザー光の安全基準維持のため、外部の「ファブラボマスター」や大学生TAの継続的派遣体制が必要不可欠。",
+        "simpleDetail": "機械の使い方を教えたり安全を見守る先生や専門スタッフが足りていません。",
+        "tag": "指導者育成"
+      },
+      {
+        "id": "ch2",
+        "title": "消耗品費（樹脂フィラメント・木材等）の継続財源",
+        "summary": "設備購入後の材料費や保守部品代が学校の公費予算を圧迫するリスク。",
+        "detail": "年間数十万円に上るフィラメントやアクリル板の費用をどう捻出するか、自治体の経常予算化が求められる。",
+        "simpleDetail": "3Dプリンターで使う材料代が毎年かかるため、予算をどう確保するかが課題です。",
+        "tag": "維持コスト"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023-05",
+      "label": "実証指定",
+      "title": "STEAM教育推進校のモデル指定",
+      "status": "done",
+      "description": "全国の高校・中学校約100校でメイカースペース先行実証を開始。"
+    },
+    {
+      "date": "2024-06",
+      "label": "助成制度化",
+      "title": "学校ファブラボ整備緊急交付金の創設",
+      "status": "done",
+      "description": "公立・私立高校および中学校への改修補助金申請受付を開始。"
+    },
+    {
+      "date": "2026-03",
+      "label": "成果共有",
+      "title": "全国STEAMメイカーコンテスト開催",
+      "status": "current",
+      "description": "生徒が制作したプロトタイプや探究成果の全国発表会を実施。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "STEAM教育の推進に向けた学校環境整備の手引き",
+      "organization": "文部科学省・経済産業省",
+      "url": "https://www.mext.go.jp",
+      "date": "2024-04",
+      "type": "official"
+    }
+  ],
+  "badges": [
+    "STEAM教育",
+    "ファブラボ",
+    "3Dプリンタ",
+    "探究学習"
+  ],
+  "highlights": [
+    {
+      "label": "学校あたり助成上限",
+      "value": "1000",
+      "unit": "万円",
+      "oldValue": "0（配備支援なし）",
+      "description": "機器導入費・排気設備・教室改修費用を最大1,000万円まで補助",
+      "badge": "最大規模助成",
+      "badgeColor": "blue",
+      "icon": "currency-yen"
+    },
+    {
+      "label": "整備目標校数",
+      "value": "1000",
+      "unit": "校",
+      "oldValue": "数十校程度",
+      "description": "2028年度までに全国1,000の中学・高校でメイカースペースを整備",
+      "badge": "全国展開",
+      "badgeColor": "green",
+      "icon": "building-library"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "公立高校 探究学習担当教諭",
+        "commentStandard": "生徒が地域の高齢者向けに開発した『ペットボトルのフタ開け具』を3Dプリンタで即日試作し、テストしてもらうサイクルが回せるようになりました。",
+        "commentSimple": "生徒が考えたお年寄り用の便利グッズをその日のうちに作って試せるようになりました。"
+      },
+      {
+        "speaker": "メイカースペースを利用する高校2年生",
+        "commentStandard": "教科書の物理の法則が、自分でギアやアームを設計して動かすことで直感的に理解できるようになりました。",
+        "commentSimple": "自分で部品を設計してロボットを動かすことで、理科の勉強がすごく面白くなりました。"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "中学校 技術科教諭",
+        "commentStandard": "レーザーカッターの安全講習や樹脂フィラメントの在庫管理など、通常授業以外の雑務が非常に多く、専門スタッフの常駐が欲しいです。",
+        "commentSimple": "機械の点検や材料の買い出しなど先生の仕事が多すぎるため、手伝ってくれる専門の人が必要です。"
+      }
+    ]
+  },
+  "international": {
+    "title": "主要国における学校メイカースペースおよびSTEAM教育支援の比較",
+    "comparisonSummary": "アメリカやシンガポールでは学校ファブラボが初等中等教育の標準インフラとして普及している。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "K-12 School Makerspace Initiatives",
+        "amount": "連邦STEM助成＋学区債券",
+        "keyFeature": "多くの公立校にメイカースペースが設置され、デザイン思考（Design Thinking）とプロトタイピング教育が日常化。",
+        "source": {
+          "organization": "Fab Foundation",
+          "title": "FabLearn Labs in Education",
+          "url": "https://fablearn.org"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "Applied Learning Programme (ALP)",
+        "amount": "教育省（MOE）全額予算化",
+        "keyFeature": "全中学校に専門のSTEAM学習ラボを設置し、ロボティクス・クリーンエネルギー等の実践的応用教育を実施。",
+        "source": {
+          "organization": "Singapore Ministry of Education",
+          "title": "Applied Learning Programme",
+          "url": "https://www.moe.gov.sg"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Plan d'action pour le numérique dans l'éducation",
+        "amount": "国民教育省予算",
+        "keyFeature": "コレージュ（中学校）技術科において3Dモデリングとプログラミングの組み合わせを標準カリキュラム化。",
+        "source": {
+          "organization": "Ministère de l'Éducation nationale",
+          "title": "Le numérique à l'école",
+          "url": "https://www.education.gouv.fr"
+        }
+      }
+    ]
+  }
+}

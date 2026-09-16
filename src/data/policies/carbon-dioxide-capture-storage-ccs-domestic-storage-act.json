@@ -1,0 +1,210 @@
+{
+  "id": "carbon-dioxide-capture-storage-ccs-domestic-storage-act",
+  "title": "二酸化炭素回収・貯留（CCS）事業法に基づく国内貯留層選定と事業認可",
+  "category": "environment",
+  "subcategory": "気候変動・CCS",
+  "status": "施行中",
+  "date": "2024-05",
+  "lastUpdated": "2026-03",
+  "catchphrase": "CO2を地中深くに永久封じ込め。CCS事業法の成立と国内貯留層の公的指定",
+  "summary": {
+    "standard": [
+      "工場や発電所から排出される二酸化炭素（CO2）を大気に放出せず回収し、地下千メートル以上の深部地層に圧入・永久隔離する「CCS（二酸化炭素回収・貯留）」の事業法制。",
+      "鉱業法に準じた「試掘権・貯留権」を創設し、日本海側やオホーツク海等の深部帯水層を「特定貯留可能区域」として国が指定・事業認可。",
+      "2030年までに年間600万〜1,200万トンのCO2国内貯留を目指す「先進的CCS事業」に対し、探査井掘削費用や圧入設備建設費をJOGMEC基金で手厚く補助する。"
+    ],
+    "simple": [
+      "煙突から出る二酸化炭素（CO2）を空気中に逃がさず集めて、海の底や地下1,000メートルよりも深い岩の隙間に閉じ込める「CCS」のルールを法律で作りました。",
+      "2030年までに毎年何百万トンものCO2を安全に地中に埋め、地球温暖化をストップさせます。"
+    ]
+  },
+  "background": {
+    "standard": "省エネや再エネだけではゼロにできない産業プロセス（セメント、化学、鉄鋼等）の残余排出を相殺するため、世界的にCCSは不可欠な脱炭素技術と位置付けられている。これまで日本には地下貯留を認可・監督する法体系が存在しなかったため、2024年に「CCS事業法」が国会で成立した。",
+    "simple": "ゴミの焼却場やセメント工場など、どうしてもCO2が出てしまう工場があります。これまでは地下にCO2を埋める法律が日本にありませんでしたが、安全に埋めるための新しい法律を作りました。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "地下貯留の法的権利と事業認可",
+      "before": "地下深部へのCO2圧入に関する法律が存在せず民間事業化が不可能",
+      "after": "CCS事業法により「貯留権」を新設し、経済産業大臣による事業認可制を確立",
+      "highlight": "貯留権の新設と事業認可制度",
+      "icon": "file-text"
+    },
+    {
+      "id": "c2",
+      "topic": "長期漏洩モニタリングと事業者の責任",
+      "before": "圧入後の地震影響や長期漏洩時の管理責任のルールが未定",
+      "after": "一定期間の安定確認後、貯留層の管理責任をJOGMEC（国）へ移管できる仕組みを創設",
+      "highlight": "国の管理移管制度による民間の長期リスク軽減",
+      "icon": "shield-check"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "CCS事業法制定のメリット",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "脱炭素困難（Hard-to-Abate）産業の国内操業継続",
+        "summary": "セメント・ゴミ焼却・化学工場が操業を止めずにネットゼロを達成可能に。",
+        "detail": "代替技術のない製造工程からの排出を確実に地下固定することで、国内の基幹素材産業を海外流出させずに脱炭素化を完了させる。",
+        "simpleDetail": "どうしてもCO2が出てしまう工場でも、地中に埋めることで環境を汚さずに操業を続けられます。",
+        "tag": "産業維持"
+      },
+      {
+        "id": "b2",
+        "title": "海洋国家日本の膨大な海底貯留ポテンシャルの活用",
+        "summary": "日本周辺の領海・排他的経済水域（EEZ）に約160億トンの貯留可能容量。",
+        "detail": "国内で排出されたCO2を海外に頼らず自国領海内で安全に処理する「炭素の地産地消・自給自足」の基盤を確立する。",
+        "simpleDetail": "日本の海の底には数百億トンものCO2を埋められる広い場所があり、自分たちの国でゴミを片付けられます。",
+        "tag": "エネルギー安保"
+      }
+    ],
+    "challengesTitle": "運用上の課題と懸念",
+    "challenges": [
+      {
+        "id": "ch1",
+        "title": "地震国日本における微小地震（誘発地震）と漏洩リスクへの懸念",
+        "summary": "CO2圧入圧力が断層を刺激することへの地域住民や漁業関係者の不安。",
+        "detail": "三次元反射法地震探査による活断層の完全回避と、光ファイバーセンサー等によるミリ単位の地殻変動・海洋漏洩常時監視が不可欠。",
+        "simpleDetail": "地中に埋めたCO2が地震で漏れ出したりしないよう、断層から離れた安全な場所を選び監視し続けます。",
+        "tag": "安全性監視"
+      },
+      {
+        "id": "ch2",
+        "title": "高額な回収・輸送・圧入コスト（トンあたり1万円超）",
+        "summary": "現在のCCSコストが炭素税や排出量取引価格を上回る逆ざや問題。",
+        "detail": "回収技術の省エネ化や大規模スケールメリットの実現、GXカーボンプライシングによる経済的回収スキームの早期確立が求められる。",
+        "simpleDetail": "まだ埋めるためのお金が高いため、技術を改良してコストを安くする努力が必要です。",
+        "tag": "コスト課題"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2016-04",
+      "label": "実証実験",
+      "title": "苫小牧における30万トンCCS実証試験開始",
+      "status": "done",
+      "description": "海底深部への累計30万トン圧入と無漏洩安全確認を完了。"
+    },
+    {
+      "date": "2024-05",
+      "label": "法成立",
+      "title": "二酸化炭素の貯留事業に関する法律（CCS事業法）成立",
+      "status": "done",
+      "description": "貯留権の新設と事業認可基準を法制化。"
+    },
+    {
+      "date": "2030-03",
+      "label": "商用目標",
+      "title": "国内年1,000万トン規模の商用CCS運用開始目標",
+      "status": "current",
+      "description": "先進的CCSプロジェクト（苫小牧沖・新潟沖・東北沖等）の順次操業を目指す。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "二酸化炭素の貯留事業に関する法律案の閣議決定及び概要",
+      "organization": "経済産業省・資源エネルギー庁",
+      "url": "https://www.meti.go.jp",
+      "date": "2024-02",
+      "type": "official"
+    }
+  ],
+  "badges": [
+    "CCS事業法",
+    "二酸化炭素貯留",
+    "GX",
+    "カーボンニュートラル",
+    "JOGMEC"
+  ],
+  "highlights": [
+    {
+      "label": "2030年国内貯留目標",
+      "value": "600〜1200",
+      "unit": "万トン/年",
+      "oldValue": "実証レベル",
+      "description": "セメント・鉄鋼・化学等の産業排出CO2を大規模商用貯留",
+      "badge": "商用化目標",
+      "badgeColor": "blue",
+      "icon": "trending-up"
+    },
+    {
+      "label": "国内想定貯留可能容量",
+      "value": "約160",
+      "unit": "億トン規模",
+      "oldValue": "-",
+      "description": "日本周辺の沿岸・海底下における十分な貯留ポテンシャルを推計",
+      "badge": "膨大ポテンシャル",
+      "badgeColor": "green",
+      "icon": "building-library"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "大手セメントメーカー 環境技術研究所長",
+        "commentStandard": "セメント製造時の石灰石脱炭酸プロセスでどうしても出るCO2を地下貯留できる道筋が法的に確立したことで、脱炭素時代にもセメント工場を残せます。",
+        "commentSimple": "どうしてもCO2が出てしまうセメント工場でも、地中に埋めるルールができたおかげで未来に残すことができます。"
+      },
+      {
+        "speaker": "JOGMEC 地下貯留評価チームリーダー",
+        "commentStandard": "苫小牧での長年の実証データにより、震度6弱の胆振東部地震でもCO2漏洩が一切なかったことが証明されており、新法の下で安全な商用化を推進できます。",
+        "commentSimple": "大きな地震が来ても絶対に漏れなかった実験の証拠があるので、自信を持って安全に進められます。"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "沿岸漁業協同組合 専務理事",
+        "commentStandard": "海底下にパイプでガスを送り込むことで海水温や魚の生態系にどんな影響が出るのか、漁業者への丁寧な説明と補償ガイドラインを強く求めます。",
+        "commentSimple": "海の底にCO2を埋めて魚や海藻に悪影響がないか心配なので、安全をしっかり証明してほしいです。"
+      }
+    ]
+  },
+  "international": {
+    "title": "主要国におけるCCS（二酸化炭素回収・貯留）法制度およびプロジェクトの比較",
+    "comparisonSummary": "ノルウェーは北海CCS（Northern Lights）で欧州全域のCO2受入を商用化。アメリカは45Q税制で巨額補助。",
+    "countries": [
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "ノーザン・ライツ（Northern Lights / Longshipプロジェクト）",
+        "amount": "国家全額出資＋商用越境CO2受入",
+        "keyFeature": "欧州各国の工場から船で運ばれた液体CO2を北海海底2,600mに圧入・永久隔離する世界初の越境商用CCSサービス。",
+        "source": {
+          "organization": "Northern Lights JV",
+          "title": "Carbon capture and storage project Norway",
+          "url": "https://norlights.com"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "インフレ抑制法（IRA）内国歳入法第45Q条 CCS税額控除",
+        "amount": "貯留1トンあたり最大85ドル（DACは180ドル）の直接給付",
+        "keyFeature": "CO2を地下貯留するだけで1トンあたり約1.2万円の連邦税控除・直接還付が受けられ、民間投資が爆発的に急増。",
+        "source": {
+          "organization": "U.S. Internal Revenue Service (IRS)",
+          "title": "Section 45Q Credit for Carbon Oxide Sequestration",
+          "url": "https://www.irs.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "トラック1/トラック2 CCUSクラスタープログラム",
+        "amount": "最大200億ポンドの国家支援枠",
+        "keyFeature": "産業コンビナート（ヒース・イーストコースト等）のパイプラインと廃ガス田貯留層を一体開発するメガプロジェクト。",
+        "source": {
+          "organization": "UK Department for Energy Security and Net Zero",
+          "title": "Carbon capture, usage and storage (CCUS)",
+          "url": "https://www.gov.uk"
+        }
+      }
+    ]
+  }
+}
