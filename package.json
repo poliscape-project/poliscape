@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "check:facts": "node scripts/check-facts.js",
+    "check:duplicates": "node scripts/check-duplicates.js",
     "analyze:issue": "node scripts/analyze-issue.js --local"
   },
   "dependencies": {
