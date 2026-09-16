@@ -229,5 +229,37 @@
         "commentStandard": "「詳しい財務諸表注記が年2回しか見られなくなると、細かいキャッシュフローの変化を察知しにくくなる」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国の四半期開示制度・開示頻度比較（米国・欧州・英国）",
+    "comparisonSummary": "日本が四半期報告書を廃止し取引所の決算短信に一本化した改革は、2013年にEUが「透明性指令」を改正して四半期開示義務を撤廃した流れに沿うものです。一方、世界最大の資本市場である米国（SEC）は依然として四半期Form 10-Qを堅持しており、国際的なスタンスは二分されています。",
+    "countries": [
+      {
+        "country": "欧州連合（EU）",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU Transparency Directive Amendment (EU透明性指令改正)",
+        "amount": "第1・第3四半期の法定開示義務を2013年に完全廃止（半期・通期のみ義務）",
+        "keyFeature": "中小上場企業の開示コスト削減とショートターミズム是正を目的に法定四半期報告を廃止。英国やドイツなど多くの国で自主開示に移行し、企業の長期成長投資を促した実績。",
+        "source": {
+          "organization": "欧州証券市場監督局 (ESMA)",
+          "title": "Transparency Directive Directive 2013/50/EU",
+          "url": "https://www.esma.europa.eu"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "SEC Form 10-Q (米国証券取引委員会 四半期報告書義務)",
+        "amount": "上場企業に対し年3回のForm 10-Q提出および公認会計士レビューを義務化",
+        "keyFeature": "トランプ政権下で見直し議論があったものの、投資家保護と四半期ごとの市場規律を最重要視して現行維持。機関投資家の情報ニーズに応える世界で最も厳格な四半期開示体制。",
+        "source": {
+          "organization": "米国証券取引委員会 (SEC)",
+          "title": "Form 10-Q General Instructions",
+          "url": "https://www.sec.gov"
+        }
+      }
+    ]
   }
 }

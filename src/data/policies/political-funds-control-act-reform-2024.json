@@ -235,5 +235,37 @@
         "commentStandard": "「小口のパーティー券や関連団体への迂回など新たな抜け道が懸念され、根本的な政治改革には道半ばだ」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国の政治資金規制・公開基準・独立監査機関比較",
+    "comparisonSummary": "日本の政治資金規正法がパーティー券公開基準を5万円超に引き下げたのに対し、米国や英国では献金の受領・支出がほぼリアルタイムかつ少額から電子開示され、強力な独立行政機関（米FECや英選挙委員会）が刑事告発権を持って監視しています。また多くの欧州諸国では企業献金を原則禁止し公金助成を基本としています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Federal Election Campaign Act (FECA / 連邦選挙運動法)",
+        "amount": "個人献金上限は1選挙あたり3,300ドル（約50万円）、200ドル超の全支出を開示",
+        "keyFeature": "連邦選挙委員会（FEC）がすべての政治資金の入出金をデータベースで完全電子開示。企業・労組による直接献金は禁止され、政治活動委員会（PAC/スーパーPAC）を通じた支出のみ認められる透明性至上主義。",
+        "source": {
+          "organization": "連邦選挙委員会 (FEC)",
+          "title": "Contribution limits and reporting requirements",
+          "url": "https://www.fec.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Political Parties, Elections and Referendums Act (PPERA 2000)",
+        "amount": "四半期ごとに500ポンド超の寄付記録、7,500ポンド超の寄付者を公表",
+        "keyFeature": "独立機関「選挙委員会（Electoral Commission）」が政党の会計を常時監督・監査。違法な寄付や虚偽記載に対して独自に巨額の課徴金を科す強力な行政処分権限を保有。",
+        "source": {
+          "organization": "英国選挙委員会 (Electoral Commission)",
+          "title": "Donations and loans to political parties",
+          "url": "https://www.electoralcommission.org.uk"
+        }
+      }
+    ]
   }
 }

@@ -235,5 +235,37 @@
         "commentStandard": "「過剰に保守的な基準設定により国内事業者が萎縮し、優良な国際サプライチェーンから日本市場が孤立しかねない」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国の大麻由来医薬品の承認状況と使用規制比較",
+    "comparisonSummary": "日本が大麻草由来医薬品を解禁しつつ「使用罪」を新設して乱用抑止を徹底したのに対し、欧米ではエピディオレックス等の承認は数年前から一般的であり、娯楽用大麻についても非犯罪化・合法化（独・加・米一部州）が進むなど、規制の方向性に大きな差異があります。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "FDA approved Epidiolex (CBD医薬品承認とスケジュール見直し)",
+        "amount": "2018年にFDAが難治性てんかん治療薬「Epidiolex」を正式承認",
+        "keyFeature": "連邦レベルでは乱用薬物管理法（CSA）のスケジュール見直し（スケジュールIIIへの移行）が進む一方、過半数の州で嗜好用・医療用大麻が州法レベルで合法化され、州と連邦の二重構造が存在。",
+        "source": {
+          "organization": "米国食品医薬品局 (FDA)",
+          "title": "FDA Approves First Drug Comprised of an Active Ingredient Derived from Marijuana",
+          "url": "https://www.fda.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "CanG (Konsumcannabisgesetz / 2024年大麻一部合法化法)",
+        "amount": "成人25gまでの所持・自宅栽培3株まで合法化（医療用は2017年より保険適用）",
+        "keyFeature": "2024年4月に非営利クラブを通じた成人の嗜好用利用を解禁。非犯罪化により闇市場を撲滅し、製品品質の公的管理と若年層へのハームリダクション教育を重視。",
+        "source": {
+          "organization": "ドイツ連邦保健省 (BMG)",
+          "title": "Gesetz zum Umgang mit Konsumcannabis (CanG)",
+          "url": "https://www.bundesgesundheitsministerium.de"
+        }
+      }
+    ]
   }
 }

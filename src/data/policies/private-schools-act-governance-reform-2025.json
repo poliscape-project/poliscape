@@ -229,5 +229,37 @@
         "commentStandard": "「独立した適任者の確保難や報酬負担など、中小規模法人にとっての事務負担は極めて過重だ」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国の私立大学・学校法人のガバナンス構造比較（米国・英国）",
+    "comparisonSummary": "日本の改正私学法が評議員会を「監督機関」として理事会の暴走を防ぐ仕組みを導入したのに対し、米国の私立大学では独立した外部理事が多数を占める「Board of Trustees（信託理事会）」が最高権限を持ち、学長は執行役に特化する強力なガバナンスが確立されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Board of Trustees system (信託理事会制度・大学統治モデル)",
+        "amount": "理事の過半数〜ほぼ全員が学外の卒業生・企業人・有識者で構成",
+        "keyFeature": "理事会（Board）が学長（President）の任免権と巨額基金の運用方針を完全に握り、学長は経営執行責任者として理事会に説明責任を負う。執行と監督の完全分離が定着。",
+        "source": {
+          "organization": "全米大学理事協議会 (AGB)",
+          "title": "Principles of Higher Education Governance",
+          "url": "https://agb.org"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Higher Education Code of Governance / Charity Commission",
+        "amount": "チャリティ法に基づき大学統治機関（Council / Court）の過半数は独立外部委員",
+        "keyFeature": "大学は慈善団体（Charity）として位置づけられ、独立機関「学生庁（OfS）」とチャリティ委員会が財務の健全性・公益性を常時監督。不正があった場合は国が直接介入可能。",
+        "source": {
+          "organization": "英国学生庁 (Office for Students - OfS)",
+          "title": "Regulatory framework for higher education in England",
+          "url": "https://www.officeforstudents.org.uk"
+        }
+      }
+    ]
   }
 }

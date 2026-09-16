@@ -235,5 +235,37 @@
         "commentStandard": "「地球環境に良いのは理解できるが、金利上昇と重なり一次取得者への公的補助や減税をもっと手厚くしてほしい」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国の住宅・建築物省エネ基準適合義務化比較",
+    "comparisonSummary": "日本が2025年4月から戸建て住宅を含む全棟で「省エネ基準適合（断熱等級4）」を義務化したのに対し、欧州諸国（ドイツ・フランス等）は10年以上前から全棟適合義務を導入しており、現在の義務水準は日本のZEH基準（等級5）をはるかに上回るネットゼロ基準に達しています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "GEG (Gebäudeenergiegesetz / 建築物エネルギー法)",
+        "amount": "新築住宅は原則として再生可能エネルギー65%以上利用・高断熱化を義務付け",
+        "keyFeature": "暖房エネルギー需要の極小化を義務付け、パスィブハウス基準（U値0.15以下）に近い超高断熱が標準。不適合建築物は自治体による建築許可が一切下りない厳格運用。",
+        "source": {
+          "organization": "ドイツ連邦経済・気候保護省 (BMWK)",
+          "title": "Das Gebäudeenergiegesetz (GEG)",
+          "url": "https://www.energiewechsel.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "RE2020 (Réglementation Environnementale 2020)",
+        "amount": "全新築住宅で炭素フットプリント（LCA）および極限断熱性能を義務化",
+        "keyFeature": "エネルギー消費だけでなく、建築資材の製造・輸送・解体に至るライフサイクル全体のCO2排出上限を規制。木造建築やバイオマス断熱材の利用を強力に誘導。",
+        "source": {
+          "organization": "フランス生態移行省",
+          "title": "La réglementation environnementale RE2020",
+          "url": "https://www.ecologie.gouv.fr"
+        }
+      }
+    ]
   }
 }

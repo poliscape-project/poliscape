@@ -229,5 +229,37 @@
         "commentStandard": "「ネット販売時の注意喚起が小さすぎて騙された気分だ。ナンバー取得や保安基準適合への移行措置をもっと周知してほしかった」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国のモペット・電動マイクロモビリティ車両区分・歩道規制比較",
+    "comparisonSummary": "日本がペダル付き電動バイク（モペット）について走行状態を問わず「原動機付自転車」として歩道走行を一律禁止したのに対し、欧州諸国（フランス・英国等）でも電動アシスト自転車とスロットル付き自走バイクを厳密に区別し、歩道走行への重罰を科しています。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Réglementation des EDPM et Cyclomoteurs (特定小型原付と原付の区分)",
+        "amount": "歩道走行違反で135ユーロ（約2.2万円）〜1,500ユーロの罰金",
+        "keyFeature": "ペダルを漕がずに時速25km以上出る車両は「シクロモトール（原付）」に分類され、ヘルメット・保険・車道走行が義務。歩道通行は完全禁止で違反者には即時反則金。",
+        "source": {
+          "organization": "フランス道路安全局 (Sécurité Routière)",
+          "title": "Réglementation des trottinettes et engins de déplacement personnel",
+          "url": "https://www.securite-routiere.gouv.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Electrically Assisted Pedal Cycles (EAPC) regulations",
+        "amount": "基準外の自走モペットは公道・歩道走行禁止（自動車保険・登録必須）",
+        "keyFeature": "時速15.5マイル（約25km/h）かつ最大出力250W未満のEAPC（電アシ）のみ自転車扱い。それ以外のスロットル付きモペットはオートバイ登録・免許・ヘルメットが完全必須。",
+        "source": {
+          "organization": "英国運輸省 (DfT)",
+          "title": "Electric bike rules: Electrically assisted pedal cycles (EAPCs)",
+          "url": "https://www.gov.uk"
+        }
+      }
+    ]
   }
 }

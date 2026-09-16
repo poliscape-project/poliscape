@@ -543,6 +543,17 @@ import privateSchoolsActGovernanceReform2025Data from "@/data/policies/private-s
 import constructionBusinessActReformLaborCostStandardData from "@/data/policies/construction-business-act-reform-labor-cost-standard.json";
 import roadTrafficActMopedElectricBicycleRegulationData from "@/data/policies/road-traffic-act-moped-electric-bicycle-regulation.json";
 import childcareAndCaregiverLeaveActNursingCareFlexibility2025Data from "@/data/policies/childcare-and-caregiver-leave-act-nursing-care-flexibility-2025.json";
+// 新規10重要法案（第6弾：GX・防衛生産・こども家庭センター・消費者契約・経営者保証・就活ハラスメント・中継局・ワーカーズコープ・景表法・CNP港湾）
+import gxEmissionsTradingSchemeMandatoryPhase2026Data from "@/data/policies/gx-emissions-trading-scheme-mandatory-phase-2026.json";
+import defenseProductionBaseReinforcementActFactoryNationalizationData from "@/data/policies/defense-production-base-reinforcement-act-factory-nationalization.json";
+import childAndFamilyCenterNationwideMandate2024Data from "@/data/policies/child-and-family-center-nationwide-mandate-2024.json";
+import consumerContractActReformSpiritualFraudCancelData from "@/data/policies/consumer-contract-act-reform-spiritual-fraud-cancel.json";
+import businessOwnerGuaranteeReformCreditGuaranteeFeeData from "@/data/policies/business-owner-guarantee-reform-credit-guarantee-fee.json";
+import jobHuntingHarassmentPreventionLegislationGuidelinesData from "@/data/policies/job-hunting-harassment-prevention-legislation-guidelines.json";
+import broadcastingActRelayStationInfrastructureSharingData from "@/data/policies/broadcasting-act-relay-station-infrastructure-sharing.json";
+import actOnWorkersCooperativesCommunitySolidarityEnterpriseData from "@/data/policies/act-on-workers-cooperatives-community-solidarity-enterprise.json";
+import fairTradeCommissionPremiumsActCommitmentsPenalties2024Data from "@/data/policies/fair-trade-commission-premiums-act-commitments-penalties-2024.json";
+import carbonNeutralPortCnpPortActHydrogenAmmoniaData from "@/data/policies/carbon-neutral-port-cnp-port-act-hydrogen-ammonia.json";
 
 const policies: PolicyTopic[] = [
   childAllowanceData as PolicyTopic,
@@ -1081,6 +1092,17 @@ const policies: PolicyTopic[] = [
   constructionBusinessActReformLaborCostStandardData as PolicyTopic,
   roadTrafficActMopedElectricBicycleRegulationData as PolicyTopic,
   childcareAndCaregiverLeaveActNursingCareFlexibility2025Data as PolicyTopic,
+  // 新規10重要法案（第6弾）
+  gxEmissionsTradingSchemeMandatoryPhase2026Data as PolicyTopic,
+  defenseProductionBaseReinforcementActFactoryNationalizationData as PolicyTopic,
+  childAndFamilyCenterNationwideMandate2024Data as PolicyTopic,
+  consumerContractActReformSpiritualFraudCancelData as PolicyTopic,
+  businessOwnerGuaranteeReformCreditGuaranteeFeeData as PolicyTopic,
+  jobHuntingHarassmentPreventionLegislationGuidelinesData as PolicyTopic,
+  broadcastingActRelayStationInfrastructureSharingData as PolicyTopic,
+  actOnWorkersCooperativesCommunitySolidarityEnterpriseData as PolicyTopic,
+  fairTradeCommissionPremiumsActCommitmentsPenalties2024Data as PolicyTopic,
+  carbonNeutralPortCnpPortActHydrogenAmmoniaData as PolicyTopic,
 ];
 
 export function getAllPolicies(): PolicyTopic[] {

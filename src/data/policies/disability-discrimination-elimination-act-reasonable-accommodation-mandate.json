@@ -229,5 +229,37 @@
         "commentStandard": "「デジタル空間での合理的配慮の要求水準が高まっており、中小企業向けの補助金や簡便な支援ツールの普及が急務だ」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国の民間企業における合理的配慮提供義務・差別禁止比較",
+    "comparisonSummary": "日本が2024年に全民間事業者へ「合理的配慮提供」を法的義務化したのに対し、米国（ADA）や英国（平等法）では30年以上前から民間事業者への義務付けと訴訟救済制度が確立されており、物理的バリアフリーのみならずWebアクセシビリティも含めた包括的運用が定着しています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Americans with Disabilities Act (ADA / 障害を持つアメリカ人法 タイトルIII)",
+        "amount": "民間公共施設（ホテル・店舗・レストラン等）のバリアフリー改修と合理的配慮を義務付け",
+        "keyFeature": "1990年制定。違反事業者に対して被害者が連邦裁判所へ差止訴訟を提起可能。近年では民間企業のECサイトやアプリに対するADA準拠（Webアクセシビリティ訴訟）が年間数千件発生。",
+        "source": {
+          "organization": "米国司法省 (DOJ)",
+          "title": "ADA Requirements: Public Accommodations",
+          "url": "https://www.ada.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Equality Act 2010 (2010年平等法・Reasonable Adjustments)",
+        "amount": "商品・サービスを提供するすべての民間事業者に合理的調整の事前提供を義務付け",
+        "keyFeature": "障害者からの個別要求を待つだけでなく、事業者が『あらかじめ障害者が利用しやすいよう先回りして調整する（Anticipatory Duty）』ことを法的に要求している点が特徴。",
+        "source": {
+          "organization": "英国平等人権委員会 (EHRC)",
+          "title": "Employers and service providers duty to make reasonable adjustments",
+          "url": "https://www.equalityhumanrights.com"
+        }
+      }
+    ]
   }
 }

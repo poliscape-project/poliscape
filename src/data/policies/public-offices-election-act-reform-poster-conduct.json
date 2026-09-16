@@ -229,5 +229,37 @@
         "commentStandard": "「一部の過激な行動を口実に、立候補のハードルを上げ既存政党だけの閉鎖的な選挙にしてはならない」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国の選挙公営掲示場・ポスター規制・品位維持法制比較",
+    "comparisonSummary": "日本のように自治体が街中に木製・金属製の大型公営掲示場を数万箇所設置し紙ポスターを貼る方式は国際的に極めて珍しく、欧米では指定区域での自主掲示やデジタル選挙公報が中心です。商業利用や秩序維持についても厳しい法規制が存在します。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "Code électoral (フランス選挙法・公式ポスター掲示パネル制度)",
+        "amount": "投票所前に候補者数分の専用金属パネルを市町村が設置、サイズ・用紙を厳密指定",
+        "keyFeature": "ポスターには国旗の3色（青・白・赤）の組み合わせ使用を禁止するなど品位規定が厳格。候補者以外の商業広告や第三者への枠譲渡は選挙法違反として即時撤去および罰金刑。",
+        "source": {
+          "organization": "フランス内務省",
+          "title": "Règles d affichage électoral officiel",
+          "url": "https://www.interieur.gouv.fr"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Elections Act 2022 / Representation of the People Act",
+        "amount": "公営掲示場は存在せず、私有地・窓・党支部での掲示（屋外広告規制に準拠）",
+        "keyFeature": "演説妨害や候補者への脅迫・つきまといに対し、2022年選挙法で最大5年間の公民権停止を含む新たな刑事罰を新設。候補者の安全と言論の自由の両立を厳罰で担保。",
+        "source": {
+          "organization": "英国選挙委員会 (Electoral Commission)",
+          "title": "Campaigning and candidate safety guidance",
+          "url": "https://www.electoralcommission.org.uk"
+        }
+      }
+    ]
   }
 }

@@ -229,5 +229,37 @@
         "commentStandard": "「標準労務費に沿った見積内訳書の作成など事務負担が急増しており、バックオフィス体制の強化が追いつかない」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国の建設労働者の賃金保護・適正工期規制比較（米国・豪州）",
+    "comparisonSummary": "日本が国による「標準労務費」勧告と原価割れ契約・短工期の禁止を法制化したのに対し、米国では連邦公共工事で「実勢賃金（Prevailing Wage）」の支払いが法定義務化されており、豪州では不当な支払い遅延や買い叩きを取り締まる保安支払法が徹底されています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Davis-Bacon Act (デイビス・ベーコン法 / 実勢賃金法)",
+        "amount": "連邦政府発注の建設工事で、地域の実勢賃金（最低労務費）以上の支払いを義務化",
+        "keyFeature": "労働省が職種・地域ごとに適正賃金率を算定・公表。元請・下請を問わず下回る賃金での施工を違法とし、違反企業は公共調達から最長3年間排除される厳罰制度。",
+        "source": {
+          "organization": "米国労働省 (DOL)",
+          "title": "Davis-Bacon and Related Acts",
+          "url": "https://www.dol.gov"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "Building and Construction Security of Payment Act (支払保障法)",
+        "amount": "下請業者の労務費を含む請負代金の即時支払いを保障・迅速裁定制度",
+        "keyFeature": "元請による不当な減額や工期しわ寄せを防止するため、支払請求から一定期間内に支払わない場合、下請けが即時に工事を合法的停止できる権利と第三者仲裁権を確立。",
+        "source": {
+          "organization": "豪州ニューサウスウェールズ州政府フェアトレーディング",
+          "title": "Security of payment laws in construction",
+          "url": "https://www.fairtrading.nsw.gov.au"
+        }
+      }
+    ]
   }
 }

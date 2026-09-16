@@ -229,5 +229,37 @@
         "commentStandard": "「休暇自体の有給化や国の給付金措置がセットでないと、収入を気にする世帯が利用をためらう要因になりかねない」"
       }
     ]
+  },
+  "international": {
+    "title": "主要国の子の病気看護休暇・柔軟な働き方（両立支援）比較",
+    "comparisonSummary": "日本が子の看護休暇を小3まで拡大し企業に柔軟な就労措置を義務付けたのに対し、ドイツでは公的健康保険から所得の9割が補償される「有給の子の疾病手当」が確立されており、英国では入社初日からすべての労働者に「柔軟な働き方を請求する権利」が法制化されています。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Kinderkrankengeld (子の疾病手当制度・社会保険給付)",
+        "amount": "子ども1人あたり年15日（ひとり親30日）、手取り賃金の約90%を公的保険が補償",
+        "keyFeature": "12歳未満の子が病気になった際、会社を休んでも公的医療保険から手取り9割の手当が直接支給されるため、親が収入減を心配することなく看護に専念できる先進的制度。",
+        "source": {
+          "organization": "ドイツ連邦家族・高齢者・女性・青少年省 (BMFSFJ)",
+          "title": "Kinderkrankengeld und Freistellung",
+          "url": "https://www.bmfsfj.de"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "Employment Relations (Flexible Working) Act 2023",
+        "amount": "入社1日目からすべての従業員が年2回までテレワーク等の柔軟就労を申請可能",
+        "keyFeature": "2024年4月施行。事業主は従業員からのテレワーク・時差出勤・時短等の請求を正当な事業上の理由なしに拒否できず、拒否する場合は労使協議を義務化。",
+        "source": {
+          "organization": "英国ビジネス・貿易省 (DBT)",
+          "title": "Flexible working: current rules and reforms",
+          "url": "https://www.gov.uk"
+        }
+      }
+    ]
   }
 }
