@@ -4,7 +4,7 @@
   "catchphrase": "日本の科学技術と食料安保を担う人材へ。理工農系・IT分野の大学学費減免の所得制限を撤廃",
   "category": "education",
   "categoryLabel": "高等教育・科学技術",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "STEM人材育成",
-      "variant": "purple"
+      "text": "STEM人材育成",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "学費無償化",
-      "variant": "blue"
+      "text": "学費無償化",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "科学技術立国",
-      "variant": "green"
+      "text": "科学技術立国",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "年間学費減免最大額",
+      "label": "年間学費減免最大額",
+      "labelStandard": "年間学費減免最大額",
+      "labelSimple": "年間学費減免最大額",
       "value": "70",
       "unit": "万円/年",
+      "oldValue": "現行",
       "description": "私立大学理工農系学部に進学する学生に国費から直接支給・減免される年間上限額",
-      "trend": "up",
-      "trendLabel": "学費大幅軽減"
+      "descriptionStandard": "年間学費減免最大額",
+      "descriptionSimple": "年間学費減免最大額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "大学理系学生比率目標",
+      "label": "大学理系学生比率目標",
+      "labelStandard": "大学理系学生比率目標",
+      "labelSimple": "大学理系学生比率目標",
       "value": "50",
       "unit": "%",
+      "oldValue": "現行",
       "description": "現在の約35%から2032年度までに引き上げる大学入学者に占める理系分野の割合目標",
-      "trend": "up",
-      "trendLabel": "理系倍増"
+      "descriptionStandard": "大学理系学生比率目標",
+      "descriptionSimple": "大学理系学生比率目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

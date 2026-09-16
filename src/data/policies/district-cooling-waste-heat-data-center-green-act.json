@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "廃熱利用",
-      "variant": "positive"
+      "text": "廃熱利用",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "データセンター",
-      "variant": "positive"
+      "text": "データセンター",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "地域共生",
-      "variant": "neutral"
+      "text": "地域共生",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "光熱費削減",
+      "labelStandard": "光熱費削減",
+      "labelSimple": "光熱費削減",
       "value": "地域暖房費最大30%減",
+      "unit": "",
+      "oldValue": "現行",
       "description": "周辺住民や施設の冬期暖房給湯コストを大幅削減",
+      "descriptionStandard": "光熱費削減",
+      "descriptionSimple": "光熱費削減",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingDown"
     },
     {
       "label": "対象施設",
+      "labelStandard": "対象施設",
+      "labelSimple": "対象施設",
       "value": "20MW以上の新設DC",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ハイパースケールデータセンターに熱交換導管接続を義務化",
+      "descriptionStandard": "対象施設",
+      "descriptionSimple": "対象施設",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Building2"
     }
   ],

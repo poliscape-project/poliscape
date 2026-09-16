@@ -149,58 +149,76 @@
   "badges": [
     {
       "label": "院内オンライン授業",
-      "variant": "neutral"
+      "text": "院内オンライン授業",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "元の学校と出席認定",
-      "variant": "neutral"
+      "text": "元の学校と出席認定",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "アバター・遠隔通学",
-      "variant": "neutral"
+      "text": "アバター・遠隔通学",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "病室からの授業",
+      "label": "",
       "labelStandard": "遠隔授業の出席認定",
+      "labelSimple": "病室からの授業",
       "value": "正規出席",
       "unit": "・単位認定へ",
       "oldValue": "これまで 自治体により取扱いに格差が存在",
       "description": "病室や自宅からのオンライン受講を正式認定",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "出席認定",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "GraduationCap"
     },
     {
-      "labelSimple": "友達とのつながり",
+      "label": "",
       "labelStandard": "分身ロボット・アバター",
+      "labelSimple": "友達とのつながり",
       "value": "アバター",
       "unit": "で教室に参加",
       "oldValue": "これまで 入院中は学校との絆が遮断",
       "description": "遠隔操作ロボットで給食や授業を友達と共有",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "孤独防止",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Laptop"
     },
     {
-      "labelSimple": "教員のサポート",
+      "label": "",
       "labelStandard": "病弱特別支援教育の教員",
+      "labelSimple": "教員のサポート",
       "value": "専任配置",
       "unit": "と巡回指導増",
       "oldValue": "これまで 院内学級の教員配置が不十分",
       "description": "医療スタッフと連携した指導体制の確立",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "専門指導",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "HeartPulse"
     },
     {
-      "labelSimple": "退院後の復学",
+      "label": "",
       "labelStandard": "元の学校への円滑復学",
+      "labelSimple": "退院後の復学",
       "value": "遅れゼロ",
       "unit": "を目指す支援",
       "oldValue": "これまで 退院後の留年や学習遅延が深刻",
       "description": "治療と学びを両立し将来の進路を保障",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "復学支援",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "HeartHandshake"

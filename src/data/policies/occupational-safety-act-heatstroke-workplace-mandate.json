@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "熱中症予防義務化",
-      "variant": "positive"
+      "text": "熱中症予防義務化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "WBGT実測義務",
-      "variant": "positive"
+      "text": "WBGT実測義務",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "工期遅延問題",
-      "variant": "warning"
+      "text": "工期遅延問題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "義務化内容",
+      "labelStandard": "義務化内容",
+      "labelSimple": "義務化内容",
       "value": "WBGT実測・冷房休憩所設置",
+      "unit": "",
+      "oldValue": "現行",
       "description": "エアコンハウス、水分・塩分補給の事業主責任を明確化",
+      "descriptionStandard": "義務化内容",
+      "descriptionSimple": "義務化内容",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Home"
     },
     {
       "label": "安全装置",
+      "labelStandard": "安全装置",
+      "labelSimple": "安全装置",
       "value": "危険時の作業中止権限",
+      "unit": "",
+      "oldValue": "現行",
       "description": "基準値超過時の作業中断と緊急救護プロトコル",
+      "descriptionStandard": "安全装置",
+      "descriptionSimple": "安全装置",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "対象業種",
+      "labelStandard": "対象業種",
+      "labelSimple": "対象業種",
       "value": "建設・警備・製造・農業等",
+      "unit": "",
+      "oldValue": "現行",
       "description": "屋外および高温多湿の屋内作業現場すべて",
+      "descriptionStandard": "対象業種",
+      "descriptionSimple": "対象業種",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

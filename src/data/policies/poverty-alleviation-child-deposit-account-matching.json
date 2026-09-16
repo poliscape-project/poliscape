@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "子ども資産形成",
-      "variant": "positive"
+      "text": "子ども資産形成",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "貧困連鎖打破",
-      "variant": "positive"
+      "text": "貧困連鎖打破",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "マッチング貯蓄",
-      "variant": "neutral"
+      "text": "マッチング貯蓄",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "誕生時シード",
+      "labelStandard": "誕生時シード",
+      "labelSimple": "誕生時シード",
       "value": "10万〜20万円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "出生時に国が専用信託口座へ直接初期資産をプレゼント",
+      "descriptionStandard": "誕生時シード",
+      "descriptionSimple": "誕生時シード",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "18歳到達時",
+      "labelStandard": "18歳到達時",
+      "labelSimple": "18歳到達時",
       "value": "最大200万〜300万円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "マッチング貯蓄と運用複利により大学進学費用を確保",
+      "descriptionStandard": "18歳到達時",
+      "descriptionSimple": "18歳到達時",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

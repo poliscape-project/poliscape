@@ -175,62 +175,76 @@
   "badges": [
     {
       "label": "製造ライン国有化特例",
-      "variant": "neutral"
+      "text": "製造ライン国有化特例",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "目標利益率最大15%保障",
-      "variant": "neutral"
+      "text": "目標利益率最大15%保障",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "防衛撤退100社超の抑止",
-      "variant": "neutral"
+      "text": "防衛撤退100社超の抑止",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "工場を国が買い取るルール",
+      "label": "",
       "labelStandard": "防衛製造ラインの国有化特例",
+      "labelSimple": "工場を国が買い取るルール",
       "value": "国による",
       "unit": "買い取り支援",
       "oldValue": "企業がやめたら製造設備は破棄され調達不能に",
-      "descriptionSimple": "会社がやめても工場を国が引き継いで武器を作る！",
+      "description": "",
       "descriptionStandard": "事業継続困難な重要ラインを政府保有・民間運営化",
+      "descriptionSimple": "会社がやめても工場を国が引き継いで武器を作る！",
       "badge": "ライン国有化",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Building"
     },
     {
-      "labelSimple": "会社の儲けを約束する割合",
+      "label": "",
       "labelStandard": "防衛調達の目標利益率",
+      "labelSimple": "会社の儲けを約束する割合",
       "value": "最大 15",
       "unit": "%（実質二桁）",
       "oldValue": "実質2〜3%の低利益で赤字ギリギリの操業",
-      "descriptionSimple": "しっかり利益が出るようにして赤字を防ぐ！",
+      "description": "",
       "descriptionStandard": "適正利益の付与で優秀な技術者・民間参入を誘致",
+      "descriptionSimple": "しっかり利益が出るようにして赤字を防ぐ！",
       "badge": "利益率15%へ",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "TrendingUp"
     },
     {
-      "labelSimple": "防衛をやめてしまった会社",
+      "label": "",
       "labelStandard": "防衛事業から撤退した企業数",
+      "labelSimple": "防衛をやめてしまった会社",
       "value": "100",
       "unit": "社超が撤退",
       "oldValue": "小松製作所（装甲車）や三井E&Sなどが撤退",
-      "descriptionSimple": "儲からないからと100社以上が逃げ出していた！",
+      "description": "",
       "descriptionStandard": "サプライチェーン崩壊を食い止める緊急法制",
+      "descriptionSimple": "儲からないからと100社以上が逃げ出していた！",
       "badge": "撤退抑止",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "日本の防衛装備を世界へ",
+      "label": "",
       "labelStandard": "装備移転（輸出）支援基金",
+      "labelSimple": "日本の防衛装備を世界へ",
       "value": "仕様変更",
       "unit": "を国が助成",
       "oldValue": "防衛装備の輸出は原則全面禁止だった",
-      "descriptionSimple": "日本の飛行機やレーダーを外国に売るお手伝い！",
+      "description": "",
       "descriptionStandard": "量産効果で調達コストを引き下げ防衛基盤を強化",
+      "descriptionSimple": "日本の飛行機やレーダーを外国に売るお手伝い！",
       "badge": "装備移転基金",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Globe"

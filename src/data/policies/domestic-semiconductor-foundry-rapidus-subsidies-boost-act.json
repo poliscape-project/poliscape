@@ -4,7 +4,7 @@
   "catchphrase": "経済安全保障とデジタル主権の生命線。最先端2ナノ半導体の国内量産へ巨額の公的資金を集中投下",
   "category": "economy",
   "categoryLabel": "経済・先端半導体",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "先端半導体",
-      "variant": "purple"
+      "text": "先端半導体",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "ラピダス",
-      "variant": "blue"
+      "text": "ラピダス",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "経済安全保障",
-      "variant": "green"
+      "text": "経済安全保障",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "半導体支援総予算規模",
+      "label": "半導体支援総予算規模",
+      "labelStandard": "半導体支援総予算規模",
+      "labelSimple": "半導体支援総予算規模",
       "value": "4",
       "unit": "兆円規模",
+      "oldValue": "現行",
       "description": "ラピダス・TSMC熊本・キオクシア等に投じられる経済安全保障先端半導体支援の累計国費",
-      "trend": "up",
-      "trendLabel": "国家集中投資"
+      "descriptionStandard": "半導体支援総予算規模",
+      "descriptionSimple": "半導体支援総予算規模",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "次世代量産目標時期",
+      "label": "次世代量産目標時期",
+      "labelStandard": "次世代量産目標時期",
+      "labelSimple": "次世代量産目標時期",
       "value": "2027",
       "unit": "年量産開始",
+      "oldValue": "現行",
       "description": "北海道千歳工場（IIM-1）における最先端2ナノメートル半導体の商用量産開始目標",
-      "trend": "up",
-      "trendLabel": "最先端奪回"
+      "descriptionStandard": "次世代量産目標時期",
+      "descriptionSimple": "次世代量産目標時期",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

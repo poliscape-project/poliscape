@@ -155,50 +155,62 @@
   "badges": [
     {
       "label": "CNP法定計画を全国策定",
-      "variant": "neutral"
+      "text": "CNP法定計画を全国策定",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "水素・アンモニア受入拠点",
-      "variant": "neutral"
+      "text": "水素・アンモニア受入拠点",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "停泊船への陸上給電義務化",
-      "variant": "neutral"
+      "text": "停泊船への陸上給電義務化",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "港湾臨海部のCO2排出割合",
+      "label": "",
       "labelStandard": "臨海部のCO2排出シェア",
+      "labelSimple": "港湾臨海部のCO2排出割合",
       "value": "約 6割",
       "unit": "（日本全体の排出量）",
       "oldValue": "発電所・製鉄所が集中",
-      "descriptionSimple": "日本で最もCO2を出している巨大工場地帯を港から一気に脱炭素！",
+      "description": "",
       "descriptionStandard": "エネルギー輸入の玄関口である港湾の脱炭素化が国家目標の要石",
+      "descriptionSimple": "日本で最もCO2を出している巨大工場地帯を港から一気に脱炭素！",
       "badge": "最重要拠点",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "TrendingUp"
     },
     {
-      "labelSimple": "船が止まっている間の電気",
+      "label": "",
       "labelStandard": "停泊船舶への陸上給電（陸電）",
+      "labelSimple": "船が止まっている間の電気",
       "value": "陸電導入推進",
       "unit": "（エンジン完全停止）",
       "oldValue": "ディーゼル発電で黒煙排出",
-      "descriptionSimple": "港に停まっている船に陸から電気を送りエンジンの煙をゼロに！",
+      "description": "",
       "descriptionStandard": "コールドアイロニング設備の普及で港湾周辺の大気汚染と騒音を撲滅",
+      "descriptionSimple": "港に停まっている船に陸から電気を送りエンジンの煙をゼロに！",
       "badge": "クリーン港湾",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "次世代燃料のパイプライン",
+      "label": "",
       "labelStandard": "水素・アンモニアの占用特例",
+      "labelSimple": "次世代燃料のパイプライン",
       "value": "占用許可円滑化",
       "unit": "（パイプライン敷設）",
       "oldValue": "従来の石油・石炭基準のみ",
-      "descriptionSimple": "水素やアンモニアを運ぶパイプを港に敷きやすくする特別ルール！",
+      "description": "",
       "descriptionStandard": "次世代クリーンエネルギー供給拠点化に向けた行政手続きの迅速化",
+      "descriptionSimple": "水素やアンモニアを運ぶパイプを港に敷きやすくする特別ルール！",
       "badge": "ハブ化推進",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Flame"

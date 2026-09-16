@@ -1,8 +1,8 @@
 {
   "id": "emergency-drinking-water-distribution-hub-density-act",
   "title": "大地震対策としての応急給水拠点（配水池・耐震性貯水槽）半径2km圏内配置基準",
-  "category": "safety-disaster",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "南海トラフ地震や首都直下地震における断水被害（最大数千万人規模）に備え、住民が徒歩で安全に飲料水を確保できるよう、すべての市街地において「半径2キロメートル圏内（徒歩30分以内）に最低1か所の応急給水拠点」の配備を水道法および防災基本計画で義務付ける。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "水道防災",
-      "variant": "blue"
+      "text": "水道防災",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "応急給水",
-      "variant": "green"
+      "text": "応急給水",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "国土強靭化",
-      "variant": "purple"
+      "text": "国土強靭化",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "給水拠点配置密度",
+      "label": "給水拠点配置密度",
+      "labelStandard": "給水拠点配置密度",
+      "labelSimple": "給水拠点配置密度",
       "value": "2",
       "unit": "km圏内",
+      "oldValue": "現行",
       "description": "徒歩30分以内で水を受け取れるよう全国市街地で義務付けられる配置半径",
-      "trend": "neutral",
-      "trendLabel": "徒歩圏内基準"
+      "descriptionStandard": "給水拠点配置密度",
+      "descriptionSimple": "給水拠点配置密度",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "緊急遮断弁配水池整備率",
+      "label": "緊急遮断弁配水池整備率",
+      "labelStandard": "緊急遮断弁配水池整備率",
+      "labelSimple": "緊急遮断弁配水池整備率",
       "value": "95",
       "unit": "%目標",
+      "oldValue": "現行",
       "description": "地震時の管路破断による配水池の水流出を防ぐ遮断弁の全国整備目標",
-      "trend": "up",
-      "trendLabel": "水源死守"
+      "descriptionStandard": "緊急遮断弁配水池整備率",
+      "descriptionSimple": "緊急遮断弁配水池整備率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

@@ -123,58 +123,76 @@
   "badges": [
     {
       "label": "使い捨てプラ12品目",
-      "variant": "neutral"
+      "text": "使い捨てプラ12品目",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "スプーン有料化",
-      "variant": "neutral"
+      "text": "スプーン有料化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "製品プラ一括回収",
-      "variant": "neutral"
+      "text": "製品プラ一括回収",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "配るのを減らす品目",
+      "label": "",
       "labelStandard": "特定使い捨てプラ品目",
+      "labelSimple": "配るのを減らす品目",
       "value": "12",
       "unit": "品目を指定",
       "oldValue": "コンビニやホテルで全量無料配布",
       "description": "スプーン、歯ブラシ、カミソリ等を削減",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "12品目指定",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "ShieldAlert"
     },
     {
-      "labelSimple": "お店の削減ルール",
+      "label": "",
       "labelStandard": "店舗の対応策",
+      "labelSimple": "お店の削減ルール",
       "value": "有料化",
       "unit": "・木製・辞退確認",
       "oldValue": "自動的に袋に入れられるのが当たり前",
       "description": "ポイント還元やバイオマス代替品へ",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "有料化・代替品",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "家からのゴミの集め方",
+      "label": "",
       "labelStandard": "製品プラスチック回収",
+      "labelSimple": "家からのゴミの集め方",
       "value": "一括",
       "unit": "回収へ移行",
       "oldValue": "容器包装マーク以外は燃えるゴミ扱い",
       "description": "おもちゃや文具もまとめてリサイクル",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "一括分別回収",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Layers"
     },
     {
-      "labelSimple": "日本の1人あたり廃棄",
+      "label": "",
       "labelStandard": "容器包装プラ廃棄量",
+      "labelSimple": "日本の1人あたり廃棄",
       "value": "世界2",
       "unit": "位（米に次ぐ多さ）",
       "oldValue": "過剰包装による使い捨て文化の定着",
       "description": "マイカトラリー習慣で脱炭素推進",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "世界ワースト2位",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"

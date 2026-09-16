@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "基礎年金3割底上げ",
-      "variant": "positive"
+      "text": "基礎年金3割底上げ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "財政検証2024",
-      "variant": "neutral"
+      "text": "財政検証2024",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "会社員の納得感",
-      "variant": "warning"
+      "text": "会社員の納得感",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "改革の中核",
+      "labelStandard": "改革の中核",
+      "labelSimple": "改革の中核",
       "value": "マクロ経済スライド期間一致",
+      "unit": "",
+      "oldValue": "現行",
       "description": "厚生年金と基礎年金の給付調整終了時期を同期化",
+      "descriptionStandard": "改革の中核",
+      "descriptionSimple": "改革の中核",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "受給額効果",
+      "labelStandard": "受給額効果",
+      "labelSimple": "受給額効果",
       "value": "将来の基礎年金が約3割増",
+      "unit": "",
+      "oldValue": "現行",
       "description": "所得代替率を約28%から約36%へ大幅に底上げ",
+      "descriptionStandard": "受給額効果",
+      "descriptionSimple": "受給額効果",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "最大の目的",
+      "labelStandard": "最大の目的",
+      "labelSimple": "最大の目的",
       "value": "高齢期の貧困・生活保護防止",
+      "unit": "",
+      "oldValue": "現行",
       "description": "自営業・氷河期世代を含めた1階部分のセーフティネット防衛",
+      "descriptionStandard": "最大の目的",
+      "descriptionSimple": "最大の目的",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

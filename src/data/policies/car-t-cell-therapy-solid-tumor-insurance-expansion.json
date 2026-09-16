@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "固形がん患者カバー率",
+      "labelStandard": "固形がん患者カバー率",
+      "labelSimple": "固形がん患者カバー率",
       "value": "90",
       "unit": "%以上",
       "oldValue": "約10%（血液がんのみ）",
       "description": "血液がんに限られていた適応を、胃・肺・大腸等の全がん種へ拡大",
+      "descriptionStandard": "固形がん患者カバー率",
+      "descriptionSimple": "固形がん患者カバー率",
       "badge": "適応拡大",
       "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "製造期間短縮",
+      "labelStandard": "製造期間短縮",
+      "labelSimple": "製造期間短縮",
       "value": "7",
       "unit": "日間",
       "oldValue": "約3〜4週間（海外輸送含む）",
       "description": "国内院内自動培養システムによる細胞加工リードタイムの短縮",
+      "descriptionStandard": "製造期間短縮",
+      "descriptionSimple": "製造期間短縮",
       "badge": "自動培養",
       "badgeColor": "green",
       "icon": "Clock"

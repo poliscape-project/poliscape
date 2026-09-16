@@ -145,62 +145,76 @@
   "badges": [
     {
       "label": "ゴーストギア流失漁具",
-      "variant": "neutral"
+      "text": "ゴーストギア流失漁具",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "海洋生分解性プラスチック",
-      "variant": "neutral"
+      "text": "海洋生分解性プラスチック",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "漁港での無償引き取り",
-      "variant": "neutral"
+      "text": "漁港での無償引き取り",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "最大級の汚染源",
+      "label": "",
       "labelStandard": "海プラのゴーストギア比率",
+      "labelSimple": "最大級の汚染源",
       "value": "容積 約5割",
       "unit": "を占める",
       "oldValue": "レジ袋やペットボトルだけが注目された",
-      "descriptionSimple": "海中に流失した漁網やロープの脅威",
+      "description": "",
       "descriptionStandard": "海中に流失した漁網やロープの脅威",
+      "descriptionSimple": "海中に流失した漁網やロープの脅威",
       "badge": "最大級の汚染源",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "次世代漁具",
+      "label": "",
       "labelStandard": "自然分解する新素材",
+      "labelSimple": "次世代漁具",
       "value": "海洋生分解",
       "unit": "性樹脂",
       "oldValue": "何百年も分解されないナイロン網",
-      "descriptionSimple": "微生物で水と二酸化炭素に還る漁具",
+      "description": "",
       "descriptionStandard": "微生物で水と二酸化炭素に還る漁具",
+      "descriptionSimple": "微生物で水と二酸化炭素に還る漁具",
       "badge": "次世代漁具",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Leaf"
     },
     {
-      "labelSimple": "回収インセンティブ",
+      "label": "",
       "labelStandard": "海ごみ回収の無償化",
+      "labelSimple": "回収インセンティブ",
       "value": "漁港で無償",
       "unit": "引き取り",
       "oldValue": "漁師が自腹でゴミ処理費用を負担",
-      "descriptionSimple": "操業中に網にかかった海ごみを公費処理",
+      "description": "",
       "descriptionStandard": "操業中に網にかかった海ごみを公費処理",
+      "descriptionSimple": "操業中に網にかかった海ごみを公費処理",
       "badge": "回収インセンティブ",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "コスト課題",
+      "label": "",
       "labelStandard": "生分解性漁具の価格",
+      "labelSimple": "コスト課題",
       "value": "従来の2〜3",
       "unit": "倍の高価格",
       "oldValue": "安価な石油由来プラスチック",
-      "descriptionSimple": "沿岸漁家の導入負担を補助金で支援",
+      "description": "",
       "descriptionStandard": "沿岸漁家の導入負担を補助金で支援",
+      "descriptionSimple": "沿岸漁家の導入負担を補助金で支援",
       "badge": "コスト課題",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Activity"

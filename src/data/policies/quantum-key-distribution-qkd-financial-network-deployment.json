@@ -1,8 +1,8 @@
 {
   "id": "quantum-key-distribution-qkd-financial-network-deployment",
   "title": "量子暗号通信（QKD）ネットワークの政府中枢・金融インフラ先行配備",
-  "category": "technology-dx",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "量子コンピュータの出現によって従来の公開鍵暗号（RSA暗号等）が破られる「量子Y2K危機（Q-Day）」に備え、理論上絶対に盗聴不可能な「量子鍵配送（QKD）」通信ネットワークを、政府中枢・防衛機関・主要金融決済網に先行配備する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "量子暗号",
-      "variant": "purple"
+      "text": "量子暗号",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "サイバーセキュリティ",
-      "variant": "blue"
+      "text": "サイバーセキュリティ",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "経済安全保障",
-      "variant": "green"
+      "text": "経済安全保障",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "鍵生成速度（毎秒）",
+      "label": "鍵生成速度（毎秒）",
+      "labelStandard": "鍵生成速度（毎秒）",
+      "labelSimple": "鍵生成速度（毎秒）",
       "value": "10",
       "unit": "Mbps超",
+      "oldValue": "現行",
       "description": "高精細リアルタイム映像を完全暗号化伝送可能な国産QKDの鍵配送速度",
-      "trend": "up",
-      "trendLabel": "世界最高水準"
+      "descriptionStandard": "鍵生成速度（毎秒）",
+      "descriptionSimple": "鍵生成速度（毎秒）",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "耐盗聴性保証",
+      "label": "耐盗聴性保証",
+      "labelStandard": "耐盗聴性保証",
+      "labelSimple": "耐盗聴性保証",
       "value": "100",
       "unit": "%理論的完全",
+      "oldValue": "現行",
       "description": "量子力学の不確定性原理に基づき、いかなる計算能力でも盗聴が不可能な安全性",
-      "trend": "neutral",
-      "trendLabel": "絶対安全性"
+      "descriptionStandard": "耐盗聴性保証",
+      "descriptionSimple": "耐盗聴性保証",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

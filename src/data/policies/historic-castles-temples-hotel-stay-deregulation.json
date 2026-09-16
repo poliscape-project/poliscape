@@ -130,58 +130,76 @@
   "badges": [
     {
       "label": "城泊・寺泊特区",
-      "variant": "neutral"
+      "text": "城泊・寺泊特区",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "天守1泊100万円貸切",
-      "variant": "neutral"
+      "text": "天守1泊100万円貸切",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "宿泊収益で城郭修繕",
-      "variant": "neutral"
+      "text": "宿泊収益で城郭修繕",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "お城に泊まる値段",
+      "label": "",
       "labelStandard": "天守貸切の宿泊単価",
+      "labelSimple": "お城に泊まる値段",
       "value": "1泊100万",
       "unit": "円超（殿様体験）",
       "oldValue": "これまで 歴史的史跡での宿泊禁止",
       "description": "大洲城や平戸城で木造天守を一晩まるごと貸切",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "城泊特区",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Hotel"
     },
     {
-      "labelSimple": "法律の許可",
+      "label": "",
       "labelStandard": "旅館業法・消防法の特例",
+      "labelSimple": "法律の許可",
       "value": "特例公認",
       "unit": "可逆設備条件",
       "oldValue": "これまで スプリンクラー設置基準不可",
       "description": "建物を傷つけず夜間監視をつける条件で宿泊解禁",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "規制改革",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "FileCheck"
     },
     {
-      "labelSimple": "お金の使い道",
+      "label": "",
       "labelStandard": "宿泊収益の使途",
+      "labelSimple": "お金の使い道",
       "value": "城郭修繕",
       "unit": "基金へ直結",
       "oldValue": "これまで 全額自治体税金で石垣修理",
       "description": "お金持ちからの宿泊代でお城の石垣や屋根を修理",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "自立財源化",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "一番の危険",
+      "label": "",
       "labelStandard": "火災・文化財損傷リスク",
+      "labelSimple": "一番の危険",
       "value": "火災リスク",
       "unit": "尊厳の毀損",
       "oldValue": "これまで 住民の誇り・神聖な場所",
       "description": "万一の出火で全焼する恐れや俗悪化への住民反発",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "安全管理課題",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"

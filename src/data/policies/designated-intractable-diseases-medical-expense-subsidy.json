@@ -2,7 +2,7 @@
   "id": "designated-intractable-diseases-medical-expense-subsidy",
   "title": "難病法に基づく指定難病医療費助成の申請手続きデジタル化・重症度基準改善",
   "catchphrase": "難病患者の負担を劇的に軽減。年1回の診断書提出をマイナポータルで完全オンライン化し、軽症者支援を拡充",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・健康・公衆衛生",
   "lastUpdated": "2024-04-01",
   "effectiveDate": "2024年4月1日改正難病法施行",
@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "診断日へ遡及",
-      "variant": "positive"
+      "text": "診断日へ遡及",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "難病DX電子申請",
-      "variant": "positive"
+      "text": "難病DX電子申請",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "軽症者の壁",
-      "variant": "warning"
+      "text": "軽症者の壁",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "助成開始日",
+      "labelStandard": "助成開始日",
+      "labelSimple": "助成開始日",
       "value": "診断日まで最大3ヶ月遡及",
+      "unit": "",
+      "oldValue": "現行",
       "description": "重症化認定日から適用可能になり申請遅れの不利益を解消",
+      "descriptionStandard": "助成開始日",
+      "descriptionSimple": "助成開始日",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "申請方法",
+      "labelStandard": "申請方法",
+      "labelSimple": "申請方法",
       "value": "オンライン電子申請",
+      "unit": "",
+      "oldValue": "現行",
       "description": "指定医のDB直結登録とマイナポータルからの申請完結",
+      "descriptionStandard": "申請方法",
+      "descriptionSimple": "申請方法",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "対象疾患",
+      "labelStandard": "対象疾患",
+      "labelSimple": "対象疾患",
       "value": "指定難病341疾患",
+      "unit": "",
+      "oldValue": "現行",
       "description": "潰瘍性大腸炎、パーキンソン病、ALSなど広範な希少疾患",
+      "descriptionStandard": "対象疾患",
+      "descriptionSimple": "対象疾患",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     }
   ],

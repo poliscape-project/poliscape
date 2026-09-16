@@ -2,7 +2,7 @@
   "id": "airport-capacity-expansion-haneda-narita-optimization",
   "title": "首都圏空港機能強化法（羽田・成田発着枠拡大とアクセス鉄道高速化）",
   "catchphrase": "アジアの空のハブ空港へ、羽田・成田空港の年間発着枠100万回化と都心直結アクセス線整備",
-  "category": "infrastructure",
+  "category": "society",
   "categoryLabel": "国土・交通",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2024年4月本格稼働",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "空港インフラ",
-      "variant": "positive"
+      "text": "空港インフラ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "羽田・成田",
-      "variant": "positive"
+      "text": "羽田・成田",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "インバウンド",
-      "variant": "neutral"
+      "text": "インバウンド",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "年間100万回発着体制へ",
+      "labelStandard": "年間100万回発着体制へ",
+      "labelSimple": "年間100万回発着体制へ",
       "value": "年間100万回発着体制へ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "羽田・成田の滑走路と空域を最大活用しアジア首位級の容量を確保。",
+      "descriptionStandard": "年間100万回発着体制へ",
+      "descriptionSimple": "年間100万回発着体制へ",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "東京駅から羽田へ18分直結",
+      "labelStandard": "東京駅から羽田へ18分直結",
+      "labelSimple": "東京駅から羽田へ18分直結",
       "value": "東京駅から羽田へ18分直結",
+      "unit": "",
+      "oldValue": "現行",
       "description": "乗り換えなしで都心主要駅と直通するアクセス鉄道を新設。",
+      "descriptionStandard": "東京駅から羽田へ18分直結",
+      "descriptionSimple": "東京駅から羽田へ18分直結",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "最新鋭機の騒音対策",
+      "labelStandard": "最新鋭機の騒音対策",
+      "labelSimple": "最新鋭機の騒音対策",
       "value": "最新鋭機の騒音対策",
+      "unit": "",
+      "oldValue": "現行",
       "description": "低騒音・低燃費機材の優先誘致と周辺住宅の防音工事助成。",
+      "descriptionStandard": "最新鋭機の騒音対策",
+      "descriptionSimple": "最新鋭機の騒音対策",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

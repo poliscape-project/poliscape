@@ -2,7 +2,7 @@
   "id": "organ-donation-driver-license-mynumber-check-opt-in",
   "title": "臓器移植法に基づく意思表示推進策（マイナポータル・運転免許証での臓器提供意思登録拡充）",
   "catchphrase": "移植を待つ命を救う。マイナンバーカードや免許証更新時の臓器提供意思表示の確認促進",
-  "category": "social",
+  "category": "society",
   "categoryLabel": "社会保障・医療・臓器移植",
   "lastUpdated": "2024-04-15",
   "effectiveDate": "2023年4月拡充・順次展開",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "臓器提供意思表示",
-      "variant": "positive"
+      "text": "臓器提供意思表示",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "移植医療推進",
-      "variant": "positive"
+      "text": "移植医療推進",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "信条配慮・家族心理",
-      "variant": "neutral"
+      "text": "信条配慮・家族心理",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "デジタル化",
+      "labelStandard": "デジタル化",
+      "labelSimple": "デジタル化",
       "value": "マイナポータル登録",
+      "unit": "",
+      "oldValue": "現行",
       "description": "スマホでいつでも「提供する・しない」を簡単登録",
+      "descriptionStandard": "デジタル化",
+      "descriptionSimple": "デジタル化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "窓口連携",
+      "labelStandard": "窓口連携",
+      "labelSimple": "窓口連携",
       "value": "免許更新時の選択提示",
+      "unit": "",
+      "oldValue": "現行",
       "description": "未記入放置を防ぐ運転免許センターでの丁寧な案内",
+      "descriptionStandard": "窓口連携",
+      "descriptionSimple": "窓口連携",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "FileText"
     },
     {
       "label": "体制整備",
+      "labelStandard": "体制整備",
+      "labelSimple": "体制整備",
       "value": "院内コーディネーター",
+      "unit": "",
+      "oldValue": "現行",
       "description": "救命救急センターでの丁寧な家族説明と意思確認支援",
+      "descriptionStandard": "体制整備",
+      "descriptionSimple": "体制整備",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     }
   ],

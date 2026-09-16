@@ -1,8 +1,8 @@
 {
   "id": "gifted-exceptional-talent-individual-education-plan-act",
   "title": "特異な才能（ギフテッド）のある児童生徒に対する個別教育支援計画策定",
-  "category": "education-child",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "高い知能指数や特定の学術・芸術・プログラミング分野で突出した才能を持つ「ギフテッド（特異な才能のある児童生徒）」に対し、学校での個別教育支援計画（IEP）の策定を制度化する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "ギフテッド",
-      "variant": "purple"
+      "text": "ギフテッド",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "個別最適学習",
-      "variant": "blue"
+      "text": "個別最適学習",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "才能教育",
-      "variant": "green"
+      "text": "才能教育",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "潜在該当割合",
+      "label": "潜在該当割合",
+      "labelStandard": "潜在該当割合",
+      "labelSimple": "潜在該当割合",
       "value": "2.5",
       "unit": "%",
+      "oldValue": "現行",
       "description": "標準知能検査において知能指数（IQ）130以上を示す児童生徒の出現率",
-      "trend": "neutral",
-      "trendLabel": "潜在比率"
+      "descriptionStandard": "潜在該当割合",
+      "descriptionSimple": "潜在該当割合",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "実証校での登校意欲向上",
+      "label": "実証校での登校意欲向上",
+      "labelStandard": "実証校での登校意欲向上",
+      "labelSimple": "実証校での登校意欲向上",
       "value": "85",
       "unit": "%",
+      "oldValue": "現行",
       "description": "大学連携オンライン発展探究プログラム導入後の不登校傾向児童の改善率",
-      "trend": "up",
-      "trendLabel": "登校意欲回復"
+      "descriptionStandard": "実証校での登校意欲向上",
+      "descriptionSimple": "実証校での登校意欲向上",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

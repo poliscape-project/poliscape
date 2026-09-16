@@ -1,8 +1,8 @@
 {
   "id": "subscription-cancellation-block-consumer-contract-penalty",
   "title": "消費者契約法及び特定商取引法改正（定期購入の解約妨害・ダークパターン直接罰則化）",
-  "category": "consumer-affairs",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "インターネット通販において「初回実質無料」や「500円でお試し」とおとり広告で誘引し、実際には高額な複数回継続（定期購入）が条件となっている悪質商法や、電話が絶対に繋がらない等の「解約妨害（ダークパターン）」を根絶するため、特定商取引法および消費者契約法を抜本改正する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "消費者保護",
-      "variant": "purple"
+      "text": "消費者保護",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "ダークパターン規制",
-      "variant": "blue"
+      "text": "ダークパターン規制",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "サブスク改革",
-      "variant": "green"
+      "text": "サブスク改革",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "定期購入トラブル減少率",
+      "label": "定期購入トラブル減少率",
+      "labelStandard": "定期購入トラブル減少率",
+      "labelSimple": "定期購入トラブル減少率",
       "value": "75",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "解約ボタン義務化および直罰規定施行後の全国消費生活センター定期購入苦情相談の削減目標",
-      "trend": "down",
-      "trendLabel": "相談激減"
+      "descriptionStandard": "定期購入トラブル減少率",
+      "descriptionSimple": "定期購入トラブル減少率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "解約完了所要時間",
+      "label": "解約完了所要時間",
+      "labelStandard": "解約完了所要時間",
+      "labelSimple": "解約完了所要時間",
       "value": "3",
       "unit": "分以内",
+      "oldValue": "現行",
       "description": "オンラインマイページからの解約フローにおける平均所要時間の基準化",
-      "trend": "down",
-      "trendLabel": "即時解約"
+      "descriptionStandard": "解約完了所要時間",
+      "descriptionSimple": "解約完了所要時間",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

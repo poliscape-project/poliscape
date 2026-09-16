@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "技術流出防止",
-      "variant": "positive"
+      "text": "技術流出防止",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "1%届出基準",
-      "variant": "neutral"
+      "text": "1%届出基準",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "投資委縮懸念",
-      "variant": "warning"
+      "text": "投資委縮懸念",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "届出基準",
+      "labelStandard": "届出基準",
+      "labelSimple": "届出基準",
       "value": "持株比率1%以上",
+      "unit": "",
+      "oldValue": "現行",
       "description": "コア業種における外国投資家の事前スクリーニング",
+      "descriptionStandard": "届出基準",
+      "descriptionSimple": "届出基準",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "対象範囲",
+      "labelStandard": "対象範囲",
+      "labelSimple": "対象範囲",
       "value": "先端半導体・重要インフラ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "デュアルユース機微技術とライフライン企業",
+      "descriptionStandard": "対象範囲",
+      "descriptionSimple": "対象範囲",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "例外措置",
+      "labelStandard": "例外措置",
+      "labelSimple": "例外措置",
       "value": "一般投資家包括免除",
+      "unit": "",
+      "oldValue": "現行",
       "description": "経営関与を行わない純投資ファンドへの手続き緩和",
+      "descriptionStandard": "例外措置",
+      "descriptionSimple": "例外措置",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

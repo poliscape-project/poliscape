@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "初診待機期間短縮",
+      "labelStandard": "初診待機期間短縮",
+      "labelSimple": "初診待機期間短縮",
       "value": "2",
       "unit": "週間以内",
       "oldValue": "約6カ月〜1年待ち",
       "description": "全国オンラインハブ連携による初診待ち日数の劇的短縮目標",
+      "descriptionStandard": "初診待機期間短縮",
+      "descriptionSimple": "初診待機期間短縮",
       "badge": "待機解消",
       "badgeColor": "green",
       "icon": "Clock"
     },
     {
       "label": "小児精神科医カバー",
+      "labelStandard": "小児精神科医カバー",
+      "labelSimple": "小児精神科医カバー",
       "value": "100",
       "unit": "%全都道府県",
       "oldValue": "専門医ゼロ地域が多数",
       "description": "遠隔ネットワークによる全国すべての市町村・離島からの専門アクセス担保",
+      "descriptionStandard": "小児精神科医カバー",
+      "descriptionSimple": "小児精神科医カバー",
       "badge": "地域格差是正",
       "badgeColor": "blue",
       "icon": "Globe"

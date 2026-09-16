@@ -175,62 +175,76 @@
   "badges": [
     {
       "label": "令和の米騒動検証",
-      "variant": "neutral"
+      "text": "令和の米騒動検証",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "減反政策の抜本見直し",
-      "variant": "neutral"
+      "text": "減反政策の抜本見直し",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "備蓄米の機動的放出議論",
-      "variant": "neutral"
+      "text": "備蓄米の機動的放出議論",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "国がためているお米",
+      "label": "",
       "labelStandard": "政府備蓄米保有量",
+      "labelSimple": "国がためているお米",
       "value": "約 100",
       "unit": "万トン",
       "oldValue": "これまで「大凶作時のみ」厳格運用",
-      "descriptionSimple": "ピンチのときに早くお店に届けるか議論！",
+      "description": "",
       "descriptionStandard": "流通逼迫・異常高騰時の機動的放出を検討",
+      "descriptionSimple": "ピンチのときに早くお店に届けるか議論！",
       "badge": "有事の砦",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "お米をへらすお金",
+      "label": "",
       "labelStandard": "転作助成（減反方針）",
+      "labelSimple": "お米をへらすお金",
       "value": "最大 10.5",
       "unit": "万円/10a",
       "oldValue": "飼料用米等への転作を強力誘導",
-      "descriptionSimple": "「コメを作るな」というルールの見直し！",
+      "description": "",
       "descriptionStandard": "需給に応じた柔軟な作付け支援への転換",
+      "descriptionSimple": "「コメを作るな」というルールの見直し！",
       "badge": "減反見直し",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Scale"
     },
     {
-      "labelSimple": "お米のねだん上昇",
+      "label": "",
       "labelStandard": "新米価格の前年比",
+      "labelSimple": "お米のねだん上昇",
       "value": "最大 +50",
       "unit": "%超",
       "oldValue": "2024年夏に令和の米騒動が発生",
-      "descriptionSimple": "スーパーからお米が消えて高騰！",
+      "description": "",
       "descriptionStandard": "猛暑被害・資材高騰と流通混乱が直撃",
+      "descriptionSimple": "スーパーからお米が消えて高騰！",
       "badge": "価格急騰",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "TrendingUp"
     },
     {
-      "labelSimple": "1人が食べるお米の量",
+      "label": "",
       "labelStandard": "年間1人あたり消費量",
+      "labelSimple": "1人が食べるお米の量",
       "value": "約 50",
       "unit": "kg/年",
       "oldValue": "ピーク時（昭和37年）は118kg",
-      "descriptionSimple": "日本人が食べるお米は年々減少中",
+      "description": "",
       "descriptionStandard": "人口減少と食の多様化で需要は構造的減少",
+      "descriptionSimple": "日本人が食べるお米は年々減少中",
       "badge": "需要半減",
       "badgeColor": "bg-slate-100 text-slate-700",
       "icon": "Users"

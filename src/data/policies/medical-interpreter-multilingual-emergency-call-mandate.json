@@ -3,7 +3,7 @@
   "title": "救急医療機関における遠隔医療通訳（多言語同時通訳）導入支援",
   "category": "healthcare",
   "categoryLabel": "医療・公衆衛生",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "JMIP認証・遠隔通訳補助中",
   "catchphrase": "言葉の壁で救える命を落とさない。訪日外国人・在留外国人の救急受入に向けた24時間遠隔医療通訳配備",
   "lastUpdated": "2026-09-16",
@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "対応可能言語数",
+      "labelStandard": "対応可能言語数",
+      "labelSimple": "対応可能言語数",
       "value": "20",
       "unit": "言語以上",
       "oldValue": "英語のみまたは身振り手振り",
       "description": "英語・中国語からアジア系マイナー言語まで24時間電話・ビデオ対応",
+      "descriptionStandard": "対応可能言語数",
+      "descriptionSimple": "対応可能言語数",
       "badge": "多言語網羅",
       "badgeColor": "blue",
       "icon": "Globe"
     },
     {
       "label": "通訳応答時間",
+      "labelStandard": "通訳応答時間",
+      "labelSimple": "通訳応答時間",
       "value": "60",
       "unit": "秒以内",
       "oldValue": "通訳手配に数時間〜翌日",
       "description": "救急外来タブレットからのワンタップ即時コール接続",
+      "descriptionStandard": "通訳応答時間",
+      "descriptionSimple": "通訳応答時間",
       "badge": "即時接続",
       "badgeColor": "green",
       "icon": "Clock"

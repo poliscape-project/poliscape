@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "子育て最大300万",
-      "variant": "positive"
+      "text": "子育て最大300万",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "テレワーク公認",
-      "variant": "positive"
+      "text": "テレワーク公認",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "5年定着要件",
-      "variant": "warning"
+      "text": "5年定着要件",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "世帯支援金",
+      "labelStandard": "世帯支援金",
+      "labelSimple": "世帯支援金",
       "value": "最大100万円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "2人以上の世帯での移住に対する基本給付",
+      "descriptionStandard": "世帯支援金",
+      "descriptionSimple": "世帯支援金",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Home"
     },
     {
       "label": "子ども加算",
+      "labelStandard": "子ども加算",
+      "labelSimple": "子ども加算",
       "value": "最大100万円/人",
+      "unit": "",
+      "oldValue": "現行",
       "description": "18歳未満の同伴児童1人につき上乗せ給付",
+      "descriptionStandard": "子ども加算",
+      "descriptionSimple": "子ども加算",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Baby"
     },
     {
       "label": "起業支援金",
+      "labelStandard": "起業支援金",
+      "labelSimple": "起業支援金",
       "value": "最大200万円併用",
+      "unit": "",
+      "oldValue": "現行",
       "description": "地域課題解決型ビジネスの立ち上げ経費助成",
+      "descriptionStandard": "起業支援金",
+      "descriptionSimple": "起業支援金",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

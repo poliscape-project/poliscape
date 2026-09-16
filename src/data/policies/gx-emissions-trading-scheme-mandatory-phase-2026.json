@@ -161,50 +161,62 @@
   "badges": [
     {
       "label": "2026年度に義務化移行",
-      "variant": "neutral"
+      "text": "2026年度に義務化移行",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "2033年度有償オークション",
-      "variant": "neutral"
+      "text": "2033年度有償オークション",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "大排出企業が対象",
-      "variant": "neutral"
+      "text": "大排出企業が対象",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "本格義務化の開始時期",
+      "label": "",
       "labelStandard": "GX-ETSの法的義務化時期",
+      "labelSimple": "本格義務化の開始時期",
       "value": "2026年",
       "unit": "度から本格化",
       "oldValue": "自主参加（GXリーグ第1フェーズ）",
-      "descriptionSimple": "大企業が逃げられない法的な参加ルールへ切り替わる！",
+      "description": "",
       "descriptionStandard": "法定キャップと未達時のペナルティを伴う本格義務制度へ移行",
+      "descriptionSimple": "大企業が逃げられない法的な参加ルールへ切り替わる！",
       "badge": "制度転換",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "電力会社がお金を払う年",
+      "label": "",
       "labelStandard": "発電部門有償オークション",
+      "labelSimple": "電力会社がお金を払う年",
       "value": "2033年",
       "unit": "度〜段階導入",
       "oldValue": "無償割り当てのみ",
-      "descriptionSimple": "CO2を出す発電枠を国から買い取る仕組みがスタート！",
+      "description": "",
       "descriptionStandard": "排出枠を有償入札としGX投資回収の主財源として位置付け",
+      "descriptionSimple": "CO2を出す発電枠を国から買い取る仕組みがスタート！",
       "badge": "有償化",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "政府の脱炭素先行投資",
+      "label": "",
       "labelStandard": "GX経済移行債の発行規模",
+      "labelSimple": "政府の脱炭素先行投資",
       "value": "約 20兆",
       "unit": "円（10年間）",
       "oldValue": "一般会計補助金による単年対応",
-      "descriptionSimple": "政府が20兆円を先行投資し将来の炭素収入で返済！",
+      "description": "",
       "descriptionStandard": "民間の150兆円脱炭素投資を呼び込むための呼び水国債",
+      "descriptionSimple": "政府が20兆円を先行投資し将来の炭素収入で返済！",
       "badge": "大型投資",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "TrendingUp"

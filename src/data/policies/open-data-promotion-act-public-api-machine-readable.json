@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "オープンデータ",
-      "variant": "positive"
+      "text": "オープンデータ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "データDX",
-      "variant": "positive"
+      "text": "データDX",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "行政透明性",
-      "variant": "neutral"
+      "text": "行政透明性",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "PDF・紙の行政データを根絶",
+      "labelStandard": "PDF・紙の行政データを根絶",
+      "labelSimple": "PDF・紙の行政データを根絶",
       "value": "PDF・紙の行政データを根絶",
+      "unit": "",
+      "oldValue": "現行",
       "description": "AIやプログラムがそのまま読み込めるJSONやAPI形式での公開を義務化。",
+      "descriptionStandard": "PDF・紙の行政データを根絶",
+      "descriptionSimple": "PDF・紙の行政データを根絶",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "商用利用も完全無料",
+      "labelStandard": "商用利用も完全無料",
+      "labelSimple": "商用利用も完全無料",
       "value": "商用利用も完全無料",
+      "unit": "",
+      "oldValue": "現行",
       "description": "スタートアップが行政データを使って自由に収益アプリを開発可能。",
+      "descriptionStandard": "商用利用も完全無料",
+      "descriptionSimple": "商用利用も完全無料",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "政策効果の完全可視化",
+      "labelStandard": "政策効果の完全可視化",
+      "labelSimple": "政策効果の完全可視化",
       "value": "政策効果の完全可視化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "予算使途や公共事業データを市民が客観的に検証できる環境を整備。",
+      "descriptionStandard": "政策効果の完全可視化",
+      "descriptionSimple": "政策効果の完全可視化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

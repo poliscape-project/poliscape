@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "税制改革",
-      "variant": "positive"
+      "text": "税制改革",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "不正転売防止",
-      "variant": "positive"
+      "text": "不正転売防止",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "観光立国",
-      "variant": "warning"
+      "text": "観光立国",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "不正転売・脱税の撲滅",
+      "labelStandard": "不正転売・脱税の撲滅",
+      "labelSimple": "不正転売・脱税の撲滅",
       "value": "不正転売・脱税の撲滅",
+      "unit": "",
+      "oldValue": "現行",
       "description": "現物確認が出国時になるため、国内での横流し利益を完全に無力化。",
+      "descriptionStandard": "不正転売・脱税の撲滅",
+      "descriptionSimple": "不正転売・脱税の撲滅",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "空港キオスクで即時還付",
+      "labelStandard": "空港キオスクで即時還付",
+      "labelSimple": "空港キオスクで即時還付",
       "value": "空港キオスクで即時還付",
+      "unit": "",
+      "oldValue": "現行",
       "description": "スマホやクレジットカードへ電子マネー・外貨で自動即時返金。",
+      "descriptionStandard": "空港キオスクで即時還付",
+      "descriptionSimple": "空港キオスクで即時還付",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "店舗の過失責任リスク解消",
+      "labelStandard": "店舗の過失責任リスク解消",
+      "labelSimple": "店舗の過失責任リスク解消",
       "value": "店舗の過失責任リスク解消",
+      "unit": "",
+      "oldValue": "現行",
       "description": "小売店が偽造パスポート等による免税販売で追徴課税される被害を防止。",
+      "descriptionStandard": "店舗の過失責任リスク解消",
+      "descriptionSimple": "店舗の過失責任リスク解消",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

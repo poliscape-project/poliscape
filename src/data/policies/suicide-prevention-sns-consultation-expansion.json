@@ -2,7 +2,7 @@
   "id": "suicide-prevention-sns-consultation-expansion",
   "title": "若年層向けSNS心の相談窓口の24時間化・自殺総合対策大綱の推進",
   "catchphrase": "声なきSOSを見逃さない。電話できない10代・20代にLINEやチャットで24時間寄り添う国家相談網を構築",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・健康・公衆衛生",
   "lastUpdated": "2024-05-10",
   "effectiveDate": "第4次自殺総合対策大綱（2022〜2026年度）推進中",
@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "若者自殺防止",
-      "variant": "positive"
+      "text": "若者自殺防止",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "LINE・チャット24H",
-      "variant": "positive"
+      "text": "LINE・チャット24H",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "相談員確保が課題",
-      "variant": "warning"
+      "text": "相談員確保が課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "対応手段",
+      "labelStandard": "対応手段",
+      "labelSimple": "対応手段",
       "value": "LINE・Webチャット",
+      "unit": "",
+      "oldValue": "現行",
       "description": "電話を嫌う若者向けにテキストで手軽に相談",
+      "descriptionStandard": "対応手段",
+      "descriptionSimple": "対応手段",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "体制",
+      "labelStandard": "体制",
+      "labelSimple": "体制",
       "value": "24時間365日対応へ拡充",
+      "unit": "",
+      "oldValue": "現行",
       "description": "最も危険な深夜・早朝の相談窓口を重点強化",
+      "descriptionStandard": "体制",
+      "descriptionSimple": "体制",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "連携",
+      "labelStandard": "連携",
+      "labelSimple": "連携",
       "value": "警察・児相との緊急介入",
+      "unit": "",
+      "oldValue": "現行",
       "description": "命の危険が切迫した事案での即時救護フロー",
+      "descriptionStandard": "連携",
+      "descriptionSimple": "連携",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

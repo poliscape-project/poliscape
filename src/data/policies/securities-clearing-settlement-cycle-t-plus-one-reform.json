@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "金融市場",
-      "variant": "positive"
+      "text": "金融市場",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "決済短縮",
-      "variant": "neutral"
+      "text": "決済短縮",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "国際金融",
-      "variant": "positive"
+      "text": "国際金融",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "翌日決済（T+1）の実現",
+      "labelStandard": "翌日決済（T+1）の実現",
+      "labelSimple": "翌日決済（T+1）の実現",
       "value": "翌日決済（T+1）の実現",
+      "unit": "",
+      "oldValue": "現行",
       "description": "株式や債券の売買成立の翌営業日に現金と現物の受け渡しが完了。",
+      "descriptionStandard": "翌日決済（T+1）の実現",
+      "descriptionSimple": "翌日決済（T+1）の実現",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "市場決済リスクの半減",
+      "labelStandard": "市場決済リスクの半減",
+      "labelSimple": "市場決済リスクの半減",
       "value": "市場決済リスクの半減",
+      "unit": "",
+      "oldValue": "現行",
       "description": "相手方破綻による決済不能リスクを大幅に圧縮し市場の安全性を強化。",
+      "descriptionStandard": "市場決済リスクの半減",
+      "descriptionSimple": "市場決済リスクの半減",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "国際市場との完全同期",
+      "labelStandard": "国際市場との完全同期",
+      "labelSimple": "国際市場との完全同期",
       "value": "国際市場との完全同期",
+      "unit": "",
+      "oldValue": "現行",
       "description": "先行する米国市場との決済ズレを解消し海外投資マネーを円滑受入れ。",
+      "descriptionStandard": "国際市場との完全同期",
+      "descriptionSimple": "国際市場との完全同期",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

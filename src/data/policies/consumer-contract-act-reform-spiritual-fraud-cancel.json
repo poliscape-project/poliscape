@@ -155,50 +155,62 @@
   "badges": [
     {
       "label": "霊感商法取消期間を10年へ",
-      "variant": "neutral"
+      "text": "霊感商法取消期間を10年へ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "家族への害悪告知も対象",
-      "variant": "neutral"
+      "text": "家族への害悪告知も対象",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "解約料の根拠説明ルール",
-      "variant": "neutral"
+      "text": "解約料の根拠説明ルール",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "契約を取り消せる期間",
+      "label": "",
       "labelStandard": "霊感商法の取消権行使期間",
+      "labelSimple": "契約を取り消せる期間",
       "value": "最長 10年",
       "unit": "（契約締結から）",
       "oldValue": "契約から5年（気づいてから1年）",
-      "descriptionSimple": "だまされていたと気づくのが遅れても10年以内ならお金を請求できる！",
+      "description": "",
       "descriptionStandard": "マインドコントロールの長期性を考慮し取消権の消滅時効を倍増",
+      "descriptionSimple": "だまされていたと気づくのが遅れても10年以内ならお金を請求できる！",
       "badge": "救済期間倍増",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Clock"
     },
     {
-      "labelSimple": "家族を脅された場合",
+      "label": "",
       "labelStandard": "取消対象となる告知の範囲",
+      "labelSimple": "家族を脅された場合",
       "value": "家族も対象",
       "unit": "（将来の不安も含む）",
       "oldValue": "本人現在の不安のみ",
-      "descriptionSimple": "『子どもが病気になる』など家族への脅しで契約させられた場合も無効！",
+      "description": "",
       "descriptionStandard": "親族の生命・身体・財産に対する害悪告知を取消事由に明記",
+      "descriptionSimple": "『子どもが病気になる』など家族への脅しで契約させられた場合も無効！",
       "badge": "要件大幅緩和",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "高すぎる中途解約金",
+      "label": "",
       "labelStandard": "違約金・解約料の算定根拠",
+      "labelSimple": "高すぎる中途解約金",
       "value": "説明義務",
       "unit": "（事業者の努力義務）",
       "oldValue": "規約一方的適用・根拠非開示",
-      "descriptionSimple": "エステや習い事をやめるときに法外な違約金を取るのを防ぐ！",
+      "description": "",
       "descriptionStandard": "消費者の求めに応じて平均的損害額の根拠を説明する努力義務を規定",
+      "descriptionSimple": "エステや習い事をやめるときに法外な違約金を取るのを防ぐ！",
       "badge": "不当請求防止",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "FileText"

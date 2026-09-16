@@ -2,7 +2,7 @@
   "id": "electronic-health-record-interoperability-fire-ems",
   "title": "救急搬送トリアージ・健康保険証マイナDXリアルタイム既往歴共有法",
   "catchphrase": "救急車の搬送先を即座に決定、既往歴・アレルギーの救急車内リアルタイム照会",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・福祉",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月全国配備",
@@ -94,28 +94,50 @@
   "badges": [
     {
       "label": "救急医療DX",
-      "variant": "positive"
+      "text": "救急医療DX",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "たらい回しゼロ",
-      "variant": "positive"
+      "text": "たらい回しゼロ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "マイナ活用",
-      "variant": "neutral"
+      "text": "マイナ活用",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "受入先決定時間",
+      "labelStandard": "受入先決定時間",
+      "labelSimple": "受入先決定時間",
       "value": "平均3〜5分短縮",
+      "unit": "",
+      "oldValue": "現行",
       "description": "電話確認の往復をなくし最適な専門病院へ直行",
+      "descriptionStandard": "受入先決定時間",
+      "descriptionSimple": "受入先決定時間",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "配備対象",
+      "labelStandard": "配備対象",
+      "labelSimple": "配備対象",
       "value": "全国救急車約6,500台",
+      "unit": "",
+      "oldValue": "現行",
       "description": "全国すべての消防本部・救急車両にセキュア専用端末を配備",
+      "descriptionStandard": "配備対象",
+      "descriptionSimple": "配備対象",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     }
   ],

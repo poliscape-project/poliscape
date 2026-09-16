@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "通学定期代補助率",
+      "labelStandard": "通学定期代補助率",
+      "labelSimple": "通学定期代補助率",
       "value": "最大50〜100",
       "unit": "%（自治体助成）",
       "oldValue": "全額自己負担",
       "description": "年間10万〜20万円にのぼる定期券代の大半を公費助成",
+      "descriptionStandard": "通学定期代補助率",
+      "descriptionSimple": "通学定期代補助率",
       "badge": "最大全額助成",
       "badgeColor": "blue",
       "icon": "currency-yen"
     },
     {
       "label": "家庭年間節約額",
+      "labelStandard": "家庭年間節約額",
+      "labelSimple": "家庭年間節約額",
       "value": "約5〜10",
       "unit": "万円（家計負担軽減）",
       "oldValue": "教育費の高額圧迫",
       "description": "多子世帯や長距離通学家庭の可処分所得を直接下支え",
+      "descriptionStandard": "家庭年間節約額",
+      "descriptionSimple": "家庭年間節約額",
       "badge": "家計支援",
       "badgeColor": "green",
       "icon": "arrow-trending-down"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

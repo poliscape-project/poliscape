@@ -158,62 +158,76 @@
   "badges": [
     {
       "label": "支給停止基準 月50万円",
-      "variant": "neutral"
+      "text": "支給停止基準 月50万円",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "超過分の1/2カット",
-      "variant": "neutral"
+      "text": "超過分の1/2カット",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "基礎年金は全額支給",
-      "variant": "neutral"
+      "text": "基礎年金は全額支給",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "年金が減らされない給料ライン",
+      "label": "",
       "labelStandard": "支給停止基準額（月額合算）",
+      "labelSimple": "年金が減らされない給料ライン",
       "value": "50",
       "unit": "万円/月",
       "oldValue": "給与（総報酬目安）＋厚生年金月額",
-      "descriptionSimple": "合計月50万円までは年金を満額もらえる！",
+      "description": "",
       "descriptionStandard": "2024年度より基準額が50万円に改定",
+      "descriptionSimple": "合計月50万円までは年金を満額もらえる！",
       "badge": "月50万円基準",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Briefcase"
     },
     {
-      "labelSimple": "50万円を超えた分のカット割合",
+      "label": "",
       "labelStandard": "超過分の支給停止率",
+      "labelSimple": "50万円を超えた分のカット割合",
       "value": "1/2",
       "unit": "カット",
       "oldValue": "（総収入 - 50万円）÷ 2",
-      "descriptionSimple": "超えた分の半分だけ年金が減る仕組み",
+      "description": "",
       "descriptionStandard": "超過分の半額が厚生年金から減額される",
+      "descriptionSimple": "超えた分の半分だけ年金が減る仕組み",
       "badge": "半分カット",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "TrendingDown"
     },
     {
-      "labelSimple": "国民年金（基礎年金）のあつかい",
+      "label": "",
       "labelStandard": "老齢基礎年金",
+      "labelSimple": "国民年金（基礎年金）のあつかい",
       "value": "全額支給",
       "unit": "（減額なし）",
       "oldValue": "どれだけ給料が高くても満額",
-      "descriptionSimple": "国民年金は1円も減らされません！",
+      "description": "",
       "descriptionStandard": "カット対象は老齢厚生年金（報酬比例部分のみ）",
+      "descriptionSimple": "国民年金は1円も減らされません！",
       "badge": "100%支給",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "制度のこれからの動き",
+      "label": "",
       "labelStandard": "制度見直しの議論動向",
+      "labelSimple": "制度のこれからの動き",
       "value": "62万円案",
       "unit": "や撤廃検討",
       "oldValue": "シニアの就労意欲阻害が問題視",
-      "descriptionSimple": "もっと働きやすくするルール改正を議論中",
+      "description": "",
       "descriptionStandard": "人手不足に対応した基準引上げや廃止の審議",
+      "descriptionSimple": "もっと働きやすくするルール改正を議論中",
       "badge": "改正審議中",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Clock"

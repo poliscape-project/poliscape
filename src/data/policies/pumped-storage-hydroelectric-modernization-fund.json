@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "揚水発電",
-      "variant": "positive"
+      "text": "揚水発電",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "再エネ調整力",
-      "variant": "positive"
+      "text": "再エネ調整力",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "電力安定化",
-      "variant": "neutral"
+      "text": "電力安定化",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "保有容量",
+      "labelStandard": "保有容量",
+      "labelSimple": "保有容量",
       "value": "約2,700万kW",
+      "unit": "",
+      "oldValue": "現行",
       "description": "原発27基分に相当する世界トップクラスの既存揚水蓄電インフラ",
+      "descriptionStandard": "保有容量",
+      "descriptionSimple": "保有容量",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Zap"
     },
     {
       "label": "改修支援",
+      "labelStandard": "改修支援",
+      "labelSimple": "改修支援",
       "value": "改修費最大1/3助成",
+      "unit": "",
+      "oldValue": "現行",
       "description": "旧型固定速から高精度な可変速揚水システムへの刷新を助成",
+      "descriptionStandard": "改修支援",
+      "descriptionSimple": "改修支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

@@ -1,8 +1,8 @@
 {
   "id": "esports-industry-promotion-youth-health-guideline-act",
   "title": "eスポーツ産業振興及び未成年競技者の健康管理・適正プレイ時間指針",
-  "category": "education-child",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "国際的な巨大市場に成長したeスポーツ産業の振興と、オリンピック・アジア大会でのメダル獲得を目指す競技力向上を支援するとともに、未成年競技者のゲーム障害（依存症）・視力低下・運動不足を防ぐ国の統一健康ガイドラインを策定する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "eスポーツ",
-      "variant": "blue"
+      "text": "eスポーツ",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "スポーツ科学",
-      "variant": "green"
+      "text": "スポーツ科学",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "青少年健全育成",
-      "variant": "purple"
+      "text": "青少年健全育成",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "推奨練習時間上限",
+      "label": "推奨練習時間上限",
+      "labelStandard": "推奨練習時間上限",
+      "labelSimple": "推奨練習時間上限",
       "value": "3",
       "unit": "時間/日（平日）",
+      "oldValue": "現行",
       "description": "未成年競技者の学業・睡眠確保のための平日練習ガイドライン基準",
-      "trend": "neutral",
-      "trendLabel": "健康上限基準"
+      "descriptionStandard": "推奨練習時間上限",
+      "descriptionSimple": "推奨練習時間上限",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "高校eスポーツ部設置校",
+      "label": "高校eスポーツ部設置校",
+      "labelStandard": "高校eスポーツ部設置校",
+      "labelSimple": "高校eスポーツ部設置校",
       "value": "600",
       "unit": "校超",
+      "oldValue": "現行",
       "description": "全国の高等学校で正式な部活動・同好会として活動する学校数",
-      "trend": "up",
-      "trendLabel": "急増中"
+      "descriptionStandard": "高校eスポーツ部設置校",
+      "descriptionSimple": "高校eスポーツ部設置校",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "機関の独立性",
+      "labelStandard": "機関の独立性",
+      "labelSimple": "機関の独立性",
       "value": "完全独立",
       "unit": "（首長・教委から中立）",
       "oldValue": "教育委員会立入調査",
       "description": "弁護士等による第三者機関として独立した調査権・是正勧告権を保持",
+      "descriptionStandard": "機関の独立性",
+      "descriptionSimple": "機関の独立性",
       "badge": "完全第三者機関",
       "badgeColor": "green",
       "icon": "shield-check"
     },
     {
       "label": "相談利用料",
+      "labelStandard": "相談利用料",
+      "labelSimple": "相談利用料",
       "value": "0",
       "unit": "円（完全無料・秘密厳守）",
       "oldValue": "弁護士相談等で高額費用",
       "description": "LINEや電話等で子ども自身が親や学校に知られず無料で相談可能",
+      "descriptionStandard": "相談利用料",
+      "descriptionSimple": "相談利用料",
       "badge": "完全無料相談",
       "badgeColor": "blue",
       "icon": "chat-bubble-left-right"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

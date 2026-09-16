@@ -1,8 +1,8 @@
 {
   "id": "shift-worker-sleep-apnea-syndrome-sas-screening-subsidy",
   "title": "夜勤・交代制勤務従事者向け睡眠時無呼吸症候群（SAS）健診助成",
-  "category": "health-medical",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "バス・トラック・タクシー等の職業ドライバー、鉄道運転士、航空機操縦士、プラント夜勤オペレーター等に対し、睡眠時無呼吸症候群（SAS）の簡易スクリーニング検査費用の全額助成を制度化する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "交通安全",
-      "variant": "green"
+      "text": "交通安全",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "労働安全衛生",
-      "variant": "blue"
+      "text": "労働安全衛生",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "健康経営",
-      "variant": "purple"
+      "text": "健康経営",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "スクリーニング検査助成率",
+      "label": "スクリーニング検査助成率",
+      "labelStandard": "スクリーニング検査助成率",
+      "labelSimple": "スクリーニング検査助成率",
       "value": "100",
       "unit": "%全額助成",
+      "oldValue": "現行",
       "description": "事業用トラック・バス・タクシードライバーの簡易検査費用を全額支援",
-      "trend": "up",
-      "trendLabel": "全額補助"
+      "descriptionStandard": "スクリーニング検査助成率",
+      "descriptionSimple": "スクリーニング検査助成率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "事故リスク低減効果",
+      "label": "事故リスク低減効果",
+      "labelStandard": "事故リスク低減効果",
+      "labelSimple": "事故リスク低減効果",
       "value": "70",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "未治療SAS患者に対するCPAP適正治療介入後の交通事故発生率低下",
-      "trend": "down",
-      "trendLabel": "事故激減"
+      "descriptionStandard": "事故リスク低減効果",
+      "descriptionSimple": "事故リスク低減効果",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

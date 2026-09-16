@@ -161,62 +161,76 @@
   "badges": [
     {
       "label": "最大80%キャッシュバック",
-      "variant": "neutral"
+      "text": "最大80%キャッシュバック",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "年間上限64万円へ拡充",
-      "variant": "neutral"
+      "text": "年間上限64万円へ拡充",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "在職中休業給付新設",
-      "variant": "neutral"
+      "text": "在職中休業給付新設",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "国からのキャッシュバック",
+      "label": "",
       "labelStandard": "最大給付率（ハローワーク）",
+      "labelSimple": "国からのキャッシュバック",
       "value": "最大 80",
       "unit": "％支給",
       "oldValue": "従来 最大70%（受講中50%＋修了20%）",
-      "descriptionSimple": "学費の最大80%が戻ってくる神制度！",
+      "description": "",
       "descriptionStandard": "資格取得＋賃金5%アップ要件達成で80%へ拡充",
+      "descriptionSimple": "学費の最大80%が戻ってくる神制度！",
       "badge": "最大80%拡充",
       "badgeColor": "bg-violet-100 text-violet-800",
       "icon": "TrendingUp"
     },
     {
-      "labelSimple": "1年にもらえる上限",
+      "label": "",
       "labelStandard": "年間給付上限額",
+      "labelSimple": "1年にもらえる上限",
       "value": "年最大 64",
       "unit": "万円（3年192万）",
       "oldValue": "従来 年最大56万円（3年168万円）",
-      "descriptionSimple": "高額なITスクールの学費もほぼカバー！",
+      "description": "",
       "descriptionStandard": "専門実践教育訓練で年間上限が引き上げ",
+      "descriptionSimple": "高額なITスクールの学費もほぼカバー！",
       "badge": "年最大64万円",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "勉強中の生活費サポート",
+      "label": "",
       "labelStandard": "教育訓練休暇給付金",
+      "labelSimple": "勉強中の生活費サポート",
       "value": "休業給付新設",
       "unit": "（生活費補助）",
       "oldValue": "退職して失業保険をもらうしかなかった",
-      "descriptionSimple": "仕事を辞めなくても給付金をもらって休める",
+      "description": "",
       "descriptionStandard": "会社を休業して本格的に学び直す間の生活費を補助",
+      "descriptionSimple": "仕事を辞めなくても給付金をもらって休める",
       "badge": "休業給付新設",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "BookOpen"
     },
     {
-      "labelSimple": "どんな講座が学べる？",
+      "label": "",
       "labelStandard": "対象講座の重点分野",
+      "labelSimple": "どんな講座が学べる？",
       "value": "AI・DX講座",
       "unit": "大幅拡充",
       "oldValue": "簿記や宅建などの伝統的資格中心だった",
-      "descriptionSimple": "AI・データサイエンス・プログラミングが充実！",
+      "description": "",
       "descriptionStandard": "人手不足の成長産業へ向けた講座が多数指定",
+      "descriptionSimple": "AI・データサイエンス・プログラミングが充実！",
       "badge": "AI・DX重点",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Sparkles"

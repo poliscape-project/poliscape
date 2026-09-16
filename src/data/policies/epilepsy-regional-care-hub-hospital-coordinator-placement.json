@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "拠点病院整備率",
+      "labelStandard": "拠点病院整備率",
+      "labelSimple": "拠点病院整備率",
       "value": "100",
       "unit": "%（47都道府県完全整備）",
       "oldValue": "一部自治体のみ指定",
       "description": "全国どこに住んでいても専門的なてんかん集学治療へのアクセスを確保",
+      "descriptionStandard": "拠点病院整備率",
+      "descriptionSimple": "拠点病院整備率",
       "badge": "全国土100%整備",
       "badgeColor": "green",
       "icon": "building-library"
     },
     {
       "label": "発作抑制・寛解率",
+      "labelStandard": "発作抑制・寛解率",
+      "labelSimple": "発作抑制・寛解率",
       "value": "約75",
       "unit": "%（適切な治療下）",
       "oldValue": "誤診・未治療による放置",
       "description": "早期の確定診断と新規抗てんかん薬・外科手術による発作ゼロ化",
+      "descriptionStandard": "発作抑制・寛解率",
+      "descriptionSimple": "発作抑制・寛解率",
       "badge": "発作寛解",
       "badgeColor": "blue",
       "icon": "sparkles"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

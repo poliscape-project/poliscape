@@ -1,8 +1,8 @@
 {
   "id": "autism-sensory-room-public-facility-subsidy-act",
   "title": "自閉スペクトラム症児向け感覚過敏配慮センサリールーム設置支援法",
-  "category": "education-child",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "自閉スペクトラム症（ASD）や感覚過敏を抱える子どもや大人が、音や光などの過剰な刺激から一時的に避難して心を落ち着かせることができる「センサリールーム（カームダウンスペース）」の公共施設への設置を義務付け・補助する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "発達障害支援",
-      "variant": "purple"
+      "text": "発達障害支援",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "バリアフリー",
-      "variant": "green"
+      "text": "バリアフリー",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "共生社会",
-      "variant": "blue"
+      "text": "共生社会",
+      "variant": "blue",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "公共拠点設置目標数",
+      "label": "公共拠点設置目標数",
+      "labelStandard": "公共拠点設置目標数",
+      "labelSimple": "公共拠点設置目標数",
       "value": "500",
       "unit": "箇所",
+      "oldValue": "現行",
       "description": "全国の主要駅・空港・大規模スタジアム・文化施設における整備目標",
-      "trend": "up",
-      "trendLabel": "設置加速中"
+      "descriptionStandard": "公共拠点設置目標数",
+      "descriptionSimple": "公共拠点設置目標数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "施設改修費用の補助率",
+      "label": "施設改修費用の補助率",
+      "labelStandard": "施設改修費用の補助率",
+      "labelSimple": "施設改修費用の補助率",
       "value": "50",
       "unit": "%",
+      "oldValue": "現行",
       "description": "センサリールーム新設工事費に対する国および自治体の補助上限割合",
-      "trend": "up",
-      "trendLabel": "公費補助"
+      "descriptionStandard": "施設改修費用の補助率",
+      "descriptionSimple": "施設改修費用の補助率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

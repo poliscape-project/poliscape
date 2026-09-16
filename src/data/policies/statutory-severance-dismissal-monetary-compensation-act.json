@@ -1,7 +1,7 @@
 {
   "id": "statutory-severance-dismissal-monetary-compensation-act",
   "title": "整理解雇等の金銭解決制度（解雇無効時の労働者申立型金銭補償）法制化議論",
-  "category": "employment",
+  "category": "society",
   "subcategory": "労働法・雇用流動化",
   "status": "検討中",
   "date": "2025-01",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "申立て主体",
+      "labelStandard": "申立て主体",
+      "labelSimple": "申立て主体",
       "value": "労働者限定",
       "unit": "（企業申立不可）",
       "oldValue": "現行法上規定なし",
       "description": "会社からの金銭解雇は認めず労働者側の権利行使のみに限定する設計",
+      "descriptionStandard": "申立て主体",
+      "descriptionSimple": "申立て主体",
       "badge": "労働者限定",
       "badgeColor": "blue",
       "icon": "shield-check"
     },
     {
       "label": "想定補償基準例",
+      "labelStandard": "想定補償基準例",
+      "labelSimple": "想定補償基準例",
       "value": "勤続×1〜2",
       "unit": "ヶ月分賃金等",
       "oldValue": "相場なし（個別示談）",
       "description": "欧州水準を参考とした客観的算定式の策定を議論中",
+      "descriptionStandard": "想定補償基準例",
+      "descriptionSimple": "想定補償基準例",
       "badge": "算定式標準化",
       "badgeColor": "green",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "employment"
 }

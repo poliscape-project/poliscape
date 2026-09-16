@@ -134,58 +134,76 @@
   "badges": [
     {
       "label": "政党交付金315億円の透明化",
-      "variant": "neutral"
+      "text": "政党交付金315億円の透明化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "政策活動費の完全廃止",
-      "variant": "neutral"
+      "text": "政策活動費の完全廃止",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "1円単位領収書オンライン公開",
-      "variant": "neutral"
+      "text": "1円単位領収書オンライン公開",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "配られる税金",
+      "label": "",
       "labelStandard": "政党交付金の年間総額",
+      "labelSimple": "配られる税金",
       "value": "約315",
       "unit": "億円/年（国民1人250円）",
       "oldValue": "これまで 企業献金全廃の約束で導入",
       "description": "国民全員の税金から各政党へ配当される巨大公費",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "年間315億円",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "謎のお金",
+      "label": "",
       "labelStandard": "政策活動費の完全廃止",
+      "labelSimple": "謎のお金",
       "value": "原則全廃",
       "unit": "使途不明金ゼロ",
       "oldValue": "これまで 幹事長等へ億単位で非公開支給",
       "description": "領収書不要で配られていたブラックボックスの撤廃",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "裏金根絶",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Ban"
     },
     {
-      "labelSimple": "レシートの公開",
+      "label": "",
       "labelStandard": "領収書公開の基準金額",
+      "labelSimple": "レシートの公開",
       "value": "1円から",
       "unit": "全領収書ネット公開",
       "oldValue": "これまで 5万円超のみ領収書添付",
       "description": "スキャン画像を検索可能なオープンデータで即時公開",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "完全透明化",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "FileText"
     },
     {
-      "labelSimple": "政治家の言い分",
+      "label": "",
       "labelStandard": "政治活動の自由と事務負担",
+      "labelSimple": "政治家の言い分",
       "value": "機密萎縮",
       "unit": "根回し不全懸念",
       "oldValue": "これまで 秘密裏の連立・他党協議保護",
       "description": "店名や相手がバレて極秘の外交・政局工作ができない反論",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "反論論争",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Users"

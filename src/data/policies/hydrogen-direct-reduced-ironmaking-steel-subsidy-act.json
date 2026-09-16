@@ -1,8 +1,8 @@
 {
   "id": "hydrogen-direct-reduced-ironmaking-steel-subsidy-act",
   "title": "水素直接還元製鉄（グリーンスチール）実証プロジェクトに対する長期助成",
-  "category": "energy-environment",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "日本の産業界最大のCO2排出源（国内排出量の約14%）である製鉄プロセスを脱炭素化するため、石炭（コークス）の代わりに水素で鉄鉱石を還元する「水素直接還元製鉄（COURSE50/Super COURSE50）」の実証プロジェクトに長期公費助成を行う。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "グリーンスチール",
-      "variant": "green"
+      "text": "グリーンスチール",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "水素エネルギー",
-      "variant": "blue"
+      "text": "水素エネルギー",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "カーボンニュートラル",
-      "variant": "purple"
+      "text": "カーボンニュートラル",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "製鉄CO2削減目標",
+      "label": "製鉄CO2削減目標",
+      "labelStandard": "製鉄CO2削減目標",
+      "labelSimple": "製鉄CO2削減目標",
       "value": "50",
       "unit": "%以上（2030年）",
+      "oldValue": "現行",
       "description": "水素還元技術の導入により2030年までに製鉄工程のCO2排出を半減目標",
-      "trend": "down",
-      "trendLabel": "大幅排出削減"
+      "descriptionStandard": "製鉄CO2削減目標",
+      "descriptionSimple": "製鉄CO2削減目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "国家支援基金規模",
+      "label": "国家支援基金規模",
+      "labelStandard": "国家支援基金規模",
+      "labelSimple": "国家支援基金規模",
       "value": "4,500",
       "unit": "億円超",
+      "oldValue": "現行",
       "description": "グリーンイノベーション基金から水素還元製鉄実証に投入される総予算",
-      "trend": "up",
-      "trendLabel": "巨額国費支援"
+      "descriptionStandard": "国家支援基金規模",
+      "descriptionSimple": "国家支援基金規模",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

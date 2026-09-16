@@ -149,58 +149,76 @@
   "badges": [
     {
       "label": "ETC深夜割引見直し",
-      "variant": "neutral"
+      "text": "ETC深夜割引見直し",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "走行分のみ割引",
-      "variant": "neutral"
+      "text": "走行分のみ割引",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "IC前滞留トラック解消",
-      "variant": "neutral"
+      "text": "IC前滞留トラック解消",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "夜間の高速割引",
+      "label": "",
       "labelStandard": "ETC深夜割引の見直し",
+      "labelSimple": "夜間の高速割引",
       "value": "走った分だけ",
       "unit": "30%割引へ変更",
       "oldValue": "これまで 深夜0時跨ぎで全走行が割引適用",
       "description": "深夜時間帯（22〜翌5時）に走行した分のみ割引",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "見直し適用",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Clock"
     },
     {
-      "labelSimple": "出口の手前渋滞",
+      "label": "",
       "labelStandard": "料金所手前のトラック待機",
+      "labelSimple": "出口の手前渋滞",
       "value": "渋滞解消",
       "unit": "へ制度是正",
       "oldValue": "これまで 0時待ちのトラックが路肩やSAに溢れ",
       "description": "時間帯に応じた従量制で危険な待機を抑制",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "安全確保",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "毎日の通勤割引",
+      "label": "",
       "labelStandard": "短距離通勤定額パス",
+      "labelSimple": "毎日の通勤割引",
       "value": "サブスク型",
       "unit": "割引の導入検討",
       "oldValue": "これまで 地方のマイカー通勤で高速代が重荷",
       "description": "一定回数・定額利用で地方通勤者の負担軽減",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "通勤支援",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Car"
     },
     {
-      "labelSimple": "料金所のキャッシュレス",
+      "label": "",
       "labelStandard": "ETC専用化の推進",
+      "labelSimple": "料金所のキャッシュレス",
       "value": "ETC専用",
       "unit": "運用へ順次切替",
       "oldValue": "これまで 現金収受レーン維持で管理コスト高",
       "description": "都市部ほぼ全線、地方も順次ETC専用レーン化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "DX加速",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "CreditCard"

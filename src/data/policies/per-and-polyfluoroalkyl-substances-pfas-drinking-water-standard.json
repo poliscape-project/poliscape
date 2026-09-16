@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "PFAS水質基準化",
-      "variant": "positive"
+      "text": "PFAS水質基準化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "飲用水安全保障",
-      "variant": "positive"
+      "text": "飲用水安全保障",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "水道料金影響",
-      "variant": "warning"
+      "text": "水道料金影響",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "規制対象",
+      "labelStandard": "規制対象",
+      "labelSimple": "規制対象",
       "value": "PFOS・PFOA等の有害PFAS",
+      "unit": "",
+      "oldValue": "現行",
       "description": "水道水中の有機フッ素化合物を厳格に測定・管理",
+      "descriptionStandard": "規制対象",
+      "descriptionSimple": "規制対象",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     },
     {
       "label": "法的地位",
+      "labelStandard": "法的地位",
+      "labelSimple": "法的地位",
       "value": "水道法第4条水質基準化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "義務的順守を求める法定基準へ格上げ検討",
+      "descriptionStandard": "法的地位",
+      "descriptionSimple": "法的地位",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "財政支援",
+      "labelStandard": "財政支援",
+      "labelSimple": "財政支援",
       "value": "ろ過設備費用の最大2/3補助",
+      "unit": "",
+      "oldValue": "現行",
       "description": "活性炭フィルター・逆浸透膜の導入費を国庫助成",
+      "descriptionStandard": "財政支援",
+      "descriptionSimple": "財政支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

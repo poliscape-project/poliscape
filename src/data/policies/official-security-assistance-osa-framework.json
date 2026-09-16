@@ -129,58 +129,76 @@
   "badges": [
     {
       "label": "同志国軍事支援OSA",
-      "variant": "neutral"
+      "text": "同志国軍事支援OSA",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "沿岸レーダー等無償供与",
-      "variant": "neutral"
+      "text": "沿岸レーダー等無償供与",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "非軍事原則の転換",
-      "variant": "neutral"
+      "text": "非軍事原則の転換",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "支援する相手",
+      "label": "",
       "labelStandard": "供与対象組織",
+      "labelSimple": "支援する相手",
       "value": "同志国軍隊",
       "unit": "無償供与",
       "oldValue": "これまで 文民組織・民間のみ",
       "description": "フィリピン軍等へ防衛器材を直接プレゼント",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "OSA創設",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Shield"
     },
     {
-      "labelSimple": "渡す装備品",
+      "label": "",
       "labelStandard": "主な供与資機材",
+      "labelSimple": "渡す装備品",
       "value": "沿岸レーダー",
       "unit": "警備艇等",
       "oldValue": "これまで 道路や学校のインフラ",
       "description": "海の監視能力（MDA）を高め力による変更を抑止",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "海洋安保",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Anchor"
     },
     {
-      "labelSimple": "法律の仕組み",
+      "label": "",
       "labelStandard": "支援の法的枠組み",
+      "labelSimple": "法律の仕組み",
       "value": "外務省所管",
       "unit": "新無償資金",
       "oldValue": "これまで ODA（軍事用途厳格禁止）",
       "description": "ODAとは明確に切り離した安全保障支援枠",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "新枠組み",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "FileCheck"
     },
     {
-      "labelSimple": "懸念される点",
+      "label": "",
       "labelStandard": "平和国家理念との整合性",
+      "labelSimple": "懸念される点",
       "value": "軍拡加担",
       "unit": "批判リスク",
       "oldValue": "これまで 非軍事支援に徹する国是",
       "description": "供与品が悪用されたり横流しされないか",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "国是論争",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"

@@ -129,58 +129,76 @@
   "badges": [
     {
       "label": "340疾患超助成",
-      "variant": "neutral"
+      "text": "340疾患超助成",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "ゲノム創薬",
-      "variant": "neutral"
+      "text": "ゲノム創薬",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "高額薬価管理",
-      "variant": "neutral"
+      "text": "高額薬価管理",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "助成対象の難病数",
+      "label": "",
       "labelStandard": "国の指定難病数",
+      "labelSimple": "助成対象の難病数",
       "value": "340",
       "unit": "疾患超",
       "oldValue": "2014年 旧制度下では56疾患",
       "description": "医学的基準に基づき対象を大幅拡充",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "助成拡大",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "HeartPulse"
     },
     {
-      "labelSimple": "月の自己負担上限",
+      "label": "",
       "labelStandard": "医療費窓口上限額",
+      "labelSimple": "月の自己負担上限",
       "value": "2,500〜",
       "unit": "30,000円",
       "oldValue": "助成なし 数十万〜百万円の負担",
       "description": "所得に応じた自己負担上限を設定",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "上限管理",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "国のゲノム解析",
+      "label": "",
       "labelStandard": "全ゲノム解析実行計画",
+      "labelSimple": "国のゲノム解析",
       "value": "10万",
       "unit": "症例規模",
       "oldValue": "これまで 研究機関ごとにデータ分断",
       "description": "患者遺伝子データを集約し創薬支援",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "国家計画",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Cpu"
     },
     {
-      "labelSimple": "最新の遺伝子新薬",
+      "label": "",
       "labelStandard": "超高額薬剤の薬価",
+      "labelSimple": "最新の遺伝子新薬",
       "value": "数千万〜",
       "unit": "億円超/回",
       "oldValue": "従来 治せない難病が多数",
       "description": "画期的治療と保険財政維持の両立",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "薬価管理",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "ShieldAlert"

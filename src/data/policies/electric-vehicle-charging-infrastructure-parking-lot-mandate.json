@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "EV充電",
-      "variant": "positive"
+      "text": "EV充電",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "脱炭素",
-      "variant": "positive"
+      "text": "脱炭素",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "建築基準",
-      "variant": "neutral"
+      "text": "建築基準",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "新築マンションに義務化",
+      "labelStandard": "新築マンションに義務化",
+      "labelSimple": "新築マンションに義務化",
       "value": "新築マンションに義務化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "駐車場区画への充電器または先行配管を標準装備化。",
+      "descriptionStandard": "新築マンションに義務化",
+      "descriptionSimple": "新築マンションに義務化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "急速充電の大型モール配備",
+      "labelStandard": "急速充電の大型モール配備",
+      "labelSimple": "急速充電の大型モール配備",
       "value": "急速充電の大型モール配備",
+      "unit": "",
+      "oldValue": "現行",
       "description": "買い物中にサクッと充電できる50kW超急速充電網を拡充。",
+      "descriptionStandard": "急速充電の大型モール配備",
+      "descriptionSimple": "急速充電の大型モール配備",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "管理組合の決議要件緩和",
+      "labelStandard": "管理組合の決議要件緩和",
+      "labelSimple": "管理組合の決議要件緩和",
       "value": "管理組合の決議要件緩和",
+      "unit": "",
+      "oldValue": "現行",
       "description": "既存マンションでも過半数の賛成で充電器を導入可能に。",
+      "descriptionStandard": "管理組合の決議要件緩和",
+      "descriptionSimple": "管理組合の決議要件緩和",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     }
   ],

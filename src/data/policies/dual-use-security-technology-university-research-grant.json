@@ -1,8 +1,8 @@
 {
   "id": "dual-use-security-technology-university-research-grant",
   "title": "安全保障・民生デュアルユース先端技術研究に対する大学研究費助成基準",
-  "category": "diplomacy-security",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "防衛用と民生用の双方に活用できる先端技術「デュアルユース（両用技術：AI、量子、極超音速、ロボティクス、サイバー等）」について、大学や公的研究機関が安心して研究費助成を受けられる明確な国家審査基準と倫理ガイドラインを策定する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "デュアルユース",
-      "variant": "purple"
+      "text": "デュアルユース",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "先端科学技術",
-      "variant": "blue"
+      "text": "先端科学技術",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "経済安全保障",
-      "variant": "green"
+      "text": "経済安全保障",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "Kプログラム基金規模",
+      "label": "Kプログラム基金規模",
+      "labelStandard": "Kプログラム基金規模",
+      "labelSimple": "Kプログラム基金規模",
       "value": "5,000",
       "unit": "億円",
+      "oldValue": "現行",
       "description": "AI、量子、海洋、宇宙等の重要技術育成のために造成された国家基金",
-      "trend": "up",
-      "trendLabel": "大型基金"
+      "descriptionStandard": "Kプログラム基金規模",
+      "descriptionSimple": "Kプログラム基金規模",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "大学からの応募件数増加",
+      "label": "大学からの応募件数増加",
+      "labelStandard": "大学からの応募件数増加",
+      "labelSimple": "大学からの応募件数増加",
       "value": "3",
       "unit": "倍増",
+      "oldValue": "現行",
       "description": "論文公開保障の明確化により国公私立大学からの助成応募件数が急拡大",
-      "trend": "up",
-      "trendLabel": "応募急増"
+      "descriptionStandard": "大学からの応募件数増加",
+      "descriptionSimple": "大学からの応募件数増加",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

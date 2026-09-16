@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "男性育休",
-      "variant": "positive"
+      "text": "男性育休",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "手取り10割",
-      "variant": "positive"
+      "text": "手取り10割",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "少子化対策",
-      "variant": "neutral"
+      "text": "少子化対策",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "手取り収入実質100%保障",
+      "labelStandard": "手取り収入実質100%保障",
+      "labelSimple": "手取り収入実質100%保障",
       "value": "手取り収入実質100%保障",
+      "unit": "",
+      "oldValue": "現行",
       "description": "給付金80%＋社保免除＋非課税で休業前の手取り額を完全キープ。",
+      "descriptionStandard": "手取り収入実質100%保障",
+      "descriptionSimple": "手取り収入実質100%保障",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "産後パパ育休を強力支援",
+      "labelStandard": "産後パパ育休を強力支援",
+      "labelSimple": "産後パパ育休を強力支援",
       "value": "産後パパ育休を強力支援",
+      "unit": "",
+      "oldValue": "現行",
       "description": "生後8週間以内の最も大変な時期に夫婦で協力できる環境を実現。",
+      "descriptionStandard": "産後パパ育休を強力支援",
+      "descriptionSimple": "産後パパ育休を強力支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Baby"
     },
     {
       "label": "代替要員への手当助成",
+      "labelStandard": "代替要員への手当助成",
+      "labelSimple": "代替要員への手当助成",
       "value": "代替要員への手当助成",
+      "unit": "",
+      "oldValue": "現行",
       "description": "同僚の業務引き継ぎ手当を出す中小企業へ最大数十万円を補助。",
+      "descriptionStandard": "代替要員への手当助成",
+      "descriptionSimple": "代替要員への手当助成",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

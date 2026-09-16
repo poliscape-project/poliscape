@@ -2,7 +2,7 @@
   "id": "menopause-health-support-leave-corporate-guidelines",
   "title": "女性健康課題支援・更年期サポート指針（更年期離職防止と休暇・治療費補助ガイドライン）",
   "catchphrase": "40代・50代の「更年期離職」を食い止める。企業の更年期サポート休暇導入と女性特有の健康課題開示",
-  "category": "social",
+  "category": "society",
   "categoryLabel": "社会保障・労働・女性活躍",
   "lastUpdated": "2024-04-15",
   "effectiveDate": "2023年指針公表・順次導入",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "更年期離職防止",
-      "variant": "positive"
+      "text": "更年期離職防止",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "女性活躍・健康経営",
-      "variant": "positive"
+      "text": "女性活躍・健康経営",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "プライバシー配慮課題",
-      "variant": "neutral"
+      "text": "プライバシー配慮課題",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "制度導入",
+      "labelStandard": "制度導入",
+      "labelSimple": "制度導入",
       "value": "更年期サポート休暇",
+      "unit": "",
+      "oldValue": "現行",
       "description": "時間単位・半日単位で柔軟に取れる通院・体調管理休暇",
+      "descriptionStandard": "制度導入",
+      "descriptionSimple": "制度導入",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "医療連携",
+      "labelStandard": "医療連携",
+      "labelSimple": "医療連携",
       "value": "ホルモン補充療法支援",
+      "unit": "",
+      "oldValue": "現行",
       "description": "オンライン婦人科受診補助と科学的エビデンスに基づく治療",
+      "descriptionStandard": "医療連携",
+      "descriptionSimple": "医療連携",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     },
     {
       "label": "企業評価",
+      "labelStandard": "企業評価",
+      "labelSimple": "企業評価",
       "value": "健康経営優良法人必須化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "女性の健康課題支援の有無を投資家向けに情報開示",
+      "descriptionStandard": "企業評価",
+      "descriptionSimple": "企業評価",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

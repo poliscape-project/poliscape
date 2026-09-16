@@ -169,58 +169,76 @@
   "badges": [
     {
       "label": "60年超の運転を可能に",
-      "variant": "neutral"
+      "text": "60年超の運転を可能に",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "安全審査等の停止期間を除外",
-      "variant": "neutral"
+      "text": "安全審査等の停止期間を除外",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "30年以降は10年ごとに厳格審査",
-      "variant": "neutral"
+      "text": "30年以降は10年ごとに厳格審査",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "運転期間の上限規定",
+      "label": "",
       "labelStandard": "運転期間の上限規定",
+      "labelSimple": "運転期間の上限規定",
       "value": "60年超の運転を可能に",
       "unit": "",
       "oldValue": "これまで: 原則40年・最長60年（原子炉等規制法に上限年数を規定）",
       "description": "法的な年数上限を撤廃し、停止期間を除外して認可を受ければ60年超の運転が可能（電気事業法に移管）",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "60年超の運転を可能に",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Clock"
     },
     {
-      "labelSimple": "停止期間の取り扱い",
+      "label": "",
       "labelStandard": "停止期間の取り扱い",
+      "labelSimple": "停止期間の取り扱い",
       "value": "安全審査等の停止期間を除外",
       "unit": "",
       "oldValue": "これまで: 安全審査中や裁判で停止していても運転期間として年数が経過",
       "description": "震災後の規制基準適合審査や仮処分等による停止期間を運転年数から除外",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "安全審査等の停止期間を除外",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Calendar"
     },
     {
-      "labelSimple": "高経年化（老朽化）審査",
+      "label": "",
       "labelStandard": "高経年化（老朽化）審査",
+      "labelSimple": "高経年化（老朽化）審査",
       "value": "30年以降は10年ごとに厳格審査",
       "unit": "",
       "oldValue": "これまで: 40年目の運転延長審査時に一括して点検・認可",
       "description": "運転開始30年以降、10年を超えない期間ごとに原子力規制委員会の劣化審査を義務化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "30年以降は10年ごとに厳格審査",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "ShieldAlert"
     },
     {
-      "labelSimple": "次世代炉への建替え（リプレース）",
+      "label": "",
       "labelStandard": "次世代炉への建替え（リプレース）",
+      "labelSimple": "次世代炉への建替え（リプレース）",
       "value": "次世代革新炉の開発・建替え推進",
       "unit": "",
       "oldValue": "これまで: 原発の新増設・建替えは「想定していない」との政府方針",
       "description": "廃炉決定炉の敷地内での「次世代革新炉」への建替え・新設を明確に推進",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "次世代革新炉の開発・建替え推進",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Zap"

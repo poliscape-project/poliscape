@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "V2H蓄電",
-      "variant": "positive"
+      "text": "V2H蓄電",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "防災レジリエンス",
-      "variant": "positive"
+      "text": "防災レジリエンス",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "EV普及",
-      "variant": "neutral"
+      "text": "EV普及",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "停電時も4日分の電力",
+      "labelStandard": "停電時も4日分の電力",
+      "labelSimple": "停電時も4日分の電力",
       "value": "停電時も4日分の電力",
+      "unit": "",
+      "oldValue": "現行",
       "description": "60kWhのEVなら停電でも家中の家電をいつも通り動かせる。",
+      "descriptionStandard": "停電時も4日分の電力",
+      "descriptionSimple": "停電時も4日分の電力",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "電気代を大幅節約",
+      "labelStandard": "電気代を大幅節約",
+      "labelSimple": "電気代を大幅節約",
       "value": "電気代を大幅節約",
+      "unit": "",
+      "oldValue": "現行",
       "description": "太陽光のタダの電気を夜に回して買電量を極限までカット。",
+      "descriptionStandard": "電気代を大幅節約",
+      "descriptionSimple": "電気代を大幅節約",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "新築先行配管",
+      "labelStandard": "新築先行配管",
+      "labelSimple": "新築先行配管",
       "value": "新築先行配管",
+      "unit": "",
+      "oldValue": "現行",
       "description": "後から壁を壊して工事しなくて済むよう設計段階で配線ルートを確保。",
+      "descriptionStandard": "新築先行配管",
+      "descriptionSimple": "新築先行配管",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

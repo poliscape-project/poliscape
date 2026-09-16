@@ -130,58 +130,76 @@
   "badges": [
     {
       "label": "孤立集落にスターリンク事前配備",
-      "variant": "neutral"
+      "text": "孤立集落にスターリンク事前配備",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "蓄電池・ソーラーで自立電源",
-      "variant": "neutral"
+      "text": "蓄電池・ソーラーで自立電源",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "能登の教訓・初動SOS確保",
-      "variant": "neutral"
+      "text": "能登の教訓・初動SOS確保",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "宇宙インターネット",
+      "label": "",
       "labelStandard": "衛星通信（Starlink等）の事前常備",
+      "labelSimple": "宇宙インターネット",
       "value": "全避難所",
       "unit": "事前配備",
       "oldValue": "これまで 発災後に陸路運搬（道が崩れ不可）",
       "description": "道路が寸断されても宇宙とつながり通信を失わない",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "事前配備",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Satellite"
     },
     {
-      "labelSimple": "電池とソーラー",
+      "label": "",
       "labelStandard": "自立型非常用電源システム",
+      "labelSimple": "電池とソーラー",
       "value": "蓄電池＋太陽光",
       "unit": "燃料不要",
       "oldValue": "これまで ガソリン発電機（すぐ燃料切れ）",
       "description": "停電が数週間続いても太陽光と蓄電池で通信を維持",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "自立電源",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "BatteryCharging"
     },
     {
-      "labelSimple": "能登半島地震の教訓",
+      "label": "",
       "labelStandard": "孤立集落での救助遅延防止",
+      "labelSimple": "能登半島地震の教訓",
       "value": "初動1時間",
       "unit": "SOS即時送信",
       "oldValue": "これまで 携帯圏外で安否不明が長期化",
       "description": "怪我人や必要な薬の情報を即座に自衛隊へ伝達",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "初動救命",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "現場の難しさ",
+      "label": "",
       "labelStandard": "高齢集落での操作・設置の壁",
+      "labelSimple": "現場の難しさ",
       "value": "操作難",
       "unit": "高齢化集落",
       "oldValue": "これまで 機械に不慣れな高齢者多数",
       "description": "暴風雨や停電のパニックでお年寄りが起動できるか",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "訓練課題",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Users"

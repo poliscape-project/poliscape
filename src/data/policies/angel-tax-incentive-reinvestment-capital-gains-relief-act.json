@@ -4,7 +4,7 @@
   "catchphrase": "シリアルアントレプレナーと個人投資家を爆発的に増やす。スタートアップ株式売却益の全額非課税再投資",
   "category": "tax",
   "categoryLabel": "投資減税・スタートアップ金融",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "エンジェル税制",
-      "variant": "purple"
+      "text": "エンジェル税制",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "売却益非課税",
-      "variant": "blue"
+      "text": "売却益非課税",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "シード投資促進",
-      "variant": "green"
+      "text": "シード投資促進",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "再投資非課税上限",
+      "label": "再投資非課税上限",
+      "labelStandard": "再投資非課税上限",
+      "labelSimple": "再投資非課税上限",
       "value": "上限なし",
       "unit": "（全額非課税）",
+      "oldValue": "現行",
       "description": "適格スタートアップへ再投資された株式売却益に対して認められる非課税特例の上限枠",
-      "trend": "up",
-      "trendLabel": "完全非課税"
+      "descriptionStandard": "再投資非課税上限",
+      "descriptionSimple": "再投資非課税上限",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "国内エンジェル投資総額",
+      "label": "国内エンジェル投資総額",
+      "labelStandard": "国内エンジェル投資総額",
+      "labelSimple": "国内エンジェル投資総額",
       "value": "2,000",
       "unit": "億円突破目標",
+      "oldValue": "現行",
       "description": "税制拡充により達成を目指す国内の個人エンジェル投資家による年間出資総額",
-      "trend": "up",
-      "trendLabel": "投資額10倍化"
+      "descriptionStandard": "国内エンジェル投資総額",
+      "descriptionSimple": "国内エンジェル投資総額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

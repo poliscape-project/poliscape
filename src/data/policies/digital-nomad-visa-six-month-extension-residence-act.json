@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "最長滞在期間",
+      "labelStandard": "最長滞在期間",
+      "labelSimple": "最長滞在期間",
       "value": "1",
       "unit": "年間（更新制）",
       "oldValue": "最長6ヶ月（更新不可）",
       "description": "滞在期間を倍増させ地方での中長期滞在・生活を可能に",
+      "descriptionStandard": "最長滞在期間",
+      "descriptionSimple": "最長滞在期間",
       "badge": "期間倍増",
       "badgeColor": "green",
       "icon": "clock"
     },
     {
       "label": "申請要件年収基準",
+      "labelStandard": "申請要件年収基準",
+      "labelSimple": "申請要件年収基準",
       "value": "1000",
       "unit": "万円以上",
       "oldValue": "-",
       "description": "高所得外国人リモートワーカーを厳選し富裕層消費を取り込み",
+      "descriptionStandard": "申請要件年収基準",
+      "descriptionSimple": "申請要件年収基準",
       "badge": "高所得者層",
       "badgeColor": "blue",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

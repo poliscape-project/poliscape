@@ -1,7 +1,7 @@
 {
   "id": "critical-infrastructure-cloud-vendor-lockin-prevent-act",
   "title": "重要インフラ（電力・金融・通信）におけるマルチクラウド・脱ロックイン指針",
-  "category": "technology",
+  "category": "society",
   "subcategory": "サイバー・IT基盤",
   "status": "施行中",
   "date": "2024-05",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "データ転出料",
+      "labelStandard": "データ転出料",
+      "labelSimple": "データ転出料",
       "value": "0",
       "unit": "円（完全無料化）",
       "oldValue": "数十円〜数百円/GB",
       "description": "他社クラウド乗り換え時のペナルティ的課金を大手ベンダーが撤廃",
+      "descriptionStandard": "データ転出料",
+      "descriptionSimple": "データ転出料",
       "badge": "手数料ゼロ",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "対象重要インフラ",
+      "labelStandard": "対象重要インフラ",
+      "labelSimple": "対象重要インフラ",
       "value": "14",
       "unit": "分野",
       "oldValue": "各社任意",
       "description": "電力・通信・金融・鉄道・医療等の基幹業務に適用",
+      "descriptionStandard": "対象重要インフラ",
+      "descriptionSimple": "対象重要インフラ",
       "badge": "全分野適用",
       "badgeColor": "blue",
       "icon": "shield-check"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "technology"
 }

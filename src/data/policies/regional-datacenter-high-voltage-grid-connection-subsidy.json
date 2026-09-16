@@ -4,7 +4,7 @@
   "catchphrase": "東京一極集中を打破し生成AI基盤を全国へ。地方データセンター整備に受電・送電網接続を国費補助",
   "category": "digital",
   "categoryLabel": "デジタルインフラ・GX",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "データセンター分散",
-      "variant": "purple"
+      "text": "データセンター分散",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "デジタルインフラ",
-      "variant": "blue"
+      "text": "デジタルインフラ",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "再エネ地産地消",
-      "variant": "green"
+      "text": "再エネ地産地消",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "地方分散立地比率目標",
+      "label": "地方分散立地比率目標",
+      "labelStandard": "地方分散立地比率目標",
+      "labelSimple": "地方分散立地比率目標",
       "value": "50",
       "unit": "%以上",
+      "oldValue": "現行",
       "description": "新設されるハイパースケール・データセンターに占める東京圏以外（地方部）の立地割合目標",
-      "trend": "up",
-      "trendLabel": "地方分散加速"
+      "descriptionStandard": "地方分散立地比率目標",
+      "descriptionSimple": "地方分散立地比率目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "冷却電力削減率（寒冷地）",
+      "label": "冷却電力削減率（寒冷地）",
+      "labelStandard": "冷却電力削減率（寒冷地）",
+      "labelSimple": "冷却電力削減率（寒冷地）",
       "value": "40",
       "unit": "%削減",
+      "oldValue": "現行",
       "description": "北海道等の寒冷気候を直接取り入れる外気冷却導入による空調消費電力の削減効果",
-      "trend": "down",
-      "trendLabel": "省エネGX"
+      "descriptionStandard": "冷却電力削減率（寒冷地）",
+      "descriptionSimple": "冷却電力削減率（寒冷地）",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

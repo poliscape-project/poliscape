@@ -2,7 +2,7 @@
   "id": "autism-developmental-disorders-lifelong-support-act",
   "title": "発達障害者支援法改正（乳幼児期から成人期・就労までの生涯一貫支援と合理的配慮）",
   "catchphrase": "子どもの頃だけでなく大人になっても支え続ける。発達障害のある人の就労定着支援と合理的配慮の義務化",
-  "category": "social",
+  "category": "society",
   "categoryLabel": "社会保障・福祉・発達支援",
   "lastUpdated": "2024-04-15",
   "effectiveDate": "2016年改正・順次施策拡充",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "発達障害支援",
-      "variant": "positive"
+      "text": "発達障害支援",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "生涯一貫サポート",
-      "variant": "positive"
+      "text": "生涯一貫サポート",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "診断待機・企業配慮課題",
-      "variant": "warning"
+      "text": "診断待機・企業配慮課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "支援方針",
+      "labelStandard": "支援方針",
+      "labelSimple": "支援方針",
       "value": "乳幼児から成人期まで",
+      "unit": "",
+      "oldValue": "現行",
       "description": "18歳の壁を撤廃し就労定着まで生涯切れ目なく支援",
+      "descriptionStandard": "支援方針",
+      "descriptionSimple": "支援方針",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "企業義務",
+      "labelStandard": "企業義務",
+      "labelSimple": "企業義務",
       "value": "合理的配慮の提供義務化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "指示の可視化や環境調整など個別特性に応じた配慮",
+      "descriptionStandard": "企業義務",
+      "descriptionSimple": "企業義務",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "現場支援",
+      "labelStandard": "現場支援",
+      "labelSimple": "現場支援",
       "value": "ジョブコーチ職場派遣",
+      "unit": "",
+      "oldValue": "現行",
       "description": "専門員が職場に入り本人と同僚の円滑な協働を支援",
+      "descriptionStandard": "現場支援",
+      "descriptionSimple": "現場支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

@@ -1,8 +1,8 @@
 {
   "id": "medical-narcotics-home-palliative-care-deregulation",
   "title": "在宅緩和ケアにおける医療用麻薬の緊急調剤・施用規制の緩和",
-  "category": "health-medical",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "末期がん患者等の在宅終末期医療において、激しいがん性疼痛を迅速に鎮静できるよう、医療用麻薬（モルヒネ・フェンタニル等）の調剤・保管・施用に関する規制を合理的に緩和する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "緩和ケア",
-      "variant": "purple"
+      "text": "緩和ケア",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "在宅医療",
-      "variant": "blue"
+      "text": "在宅医療",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "規制緩和",
-      "variant": "green"
+      "text": "規制緩和",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "除痛までの平均時間",
+      "label": "除痛までの平均時間",
+      "labelStandard": "除痛までの平均時間",
+      "labelSimple": "除痛までの平均時間",
       "value": "80",
       "unit": "%短縮",
+      "oldValue": "現行",
       "description": "夜間休日の激痛発生から薬の投与までの待機時間を大幅削減",
-      "trend": "down",
-      "trendLabel": "疼痛待機時間"
+      "descriptionStandard": "除痛までの平均時間",
+      "descriptionSimple": "除痛までの平均時間",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "在宅看取り希望率",
+      "label": "在宅看取り希望率",
+      "labelStandard": "在宅看取り希望率",
+      "labelSimple": "在宅看取り希望率",
       "value": "55",
       "unit": "%",
+      "oldValue": "現行",
       "description": "国民意識調査における「最期は自宅で過ごしたい」と答えた割合",
-      "trend": "neutral",
-      "trendLabel": "国民意識"
+      "descriptionStandard": "在宅看取り希望率",
+      "descriptionSimple": "在宅看取り希望率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

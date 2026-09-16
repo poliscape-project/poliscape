@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "生物多様性",
-      "variant": "positive"
+      "text": "生物多様性",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "種子バンク",
-      "variant": "positive"
+      "text": "種子バンク",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "遺伝資源",
-      "variant": "neutral"
+      "text": "遺伝資源",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "保存対象",
+      "labelStandard": "保存対象",
+      "labelSimple": "保存対象",
       "value": "全5,600種",
+      "unit": "",
+      "oldValue": "現行",
       "description": "国内の全野生高等植物の種子を網羅的に永久保存",
+      "descriptionStandard": "保存対象",
+      "descriptionSimple": "保存対象",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "保存環境",
+      "labelStandard": "保存環境",
+      "labelSimple": "保存環境",
       "value": "マイナス20℃冷凍",
+      "unit": "",
+      "oldValue": "現行",
       "description": "無電力長時間の耐熱地下シェルターで東西2箇所に二重保管",
+      "descriptionStandard": "保存環境",
+      "descriptionSimple": "保存環境",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Building2"
     }
   ],

@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "全国整備目標数",
+      "labelStandard": "全国整備目標数",
+      "labelSimple": "全国整備目標数",
       "value": "50",
       "unit": "カ所（2030年）",
       "oldValue": "当初20カ所",
       "description": "全国の地方中核都市に民間主導のスマートベニューを配備",
+      "descriptionStandard": "全国整備目標数",
+      "descriptionSimple": "全国整備目標数",
       "badge": "目標拡大",
       "badgeColor": "blue",
       "icon": "building-library"
     },
     {
       "label": "年間稼働日数目標",
+      "labelStandard": "年間稼働日数目標",
+      "labelSimple": "年間稼働日数目標",
       "value": "300",
       "unit": "日超",
       "oldValue": "年間数十日",
       "description": "試合日以外の商業・イベント利用により高稼働率を達成",
+      "descriptionStandard": "年間稼働日数目標",
+      "descriptionSimple": "年間稼働日数目標",
       "badge": "高稼働化",
       "badgeColor": "green",
       "icon": "sparkles"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

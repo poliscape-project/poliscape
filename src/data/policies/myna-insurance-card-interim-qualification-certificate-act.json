@@ -4,7 +4,7 @@
   "catchphrase": "受診難民を出さない移行措置。マイナ保険証未所持者へ最長5年有効の資格確認書を申請なしで職権交付",
   "category": "healthcare",
   "categoryLabel": "医療制度・デジタル保険",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "マイナ保険証",
-      "variant": "purple"
+      "text": "マイナ保険証",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "資格確認書",
-      "variant": "blue"
+      "text": "資格確認書",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "受診権保障",
-      "variant": "green"
+      "text": "受診権保障",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "資格確認書最長有効期間",
+      "label": "資格確認書最長有効期間",
+      "labelStandard": "資格確認書最長有効期間",
+      "labelSimple": "資格確認書最長有効期間",
       "value": "5",
       "unit": "年",
+      "oldValue": "現行",
       "description": "未所持者に職権交付される資格確認書に各保険者が設定可能な最長有効期間",
-      "trend": "up",
-      "trendLabel": "長期有効化"
+      "descriptionStandard": "資格確認書最長有効期間",
+      "descriptionSimple": "資格確認書最長有効期間",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "窓口10割負担回避率",
+      "label": "窓口10割負担回避率",
+      "labelStandard": "窓口10割負担回避率",
+      "labelSimple": "窓口10割負担回避率",
       "value": "100",
       "unit": "%",
+      "oldValue": "現行",
       "description": "回線障害・機器エラー時における資格申立書運用による不当な10割請求の阻止割合",
-      "trend": "up",
-      "trendLabel": "受診完全保障"
+      "descriptionStandard": "窓口10割負担回避率",
+      "descriptionSimple": "窓口10割負担回避率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

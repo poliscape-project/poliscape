@@ -1,8 +1,8 @@
 {
   "id": "waste-to-energy-high-efficiency-incineration-premium-act",
   "title": "高効率ごみ焼却熱利用・廃棄物発電（バイオマス熱供給）のFIT/FIP特別優遇",
-  "category": "energy-environment",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "一般廃棄物（家庭ごみ等）の約半分を占める生ごみや紙くずなどのバイオマス資源を有効活用するため、最新の超高温・高圧ボイラーを備えた「高効率ごみ発電（発電効率25%以上）」および「地域熱供給（熱電可変システム）」を行う自治体清掃工場に対し、FIT/FIP制度の売電プレミアム単価を上乗せ付与する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "廃棄物発電",
-      "variant": "green"
+      "text": "廃棄物発電",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "地域熱供給",
-      "variant": "blue"
+      "text": "地域熱供給",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "防災マイクログリッド",
-      "variant": "purple"
+      "text": "防災マイクログリッド",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "最高峰発電効率目標",
+      "label": "最高峰発電効率目標",
+      "labelStandard": "最高峰発電効率目標",
+      "labelSimple": "最高峰発電効率目標",
       "value": "27",
       "unit": "%超",
+      "oldValue": "現行",
       "description": "超高温高圧ボイラー（400度・4MPa超）による世界最高水準のごみ発電効率",
-      "trend": "up",
-      "trendLabel": "発電効率倍増"
+      "descriptionStandard": "最高峰発電効率目標",
+      "descriptionSimple": "最高峰発電効率目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "停電時避難所電力供給",
+      "label": "停電時避難所電力供給",
+      "labelStandard": "停電時避難所電力供給",
+      "labelSimple": "停電時避難所電力供給",
       "value": "100",
       "unit": "%自立供給",
+      "oldValue": "現行",
       "description": "ブラックアウト時でも近隣避難所へ100%電気と温水を自給継続",
-      "trend": "up",
-      "trendLabel": "防災自立"
+      "descriptionStandard": "停電時避難所電力供給",
+      "descriptionSimple": "停電時避難所電力供給",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

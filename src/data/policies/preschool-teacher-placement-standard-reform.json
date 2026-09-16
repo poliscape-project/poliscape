@@ -155,50 +155,62 @@
   "badges": [
     {
       "label": "76年ぶり抜本見直し",
-      "variant": "neutral"
+      "text": "76年ぶり抜本見直し",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "1歳児5:1・4/5歳児25:1",
-      "variant": "neutral"
+      "text": "1歳児5:1・4/5歳児25:1",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "公定価格加算で支援",
-      "variant": "neutral"
+      "text": "公定価格加算で支援",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "1歳児の先生1人の人数",
+      "label": "",
       "labelStandard": "1歳児の配置基準",
+      "labelSimple": "1歳児の先生1人の人数",
       "value": "5人",
       "unit": "に1人（5:1）",
       "oldValue": "6人に1人（6:1）",
-      "descriptionSimple": "76年ぶりに基準が見直され先生の手厚さアップ！",
+      "description": "",
       "descriptionStandard": "1948年以来の手付かず基準を改善し見守り密度を向上",
+      "descriptionSimple": "76年ぶりに基準が見直され先生の手厚さアップ！",
       "badge": "安全向上",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Baby"
     },
     {
-      "labelSimple": "4・5歳児の先生1人の人数",
+      "label": "",
       "labelStandard": "4・5歳児の配置基準",
+      "labelSimple": "4・5歳児の先生1人の人数",
       "value": "25人",
       "unit": "に1人（25:1）",
       "oldValue": "30人に1人（30:1）",
-      "descriptionSimple": "30人の大人数から25人へ引き下げ！",
+      "description": "",
       "descriptionStandard": "小学校低学年並みの過密配置を是正し丁寧な幼児教育を支援",
+      "descriptionSimple": "30人の大人数から25人へ引き下げ！",
       "badge": "過密是正",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "何年ぶりの改正？",
+      "label": "",
       "labelStandard": "配置基準据え置き期間",
+      "labelSimple": "何年ぶりの改正？",
       "value": "76年",
       "unit": "ぶりの歴史的改定",
       "oldValue": "昭和23年（1948年）制定",
-      "descriptionSimple": "戦後まもなく作られたきびしい基準がようやく現代水準へ！",
+      "description": "",
       "descriptionStandard": "少子化対策・こども未来戦略の最重要マイルストーン",
+      "descriptionSimple": "戦後まもなく作られたきびしい基準がようやく現代水準へ！",
       "badge": "歴史的改定",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Clock"

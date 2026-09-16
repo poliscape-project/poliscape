@@ -149,62 +149,76 @@
   "badges": [
     {
       "label": "センサー導入で3:1配置緩和",
-      "variant": "neutral"
+      "text": "センサー導入で3:1配置緩和",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "夜間見守り巡回負担を半減",
-      "variant": "neutral"
+      "text": "夜間見守り巡回負担を半減",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "アラーム疲労・安全性の懸念",
-      "variant": "neutral"
+      "text": "アラーム疲労・安全性の懸念",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "職員の配置ルール",
+      "label": "",
       "labelStandard": "人員配置基準の特例",
+      "labelSimple": "職員の配置ルール",
       "value": "3:0.9",
       "unit": "等へ緩和",
       "oldValue": "入所者3人に対し職員1人以上（3:1基準）を義務付け",
-      "descriptionSimple": "最新機器を入れた施設は、少し少ない人数でもOKに！",
+      "description": "",
       "descriptionStandard": "センサーやインカム導入を条件に柔軟な職員配置を容認",
+      "descriptionSimple": "最新機器を入れた施設は、少し少ない人数でもOKに！",
       "badge": "配置基準緩和",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Cpu"
     },
     {
-      "labelSimple": "必要なハイテク機器",
+      "label": "",
       "labelStandard": "必須ICT設備",
+      "labelSimple": "必要なハイテク機器",
       "value": "全床センサー",
       "unit": "＋インカム等",
       "oldValue": "定時巡回による目視確認と紙の記録",
-      "descriptionSimple": "全ベッドに起き上がりセンサーを敷いてスマホ連動！",
+      "description": "",
       "descriptionStandard": "バイタル測定・インカム・介護記録ソフトの導入が要件",
+      "descriptionSimple": "全ベッドに起き上がりセンサーを敷いてスマホ連動！",
       "badge": "DX設備要件",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Activity"
     },
     {
-      "labelSimple": "夜勤スタッフの助かり",
+      "label": "",
       "labelStandard": "夜間巡回負担",
+      "labelSimple": "夜勤スタッフの助かり",
       "value": "大幅削減",
       "unit": "（不要な訪室ゼロ）",
       "oldValue": "1〜2時間ごとに眠る部屋を開けて確認",
-      "descriptionSimple": "お年寄りを起こさず、危ない部屋だけ急行できる！",
+      "description": "",
       "descriptionStandard": "起き上がり検知で転倒を未然防止し、職員の精神的負担軽減",
+      "descriptionSimple": "お年寄りを起こさず、危ない部屋だけ急行できる！",
       "badge": "夜勤負担軽減",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "現場からの心配",
+      "label": "",
       "labelStandard": "安全性と労働強化",
+      "labelSimple": "現場からの心配",
       "value": "アラーム疲労",
       "unit": "・過密化",
       "oldValue": "手厚いスタッフによる見守り",
-      "descriptionSimple": "誤作動でアラームが鳴りやまないと見落とす危険も…",
+      "description": "",
       "descriptionStandard": "単なる人件費削りに使われ職員の受け持ちが増える懸念",
+      "descriptionSimple": "誤作動でアラームが鳴りやまないと見落とす危険も…",
       "badge": "安全確認課題",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"

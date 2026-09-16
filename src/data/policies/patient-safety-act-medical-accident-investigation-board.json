@@ -2,7 +2,7 @@
   "id": "patient-safety-act-medical-accident-investigation-board",
   "title": "医療事故調査制度改革（外部専門家立会いと再発防止策の全国医療機関共有）",
   "catchphrase": "医療事故を隠蔽せず教訓に変える。予期せぬ院内死亡事故の全件調査報告と全国再発防止データベース",
-  "category": "social",
+  "category": "society",
   "categoryLabel": "社会保障・医療安全・患者の権利",
   "lastUpdated": "2024-04-15",
   "effectiveDate": "2015年施行・順次運用改善",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "医療事故調査制度",
-      "variant": "positive"
+      "text": "医療事故調査制度",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "再発防止・安全文化",
-      "variant": "positive"
+      "text": "再発防止・安全文化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "報告基準・隠蔽課題",
-      "variant": "warning"
+      "text": "報告基準・隠蔽課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "報告義務",
+      "labelStandard": "報告義務",
+      "labelSimple": "報告義務",
       "value": "予期せぬ死亡全件",
+      "unit": "",
+      "oldValue": "現行",
       "description": "医療に起因する予期せぬ死亡・死産を第三者機関へ報告",
+      "descriptionStandard": "報告義務",
+      "descriptionSimple": "報告義務",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "基本思想",
+      "labelStandard": "基本思想",
+      "labelSimple": "基本思想",
       "value": "非処罰的原因究明",
+      "unit": "",
+      "oldValue": "現行",
       "description": "個人追及ではなくシステムエラーを解明し安全標準向上",
+      "descriptionStandard": "基本思想",
+      "descriptionSimple": "基本思想",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "全国共有",
+      "labelStandard": "全国共有",
+      "labelSimple": "全国共有",
       "value": "再発防止提言の発信",
+      "unit": "",
+      "oldValue": "現行",
       "description": "蓄積された事故事例から全国共通の安全手順を策定",
+      "descriptionStandard": "全国共有",
+      "descriptionSimple": "全国共有",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     }
   ],

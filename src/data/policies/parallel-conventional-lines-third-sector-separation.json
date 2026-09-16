@@ -129,58 +129,76 @@
   "badges": [
     {
       "label": "新幹線延伸と並行在来線",
-      "variant": "neutral"
+      "text": "新幹線延伸と並行在来線",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "地元自治体の赤字三セク化",
-      "variant": "neutral"
+      "text": "地元自治体の赤字三セク化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "高校生通学定期の値上げ",
-      "variant": "neutral"
+      "text": "高校生通学定期の値上げ",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "在来線の経営移管",
+      "label": "",
       "labelStandard": "在来線の経営移管",
+      "labelSimple": "在来線の経営移管",
       "value": "第三セクター",
       "unit": "へ分離（地元出資）",
       "oldValue": "JRが新幹線・在来線を一括黒字運行",
       "description": "特急を失った普通列車赤字路線を引き受け",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "三セク化分離",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Building"
     },
     {
-      "labelSimple": "自治体の赤字補填",
+      "label": "",
       "labelStandard": "自治体の赤字補填",
+      "labelSimple": "自治体の赤字補填",
       "value": "年数億〜数十",
       "unit": "億円（税金補填）",
       "oldValue": "JR社内での内部補助で相殺",
       "description": "沿線県や市の財政を重く圧迫し続ける",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "地元税金補填",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "運賃水準の改定",
+      "label": "",
       "labelStandard": "運賃水準の改定",
+      "labelSimple": "運賃水準の改定",
       "value": "1.1〜1.3",
       "unit": "倍（値上げ改定）",
       "oldValue": "JR一律の全国幹線運賃テーブル",
       "description": "高校生通学定期の値上げが家計を直撃",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "運賃値上げ",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Ticket"
     },
     {
-      "labelSimple": "新幹線の時間短縮効果",
+      "label": "",
       "labelStandard": "新幹線の時間短縮効果",
+      "labelSimple": "新幹線の時間短縮効果",
       "value": "数時間短縮",
       "unit": "（東京直結）",
       "oldValue": "在来線特急と乗り換えが必要だった",
       "description": "観光客急増とビジネス出張の劇的効率化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "新幹線効果絶大",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Zap"

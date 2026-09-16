@@ -3,7 +3,7 @@
   "title": "臓器移植提供施設における院内ドナーコーディネーター配置と意思表示促進",
   "category": "healthcare",
   "categoryLabel": "医療・公衆衛生",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "コーディネーター配置支援中",
   "catchphrase": "命を繋ぐ選択を支える。救命救急センターへの院内ドナーコーディネーター配置と臓器提供意思表示の促進",
   "lastUpdated": "2026-09-16",
@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "脳死臓器提供数（海外比較）",
+      "labelStandard": "脳死臓器提供数（海外比較）",
+      "labelSimple": "脳死臓器提供数（海外比較）",
       "value": "0.7",
       "unit": "人/100万人",
       "oldValue": "米国約40人・韓国約8人",
       "description": "日本の極端に低い提供率を改善し、待機中死亡を防止するための体制強化",
+      "descriptionStandard": "脳死臓器提供数（海外比較）",
+      "descriptionSimple": "脳死臓器提供数（海外比較）",
       "badge": "提供率向上",
       "badgeColor": "blue",
       "icon": "Globe"
     },
     {
       "label": "配置対象拠点病院",
+      "labelStandard": "配置対象拠点病院",
+      "labelSimple": "配置対象拠点病院",
       "value": "900",
       "unit": "施設以上",
       "oldValue": "一部大学病院のみ",
       "description": "全国の高度救命救急センター・特定機能病院等への院内コーディネーター配置",
+      "descriptionStandard": "配置対象拠点病院",
+      "descriptionSimple": "配置対象拠点病院",
       "badge": "体制整備",
       "badgeColor": "green",
       "icon": "Building"

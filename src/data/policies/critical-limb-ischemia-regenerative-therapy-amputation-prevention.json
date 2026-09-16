@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "下肢切断リスク低減率",
+      "labelStandard": "下肢切断リスク低減率",
+      "labelSimple": "下肢切断リスク低減率",
       "value": "約50",
       "unit": "%減（認定拠点臨床値）",
       "oldValue": "年間約1万件超の切断",
       "description": "早期フットケアと再生医療の併用による救肢率の劇的向上",
+      "descriptionStandard": "下肢切断リスク低減率",
+      "descriptionSimple": "下肢切断リスク低減率",
       "badge": "切断大幅減",
       "badgeColor": "green",
       "icon": "heart"
     },
     {
       "label": "患者自己負担",
+      "labelStandard": "患者自己負担",
+      "labelSimple": "患者自己負担",
       "value": "上限適用",
       "unit": "（高額療養費制度）",
       "oldValue": "数百万円の自由診療",
       "description": "公的保険適用により月額数万円〜十数万円の負担上限で受療可能",
+      "descriptionStandard": "患者自己負担",
+      "descriptionSimple": "患者自己負担",
       "badge": "保険適用",
       "badgeColor": "blue",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

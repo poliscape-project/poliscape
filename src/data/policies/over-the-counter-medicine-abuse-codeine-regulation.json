@@ -2,7 +2,7 @@
   "id": "over-the-counter-medicine-abuse-codeine-regulation",
   "title": "薬機法見直し（市販薬オーバードーズ防止・乱用恐れ医薬品の販売規制と身分証確認）",
   "catchphrase": "若者の市販薬OD（乱用）と急性中毒死を防ぐ。咳止め・風邪薬の複数個購入制限と20歳未満の身分証確認義務化",
-  "category": "social",
+  "category": "society",
   "categoryLabel": "社会保障・治安・公衆衛生",
   "lastUpdated": "2024-04-15",
   "effectiveDate": "2024年法改正・順次施行",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "市販薬OD防止",
-      "variant": "positive"
+      "text": "市販薬OD防止",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "若者身分証確認",
-      "variant": "positive"
+      "text": "若者身分証確認",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "レジトラブル課題",
-      "variant": "warning"
+      "text": "レジトラブル課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "販売制限",
+      "labelStandard": "販売制限",
+      "labelSimple": "販売制限",
       "value": "原則1人1箱まで",
+      "unit": "",
+      "oldValue": "現行",
       "description": "正当な理由なき複数個購入・ハシゴ買いを防止",
+      "descriptionStandard": "販売制限",
+      "descriptionSimple": "販売制限",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "本人確認",
+      "labelStandard": "本人確認",
+      "labelSimple": "本人確認",
       "value": "20歳未満の身分証提示",
+      "unit": "",
+      "oldValue": "現行",
       "description": "学生証やマイナカードでの氏名・年齢確認を義務化",
+      "descriptionStandard": "本人確認",
+      "descriptionSimple": "本人確認",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "FileText"
     },
     {
       "label": "相談連携",
+      "labelStandard": "相談連携",
+      "labelSimple": "相談連携",
       "value": "精神保健窓口への誘導",
+      "unit": "",
+      "oldValue": "現行",
       "description": "孤立した若者を薬剤師が地域の公的相談窓口へ繋ぐ",
+      "descriptionStandard": "相談連携",
+      "descriptionSimple": "相談連携",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     }
   ],

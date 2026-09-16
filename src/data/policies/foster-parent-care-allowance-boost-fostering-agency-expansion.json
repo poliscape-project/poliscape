@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "里親手当月額",
+      "labelStandard": "里親手当月額",
+      "labelSimple": "里親手当月額",
       "value": "約12〜14",
       "unit": "万円（児童1人あたり）",
       "oldValue": "月額約9万円（長年据え置き）",
       "description": "物価高に対応した大幅引き上げにより里親家庭の養育費を強力支援",
+      "descriptionStandard": "里親手当月額",
+      "descriptionSimple": "里親手当月額",
       "badge": "手当大幅増額",
       "badgeColor": "blue",
       "icon": "currency-yen"
     },
     {
       "label": "支援機関数",
+      "labelStandard": "支援機関数",
+      "labelSimple": "支援機関数",
       "value": "100",
       "unit": "%整備（全都道府県・政令市）",
       "oldValue": "一部自治体のみ設置",
       "description": "専門のフォスタリング機関が里親のリクルートから伴走支援まで常時対応",
+      "descriptionStandard": "支援機関数",
+      "descriptionSimple": "支援機関数",
       "badge": "全国完全網羅",
       "badgeColor": "green",
       "icon": "home"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

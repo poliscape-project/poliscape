@@ -1,8 +1,8 @@
 {
   "id": "young-carer-academic-attendance-credit-flexibility-rules",
   "title": "ヤングケアラー配慮のための高校・大学出席・単位取得特例指針",
-  "category": "education-child",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "家族の介護や看病、身の回りの世話を日常的に担う子ども「ヤングケアラー」が、学業を断念・留年・中退することのないよう、出席日数や単位認定の弾力的特例ルールを文部科学省通知として全国の学校に策定・義務付ける。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "ヤングケアラー",
-      "variant": "purple"
+      "text": "ヤングケアラー",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "教育支援",
-      "variant": "blue"
+      "text": "教育支援",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "貧困対策",
-      "variant": "green"
+      "text": "貧困対策",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "中高生の該当割合",
+      "label": "中高生の該当割合",
+      "labelStandard": "中高生の該当割合",
+      "labelSimple": "中高生の該当割合",
       "value": "5.7",
       "unit": "%",
+      "oldValue": "現行",
       "description": "公立中学校・高校の生徒の約17人に1人が日常的に家族の世話を担っている実態",
-      "trend": "neutral",
-      "trendLabel": "全国実態調査"
+      "descriptionStandard": "中高生の該当割合",
+      "descriptionSimple": "中高生の該当割合",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "中退・留年防止効果",
+      "label": "中退・留年防止効果",
+      "labelStandard": "中退・留年防止効果",
+      "labelSimple": "中退・留年防止効果",
       "value": "80",
       "unit": "%減見込",
+      "oldValue": "現行",
       "description": "柔軟な単位取得特例とオンライン学習代替による学業断念者の大幅削減",
-      "trend": "down",
-      "trendLabel": "中退リスク減"
+      "descriptionStandard": "中退・留年防止効果",
+      "descriptionSimple": "中退・留年防止効果",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

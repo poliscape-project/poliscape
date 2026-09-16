@@ -130,58 +130,76 @@
   "badges": [
     {
       "label": "クリエイター適正契約指針",
-      "variant": "neutral"
+      "text": "クリエイター適正契約指針",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "買い叩き・著作権強奪禁止",
-      "variant": "neutral"
+      "text": "買い叩き・著作権強奪禁止",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "フリーランス新法連携",
-      "variant": "neutral"
+      "text": "フリーランス新法連携",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "クリエイターの年収",
+      "label": "",
       "labelStandard": "文化芸術関係者の年収実態",
+      "labelSimple": "クリエイターの年収",
       "value": "約半数",
       "unit": "年収300万円未満",
       "oldValue": "これまで やりがい搾取と低賃金",
       "description": "アニメやイラストの若手クリエイターが困窮",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "実態改善へ",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "契約書のルール",
+      "label": "",
       "labelStandard": "発注時の書面交付義務",
+      "labelSimple": "契約書のルール",
       "value": "100%",
       "unit": "書面化義務",
       "oldValue": "これまで 口頭やDMでの曖昧発注",
       "description": "報酬額や修正回数・期日を書面で出すよう法律で義務化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "フリーランス法",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "FileCheck"
     },
     {
-      "labelSimple": "作品の権利",
+      "label": "",
       "labelStandard": "著作権の買い叩き禁止",
+      "labelSimple": "作品の権利",
       "value": "権利強奪NG",
       "unit": "二次利用対価",
       "oldValue": "これまで 著作権をタダで全譲渡強要",
       "description": "大ヒット時のグッズ化・海外配信ロイヤリティ還元",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "著作権保護",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Scale"
     },
     {
-      "labelSimple": "違反した会社",
+      "label": "",
       "labelStandard": "違反企業へのペナルティ",
+      "labelSimple": "違反した会社",
       "value": "社名公表",
       "unit": "公取委是正命令",
       "oldValue": "これまで 泣き寝入りが多数",
       "description": "買い叩きや無償修正を強要した悪質企業を公表",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "行政指導",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "ShieldAlert"

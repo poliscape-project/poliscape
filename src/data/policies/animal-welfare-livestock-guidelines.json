@@ -175,62 +175,76 @@
   "badges": [
     {
       "label": "バタリーケージ改善指針",
-      "variant": "neutral"
+      "text": "バタリーケージ改善指針",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "母豚ストールフリー推奨",
-      "variant": "neutral"
+      "text": "母豚ストールフリー推奨",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "卵・肉の価格上昇懸念",
-      "variant": "neutral"
+      "text": "卵・肉の価格上昇懸念",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "狭いカゴで飼う割合",
+      "label": "",
       "labelStandard": "バタリーケージ飼育比率",
+      "labelSimple": "狭いカゴで飼う割合",
       "value": "約 9",
       "unit": "割以上",
       "oldValue": "効率と衛生のため日本で広く普及",
-      "descriptionSimple": "羽を広げられない狭い鳥かごの改善が求められる",
+      "description": "",
       "descriptionStandard": "欧米では法的に禁止、国際基準（WOAH）が改定",
+      "descriptionSimple": "羽を広げられない狭い鳥かごの改善が求められる",
       "badge": "過密飼育批判",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Scale"
     },
     {
-      "labelSimple": "お部屋を直すお金",
+      "label": "",
       "labelStandard": "平飼い移行の設備投資額",
+      "labelSimple": "お部屋を直すお金",
       "value": "数千万〜数億",
       "unit": "円/農場",
       "oldValue": "既存のケージ設備を全廃棄する必要",
-      "descriptionSimple": "広くてキレイなお部屋に建て替える莫大なお金",
+      "description": "",
       "descriptionStandard": "家族経営農家には耐えがたい巨額借金リスク",
+      "descriptionSimple": "広くてキレイなお部屋に建て替える莫大なお金",
       "badge": "巨額改修費",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "飼えるニワトリの数",
+      "label": "",
       "labelStandard": "同面積あたりの収容羽数",
+      "labelSimple": "飼えるニワトリの数",
       "value": "最大 1/3",
       "unit": "に減少",
       "oldValue": "上下多段ケージで高密度飼育",
-      "descriptionSimple": "広い部屋にすると飼えるニワトリが大幅に減る！",
+      "description": "",
       "descriptionStandard": "生産羽数の激減により卵の供給不足と値上がり懸念",
+      "descriptionSimple": "広い部屋にすると飼えるニワトリが大幅に減る！",
       "badge": "生産性低下",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "国の新しいルール",
+      "label": "",
       "labelStandard": "農水省 飼養管理指針",
+      "labelSimple": "国の新しいルール",
       "value": "2023",
       "unit": "年7月策定",
       "oldValue": "業界の自主努力に委ねられていた",
-      "descriptionSimple": "止まり木を作ったり広いお部屋にする新ルール！",
+      "description": "",
       "descriptionStandard": "止まり木設置や母豚の群飼いを国が公式推奨",
+      "descriptionSimple": "止まり木を作ったり広いお部屋にする新ルール！",
       "badge": "新指針策定",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Heart"

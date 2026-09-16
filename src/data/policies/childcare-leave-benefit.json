@@ -155,62 +155,76 @@
   "badges": [
     {
       "label": "実質手取り10割",
-      "variant": "neutral"
+      "text": "実質手取り10割",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "給付率80%へ引上げ",
-      "variant": "neutral"
+      "text": "給付率80%へ引上げ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "最大28日間・両親取得",
-      "variant": "neutral"
+      "text": "最大28日間・両親取得",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "育休中にもらえる手取り割合",
+      "label": "",
       "labelStandard": "実質的な手取り給付率",
+      "labelSimple": "育休中にもらえる手取り割合",
       "value": "100",
       "unit": "%（手取り10割）",
       "oldValue": "従来の育休手当は手取り約80%",
-      "descriptionSimple": "休んでもいつもの手取りが減らない！",
+      "description": "",
       "descriptionStandard": "社会保険料免除・非課税により手取り額100%達成",
+      "descriptionSimple": "休んでもいつもの手取りが減らない！",
       "badge": "手取り10割",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Baby"
     },
     {
-      "labelSimple": "手当自体の給付率",
+      "label": "",
       "labelStandard": "出生後休業支援給付の支給率",
+      "labelSimple": "手当自体の給付率",
       "value": "80",
       "unit": "%",
       "oldValue": "従来の育休給付金は額面の67%",
-      "descriptionSimple": "給料の8割が国から振り込まれる！",
+      "description": "",
       "descriptionStandard": "額面賃金の80%を給付（上限額設定あり）",
+      "descriptionSimple": "給料の8割が国から振り込まれる！",
       "badge": "給付率80%",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Sparkles"
     },
     {
-      "labelSimple": "もらえる期間の上限",
+      "label": "",
       "labelStandard": "新給付の対象期間",
+      "labelSimple": "もらえる期間の上限",
       "value": "最大 28",
       "unit": "日間",
       "oldValue": "産後パパ育休（出生時育児休業）枠",
-      "descriptionSimple": "産後すぐの約1ヶ月間が対象！",
+      "description": "",
       "descriptionStandard": "出生直後の最も人手が必要な期間を重点支援",
+      "descriptionSimple": "産後すぐの約1ヶ月間が対象！",
       "badge": "最大28日間",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Calendar"
     },
     {
-      "labelSimple": "もらえる条件",
+      "label": "",
       "labelStandard": "両親ともに育休の要件",
+      "labelSimple": "もらえる条件",
       "value": "父母とも",
       "unit": "育休取得",
       "oldValue": "片親のみの場合は従来の67%給付",
-      "descriptionSimple": "パパもママも一緒に休むのが条件！",
+      "description": "",
       "descriptionStandard": "配偶者の育休取得（または片親・自営業特例）",
+      "descriptionSimple": "パパもママも一緒に休むのが条件！",
       "badge": "共育て推進",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Users"

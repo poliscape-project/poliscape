@@ -1,8 +1,8 @@
 {
   "id": "startup-patent-intellectual-property-collateral-loan-act",
   "title": "ディープテック・スタートアップ向け特許・知財担保融資の信用保証枠新設",
-  "category": "economy-industry",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "不動産や過去の財務実績（売上・黒字）を持たない大学発ベンチャーやディープテック・スタートアップが、保有する「特許権・知的財産（IP）」そのものを担保に銀行から大規模な成長資金を借り入れられるよう、信用保証協会の特別保証枠を創設する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "ディープテック",
-      "variant": "blue"
+      "text": "ディープテック",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "知財金融",
-      "variant": "green"
+      "text": "知財金融",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "スタートアップ",
-      "variant": "purple"
+      "text": "スタートアップ",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "特別保証限度額",
+      "label": "特別保証限度額",
+      "labelStandard": "特別保証限度額",
+      "labelSimple": "特別保証限度額",
       "value": "5",
       "unit": "億円",
+      "oldValue": "現行",
       "description": "特許権を主たる担保とする経営者個人保証不要の公的信用保証枠",
-      "trend": "up",
-      "trendLabel": "大型保証"
+      "descriptionStandard": "特別保証限度額",
+      "descriptionSimple": "特別保証限度額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "知財評価書作成補助",
+      "label": "知財評価書作成補助",
+      "labelStandard": "知財評価書作成補助",
+      "labelSimple": "知財評価書作成補助",
       "value": "100",
       "unit": "%全額補助",
+      "oldValue": "現行",
       "description": "弁理士等による特許価値の客観的評価にかかる費用を国が全額支援",
-      "trend": "up",
-      "trendLabel": "手数料無料化"
+      "descriptionStandard": "知財評価書作成補助",
+      "descriptionSimple": "知財評価書作成補助",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

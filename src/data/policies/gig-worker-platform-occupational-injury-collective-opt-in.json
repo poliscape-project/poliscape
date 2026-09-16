@@ -1,7 +1,7 @@
 {
   "id": "gig-worker-platform-occupational-injury-collective-opt-in",
   "title": "フードデリバリー・プラットフォーム労働者の特別労災保険一括加入義務化",
-  "category": "employment",
+  "category": "society",
   "subcategory": "ギグワーク・労災保険",
   "status": "施行中",
   "date": "2024-04",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "治療費公費負担",
+      "labelStandard": "治療費公費負担",
+      "labelSimple": "治療費公費負担",
       "value": "100",
       "unit": "%（自己負担ゼロ）",
       "oldValue": "民間保険の限度額内",
       "description": "業務中・通勤中の事故による怪我の治療費を労災保険が全額支給",
+      "descriptionStandard": "治療費公費負担",
+      "descriptionSimple": "治療費公費負担",
       "badge": "完全無料化",
       "badgeColor": "green",
       "icon": "heart"
     },
     {
       "label": "加入配達員数",
+      "labelStandard": "加入配達員数",
+      "labelSimple": "加入配達員数",
       "value": "15",
       "unit": "万人超",
       "oldValue": "数千人規模",
       "description": "アプリ一括加入連動により加入率が飛躍的に急上昇",
+      "descriptionStandard": "加入配達員数",
+      "descriptionSimple": "加入配達員数",
       "badge": "加入爆発",
       "badgeColor": "blue",
       "icon": "users"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "employment"
 }

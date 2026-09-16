@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "男女平等化",
-      "variant": "positive"
+      "text": "男女平等化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "子なし5年有期化",
-      "variant": "warning"
+      "text": "子なし5年有期化",
+      "variant": "warning",
+      "color": "blue"
     },
     {
       "label": "大激論中",
-      "variant": "neutral"
+      "text": "大激論中",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "最大改革",
+      "labelStandard": "最大改革",
+      "labelSimple": "最大改革",
       "value": "受給格差の完全撤廃",
+      "unit": "",
+      "oldValue": "現行",
       "description": "夫が死んだ場合も妻が死んだ場合も完全に同一ルールへ",
+      "descriptionStandard": "最大改革",
+      "descriptionSimple": "最大改革",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "支給期間",
+      "labelStandard": "支給期間",
+      "labelSimple": "支給期間",
       "value": "子なし配偶者は5年有期",
+      "unit": "",
+      "oldValue": "現行",
       "description": "生涯給付から自立支援型の一時的給付へ転換",
+      "descriptionStandard": "支給期間",
+      "descriptionSimple": "支給期間",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "経過措置",
+      "labelStandard": "経過措置",
+      "labelSimple": "経過措置",
       "value": "高齢者・既存受給者は終身維持",
+      "unit": "",
+      "oldValue": "現行",
       "description": "制度移行に伴う生活破綻を防ぐ数十年の経過措置",
+      "descriptionStandard": "経過措置",
+      "descriptionSimple": "経過措置",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

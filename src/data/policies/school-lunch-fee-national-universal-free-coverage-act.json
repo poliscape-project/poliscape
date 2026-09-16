@@ -4,7 +4,7 @@
   "catchphrase": "義務教育完全無償化の総仕上げ。公立小中学校の給食費を国費で全額負担し子育て格差を解消",
   "category": "education",
   "categoryLabel": "教育・学校",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "給食費無償化",
-      "variant": "purple"
+      "text": "給食費無償化",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "義務教育無償",
-      "variant": "blue"
+      "text": "義務教育無償",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "子育て負担軽減",
-      "variant": "green"
+      "text": "子育て負担軽減",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "世帯軽減額（子ども2人）",
+      "label": "世帯軽減額（子ども2人）",
+      "labelStandard": "世帯軽減額（子ども2人）",
+      "labelSimple": "世帯軽減額（子ども2人）",
       "value": "11",
       "unit": "万円/年",
+      "oldValue": "現行",
       "description": "公立小中学校に子ども2人が通う世帯における年間の直接的家計負担軽減額",
-      "trend": "down",
-      "trendLabel": "負担ゼロ化"
+      "descriptionStandard": "世帯軽減額（子ども2人）",
+      "descriptionSimple": "世帯軽減額（子ども2人）",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "全国一律無償化カバー率",
+      "label": "全国一律無償化カバー率",
+      "labelStandard": "全国一律無償化カバー率",
+      "labelSimple": "全国一律無償化カバー率",
       "value": "100",
       "unit": "%",
+      "oldValue": "現行",
       "description": "自治体の財政力に関係なく日本全国すべての公立小中学校で達成される無償化率",
-      "trend": "up",
-      "trendLabel": "地域格差解消"
+      "descriptionStandard": "全国一律無償化カバー率",
+      "descriptionSimple": "全国一律無償化カバー率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

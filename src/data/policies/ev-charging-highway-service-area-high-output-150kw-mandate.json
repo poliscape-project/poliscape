@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "急速充電器出力",
+      "labelStandard": "急速充電器出力",
+      "labelSimple": "急速充電器出力",
       "value": "150",
       "unit": "kW級（標準化）",
       "oldValue": "40〜50kW",
       "description": "従来の3倍の高出力化で充電時間をガソリン給油並みに短縮",
+      "descriptionStandard": "急速充電器出力",
+      "descriptionSimple": "急速充電器出力",
       "badge": "出力3倍",
       "badgeColor": "green",
       "icon": "sparkles"
     },
     {
       "label": "主要SA配備口数",
+      "labelStandard": "主要SA配備口数",
+      "labelSimple": "主要SA配備口数",
       "value": "6〜8",
       "unit": "口以上/箇所",
       "oldValue": "1〜2口",
       "description": "複数台が同時に超急速充電可能なマルチポート化を義務付け",
+      "descriptionStandard": "主要SA配備口数",
+      "descriptionSimple": "主要SA配備口数",
       "badge": "口数大幅増",
       "badgeColor": "blue",
       "icon": "building-library"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "environment"
 }

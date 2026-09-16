@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "年間権利行使限度額",
+      "labelStandard": "年間権利行使限度額",
+      "labelSimple": "年間権利行使限度額",
       "value": "3600",
       "unit": "万円/年",
       "oldValue": "1200万円",
       "description": "優良スタートアップを対象に従来の3倍まで非課税行使枠を拡大",
+      "descriptionStandard": "年間権利行使限度額",
+      "descriptionSimple": "年間権利行使限度額",
       "badge": "3倍拡大",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "税率の有利性",
+      "labelStandard": "税率の有利性",
+      "labelSimple": "税率の有利性",
       "value": "約20",
       "unit": "%（申告分離）",
       "oldValue": "最大55%（給与課税）",
       "description": "売却時まで課税繰延され譲渡所得として一律低税率が適用",
+      "descriptionStandard": "税率の有利性",
+      "descriptionSimple": "税率の有利性",
       "badge": "低税率適用",
       "badgeColor": "blue",
       "icon": "trending-up"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "利用者自己負担額",
+      "labelStandard": "利用者自己負担額",
+      "labelSimple": "利用者自己負担額",
       "value": "約500",
       "unit": "円/回（2時間程度）",
       "oldValue": "民間代行で1回約6,000円",
       "description": "公費補助により気軽に頼めるワンコイン負担を実現",
+      "descriptionStandard": "利用者自己負担額",
+      "descriptionSimple": "利用者自己負担額",
       "badge": "ワンコイン利用",
       "badgeColor": "blue",
       "icon": "currency-yen"
     },
     {
       "label": "利用対象家庭",
+      "labelStandard": "利用対象家庭",
+      "labelSimple": "利用対象家庭",
       "value": "全世帯",
       "unit": "（所得制限なし）",
       "oldValue": "多胎・特定妊婦に限定",
       "description": "希望するすべての妊産婦が利用できる普遍的権利として開放",
+      "descriptionStandard": "利用対象家庭",
+      "descriptionSimple": "利用対象家庭",
       "badge": "全世帯対象",
       "badgeColor": "green",
       "icon": "user-group"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

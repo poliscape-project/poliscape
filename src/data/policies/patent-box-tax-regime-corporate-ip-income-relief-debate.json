@@ -4,7 +4,7 @@
   "catchphrase": "研究開発の果実を国内に残す。特許ライセンス料や知財譲渡益への法人税率を大幅引き下げ",
   "category": "tax",
   "categoryLabel": "税制改革・知的財産",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "知財ボックス",
-      "variant": "purple"
+      "text": "知財ボックス",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "法人税減税",
-      "variant": "blue"
+      "text": "法人税減税",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "知財立国",
-      "variant": "green"
+      "text": "知財立国",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "特許所得実質税率",
+      "label": "特許所得実質税率",
+      "labelStandard": "特許所得実質税率",
+      "labelSimple": "特許所得実質税率",
       "value": "15",
       "unit": "%（通常30%）",
+      "oldValue": "現行",
       "description": "知財ボックス税制適用により半減される国内研究開発特許から生じる所得の実質法人税率",
-      "trend": "down",
-      "trendLabel": "税率半減"
+      "descriptionStandard": "特許所得実質税率",
+      "descriptionSimple": "特許所得実質税率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "国内出願特許維持率",
+      "label": "国内出願特許維持率",
+      "labelStandard": "国内出願特許維持率",
+      "labelSimple": "国内出願特許維持率",
       "value": "95",
       "unit": "%以上",
+      "oldValue": "現行",
       "description": "税制優遇により海外法人への名義移転を行わず日本国内で管理される戦略特許の割合",
-      "trend": "up",
-      "trendLabel": "知財流出防止"
+      "descriptionStandard": "国内出願特許維持率",
+      "descriptionSimple": "国内出願特許維持率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

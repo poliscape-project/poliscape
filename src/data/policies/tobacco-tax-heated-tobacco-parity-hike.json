@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "防衛財源確保",
-      "variant": "neutral"
+      "text": "防衛財源確保",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "税率同等化",
-      "variant": "positive"
+      "text": "税率同等化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "段階的引き上げ",
-      "variant": "warning"
+      "text": "段階的引き上げ",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "増税規模",
+      "labelStandard": "増税規模",
+      "labelSimple": "増税規模",
       "value": "1本あたり約3円相当",
+      "unit": "",
+      "oldValue": "現行",
       "description": "防衛力整備の財源として段階的に実施",
+      "descriptionStandard": "増税規模",
+      "descriptionSimple": "増税規模",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "改定対象",
+      "labelStandard": "改定対象",
+      "labelSimple": "改定対象",
       "value": "加熱式たばこ全般",
+      "unit": "",
+      "oldValue": "現行",
       "description": "紙巻きたばことの税率格差を完全解消",
+      "descriptionStandard": "改定対象",
+      "descriptionSimple": "改定対象",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "目的",
+      "labelStandard": "目的",
+      "labelSimple": "目的",
       "value": "財源と健康増進の両立",
+      "unit": "",
+      "oldValue": "現行",
       "description": "受動喫煙防止と将来の医療費抑制",
+      "descriptionStandard": "目的",
+      "descriptionSimple": "目的",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     }
   ],

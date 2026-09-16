@@ -139,15 +139,21 @@
   "badges": [
     {
       "label": "休日の部活を地域移行",
-      "variant": "neutral"
+      "text": "休日の部活を地域移行",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "教員の過重労働解消",
-      "variant": "neutral"
+      "text": "教員の過重労働解消",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "月謝負担・地域格差課題",
-      "variant": "neutral"
+      "text": "月謝負担・地域格差課題",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "international": {

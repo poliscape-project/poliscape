@@ -149,62 +149,76 @@
   "badges": [
     {
       "label": "40歳到達時の面談義務化",
-      "variant": "neutral"
+      "text": "40歳到達時の面談義務化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "年間10万人の介護離職防止",
-      "variant": "neutral"
+      "text": "年間10万人の介護離職防止",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "テレワーク等柔軟措置の義務化",
-      "variant": "neutral"
+      "text": "テレワーク等柔軟措置の義務化",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "辞めてしまう人の数",
+      "label": "",
       "labelStandard": "年間の介護離職者",
+      "labelSimple": "辞めてしまう人の数",
       "value": "約10万人",
       "unit": "（働き盛り世代）",
       "oldValue": "40〜50代の中核社員が突然退職する事態が常態化",
-      "descriptionSimple": "毎年10万人もの人が親の介護で仕事を諦めている！",
+      "description": "",
       "descriptionStandard": "管理職や熟練社員の流出による企業損失は深刻",
+      "descriptionSimple": "毎年10万人もの人が親の介護で仕事を諦めている！",
       "badge": "年10万人離職",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "面談する年齢",
+      "label": "",
       "labelStandard": "事前周知・面談義務",
+      "labelSimple": "面談する年齢",
       "value": "40歳",
       "unit": "到達時（全社員）",
       "oldValue": "親が倒れて休業を申し出たときだけ事後対応",
-      "descriptionSimple": "40歳になったら会社が必ず休みの仕組みを教えてくれる！",
+      "description": "",
       "descriptionStandard": "介護保険加入の40歳時点で制度周知と意向確認を義務化",
+      "descriptionSimple": "40歳になったら会社が必ず休みの仕組みを教えてくれる！",
       "badge": "40歳面談義務",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "UserCheck"
     },
     {
-      "labelSimple": "柔軟な働き方",
+      "label": "",
       "labelStandard": "テレワーク等の選択",
+      "labelSimple": "柔軟な働き方",
       "value": "義務化",
       "unit": "（企業措置）",
       "oldValue": "短時間勤務のみで、在宅勤務は企業の任意",
-      "descriptionSimple": "親の介護がある人は、家で仕事ができるように！",
+      "description": "",
       "descriptionStandard": "テレワーク、時差出勤、フレックス制の選択肢を義務付け",
+      "descriptionSimple": "親の介護がある人は、家で仕事ができるように！",
       "badge": "テレワーク措置",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Laptop"
     },
     {
-      "labelSimple": "法律の休み（介護休業）",
+      "label": "",
       "labelStandard": "介護休業の本来の目的",
+      "labelSimple": "法律の休み（介護休業）",
       "value": "通算93日",
       "unit": "（賃金67%給付）",
       "oldValue": "「自分が親を介護するための休み」と誤解されていた",
-      "descriptionSimple": "親を介護する休みではなく、ヘルパーを手配する準備期間！",
+      "description": "",
       "descriptionStandard": "ケアマネと体制を作り仕事と両立するための準備休業",
+      "descriptionSimple": "親を介護する休みではなく、ヘルパーを手配する準備期間！",
       "badge": "通算93日休業",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Calendar"

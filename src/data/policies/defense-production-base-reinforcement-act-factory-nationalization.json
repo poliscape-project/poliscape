@@ -155,50 +155,62 @@
   "badges": [
     {
       "label": "製造ライン国有化制度",
-      "variant": "neutral"
+      "text": "製造ライン国有化制度",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "契約利益率最大15%",
-      "variant": "neutral"
+      "text": "契約利益率最大15%",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "サイバー防衛を公費補助",
-      "variant": "neutral"
+      "text": "サイバー防衛を公費補助",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "撤退した工場の買い取り",
+      "label": "",
       "labelStandard": "製造ライン国有化制度",
+      "labelSimple": "撤退した工場の買い取り",
       "value": "国が買収",
       "unit": "（他社へ操業委託）",
       "oldValue": "民間が撤退すれば廃棄",
-      "descriptionSimple": "自衛隊の装備が作れなくならないよう国が工場を買い取る！",
+      "description": "",
       "descriptionStandard": "防衛省が工場や生産設備を直接保有し民間へ管理委託",
+      "descriptionSimple": "自衛隊の装備が作れなくならないよう国が工場を買い取る！",
       "badge": "異例の国有化",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Home"
     },
     {
-      "labelSimple": "防衛メーカーの儲け",
+      "label": "",
       "labelStandard": "防衛調達の目標利益率",
+      "labelSimple": "防衛メーカーの儲け",
       "value": "最大 15%",
       "unit": "（平均10%水準）",
       "oldValue": "約 8%（赤字撤退多発）",
-      "descriptionSimple": "企業が赤字で逃げ出さないよう国が適正な利益を保証！",
+      "description": "",
       "descriptionStandard": "コスト低減等のインセンティブに応じた利益率引き上げを導入",
+      "descriptionSimple": "企業が赤字で逃げ出さないよう国が適正な利益を保証！",
       "badge": "採算性改善",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "TrendingUp"
     },
     {
-      "labelSimple": "ハッカー対策の国費支援",
+      "label": "",
       "labelStandard": "サイバーセキュリティ補助",
+      "labelSimple": "ハッカー対策の国費支援",
       "value": "国が全額/半額助成",
       "unit": "（NIST基準対応）",
       "oldValue": "全額企業の自腹",
-      "descriptionSimple": "海外からのサイバー攻撃を防ぐシステム整備に補助金！",
+      "description": "",
       "descriptionStandard": "防衛サプライチェーン全体のサイバー耐性強化に財政支援",
+      "descriptionSimple": "海外からのサイバー攻撃を防ぐシステム整備に補助金！",
       "badge": "サプライチェーン防衛",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "ShieldCheck"

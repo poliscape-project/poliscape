@@ -2,7 +2,7 @@
   "id": "senior-cooperative-housing-silver-service-standards",
   "title": "サービス付き高齢者向け住宅（サ高住）制度改革法（安否確認基準刷新）",
   "catchphrase": "安心して暮らせる終の棲家へ、サ高住の見守り品質向上・囲い込み介護規制と入居一時金保護",
-  "category": "welfare",
+  "category": "society",
   "categoryLabel": "社会保障・福祉",
   "lastUpdated": "2026-02-06",
   "effectiveDate": "2025年4月施行",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "サ高住",
-      "variant": "positive"
+      "text": "サ高住",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "高齢者住宅",
-      "variant": "neutral"
+      "text": "高齢者住宅",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "介護適正化",
-      "variant": "positive"
+      "text": "介護適正化",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "24時間見守りの質向上",
+      "labelStandard": "24時間見守りの質向上",
+      "labelSimple": "24時間見守りの質向上",
       "value": "24時間見守りの質向上",
+      "unit": "",
+      "oldValue": "現行",
       "description": "生体センサーや夜間駆けつけ体制の配備を義務化。",
+      "descriptionStandard": "24時間見守りの質向上",
+      "descriptionSimple": "24時間見守りの質向上",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     },
     {
       "label": "過剰な囲い込み介護を撲滅",
+      "labelStandard": "過剰な囲い込み介護を撲滅",
+      "labelSimple": "過剰な囲い込み介護を撲滅",
       "value": "過剰な囲い込み介護を撲滅",
+      "unit": "",
+      "oldValue": "現行",
       "description": "系列介護事業所の強制利用を禁止し中立なケアプランを確保。",
+      "descriptionStandard": "過剰な囲い込み介護を撲滅",
+      "descriptionSimple": "過剰な囲い込み介護を撲滅",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "一時金の返還金トラブル防止",
+      "labelStandard": "一時金の返還金トラブル防止",
+      "labelSimple": "一時金の返還金トラブル防止",
       "value": "一時金の返還金トラブル防止",
+      "unit": "",
+      "oldValue": "現行",
       "description": "退去時の返還金トラブルを防ぐ信託保全と明確な算定式を義務化。",
+      "descriptionStandard": "一時金の返還金トラブル防止",
+      "descriptionSimple": "一時金の返還金トラブル防止",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

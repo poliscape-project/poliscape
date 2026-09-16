@@ -4,7 +4,7 @@
   "catchphrase": "アナフィラキシー死をゼロへ。全国の小中学校へのエピペン（自己注射薬）全校常備と使用義務化",
   "category": "education",
   "categoryLabel": "学校安全・児童保健",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "エピペン常備",
-      "variant": "purple"
+      "text": "エピペン常備",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "給食アレルギー",
-      "variant": "blue"
+      "text": "給食アレルギー",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "学校安全",
-      "variant": "green"
+      "text": "学校安全",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "全校常備カバー率",
+      "label": "全校常備カバー率",
+      "labelStandard": "全校常備カバー率",
+      "labelSimple": "全校常備カバー率",
       "value": "100",
       "unit": "%達成",
+      "oldValue": "現行",
       "description": "全国すべての公立小中学校・義務教育学校における学校救急用エピペンの常備配備率",
-      "trend": "up",
-      "trendLabel": "全校配備"
+      "descriptionStandard": "全校常備カバー率",
+      "descriptionSimple": "全校常備カバー率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "アナフィラキシー死亡",
+      "label": "アナフィラキシー死亡",
+      "labelStandard": "アナフィラキシー死亡",
+      "labelSimple": "アナフィラキシー死亡",
       "value": "0",
       "unit": "件継続",
+      "oldValue": "現行",
       "description": "エピペン常備および教員研修義務化施行後の全国公立学校内アナフィラキシー死亡ゼロ目標",
-      "trend": "down",
-      "trendLabel": "死亡ゼロ達成"
+      "descriptionStandard": "アナフィラキシー死亡",
+      "descriptionSimple": "アナフィラキシー死亡",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

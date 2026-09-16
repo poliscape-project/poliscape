@@ -2,7 +2,7 @@
   "id": "emergency-power-supply-dialysis-hospital-mandate",
   "title": "災害時透析・周産期医療機関72時間非常用電源・給水自立義務化法",
   "catchphrase": "大停電・断水でも命をつなぐ、人工透析クリニック・NICUへの72時間非常用電源と受水槽義務化",
-  "category": "safety",
+  "category": "society",
   "categoryLabel": "司法・治安・刑事政策",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "医療防災",
-      "variant": "positive"
+      "text": "医療防災",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "透析医療",
-      "variant": "positive"
+      "text": "透析医療",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "72時間自立",
-      "variant": "neutral"
+      "text": "72時間自立",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "自立稼働",
+      "labelStandard": "自立稼働",
+      "labelSimple": "自立稼働",
       "value": "最低72時間（3日間）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "外部電力・水道途絶時も自前の非常用電源・受水槽で透析継続",
+      "descriptionStandard": "自立稼働",
+      "descriptionSimple": "自立稼働",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Zap"
     },
     {
       "label": "施設助成",
+      "labelStandard": "施設助成",
+      "labelSimple": "施設助成",
       "value": "工事費用の最大2/3",
+      "unit": "",
+      "oldValue": "現行",
       "description": "自家発電機・LPガス災害バルク・大容量受水槽の整備を助成",
+      "descriptionStandard": "施設助成",
+      "descriptionSimple": "施設助成",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

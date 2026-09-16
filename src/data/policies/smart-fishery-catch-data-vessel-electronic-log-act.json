@@ -2,7 +2,7 @@
   "id": "smart-fishery-catch-data-vessel-electronic-log-act",
   "title": "水産資源管理・電子操業日誌（デジタル漁獲報告）完全義務化法",
   "catchphrase": "魚が消える海を食い止める、全漁船への電子操業日誌（デジタル日誌）義務化と資源評価の高度化",
-  "category": "agriculture",
+  "category": "society",
   "categoryLabel": "農林水産業",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "水産資源管理",
-      "variant": "positive"
+      "text": "水産資源管理",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "スマート水産",
-      "variant": "positive"
+      "text": "スマート水産",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "漁業DX",
-      "variant": "neutral"
+      "text": "漁業DX",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "報告方式",
+      "labelStandard": "報告方式",
+      "labelSimple": "報告方式",
       "value": "洋上クラウド即時送信",
+      "unit": "",
+      "oldValue": "現行",
       "description": "手書き紙日誌を廃止しタブレット・スマホからの即時報告を義務化",
+      "descriptionStandard": "報告方式",
+      "descriptionSimple": "報告方式",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "公費補助",
+      "labelStandard": "公費補助",
+      "labelSimple": "公費補助",
       "value": "端末・通信料100%",
+      "unit": "",
+      "oldValue": "現行",
       "description": "低軌道衛星通信アンテナとタブレット費用を全額国費負担",
+      "descriptionStandard": "公費補助",
+      "descriptionSimple": "公費補助",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

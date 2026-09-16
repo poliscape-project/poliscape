@@ -129,58 +129,76 @@
   "badges": [
     {
       "label": "食物アレルギー誤食ゼロ",
-      "variant": "neutral"
+      "text": "食物アレルギー誤食ゼロ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "おかわり禁止・専用皿",
-      "variant": "neutral"
+      "text": "おかわり禁止・専用皿",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "全教員のエピペン訓練",
-      "variant": "neutral"
+      "text": "全教員のエピペン訓練",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "学校給食事故ゼロ維持",
+      "label": "",
       "labelStandard": "学校給食事故ゼロ維持",
+      "labelSimple": "学校給食事故ゼロ維持",
       "value": "アナフィラキシー",
       "unit": "死亡事故ゼロ",
       "oldValue": "2012年調布市で誤食死亡事故発生",
       "description": "徹底した配膳指針で子どもの命を死守",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "事故死ゼロ達成",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "ShieldAlert"
     },
     {
-      "labelSimple": "誤配膳防止ルール",
+      "label": "",
       "labelStandard": "誤配膳防止ルール",
+      "labelSimple": "誤配膳防止ルール",
       "value": "専用トレイ",
       "unit": "・おかわり全面禁止",
       "oldValue": "児童の自己申告任せで誤食が多発",
       "description": "調理場から色分け個別密閉容器で配給",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "おかわり完全禁止",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Ban"
     },
     {
-      "labelSimple": "エピペン注射の教員代行",
+      "label": "",
       "labelStandard": "エピペン注射の教員代行",
+      "labelSimple": "エピペン注射の教員代行",
       "value": "法的に合法",
       "unit": "（医師法違反なし）",
       "oldValue": "教員が医療行為を恐れて注射を躊躇",
       "description": "救急車到着前に教員が躊躇なく注射可能",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "教員の緊急注射公認",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "HeartPulse"
     },
     {
-      "labelSimple": "全教職員の年次訓練",
+      "label": "",
       "labelStandard": "全教職員の年次訓練",
+      "labelSimple": "全教職員の年次訓練",
       "value": "全員受講",
       "unit": "（毎年実技訓練）",
       "oldValue": "養護教諭（保健室）のみの知識だった",
       "description": "校長から全担任まで緊急蘇生シミュレーション",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "毎年全員実技訓練",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Users"

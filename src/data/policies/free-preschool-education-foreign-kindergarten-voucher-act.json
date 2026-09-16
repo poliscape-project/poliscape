@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "月額補助上限額",
+      "labelStandard": "月額補助上限額",
+      "labelSimple": "月額補助上限額",
       "value": "2.0",
       "unit": "万円/月",
       "oldValue": "0円（全額自己負担）",
       "description": "安全基準等を満たす外国人幼児施設に通う3〜5歳児に給付",
+      "descriptionStandard": "月額補助上限額",
+      "descriptionSimple": "月額補助上限額",
       "badge": "公費補助新設",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "対象児童数推計",
+      "labelStandard": "対象児童数推計",
+      "labelSimple": "対象児童数推計",
       "value": "1.5",
       "unit": "万人規模",
       "oldValue": "支援ゼロ",
       "description": "全国のインターナショナルスクール幼稚部や民族学校等に通う児童",
+      "descriptionStandard": "対象児童数推計",
+      "descriptionSimple": "対象児童数推計",
       "badge": "対象拡大",
       "badgeColor": "blue",
       "icon": "users"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

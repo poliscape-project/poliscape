@@ -129,58 +129,76 @@
   "badges": [
     {
       "label": "自動配送ロボの歩道走行解禁",
-      "variant": "neutral"
+      "text": "自動配送ロボの歩道走行解禁",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "最高時速6kmの遠隔監視",
-      "variant": "neutral"
+      "text": "最高時速6kmの遠隔監視",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "物流2024年問題の解決",
-      "variant": "neutral"
+      "text": "物流2024年問題の解決",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "歩道自律走行の解禁",
+      "label": "",
       "labelStandard": "歩道自律走行の解禁",
+      "labelSimple": "歩道自律走行の解禁",
       "value": "時速 6",
       "unit": "km以下（早歩き程度）",
       "oldValue": "公道・歩道走行は原則違法だった",
       "description": "改正道交法で「遠隔操作型小型車」として公認",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "歩道走行解禁",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Car"
     },
     {
-      "labelSimple": "ラストワンマイル救済",
+      "label": "",
       "labelStandard": "ラストワンマイル救済",
+      "labelSimple": "ラストワンマイル救済",
       "value": "24時間",
       "unit": "いつでも無人配達",
       "oldValue": "夜間・再配達で配達員が過労死寸前",
       "description": "お弁当・食料品・日用品を自宅前までお届け",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "2024年問題解決",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Clock"
     },
     {
-      "labelSimple": "非対面・非接触受取",
+      "label": "",
       "labelStandard": "非対面・非接触受取",
+      "labelSimple": "非対面・非接触受取",
       "value": "スマホ暗証",
       "unit": "番号でトランク解錠",
       "oldValue": "玄関先での対面サインが必要だった",
       "description": "盗難防止ロックで安心の置き配代行",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "スマホ解錠受取",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Smartphone"
     },
     {
-      "labelSimple": "歩行者安全と点字ブロック",
+      "label": "",
       "labelStandard": "歩行者安全と点字ブロック",
+      "labelSimple": "歩行者安全と点字ブロック",
       "value": "接触ゼロ",
       "unit": "の遠隔監視義務",
       "oldValue": "狭い歩道での視覚障害者・車椅子との接触恐怖",
       "description": "非常停止ボタンとAI障害物検知を義務化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "接触防止・遠隔監視",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "ShieldCheck"

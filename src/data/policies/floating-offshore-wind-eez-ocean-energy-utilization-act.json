@@ -1,8 +1,8 @@
 {
   "id": "floating-offshore-wind-eez-ocean-energy-utilization-act",
   "title": "排他的経済水域（EEZ）における浮体式洋上風力発電利用促進法",
-  "category": "energy-environment",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "周囲を深い海に囲まれた海洋国家・日本の地理的特性を活かし、沿岸から離れた排他的経済水域（EEZ）に大型風車を海上に浮かべる「浮体式洋上風力発電」の設置・運用を可能にする法制度を新設する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "浮体式洋上風力",
-      "variant": "blue"
+      "text": "浮体式洋上風力",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "海洋エネルギー",
-      "variant": "green"
+      "text": "海洋エネルギー",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "脱炭素主力電源",
-      "variant": "purple"
+      "text": "脱炭素主力電源",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "2040年導入目標容量",
+      "label": "2040年導入目標容量",
+      "labelStandard": "2040年導入目標容量",
+      "labelSimple": "2040年導入目標容量",
       "value": "4,500",
       "unit": "万kW（45GW）",
+      "oldValue": "現行",
       "description": "原発約45基分に相当する洋上風力（浮体式中心）の国家導入目標",
-      "trend": "up",
-      "trendLabel": "国家大型目標"
+      "descriptionStandard": "2040年導入目標容量",
+      "descriptionSimple": "2040年導入目標容量",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "日本のEEZ面積（世界第6位）",
+      "label": "日本のEEZ面積（世界第6位）",
+      "labelStandard": "日本のEEZ面積（世界第6位）",
+      "labelSimple": "日本のEEZ面積（世界第6位）",
       "value": "447",
       "unit": "万km2",
+      "oldValue": "現行",
       "description": "国土面積の約12倍に達する世界有数の広大な洋上風力導入可能水域",
-      "trend": "neutral",
-      "trendLabel": "世界6位の海洋"
+      "descriptionStandard": "日本のEEZ面積（世界第6位）",
+      "descriptionSimple": "日本のEEZ面積（世界第6位）",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

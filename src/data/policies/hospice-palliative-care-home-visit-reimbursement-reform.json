@@ -2,7 +2,7 @@
   "id": "hospice-palliative-care-home-visit-reimbursement-reform",
   "title": "在宅緩和ケア・看取り診療報酬改革（自宅での安らかな最期を支える訪問診療加算）",
   "catchphrase": "住み慣れた我が家で最期を迎えたい。在宅ホスピス・24時間訪問看護の診療報酬加算と医療用麻薬の適正管理",
-  "category": "social",
+  "category": "society",
   "categoryLabel": "社会保障・医療・終末期ケア",
   "lastUpdated": "2024-04-15",
   "effectiveDate": "2024年4月改定",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "在宅緩和ケア",
-      "variant": "positive"
+      "text": "在宅緩和ケア",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "平穏死・ACP",
-      "variant": "positive"
+      "text": "平穏死・ACP",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "家族レスパイト課題",
-      "variant": "warning"
+      "text": "家族レスパイト課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "診療報酬",
+      "labelStandard": "診療報酬",
+      "labelSimple": "診療報酬",
       "value": "在宅ターミナル加算拡充",
+      "unit": "",
+      "oldValue": "現行",
       "description": "24時間対応の訪問診療・訪問看護への評価を引き上げ",
+      "descriptionStandard": "診療報酬",
+      "descriptionSimple": "診療報酬",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     },
     {
       "label": "疼痛管理",
+      "labelStandard": "疼痛管理",
+      "labelSimple": "疼痛管理",
       "value": "医療用麻薬ポンプ自宅投与",
+      "unit": "",
+      "oldValue": "現行",
       "description": "自宅でも痛みを完全にコントロールするPCAポンプ普及",
+      "descriptionStandard": "疼痛管理",
+      "descriptionSimple": "疼痛管理",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "意思尊重",
+      "labelStandard": "意思尊重",
+      "labelSimple": "意思尊重",
       "value": "人生会議（ACP）の徹底",
+      "unit": "",
+      "oldValue": "現行",
       "description": "望まぬ延命処置を回避し本人の希望通りの最期を支援",
+      "descriptionStandard": "意思尊重",
+      "descriptionSimple": "意思尊重",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "FileText"
     }
   ],

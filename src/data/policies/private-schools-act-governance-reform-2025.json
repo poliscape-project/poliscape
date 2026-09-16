@@ -155,50 +155,62 @@
   "badges": [
     {
       "label": "理事と評議員の兼任禁止",
-      "variant": "neutral"
+      "text": "理事と評議員の兼任禁止",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "評議員会を監督機関化",
-      "variant": "neutral"
+      "text": "評議員会を監督機関化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "2025年4月完全施行",
-      "variant": "neutral"
+      "text": "2025年4月完全施行",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "チェック役と役員の兼任",
+      "label": "",
       "labelStandard": "理事と評議員の兼任ルール",
+      "labelSimple": "チェック役と役員の兼任",
       "value": "完全禁止",
       "unit": "（馴れ合い排除）",
       "oldValue": "兼任可能で自作自演が横行",
-      "descriptionSimple": "自分で自分をチェックするズルが法律で完全にできなくなる！",
+      "description": "",
       "descriptionStandard": "執行と監督の職務分離を徹底し独立したガバナンス体制を構築",
+      "descriptionSimple": "自分で自分をチェックするズルが法律で完全にできなくなる！",
       "badge": "ガバナンス確立",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "評議員会の権限",
+      "label": "",
       "labelStandard": "役員人事への関与権限",
+      "labelSimple": "評議員会の権限",
       "value": "選任・解任",
       "unit": "の決議権",
       "oldValue": "意見具申（アドバイスのみ）",
-      "descriptionSimple": "不正をした理事や理事長をクビにする強い権限を評議員会が持つ！",
+      "description": "",
       "descriptionStandard": "理事等の選任解任や定款変更・予算等の法定重要事項の議決権を付与",
+      "descriptionSimple": "不正をした理事や理事長をクビにする強い権限を評議員会が持つ！",
       "badge": "最高監督機関",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "情報の一般公開",
+      "label": "",
       "labelStandard": "財務・運営情報のWeb開示",
+      "labelSimple": "情報の一般公開",
       "value": "義務化",
       "unit": "（全国私立校）",
       "oldValue": "学内での書類備え置き中心",
-      "descriptionSimple": "お金の使い道や役員の体制がホームページで誰でも見られるように！",
+      "description": "",
       "descriptionStandard": "貸借対照表やガバナンス報告書のインターネット公表を法定化",
+      "descriptionSimple": "お金の使い道や役員の体制がホームページで誰でも見られるように！",
       "badge": "透明性確保",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "FileText"

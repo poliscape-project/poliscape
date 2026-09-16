@@ -131,62 +131,76 @@
   "badges": [
     {
       "label": "年960時間上限義務化",
-      "variant": "neutral"
+      "text": "年960時間上限義務化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "当直明け休息インターバル",
-      "variant": "neutral"
+      "text": "当直明け休息インターバル",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "地域救急維持の課題",
-      "variant": "neutral"
+      "text": "地域救急維持の課題",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "お医者さんの残業上限",
+      "label": "",
       "labelStandard": "一般病院の年残業上限（A水準）",
+      "labelSimple": "お医者さんの残業上限",
       "value": "年 960",
       "unit": "時間（月100h未満）",
       "oldValue": "事実上の青天井（年2,000時間超も横行）",
-      "descriptionSimple": "普通の病院の先生は年960時間までに制限！",
+      "description": "",
       "descriptionStandard": "過労死ラインを大幅に引き下げる強制力のある罰則付き上限",
+      "descriptionSimple": "普通の病院の先生は年960時間までに制限！",
       "badge": "年960時間制限",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Clock"
     },
     {
-      "labelSimple": "当直あけの休み時間",
+      "label": "",
       "labelStandard": "勤務間インターバル",
+      "labelSimple": "当直あけの休み時間",
       "value": "9〜11",
       "unit": "時間の休息義務",
       "oldValue": "当直明けにそのまま昼間の手術を執刀",
-      "descriptionSimple": "当直で徹夜した先生に必ず休みをあげる！",
+      "description": "",
       "descriptionStandard": "連続勤務時間制限（原則28時間）と睡眠確保を義務付け",
+      "descriptionSimple": "当直で徹夜した先生に必ず休みをあげる！",
       "badge": "当直明け休息義務",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "HeartPulse"
     },
     {
-      "labelSimple": "救急病院の特例",
+      "label": "",
       "labelStandard": "地域医療特例（B水準）",
+      "labelSimple": "救急病院の特例",
       "value": "年 1,860",
       "unit": "時間上限（縮小中）",
       "oldValue": "特例なしの無制限労働",
-      "descriptionSimple": "救急病院はまだ忙しいが2035年までに減らす！",
+      "description": "",
       "descriptionStandard": "地域救急や産科・小児科を維持するための暫定水準",
+      "descriptionSimple": "救急病院はまだ忙しいが2035年までに減らす！",
       "badge": "2035年度廃止目標",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "看護師さんへのバトンタッチ",
+      "label": "",
       "labelStandard": "タスクシフト・シェア",
+      "labelSimple": "看護師さんへのバトンタッチ",
       "value": "特定看護師",
       "unit": "などへ業務移管",
       "oldValue": "採血や書類作成も医師が一人で抱え込み",
-      "descriptionSimple": "お医者さんしかできないことだけに集中する！",
+      "description": "",
       "descriptionStandard": "クラーク配置やチーム医療で医師の負担を3割削減",
+      "descriptionSimple": "お医者さんしかできないことだけに集中する！",
       "badge": "チーム医療の推進",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Users"

@@ -129,58 +129,76 @@
   "badges": [
     {
       "label": "配偶者手当廃止推進",
-      "variant": "neutral"
+      "text": "配偶者手当廃止推進",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "子ども手当へシフト",
-      "variant": "neutral"
+      "text": "子ども手当へシフト",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "就業調整・壁打破",
-      "variant": "neutral"
+      "text": "就業調整・壁打破",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "主婦が働き控えする原因",
+      "label": "",
       "labelStandard": "配偶者手当の年収基準",
+      "labelSimple": "主婦が働き控えする原因",
       "value": "103万",
       "unit": "・130万円（手当喪失の壁）",
       "oldValue": "多くの企業で妻の年収制限付き手当支給",
       "description": "年末にパートがシフトを減らす温床を解消",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "年収の壁打破",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "浮いた手当のお金の使い道",
+      "label": "",
       "labelStandard": "子ども手当・基本給への移行",
+      "labelSimple": "浮いた手当のお金の使い道",
       "value": "子ども",
       "unit": "手当や全社員の基本給へ再配分",
       "oldValue": "専業主婦がいる世帯のみへの偏重手当",
       "description": "共働き時代に合った公平な給与体系へ",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "子ども手当へ移行",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "手当を見直す会社への助成金",
+      "label": "",
       "labelStandard": "キャリアアップ助成金（手当見直し）",
+      "labelSimple": "手当を見直す会社への助成金",
       "value": "数十万",
       "unit": "円規模（中小企業へ助成）",
       "oldValue": "これまで 制度改定の企業支援なし",
       "description": "就業規則改定や賃上げを行う企業を応援",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "国の財政助成",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "お店や工場の働き手不足",
+      "label": "",
       "labelStandard": "パート就業調整の解消効果",
+      "labelSimple": "お店や工場の働き手不足",
       "value": "解消",
       "unit": "へ（年末のシフト崩壊を防ぐ）",
       "oldValue": "繁忙期の11月・12月に人手が消える混乱",
       "description": "意欲あるパートが長く働ける環境を実現",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "人手不足解消",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Briefcase"

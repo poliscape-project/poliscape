@@ -2,7 +2,7 @@
   "id": "forest-tree-thinning-drone-laser-survey-subsidy",
   "title": "山林境界明確化・航空レーザードローン地籍調査加速交付金法",
   "catchphrase": "所有者不明の森を蘇らせ林業を復活、ドローンレーザー測量による山林境界のデジタル一括確定",
-  "category": "agriculture",
+  "category": "society",
   "categoryLabel": "農林水産業",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "林業再生",
-      "variant": "positive"
+      "text": "林業再生",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ドローンレーザー",
-      "variant": "positive"
+      "text": "ドローンレーザー",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "国土強靱化",
-      "variant": "neutral"
+      "text": "国土強靱化",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "調査速度",
+      "labelStandard": "調査速度",
+      "labelSimple": "調査速度",
       "value": "従来の10倍高速化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "航空ドローンレーザーにより歩行困難な険しい山林を一括測量",
+      "descriptionStandard": "調査速度",
+      "descriptionSimple": "調査速度",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "特例措置",
+      "labelStandard": "特例措置",
+      "labelSimple": "特例措置",
       "value": "首長職権での施業代行",
+      "unit": "",
+      "oldValue": "現行",
       "description": "所有者不明山林でも公告を経て自治体が間伐を民間林業に委託可能",
+      "descriptionStandard": "特例措置",
+      "descriptionSimple": "特例措置",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Building2"
     }
   ],

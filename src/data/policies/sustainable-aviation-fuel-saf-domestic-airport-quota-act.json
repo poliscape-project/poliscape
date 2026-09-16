@@ -1,8 +1,8 @@
 {
   "id": "sustainable-aviation-fuel-saf-domestic-airport-quota-act",
   "title": "国内空港給油航空機に対する持続可能な航空燃料（SAF）10%利用義務化",
-  "category": "energy-environment",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "国際航空分野の脱炭素化と「空港給油できずに国際線が日本を素通りする（日本スキップ）」危機を防ぐため、2030年までに日本の主要空港で航空機に給油するジェット燃料の「10%以上を持続可能な航空燃料（SAF）」とする法定マンデート（利用義務化）を施行する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "航空脱炭素",
-      "variant": "blue"
+      "text": "航空脱炭素",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "SAF燃料",
-      "variant": "green"
+      "text": "SAF燃料",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "資源循環",
-      "variant": "purple"
+      "text": "資源循環",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "2030年SAF混合義務率",
+      "label": "2030年SAF混合義務率",
+      "labelStandard": "2030年SAF混合義務率",
+      "labelSimple": "2030年SAF混合義務率",
       "value": "10",
       "unit": "%法定目標",
+      "oldValue": "現行",
       "description": "国内空港で給油される全ジェット燃料に占めるSAFの義務付け比率",
-      "trend": "up",
-      "trendLabel": "法定義務化"
+      "descriptionStandard": "2030年SAF混合義務率",
+      "descriptionSimple": "2030年SAF混合義務率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "CO2排出削減効果",
+      "label": "CO2排出削減効果",
+      "labelStandard": "CO2排出削減効果",
+      "labelSimple": "CO2排出削減効果",
       "value": "80",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "原料収集から燃焼までのライフサイクル全体における温室効果ガス削減率",
-      "trend": "down",
-      "trendLabel": "超大幅削減"
+      "descriptionStandard": "CO2排出削減効果",
+      "descriptionSimple": "CO2排出削減効果",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

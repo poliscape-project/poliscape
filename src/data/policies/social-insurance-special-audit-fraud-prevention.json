@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "社会保険逃れ撲滅",
-      "variant": "positive"
+      "text": "社会保険逃れ撲滅",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "税務データ自動突合",
-      "variant": "positive"
+      "text": "税務データ自動突合",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "零細倒産リスク",
-      "variant": "warning"
+      "text": "零細倒産リスク",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "特定手段",
+      "labelStandard": "特定手段",
+      "labelSimple": "特定手段",
       "value": "国税庁データと全件突合",
+      "unit": "",
+      "oldValue": "現行",
       "description": "給与支払報告のある未加入法人をコンピューターで自動特定",
+      "descriptionStandard": "特定手段",
+      "descriptionSimple": "特定手段",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "処分権限",
+      "labelStandard": "処分権限",
+      "labelSimple": "処分権限",
       "value": "最大2年の遡及・強制差押",
+      "unit": "",
+      "oldValue": "現行",
       "description": "悪質滞納企業への預金・売掛金の迅速な差押え執行",
+      "descriptionStandard": "処分権限",
+      "descriptionSimple": "処分権限",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "保護対象",
+      "labelStandard": "保護対象",
+      "labelSimple": "保護対象",
       "value": "全従業員の将来の年金受給権",
+      "unit": "",
+      "oldValue": "現行",
       "description": "不当に排除されていた労働者を厚生年金へ職権救済",
+      "descriptionStandard": "保護対象",
+      "descriptionSimple": "保護対象",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     }
   ],

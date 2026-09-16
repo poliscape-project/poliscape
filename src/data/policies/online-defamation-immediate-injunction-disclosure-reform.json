@@ -1,8 +1,8 @@
 {
   "id": "online-defamation-immediate-injunction-disclosure-reform",
   "title": "インターネット上の誹謗中傷に対する発信者情報開示請求の保全・非訟手続拡充",
-  "category": "governance-reform",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "SNSやインターネット掲示板における深刻な誹謗中傷、プライバシー侵害、デマ拡散による被害者を迅速に救済するため、プロバイダ責任制限法（情報流通プラットフォーム対処法）に基づく「発信者情報開示請求」の裁判手続きを抜本的に迅速化する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "誹謗中傷対策",
-      "variant": "purple"
+      "text": "誹謗中傷対策",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "人権救済",
-      "variant": "blue"
+      "text": "人権救済",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "情プラ法",
-      "variant": "green"
+      "text": "情プラ法",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "開示決定までの期間",
+      "label": "開示決定までの期間",
+      "labelStandard": "開示決定までの期間",
+      "labelSimple": "開示決定までの期間",
       "value": "80",
       "unit": "%短縮",
+      "oldValue": "現行",
       "description": "従来の半年〜1年かかっていた開示完了期間を最短1〜2か月に短縮",
-      "trend": "down",
-      "trendLabel": "期間大幅短縮"
+      "descriptionStandard": "開示決定までの期間",
+      "descriptionSimple": "開示決定までの期間",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "削除判断の法定上限",
+      "label": "削除判断の法定上限",
+      "labelStandard": "削除判断の法定上限",
+      "labelSimple": "削除判断の法定上限",
       "value": "7",
       "unit": "日以内",
+      "oldValue": "現行",
       "description": "大規模プラットフォーマーに対し削除申出に対する可否判断を義務付ける期限",
-      "trend": "down",
-      "trendLabel": "迅速削除義務"
+      "descriptionStandard": "削除判断の法定上限",
+      "descriptionSimple": "削除判断の法定上限",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

@@ -3,7 +3,7 @@
   "title": "高齢者補聴器適合検査の公的医療費控除明確化と自治体購入費補助",
   "category": "healthcare",
   "categoryLabel": "医療・公衆衛生",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "医療費控除明確化・自治体助成中",
   "catchphrase": "難聴による認知症リスクと孤立を防ぐ。耳鼻咽喉科専門医の補聴器適合指導と購入費公費助成",
   "lastUpdated": "2026-09-16",
@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "自治体購入助成額",
+      "labelStandard": "自治体購入助成額",
+      "labelSimple": "自治体購入助成額",
       "value": "3〜5",
       "unit": "万円上限",
       "oldValue": "全額自己負担（手帳非該当者）",
       "description": "中等度難聴のシニアを対象とした市区町村の購入費用直接助成水準",
+      "descriptionStandard": "自治体購入助成額",
+      "descriptionSimple": "自治体購入助成額",
       "badge": "購入助成",
       "badgeColor": "green",
       "icon": "Coins"
     },
     {
       "label": "国内補聴器普及率目標",
+      "labelStandard": "国内補聴器普及率目標",
+      "labelSimple": "国内補聴器普及率目標",
       "value": "30",
       "unit": "%以上",
       "oldValue": "約15.2%（現状）",
       "description": "欧米水準（40%超）を目指した補聴器装用率の引き上げ",
+      "descriptionStandard": "国内補聴器普及率目標",
+      "descriptionSimple": "国内補聴器普及率目標",
       "badge": "普及率向上",
       "badgeColor": "blue",
       "icon": "TrendingUp"

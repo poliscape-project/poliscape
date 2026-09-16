@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "雇用安定",
-      "variant": "positive"
+      "text": "雇用安定",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "無期転換",
-      "variant": "positive"
+      "text": "無期転換",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "非正規是正",
-      "variant": "neutral"
+      "text": "非正規是正",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "5年直前の雇い止め阻止",
+      "labelStandard": "5年直前の雇い止め阻止",
+      "labelSimple": "5年直前の雇い止め阻止",
       "value": "5年直前の雇い止め阻止",
+      "unit": "",
+      "oldValue": "現行",
       "description": "無期転換権の発生を逃れるためだけの恣意的な契約打切りを厳格監視。",
+      "descriptionStandard": "5年直前の雇い止め阻止",
+      "descriptionSimple": "5年直前の雇い止め阻止",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "更新上限の理由明示義務",
+      "labelStandard": "更新上限の理由明示義務",
+      "labelSimple": "更新上限の理由明示義務",
       "value": "更新上限の理由明示義務",
+      "unit": "",
+      "oldValue": "現行",
       "description": "契約初年度から更新上限がある場合はその合理的な理由の提示を義務化。",
+      "descriptionStandard": "更新上限の理由明示義務",
+      "descriptionSimple": "更新上限の理由明示義務",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "FileText"
     },
     {
       "label": "権利行使の周知徹底",
+      "labelStandard": "権利行使の周知徹底",
+      "labelSimple": "権利行使の周知徹底",
       "value": "権利行使の周知徹底",
+      "unit": "",
+      "oldValue": "現行",
       "description": "無期転換できることを会社が労働者に直接文書で知らせることを義務化。",
+      "descriptionStandard": "権利行使の周知徹底",
+      "descriptionSimple": "権利行使の周知徹底",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

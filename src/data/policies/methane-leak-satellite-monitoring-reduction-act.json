@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "メタン削減",
-      "variant": "positive"
+      "text": "メタン削減",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "宇宙技術活用",
-      "variant": "positive"
+      "text": "宇宙技術活用",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "脱炭素",
-      "variant": "neutral"
+      "text": "脱炭素",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "修繕期限",
+      "labelStandard": "修繕期限",
+      "labelSimple": "修繕期限",
       "value": "検知後30日以内",
+      "unit": "",
+      "oldValue": "現行",
       "description": "基準値超のメタン漏洩箇所の修繕完了と報告を法定義務化",
+      "descriptionStandard": "修繕期限",
+      "descriptionSimple": "修繕期限",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "監視手法",
+      "labelStandard": "監視手法",
+      "labelSimple": "監視手法",
       "value": "温室効果ガス衛星",
+      "unit": "",
+      "oldValue": "現行",
       "description": "JAXAいぶき等の高精度分光衛星で広域漏洩を宇宙から検知",
+      "descriptionStandard": "監視手法",
+      "descriptionSimple": "監視手法",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Radio"
     }
   ],

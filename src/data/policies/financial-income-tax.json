@@ -131,62 +131,76 @@
   "badges": [
     {
       "label": "1億円の壁是正",
-      "variant": "neutral"
+      "text": "1億円の壁是正",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "税率25〜30%案",
-      "variant": "neutral"
+      "text": "税率25〜30%案",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "新NISAは完全非課税",
-      "variant": "neutral"
+      "text": "新NISAは完全非課税",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "お金持ちの株の税率",
+      "label": "",
       "labelStandard": "金融所得の新税率検討",
+      "labelSimple": "お金持ちの株の税率",
       "value": "25〜30",
       "unit": "%",
       "oldValue": "これまで一律 20.315%",
-      "descriptionSimple": "大金持ちの株の税金を高くする！",
+      "description": "",
       "descriptionStandard": "「1億円の壁」打破に向け段階引き上げ論議",
+      "descriptionSimple": "大金持ちの株の税金を高くする！",
       "badge": "最大30%案",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "TrendingUp"
     },
     {
-      "labelSimple": "ふつうの人の新NISA",
+      "label": "",
       "labelStandard": "一般投資家のNISA口座",
+      "labelSimple": "ふつうの人の新NISA",
       "value": "完全非課税",
       "unit": "維持",
       "oldValue": "現行のまま非課税枠1,800万円堅持",
-      "descriptionSimple": "一般の人のNISAは増税されない！",
+      "description": "",
       "descriptionStandard": "庶民の資産形成枠は増税対象外を明記",
+      "descriptionSimple": "一般の人のNISAは増税されない！",
       "badge": "非課税を死守",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "国に入る税金",
+      "label": "",
       "labelStandard": "想定増税税収",
+      "labelSimple": "国に入る税金",
       "value": "数千億円",
       "unit": "規模 / 年",
       "oldValue": "金融所得の分離課税で税収伸び悩み",
-      "descriptionSimple": "お金持ちから集めて子育て等に使う！",
+      "description": "",
       "descriptionStandard": "富の再分配と社会保障・少子化対策財源へ",
+      "descriptionSimple": "お金持ちから集めて子育て等に使う！",
       "badge": "再分配の強化",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "株価への影響は？",
+      "label": "",
       "labelStandard": "市場冷え込みリスク",
+      "labelSimple": "株価への影響は？",
       "value": "投資意欲減退",
       "unit": "懸念",
       "oldValue": "国内外マネーの逃避リスク",
-      "descriptionSimple": "株が売られて株価が下がる心配も！",
+      "description": "",
       "descriptionStandard": "「貯蓄から投資へ」に冷や水を浴びせる反対論",
+      "descriptionSimple": "株が売られて株価が下がる心配も！",
       "badge": "市場動向に警戒",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"

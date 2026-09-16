@@ -2,7 +2,7 @@
   "id": "home-dialysis-peritoneal-dialysis-incentive-act",
   "title": "在宅透析（腹膜透析・在宅血液透析）普及推進法（通院負担軽減と診療報酬）",
   "catchphrase": "週3回の通院から解放、自宅でできる腹膜透析の普及と遠隔管理",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・福祉",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "腎臓病対策",
-      "variant": "positive"
+      "text": "腎臓病対策",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "在宅医療",
-      "variant": "positive"
+      "text": "在宅医療",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "就労継続",
-      "variant": "neutral"
+      "text": "就労継続",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "在宅透析比率目標",
+      "labelStandard": "在宅透析比率目標",
+      "labelSimple": "在宅透析比率目標",
       "value": "3%から10%へ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "欧米並みの選択肢多様化を目指し国が普及ロードマップを策定",
+      "descriptionStandard": "在宅透析比率目標",
+      "descriptionSimple": "在宅透析比率目標",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "通院負担の削減",
+      "labelStandard": "通院負担の削減",
+      "labelSimple": "通院負担の削減",
       "value": "月1回受診へ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "毎日の通院拘束がなくなり夜間の自宅透析で日常生活を維持",
+      "descriptionStandard": "通院負担の削減",
+      "descriptionSimple": "通院負担の削減",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

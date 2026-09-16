@@ -1,8 +1,8 @@
 {
   "id": "volunteer-firefighter-remuneration-direct-payment-act",
   "title": "消防団員処遇改善（年額報酬引き上げ及び出動手当の個人口座直接支給義務化）",
-  "category": "safety-disaster",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "全国で深刻化する消防団員のなり手不足と高齢化を食い止めるため、総務省消防庁が定めた標準年額報酬（団員等級で年額36,500円）への引き上げと、災害出動手当（日額約8,000円）の「団員個人口座への直接支給」を地方自治体に義務付ける。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "消防団改革",
-      "variant": "purple"
+      "text": "消防団改革",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "処遇改善",
-      "variant": "blue"
+      "text": "処遇改善",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "地域防災力",
-      "variant": "green"
+      "text": "地域防災力",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "団員標準年額報酬",
+      "label": "団員標準年額報酬",
+      "labelStandard": "団員標準年額報酬",
+      "labelSimple": "団員標準年額報酬",
       "value": "36,500",
       "unit": "円/年",
+      "oldValue": "現行",
       "description": "一般消防団員に対する国の地方交付税算定基準年額報酬額",
-      "trend": "up",
-      "trendLabel": "基準額引き上げ"
+      "descriptionStandard": "団員標準年額報酬",
+      "descriptionSimple": "団員標準年額報酬",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "出動手当直接振込率",
+      "label": "出動手当直接振込率",
+      "labelStandard": "出動手当直接振込率",
+      "labelSimple": "出動手当直接振込率",
       "value": "98.5",
       "unit": "%",
+      "oldValue": "現行",
       "description": "全国市町村における団員個人指定口座への直接振込実施自治体割合",
-      "trend": "up",
-      "trendLabel": "プール金撲滅"
+      "descriptionStandard": "出動手当直接振込率",
+      "descriptionSimple": "出動手当直接振込率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

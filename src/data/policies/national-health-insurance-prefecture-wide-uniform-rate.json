@@ -1,8 +1,8 @@
 {
   "id": "national-health-insurance-prefecture-wide-uniform-rate",
   "title": "国民健康保険料の都道府県内統一化（市町村間格差是正と医療費適正化）",
-  "category": "social-security",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "自営業者や年金生活者、非正規雇用者が加入する国民健康保険（国保）において、同じ所得・同じ世帯構成でありながら居住する市町村によって保険料が最大2倍近く異なる不平等を是正するため、都道府県内での「保険料率（税率）の完全統一」を推進する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "医療保険改革",
-      "variant": "purple"
+      "text": "医療保険改革",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "格差是正",
-      "variant": "blue"
+      "text": "格差是正",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "持続可能社会",
-      "variant": "green"
+      "text": "持続可能社会",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "県内保険料格差",
+      "label": "県内保険料格差",
+      "labelStandard": "県内保険料格差",
+      "labelSimple": "県内保険料格差",
       "value": "1.0",
       "unit": "倍（完全解消）",
+      "oldValue": "現行",
       "description": "統一完了自治体における県内同一所得世帯の自治体間保険料格差比率",
-      "trend": "down",
-      "trendLabel": "格差完全是正"
+      "descriptionStandard": "県内保険料格差",
+      "descriptionSimple": "県内保険料格差",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "統一化完了・推進県数",
+      "label": "統一化完了・推進県数",
+      "labelStandard": "統一化完了・推進県数",
+      "labelSimple": "統一化完了・推進県数",
       "value": "35",
       "unit": "都道府県",
+      "oldValue": "現行",
       "description": "保険料率の統一を完了または明確な移行方針を定めた都道府県数",
-      "trend": "up",
-      "trendLabel": "全国拡大"
+      "descriptionStandard": "統一化完了・推進県数",
+      "descriptionSimple": "統一化完了・推進県数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

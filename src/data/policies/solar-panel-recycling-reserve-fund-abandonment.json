@@ -129,58 +129,76 @@
   "badges": [
     {
       "label": "太陽光廃棄積立義務",
-      "variant": "neutral"
+      "text": "太陽光廃棄積立義務",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "売電収入から天引き",
-      "variant": "neutral"
+      "text": "売電収入から天引き",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "放置・不法投棄防止",
-      "variant": "neutral"
+      "text": "放置・不法投棄防止",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "大量ゴミの時期",
+      "label": "",
       "labelStandard": "年間排出ピーク予測",
+      "labelSimple": "大量ゴミの時期",
       "value": "年数十万",
       "unit": "トン（2030年代）",
       "oldValue": "これまで 少量排出にとどまる",
       "description": "FIT初期のパネルが一斉に寿命を迎える危機",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "大廃棄時代",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "費用の貯金方法",
+      "label": "",
       "labelStandard": "廃棄費用の積立方式",
+      "labelSimple": "費用の貯金方法",
       "value": "売電天引き",
       "unit": "強制外部積立",
       "oldValue": "これまで 会社の自己管理（放置多発）",
       "description": "国の機関が売電収入から自動徴収・夜逃げ防止",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "天引き強制",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "PiggyBank"
     },
     {
-      "labelSimple": "対象の太陽光",
+      "label": "",
       "labelStandard": "積立義務の対象設備",
+      "labelSimple": "対象の太陽光",
       "value": "10",
       "unit": "kW以上すべて",
       "oldValue": "これまで 大規模メガソーラーのみ",
       "description": "野立て太陽光から工場の屋根まで全適用",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "全設備義務",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "FileCheck"
     },
     {
-      "labelSimple": "リサイクルの義務",
+      "label": "",
       "labelStandard": "使用済パネルの処理基準",
+      "labelSimple": "リサイクルの義務",
       "value": "埋立ゼロ",
       "unit": "資源回収へ",
       "oldValue": "これまで 産廃埋立処分が主流",
       "description": "ガラスや銀・アルミの100%リサイクル義務化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "循環法制化",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Leaf"

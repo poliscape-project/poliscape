@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "工賃倍増",
-      "variant": "positive"
+      "text": "工賃倍増",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "障害者自立",
-      "variant": "positive"
+      "text": "障害者自立",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "官公庁優先発注",
-      "variant": "neutral"
+      "text": "官公庁優先発注",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "B型目標工賃",
+      "labelStandard": "B型目標工賃",
+      "labelSimple": "B型目標工賃",
       "value": "月額3万〜5万円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "現在の月1.7万円から倍増を目指す公的調達枠組み",
+      "descriptionStandard": "B型目標工賃",
+      "descriptionSimple": "B型目標工賃",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "優先発注義務",
+      "labelStandard": "優先発注義務",
+      "labelSimple": "優先発注義務",
       "value": "予算比率指定",
+      "unit": "",
+      "oldValue": "現行",
       "description": "役所の清掃・印刷・お弁当発注を就労施設へ義務的配分",
+      "descriptionStandard": "優先発注義務",
+      "descriptionSimple": "優先発注義務",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "労働安全",
-      "variant": "positive"
+      "text": "労働安全",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "熱中症対策",
-      "variant": "positive"
+      "text": "熱中症対策",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "建設DX",
-      "variant": "neutral"
+      "text": "建設DX",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "危険アラート時の作業中止",
+      "labelStandard": "危険アラート時の作業中止",
+      "labelSimple": "危険アラート時の作業中止",
       "value": "危険アラート時の作業中止",
+      "unit": "",
+      "oldValue": "現行",
       "description": "WBGT33超の特別警戒時は屋外の危険作業を原則中断・シフト変更。",
+      "descriptionStandard": "危険アラート時の作業中止",
+      "descriptionSimple": "危険アラート時の作業中止",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "AlertTriangle"
     },
     {
       "label": "冷房休憩所の設置義務",
+      "labelStandard": "冷房休憩所の設置義務",
+      "labelSimple": "冷房休憩所の設置義務",
       "value": "冷房休憩所の設置義務",
+      "unit": "",
+      "oldValue": "現行",
       "description": "現場近くにエアコン完備の休憩室と冷たい飲料の常備を義務付け。",
+      "descriptionStandard": "冷房休憩所の設置義務",
+      "descriptionSimple": "冷房休憩所の設置義務",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "工期延長の適正評価",
+      "labelStandard": "工期延長の適正評価",
+      "labelSimple": "工期延長の適正評価",
       "value": "工期延長の適正評価",
+      "unit": "",
+      "oldValue": "現行",
       "description": "酷暑による工事中断を発注者がペナルティなしで工期延長容認する指針。",
+      "descriptionStandard": "工期延長の適正評価",
+      "descriptionSimple": "工期延長の適正評価",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     }
   ],

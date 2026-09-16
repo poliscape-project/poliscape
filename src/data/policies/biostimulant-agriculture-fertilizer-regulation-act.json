@@ -2,7 +2,7 @@
   "id": "biostimulant-agriculture-fertilizer-regulation-act",
   "title": "バイオスティミュラント（植物活性材）品質規格化・肥料法改正",
   "catchphrase": "猛暑・干ばつから作物を救う、次世代バイオ農業資材の規格化",
-  "category": "agriculture",
+  "category": "society",
   "categoryLabel": "農林水産業",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年10月施行予定",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "農業DX",
-      "variant": "positive"
+      "text": "農業DX",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "猛暑対策",
-      "variant": "positive"
+      "text": "猛暑対策",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "気候変動適応",
-      "variant": "neutral"
+      "text": "気候変動適応",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "高温障害・白未熟粒の抑制",
+      "labelStandard": "高温障害・白未熟粒の抑制",
+      "labelSimple": "高温障害・白未熟粒の抑制",
       "value": "高温障害・白未熟粒の抑制",
+      "unit": "",
+      "oldValue": "現行",
       "description": "海藻エキスや微生物由来成分で作物の免疫を高め猛暑耐性を獲得。",
+      "descriptionStandard": "高温障害・白未熟粒の抑制",
+      "descriptionSimple": "高温障害・白未熟粒の抑制",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "公的認証で安心導入",
+      "labelStandard": "公的認証で安心導入",
+      "labelSimple": "公的認証で安心導入",
       "value": "公的認証で安心導入",
+      "unit": "",
+      "oldValue": "現行",
       "description": "国の安全・効果規格を制定しエビデンスある資材を農家が選定可能に。",
+      "descriptionStandard": "公的認証で安心導入",
+      "descriptionSimple": "公的認証で安心導入",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "化学肥料2割削減へ",
+      "labelStandard": "化学肥料2割削減へ",
+      "labelSimple": "化学肥料2割削減へ",
       "value": "化学肥料2割削減へ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "土壌微生物の活性化で肥料吸収率を高め脱炭素農業を加速。",
+      "descriptionStandard": "化学肥料2割削減へ",
+      "descriptionSimple": "化学肥料2割削減へ",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

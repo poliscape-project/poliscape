@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "遺児支援",
-      "variant": "positive"
+      "text": "遺児支援",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "子どもの貧困対策",
-      "variant": "positive"
+      "text": "子どもの貧困対策",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "無年金救済",
-      "variant": "neutral"
+      "text": "無年金救済",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "毎月の支給額",
+      "labelStandard": "毎月の支給額",
+      "labelSimple": "毎月の支給額",
       "value": "月額2万〜3万円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "18歳到達（高校卒業）まで毎月安定して口座へ給付",
+      "descriptionStandard": "毎月の支給額",
+      "descriptionSimple": "毎月の支給額",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "親の未納不問",
+      "labelStandard": "親の未納不問",
+      "labelSimple": "親の未納不問",
       "value": "全額国費保障",
+      "unit": "",
+      "oldValue": "現行",
       "description": "親の年金加入要件に関わらずすべての子どもの成育を支援",
+      "descriptionStandard": "親の未納不問",
+      "descriptionSimple": "親の未納不問",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

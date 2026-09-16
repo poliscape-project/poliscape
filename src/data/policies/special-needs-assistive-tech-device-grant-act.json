@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "特別支援教育",
-      "variant": "positive"
+      "text": "特別支援教育",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "アシスティブ・テック",
-      "variant": "positive"
+      "text": "アシスティブ・テック",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "インクルーシブ",
-      "variant": "neutral"
+      "text": "インクルーシブ",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "自己負担",
+      "labelStandard": "自己負担",
+      "labelSimple": "自己負担",
       "value": "全額公費（0円）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "視線入力装置や音声ペン等の学習支援機器購入費を全額国庫負担",
+      "descriptionStandard": "自己負担",
+      "descriptionSimple": "自己負担",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "専門員巡回",
+      "labelStandard": "専門員巡回",
+      "labelSimple": "専門員巡回",
       "value": "全都道府県配置",
+      "unit": "",
+      "oldValue": "現行",
       "description": "作業療法士等の専門員が学校に赴き機器アセスメントと設定を実施",
+      "descriptionStandard": "専門員巡回",
+      "descriptionSimple": "専門員巡回",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Activity"
     }
   ],

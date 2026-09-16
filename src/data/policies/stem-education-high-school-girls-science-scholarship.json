@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "STEM教育",
-      "variant": "positive"
+      "text": "STEM教育",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ジェンダー平等",
-      "variant": "neutral"
+      "text": "ジェンダー平等",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "人材育成",
-      "variant": "positive"
+      "text": "人材育成",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "給付型奨学金の創設",
+      "labelStandard": "給付型奨学金の創設",
+      "labelSimple": "給付型奨学金の創設",
       "value": "給付型奨学金の創設",
+      "unit": "",
+      "oldValue": "現行",
       "description": "理工系学部に進む女子学生に官民拠出の返還不要奨学金を支給。",
+      "descriptionStandard": "給付型奨学金の創設",
+      "descriptionSimple": "給付型奨学金の創設",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "女性エンジニアメンター",
+      "labelStandard": "女性エンジニアメンター",
+      "labelSimple": "女性エンジニアメンター",
       "value": "女性エンジニアメンター",
+      "unit": "",
+      "oldValue": "現行",
       "description": "中高生向けに出前授業やキャリア相談の伴走網を整備。",
+      "descriptionStandard": "女性エンジニアメンター",
+      "descriptionSimple": "女性エンジニアメンター",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "大学女子枠への支援",
+      "labelStandard": "大学女子枠への支援",
+      "labelSimple": "大学女子枠への支援",
       "value": "大学女子枠への支援",
+      "unit": "",
+      "oldValue": "現行",
       "description": "理工学部で積極選抜を行う大学への公的補助を強化。",
+      "descriptionStandard": "大学女子枠への支援",
+      "descriptionSimple": "大学女子枠への支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

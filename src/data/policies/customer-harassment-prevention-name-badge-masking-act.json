@@ -1,8 +1,8 @@
 {
   "id": "customer-harassment-prevention-name-badge-masking-act",
   "title": "カスタマーハラスメント（カスハラ）防止法（従業員氏名名札表示の原則任意化）",
-  "category": "labor-employment",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "顧客や取引先からの暴言、威圧、長時間の居座り、SNS晒し等の悪質な迷惑行為（カスタマーハラスメント）から接客・現場労働者を守るため、事業主の防止措置を労働施策総合推進法（パワハラ防止法）に義務付ける。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "カスハラ防止",
-      "variant": "purple"
+      "text": "カスハラ防止",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "労働者保護",
-      "variant": "blue"
+      "text": "労働者保護",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "コンプライアンス",
-      "variant": "green"
+      "text": "コンプライアンス",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "接客労働者の被害経験割合",
+      "label": "接客労働者の被害経験割合",
+      "labelStandard": "接客労働者の被害経験割合",
+      "labelSimple": "接客労働者の被害経験割合",
       "value": "47",
       "unit": "%",
+      "oldValue": "現行",
       "description": "流通・サービス業従事者の約半数が直近で迷惑行為・暴言を経験した実態",
-      "trend": "up",
-      "trendLabel": "被害高水準"
+      "descriptionStandard": "接客労働者の被害経験割合",
+      "descriptionSimple": "接客労働者の被害経験割合",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "名札の通称名・イニシャル化",
+      "label": "名札の通称名・イニシャル化",
+      "labelStandard": "名札の通称名・イニシャル化",
+      "labelSimple": "名札の通称名・イニシャル化",
       "value": "80",
       "unit": "%達成",
+      "oldValue": "現行",
       "description": "法改正後に大手コンビニ・ファミレス・鉄道会社で導入された名札見直しの割合",
-      "trend": "up",
-      "trendLabel": "プライバシー保護"
+      "descriptionStandard": "名札の通称名・イニシャル化",
+      "descriptionSimple": "名札の通称名・イニシャル化",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

@@ -130,58 +130,76 @@
   "badges": [
     {
       "label": "道路陥没事故防止・AI路面下探査",
-      "variant": "neutral"
+      "text": "道路陥没事故防止・AI路面下探査",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "老朽下水道管の予防保全",
-      "variant": "neutral"
+      "text": "老朽下水道管の予防保全",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "掘らずに直す管更生工法",
-      "variant": "neutral"
+      "text": "掘らずに直す管更生工法",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "突然崩れる事故",
+      "label": "",
       "labelStandard": "全国の年間道路陥没事故件数",
+      "labelSimple": "突然崩れる事故",
       "value": "約9,000",
       "unit": "件/年（全国）",
       "oldValue": "これまで 穴が空いてから対処",
       "description": "老朽下水道管から土砂が吸い込まれ道路下が空洞化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "陥没多発",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "AI地面スキャン",
+      "label": "",
       "labelStandard": "AI車載型路面下レーダー探査",
+      "labelSimple": "AI地面スキャン",
       "value": "時速50km",
       "unit": "走行探査",
       "oldValue": "これまで 手押しレーダー（1日数百m）",
       "description": "車を走らせながらAIが地下の空洞を自動検知",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "AI透視探査",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Zap"
     },
     {
-      "labelSimple": "道路を掘らない修理",
+      "label": "",
       "labelStandard": "非開削管更生工法",
+      "labelSimple": "道路を掘らない修理",
       "value": "掘らずに補強",
       "unit": "夜間短時間工事",
       "oldValue": "これまで 道路を掘り返し大渋滞",
       "description": "マンホールから樹脂を入れて水道管の内側を強化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "非開削工法",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Car"
     },
     {
-      "labelSimple": "水道管の修理代",
+      "label": "",
       "labelStandard": "全国50万キロの更新費用",
+      "labelSimple": "水道管の修理代",
       "value": "数十兆",
       "unit": "円規模の不足",
       "oldValue": "これまで 寿命50年超の管が急増",
       "description": "地方自治体の下水道会計赤字と土木技術者不足が深刻",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "財政危機",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Coins"

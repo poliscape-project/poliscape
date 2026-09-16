@@ -145,62 +145,76 @@
   "badges": [
     {
       "label": "循環式陸上養殖RAS",
-      "variant": "neutral"
+      "text": "循環式陸上養殖RAS",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "サーモン・エビ内陸生産",
-      "variant": "neutral"
+      "text": "サーモン・エビ内陸生産",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "海面養殖区画の緩和",
-      "variant": "neutral"
+      "text": "海面養殖区画の緩和",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "内陸型エコ養殖",
+      "label": "",
       "labelStandard": "循環式陸上養殖の節水率",
+      "labelSimple": "内陸型エコ養殖",
       "value": "99",
       "unit": "%水再利用",
       "oldValue": "かけ流し式で大量の排水が必要だった",
-      "descriptionSimple": "内陸の廃校や工場跡地で魚を育てるRAS",
+      "description": "",
       "descriptionStandard": "内陸の廃校や工場跡地で魚を育てるRAS",
+      "descriptionSimple": "内陸の廃校や工場跡地で魚を育てるRAS",
       "badge": "内陸型エコ養殖",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Layers"
     },
     {
-      "labelSimple": "食料安保",
+      "label": "",
       "labelStandard": "サーモン・エビの自給率",
+      "labelSimple": "食料安保",
       "value": "数十",
       "unit": "%向上へ",
       "oldValue": "輸入サーモン・輸入エビに9割依存",
-      "descriptionSimple": "生食可能な安心の国産サーモンを周年出荷",
+      "description": "",
       "descriptionStandard": "生食可能な安心の国産サーモンを周年出荷",
+      "descriptionSimple": "生食可能な安心の国産サーモンを周年出荷",
       "badge": "食料安保",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "ルール適正化",
+      "label": "",
       "labelStandard": "民間参入の届出義務化",
+      "labelSimple": "ルール適正化",
       "value": "2023年4月",
       "unit": "法改正施行",
       "oldValue": "無届で誰でも自由に養殖可能だった",
-      "descriptionSimple": "水産資源保護と感染症防止のため届出制へ",
+      "description": "",
       "descriptionStandard": "水産資源保護と感染症防止のため届出制へ",
+      "descriptionSimple": "水産資源保護と感染症防止のため届出制へ",
       "badge": "ルール適正化",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Building"
     },
     {
-      "labelSimple": "巨額投資",
+      "label": "",
       "labelStandard": "初期設備投資額",
+      "labelSimple": "巨額投資",
       "value": "数十〜百",
       "unit": "億円規模",
       "oldValue": "海面養殖はイケス網数十万円",
-      "descriptionSimple": "巨大水槽と電気代負担が最大の参入障壁",
+      "description": "",
       "descriptionStandard": "巨大水槽と電気代負担が最大の参入障壁",
+      "descriptionSimple": "巨大水槽と電気代負担が最大の参入障壁",
       "badge": "巨額投資",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Coins"

@@ -2,7 +2,7 @@
   "id": "covert-tracking-airtag-stalking-regulation-reform",
   "title": "GPSタグ（AirTag等）悪用ストーカー位置情報取得罪厳罰化法",
   "catchphrase": "カバンや車に忍ばせる恐怖を撲滅、小型紛失防止タグ悪用への位置情報不正取得罪と直罰導入",
-  "category": "safety",
+  "category": "society",
   "categoryLabel": "司法・治安・刑事政策",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "ストーカー防止",
-      "variant": "positive"
+      "text": "ストーカー防止",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "厳罰化",
-      "variant": "positive"
+      "text": "厳罰化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "プライバシー保護",
-      "variant": "neutral"
+      "text": "プライバシー保護",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "処罰規定",
+      "labelStandard": "処罰規定",
+      "labelSimple": "処罰規定",
       "value": "警告なし直罰逮捕",
+      "unit": "",
+      "oldValue": "現行",
       "description": "承諾なくタグを設置・追跡した時点で即座に逮捕可能",
+      "descriptionStandard": "処罰規定",
+      "descriptionSimple": "処罰規定",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "最高刑",
+      "labelStandard": "最高刑",
+      "labelSimple": "最高刑",
       "value": "懲役3年・300万円罰金",
+      "unit": "",
+      "oldValue": "現行",
       "description": "悪質な位置情報不正取得に対する法定刑を大幅引き上げ",
+      "descriptionStandard": "最高刑",
+      "descriptionSimple": "最高刑",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "AlertTriangle"
     }
   ],

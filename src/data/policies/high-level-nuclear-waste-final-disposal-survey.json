@@ -145,62 +145,76 @@
   "badges": [
     {
       "label": "核のごみ最終処分",
-      "variant": "neutral"
+      "text": "核のごみ最終処分",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "玄海町が文献調査",
-      "variant": "neutral"
+      "text": "玄海町が文献調査",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "地下300m地層処分",
-      "variant": "neutral"
+      "text": "地下300m地層処分",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "10万年隔離",
+      "label": "",
       "labelStandard": "最終処分場の埋設深度",
+      "labelSimple": "10万年隔離",
       "value": "地下300",
       "unit": "m以深",
       "oldValue": "原発敷地内の一時保管プール",
-      "descriptionSimple": "10万年間安全に隔離する地層処分",
+      "description": "",
       "descriptionStandard": "10万年間安全に隔離する地層処分",
+      "descriptionSimple": "10万年間安全に隔離する地層処分",
       "badge": "10万年隔離",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "第1段階交付金",
+      "label": "",
       "labelStandard": "文献調査受入の交付金",
+      "labelSimple": "第1段階交付金",
       "value": "最大20",
       "unit": "億円",
       "oldValue": "一般の過疎地域交付金のみ",
-      "descriptionSimple": "2年間の机上調査受け入れ自治体へ交付",
+      "description": "",
       "descriptionStandard": "2年間の机上調査受け入れ自治体へ交付",
+      "descriptionSimple": "2年間の机上調査受け入れ自治体へ交付",
       "badge": "第1段階交付金",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "本州初調査へ",
+      "label": "",
       "labelStandard": "文献調査受け入れ自治体",
+      "labelSimple": "本州初調査へ",
       "value": "全国 3",
       "unit": "自治体",
       "oldValue": "寿都町・神恵内村の2町村",
-      "descriptionSimple": "佐賀県玄海町が全国3例目として応募",
+      "description": "",
       "descriptionStandard": "佐賀県玄海町が全国3例目として応募",
+      "descriptionSimple": "佐賀県玄海町が全国3例目として応募",
       "badge": "本州初調査へ",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "MapPin"
     },
     {
-      "labelSimple": "処分地難航",
+      "label": "",
       "labelStandard": "ガラス固化体の総本数",
+      "labelSimple": "処分地難航",
       "value": "約2.6万",
       "unit": "本（想定）",
       "oldValue": "青森県六ヶ所村等で貯蔵中",
-      "descriptionSimple": "最終処分地が決まらない「トイレなきマンション」",
+      "description": "",
       "descriptionStandard": "最終処分地が決まらない「トイレなきマンション」",
+      "descriptionSimple": "最終処分地が決まらない「トイレなきマンション」",
       "badge": "処分地難航",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"

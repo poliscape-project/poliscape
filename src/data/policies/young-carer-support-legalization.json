@@ -145,62 +145,76 @@
   "badges": [
     {
       "label": "ヤングケアラー支援の法制化",
-      "variant": "neutral"
+      "text": "ヤングケアラー支援の法制化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "中高生17〜24人に1人の実態",
-      "variant": "neutral"
+      "text": "中高生17〜24人に1人の実態",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "学校・福祉連携とヘルパー派遣",
-      "variant": "neutral"
+      "text": "学校・福祉連携とヘルパー派遣",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "困っている子どもの割合",
+      "label": "",
       "labelStandard": "ヤングケアラー実態",
+      "labelSimple": "困っている子どもの割合",
       "value": "約17人中1人",
       "unit": "（中学生で約5.7%）",
       "oldValue": "家庭内のプライベートな事情・美談とされ放置",
-      "descriptionSimple": "クラスに1〜2人は家族のお世話で毎日ヘトヘトな子がいる！",
+      "description": "",
       "descriptionStandard": "高校生でも約24人に1人（約4.1%）が日常的に介護",
+      "descriptionSimple": "クラスに1〜2人は家族のお世話で毎日ヘトヘトな子がいる！",
       "badge": "クラスに1〜2人",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Users"
     },
     {
-      "labelSimple": "法律での位置づけ",
+      "label": "",
       "labelStandard": "支援責務の法制化",
+      "labelSimple": "法律での位置づけ",
       "value": "初めて明記",
       "unit": "（法改正）",
       "oldValue": "法律上の定義がなく自治体ごとの対応に任されていた",
-      "descriptionSimple": "国や町が「必ず助けなければならない」と法律で宣言！",
+      "description": "",
       "descriptionStandard": "子ども・若者育成支援推進法に定義と自治体責務を新設",
+      "descriptionSimple": "国や町が「必ず助けなければならない」と法律で宣言！",
       "badge": "初の法律明記",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Scale"
     },
     {
-      "labelSimple": "助けてくれるプロ",
+      "label": "",
       "labelStandard": "学校・福祉連携",
+      "labelSimple": "助けてくれるプロ",
       "value": "スクールSW",
       "unit": "等の配置拡充",
       "oldValue": "学校の先生だけでは家庭の福祉問題に踏み込めなかった",
-      "descriptionSimple": "学校と役所が協力して、悩んでいる子どもを見つけ出す！",
+      "description": "",
       "descriptionStandard": "スクールソーシャルワーカーや支援地域協議会が介入",
+      "descriptionSimple": "学校と役所が協力して、悩んでいる子どもを見つけ出す！",
       "badge": "連携ネット",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "HeartHandshake"
     },
     {
-      "labelSimple": "代わりのお手伝い",
+      "label": "",
       "labelStandard": "家事・介護ヘルパー",
+      "labelSimple": "代わりのお手伝い",
       "value": "直接派遣",
       "unit": "（公費支援）",
       "oldValue": "子どもがいるからと大人の介護サービスが断られることも",
-      "descriptionSimple": "子どもの代わりに家事やお世話をする人を家に送る！",
+      "description": "",
       "descriptionStandard": "子どもの学習時間や睡眠・進路を守る代替サービス",
+      "descriptionSimple": "子どもの代わりに家事やお世話をする人を家に送る！",
       "badge": "家事代行派遣",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"

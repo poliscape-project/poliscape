@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "バリアフリー",
-      "variant": "positive"
+      "text": "バリアフリー",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ユニバーサル旅行",
-      "variant": "positive"
+      "text": "ユニバーサル旅行",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ホテル基準",
-      "variant": "neutral"
+      "text": "ホテル基準",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "客室義務比率",
+      "labelStandard": "客室義務比率",
+      "labelSimple": "客室義務比率",
       "value": "現行1%から3%へ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "新築・大規模改修ホテルで車椅子対応客室の割合を3倍に拡充",
+      "descriptionStandard": "客室義務比率",
+      "descriptionSimple": "客室義務比率",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "転回スペース",
+      "labelStandard": "転回スペース",
+      "labelSimple": "転回スペース",
       "value": "直径150cm以上",
+      "unit": "",
+      "oldValue": "現行",
       "description": "電動車椅子でもスムーズに向きを変えられる室内通路幅を義務化",
+      "descriptionStandard": "転回スペース",
+      "descriptionSimple": "転回スペース",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "クラフトサケ",
-      "variant": "positive"
+      "text": "クラフトサケ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "酒税改革",
-      "variant": "positive"
+      "text": "酒税改革",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "輸出促進",
-      "variant": "neutral"
+      "text": "輸出促進",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "免許基準",
+      "labelStandard": "免許基準",
+      "labelSimple": "免許基準",
       "value": "年間6kl（3,000本）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "小規模マイクロブルワリー向けに参入要件を1/10に緩和",
+      "descriptionStandard": "免許基準",
+      "descriptionSimple": "免許基準",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "税制優遇",
+      "labelStandard": "税制優遇",
+      "labelSimple": "税制優遇",
       "value": "輸出分酒税免除",
+      "unit": "",
+      "oldValue": "現行",
       "description": "海外輸出専用ロットの酒税を全額免除しコンクール出展補助",
+      "descriptionStandard": "税制優遇",
+      "descriptionSimple": "税制優遇",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

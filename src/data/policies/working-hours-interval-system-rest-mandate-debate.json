@@ -133,58 +133,76 @@
   "badges": [
     {
       "label": "勤務間インターバル",
-      "variant": "neutral"
+      "text": "勤務間インターバル",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "連続11時間休息",
-      "variant": "neutral"
+      "text": "連続11時間休息",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "睡眠確保・過労死防ぐ",
-      "variant": "neutral"
+      "text": "睡眠確保・過労死防ぐ",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "仕事が終わってから次の仕事まで",
+      "label": "",
       "labelStandard": "連続休息時間（インターバル）",
+      "labelSimple": "仕事が終わってから次の仕事まで",
       "value": "11",
       "unit": "時間（EU共通の法定基準）",
       "oldValue": "終電帰りから翌朝8時出社などの過酷労働",
       "description": "確実な睡眠時間を確保し健康を保護",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "連続11時間休息",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Clock"
     },
     {
-      "labelSimple": "翌日の出勤時間を遅らせても",
+      "label": "",
       "labelStandard": "翌朝繰下げ時の給与保障",
+      "labelSimple": "翌日の出勤時間を遅らせても",
       "value": "全額",
       "unit": "給与保障（減額・遅刻扱いなし）",
       "oldValue": "遅く出勤すると給料カットの理不尽",
       "description": "11時間休むまで翌朝の始業時間を後ろ倒し",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "給与カットなし",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "日本の会社の導入状況",
+      "label": "",
       "labelStandard": "現行の制度導入企業割合",
+      "labelSimple": "日本の会社の導入状況",
       "value": "約6",
       "unit": "%（努力義務のため低迷）",
       "oldValue": "罰則がないため大半の企業が導入見送り",
       "description": "過労死防止に向け法定義務化の議論が加速",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "法定義務化議論",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "TrendingUp"
     },
     {
-      "labelSimple": "過労死を防ぐ最大の武器",
+      "label": "",
       "labelStandard": "睡眠不足の根絶と過労死防止",
+      "labelSimple": "過労死を防ぐ最大の武器",
       "value": "睡眠",
       "unit": "時間確保で心疾患・うつ病防ぐ",
       "oldValue": "睡眠4時間未満の慢性疲労で突然死や自殺",
       "description": "働く人の命と尊厳を守る究極のルール",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "過労死ゼロへ",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "HeartPulse"

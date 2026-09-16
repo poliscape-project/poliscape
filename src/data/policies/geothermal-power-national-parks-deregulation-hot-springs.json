@@ -129,58 +129,76 @@
   "badges": [
     {
       "label": "国立公園地熱掘削緩和",
-      "variant": "neutral"
+      "text": "国立公園地熱掘削緩和",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "世界3位資源活用",
-      "variant": "neutral"
+      "text": "世界3位資源活用",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "温泉街との共生協定",
-      "variant": "neutral"
+      "text": "温泉街との共生協定",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "日本が持っている地熱の量",
+      "label": "",
       "labelStandard": "日本の地熱資源量（世界順位）",
+      "labelSimple": "日本が持っている地熱の量",
       "value": "世界第3位",
       "unit": "（約2,300万kW・米印に次ぐ）",
       "oldValue": "資源大国なのに利用率はわずか約2%にとどまる",
       "description": "マグマの熱で電気を作る巨大ポテンシャル",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "世界3位の資源量",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Sun"
     },
     {
-      "labelSimple": "国立公園で掘れるようにする",
+      "label": "",
       "labelStandard": "国立・国定公園内の開発規制緩和",
+      "labelSimple": "国立公園で掘れるようにする",
       "value": "緩和",
       "unit": "推進（特別地域での斜め掘り等）",
       "oldValue": "自然公園法で優良な地熱地帯の8割が掘削不可",
       "description": "美しい景観や自然を守りつつクリーン発電",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "公園内掘削緩和",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Trees"
     },
     {
-      "labelSimple": "夜でも雨でも発電できる強み",
+      "label": "",
       "labelStandard": "24時間安定なベースロード電源",
+      "labelSimple": "夜でも雨でも発電できる強み",
       "value": "70",
       "unit": "%超の設備利用率（天候に不依存）",
       "oldValue": "太陽光や風力の出力変動による不安定さ",
       "description": "海外から化石燃料を買わずに電気を作る",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "24時間クリーン",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Zap"
     },
     {
-      "labelSimple": "近くの温泉街との約束",
+      "label": "",
       "labelStandard": "温泉モニタリングと余熱の地域還元",
+      "labelSimple": "近くの温泉街との約束",
       "value": "共生",
       "unit": "協定（湯量監視とハウス栽培余熱）",
       "oldValue": "「温泉が枯れるのでは」と旅館組合が猛反対",
       "description": "お湯を冷ます熱で電気を作り余熱で町おこし",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "温泉街との共生",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "HeartHandshake"

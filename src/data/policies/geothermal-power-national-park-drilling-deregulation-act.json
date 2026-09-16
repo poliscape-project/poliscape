@@ -1,8 +1,8 @@
 {
   "id": "geothermal-power-national-park-drilling-deregulation-act",
   "title": "国立・国定公園内の地熱発電斜め掘削規制見直しと温泉事業者共生基金",
-  "category": "energy-environment",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "世界第3位の地熱資源量を誇りながら導入が遅れている日本の地熱発電を飛躍させるため、国立・国定公園の特別地域外から地下深くへ斜めに掘削する「傾斜掘削（斜め掘り）」に関する環境省規制を大幅に見直し、開発手続きを迅速化する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "地熱発電",
-      "variant": "green"
+      "text": "地熱発電",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "ベースロード再エネ",
-      "variant": "blue"
+      "text": "ベースロード再エネ",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "温泉共生",
-      "variant": "purple"
+      "text": "温泉共生",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "日本の地熱資源量（世界第3位）",
+      "label": "日本の地熱資源量（世界第3位）",
+      "labelStandard": "日本の地熱資源量（世界第3位）",
+      "labelSimple": "日本の地熱資源量（世界第3位）",
       "value": "2,347",
       "unit": "万kW",
+      "oldValue": "現行",
       "description": "原発20基分以上に相当する世界屈指の膨大な純国産地熱ポテンシャル",
-      "trend": "neutral",
-      "trendLabel": "世界3位の資源量"
+      "descriptionStandard": "日本の地熱資源量（世界第3位）",
+      "descriptionSimple": "日本の地熱資源量（世界第3位）",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "地熱発電設備利用率",
+      "label": "地熱発電設備利用率",
+      "labelStandard": "地熱発電設備利用率",
+      "labelSimple": "地熱発電設備利用率",
       "value": "80",
       "unit": "%超",
+      "oldValue": "現行",
       "description": "太陽光（約15%）や風力（約25%）を圧倒する24時間安定したベースロード稼働率",
-      "trend": "up",
-      "trendLabel": "超高稼働率"
+      "descriptionStandard": "地熱発電設備利用率",
+      "descriptionSimple": "地熱発電設備利用率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

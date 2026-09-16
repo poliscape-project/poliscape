@@ -1,8 +1,8 @@
 {
   "id": "inheritance-division-ten-year-deadline-statutory-share-act",
   "title": "遺産分割協議の長期化防止（相続開始後10年経過時の画一的法定相続分適用ルール）",
-  "category": "legal-affairs",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "遺産分割協議が何十年も放置され所有者不明土地や空き家が全国で激増している問題に対処するため、民法等を改正し、「相続開始から10年」が経過した後は、個別具体的な寄与分や特別受益の主張を原則として認めず、画一的な「法定相続分（または指定相続分）」で強制分割するルールを施行する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "民法改正",
-      "variant": "purple"
+      "text": "民法改正",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "相続対策",
-      "variant": "blue"
+      "text": "相続対策",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "空き家・土地対策",
-      "variant": "green"
+      "text": "空き家・土地対策",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "具体的相続分主張期限",
+      "label": "具体的相続分主張期限",
+      "labelStandard": "具体的相続分主張期限",
+      "labelSimple": "具体的相続分主張期限",
       "value": "10",
       "unit": "年",
+      "oldValue": "現行",
       "description": "相続開始（被相続人の死亡）から特別受益・寄与分を主張できる法的期限",
-      "trend": "down",
-      "trendLabel": "期限設定"
+      "descriptionStandard": "具体的相続分主張期限",
+      "descriptionSimple": "具体的相続分主張期限",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "所有者不明土地解消率",
+      "label": "所有者不明土地解消率",
+      "labelStandard": "所有者不明土地解消率",
+      "labelSimple": "所有者不明土地解消率",
       "value": "35",
       "unit": "%改善",
+      "oldValue": "現行",
       "description": "相続登記義務化および10年分割ルールによる遺産分割未了案件の解消進捗",
-      "trend": "up",
-      "trendLabel": "早期決着"
+      "descriptionStandard": "所有者不明土地解消率",
+      "descriptionSimple": "所有者不明土地解消率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

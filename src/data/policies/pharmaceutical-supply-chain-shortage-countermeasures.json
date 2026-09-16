@@ -2,7 +2,7 @@
   "id": "pharmaceutical-supply-chain-shortage-countermeasures",
   "title": "医療用医薬品の供給不足対策・後発医薬品（ジェネリック）産業構造改革",
   "catchphrase": "薬が薬局から消える危機を阻止。ジェネリックメーカーの過当競争と品質不正を正し、安定供給を法制化",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・健康・公衆衛生",
   "lastUpdated": "2024-04-10",
   "effectiveDate": "2024年度薬価改定および後発品産業ビジョン推進中",
@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "医薬品供給危機",
-      "variant": "warning"
+      "text": "医薬品供給危機",
+      "variant": "warning",
+      "color": "blue"
     },
     {
       "label": "後発品産業再編",
-      "variant": "positive"
+      "text": "後発品産業再編",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "原薬自給化",
-      "variant": "positive"
+      "text": "原薬自給化",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "危機打開",
+      "labelStandard": "危機打開",
+      "labelSimple": "危機打開",
       "value": "品目集約とM&A推進",
+      "unit": "",
+      "oldValue": "現行",
       "description": "少量多品目の中小乱立からメガ後発品企業へ集約",
+      "descriptionStandard": "危機打開",
+      "descriptionSimple": "危機打開",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "薬価改定",
+      "labelStandard": "薬価改定",
+      "labelSimple": "薬価改定",
       "value": "安定供給実績の加算評価",
+      "unit": "",
+      "oldValue": "現行",
       "description": "在庫と供給責任を果たす優良メーカーを優遇",
+      "descriptionStandard": "薬価改定",
+      "descriptionSimple": "薬価改定",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "自給力",
+      "labelStandard": "自給力",
+      "labelSimple": "自給力",
       "value": "重要抗菌薬原薬の国内製造",
+      "unit": "",
+      "oldValue": "現行",
       "description": "特定国依存を脱却し感染症治療薬のサプライチェーンを防衛",
+      "descriptionStandard": "自給力",
+      "descriptionSimple": "自給力",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     }
   ],

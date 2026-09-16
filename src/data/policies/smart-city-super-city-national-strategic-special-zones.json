@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "スーパーシティ",
-      "variant": "neutral"
+      "text": "スーパーシティ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "自動運転",
-      "variant": "positive"
+      "text": "自動運転",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "地方創生",
-      "variant": "positive"
+      "text": "地方創生",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "都市OSによるデータ統合",
+      "labelStandard": "都市OSによるデータ統合",
+      "labelSimple": "都市OSによるデータ統合",
       "value": "都市OSによるデータ統合",
+      "unit": "",
+      "oldValue": "現行",
       "description": "交通・医療・決済などのデータを一元連携し個別最適サービスを提供。",
+      "descriptionStandard": "都市OSによるデータ統合",
+      "descriptionSimple": "都市OSによるデータ統合",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "規制改革のワンストップ",
+      "labelStandard": "規制改革のワンストップ",
+      "labelSimple": "規制改革のワンストップ",
       "value": "規制改革のワンストップ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "複数省庁の規制緩和を特区会議で一括迅速承認。",
+      "descriptionStandard": "規制改革のワンストップ",
+      "descriptionSimple": "規制改革のワンストップ",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "パーソナルデータの保護",
+      "labelStandard": "パーソナルデータの保護",
+      "labelSimple": "パーソナルデータの保護",
       "value": "パーソナルデータの保護",
+      "unit": "",
+      "oldValue": "現行",
       "description": "住民の自己主権型データ同意管理（オプトイン）を徹底。",
+      "descriptionStandard": "パーソナルデータの保護",
+      "descriptionSimple": "パーソナルデータの保護",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

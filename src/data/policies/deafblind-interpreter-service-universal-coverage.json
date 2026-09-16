@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "盲ろう者支援",
-      "variant": "positive"
+      "text": "盲ろう者支援",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "人権保障",
-      "variant": "positive"
+      "text": "人権保障",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "時間上限撤廃",
-      "variant": "neutral"
+      "text": "時間上限撤廃",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "派遣制度の格上げ",
+      "labelStandard": "派遣制度の格上げ",
+      "labelSimple": "派遣制度の格上げ",
       "value": "国の個別給付へ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "自治体の財政力に左右されない全国一律の法的権利として確立",
+      "descriptionStandard": "派遣制度の格上げ",
+      "descriptionSimple": "派遣制度の格上げ",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "指点字・触手話",
+      "labelStandard": "指点字・触手話",
+      "labelSimple": "指点字・触手話",
       "value": "専門報酬設定",
+      "unit": "",
+      "oldValue": "現行",
       "description": "難度の高い二重感覚遮断コミュニケーションの専門職手当を新設",
+      "descriptionStandard": "指点字・触手話",
+      "descriptionSimple": "指点字・触手話",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

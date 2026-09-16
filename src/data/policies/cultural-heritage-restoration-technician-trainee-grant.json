@@ -1,8 +1,8 @@
 {
   "id": "cultural-heritage-restoration-technician-trainee-grant",
   "title": "国宝・重要文化財修復技術者及び伝統工芸後継者育成給付金制度",
-  "category": "regional-agriculture",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "国宝・重要文化財の建造物、仏像、古文書等の修復を担う選定保存技術者や、指定伝統的工芸品の後継者・見習い弟子に対し、月額15万〜20万円の公的修業給付金を最大5年間支給する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "文化財保護",
-      "variant": "purple"
+      "text": "文化財保護",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "伝統工芸",
-      "variant": "green"
+      "text": "伝統工芸",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "後継者育成",
-      "variant": "blue"
+      "text": "後継者育成",
+      "variant": "blue",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "月額給付金支給額",
+      "label": "月額給付金支給額",
+      "labelStandard": "月額給付金支給額",
+      "labelSimple": "月額給付金支給額",
       "value": "20",
       "unit": "万円/月",
+      "oldValue": "現行",
       "description": "最長5年間にわたり若手技術研修生の生活費を国費で全額給付",
-      "trend": "up",
-      "trendLabel": "生活保障"
+      "descriptionStandard": "月額給付金支給額",
+      "descriptionSimple": "月額給付金支給額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "若手応募倍率の変化",
+      "label": "若手応募倍率の変化",
+      "labelStandard": "若手応募倍率の変化",
+      "labelSimple": "若手応募倍率の変化",
       "value": "3.5",
       "unit": "倍増",
+      "oldValue": "現行",
       "description": "給付金制度導入による宮大工・表具修復コースへの応募倍率の回復実績",
-      "trend": "up",
-      "trendLabel": "後継者増加"
+      "descriptionStandard": "若手応募倍率の変化",
+      "descriptionSimple": "若手応募倍率の変化",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

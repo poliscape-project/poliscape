@@ -134,62 +134,76 @@
   "badges": [
     {
       "label": "新築原則85%以上設置",
-      "variant": "neutral"
+      "text": "新築原則85%以上設置",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "約6〜8年で初期費用回収",
-      "variant": "neutral"
+      "text": "約6〜8年で初期費用回収",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "停電時1500W非常給電",
-      "variant": "neutral"
+      "text": "停電時1500W非常給電",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "新築住宅の設置割合",
+      "label": "",
       "labelStandard": "ハウスメーカーの義務基準",
+      "labelSimple": "新築住宅の設置割合",
       "value": "原則 85",
       "unit": "%以上",
       "oldValue": "個人の自由（設置率わずか2〜3割）",
-      "descriptionSimple": "新築の一戸建てはほぼ標準でパネルが載る！",
+      "description": "",
       "descriptionStandard": "大手住宅メーカーへの年間供給目標義務付け",
+      "descriptionSimple": "新築の一戸建てはほぼ標準でパネルが載る！",
       "badge": "原則標準装備化",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Sun"
     },
     {
-      "labelSimple": "元が取れるまでの年数",
+      "label": "",
       "labelStandard": "初期費用回収年数",
+      "labelSimple": "元が取れるまでの年数",
       "value": "約 6〜8",
       "unit": "年で回収",
       "oldValue": "補助金なしで10〜15年以上かかっていた",
-      "descriptionSimple": "都の補助金と電気代節約で6〜8年で元が取れる！",
+      "description": "",
       "descriptionStandard": "高騰する電気代の自家消費＋売電で早期回収可能",
+      "descriptionSimple": "都の補助金と電気代節約で6〜8年で元が取れる！",
       "badge": "約6〜8年で回収",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "TrendingDown"
     },
     {
-      "labelSimple": "家を建てる初期費用",
+      "label": "",
       "labelStandard": "建築時の上乗せ価格",
+      "labelSimple": "家を建てる初期費用",
       "value": "約 100〜150",
       "unit": "万円上乗せ",
       "oldValue": "初期費用ゼロ",
-      "descriptionSimple": "マイホームを買う費用が100万円以上高くなる！",
+      "description": "",
       "descriptionStandard": "建築費高騰の中で子育て世代の住宅購入負担を圧迫",
+      "descriptionSimple": "マイホームを買う費用が100万円以上高くなる！",
       "badge": "初期負担増",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Home"
     },
     {
-      "labelSimple": "停電のとき使える？",
+      "label": "",
       "labelStandard": "災害時の自立発電",
+      "labelSimple": "停電のとき使える？",
       "value": "1,500",
       "unit": "Wまで使用可",
       "oldValue": "停電時は家庭内の電気がすべてストップ",
-      "descriptionSimple": "昼間の停電でも冷蔵庫やスマホが動かせる！",
+      "description": "",
       "descriptionStandard": "自立運転コンセントにより災害在宅避難を強力支援",
+      "descriptionSimple": "昼間の停電でも冷蔵庫やスマホが動かせる！",
       "badge": "停電時も安心",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Zap"

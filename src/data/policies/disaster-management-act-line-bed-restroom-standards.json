@@ -2,7 +2,7 @@
   "id": "disaster-management-act-line-bed-restroom-standards",
   "title": "災害救助法改正（避難所環境TKB基準・簡易ベッド・温かい食事・清潔トイレ義務化）",
   "catchphrase": "床の雑魚寝と不衛生なトイレが命を奪う。発災48時間以内に簡易ベッド・温かい食事・清潔トイレを義務化",
-  "category": "safety",
+  "category": "society",
   "categoryLabel": "防災・治安・人道支援",
   "lastUpdated": "2024-04-10",
   "effectiveDate": "法案審議・ガイドライン改定中",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "避難所TKB基準",
-      "variant": "positive"
+      "text": "避難所TKB基準",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "災害関連死ゼロへ",
-      "variant": "positive"
+      "text": "災害関連死ゼロへ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "収容定員・輸送課題",
-      "variant": "warning"
+      "text": "収容定員・輸送課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "基準目標",
+      "labelStandard": "基準目標",
+      "labelSimple": "基準目標",
       "value": "TKB（トイレ・台所・ベッド）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "48時間以内の簡易ベッド・温食・清潔トイレ配備",
+      "descriptionStandard": "基準目標",
+      "descriptionSimple": "基準目標",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     },
     {
       "label": "財政支援",
+      "labelStandard": "財政支援",
+      "labelSimple": "財政支援",
       "value": "国が全額財政負担",
+      "unit": "",
+      "oldValue": "現行",
       "description": "災害救助法を適用し民間派遣協定費用を全額支援",
+      "descriptionStandard": "財政支援",
+      "descriptionSimple": "財政支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "安全配慮",
+      "labelStandard": "安全配慮",
+      "labelSimple": "安全配慮",
       "value": "更衣・授乳・防犯必須化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "女性・要介護者・乳幼児の安全とプライバシーを確保",
+      "descriptionStandard": "安全配慮",
+      "descriptionSimple": "安全配慮",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

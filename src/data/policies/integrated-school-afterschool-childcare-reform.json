@@ -149,58 +149,76 @@
   "badges": [
     {
       "label": "小1の壁打破",
-      "variant": "neutral"
+      "text": "小1の壁打破",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "学校施設一体運営",
-      "variant": "neutral"
+      "text": "学校施設一体運営",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "待機児童ゼロ目標",
-      "variant": "neutral"
+      "text": "待機児童ゼロ目標",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "場所の一体化",
+      "label": "",
       "labelStandard": "放課後児童・教室の連携",
+      "labelSimple": "場所の一体化",
       "value": "学校内",
       "unit": "での一体的運営",
       "oldValue": "これまで 別施設・縦割り管轄で移動リスク",
       "description": "小学校の敷地内で安全に放課後を過ごす",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "学校内一体化",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Building"
     },
     {
-      "labelSimple": "学童の待ち人数",
+      "label": "",
       "labelStandard": "放課後待機児童の解消",
+      "labelSimple": "学童の待ち人数",
       "value": "ゼロ",
       "unit": "を目指す受入拡大",
       "oldValue": "これまで 1.8万人超の児童が待機状態",
       "description": "空き教室の全面活用で受入定員を大幅増",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "待機ゼロへ",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "預かりの時間",
+      "label": "",
       "labelStandard": "開所時間の延長",
+      "labelSimple": "預かりの時間",
       "value": "19",
       "unit": "時までの開所推進",
       "oldValue": "これまで 17時〜18時で終了し小1の壁",
       "description": "共働き家庭のフルタイム就業継続を支援",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "小1の壁打破",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Clock"
     },
     {
-      "labelSimple": "指導員の処遇",
+      "label": "",
       "labelStandard": "放課後支援員の給与改善",
+      "labelSimple": "指導員の処遇",
       "value": "月額改善",
       "unit": "と研修の充実",
       "oldValue": "これまで 非常勤・低賃金で人材確保が深刻",
       "description": "処遇改善手当の加算で質の高い指導員確保",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "処遇改善",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Wallet"

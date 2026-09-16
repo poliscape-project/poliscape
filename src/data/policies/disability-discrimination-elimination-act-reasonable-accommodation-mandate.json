@@ -155,50 +155,62 @@
   "badges": [
     {
       "label": "全民間企業で義務化",
-      "variant": "neutral"
+      "text": "全民間企業で義務化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "過重な負担外で個別調整",
-      "variant": "neutral"
+      "text": "過重な負担外で個別調整",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "建設的対話が基本",
-      "variant": "neutral"
+      "text": "建設的対話が基本",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "民間企業の配慮ルール",
+      "label": "",
       "labelStandard": "合理的配慮提供の法的性質",
+      "labelSimple": "民間企業の配慮ルール",
       "value": "法的義務",
       "unit": "化（2024年4月〜）",
       "oldValue": "努力義務（自主的取り組み）",
-      "descriptionSimple": "『できる範囲でやる』から『法律で必ずやる』に変わった！",
+      "description": "",
       "descriptionStandard": "正当な理由のない不提供は違法と位置づけ行政指導等の対象に",
+      "descriptionSimple": "『できる範囲でやる』から『法律で必ずやる』に変わった！",
       "badge": "法的拘束力",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "対象となるお店・会社",
+      "label": "",
       "labelStandard": "適用対象事業者の範囲",
+      "labelSimple": "対象となるお店・会社",
       "value": "全民間事業者",
       "unit": "（個人店も含む）",
       "oldValue": "主に大企業・公共インフラ",
-      "descriptionSimple": "個人経営のカフェや小さな塾、ネット通販もすべて対象！",
+      "description": "",
       "descriptionStandard": "事業規模にかかわらず反復継続して業務を行う全事業者が対象",
+      "descriptionSimple": "個人経営のカフェや小さな塾、ネット通販もすべて対象！",
       "badge": "全業種適用",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "お店が困るほどの無理は？",
+      "label": "",
       "labelStandard": "過重な負担の例外規定",
+      "labelSimple": "お店が困るほどの無理は？",
       "value": "除外可能",
       "unit": "（代替案を提示）",
       "oldValue": "判断基準が曖昧で拒否多発",
-      "descriptionSimple": "莫大なお金がかかる工事などは無理に求められず話し合える！",
+      "description": "",
       "descriptionStandard": "財政状態や体制に見合わない過重な負担は免責され代替手段を模索",
+      "descriptionSimple": "莫大なお金がかかる工事などは無理に求められず話し合える！",
       "badge": "柔軟なバランス",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "MessageSquare"

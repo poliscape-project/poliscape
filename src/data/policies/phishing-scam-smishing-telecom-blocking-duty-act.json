@@ -2,7 +2,7 @@
   "id": "phishing-scam-smishing-telecom-blocking-duty-act",
   "title": "スミッシング・なりすましSMS通信事業者送信ドメイン強制遮断法",
   "catchphrase": "宅配不在通知や銀行偽警告の詐欺を元から断つ、通信大手へのフィッシングSMS強制遮断義務化",
-  "category": "safety",
+  "category": "society",
   "categoryLabel": "司法・治安・刑事政策",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "フィッシング対策",
-      "variant": "positive"
+      "text": "フィッシング対策",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "サイバー防犯",
-      "variant": "positive"
+      "text": "サイバー防犯",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "通信の秘密",
-      "variant": "neutral"
+      "text": "通信の秘密",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "遮断方式",
+      "labelStandard": "遮断方式",
+      "labelSimple": "遮断方式",
       "value": "ネットワーク強制遮断",
+      "unit": "",
+      "oldValue": "現行",
       "description": "スマホ着信前にキャリアの交換機レベルで詐欺SMSを完全破棄",
+      "descriptionStandard": "遮断方式",
+      "descriptionSimple": "遮断方式",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "遮断速度",
+      "labelStandard": "遮断速度",
+      "labelSimple": "遮断速度",
       "value": "検知から1分以内",
+      "unit": "",
+      "oldValue": "現行",
       "description": "サイバー警察のブラックリストと連携しリアルタイム遮断",
+      "descriptionStandard": "遮断速度",
+      "descriptionSimple": "遮断速度",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

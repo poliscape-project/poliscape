@@ -2,7 +2,7 @@
   "id": "railway-grade-crossing-abolition-urban-flyover-acceleration",
   "title": "踏切道改良促進法（開かずの踏切解消と連続立体交差国庫補助拡充）",
   "catchphrase": "都市の渋滞と踏切事故をゼロに、ピーク時1時間40分以上遮断される「開かずの踏切」解消の集中整備",
-  "category": "infrastructure",
+  "category": "society",
   "categoryLabel": "国土・交通",
   "lastUpdated": "2026-01-19",
   "effectiveDate": "2024年4月施行",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "交通安全",
-      "variant": "positive"
+      "text": "交通安全",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "踏切解消",
-      "variant": "positive"
+      "text": "踏切解消",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "都市インフラ",
-      "variant": "neutral"
+      "text": "都市インフラ",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "開かずの踏切を全廃",
+      "labelStandard": "開かずの踏切を全廃",
+      "labelSimple": "開かずの踏切を全廃",
       "value": "開かずの踏切を全廃",
+      "unit": "",
+      "oldValue": "現行",
       "description": "朝夕の通勤ラッシュ時に街を分断する踏切遮断渋滞を解消。",
+      "descriptionStandard": "開かずの踏切を全廃",
+      "descriptionSimple": "開かずの踏切を全廃",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "AIカメラで事故防止",
+      "labelStandard": "AIカメラで事故防止",
+      "labelSimple": "AIカメラで事故防止",
       "value": "AIカメラで事故防止",
+      "unit": "",
+      "oldValue": "現行",
       "description": "踏切内に取り残された人や車をAIが瞬時に検知し電車を緊急停止。",
+      "descriptionStandard": "AIカメラで事故防止",
+      "descriptionSimple": "AIカメラで事故防止",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "高架下空間のまちづくり",
+      "labelStandard": "高架下空間のまちづくり",
+      "labelSimple": "高架下空間のまちづくり",
       "value": "高架下空間のまちづくり",
+      "unit": "",
+      "oldValue": "現行",
       "description": "高架化により生まれた広大なスペースに商業施設や保育所を誘致。",
+      "descriptionStandard": "高架下空間のまちづくり",
+      "descriptionSimple": "高架下空間のまちづくり",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

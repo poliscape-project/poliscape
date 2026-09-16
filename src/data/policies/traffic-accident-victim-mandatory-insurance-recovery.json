@@ -169,58 +169,76 @@
   "badges": [
     {
       "label": "1台あたり年最大150円の賦課金新設",
-      "variant": "neutral"
+      "text": "1台あたり年最大150円の賦課金新設",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "国の特別会計への計画的返還義務化",
-      "variant": "neutral"
+      "text": "国の特別会計への計画的返還義務化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "専門病床の維持と在宅介護支援金保障",
-      "variant": "neutral"
+      "text": "専門病床の維持と在宅介護支援金保障",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "自賠責保険料への賦課金",
+      "label": "",
       "labelStandard": "自賠責保険料への賦課金",
+      "labelSimple": "自賠責保険料への賦課金",
       "value": "1台あたり年最大150円の賦課金新設",
       "unit": "",
       "oldValue": "これまで: 制度がなく、積立金の取り崩しに依存していたため数年で枯渇する見通しだった",
       "description": "1台あたり年最大150円（自家用乗用車・2年車検で300円）の「被害者保護増進等賦課金」を創設",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "1台あたり年最大150円の賦課金新設",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "財務省への貸付金返還義務",
+      "label": "",
       "labelStandard": "財務省への貸付金返還義務",
+      "labelSimple": "財務省への貸付金返還義務",
       "value": "国の特別会計への計画的返還義務化",
       "unit": "",
       "oldValue": "これまで: 一般会計への約6,000億円の未返還金が毎年度わずか数十億円ずつしか返されなかった",
       "description": "法改正により毎年度の返還を政府の義務として明記し、着実な返還計画を法制化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "国の特別会計への計画的返還義務化",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "FileCheck"
     },
     {
-      "labelSimple": "重度後遺障害者の療護施設・在宅支援",
+      "label": "",
       "labelStandard": "重度後遺障害者の療護施設・在宅支援",
+      "labelSimple": "重度後遺障害者の療護施設・在宅支援",
       "value": "専門病床の維持と在宅介護支援金保障",
       "unit": "",
       "oldValue": "これまで: 専門の療護センターの病床不足や在宅介護手当の打ち切り危機",
       "description": "全国の療護施設（NASVA等）の維持・拡充と、在宅介護支援金（月数万〜十数万円）の安定支給",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "専門病床の維持と在宅介護支援金保障",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Home"
     },
     {
-      "labelSimple": "事故防止対策・先進安全車への助成",
+      "label": "",
       "labelStandard": "事故防止対策・先進安全車への助成",
+      "labelSimple": "事故防止対策・先進安全車への助成",
       "value": "急発進抑制装置等の安全技術補助",
       "unit": "",
       "oldValue": "これまで: 被害者支援のみに重点が置かれていた",
       "description": "ペダル踏み間違い急発進抑制装置や衝突被害軽減ブレーキの後付け補助にも基金を活用",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "急発進抑制装置等の安全技術補助",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Car"

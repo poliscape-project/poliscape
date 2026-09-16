@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "夜行列車",
-      "variant": "positive"
+      "text": "夜行列車",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "観光再生",
-      "variant": "positive"
+      "text": "観光再生",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "鉄道インフラ",
-      "variant": "neutral"
+      "text": "鉄道インフラ",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "線路使用料",
+      "labelStandard": "線路使用料",
+      "labelSimple": "線路使用料",
       "value": "最大50%減免",
+      "unit": "",
+      "oldValue": "現行",
       "description": "深夜帯を走行する観光寝台列車の運行固定費を大幅軽減",
+      "descriptionStandard": "線路使用料",
+      "descriptionSimple": "線路使用料",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingDown"
     },
     {
       "label": "運行方式",
+      "labelStandard": "運行方式",
+      "labelSimple": "運行方式",
       "value": "上下分離オープンアクセス",
+      "unit": "",
+      "oldValue": "現行",
       "description": "民間観光事業者や自治体による観光車両保有とJR運行委託",
+      "descriptionStandard": "運行方式",
+      "descriptionSimple": "運行方式",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Train"
     }
   ],

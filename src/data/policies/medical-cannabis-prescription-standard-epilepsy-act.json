@@ -3,7 +3,7 @@
   "title": "医薬品大麻（CBD/THC製剤）の難治性てんかん等への処方基準運用法",
   "category": "healthcare",
   "categoryLabel": "医療・公衆衛生",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "法改正・基準施行中",
   "catchphrase": "改正大麻取締法に基づく医療用大麻製剤（エピディオレックス等）の難治性てんかん患者への解禁",
   "lastUpdated": "2026-09-16",
@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "発作半減率",
+      "labelStandard": "発作半減率",
+      "labelSimple": "発作半減率",
       "value": "50",
       "unit": "%超",
       "oldValue": "効果的な治療薬なし",
       "description": "臨床治験におけるドラベ症候群患者の痙攣発作頻度半減割合",
+      "descriptionStandard": "発作半減率",
+      "descriptionSimple": "発作半減率",
       "badge": "有効性",
       "badgeColor": "green",
       "icon": "TrendingUp"
     },
     {
       "label": "法改正年数",
+      "labelStandard": "法改正年数",
+      "labelSimple": "法改正年数",
       "value": "75",
       "unit": "年ぶり",
       "oldValue": "1948年制定法（部位規制）",
       "description": "昭和の旧法から成分に着目した現代的麻薬法制への抜本改正",
+      "descriptionStandard": "法改正年数",
+      "descriptionSimple": "法改正年数",
       "badge": "歴史的転換",
       "badgeColor": "blue",
       "icon": "ShieldCheck"

@@ -145,62 +145,76 @@
   "badges": [
     {
       "label": "不登校過去最多34万人突破",
-      "variant": "neutral"
+      "text": "不登校過去最多34万人突破",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "COCOLOプラン・多様な学び",
-      "variant": "neutral"
+      "text": "COCOLOプラン・多様な学び",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "フリースクール利用料助成",
-      "variant": "neutral"
+      "text": "フリースクール利用料助成",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "国家的課題",
+      "label": "",
       "labelStandard": "不登校児童生徒の総数",
+      "labelSimple": "国家的課題",
       "value": "過去最多 34万",
       "unit": "人突破",
       "oldValue": "10年前は約12万人程度だった",
-      "descriptionSimple": "11年連続増加、1クラスに1〜2人の割合",
+      "description": "",
       "descriptionStandard": "11年連続増加、1クラスに1〜2人の割合",
+      "descriptionSimple": "11年連続増加、1クラスに1〜2人の割合",
       "badge": "国家的課題",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "COCOLOプラン",
+      "label": "",
       "labelStandard": "学びの多様化学校目標",
+      "labelSimple": "COCOLOプラン",
       "value": "全国 500",
       "unit": "校設置",
       "oldValue": "全国でわずか数十校にとどまっていた",
-      "descriptionSimple": "授業時間やカリキュラムを柔軟に決められる公立校",
+      "description": "",
       "descriptionStandard": "授業時間やカリキュラムを柔軟に決められる公立校",
+      "descriptionSimple": "授業時間やカリキュラムを柔軟に決められる公立校",
       "badge": "COCOLOプラン",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Building"
     },
     {
-      "labelSimple": "自治体助成試行",
+      "label": "",
       "labelStandard": "フリースクール利用料助成",
+      "labelSimple": "自治体助成試行",
       "value": "月最大 2万",
       "unit": "円（東京都等）",
       "oldValue": "全額保護者の自己負担（月3万〜5万円）",
-      "descriptionSimple": "経済的理由で居場所を奪われない公費支援試行",
+      "description": "",
       "descriptionStandard": "経済的理由で居場所を奪われない公費支援試行",
+      "descriptionSimple": "経済的理由で居場所を奪われない公費支援試行",
       "badge": "自治体助成試行",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "孤立防止急務",
+      "label": "",
       "labelStandard": "完全孤立している児童数",
+      "labelSimple": "孤立防止急務",
       "value": "約11万",
       "unit": "人が無支援",
       "oldValue": "相談機関やフリースクールに繋がれない",
-      "descriptionSimple": "家庭内での孤立を防ぐ校内教育支援センター整備",
+      "description": "",
       "descriptionStandard": "家庭内での孤立を防ぐ校内教育支援センター整備",
+      "descriptionSimple": "家庭内での孤立を防ぐ校内教育支援センター整備",
       "badge": "孤立防止急務",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "HeartHandshake"

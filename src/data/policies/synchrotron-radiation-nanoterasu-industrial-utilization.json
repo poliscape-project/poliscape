@@ -2,7 +2,7 @@
   "id": "synchrotron-radiation-nanoterasu-industrial-utilization",
   "title": "次世代放射光施設（NanoTerasu）産業利用促進法（ナノ可視化・創薬材料革新）",
   "catchphrase": "物質のナノ世界を可視化する巨大顕微鏡、NanoTerasuの産業利用枠拡大と中小企業利用支援",
-  "category": "technology",
+  "category": "society",
   "categoryLabel": "テクノロジー・インフラ・通信",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "先端科学",
-      "variant": "positive"
+      "text": "先端科学",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "NanoTerasu",
-      "variant": "positive"
+      "text": "NanoTerasu",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "イノベーション",
-      "variant": "neutral"
+      "text": "イノベーション",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "産業枠比率",
+      "labelStandard": "産業枠比率",
+      "labelSimple": "産業枠比率",
       "value": "最低50%以上",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ビームライン利用枠の半分を民間企業の研究開発に法定配分",
+      "descriptionStandard": "産業枠比率",
+      "descriptionSimple": "産業枠比率",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Microscope"
     },
     {
       "label": "中小助成",
+      "labelStandard": "中小助成",
+      "labelSimple": "中小助成",
       "value": "利用料金50%補助",
+      "unit": "",
+      "oldValue": "現行",
       "description": "中小・スタートアップのビームタイム費用を半額支援",
+      "descriptionStandard": "中小助成",
+      "descriptionSimple": "中小助成",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

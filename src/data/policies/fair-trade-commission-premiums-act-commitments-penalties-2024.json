@@ -155,50 +155,62 @@
   "badges": [
     {
       "label": "確約手続で迅速返金",
-      "variant": "neutral"
+      "text": "確約手続で迅速返金",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "再犯課徴金1.5倍加算",
-      "variant": "neutral"
+      "text": "再犯課徴金1.5倍加算",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "電子マネー返金を解禁",
-      "variant": "neutral"
+      "text": "電子マネー返金を解禁",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "改善計画による解決",
+      "label": "",
       "labelStandard": "確約手続（自主是正）の導入",
+      "labelSimple": "改善計画による解決",
       "value": "確約認定",
       "unit": "（命令免除）",
       "oldValue": "争訟か命令受諾の二択",
-      "descriptionSimple": "企業が素早く改善して返金すれば命令を免除し早期決着！",
+      "description": "",
       "descriptionStandard": "合意型の法執行手続きにより迅速な是正と消費者救済を実現",
+      "descriptionSimple": "企業が素早く改善して返金すれば命令を免除し早期決着！",
       "badge": "新執行手続",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "ウソ広告を繰り返す企業",
+      "label": "",
       "labelStandard": "再犯時の課徴金加算率",
+      "labelSimple": "ウソ広告を繰り返す企業",
       "value": "1.5倍",
       "unit": "加算（売上高の4.5%）",
       "oldValue": "過去歴不問で一律3%",
-      "descriptionSimple": "10年以内に罰金を受けた悪徳企業には1.5倍のペナルティ！",
+      "description": "",
       "descriptionStandard": "再犯防止のため反復違反者へのペナルティを大幅に強化",
+      "descriptionSimple": "10年以内に罰金を受けた悪徳企業には1.5倍のペナルティ！",
       "badge": "厳罰化",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "被害者へのお金の戻し方",
+      "label": "",
       "labelStandard": "デジタル返金措置の容認",
+      "labelSimple": "被害者へのお金の戻し方",
       "value": "電子マネー可",
       "unit": "（ポイント送金等）",
       "oldValue": "銀行振込・現金書留のみ",
-      "descriptionSimple": "PayPayやギフトコードなどで素早く返金を受け取れる！",
+      "description": "",
       "descriptionStandard": "多様なキャッシュレス決済手段による消費者への直接返金を促進",
+      "descriptionSimple": "PayPayやギフトコードなどで素早く返金を受け取れる！",
       "badge": "返金円滑化",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Wallet"

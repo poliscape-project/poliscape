@@ -1,7 +1,7 @@
 {
   "id": "coastal-erosion-artificial-reef-sand-bypass-restoration",
   "title": "気候変動適応に向けたサンドバイパスシステムと人工リーフ海岸侵食対策交付金",
-  "category": "disaster-prevention",
+  "category": "society",
   "subcategory": "国土保全・海岸侵食対策",
   "status": "施行中",
   "date": "2024-04",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "波浪エネルギー減衰率",
+      "labelStandard": "波浪エネルギー減衰率",
+      "labelSimple": "波浪エネルギー減衰率",
       "value": "約50〜60",
       "unit": "%低減（人工リーフ効果）",
       "oldValue": "直撃大波による護岸破壊",
       "description": "沖合の海面下堤防で大波を砕波させ海岸への衝撃を半減",
+      "descriptionStandard": "波浪エネルギー減衰率",
+      "descriptionSimple": "波浪エネルギー減衰率",
       "badge": "消波効果抜群",
       "badgeColor": "blue",
       "icon": "shield-check"
     },
     {
       "label": "砂浜後退抑止率",
+      "labelStandard": "砂浜後退抑止率",
+      "labelSimple": "砂浜後退抑止率",
       "value": "約90",
       "unit": "%（侵食ストップ）",
       "oldValue": "年平均1〜2m砂浜消失",
       "description": "連続的な土砂還元により自然な汀線（砂浜幅）を安定維持",
+      "descriptionStandard": "砂浜後退抑止率",
+      "descriptionSimple": "砂浜後退抑止率",
       "badge": "砂浜再生",
       "badgeColor": "green",
       "icon": "check-circle"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "disaster-prevention"
 }

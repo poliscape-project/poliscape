@@ -2,7 +2,7 @@
   "id": "rare-disease-genomic-drug-accelerated-approval-act",
   "title": "希少難病ゲノム創薬・早期アクセス迅速承認特例法（拡大治験DX）",
   "catchphrase": "治療法のない希少難病に光を、ゲノム創薬の迅速承認と人道的アクセス",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・福祉",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年6月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "難病支援",
-      "variant": "positive"
+      "text": "難病支援",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ドラッグロス解消",
-      "variant": "positive"
+      "text": "ドラッグロス解消",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ゲノム創薬",
-      "variant": "neutral"
+      "text": "ゲノム創薬",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "市場独占期間",
+      "labelStandard": "市場独占期間",
+      "labelSimple": "市場独占期間",
       "value": "最長12年",
+      "unit": "",
+      "oldValue": "現行",
       "description": "開発リスクに見合う権利保護でバイオベンチャー参入を促進",
+      "descriptionStandard": "市場独占期間",
+      "descriptionSimple": "市場独占期間",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "早期アクセス枠",
+      "labelStandard": "早期アクセス枠",
+      "labelSimple": "早期アクセス枠",
       "value": "コンパッショネート使用",
+      "unit": "",
+      "oldValue": "現行",
       "description": "治療法なき患者に安全監視下で治験薬の提供を合法化",
+      "descriptionStandard": "早期アクセス枠",
+      "descriptionSimple": "早期アクセス枠",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

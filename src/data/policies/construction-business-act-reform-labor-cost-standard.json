@@ -155,50 +155,62 @@
   "badges": [
     {
       "label": "国の標準労務費を勧告",
-      "variant": "neutral"
+      "text": "国の標準労務費を勧告",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "原価割れ買い叩き禁止",
-      "variant": "neutral"
+      "text": "原価割れ買い叩き禁止",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "著しく短い工期を禁止",
-      "variant": "neutral"
+      "text": "著しく短い工期を禁止",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "職人さんの給料目安",
+      "label": "",
       "labelStandard": "標準労務費の国による勧告",
+      "labelSimple": "職人さんの給料目安",
       "value": "国が算出",
       "unit": "（中建審が勧告）",
       "oldValue": "民間相場・買い叩き任せ",
-      "descriptionSimple": "職種ごと・地域ごとに適正な給料の基準を国が公表！",
+      "description": "",
       "descriptionStandard": "中央建設業審議会が適正な労務費基準を策定し元請・下請に遵守を要請",
+      "descriptionSimple": "職種ごと・地域ごとに適正な給料の基準を国が公表！",
       "badge": "労務費の底上げ",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "安すぎる工事契約",
+      "label": "",
       "labelStandard": "原価割れ契約の禁止",
+      "labelSimple": "安すぎる工事契約",
       "value": "違法化",
       "unit": "（指導・勧告対象）",
       "oldValue": "下請けが泣き寝入り多発",
-      "descriptionSimple": "職人の給料を削って安く契約させる行為は法律で処罰対象に！",
+      "description": "",
       "descriptionStandard": "標準労務費を著しく下回る見積・契約締結を発注者・元請双方で禁止",
+      "descriptionSimple": "職人の給料を削って安く契約させる行為は法律で処罰対象に！",
       "badge": "買い叩き根絶",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "無理な突貫工事",
+      "label": "",
       "labelStandard": "著しく短い工期の禁止",
+      "labelSimple": "無理な突貫工事",
       "value": "契約禁止",
       "unit": "（休日確保義務）",
       "oldValue": "発注者の無理な納期が常態化",
-      "descriptionSimple": "職人が休みなく徹夜で働くような短期間工事の発注を禁止！",
+      "description": "",
       "descriptionStandard": "時間外労働規制を前提とした適正工期の見積・契約を法定化",
+      "descriptionSimple": "職人が休みなく徹夜で働くような短期間工事の発注を禁止！",
       "badge": "過労死防止",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Clock"

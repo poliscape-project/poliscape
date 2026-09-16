@@ -4,7 +4,7 @@
   "catchphrase": "食べる力と動く力を取り戻す。特養・老健でのリハビリ・管理栄養士・歯科衛生士の三位一体ケアを義務化",
   "category": "healthcare",
   "categoryLabel": "介護保険・高齢者医療",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "三位一体ケア",
-      "variant": "purple"
+      "text": "三位一体ケア",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "口腔栄養連携",
-      "variant": "blue"
+      "text": "口腔栄養連携",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "誤嚥性肺炎予防",
-      "variant": "green"
+      "text": "誤嚥性肺炎予防",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "誤嚥性肺炎発症率低減",
+      "label": "誤嚥性肺炎発症率低減",
+      "labelStandard": "誤嚥性肺炎発症率低減",
+      "labelSimple": "誤嚥性肺炎発症率低減",
       "value": "50",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "リハビリ・口腔ケア・栄養管理の一体的導入施設における誤嚥性肺炎による緊急入院抑制率",
-      "trend": "down",
-      "trendLabel": "肺炎激減"
+      "descriptionStandard": "誤嚥性肺炎発症率低減",
+      "descriptionSimple": "誤嚥性肺炎発症率低減",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "一体的計画書作成率",
+      "label": "一体的計画書作成率",
+      "labelStandard": "一体的計画書作成率",
+      "labelSimple": "一体的計画書作成率",
       "value": "95",
       "unit": "%達成",
+      "oldValue": "現行",
       "description": "全国の介護老人福祉施設・老人保健施設における三位一体アセスメント実施率",
-      "trend": "up",
-      "trendLabel": "全国完全浸透"
+      "descriptionStandard": "一体的計画書作成率",
+      "descriptionSimple": "一体的計画書作成率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

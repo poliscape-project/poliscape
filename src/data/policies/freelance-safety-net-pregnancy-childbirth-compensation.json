@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "フリーランス",
-      "variant": "neutral"
+      "text": "フリーランス",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "育児給付",
-      "variant": "positive"
+      "text": "育児給付",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "少子化対策",
-      "variant": "positive"
+      "text": "少子化対策",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "フリーランスにも育児給付",
+      "labelStandard": "フリーランスにも育児給付",
+      "labelSimple": "フリーランスにも育児給付",
       "value": "フリーランスにも育児給付",
+      "unit": "",
+      "oldValue": "現行",
       "description": "雇用保険に入れない自営業者・個人事業主にも休業中の所得を保障。",
+      "descriptionStandard": "フリーランスにも育児給付",
+      "descriptionSimple": "フリーランスにも育児給付",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Baby"
     },
     {
       "label": "月額10万〜15万円を公費支給",
+      "labelStandard": "月額10万〜15万円を公費支給",
+      "labelSimple": "月額10万〜15万円を公費支給",
       "value": "月額10万〜15万円を公費支給",
+      "unit": "",
+      "oldValue": "現行",
       "description": "産前産後から最長1年間、生活を支える給付金を国費で支給。",
+      "descriptionStandard": "月額10万〜15万円を公費支給",
+      "descriptionSimple": "月額10万〜15万円を公費支給",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "社保料の全額免除",
+      "labelStandard": "社保料の全額免除",
+      "labelSimple": "社保料の全額免除",
       "value": "社保料の全額免除",
+      "unit": "",
+      "oldValue": "現行",
       "description": "休業期間中の国保・国民年金の支払いを全額免除し経済負担を軽減。",
+      "descriptionStandard": "社保料の全額免除",
+      "descriptionSimple": "社保料の全額免除",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

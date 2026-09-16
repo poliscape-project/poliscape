@@ -129,58 +129,76 @@
   "badges": [
     {
       "label": "プロ野球・Jリーグ賭博案",
-      "variant": "neutral"
+      "text": "プロ野球・Jリーグ賭博案",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "部活・施設改修の巨額財源",
-      "variant": "neutral"
+      "text": "部活・施設改修の巨額財源",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "八百長・依存症リスク",
-      "variant": "neutral"
+      "text": "八百長・依存症リスク",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "国内潜在市場規模",
+      "label": "",
       "labelStandard": "国内潜在市場規模",
+      "labelSimple": "国内潜在市場規模",
       "value": "年数兆",
       "unit": "〜十数兆円推計",
       "oldValue": "公営ギャンブルとtotoに限定",
       "description": "解禁で莫大なスポーツ振興財源を創出",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "数兆円市場",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "スポーツ界への還元",
+      "label": "",
       "labelStandard": "スポーツ界への還元",
+      "labelSimple": "スポーツ界への還元",
       "value": "年数千億",
       "unit": "円規模の支援金",
       "oldValue": "放映権と入場料収入のみに依存",
       "description": "部活地域移行や老朽体育館改修に充当",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "巨額部活支援",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Gift"
     },
     {
-      "labelSimple": "最大の破滅リスク",
+      "label": "",
       "labelStandard": "最大の破滅リスク",
+      "labelSimple": "最大の破滅リスク",
       "value": "八百長",
       "unit": "（マッチフィックス）",
       "oldValue": "黒い霧事件でプロ野球が信頼失墜",
       "description": "選手や審判への買収・脅迫リスクを警戒",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "八百長の恐怖",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "ShieldAlert"
     },
     {
-      "labelSimple": "海外の還元率水準",
+      "label": "",
       "labelStandard": "海外の還元率水準",
+      "labelSimple": "海外の還元率水準",
       "value": "約 90",
       "unit": "%（ブックメーカー）",
       "oldValue": "公営競技・totoは約50〜75%還元",
       "description": "高還元率で若年層の依存症激増懸念",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "高還元率と依存症",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "TrendingUp"

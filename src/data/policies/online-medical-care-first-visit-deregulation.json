@@ -133,58 +133,76 @@
   "badges": [
     {
       "label": "初診恒久化",
-      "variant": "neutral"
+      "text": "初診恒久化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "処方薬宅配",
-      "variant": "neutral"
+      "text": "処方薬宅配",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "不適切処方防止",
-      "variant": "neutral"
+      "text": "不適切処方防止",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "初診の受診方法",
+      "label": "",
       "labelStandard": "初診オンライン診療",
+      "labelSimple": "初診の受診方法",
       "value": "恒久化",
       "unit": "",
       "oldValue": "これまで 原則対面のみ",
       "description": "スマホで受診・薬も自宅へ配送",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "初診解禁",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Smartphone"
     },
     {
-      "labelSimple": "通院にかかる時間",
+      "label": "",
       "labelStandard": "通院・移動待ち時間",
+      "labelSimple": "通院にかかる時間",
       "value": "0",
       "unit": "分に短縮",
       "oldValue": "これまで 半日〜数時間の負担",
       "description": "へき地や多忙な現役世代を支援",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "時間短縮",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Clock"
     },
     {
-      "labelSimple": "処方薬の受け取り",
+      "label": "",
       "labelStandard": "服薬指導と薬配送",
+      "labelSimple": "処方薬の受け取り",
       "value": "自宅",
       "unit": "へ宅配",
       "oldValue": "これまで 薬局窓口で対面",
       "description": "電子処方箋と連動し完全非対面",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "薬の宅配",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "FileCheck"
     },
     {
-      "labelSimple": "初診で出せない薬",
+      "label": "",
       "labelStandard": "不適切処方禁止薬",
+      "labelSimple": "初診で出せない薬",
       "value": "麻薬等",
       "unit": "初診禁止",
       "oldValue": "これまで ガイドライン違反の横行",
       "description": "向精神薬等の安全基準を厳格化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "安全対策",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "ShieldAlert"

@@ -139,15 +139,21 @@
   "badges": [
     {
       "label": "賦課金3.49円/kWh改定",
-      "variant": "neutral"
+      "text": "賦課金3.49円/kWh改定",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "電気代激変緩和補助",
-      "variant": "neutral"
+      "text": "電気代激変緩和補助",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "FIP市場連動型へ移行",
-      "variant": "neutral"
+      "text": "FIP市場連動型へ移行",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "international": {

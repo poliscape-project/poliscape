@@ -161,62 +161,76 @@
   "badges": [
     {
       "label": "スギ伐採ペース4割加速",
-      "variant": "neutral"
+      "text": "スギ伐採ペース4割加速",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "少花粉苗木9割超へ",
-      "variant": "neutral"
+      "text": "少花粉苗木9割超へ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "舌下免疫療法薬の増産",
-      "variant": "neutral"
+      "text": "舌下免疫療法薬の増産",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "スギの木を切るスピード",
+      "label": "",
       "labelStandard": "スギ人工林伐採ペース",
+      "labelSimple": "スギの木を切るスピード",
       "value": "年 7万",
       "unit": "haへ加速（4割増）",
       "oldValue": "年間約5万ヘクタールのペースだった",
-      "descriptionSimple": "国が本気でスギの木を切り倒して減らす！",
+      "description": "",
       "descriptionStandard": "30年で花粉発生量を半減させる10年計画推進中",
+      "descriptionSimple": "国が本気でスギの木を切り倒して減らす！",
       "badge": "伐採4割加速",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Trees"
     },
     {
-      "labelSimple": "新しく植える木",
+      "label": "",
       "labelStandard": "少花粉スギ苗木の割合",
+      "labelSimple": "新しく植える木",
       "value": "9割超",
       "unit": "へ引き上げ",
       "oldValue": "通常のスギ苗木が多く植えられていた",
-      "descriptionSimple": "切った後は花粉が出ない木に植え替える！",
+      "description": "",
       "descriptionStandard": "花粉の少ない優良品種への転換を強力推進",
+      "descriptionSimple": "切った後は花粉が出ない木に植え替える！",
       "badge": "少花粉苗木9割",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Sparkles"
     },
     {
-      "labelSimple": "アレルギーを根本から治す薬",
+      "label": "",
       "labelStandard": "舌下免疫療法（SLIT）薬",
+      "labelSimple": "アレルギーを根本から治す薬",
       "value": "供給量倍増",
       "unit": "（約8割改善）",
       "oldValue": "薬が品薄で治療を始めにくかった",
-      "descriptionSimple": "保険適用で治療薬が増産され始めやすくなった",
+      "description": "",
       "descriptionStandard": "3年間の服薬で約8割の患者で症状が消失・軽減",
+      "descriptionSimple": "保険適用で治療薬が増産され始めやすくなった",
       "badge": "根本治療薬倍増",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "HeartPulse"
     },
     {
-      "labelSimple": "社会の経済的な損",
+      "label": "",
       "labelStandard": "経済損失の奪還効果",
+      "labelSimple": "社会の経済的な損",
       "value": "年数千億円",
       "unit": "の損失防止",
       "oldValue": "春の集中力低下・医療費で大打撃",
-      "descriptionSimple": "春に仕事や勉強が手につかない損を取り戻す！",
+      "description": "",
       "descriptionStandard": "労働生産性の改善と医療費抑制による国家効果",
+      "descriptionSimple": "春に仕事や勉強が手につかない損を取り戻す！",
       "badge": "経済損失防止",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "TrendingDown"

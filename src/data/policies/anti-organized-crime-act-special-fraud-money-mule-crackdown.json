@@ -2,7 +2,7 @@
   "id": "anti-organized-crime-act-special-fraud-money-mule-crackdown",
   "title": "組織犯罪処罰法・暴力団排除法改正（トクリュウ・闇バイト厳罰化）",
   "catchphrase": "闇バイト・強盗・特殊詐欺の元締めを壊滅、匿名・流動型犯罪グループ（トクリュウ）への共謀厳罰化と資産剥奪",
-  "category": "governance",
+  "category": "society",
   "categoryLabel": "司法・統治",
   "lastUpdated": "2026-01-16",
   "effectiveDate": "2025年6月施行",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "治安維持",
-      "variant": "positive"
+      "text": "治安維持",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "トクリュウ対策",
-      "variant": "neutral"
+      "text": "トクリュウ対策",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "組織犯罪",
-      "variant": "positive"
+      "text": "組織犯罪",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "指示役・黒幕の厳罰化",
+      "labelStandard": "指示役・黒幕の厳罰化",
+      "labelSimple": "指示役・黒幕の厳罰化",
       "value": "指示役・黒幕の厳罰化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "直接手を下さず遠隔から命令する首謀者に極刑や長期懲役を適用。",
+      "descriptionStandard": "指示役・黒幕の厳罰化",
+      "descriptionSimple": "指示役・黒幕の厳罰化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "犯罪収益の完全剥奪",
+      "labelStandard": "犯罪収益の完全剥奪",
+      "labelSimple": "犯罪収益の完全剥奪",
       "value": "犯罪収益の完全剥奪",
+      "unit": "",
+      "oldValue": "現行",
       "description": "暗号資産やマネーロンダリング先を追跡し不正資産を強制没収。",
+      "descriptionStandard": "犯罪収益の完全剥奪",
+      "descriptionSimple": "犯罪収益の完全剥奪",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "自首・保護プログラム拡充",
+      "labelStandard": "自首・保護プログラム拡充",
+      "labelSimple": "自首・保護プログラム拡充",
       "value": "自首・保護プログラム拡充",
+      "unit": "",
+      "oldValue": "現行",
       "description": "脅されて抜け出せない実行犯を警察が保護し首謀者検挙へ誘導。",
+      "descriptionStandard": "自首・保護プログラム拡充",
+      "descriptionSimple": "自首・保護プログラム拡充",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

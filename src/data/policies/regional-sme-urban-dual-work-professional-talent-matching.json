@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "仲介手数料補助率",
+      "labelStandard": "仲介手数料補助率",
+      "labelSimple": "仲介手数料補助率",
       "value": "最大50",
       "unit": "%（公費助成）",
       "oldValue": "企業全額自己負担",
       "description": "民間マッチング事業者への手数料や交通費を地方創生交付金で半額支援",
+      "descriptionStandard": "仲介手数料補助率",
+      "descriptionSimple": "仲介手数料補助率",
       "badge": "最大半額補助",
       "badgeColor": "blue",
       "icon": "currency-yen"
     },
     {
       "label": "年間成約件数",
+      "labelStandard": "年間成約件数",
+      "labelSimple": "年間成約件数",
       "value": "1万",
       "unit": "件超（全国累計）",
       "oldValue": "年数百件程度（初期）",
       "description": "リモートワーク普及と副業解禁により都市から地方への知見還流が加速",
+      "descriptionStandard": "年間成約件数",
+      "descriptionSimple": "年間成約件数",
       "badge": "成約数急増",
       "badgeColor": "green",
       "icon": "trending-up"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

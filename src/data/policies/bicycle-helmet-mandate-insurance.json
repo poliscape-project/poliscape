@@ -137,15 +137,21 @@
   "badges": [
     {
       "label": "全年齢努力義務化",
-      "variant": "neutral"
+      "text": "全年齢努力義務化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "青切符反則金2026年〜",
-      "variant": "neutral"
+      "text": "青切符反則金2026年〜",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "個人賠償責任保険義務",
-      "variant": "neutral"
+      "text": "個人賠償責任保険義務",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "international": {

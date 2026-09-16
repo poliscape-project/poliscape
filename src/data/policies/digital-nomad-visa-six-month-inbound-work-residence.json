@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "デジタルノマド",
-      "variant": "neutral"
+      "text": "デジタルノマド",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "インバウンド",
-      "variant": "positive"
+      "text": "インバウンド",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "高度外国人材",
-      "variant": "positive"
+      "text": "高度外国人材",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "リモートワーク合法的解禁",
+      "labelStandard": "リモートワーク合法的解禁",
+      "labelSimple": "リモートワーク合法的解禁",
       "value": "リモートワーク合法的解禁",
+      "unit": "",
+      "oldValue": "現行",
       "description": "海外企業所属のまま日本国内で最長半年間合法的に仕事が可能。",
+      "descriptionStandard": "リモートワーク合法的解禁",
+      "descriptionSimple": "リモートワーク合法的解禁",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "高所得層の地方長期滞在",
+      "labelStandard": "高所得層の地方長期滞在",
+      "labelSimple": "高所得層の地方長期滞在",
       "value": "高所得層の地方長期滞在",
+      "unit": "",
+      "oldValue": "現行",
       "description": "年収1,000万円以上を要件とし地方での宿泊・飲食消費を強力喚起。",
+      "descriptionStandard": "高所得層の地方長期滞在",
+      "descriptionSimple": "高所得層の地方長期滞在",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "家族帯同を完全公認",
+      "labelStandard": "家族帯同を完全公認",
+      "labelSimple": "家族帯同を完全公認",
       "value": "家族帯同を完全公認",
+      "unit": "",
+      "oldValue": "現行",
       "description": "配偶者や子どもの同伴滞在を認め長期バケーション滞在を支援。",
+      "descriptionStandard": "家族帯同を完全公認",
+      "descriptionSimple": "家族帯同を完全公認",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

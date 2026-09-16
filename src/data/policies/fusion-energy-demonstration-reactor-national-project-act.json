@@ -1,8 +1,8 @@
 {
   "id": "fusion-energy-demonstration-reactor-national-project-act",
   "title": "核融合発電実証炉（原型炉）開発推進基本法と産官学コンソーシアム",
-  "category": "technology-dx",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "究極のクリーンエネルギーとされる「核融合エネルギー」について、2030年代の実証炉（原型炉）による発電実証を目指す国家推進法を制定する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "核融合発電",
-      "variant": "purple"
+      "text": "核融合発電",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "ディープテック",
-      "variant": "blue"
+      "text": "ディープテック",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "次世代エネルギー",
-      "variant": "green"
+      "text": "次世代エネルギー",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "発電実証目標時期",
+      "label": "発電実証目標時期",
+      "labelStandard": "発電実証目標時期",
+      "labelSimple": "発電実証目標時期",
       "value": "2030",
       "unit": "年代半ば",
+      "oldValue": "現行",
       "description": "世界に先駆けて核融合によるネット出力発電実証を目指す目標年次",
-      "trend": "up",
-      "trendLabel": "開発加速"
+      "descriptionStandard": "発電実証目標時期",
+      "descriptionSimple": "発電実証目標時期",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "燃料の豊富さ（海水利用）",
+      "label": "燃料の豊富さ（海水利用）",
+      "labelStandard": "燃料の豊富さ（海水利用）",
+      "labelSimple": "燃料の豊富さ（海水利用）",
       "value": "数億",
       "unit": "年分",
+      "oldValue": "現行",
       "description": "海水中に含まれる重水素とリチウムを燃料とし、無尽蔵のエネルギー源となる",
-      "trend": "neutral",
-      "trendLabel": "無尽蔵資源"
+      "descriptionStandard": "燃料の豊富さ（海水利用）",
+      "descriptionSimple": "燃料の豊富さ（海水利用）",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

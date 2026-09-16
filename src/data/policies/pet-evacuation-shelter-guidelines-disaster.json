@@ -129,58 +129,76 @@
   "badges": [
     {
       "label": "ペット同行避難の体制化",
-      "variant": "neutral"
+      "text": "ペット同行避難の体制化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "車中泊死の二次被害防止",
-      "variant": "neutral"
+      "text": "車中泊死の二次被害防止",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "アレルギー完全分離区画",
-      "variant": "neutral"
+      "text": "アレルギー完全分離区画",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "車中泊死の二次被害",
+      "label": "",
       "labelStandard": "車中泊死の二次被害",
+      "labelSimple": "車中泊死の二次被害",
       "value": "血栓症死",
       "unit": "を防ぐ人命救助",
       "oldValue": "ペット不可で車中泊し体調急変",
       "description": "避難所にペットと逃げ込める体制を確立",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "車中泊死ゼロへ",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "HeartPulse"
     },
     {
-      "labelSimple": "避難所のゾーニング",
+      "label": "",
       "labelStandard": "避難所のゾーニング",
+      "labelSimple": "避難所のゾーニング",
       "value": "完全別棟",
       "unit": "・ドームテント配備",
       "oldValue": "一般被災者と同室でトラブル多発",
       "description": "アレルギー患者を守る完全分離スペース",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "アレルギー完全分離",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Home"
     },
     {
-      "labelSimple": "飼い主の事前準備",
+      "label": "",
       "labelStandard": "飼い主の事前準備",
+      "labelSimple": "飼い主の事前準備",
       "value": "5日分",
       "unit": "以上のフード備蓄",
       "oldValue": "手ぶら避難で避難所物資を圧迫",
       "description": "ケージ慣れ・狂犬病予防接種証明の携行",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "飼い主の備え義務",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "避難所受入れ事前指定",
+      "label": "",
       "labelStandard": "避難所受入れ事前指定",
+      "labelSimple": "避難所受入れ事前指定",
       "value": "全国自治体",
       "unit": "で防災計画改定",
       "oldValue": "各避難所の現場判断で拒否多発",
       "description": "受入れ可能避難所を平時から公表",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "受入れ事前公表",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "MapPin"

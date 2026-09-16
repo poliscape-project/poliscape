@@ -1,0 +1,227 @@
+{
+  "id": "rare-intractable-disease-whole-genome-sequencing-consortium",
+  "title": "希少難病全ゲノム解析等実行計画・拠点病院連携コンソーシアム",
+  "catchphrase": "原因不明の難病に遺伝子の光を当てる。全ゲノム解析で確定診断と個別化医療を加速",
+  "category": "healthcare",
+  "categoryLabel": "医療・福祉",
+  "lastUpdated": "2026-03-31",
+  "status": "enacted",
+  "statusLabel": "国家プロジェクト推進中",
+  "summary": {
+    "standard": [
+      "原因不明の希少難病や小児慢性特定疾患患者を対象に、全ゲノムシークエンス（WGS）解析を公費負担で実施する国家プロジェクトを推進",
+      "全国の難病ゲノム医療拠点病院と中央ゲノム解析センターを直結し、数万件規模のゲノムデータベースを構築して未診断疾患の確定診断率を向上",
+      "国際データベースとの連携により新規原因遺伝子を発見し、標的治療薬や遺伝子治療の開発を加速"
+    ],
+    "simple": [
+      "原因がわからない珍しい難病の人を対象に、体の設計図である『ゲノム』を丸ごと調べて原因を見つける国のプロジェクトです",
+      "病名がわからず不安だった患者さんに正しい診断を届け、新しい薬や治療法の開発につなげます"
+    ]
+  },
+  "background": {
+    "historical": "希少難病は国内に数千疾患存在し、診断がつくまでに平均5〜7年かかる「診断の旅（Diagnostic Odyssey）」が患者・家族の大きな苦痛だった。個別の遺伝子検査では原因特定が難しく、全DNA配列を一度に読む全ゲノム解析（WGS）の臨床実装が急務とされていた。",
+    "simple": "珍しい難病は原因がわかりにくく、何年も何軒もの病院を回る人が多くいました。遺伝子を全部調べることで、早く原因を突き止めて適切な治療を行えるようにしています。"
+  },
+  "changes": [
+    {
+      "id": "change-1",
+      "topic": "未診断難病の全ゲノム公費解析",
+      "before": "従来の遺伝子パネル検査は既知の特定遺伝子しか調べられず、多くの未診断患者が原因不明のまま放置されていた",
+      "after": "患者・両親トリオ（3者）の全ゲノム解析を公費事業として実施し、確定診断率を大幅に向上",
+      "highlight": "全ゲノムシークエンスの公費解析",
+      "icon": "Cpu"
+    },
+    {
+      "id": "change-2",
+      "topic": "全国難病ゲノムデータ共有網",
+      "before": "各大学病院が独自に保有する症例データが分断され、日本全体での希少症例のマッチングが困難だった",
+      "after": "中央データセンターに匿名化ゲノムと臨床表現型を集約し、AI解析による自動マッチング基盤を稼働",
+      "highlight": "全国一元化ゲノム解析プラットフォーム",
+      "icon": "Database"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される主な効果・メリット（推進側の視点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "診断確定による精神的救済と治療最適化",
+        "summary": "長年の診断不明状態から脱却でき、病態に応じた最適な対症療法や治験への参加機会が得られる。",
+        "detail": "長年の診断不明状態から脱却でき、病態に応じた最適な対症療法や治験への参加機会が得られる。",
+        "simpleDetail": "病名がはっきりすることで患者さんの不安が和らぎ、合う薬や治験を見つけやすくなります。",
+        "tag": "診断確定"
+      },
+      {
+        "id": "b2",
+        "title": "創薬イノベーションの加速",
+        "summary": "集積されたゲノムデータが製薬企業やバイオベンチャーに提供され、難病治療薬の開発が加速する。",
+        "detail": "集積されたゲノムデータが製薬企業やバイオベンチャーに提供され、難病治療薬の開発が加速する。",
+        "simpleDetail": "多くのデータを集めることで、これまでなかった新しい特効薬の開発が進みます。",
+        "tag": "新薬開発"
+      }
+    ],
+    "challengesTitle": "検討されている課題・懸念点（慎重側の視点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "遺伝情報のプライバシーとカウンセリング",
+        "summary": "二次的所見（偶然見つかった別疾患リスク）の開示基準や、高度な遺伝カウンセラーの全国的不足が課題。",
+        "detail": "二次的所見（偶然見つかった別疾患リスク）の開示基準や、高度な遺伝カウンセラーの全国的不足が課題。",
+        "simpleDetail": "遺伝子の秘密を守るルール作りや、結果をわかりやすく説明できる専門相談員の育成が必要です。",
+        "tag": "遺伝倫理"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2022年",
+      "label": "全ゲノム解析等実行計画策定",
+      "title": "全ゲノム解析等実行計画策定",
+      "status": "completed",
+      "description": "政府が難病・がん分野での全ゲノム解析推進基本方針を策定"
+    },
+    {
+      "date": "2024年",
+      "label": "拠点病院コンソーシアム設立",
+      "title": "拠点病院コンソーシアム設立",
+      "status": "completed",
+      "description": "全国の難病ゲノム医療拠点病院が連携し年間数千件規模の解析を開始"
+    },
+    {
+      "date": "2026年",
+      "label": "全ゲノム難病診断の標準保険適用へ",
+      "title": "全ゲノム難病診断の標準保険適用へ",
+      "status": "current",
+      "description": "公費事業から公的医療保険収載への段階的移行計画が進行中"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "厚生労働省",
+      "title": "全ゲノム解析等実行計画（難病分野）",
+      "url": "https://www.mhlw.go.jp"
+    },
+    {
+      "organization": "AMED（日本医療研究開発機構）",
+      "title": "未診断疾患イニシアチブ（IRUD）プロジェクト",
+      "url": "https://www.amed.go.jp"
+    }
+  ],
+  "badges": [
+    {
+      "label": "ゲノム医療",
+      "text": "ゲノム医療",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "難病対策",
+      "text": "難病対策",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "医療イノベーション",
+      "text": "医療イノベーション",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "遺伝子解析",
+      "text": "遺伝子解析",
+      "variant": "positive",
+      "color": "blue"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "解析規模",
+      "labelStandard": "解析規模",
+      "labelSimple": "解析規模",
+      "value": "数万例",
+      "unit": "規模",
+      "oldValue": "数十例",
+      "description": "国家事業として希少難病患者とその家族の全ゲノムを網羅的に解析",
+      "descriptionStandard": "国家事業として希少難病患者とその家族の全ゲノムを網羅的に解析",
+      "descriptionSimple": "何万人もの患者さんとご家族の遺伝子データをまとめて分析",
+      "badge": "国家計画",
+      "badgeColor": "blue",
+      "icon": "Cpu"
+    },
+    {
+      "label": "確定診断率",
+      "labelStandard": "確定診断率",
+      "labelSimple": "確定診断率",
+      "value": "約40%",
+      "unit": "到達",
+      "oldValue": "10%未満",
+      "description": "従来の個別検査では分からなかった未診断疾患の原因を特定",
+      "descriptionStandard": "従来の個別検査では分からなかった未診断疾患の原因を特定",
+      "descriptionSimple": "今まで原因不明だった人の約4割で病気の正体を突き止めることに成功",
+      "badge": "成果",
+      "badgeColor": "blue",
+      "icon": "TrendingUp"
+    },
+    {
+      "label": "患者負担",
+      "labelStandard": "患者負担",
+      "labelSimple": "患者負担",
+      "value": "公費全額",
+      "unit": "負担",
+      "oldValue": "自費数十万円",
+      "description": "解析費用（1人あたり数十万円）を研究事業・公費で全額カバー",
+      "descriptionStandard": "解析費用（1人あたり数十万円）を研究事業・公費で全額カバー",
+      "descriptionSimple": "高額な遺伝子検査の費用を国が全額負担して患者さんの負担をゼロに",
+      "badge": "公費支援",
+      "badgeColor": "blue",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "原因不明の神経難病患者の母親（30代）",
+        "commentStandard": "10年間どこの病院でも病名がつかず途方に暮れていましたが、全ゲノム解析で原因遺伝子が判明し、同じ病気の仲間とつながれました。",
+        "commentSimple": "10年間ずっと原因がわからなかった子どもの病名がようやく判明し、目の前が明るくなりました。"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "臨床遺伝専門医（40代）",
+        "commentStandard": "診断がついたとしても治療法がまだ確立されていないケースも多く、結果告知後の心理的ケア体制が不可欠です。",
+        "commentSimple": "原因がわかってもすぐに治せる薬がない場合もあるため、患者さんの気持ちを支えるケアがとても大切です。"
+      }
+    ]
+  },
+  "international": {
+    "summary": "英国の10万人ゲノムプロジェクトをはじめ、欧米各国が国家インフラとして全ゲノム医療を公的保険や国費で配備",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "UK",
+        "flag": "🇬🇧",
+        "systemName": "NHSゲノム医療サービス（Genomics England）",
+        "keyFeature": "世界で初めて国民保健サービス（NHS）のルーチン診療に全ゲノムシークエンスを組み込み難病を診断。",
+        "comparison": "世界で初めて国民保健サービス（NHS）のルーチン診療に全ゲノムシークエンスを組み込み難病を診断。",
+        "source": {
+          "organization": "Genomics England",
+          "title": "100,000 Genomes Project Results",
+          "url": "https://www.genomicsengland.co.uk"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "NIH未診断疾患ネットワーク（UDN）",
+        "keyFeature": "全米12の高度臨床拠点で全ゲノム解析を行い、未診断患者の約30%に確定診断を提供。",
+        "comparison": "全米12の高度臨床拠点で全ゲノム解析を行い、未診断患者の約30%に確定診断を提供。",
+        "source": {
+          "organization": "米国立衛生研究所（NIH）",
+          "title": "Undiagnosed Diseases Network",
+          "url": "https://undiagnosed.hms.harvard.edu"
+        }
+      }
+    ]
+  }
+}

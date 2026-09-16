@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "電子公証解禁",
-      "variant": "positive"
+      "text": "電子公証解禁",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "Web面接・電子原本",
-      "variant": "positive"
+      "text": "Web面接・電子原本",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "強要・なりすまし防止",
-      "variant": "warning"
+      "text": "強要・なりすまし防止",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "大改革",
+      "labelStandard": "大改革",
+      "labelSimple": "大改革",
       "value": "完全非対面の公正証書作成",
+      "unit": "",
+      "oldValue": "現行",
       "description": "Web会議とマイナ電子署名により役場への出頭不要",
+      "descriptionStandard": "大改革",
+      "descriptionSimple": "大改革",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "対象手続",
+      "labelStandard": "対象手続",
+      "labelSimple": "対象手続",
       "value": "遺言・養育費・契約・定款",
+      "unit": "",
+      "oldValue": "現行",
       "description": "強力な強制執行力を持つ公正証書をオンライン完結",
+      "descriptionStandard": "対象手続",
+      "descriptionSimple": "対象手続",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "本人確認",
+      "labelStandard": "本人確認",
+      "labelSimple": "本人確認",
       "value": "公的個人認証×公証人面接",
+      "unit": "",
+      "oldValue": "現行",
       "description": "マイナンバーカードと専門家による厳格な自由意思確認",
+      "descriptionStandard": "本人確認",
+      "descriptionSimple": "本人確認",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

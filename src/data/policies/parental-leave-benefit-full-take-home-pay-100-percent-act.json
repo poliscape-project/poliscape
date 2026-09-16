@@ -4,7 +4,7 @@
   "catchphrase": "収入減を気にせず夫婦で育休を。産後パパ育休等の給付率を引き上げ手取り実質100%を完全保障",
   "category": "labor",
   "categoryLabel": "労働・子育て両立",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "手取り10割育休",
-      "variant": "purple"
+      "text": "手取り10割育休",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "産後パパ育休",
-      "variant": "blue"
+      "text": "産後パパ育休",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "男性育休",
-      "variant": "green"
+      "text": "男性育休",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "休業時手取り保障率",
+      "label": "休業時手取り保障率",
+      "labelStandard": "休業時手取り保障率",
+      "labelSimple": "休業時手取り保障率",
       "value": "100",
       "unit": "%（実質手取り）",
+      "oldValue": "現行",
       "description": "給付率額面80%＋社会保険料免除＋非課税により達成される休業前手取り賃金の満額保障率",
-      "trend": "up",
-      "trendLabel": "満額手取り"
+      "descriptionStandard": "休業時手取り保障率",
+      "descriptionSimple": "休業時手取り保障率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "男性育休取得率目標",
+      "label": "男性育休取得率目標",
+      "labelStandard": "男性育休取得率目標",
+      "labelSimple": "男性育休取得率目標",
       "value": "85",
       "unit": "%",
+      "oldValue": "現行",
       "description": "2030年までに達成を目指す民間企業における男性の育児休業取得率国家目標",
-      "trend": "up",
-      "trendLabel": "取得急拡大"
+      "descriptionStandard": "男性育休取得率目標",
+      "descriptionSimple": "男性育休取得率目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

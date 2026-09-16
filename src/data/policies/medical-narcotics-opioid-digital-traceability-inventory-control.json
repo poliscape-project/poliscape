@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "処方・管理事務時間",
+      "labelStandard": "処方・管理事務時間",
+      "labelSimple": "処方・管理事務時間",
       "value": "約60",
       "unit": "%削減（電子化）",
       "oldValue": "手書き麻薬帳簿の二重記帳",
       "description": "電子処方箋連携により調剤・帳簿突合作業を自動化",
+      "descriptionStandard": "処方・管理事務時間",
+      "descriptionSimple": "処方・管理事務時間",
       "badge": "事務効率化",
       "badgeColor": "blue",
       "icon": "clock"
     },
     {
       "label": "残薬回収確認率",
+      "labelStandard": "残薬回収確認率",
+      "labelSimple": "残薬回収確認率",
       "value": "95",
       "unit": "%以上（在宅緩和ケア）",
       "oldValue": "約50%が家庭内放置",
       "description": "訪問薬剤師・看護師によるシリアル追跡と立会廃棄の徹底",
+      "descriptionStandard": "残薬回収確認率",
+      "descriptionSimple": "残薬回収確認率",
       "badge": "不正流出防止",
       "badgeColor": "green",
       "icon": "shield-check"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

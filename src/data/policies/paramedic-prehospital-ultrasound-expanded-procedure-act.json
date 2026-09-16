@@ -1,8 +1,8 @@
 {
   "id": "paramedic-prehospital-ultrasound-expanded-procedure-act",
   "title": "救急救命士による病院前超音波（エコー）検査等の処置範囲拡大",
-  "category": "safety-disaster",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "心肺停止前や重度外傷の救急現場において、高度救急救命士（認定救命士）が救急車内や現場でポータブル超音波（エコー）検査を実施できるように処置範囲を拡大する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "救急医療",
-      "variant": "blue"
+      "text": "救急医療",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "医療DX",
-      "variant": "green"
+      "text": "医療DX",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "防災・安全",
-      "variant": "purple"
+      "text": "防災・安全",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "手術開始までの短縮時間",
+      "label": "手術開始までの短縮時間",
+      "labelStandard": "手術開始までの短縮時間",
+      "labelSimple": "手術開始までの短縮時間",
       "value": "20",
       "unit": "分短縮",
+      "oldValue": "現行",
       "description": "搬送中の画像共有により初療室到着から緊急開腹・開胸手術までの時間を大幅削減",
-      "trend": "down",
-      "trendLabel": "治療開始迅速化"
+      "descriptionStandard": "手術開始までの短縮時間",
+      "descriptionSimple": "手術開始までの短縮時間",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "エコー検査所要時間基準",
+      "label": "エコー検査所要時間基準",
+      "labelStandard": "エコー検査所要時間基準",
+      "labelSimple": "エコー検査所要時間基準",
       "value": "2",
       "unit": "分以内",
+      "oldValue": "現行",
       "description": "現場滞在時間の延長を防ぐため迅速スクリーニング基準を厳格化",
-      "trend": "neutral",
-      "trendLabel": "迅速性基準"
+      "descriptionStandard": "エコー検査所要時間基準",
+      "descriptionSimple": "エコー検査所要時間基準",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

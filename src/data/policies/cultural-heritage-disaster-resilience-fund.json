@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "文化財防災基金",
-      "variant": "positive"
+      "text": "文化財防災基金",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "消火設備義務化",
-      "variant": "positive"
+      "text": "消火設備義務化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "政教分離の配慮",
-      "variant": "warning"
+      "text": "政教分離の配慮",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "基金規模",
+      "labelStandard": "基金規模",
+      "labelSimple": "基金規模",
       "value": "数百億円規模の官民基金",
+      "unit": "",
+      "oldValue": "現行",
       "description": "単年度予算を超えた永続的な耐震・防火補強支援",
+      "descriptionStandard": "基金規模",
+      "descriptionSimple": "基金規模",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "ハード対策",
+      "labelStandard": "ハード対策",
+      "labelSimple": "ハード対策",
       "value": "自動放水銃・水幕設備",
+      "unit": "",
+      "oldValue": "現行",
       "description": "木造建築の延焼を数分で遮断する高度消火システム",
+      "descriptionStandard": "ハード対策",
+      "descriptionSimple": "ハード対策",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "レスキュー",
+      "labelStandard": "レスキュー",
+      "labelSimple": "レスキュー",
       "value": "文化財防災センター常設",
+      "unit": "",
+      "oldValue": "現行",
       "description": "被災直後の美術工芸品・古文書の専門修命チーム派遣",
+      "descriptionStandard": "レスキュー",
+      "descriptionSimple": "レスキュー",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

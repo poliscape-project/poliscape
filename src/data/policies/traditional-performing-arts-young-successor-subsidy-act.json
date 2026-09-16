@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "研修生活支援手当",
+      "labelStandard": "研修生活支援手当",
+      "labelSimple": "研修生活支援手当",
       "value": "15",
       "unit": "万円/月",
       "oldValue": "交通費のみ（数万円）",
       "description": "修業期間中の生活を保障しアルバイトなしでの技芸専念を実現",
+      "descriptionStandard": "研修生活支援手当",
+      "descriptionSimple": "研修生活支援手当",
       "badge": "生活保障",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "支援対象分野数",
+      "labelStandard": "支援対象分野数",
+      "labelSimple": "支援対象分野数",
       "value": "12",
       "unit": "分野",
       "oldValue": "歌舞伎・文楽等の一部",
       "description": "能楽・狂言・邦楽・日本舞踊・民俗芸能等へ幅広く対象拡大",
+      "descriptionStandard": "支援対象分野数",
+      "descriptionSimple": "支援対象分野数",
       "badge": "分野拡大",
       "badgeColor": "blue",
       "icon": "sparkles"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "副業・兼業",
-      "variant": "positive"
+      "text": "副業・兼業",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "働き方改革",
-      "variant": "positive"
+      "text": "働き方改革",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "セーフティネット",
-      "variant": "neutral"
+      "text": "セーフティネット",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "全社合算での労災補償",
+      "labelStandard": "全社合算での労災補償",
+      "labelSimple": "全社合算での労災補償",
       "value": "全社合算での労災補償",
+      "unit": "",
+      "oldValue": "現行",
       "description": "すべての勤務先の賃金を合算した水準で休業・遺族給付を支給。",
+      "descriptionStandard": "全社合算での労災補償",
+      "descriptionSimple": "全社合算での労災補償",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "過重労働の合算チェック",
+      "labelStandard": "過重労働の合算チェック",
+      "labelSimple": "過重労働の合算チェック",
       "value": "過重労働の合算チェック",
+      "unit": "",
+      "oldValue": "現行",
       "description": "2社以上の労働時間を統合して過労死ラインを超える危険を未然防止。",
+      "descriptionStandard": "過重労働の合算チェック",
+      "descriptionSimple": "過重労働の合算チェック",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "掛け持ちパートの社保加入",
+      "labelStandard": "掛け持ちパートの社保加入",
+      "labelSimple": "掛け持ちパートの社保加入",
       "value": "掛け持ちパートの社保加入",
+      "unit": "",
+      "oldValue": "現行",
       "description": "複数社合算で週20時間を満たせば厚生年金・健康保険を按分適用。",
+      "descriptionStandard": "掛け持ちパートの社保加入",
+      "descriptionSimple": "掛け持ちパートの社保加入",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

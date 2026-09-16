@@ -1,8 +1,8 @@
 {
   "id": "additive-manufacturing-3d-printing-small-mfg-tax-break",
   "title": "航空宇宙・医療用金属3Dプリンタ（積層造形）導入中小企業支援税制",
-  "category": "economy-industry",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "金属粉末をレーザーで溶融積層し、従来の切削加工では不可能な複雑・軽量部品（ジェットエンジンノズル、人工関節インプラント等）を一体成形する「金属3Dプリンタ（アディティブ・マニュファクチャリング：AM）」の中小製造業への導入を支援する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "ものづくりDX",
-      "variant": "blue"
+      "text": "ものづくりDX",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "3Dプリンタ",
-      "variant": "green"
+      "text": "3Dプリンタ",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "航空宇宙産業",
-      "variant": "purple"
+      "text": "航空宇宙産業",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "部品軽量化効果",
+      "label": "部品軽量化効果",
+      "labelStandard": "部品軽量化効果",
+      "labelSimple": "部品軽量化効果",
       "value": "40",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "トポロジー最適化（構造最適設計）による航空機・ロケット部品の劇的軽量化",
-      "trend": "down",
-      "trendLabel": "圧倒的軽量化"
+      "descriptionStandard": "部品軽量化効果",
+      "descriptionSimple": "部品軽量化効果",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "材料廃棄ロス削減",
+      "label": "材料廃棄ロス削減",
+      "labelStandard": "材料廃棄ロス削減",
+      "labelSimple": "材料廃棄ロス削減",
       "value": "90",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "塊からの削り出しに比べ、必要な部分だけに粉末を溶かすことによる素材ロス激減",
-      "trend": "down",
-      "trendLabel": "省資源化"
+      "descriptionStandard": "材料廃棄ロス削減",
+      "descriptionSimple": "材料廃棄ロス削減",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

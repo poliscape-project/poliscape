@@ -1,8 +1,8 @@
 {
   "id": "spinal-cord-injury-regenerative-stem-cell-rehab-grant",
   "title": "脊髄損傷患者向け自己骨髄幹細胞治療と集中リハビリ支援給付",
-  "category": "health-medical",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "交通事故やスポーツ事故等による重度脊髄損傷に対し、自己の骨髄間葉系幹細胞を体外培養して静脈内投与する再生医療等製品（ステミラック注等）の投与機会を全国で均てん化する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "再生医療",
-      "variant": "blue"
+      "text": "再生医療",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "高度医療",
-      "variant": "purple"
+      "text": "高度医療",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "リハビリ支援",
-      "variant": "green"
+      "text": "リハビリ支援",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "機能改善率（AISスコア）",
+      "label": "機能改善率（AISスコア）",
+      "labelStandard": "機能改善率（AISスコア）",
+      "labelSimple": "機能改善率（AISスコア）",
       "value": "75",
       "unit": "%以上",
+      "oldValue": "現行",
       "description": "臨床試験において1段階以上の麻痺重症度（AIS）改善が認められた患者割合",
-      "trend": "up",
-      "trendLabel": "運動機能改善"
+      "descriptionStandard": "機能改善率（AISスコア）",
+      "descriptionSimple": "機能改善率（AISスコア）",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "年間新規受傷者数",
+      "label": "年間新規受傷者数",
+      "labelStandard": "年間新規受傷者数",
+      "labelSimple": "年間新規受傷者数",
       "value": "5,000",
       "unit": "人",
+      "oldValue": "現行",
       "description": "国内で新たに発生する脊髄損傷患者の総数（早期アクセスの対象）",
-      "trend": "neutral",
-      "trendLabel": "年間受傷規模"
+      "descriptionStandard": "年間新規受傷者数",
+      "descriptionSimple": "年間新規受傷者数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

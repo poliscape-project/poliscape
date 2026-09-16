@@ -1,0 +1,264 @@
+{
+  "id": "local-government-open-data-standard-api-mandate",
+  "title": "自治体保有オープンデータの標準データセットAPI化・完全無償公開",
+  "category": "digital",
+  "subcategory": "オープンデータ・官民データ活用・自治体DX",
+  "catchphrase": "行政データを社会の共有財産へ！自治体オープンデータの共通フォーマット・Web API無料開放",
+  "lastUpdated": "2026-03-28",
+  "status": "enacted",
+  "statusLabel": "標準化推進中",
+  "summary": {
+    "simple": [
+      "全国の市役所や県庁が持っている避難所の場所やAEDの設置場所、公共施設の開館時間などのデータを、共通の形式（API）で誰でも無料でダウンロードしてアプリ開発などに使えるようにする制度です。",
+      "わかりやすい支援を進めます。"
+    ],
+    "standard": [
+      "全国の地方自治体が保有する公共データ（防災拠点、公衆トイレ、文化施設、イベント情報、統計情報等）について、デジタル庁の「推奨データセット」に準拠した機械判読可能な標準フォーマットでのオープンデータ化を義務付け、Web API経由での無料利用環境を全国整備する施策。",
+      "行政データを社会の共有財産へ！自治体オープンデータの共通フォーマット・Web API無料開放"
+    ]
+  },
+  "background": {
+    "simple": "これまで各自治体がデータをPDFやバラバラな表計算ファイルで公開していたため、民間の地図アプリや防災アプリが全国一括で情報を取り込めない問題がありました。",
+    "standard": "官民データ活用推進基本法に基づきオープンデータ化が進められてきたが、自治体ごとに項目名や文字コードが異なり、PDF画像化された使えないデータが散見された。民間企業やCivicTech（シビックテック）が全国規模の革新的なWebサービスやAIソリューションを開発できるよう、完全標準化とAPI化が急務となった。"
+  },
+  "changes": [
+    {
+      "id": "change-1",
+      "topic": "デジタル庁が定める「推奨データセット（第2版以降）...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "デジタル庁が定める「推奨データセット（第2版以降）」への完全準拠と定期更新の自治体義務化",
+      "highlight": "デジタル庁が定める「推奨データセット（第2版以降）」への完全",
+      "icon": "FileCheck"
+    },
+    {
+      "id": "change-2",
+      "topic": "自治体標準クラウド（ガバメントクラウド）上でのオー...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "自治体標準クラウド（ガバメントクラウド）上でのオープンデータ自動API生成機能の標準実装",
+      "highlight": "自治体標準クラウド（ガバメントクラウド）上でのオープンデータ",
+      "icon": "TrendingUp"
+    },
+    {
+      "id": "change-3",
+      "topic": "商用利用・二次利用を無条件で認めるCC BY（クリ...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "商用利用・二次利用を無条件で認めるCC BY（クリエイティブ・コモンズ表示）ライセンスの原則適用",
+      "highlight": "商用利用・二次利用を無条件で認めるCC BY（クリエイティブ",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される主な効果・メリット（推進側の視点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "スタートアップやアプリ開発者が全国統一のAPIから...",
+        "summary": "スタートアップやアプリ開発者が全国統一のAPIから即座にデータを取得でき、全国対応の防災・子育て・観光アプリの開発速度が劇的に向上",
+        "detail": "スタートアップやアプリ開発者が全国統一のAPIから即座にデータを取得でき、全国対応の防災・子育て・観光アプリの開発速度が劇的に向上",
+        "simpleDetail": "スタートアップやアプリ開発者が全国統一のAPIから即座にデータを取得でき、全国対応の防災・子育て・観光アプリの開発速度が劇的に向上",
+        "tag": "期待・効果"
+      },
+      {
+        "id": "b2",
+        "title": "行政の透明性（オープンガバメント）が飛躍的に向上し...",
+        "summary": "行政の透明性（オープンガバメント）が飛躍的に向上し、市民によるデータに基づく政策提言や地域課題解決が進む",
+        "detail": "行政の透明性（オープンガバメント）が飛躍的に向上し、市民によるデータに基づく政策提言や地域課題解決が進む",
+        "simpleDetail": "行政の透明性（オープンガバメント）が飛躍的に向上し、市民によるデータに基づく政策提言や地域課題解決が進む",
+        "tag": "期待・効果"
+      },
+      {
+        "id": "b3",
+        "title": "自治体自身も他自治体との比較分析やEBPM（証拠に...",
+        "summary": "自治体自身も他自治体との比較分析やEBPM（証拠に基づく政策立案）が容易になる",
+        "detail": "自治体自身も他自治体との比較分析やEBPM（証拠に基づく政策立案）が容易になる",
+        "simpleDetail": "自治体自身も他自治体との比較分析やEBPM（証拠に基づく政策立案）が容易になる",
+        "tag": "期待・効果"
+      }
+    ],
+    "challengesTitle": "検討されている課題・懸念点（慎重側の視点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "小規模町村自治体におけるオープンデータ専任担当者の...",
+        "summary": "小規模町村自治体におけるオープンデータ専任担当者の不足とデータ整備・更新の人的コスト",
+        "detail": "小規模町村自治体におけるオープンデータ専任担当者の不足とデータ整備・更新の人的コスト",
+        "simpleDetail": "小規模町村自治体におけるオープンデータ専任担当者の不足とデータ整備・更新の人的コスト",
+        "tag": "課題・懸念"
+      },
+      {
+        "id": "c2",
+        "title": "誤ったデータが民間に取り込まれて誤案内が起きた際の...",
+        "summary": "誤ったデータが民間に取り込まれて誤案内が起きた際の免責ルールとデータ品質の継続的保証",
+        "detail": "誤ったデータが民間に取り込まれて誤案内が起きた際の免責ルールとデータ品質の継続的保証",
+        "simpleDetail": "誤ったデータが民間に取り込まれて誤案内が起きた際の免責ルールとデータ品質の継続的保証",
+        "tag": "課題・懸念"
+      },
+      {
+        "id": "c3",
+        "title": "個人情報や機微な位置情報（保護施設等）の誤公開を防...",
+        "summary": "個人情報や機微な位置情報（保護施設等）の誤公開を防止する厳格なチェック体制の維持",
+        "detail": "個人情報や機微な位置情報（保護施設等）の誤公開を防止する厳格なチェック体制の維持",
+        "simpleDetail": "個人情報や機微な位置情報（保護施設等）の誤公開を防止する厳格なチェック体制の維持",
+        "tag": "課題・懸念"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020年",
+      "label": "デジタル庁による自治体オープンデータ推奨データセッ...",
+      "title": "デジタル庁による自治体オープンデータ推奨データセットの改訂",
+      "status": "completed",
+      "description": "デジタル庁による自治体オープンデータ推奨データセットの改訂"
+    },
+    {
+      "date": "2023年",
+      "label": "地方自治体のオープンデータ取組率がほぼ100%に到...",
+      "title": "地方自治体のオープンデータ取組率がほぼ100%に到達（標準化へのシフト）",
+      "status": "completed",
+      "description": "地方自治体のオープンデータ取組率がほぼ100%に到達（標準化へのシフト）"
+    },
+    {
+      "date": "2025年",
+      "label": "ガバメントクラウド標準API連携基盤による全国自治...",
+      "title": "ガバメントクラウド標準API連携基盤による全国自治体データの自動公開開始",
+      "status": "current",
+      "description": "ガバメントクラウド標準API連携基盤による全国自治体データの自動公開開始"
+    }
+  ],
+  "sources": [
+    {
+      "title": "デジタル庁：オープンデータの推進（推奨データセット・APIカタログ）",
+      "url": "https://www.digital.go.jp/policies/open_data"
+    },
+    {
+      "title": "総務省：地方公共団体におけるオープンデータの推進",
+      "url": "https://www.soumu.go.jp/menu_seisaku/ict/opendata/index.html"
+    }
+  ],
+  "badges": [
+    {
+      "label": "オープンデータ",
+      "text": "オープンデータ",
+      "variant": "primary",
+      "color": "blue"
+    },
+    {
+      "label": "Web API",
+      "text": "Web API",
+      "variant": "default",
+      "color": "blue"
+    },
+    {
+      "label": "シビックテック",
+      "text": "シビックテック",
+      "variant": "outline",
+      "color": "blue"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "標準データセット",
+      "labelStandard": "標準データセット",
+      "labelSimple": "標準データセット",
+      "value": "推奨基準準拠",
+      "unit": "（全国共通フォーマット）",
+      "oldValue": "現行",
+      "description": "標準データセット",
+      "descriptionStandard": "標準データセット",
+      "descriptionSimple": "標準データセット",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
+    },
+    {
+      "label": "利用ライセンス",
+      "labelStandard": "利用ライセンス",
+      "labelSimple": "利用ライセンス",
+      "value": "CC BY標準",
+      "unit": "（商用・無料利用可）",
+      "oldValue": "現行",
+      "description": "利用ライセンス",
+      "descriptionStandard": "利用ライセンス",
+      "descriptionSimple": "利用ライセンス",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
+    },
+    {
+      "label": "提供インターフェース",
+      "labelStandard": "提供インターフェース",
+      "labelSimple": "提供インターフェース",
+      "value": "Web API対応",
+      "unit": "（リアルタイム連携）",
+      "oldValue": "現行",
+      "description": "提供インターフェース",
+      "descriptionStandard": "提供インターフェース",
+      "descriptionSimple": "提供インターフェース",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "TrendingUp"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "推進派・利用者の声",
+        "commentStandard": "早期の実装を期待しています。",
+        "commentSimple": "期待しています。"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "専門家・現場の声",
+        "commentStandard": "現場への丁寧な配慮が必要です。",
+        "commentSimple": "課題への配慮が必要です。"
+      }
+    ]
+  },
+  "international": {
+    "summary": "海外主要国における関連施策の比較と最新動向",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "アメリカの関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "アメリカ関係公的機関",
+          "title": "アメリカにおける制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "UK",
+        "flag": "🇬🇧",
+        "systemName": "イギリスの関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "イギリス関係公的機関",
+          "title": "イギリスにおける制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      },
+      {
+        "country": "台湾",
+        "countryCode": "TW",
+        "flag": "🇹🇼",
+        "systemName": "台湾の関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "台湾関係公的機関",
+          "title": "台湾における制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      }
+    ]
+  },
+  "categoryLabel": "産業・技術・デジタル"
+}

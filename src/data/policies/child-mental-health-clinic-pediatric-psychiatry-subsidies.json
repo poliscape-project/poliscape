@@ -2,7 +2,7 @@
   "id": "child-mental-health-clinic-pediatric-psychiatry-subsidies",
   "title": "児童精神科・思春期メンタルヘルス支援強化（専門クリニック開設助成と診療報酬重点化）",
   "catchphrase": "予約半年待ちの児童精神科を救う。子どものうつ・不登校・トラウマに対応する思春期専門医の育成とクリニック開設支援",
-  "category": "social",
+  "category": "society",
   "categoryLabel": "社会保障・医療・こども家庭",
   "lastUpdated": "2024-04-15",
   "effectiveDate": "2024年4月改定・順次拡充",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "児童精神科拡充",
-      "variant": "positive"
+      "text": "児童精神科拡充",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "子ども自殺防止",
-      "variant": "positive"
+      "text": "子ども自殺防止",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "専門医育成不足課題",
-      "variant": "warning"
+      "text": "専門医育成不足課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "診療報酬",
+      "labelStandard": "診療報酬",
+      "labelSimple": "診療報酬",
       "value": "思春期特定管理料引き上げ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "時間をかけた子どものチームカウンセリングを正当評価",
+      "descriptionStandard": "診療報酬",
+      "descriptionSimple": "診療報酬",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     },
     {
       "label": "開設支援",
+      "labelStandard": "開設支援",
+      "labelSimple": "開設支援",
       "value": "初期投資費用の半額補助",
+      "unit": "",
+      "oldValue": "現行",
       "description": "地方都市での児童思春期専門クリニック新設を後押し",
+      "descriptionStandard": "開設支援",
+      "descriptionSimple": "開設支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "学校連携",
+      "labelStandard": "学校連携",
+      "labelSimple": "学校連携",
       "value": "緊急トリアージ受診枠",
+      "unit": "",
+      "oldValue": "現行",
       "description": "スクールカウンセラーからの重大SOSを優先受入",
+      "descriptionStandard": "学校連携",
+      "descriptionSimple": "学校連携",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

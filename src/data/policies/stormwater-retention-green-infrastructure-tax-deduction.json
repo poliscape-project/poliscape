@@ -1,8 +1,8 @@
 {
   "id": "stormwater-retention-green-infrastructure-tax-deduction",
   "title": "都市型水害対策のための民間雨水貯留浸透施設（グリーンインフラ）減税",
-  "category": "safety-disaster",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "地球温暖化に伴う線状降水帯やゲリラ豪雨（時間雨量100ミリ超）による都市部内水氾濫・地下街浸水を防ぐため、民間ビル、マンション、商業施設、大型駐車場に「雨水貯留浸透施設（グリーンインフラ）」を設置した事業者に対し、固定資産税・都市計画税を大幅に軽減する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "流域治水",
-      "variant": "blue"
+      "text": "流域治水",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "水害対策",
-      "variant": "purple"
+      "text": "水害対策",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "グリーンインフラ",
-      "variant": "green"
+      "text": "グリーンインフラ",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "固定資産税軽減割合",
+      "label": "固定資産税軽減割合",
+      "labelStandard": "固定資産税軽減割合",
+      "labelSimple": "固定資産税軽減割合",
       "value": "33.3",
       "unit": "%減（1/3軽減）",
+      "oldValue": "現行",
       "description": "雨水貯留槽や透水舗装等に係る固定資産税・都市計画税の最大軽減率",
-      "trend": "down",
-      "trendLabel": "税負担軽減"
+      "descriptionStandard": "固定資産税軽減割合",
+      "descriptionSimple": "固定資産税軽減割合",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "ピーク雨水流出抑制効果",
+      "label": "ピーク雨水流出抑制効果",
+      "labelStandard": "ピーク雨水流出抑制効果",
+      "labelSimple": "ピーク雨水流出抑制効果",
       "value": "40",
       "unit": "%削減",
+      "oldValue": "現行",
       "description": "敷地内貯留施設の設置により下水本管へのピーク排水量を大幅にカット",
-      "trend": "down",
-      "trendLabel": "冠水リスク減"
+      "descriptionStandard": "ピーク雨水流出抑制効果",
+      "descriptionSimple": "ピーク雨水流出抑制効果",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

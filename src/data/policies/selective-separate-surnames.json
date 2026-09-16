@@ -161,62 +161,76 @@
   "badges": [
     {
       "label": "同姓・別姓自由選択",
-      "variant": "neutral"
+      "text": "同姓・別姓自由選択",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "改姓・名義変更コストゼロ",
-      "variant": "neutral"
+      "text": "改姓・名義変更コストゼロ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "経団連が早期法改正要望",
-      "variant": "neutral"
+      "text": "経団連が早期法改正要望",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "選べる名字のルール",
+      "label": "",
       "labelStandard": "選択制の仕組み",
+      "labelSimple": "選べる名字のルール",
       "value": "同姓・別姓",
       "unit": "どちらも自由",
       "oldValue": "民法750条で夫婦どちらかの姓に強制統一",
-      "descriptionSimple": "同じ名字にしたい人はそのまま、別々も選べる",
+      "description": "",
       "descriptionStandard": "同姓を強制せず、希望するカップルのみ別姓を選択可能",
+      "descriptionSimple": "同じ名字にしたい人はそのまま、別々も選べる",
       "badge": "自由選択",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "名義変更の手間",
+      "label": "",
       "labelStandard": "改姓手続きのコスト",
+      "labelSimple": "名義変更の手間",
       "value": "ゼロ",
       "unit": "（別姓選択時）",
       "oldValue": "免許・銀行口座・パスポート等数十箇所の変更",
-      "descriptionSimple": "結婚しても名前を変えなければ手続きゼロ！",
+      "description": "",
       "descriptionStandard": "改姓に伴う各種名義変更の手間・費用・キャリア断絶ゼロ",
+      "descriptionSimple": "結婚しても名前を変えなければ手続きゼロ！",
       "badge": "手続きゼロ",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Sparkles"
     },
     {
-      "labelSimple": "子どもの名字",
+      "label": "",
       "labelStandard": "子どもの姓の決定方法",
+      "labelSimple": "子どもの名字",
       "value": "結婚時に決定",
       "unit": "（兄弟同姓）",
       "oldValue": "両親と同姓",
-      "descriptionSimple": "結婚するときに子どもの名字をあらかじめ決める",
+      "description": "",
       "descriptionStandard": "法制審議会答申案では婚姻時に子どもの姓を統一決定",
+      "descriptionSimple": "結婚するときに子どもの名字をあらかじめ決める",
       "badge": "事前統一",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Baby"
     },
     {
-      "labelSimple": "経済界・企業の要望",
+      "label": "",
       "labelStandard": "経団連の提言",
+      "labelSimple": "経済界・企業の要望",
       "value": "早期実現",
       "unit": "要望書提出",
       "oldValue": "通称使用の拡大で対応",
-      "descriptionSimple": "会社でもトラブルが多いので早く変えてほしい要望",
+      "description": "",
       "descriptionStandard": "ビジネス上の不都合・海外渡航トラブル解消を経済界が要望",
+      "descriptionSimple": "会社でもトラブルが多いので早く変えてほしい要望",
       "badge": "経済界推進",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Briefcase"

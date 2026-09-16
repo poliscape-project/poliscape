@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "過疎地物流",
-      "variant": "positive"
+      "text": "過疎地物流",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "共同配送",
-      "variant": "positive"
+      "text": "共同配送",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ドローン配送",
-      "variant": "neutral"
+      "text": "ドローン配送",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "共同化",
+      "labelStandard": "共同化",
+      "labelSimple": "共同化",
       "value": "過疎地一括共同配送",
+      "unit": "",
+      "oldValue": "現行",
       "description": "複数大手運送会社が1台のトラックに荷物を集約して配送",
+      "descriptionStandard": "共同化",
+      "descriptionSimple": "共同化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Truck"
     },
     {
       "label": "財政支援",
+      "labelStandard": "財政支援",
+      "labelSimple": "財政支援",
       "value": "赤字差額を全額補填",
+      "unit": "",
+      "oldValue": "現行",
       "description": "過疎地ラストワンマイルの維持コストを国庫交付金で担保",
+      "descriptionStandard": "財政支援",
+      "descriptionSimple": "財政支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

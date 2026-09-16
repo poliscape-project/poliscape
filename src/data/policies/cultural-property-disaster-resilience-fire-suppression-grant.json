@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "国・自治体補助率",
+      "labelStandard": "国・自治体補助率",
+      "labelSimple": "国・自治体補助率",
       "value": "90",
       "unit": "%（最大）",
       "oldValue": "50%程度",
       "description": "自己負担を10%まで圧縮し、財政難の寺社でも工事可能に",
+      "descriptionStandard": "国・自治体補助率",
+      "descriptionSimple": "国・自治体補助率",
       "badge": "最大補助率",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "改修支援対象",
+      "labelStandard": "改修支援対象",
+      "labelSimple": "改修支援対象",
       "value": "2000",
       "unit": "件",
       "oldValue": "年間数十件",
       "description": "全国の国宝・重要文化財木造建造物約2,000件を優先改修",
+      "descriptionStandard": "改修支援対象",
+      "descriptionSimple": "改修支援対象",
       "badge": "緊急重点化",
       "badgeColor": "blue",
       "icon": "building-library"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

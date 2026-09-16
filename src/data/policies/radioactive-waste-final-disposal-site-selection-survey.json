@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "原子力",
-      "variant": "positive"
+      "text": "原子力",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "最終処分場",
-      "variant": "neutral"
+      "text": "最終処分場",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "地層処分",
-      "variant": "positive"
+      "text": "地層処分",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "地下300mでの永久隔離",
+      "labelStandard": "地下300mでの永久隔離",
+      "labelSimple": "地下300mでの永久隔離",
       "value": "地下300mでの永久隔離",
+      "unit": "",
+      "oldValue": "現行",
       "description": "数万年間にわたり人間社会から核のごみを安全に隔離する地層処分。",
+      "descriptionStandard": "地下300mでの永久隔離",
+      "descriptionSimple": "地下300mでの永久隔離",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "調査受け入れ自治体支援",
+      "labelStandard": "調査受け入れ自治体支援",
+      "labelSimple": "調査受け入れ自治体支援",
       "value": "調査受け入れ自治体支援",
+      "unit": "",
+      "oldValue": "現行",
       "description": "文献調査で最大20億円、次段階の概要調査で最大80億円の地域振興交付金。",
+      "descriptionStandard": "調査受け入れ自治体支援",
+      "descriptionSimple": "調査受け入れ自治体支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "国主導での申し入れ拡大",
+      "labelStandard": "国主導での申し入れ拡大",
+      "labelSimple": "国主導での申し入れ拡大",
       "value": "国主導での申し入れ拡大",
+      "unit": "",
+      "oldValue": "現行",
       "description": "過疎地任せの公募から、科学的有望地へ国が直接要請する枠組みへ。",
+      "descriptionStandard": "国主導での申し入れ拡大",
+      "descriptionSimple": "国主導での申し入れ拡大",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

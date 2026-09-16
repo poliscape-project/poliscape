@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "防災・減災",
-      "variant": "positive"
+      "text": "防災・減災",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "学校環境",
-      "variant": "positive"
+      "text": "学校環境",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "熱中症対策",
-      "variant": "warning"
+      "text": "熱中症対策",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "避難所関連死ゼロへ",
+      "labelStandard": "避難所関連死ゼロへ",
+      "labelSimple": "避難所関連死ゼロへ",
       "value": "避難所関連死ゼロへ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "酷暑・極寒の体育館避難所をなくし命を守る防災拠点へ。",
+      "descriptionStandard": "避難所関連死ゼロへ",
+      "descriptionSimple": "避難所関連死ゼロへ",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "国の補助率を大幅拡充",
+      "labelStandard": "国の補助率を大幅拡充",
+      "labelSimple": "国の補助率を大幅拡充",
       "value": "国の補助率を大幅拡充",
+      "unit": "",
+      "oldValue": "現行",
       "description": "補助率を最大3分の2へ引き上げ地方の財政負担を大幅軽減。",
+      "descriptionStandard": "国の補助率を大幅拡充",
+      "descriptionSimple": "国の補助率を大幅拡充",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "停電時自立稼働システム",
+      "labelStandard": "停電時自立稼働システム",
+      "labelSimple": "停電時自立稼働システム",
       "value": "停電時自立稼働システム",
+      "unit": "",
+      "oldValue": "現行",
       "description": "災害停電時でも動くLPガス・太陽光蓄電池システムを併設。",
+      "descriptionStandard": "停電時自立稼働システム",
+      "descriptionSimple": "停電時自立稼働システム",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "AlertTriangle"
     }
   ],

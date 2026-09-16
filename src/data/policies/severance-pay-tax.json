@@ -165,62 +165,76 @@
   "badges": [
     {
       "label": "20年超70万枠見直し",
-      "variant": "neutral"
+      "text": "20年超70万枠見直し",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "一律40万平準化議論",
-      "variant": "neutral"
+      "text": "一律40万平準化議論",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "1/2課税は維持方針",
-      "variant": "neutral"
+      "text": "1/2課税は維持方針",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "20年目までの非課税枠",
+      "label": "",
       "labelStandard": "勤続20年以下（年あたり）",
+      "labelSimple": "20年目までの非課税枠",
       "value": "年40万",
       "unit": "円/年",
       "oldValue": "勤続1年ごとに40万円控除",
-      "descriptionSimple": "20年働くと800万円まで税金ゼロ",
+      "description": "",
       "descriptionStandard": "勤続年数×40万円の非課税枠を付与",
+      "descriptionSimple": "20年働くと800万円まで税金ゼロ",
       "badge": "現行維持",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "20年超の現行優遇枠",
+      "label": "",
       "labelStandard": "勤続20年超（年あたり）",
+      "labelSimple": "20年超の現行優遇枠",
       "value": "年70万",
       "unit": "円/年",
       "oldValue": "21年目以降は控除枠が急拡大",
-      "descriptionSimple": "長く勤めるほど税金の割引が大きかった",
+      "description": "",
       "descriptionStandard": "長期勤続優遇として年70万円の控除枠",
+      "descriptionSimple": "長く勤めるほど税金の割引が大きかった",
       "badge": "現行優遇",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Calculator"
     },
     {
-      "labelSimple": "見直し議論の内容",
+      "label": "",
       "labelStandard": "一律平準化議論",
+      "labelSimple": "見直し議論の内容",
       "value": "年40万",
       "unit": "一律化案",
       "oldValue": "20年超の70万円枠",
-      "descriptionSimple": "転職しやすくするため一律にする案で議論",
+      "description": "",
       "descriptionStandard": "長期優遇を廃止し全勤続年数を一律40万円案で検討",
+      "descriptionSimple": "転職しやすくするため一律にする案で議論",
       "badge": "見直し論点",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "退職金の税金ルール",
+      "label": "",
       "labelStandard": "退職所得の1/2課税",
+      "labelSimple": "退職金の税金ルール",
       "value": "1/2課税",
       "unit": "維持方針",
       "oldValue": "控除後を半分にして超低税率課税",
-      "descriptionSimple": "他の給料と別にして安くする仕組みは継続",
+      "description": "",
       "descriptionStandard": "分離課税かつ1/2課税の恩恵は基本的に維持の見通し",
+      "descriptionSimple": "他の給料と別にして安くする仕組みは継続",
       "badge": "低税率継続",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"

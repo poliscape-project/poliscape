@@ -1,7 +1,7 @@
 {
   "id": "dark-pattern-e-commerce-deceptive-design-penalization-act",
   "title": "オンライン通販の定期購入縛り・ダークパターン規制法（直接罰則導入）",
-  "category": "admin",
+  "category": "society",
   "subcategory": "消費者保護・商法",
   "status": "施行中",
   "date": "2024-06",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "違反課徴金上限",
+      "labelStandard": "違反課徴金上限",
+      "labelSimple": "違反課徴金上限",
       "value": "最大1",
       "unit": "億円（または売上比）",
       "oldValue": "業務停止命令中心",
       "description": "騙し取った売上を上回る巨額課徴金と刑事罰により再犯を抑止",
+      "descriptionStandard": "違反課徴金上限",
+      "descriptionSimple": "違反課徴金上限",
       "badge": "重罰化",
       "badgeColor": "red",
       "icon": "currency-yen"
     },
     {
       "label": "解約完了保証",
+      "labelStandard": "解約完了保証",
+      "labelSimple": "解約完了保証",
       "value": "Web完結義務",
       "unit": "",
       "oldValue": "電話繋がらず放置",
       "description": "契約時と同一プラットフォームでの24時間オンライン解約動線提供",
+      "descriptionStandard": "解約完了保証",
+      "descriptionSimple": "解約完了保証",
       "badge": "解約自由化",
       "badgeColor": "green",
       "icon": "shield-check"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "admin"
 }

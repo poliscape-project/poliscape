@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "書面交付義務",
+      "labelStandard": "書面交付義務",
+      "labelSimple": "書面交付義務",
       "value": "100",
       "unit": "%（法定義務）",
       "oldValue": "口頭発注が多数",
       "description": "報酬額・支払期日・著作権の扱いを定めた書面交付を全事業者に義務化",
+      "descriptionStandard": "書面交付義務",
+      "descriptionSimple": "書面交付義務",
       "badge": "取引透明化",
       "badgeColor": "blue",
       "icon": "file-text"
     },
     {
       "label": "違反企業への措置",
+      "labelStandard": "違反企業への措置",
+      "labelSimple": "違反企業への措置",
       "value": "勧告・社名公表",
       "unit": "",
       "oldValue": "指導のみ",
       "description": "悪質な買取りや代金減額を繰り返す事業者に対する厳格処分",
+      "descriptionStandard": "違反企業への措置",
+      "descriptionSimple": "違反企業への措置",
       "badge": "ペナルティ強化",
       "badgeColor": "red",
       "icon": "shield-check"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

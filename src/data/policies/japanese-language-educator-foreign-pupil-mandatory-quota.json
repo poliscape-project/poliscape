@@ -1,8 +1,8 @@
 {
   "id": "japanese-language-educator-foreign-pupil-mandatory-quota",
   "title": "公立小中学校における日本語指導専任教員の定数配置基準法定化",
-  "category": "education-child",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "日本語が十分に理解できない外国人児童生徒や帰国児童（日本語指導が必要な児童生徒）に対し、専任で日本語教育を行う教員の配置基準を法律（義務標準法）で定数化・義務付ける。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "多文化共生",
-      "variant": "purple"
+      "text": "多文化共生",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "義務教育",
-      "variant": "blue"
+      "text": "義務教育",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "日本語教育",
-      "variant": "green"
+      "text": "日本語教育",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "指導教員の配置基準",
+      "label": "指導教員の配置基準",
+      "labelStandard": "指導教員の配置基準",
+      "labelSimple": "指導教員の配置基準",
       "value": "18:1",
       "unit": "生徒対教員",
+      "oldValue": "現行",
       "description": "日本語指導が必要な児童生徒18人につき専任教員1名を恒久法定配置",
-      "trend": "up",
-      "trendLabel": "定数法定化"
+      "descriptionStandard": "指導教員の配置基準",
+      "descriptionSimple": "指導教員の配置基準",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "対象児童生徒数",
+      "label": "対象児童生徒数",
+      "labelStandard": "対象児童生徒数",
+      "labelSimple": "対象児童生徒数",
       "value": "6.0",
       "unit": "万人",
+      "oldValue": "現行",
       "description": "公立小中高校等に在籍する日本語指導が必要な児童生徒の推計総数",
-      "trend": "up",
-      "trendLabel": "増加傾向"
+      "descriptionStandard": "対象児童生徒数",
+      "descriptionSimple": "対象児童生徒数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

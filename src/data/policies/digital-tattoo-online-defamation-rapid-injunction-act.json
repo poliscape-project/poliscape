@@ -2,7 +2,7 @@
   "id": "digital-tattoo-online-defamation-rapid-injunction-act",
   "title": "デジタルタトゥー・ネット誹謗中傷迅速削除特例法（プラットフォーム発信者情報開示DX）",
   "catchphrase": "ネットの消えない傷を速やかに消去、迅速仮処分と48時間削除義務",
-  "category": "admin",
+  "category": "society",
   "categoryLabel": "政治・司法 DX",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年7月施行予定",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "ネット誹謗中傷",
-      "variant": "positive"
+      "text": "ネット誹謗中傷",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "迅速仮処分",
-      "variant": "positive"
+      "text": "迅速仮処分",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "表現の自由",
-      "variant": "neutral"
+      "text": "表現の自由",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "48時間以内のスピード削除",
+      "labelStandard": "48時間以内のスピード削除",
+      "labelSimple": "48時間以内のスピード削除",
       "value": "48時間以内のスピード削除",
+      "unit": "",
+      "oldValue": "現行",
       "description": "裁判所の電子命令により拡散が広がる前にネットから投稿を完全消去。",
+      "descriptionStandard": "48時間以内のスピード削除",
+      "descriptionSimple": "48時間以内のスピード削除",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "スマホからオンライン申立て",
+      "labelStandard": "スマホからオンライン申立て",
+      "labelSimple": "スマホからオンライン申立て",
       "value": "スマホからオンライン申立て",
+      "unit": "",
+      "oldValue": "現行",
       "description": "裁判所に行かずにデジタル完結で迅速仮処分を請求可能に。",
+      "descriptionStandard": "スマホからオンライン申立て",
+      "descriptionSimple": "スマホからオンライン申立て",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "海外SNSへの制裁強化",
+      "labelStandard": "海外SNSへの制裁強化",
+      "labelSimple": "海外SNSへの制裁強化",
       "value": "海外SNSへの制裁強化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "命令を無視する外資大手プラットフォームへの過料を引き上げ実効性担保。",
+      "descriptionStandard": "海外SNSへの制裁強化",
+      "descriptionSimple": "海外SNSへの制裁強化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

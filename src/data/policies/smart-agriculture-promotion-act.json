@@ -175,62 +175,76 @@
   "badges": [
     {
       "label": "自動運転・ドローン普及",
-      "variant": "neutral"
+      "text": "自動運転・ドローン普及",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "即時償却・長期低利融資",
-      "variant": "neutral"
+      "text": "即時償却・長期低利融資",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "2024年10月新法施行",
-      "variant": "neutral"
+      "text": "2024年10月新法施行",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "農家さんの平均ねんれい",
+      "label": "",
       "labelStandard": "農業者の平均年齢",
+      "labelSimple": "農家さんの平均ねんれい",
       "value": "68.7",
       "unit": "歳",
       "oldValue": "基幹従事者は20年で半減（約116万人）",
-      "descriptionSimple": "おじいちゃん農家が引退の危機！",
+      "description": "",
       "descriptionStandard": "70代以上が過半数、急速な担い手喪失",
+      "descriptionSimple": "おじいちゃん農家が引退の危機！",
       "badge": "担い手急減",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Clock"
     },
     {
-      "labelSimple": "機械の税金が安くなる",
+      "label": "",
       "labelStandard": "先端機械の税制特例",
+      "labelSimple": "機械の税金が安くなる",
       "value": "即時償却",
       "unit": "（全額経費）",
       "oldValue": "通常は何年もかけて減価償却",
-      "descriptionSimple": "ロボットやドローンを買ったら税金がトク！",
+      "description": "",
       "descriptionStandard": "認定計画に基づく投資を初年度全額経費化",
+      "descriptionSimple": "ロボットやドローンを買ったら税金がトク！",
       "badge": "即時償却",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "お金をかりやすく",
+      "label": "",
       "labelStandard": "日本政策金融公庫融資",
+      "labelSimple": "お金をかりやすく",
       "value": "超低利",
       "unit": "長期貸付",
       "oldValue": "民間銀行では農業融資に慎重審査",
-      "descriptionSimple": "国からとても安い利子でお金を借りられる！",
+      "description": "",
       "descriptionStandard": "スマート農機導入資金を長期で強力バックアップ",
+      "descriptionSimple": "国からとても安い利子でお金を借りられる！",
       "badge": "低利融資",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Sparkles"
     },
     {
-      "labelSimple": "お仕事にかかる時間",
+      "label": "",
       "labelStandard": "作業時間・労働負担",
+      "labelSimple": "お仕事にかかる時間",
       "value": "最大 50",
       "unit": "%削減",
       "oldValue": "炎天下の草刈り・重労働が深刻",
-      "descriptionSimple": "ドローンや自動運転で仕事が半分に！",
+      "description": "",
       "descriptionStandard": "無人農機とAI画像診断による省力化革命",
+      "descriptionSimple": "ドローンや自動運転で仕事が半分に！",
       "badge": "省力化革命",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Cpu"

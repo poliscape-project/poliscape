@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "血管再開通成功率",
+      "labelStandard": "血管再開通成功率",
+      "labelSimple": "血管再開通成功率",
       "value": "約85〜90",
       "unit": "%（カテーテル回収時）",
       "oldValue": "点滴薬のみで約30%",
       "description": "最新の吸引ポンプ・ステントリトリーバー併用による劇的な開通率",
+      "descriptionStandard": "血管再開通成功率",
+      "descriptionSimple": "血管再開通成功率",
       "badge": "開通率約9割",
       "badgeColor": "green",
       "icon": "heart"
     },
     {
       "label": "自立退院割合",
+      "labelStandard": "自立退院割合",
+      "labelSimple": "自立退院割合",
       "value": "約55",
       "unit": "%（介助なし自立歩行）",
       "oldValue": "主幹閉塞の約8割が要介護・死亡",
       "description": "24時間即応ネットワークによる寝たきり転落防止と機能回復",
+      "descriptionStandard": "自立退院割合",
+      "descriptionSimple": "自立退院割合",
       "badge": "半数以上が自立歩行",
       "badgeColor": "blue",
       "icon": "check-circle"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

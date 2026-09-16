@@ -4,7 +4,7 @@
   "catchphrase": "預かり目的の粗悪事業者を排除。児童発達支援・放課後等デイサービスの専門職配置基準を強化",
   "category": "childcare",
   "categoryLabel": "子育て・障害児福祉",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "放課後デイ",
-      "variant": "purple"
+      "text": "放課後デイ",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "療育の質向上",
-      "variant": "blue"
+      "text": "療育の質向上",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "総量規制",
-      "variant": "green"
+      "text": "総量規制",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "専門職配置事業所割合",
+      "label": "専門職配置事業所割合",
+      "labelStandard": "専門職配置事業所割合",
+      "labelSimple": "専門職配置事業所割合",
       "value": "80",
       "unit": "%以上目標",
+      "oldValue": "現行",
       "description": "PT/OT/ST等のリハビリ専門職または公認心理師が常駐する放課後等デイサービスの割合",
-      "trend": "up",
-      "trendLabel": "質向上"
+      "descriptionStandard": "専門職配置事業所割合",
+      "descriptionSimple": "専門職配置事業所割合",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "不正・過剰事業所是正率",
+      "label": "不正・過剰事業所是正率",
+      "labelStandard": "不正・過剰事業所是正率",
+      "labelSimple": "不正・過剰事業所是正率",
       "value": "30",
       "unit": "%適正化",
+      "oldValue": "現行",
       "description": "総量規制および監査強化に伴う基準未達事業所の撤退・統廃合による適正化進捗",
-      "trend": "down",
-      "trendLabel": "粗悪排除"
+      "descriptionStandard": "不正・過剰事業所是正率",
+      "descriptionSimple": "不正・過剰事業所是正率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

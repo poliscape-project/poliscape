@@ -133,58 +133,76 @@
   "badges": [
     {
       "label": "育児時短給与10%給付",
-      "variant": "neutral"
+      "text": "育児時短給与10%給付",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "2歳未満手取り補填",
-      "variant": "neutral"
+      "text": "2歳未満手取り補填",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "2025年4月施行",
-      "variant": "neutral"
+      "text": "2025年4月施行",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "時短でお給料に上乗せ",
+      "label": "",
       "labelStandard": "育児時短就業給付の支給率",
+      "labelSimple": "時短でお給料に上乗せ",
       "value": "10",
       "unit": "%相当（時短勤務時賃金）",
       "oldValue": "これまで 時短勤務による減給は自腹",
       "description": "雇用保険から手取り減少分を一部補填",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "手取り10%補填",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "給付がもらえる子どもの年齢",
+      "label": "",
       "labelStandard": "給付金の対象児童年齢",
+      "labelSimple": "給付がもらえる子どもの年齢",
       "value": "2",
       "unit": "歳未満（最も大変な乳幼児期）",
       "oldValue": "育休復帰後の手取り逆転ペナルティ",
       "description": "職場復帰後のキャリア継続を強力に応援",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "2歳未満対象",
       "badgeColor": "bg-pink-100 text-pink-800",
       "icon": "Baby"
     },
     {
-      "labelSimple": "手当がもらえるようになる日",
+      "label": "",
       "labelStandard": "新給付制度の施行時期",
+      "labelSimple": "手当がもらえるようになる日",
       "value": "2025",
       "unit": "年4月1日より制度施行",
       "oldValue": "これまで 育休中の給付金のみ存在",
       "description": "ハローワークでの受給申請スタート",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "2025年4月始動",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Calendar"
     },
     {
-      "labelSimple": "パパの時短勤務の応援",
+      "label": "",
       "labelStandard": "男性の時短取得と共育て推進",
+      "labelSimple": "パパの時短勤務の応援",
       "value": "男女",
       "unit": "ともに同等受給可能",
       "oldValue": "時短勤務は母親（女性）に極端に偏重",
       "description": "パパの減給不安をなくし夕方帰宅を支援",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "男性育児参画",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "HeartHandshake"

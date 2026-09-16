@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "拠点あたり助成上限",
+      "labelStandard": "拠点あたり助成上限",
+      "labelSimple": "拠点あたり助成上限",
       "value": "300",
       "unit": "万円",
       "oldValue": "0（独自負担）",
       "description": "ゲーミングPC・通信回線・会場整備費を国と自治体で補助",
+      "descriptionStandard": "拠点あたり助成上限",
+      "descriptionSimple": "拠点あたり助成上限",
       "badge": "機材補助",
       "badgeColor": "blue",
       "icon": "currency-yen"
     },
     {
       "label": "参加シニアの満足度",
+      "labelStandard": "参加シニアの満足度",
+      "labelSimple": "参加シニアの満足度",
       "value": "94",
       "unit": "%",
       "oldValue": "-",
       "description": "「友人ができた」「日常の楽しみが増えた」と回答した割合",
+      "descriptionStandard": "参加シニアの満足度",
+      "descriptionSimple": "参加シニアの満足度",
       "badge": "高評価",
       "badgeColor": "green",
       "icon": "heart"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

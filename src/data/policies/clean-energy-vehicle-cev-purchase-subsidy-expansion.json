@@ -1,0 +1,264 @@
+{
+  "id": "clean-energy-vehicle-cev-purchase-subsidy-expansion",
+  "title": "クリーンエネルギー自動車（EV・PHEV・FCV）導入促進補助金",
+  "category": "environment",
+  "subcategory": "モビリティ脱炭素化・電動化",
+  "catchphrase": "ゼロエミッション車への乗り換えを強力後押し！給電機能付きEVや軽EVの普及で日常の移動を脱炭素化",
+  "lastUpdated": "2026-03-28",
+  "status": "enacted",
+  "statusLabel": "補助金申請受付中",
+  "summary": {
+    "simple": [
+      "電気自動車（EV）やプラグインハイブリッド車、水素燃料電池車を買う個人や会社に、国が最大数十万円の購入補助金を支給する制度です。",
+      "わかりやすい支援を進めます。"
+    ],
+    "standard": [
+      "運輸部門における温室効果ガス排出量削減とカーボンニュートラル実現に向け、電気自動車（EV）、プラグインハイブリッド自動車（PHEV）、燃料電池自動車（FCV）等の購入者に対して車両価格の一部を直接助成し、非常時給電機能等を有する車両には上限加算を行うCEV補助金事業。",
+      "ゼロエミッション車への乗り換えを強力後押し！給電機能付きEVや軽EVの普及で日常の移動を脱炭素化"
+    ]
+  },
+  "background": {
+    "simple": "電気自動車はガソリン車に比べて車体価格が高いため、購入のハードルを下げる支援が求められています。",
+    "standard": "世界的なモビリティの脱炭素化競争が加速する中、日本の乗用車新車販売に占めるEV・PHEV比率は欧米諸国や中国に比べて低水準にとどまる。災害時の移動電源としての有用性評価も踏まえ、軽EVから大型FCVまで普及を裾野広く加速させるため補助枠が拡充された。"
+  },
+  "changes": [
+    {
+      "id": "change-1",
+      "topic": "電気自動車（EV）に対する車両購入補助（上限最大8...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "電気自動車（EV）に対する車両購入補助（上限最大85万円〜100万円程度、給電機能付き優遇）の継続・予算拡充",
+      "highlight": "電気自動車（EV）に対する車両購入補助（上限最大85万円〜1",
+      "icon": "FileCheck"
+    },
+    {
+      "id": "change-2",
+      "topic": "地方部で日常の足となる軽EVや小型商用EVバンに対...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "地方部で日常の足となる軽EVや小型商用EVバンに対する手厚い補助基準の設定",
+      "highlight": "地方部で日常の足となる軽EVや小型商用EVバンに対する手厚い",
+      "icon": "TrendingUp"
+    },
+    {
+      "id": "change-3",
+      "topic": "充電インフラ普及計画やサイバーセキュリティ対策、ア...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "充電インフラ普及計画やサイバーセキュリティ対策、アフターサービス体制を考慮したメーカー・車種別算定基準の導入",
+      "highlight": "充電インフラ普及計画やサイバーセキュリティ対策、アフターサー",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される主な効果・メリット（推進側の視点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "ガソリン車からの移行により走行時の温室効果ガス排出...",
+        "summary": "ガソリン車からの移行により走行時の温室効果ガス排出が実質ゼロ化され大気環境が改善",
+        "detail": "ガソリン車からの移行により走行時の温室効果ガス排出が実質ゼロ化され大気環境が改善",
+        "simpleDetail": "ガソリン車からの移行により走行時の温室効果ガス排出が実質ゼロ化され大気環境が改善",
+        "tag": "期待・効果"
+      },
+      {
+        "id": "b2",
+        "title": "台風や地震による大規模停電時に、EVの大容量バッテ...",
+        "summary": "台風や地震による大規模停電時に、EVの大容量バッテリーから住宅や避難所へ電力を供給できる（走る蓄電池）",
+        "detail": "台風や地震による大規模停電時に、EVの大容量バッテリーから住宅や避難所へ電力を供給できる（走る蓄電池）",
+        "simpleDetail": "台風や地震による大規模停電時に、EVの大容量バッテリーから住宅や避難所へ電力を供給できる（走る蓄電池）",
+        "tag": "期待・効果"
+      },
+      {
+        "id": "b3",
+        "title": "軽EVの普及により地方在住者のガソリン代負担が大幅...",
+        "summary": "軽EVの普及により地方在住者のガソリン代負担が大幅に軽減され生活維持コストが低減",
+        "detail": "軽EVの普及により地方在住者のガソリン代負担が大幅に軽減され生活維持コストが低減",
+        "simpleDetail": "軽EVの普及により地方在住者のガソリン代負担が大幅に軽減され生活維持コストが低減",
+        "tag": "期待・効果"
+      }
+    ],
+    "challengesTitle": "検討されている課題・懸念点（慎重側の視点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "国と自治体の補助金を合わせても同等クラスのガソリン...",
+        "summary": "国と自治体の補助金を合わせても同等クラスのガソリン車との価格差が依然として残る点",
+        "detail": "国と自治体の補助金を合わせても同等クラスのガソリン車との価格差が依然として残る点",
+        "simpleDetail": "国と自治体の補助金を合わせても同等クラスのガソリン車との価格差が依然として残る点",
+        "tag": "課題・懸念"
+      },
+      {
+        "id": "c2",
+        "title": "集合住宅や急速充電ステーションの不足による航続距離...",
+        "summary": "集合住宅や急速充電ステーションの不足による航続距離・充電待ち不安の払拭",
+        "detail": "集合住宅や急速充電ステーションの不足による航続距離・充電待ち不安の払拭",
+        "simpleDetail": "集合住宅や急速充電ステーションの不足による航続距離・充電待ち不安の払拭",
+        "tag": "課題・懸念"
+      },
+      {
+        "id": "c3",
+        "title": "補助金予算が年度途中で上限に達し受付が突然終了する...",
+        "summary": "補助金予算が年度途中で上限に達し受付が突然終了するリスクによる消費者の混乱",
+        "detail": "補助金予算が年度途中で上限に達し受付が突然終了するリスクによる消費者の混乱",
+        "simpleDetail": "補助金予算が年度途中で上限に達し受付が突然終了するリスクによる消費者の混乱",
+        "tag": "課題・懸念"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023年",
+      "label": "CEV補助金における災害時給電対応車両の加算措置拡...",
+      "title": "CEV補助金における災害時給電対応車両の加算措置拡大",
+      "status": "completed",
+      "description": "CEV補助金における災害時給電対応車両の加算措置拡大"
+    },
+    {
+      "date": "2024年",
+      "label": "軽EV・小型商用EVの補助枠拡充と充電インフラ拡充...",
+      "title": "軽EV・小型商用EVの補助枠拡充と充電インフラ拡充要件の導入",
+      "status": "completed",
+      "description": "軽EV・小型商用EVの補助枠拡充と充電インフラ拡充要件の導入"
+    },
+    {
+      "date": "2026年",
+      "label": "ライフサイクルCO2排出量およびリサイクル体制を反...",
+      "title": "ライフサイクルCO2排出量およびリサイクル体制を反映した新型補助基準の適用",
+      "status": "current",
+      "description": "ライフサイクルCO2排出量およびリサイクル体制を反映した新型補助基準の適用"
+    }
+  ],
+  "sources": [
+    {
+      "title": "経済産業省：クリーンエネルギー自動車導入促進補助金（CEV補助金）の概要",
+      "url": "https://www.meti.go.jp/policy/mono_info_service/mono/automobile/cev/index.html"
+    },
+    {
+      "title": "一般社団法人次世代自動車振興センター：CEV補助金申請要領",
+      "url": "http://www.cev-pc.or.jp/"
+    }
+  ],
+  "badges": [
+    {
+      "label": "モビリティ脱炭素",
+      "text": "モビリティ脱炭素",
+      "variant": "primary",
+      "color": "blue"
+    },
+    {
+      "label": "EV購入補助",
+      "text": "EV購入補助",
+      "variant": "default",
+      "color": "blue"
+    },
+    {
+      "label": "走る蓄電池",
+      "text": "走る蓄電池",
+      "variant": "outline",
+      "color": "blue"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "普通EV補助上限",
+      "labelStandard": "普通EV補助上限",
+      "labelSimple": "普通EV補助上限",
+      "value": "最大85万〜100万円",
+      "unit": "（給電機能等有）",
+      "oldValue": "現行",
+      "description": "普通EV補助上限",
+      "descriptionStandard": "普通EV補助上限",
+      "descriptionSimple": "普通EV補助上限",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
+    },
+    {
+      "label": "軽EV補助上限",
+      "labelStandard": "軽EV補助上限",
+      "labelSimple": "軽EV補助上限",
+      "value": "最大55万円",
+      "unit": "（地域モビリティ支援）",
+      "oldValue": "現行",
+      "description": "軽EV補助上限",
+      "descriptionStandard": "軽EV補助上限",
+      "descriptionSimple": "軽EV補助上限",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
+    },
+    {
+      "label": "給電可能日数",
+      "labelStandard": "給電可能日数",
+      "labelSimple": "給電可能日数",
+      "value": "約3〜4日分",
+      "unit": "（標準家庭電力消費）",
+      "oldValue": "現行",
+      "description": "給電可能日数",
+      "descriptionStandard": "給電可能日数",
+      "descriptionSimple": "給電可能日数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "TrendingUp"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "推進派・利用者の声",
+        "commentStandard": "早期の実装を期待しています。",
+        "commentSimple": "期待しています。"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "専門家・現場の声",
+        "commentStandard": "現場への丁寧な配慮が必要です。",
+        "commentSimple": "課題への配慮が必要です。"
+      }
+    ]
+  },
+  "international": {
+    "summary": "海外主要国における関連施策の比較と最新動向",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "アメリカの関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "アメリカ関係公的機関",
+          "title": "アメリカにおける制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ドイツの関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "ドイツ関係公的機関",
+          "title": "ドイツにおける制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "中国の関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "中国関係公的機関",
+          "title": "中国における制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      }
+    ]
+  },
+  "categoryLabel": "環境・エネルギー"
+}

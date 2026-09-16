@@ -163,62 +163,76 @@
   "badges": [
     {
       "label": "電気最大4円・ガス17.5円引",
-      "variant": "neutral"
+      "text": "電気最大4円・ガス17.5円引",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "申請不要・全自動値引き",
-      "variant": "neutral"
+      "text": "申請不要・全自動値引き",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "再エネ賦課金と相殺",
-      "variant": "neutral"
+      "text": "再エネ賦課金と相殺",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "電気代の国からの値引き",
+      "label": "",
       "labelStandard": "電気料金の激変緩和補助金",
+      "labelSimple": "電気代の国からの値引き",
       "value": "最大 4.0",
       "unit": "円/kWh",
       "oldValue": "猛暑・酷暑乗り切り緊急支援等",
-      "descriptionSimple": "毎月の電気代が自動的に安くなる！",
+      "description": "",
       "descriptionStandard": "標準世帯で月1,400円前後の直接値引き",
+      "descriptionSimple": "毎月の電気代が自動的に安くなる！",
       "badge": "自動値引き",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Zap"
     },
     {
-      "labelSimple": "ガス代の国からの値引き",
+      "label": "",
       "labelStandard": "都市ガス料金の補助金",
+      "labelSimple": "ガス代の国からの値引き",
       "value": "最大 17.5",
       "unit": "円/m³",
       "oldValue": "家庭用都市ガス使用量に応じた支援",
-      "descriptionSimple": "お風呂やキッチンのガス代も補助！",
+      "description": "",
       "descriptionStandard": "月30m³使用の家庭で月約500円の値引き",
+      "descriptionSimple": "お風呂やキッチンのガス代も補助！",
       "badge": "ガス代軽減",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Sparkles"
     },
     {
-      "labelSimple": "面倒な申請手続き",
+      "label": "",
       "labelStandard": "補助金の受け取り手続き",
+      "labelSimple": "面倒な申請手続き",
       "value": "申請不要",
       "unit": "（全自動）",
       "oldValue": "電力会社・ガス会社が請求書で減額",
-      "descriptionSimple": "何もしなくても請求額から引かれます！",
+      "description": "",
       "descriptionStandard": "事業者が国に一括請求し、消費者は請求書で割引",
+      "descriptionSimple": "何もしなくても請求額から引かれます！",
       "badge": "手続きゼロ",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "FileCheck"
     },
     {
-      "labelSimple": "電気代に上乗せされる国民負担",
+      "label": "",
       "labelStandard": "再エネ発電促進賦課金",
+      "labelSimple": "電気代に上乗せされる国民負担",
       "value": "約 3.49",
       "unit": "円/kWh",
       "oldValue": "全国民の電気料金に自動加算",
-      "descriptionSimple": "自然エネルギーのため全国民で負担中",
+      "description": "",
       "descriptionStandard": "補助金と相殺される形で電気代を押し上げる要因",
+      "descriptionSimple": "自然エネルギーのため全国民で負担中",
       "badge": "国民負担金",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"

@@ -131,62 +131,76 @@
   "badges": [
     {
       "label": "有人地帯レベル4自律飛行",
-      "variant": "neutral"
+      "text": "有人地帯レベル4自律飛行",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "過疎地配送70〜80%短縮",
-      "variant": "neutral"
+      "text": "過疎地配送70〜80%短縮",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "国家操縦資格の新設",
-      "variant": "neutral"
+      "text": "国家操縦資格の新設",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "人の上を飛べるルール",
+      "label": "",
       "labelStandard": "航空法改正（レベル4飛行）",
+      "labelSimple": "人の上を飛べるルール",
       "value": "市街地上空",
       "unit": "自律飛行解禁",
       "oldValue": "無人地帯での飛行（レベル3）まで",
-      "descriptionSimple": "住宅地の上を自動で飛べるようになった！",
+      "description": "",
       "descriptionStandard": "有人地帯での目視外自律飛行の国家ライセンス制度創設",
+      "descriptionSimple": "住宅地の上を自動で飛べるようになった！",
       "badge": "レベル4解禁",
       "badgeColor": "bg-sky-100 text-sky-800",
       "icon": "Sparkles"
     },
     {
-      "labelSimple": "荷物が届くまでの時間",
+      "label": "",
       "labelStandard": "過疎地・離島配送短縮",
+      "labelSimple": "荷物が届くまでの時間",
       "value": "約 70〜80",
       "unit": "% 時間短縮",
       "oldValue": "船や軽トラ迂回で半日〜1日以上",
-      "descriptionSimple": "車で何時間もかかる山奥へ数十分で届く！",
+      "description": "",
       "descriptionStandard": "直線飛行により処方薬や緊急物資を即日デリバリー",
+      "descriptionSimple": "車で何時間もかかる山奥へ数十分で届く！",
       "badge": "最大80%短縮",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Clock"
     },
     {
-      "labelSimple": "操縦する人の資格",
+      "label": "",
       "labelStandard": "国家操縦資格の新設",
+      "labelSimple": "操縦する人の資格",
       "value": "一等・二等",
       "unit": "無人航空機操縦士",
       "oldValue": "民間の修了証のみ（公的資格なし）",
-      "descriptionSimple": "国の厳しいテストに受かったプロが操縦する！",
+      "description": "",
       "descriptionStandard": "安全運行を担保する国家ライセンスと型式認証の義務化",
+      "descriptionSimple": "国の厳しいテストに受かったプロが操縦する！",
       "badge": "国家資格化",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "一番心配なこと",
+      "label": "",
       "labelStandard": "事故・騒音リスクへの懸念",
+      "labelSimple": "一番心配なこと",
       "value": "落下・騒音",
       "unit": "住民の不安",
       "oldValue": "実験段階での飛行",
-      "descriptionSimple": "頭の上に落ちてこないか住民の心配も！",
+      "description": "",
       "descriptionStandard": "パラシュート義務化と飛行航路直下の合意形成が課題",
+      "descriptionSimple": "頭の上に落ちてこないか住民の心配も！",
       "badge": "安全対策が必須",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"

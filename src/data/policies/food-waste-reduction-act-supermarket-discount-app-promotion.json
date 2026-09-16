@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "食品ロス",
-      "variant": "positive"
+      "text": "食品ロス",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "フードバンク",
-      "variant": "positive"
+      "text": "フードバンク",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "SDGs",
-      "variant": "neutral"
+      "text": "SDGs",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "値引き通知アプリの連携",
+      "labelStandard": "値引き通知アプリの連携",
+      "labelSimple": "値引き通知アプリの連携",
       "value": "値引き通知アプリの連携",
+      "unit": "",
+      "oldValue": "現行",
       "description": "夕方の見切り品情報を近隣住民のスマホへプッシュ配信して完売。",
+      "descriptionStandard": "値引き通知アプリの連携",
+      "descriptionSimple": "値引き通知アプリの連携",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "フードバンク寄附の税制優遇",
+      "labelStandard": "フードバンク寄附の税制優遇",
+      "labelSimple": "フードバンク寄附の税制優遇",
       "value": "フードバンク寄附の税制優遇",
+      "unit": "",
+      "oldValue": "現行",
       "description": "余剰食品を寄附した企業の運送費や原材料費を税控除で支援。",
+      "descriptionStandard": "フードバンク寄附の税制優遇",
+      "descriptionSimple": "フードバンク寄附の税制優遇",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "寄附企業の過失免責保護",
+      "labelStandard": "寄附企業の過失免責保護",
+      "labelSimple": "寄附企業の過失免責保護",
       "value": "寄附企業の過失免責保護",
+      "unit": "",
+      "oldValue": "現行",
       "description": "善意の寄附企業を法的に保護し、捨てずに寄附する文化を定着。",
+      "descriptionStandard": "寄附企業の過失免責保護",
+      "descriptionSimple": "寄附企業の過失免責保護",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

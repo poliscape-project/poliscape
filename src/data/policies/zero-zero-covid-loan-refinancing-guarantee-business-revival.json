@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "借換保証期間",
+      "labelStandard": "借換保証期間",
+      "labelSimple": "借換保証期間",
       "value": "最長10",
       "unit": "年間（据置最大5年）",
       "oldValue": "短期返済期限の到来",
       "description": "長期借換により手元資金を温存し事業再構築に集中可能",
+      "descriptionStandard": "借換保証期間",
+      "descriptionSimple": "借換保証期間",
       "badge": "最長10年借換",
       "badgeColor": "blue",
       "icon": "calendar"
     },
     {
       "label": "信用保証料率",
+      "labelStandard": "信用保証料率",
+      "labelSimple": "信用保証料率",
       "value": "約0.2",
       "unit": "%（公費大幅減免）",
       "oldValue": "通常約1.0〜1.5%",
       "description": "国の補助により中小企業の借換コストを極限まで圧縮",
+      "descriptionStandard": "信用保証料率",
+      "descriptionSimple": "信用保証料率",
       "badge": "保証料大幅減免",
       "badgeColor": "green",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

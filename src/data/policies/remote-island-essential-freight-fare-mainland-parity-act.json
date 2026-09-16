@@ -1,7 +1,7 @@
 {
   "id": "remote-island-essential-freight-fare-mainland-parity-act",
   "title": "離島航路・航空路における生活必需物資輸送運賃の本土並み格差是正補助",
-  "category": "regional",
+  "category": "society",
   "subcategory": "離島振興・交通物流",
   "status": "施行中",
   "date": "2024-04",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "物資輸送運賃補助率",
+      "labelStandard": "物資輸送運賃補助率",
+      "labelSimple": "物資輸送運賃補助率",
       "value": "最大約80",
       "unit": "%（差額補填）",
       "oldValue": "島民・事業者全額負担",
       "description": "本土との海上輸送コスト格差を国と地方の交付金で大幅軽減",
+      "descriptionStandard": "物資輸送運賃補助率",
+      "descriptionSimple": "物資輸送運賃補助率",
       "badge": "運賃差額大幅補助",
       "badgeColor": "blue",
       "icon": "currency-yen"
     },
     {
       "label": "ガソリン店頭価格差",
+      "labelStandard": "ガソリン店頭価格差",
+      "labelSimple": "ガソリン店頭価格差",
       "value": "本土並み",
       "unit": "水準へ平準化",
       "oldValue": "本土比+20〜30円/L高",
       "description": "離島ガソリン流通コスト支援により生活燃料価格差を是正",
+      "descriptionStandard": "ガソリン店頭価格差",
+      "descriptionSimple": "ガソリン店頭価格差",
       "badge": "価格格差解消",
       "badgeColor": "green",
       "icon": "check-circle"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "regional"
 }

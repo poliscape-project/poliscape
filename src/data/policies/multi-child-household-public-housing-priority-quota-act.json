@@ -4,7 +4,7 @@
   "catchphrase": "広い家に住める子育て環境を。子ども3人以上の多子世帯へ公営住宅の優先枠と家賃半額支援",
   "category": "childcare",
   "categoryLabel": "子育て・住宅",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "多子世帯支援",
-      "variant": "purple"
+      "text": "多子世帯支援",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "公営住宅",
-      "variant": "blue"
+      "text": "公営住宅",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "住まい支援",
-      "variant": "green"
+      "text": "住まい支援",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "多子世帯家賃軽減率",
+      "label": "多子世帯家賃軽減率",
+      "labelStandard": "多子世帯家賃軽減率",
+      "labelSimple": "多子世帯家賃軽減率",
       "value": "50",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "特別所得控除適用により民間相場比較で最大半額程度まで引き下げられる公営住宅家賃",
-      "trend": "down",
-      "trendLabel": "住居費半減"
+      "descriptionStandard": "多子世帯家賃軽減率",
+      "descriptionSimple": "多子世帯家賃軽減率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "優先入居枠設置自治体率",
+      "label": "優先入居枠設置自治体率",
+      "labelStandard": "優先入居枠設置自治体率",
+      "labelSimple": "優先入居枠設置自治体率",
       "value": "95",
       "unit": "%",
+      "oldValue": "現行",
       "description": "多子子育て世帯に対する公営住宅の優先募集枠を常設している都道府県・政令市の割合",
-      "trend": "up",
-      "trendLabel": "全国普及"
+      "descriptionStandard": "優先入居枠設置自治体率",
+      "descriptionSimple": "優先入居枠設置自治体率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

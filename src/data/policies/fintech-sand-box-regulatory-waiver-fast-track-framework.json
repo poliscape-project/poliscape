@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "審査期間目標",
+      "labelStandard": "審査期間目標",
+      "labelSimple": "審査期間目標",
       "value": "30",
       "unit": "日以内（ファストトラック）",
       "oldValue": "4〜6ヶ月",
       "description": "書類確認から主務大臣承認までの期間を大幅に短縮",
+      "descriptionStandard": "審査期間目標",
+      "descriptionSimple": "審査期間目標",
       "badge": "審査迅速化",
       "badgeColor": "green",
       "icon": "clock"
     },
     {
       "label": "実証認定件数",
+      "labelStandard": "実証認定件数",
+      "labelSimple": "実証認定件数",
       "value": "100",
       "unit": "件超（累計）",
       "oldValue": "数十件",
       "description": "ブロックチェーン・モビリティ・遠隔医療等の実験を全国で認定",
+      "descriptionStandard": "実証認定件数",
+      "descriptionSimple": "実証認定件数",
       "badge": "実績拡大",
       "badgeColor": "blue",
       "icon": "trending-up"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

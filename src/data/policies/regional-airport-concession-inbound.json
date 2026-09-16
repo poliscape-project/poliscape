@@ -145,62 +145,76 @@
   "badges": [
     {
       "label": "地方空港コンセッション",
-      "variant": "neutral"
+      "text": "地方空港コンセッション",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "国際線LCC直行便誘致",
-      "variant": "neutral"
+      "text": "国際線LCC直行便誘致",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "滑走路・ターミナル一体運営",
-      "variant": "neutral"
+      "text": "滑走路・ターミナル一体運営",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "民間一体運営",
+      "label": "",
       "labelStandard": "民営化（コンセッション）空港",
+      "labelSimple": "民間一体運営",
       "value": "全国10",
       "unit": "空港超",
       "oldValue": "国や自治体によるお役所縦割り管理",
-      "descriptionSimple": "仙台、福岡、熊本、北海道7空港などで民営化",
+      "description": "",
       "descriptionStandard": "仙台、福岡、熊本、北海道7空港などで民営化",
+      "descriptionSimple": "仙台、福岡、熊本、北海道7空港などで民営化",
       "badge": "民間一体運営",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Building"
     },
     {
-      "labelSimple": "直行便拡大",
+      "label": "",
       "labelStandard": "地方直行の国際線LCC",
+      "labelSimple": "直行便拡大",
       "value": "数十路線",
       "unit": "新規就航",
       "oldValue": "成田・関空経由の国内線乗り継ぎ",
-      "descriptionSimple": "アジア主要都市から地方空港へ直行便誘致",
+      "description": "",
       "descriptionStandard": "アジア主要都市から地方空港へ直行便誘致",
+      "descriptionSimple": "アジア主要都市から地方空港へ直行便誘致",
       "badge": "直行便拡大",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Ship"
     },
     {
-      "labelSimple": "財政改善",
+      "label": "",
       "labelStandard": "自治体の財政負担軽減",
+      "labelSimple": "財政改善",
       "value": "数十億",
       "unit": "円削減/年",
       "oldValue": "赤字補填の税金投入が常態化",
-      "descriptionSimple": "民間への運営権売却で財政健全化",
+      "description": "",
       "descriptionStandard": "民間への運営権売却で財政健全化",
+      "descriptionSimple": "民間への運営権売却で財政健全化",
       "badge": "財政改善",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "人手不足制約",
+      "label": "",
       "labelStandard": "グラハン・保安検査の人手",
+      "labelSimple": "人手不足制約",
       "value": "約3割",
       "unit": "不足で悲鳴",
       "oldValue": "十分な地上支援要員が確保されていた",
-      "descriptionSimple": "便を増やしたくても人がおらず断る事態",
+      "description": "",
       "descriptionStandard": "便を増やしたくても人がおらず断る事態",
+      "descriptionSimple": "便を増やしたくても人がおらず断る事態",
       "badge": "人手不足制約",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"

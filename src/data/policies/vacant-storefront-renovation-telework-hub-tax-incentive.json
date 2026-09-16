@@ -1,8 +1,8 @@
 {
   "id": "vacant-storefront-renovation-telework-hub-tax-incentive",
   "title": "商店街の空き店舗・古民家をサテライトオフィスへ転換する改修費助成",
-  "category": "regional-agriculture",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "地方都市のシャッター通り商店街や過疎地域の古民家を、IT企業のサテライトオフィス、コワーキングスペース、起業インキュベーション施設へリノベーションする事業に対し、改修費用の最大3分の2（上限1,500万円）を補助する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "地方創生",
-      "variant": "purple"
+      "text": "地方創生",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "リノベーション",
-      "variant": "green"
+      "text": "リノベーション",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "テレワーク",
-      "variant": "blue"
+      "text": "テレワーク",
+      "variant": "blue",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "改修費補助率",
+      "label": "改修費補助率",
+      "labelStandard": "改修費補助率",
+      "labelSimple": "改修費補助率",
       "value": "66.7",
       "unit": "%（2/3）",
+      "oldValue": "現行",
       "description": "空き店舗の耐震補強・内装・通信インフラ工事費の最大3分の2を公費補助",
-      "trend": "up",
-      "trendLabel": "手厚い補助率"
+      "descriptionStandard": "改修費補助率",
+      "descriptionSimple": "改修費補助率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "空き店舗再生拠点数",
+      "label": "空き店舗再生拠点数",
+      "labelStandard": "空き店舗再生拠点数",
+      "labelSimple": "空き店舗再生拠点数",
       "value": "2,000",
       "unit": "箇所目標",
+      "oldValue": "現行",
       "description": "全国のシャッター通り・古民家を再生したテレワーク拠点の整備目標",
-      "trend": "up",
-      "trendLabel": "全国整備"
+      "descriptionStandard": "空き店舗再生拠点数",
+      "descriptionSimple": "空き店舗再生拠点数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

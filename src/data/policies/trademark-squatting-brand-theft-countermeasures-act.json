@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "知的財産",
-      "variant": "positive"
+      "text": "知的財産",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ブランド防衛",
-      "variant": "positive"
+      "text": "ブランド防衛",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "中小企業支援",
-      "variant": "neutral"
+      "text": "中小企業支援",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "費用補助",
+      "labelStandard": "費用補助",
+      "labelSimple": "費用補助",
       "value": "100%全額公費助成",
+      "unit": "",
+      "oldValue": "現行",
       "description": "海外での異議申立・無効訴訟の弁護士費用を全額支援",
+      "descriptionStandard": "費用補助",
+      "descriptionSimple": "費用補助",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "検知システム",
+      "labelStandard": "検知システム",
+      "labelSimple": "検知システム",
       "value": "AI24時間監視",
+      "unit": "",
+      "oldValue": "現行",
       "description": "海外特許庁の公開公報から日本の地名・商標を自動検知",
+      "descriptionStandard": "検知システム",
+      "descriptionSimple": "検知システム",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     }
   ],

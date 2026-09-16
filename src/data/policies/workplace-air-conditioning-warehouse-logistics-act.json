@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "労働安全",
-      "variant": "positive"
+      "text": "労働安全",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "熱中症予防",
-      "variant": "positive"
+      "text": "熱中症予防",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "物流現場",
-      "variant": "neutral"
+      "text": "物流現場",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "義務化対象",
+      "labelStandard": "義務化対象",
+      "labelSimple": "義務化対象",
       "value": "1,000㎡以上の倉庫・工場",
+      "unit": "",
+      "oldValue": "現行",
       "description": "大型物流施設への大型空調・ファンの設置を完全義務化",
+      "descriptionStandard": "義務化対象",
+      "descriptionSimple": "義務化対象",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "強制休息",
+      "labelStandard": "強制休息",
+      "labelSimple": "強制休息",
       "value": "WBGT31度以上で15分/時",
+      "unit": "",
+      "oldValue": "現行",
       "description": "基準超過時の有給休息と水分補給を義務付け",
+      "descriptionStandard": "強制休息",
+      "descriptionSimple": "強制休息",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "AlertTriangle"
     }
   ],

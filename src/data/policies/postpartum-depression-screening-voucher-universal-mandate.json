@@ -1,8 +1,8 @@
 {
   "id": "postpartum-depression-screening-voucher-universal-mandate",
   "title": "産後うつスクリーニング受診票の全国一律公費助成義務化",
-  "category": "education-child",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "出産後の母親のメンタルヘルス悪化や孤立を防ぐため、産後2週間および産後1か月の「産後うつスクリーニング健診」費用を全国一律で全額公費助成とする。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "母子保健",
-      "variant": "green"
+      "text": "母子保健",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "少子化対策",
-      "variant": "blue"
+      "text": "少子化対策",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "メンタルヘルス",
-      "variant": "purple"
+      "text": "メンタルヘルス",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "産後うつ発症割合",
+      "label": "産後うつ発症割合",
+      "labelStandard": "産後うつ発症割合",
+      "labelSimple": "産後うつ発症割合",
       "value": "10-15",
       "unit": "%",
+      "oldValue": "現行",
       "description": "出産を経験した女性の10人に1人以上が一時的なうつ状態を経験",
-      "trend": "neutral",
-      "trendLabel": "潜在患者比率"
+      "descriptionStandard": "産後うつ発症割合",
+      "descriptionSimple": "産後うつ発症割合",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "健診受診票助成額",
+      "label": "健診受診票助成額",
+      "labelStandard": "健診受診票助成額",
+      "labelSimple": "健診受診票助成額",
       "value": "10,000",
       "unit": "円相当/回",
+      "oldValue": "現行",
       "description": "産後2週間・1か月の計2回分を全額公費で助成",
-      "trend": "up",
-      "trendLabel": "完全公費化"
+      "descriptionStandard": "健診受診票助成額",
+      "descriptionSimple": "健診受診票助成額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

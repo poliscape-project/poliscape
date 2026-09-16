@@ -1,8 +1,8 @@
 {
   "id": "bone-marrow-donor-paid-leave-universal-subsidy-act",
   "title": "骨髄バンクドナー特別有給休暇制度の導入企業助成と全国一律補償",
-  "category": "labor-employment",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "白血病等の血液難病治療に不可欠な骨髄・末梢血幹細胞の提供者（ドナー）が安心して骨髄採取を受けられるよう、企業が「ドナー休暇（特別有給休暇）」を導入した際の助成金を新設する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "医療福祉",
-      "variant": "green"
+      "text": "医療福祉",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "労働環境",
-      "variant": "blue"
+      "text": "労働環境",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "命をつなぐ",
-      "variant": "purple"
+      "text": "命をつなぐ",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "休業補償給付額",
+      "label": "休業補償給付額",
+      "labelStandard": "休業補償給付額",
+      "labelSimple": "休業補償給付額",
       "value": "20,000",
       "unit": "円/日",
+      "oldValue": "現行",
       "description": "通院・入院の日数に応じて最大7〜10日分を一律支給",
-      "trend": "up",
-      "trendLabel": "所得補償"
+      "descriptionStandard": "休業補償給付額",
+      "descriptionSimple": "休業補償給付額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "提供辞退率の削減目標",
+      "label": "提供辞退率の削減目標",
+      "labelStandard": "提供辞退率の削減目標",
+      "labelSimple": "提供辞退率の削減目標",
       "value": "50",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "仕事都合によるドナー提供辞退（約4割）を半減させる目標",
-      "trend": "down",
-      "trendLabel": "辞退率抑制"
+      "descriptionStandard": "提供辞退率の削減目標",
+      "descriptionSimple": "提供辞退率の削減目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

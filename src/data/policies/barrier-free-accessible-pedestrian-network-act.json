@@ -2,7 +2,7 @@
   "id": "barrier-free-accessible-pedestrian-network-act",
   "title": "高齢者・車椅子・ベビーカー優先歩行者専用道ネットワーク法",
   "catchphrase": "段差や急坂を解消し誰でもスイスイ歩ける街へ、都心部シームレス歩行空間ネットワークの義務化",
-  "category": "infrastructure",
+  "category": "society",
   "categoryLabel": "国土・交通",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "バリアフリー",
-      "variant": "positive"
+      "text": "バリアフリー",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ユニバーサルデザイン",
-      "variant": "positive"
+      "text": "ユニバーサルデザイン",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "歩行空間",
-      "variant": "neutral"
+      "text": "歩行空間",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "段差基準",
+      "labelStandard": "段差基準",
+      "labelSimple": "段差基準",
       "value": "完全ゼロ化（フラット）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "横断歩道接続部や歩道ブロックの段差を完全解消",
+      "descriptionStandard": "段差基準",
+      "descriptionSimple": "段差基準",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "情報公開",
+      "labelStandard": "情報公開",
+      "labelSimple": "情報公開",
       "value": "歩道データAPI無料公開",
+      "unit": "",
+      "oldValue": "現行",
       "description": "全国の歩道段差・傾斜・エレベーター位置を地図アプリへ提供",
+      "descriptionStandard": "情報公開",
+      "descriptionSimple": "情報公開",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     }
   ],

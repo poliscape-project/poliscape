@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "ゼロエミッション火力",
-      "variant": "positive"
+      "text": "ゼロエミッション火力",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "水素・アンモニア",
-      "variant": "positive"
+      "text": "水素・アンモニア",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "エネルギー安保",
-      "variant": "neutral"
+      "text": "エネルギー安保",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "混焼目標",
+      "labelStandard": "混焼目標",
+      "labelSimple": "混焼目標",
       "value": "2030年20%混焼",
+      "unit": "",
+      "oldValue": "現行",
       "description": "石炭火力へのアンモニア2割混焼によるCO2即時削減",
+      "descriptionStandard": "混焼目標",
+      "descriptionSimple": "混焼目標",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingDown"
     },
     {
       "label": "保安基準",
+      "labelStandard": "保安基準",
+      "labelSimple": "保安基準",
       "value": "二重防液堤・自動遮断",
+      "unit": "",
+      "oldValue": "現行",
       "description": "毒性アンモニアの漏洩を完全に防ぐ世界最高水準の安全設計",
+      "descriptionStandard": "保安基準",
+      "descriptionSimple": "保安基準",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

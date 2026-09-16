@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "文化庁ガイドライン",
-      "variant": "positive"
+      "text": "文化庁ガイドライン",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "作風模倣制限",
-      "variant": "positive"
+      "text": "作風模倣制限",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "立証難が課題",
-      "variant": "warning"
+      "text": "立証難が課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "第30条の4解釈",
+      "labelStandard": "第30条の4解釈",
+      "labelSimple": "第30条の4解釈",
       "value": "権利者の利益保護を明確化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "特定作家の作風模倣や海賊版データ学習は侵害になり得る",
+      "descriptionStandard": "第30条の4解釈",
+      "descriptionSimple": "第30条の4解釈",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "著作物性",
+      "labelStandard": "著作物性",
+      "labelSimple": "著作物性",
       "value": "創作的意図と加筆が必須",
+      "unit": "",
+      "oldValue": "現行",
       "description": "単純なプロンプト出力は著作権保護の対象外",
+      "descriptionStandard": "著作物性",
+      "descriptionSimple": "著作物性",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "FileText"
     },
     {
       "label": "目指す姿",
+      "labelStandard": "目指す姿",
+      "labelSimple": "目指す姿",
       "value": "AI開発と文化の調和",
+      "unit": "",
+      "oldValue": "現行",
       "description": "イノベーション推進とクリエイター尊厳の両立",
+      "descriptionStandard": "目指す姿",
+      "descriptionSimple": "目指す姿",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

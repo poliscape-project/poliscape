@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "受講料・教材費",
+      "labelStandard": "受講料・教材費",
+      "labelSimple": "受講料・教材費",
       "value": "0",
       "unit": "円（完全無料）",
       "oldValue": "民間学習塾で月2万〜4万円",
       "description": "公費助成により経済的理由に関わらず完全無料で個別指導を提供",
+      "descriptionStandard": "受講料・教材費",
+      "descriptionSimple": "受講料・教材費",
       "badge": "完全無料",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "高校進学達成率",
+      "labelStandard": "高校進学達成率",
+      "labelSimple": "高校進学達成率",
       "value": "約99",
       "unit": "%（参加生徒実績）",
       "oldValue": "困窮世帯の中退・未進学多発",
       "description": "丁寧な伴走指導による高校進学と進路未決定者ゼロ化の達成",
+      "descriptionStandard": "高校進学達成率",
+      "descriptionSimple": "高校進学達成率",
       "badge": "進学率99%",
       "badgeColor": "blue",
       "icon": "academic-cap"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

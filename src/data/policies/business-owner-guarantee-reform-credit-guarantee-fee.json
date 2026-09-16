@@ -155,50 +155,62 @@
   "badges": [
     {
       "label": "保証料上乗せで個人保証解除",
-      "variant": "neutral"
+      "text": "保証料上乗せで個人保証解除",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "二重保証の原則禁止",
-      "variant": "neutral"
+      "text": "二重保証の原則禁止",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "銀行の説明義務化",
-      "variant": "neutral"
+      "text": "銀行の説明義務化",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "個人保証を外す上乗せ料",
+      "label": "",
       "labelStandard": "信用保証料率の上乗せ幅",
+      "labelSimple": "個人保証を外す上乗せ料",
       "value": "0.25〜0.45%",
       "unit": "（財務状況別）",
       "oldValue": "保証解除の手続き基準なし",
-      "descriptionSimple": "少しだけ手数料を足せば社長個人の全財産を人質に取られない！",
+      "description": "",
       "descriptionStandard": "資産負債の分別要件等を満たせば上乗せ保証料で個人保証を免除",
+      "descriptionSimple": "少しだけ手数料を足せば社長個人の全財産を人質に取られない！",
       "badge": "制度的新機軸",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "事業承継時の保証",
+      "label": "",
       "labelStandard": "新旧経営者の二重保証",
+      "labelSimple": "事業承継時の保証",
       "value": "原則禁止",
       "unit": "（親族外承継後押し）",
       "oldValue": "先代と新社長の双方から徴求",
-      "descriptionSimple": "社長を交代するときに2人とも保証人にされる悪習を禁止！",
+      "description": "",
       "descriptionStandard": "後継者の心理的負担を排除し事業承継を加速させる監督指針改定",
+      "descriptionSimple": "社長を交代するときに2人とも保証人にされる悪習を禁止！",
       "badge": "承継円滑化",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "創業時の個人保証",
+      "label": "",
       "labelStandard": "スタートアップ創出促進保証",
+      "labelSimple": "創業時の個人保証",
       "value": "原則不要",
       "unit": "（創業後5年以内）",
       "oldValue": "自己破産リスクで起業敬遠",
-      "descriptionSimple": "新しい会社を作るときも個人保証なしで融資を受けられる！",
+      "description": "",
       "descriptionStandard": "民間融資において最大3500万円まで経営者保証を不要化",
+      "descriptionSimple": "新しい会社を作るときも個人保証なしで融資を受けられる！",
       "badge": "起業促進",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "TrendingUp"

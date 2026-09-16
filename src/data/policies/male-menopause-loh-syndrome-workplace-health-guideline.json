@@ -1,8 +1,8 @@
 {
   "id": "male-menopause-loh-syndrome-workplace-health-guideline",
   "title": "職場における男性更年期障害（LOH症候群）健康診断・相談体制整備指針",
-  "category": "labor-employment",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "40〜50代以降の男性のテストステロン（男性ホルモン）低下に伴う心身の不調「加齢男性性腺機能低下症候群（LOH症候群／男性更年期障害）」について、職場の定期健康診断での問診票スクリーニング導入を推進する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "健康経営",
-      "variant": "green"
+      "text": "健康経営",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "男性更年期",
-      "variant": "blue"
+      "text": "男性更年期",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "労働安全衛生",
-      "variant": "purple"
+      "text": "労働安全衛生",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "潜在患者推計数",
+      "label": "潜在患者推計数",
+      "labelStandard": "潜在患者推計数",
+      "labelSimple": "潜在患者推計数",
       "value": "600",
       "unit": "万人",
+      "oldValue": "現行",
       "description": "40歳以上の男性でLOH症候群の症状を抱えている推計人数",
-      "trend": "neutral",
-      "trendLabel": "潜在規模"
+      "descriptionStandard": "潜在患者推計数",
+      "descriptionSimple": "潜在患者推計数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "治療後の活力回復率",
+      "label": "治療後の活力回復率",
+      "labelStandard": "治療後の活力回復率",
+      "labelSimple": "治療後の活力回復率",
       "value": "80",
       "unit": "%以上",
+      "oldValue": "現行",
       "description": "テストステロン補充等の適切な治療介入後の意欲・疲労感改善率",
-      "trend": "up",
-      "trendLabel": "QOL劇的改善"
+      "descriptionStandard": "治療後の活力回復率",
+      "descriptionSimple": "治療後の活力回復率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

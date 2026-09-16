@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "教材利用料",
+      "labelStandard": "教材利用料",
+      "labelSimple": "教材利用料",
       "value": "0",
       "unit": "円（全額公費完全無償）",
       "oldValue": "ボランティア製作に依存",
       "description": "小中高の全検定教科書を国の予算でDAISY化し無償配信",
+      "descriptionStandard": "教材利用料",
+      "descriptionSimple": "教材利用料",
       "badge": "全額公費無償",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "読解速度・理解度",
+      "labelStandard": "読解速度・理解度",
+      "labelSimple": "読解速度・理解度",
       "value": "約2〜3",
       "unit": "倍向上（音声ハイライト効果）",
       "oldValue": "読字困難による授業脱落",
       "description": "音声と文字ハイライトの同時刺激による劇的な読解理解向上",
+      "descriptionStandard": "読解速度・理解度",
+      "descriptionSimple": "読解速度・理解度",
       "badge": "理解度大幅向上",
       "badgeColor": "blue",
       "icon": "sparkles"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

@@ -2,7 +2,7 @@
   "id": "property-death-disclosure-psychological-defect-guideline-act",
   "title": "人の死の告知に関する宅建業ガイドライン法制化（孤独死物件の心理的瑕疵基準）",
   "catchphrase": "孤独死の過度な事故物件化を防ぎ、高齢者の入居と流通を円滑化",
-  "category": "infrastructure",
+  "category": "society",
   "categoryLabel": "国土・交通",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年6月施行予定",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "事故物件ルール",
-      "variant": "positive"
+      "text": "事故物件ルール",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "高齢者住宅難民",
-      "variant": "positive"
+      "text": "高齢者住宅難民",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "心理的瑕疵",
-      "variant": "neutral"
+      "text": "心理的瑕疵",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "病死・老衰は告知不要",
+      "labelStandard": "病死・老衰は告知不要",
+      "labelSimple": "病死・老衰は告知不要",
       "value": "病死・老衰は告知不要",
+      "unit": "",
+      "oldValue": "現行",
       "description": "自宅での自然死は事故物件扱いせず、大家の資産価値下落を防ぐ。",
+      "descriptionStandard": "病死・老衰は告知不要",
+      "descriptionSimple": "病死・老衰は告知不要",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "賃貸の告知は3年間",
+      "labelStandard": "賃貸の告知は3年間",
+      "labelSimple": "賃貸の告知は3年間",
       "value": "賃貸の告知は3年間",
+      "unit": "",
+      "oldValue": "現行",
       "description": "事件や特殊清掃があった場合も3年経過後は原則説明義務が終了。",
+      "descriptionStandard": "賃貸の告知は3年間",
+      "descriptionSimple": "賃貸の告知は3年間",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "高齢者の入居拒否を解消",
+      "labelStandard": "高齢者の入居拒否を解消",
+      "labelSimple": "高齢者の入居拒否を解消",
       "value": "高齢者の入居拒否を解消",
+      "unit": "",
+      "oldValue": "現行",
       "description": "「部屋で死なれたら困る」という大家の不安を法的に取り除く。",
+      "descriptionStandard": "高齢者の入居拒否を解消",
+      "descriptionSimple": "高齢者の入居拒否を解消",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

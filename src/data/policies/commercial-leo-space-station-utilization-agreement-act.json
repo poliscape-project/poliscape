@@ -1,8 +1,8 @@
 {
   "id": "commercial-leo-space-station-utilization-agreement-act",
   "title": "ISS運用終了後を見据えた民間商業地球低軌道（LEO）ステーション利用構想",
-  "category": "technology-dx",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "国際宇宙ステーション（ISS）が2030年に運用終了・大気圏落下処分を迎えることを見据え、米国民間企業（公理スペース、オービタル・リーフ等）が開発する「民間商業宇宙ステーション」の利用権確保と日本モジュール接続に向けた協定を締結する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "宇宙ステーション",
-      "variant": "blue"
+      "text": "宇宙ステーション",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "ポストISS",
-      "variant": "purple"
+      "text": "ポストISS",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "宇宙創薬",
-      "variant": "green"
+      "text": "宇宙創薬",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "ISS運用終了年",
+      "label": "ISS運用終了年",
+      "labelStandard": "ISS運用終了年",
+      "labelSimple": "ISS運用終了年",
       "value": "2030",
       "unit": "年末",
+      "oldValue": "現行",
       "description": "1998年以来運用されてきた国際宇宙ステーションの正式退役予定時期",
-      "trend": "neutral",
-      "trendLabel": "退役期限"
+      "descriptionStandard": "ISS運用終了年",
+      "descriptionSimple": "ISS運用終了年",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "商業実験フライト補助率",
+      "label": "商業実験フライト補助率",
+      "labelStandard": "商業実験フライト補助率",
+      "labelSimple": "商業実験フライト補助率",
       "value": "50",
       "unit": "%",
+      "oldValue": "現行",
       "description": "製薬・素材メーカーが民間宇宙ステーションを利用する打上げ・実験費用の補助割合",
-      "trend": "up",
-      "trendLabel": "民間参入補助"
+      "descriptionStandard": "商業実験フライト補助率",
+      "descriptionSimple": "商業実験フライト補助率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

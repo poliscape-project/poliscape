@@ -3,7 +3,7 @@
   "title": "骨粗鬆症スクリーニング検診受診率向上と骨折リエゾンサービス（FLS）支援",
   "category": "healthcare",
   "categoryLabel": "医療・公衆衛生",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "健診受診勧奨・FLS加算運用中",
   "catchphrase": "高齢者の寝たきり原因第1位を防ぐ。骨粗鬆症検診の受診率引き上げと二次骨折予防（FLS）の全国展開",
   "lastUpdated": "2026-09-16",
@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "二次骨折リスク低減",
+      "labelStandard": "二次骨折リスク低減",
+      "labelSimple": "二次骨折リスク低減",
       "value": "50〜70",
       "unit": "%減",
       "oldValue": "放置時は高頻度再骨折",
       "description": "FLS介入による再度の骨折発生率の劇的抑制効果",
+      "descriptionStandard": "二次骨折リスク低減",
+      "descriptionSimple": "二次骨折リスク低減",
       "badge": "骨折予防",
       "badgeColor": "green",
       "icon": "ShieldCheck"
     },
     {
       "label": "検診受診率目標",
+      "labelStandard": "検診受診率目標",
+      "labelSimple": "検診受診率目標",
       "value": "15",
       "unit": "%以上",
       "oldValue": "約5.3%（現状）",
       "description": "個別受診券送付と節目検診徹底による受診率3倍増計画",
+      "descriptionStandard": "検診受診率目標",
+      "descriptionSimple": "検診受診率目標",
       "badge": "受診率向上",
       "badgeColor": "blue",
       "icon": "TrendingUp"

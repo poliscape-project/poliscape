@@ -129,58 +129,76 @@
   "badges": [
     {
       "label": "子どもの出自を知る権利",
-      "variant": "neutral"
+      "text": "子どもの出自を知る権利",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "ドナー情報の公的保管",
-      "variant": "neutral"
+      "text": "ドナー情報の公的保管",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "第三者生殖医療の行方",
-      "variant": "neutral"
+      "text": "第三者生殖医療の行方",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "出自を知る権利の開示",
+      "label": "",
       "labelStandard": "出自を知る権利の開示",
+      "labelSimple": "出自を知る権利の開示",
       "value": "18",
       "unit": "歳到達等で請求権",
       "oldValue": "医療機関任せで情報破棄・追跡不能",
       "description": "公的機関にドナー情報を恒久保管",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "知る権利法制化",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "BookOpen"
     },
     {
-      "labelSimple": "国内AID誕生児数",
+      "label": "",
       "labelStandard": "国内AID誕生児数",
+      "labelSimple": "国内AID誕生児数",
       "value": "1万",
       "unit": "人以上",
       "oldValue": "1948年以来の医療実績",
       "description": "当事者がアイデンティティ確立を訴求",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "1万人超の当事者",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Baby"
     },
     {
-      "labelSimple": "ドナー激減リスク",
+      "label": "",
       "labelStandard": "ドナー激減リスク",
+      "labelSimple": "ドナー激減リスク",
       "value": "提供者急減",
       "unit": "の懸念（英国例）",
       "oldValue": "完全匿名だからこそ提供者が存在",
       "description": "身元開示を恐れてボランティアが消滅",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "不妊治療危機",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "ShieldAlert"
     },
     {
-      "labelSimple": "法的親子関係の確定",
+      "label": "",
       "labelStandard": "法的親子関係の確定",
+      "labelSimple": "法的親子関係の確定",
       "value": "夫を父",
       "unit": "とする民法特例",
       "oldValue": "法的な親子関係の明文規定なし",
       "description": "妻が出産した子の法的父子関係を保護",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "親子関係安定",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Users"

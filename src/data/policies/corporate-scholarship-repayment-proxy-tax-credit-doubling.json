@@ -1,8 +1,8 @@
 {
   "id": "corporate-scholarship-repayment-proxy-tax-credit-doubling",
   "title": "企業による奨学金返還代理支援（代理返還）の損金算入・税額控除倍増",
-  "category": "tax-finance",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "若手社員の経済的自立と中小企業の人材確保を両立するため、日本学生支援機構（JASSO）の奨学金を企業が従業員に代わって直接返還する「代理返還制度」への税制優遇を抜本拡充する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "奨学金支援",
-      "variant": "blue"
+      "text": "奨学金支援",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "税制優遇",
-      "variant": "green"
+      "text": "税制優遇",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "若者応援",
-      "variant": "purple"
+      "text": "若者応援",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "法人税控除割合",
+      "label": "法人税控除割合",
+      "labelStandard": "法人税控除割合",
+      "labelSimple": "法人税控除割合",
       "value": "40",
       "unit": "%（中小企業）",
+      "oldValue": "現行",
       "description": "企業が負担した奨学金代理返還額の最大4割を法人税から直接控除",
-      "trend": "up",
-      "trendLabel": "減税枠倍増"
+      "descriptionStandard": "法人税控除割合",
+      "descriptionSimple": "法人税控除割合",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "若手社員の負担軽減",
+      "label": "若手社員の負担軽減",
+      "labelStandard": "若手社員の負担軽減",
+      "labelSimple": "若手社員の負担軽減",
       "value": "300",
       "unit": "万円相当",
+      "oldValue": "現行",
       "description": "平均的な奨学金総返還額（利息含む）を会社支援で完済",
-      "trend": "down",
-      "trendLabel": "借入ゼロ化"
+      "descriptionStandard": "若手社員の負担軽減",
+      "descriptionSimple": "若手社員の負担軽減",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "水資源保全",
-      "variant": "positive"
+      "text": "水資源保全",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "半導体産業",
-      "variant": "positive"
+      "text": "半導体産業",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "循環経済",
-      "variant": "neutral"
+      "text": "循環経済",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "水回収率",
+      "labelStandard": "水回収率",
+      "labelSimple": "水回収率",
       "value": "80%以上義務化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "超純水・冷却水の8割以上を工場内で高度再利用",
+      "descriptionStandard": "水回収率",
+      "descriptionSimple": "水回収率",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "監視体制",
+      "labelStandard": "監視体制",
+      "labelSimple": "監視体制",
       "value": "IoTリアルタイム監視",
+      "unit": "",
+      "oldValue": "現行",
       "description": "地下水位と揚水量を24時間自動計測し地域へ情報公開",
+      "descriptionStandard": "監視体制",
+      "descriptionSimple": "監視体制",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Activity"
     }
   ],

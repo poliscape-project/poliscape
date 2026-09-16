@@ -1,0 +1,264 @@
+{
+  "id": "commercial-fleet-ev-bus-truck-fast-charger-grant",
+  "title": "商用トラック・路線バス電動化および高出力急速充電インフラ整備補助",
+  "category": "environment",
+  "subcategory": "産業・運輸脱炭素化",
+  "catchphrase": "物流・公共交通の脱炭素シフト！EVトラック・バスの導入とメガワット級超急速充電網の構築支援",
+  "lastUpdated": "2026-03-28",
+  "status": "enacted",
+  "statusLabel": "公募実施中",
+  "summary": {
+    "simple": [
+      "荷物を運ぶトラックや街を走る路線バスを電気自動車に変える運送会社やバス会社に、車両価格や営業所の専用急速充電器の設置費用を補助する制度です。",
+      "わかりやすい支援を進めます。"
+    ],
+    "standard": [
+      "二酸化炭素排出量の多い大型・中型商用車（トラック、路線バス、タクシー等）の電動化（EV・FCV）を重点支援し、営業所や高速道路サービスエリアへの高出力急速充電設備（90kW〜150kW超）設置費用を助成する事業。",
+      "物流・公共交通の脱炭素シフト！EVトラック・バスの導入とメガワット級超急速充電網の構築支援"
+    ]
+  },
+  "background": {
+    "simple": "トラックやバスは長距離を走るため排出ガスが多く、脱炭素化が急がれますが、商用EVは価格が非常に高く、充電器の電力契約も高額になります。",
+    "standard": "運輸部門のCO2排出量の約4割を占める商用車において、電動車両の導入初期費用や特別高圧受電設備などのインフラ整備費が事業者の大きな負担となっている。2030年度温室効果ガス削減目標達成に向け、商用フリート特化型の集中支援が策定された。"
+  },
+  "changes": [
+    {
+      "id": "change-1",
+      "topic": "商用EVトラック・EV路線バス購入費とディーゼル車...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "商用EVトラック・EV路線バス購入費とディーゼル車との差額に対する大幅補助（補助率最大2/3〜3/4）",
+      "highlight": "商用EVトラック・EV路線バス購入費とディーゼル車との差額に",
+      "icon": "FileCheck"
+    },
+    {
+      "id": "change-2",
+      "topic": "運送拠点・バス営業所における90kW以上の複数台高...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "運送拠点・バス営業所における90kW以上の複数台高出力急速充電器および蓄電池設置費用の重点助成",
+      "highlight": "運送拠点・バス営業所における90kW以上の複数台高出力急速充",
+      "icon": "TrendingUp"
+    },
+    {
+      "id": "change-3",
+      "topic": "高速道路SA・PAや幹線道路沿い物流拠点への大型車...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "高速道路SA・PAや幹線道路沿い物流拠点への大型車両用超急速充電スタンド整備支援",
+      "highlight": "高速道路SA・PAや幹線道路沿い物流拠点への大型車両用超急速",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される主な効果・メリット（推進側の視点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "走行頻度の極めて高い商用車の電動化により、都市部の...",
+        "summary": "走行頻度の極めて高い商用車の電動化により、都市部の騒音・大気汚染物質（NOx・PM）が劇的に低減",
+        "detail": "走行頻度の極めて高い商用車の電動化により、都市部の騒音・大気汚染物質（NOx・PM）が劇的に低減",
+        "simpleDetail": "走行頻度の極めて高い商用車の電動化により、都市部の騒音・大気汚染物質（NOx・PM）が劇的に低減",
+        "tag": "期待・効果"
+      },
+      {
+        "id": "b2",
+        "title": "営業所での夜間一括充電マネジメント（エネルギー管理...",
+        "summary": "営業所での夜間一括充電マネジメント（エネルギー管理システム：EMS）によりピークシフトと電気代最適化を実現",
+        "detail": "営業所での夜間一括充電マネジメント（エネルギー管理システム：EMS）によりピークシフトと電気代最適化を実現",
+        "simpleDetail": "営業所での夜間一括充電マネジメント（エネルギー管理システム：EMS）によりピークシフトと電気代最適化を実現",
+        "tag": "期待・効果"
+      },
+      {
+        "id": "b3",
+        "title": "災害時における大型避難所や災害対策本部への超大容量...",
+        "summary": "災害時における大型避難所や災害対策本部への超大容量移動電源としての活用が可能",
+        "detail": "災害時における大型避難所や災害対策本部への超大容量移動電源としての活用が可能",
+        "simpleDetail": "災害時における大型避難所や災害対策本部への超大容量移動電源としての活用が可能",
+        "tag": "期待・効果"
+      }
+    ],
+    "challengesTitle": "検討されている課題・懸念点（慎重側の視点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "数十台のEVトラックが一斉に充電する際の系統電力網...",
+        "summary": "数十台のEVトラックが一斉に充電する際の系統電力網（グリッド）への過負荷と受変電設備増強工事のコスト",
+        "detail": "数十台のEVトラックが一斉に充電する際の系統電力網（グリッド）への過負荷と受変電設備増強工事のコスト",
+        "simpleDetail": "数十台のEVトラックが一斉に充電する際の系統電力網（グリッド）への過負荷と受変電設備増強工事のコスト",
+        "tag": "課題・懸念"
+      },
+      {
+        "id": "c2",
+        "title": "冬期やエアコン使用時におけるバッテリー消費増に伴う...",
+        "summary": "冬期やエアコン使用時におけるバッテリー消費増に伴う航続距離低下と配送ダイヤ維持の難しさ",
+        "detail": "冬期やエアコン使用時におけるバッテリー消費増に伴う航続距離低下と配送ダイヤ維持の難しさ",
+        "simpleDetail": "冬期やエアコン使用時におけるバッテリー消費増に伴う航続距離低下と配送ダイヤ維持の難しさ",
+        "tag": "課題・懸念"
+      },
+      {
+        "id": "c3",
+        "title": "車両重量増による積載可能重量の減少と運行効率への影...",
+        "summary": "車両重量増による積載可能重量の減少と運行効率への影響",
+        "detail": "車両重量増による積載可能重量の減少と運行効率への影響",
+        "simpleDetail": "車両重量増による積載可能重量の減少と運行効率への影響",
+        "tag": "課題・懸念"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023年",
+      "label": "商用車電動化普及アクションプラン策定と先導的導入モ...",
+      "title": "商用車電動化普及アクションプラン策定と先導的導入モデル事業開始",
+      "status": "completed",
+      "description": "商用車電動化普及アクションプラン策定と先導的導入モデル事業開始"
+    },
+    {
+      "date": "2024年",
+      "label": "中小トラック・バス事業者向け高出力充電器設置助成枠...",
+      "title": "中小トラック・バス事業者向け高出力充電器設置助成枠の大幅拡充",
+      "status": "completed",
+      "description": "中小トラック・バス事業者向け高出力充電器設置助成枠の大幅拡充"
+    },
+    {
+      "date": "2026年",
+      "label": "大都市圏路線バスの新車導入における原則電動化推進と...",
+      "title": "大都市圏路線バスの新車導入における原則電動化推進と高速充電ハブ整備",
+      "status": "current",
+      "description": "大都市圏路線バスの新車導入における原則電動化推進と高速充電ハブ整備"
+    }
+  ],
+  "sources": [
+    {
+      "title": "国土交通省：商用車の電動化普及に向けた支援策",
+      "url": "https://www.mlit.go.jp/jidosha/jidosha_tk10_000007.html"
+    },
+    {
+      "title": "環境省：商用車等の電動化普及加速化事業",
+      "url": "https://www.env.go.jp/page_00109.html"
+    }
+  ],
+  "badges": [
+    {
+      "label": "商用車電動化",
+      "text": "商用車電動化",
+      "variant": "primary",
+      "color": "blue"
+    },
+    {
+      "label": "物流脱炭素",
+      "text": "物流脱炭素",
+      "variant": "default",
+      "color": "blue"
+    },
+    {
+      "label": "高出力充電器",
+      "text": "高出力充電器",
+      "variant": "outline",
+      "color": "blue"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "車両差額補助率",
+      "labelStandard": "車両差額補助率",
+      "labelSimple": "車両差額補助率",
+      "value": "最大2/3〜3/4",
+      "unit": "（基準額上限内）",
+      "oldValue": "現行",
+      "description": "車両差額補助率",
+      "descriptionStandard": "車両差額補助率",
+      "descriptionSimple": "車両差額補助率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
+    },
+    {
+      "label": "急速充電器出力",
+      "labelStandard": "急速充電器出力",
+      "labelSimple": "急速充電器出力",
+      "value": "90〜150kW超",
+      "unit": "（商用対応基準）",
+      "oldValue": "現行",
+      "description": "急速充電器出力",
+      "descriptionStandard": "急速充電器出力",
+      "descriptionSimple": "急速充電器出力",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
+    },
+    {
+      "label": "大気汚染物質削減",
+      "labelStandard": "大気汚染物質削減",
+      "labelSimple": "大気汚染物質削減",
+      "value": "走行時ゼロ",
+      "unit": "（NOx・PM排出ゼロ）",
+      "oldValue": "現行",
+      "description": "大気汚染物質削減",
+      "descriptionStandard": "大気汚染物質削減",
+      "descriptionSimple": "大気汚染物質削減",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "TrendingUp"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "推進派・利用者の声",
+        "commentStandard": "早期の実装を期待しています。",
+        "commentSimple": "期待しています。"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "専門家・現場の声",
+        "commentStandard": "現場への丁寧な配慮が必要です。",
+        "commentSimple": "課題への配慮が必要です。"
+      }
+    ]
+  },
+  "international": {
+    "summary": "海外主要国における関連施策の比較と最新動向",
+    "countries": [
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "中国の関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "中国関係公的機関",
+          "title": "中国における制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      },
+      {
+        "country": "欧州連合（EU）",
+        "countryCode": "INT",
+        "flag": "🌐",
+        "systemName": "欧州連合（EU）の関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "欧州連合（EU）関係公的機関",
+          "title": "欧州連合（EU）における制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "アメリカの関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "アメリカ関係公的機関",
+          "title": "アメリカにおける制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      }
+    ]
+  },
+  "categoryLabel": "環境・エネルギー"
+}

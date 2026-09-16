@@ -2,7 +2,7 @@
   "id": "shingles-zoster-vaccine-routine-immunization-subsidy",
   "title": "帯状疱疹ワクチン定期接種化法（65歳以上全額/高率公費助成）",
   "catchphrase": "激痛の帯状疱疹後神経痛を防ぐ、高齢者ワクチンの定期接種化",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・福祉",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月定期接種化",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "定期接種化",
-      "variant": "positive"
+      "text": "定期接種化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "帯状疱疹",
-      "variant": "positive"
+      "text": "帯状疱疹",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "健康寿命",
-      "variant": "neutral"
+      "text": "健康寿命",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "90%以上の高い予防効果",
+      "labelStandard": "90%以上の高い予防効果",
+      "labelSimple": "90%以上の高い予防効果",
       "value": "90%以上の高い予防効果",
+      "unit": "",
+      "oldValue": "現行",
       "description": "発症だけでなく最も恐ろしい後遺症（神経痛）をほぼ完全に防ぐ。",
+      "descriptionStandard": "90%以上の高い予防効果",
+      "descriptionSimple": "90%以上の高い予防効果",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "自己負担を数千円へ",
+      "labelStandard": "自己負担を数千円へ",
+      "labelSimple": "自己負担を数千円へ",
       "value": "自己負担を数千円へ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "全額自費4万円の壁を打破し全国一律の公費助成を実現。",
+      "descriptionStandard": "自己負担を数千円へ",
+      "descriptionSimple": "自己負担を数千円へ",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "65歳の節目に接種",
+      "labelStandard": "65歳の節目に接種",
+      "labelSimple": "65歳の節目に接種",
       "value": "65歳の節目に接種",
+      "unit": "",
+      "oldValue": "現行",
       "description": "肺炎球菌ワクチンと同様に65歳到達時に受診券を自動送付。",
+      "descriptionStandard": "65歳の節目に接種",
+      "descriptionSimple": "65歳の節目に接種",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

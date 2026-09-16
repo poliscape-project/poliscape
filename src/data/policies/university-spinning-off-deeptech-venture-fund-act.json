@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "スタートアップ",
-      "variant": "positive"
+      "text": "スタートアップ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "大学改革",
-      "variant": "positive"
+      "text": "大学改革",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ディープテック",
-      "variant": "neutral"
+      "text": "ディープテック",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "還元比率",
+      "labelStandard": "還元比率",
+      "labelSimple": "還元比率",
       "value": "売却益50%以上",
+      "unit": "",
+      "oldValue": "現行",
       "description": "株式イグジット利益の半分以上を発明者ラボ・若手研究基金に充当",
+      "descriptionStandard": "還元比率",
+      "descriptionSimple": "還元比率",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Coins"
     },
     {
       "label": "兼業規制",
+      "labelStandard": "兼業規制",
+      "labelSimple": "兼業規制",
       "value": "原則自由化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "起業時の役員就任や創業者ストックオプション保有を容認",
+      "descriptionStandard": "兼業規制",
+      "descriptionSimple": "兼業規制",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

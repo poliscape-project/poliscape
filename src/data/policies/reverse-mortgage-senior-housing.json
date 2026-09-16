@@ -137,15 +137,21 @@
   "badges": [
     {
       "label": "自宅担保で老後資金調達",
-      "variant": "neutral"
+      "text": "自宅担保で老後資金調達",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "生前返済は利息のみ",
-      "variant": "neutral"
+      "text": "生前返済は利息のみ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "ノンリコース型で相続人保護",
-      "variant": "neutral"
+      "text": "ノンリコース型で相続人保護",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "international": {

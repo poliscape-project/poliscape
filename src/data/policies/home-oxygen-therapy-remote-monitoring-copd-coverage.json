@@ -3,7 +3,7 @@
   "title": "在宅酸素療法（HOT）およびCPAP遠隔モニタリングの診療報酬包括評価",
   "category": "healthcare",
   "categoryLabel": "医療・公衆衛生",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "遠隔モニタリング加算運用中",
   "catchphrase": "呼吸不全・睡眠時無呼吸の患者をIoTで常時見守る。在宅酸素・CPAP遠隔モニタリングの保険適用",
   "lastUpdated": "2026-09-16",
@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "急性増悪入院減少",
+      "labelStandard": "急性増悪入院減少",
+      "labelSimple": "急性増悪入院減少",
       "value": "40",
       "unit": "%減",
       "oldValue": "年1〜2回の頻回入院",
       "description": "IoTモニタリングと早期介入によるCOPD重症患者の緊急入院抑制率",
+      "descriptionStandard": "急性増悪入院減少",
+      "descriptionSimple": "急性増悪入院減少",
       "badge": "入院抑制",
       "badgeColor": "green",
       "icon": "TrendingUp"
     },
     {
       "label": "通院回数半減",
+      "labelStandard": "通院回数半減",
+      "labelSimple": "通院回数半減",
       "value": "6",
       "unit": "回/年（隔月受診）",
       "oldValue": "年12回（毎月対面必須）",
       "description": "オンライン診療と遠隔データ共有の併用による年間通院負担の半減",
+      "descriptionStandard": "通院回数半減",
+      "descriptionSimple": "通院回数半減",
       "badge": "通院負担半減",
       "badgeColor": "blue",
       "icon": "Calendar"

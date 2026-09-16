@@ -4,7 +4,7 @@
   "catchphrase": "長期入院から地域共生へ。過剰な精神病床を段階削減し訪問看護とグループホームで地域移行を保障",
   "category": "healthcare",
   "categoryLabel": "精神保健福祉・医療構造改革",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "精神病床再編",
-      "variant": "purple"
+      "text": "精神病床再編",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "脱施設化",
-      "variant": "blue"
+      "text": "脱施設化",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "地域共生社会",
-      "variant": "green"
+      "text": "地域共生社会",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "社会的入院削減目標",
+      "label": "社会的入院削減目標",
+      "labelStandard": "社会的入院削減目標",
+      "labelSimple": "社会的入院削減目標",
       "value": "50,000",
       "unit": "人退院",
+      "oldValue": "現行",
       "description": "地域生活移行支援プログラムにより達成を目指す1年以上長期入院患者の地域復帰数",
-      "trend": "down",
-      "trendLabel": "長期入院半減"
+      "descriptionStandard": "社会的入院削減目標",
+      "descriptionSimple": "社会的入院削減目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "精神科訪問看護利用率",
+      "label": "精神科訪問看護利用率",
+      "labelStandard": "精神科訪問看護利用率",
+      "labelSimple": "精神科訪問看護利用率",
       "value": "2",
       "unit": "倍増",
+      "oldValue": "現行",
       "description": "24時間対応体制強化により地域で安定生活を維持する精神科訪問看護利用者の増加率",
-      "trend": "up",
-      "trendLabel": "在宅支援急拡大"
+      "descriptionStandard": "精神科訪問看護利用率",
+      "descriptionSimple": "精神科訪問看護利用率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

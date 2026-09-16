@@ -2,7 +2,7 @@
   "id": "disaster-pet-evacuation-co-sheltering-guideline-act",
   "title": "避難所ペット同室避難・同行避難ケージ備蓄義務化法",
   "catchphrase": "ペットを理由に避難を諦めさせない、全国避難所へのペット同室・専用区画とケージ備蓄義務化",
-  "category": "safety",
+  "category": "society",
   "categoryLabel": "司法・治安・刑事政策",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "ペット防災",
-      "variant": "positive"
+      "text": "ペット防災",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "同行避難",
-      "variant": "positive"
+      "text": "同行避難",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "避難所改革",
-      "variant": "neutral"
+      "text": "避難所改革",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "受入区画",
+      "labelStandard": "受入区画",
+      "labelSimple": "受入区画",
       "value": "全避難所100%指定",
+      "unit": "",
+      "oldValue": "現行",
       "description": "同室避難エリアまたは別棟ペット専用スペースの事前指定を義務化",
+      "descriptionStandard": "受入区画",
+      "descriptionSimple": "受入区画",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "備蓄品",
+      "labelStandard": "備蓄品",
+      "labelSimple": "備蓄品",
       "value": "ケージ・衛生品完備",
+      "unit": "",
+      "oldValue": "現行",
       "description": "自治体防災倉庫に折りたたみケージやペットシーツの備蓄を義務付け",
+      "descriptionStandard": "備蓄品",
+      "descriptionSimple": "備蓄品",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Building2"
     }
   ],

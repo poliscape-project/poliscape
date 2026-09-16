@@ -4,7 +4,7 @@
   "catchphrase": "親の付き添い登園を解消。認可保育所での医療的ケア児受入加算と看護師配置を全額公費支援",
   "category": "childcare",
   "categoryLabel": "子育て・医療的ケア児",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "医療的ケア児",
-      "variant": "purple"
+      "text": "医療的ケア児",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "保育園看護師",
-      "variant": "blue"
+      "text": "保育園看護師",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "インクルーシブ",
-      "variant": "green"
+      "text": "インクルーシブ",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "保育所受入児童数",
+      "label": "保育所受入児童数",
+      "labelStandard": "保育所受入児童数",
+      "labelSimple": "保育所受入児童数",
       "value": "3",
       "unit": "倍増目標",
+      "oldValue": "現行",
       "description": "看護師全額助成および親付き添い廃止により全国認可保育所で受け入れられるケア児数",
-      "trend": "up",
-      "trendLabel": "受入急拡大"
+      "descriptionStandard": "保育所受入児童数",
+      "descriptionSimple": "保育所受入児童数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "親の就労継続率",
+      "label": "親の就労継続率",
+      "labelStandard": "親の就労継続率",
+      "labelSimple": "親の就労継続率",
       "value": "85",
       "unit": "%達成",
+      "oldValue": "現行",
       "description": "付き添い免除と預け先確保に伴う医療的ケア児の保護者（特に母親）の就労継続割合",
-      "trend": "up",
-      "trendLabel": "離職防止"
+      "descriptionStandard": "親の就労継続率",
+      "descriptionSimple": "親の就労継続率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

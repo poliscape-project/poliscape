@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "補聴器早期装用開始月齢",
+      "labelStandard": "補聴器早期装用開始月齢",
+      "labelSimple": "補聴器早期装用開始月齢",
       "value": "生後6",
       "unit": "ヶ月以内（目標達成率向上）",
       "oldValue": "2〜3歳以降の発見・装用",
       "description": "臨界期前の早期介入により音声言語の習得を飛躍的に促進",
+      "descriptionStandard": "補聴器早期装用開始月齢",
+      "descriptionSimple": "補聴器早期装用開始月齢",
       "badge": "臨界期介入",
       "badgeColor": "green",
       "icon": "sparkles"
     },
     {
       "label": "補聴器購入助成率",
+      "labelStandard": "補聴器購入助成率",
+      "labelSimple": "補聴器購入助成率",
       "value": "最大100",
       "unit": "%（公費補助）",
       "oldValue": "軽中等度は全額自己負担",
       "description": "自治体交付金により片耳・両耳の購入費を大幅減免",
+      "descriptionStandard": "補聴器購入助成率",
+      "descriptionSimple": "補聴器購入助成率",
       "badge": "公費助成",
       "badgeColor": "blue",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "算定支援中小企業数",
+      "labelStandard": "算定支援中小企業数",
+      "labelSimple": "算定支援中小企業数",
       "value": "5万",
       "unit": "社超（全国地銀信金）",
       "oldValue": "大手企業のみ算定（中小は未着手）",
       "description": "地銀の伴走支援により下請け中小企業へのCFP算定が急速普及",
+      "descriptionStandard": "算定支援中小企業数",
+      "descriptionSimple": "算定支援中小企業数",
       "badge": "5万社算定達成",
       "badgeColor": "green",
       "icon": "chart-bar"
     },
     {
       "label": "GX優遇金利引下幅",
+      "labelStandard": "GX優遇金利引下幅",
+      "labelSimple": "GX優遇金利引下幅",
       "value": "最大0.3",
       "unit": "%優遇（SLL融資）",
       "oldValue": "通常貸出金利適用",
       "description": "脱炭素目標達成に応じて貸出金利を引き下げるインセンティブ設計",
+      "descriptionStandard": "GX優遇金利引下幅",
+      "descriptionSimple": "GX優遇金利引下幅",
       "badge": "金利優遇",
       "badgeColor": "blue",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

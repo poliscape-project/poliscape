@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "労災認定",
-      "variant": "positive"
+      "text": "労災認定",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "メンタルヘルス",
-      "variant": "positive"
+      "text": "メンタルヘルス",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "行政DX",
-      "variant": "neutral"
+      "text": "行政DX",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "審査期間",
+      "labelStandard": "審査期間",
+      "labelSimple": "審査期間",
       "value": "原則3ヶ月以内",
+      "unit": "",
+      "oldValue": "現行",
       "description": "平均1年の審査期間をデジタル活用で3ヶ月へ短縮",
+      "descriptionStandard": "審査期間",
+      "descriptionSimple": "審査期間",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "仮払い手当",
+      "labelStandard": "仮払い手当",
+      "labelSimple": "仮払い手当",
       "value": "給与の60%",
+      "unit": "",
+      "oldValue": "現行",
       "description": "審査期間中の生活困窮を防ぐ暫定生活手当を新設",
+      "descriptionStandard": "仮払い手当",
+      "descriptionSimple": "仮払い手当",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

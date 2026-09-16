@@ -1,7 +1,7 @@
 {
   "id": "snow-damage-resilience-road-heating-heat-pump-retrofit",
   "title": "豪雪地帯における地熱・下水熱利用型ロードヒーティング整備支援",
-  "category": "infrastructure",
+  "category": "society",
   "subcategory": "地方創生・省エネ融雪",
   "status": "施行中",
   "date": "2024-06",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "ランニングコスト削減率",
+      "labelStandard": "ランニングコスト削減率",
+      "labelSimple": "ランニングコスト削減率",
       "value": "最大70",
       "unit": "%減（灯油ボイラー比）",
       "oldValue": "高額燃料費",
       "description": "高効率ヒートポンプにより冬期間の莫大な維持費を劇的カット",
+      "descriptionStandard": "ランニングコスト削減率",
+      "descriptionSimple": "ランニングコスト削減率",
       "badge": "維持費7割減",
       "badgeColor": "green",
       "icon": "trending-down"
     },
     {
       "label": "設備導入公費補助",
+      "labelStandard": "設備導入公費補助",
+      "labelSimple": "設備導入公費補助",
       "value": "最大67",
       "unit": "%（3分の2）",
       "oldValue": "自治体単独負担",
       "description": "未利用熱利用ヒートポンプ・路面配管工事費用を国が手厚く助成",
+      "descriptionStandard": "設備導入公費補助",
+      "descriptionSimple": "設備導入公費補助",
       "badge": "最大3分の2補助",
       "badgeColor": "blue",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "infrastructure"
 }

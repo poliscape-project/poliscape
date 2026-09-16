@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "キャリア支援",
-      "variant": "positive"
+      "text": "キャリア支援",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "高校教育",
-      "variant": "positive"
+      "text": "高校教育",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "若者雇用",
-      "variant": "neutral"
+      "text": "若者雇用",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "配置基準",
+      "labelStandard": "配置基準",
+      "labelSimple": "配置基準",
       "value": "全高校常駐",
+      "unit": "",
+      "oldValue": "現行",
       "description": "定時制・通信制を含む全高校へ国家資格者を配置",
+      "descriptionStandard": "配置基準",
+      "descriptionSimple": "配置基準",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "離職防止",
+      "labelStandard": "離職防止",
+      "labelSimple": "離職防止",
       "value": "3年以内離職半減",
+      "unit": "",
+      "oldValue": "現行",
       "description": "初期キャリアのミスマッチを解消し安定雇用へ誘導",
+      "descriptionStandard": "離職防止",
+      "descriptionSimple": "離職防止",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Award"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "id": "victim-restitution-fund-crime-compensation-garnishment",
   "title": "犯罪被害給付金の抜本増額と加害者財産照会・強制執行特例法",
-  "category": "admin",
+  "category": "society",
   "subcategory": "司法・犯罪被害者支援",
   "status": "施行中",
   "date": "2024-05",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "遺族給付金上限",
+      "labelStandard": "遺族給付金上限",
+      "labelSimple": "遺族給付金上限",
       "value": "約8000",
       "unit": "万円（最大）",
       "oldValue": "約3,000万円",
       "description": "労災保険・自賠責保険並みの手厚い補償水準へ倍増",
+      "descriptionStandard": "遺族給付金上限",
+      "descriptionSimple": "遺族給付金上限",
       "badge": "上限倍増",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "加害者財産照会権",
+      "labelStandard": "加害者財産照会権",
+      "labelSimple": "加害者財産照会権",
       "value": "一括照会可能",
       "unit": "",
       "oldValue": "被害者の個別特定頼み",
       "description": "全銀行・証券・暗号資産交換所に対する国の強力な照会権を新設",
+      "descriptionStandard": "加害者財産照会権",
+      "descriptionSimple": "加害者財産照会権",
       "badge": "国家照会権",
       "badgeColor": "blue",
       "icon": "shield-check"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "admin"
 }

@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "両立支援",
-      "variant": "positive"
+      "text": "両立支援",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "テレワーク",
-      "variant": "positive"
+      "text": "テレワーク",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "介護離職防止",
-      "variant": "neutral"
+      "text": "介護離職防止",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "請求権対象",
+      "labelStandard": "請求権対象",
+      "labelSimple": "請求権対象",
       "value": "3歳未満育児・要介護",
+      "unit": "",
+      "oldValue": "現行",
       "description": "業務上支障がない限り企業は在宅勤務を原則承認",
+      "descriptionStandard": "請求権対象",
+      "descriptionSimple": "請求権対象",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Home"
     },
     {
       "label": "不可職種",
+      "labelStandard": "不可職種",
+      "labelSimple": "不可職種",
       "value": "代替手当最大3万円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "出社必須の職種には柔軟勤務や手当の提供を義務付け",
+      "descriptionStandard": "不可職種",
+      "descriptionSimple": "不可職種",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "個人送信対象資料数",
+      "labelStandard": "個人送信対象資料数",
+      "labelSimple": "個人送信対象資料数",
       "value": "180",
       "unit": "万点超",
       "oldValue": "0点（館内閲覧のみ）",
       "description": "絶版・入手困難な書籍・雑誌・古典籍を自宅端末から無料閲覧可能",
+      "descriptionStandard": "個人送信対象資料数",
+      "descriptionSimple": "個人送信対象資料数",
       "badge": "自宅閲覧可能",
       "badgeColor": "blue",
       "icon": "book-open"
     },
     {
       "label": "電子図書館導入自治体率",
+      "labelStandard": "電子図書館導入自治体率",
+      "labelSimple": "電子図書館導入自治体率",
       "value": "45",
       "unit": "%（急伸中）",
       "oldValue": "10%未満",
       "description": "全国の自治体で公立電子図書館の導入が急速に拡大中",
+      "descriptionStandard": "電子図書館導入自治体率",
+      "descriptionSimple": "電子図書館導入自治体率",
       "badge": "普及加速",
       "badgeColor": "green",
       "icon": "building-library"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

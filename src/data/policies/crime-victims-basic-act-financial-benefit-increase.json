@@ -2,7 +2,7 @@
   "id": "crime-victims-basic-act-financial-benefit-increase",
   "title": "犯罪被害者等給付金支給法改正（遺族給付金大幅引上げ・生活支援弁護士費用公費助成）",
   "catchphrase": "犯罪被害者の生活破綻を防ぐ。遺族給付金の最低保障額を大幅引上げ、弁護士費用を全額公費助成",
-  "category": "social",
+  "category": "society",
   "categoryLabel": "社会保障・治安・人権擁護",
   "lastUpdated": "2024-04-10",
   "effectiveDate": "2024年5月成立・順次施行",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "犯罪被害者給付金拡充",
-      "variant": "positive"
+      "text": "犯罪被害者給付金拡充",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "国選被害者弁護士",
-      "variant": "positive"
+      "text": "国選被害者弁護士",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "加害者求償課題",
-      "variant": "neutral"
+      "text": "加害者求償課題",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "給付水準",
+      "labelStandard": "給付水準",
+      "labelSimple": "給付水準",
       "value": "最低保障額を大幅引上げ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "年収にかかわらず労災並みの手厚い生活再建額を保障",
+      "descriptionStandard": "給付水準",
+      "descriptionSimple": "給付水準",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     },
     {
       "label": "法的支援",
+      "labelStandard": "法的支援",
+      "labelSimple": "法的支援",
       "value": "弁護士費用を全額公費助成",
+      "unit": "",
+      "oldValue": "現行",
       "description": "刑事裁判・マスコミ対応・損害賠償を無料で支援",
+      "descriptionStandard": "法的支援",
+      "descriptionSimple": "法的支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "迅速性",
+      "labelStandard": "迅速性",
+      "labelSimple": "迅速性",
       "value": "仮渡金の即時給付枠拡充",
+      "unit": "",
+      "oldValue": "現行",
       "description": "事件直後の葬儀代や生活当座資金を速やかに支給",
+      "descriptionStandard": "迅速性",
+      "descriptionSimple": "迅速性",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

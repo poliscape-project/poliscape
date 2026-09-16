@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "返金救済成立率",
+      "labelStandard": "返金救済成立率",
+      "labelSimple": "返金救済成立率",
       "value": "約90",
       "unit": "%（迅速対応認定案件）",
       "oldValue": "泣き寝入りが多数存在",
       "description": "未成年者取消の円滑化指針により無断課金被害の大半を返金救済",
+      "descriptionStandard": "返金救済成立率",
+      "descriptionSimple": "返金救済成立率",
       "badge": "返金救済9割",
       "badgeColor": "green",
       "icon": "arrow-path"
     },
     {
       "label": "初期安全設定率",
+      "labelStandard": "初期安全設定率",
+      "labelSimple": "初期安全設定率",
       "value": "100",
       "unit": "%（新規プラットフォーム）",
       "oldValue": "保護者の手動設定任せ",
       "description": "未成年アカウントにおける課金上限ロックと時間制限の標準搭載",
+      "descriptionStandard": "初期安全設定率",
+      "descriptionSimple": "初期安全設定率",
       "badge": "標準安全設定",
       "badgeColor": "blue",
       "icon": "shield-check"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

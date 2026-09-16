@@ -2,7 +2,7 @@
   "id": "penal-code-reform-unified-prison-sentence",
   "title": "刑法改正（懲役刑と禁錮刑の廃止・「拘禁刑」への一本化と再犯防止教育重視）",
   "catchphrase": "明治以来115年ぶりの大改革。懲役と禁錮を廃止し「拘禁刑」へ一本化、受刑者一人ひとりの更生教育を重視",
-  "category": "safety",
+  "category": "society",
   "categoryLabel": "司法・治安・刑事政策",
   "lastUpdated": "2024-04-10",
   "effectiveDate": "2022年6月成立・2025年施行",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "拘禁刑一本化",
-      "variant": "positive"
+      "text": "拘禁刑一本化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "再犯防止教育重視",
-      "variant": "positive"
+      "text": "再犯防止教育重視",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "応報感情議論",
-      "variant": "neutral"
+      "text": "応報感情議論",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "刑罰改正",
+      "labelStandard": "刑罰改正",
+      "labelSimple": "刑罰改正",
       "value": "明治以来115年ぶりの新刑",
+      "unit": "",
+      "oldValue": "現行",
       "description": "懲役・禁錮を廃止し一本化した「拘禁刑」を創設",
+      "descriptionStandard": "刑罰改正",
+      "descriptionSimple": "刑罰改正",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "処遇方針",
+      "labelStandard": "処遇方針",
+      "labelSimple": "処遇方針",
       "value": "個別更生教育の優先",
+      "unit": "",
+      "oldValue": "現行",
       "description": "画一作業から薬物治療・学力指導・リハビリへ大転換",
+      "descriptionStandard": "処遇方針",
+      "descriptionSimple": "処遇方針",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "社会復帰",
+      "labelStandard": "社会復帰",
+      "labelSimple": "社会復帰",
       "value": "在所中からの福祉連携",
+      "unit": "",
+      "oldValue": "現行",
       "description": "出所当日の住居・就労確保により再入所を防止",
+      "descriptionStandard": "社会復帰",
+      "descriptionSimple": "社会復帰",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

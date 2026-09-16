@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "熱中症対策",
-      "variant": "positive"
+      "text": "熱中症対策",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "学校冷水機",
-      "variant": "positive"
+      "text": "学校冷水機",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "荷物軽量化",
-      "variant": "neutral"
+      "text": "荷物軽量化",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "設置目標",
+      "labelStandard": "設置目標",
+      "labelSimple": "設置目標",
       "value": "全国小中高100%",
+      "unit": "",
+      "oldValue": "現行",
       "description": "すべての公立校の廊下・体育館に冷水サーバーを義務配備",
+      "descriptionStandard": "設置目標",
+      "descriptionSimple": "設置目標",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "水筒負担軽減",
+      "labelStandard": "水筒負担軽減",
+      "labelSimple": "水筒負担軽減",
       "value": "マイボトル補充",
+      "unit": "",
+      "oldValue": "現行",
       "description": "500mlの軽いボトル1本で登校し学校で冷水をおかわり可能に",
+      "descriptionStandard": "水筒負担軽減",
+      "descriptionSimple": "水筒負担軽減",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

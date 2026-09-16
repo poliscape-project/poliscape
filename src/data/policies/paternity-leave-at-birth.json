@@ -134,62 +134,76 @@
   "badges": [
     {
       "label": "実質手取り10割（100%）",
-      "variant": "neutral"
+      "text": "実質手取り10割（100%）",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "産後8週に最大4週間",
-      "variant": "neutral"
+      "text": "産後8週に最大4週間",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "100人超企業に公表義務",
-      "variant": "neutral"
+      "text": "100人超企業に公表義務",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "パパ育休中の手取り",
+      "label": "",
       "labelStandard": "実質手取り補償水準",
+      "labelSimple": "パパ育休中の手取り",
       "value": "実質 10割",
       "unit": "（100%相当）",
       "oldValue": "給付金67%（手取り実質8割止まり）",
-      "descriptionSimple": "休んでもいつものお給料とほぼ同じ額がもらえる！",
+      "description": "",
       "descriptionStandard": "出生後休業支援給付金＋社保全額免除で手取り100%",
+      "descriptionSimple": "休んでもいつものお給料とほぼ同じ額がもらえる！",
       "badge": "手取り10割化",
       "badgeColor": "bg-pink-100 text-pink-800",
       "icon": "Baby"
     },
     {
-      "labelSimple": "休める期間",
+      "label": "",
       "labelStandard": "産後パパ育休の取得枠",
+      "labelSimple": "休める期間",
       "value": "産後8週内に",
       "unit": "最大 4週間",
       "oldValue": "通常の育休のみ（1ヶ月前申請・分割不可）",
-      "descriptionSimple": "赤ちゃんが生まれてすぐ2回に分けて休める！",
+      "description": "",
       "descriptionStandard": "2回分割取得可能・2週間前申請で柔軟取得",
+      "descriptionSimple": "赤ちゃんが生まれてすぐ2回に分けて休める！",
       "badge": "最大4週間・2分割",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Calendar"
     },
     {
-      "labelSimple": "男性の育休取得率",
+      "label": "",
       "labelStandard": "民間企業の男性取得率",
+      "labelSimple": "男性の育休取得率",
       "value": "30% 超",
       "unit": "へ急上昇中",
       "oldValue": "わずか数％台で「男は休めない」時代",
-      "descriptionSimple": "男性が育休を取るのが当たり前の社会へ！",
+      "description": "",
       "descriptionStandard": "政府目標50%に向けて法改正と公表義務化が牽引",
+      "descriptionSimple": "男性が育休を取るのが当たり前の社会へ！",
       "badge": "取得率過去最高",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "会社の公表義務",
+      "label": "",
       "labelStandard": "育休取得率の公表対象",
+      "labelSimple": "会社の公表義務",
       "value": "100人超",
       "unit": "の全企業に拡大",
       "oldValue": "従業員1,000人超の大企業のみ義務",
-      "descriptionSimple": "中小企業もパパが育休を取ったか公表する！",
+      "description": "",
       "descriptionStandard": "企業の採用力・ESG評価に直結し意識改革が定着",
+      "descriptionSimple": "中小企業もパパが育休を取ったか公表する！",
       "badge": "100人超へ拡大",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "ShieldCheck"

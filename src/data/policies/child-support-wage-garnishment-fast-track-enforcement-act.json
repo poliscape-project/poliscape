@@ -1,8 +1,8 @@
 {
   "id": "child-support-wage-garnishment-fast-track-enforcement-act",
   "title": "未払い養育費回収のための給与天引き・預貯金差押え迅速執行支援法",
-  "category": "legal-affairs",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "ひとり親世帯の貧困の主因となっている「離婚後の養育費未払い（受給率約28%）」を根絶するため、民事執行法および自治体ワンストップ回収スキームを抜本強化し、裁判所の債務名義に基づく「給与天引き・預貯金口座の迅速差押え」を国・自治体が代行・強力支援する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "養育費確保",
-      "variant": "purple"
+      "text": "養育費確保",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "ひとり親支援",
-      "variant": "blue"
+      "text": "ひとり親支援",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "子どもの権利",
-      "variant": "green"
+      "text": "子どもの権利",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "養育費受給率目標",
+      "label": "養育費受給率目標",
+      "labelStandard": "養育費受給率目標",
+      "labelSimple": "養育費受給率目標",
       "value": "60",
       "unit": "%以上",
+      "oldValue": "現行",
       "description": "未払い強制回収支援および公的立替制度普及によるひとり親世帯の受給率目標",
-      "trend": "up",
-      "trendLabel": "受給率倍増"
+      "descriptionStandard": "養育費受給率目標",
+      "descriptionSimple": "養育費受給率目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "勤務先特定成功率",
+      "label": "勤務先特定成功率",
+      "labelStandard": "勤務先特定成功率",
+      "labelSimple": "勤務先特定成功率",
       "value": "85",
       "unit": "%",
+      "oldValue": "現行",
       "description": "年金・税情報連携による所在不明元配偶者の給与照会・差押え成功割合",
-      "trend": "up",
-      "trendLabel": "逃げ得阻止"
+      "descriptionStandard": "勤務先特定成功率",
+      "descriptionSimple": "勤務先特定成功率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

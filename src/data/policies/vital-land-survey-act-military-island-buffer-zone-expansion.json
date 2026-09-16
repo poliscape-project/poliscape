@@ -1,8 +1,8 @@
 {
   "id": "vital-land-survey-act-military-island-buffer-zone-expansion",
   "title": "重要土地等調査法に基づく注視頻辺区域・特別注視区域の国境離島・水源地への拡大",
-  "category": "safety-disaster",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "防衛関係施設（自衛隊基地・米軍基地）や原子力発電所、国境離島などの重要インフラ周辺において、安全保障上の重大な阻害行為（電波妨害・滑走路監視・水源汚染等）を防止するため、重要土地等調査法（重要施設周辺及び国境離島等における土地等の利用状況の調査及び利用の規制等に関する法律）に基づく「注視頻辺区域」および「特別注視区域」の指定を全国数百カ所へ拡大する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "経済安保・安全保障",
-      "variant": "purple"
+      "text": "経済安保・安全保障",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "重要土地調査",
-      "variant": "blue"
+      "text": "重要土地調査",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "国境離島保全",
-      "variant": "green"
+      "text": "国境離島保全",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "指定対象重要施設",
+      "label": "指定対象重要施設",
+      "labelStandard": "指定対象重要施設",
+      "labelSimple": "指定対象重要施設",
       "value": "1,000",
       "unit": "カ所以上",
+      "oldValue": "現行",
       "description": "全国の自衛隊・米軍基地、原発、国境離島で指定された注視・特別注視区域総数",
-      "trend": "up",
-      "trendLabel": "指定拡大"
+      "descriptionStandard": "指定対象重要施設",
+      "descriptionSimple": "指定対象重要施設",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "売買事前届出履行率",
+      "label": "売買事前届出履行率",
+      "labelStandard": "売買事前届出履行率",
+      "labelSimple": "売買事前届出履行率",
       "value": "99.8",
       "unit": "%",
+      "oldValue": "現行",
       "description": "特別注視区域内における土地売買契約前の氏名・国籍・目的届出履行割合",
-      "trend": "up",
-      "trendLabel": "法令遵守徹底"
+      "descriptionStandard": "売買事前届出履行率",
+      "descriptionSimple": "売買事前届出履行率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

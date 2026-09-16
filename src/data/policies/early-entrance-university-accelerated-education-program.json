@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "才能教育",
-      "variant": "positive"
+      "text": "才能教育",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "飛び入学",
-      "variant": "neutral"
+      "text": "飛び入学",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "教育改革",
-      "variant": "positive"
+      "text": "教育改革",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "大学飛び入学の要件緩和",
+      "labelStandard": "大学飛び入学の要件緩和",
+      "labelSimple": "大学飛び入学の要件緩和",
       "value": "大学飛び入学の要件緩和",
+      "unit": "",
+      "oldValue": "現行",
       "description": "高校2年終了時での大学進学枠を理系・文系問わず大幅拡大。",
+      "descriptionStandard": "大学飛び入学の要件緩和",
+      "descriptionSimple": "大学飛び入学の要件緩和",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "学年を超えた個別学習",
+      "labelStandard": "学年を超えた個別学習",
+      "labelSimple": "学年を超えた個別学習",
       "value": "学年を超えた個別学習",
+      "unit": "",
+      "oldValue": "現行",
       "description": "得意科目を小中学生でも高校・大学レベルで学べる制度を導入。",
+      "descriptionStandard": "学年を超えた個別学習",
+      "descriptionSimple": "学年を超えた個別学習",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "2E児への伴走支援",
+      "labelStandard": "2E児への伴走支援",
+      "labelSimple": "2E児への伴走支援",
       "value": "2E児への伴走支援",
+      "unit": "",
+      "oldValue": "現行",
       "description": "才能と生きづらさを併せ持つ子どもへの心理・学習支援を強化。",
+      "descriptionStandard": "2E児への伴走支援",
+      "descriptionSimple": "2E児への伴走支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

@@ -2,7 +2,7 @@
   "id": "deaf-sign-language-basic-act-official-language-status",
   "title": "手話言語法案（手話の公的言語認知と情報保障・公的機関での通訳士配置義務化）",
   "catchphrase": "手話は単なる身振りではなく独自の言語である。手話の公的言語指定と公的機関・医療機関の手話通訳義務化",
-  "category": "social",
+  "category": "society",
   "categoryLabel": "社会保障・人権・障害者共生",
   "lastUpdated": "2024-04-15",
   "effectiveDate": "法案提出・地方条例全国波及中",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "手話言語法",
-      "variant": "positive"
+      "text": "手話言語法",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "情報保障の義務化",
-      "variant": "positive"
+      "text": "情報保障の義務化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "通訳者不足課題",
-      "variant": "warning"
+      "text": "通訳者不足課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "法的地位",
+      "labelStandard": "法的地位",
+      "labelSimple": "法的地位",
       "value": "手話を「言語」と公認",
+      "unit": "",
+      "oldValue": "現行",
       "description": "音声言語と対等な固有の言語として国家が保存・普及",
+      "descriptionStandard": "法的地位",
+      "descriptionSimple": "法的地位",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "情報保障",
+      "labelStandard": "情報保障",
+      "labelSimple": "情報保障",
       "value": "公的機関・病院の通訳義務",
+      "unit": "",
+      "oldValue": "現行",
       "description": "タブレット等を活用した24時間遠隔手話通訳を配備",
+      "descriptionStandard": "情報保障",
+      "descriptionSimple": "情報保障",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "処遇改善",
+      "labelStandard": "処遇改善",
+      "labelSimple": "処遇改善",
       "value": "手話通訳士の常勤職化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ボランティア依存を脱却し公的専門職としての給与体系を確立",
+      "descriptionStandard": "処遇改善",
+      "descriptionSimple": "処遇改善",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

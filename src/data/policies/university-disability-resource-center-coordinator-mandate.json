@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "配慮提供義務",
+      "labelStandard": "配慮提供義務",
+      "labelSimple": "配慮提供義務",
       "value": "全大学",
       "unit": "（法的完全義務化）",
       "oldValue": "私立大は努力義務",
       "description": "国公私立問わずすべての高等教育機関で合理的配慮提供を義務付け",
+      "descriptionStandard": "配慮提供義務",
+      "descriptionSimple": "配慮提供義務",
       "badge": "法的完全義務",
       "badgeColor": "green",
       "icon": "shield-check"
     },
     {
       "label": "障害学生卒業率",
+      "labelStandard": "障害学生卒業率",
+      "labelSimple": "障害学生卒業率",
       "value": "約85",
       "unit": "%（支援室設置校）",
       "oldValue": "中退率が健常学生の倍以上",
       "description": "専任コーディネーターの伴走支援による中途退学の大幅抑止",
+      "descriptionStandard": "障害学生卒業率",
+      "descriptionSimple": "障害学生卒業率",
       "badge": "卒業率大幅向上",
       "badgeColor": "blue",
       "icon": "academic-cap"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

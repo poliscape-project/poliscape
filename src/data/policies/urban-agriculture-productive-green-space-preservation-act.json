@@ -1,8 +1,8 @@
 {
   "id": "urban-agriculture-productive-green-space-preservation-act",
   "title": "生産緑地法における指定継続と特定生産緑地の都市農業保全特例",
-  "category": "regional-agriculture",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "大都市圏（東京・大阪・名古屋圏）に残る都市農地を防災空間・食料自給拠点・環境緑地として恒久的に守るため、生産緑地法に基づく「特定生産緑地（指定期間10年延長）」への指定継続と、高齢農家の後継者承継支援特例を実施する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "都市農業",
-      "variant": "green"
+      "text": "都市農業",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "防災まちづくり",
-      "variant": "blue"
+      "text": "防災まちづくり",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "税制特例",
-      "variant": "purple"
+      "text": "税制特例",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "特定生産緑地移行率",
+      "label": "特定生産緑地移行率",
+      "labelStandard": "特定生産緑地移行率",
+      "labelSimple": "特定生産緑地移行率",
       "value": "89",
       "unit": "%",
+      "oldValue": "現行",
       "description": "2022年に30年期限を迎えた生産緑地のうち10年延長を選択した割合",
-      "trend": "up",
-      "trendLabel": "大半が緑地維持"
+      "descriptionStandard": "特定生産緑地移行率",
+      "descriptionSimple": "特定生産緑地移行率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "都市農地面積",
+      "label": "都市農地面積",
+      "labelStandard": "都市農地面積",
+      "labelSimple": "都市農地面積",
       "value": "1.2",
       "unit": "万ヘクタール",
+      "oldValue": "現行",
       "description": "首都圏・関西圏・中部圏の市街化区域に残る貴重な都市農地総量",
-      "trend": "neutral",
-      "trendLabel": "保全対象規模"
+      "descriptionStandard": "都市農地面積",
+      "descriptionSimple": "都市農地面積",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

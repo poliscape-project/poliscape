@@ -1,8 +1,8 @@
 {
   "id": "perovskite-solar-cells-public-building-installation-duty",
   "title": "次世代ペロブスカイト太陽電池の公共建築物屋根・壁面設置義務化",
-  "category": "energy-environment",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "日本発の次世代太陽電池として期待される「ペロブスカイト太陽電池（PSC）」について、国および地方自治体が新築・大規模改修する公共建築物の屋根・外壁・窓ガラスへの導入を原則義務付ける。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "ペロブスカイト",
-      "variant": "green"
+      "text": "ペロブスカイト",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "次世代再エネ",
-      "variant": "blue"
+      "text": "次世代再エネ",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "エネルギー自給",
-      "variant": "purple"
+      "text": "エネルギー自給",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "国産原料ヨウ素の世界シェア",
+      "label": "国産原料ヨウ素の世界シェア",
+      "labelStandard": "国産原料ヨウ素の世界シェア",
+      "labelSimple": "国産原料ヨウ素の世界シェア",
       "value": "30",
       "unit": "%",
+      "oldValue": "現行",
       "description": "千葉県などで産出される世界第2位の国産資源を活用して製造可能",
-      "trend": "neutral",
-      "trendLabel": "国産資源"
+      "descriptionStandard": "国産原料ヨウ素の世界シェア",
+      "descriptionSimple": "国産原料ヨウ素の世界シェア",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "軽量性（シリコン比較）",
+      "label": "軽量性（シリコン比較）",
+      "labelStandard": "軽量性（シリコン比較）",
+      "labelSimple": "軽量性（シリコン比較）",
       "value": "90",
       "unit": "%軽量化",
+      "oldValue": "現行",
       "description": "シリコン製パネルに比べ重量が約10分の1で、耐震制限のある屋根にも設置可能",
-      "trend": "down",
-      "trendLabel": "圧倒的軽量"
+      "descriptionStandard": "軽量性（シリコン比較）",
+      "descriptionSimple": "軽量性（シリコン比較）",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

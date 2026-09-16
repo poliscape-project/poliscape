@@ -4,7 +4,7 @@
   "catchphrase": "産後うつと孤立育児をゼロへ。宿泊型産後ケアの自己負担大幅減免と全市区町村での拠点確保",
   "category": "childcare",
   "categoryLabel": "子育て・母子保健",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "産後ケア",
-      "variant": "purple"
+      "text": "産後ケア",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "母子保健",
-      "variant": "blue"
+      "text": "母子保健",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "産後うつ防止",
-      "variant": "green"
+      "text": "産後うつ防止",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "宿泊ケア標準自己負担",
+      "label": "宿泊ケア標準自己負担",
+      "labelStandard": "宿泊ケア標準自己負担",
+      "labelSimple": "宿泊ケア標準自己負担",
       "value": "2,000",
       "unit": "円/泊程度",
+      "oldValue": "現行",
       "description": "公費減免支援後の一般世帯における宿泊型産後ケアの1泊あたり標準自己負担額",
-      "trend": "down",
-      "trendLabel": "格安利用化"
+      "descriptionStandard": "宿泊ケア標準自己負担",
+      "descriptionSimple": "宿泊ケア標準自己負担",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "産後ケア全国利用率",
+      "label": "産後ケア全国利用率",
+      "labelStandard": "産後ケア全国利用率",
+      "labelSimple": "産後ケア全国利用率",
       "value": "30",
       "unit": "%達成",
+      "oldValue": "現行",
       "description": "全出産女性に占める産後ケア事業（宿泊・デイ・訪問）の利用経験者割合目標",
-      "trend": "up",
-      "trendLabel": "利用定着"
+      "descriptionStandard": "産後ケア全国利用率",
+      "descriptionSimple": "産後ケア全国利用率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "確定申告書類作成時間",
+      "labelStandard": "確定申告書類作成時間",
+      "labelSimple": "確定申告書類作成時間",
       "value": "約80",
       "unit": "%削減（医療費控除等）",
       "oldValue": "領収書の糊付け手入力（数時間）",
       "description": "電子レシートAPI連携により対象医薬品・医療費が自動で集計完了",
+      "descriptionStandard": "確定申告書類作成時間",
+      "descriptionSimple": "確定申告書類作成時間",
       "badge": "申告時間8割減",
       "badgeColor": "green",
       "icon": "clock"
     },
     {
       "label": "レシート紙廃棄削減量",
+      "labelStandard": "レシート紙廃棄削減量",
+      "labelSimple": "レシート紙廃棄削減量",
       "value": "約3万",
       "unit": "トン/年（森林保護）",
       "oldValue": "年間約5万トンの紙レシート消費",
       "description": "全国的な電子レシート普及によるペーパーレスと省資源化の達成",
+      "descriptionStandard": "レシート紙廃棄削減量",
+      "descriptionSimple": "レシート紙廃棄削減量",
       "badge": "環境負荷削減",
       "badgeColor": "blue",
       "icon": "trash"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

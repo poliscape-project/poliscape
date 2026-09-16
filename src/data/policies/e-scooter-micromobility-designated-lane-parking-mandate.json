@@ -1,8 +1,8 @@
 {
   "id": "e-scooter-micromobility-designated-lane-parking-mandate",
   "title": "特定小型原動機付自転車（電動キックボード）専用通行帯及び駐輪ポート整備",
-  "category": "safety-disaster",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "2023年7月の改正道路交通法施行により16歳以上免許不要・ヘルメット努力義務となった「特定小型原動機付自転車（電動キックボード等）」の交通違反や事故急増に対応するため、道路構造改革と専用インフラ整備を法制化する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "モビリティ安全",
-      "variant": "blue"
+      "text": "モビリティ安全",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "道路空間再配分",
-      "variant": "green"
+      "text": "道路空間再配分",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "電動キックボード",
-      "variant": "purple"
+      "text": "電動キックボード",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "最高速度制限",
+      "label": "最高速度制限",
+      "labelStandard": "最高速度制限",
+      "labelSimple": "最高速度制限",
       "value": "20",
       "unit": "km/h以下",
+      "oldValue": "現行",
       "description": "特定小型原付の車道走行時最高速度（歩道特例時は緑点滅6km/h）",
-      "trend": "neutral",
-      "trendLabel": "法定速度基準"
+      "descriptionStandard": "最高速度制限",
+      "descriptionSimple": "最高速度制限",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "専用レーン整備目標",
+      "label": "専用レーン整備目標",
+      "labelStandard": "専用レーン整備目標",
+      "labelSimple": "専用レーン整備目標",
       "value": "5,000",
       "unit": "km",
+      "oldValue": "現行",
       "description": "都市部幹線道路における自転車・小型モビリティ専用通行帯の全国整備目標",
-      "trend": "up",
-      "trendLabel": "整備拡大"
+      "descriptionStandard": "専用レーン整備目標",
+      "descriptionSimple": "専用レーン整備目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

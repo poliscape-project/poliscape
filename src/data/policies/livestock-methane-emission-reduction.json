@@ -175,62 +175,76 @@
   "badges": [
     {
       "label": "牛のゲップメタン2〜3割減",
-      "variant": "neutral"
+      "text": "牛のゲップメタン2〜3割減",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "海藻・カシューナッツ油添加",
-      "variant": "neutral"
+      "text": "海藻・カシューナッツ油添加",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "ふん尿バイオガス発電",
-      "variant": "neutral"
+      "text": "ふん尿バイオガス発電",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "牛のゲップが占める割合",
+      "label": "",
       "labelStandard": "農業メタン排出シェア",
+      "labelSimple": "牛のゲップが占める割合",
       "value": "約 28",
       "unit": "%",
       "oldValue": "日本の農業由来温室効果ガスの最大排出源",
-      "descriptionSimple": "牛のゲップが地球を温める大きな原因に！",
+      "description": "",
       "descriptionStandard": "牛の消化管発酵で生じるメタン（CO2の約28倍）",
+      "descriptionSimple": "牛のゲップが地球を温める大きな原因に！",
       "badge": "最大排出源",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "ゲップのガスをへらす効果",
+      "label": "",
       "labelStandard": "飼料添加による削減効果",
+      "labelSimple": "ゲップのガスをへらす効果",
       "value": "20〜30",
       "unit": "%削減",
       "oldValue": "通常飼料ではメタン削減は困難だった",
-      "descriptionSimple": "特別な油や海藻を混ぜるとゲップのガスが減る！",
+      "description": "",
       "descriptionStandard": "カシューナッツ殻油や海藻成分で胃内発酵を制御",
+      "descriptionSimple": "特別な油や海藻を混ぜるとゲップのガスが減る！",
       "badge": "ゲップ抑制",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Leaf"
     },
     {
-      "labelSimple": "メタンガスの強さ",
+      "label": "",
       "labelStandard": "メタンの地球温暖化係数",
+      "labelSimple": "メタンガスの強さ",
       "value": "約 28",
       "unit": "倍（対CO2）",
       "oldValue": "20年間スケールでは80倍以上の強さ",
-      "descriptionSimple": "二酸化炭素よりもずっと地球を温める力が強い！",
+      "description": "",
       "descriptionStandard": "国際的に早急な排出削減が求められる重要ガス",
+      "descriptionSimple": "二酸化炭素よりもずっと地球を温める力が強い！",
       "badge": "強温室効果",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "ShieldAlert"
     },
     {
-      "labelSimple": "牛のウンチで電気を作る",
+      "label": "",
       "labelStandard": "家畜ふん尿バイオガス発電",
+      "labelSimple": "牛のウンチで電気を作る",
       "value": "電気・熱",
       "unit": "を地域自給",
       "oldValue": "堆肥化での悪臭や水質汚濁が地域課題に",
-      "descriptionSimple": "においを消しながら町の電気やお湯を作る！",
+      "description": "",
       "descriptionStandard": "FIT/FIP活用で地域循環型再生エネルギーを創出",
+      "descriptionSimple": "においを消しながら町の電気やお湯を作る！",
       "badge": "ふん尿発電",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Zap"

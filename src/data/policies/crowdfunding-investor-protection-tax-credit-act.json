@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "スタートアップ",
-      "variant": "positive"
+      "text": "スタートアップ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "エンジェル税制",
-      "variant": "positive"
+      "text": "エンジェル税制",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "クラファン",
-      "variant": "neutral"
+      "text": "クラファン",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "所得控除",
+      "labelStandard": "所得控除",
+      "labelSimple": "所得控除",
       "value": "最大100%控除",
+      "unit": "",
+      "oldValue": "現行",
       "description": "年間最大1,000万円までシード投資額を全額控除可能",
+      "descriptionStandard": "所得控除",
+      "descriptionSimple": "所得控除",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Coins"
     },
     {
       "label": "手続き",
+      "labelStandard": "手続き",
+      "labelSimple": "手続き",
       "value": "確定申告レス",
+      "unit": "",
+      "oldValue": "現行",
       "description": "クラファン会社がマイナポータル連携で税務署へ自動送信",
+      "descriptionStandard": "手続き",
+      "descriptionSimple": "手続き",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     }
   ],

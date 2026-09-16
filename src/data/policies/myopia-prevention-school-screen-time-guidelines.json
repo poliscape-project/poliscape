@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "子どもの近視予防",
-      "variant": "positive"
+      "text": "子どもの近視予防",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "30-30ルール",
-      "variant": "positive"
+      "text": "30-30ルール",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "猛暑・家庭管理課題",
-      "variant": "neutral"
+      "text": "猛暑・家庭管理課題",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "基本姿勢",
+      "labelStandard": "基本姿勢",
+      "labelSimple": "基本姿勢",
       "value": "画面から30cm離す",
+      "unit": "",
+      "oldValue": "現行",
       "description": "猫背でかぶりつきを防止し目への負担を半減",
+      "descriptionStandard": "基本姿勢",
+      "descriptionSimple": "基本姿勢",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "休憩指針",
+      "labelStandard": "休憩指針",
+      "labelSimple": "休憩指針",
       "value": "30分に1回遠くを見る",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ピント調節筋の緊張を解く20秒以上の遠方視休息",
+      "descriptionStandard": "休憩指針",
+      "descriptionSimple": "休憩指針",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "環境推奨",
+      "labelStandard": "環境推奨",
+      "labelSimple": "環境推奨",
       "value": "1日2時間の屋外活動",
+      "unit": "",
+      "oldValue": "現行",
       "description": "太陽光のバイオレットライトによる近視抑制効果",
+      "descriptionStandard": "環境推奨",
+      "descriptionSimple": "環境推奨",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Leaf"
     }
   ],

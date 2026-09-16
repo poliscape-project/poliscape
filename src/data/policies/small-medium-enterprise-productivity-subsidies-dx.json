@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "人手不足DX",
-      "variant": "positive"
+      "text": "人手不足DX",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "カタログ型申請",
-      "variant": "positive"
+      "text": "カタログ型申請",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "最大1500万円",
-      "variant": "neutral"
+      "text": "最大1500万円",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "補助上限額",
+      "labelStandard": "補助上限額",
+      "labelSimple": "補助上限額",
       "value": "最大1,500万円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "従業員数および賃上げ要件の達成度に応じて変動",
+      "descriptionStandard": "補助上限額",
+      "descriptionSimple": "補助上限額",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "申請特徴",
+      "labelStandard": "申請特徴",
+      "labelSimple": "申請特徴",
       "value": "カタログ選択方式",
+      "unit": "",
+      "oldValue": "現行",
       "description": "事前認定された清掃・配膳ロボや自動精算機を選ぶだけ",
+      "descriptionStandard": "申請特徴",
+      "descriptionSimple": "申請特徴",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "対象業種",
+      "labelStandard": "対象業種",
+      "labelSimple": "対象業種",
       "value": "飲食・宿泊・小売・製造等",
+      "unit": "",
+      "oldValue": "現行",
       "description": "人手不足が深刻な全国の全業種中小企業",
+      "descriptionStandard": "対象業種",
+      "descriptionSimple": "対象業種",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

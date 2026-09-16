@@ -155,50 +155,62 @@
   "badges": [
     {
       "label": "系列を超えた中継局共用",
-      "variant": "neutral"
+      "text": "系列を超えた中継局共用",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "NHKと民放の相乗り解禁",
-      "variant": "neutral"
+      "text": "NHKと民放の相乗り解禁",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "地方局の赤字破綻防止",
-      "variant": "neutral"
+      "text": "地方局の赤字破綻防止",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "電波の塔のシェア",
+      "label": "",
       "labelStandard": "中継局インフラシェアリング",
+      "labelSimple": "電波の塔のシェア",
       "value": "全面解禁",
       "unit": "（NHK・民放間）",
       "oldValue": "各社自前保有の原則",
-      "descriptionSimple": "ライバルのテレビ局同士が同じアンテナ塔を一緒に使ってOK！",
+      "description": "",
       "descriptionStandard": "設備共同保有会社等の設立を認め固定費の劇的削減を可能に",
+      "descriptionSimple": "ライバルのテレビ局同士が同じアンテナ塔を一緒に使ってOK！",
       "badge": "制度転換",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Tv"
     },
     {
-      "labelSimple": "地方民放の赤字割合",
+      "label": "",
       "labelStandard": "地方民放の営業赤字局比率",
+      "labelSimple": "地方民放の赤字割合",
       "value": "約 4割",
       "unit": "（全国民放127社中）",
       "oldValue": "かつては全社黒字の優良業種",
-      "descriptionSimple": "ネット動画の普及で4割の地方テレビ局が赤字に直面！",
+      "description": "",
       "descriptionStandard": "広告収入減少と巨額の設備更新費用の二重苦を打開する緊急措置",
+      "descriptionSimple": "ネット動画の普及で4割の地方テレビ局が赤字に直面！",
       "badge": "経営危機対応",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "TrendingUp"
     },
     {
-      "labelSimple": "設備更新費用の削減",
+      "label": "",
       "labelStandard": "中継局更新コストの削減効果",
+      "labelSimple": "設備更新費用の削減",
       "value": "最大 50%",
       "unit": "削減（複数社共用時）",
       "oldValue": "各局数十億円の重複投資",
-      "descriptionSimple": "塔の建て替えや電気代を半分近く節約できる！",
+      "description": "",
       "descriptionStandard": "局舎・空調・鉄塔・予備電源等の集約により維持費を大幅圧縮",
+      "descriptionSimple": "塔の建て替えや電気代を半分近く節約できる！",
       "badge": "コスト半減",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Wallet"

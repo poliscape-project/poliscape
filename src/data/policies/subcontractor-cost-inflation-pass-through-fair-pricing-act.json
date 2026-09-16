@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "労務費転嫁率",
+      "labelStandard": "労務費転嫁率",
+      "labelSimple": "労務費転嫁率",
       "value": "急改善中",
       "unit": "",
       "oldValue": "ゼロ回答・据え置き",
       "description": "指針策定と実名公表の効果により価格交渉の妥結率が大幅上昇",
+      "descriptionStandard": "労務費転嫁率",
+      "descriptionSimple": "労務費転嫁率",
       "badge": "交渉進展",
       "badgeColor": "green",
       "icon": "trending-up"
     },
     {
       "label": "重点指導企業数",
+      "labelStandard": "重点指導企業数",
+      "labelSimple": "重点指導企業数",
       "value": "数万社規模",
       "unit": "調査",
       "oldValue": "少数の立ち入り",
       "description": "全国の主要発注企業を対象に下請Gメンが定期ヒアリングを実施",
+      "descriptionStandard": "重点指導企業数",
+      "descriptionSimple": "重点指導企業数",
       "badge": "徹底監視",
       "badgeColor": "blue",
       "icon": "shield-check"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

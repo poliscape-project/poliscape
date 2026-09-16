@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "スポーツ安全",
-      "variant": "positive"
+      "text": "スポーツ安全",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "部活動改革",
-      "variant": "positive"
+      "text": "部活動改革",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "医療連携",
-      "variant": "neutral"
+      "text": "医療連携",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "復帰ルール",
+      "labelStandard": "復帰ルール",
+      "labelSimple": "復帰ルール",
       "value": "6段階プログラム",
+      "unit": "",
+      "oldValue": "現行",
       "description": "無症状確認と医師の診断書なしには競技復帰不可",
+      "descriptionStandard": "復帰ルール",
+      "descriptionSimple": "復帰ルール",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Activity"
     },
     {
       "label": "原則",
+      "labelStandard": "原則",
+      "labelSimple": "原則",
       "value": "即時交代・当日復帰禁止",
+      "unit": "",
+      "oldValue": "現行",
       "description": "脳振盪の疑いが生じた時点でその日の運動は即中止",
+      "descriptionStandard": "原則",
+      "descriptionSimple": "原則",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "AlertTriangle"
     }
   ],

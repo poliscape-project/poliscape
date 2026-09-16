@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "太陽光廃棄積立",
-      "variant": "positive"
+      "text": "太陽光廃棄積立",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "不法投棄防止",
-      "variant": "positive"
+      "text": "不法投棄防止",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "事業者資金繰り",
-      "variant": "warning"
+      "text": "事業者資金繰り",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "積立方式",
+      "labelStandard": "積立方式",
+      "labelSimple": "積立方式",
       "value": "売電収入から原則源泉徴収",
+      "unit": "",
+      "oldValue": "現行",
       "description": "電力広域的運営推進機関（OCCTO）へ外部保全",
+      "descriptionStandard": "積立方式",
+      "descriptionSimple": "積立方式",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "開始時期",
+      "labelStandard": "開始時期",
+      "labelSimple": "開始時期",
       "value": "売電10年目以降順次",
+      "unit": "",
+      "oldValue": "現行",
       "description": "調達期間終了までの約10年間で必要額を満額積立",
+      "descriptionStandard": "開始時期",
+      "descriptionSimple": "開始時期",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "対象設備",
+      "labelStandard": "対象設備",
+      "labelSimple": "対象設備",
       "value": "10kW以上の全事業用パネル",
+      "unit": "",
+      "oldValue": "現行",
       "description": "メガソーラーから野立て中小パネルまで完全網羅",
+      "descriptionStandard": "対象設備",
+      "descriptionSimple": "対象設備",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Leaf"
     }
   ],

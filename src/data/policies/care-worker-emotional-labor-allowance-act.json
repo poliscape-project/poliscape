@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "介護職処遇改善",
-      "variant": "positive"
+      "text": "介護職処遇改善",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "感情労働",
-      "variant": "positive"
+      "text": "感情労働",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "直接給付",
-      "variant": "neutral"
+      "text": "直接給付",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "特別手当額",
+      "labelStandard": "特別手当額",
+      "labelSimple": "特別手当額",
       "value": "月額1万〜2万円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "重度認知症・終末期ケア担当者へ給与に上乗せ公費支給",
+      "descriptionStandard": "特別手当額",
+      "descriptionSimple": "特別手当額",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "直接振込",
+      "labelStandard": "直接振込",
+      "labelSimple": "直接振込",
       "value": "中抜きゼロ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "事業者経由ではなく職員の個人口座へ直接送金を選択可能",
+      "descriptionStandard": "直接振込",
+      "descriptionSimple": "直接振込",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

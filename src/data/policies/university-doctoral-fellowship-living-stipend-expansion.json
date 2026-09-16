@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "生活費給付額",
+      "labelStandard": "生活費給付額",
+      "labelSimple": "生活費給付額",
       "value": "20",
       "unit": "万円/月",
       "oldValue": "ほぼ無給（借入奨学金）",
       "description": "年額240万円の生活費相当額を返還不要で直接支給",
+      "descriptionStandard": "生活費給付額",
+      "descriptionSimple": "生活費給付額",
       "badge": "返還不要",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "支援対象割合",
+      "labelStandard": "支援対象割合",
+      "labelSimple": "支援対象割合",
       "value": "30",
       "unit": "%超",
       "oldValue": "約10%",
       "description": "博士後期課程在籍者の約3割（約2.5万人）へ支援対象を拡大",
+      "descriptionStandard": "支援対象割合",
+      "descriptionSimple": "支援対象割合",
       "badge": "3倍増枠",
       "badgeColor": "blue",
       "icon": "users"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

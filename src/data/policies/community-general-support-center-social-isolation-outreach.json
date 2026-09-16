@@ -2,7 +2,7 @@
   "id": "community-general-support-center-social-isolation-outreach",
   "title": "孤独・孤立対策推進法（地域包括支援センターのアウトリーチ機能強化）",
   "catchphrase": "誰にも頼れない孤独を放置しない、自治体アウトリーチ訪問支援の義務化と重層的支援体制整備",
-  "category": "welfare",
+  "category": "society",
   "categoryLabel": "社会保障・福祉",
   "lastUpdated": "2026-02-07",
   "effectiveDate": "2024年4月施行",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "孤独対策",
-      "variant": "neutral"
+      "text": "孤独対策",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "地域福祉",
-      "variant": "positive"
+      "text": "地域福祉",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "アウトリーチ",
-      "variant": "positive"
+      "text": "アウトリーチ",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "待つ支援から出向く支援へ",
+      "labelStandard": "待つ支援から出向く支援へ",
+      "labelSimple": "待つ支援から出向く支援へ",
       "value": "待つ支援から出向く支援へ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "困窮や孤立でSOSを出せない人への戸別訪問・伴走支援を強化。",
+      "descriptionStandard": "待つ支援から出向く支援へ",
+      "descriptionSimple": "待つ支援から出向く支援へ",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "官民協働の地域協議会",
+      "labelStandard": "官民協働の地域協議会",
+      "labelSimple": "官民協働の地域協議会",
       "value": "官民協働の地域協議会",
+      "unit": "",
+      "oldValue": "現行",
       "description": "NPOや民生委員、行政がチームを組み重層的に見守り体制を構築。",
+      "descriptionStandard": "官民協働の地域協議会",
+      "descriptionSimple": "官民協働の地域協議会",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "24時間いつでもつながる窓口",
+      "labelStandard": "24時間いつでもつながる窓口",
+      "labelSimple": "24時間いつでもつながる窓口",
       "value": "24時間いつでもつながる窓口",
+      "unit": "",
+      "oldValue": "現行",
       "description": "チャットや電話で深夜でも安心して相談できる居場所を整備。",
+      "descriptionStandard": "24時間いつでもつながる窓口",
+      "descriptionSimple": "24時間いつでもつながる窓口",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     }
   ],

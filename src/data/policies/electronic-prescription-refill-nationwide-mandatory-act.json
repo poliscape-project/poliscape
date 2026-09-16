@@ -4,7 +4,7 @@
   "catchphrase": "重複投薬と不要な通院を削減。電子処方箋の普及とリフィル処方箋の活用を医療DXで義務化",
   "category": "healthcare",
   "categoryLabel": "医療DX・調剤薬事",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "電子処方箋",
-      "variant": "purple"
+      "text": "電子処方箋",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "リフィル処方",
-      "variant": "blue"
+      "text": "リフィル処方",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "重複投薬防止",
-      "variant": "green"
+      "text": "重複投薬防止",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "全国導入薬局・医療機関率",
+      "label": "全国導入薬局・医療機関率",
+      "labelStandard": "全国導入薬局・医療機関率",
+      "labelSimple": "全国導入薬局・医療機関率",
       "value": "95",
       "unit": "%以上達成",
+      "oldValue": "現行",
       "description": "全国の調剤薬局および病院・診療所における電子処方箋対応システムの導入普及率",
-      "trend": "up",
-      "trendLabel": "全国普及"
+      "descriptionStandard": "全国導入薬局・医療機関率",
+      "descriptionSimple": "全国導入薬局・医療機関率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "重複投薬削減件数",
+      "label": "重複投薬削減件数",
+      "labelStandard": "重複投薬削減件数",
+      "labelSimple": "重複投薬削減件数",
       "value": "200",
       "unit": "万件/年",
+      "oldValue": "現行",
       "description": "リアルタイム自動チェックにより調剤前に処方変更・中止された重複・相互作用危険投薬数",
-      "trend": "down",
-      "trendLabel": "危険投薬防止"
+      "descriptionStandard": "重複投薬削減件数",
+      "descriptionSimple": "重複投薬削減件数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

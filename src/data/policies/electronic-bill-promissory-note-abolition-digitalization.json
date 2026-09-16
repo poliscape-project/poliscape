@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "紙手形完全廃止期限",
+      "labelStandard": "紙手形完全廃止期限",
+      "labelSimple": "紙手形完全廃止期限",
       "value": "2026",
       "unit": "年",
       "oldValue": "明治以来の慣行",
       "description": "全国銀行協会による手形交換所業務の完全デジタル移行期限",
+      "descriptionStandard": "紙手形完全廃止期限",
+      "descriptionSimple": "紙手形完全廃止期限",
       "badge": "完全廃止",
       "badgeColor": "red",
       "icon": "calendar"
     },
     {
       "label": "指導対象手形サイト",
+      "labelStandard": "指導対象手形サイト",
+      "labelSimple": "指導対象手形サイト",
       "value": "60",
       "unit": "日超",
       "oldValue": "120日超",
       "description": "60日を超える長期手形の交付を行政指導の対象に厳格化",
+      "descriptionStandard": "指導対象手形サイト",
+      "descriptionSimple": "指導対象手形サイト",
       "badge": "サイト半減",
       "badgeColor": "green",
       "icon": "clock"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

@@ -161,62 +161,76 @@
   "badges": [
     {
       "label": "健保上乗せ月約450円",
-      "variant": "neutral"
+      "text": "健保上乗せ月約450円",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "総枠3.6兆円全額還元",
-      "variant": "neutral"
+      "text": "総枠3.6兆円全額還元",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "実質負担ゼロ議論",
-      "variant": "neutral"
+      "text": "実質負担ゼロ議論",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "毎月の平均上乗せ",
+      "label": "",
       "labelStandard": "平均徴収額（見込み）",
+      "labelSimple": "毎月の平均上乗せ",
       "value": "約450",
       "unit": "円/月",
       "oldValue": "これまで 0円（負担なし）",
-      "descriptionSimple": "健保連動で2026年4月から開始",
+      "description": "",
       "descriptionStandard": "医療保険料と合わせて段階的に徴収開始",
+      "descriptionSimple": "健保連動で2026年4月から開始",
       "badge": "健保上乗せ",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "HeartPulse"
     },
     {
-      "labelSimple": "集めたお金の使い道",
+      "label": "",
       "labelStandard": "子育て支援総枠",
+      "labelSimple": "集めたお金の使い道",
       "value": "3.6兆",
       "unit": "円/年",
       "oldValue": "これまでの支援予算枠",
-      "descriptionSimple": "手当や給付の財源として全額還元",
+      "description": "",
       "descriptionStandard": "児童手当拡充・育休手取り10割等の恒久財源",
+      "descriptionSimple": "手当や給付の財源として全額還元",
       "badge": "全額還元",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "PiggyBank"
     },
     {
-      "labelSimple": "年収600万円の人の負担",
+      "label": "",
       "labelStandard": "年収600万世帯（試算）",
+      "labelSimple": "年収600万円の人の負担",
       "value": "約600",
       "unit": "円/月",
       "oldValue": "労使折半で会社も半額負担",
-      "descriptionSimple": "お給料が多い人ほど負担する仕組み",
+      "description": "",
       "descriptionStandard": "収入に応じた拠出額（健康保険組合により差異）",
+      "descriptionSimple": "お給料が多い人ほど負担する仕組み",
       "badge": "所得比例",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Calculator"
     },
     {
-      "labelSimple": "実質の負担",
+      "label": "",
       "labelStandard": "政府試算による実質負担",
+      "labelSimple": "実質の負担",
       "value": "ゼロ",
       "unit": "（歳出改革）",
       "oldValue": "社会保険料の負担増批判あり",
-      "descriptionSimple": "社会保障の節約と賃上げで相殺説明",
+      "description": "",
       "descriptionStandard": "社会保障改革等で実質的な追加負担は生じないと説明",
+      "descriptionSimple": "社会保障の節約と賃上げで相殺説明",
       "badge": "歳出改革相殺",
       "badgeColor": "bg-slate-100 text-slate-700",
       "icon": "ShieldCheck"

@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "再造林義務化",
-      "variant": "positive"
+      "text": "再造林義務化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "花粉症根本対策",
-      "variant": "positive"
+      "text": "花粉症根本対策",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "苗木供給課題",
-      "variant": "warning"
+      "text": "苗木供給課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "義務付け",
+      "labelStandard": "義務付け",
+      "labelSimple": "義務付け",
       "value": "皆伐後の再造林計画履行",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ハゲ山放置を禁止し自治体の指導・代執行権限を新設",
+      "descriptionStandard": "義務付け",
+      "descriptionSimple": "義務付け",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Leaf"
     },
     {
       "label": "品種切替",
+      "labelStandard": "品種切替",
+      "labelSimple": "品種切替",
       "value": "少花粉・無花粉スギ苗木",
+      "unit": "",
+      "oldValue": "現行",
       "description": "花粉発生源となる高経級スギ林を低花粉品種へ更新",
+      "descriptionStandard": "品種切替",
+      "descriptionSimple": "品種切替",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     },
     {
       "label": "財源",
+      "labelStandard": "財源",
+      "labelSimple": "財源",
       "value": "森林環境譲与税の活用",
+      "unit": "",
+      "oldValue": "現行",
       "description": "全国の税財源を再造林放棄地の集約管理に重点配分",
+      "descriptionStandard": "財源",
+      "descriptionSimple": "財源",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

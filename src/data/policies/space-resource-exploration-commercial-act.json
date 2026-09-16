@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "宇宙資源所有権",
-      "variant": "positive"
+      "text": "宇宙資源所有権",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "世界4番目の法制化",
-      "variant": "positive"
+      "text": "世界4番目の法制化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "国際紛争リスク",
-      "variant": "warning"
+      "text": "国際紛争リスク",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "公認権利",
+      "labelStandard": "公認権利",
+      "labelSimple": "公認権利",
       "value": "採掘資源の所有権",
+      "unit": "",
+      "oldValue": "現行",
       "description": "月や小惑星で採取した水・鉱物の商用売却が可能に",
+      "descriptionStandard": "公認権利",
+      "descriptionSimple": "公認権利",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "国際合意",
+      "labelStandard": "国際合意",
+      "labelSimple": "国際合意",
       "value": "アルテミス協定準拠",
+      "unit": "",
+      "oldValue": "現行",
       "description": "日米主導による平和的で透明な資源利用ルール",
+      "descriptionStandard": "国際合意",
+      "descriptionSimple": "国際合意",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "ターゲット",
+      "labelStandard": "ターゲット",
+      "labelSimple": "ターゲット",
       "value": "月面の水資源（水素・酸素）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "将来の深宇宙探査に向けたロケット燃料現地調達",
+      "descriptionStandard": "ターゲット",
+      "descriptionSimple": "ターゲット",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

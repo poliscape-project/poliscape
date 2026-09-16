@@ -4,7 +4,7 @@
   "catchphrase": "治す医療から支える医療へ。地域包括ケア病棟の在宅復帰率基準を厳格化し急性期からの受け皿強化",
   "category": "healthcare",
   "categoryLabel": "病床再編・地域医療",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "地域包括ケア病棟",
-      "variant": "purple"
+      "text": "地域包括ケア病棟",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "在宅復帰支援",
-      "variant": "blue"
+      "text": "在宅復帰支援",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "病床適正化",
-      "variant": "green"
+      "text": "病床適正化",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "在宅等復帰率基準",
+      "label": "在宅等復帰率基準",
+      "labelStandard": "在宅等復帰率基準",
+      "labelSimple": "在宅等復帰率基準",
       "value": "72.5",
       "unit": "%以上",
+      "oldValue": "現行",
       "description": "地域包括ケア病棟入院料1を算定するために求められる自宅等への実質退院割合",
-      "trend": "up",
-      "trendLabel": "基準厳格化"
+      "descriptionStandard": "在宅等復帰率基準",
+      "descriptionSimple": "在宅等復帰率基準",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "全国整備病床数",
+      "label": "全国整備病床数",
+      "labelStandard": "全国整備病床数",
+      "labelSimple": "全国整備病床数",
       "value": "110,000",
       "unit": "床規模",
+      "oldValue": "現行",
       "description": "全国の病院で急性期から転換・新設された地域包括ケア病棟・病室の総数",
-      "trend": "up",
-      "trendLabel": "病床再編進展"
+      "descriptionStandard": "全国整備病床数",
+      "descriptionSimple": "全国整備病床数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

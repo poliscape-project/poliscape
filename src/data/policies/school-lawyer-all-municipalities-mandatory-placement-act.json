@@ -1,8 +1,8 @@
 {
   "id": "school-lawyer-all-municipalities-mandatory-placement-act",
   "title": "スクールロイヤー（学校専任弁護士）制度の全教育委員会配置義務化",
-  "category": "education-child",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "深刻ないじめ、不登校、過剰な保護者クレーム（理不尽な要求）、教員のハラスメント問題等に対し、法的な観点から学校を支援する「スクールロイヤー（学校弁護士）」の配置を全自治体の教育委員会に義務付ける。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "いじめ対策",
-      "variant": "purple"
+      "text": "いじめ対策",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "教育法務",
-      "variant": "blue"
+      "text": "教育法務",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "教員保護",
-      "variant": "green"
+      "text": "教員保護",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "全国配置カバー率",
+      "label": "全国配置カバー率",
+      "labelStandard": "全国配置カバー率",
+      "labelSimple": "全国配置カバー率",
       "value": "100",
       "unit": "%目標",
+      "oldValue": "現行",
       "description": "全国すべての教育委員会（約1,700自治体）におけるスクールロイヤー体制整備",
-      "trend": "up",
-      "trendLabel": "全国配置達成"
+      "descriptionStandard": "全国配置カバー率",
+      "descriptionSimple": "全国配置カバー率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "全国いじめ認知件数",
+      "label": "全国いじめ認知件数",
+      "labelStandard": "全国いじめ認知件数",
+      "labelSimple": "全国いじめ認知件数",
       "value": "68",
       "unit": "万件超",
+      "oldValue": "現行",
       "description": "小中高校等で認知される年間いじめ総数（初期法的対応の対象）",
-      "trend": "up",
-      "trendLabel": "高水準推移"
+      "descriptionStandard": "全国いじめ認知件数",
+      "descriptionSimple": "全国いじめ認知件数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

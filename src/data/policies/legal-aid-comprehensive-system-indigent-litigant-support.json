@@ -2,7 +2,7 @@
   "id": "legal-aid-comprehensive-system-indigent-litigant-support",
   "title": "総合法律支援法改正（法テラス資力基準緩和と司法アクセス格差是正）",
   "catchphrase": "お金がないからと泣き寝入りさせない、法テラスの無料法律相談・弁護士費用立替要件の大幅緩和",
-  "category": "governance",
+  "category": "society",
   "categoryLabel": "司法・統治",
   "lastUpdated": "2026-01-13",
   "effectiveDate": "2025年4月施行",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "司法福祉",
-      "variant": "positive"
+      "text": "司法福祉",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "法テラス",
-      "variant": "positive"
+      "text": "法テラス",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "権利救済",
-      "variant": "neutral"
+      "text": "権利救済",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "資力基準の2〜3割引き上げ",
+      "labelStandard": "資力基準の2〜3割引き上げ",
+      "labelSimple": "資力基準の2〜3割引き上げ",
       "value": "資力基準の2〜3割引き上げ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "低所得層だけでなくワーキングプア中産層まで弁護士費用立替を解禁。",
+      "descriptionStandard": "資力基準の2〜3割引き上げ",
+      "descriptionSimple": "資力基準の2〜3割引き上げ",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "DV・虐待被害者は無条件支援",
+      "labelStandard": "DV・虐待被害者は無条件支援",
+      "labelSimple": "DV・虐待被害者は無条件支援",
       "value": "DV・虐待被害者は無条件支援",
+      "unit": "",
+      "oldValue": "現行",
       "description": "命の危険がある被害者には収入を問わず即座に無料弁護士を派遣。",
+      "descriptionStandard": "DV・虐待被害者は無条件支援",
+      "descriptionSimple": "DV・虐待被害者は無条件支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "養育費回収の後払い特例",
+      "labelStandard": "養育費回収の後払い特例",
+      "labelSimple": "養育費回収の後払い特例",
       "value": "養育費回収の後払い特例",
+      "unit": "",
+      "oldValue": "現行",
       "description": "手持ちの現金がゼロでも勝訴して相手から回収した中から費用返還が可能。",
+      "descriptionStandard": "養育費回収の後払い特例",
+      "descriptionSimple": "養育費回収の後払い特例",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     }
   ],

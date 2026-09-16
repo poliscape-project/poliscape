@@ -131,62 +131,76 @@
   "badges": [
     {
       "label": "PayPay等で給与受取",
-      "variant": "neutral"
+      "text": "PayPay等で給与受取",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "労働者の完全同意必須",
-      "variant": "neutral"
+      "text": "労働者の完全同意必須",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "上限100万・破綻全額保証",
-      "variant": "neutral"
+      "text": "上限100万・破綻全額保証",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "アプリに入れられる上限",
+      "label": "",
       "labelStandard": "残高保有上限額",
+      "labelSimple": "アプリに入れられる上限",
       "value": "最大 100",
       "unit": "万円",
       "oldValue": "銀行口座のみ（ペイオフ1,000万円）",
-      "descriptionSimple": "アプリには100万円までしか入らない！",
+      "description": "",
       "descriptionStandard": "超過分は連携する指定銀行口座へ自動出金",
+      "descriptionSimple": "アプリには100万円までしか入らない！",
       "badge": "上限100万円",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Smartphone"
     },
     {
-      "labelSimple": "勝手に決められる？",
+      "label": "",
       "labelStandard": "労働者の同意",
+      "labelSimple": "勝手に決められる？",
       "value": "完全自由意志",
       "unit": "（強制禁止）",
       "oldValue": "現金払いまたは本人口座振込",
-      "descriptionSimple": "会社が強制するのは法律違反！",
+      "description": "",
       "descriptionStandard": "希望する社員のみ書面・電磁的同意で選択",
+      "descriptionSimple": "会社が強制するのは法律違反！",
       "badge": "強制は違法",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "アプリがつぶれたら？",
+      "label": "",
       "labelStandard": "破綻時保証",
+      "labelSimple": "アプリがつぶれたら？",
       "value": "全額弁済",
       "unit": "（数日以内）",
       "oldValue": "預金保険制度（1,000万円まで保護）",
-      "descriptionSimple": "会社が倒産しても国が全額守る！",
+      "description": "",
       "descriptionStandard": "指定保証機関により迅速に全額返金担保",
+      "descriptionSimple": "会社が倒産しても国が全額守る！",
       "badge": "セーフティネット",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "CreditCard"
     },
     {
-      "labelSimple": "ATMでお金をおろせる？",
+      "label": "",
       "labelStandard": "現金引出し手数料",
+      "labelSimple": "ATMでお金をおろせる？",
       "value": "月1回 無料",
       "unit": "（法令義務）",
       "oldValue": "所定のATM出金手数料が発生",
-      "descriptionSimple": "月に1回はタダで現金をおろせる！",
+      "description": "",
       "descriptionStandard": "資金移動業者の指定要件として月1回無料出金を義務付け",
+      "descriptionSimple": "月に1回はタダで現金をおろせる！",
       "badge": "月1回無料",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Wallet"

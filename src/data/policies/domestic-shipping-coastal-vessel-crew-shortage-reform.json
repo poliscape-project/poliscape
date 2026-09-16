@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "内航海運改革",
-      "variant": "positive"
+      "text": "内航海運改革",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "船内Wi-Fi整備",
-      "variant": "positive"
+      "text": "船内Wi-Fi整備",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "自動運航船支援",
-      "variant": "neutral"
+      "text": "自動運航船支援",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "通信改善",
+      "labelStandard": "通信改善",
+      "labelSimple": "通信改善",
       "value": "スターリンク洋上Wi-Fi",
+      "unit": "",
+      "oldValue": "現行",
       "description": "全船内での24時間高速インターネット環境を補助",
+      "descriptionStandard": "通信改善",
+      "descriptionSimple": "通信改善",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "新技術",
+      "labelStandard": "新技術",
+      "labelSimple": "新技術",
       "value": "自動運航・遠隔操船支援",
+      "unit": "",
+      "oldValue": "現行",
       "description": "AI衝突回避・自動離着桟の国家安全認証制度",
+      "descriptionStandard": "新技術",
+      "descriptionSimple": "新技術",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "労働改革",
+      "labelStandard": "労働改革",
+      "labelSimple": "労働改革",
       "value": "デジタル労務管理",
+      "unit": "",
+      "oldValue": "現行",
       "description": "船員の客観的打刻と計画的休暇取得を義務化",
+      "descriptionStandard": "労働改革",
+      "descriptionSimple": "労働改革",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "一次審査期間",
+      "labelStandard": "一次審査期間",
+      "labelSimple": "一次審査期間",
       "value": "約2",
       "unit": "ヶ月（平均）",
       "oldValue": "約10〜14ヶ月",
       "description": "通常審査に比べ審査待ち時間を約5分の1に短縮",
+      "descriptionStandard": "一次審査期間",
+      "descriptionSimple": "一次審査期間",
       "badge": "最速審査",
       "badgeColor": "green",
       "icon": "clock"
     },
     {
       "label": "中小企業等減免率",
+      "labelStandard": "中小企業等減免率",
+      "labelSimple": "中小企業等減免率",
       "value": "100",
       "unit": "%（全額免除）",
       "oldValue": "一部減免",
       "description": "審査請求料・特許料（第1〜10年）を公費で全額カバー",
+      "descriptionStandard": "中小企業等減免率",
+      "descriptionSimple": "中小企業等減免率",
       "badge": "完全無料化",
       "badgeColor": "blue",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

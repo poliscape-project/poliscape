@@ -2,7 +2,7 @@
   "id": "supercomputer-fugaku-next-generation-priority-access",
   "title": "次世代スーパーコンピュータ（富岳後継機）産業利用優先枠法",
   "catchphrase": "世界最高峰の計算力で創薬・AI・新素材を席巻、富岳後継機の民間産業開放と計算資源助成",
-  "category": "technology",
+  "category": "society",
   "categoryLabel": "テクノロジー・インフラ・通信",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "スーパーコンピュータ",
-      "variant": "positive"
+      "text": "スーパーコンピュータ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "AI計算基盤",
-      "variant": "positive"
+      "text": "AI計算基盤",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "デジタル主権",
-      "variant": "neutral"
+      "text": "デジタル主権",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "優先割当",
+      "labelStandard": "優先割当",
+      "labelSimple": "優先割当",
       "value": "最低30%以上",
+      "unit": "",
+      "oldValue": "現行",
       "description": "次世代スパコンの計算リソースの3割を民間・スタートアップに開放",
+      "descriptionStandard": "優先割当",
+      "descriptionSimple": "優先割当",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Cpu"
     },
     {
       "label": "税制支援",
+      "labelStandard": "税制支援",
+      "labelSimple": "税制支援",
       "value": "利用料100%控除",
+      "unit": "",
+      "oldValue": "現行",
       "description": "スパコン利用料を研究開発税制の全額控除対象に指定",
+      "descriptionStandard": "税制支援",
+      "descriptionSimple": "税制支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

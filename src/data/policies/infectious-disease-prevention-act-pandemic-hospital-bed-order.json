@@ -2,7 +2,7 @@
   "id": "infectious-disease-prevention-act-pandemic-hospital-bed-order",
   "title": "感染症法改正（新興感染症流行時の病床確保命令・医療機関協定締結義務化）",
   "catchphrase": "次のパンデミックで「たらい回し」を繰り返さない。公的病院への病床確保指示権と民間病院協定の法定化",
-  "category": "social",
+  "category": "society",
   "categoryLabel": "社会保障・医療・公衆衛生",
   "lastUpdated": "2024-04-15",
   "effectiveDate": "2024年4月施行",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "病床確保義務化",
-      "variant": "positive"
+      "text": "病床確保義務化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "医療崩壊防止",
-      "variant": "positive"
+      "text": "医療崩壊防止",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "通常医療圧迫課題",
-      "variant": "warning"
+      "text": "通常医療圧迫課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "協定目標",
+      "labelStandard": "協定目標",
+      "labelSimple": "協定目標",
       "value": "全国約5万床の即応病床",
+      "unit": "",
+      "oldValue": "現行",
       "description": "新興感染症発生時に迅速起動する病床を平時確保",
+      "descriptionStandard": "協定目標",
+      "descriptionSimple": "協定目標",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     },
     {
       "label": "行政権限",
+      "labelStandard": "行政権限",
+      "labelSimple": "行政権限",
       "value": "公立・特定機能病院へ指示権",
+      "unit": "",
+      "oldValue": "現行",
       "description": "正当理由のない拒否に対し病院名公表や承認取消",
+      "descriptionStandard": "行政権限",
+      "descriptionSimple": "行政権限",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "減収対策",
+      "labelStandard": "減収対策",
+      "labelSimple": "減収対策",
       "value": "空床補償・財政支援事前明文化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "病床を空けた病院への減収補填スキームを整備",
+      "descriptionStandard": "減収対策",
+      "descriptionSimple": "減収対策",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

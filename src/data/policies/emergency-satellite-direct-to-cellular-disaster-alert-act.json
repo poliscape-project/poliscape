@@ -1,7 +1,7 @@
 {
   "id": "emergency-satellite-direct-to-cellular-disaster-alert-act",
   "title": "低軌道衛星と市販スマートフォンの直接通信による災害緊急速報網整備法",
-  "category": "disaster-prevention",
+  "category": "society",
   "subcategory": "通信インフラ・防災DX",
   "status": "施行中",
   "date": "2024-05",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "圏外エリア通信可能率",
+      "labelStandard": "圏外エリア通信可能率",
+      "labelSimple": "圏外エリア通信可能率",
       "value": "100",
       "unit": "%（日本全土・領海）",
       "oldValue": "山間部・海上圏外（約4割）",
       "description": "低軌道衛星コンステレーションにより山奥や海上でもスマホが直結",
+      "descriptionStandard": "圏外エリア通信可能率",
+      "descriptionSimple": "圏外エリア通信可能率",
       "badge": "全国土100%カバー",
       "badgeColor": "green",
       "icon": "signal"
     },
     {
       "label": "専用端末購入費",
+      "labelStandard": "専用端末購入費",
+      "labelSimple": "専用端末購入費",
       "value": "0",
       "unit": "円（市販スマホ対応）",
       "oldValue": "専用衛星電話（10万〜20万円）",
       "description": "普段使っているLTE/5Gスマートフォンがそのまま利用可能",
+      "descriptionStandard": "専用端末購入費",
+      "descriptionSimple": "専用端末購入費",
       "badge": "追加端末不要",
       "badgeColor": "blue",
       "icon": "device-phone-mobile"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "disaster-prevention"
 }

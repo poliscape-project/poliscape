@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "不正転売防止",
-      "variant": "positive"
+      "text": "不正転売防止",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "出国時還付へ",
-      "variant": "positive"
+      "text": "出国時還付へ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "空港DXが必須",
-      "variant": "warning"
+      "text": "空港DXが必須",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "新方式",
+      "labelStandard": "新方式",
+      "labelSimple": "新方式",
       "value": "リファンド（出国時還付）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "店頭では税込支払い、空港で持ち出し確認後に返金",
+      "descriptionStandard": "新方式",
+      "descriptionSimple": "新方式",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "抑止効果",
+      "labelStandard": "抑止効果",
+      "labelSimple": "抑止効果",
       "value": "消費税の着服を物理遮断",
+      "unit": "",
+      "oldValue": "現行",
       "description": "国内での不正横流しスキームを完全に無効化",
+      "descriptionStandard": "抑止効果",
+      "descriptionSimple": "抑止効果",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "店舗保護",
+      "labelStandard": "店舗保護",
+      "labelSimple": "店舗保護",
       "value": "追徴課税リスクの消滅",
+      "unit": "",
+      "oldValue": "現行",
       "description": "免税店が転売を見抜く理不尽な責任を解消",
+      "descriptionStandard": "店舗保護",
+      "descriptionSimple": "店舗保護",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

@@ -1,8 +1,8 @@
 {
   "id": "kosen-technical-college-semiconductor-ai-curriculum-fund",
   "title": "高等専門学校（高専）の半導体・AI人材育成拠点化特例交付金",
-  "category": "education-child",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "全国58校の高等専門学校（高専）において、次世代半導体製造・設計および産業AI実装を担う中核技術者を育成するため、クリーンルーム設備更新や最先端EDAツール導入を支援する大型特例交付金を創設する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "半導体産業",
-      "variant": "blue"
+      "text": "半導体産業",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "高等専門学校",
-      "variant": "green"
+      "text": "高等専門学校",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "経済安全保障",
-      "variant": "purple"
+      "text": "経済安全保障",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "高専半導体人材育成数",
+      "label": "高専半導体人材育成数",
+      "labelStandard": "高専半導体人材育成数",
+      "labelSimple": "高専半導体人材育成数",
       "value": "5,000",
       "unit": "人/年",
+      "oldValue": "現行",
       "description": "全国の高専で半導体・AI教育を履修して卒業する専門人材の年間規模目標",
-      "trend": "up",
-      "trendLabel": "育成倍増"
+      "descriptionStandard": "高専半導体人材育成数",
+      "descriptionSimple": "高専半導体人材育成数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "高専生の求人倍率",
+      "label": "高専生の求人倍率",
+      "labelStandard": "高専生の求人倍率",
+      "labelSimple": "高専生の求人倍率",
       "value": "30",
       "unit": "倍超",
+      "oldValue": "現行",
       "description": "産業界からの圧倒的な高評価を背景とする高専卒業生の平均求人倍率",
-      "trend": "up",
-      "trendLabel": "圧倒的人材需要"
+      "descriptionStandard": "高専生の求人倍率",
+      "descriptionSimple": "高専生の求人倍率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

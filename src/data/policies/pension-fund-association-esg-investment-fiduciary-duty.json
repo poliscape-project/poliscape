@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "ESG投資",
-      "variant": "positive"
+      "text": "ESG投資",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "公的年金",
-      "variant": "positive"
+      "text": "公的年金",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "受託者責任",
-      "variant": "neutral"
+      "text": "受託者責任",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "超長期の運用リターン確保",
+      "labelStandard": "超長期の運用リターン確保",
+      "labelSimple": "超長期の運用リターン確保",
       "value": "超長期の運用リターン確保",
+      "unit": "",
+      "oldValue": "現行",
       "description": "システミックリスクとしての気候変動を抑え年金原資を守る。",
+      "descriptionStandard": "超長期の運用リターン確保",
+      "descriptionSimple": "超長期の運用リターン確保",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "受託者責任との両立",
+      "labelStandard": "受託者責任との両立",
+      "labelSimple": "受託者責任との両立",
       "value": "受託者責任との両立",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ESG考慮が加入者の利益最大化に合致することを法的に定義。",
+      "descriptionStandard": "受託者責任との両立",
+      "descriptionSimple": "受託者責任との両立",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "エンゲージメントの完全開示",
+      "labelStandard": "エンゲージメントの完全開示",
+      "labelSimple": "エンゲージメントの完全開示",
       "value": "エンゲージメントの完全開示",
+      "unit": "",
+      "oldValue": "現行",
       "description": "脱炭素や女性登用を巡る企業との対話状況を全銘柄公開。",
+      "descriptionStandard": "エンゲージメントの完全開示",
+      "descriptionSimple": "エンゲージメントの完全開示",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "FileText"
     }
   ],

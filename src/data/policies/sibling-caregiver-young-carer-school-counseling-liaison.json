@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "ヤングケアラー法制化",
+      "labelStandard": "ヤングケアラー法制化",
+      "labelSimple": "ヤングケアラー法制化",
       "value": "明記完了",
       "unit": "",
       "oldValue": "法律上の定義なし",
       "description": "子ども・若者育成支援推進法に支援対象として初めて明記",
+      "descriptionStandard": "ヤングケアラー法制化",
+      "descriptionSimple": "ヤングケアラー法制化",
       "badge": "法的根拠",
       "badgeColor": "blue",
       "icon": "file-text"
     },
     {
       "label": "学校・福祉連携率目標",
+      "labelStandard": "学校・福祉連携率目標",
+      "labelSimple": "学校・福祉連携率目標",
       "value": "100",
       "unit": "%（全自治体）",
       "oldValue": "学校単独対応が多数",
       "description": "ケアラー発見時に福祉部局へ即日連携する体制を確立",
+      "descriptionStandard": "学校・福祉連携率目標",
+      "descriptionSimple": "学校・福祉連携率目標",
       "badge": "連携義務化",
       "badgeColor": "green",
       "icon": "shield-check"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

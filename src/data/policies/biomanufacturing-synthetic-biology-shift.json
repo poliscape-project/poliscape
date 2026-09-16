@@ -175,62 +175,76 @@
   "badges": [
     {
       "label": "石油化学から微生物発酵へ",
-      "variant": "neutral"
+      "text": "石油化学から微生物発酵へ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "バイオものづくり3,000億円",
-      "variant": "neutral"
+      "text": "バイオものづくり3,000億円",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "海中生分解プラ・人工クモ糸",
-      "variant": "neutral"
+      "text": "海中生分解プラ・人工クモ糸",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "バイオ産業を助けるお金",
+      "label": "",
       "labelStandard": "バイオものづくり革命推進事業",
+      "labelSimple": "バイオ産業を助けるお金",
       "value": "約 3,000",
       "unit": "億円規模",
       "oldValue": "試験管レベルの基礎研究にとどまっていた",
-      "descriptionSimple": "石油のかわりに微生物にプラスチックを作らせる！",
+      "description": "",
       "descriptionStandard": "大規模発酵タンクを持つ実証拠点を国費で整備",
+      "descriptionSimple": "石油のかわりに微生物にプラスチックを作らせる！",
       "badge": "3,000億円基金",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "植物から作るプラスチック",
+      "label": "",
       "labelStandard": "2030年 バイオプラ導入目標",
+      "labelSimple": "植物から作るプラスチック",
       "value": "200",
       "unit": "万トン",
       "oldValue": "市場の99%以上が石油由来の通常プラスチック",
-      "descriptionSimple": "2030年までにたくさんのプラスチックを植物生まれに！",
+      "description": "",
       "descriptionStandard": "温室効果ガス排出ゼロに向けた素材の大転換ロードマップ",
+      "descriptionSimple": "2030年までにたくさんのプラスチックを植物生まれに！",
       "badge": "200万トン目標",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Leaf"
     },
     {
-      "labelSimple": "海の中で自然に溶ける",
+      "label": "",
       "labelStandard": "海洋生分解性バイオプラスチック",
+      "labelSimple": "海の中で自然に溶ける",
       "value": "100",
       "unit": "%生分解（カネカ等）",
       "oldValue": "海に流出したプラゴミが数百年分解されず魚を脅かす",
-      "descriptionSimple": "海に落ちてもお魚を傷つけず水と二酸化炭素に還る！",
+      "description": "",
       "descriptionStandard": "世界中の海洋プラゴミ規制を突破する革新的新素材",
+      "descriptionSimple": "海に落ちてもお魚を傷つけず水と二酸化炭素に還る！",
       "badge": "海中生分解性",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "二酸化炭素を食べる微生物",
+      "label": "",
       "labelStandard": "水素細菌による直接物質生産",
+      "labelSimple": "二酸化炭素を食べる微生物",
       "value": "CO2から",
       "unit": "直接プラスチック",
       "oldValue": "サトウキビ等を使うため食料生産と土地の奪い合いに",
-      "descriptionSimple": "工場の煙を食べて便利なプラスチックを作る驚きの菌！",
+      "description": "",
       "descriptionStandard": "食料と競合せず温室効果ガスを直接資源化する技術",
+      "descriptionSimple": "工場の煙を食べて便利なプラスチックを作る驚きの菌！",
       "badge": "CO2直接資源化",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Zap"

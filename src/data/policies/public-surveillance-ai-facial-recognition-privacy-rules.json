@@ -1,8 +1,8 @@
 {
   "id": "public-surveillance-ai-facial-recognition-privacy-rules",
   "title": "公共空間におけるAI防犯カメラ・顔認証システムの利用基準及びプライバシー保護ガイドライン",
-  "category": "governance-reform",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "駅、空港、繁華街、イベント会場等の公共空間に急増する「AI画像解析防犯カメラ・リアルタイム顔認証システム」について、重大犯罪の未然防止と市民のプライバシー権（肖像権・憲法13条）を両立させる国家利用基準を策定する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "AIプライバシー",
-      "variant": "purple"
+      "text": "AIプライバシー",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "防犯カメラ",
-      "variant": "blue"
+      "text": "防犯カメラ",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "人権保障",
-      "variant": "green"
+      "text": "人権保障",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "非該当データ消去期限",
+      "label": "非該当データ消去期限",
+      "labelStandard": "非該当データ消去期限",
+      "labelSimple": "非該当データ消去期限",
       "value": "30",
       "unit": "日以内",
+      "oldValue": "現行",
       "description": "事件に関連しない一般通行人の顔特徴量データを自動消去する法定上限期間",
-      "trend": "down",
-      "trendLabel": "厳格消去"
+      "descriptionStandard": "非該当データ消去期限",
+      "descriptionSimple": "非該当データ消去期限",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "手配犯発見迅速化",
+      "label": "手配犯発見迅速化",
+      "labelStandard": "手配犯発見迅速化",
+      "labelSimple": "手配犯発見迅速化",
       "value": "90",
       "unit": "%短縮",
+      "oldValue": "現行",
       "description": "AIアラートにより駅構内等での重要指名手配犯発見までの所要時間を大幅短縮",
-      "trend": "down",
-      "trendLabel": "初動迅速化"
+      "descriptionStandard": "手配犯発見迅速化",
+      "descriptionSimple": "手配犯発見迅速化",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

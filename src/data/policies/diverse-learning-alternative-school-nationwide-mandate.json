@@ -1,8 +1,8 @@
 {
   "id": "diverse-learning-alternative-school-nationwide-mandate",
   "title": "学びの多様化学校（不登校特例校）の全都道府県・政令指定都市必置化",
-  "category": "education-child",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "小中学校で不登校となっている児童生徒が30万人近くに急増している事態に対応するため、柔軟なカリキュラムを編成できる「学びの多様化学校（不登校特例校）」の全都道府県および政令指定都市への設置を義務付ける。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "不登校支援",
-      "variant": "purple"
+      "text": "不登校支援",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "教育機会確保",
-      "variant": "blue"
+      "text": "教育機会確保",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "学校改革",
-      "variant": "green"
+      "text": "学校改革",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "全国不登校児童生徒数",
+      "label": "全国不登校児童生徒数",
+      "labelStandard": "全国不登校児童生徒数",
+      "labelSimple": "全国不登校児童生徒数",
       "value": "30",
       "unit": "万人弱",
+      "oldValue": "現行",
       "description": "小中学校で年間30日以上欠席している不登校児童生徒の総数",
-      "trend": "up",
-      "trendLabel": "深刻な増加"
+      "descriptionStandard": "全国不登校児童生徒数",
+      "descriptionSimple": "全国不登校児童生徒数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "全国設置目標校数",
+      "label": "全国設置目標校数",
+      "labelStandard": "全国設置目標校数",
+      "labelSimple": "全国設置目標校数",
       "value": "300",
       "unit": "校",
+      "oldValue": "現行",
       "description": "全国のすべての都道府県・政令市および中核市における整備目標校数",
-      "trend": "up",
-      "trendLabel": "整備目標"
+      "descriptionStandard": "全国設置目標校数",
+      "descriptionSimple": "全国設置目標校数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

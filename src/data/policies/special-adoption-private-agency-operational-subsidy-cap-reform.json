@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "不透明手数料の規制",
+      "labelStandard": "不透明手数料の規制",
+      "labelSimple": "不透明手数料の規制",
       "value": "実費のみ",
       "unit": "（上限規制・使途公表）",
       "oldValue": "200万〜300万円超の不透明請求",
       "description": "医療費・交通費等真に必要な実費に限定し寄附金上乗せを禁止",
+      "descriptionStandard": "不透明手数料の規制",
+      "descriptionSimple": "不透明手数料の規制",
       "badge": "手数料適正化",
       "badgeColor": "green",
       "icon": "shield-check"
     },
     {
       "label": "公費運営補助額",
+      "labelStandard": "公費運営補助額",
+      "labelSimple": "公費運営補助額",
       "value": "年数千",
       "unit": "万円/団体（交付金支援）",
       "oldValue": "民間自己資金頼み",
       "description": "専任ソーシャルワーカー人件費や相談活動費を国が直接助成",
+      "descriptionStandard": "公費運営補助額",
+      "descriptionSimple": "公費運営補助額",
       "badge": "公費直接補助",
       "badgeColor": "blue",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

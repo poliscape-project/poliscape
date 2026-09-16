@@ -175,62 +175,76 @@
   "badges": [
     {
       "label": "TSMC熊本へ1.2兆円助成",
-      "variant": "neutral"
+      "text": "TSMC熊本へ1.2兆円助成",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "Rapidus千歳2ナノ量産",
-      "variant": "neutral"
+      "text": "Rapidus千歳2ナノ量産",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "総額5兆円の投資・顧客リスク",
-      "variant": "neutral"
+      "text": "総額5兆円の投資・顧客リスク",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "TSMCを呼ぶ国のお金",
+      "label": "",
       "labelStandard": "TSMC熊本工場への助成額",
+      "labelSimple": "TSMCを呼ぶ国のお金",
       "value": "約 1.2",
       "unit": "兆円規模",
       "oldValue": "これまで国内半導体工場への支援は小規模",
-      "descriptionSimple": "世界一の半導体工場を日本に呼ぶ大きな決断！",
+      "description": "",
       "descriptionStandard": "第1・第2工場への巨額助成でサプライチェーン確保",
+      "descriptionSimple": "世界一の半導体工場を日本に呼ぶ大きな決断！",
       "badge": "TSMC誘致",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Building"
     },
     {
-      "labelSimple": "ラピダスが作るチップ",
+      "label": "",
       "labelStandard": "Rapidus量産目標性能",
+      "labelSimple": "ラピダスが作るチップ",
       "value": "2",
       "unit": "ナノメートル",
       "oldValue": "日本の製造技術は40ナノ（約15年前）で停滞",
-      "descriptionSimple": "世界最先端の超すごいチップを北海道で作る！",
+      "description": "",
       "descriptionStandard": "2027年の2ナノ本格量産へ向け技術的跳躍に挑戦",
+      "descriptionSimple": "世界最先端の超すごいチップを北海道で作る！",
       "badge": "2ナノ量産",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Cpu"
     },
     {
-      "labelSimple": "国が使う税金の総額",
+      "label": "",
       "labelStandard": "半導体支援の国費総額",
+      "labelSimple": "国が使う税金の総額",
       "value": "約 4",
       "unit": "兆円規模",
       "oldValue": "かつて世界シェア50%から10%未満へ没落",
-      "descriptionSimple": "自動車やAIが止まらないよう国が本気で支援！",
+      "description": "",
       "descriptionStandard": "経済安全保障の核心として異例の巨額予算を集中投下",
+      "descriptionSimple": "自動車やAIが止まらないよう国が本気で支援！",
       "badge": "過去最大支援",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "これからの心配ごと",
+      "label": "",
       "labelStandard": "事業成功への最大の課題",
+      "labelSimple": "これからの心配ごと",
       "value": "5兆円",
       "unit": "の資金・顧客確保",
       "oldValue": "海外大手ファウンドリが顧客を寡占中",
-      "descriptionSimple": "「作ったあと誰が買ってくれるか」が一番の勝負！",
+      "description": "",
       "descriptionStandard": "巨額投資の採算性と米ビッグテック顧客開拓の壁",
+      "descriptionSimple": "「作ったあと誰が買ってくれるか」が一番の勝負！",
       "badge": "採算性リスク",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"

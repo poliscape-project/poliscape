@@ -169,62 +169,76 @@
   "badges": [
     {
       "label": "103万円（税の壁）",
-      "variant": "neutral"
+      "text": "103万円（税の壁）",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "106万・130万（社保の壁）",
-      "variant": "neutral"
+      "text": "106万・130万（社保の壁）",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "手取りの崖解消へ",
-      "variant": "neutral"
+      "text": "手取りの崖解消へ",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "税金がとられるライン",
+      "label": "",
       "labelStandard": "103万円の壁（所得税）",
+      "labelSimple": "税金がとられるライン",
       "value": "103",
       "unit": "万円",
       "oldValue": "30年間据え置きの基準",
-      "descriptionSimple": "178万円へ引き上げの議論中！",
+      "description": "",
       "descriptionStandard": "178万円等への引上げを審議中",
+      "descriptionSimple": "178万円へ引き上げの議論中！",
       "badge": "税制改正議論",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "保険に入るライン（大企業）",
+      "label": "",
       "labelStandard": "106万円の壁（社会保険）",
+      "labelSimple": "保険に入るライン（大企業）",
       "value": "106",
       "unit": "万円",
       "oldValue": "従業員51人以上の企業等",
-      "descriptionSimple": "超えると手取りがガクンと減る",
+      "description": "",
       "descriptionStandard": "厚生年金・健保の加入義務",
+      "descriptionSimple": "超えると手取りがガクンと減る",
       "badge": "手取りの崖①",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "TrendingDown"
     },
     {
-      "labelSimple": "扶養から外れるライン",
+      "label": "",
       "labelStandard": "130万円の壁（扶養外れ）",
+      "labelSimple": "扶養から外れるライン",
       "value": "130",
       "unit": "万円",
       "oldValue": "全企業共通の扶養基準",
-      "descriptionSimple": "親や夫の保険から完全に外れる",
+      "description": "",
       "descriptionStandard": "国民年金・国保の自己負担発生",
+      "descriptionSimple": "親や夫の保険から完全に外れる",
       "badge": "手取りの崖②",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "急に減ってしまう手取り",
+      "label": "",
       "labelStandard": "社保加入時の手取り減",
+      "labelSimple": "急に減ってしまう手取り",
       "value": "約 16",
       "unit": "万円",
       "oldValue": "年金＋健康保険料（年間）",
-      "descriptionSimple": "このために仕事を休む人が続出",
+      "description": "",
       "descriptionStandard": "働き控えの最大の原因",
+      "descriptionSimple": "このために仕事を休む人が続出",
       "badge": "逆転現象",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "ShieldCheck"

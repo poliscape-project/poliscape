@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "全国自治体義務化",
-      "variant": "positive"
+      "text": "全国自治体義務化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "自己負担大幅減免",
-      "variant": "positive"
+      "text": "自己負担大幅減免",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "施設枠確保が課題",
-      "variant": "warning"
+      "text": "施設枠確保が課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "対象地域",
+      "labelStandard": "対象地域",
+      "labelSimple": "対象地域",
       "value": "全国すべての市区町村",
+      "unit": "",
+      "oldValue": "現行",
       "description": "法定義務化により居住地域に関わらず利用可能へ",
+      "descriptionStandard": "対象地域",
+      "descriptionSimple": "対象地域",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Home"
     },
     {
       "label": "利用料負担",
+      "labelStandard": "利用料負担",
+      "labelSimple": "利用料負担",
       "value": "非課税世帯は実質無料",
+      "unit": "",
+      "oldValue": "現行",
       "description": "一般世帯も1泊あたり数千円程度へ公費補助",
+      "descriptionStandard": "利用料負担",
+      "descriptionSimple": "利用料負担",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "主な支援内容",
+      "labelStandard": "主な支援内容",
+      "labelSimple": "主な支援内容",
       "value": "宿泊・通所・訪問",
+      "unit": "",
+      "oldValue": "現行",
       "description": "母体ケア・乳房ケア・授乳育児指導・心理相談",
+      "descriptionStandard": "主な支援内容",
+      "descriptionSimple": "主な支援内容",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     }
   ],

@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "給食費自己負担額",
+      "labelStandard": "給食費自己負担額",
+      "labelSimple": "給食費自己負担額",
       "value": "0",
       "unit": "円（全額公費完全無償）",
       "oldValue": "月額約3,000〜5,000円",
       "description": "公費助成により経済的理由による欠食を完全ゼロ化",
+      "descriptionStandard": "給食費自己負担額",
+      "descriptionSimple": "給食費自己負担額",
       "badge": "完全無償化",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "定時制給食喫食率",
+      "labelStandard": "定時制給食喫食率",
+      "labelSimple": "定時制給食喫食率",
       "value": "100",
       "unit": "%（全生徒喫食）",
       "oldValue": "未納・未申込による欠食多発",
       "description": "全員無償化により全員が同じ温かい給食を囲む環境を実現",
+      "descriptionStandard": "定時制給食喫食率",
+      "descriptionSimple": "定時制給食喫食率",
       "badge": "欠食ゼロ",
       "badgeColor": "blue",
       "icon": "check-circle"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

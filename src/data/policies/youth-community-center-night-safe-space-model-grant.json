@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "施設利用料",
+      "labelStandard": "施設利用料",
+      "labelSimple": "施設利用料",
       "value": "0",
       "unit": "円（完全無料開放）",
       "oldValue": "民間カフェやカラオケ等で出費",
       "description": "Wi-Fi・軽食・充電・学習スペースを完全無料で提供",
+      "descriptionStandard": "施設利用料",
+      "descriptionSimple": "施設利用料",
       "badge": "完全無料",
       "badgeColor": "green",
       "icon": "sparkles"
     },
     {
       "label": "開館時間延長",
+      "labelStandard": "開館時間延長",
+      "labelSimple": "開館時間延長",
       "value": "夜21",
       "unit": "時まで（平日・土日）",
       "oldValue": "17時または18時閉館",
       "description": "中高生が放課後から夜間にかけて安心して滞在できる時間を確保",
+      "descriptionStandard": "開館時間延長",
+      "descriptionSimple": "開館時間延長",
       "badge": "夜21時まで開放",
       "badgeColor": "blue",
       "icon": "moon"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

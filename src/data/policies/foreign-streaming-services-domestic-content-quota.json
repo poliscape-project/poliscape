@@ -129,58 +129,76 @@
   "badges": [
     {
       "label": "文化クオータ制",
-      "variant": "neutral"
+      "text": "文化クオータ制",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "外資に国内制作投資",
-      "variant": "neutral"
+      "text": "外資に国内制作投資",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "アニメ・映画振興",
-      "variant": "neutral"
+      "text": "アニメ・映画振興",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "国内作品への投資義務",
+      "label": "",
       "labelStandard": "売上高の国内再投資（クオータ）",
+      "labelSimple": "国内作品への投資義務",
       "value": "一定割合",
       "unit": "の国内作品投資義務",
       "oldValue": "これまで プラットフォームの自由裁量",
       "description": "外資配信の売上を日本の制作現場へ環流",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "文化クオータ制",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "国内コンテンツの配信枠",
+      "label": "",
       "labelStandard": "配信カタログ比率規制",
+      "labelSimple": "国内コンテンツの配信枠",
       "value": "約30",
       "unit": "%（欧州指令モデル）",
       "oldValue": "これまで 国籍比率の規制は一切なし",
       "description": "日本のアニメや映画の表示枠を確保",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "国内作品枠確保",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "BookOpen"
     },
     {
-      "labelSimple": "アニメーターの給料改善",
+      "label": "",
       "labelStandard": "クリエイター対価還元",
+      "labelSimple": "アニメーターの給料改善",
       "value": "IP保有",
       "unit": "と収益分配ルールの策定",
       "oldValue": "これまで 著作権買い取りによる低対価",
       "description": "スタジオが自ら知的財産を保有し収益化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "クリエイター支援",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "HeartHandshake"
     },
     {
-      "labelSimple": "サブスク月額料金への影響",
+      "label": "",
       "labelStandard": "消費者料金とコンテンツ供給",
+      "labelSimple": "サブスク月額料金への影響",
       "value": "価格転嫁",
       "unit": "への懸念が対立点",
       "oldValue": "これまで 低廉な月額サブスク料金",
       "description": "義務化による月額料金値上げリスクを検証",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "料金影響検証",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Wallet"

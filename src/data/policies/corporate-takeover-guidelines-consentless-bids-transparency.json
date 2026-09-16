@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "M&A",
-      "variant": "positive"
+      "text": "M&A",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "企業再編",
-      "variant": "positive"
+      "text": "企業再編",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "株主価値",
-      "variant": "neutral"
+      "text": "株主価値",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "真摯な買収検討の義務化",
+      "labelStandard": "真摯な買収検討の義務化",
+      "labelSimple": "真摯な買収検討の義務化",
       "value": "真摯な買収検討の義務化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "経営陣の独断での拒絶を禁止し社外取締役による検証を義務化。",
+      "descriptionStandard": "真摯な買収検討の義務化",
+      "descriptionSimple": "真摯な買収検討の義務化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "保身的防衛策の排除",
+      "labelStandard": "保身的防衛策の排除",
+      "labelSimple": "保身的防衛策の排除",
       "value": "保身的防衛策の排除",
+      "unit": "",
+      "oldValue": "現行",
       "description": "既存経営陣の座を守るためだけの買収防衛策発動に強い歯止め。",
+      "descriptionStandard": "保身的防衛策の排除",
+      "descriptionSimple": "保身的防衛策の排除",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "産業再編の加速",
+      "labelStandard": "産業再編の加速",
+      "labelSimple": "産業再編の加速",
       "value": "産業再編の加速",
+      "unit": "",
+      "oldValue": "現行",
       "description": "資本効率の低い企業への健全な再編圧力を高め日本経済を活性化。",
+      "descriptionStandard": "産業再編の加速",
+      "descriptionSimple": "産業再編の加速",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

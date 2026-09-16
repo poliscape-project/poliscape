@@ -1,8 +1,8 @@
 {
   "id": "disaster-shelter-cardboard-bed-privacy-tent-72h-mandate",
   "title": "避難所における発災72時間以内の段ボールベッド・プライバシーテント配備義務",
-  "category": "safety-disaster",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "地震・風水害による避難所生活において、雑魚寝によるエコノミークラス症候群、感染症蔓延、低体温症、災害関連死を防ぐため、すべての指定避難所に対し「発災後72時間以内の段ボールベッド・プライバシーテントの全世帯配備」を災害救助法に基づき法定義務付ける。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "避難所環境改革",
-      "variant": "purple"
+      "text": "避難所環境改革",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "災害関連死防止",
-      "variant": "blue"
+      "text": "災害関連死防止",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "防災TKB",
-      "variant": "green"
+      "text": "防災TKB",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "ベッド配備期限基準",
+      "label": "ベッド配備期限基準",
+      "labelStandard": "ベッド配備期限基準",
+      "labelSimple": "ベッド配備期限基準",
       "value": "72",
       "unit": "時間以内",
+      "oldValue": "現行",
       "description": "避難所開設から全世帯へベッド・プライバシーテントを配備完了する法定期限",
-      "trend": "down",
-      "trendLabel": "迅速配備義務化"
+      "descriptionStandard": "ベッド配備期限基準",
+      "descriptionSimple": "ベッド配備期限基準",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "エコノミークラス症候群発症率",
+      "label": "エコノミークラス症候群発症率",
+      "labelStandard": "エコノミークラス症候群発症率",
+      "labelSimple": "エコノミークラス症候群発症率",
       "value": "80",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "雑魚寝からベッド導入による下肢静脈血栓症（血栓形成）の大幅抑制効果",
-      "trend": "down",
-      "trendLabel": "関連死リスク減"
+      "descriptionStandard": "エコノミークラス症候群発症率",
+      "descriptionSimple": "エコノミークラス症候群発症率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

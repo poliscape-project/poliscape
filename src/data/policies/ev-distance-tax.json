@@ -134,62 +134,76 @@
   "badges": [
     {
       "label": "1km数円の走行税",
-      "variant": "neutral"
+      "text": "1km数円の走行税",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "EV道路維持負担",
-      "variant": "neutral"
+      "text": "EV道路維持負担",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "地方負担増の批判",
-      "variant": "neutral"
+      "text": "地方負担増の批判",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "走った分だけ取られる税金",
+      "label": "",
       "labelStandard": "想定走行距離課税額",
+      "labelSimple": "走った分だけ取られる税金",
       "value": "約 3〜5",
       "unit": "円 / km",
       "oldValue": "EVはガソリン税（約53.8円/L）ゼロ",
-      "descriptionSimple": "1キロ走るごとに数円の税金を検討！",
+      "description": "",
       "descriptionStandard": "EV普及による燃料税収減の穴埋め新税",
+      "descriptionSimple": "1キロ走るごとに数円の税金を検討！",
       "badge": "1km数円案",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Car"
     },
     {
-      "labelSimple": "年1万km走る人の負担",
+      "label": "",
       "labelStandard": "年間想定新税額",
+      "labelSimple": "年1万km走る人の負担",
       "value": "約 3〜5",
       "unit": "万円 / 年",
       "oldValue": "ガソリン車は年間約3.6万円の燃料税",
-      "descriptionSimple": "年1万キロで数万円の新税負担！",
+      "description": "",
       "descriptionStandard": "ガソリン税廃止または並行課税の設計論",
+      "descriptionSimple": "年1万キロで数万円の新税負担！",
       "badge": "年間数万円負担",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "地方の負担は？",
+      "label": "",
       "labelStandard": "地方住民の走行距離",
+      "labelSimple": "地方の負担は？",
       "value": "都市部の 2倍超",
       "unit": "（地方集中）",
       "oldValue": "公共交通がなく車が必須の地方",
-      "descriptionSimple": "田舎ほど税負担が重くなる！",
+      "description": "",
       "descriptionStandard": "生活必需の地方住民に対する実質的増税批判",
+      "descriptionSimple": "田舎ほど税負担が重くなる！",
       "badge": "地方格差の懸念",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "どうやって測る？",
+      "label": "",
       "labelStandard": "走行距離の把握技術",
+      "labelSimple": "どうやって測る？",
       "value": "車検メーター",
       "unit": "またはGPS",
       "oldValue": "給油メーターのみで把握",
-      "descriptionSimple": "走った距離を機械やGPSで確認！",
+      "description": "",
       "descriptionStandard": "車載通信器による位置情報追跡とプライバシー課題",
+      "descriptionSimple": "走った距離を機械やGPSで確認！",
       "badge": "プライバシー論争",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "ShieldCheck"

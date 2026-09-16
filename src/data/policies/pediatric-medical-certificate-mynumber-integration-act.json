@@ -4,7 +4,7 @@
   "catchphrase": "紙の受給者証はもう不要。子どもの医療証をマイナンバーカードへ完全統合し受診手続をスマート化",
   "category": "healthcare",
   "categoryLabel": "デジタル医療・子ども保健",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "マイナ医療証",
-      "variant": "purple"
+      "text": "マイナ医療証",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "デジタル医療",
-      "variant": "blue"
+      "text": "デジタル医療",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "子育てDX",
-      "variant": "green"
+      "text": "子育てDX",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "医療証忘れ立替ゼロ化",
+      "label": "医療証忘れ立替ゼロ化",
+      "labelStandard": "医療証忘れ立替ゼロ化",
+      "labelSimple": "医療証忘れ立替ゼロ化",
       "value": "0",
       "unit": "件",
+      "oldValue": "現行",
       "description": "マイナ保険証連携による紙の受給者証持参忘れに伴う窓口一時立替払い発生率",
-      "trend": "down",
-      "trendLabel": "立替完全解消"
+      "descriptionStandard": "医療証忘れ立替ゼロ化",
+      "descriptionSimple": "医療証忘れ立替ゼロ化",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "自治体郵送費削減額",
+      "label": "自治体郵送費削減額",
+      "labelStandard": "自治体郵送費削減額",
+      "labelSimple": "自治体郵送費削減額",
       "value": "200",
       "unit": "億円/年規模",
+      "oldValue": "現行",
       "description": "紙の受給者証の一斉印刷・封入・郵送廃止により全国自治体で削減される事務費",
-      "trend": "down",
-      "trendLabel": "税金大幅節減"
+      "descriptionStandard": "自治体郵送費削減額",
+      "descriptionSimple": "自治体郵送費削減額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

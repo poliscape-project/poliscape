@@ -1,8 +1,8 @@
 {
   "id": "evacuation-route-building-seismic-retrofit-mandatory-act",
   "title": "緊急輸送道路沿道建築物の耐震診断結果公表と耐震改修工事費用の補助拡充",
-  "category": "safety-disaster",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "大地震発生時に救急車、消防車、自衛隊、支援物資トラックの通行を確保する「緊急輸送道路」において、道路沿いの古い旧耐震基準建築物（昭和56年以前建設）が倒壊して道路を塞ぐ「道路閉塞」を完全に防ぐため、耐震改修を加速させる。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "防災・耐震化",
-      "variant": "purple"
+      "text": "防災・耐震化",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "緊急輸送道路",
-      "variant": "blue"
+      "text": "緊急輸送道路",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "国土強靭化",
-      "variant": "green"
+      "text": "国土強靭化",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "耐震改修補助率",
+      "label": "耐震改修補助率",
+      "labelStandard": "耐震改修補助率",
+      "labelSimple": "耐震改修補助率",
       "value": "80",
       "unit": "%（最大）",
+      "oldValue": "現行",
       "description": "国および地方自治体が負担する特定沿道建築物の耐震補強工事費補助割合",
-      "trend": "up",
-      "trendLabel": "超手厚い補助"
+      "descriptionStandard": "耐震改修補助率",
+      "descriptionSimple": "耐震改修補助率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "緊急輸送道路耐震化率目標",
+      "label": "緊急輸送道路耐震化率目標",
+      "labelStandard": "緊急輸送道路耐震化率目標",
+      "labelSimple": "緊急輸送道路耐震化率目標",
       "value": "95",
       "unit": "%以上",
+      "oldValue": "現行",
       "description": "大震災時の緊急輸送ルート閉塞率ゼロを目指す耐震化達成目標",
-      "trend": "up",
-      "trendLabel": "安全網完成目標"
+      "descriptionStandard": "緊急輸送道路耐震化率目標",
+      "descriptionSimple": "緊急輸送道路耐震化率目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

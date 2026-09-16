@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "シェアサイクル",
-      "variant": "positive"
+      "text": "シェアサイクル",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "モビリティ",
-      "variant": "positive"
+      "text": "モビリティ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "道路占用",
-      "variant": "neutral"
+      "text": "道路占用",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "ポート設置",
+      "labelStandard": "ポート設置",
+      "labelSimple": "ポート設置",
       "value": "公道歩道・高架下解禁",
+      "unit": "",
+      "oldValue": "現行",
       "description": "歩行者安全を確保した上での道路占用特例を新設",
+      "descriptionStandard": "ポート設置",
+      "descriptionSimple": "ポート設置",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "放置対策",
+      "labelStandard": "放置対策",
+      "labelSimple": "放置対策",
       "value": "GPS自動返却制御",
+      "unit": "",
+      "oldValue": "現行",
       "description": "指定ポート外での放置を機械的にブロックする義務化",
+      "descriptionStandard": "放置対策",
+      "descriptionSimple": "放置対策",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

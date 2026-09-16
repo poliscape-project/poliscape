@@ -4,7 +4,7 @@
   "catchphrase": "下請けいじめと買い叩きを根絶。労務費転嫁拒否への直接懲罰的課徴金と公正取引監視を強化",
   "category": "economy",
   "categoryLabel": "公正取引・中小企業保護",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "下請法抜本改正",
-      "variant": "purple"
+      "text": "下請法抜本改正",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "価格転嫁義務化",
-      "variant": "blue"
+      "text": "価格転嫁義務化",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "下請Gメン",
-      "variant": "green"
+      "text": "下請Gメン",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "労務費転嫁合意率目標",
+      "label": "労務費転嫁合意率目標",
+      "labelStandard": "労務費転嫁合意率目標",
+      "labelSimple": "労務費転嫁合意率目標",
       "value": "80",
       "unit": "%以上",
+      "oldValue": "現行",
       "description": "下請法改正および価格交渉指針により達成を目指す中小企業の人件費上昇分の納入価格転嫁率",
-      "trend": "up",
-      "trendLabel": "転嫁率大幅改善"
+      "descriptionStandard": "労務費転嫁合意率目標",
+      "descriptionSimple": "労務費転嫁合意率目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "下請Gメン調査件数",
+      "label": "下請Gメン調査件数",
+      "labelStandard": "下請Gメン調査件数",
+      "labelSimple": "下請Gメン調査件数",
       "value": "10,000",
       "unit": "件/年突破",
+      "oldValue": "現行",
       "description": "中小企業へのヒアリングおよび親事業者への立入調査を行う下請Gメンの年間実態調査件数",
-      "trend": "up",
-      "trendLabel": "監視徹底"
+      "descriptionStandard": "下請Gメン調査件数",
+      "descriptionSimple": "下請Gメン調査件数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

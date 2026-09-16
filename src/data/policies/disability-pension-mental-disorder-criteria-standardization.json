@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "全国一括審査",
-      "variant": "positive"
+      "text": "全国一括審査",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "格差是正ガイドライン",
-      "variant": "positive"
+      "text": "格差是正ガイドライン",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "審査遅延が課題",
-      "variant": "warning"
+      "text": "審査遅延が課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "審査体制",
+      "labelStandard": "審査体制",
+      "labelSimple": "審査体制",
       "value": "東京センターへ一元化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "都道府県ごとのローカルルールを廃止し公平判定",
+      "descriptionStandard": "審査体制",
+      "descriptionSimple": "審査体制",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "判定基準",
+      "labelStandard": "判定基準",
+      "labelSimple": "判定基準",
       "value": "日常生活能力マトリクス",
+      "unit": "",
+      "oldValue": "現行",
       "description": "食事、清潔保持、対人関係等の客観的評価",
+      "descriptionStandard": "判定基準",
+      "descriptionSimple": "判定基準",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "配慮事項",
+      "labelStandard": "配慮事項",
+      "labelSimple": "配慮事項",
       "value": "発達障害特有の社会困難",
+      "unit": "",
+      "oldValue": "現行",
       "description": "一見就労可能に見える隠れた適応困難を適正評価",
+      "descriptionStandard": "配慮事項",
+      "descriptionSimple": "配慮事項",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     }
   ],

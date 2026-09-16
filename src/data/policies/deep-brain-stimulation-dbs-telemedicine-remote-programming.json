@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "年間通院回数削減率",
+      "labelStandard": "年間通院回数削減率",
+      "labelSimple": "年間通院回数削減率",
       "value": "約75",
       "unit": "%減（年4回→年1回対面）",
       "oldValue": "毎月〜隔月の長距離通院",
       "description": "遠隔微調整の導入により年1回の定期対面検査のみで管理可能に",
+      "descriptionStandard": "年間通院回数削減率",
+      "descriptionSimple": "年間通院回数削減率",
       "badge": "通院負担75%減",
       "badgeColor": "green",
       "icon": "arrow-trending-down"
     },
     {
       "label": "遠隔調整所要時間",
+      "labelStandard": "遠隔調整所要時間",
+      "labelSimple": "遠隔調整所要時間",
       "value": "約15〜20",
       "unit": "分（自宅完結）",
       "oldValue": "移動を含め丸1日〜宿泊",
       "description": "ビデオ通話をつないで問診しながら即座に設定完了",
+      "descriptionStandard": "遠隔調整所要時間",
+      "descriptionSimple": "遠隔調整所要時間",
       "badge": "短時間完結",
       "badgeColor": "blue",
       "icon": "clock"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

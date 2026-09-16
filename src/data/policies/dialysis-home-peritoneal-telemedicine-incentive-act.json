@@ -3,7 +3,7 @@
   "title": "腹膜透析（PD）および在宅血液透析の遠隔管理普及インセンティブ",
   "category": "healthcare",
   "categoryLabel": "医療・公衆衛生",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "診療報酬加算・目標設定中",
   "catchphrase": "週3回の通院から自由へ。在宅で就寝中にできる腹膜透析（PD）の遠隔見守りと保険点数引き上げ",
   "lastUpdated": "2026-09-16",
@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "腹膜透析普及目標",
+      "labelStandard": "腹膜透析普及目標",
+      "labelSimple": "腹膜透析普及目標",
       "value": "10",
       "unit": "%以上",
       "oldValue": "約3%（現状の極端な低迷）",
       "description": "通院血液透析偏重から在宅腹膜透析への選択率引き上げ国家目標",
+      "descriptionStandard": "腹膜透析普及目標",
+      "descriptionSimple": "腹膜透析普及目標",
       "badge": "普及目標",
       "badgeColor": "green",
       "icon": "TrendingUp"
     },
     {
       "label": "通院拘束時間",
+      "labelStandard": "通院拘束時間",
+      "labelSimple": "通院拘束時間",
       "value": "月1",
       "unit": "回受診のみ",
       "oldValue": "週3回×4時間拘束",
       "description": "病院ベッドでの半日拘束をなくし夜間就寝中の在宅自動透析を実現",
+      "descriptionStandard": "通院拘束時間",
+      "descriptionSimple": "通院拘束時間",
       "badge": "時間創出",
       "badgeColor": "blue",
       "icon": "Clock"

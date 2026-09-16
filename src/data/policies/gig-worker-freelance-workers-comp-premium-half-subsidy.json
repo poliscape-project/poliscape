@@ -1,8 +1,8 @@
 {
   "id": "gig-worker-freelance-workers-comp-premium-half-subsidy",
   "title": "ギグワーカー・フリーランスの労災保険特別加入保険料半額助成制度",
-  "category": "labor-employment",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "フードデリバリー配達員やITフリーランス、個人事業主など、雇用契約を結ばずに働くギグワーカーに対し、労災保険の「特別加入制度」の保険料の半額を国庫および発注事業者拠出金で助成する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "ギグワーカー",
-      "variant": "blue"
+      "text": "ギグワーカー",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "労災保険",
-      "variant": "green"
+      "text": "労災保険",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "労働安全",
-      "variant": "purple"
+      "text": "労働安全",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "保険料自己負担軽減率",
+      "label": "保険料自己負担軽減率",
+      "labelStandard": "保険料自己負担軽減率",
+      "labelSimple": "保険料自己負担軽減率",
       "value": "50",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "国費およびプラットフォーム事業者拠出金により半額を直接補助",
-      "trend": "down",
-      "trendLabel": "負担半減"
+      "descriptionStandard": "保険料自己負担軽減率",
+      "descriptionSimple": "保険料自己負担軽減率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "特別加入率の引き上げ目標",
+      "label": "特別加入率の引き上げ目標",
+      "labelStandard": "特別加入率の引き上げ目標",
+      "labelSimple": "特別加入率の引き上げ目標",
       "value": "70",
       "unit": "%以上",
+      "oldValue": "現行",
       "description": "従来の10〜20%にとどまる加入率を7割超へ引き上げる目標",
-      "trend": "up",
-      "trendLabel": "加入率向上"
+      "descriptionStandard": "特別加入率の引き上げ目標",
+      "descriptionSimple": "特別加入率の引き上げ目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

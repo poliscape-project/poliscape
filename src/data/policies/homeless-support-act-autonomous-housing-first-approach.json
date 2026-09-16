@@ -2,7 +2,7 @@
   "id": "homeless-support-act-autonomous-housing-first-approach",
   "title": "生活困窮者自立支援法改正（ハウジングファースト型住まい先行支援法）",
   "catchphrase": "路上からまず安心の個室へ、住居確保を最優先にする「ハウジングファースト」と生活保護改革",
-  "category": "welfare",
+  "category": "society",
   "categoryLabel": "社会保障・福祉",
   "lastUpdated": "2026-02-04",
   "effectiveDate": "2024年4月施行",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "生活困窮者",
-      "variant": "positive"
+      "text": "生活困窮者",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ハウジングファースト",
-      "variant": "positive"
+      "text": "ハウジングファースト",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "人権保障",
-      "variant": "neutral"
+      "text": "人権保障",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "個室住宅を最優先提供",
+      "labelStandard": "個室住宅を最優先提供",
+      "labelSimple": "個室住宅を最優先提供",
       "value": "個室住宅を最優先提供",
+      "unit": "",
+      "oldValue": "現行",
       "description": "集団部屋での生活指導を強要せず、まず鍵のかかる自分の部屋を確保。",
+      "descriptionStandard": "個室住宅を最優先提供",
+      "descriptionSimple": "個室住宅を最優先提供",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Home"
     },
     {
       "label": "多職種チームの伴走支援",
+      "labelStandard": "多職種チームの伴走支援",
+      "labelSimple": "多職種チームの伴走支援",
       "value": "多職種チームの伴走支援",
+      "unit": "",
+      "oldValue": "現行",
       "description": "福祉士・看護師・精神科医が自宅を定期訪問し孤立と再路上化を防止。",
+      "descriptionStandard": "多職種チームの伴走支援",
+      "descriptionSimple": "多職種チームの伴走支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "住居確保給付金の恒久拡充",
+      "labelStandard": "住居確保給付金の恒久拡充",
+      "labelSimple": "住居確保給付金の恒久拡充",
       "value": "住居確保給付金の恒久拡充",
+      "unit": "",
+      "oldValue": "現行",
       "description": "家賃相当額を自治体が直接家主に支払うセーフティネットを強化。",
+      "descriptionStandard": "住居確保給付金の恒久拡充",
+      "descriptionSimple": "住居確保給付金の恒久拡充",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

@@ -2,7 +2,7 @@
   "id": "coastal-erosion-tsunami-seawall-green-infrastructure",
   "title": "海岸法改正（グリーンインフラ活用型減災防潮堤・砂浜再生法）",
   "catchphrase": "コンクリート一辺倒から自然共生へ、砂浜・防潮林を活用した多重防御防潮堤と海岸侵食対策",
-  "category": "infrastructure",
+  "category": "society",
   "categoryLabel": "国土・交通",
   "lastUpdated": "2026-01-20",
   "effectiveDate": "2024年4月施行",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "グリーンインフラ",
-      "variant": "positive"
+      "text": "グリーンインフラ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "海岸保全",
-      "variant": "positive"
+      "text": "海岸保全",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "津波防災",
-      "variant": "neutral"
+      "text": "津波防災",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "自然の力で波を減衰",
+      "labelStandard": "自然の力で波を減衰",
+      "labelSimple": "自然の力で波を減衰",
       "value": "自然の力で波を減衰",
+      "unit": "",
+      "oldValue": "現行",
       "description": "砂浜・サンゴ礁・防潮林を組み合わせ津波のエネルギーを段階的に削る。",
+      "descriptionStandard": "自然の力で波を減衰",
+      "descriptionSimple": "自然の力で波を減衰",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Leaf"
     },
     {
       "label": "景観と防災の高度な両立",
+      "labelStandard": "景観と防災の高度な両立",
+      "labelSimple": "景観と防災の高度な両立",
       "value": "景観と防災の高度な両立",
+      "unit": "",
+      "oldValue": "現行",
       "description": "海が見えなくなる威圧的な高大コンクリート壁を排し美しい沿岸を保全。",
+      "descriptionStandard": "景観と防災の高度な両立",
+      "descriptionSimple": "景観と防災の高度な両立",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "砂浜再生のサンドバイパス",
+      "labelStandard": "砂浜再生のサンドバイパス",
+      "labelSimple": "砂浜再生のサンドバイパス",
       "value": "砂浜再生のサンドバイパス",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ダムに溜まった砂を海岸へ運び、痩せ細った海水浴場や砂浜を復活。",
+      "descriptionStandard": "砂浜再生のサンドバイパス",
+      "descriptionSimple": "砂浜再生のサンドバイパス",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

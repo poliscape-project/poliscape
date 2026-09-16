@@ -163,62 +163,76 @@
   "badges": [
     {
       "label": "店頭10〜15円/L抑制",
-      "variant": "neutral"
+      "text": "店頭10〜15円/L抑制",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "国費投入累計6兆円超",
-      "variant": "neutral"
+      "text": "国費投入累計6兆円超",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "トリガー条項凍結継続",
-      "variant": "neutral"
+      "text": "トリガー条項凍結継続",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "補助金による値引き",
+      "label": "",
       "labelStandard": "店頭価格抑制幅",
+      "labelSimple": "補助金による値引き",
       "value": "約10〜15",
       "unit": "円/L抑制",
       "oldValue": "全国平均175円/Lを目安に激変緩和",
-      "descriptionSimple": "ガソリンスタンドの急激な値上がりを抑制",
+      "description": "",
       "descriptionStandard": "元売りへの補助金で給油所販売価格を抑制中",
+      "descriptionSimple": "ガソリンスタンドの急激な値上がりを抑制",
       "badge": "価格抑制",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Sparkles"
     },
     {
-      "labelSimple": "使われた税金の総額",
+      "label": "",
       "labelStandard": "国費投入累計額",
+      "labelSimple": "使われた税金の総額",
       "value": "約6兆",
       "unit": "円以上",
       "oldValue": "予備費等を充当して延長を継続",
-      "descriptionSimple": "国の予備費などから巨額の税金が使われた",
+      "description": "",
       "descriptionStandard": "財政再建や脱炭素の観点から賛否が分かれる規模",
+      "descriptionSimple": "国の予備費などから巨額の税金が使われた",
       "badge": "巨額財源",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "ガソリンにかかる旧暫定税率",
+      "label": "",
       "labelStandard": "当分の間税率（暫定分）",
+      "labelSimple": "ガソリンにかかる旧暫定税率",
       "value": "25.1",
       "unit": "円/L",
       "oldValue": "本則税率28.7円＋暫定分25.1円",
-      "descriptionSimple": "ガソリンには税金にさらに消費税がかかる",
+      "description": "",
       "descriptionStandard": "旧暫定税率が維持され二重課税との批判も根強い",
+      "descriptionSimple": "ガソリンには税金にさらに消費税がかかる",
       "badge": "暫定税率",
       "badgeColor": "bg-slate-100 text-slate-700",
       "icon": "Calculator"
     },
     {
-      "labelSimple": "トリガー条項の発動基準",
+      "label": "",
       "labelStandard": "トリガー条項基準価格",
+      "labelSimple": "トリガー条項の発動基準",
       "value": "160",
       "unit": "円/L（3ヶ月）",
       "oldValue": "震災復興財源法により凍結中",
-      "descriptionSimple": "法律では160円超で減税されるはずが凍結中",
+      "description": "",
       "descriptionStandard": "凍結解除なら25.1円即減税だが流通混乱懸念で維持",
+      "descriptionSimple": "法律では160円超で減税されるはずが凍結中",
       "badge": "凍結継続",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"

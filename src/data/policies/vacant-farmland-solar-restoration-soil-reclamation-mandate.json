@@ -1,7 +1,7 @@
 {
   "id": "vacant-farmland-solar-restoration-soil-reclamation-mandate",
   "title": "荒廃農地・耕作放棄地の土壌改良および自立型新規就農者への無償貸与事業",
-  "category": "agriculture",
+  "category": "society",
   "subcategory": "農地活用・就農支援",
   "status": "施行中",
   "date": "2024-04",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "新規就農者地代",
+      "labelStandard": "新規就農者地代",
+      "labelSimple": "新規就農者地代",
       "value": "0",
       "unit": "円（最長10年間無償）",
       "oldValue": "年間数万〜数十万円",
       "description": "農地バンクが地権者とマッチングし公費で初期負担を完全免除",
+      "descriptionStandard": "新規就農者地代",
+      "descriptionSimple": "新規就農者地代",
       "badge": "地代実質ゼロ",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "基盤整備費補助率",
+      "labelStandard": "基盤整備費補助率",
+      "labelSimple": "基盤整備費補助率",
       "value": "100",
       "unit": "%（公費一括施工）",
       "oldValue": "就農者・地権者自己負担",
       "description": "重機による雑木伐採・抜根から堆肥投入まで公費で再生",
+      "descriptionStandard": "基盤整備費補助率",
+      "descriptionSimple": "基盤整備費補助率",
       "badge": "基盤整備公費負担",
       "badgeColor": "blue",
       "icon": "check-circle"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "agriculture"
 }

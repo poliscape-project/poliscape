@@ -1,8 +1,8 @@
 {
   "id": "university-tuition-waiver-middle-income-hardship-expansion",
   "title": "大学授業料減免制度の支援対象拡大（世帯年収上限600万円への引き上げ）",
-  "category": "education-child",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "高等教育の修学支援新制度（給付型奨学金・授業料等減免）について、子どもが1人または2人の世帯でも、世帯年収上限を従来の約380万円から約600万円へと大幅に引き上げる。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "高等教育無償化",
-      "variant": "blue"
+      "text": "高等教育無償化",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "中間層支援",
-      "variant": "green"
+      "text": "中間層支援",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "少子化対策",
-      "variant": "purple"
+      "text": "少子化対策",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "対象世帯年収上限",
+      "label": "対象世帯年収上限",
+      "labelStandard": "対象世帯年収上限",
+      "labelSimple": "対象世帯年収上限",
       "value": "600",
       "unit": "万円",
+      "oldValue": "現行",
       "description": "従来の約380万円から平均年収層を含む600万円へと大幅引き上げ",
-      "trend": "up",
-      "trendLabel": "上限引き上げ"
+      "descriptionStandard": "対象世帯年収上限",
+      "descriptionSimple": "対象世帯年収上限",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "新規対象学生数",
+      "label": "新規対象学生数",
+      "labelStandard": "新規対象学生数",
+      "labelSimple": "新規対象学生数",
       "value": "30",
       "unit": "万人増",
+      "oldValue": "現行",
       "description": "新たに授業料減免および給付型奨学金の対象となる中間層の学生数",
-      "trend": "up",
-      "trendLabel": "受益者拡大"
+      "descriptionStandard": "新規対象学生数",
+      "descriptionSimple": "新規対象学生数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

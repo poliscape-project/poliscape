@@ -155,50 +155,62 @@
   "badges": [
     {
       "label": "看護休暇を小3まで拡大",
-      "variant": "neutral"
+      "text": "看護休暇を小3まで拡大",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "学級閉鎖・行事も対象化",
-      "variant": "neutral"
+      "text": "学級閉鎖・行事も対象化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "テレワーク措置を義務化",
-      "variant": "neutral"
+      "text": "テレワーク措置を義務化",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "看護休暇を使える年齢",
+      "label": "",
       "labelStandard": "子の看護休暇の対象範囲",
+      "labelSimple": "看護休暇を使える年齢",
       "value": "小3修了",
       "unit": "まで（9歳年度末）",
       "oldValue": "未就学児（小学校入学前まで）",
-      "descriptionSimple": "小学校3年生まで子どもの急な体調不良や怪我で休めるように！",
+      "description": "",
       "descriptionStandard": "小1の壁を解消するため対象年齢を大幅に引き上げ",
+      "descriptionSimple": "小学校3年生まで子どもの急な体調不良や怪我で休めるように！",
       "badge": "大幅対象拡大",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Baby"
     },
     {
-      "labelSimple": "休める理由の追加",
+      "label": "",
       "labelStandard": "休暇取得理由の拡大",
+      "labelSimple": "休める理由の追加",
       "value": "学級閉鎖・式典",
       "unit": "も対象に",
       "oldValue": "病気看護・予防接種のみ",
-      "descriptionSimple": "インフルによる学級閉鎖や、入学式・卒業式への参加でも休める！",
+      "description": "",
       "descriptionStandard": "感染症に伴う学級閉鎖や学校行事（入園卒園・入学式）への参加を解禁",
+      "descriptionSimple": "インフルによる学級閉鎖や、入学式・卒業式への参加でも休める！",
       "badge": "使いやすさ向上",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Calendar"
     },
     {
-      "labelSimple": "柔軟な働き方の用意",
+      "label": "",
       "labelStandard": "柔軟就労措置の義務化",
+      "labelSimple": "柔軟な働き方の用意",
       "value": "2つ以上",
       "unit": "選択肢を用意",
       "oldValue": "企業の任意の取り組み",
-      "descriptionSimple": "テレワークや時差出勤など、親が働きやすい制度を会社が用意！",
+      "description": "",
       "descriptionStandard": "テレワーク・時差出勤・短時間勤務等から事業主が2つ以上措置を講じる義務",
+      "descriptionSimple": "テレワークや時差出勤など、親が働きやすい制度を会社が用意！",
       "badge": "企業義務化",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Briefcase"

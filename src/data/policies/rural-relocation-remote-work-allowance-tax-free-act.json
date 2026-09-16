@@ -1,8 +1,8 @@
 {
   "id": "rural-relocation-remote-work-allowance-tax-free-act",
   "title": "地方移住テレワーカー向け移住支援手当の所得税非課税特例法",
-  "category": "tax-finance",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "東京圏から地方の過疎・地方中核都市へ移住し、都市部の企業の仕事をフルリモートワークで継続する労働者に対し、企業が支給する「地方移住手当」「引越し支度金」「光熱費・サテライト手当」を年間最大100万円まで所得税・住民税非課税とする特例法を創設する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "地方移住",
-      "variant": "purple"
+      "text": "地方移住",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "テレワーク税制",
-      "variant": "green"
+      "text": "テレワーク税制",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "少子化対策",
-      "variant": "blue"
+      "text": "少子化対策",
+      "variant": "blue",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "非課税手当上限額",
+      "label": "非課税手当上限額",
+      "labelStandard": "非課税手当上限額",
+      "labelSimple": "非課税手当上限額",
       "value": "100",
       "unit": "万円/年",
+      "oldValue": "現行",
       "description": "企業が支給する地方移住・テレワーク手当の所得税非課税特別控除枠",
-      "trend": "up",
-      "trendLabel": "非課税枠新設"
+      "descriptionStandard": "非課税手当上限額",
+      "descriptionSimple": "非課税手当上限額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "地方移住世帯の目標数",
+      "label": "地方移住世帯の目標数",
+      "labelStandard": "地方移住世帯の目標数",
+      "labelSimple": "地方移住世帯の目標数",
       "value": "5",
       "unit": "万世帯/年",
+      "oldValue": "現行",
       "description": "転職なきテレワーク移住により東京圏から地方へ分散させる年間目標",
-      "trend": "up",
-      "trendLabel": "移住促進目標"
+      "descriptionStandard": "地方移住世帯の目標数",
+      "descriptionSimple": "地方移住世帯の目標数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

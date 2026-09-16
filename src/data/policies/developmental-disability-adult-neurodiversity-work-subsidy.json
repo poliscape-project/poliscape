@@ -3,7 +3,7 @@
   "title": "大人の発達障害（ニューロダイバーシティ）専門就労移行支援交付金",
   "category": "labor",
   "categoryLabel": "労働・働き方・デジタル・法務",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "専門支援コース・助成中",
   "catchphrase": "強みを活かして働く。大人の発達障害（ASD/ADHD）のIT・専門職特化型就労移行支援と企業助成",
   "lastUpdated": "2026-09-16",
@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "1年後就労定着率",
+      "labelStandard": "1年後就労定着率",
+      "labelSimple": "1年後就労定着率",
       "value": "85",
       "unit": "%以上",
       "oldValue": "約50〜60%（全体平均）",
       "description": "専門的マッチングとジョブコーチ支援による高い職場定着実績",
+      "descriptionStandard": "1年後就労定着率",
+      "descriptionSimple": "1年後就労定着率",
       "badge": "高い定着率",
       "badgeColor": "green",
       "icon": "TrendingUp"
     },
     {
       "label": "合理的配慮義務化",
+      "labelStandard": "合理的配慮義務化",
+      "labelSimple": "合理的配慮義務化",
       "value": "100",
       "unit": "%全企業",
       "oldValue": "努力義務",
       "description": "法改正により全民間企業に対し過度な負担のない配慮提供を義務化",
+      "descriptionStandard": "合理的配慮義務化",
+      "descriptionSimple": "合理的配慮義務化",
       "badge": "法定義務化",
       "badgeColor": "blue",
       "icon": "ShieldCheck"

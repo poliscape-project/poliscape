@@ -131,62 +131,76 @@
   "badges": [
     {
       "label": "技能実習廃止・新制度へ",
-      "variant": "neutral"
+      "text": "技能実習廃止・新制度へ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "条件付き転籍（転職）解禁",
-      "variant": "neutral"
+      "text": "条件付き転籍（転職）解禁",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "3年で特定技能1号へ直結",
-      "variant": "neutral"
+      "text": "3年で特定技能1号へ直結",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "前の会社から転職できる？",
+      "label": "",
       "labelStandard": "本人意向による転籍要件",
+      "labelSimple": "前の会社から転職できる？",
       "value": "1〜2年超",
       "unit": "就労＋日本語力",
       "oldValue": "原則禁止（パワハラでも転職できず失踪）",
-      "descriptionSimple": "1〜2年働いて日本語ができれば転職できる！",
+      "description": "",
       "descriptionStandard": "同一業務区分内での条件付き転職を法的に解禁",
+      "descriptionSimple": "1〜2年働いて日本語ができれば転職できる！",
       "badge": "転職の自由解禁",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Briefcase"
     },
     {
-      "labelSimple": "次のステップ",
+      "label": "",
       "labelStandard": "特定技能1号への移行期間",
+      "labelSimple": "次のステップ",
       "value": "3年間",
       "unit": "の育成修了で移行",
       "oldValue": "技能実習は最長5年で原則母国へ帰国",
-      "descriptionSimple": "3年真面目に働けばもっと長く日本で働ける！",
+      "description": "",
       "descriptionStandard": "育成期間を経て即戦力枠へ無試験または円滑移行",
+      "descriptionSimple": "3年真面目に働けばもっと長く日本で働ける！",
       "badge": "特定技能へ直結",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "GraduationCap"
     },
     {
-      "labelSimple": "ずっと日本に住める？",
+      "label": "",
       "labelStandard": "特定技能2号（永住可能）",
+      "labelSimple": "ずっと日本に住める？",
       "value": "家族帯同可",
       "unit": "・在留更新無制限",
       "oldValue": "家族の連れ添いは一切認められず",
-      "descriptionSimple": "試験に受かれば家族と一緒にずっと暮らせる！",
+      "description": "",
       "descriptionStandard": "高度熟練者への家族帯同と無期限在留の道筋を明示",
+      "descriptionSimple": "試験に受かれば家族と一緒にずっと暮らせる！",
       "badge": "永住・家族帯同へ",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "地方の心配ごと",
+      "label": "",
       "labelStandard": "都市部への人材流出懸念",
+      "labelSimple": "地方の心配ごと",
       "value": "地方から東京へ",
       "unit": "流出リスク",
       "oldValue": "地方に固定化（移動不可）",
-      "descriptionSimple": "地方でお金をかけて育てた人が都会に逃げる？",
+      "description": "",
       "descriptionStandard": "受入れ初期費用を負担した地方企業・農家の悲鳴",
+      "descriptionSimple": "地方でお金をかけて育てた人が都会に逃げる？",
       "badge": "地方保護が課題",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"

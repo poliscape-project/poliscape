@@ -123,58 +123,76 @@
   "badges": [
     {
       "label": "管理不全空家6倍増税",
-      "variant": "neutral"
+      "text": "管理不全空家6倍増税",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "特定空家代執行",
-      "variant": "neutral"
+      "text": "特定空家代執行",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "900万戸対策",
-      "variant": "neutral"
+      "text": "900万戸対策",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "全国の空き家の数",
+      "label": "",
       "labelStandard": "全国総空き家戸数",
+      "labelSimple": "全国の空き家の数",
       "value": "約900万",
       "unit": "戸（過去最多）",
       "oldValue": "総住宅の約13.8％が空き家化",
       "description": "倒壊や防犯防災リスクが深刻化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "900万戸突破",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Home"
     },
     {
-      "labelSimple": "放置空き家の増税",
+      "label": "",
       "labelStandard": "固定資産税特例解除",
+      "labelSimple": "放置空き家の増税",
       "value": "最大6",
       "unit": "倍に跳ね上がり",
       "oldValue": "家があれば土地税金が1/6に優遇",
       "description": "管理不全空家の勧告で優遇を取り消し",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "最大6倍増税",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "市役所による強制解体",
+      "label": "",
       "labelStandard": "行政代執行の円滑化",
+      "labelSimple": "市役所による強制解体",
       "value": "迅速",
       "unit": "解体手続き導入",
       "oldValue": "所有者特定に数年を要し放置",
       "description": "緊急危険空家を自治体が強制撤去",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "強制解体",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Building"
     },
     {
-      "labelSimple": "壊すのにかかるお金",
+      "label": "",
       "labelStandard": "木造家屋の解体費用",
+      "labelSimple": "壊すのにかかるお金",
       "value": "150万〜",
       "unit": "300万円程度",
       "oldValue": "高齢相続人が解体費を払えず放置",
       "description": "負動産化した実家の解体支援が急務",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "解体費用の壁",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Wallet"

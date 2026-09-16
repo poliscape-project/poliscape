@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "理工系女子枠",
-      "variant": "positive"
+      "text": "理工系女子枠",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ダイバーシティ入試",
-      "variant": "positive"
+      "text": "ダイバーシティ入試",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "逆差別論争",
-      "variant": "warning"
+      "text": "逆差別論争",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "導入実績",
+      "labelStandard": "導入実績",
+      "labelSimple": "導入実績",
       "value": "全国30校以上の主要大学",
+      "unit": "",
+      "oldValue": "現行",
       "description": "東工大、名大、京大、東北大などの理工系学部",
+      "descriptionStandard": "導入実績",
+      "descriptionSimple": "導入実績",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "選抜方式",
+      "labelStandard": "選抜方式",
+      "labelSimple": "選抜方式",
       "value": "総合型・学校推薦型選抜",
+      "unit": "",
+      "oldValue": "現行",
       "description": "学力試験だけでなく意欲や探究実績を総合評価",
+      "descriptionStandard": "選抜方式",
+      "descriptionSimple": "選抜方式",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "背景",
+      "labelStandard": "背景",
+      "labelSimple": "背景",
       "value": "理工系女子比率15%の壁",
+      "unit": "",
+      "oldValue": "現行",
       "description": "OECD最低水準の理系女性比率を倍増させる国家戦略",
+      "descriptionStandard": "背景",
+      "descriptionSimple": "背景",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

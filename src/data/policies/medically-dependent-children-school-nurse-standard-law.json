@@ -1,8 +1,8 @@
 {
   "id": "medically-dependent-children-school-nurse-standard-law",
   "title": "医療的ケア児のための学校看護師配置基準法定化と専門性加算",
-  "category": "education-child",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "人工呼吸器の管理やたんの吸引、経管栄養などが必要な「医療的ケア児」が地域の学校に通えるよう、小中学校への看護師配置基準を義務化する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "教育支援",
-      "variant": "green"
+      "text": "教育支援",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "子育て支援",
-      "variant": "blue"
+      "text": "子育て支援",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "インクルーシブ",
-      "variant": "purple"
+      "text": "インクルーシブ",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "全国の医療的ケア児数",
+      "label": "全国の医療的ケア児数",
+      "labelStandard": "全国の医療的ケア児数",
+      "labelSimple": "全国の医療的ケア児数",
       "value": "2.0",
       "unit": "万人",
+      "oldValue": "現行",
       "description": "在宅で医療的ケアを受けながら生活する児童生徒の総数",
-      "trend": "up",
-      "trendLabel": "増加傾向"
+      "descriptionStandard": "全国の医療的ケア児数",
+      "descriptionSimple": "全国の医療的ケア児数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "保護者付き添い解消率",
+      "label": "保護者付き添い解消率",
+      "labelStandard": "保護者付き添い解消率",
+      "labelSimple": "保護者付き添い解消率",
       "value": "85",
       "unit": "%目標",
+      "oldValue": "現行",
       "description": "法定配置基準の導入により保護者の付き添い登校を段階的にゼロ化",
-      "trend": "up",
-      "trendLabel": "就労継続支援"
+      "descriptionStandard": "保護者付き添い解消率",
+      "descriptionSimple": "保護者付き添い解消率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

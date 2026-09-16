@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "労災補償",
-      "variant": "positive"
+      "text": "労災補償",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "テレワーク",
-      "variant": "neutral"
+      "text": "テレワーク",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "労働安全",
-      "variant": "positive"
+      "text": "労働安全",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "在宅中の事故も労災対象",
+      "labelStandard": "在宅中の事故も労災対象",
+      "labelSimple": "在宅中の事故も労災対象",
       "value": "在宅中の事故も労災対象",
+      "unit": "",
+      "oldValue": "現行",
       "description": "勤務時間中の自宅内での転倒や負傷をオフィスと同等に補償。",
+      "descriptionStandard": "在宅中の事故も労災対象",
+      "descriptionSimple": "在宅中の事故も労災対象",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "デジタルログでの業務証明",
+      "labelStandard": "デジタルログでの業務証明",
+      "labelSimple": "デジタルログでの業務証明",
       "value": "デジタルログでの業務証明",
+      "unit": "",
+      "oldValue": "現行",
       "description": "PCのログオンや通信履歴で業務遂行性を客観的に立証可能。",
+      "descriptionStandard": "デジタルログでの業務証明",
+      "descriptionSimple": "デジタルログでの業務証明",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "在宅メンタルヘルス支援",
+      "labelStandard": "在宅メンタルヘルス支援",
+      "labelSimple": "在宅メンタルヘルス支援",
       "value": "在宅メンタルヘルス支援",
+      "unit": "",
+      "oldValue": "現行",
       "description": "孤立しがちなリモートワーカーの産業医オンライン面談を義務化。",
+      "descriptionStandard": "在宅メンタルヘルス支援",
+      "descriptionSimple": "在宅メンタルヘルス支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     }
   ],

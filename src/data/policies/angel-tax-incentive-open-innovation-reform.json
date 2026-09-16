@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "最大20億円非課税",
-      "variant": "positive"
+      "text": "最大20億円非課税",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "M&A税額控除",
-      "variant": "positive"
+      "text": "M&A税額控除",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "エコシステム育成",
-      "variant": "neutral"
+      "text": "エコシステム育成",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "再投資非課税枠",
+      "labelStandard": "再投資非課税枠",
+      "labelSimple": "再投資非課税枠",
       "value": "最大20億円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "株式売却益をスタートアップへ再投資した場合の恒久非課税",
+      "descriptionStandard": "再投資非課税枠",
+      "descriptionSimple": "再投資非課税枠",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "M&A税制優遇",
+      "labelStandard": "M&A税制優遇",
+      "labelSimple": "M&A税制優遇",
       "value": "株式取得額の25%控除",
+      "unit": "",
+      "oldValue": "現行",
       "description": "発行済株式買収によるグループ化も所得控除の対象に",
+      "descriptionStandard": "M&A税制優遇",
+      "descriptionSimple": "M&A税制優遇",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "政策目標",
+      "labelStandard": "政策目標",
+      "labelSimple": "政策目標",
       "value": "投資額10倍増（10兆円）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "官民一体で日本のユニコーン企業を100社創出",
+      "descriptionStandard": "政策目標",
+      "descriptionSimple": "政策目標",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

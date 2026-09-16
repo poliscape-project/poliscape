@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "公的債務保証割合",
+      "labelStandard": "公的債務保証割合",
+      "labelSimple": "公的債務保証割合",
       "value": "80",
       "unit": "%（最大）",
       "oldValue": "0%（対象外）",
       "description": "サーチャーの買収借入金を信用保証協会が手厚くバックアップ",
+      "descriptionStandard": "公的債務保証割合",
+      "descriptionSimple": "公的債務保証割合",
       "badge": "公的保証適用",
       "badgeColor": "blue",
       "icon": "currency-yen"
     },
     {
       "label": "個人連帯保証",
+      "labelStandard": "個人連帯保証",
+      "labelSimple": "個人連帯保証",
       "value": "完全不要",
       "unit": "",
       "oldValue": "自宅・私財担保が必須",
       "description": "個人の破産リスクを排除し優秀層の承継起業を促進",
+      "descriptionStandard": "個人連帯保証",
+      "descriptionSimple": "個人連帯保証",
       "badge": "個人保証撤廃",
       "badgeColor": "green",
       "icon": "shield-check"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

@@ -155,62 +155,76 @@
   "badges": [
     {
       "label": "一定所得以上は2割負担",
-      "variant": "neutral"
+      "text": "一定所得以上は2割負担",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "一般層約8割は1割維持",
-      "variant": "neutral"
+      "text": "一般層約8割は1割維持",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "緩和措置終了・本格運用",
-      "variant": "neutral"
+      "text": "緩和措置終了・本格運用",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "病院の窓口で払う割合",
+      "label": "",
       "labelStandard": "一定所得以上の窓口負担割合",
+      "labelSimple": "病院の窓口で払う割合",
       "value": "2割",
       "unit": "負担",
       "oldValue": "これまで一律1割だった層の一部",
-      "descriptionSimple": "年金が多い高齢者は2割になりました",
+      "description": "",
       "descriptionStandard": "単身年収200万円以上・複数320万円以上",
+      "descriptionSimple": "年金が多い高齢者は2割になりました",
       "badge": "2割負担導入",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "HeartPulse"
     },
     {
-      "labelSimple": "1割のままの人の割合",
+      "label": "",
       "labelStandard": "1割負担を維持する高齢者",
+      "labelSimple": "1割のままの人の割合",
       "value": "約 8",
       "unit": "割の世帯",
       "oldValue": "単身年収200万円未満の一般層",
-      "descriptionSimple": "ほとんどのおじいちゃんおばあちゃんは1割！",
+      "description": "",
       "descriptionStandard": "後期高齢者全体の約80%は1割負担のまま据置",
+      "descriptionSimple": "ほとんどのおじいちゃんおばあちゃんは1割！",
       "badge": "約80%は1割",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "急激な値上げを抑える特例",
+      "label": "",
       "labelStandard": "激変緩和措置（負担上限）",
+      "labelSimple": "急激な値上げを抑える特例",
       "value": "終了済",
       "unit": "（3年間特例）",
       "oldValue": "外来の負担増月3,000円以内措置",
-      "descriptionSimple": "3年間の緩和期間が終了し本格運用へ",
+      "description": "",
       "descriptionStandard": "制度施行から3年が経過し通常上限へ移行",
+      "descriptionSimple": "3年間の緩和期間が終了し本格運用へ",
       "badge": "本格運用へ",
       "badgeColor": "bg-slate-100 text-slate-800",
       "icon": "Clock"
     },
     {
-      "labelSimple": "現役並みに稼いでいる人",
+      "label": "",
       "labelStandard": "現役並み所得者の負担割合",
+      "labelSimple": "現役並みに稼いでいる人",
       "value": "3割",
       "unit": "負担",
       "oldValue": "課税所得145万円以上の層",
-      "descriptionSimple": "若い人と同じ3割を支払う層",
+      "description": "",
       "descriptionStandard": "単身年収約383万円以上は現役世代と同負担",
+      "descriptionSimple": "若い人と同じ3割を支払う層",
       "badge": "現役並み3割",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "ShieldCheck"

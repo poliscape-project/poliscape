@@ -145,15 +145,21 @@
   "badges": [
     {
       "label": "大阪・夢洲2030年秋開業",
-      "variant": "neutral"
+      "text": "大阪・夢洲2030年秋開業",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "日本人入場料6,000円",
-      "variant": "neutral"
+      "text": "日本人入場料6,000円",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "マイナ顔認証・回数制限",
-      "variant": "neutral"
+      "text": "マイナ顔認証・回数制限",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "international": {

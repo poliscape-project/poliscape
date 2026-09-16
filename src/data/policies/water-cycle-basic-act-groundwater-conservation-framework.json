@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "地下水保全",
-      "variant": "positive"
+      "text": "地下水保全",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "水源林保全",
-      "variant": "positive"
+      "text": "水源林保全",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "産業立地競争力",
-      "variant": "neutral"
+      "text": "産業立地競争力",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "事前規制",
+      "labelStandard": "事前規制",
+      "labelSimple": "事前規制",
       "value": "大規模取水の協議義務化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "メガファブやデータセンターの過剰採取を未然に防止",
+      "descriptionStandard": "事前規制",
+      "descriptionSimple": "事前規制",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Leaf"
     },
     {
       "label": "保全区域",
+      "labelStandard": "保全区域",
+      "labelSimple": "保全区域",
       "value": "水源涵養保安林の指定拡大",
+      "unit": "",
+      "oldValue": "現行",
       "description": "重要山林の乱開発や不透明な所有者移転を阻止",
+      "descriptionStandard": "保全区域",
+      "descriptionSimple": "保全区域",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "共生手法",
+      "labelStandard": "共生手法",
+      "labelSimple": "共生手法",
       "value": "水田湛水等涵養オフセット",
+      "unit": "",
+      "oldValue": "現行",
       "description": "取水量に見合う地下水浸透事業を企業へ義務付け",
+      "descriptionStandard": "共生手法",
+      "descriptionSimple": "共生手法",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

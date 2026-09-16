@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "教育改革",
-      "variant": "positive"
+      "text": "教育改革",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "学校図書館",
-      "variant": "positive"
+      "text": "学校図書館",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "雇用改善",
-      "variant": "neutral"
+      "text": "雇用改善",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "専任司書の全校配置",
+      "labelStandard": "専任司書の全校配置",
+      "labelSimple": "専任司書の全校配置",
       "value": "専任司書の全校配置",
+      "unit": "",
+      "oldValue": "現行",
       "description": "小中高校での専門資格保有者の常勤配置を義務化。",
+      "descriptionStandard": "専任司書の全校配置",
+      "descriptionSimple": "専任司書の全校配置",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "FileText"
     },
     {
       "label": "処遇改善と正規化",
+      "labelStandard": "処遇改善と正規化",
+      "labelSimple": "処遇改善と正規化",
       "value": "処遇改善と正規化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "非正規比率の高い司書の身分安定と専門性向上を推進。",
+      "descriptionStandard": "処遇改善と正規化",
+      "descriptionSimple": "処遇改善と正規化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "情報探究ハブ化",
+      "labelStandard": "情報探究ハブ化",
+      "labelSimple": "情報探究ハブ化",
       "value": "情報探究ハブ化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "デジタル図書と紙媒体を融合した探究学習環境を整備。",
+      "descriptionStandard": "情報探究ハブ化",
+      "descriptionSimple": "情報探究ハブ化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

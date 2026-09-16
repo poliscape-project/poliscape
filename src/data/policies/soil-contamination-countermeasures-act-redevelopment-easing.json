@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "土壌汚染",
-      "variant": "positive"
+      "text": "土壌汚染",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "都市再開発",
-      "variant": "positive"
+      "text": "都市再開発",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "規制合理化",
-      "variant": "neutral"
+      "text": "規制合理化",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "自然由来と人為汚染の区別",
+      "labelStandard": "自然由来と人為汚染の区別",
+      "labelSimple": "自然由来と人為汚染の区別",
       "value": "自然由来と人為汚染の区別",
+      "unit": "",
+      "oldValue": "現行",
       "description": "太古からの地質による重金属を科学的に見極め過剰な搬出を抑止。",
+      "descriptionStandard": "自然由来と人為汚染の区別",
+      "descriptionSimple": "自然由来と人為汚染の区別",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "現場内封じ込めの推進",
+      "labelStandard": "現場内封じ込めの推進",
+      "labelSimple": "現場内封じ込めの推進",
       "value": "現場内封じ込めの推進",
+      "unit": "",
+      "oldValue": "現行",
       "description": "掘削して捨てるのではなく、現地で安全に遮断被覆して再開発に活用。",
+      "descriptionStandard": "現場内封じ込めの推進",
+      "descriptionSimple": "現場内封じ込めの推進",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Home"
     },
     {
       "label": "電子マニフェスト追跡",
+      "labelStandard": "電子マニフェスト追跡",
+      "labelSimple": "電子マニフェスト追跡",
       "value": "電子マニフェスト追跡",
+      "unit": "",
+      "oldValue": "現行",
       "description": "建設残土がどこへ運ばれたかをデジタル追跡し不法投棄を完全遮断。",
+      "descriptionStandard": "電子マニフェスト追跡",
+      "descriptionSimple": "電子マニフェスト追跡",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

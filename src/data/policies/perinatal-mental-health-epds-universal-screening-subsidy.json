@@ -3,7 +3,7 @@
   "title": "産後うつ防止に向けたエジンバラ産後うつ質問票（EPDS）健診公費助成",
   "category": "healthcare",
   "categoryLabel": "医療・公衆衛生",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "全国自治体公費助成中",
   "catchphrase": "孤立しがちな産後うつと産後自殺を防ぐ。産婦健康診査（2週間・1カ月）と心のケアの全国完全無償化",
   "lastUpdated": "2026-09-16",
@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "自治体公費助成率",
+      "labelStandard": "自治体公費助成率",
+      "labelSimple": "自治体公費助成率",
       "value": "98",
       "unit": "%以上",
       "oldValue": "一部自治体のみ（有料）",
       "description": "全国ほぼ全ての市区町村で産後2週間・1カ月健診の費用助成を実現",
+      "descriptionStandard": "自治体公費助成率",
+      "descriptionSimple": "自治体公費助成率",
       "badge": "全国普及",
       "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "健診受診回数",
+      "labelStandard": "健診受診回数",
+      "labelSimple": "健診受診回数",
       "value": "2",
       "unit": "回公費助成",
       "oldValue": "1回または自己負担",
       "description": "産後2週間・1カ月の最も危機的な時期に2回の無料健診を保障",
+      "descriptionStandard": "健診受診回数",
+      "descriptionSimple": "健診受診回数",
       "badge": "手厚いサポート",
       "badgeColor": "green",
       "icon": "Calendar"

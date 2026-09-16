@@ -2,7 +2,7 @@
   "id": "commercial-drone-remote-id-mandatory-safety-act",
   "title": "ドローン「リモートID」義務化と不正電波妨害装置（ジャマー）規制法",
   "catchphrase": "空のナンバープレートを義務化、違法飛行を防ぐ空域セキュリティ法",
-  "category": "tech",
+  "category": "society",
   "categoryLabel": "IT・科学技術",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年6月施行予定",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "ドローン規制",
-      "variant": "positive"
+      "text": "ドローン規制",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "空域セキュリティ",
-      "variant": "positive"
+      "text": "空域セキュリティ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "航空安全",
-      "variant": "neutral"
+      "text": "航空安全",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "空のナンバープレート",
+      "labelStandard": "空のナンバープレート",
+      "labelSimple": "空のナンバープレート",
       "value": "空のナンバープレート",
+      "unit": "",
+      "oldValue": "現行",
       "description": "Bluetooth/Wi-Fi電波で飛行位置・高度・機体IDを常時発信。",
+      "descriptionStandard": "空のナンバープレート",
+      "descriptionSimple": "空のナンバープレート",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "悪質ドローンの強制着陸",
+      "labelStandard": "悪質ドローンの強制着陸",
+      "labelSimple": "悪質ドローンの強制着陸",
       "value": "悪質ドローンの強制着陸",
+      "unit": "",
+      "oldValue": "現行",
       "description": "危険な侵入機体に対して警察が電波照射で安全に着陸させる法権限を確立。",
+      "descriptionStandard": "悪質ドローンの強制着陸",
+      "descriptionSimple": "悪質ドローンの強制着陸",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "なりすまし暗号対策",
+      "labelStandard": "なりすまし暗号対策",
+      "labelSimple": "なりすまし暗号対策",
       "value": "なりすまし暗号対策",
+      "unit": "",
+      "oldValue": "現行",
       "description": "電波情報の偽装を防ぐデジタル署名技術を全機体に義務化。",
+      "descriptionStandard": "なりすまし暗号対策",
+      "descriptionSimple": "なりすまし暗号対策",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

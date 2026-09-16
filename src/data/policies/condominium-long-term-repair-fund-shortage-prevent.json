@@ -2,7 +2,7 @@
   "id": "condominium-long-term-repair-fund-shortage-prevent",
   "title": "分譲マンション長期修繕積立金段階値上げ防止・均等積立誘導法",
   "catchphrase": "将来の大規模修繕バブル崩壊と廃墟化を防ぐ、修繕積立金の「均等積立方式」への原則一本化",
-  "category": "infrastructure",
+  "category": "society",
   "categoryLabel": "国土・交通",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "マンション管理",
-      "variant": "positive"
+      "text": "マンション管理",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "修繕積立金",
-      "variant": "positive"
+      "text": "修繕積立金",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "住まい",
-      "variant": "neutral"
+      "text": "住まい",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "積立方式",
+      "labelStandard": "積立方式",
+      "labelSimple": "積立方式",
       "value": "均等積立を原則義務化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "将来の値上げに依存しないフラットな積立金設定を義務付け",
+      "descriptionStandard": "積立方式",
+      "descriptionSimple": "積立方式",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "値上げ上限",
+      "labelStandard": "値上げ上限",
+      "labelSimple": "値上げ上限",
       "value": "最大1.5倍以内",
+      "unit": "",
+      "oldValue": "現行",
       "description": "段階増額を採用する場合でも最終引き上げ額を当初の1.5倍に規制",
+      "descriptionStandard": "値上げ上限",
+      "descriptionSimple": "値上げ上限",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingDown"
     }
   ],

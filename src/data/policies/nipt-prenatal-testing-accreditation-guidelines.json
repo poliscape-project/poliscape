@@ -123,58 +123,76 @@
   "badges": [
     {
       "label": "出生前検査認証",
-      "variant": "neutral"
+      "text": "出生前検査認証",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "遺伝カウンセリング",
-      "variant": "neutral"
+      "text": "遺伝カウンセリング",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "無認証対策",
-      "variant": "neutral"
+      "text": "無認証対策",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "検査の方法",
+      "label": "",
       "labelStandard": "NIPT検査の手法",
+      "labelSimple": "検査の方法",
       "value": "母体採血",
       "unit": "のみで判定",
       "oldValue": "羊水検査 流産リスク（約0.3%）",
       "description": "お腹に針を刺さず血液だけで安全",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "非侵襲検査",
       "badgeColor": "bg-pink-100 text-pink-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "調べる染色体の数",
+      "label": "",
       "labelStandard": "基本対象トリソミー",
+      "labelSimple": "調べる染色体の数",
       "value": "主要3",
       "unit": "疾患（21,18,13）",
       "oldValue": "無認証 全染色体や性別まで判定",
       "description": "医学的妥当性のある対象に限定",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "対象限定",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "HeartPulse"
     },
     {
-      "labelSimple": "専門医への相談",
+      "label": "",
       "labelStandard": "遺伝カウンセリング",
+      "labelSimple": "専門医への相談",
       "value": "必須化",
       "unit": "（検査前後）",
       "oldValue": "無認証 カウンセリングなし郵送のみ",
       "description": "陽性時の心のケアと福祉情報を支援",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "相談義務",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "UserCheck"
     },
     {
-      "labelSimple": "自費の検査費用",
+      "label": "",
       "labelStandard": "検査費用（全額自己負担）",
+      "labelSimple": "自費の検査費用",
       "value": "10万〜",
       "unit": "20万円程度",
       "oldValue": "保険適用なし 高額な自由診療",
       "description": "経済的理由による無認証受診が課題",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "自由診療",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Coins"

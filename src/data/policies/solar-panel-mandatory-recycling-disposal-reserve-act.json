@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "太陽光リサイクル",
-      "variant": "positive"
+      "text": "太陽光リサイクル",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "大量廃棄対策",
-      "variant": "positive"
+      "text": "大量廃棄対策",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "資源循環",
-      "variant": "neutral"
+      "text": "資源循環",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "埋立処分を原則禁止",
+      "labelStandard": "埋立処分を原則禁止",
+      "labelSimple": "埋立処分を原則禁止",
       "value": "埋立処分を原則禁止",
+      "unit": "",
+      "oldValue": "現行",
       "description": "鉛などの有害金属を含むパネルをゴミ捨て場に埋めず、100%工場で分解。",
+      "descriptionStandard": "埋立処分を原則禁止",
+      "descriptionSimple": "埋立処分を原則禁止",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "銀やシリコンを回収",
+      "labelStandard": "銀やシリコンを回収",
+      "labelSimple": "銀やシリコンを回収",
       "value": "銀やシリコンを回収",
+      "unit": "",
+      "oldValue": "現行",
       "description": "高度な自動ガラス剥離技術により高純度素材を抽出して新パネルへ再生。",
+      "descriptionStandard": "銀やシリコンを回収",
+      "descriptionSimple": "銀やシリコンを回収",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "撤去費用の強制積立",
+      "labelStandard": "撤去費用の強制積立",
+      "labelSimple": "撤去費用の強制積立",
       "value": "撤去費用の強制積立",
+      "unit": "",
+      "oldValue": "現行",
       "description": "事業者が逃げ出しても撤去できるよう、毎月の売電収入から積立金を強制徴収。",
+      "descriptionStandard": "撤去費用の強制積立",
+      "descriptionSimple": "撤去費用の強制積立",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

@@ -2,7 +2,7 @@
   "id": "land-registry-survey-ten-year-acceleration-plan",
   "title": "国土調査法改正（地籍調査加速化10年プラン・所有者不明土地解消）",
   "catchphrase": "境界が分からない土地をなくす。ドローンや衛星測量で地籍調査を2倍に加速し、災害復旧と開発の遅れを解消",
-  "category": "governance",
+  "category": "society",
   "categoryLabel": "統治機構・国土管理・所有者不明土地",
   "lastUpdated": "2024-04-10",
   "effectiveDate": "2020年5月成立・順次施行",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "地籍調査加速化",
-      "variant": "positive"
+      "text": "地籍調査加速化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "所有者不明土地解消",
-      "variant": "positive"
+      "text": "所有者不明土地解消",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "自治体マンパワー課題",
-      "variant": "neutral"
+      "text": "自治体マンパワー課題",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "新技術",
+      "labelStandard": "新技術",
+      "labelSimple": "新技術",
       "value": "ドローン・航空レーザー測量",
+      "unit": "",
+      "oldValue": "現行",
       "description": "山林急斜面の調査スピードを2倍に向上",
+      "descriptionStandard": "新技術",
+      "descriptionSimple": "新技術",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "手続改革",
+      "labelStandard": "手続改革",
+      "labelSimple": "手続改革",
       "value": "公告による過半数合意確定",
+      "unit": "",
+      "oldValue": "現行",
       "description": "所有者の一部が所在不明でも境界を合法確定",
+      "descriptionStandard": "手続改革",
+      "descriptionSimple": "手続改革",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "重点支援",
+      "labelStandard": "重点支援",
+      "labelSimple": "重点支援",
       "value": "防災重点区域最大8割補助",
+      "unit": "",
+      "oldValue": "現行",
       "description": "津波・土砂崩落警戒地域の調査を国が重点支援",
+      "descriptionStandard": "重点支援",
+      "descriptionSimple": "重点支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "id": "civil-execution-debtor-asset-disclosure-bank-inquiry-act",
   "title": "民事執行法に基づく債務者の全預貯金・有価証券一括照会システムの拡充",
-  "category": "admin",
+  "category": "society",
   "subcategory": "司法・民事執行",
   "status": "施行中",
   "date": "2024-04",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "口座特定成功率",
+      "labelStandard": "口座特定成功率",
+      "labelSimple": "口座特定成功率",
       "value": "75",
       "unit": "%超（一括照会）",
       "oldValue": "20%未満（支店指定）",
       "description": "全国金融機関への一括照会により隠し口座の発見率が急上昇",
+      "descriptionStandard": "口座特定成功率",
+      "descriptionSimple": "口座特定成功率",
       "badge": "発見率激増",
       "badgeColor": "green",
       "icon": "shield-check"
     },
     {
       "label": "照会申立手数料",
+      "labelStandard": "照会申立手数料",
+      "labelSimple": "照会申立手数料",
       "value": "数千円",
       "unit": "程度",
       "oldValue": "探偵費用数十万円",
       "description": "裁判所の公的システムにより格安費用での財産調査を実現",
+      "descriptionStandard": "照会申立手数料",
+      "descriptionSimple": "照会申立手数料",
       "badge": "格安調査",
       "badgeColor": "blue",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "admin"
 }

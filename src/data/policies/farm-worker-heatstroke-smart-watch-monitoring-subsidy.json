@@ -2,7 +2,7 @@
   "id": "farm-worker-heatstroke-smart-watch-monitoring-subsidy",
   "title": "農業従事者・高齢農家熱中症スマートウォッチ見守り公費助成法",
   "catchphrase": "ビニールハウスや炎天下の畑での孤独死を防ぐ、バイタル見守りスマートウォッチの全額給付",
-  "category": "agriculture",
+  "category": "society",
   "categoryLabel": "農林水産業",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "農業安全",
-      "variant": "positive"
+      "text": "農業安全",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "熱中症予防",
-      "variant": "positive"
+      "text": "熱中症予防",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "スマートウォッチ",
-      "variant": "neutral"
+      "text": "スマートウォッチ",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "自己負担",
+      "labelStandard": "自己負担",
+      "labelSimple": "自己負担",
       "value": "完全無償（0円）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "65歳以上の農業者へバイタルセンサー端末を全額公費給付",
+      "descriptionStandard": "自己負担",
+      "descriptionSimple": "自己負担",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "緊急通報",
+      "labelStandard": "緊急通報",
+      "labelSimple": "緊急通報",
       "value": "3分以内自動SOS",
+      "unit": "",
+      "oldValue": "現行",
       "description": "転倒や心拍異常を感知し消防本部へGPS座標付きで自動通報",
+      "descriptionStandard": "緊急通報",
+      "descriptionSimple": "緊急通報",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     }
   ],

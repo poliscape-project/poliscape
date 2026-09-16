@@ -155,62 +155,76 @@
   "badges": [
     {
       "label": "自己負担2,000円",
-      "variant": "neutral"
+      "text": "自己負担2,000円",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "サイト独自ポイント禁止",
-      "variant": "neutral"
+      "text": "サイト独自ポイント禁止",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "経費5割ルールの厳格化",
-      "variant": "neutral"
+      "text": "経費5割ルールの厳格化",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "実質の自己負担額",
+      "label": "",
       "labelStandard": "寄附金控除の最低自己負担",
+      "labelSimple": "実質の自己負担額",
       "value": "2,000",
       "unit": "円",
       "oldValue": "上限額内なら何自治体でも2,000円",
-      "descriptionSimple": "自己負担2千円でいろんな特産品が！",
+      "description": "",
       "descriptionStandard": "住民税等の税額控除を受ける最低負担額",
+      "descriptionSimple": "自己負担2千円でいろんな特産品が！",
       "badge": "実質2,000円",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Gift"
     },
     {
-      "labelSimple": "ポータルサイトのポイント",
+      "label": "",
       "labelStandard": "仲介サイトのポイント付与",
+      "labelSimple": "ポータルサイトのポイント",
       "value": "全面禁止",
       "unit": "（2025/10〜）",
       "oldValue": "以前は10〜20%還元も横行",
-      "descriptionSimple": "サイト独自ポイントは付かなくなりました",
+      "description": "",
       "descriptionStandard": "総務省告示により自治体契約サイトで禁止",
+      "descriptionSimple": "サイト独自ポイントは付かなくなりました",
       "badge": "新ルール施行",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "もらえる返礼品の目安",
+      "label": "",
       "labelStandard": "返礼品調達割合ルール",
+      "labelSimple": "もらえる返礼品の目安",
       "value": "3割",
       "unit": "以下",
       "oldValue": "寄附金額に対する仕入れ価格基準",
-      "descriptionSimple": "寄附した額の3割相当の品が届く",
+      "description": "",
       "descriptionStandard": "地場産品基準および返礼品調達費3割制限",
+      "descriptionSimple": "寄附した額の3割相当の品が届く",
       "badge": "3割基準",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "町の経費の上限",
+      "label": "",
       "labelStandard": "募集経費5割ルールの厳格化",
+      "labelSimple": "町の経費の上限",
       "value": "5割",
       "unit": "以下",
       "oldValue": "ワンストップ特例事務費等も合算",
-      "descriptionSimple": "寄附金の半分は確実に地域づくりへ！",
+      "description": "",
       "descriptionStandard": "隠れ経費の排除により制度の健全化を徹底",
+      "descriptionSimple": "寄附金の半分は確実に地域づくりへ！",
       "badge": "経費適正化",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "FileCheck"

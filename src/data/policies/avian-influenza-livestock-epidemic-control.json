@@ -175,62 +175,76 @@
   "badges": [
     {
       "label": "1,771万羽殺処分・卵高騰",
-      "variant": "neutral"
+      "text": "1,771万羽殺処分・卵高騰",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "分割管理（スプリット）容認",
-      "variant": "neutral"
+      "text": "分割管理（スプリット）容認",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "国の手当金・再建支援",
-      "variant": "neutral"
+      "text": "国の手当金・再建支援",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "殺処分されたニワトリ",
+      "label": "",
       "labelStandard": "過去最多の殺処分羽数",
+      "labelSimple": "殺処分されたニワトリ",
       "value": "1,771",
       "unit": "万羽",
       "oldValue": "2022-2023年シーズン（全国採卵鶏の約1割）",
-      "descriptionSimple": "過去最悪の鳥インフルエンザが大流行！",
+      "description": "",
       "descriptionStandard": "全国26道県で発生、卵供給が全国で大逼迫",
+      "descriptionSimple": "過去最悪の鳥インフルエンザが大流行！",
       "badge": "過去最悪",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "卵の最高値（エッグショック）",
+      "label": "",
       "labelStandard": "東京鶏卵卸売価格ピーク",
+      "labelSimple": "卵の最高値（エッグショック）",
       "value": "350",
       "unit": "円超/kg",
       "oldValue": "平時の卸売価格は約150〜200円/kg",
-      "descriptionSimple": "スーパーから卵が消えて高値が続いた！",
+      "description": "",
       "descriptionStandard": "マヨネーズや外食の卵メニュー休止が相次ぐ",
+      "descriptionSimple": "スーパーから卵が消えて高値が続いた！",
       "badge": "エッグショック",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "TrendingUp"
     },
     {
-      "labelSimple": "農家さんを助けるお金",
+      "label": "",
       "labelStandard": "国の殺処分手当金",
+      "labelSimple": "農家さんを助けるお金",
       "value": "評価額",
       "unit": "を全額補償",
       "oldValue": "処分された家畜の市場価格を国が手当",
-      "descriptionSimple": "ニワトリを処分された農家が破産しないよう国が助ける",
+      "description": "",
       "descriptionStandard": "空舎期間の固定費補助や特別交付税措置で再開支援",
+      "descriptionSimple": "ニワトリを処分された農家が破産しないよう国が助ける",
       "badge": "手当金補償",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "部屋ごとに分けるルール",
+      "label": "",
       "labelStandard": "分割管理（スプリット方式）",
+      "labelSimple": "部屋ごとに分けるルール",
       "value": "鶏舎単位",
       "unit": "の処分容認",
       "oldValue": "1羽でも出たら農場全体の数十万羽を一律全処分",
-      "descriptionSimple": "病気が出たお部屋だけ処分して他を守れるように！",
+      "description": "",
       "descriptionStandard": "認定農場で全滅を防ぎ供給ショックを緩和する新基準",
+      "descriptionSimple": "病気が出たお部屋だけ処分して他を守れるように！",
       "badge": "分割管理容認",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Sparkles"

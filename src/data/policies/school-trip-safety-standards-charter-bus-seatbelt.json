@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "交通安全",
-      "variant": "positive"
+      "text": "交通安全",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "学校安全",
-      "variant": "positive"
+      "text": "学校安全",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "運行DX",
-      "variant": "neutral"
+      "text": "運行DX",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "運行DXによる遠隔監視",
+      "labelStandard": "運行DXによる遠隔監視",
+      "labelSimple": "運行DXによる遠隔監視",
       "value": "運行DXによる遠隔監視",
+      "unit": "",
+      "oldValue": "現行",
       "description": "デジタコとクラウド監視でドライバーの疲労や速度を常時把握。",
+      "descriptionStandard": "運行DXによる遠隔監視",
+      "descriptionSimple": "運行DXによる遠隔監視",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "全席シートベルト義務確認",
+      "labelStandard": "全席シートベルト義務確認",
+      "labelSimple": "全席シートベルト義務確認",
       "value": "全席シートベルト義務確認",
+      "unit": "",
+      "oldValue": "現行",
       "description": "発車前の教員・乗務員による二重確認を法定義務化。",
+      "descriptionStandard": "全席シートベルト義務確認",
+      "descriptionSimple": "全席シートベルト義務確認",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "認定事業者のみ入札可能",
+      "labelStandard": "認定事業者のみ入札可能",
+      "labelSimple": "認定事業者のみ入札可能",
       "value": "認定事業者のみ入札可能",
+      "unit": "",
+      "oldValue": "現行",
       "description": "安全スコアの高い事業者限定発注で安かろう悪かろうを排除。",
+      "descriptionStandard": "認定事業者のみ入札可能",
+      "descriptionSimple": "認定事業者のみ入札可能",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     }
   ],

@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "年間模倣品差押点数",
+      "labelStandard": "年間模倣品差押点数",
+      "labelSimple": "年間模倣品差押点数",
       "value": "100",
       "unit": "万点超",
       "oldValue": "数十万点規模",
       "description": "AI導入により小口郵便に潜む偽造品摘発数が過去最多を更新",
+      "descriptionStandard": "年間模倣品差押点数",
+      "descriptionSimple": "年間模倣品差押点数",
       "badge": "摘発力強化",
       "badgeColor": "red",
       "icon": "shield-check"
     },
     {
       "label": "AI真贋判定所要時間",
+      "labelStandard": "AI真贋判定所要時間",
+      "labelSimple": "AI真贋判定所要時間",
       "value": "数秒〜数分",
       "unit": "",
       "oldValue": "数日〜数週間",
       "description": "画像解析とクラウド連携により検査ライン上で即座にフラグ付け",
+      "descriptionStandard": "AI真贋判定所要時間",
+      "descriptionSimple": "AI真贋判定所要時間",
       "badge": "超高速判定",
       "badgeColor": "green",
       "icon": "clock"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

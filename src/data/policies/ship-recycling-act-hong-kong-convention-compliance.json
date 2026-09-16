@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "海事政策",
-      "variant": "positive"
+      "text": "海事政策",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "香港条約",
-      "variant": "positive"
+      "text": "香港条約",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "サーキュラーエコノミー",
-      "variant": "neutral"
+      "text": "サーキュラーエコノミー",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "途上国の劣悪労働を撲滅",
+      "labelStandard": "途上国の劣悪労働を撲滅",
+      "labelSimple": "途上国の劣悪労働を撲滅",
       "value": "途上国の劣悪労働を撲滅",
+      "unit": "",
+      "oldValue": "現行",
       "description": "アスベストや有毒ガスから現地の解体作業員の命を守る安全基準。",
+      "descriptionStandard": "途上国の劣悪労働を撲滅",
+      "descriptionSimple": "途上国の劣悪労働を撲滅",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "有害物質一覧表（IHM）義務",
+      "labelStandard": "有害物質一覧表（IHM）義務",
+      "labelSimple": "有害物質一覧表（IHM）義務",
       "value": "有害物質一覧表（IHM）義務",
+      "unit": "",
+      "oldValue": "現行",
       "description": "船の建造から解体まで、どの部位に有害物質があるかデジタル記録。",
+      "descriptionStandard": "有害物質一覧表（IHM）義務",
+      "descriptionSimple": "有害物質一覧表（IHM）義務",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "FileText"
     },
     {
       "label": "良質鉄スクラップの再生",
+      "labelStandard": "良質鉄スクラップの再生",
+      "labelSimple": "良質鉄スクラップの再生",
       "value": "良質鉄スクラップの再生",
+      "unit": "",
+      "oldValue": "現行",
       "description": "解体された船体を製鉄原料としてクリーンに再資源化。",
+      "descriptionStandard": "良質鉄スクラップの再生",
+      "descriptionSimple": "良質鉄スクラップの再生",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Leaf"
     }
   ],

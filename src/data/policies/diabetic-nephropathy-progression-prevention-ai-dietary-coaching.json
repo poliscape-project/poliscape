@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "腎機能低下抑制率",
+      "labelStandard": "腎機能低下抑制率",
+      "labelSimple": "腎機能低下抑制率",
       "value": "約40",
       "unit": "%改善（eGFR傾き鈍化）",
       "oldValue": "急激な腎不全への悪化",
       "description": "AI食事指導と減塩徹底による腎機能低下スピードの大幅抑制",
+      "descriptionStandard": "腎機能低下抑制率",
+      "descriptionSimple": "腎機能低下抑制率",
       "badge": "腎機能悪化抑制",
       "badgeColor": "green",
       "icon": "chart-bar"
     },
     {
       "label": "透析医療費抑制効果",
+      "labelStandard": "透析医療費抑制効果",
+      "labelSimple": "透析医療費抑制効果",
       "value": "年500",
       "unit": "万円/人（回避効果）",
       "oldValue": "透析導入で年500万円増",
       "description": "人工透析への移行を未然に阻止することによる絶大な財政削減効果",
+      "descriptionStandard": "透析医療費抑制効果",
+      "descriptionSimple": "透析医療費抑制効果",
       "badge": "医療費抑制",
       "badgeColor": "blue",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

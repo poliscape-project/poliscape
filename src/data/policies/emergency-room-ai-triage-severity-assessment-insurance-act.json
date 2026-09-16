@@ -4,7 +4,7 @@
   "catchphrase": "救急のたらい回しと見落としを防止。救急外来でのAI問診・リアルタイム重症度判定を保険収載",
   "category": "healthcare",
   "categoryLabel": "先端医療・救急体制",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "AIトリアージ",
-      "variant": "purple"
+      "text": "AIトリアージ",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "救急医療DX",
-      "variant": "blue"
+      "text": "救急医療DX",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "見落としゼロ",
-      "variant": "green"
+      "text": "見落としゼロ",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "重症患者治療開始時間",
+      "label": "重症患者治療開始時間",
+      "labelStandard": "重症患者治療開始時間",
+      "labelSimple": "重症患者治療開始時間",
       "value": "45",
       "unit": "%短縮",
+      "oldValue": "現行",
       "description": "AI優先順位付けにより心筋梗塞・敗血症患者の来院から医師診察開始までの所要時間短縮効果",
-      "trend": "down",
-      "trendLabel": "初動超迅速化"
+      "descriptionStandard": "重症患者治療開始時間",
+      "descriptionSimple": "重症患者治療開始時間",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "トリアージ判定一致率",
+      "label": "トリアージ判定一致率",
+      "labelStandard": "トリアージ判定一致率",
+      "labelSimple": "トリアージ判定一致率",
       "value": "95",
       "unit": "%以上",
+      "oldValue": "現行",
       "description": "救命専門医の最終診断緊急度とAIトリアージスコアの統計的一致率",
-      "trend": "up",
-      "trendLabel": "高精度判定"
+      "descriptionStandard": "トリアージ判定一致率",
+      "descriptionSimple": "トリアージ判定一致率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

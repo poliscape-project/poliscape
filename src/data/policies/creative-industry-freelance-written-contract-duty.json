@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "クリエイター支援",
-      "variant": "positive"
+      "text": "クリエイター支援",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "フリーランス",
-      "variant": "positive"
+      "text": "フリーランス",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "契約適正化",
-      "variant": "neutral"
+      "text": "契約適正化",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "契約交付",
+      "labelStandard": "契約交付",
+      "labelSimple": "契約交付",
       "value": "着手前100%義務",
+      "unit": "",
+      "oldValue": "現行",
       "description": "単価・納期・リテイク回数を明記した書面の交付を完全義務化",
+      "descriptionStandard": "契約交付",
+      "descriptionSimple": "契約交付",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "FileText"
     },
     {
       "label": "リテイク",
+      "labelStandard": "リテイク",
+      "labelSimple": "リテイク",
       "value": "2回まで無償・以降有料",
+      "unit": "",
+      "oldValue": "現行",
       "description": "契約外の無限無償リテイクを優越的地位濫用として禁止",
+      "descriptionStandard": "リテイク",
+      "descriptionSimple": "リテイク",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

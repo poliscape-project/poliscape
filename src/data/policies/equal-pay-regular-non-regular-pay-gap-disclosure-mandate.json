@@ -1,7 +1,7 @@
 {
   "id": "equal-pay-regular-non-regular-pay-gap-disclosure-mandate",
   "title": "正規・非正規雇用間の賃金格差比率（同一労働同一賃金）の有報義務開示",
-  "category": "employment",
+  "category": "society",
   "subcategory": "賃金格差・企業開示",
   "status": "施行中",
   "date": "2024-04",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "開示義務対象企業",
+      "labelStandard": "開示義務対象企業",
+      "labelSimple": "開示義務対象企業",
       "value": "大手上場企業",
       "unit": "約4000社",
       "oldValue": "非開示（任意）",
       "description": "有報提出企業に対し正規・非正規の平均賃金比率の公表を義務付け",
+      "descriptionStandard": "開示義務対象企業",
+      "descriptionSimple": "開示義務対象企業",
       "badge": "開示義務化",
       "badgeColor": "blue",
       "icon": "file-text"
     },
     {
       "label": "非正規賃金引き上げ効果",
+      "labelStandard": "非正規賃金引き上げ効果",
+      "labelSimple": "非正規賃金引き上げ効果",
       "value": "過去最大",
       "unit": "水準",
       "oldValue": "格差固定化",
       "description": "開示圧力を背景にパート時給・契約社員賞与の引き上げが加速",
+      "descriptionStandard": "非正規賃金引き上げ効果",
+      "descriptionSimple": "非正規賃金引き上げ効果",
       "badge": "処遇改善連動",
       "badgeColor": "green",
       "icon": "trending-up"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "employment"
 }

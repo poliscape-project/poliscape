@@ -175,62 +175,76 @@
   "badges": [
     {
       "label": "2030年熟練工38万人不足",
-      "variant": "neutral"
+      "text": "2030年熟練工38万人不足",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "カタログ型省力化補助金",
-      "variant": "neutral"
+      "text": "カタログ型省力化補助金",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "安全柵なし協働ロボット解禁",
-      "variant": "neutral"
+      "text": "安全柵なし協働ロボット解禁",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "いなくなる職人さんの数",
+      "label": "",
       "labelStandard": "2030年の熟練工不足予測",
+      "labelSimple": "いなくなる職人さんの数",
       "value": "約 38",
       "unit": "万人不足",
       "oldValue": "ベテラン職人の手作業・勘に頼ってきた工場現場",
-      "descriptionSimple": "おじいちゃん職人さんが引退して人手が足りない！",
+      "description": "",
       "descriptionStandard": "ものづくり現場の労働力蒸発をロボットで防ぐ",
+      "descriptionSimple": "おじいちゃん職人さんが引退して人手が足りない！",
       "badge": "38万人不足",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "ロボットを買う国のお金",
+      "label": "",
       "labelStandard": "省力化投資補助金（カタログ型）",
+      "labelSimple": "ロボットを買う国のお金",
       "value": "最大 1,500",
       "unit": "万円補助",
       "oldValue": "複雑な申請書類が必要で中小企業が敬遠していた",
-      "descriptionSimple": "カタログから選ぶだけでロボット代を半分補助！",
+      "description": "",
       "descriptionStandard": "総額5,000億円規模の即効性ある省力化・自動化支援",
+      "descriptionSimple": "カタログから選ぶだけでロボット代を半分補助！",
       "badge": "カタログ補助",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "日本が強いロボットのシェア",
+      "label": "",
       "labelStandard": "日本の産業用ロボット世界シェア",
+      "labelSimple": "日本が強いロボットのシェア",
       "value": "約 45",
       "unit": "%（世界一）",
       "oldValue": "ファナック、安川電機等が世界をリード",
-      "descriptionSimple": "世界で動く工場のロボットの半分は日本の技術！",
+      "description": "",
       "descriptionStandard": "世界屈指のロボット開発力を国内中小工場へ浸透",
+      "descriptionSimple": "世界で動く工場のロボットの半分は日本の技術！",
       "badge": "世界シェア45%",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Cpu"
     },
     {
-      "labelSimple": "人間と一緒に働くロボット",
+      "label": "",
       "labelStandard": "協働ロボット（コボット）",
+      "labelSimple": "人間と一緒に働くロボット",
       "value": "安全柵なし",
       "unit": "設置解禁",
       "oldValue": "鉄の柵で囲って人間と隔離しなければならなかった",
-      "descriptionSimple": "ぶつかると自動で止まる安全なロボットがとなりに！",
+      "description": "",
       "descriptionStandard": "狭い町工場でも導入できる人と協働する自律マシン",
+      "descriptionSimple": "ぶつかると自動で止まる安全なロボットがとなりに！",
       "badge": "安全柵撤廃",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"

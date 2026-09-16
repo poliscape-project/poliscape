@@ -1,7 +1,7 @@
 {
   "id": "traditional-timber-wooden-architecture-fire-code-easing",
   "title": "中高層建築における木造化推進とCLT活用に向けた建築基準法防火規制緩和",
-  "category": "construction",
+  "category": "society",
   "subcategory": "建築基準・林業振興",
   "status": "施行中",
   "date": "2024-04",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "建設時CO2削減率",
+      "labelStandard": "建設時CO2削減率",
+      "labelSimple": "建設時CO2削減率",
       "value": "約30〜40",
       "unit": "%削減（RC比）",
       "oldValue": "高炭素コンクリート建築",
       "description": "鉄筋コンクリート造に比べ製造過程の排出を劇的に抑制",
+      "descriptionStandard": "建設時CO2削減率",
+      "descriptionSimple": "建設時CO2削減率",
       "badge": "大幅低炭素化",
       "badgeColor": "green",
       "icon": "trending-down"
     },
     {
       "label": "建築確認審査期間",
+      "labelStandard": "建築確認審査期間",
+      "labelSimple": "建築確認審査期間",
       "value": "約60",
       "unit": "%短縮（標準化）",
       "oldValue": "大臣認定審査で6ヶ月以上",
       "description": "告示化により一般の指定確認検査機関で迅速に審査可能に",
+      "descriptionStandard": "建築確認審査期間",
+      "descriptionSimple": "建築確認審査期間",
       "badge": "審査スピード化",
       "badgeColor": "blue",
       "icon": "clock"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "construction"
 }

@@ -1,7 +1,7 @@
 {
   "id": "earthquake-resilient-water-pipe-ductile-iron-priority-aid",
   "title": "全国上水道基幹管路の耐震適合率引き上げ（耐震型ダクタイル鉄管更新補助）",
-  "category": "infrastructure",
+  "category": "society",
   "subcategory": "上下水道・耐震化",
   "status": "施行中",
   "date": "2024-04",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "重点国庫補助率",
+      "labelStandard": "重点国庫補助率",
+      "labelSimple": "重点国庫補助率",
       "value": "最大50",
       "unit": "%（公費補助）",
       "oldValue": "地方単独が中心",
       "description": "病院・避難所を結ぶ優先ルートの水道管更新費を国が手厚く助成",
+      "descriptionStandard": "重点国庫補助率",
+      "descriptionSimple": "重点国庫補助率",
       "badge": "補助率倍増",
       "badgeColor": "blue",
       "icon": "currency-yen"
     },
     {
       "label": "耐震管の破損実績",
+      "labelStandard": "耐震管の破損実績",
+      "labelSimple": "耐震管の破損実績",
       "value": "0",
       "unit": "件（過去の大地震）",
       "oldValue": "旧式管は大量破断",
       "description": "阪神・東日本・熊本の激震地でも耐震継手自体の抜け・破断はゼロ",
+      "descriptionStandard": "耐震管の破損実績",
+      "descriptionSimple": "耐震管の破損実績",
       "badge": "驚異の耐震性",
       "badgeColor": "green",
       "icon": "shield-check"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "infrastructure"
 }

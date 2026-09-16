@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "100年安心の維持",
-      "variant": "positive"
+      "text": "100年安心の維持",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "名目下限撤廃議論",
-      "variant": "neutral"
+      "text": "名目下限撤廃議論",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "高齢者負担増",
-      "variant": "warning"
+      "text": "高齢者負担増",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "制度目的",
+      "labelStandard": "制度目的",
+      "labelSimple": "制度目的",
       "value": "少子高齢化に合わせた自動調整",
+      "unit": "",
+      "oldValue": "現行",
       "description": "現役減少と寿命伸長に合わせて年金額の伸びを抑制",
+      "descriptionStandard": "制度目的",
+      "descriptionSimple": "制度目的",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "最大の論点",
+      "labelStandard": "最大の論点",
+      "labelSimple": "最大の論点",
       "value": "名目下限の撤廃か否か",
+      "unit": "",
+      "oldValue": "現行",
       "description": "デフレ時でも調整を先送りせず確実に機能させるか",
+      "descriptionStandard": "最大の論点",
+      "descriptionSimple": "最大の論点",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "守るべき水準",
+      "labelStandard": "守るべき水準",
+      "labelSimple": "守るべき水準",
       "value": "所得代替率50%以上",
+      "unit": "",
+      "oldValue": "現行",
       "description": "将来の現役世代の受給水準を法的に維持",
+      "descriptionStandard": "守るべき水準",
+      "descriptionSimple": "守るべき水準",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

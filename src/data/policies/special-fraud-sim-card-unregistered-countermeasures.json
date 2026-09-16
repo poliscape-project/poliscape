@@ -2,7 +2,7 @@
   "id": "special-fraud-sim-card-unregistered-countermeasures",
   "title": "特殊詐欺グループ悪用法人名義SIMカード転売・本人確認厳格化法",
   "catchphrase": "闇バイトやオレオレ詐欺の通信インフラを壊滅、法人SIM転売の厳罰化とオンライン顔認証本人確認義務化",
-  "category": "safety",
+  "category": "society",
   "categoryLabel": "司法・治安・刑事政策",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "特殊詐欺対策",
-      "variant": "positive"
+      "text": "特殊詐欺対策",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "闇バイト壊滅",
-      "variant": "positive"
+      "text": "闇バイト壊滅",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "通信セキュリティ",
-      "variant": "neutral"
+      "text": "通信セキュリティ",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "本人確認",
+      "labelStandard": "本人確認",
+      "labelSimple": "本人確認",
       "value": "マイナeKYC完全義務",
+      "unit": "",
+      "oldValue": "現行",
       "description": "法人名義契約における代表者の公的個人認証を100%義務化",
+      "descriptionStandard": "本人確認",
+      "descriptionSimple": "本人確認",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "停止速度",
+      "labelStandard": "停止速度",
+      "labelSimple": "停止速度",
       "value": "警察要請から24h以内",
+      "unit": "",
+      "oldValue": "現行",
       "description": "犯罪悪用SIMの即日強制利用停止プロトコルを確立",
+      "descriptionStandard": "停止速度",
+      "descriptionSimple": "停止速度",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

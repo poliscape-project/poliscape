@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "科学技術",
-      "variant": "positive"
+      "text": "科学技術",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "研究者支援",
-      "variant": "positive"
+      "text": "研究者支援",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "テニュア",
-      "variant": "neutral"
+      "text": "テニュア",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "テニュア義務化",
+      "labelStandard": "テニュア義務化",
+      "labelSimple": "テニュア義務化",
       "value": "30%以上",
+      "unit": "",
+      "oldValue": "現行",
       "description": "若手研究職の30%以上をテニュアトラックポストに指定",
+      "descriptionStandard": "テニュア義務化",
+      "descriptionSimple": "テニュア義務化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Award"
     },
     {
       "label": "研究助成金",
+      "labelStandard": "研究助成金",
+      "labelSimple": "研究助成金",
       "value": "年間1,000万円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "最長5年間の独立研究資金を公費支援",
+      "descriptionStandard": "研究助成金",
+      "descriptionSimple": "研究助成金",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

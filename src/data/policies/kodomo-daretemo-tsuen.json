@@ -165,62 +165,76 @@
   "badges": [
     {
       "label": "就労要件なし誰でも",
-      "variant": "neutral"
+      "text": "就労要件なし誰でも",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "月10時間枠を創設",
-      "variant": "neutral"
+      "text": "月10時間枠を創設",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "1時間約300円",
-      "variant": "neutral"
+      "text": "1時間約300円",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "親のお仕事の条件",
+      "label": "",
       "labelStandard": "就労要件の有無",
+      "labelSimple": "親のお仕事の条件",
       "value": "就労不要",
       "unit": "（専業主婦等も対象）",
       "oldValue": "これまで 就労証明書が必須だった",
-      "descriptionSimple": "働いていなくても誰でも利用可能に！",
+      "description": "",
       "descriptionStandard": "すべての未就園児（0〜2歳児）を対象化",
+      "descriptionSimple": "働いていなくても誰でも利用可能に！",
       "badge": "就労要件なし",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Sparkles"
     },
     {
-      "labelSimple": "預けられる時間",
+      "label": "",
       "labelStandard": "利用可能時間（上限）",
+      "labelSimple": "預けられる時間",
       "value": "月 10",
       "unit": "時間/人",
       "oldValue": "一時預かりの空き枠のみ（予約難）",
-      "descriptionSimple": "毎月一定時間の枠がもらえる！",
+      "description": "",
       "descriptionStandard": "国が月10時間の利用枠を制度として創設",
+      "descriptionSimple": "毎月一定時間の枠がもらえる！",
       "badge": "月10時間枠",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Clock"
     },
     {
-      "labelSimple": "1時間の利用代金",
+      "label": "",
       "labelStandard": "利用者負担額（目安）",
+      "labelSimple": "1時間の利用代金",
       "value": "1時間 約300",
       "unit": "円",
       "oldValue": "民間一時預かり 1時間1,200円以上",
-      "descriptionSimple": "公的な安い値段で気軽に使える！",
+      "description": "",
       "descriptionStandard": "低所得世帯・非課税世帯は無償・減免措置あり",
+      "descriptionSimple": "公的な安い値段で気軽に使える！",
       "badge": "公的低料金",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "いつから使える？",
+      "label": "",
       "labelStandard": "全国本格施行時期",
+      "labelSimple": "いつから使える？",
       "value": "2026年4月",
       "unit": "本格スタート",
       "oldValue": "2024〜2025年度 試行的事業",
-      "descriptionSimple": "日本全国の保育園で使えるように！",
+      "description": "",
       "descriptionStandard": "改正子ども・子育て支援法に基づき本格導入",
+      "descriptionSimple": "日本全国の保育園で使えるように！",
       "badge": "本格施行",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Baby"

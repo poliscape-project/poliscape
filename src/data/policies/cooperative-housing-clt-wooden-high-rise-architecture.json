@@ -2,7 +2,7 @@
   "id": "cooperative-housing-clt-wooden-high-rise-architecture",
   "title": "CLT（直交集成板）高層木造建築推進法（国産材需要拡大・炭素固定）",
   "catchphrase": "都市にビルサイズの森をつくる、CLT中高層木造建築の規制緩和",
-  "category": "infrastructure",
+  "category": "society",
   "categoryLabel": "国土・交通",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年5月施行予定",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "木造高層ビル",
-      "variant": "positive"
+      "text": "木造高層ビル",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "国産材活用",
-      "variant": "positive"
+      "text": "国産材活用",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "炭素固定",
-      "variant": "neutral"
+      "text": "炭素固定",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "コンクリート並みの強度と耐火",
+      "labelStandard": "コンクリート並みの強度と耐火",
+      "labelSimple": "コンクリート並みの強度と耐火",
       "value": "コンクリート並みの強度と耐火",
+      "unit": "",
+      "oldValue": "現行",
       "description": "厚い木材パネルは表面が炭化して酸素を遮断し火災でも崩壊しない。",
+      "descriptionStandard": "コンクリート並みの強度と耐火",
+      "descriptionSimple": "コンクリート並みの強度と耐火",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "容積率ボーナス優遇",
+      "labelStandard": "容積率ボーナス優遇",
+      "labelSimple": "容積率ボーナス優遇",
       "value": "容積率ボーナス優遇",
+      "unit": "",
+      "oldValue": "現行",
       "description": "国産CLTを使うことで延床面積を広く建てられる経済メリットを付与。",
+      "descriptionStandard": "容積率ボーナス優遇",
+      "descriptionSimple": "容積率ボーナス優遇",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "工期を3割短縮",
+      "labelStandard": "工期を3割短縮",
+      "labelSimple": "工期を3割短縮",
       "value": "工期を3割短縮",
+      "unit": "",
+      "oldValue": "現行",
       "description": "工場でミリ単位でカットされたパネルを現場で組み立てるため超短工期。",
+      "descriptionStandard": "工期を3割短縮",
+      "descriptionSimple": "工期を3割短縮",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

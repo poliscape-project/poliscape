@@ -1,7 +1,7 @@
 {
   "id": "aged-bridge-tunnel-infrastructure-digital-twin-monitor",
   "title": "老朽化橋梁・トンネルのデジタルツインセンサー常時監視・予防保全交付金",
-  "category": "infrastructure",
+  "category": "society",
   "subcategory": "道路・防災インフラ",
   "status": "施行中",
   "date": "2024-05",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "橋梁長寿命化目標",
+      "labelStandard": "橋梁長寿命化目標",
+      "labelSimple": "橋梁長寿命化目標",
       "value": "100",
       "unit": "年以上（耐用延伸）",
       "oldValue": "約50年で架け替え",
       "description": "センサー常時監視と予防保全により構造物の寿命を倍増",
+      "descriptionStandard": "橋梁長寿命化目標",
+      "descriptionSimple": "橋梁長寿命化目標",
       "badge": "寿命倍増",
       "badgeColor": "green",
       "icon": "trending-up"
     },
     {
       "label": "自治体導入補助率",
+      "labelStandard": "自治体導入補助率",
+      "labelSimple": "自治体導入補助率",
       "value": "最大90",
       "unit": "%（防災特区等）",
       "oldValue": "自治体単独負担",
       "description": "財政難の過疎自治体でも最新IoTセンサーを網羅配備可能に",
+      "descriptionStandard": "自治体導入補助率",
+      "descriptionSimple": "自治体導入補助率",
       "badge": "最大9割補助",
       "badgeColor": "blue",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "infrastructure"
 }

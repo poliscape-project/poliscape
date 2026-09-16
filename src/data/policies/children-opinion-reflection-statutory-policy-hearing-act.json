@@ -2,9 +2,9 @@
   "id": "children-opinion-reflection-statutory-policy-hearing-act",
   "title": "こども政策の策定・評価における子どもの意見聴取・政策反映法定義務化",
   "catchphrase": "大人の都合で決めない社会へ。国・自治体の政策決定プロセスで子どもの意見聴取を法定義務化",
-  "category": "governance",
+  "category": "society",
   "categoryLabel": "統治機構・子ども政策",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "子どもの権利",
-      "variant": "purple"
+      "text": "子どもの権利",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "意見表明権",
-      "variant": "blue"
+      "text": "意見表明権",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "こどもまんなか",
-      "variant": "green"
+      "text": "こどもまんなか",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "登録子ども意見モニター数",
+      "label": "登録子ども意見モニター数",
+      "labelStandard": "登録子ども意見モニター数",
+      "labelSimple": "登録子ども意見モニター数",
       "value": "50,000",
       "unit": "人突破",
+      "oldValue": "現行",
       "description": "こども若者★いけんぷらす等を通じて政策審議に参加する全国の小学生〜若者登録者数",
-      "trend": "up",
-      "trendLabel": "参加者急増"
+      "descriptionStandard": "登録子ども意見モニター数",
+      "descriptionSimple": "登録子ども意見モニター数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "自治体計画意見反映率",
+      "label": "自治体計画意見反映率",
+      "labelStandard": "自治体計画意見反映率",
+      "labelSimple": "自治体計画意見反映率",
       "value": "98",
       "unit": "%達成",
+      "oldValue": "現行",
       "description": "市町村こども計画の策定時に子どもの直接意見聴取を実施した自治体の割合",
-      "trend": "up",
-      "trendLabel": "全国完全浸透"
+      "descriptionStandard": "自治体計画意見反映率",
+      "descriptionSimple": "自治体計画意見反映率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

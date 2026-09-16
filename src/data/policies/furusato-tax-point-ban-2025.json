@@ -145,15 +145,21 @@
   "badges": [
     {
       "label": "仲介サイト還元禁止",
-      "variant": "neutral"
+      "text": "仲介サイト還元禁止",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "2025年10月施行",
-      "variant": "neutral"
+      "text": "2025年10月施行",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "自治体の手数料是正",
-      "variant": "neutral"
+      "text": "自治体の手数料是正",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "international": {

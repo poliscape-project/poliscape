@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "公共施設",
-      "variant": "positive"
+      "text": "公共施設",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ネーミングライツ",
-      "variant": "positive"
+      "text": "ネーミングライツ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "企業版ふるさと納税",
-      "variant": "neutral"
+      "text": "企業版ふるさと納税",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "税額控除",
+      "labelStandard": "税額控除",
+      "labelSimple": "税額控除",
       "value": "最大9割軽減",
+      "unit": "",
+      "oldValue": "現行",
       "description": "企業版ふるさと納税スキームを活用し実質負担1割で命名権取得",
+      "descriptionStandard": "税額控除",
+      "descriptionSimple": "税額控除",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "使途限定",
+      "labelStandard": "使途限定",
+      "labelSimple": "使途限定",
       "value": "100%施設改修",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ライツ料を施設の老朽化対策・バリアフリー化に直結",
+      "descriptionStandard": "使途限定",
+      "descriptionSimple": "使途限定",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Building2"
     }
   ],

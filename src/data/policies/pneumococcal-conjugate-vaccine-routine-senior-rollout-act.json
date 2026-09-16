@@ -4,7 +4,7 @@
   "catchphrase": "高齢者の死因第5位「肺炎」を強力ブロック。効果の高い次世代結合型ワクチンを定期接種へ完全切替",
   "category": "healthcare",
   "categoryLabel": "予防接種・感染症予防",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "肺炎球菌ワクチン",
-      "variant": "purple"
+      "text": "肺炎球菌ワクチン",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "結合型PCV",
-      "variant": "blue"
+      "text": "結合型PCV",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "肺炎予防",
-      "variant": "green"
+      "text": "肺炎予防",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "侵襲性肺炎球菌予防率",
+      "label": "侵襲性肺炎球菌予防率",
+      "labelStandard": "侵襲性肺炎球菌予防率",
+      "labelSimple": "侵襲性肺炎球菌予防率",
       "value": "85",
       "unit": "%以上",
+      "oldValue": "現行",
       "description": "次世代結合型ワクチン（PCV）接種による重症侵襲性肺炎球菌感染症（IPD）の予防効果",
-      "trend": "up",
-      "trendLabel": "強力な重症化予防"
+      "descriptionStandard": "侵襲性肺炎球菌予防率",
+      "descriptionSimple": "侵襲性肺炎球菌予防率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "65歳定期接種率目標",
+      "label": "65歳定期接種率目標",
+      "labelStandard": "65歳定期接種率目標",
+      "labelSimple": "65歳定期接種率目標",
       "value": "70",
       "unit": "%達成",
+      "oldValue": "現行",
       "description": "自治体の個別通知（プッシュ型勧奨）徹底により達成を目指す65歳高齢者の接種率",
-      "trend": "up",
-      "trendLabel": "接種率向上"
+      "descriptionStandard": "65歳定期接種率目標",
+      "descriptionSimple": "65歳定期接種率目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

@@ -155,50 +155,62 @@
   "badges": [
     {
       "label": "ペダル走行時も原付扱い",
-      "variant": "neutral"
+      "text": "ペダル走行時も原付扱い",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "免許・ヘルメット必須",
-      "variant": "neutral"
+      "text": "免許・ヘルメット必須",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "歩道走行は一律禁止",
-      "variant": "neutral"
+      "text": "歩道走行は一律禁止",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "ペダルを漕いで走る時",
+      "label": "",
       "labelStandard": "モペットの法的区分",
+      "labelSimple": "ペダルを漕いで走る時",
       "value": "原付バイク",
       "unit": "（一貫して原付）",
       "oldValue": "自転車と強弁する脱法行為",
-      "descriptionSimple": "電気を止めて自分の足で漕いでも法律上はバイクそのもの！",
+      "description": "",
       "descriptionStandard": "動力源の作動の有無を問わず構造上モーターを有する車両は原付と規定",
+      "descriptionSimple": "電気を止めて自分の足で漕いでも法律上はバイクそのもの！",
       "badge": "定義明確化",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "歩道を走ったらどうなる？",
+      "label": "",
       "labelStandard": "通行区分違反・歩道走行",
+      "labelSimple": "歩道を走ったらどうなる？",
       "value": "即取締り",
       "unit": "（車道通行義務）",
       "oldValue": "注意指導にとどまるケース",
-      "descriptionSimple": "バイクなので歩道は通行禁止！車道を走らなければ違反！",
+      "description": "",
       "descriptionStandard": "原付としての車道通行義務が厳格適用され歩道侵入は即違反摘発",
+      "descriptionSimple": "バイクなので歩道は通行禁止！車道を走らなければ違反！",
       "badge": "歩行者保護",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "免許を持たずに乗ると",
+      "label": "",
       "labelStandard": "無免許運転の罰則",
+      "labelSimple": "免許を持たずに乗ると",
       "value": "懲役3年",
       "unit": "以下・罰金50万円",
       "oldValue": "自転車扱いで処罰なしの誤解",
-      "descriptionSimple": "バイクの無免許運転と同じ重い前科・罰金が科される！",
+      "description": "",
       "descriptionStandard": "道路交通法第64条（無免許運転の禁止）違反として刑事事件立件",
+      "descriptionSimple": "バイクの無免許運転と同じ重い前科・罰金が科される！",
       "badge": "重罰適用",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "FileText"

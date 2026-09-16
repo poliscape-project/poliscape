@@ -2,7 +2,7 @@
   "id": "forest-environmental-transfer-tax-allocation-reform-act",
   "title": "森林環境譲与税の配分基準見直し（人口割比率の引き下げと林野面積割の拡充）",
   "category": "environment",
-  "status": "active",
+  "status": "enacted",
   "summary": {
     "standard": [
       "温室効果ガス吸収源対策や土砂災害防止、花粉症対策としての森林整備（間伐・再造林）を加速するため、個人住民税に1人年額1,000円が上乗せされている「森林環境譲与税」の配分基準を法改正し、木が生えていない都市部に偏重していた「人口割比率（従来の30%）」を段階的に引き下げ、急傾斜地や人工林が広がる山村自治体向けの「私有林人工林面積割」を大幅拡充する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "森林税改革",
-      "variant": "purple"
+      "text": "森林税改革",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "防災・治山",
-      "variant": "blue"
+      "text": "防災・治山",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "地方財源",
-      "variant": "green"
+      "text": "地方財源",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "山村自治体配分増額率",
+      "label": "山村自治体配分増額率",
+      "labelStandard": "山村自治体配分増額率",
+      "labelSimple": "山村自治体配分増額率",
       "value": "45",
       "unit": "%増",
+      "oldValue": "現行",
       "description": "配分基準見直しにより広大な人工林を抱える水源地・山間町村に交付される譲与税の増額率",
-      "trend": "up",
-      "trendLabel": "山村財源拡充"
+      "descriptionStandard": "山村自治体配分増額率",
+      "descriptionSimple": "山村自治体配分増額率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "都市部基金滞留率",
+      "label": "都市部基金滞留率",
+      "labelStandard": "都市部基金滞留率",
+      "labelSimple": "都市部基金滞留率",
       "value": "60",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "使途が見出せず大都市自治体の金庫に積み立てられていた余剰基金の削減進捗",
-      "trend": "down",
-      "trendLabel": "使途是正"
+      "descriptionStandard": "都市部基金滞留率",
+      "descriptionSimple": "都市部基金滞留率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

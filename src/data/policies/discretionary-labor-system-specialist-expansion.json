@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "M&A業務追加",
-      "variant": "positive"
+      "text": "M&A業務追加",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "同意撤回権の法制化",
-      "variant": "positive"
+      "text": "同意撤回権の法制化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "11時間休息義務",
-      "variant": "neutral"
+      "text": "11時間休息義務",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "新対象業務",
+      "labelStandard": "新対象業務",
+      "labelSimple": "新対象業務",
       "value": "M&A仲介・助言業務",
+      "unit": "",
+      "oldValue": "現行",
       "description": "高度な企業買収・合併の調査分析・立案業務を追加",
+      "descriptionStandard": "新対象業務",
+      "descriptionSimple": "新対象業務",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "労働者保護",
+      "labelStandard": "労働者保護",
+      "labelSimple": "労働者保護",
       "value": "同意の撤回権を明記",
+      "unit": "",
+      "oldValue": "現行",
       "description": "いつでも本人の自由意思で通常労働制へ復帰可能",
+      "descriptionStandard": "労働者保護",
+      "descriptionSimple": "労働者保護",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "健康管理",
+      "labelStandard": "健康管理",
+      "labelSimple": "健康管理",
       "value": "勤務間インターバル義務",
+      "unit": "",
+      "oldValue": "現行",
       "description": "終業から次の始業までに11時間以上の休息を確保",
+      "descriptionStandard": "健康管理",
+      "descriptionSimple": "健康管理",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

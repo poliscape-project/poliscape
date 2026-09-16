@@ -123,58 +123,76 @@
   "badges": [
     {
       "label": "有機給食推進",
-      "variant": "neutral"
+      "text": "有機給食推進",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "2050年25%目標",
-      "variant": "neutral"
+      "text": "2050年25%目標",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "みどりの食料戦略",
-      "variant": "neutral"
+      "text": "みどりの食料戦略",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "国のオーガニック目標",
+      "label": "",
       "labelStandard": "2050年有機農業割合",
+      "labelSimple": "国のオーガニック目標",
       "value": "25",
       "unit": "%（100万ha）",
       "oldValue": "現在 約0.6％（欧州の10分の1）",
       "description": "みどりの食料システム戦略の大目標",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "25％目標",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Leaf"
     },
     {
-      "labelSimple": "学校給食での活用",
+      "label": "",
       "labelStandard": "オーガニック給食自治体",
+      "labelSimple": "学校給食での活用",
       "value": "100",
       "unit": "市町村超へ拡大",
       "oldValue": "これまで 価格優先で慣行・輸入米",
       "description": "地場産有機米を子どもたちの給食へ",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "学校給食連携",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "HeartPulse"
     },
     {
-      "labelSimple": "農薬・化学肥料の削減",
+      "label": "",
       "labelStandard": "化学農薬・肥料削減目標",
+      "labelSimple": "農薬・化学肥料の削減",
       "value": "最大50",
       "unit": "%削減（2050年）",
       "oldValue": "化石燃料由来の化学肥料に依存",
       "description": "土壌炭素貯留と生態系の保全を両立",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "脱化学農薬",
       "badgeColor": "bg-green-100 text-green-800",
       "icon": "Trees"
     },
     {
-      "labelSimple": "普通の野菜との価格差",
+      "label": "",
       "labelStandard": "有機食材の調達コスト",
+      "labelSimple": "普通の野菜との価格差",
       "value": "1.5〜2",
       "unit": "倍の価格差",
       "oldValue": "給食費値上げか自治体補助の二者択一",
       "description": "公費支援と安定した年間契約が不可欠",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "調達コスト差",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Coins"

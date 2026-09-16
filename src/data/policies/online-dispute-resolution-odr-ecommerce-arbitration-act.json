@@ -1,7 +1,7 @@
 {
   "id": "online-dispute-resolution-odr-ecommerce-arbitration-act",
   "title": "小口電子商取引におけるオンライン紛争解決（ODR）基盤の公的整備法",
-  "category": "admin",
+  "category": "society",
   "subcategory": "司法DX・消費者保護",
   "status": "施行中",
   "date": "2024-05",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "平均解決所要期間",
+      "labelStandard": "平均解決所要期間",
+      "labelSimple": "平均解決所要期間",
       "value": "約2",
       "unit": "週間以内",
       "oldValue": "裁判で数ヶ月〜半年",
       "description": "AIアシストとオンラインチャット調停により圧倒的スピード決着",
+      "descriptionStandard": "平均解決所要期間",
+      "descriptionSimple": "平均解決所要期間",
       "badge": "スピード解決",
       "badgeColor": "green",
       "icon": "clock"
     },
     {
       "label": "申立手続き",
+      "labelStandard": "申立手続き",
+      "labelSimple": "申立手続き",
       "value": "スマホ完結",
       "unit": "（来庁不要）",
       "oldValue": "平日に裁判所へ出頭",
       "description": "24時間365日いつでもスマホから証拠提出と調停参加が可能",
+      "descriptionStandard": "申立手続き",
+      "descriptionSimple": "申立手続き",
       "badge": "完全オンライン",
       "badgeColor": "blue",
       "icon": "laptop"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "admin"
 }

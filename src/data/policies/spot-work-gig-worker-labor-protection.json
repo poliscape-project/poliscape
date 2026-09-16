@@ -145,62 +145,76 @@
   "badges": [
     {
       "label": "スキマバイト登録2,000万人",
-      "variant": "neutral"
+      "text": "スキマバイト登録2,000万人",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "面接なし・即日給与払い定着",
-      "variant": "neutral"
+      "text": "面接なし・即日給与払い定着",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "労災・雇用保険セーフティネット",
-      "variant": "neutral"
+      "text": "労災・雇用保険セーフティネット",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "利用爆発",
+      "label": "",
       "labelStandard": "スキマバイト登録者数",
+      "labelSimple": "利用爆発",
       "value": "延べ 2,000",
       "unit": "万人突破",
       "oldValue": "固定シフトの長期アルバイトが主流",
-      "descriptionSimple": "タイミー等のアプリで即時マッチング就業",
+      "description": "",
       "descriptionStandard": "タイミー等のアプリで即時マッチング就業",
+      "descriptionSimple": "タイミー等のアプリで即時マッチング就業",
       "badge": "利用爆発",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "即日現金化",
+      "label": "",
       "labelStandard": "給与支払いのスピード",
+      "labelSimple": "即日現金化",
       "value": "最短 即日",
       "unit": "払い（数分振込）",
       "oldValue": "月末締め翌月払いの月給制",
-      "descriptionSimple": "就業直後にアプリ内で電子マネーや口座へ振込",
+      "description": "",
       "descriptionStandard": "就業直後にアプリ内で電子マネーや口座へ振込",
+      "descriptionSimple": "就業直後にアプリ内で電子マネーや口座へ振込",
       "badge": "即日現金化",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "セーフティネット",
+      "label": "",
       "labelStandard": "社会保険・雇用保険の壁",
+      "labelSimple": "セーフティネット",
       "value": "単発除外",
       "unit": "が課題",
       "oldValue": "1社で週20時間以上の要件",
-      "descriptionSimple": "複数掛け持ち労働時間の合算適用（マルチジョブ）",
+      "description": "",
       "descriptionStandard": "複数掛け持ち労働時間の合算適用（マルチジョブ）",
+      "descriptionSimple": "複数掛け持ち労働時間の合算適用（マルチジョブ）",
       "badge": "セーフティネット",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "アルゴリズム支配",
+      "label": "",
       "labelStandard": "アルゴリズム評価（BAN）",
+      "labelSimple": "アルゴリズム支配",
       "value": "Good率",
       "unit": "低下で制限",
       "oldValue": "店長との口頭面談による評価",
-      "descriptionSimple": "理不尽な低評価による仕事剥奪への救済ルール",
+      "description": "",
       "descriptionStandard": "理不尽な低評価による仕事剥奪への救済ルール",
+      "descriptionSimple": "理不尽な低評価による仕事剥奪への救済ルール",
       "badge": "アルゴリズム支配",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Laptop"

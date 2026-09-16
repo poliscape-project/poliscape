@@ -161,62 +161,76 @@
   "badges": [
     {
       "label": "1泊100〜2,000円超",
-      "variant": "neutral"
+      "text": "1泊100〜2,000円超",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "全国30自治体へ波及",
-      "variant": "neutral"
+      "text": "全国30自治体へ波及",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "混雑バス・美化財源",
-      "variant": "neutral"
+      "text": "混雑バス・美化財源",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "1泊あたりの税金",
+      "label": "",
       "labelStandard": "宿泊税額の目安",
+      "labelSimple": "1泊あたりの税金",
       "value": "100〜2,000円超",
       "unit": "1人1泊あたり",
       "oldValue": "東京100〜200円等",
-      "descriptionSimple": "ホテルのグレードや街によって金額が変わる",
+      "description": "",
       "descriptionStandard": "京都市最高1,000円、ニセコ町最高2,000円など",
+      "descriptionSimple": "ホテルのグレードや街によって金額が変わる",
       "badge": "1泊100〜2,000円",
       "badgeColor": "bg-sky-100 text-sky-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "導入している街の数",
+      "label": "",
       "labelStandard": "導入・検討自治体数",
+      "labelSimple": "導入している街の数",
       "value": "全国30以上",
       "unit": "の自治体",
       "oldValue": "東京、大阪、京都など一部都市のみ",
-      "descriptionSimple": "全国の人気観光地で導入がどんどん拡大中！",
+      "description": "",
       "descriptionStandard": "北海道、福岡、金沢、長崎など全国に波及",
+      "descriptionSimple": "全国の人気観光地で導入がどんどん拡大中！",
       "badge": "全国30自治体超",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "MapPin"
     },
     {
-      "labelSimple": "集めたお金の使い道",
+      "label": "",
       "labelStandard": "税金の主な使途",
+      "labelSimple": "集めたお金の使い道",
       "value": "混雑・ゴミ対策",
       "unit": "（観光公害防止）",
       "oldValue": "観光客を呼ぶプロモーション中心だった",
-      "descriptionSimple": "観光バスを増やしたりきれいなトイレを作る！",
+      "description": "",
       "descriptionStandard": "観光特急バス増便・多言語標識・美化清掃に充当",
+      "descriptionSimple": "観光バスを増やしたりきれいなトイレを作る！",
       "badge": "オーバーツーリズム対策",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Sparkles"
     },
     {
-      "labelSimple": "だれが払う？",
+      "label": "",
       "labelStandard": "課税対象と二重価格議論",
+      "labelSimple": "だれが払う？",
       "value": "内外二重価格",
       "unit": "の議論台頭",
       "oldValue": "外国人も日本人も一律課税",
-      "descriptionSimple": "日本の出張サラリーマンの免除などが議論中",
+      "description": "",
       "descriptionStandard": "外国人富裕層と国内ビジネス客の区分議論が浮上",
+      "descriptionSimple": "日本の出張サラリーマンの免除などが議論中",
       "badge": "二重価格議論",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Users"

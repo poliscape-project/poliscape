@@ -1,8 +1,8 @@
 {
   "id": "ecommerce-credit-card-fraud-emv-3d-secure-mandatory-act",
   "title": "EC加盟店に対するクレジットカード不正利用防止対策（EMV 3-Dセキュア）導入義務化",
-  "category": "tax-finance",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "インターネット通販（ECサイト）におけるクレジットカード番号の盗用や不正決済被害（年間500億円超）を根絶するため、すべてのオンライン加盟店に対し、最新の本人認証規格「EMV 3-Dセキュア（3Dセキュア2.0）」の導入を割賦販売法に基づき完全義務付ける。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "キャッシュレス安全",
-      "variant": "blue"
+      "text": "キャッシュレス安全",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "サイバー防犯",
-      "variant": "purple"
+      "text": "サイバー防犯",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "ECセキュリティ",
-      "variant": "green"
+      "text": "ECセキュリティ",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "年間番号盗用被害額",
+      "label": "年間番号盗用被害額",
+      "labelStandard": "年間番号盗用被害額",
+      "labelSimple": "年間番号盗用被害額",
       "value": "540",
       "unit": "億円",
+      "oldValue": "現行",
       "description": "ECサイトにおけるクレジットカード不正利用被害の年間史上最悪水準",
-      "trend": "down",
-      "trendLabel": "撲滅目標"
+      "descriptionStandard": "年間番号盗用被害額",
+      "descriptionSimple": "年間番号盗用被害額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "安全判定時の入力スキップ率",
+      "label": "安全判定時の入力スキップ率",
+      "labelStandard": "安全判定時の入力スキップ率",
+      "labelSimple": "安全判定時の入力スキップ率",
       "value": "90",
       "unit": "%以上",
+      "oldValue": "現行",
       "description": "リスクベース認証により普段の安全な買い物ではパスワード入力が不要",
-      "trend": "up",
-      "trendLabel": "利便性維持"
+      "descriptionStandard": "安全判定時の入力スキップ率",
+      "descriptionSimple": "安全判定時の入力スキップ率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

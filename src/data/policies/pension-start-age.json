@@ -151,62 +151,76 @@
   "badges": [
     {
       "label": "選択幅 60〜75歳",
-      "variant": "neutral"
+      "text": "選択幅 60〜75歳",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "最大+84%増額（75歳）",
-      "variant": "neutral"
+      "text": "最大+84%増額（75歳）",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "損益分岐点 約82歳",
-      "variant": "neutral"
+      "text": "損益分岐点 約82歳",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "もらい始められる年齢の幅",
+      "label": "",
       "labelStandard": "受給開始の選択可能年齢",
+      "labelSimple": "もらい始められる年齢の幅",
       "value": "60〜75",
       "unit": "歳",
       "oldValue": "以前は60〜70歳までだった",
-      "descriptionSimple": "自分の生活に合わせて自由に決められる！",
+      "description": "",
       "descriptionStandard": "65歳標準受給から前後15年間の選択制",
+      "descriptionSimple": "自分の生活に合わせて自由に決められる！",
       "badge": "60〜75歳",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Calendar"
     },
     {
-      "labelSimple": "75歳まで遅らせた場合の増額",
+      "label": "",
       "labelStandard": "最大増額率（75歳受給開始）",
+      "labelSimple": "75歳まで遅らせた場合の増額",
       "value": "+84",
       "unit": "%",
       "oldValue": "1ヶ月遅らせるごとに+0.7%増",
-      "descriptionSimple": "一生もらえる年金がほぼ2倍に！",
+      "description": "",
       "descriptionStandard": "繰下げにより生涯増額された年金を受給",
+      "descriptionSimple": "一生もらえる年金がほぼ2倍に！",
       "badge": "最大+84%",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Sparkles"
     },
     {
-      "labelSimple": "60歳まで早めた場合の減額",
+      "label": "",
       "labelStandard": "最大減額率（60歳受給開始）",
+      "labelSimple": "60歳まで早めた場合の減額",
       "value": "-24",
       "unit": "%",
       "oldValue": "1ヶ月早めるごとに-0.4%減",
-      "descriptionSimple": "早くもらえる代わりに一生減額される",
+      "description": "",
       "descriptionStandard": "2022年法改正で減額率が月0.5%から0.4%へ緩和",
+      "descriptionSimple": "早くもらえる代わりに一生減額される",
       "badge": "最大-24%",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "TrendingDown"
     },
     {
-      "labelSimple": "元が取れる年齢（損益分岐点）",
+      "label": "",
       "labelStandard": "繰下げの損益分岐年齢",
+      "labelSimple": "元が取れる年齢（損益分岐点）",
       "value": "約 82",
       "unit": "歳",
       "oldValue": "受給開始から約12年で総額逆転",
-      "descriptionSimple": "長生きするなら遅らせた方がトク！",
+      "description": "",
       "descriptionStandard": "70歳開始なら81歳11ヶ月以上生存で有利",
+      "descriptionSimple": "長生きするなら遅らせた方がトク！",
       "badge": "長寿リスク対策",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Clock"

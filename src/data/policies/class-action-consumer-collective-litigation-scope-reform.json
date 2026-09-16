@@ -1,7 +1,7 @@
 {
   "id": "class-action-consumer-collective-litigation-scope-reform",
   "title": "消費者団体訴訟制度（消費者裁判手続特例法）の対象範囲拡大と二段型訴訟迅速化",
-  "category": "admin",
+  "category": "society",
   "subcategory": "司法・消費者保護",
   "status": "施行中",
   "date": "2024-04",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "請求損害範囲",
+      "labelStandard": "請求損害範囲",
+      "labelSimple": "請求損害範囲",
       "value": "慰謝料も解禁",
       "unit": "",
       "oldValue": "財産的損害のみ",
       "description": "悪質不法行為に伴う精神的苦痛に対しても集団賠償請求が可能に",
+      "descriptionStandard": "請求損害範囲",
+      "descriptionSimple": "請求損害範囲",
       "badge": "対象拡大",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "個別手続申請方式",
+      "labelStandard": "個別手続申請方式",
+      "labelSimple": "個別手続申請方式",
       "value": "オンライン完結",
       "unit": "（スマホ申請）",
       "oldValue": "紙の書面郵送",
       "description": "勝訴確定後の被害者への返金手続きをWebとマイナ連携で自動化",
+      "descriptionStandard": "個別手続申請方式",
+      "descriptionSimple": "個別手続申請方式",
       "badge": "スマホ完結",
       "badgeColor": "blue",
       "icon": "laptop"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "admin"
 }

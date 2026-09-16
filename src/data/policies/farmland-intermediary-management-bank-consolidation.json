@@ -129,58 +129,76 @@
   "badges": [
     {
       "label": "農地バンク集約",
-      "variant": "neutral"
+      "text": "農地バンク集約",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "地域計画10年地図",
-      "variant": "neutral"
+      "text": "地域計画10年地図",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "所有者不明農地裁定",
-      "variant": "neutral"
+      "text": "所有者不明農地裁定",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "全国の荒れ地（耕作放棄）",
+      "label": "",
       "labelStandard": "耕作放棄地の総面積",
+      "labelSimple": "全国の荒れ地（耕作放棄）",
       "value": "約28万",
       "unit": "ha（東京都以上）",
       "oldValue": "離農と高齢化で年々拡大の一途",
       "description": "国土荒廃と鳥獣被害・防災リスクに",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "荒廃地急増",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "担い手への集約目標",
+      "label": "",
       "labelStandard": "農地集積率目標",
+      "labelSimple": "担い手への集約目標",
       "value": "80",
       "unit": "%（全国目標）",
       "oldValue": "バラバラに散らばった狭い区画",
       "description": "農地バンクが一括して預かり再配分",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "集積率8割へ",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Building"
     },
     {
-      "labelSimple": "市町村の未来地図",
+      "label": "",
       "labelStandard": "地域計画（目標地図）",
+      "labelSimple": "市町村の未来地図",
       "value": "10年後",
       "unit": "の利用者を特定",
       "oldValue": "話し合いが曖昧で塩漬けの農地多数",
       "description": "1筆ごとに将来の耕作者を確定",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "地域計画義務化",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "FileText"
     },
     {
-      "labelSimple": "持ち主不明の土地",
+      "label": "",
       "labelStandard": "知事裁定による利用権",
+      "labelSimple": "持ち主不明の土地",
       "value": "迅速",
       "unit": "貸出（手続き簡素）",
       "oldValue": "相続人全員の同意が必要で貸出不能",
       "description": "公告期間を短縮しバンクが借り受け",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "所有者不明対策",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Scale"

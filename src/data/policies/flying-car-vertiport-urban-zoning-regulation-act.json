@@ -2,7 +2,7 @@
   "id": "flying-car-vertiport-urban-zoning-regulation-act",
   "title": "空飛ぶクルマ（eVTOL）離着陸場（バーティポート）都市計画法制",
   "catchphrase": "都市の上空を移動する新時代へ、ビルの屋上や駅前広場への空飛ぶクルマ離着陸場（バーティポート）整備",
-  "category": "technology",
+  "category": "society",
   "categoryLabel": "テクノロジー・インフラ・通信",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "空飛ぶクルマ",
-      "variant": "positive"
+      "text": "空飛ぶクルマ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "モビリティDX",
-      "variant": "positive"
+      "text": "モビリティDX",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "都市計画",
-      "variant": "neutral"
+      "text": "都市計画",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "移動時間",
+      "labelStandard": "移動時間",
+      "labelSimple": "移動時間",
       "value": "空港〜都心約10分",
+      "unit": "",
+      "oldValue": "現行",
       "description": "道路渋滞をバイパスし都市間を超高速移動",
+      "descriptionStandard": "移動時間",
+      "descriptionSimple": "移動時間",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Navigation"
     },
     {
       "label": "充電設備",
+      "labelStandard": "充電設備",
+      "labelSimple": "充電設備",
       "value": "メガワット級規格",
+      "unit": "",
+      "oldValue": "現行",
       "description": "数分で高出力急速充電可能な国際統一ポートの配備",
+      "descriptionStandard": "充電設備",
+      "descriptionSimple": "充電設備",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Zap"
     }
   ],

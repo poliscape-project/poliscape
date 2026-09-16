@@ -161,62 +161,76 @@
   "badges": [
     {
       "label": "70歳まで加入延長検討",
-      "variant": "neutral"
+      "text": "70歳まで加入延長検討",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "DB併図月2万円へ増枠",
-      "variant": "neutral"
+      "text": "DB併図月2万円へ増枠",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "掛金全額所得控除メリット",
-      "variant": "neutral"
+      "text": "掛金全額所得控除メリット",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "加入できる年齢の上限",
+      "label": "",
       "labelStandard": "加入可能年齢の上限",
+      "labelSimple": "加入できる年齢の上限",
       "value": "70歳",
       "unit": "まで延長検討",
       "oldValue": "2022年法改正で65歳まで拡大済み",
-      "descriptionSimple": "シニアで働いている間もずっと積み立て可能に",
+      "description": "",
       "descriptionStandard": "高齢期の就労長期化に合わせた非課税枠の拡大議論",
+      "descriptionSimple": "シニアで働いている間もずっと積み立て可能に",
       "badge": "70歳まで",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Clock"
     },
     {
-      "labelSimple": "企業年金がある人の上限",
+      "label": "",
       "labelStandard": "DB併図時の拠出限度額",
+      "labelSimple": "企業年金がある人の上限",
       "value": "月2.0万",
       "unit": "円/月に引上げ",
       "oldValue": "これまで 月1.2万円の上限だった",
-      "descriptionSimple": "2024年12月から会社員の上限が月2万円にアップ！",
+      "description": "",
       "descriptionStandard": "企業型年金規約ごとの不公平を解消し一律2万円へ",
+      "descriptionSimple": "2024年12月から会社員の上限が月2万円にアップ！",
       "badge": "限度額拡大",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "うれしい税金の割引",
+      "label": "",
       "labelStandard": "3重の税制優遇メリット",
+      "labelSimple": "うれしい税金の割引",
       "value": "トリプル",
       "unit": "節税効果",
       "oldValue": "一般預金は利息・受取時に課税",
-      "descriptionSimple": "積み立て・運用・受け取りの全部で税金が安くなる",
+      "description": "",
       "descriptionStandard": "掛金全額所得控除＋運用益非課税＋受取時退職・年金控除",
+      "descriptionSimple": "積み立て・運用・受け取りの全部で税金が安くなる",
       "badge": "トリプル節税",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "PiggyBank"
     },
     {
-      "labelSimple": "お金を引き出せないルール",
+      "label": "",
       "labelStandard": "原則引出不可ルール",
+      "labelSimple": "お金を引き出せないルール",
       "value": "60歳まで",
       "unit": "ロック",
       "oldValue": "老後資金形成目的のため原則中途解約不可",
-      "descriptionSimple": "急なお金が必要になっても60歳まで出せない",
+      "description": "",
       "descriptionStandard": "資金拘束（流動性リスク）がある点には注意が必要",
+      "descriptionSimple": "急なお金が必要になっても60歳まで出せない",
       "badge": "60歳拘束",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"

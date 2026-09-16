@@ -1,7 +1,7 @@
 {
   "id": "unclaimed-real-estate-registry-foreclosure-auction-speedup",
   "title": "所有者不明土地の管理機構による集約代行と買受申出ファストトラック",
-  "category": "admin",
+  "category": "society",
   "subcategory": "土地・不動産・登記DX",
   "status": "施行中",
   "date": "2024-04",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "相続登記の法定義務",
+      "labelStandard": "相続登記の法定義務",
+      "labelSimple": "相続登記の法定義務",
       "value": "3年以内",
       "unit": "（過料10万円）",
       "oldValue": "任意（放置自由）",
       "description": "相続取得を知ってから3年以内の登記を法定義務化",
+      "descriptionStandard": "相続登記の法定義務",
+      "descriptionSimple": "相続登記の法定義務",
       "badge": "完全義務化",
       "badgeColor": "red",
       "icon": "file-text"
     },
     {
       "label": "集約売却期間",
+      "labelStandard": "集約売却期間",
+      "labelSimple": "集約売却期間",
       "value": "最短半年",
       "unit": "",
       "oldValue": "数年〜解決不能",
       "description": "裁判所管理命令と公的公告の迅速化で民間売却をスピード完了",
+      "descriptionStandard": "集約売却期間",
+      "descriptionSimple": "集約売却期間",
       "badge": "ファストトラック",
       "badgeColor": "green",
       "icon": "clock"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "admin"
 }

@@ -4,7 +4,7 @@
   "catchphrase": "病気の子どもを我慢させない。高校卒業（18歳）までの医療費助成を国費で全国一律完全無償化",
   "category": "healthcare",
   "categoryLabel": "医療・子ども保健",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "子ども医療費",
-      "variant": "purple"
+      "text": "子ども医療費",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "高校生まで無償",
-      "variant": "blue"
+      "text": "高校生まで無償",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "現物給付化",
-      "variant": "green"
+      "text": "現物給付化",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "無償対象上限年齢",
+      "label": "無償対象上限年齢",
+      "labelStandard": "無償対象上限年齢",
+      "labelSimple": "無償対象上限年齢",
       "value": "18",
       "unit": "歳到達年度末",
+      "oldValue": "現行",
       "description": "国費により保険診療の自己負担が全額助成される子どもの統一対象年齢",
-      "trend": "up",
-      "trendLabel": "高校生まで拡大"
+      "descriptionStandard": "無償対象上限年齢",
+      "descriptionSimple": "無償対象上限年齢",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "窓口現物給付カバー率",
+      "label": "窓口現物給付カバー率",
+      "labelStandard": "窓口現物給付カバー率",
+      "labelSimple": "窓口現物給付カバー率",
       "value": "100",
       "unit": "%",
+      "oldValue": "現行",
       "description": "日本全国すべての保険医療機関でマイナ保険証・受給券提示により達成される窓口無料率",
-      "trend": "up",
-      "trendLabel": "立替払いゼロ"
+      "descriptionStandard": "窓口現物給付カバー率",
+      "descriptionSimple": "窓口現物給付カバー率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

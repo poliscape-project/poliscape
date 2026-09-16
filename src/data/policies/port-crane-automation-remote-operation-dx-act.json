@@ -2,7 +2,7 @@
   "id": "port-crane-automation-remote-operation-dx-act",
   "title": "コンテナ港湾ガントリークレーン自動遠隔操縦・港湾労働DX法",
   "catchphrase": "日本の港湾競争力を復活させる、地上オフィスからの遠隔クレーン操作と荷役自動化",
-  "category": "infrastructure",
+  "category": "society",
   "categoryLabel": "国土・交通",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "港湾DX",
-      "variant": "positive"
+      "text": "港湾DX",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "自動化クレーン",
-      "variant": "positive"
+      "text": "自動化クレーン",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "国際物流",
-      "variant": "neutral"
+      "text": "国際物流",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "荷役効率",
+      "labelStandard": "荷役効率",
+      "labelSimple": "荷役効率",
       "value": "時間あたり個数30%増",
+      "unit": "",
+      "oldValue": "現行",
       "description": "AI位置決めアシストと24時間遠隔運用で港湾停滞を解消",
+      "descriptionStandard": "荷役効率",
+      "descriptionSimple": "荷役効率",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "労働改善",
+      "labelStandard": "労働改善",
+      "labelSimple": "労働改善",
       "value": "地上オフィス操縦",
+      "unit": "",
+      "oldValue": "現行",
       "description": "高さ50mの過酷な運転室から地上快適オフィス操作へ完全転換",
+      "descriptionStandard": "労働改善",
+      "descriptionSimple": "労働改善",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

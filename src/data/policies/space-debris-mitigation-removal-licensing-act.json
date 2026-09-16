@@ -2,7 +2,7 @@
   "id": "space-debris-mitigation-removal-licensing-act",
   "title": "スペースデブリ（宇宙ゴミ）除去・軌道上サービス規制法",
   "catchphrase": "宇宙の航行安全を守る、デブリ除去の産業化と軌道上ルール確立",
-  "category": "tech",
+  "category": "society",
   "categoryLabel": "IT・科学技術",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "宇宙ビジネス",
-      "variant": "positive"
+      "text": "宇宙ビジネス",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "デブリ除去",
-      "variant": "positive"
+      "text": "デブリ除去",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "国際ルール",
-      "variant": "neutral"
+      "text": "国際ルール",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "宇宙インフラ保護",
+      "labelStandard": "宇宙インフラ保護",
+      "labelSimple": "宇宙インフラ保護",
       "value": "宇宙インフラ保護",
+      "unit": "",
+      "oldValue": "現行",
       "description": "気象・通信衛星への高速衝突リスクを未然に防ぎ持続可能な軌道環境を保全。",
+      "descriptionStandard": "宇宙インフラ保護",
+      "descriptionSimple": "宇宙インフラ保護",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "日本発の宇宙新産業",
+      "labelStandard": "日本発の宇宙新産業",
+      "labelSimple": "日本発の宇宙新産業",
       "value": "日本発の宇宙新産業",
+      "unit": "",
+      "oldValue": "現行",
       "description": "除去・寿命延長サービスで世界の宇宙交通管理（STM）を先導。",
+      "descriptionStandard": "日本発の宇宙新産業",
+      "descriptionSimple": "日本発の宇宙新産業",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "運用後5年ルール",
+      "labelStandard": "運用後5年ルール",
+      "labelSimple": "運用後5年ルール",
       "value": "運用後5年ルール",
+      "unit": "",
+      "oldValue": "現行",
       "description": "放置衛星をなくすため退避・焼却計画の策定を打上げ許可条件に。",
+      "descriptionStandard": "運用後5年ルール",
+      "descriptionSimple": "運用後5年ルール",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

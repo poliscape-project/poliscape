@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "ケアリーバー",
-      "variant": "positive"
+      "text": "ケアリーバー",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "児童養護自立",
-      "variant": "positive"
+      "text": "児童養護自立",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "教育格差是正",
-      "variant": "neutral"
+      "text": "教育格差是正",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "家賃補助",
+      "labelStandard": "家賃補助",
+      "labelSimple": "家賃補助",
       "value": "最長5年間全額給付",
+      "unit": "",
+      "oldValue": "現行",
       "description": "民間アパート家賃実費（上限月8万円）を返済不要で全額支給",
+      "descriptionStandard": "家賃補助",
+      "descriptionSimple": "家賃補助",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "進学支援",
+      "labelStandard": "進学支援",
+      "labelSimple": "進学支援",
       "value": "学費全額免除＋生活給付",
+      "unit": "",
+      "oldValue": "現行",
       "description": "大学・専門学校の入学金・授業料をゼロ化し月8万円支給",
+      "descriptionStandard": "進学支援",
+      "descriptionSimple": "進学支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "GraduationCap"
     }
   ],

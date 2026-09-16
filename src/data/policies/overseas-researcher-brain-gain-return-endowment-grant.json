@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "立ち上げ研究費上限",
+      "labelStandard": "立ち上げ研究費上限",
+      "labelSimple": "立ち上げ研究費上限",
       "value": "5000",
       "unit": "万円",
       "oldValue": "数千万円（分割交付）",
       "description": "大型実験機器導入やポスドク雇用のため初年度一括助成",
+      "descriptionStandard": "立ち上げ研究費上限",
+      "descriptionSimple": "立ち上げ研究費上限",
       "badge": "一括助成",
       "badgeColor": "blue",
       "icon": "currency-yen"
     },
     {
       "label": "帰国登用目標数",
+      "labelStandard": "帰国登用目標数",
+      "labelSimple": "帰国登用目標数",
       "value": "200",
       "unit": "名/年",
       "oldValue": "年間数十名",
       "description": "主要国立大・国際卓越研究大学を中心に海外日本人PIの登用を加速",
+      "descriptionStandard": "帰国登用目標数",
+      "descriptionSimple": "帰国登用目標数",
       "badge": "大幅増員",
       "badgeColor": "green",
       "icon": "users"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

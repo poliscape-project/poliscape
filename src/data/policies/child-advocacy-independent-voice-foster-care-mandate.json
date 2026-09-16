@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "自治体実施義務",
+      "labelStandard": "自治体実施義務",
+      "labelSimple": "自治体実施義務",
       "value": "100",
       "unit": "%（全国展開）",
       "oldValue": "一部自治体の任意事業",
       "description": "全都道府県・政令指定都市に事業の実施を法定義務化",
+      "descriptionStandard": "自治体実施義務",
+      "descriptionSimple": "自治体実施義務",
       "badge": "法定化",
       "badgeColor": "blue",
       "icon": "building-library"
     },
     {
       "label": "訪問支援対象児童",
+      "labelStandard": "訪問支援対象児童",
+      "labelSimple": "訪問支援対象児童",
       "value": "4.5",
       "unit": "万人規模",
       "oldValue": "ほぼアクセス不能",
       "description": "乳児院・養護施設・里親家庭・一時保護所の全在籍児童が利用可能",
+      "descriptionStandard": "訪問支援対象児童",
+      "descriptionSimple": "訪問支援対象児童",
       "badge": "全数対象",
       "badgeColor": "green",
       "icon": "users"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

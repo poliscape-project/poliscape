@@ -1,8 +1,8 @@
 {
   "id": "space-debris-removal-active-clearing-commercial-subsidy",
   "title": "宇宙デブリ除去（軌道上サービス）の民間事業化支援と技術実証助成",
-  "category": "technology-dx",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "地球低軌道上に浮遊する使用済み人工衛星やロケット残骸などの「宇宙ゴミ（スペースデブリ）」を除去・回収する軌道上サービス産業を創出するため、民間事業者に対する技術実証・商業化助成金を創設する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "宇宙ビジネス",
-      "variant": "blue"
+      "text": "宇宙ビジネス",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "宇宙デブリ",
-      "variant": "purple"
+      "text": "宇宙デブリ",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "先端技術",
-      "variant": "green"
+      "text": "先端技術",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "軌道離脱義務期間",
+      "label": "軌道離脱義務期間",
+      "labelStandard": "軌道離脱義務期間",
+      "labelSimple": "軌道離脱義務期間",
       "value": "5",
       "unit": "年以内",
+      "oldValue": "現行",
       "description": "従来の25年ルールから大幅に短縮し、運用終了後の放置を厳禁",
-      "trend": "down",
-      "trendLabel": "迅速離脱義務化"
+      "descriptionStandard": "軌道離脱義務期間",
+      "descriptionSimple": "軌道離脱義務期間",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "10cm以上の宇宙デブリ数",
+      "label": "10cm以上の宇宙デブリ数",
+      "labelStandard": "10cm以上の宇宙デブリ数",
+      "labelSimple": "10cm以上の宇宙デブリ数",
       "value": "36,500",
       "unit": "個以上",
+      "oldValue": "現行",
       "description": "地球軌道上を時速約2.8万キロで周回する危険な大型デブリの総数",
-      "trend": "up",
-      "trendLabel": "衝突リスク増大"
+      "descriptionStandard": "10cm以上の宇宙デブリ数",
+      "descriptionSimple": "10cm以上の宇宙デブリ数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

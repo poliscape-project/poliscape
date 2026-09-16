@@ -155,50 +155,62 @@
   "badges": [
     {
       "label": "全国自治体で設置義務化",
-      "variant": "neutral"
+      "text": "全国自治体で設置義務化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "母子保健＋福祉を統合",
-      "variant": "neutral"
+      "text": "母子保健＋福祉を統合",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "ヤングケアラー支援法制化",
-      "variant": "neutral"
+      "text": "ヤングケアラー支援法制化",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "センターの設置場所",
+      "label": "",
       "labelStandard": "こども家庭センターの対象",
+      "labelSimple": "センターの設置場所",
       "value": "全国全自治体",
       "unit": "（1700超の市区町村）",
       "oldValue": "自治体の努力義務",
-      "descriptionSimple": "日本中どこに住んでいても必ず身近に相談センターができる！",
+      "description": "",
       "descriptionStandard": "基礎自治体すべてに法定設置義務を課し地域格差を解消",
+      "descriptionSimple": "日本中どこに住んでいても必ず身近に相談センターができる！",
       "badge": "全国義務化",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Home"
     },
     {
-      "labelSimple": "窓口のたらい回し",
+      "label": "",
       "labelStandard": "母子保健・福祉のワンストップ化",
+      "labelSimple": "窓口のたらい回し",
       "value": "窓口を1本化",
       "unit": "（同一チーム支援）",
       "oldValue": "保健所と福祉部署の縦割り分断",
-      "descriptionSimple": "あちこちの課を回されず1か所で専門家に相談できる！",
+      "description": "",
       "descriptionStandard": "保健師・ソーシャルワーカーの合同配置によるワンストップ化",
+      "descriptionSimple": "あちこちの課を回されず1か所で専門家に相談できる！",
       "badge": "縦割り打破",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "家族の世話をする子ども",
+      "label": "",
       "labelStandard": "ヤングケアラーの支援位置づけ",
+      "labelSimple": "家族の世話をする子ども",
       "value": "法律に明記",
       "unit": "（国・自治体の責務）",
       "oldValue": "法律上の位置づけなし",
-      "descriptionSimple": "介護で学校に行けない子どもを助ける国の責任を法律に明記！",
+      "description": "",
       "descriptionStandard": "児童福祉法上の要支援児童として支援施策の提供を義務付け",
+      "descriptionSimple": "介護で学校に行けない子どもを助ける国の責任を法律に明記！",
       "badge": "法的保護",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "ShieldCheck"

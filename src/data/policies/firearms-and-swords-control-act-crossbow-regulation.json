@@ -2,7 +2,7 @@
   "id": "firearms-and-swords-control-act-crossbow-regulation",
   "title": "銃刀法改正（クロスボウ・ボウガン所持許可制・不法所持への刑事罰導入）",
   "catchphrase": "凶悪事件に使われたボウガンを野放しにしない。公安委員会の所持許可制導入と不法所持への懲役刑",
-  "category": "safety",
+  "category": "society",
   "categoryLabel": "治安・防犯・銃刀法規制",
   "lastUpdated": "2024-04-10",
   "effectiveDate": "2022年3月施行",
@@ -128,34 +128,64 @@
   "badges": [
     {
       "label": "クロスボウ規制",
-      "variant": "positive"
+      "text": "クロスボウ規制",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "治安・凶器排除",
-      "variant": "positive"
+      "text": "治安・凶器排除",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "競技者手続き負担",
-      "variant": "neutral"
+      "text": "競技者手続き負担",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "規制方式",
+      "labelStandard": "規制方式",
+      "labelSimple": "規制方式",
       "value": "公安委員会所持許可制",
+      "unit": "",
+      "oldValue": "現行",
       "description": "標的射撃や学術研究等正当な理由がある者のみ許可",
+      "descriptionStandard": "規制方式",
+      "descriptionSimple": "規制方式",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "罰則",
+      "labelStandard": "罰則",
+      "labelSimple": "罰則",
       "value": "3年以下の拘禁刑",
+      "unit": "",
+      "oldValue": "現行",
       "description": "許可のない単純所持に対し前科のつく刑事罰を適用",
+      "descriptionStandard": "罰則",
+      "descriptionSimple": "罰則",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "AlertTriangle"
     },
     {
       "label": "実績",
+      "labelStandard": "実績",
+      "labelSimple": "実績",
       "value": "全国で約4万本回収",
+      "unit": "",
+      "oldValue": "現行",
       "description": "経過措置期間中に警察署で安全に無償回収・廃棄",
+      "descriptionStandard": "実績",
+      "descriptionSimple": "実績",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

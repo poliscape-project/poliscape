@@ -4,7 +4,7 @@
   "catchphrase": "薬が届かない医療危機を解消。後発医薬品の薬価下支えと中小メーカー再編で安定供給を法定義務化",
   "category": "healthcare",
   "categoryLabel": "医薬品産業・医療安全",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "ジェネリック改革",
-      "variant": "purple"
+      "text": "ジェネリック改革",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "医薬品安定供給",
-      "variant": "blue"
+      "text": "医薬品安定供給",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "薬価適正化",
-      "variant": "green"
+      "text": "薬価適正化",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "供給停止品目削減率",
+      "label": "供給停止品目削減率",
+      "labelStandard": "供給停止品目削減率",
+      "labelSimple": "供給停止品目削減率",
       "value": "80",
       "unit": "%減目標",
+      "oldValue": "現行",
       "description": "薬価下支えおよび増産支援により解消される全国供給制限・出荷停止医薬品の削減割合",
-      "trend": "down",
-      "trendLabel": "品不足解消"
+      "descriptionStandard": "供給停止品目削減率",
+      "descriptionSimple": "供給停止品目削減率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "製造工場GMP適合率",
+      "label": "製造工場GMP適合率",
+      "labelStandard": "製造工場GMP適合率",
+      "labelSimple": "製造工場GMP適合率",
       "value": "100",
       "unit": "%厳格監査",
+      "oldValue": "現行",
       "description": "無通告査察の強化により達成される国内ジェネリック製造工場の国際基準適合率",
-      "trend": "up",
-      "trendLabel": "品質信頼回復"
+      "descriptionStandard": "製造工場GMP適合率",
+      "descriptionSimple": "製造工場GMP適合率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "成年後見改革",
-      "variant": "positive"
+      "text": "成年後見改革",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "意思決定支援",
-      "variant": "positive"
+      "text": "意思決定支援",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "終身拘束解消",
-      "variant": "warning"
+      "text": "終身拘束解消",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "後見終了の柔軟化",
+      "labelStandard": "後見終了の柔軟化",
+      "labelSimple": "後見終了の柔軟化",
       "value": "目的達成で終了可",
+      "unit": "",
+      "oldValue": "現行",
       "description": "不動産売却や遺産分割が終わった段階での後見終了を家裁が認可",
+      "descriptionStandard": "後見終了の柔軟化",
+      "descriptionSimple": "後見終了の柔軟化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "報酬公費助成",
+      "labelStandard": "報酬公費助成",
+      "labelSimple": "報酬公費助成",
       "value": "月2〜3万円支給",
+      "unit": "",
+      "oldValue": "現行",
       "description": "年金暮らしの高齢者でも資産をすり減らさず専門職後見を利用可能に",
+      "descriptionStandard": "報酬公費助成",
+      "descriptionSimple": "報酬公費助成",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

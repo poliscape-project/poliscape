@@ -1,7 +1,7 @@
 {
   "id": "emergency-heliport-drone-port-dual-use-disaster-hub-act",
   "title": "防災ヘリポートと物流ドローンポートの兼用インフラ整備基準法",
-  "category": "infrastructure",
+  "category": "society",
   "subcategory": "防災・航空宇宙・ドローン",
   "status": "施行中",
   "date": "2024-05",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "全国配備目標数",
+      "labelStandard": "全国配備目標数",
+      "labelSimple": "全国配備目標数",
       "value": "1000",
       "unit": "カ所（2030年）",
       "oldValue": "数十カ所の点在",
       "description": "全国の道の駅・病院・過疎地集落へ兼用スカイハブを網羅配備",
+      "descriptionStandard": "全国配備目標数",
+      "descriptionSimple": "全国配備目標数",
       "badge": "全国網配備",
       "badgeColor": "blue",
       "icon": "building-library"
     },
     {
       "label": "有事空輸初動時間",
+      "labelStandard": "有事空輸初動時間",
+      "labelSimple": "有事空輸初動時間",
       "value": "数時間以内",
       "unit": "",
       "oldValue": "数日〜1週間（徒歩搬送）",
       "description": "道路寸断直後からドローンピストン輸送により孤立死を未然防止",
+      "descriptionStandard": "有事空輸初動時間",
+      "descriptionSimple": "有事空輸初動時間",
       "badge": "即応空輸",
       "badgeColor": "green",
       "icon": "clock"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "infrastructure"
 }

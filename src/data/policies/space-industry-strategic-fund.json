@@ -175,62 +175,76 @@
   "badges": [
     {
       "label": "JAXAに10年1兆円基金",
-      "variant": "neutral"
+      "text": "JAXAに10年1兆円基金",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "民間小型ロケット・衛星量産",
-      "variant": "neutral"
+      "text": "民間小型ロケット・衛星量産",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "2030年代宇宙産業8兆円へ",
-      "variant": "neutral"
+      "text": "2030年代宇宙産業8兆円へ",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "宇宙開発に使う国のお金",
+      "label": "",
       "labelStandard": "JAXA宇宙戦略基金の規模",
+      "labelSimple": "宇宙開発に使う国のお金",
       "value": "10年間 1",
       "unit": "兆円規模",
       "oldValue": "単年度ごとのJAXA研究予算で民間支援は限定的",
-      "descriptionSimple": "民間会社がロケットを飛ばせるよう1兆円を支援！",
+      "description": "",
       "descriptionStandard": "複数年度にわたり機動的に民間・大学へ資金配分",
+      "descriptionSimple": "民間会社がロケットを飛ばせるよう1兆円を支援！",
       "badge": "10年1兆円基金",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "宇宙ビジネスの目標の大きさ",
+      "label": "",
       "labelStandard": "2030年代宇宙産業規模目標",
+      "labelSimple": "宇宙ビジネスの目標の大きさ",
       "value": "8",
       "unit": "兆円（倍増目標）",
       "oldValue": "現在の日本の宇宙産業規模は約4兆円",
-      "descriptionSimple": "日本の新しい大きな産業として市場を2倍に育てる！",
+      "description": "",
       "descriptionStandard": "ロケット打ち上げ・小型衛星データ利活用で新産業創出",
+      "descriptionSimple": "日本の新しい大きな産業として市場を2倍に育てる！",
       "badge": "市場規模8兆円へ",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "TrendingUp"
     },
     {
-      "labelSimple": "月に降り立つ日本人",
+      "label": "",
       "labelStandard": "アルテミス計画 月面着陸枠",
+      "labelSimple": "月に降り立つ日本人",
       "value": "日本人 2",
       "unit": "名着陸予定",
       "oldValue": "これまで月面に立ったのはアメリカ人のみ",
-      "descriptionSimple": "日本人が月を歩いて、トヨタの車で探検する！",
+      "description": "",
       "descriptionStandard": "有人月面探査車（ルナクルーザー）の開発・運用を担当",
+      "descriptionSimple": "日本人が月を歩いて、トヨタの車で探検する！",
       "badge": "月面着陸へ",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Globe"
     },
     {
-      "labelSimple": "空から日本を見守る人工衛星",
+      "label": "",
       "labelStandard": "小型衛星コンステレーション",
+      "labelSimple": "空から日本を見守る人工衛星",
       "value": "数十〜数百",
       "unit": "機を量産配置",
       "oldValue": "1機数百億円の大型衛星を数年に1回打ち上げ",
-      "descriptionSimple": "小さくて安い衛星をたくさん飛ばして大雨や地震を発見！",
+      "description": "",
       "descriptionStandard": "リアルタイム地球観測・通信網を低コストで実現",
+      "descriptionSimple": "小さくて安い衛星をたくさん飛ばして大雨や地震を発見！",
       "badge": "衛星コンステ",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Satellite"

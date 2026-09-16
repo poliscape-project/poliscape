@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "2ナノ最先端半導体",
-      "variant": "positive"
+      "text": "2ナノ最先端半導体",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "国家プロジェクト",
-      "variant": "neutral"
+      "text": "国家プロジェクト",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "5兆円資金が課題",
-      "variant": "warning"
+      "text": "5兆円資金が課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "製造目標",
+      "labelStandard": "製造目標",
+      "labelSimple": "製造目標",
       "value": "2nm世代ロジック半導体",
+      "unit": "",
+      "oldValue": "現行",
       "description": "2027年の商用量産開始を目指す",
+      "descriptionStandard": "製造目標",
+      "descriptionSimple": "製造目標",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "立地拠点",
+      "labelStandard": "立地拠点",
+      "labelSimple": "立地拠点",
       "value": "北海道千歳市 (IIM-1)",
+      "unit": "",
+      "oldValue": "現行",
       "description": "広大な用地と豊富な水・再生可能エネルギーを活用",
+      "descriptionStandard": "立地拠点",
+      "descriptionSimple": "立地拠点",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Home"
     },
     {
       "label": "官民投資",
+      "labelStandard": "官民投資",
+      "labelSimple": "官民投資",
       "value": "総額約5兆円規模",
+      "unit": "",
+      "oldValue": "現行",
       "description": "国費助成と政府保証、民間投融資の結集",
+      "descriptionStandard": "官民投資",
+      "descriptionSimple": "官民投資",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

@@ -1,8 +1,8 @@
 {
   "id": "critical-minerals-rare-earth-strategic-reserve-expansion",
   "title": "重要鉱物・レアアースの国家備蓄目標180日分への倍増とリサイクル義務化",
-  "category": "diplomacy-security",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "EVモーターや風力発電、先端兵器・エレクトロニクスに不可欠なレアアース（重希土類ディスプロシウム、テルビウム等）およびリチウム・コバルト・ニッケル等の重要鉱物の国家備蓄目標を、現在の60日分から「180日分」へと倍増する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "経済安全保障",
-      "variant": "purple"
+      "text": "経済安全保障",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "重要鉱物",
-      "variant": "blue"
+      "text": "重要鉱物",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "資源循環",
-      "variant": "green"
+      "text": "資源循環",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "国家備蓄目標日数",
+      "label": "国家備蓄目標日数",
+      "labelStandard": "国家備蓄目標日数",
+      "labelSimple": "国家備蓄目標日数",
       "value": "180",
       "unit": "日分",
+      "oldValue": "現行",
       "description": "従来の60日分から半年分へと3倍に引き上げ、供給途絶に備える",
-      "trend": "up",
-      "trendLabel": "備蓄大幅増"
+      "descriptionStandard": "国家備蓄目標日数",
+      "descriptionSimple": "国家備蓄目標日数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "特定国依存度引き下げ目標",
+      "label": "特定国依存度引き下げ目標",
+      "labelStandard": "特定国依存度引き下げ目標",
+      "labelSimple": "特定国依存度引き下げ目標",
       "value": "50",
       "unit": "%未満",
+      "oldValue": "現行",
       "description": "重希土類等の特定国輸入シェア（現状70%超）を半減以下に低減",
-      "trend": "down",
-      "trendLabel": "リスク分散"
+      "descriptionStandard": "特定国依存度引き下げ目標",
+      "descriptionSimple": "特定国依存度引き下げ目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

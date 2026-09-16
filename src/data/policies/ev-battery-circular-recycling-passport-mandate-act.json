@@ -1,8 +1,8 @@
 {
   "id": "ev-battery-circular-recycling-passport-mandate-act",
   "title": "電気自動車（EV）車載蓄電池のデジタルバッテリパスポート・再資源化義務化",
-  "category": "energy-environment",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "電気自動車（EV）やハイブリッド車（PHEV/HEV）に搭載される大型リチウムイオン蓄電池について、原材料採掘から製造、CO2排出量、劣化状態（SOH）、リサイクル履歴をブロックチェーンで追跡・開示する「デジタルバッテリパスポート」の貼付を義務付ける。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "蓄電池循環",
-      "variant": "green"
+      "text": "蓄電池循環",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "脱炭素DX",
-      "variant": "blue"
+      "text": "脱炭素DX",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "資源安全保障",
-      "variant": "purple"
+      "text": "資源安全保障",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "レアメタル回収目標率",
+      "label": "レアメタル回収目標率",
+      "labelStandard": "レアメタル回収目標率",
+      "labelSimple": "レアメタル回収目標率",
       "value": "90",
       "unit": "%以上",
+      "oldValue": "現行",
       "description": "廃車となった車載蓄電池から回収するリチウム・コバルト・ニッケルの目標率",
-      "trend": "up",
-      "trendLabel": "超高効率回収"
+      "descriptionStandard": "レアメタル回収目標率",
+      "descriptionSimple": "レアメタル回収目標率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "定置用再利用寿命",
+      "label": "定置用再利用寿命",
+      "labelStandard": "定置用再利用寿命",
+      "labelSimple": "定置用再利用寿命",
       "value": "10",
       "unit": "年延長",
+      "oldValue": "現行",
       "description": "車載から家庭用・発電所用蓄電池へ転用することで電池寿命を大幅延長",
-      "trend": "up",
-      "trendLabel": "寿命延長"
+      "descriptionStandard": "定置用再利用寿命",
+      "descriptionSimple": "定置用再利用寿命",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

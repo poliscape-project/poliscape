@@ -175,62 +175,76 @@
   "badges": [
     {
       "label": "12特定重要物資を指定",
-      "variant": "neutral"
+      "text": "12特定重要物資を指定",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "国内工場新増設に最大2/3補助",
-      "variant": "neutral"
+      "text": "国内工場新増設に最大2/3補助",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "脱中国依存と経済的威圧抑止",
-      "variant": "neutral"
+      "text": "脱中国依存と経済的威圧抑止",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "国が指定した超重要グループ",
+      "label": "",
       "labelStandard": "特定重要物資の指定数",
+      "labelSimple": "国が指定した超重要グループ",
       "value": "12",
       "unit": "分野",
       "oldValue": "民間企業の海外自由調達にすべて委ねていた",
-      "descriptionSimple": "半導体、磁石、工作機械、お薬の原料などを指定！",
+      "description": "",
       "descriptionStandard": "国民生活・経済活動に不可欠な戦略物資を法制指定",
+      "descriptionSimple": "半導体、磁石、工作機械、お薬の原料などを指定！",
       "badge": "12物資指定",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "工場を日本に戻すお金",
+      "label": "",
       "labelStandard": "国内工場新設への補助率",
+      "labelSimple": "工場を日本に戻すお金",
       "value": "最大 2/3",
       "unit": "補助",
       "oldValue": "コスト削減のため工場の海外流出が加速していた",
-      "descriptionSimple": "日本に工場を建て直す会社にお金をたくさん助成！",
+      "description": "",
       "descriptionStandard": "数兆円規模の基金から設備投資を重点強力支援",
+      "descriptionSimple": "日本に工場を建て直す会社にお金をたくさん助成！",
       "badge": "国内回帰支援",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Building"
     },
     {
-      "labelSimple": "外国に頼りすぎるリスク",
+      "label": "",
       "labelStandard": "特定国へのサプライチェーン偏在",
+      "labelSimple": "外国に頼りすぎるリスク",
       "value": "最大 7〜9",
       "unit": "割（特定国依存）",
       "oldValue": "コロナ禍でのマスク不足・半導体不足が発生",
-      "descriptionSimple": "相手の国に輸入を止められたら日本中が止まる！",
+      "description": "",
       "descriptionStandard": "経済的威圧やシーレーン封鎖による国家麻痺を防止",
+      "descriptionSimple": "相手の国に輸入を止められたら日本中が止まる！",
       "badge": "脱中国依存",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "仲良しの国との協力",
+      "label": "",
       "labelStandard": "同志国フレンドショアリング",
+      "labelSimple": "仲良しの国との協力",
       "value": "G7・QUAD",
       "unit": "連携",
       "oldValue": "サプライチェーンの多角化・安全基準が未確立",
-      "descriptionSimple": "アメリカやヨーロッパ、オーストラリアとお互いに助け合う！",
+      "description": "",
       "descriptionStandard": "信頼できるパートナー国間での重要物資融通網を構築",
+      "descriptionSimple": "アメリカやヨーロッパ、オーストラリアとお互いに助け合う！",
       "badge": "同志国連携",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Globe"

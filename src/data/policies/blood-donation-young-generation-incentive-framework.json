@@ -2,7 +2,7 @@
   "id": "blood-donation-young-generation-incentive-framework",
   "title": "安全な血液製剤の安定供給確保法改正（若年層献血推進・献血アプリ導入と自給率維持）",
   "catchphrase": "10代・20代の献血者が10年で3割減少。献血Web予約アプリの導入と血液製剤の国内完全自給維持",
-  "category": "social",
+  "category": "society",
   "categoryLabel": "社会保障・医療・血液事業",
   "lastUpdated": "2024-04-15",
   "effectiveDate": "2022年4月改定・推進中",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "献血推進DX",
-      "variant": "positive"
+      "text": "献血推進DX",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "血液製剤国内自給",
-      "variant": "positive"
+      "text": "血液製剤国内自給",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "若者献血離れ課題",
-      "variant": "warning"
+      "text": "若者献血離れ課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "アプリDX",
+      "labelStandard": "アプリDX",
+      "labelSimple": "アプリDX",
       "value": "ラブラッド全国配備",
+      "unit": "",
+      "oldValue": "現行",
       "description": "スマホ予約と事前問診により受付待ち時間を半減",
+      "descriptionStandard": "アプリDX",
+      "descriptionSimple": "アプリDX",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "自給目標",
+      "labelStandard": "自給目標",
+      "labelSimple": "自給目標",
       "value": "血漿分画製剤の国内確保",
+      "unit": "",
+      "oldValue": "現行",
       "description": "米国の輸入血漿依存から脱却し安定供給体制を構築",
+      "descriptionStandard": "自給目標",
+      "descriptionSimple": "自給目標",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "健康還元",
+      "labelStandard": "健康還元",
+      "labelSimple": "健康還元",
       "value": "生化学検査値無料通知",
+      "unit": "",
+      "oldValue": "現行",
       "description": "コレステロールや肝機能データをアプリでグラフ表示",
+      "descriptionStandard": "健康還元",
+      "descriptionSimple": "健康還元",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     }
   ],

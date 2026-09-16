@@ -2,7 +2,7 @@
   "id": "service-dog-assistance-dog-mandatory-acceptance-penalty-act",
   "title": "身体障害者補助犬（盲導犬・介助犬・聴導犬）同伴受入完全義務化・拒絶罰則法",
   "catchphrase": "補助犬同伴の拒否をゼロに、障害者の自由な移動と社会参加を保障",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・福祉",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年7月施行予定",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "補助犬同伴",
-      "variant": "positive"
+      "text": "補助犬同伴",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "入店拒否ゼロ",
-      "variant": "positive"
+      "text": "入店拒否ゼロ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "共生社会",
-      "variant": "neutral"
+      "text": "共生社会",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "受入れ拒否への罰則新設",
+      "labelStandard": "受入れ拒否への罰則新設",
+      "labelSimple": "受入れ拒否への罰則新設",
       "value": "受入れ拒否への罰則新設",
+      "unit": "",
+      "oldValue": "現行",
       "description": "曖昧な理由での入店拒否を繰り返す事業者に是正勧告・過料を科す。",
+      "descriptionStandard": "受入れ拒否への罰則新設",
+      "descriptionSimple": "受入れ拒否への罰則新設",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "アレルギー対策ガイドライン",
+      "labelStandard": "アレルギー対策ガイドライン",
+      "labelSimple": "アレルギー対策ガイドライン",
       "value": "アレルギー対策ガイドライン",
+      "unit": "",
+      "oldValue": "現行",
       "description": "席を離す等の合理的配慮でアレルギー客と補助犬の双方が共存するルールを提示。",
+      "descriptionStandard": "アレルギー対策ガイドライン",
+      "descriptionSimple": "アレルギー対策ガイドライン",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "タクシー乗車拒否の根絶",
+      "labelStandard": "タクシー乗車拒否の根絶",
+      "labelSimple": "タクシー乗車拒否の根絶",
       "value": "タクシー乗車拒否の根絶",
+      "unit": "",
+      "oldValue": "現行",
       "description": "毛が散らないようマナーコート着用を義務付けつつ乗車拒否を取り締まり。",
+      "descriptionStandard": "タクシー乗車拒否の根絶",
+      "descriptionSimple": "タクシー乗車拒否の根絶",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

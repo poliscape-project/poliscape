@@ -2,7 +2,7 @@
   "id": "wooden-deck-pedestrian-skywalk-promenade-act",
   "title": "都市公園・親水空間立体遊歩道（ハイライン）民間PFI整備法",
   "catchphrase": "高架下や廃線跡を緑の空中散歩道へ、民間資金（Park-PFI）を活用した立体プロムナード整備",
-  "category": "infrastructure",
+  "category": "society",
   "categoryLabel": "国土・交通",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "ウォーカブル",
-      "variant": "positive"
+      "text": "ウォーカブル",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "立体遊歩道",
-      "variant": "positive"
+      "text": "立体遊歩道",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "民間PFI",
-      "variant": "neutral"
+      "text": "民間PFI",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "助成割合",
+      "labelStandard": "助成割合",
+      "labelSimple": "助成割合",
       "value": "建設費最大1/3",
+      "unit": "",
+      "oldValue": "現行",
       "description": "国産木材を使用した立体プロムナード整備を都市再生基金で支援",
+      "descriptionStandard": "助成割合",
+      "descriptionSimple": "助成割合",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "バリアフリー",
+      "labelStandard": "バリアフリー",
+      "labelSimple": "バリアフリー",
       "value": "全拠点スロープ・EV",
+      "unit": "",
+      "oldValue": "現行",
       "description": "車椅子やベビーカーが自由に登下できるエレベーターを完備",
+      "descriptionStandard": "バリアフリー",
+      "descriptionSimple": "バリアフリー",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

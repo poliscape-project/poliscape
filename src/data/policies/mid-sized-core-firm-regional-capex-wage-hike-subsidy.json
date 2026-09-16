@@ -4,7 +4,7 @@
   "catchphrase": "地方経済を牽引する中堅企業を直撃支援。最大50億円の大型設備投資補助で持続的賃上げを実現",
   "category": "economy",
   "categoryLabel": "産業振興・地方経済",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "中堅企業支援",
-      "variant": "purple"
+      "text": "中堅企業支援",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "最大50億円補助",
-      "variant": "blue"
+      "text": "最大50億円補助",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "地方賃上げ",
-      "variant": "green"
+      "text": "地方賃上げ",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "補助金上限額",
+      "label": "補助金上限額",
+      "labelStandard": "補助金上限額",
+      "labelSimple": "補助金上限額",
       "value": "50",
       "unit": "億円/件",
+      "oldValue": "現行",
       "description": "地方中堅企業の大規模先端工場建設・省人化ライン新設に対する1社あたり補助上限額",
-      "trend": "up",
-      "trendLabel": "超大型支援"
+      "descriptionStandard": "補助金上限額",
+      "descriptionSimple": "補助金上限額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "採択企業賃上げ率",
+      "label": "採択企業賃上げ率",
+      "labelStandard": "採択企業賃上げ率",
+      "labelSimple": "採択企業賃上げ率",
       "value": "3.5",
       "unit": "%以上/年",
+      "oldValue": "現行",
       "description": "補助金採択を受けた中堅企業が誓約・達成する従業員平均給与の年次継続引き上げ率",
-      "trend": "up",
-      "trendLabel": "確実な賃上げ"
+      "descriptionStandard": "採択企業賃上げ率",
+      "descriptionSimple": "採択企業賃上げ率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

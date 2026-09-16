@@ -145,62 +145,76 @@
   "badges": [
     {
       "label": "出力制御の多発",
-      "variant": "neutral"
+      "text": "出力制御の多発",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "地域間連系線投資",
-      "variant": "neutral"
+      "text": "地域間連系線投資",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "海底直流送電HVDC",
-      "variant": "neutral"
+      "text": "海底直流送電HVDC",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "制御急増",
+      "label": "",
       "labelStandard": "再エネ出力制御量",
+      "labelSimple": "制御急増",
       "value": "年数十億",
       "unit": "kWh",
       "oldValue": "数年前 ほぼゼロだった",
-      "descriptionSimple": "九州や四国でせっかくの電気が捨てられる",
+      "description": "",
       "descriptionStandard": "九州や四国でせっかくの電気が捨てられる",
+      "descriptionSimple": "九州や四国でせっかくの電気が捨てられる",
       "badge": "制御急増",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "2050年目標",
+      "label": "",
       "labelStandard": "マスタープラン投資額",
+      "labelSimple": "2050年目標",
       "value": "6〜7.9",
       "unit": "兆円規模",
       "oldValue": "これまで 各地域電力ごとの限定投資",
-      "descriptionSimple": "日本列島を結ぶ広域連系線の増強",
+      "description": "",
       "descriptionStandard": "日本列島を結ぶ広域連系線の増強",
+      "descriptionSimple": "日本列島を結ぶ広域連系線の増強",
       "badge": "2050年目標",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Zap"
     },
     {
-      "labelSimple": "海底ケーブル",
+      "label": "",
       "labelStandard": "海底直流送電（HVDC）",
+      "labelSimple": "海底ケーブル",
       "value": "200万",
       "unit": "kW送電",
       "oldValue": "これまで 北海道と本州の連系線不足",
-      "descriptionSimple": "北海道の風力を東京へ運ぶ大動脈",
+      "description": "",
       "descriptionStandard": "北海道の風力を東京へ運ぶ大動脈",
+      "descriptionSimple": "北海道の風力を東京へ運ぶ大動脈",
       "badge": "海底ケーブル",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Layers"
     },
     {
-      "labelSimple": "家計影響",
+      "label": "",
       "labelStandard": "託送料金（国民負担）",
+      "labelSimple": "家計影響",
       "value": "月数百",
       "unit": "円増加",
       "oldValue": "送電網投資は電力会社単独負担",
-      "descriptionSimple": "レベニューキャップ通じた電気代転嫁",
+      "description": "",
       "descriptionStandard": "レベニューキャップ通じた電気代転嫁",
+      "descriptionSimple": "レベニューキャップ通じた電気代転嫁",
       "badge": "家計影響",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Coins"

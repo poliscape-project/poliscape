@@ -1,0 +1,227 @@
+{
+  "id": "tele-icu-remote-intensive-care-network-subsidy",
+  "title": "遠隔集中治療室（Tele-ICU）ネットワーク整備・専門医支援加算",
+  "catchphrase": "地方の集中治療室を先端遠隔医療でつなぎ、救命率向上と集中治療専門医の偏在を解消する",
+  "category": "healthcare",
+  "categoryLabel": "医療・福祉",
+  "lastUpdated": "2026-03-31",
+  "status": "enacted",
+  "statusLabel": "診療報酬改定・運用中",
+  "summary": {
+    "standard": [
+      "集中治療専門医不足に悩む地方の重症患者管理を支援するため、大学病院等の拠点ICUと地方中核病院をリアルタイム生体モニターと高精細カメラで常時接続するネットワークを整備",
+      "遠隔から24時間体制でバイタルデータや人工呼吸器設定を専門医がモニタリングし、現地の当直医・看護師へ助言を行う支援体制を支援",
+      "診療報酬上の遠隔ICU管理加算の新設と通信インフラ導入補助により、地域間医療格差を是正し敗血症等の救命率を底上げ"
+    ],
+    "simple": [
+      "重い病気の患者さんが入る集中治療室（ICU）に、遠くの大学病院の専門医が映像やデータを通じて24時間アドバイスできる仕組みです",
+      "専門のお医者さんが少ない地方の病院でも、大都市と同じ高いレベルの治療を安心して受けられるようになります"
+    ]
+  },
+  "background": {
+    "standard": "国内の集中治療専門医（約2,500名）は大都市圏の大規模病院に集中しており、地方都市の中核病院では非専門の外科医や内科医がICU当直を兼務する過重労働と医療格差が生じていた。米国等で先行するTele-ICUは死亡率低下と在院日数短縮の実績があり、日本でも地域医療構想の要として導入が求められていた。",
+    "simple": "重症患者を診る専門医は都会に多く、地方の病院では医師不足が深刻でした。インターネットで病院同士をつなぐことで、地方でも専門的な治療を受けられるようにしました。"
+  },
+  "changes": [
+    {
+      "id": "change-1",
+      "topic": "地方病院ICUの遠隔専門医支援",
+      "before": "地方のICU当直は専門医以外の医師が単独で判断し、夜間の重変対応に大きな負担と不安があった",
+      "after": "拠点病院の集中治療専門医チームが24時間体制で遠隔モニタリングし即座に治療方針を助言",
+      "highlight": "24時間専門医遠隔バックアップ体制",
+      "icon": "HeartPulse"
+    },
+    {
+      "id": "change-2",
+      "topic": "Tele-ICU診療報酬加算の新設",
+      "before": "遠隔での生体監視や診療支援に対する公的医療保険の評価がなく、設備導入コストが赤字要因だった",
+      "after": "遠隔集中治療管理加算（1日あたり数千点規模）を新設し、通信機器導入費用を最大1/2補助",
+      "highlight": "診療報酬での遠隔管理評価の新設",
+      "icon": "TrendingUp"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される主な効果・メリット（推進側の視点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "重症救命率の向上と格差是正",
+        "summary": "敗血症や多臓器不全など一刻を争う重症患者に対し、専門医の知見を即座に反映して生存率を高められる。",
+        "detail": "敗血症や多臓器不全など一刻を争う重症患者に対し、専門医の知見を即座に反映して生存率を高められる。",
+        "simpleDetail": "難しい重症の病気でも、専門医の適切なアドバイスですぐに治療でき命を救いやすくなります。",
+        "tag": "救命率向上"
+      },
+      {
+        "id": "b2",
+        "title": "地方勤務医の当直負担軽減",
+        "summary": "夜間に専門医のサポートを受けられる安心感により、過酷な地方勤務医のバーンアウトや離職を防げる。",
+        "detail": "夜間に専門医のサポートを受けられる安心感により、過酷な地方勤務医のバーンアウトや離職を防げる。",
+        "simpleDetail": "地方の当直医が一人で悩まずに相談できるため、医師の過労やストレスを減らせます。",
+        "tag": "医師負担軽減"
+      }
+    ],
+    "challengesTitle": "検討されている課題・懸念点（慎重側の視点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "通信途絶リスクと責任分界点",
+        "summary": "システム障害時の緊急対応フローや、遠隔助言医師と現場主治医との法的医療過誤責任の明確化が不可欠。",
+        "detail": "システム障害時の緊急対応フローや、遠隔助言医師と現場主治医との法的医療過誤責任の明確化が不可欠。",
+        "simpleDetail": "ネットが途切れたときの対策や、万一のトラブル時の責任の所在をはっきり決める必要があります。",
+        "tag": "法的責任整理"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023年",
+      "label": "厚労省検討会とりまとめ",
+      "title": "厚労省検討会とりまとめ",
+      "status": "completed",
+      "description": "Tele-ICUガイドラインおよびセキュリティ基準を策定"
+    },
+    {
+      "date": "2024年",
+      "label": "診療報酬改定で加算新設",
+      "title": "診療報酬改定で加算新設",
+      "status": "completed",
+      "description": "遠隔集中治療管理加算が新設され全国のモデル拠点で導入開始"
+    },
+    {
+      "date": "2025年",
+      "label": "広域ネットワーク全国展開",
+      "title": "広域ネットワーク全国展開",
+      "status": "current",
+      "description": "全国の地方中核病院50施設以上で常時接続体制が確立"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "厚生労働省",
+      "title": "遠隔集中治療（Tele-ICU）の推進に関する手引き",
+      "url": "https://www.mhlw.go.jp"
+    },
+    {
+      "organization": "日本集中治療医学会",
+      "title": "Tele-ICU委員会報告書・遠隔医療ガイドライン",
+      "url": "https://www.jsicm.org"
+    }
+  ],
+  "badges": [
+    {
+      "label": "医療DX",
+      "text": "医療DX",
+      "variant": "positive",
+      "color": "blue"
+    },
+    {
+      "label": "集中治療",
+      "text": "集中治療",
+      "variant": "neutral",
+      "color": "blue"
+    },
+    {
+      "label": "医師偏在対策",
+      "text": "医師偏在対策",
+      "variant": "purple",
+      "color": "blue"
+    },
+    {
+      "label": "遠隔医療",
+      "text": "遠隔医療",
+      "variant": "positive",
+      "color": "blue"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "専門医支援",
+      "labelStandard": "専門医支援",
+      "labelSimple": "専門医支援",
+      "value": "24時間",
+      "unit": "体制",
+      "oldValue": "不在",
+      "description": "大学病院の集中治療専門医が地方ICUの生体モニターを常時遠隔監視",
+      "descriptionStandard": "大学病院の集中治療専門医が地方ICUの生体モニターを常時遠隔監視",
+      "descriptionSimple": "大病院の専門医が地方の集中治療室を24時間遠隔サポート",
+      "badge": "常時支援",
+      "badgeColor": "blue",
+      "icon": "HeartPulse"
+    },
+    {
+      "label": "救命率向上",
+      "labelStandard": "救命率向上",
+      "labelSimple": "救命率向上",
+      "value": "約15%",
+      "unit": "改善",
+      "oldValue": "従来水準",
+      "description": "早期の病状変化検知と適切な呼吸循環管理による死亡率低減効果",
+      "descriptionStandard": "早期の病状変化検知と適切な呼吸循環管理による死亡率低減効果",
+      "descriptionSimple": "病気の急な変化を早く見つけることで助かる可能性が大幅アップ",
+      "badge": "実績",
+      "badgeColor": "blue",
+      "icon": "TrendingUp"
+    },
+    {
+      "label": "補助率",
+      "labelStandard": "補助率",
+      "labelSimple": "補助率",
+      "value": "最大1/2",
+      "unit": "補助",
+      "oldValue": "自己負担",
+      "description": "高精細カメラやセキュア通信機器などの導入費用を公費助成",
+      "descriptionStandard": "高精細カメラやセキュア通信機器などの導入費用を公費助成",
+      "descriptionSimple": "カメラや通信設備の設置にかかる費用の最大半分を国が補助",
+      "badge": "公費助成",
+      "badgeColor": "blue",
+      "icon": "FileCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "地方中核病院の若手内科医（30代）",
+        "commentStandard": "夜間に重篤な呼吸不全患者が搬送された際、専門医と画面越しに人工呼吸器の数値を調整でき、患者さんの命を救えました。",
+        "commentSimple": "夜に危ない状態の患者さんが来ても、大病院の専門医にすぐ相談できて本当に助かりました。"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "拠点大学病院の集中治療科教授（50代）",
+        "commentStandard": "遠隔で多くの病院を受け持つ側の専門医の当直負担が過度にならないよう、シフト体制の整備が急務です。",
+        "commentSimple": "アドバイスを送る大病院の先生たちも疲れてしまわないよう、当番の仕組みを整える必要があります。"
+      }
+    ]
+  },
+  "international": {
+    "summary": "米国やオーストラリアなど広大な国土を持つ国で先行し、死亡率低下や医療費削減の確固たるエビデンスが蓄積",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "eICU（Philips社等による遠隔集中治療ハブ網）",
+        "keyFeature": "全米のICU病床の約20%が遠隔監視ハブと接続され、死亡率約20%削減・在院日数短縮を達成。",
+        "comparison": "全米のICU病床の約20%が遠隔監視ハブと接続され、死亡率約20%削減・在院日数短縮を達成。",
+        "source": {
+          "organization": "米集中治療医学会（SCCM）",
+          "title": "Tele-ICUにおけるアウトカム検証報告",
+          "url": "https://www.sccm.org"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "クイーンズランド州Telehealth ICUネットワーク",
+        "keyFeature": "奥地（アウトバック）の地方病院と州都ブリスベンの高度ICUを専用高速回線で結び救命救急を支援。",
+        "comparison": "奥地（アウトバック）の地方病院と州都ブリスベンの高度ICUを専用高速回線で結び救命救急を支援。",
+        "source": {
+          "organization": "クイーンズランド州保健省",
+          "title": "Telehealth Services in Intensive Care",
+          "url": "https://www.health.qld.gov.au"
+        }
+      }
+    ]
+  }
+}

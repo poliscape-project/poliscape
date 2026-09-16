@@ -2,7 +2,7 @@
   "id": "housing-safety-net-act-elderly-single-guarantor-free-rent",
   "title": "住宅セーフティネット法改正（高齢単身者入居支援と家賃債務保証）",
   "catchphrase": "高齢になっても賃貸に住み続けられる社会へ、単身高齢者の入居拒否禁止と公的家賃保証制度",
-  "category": "welfare",
+  "category": "society",
   "categoryLabel": "社会保障・福祉",
   "lastUpdated": "2026-02-10",
   "effectiveDate": "2025年10月施行",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "住宅政策",
-      "variant": "positive"
+      "text": "住宅政策",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "高齢者支援",
-      "variant": "positive"
+      "text": "高齢者支援",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "セーフティネット",
-      "variant": "neutral"
+      "text": "セーフティネット",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "保証人なしでの入居実現",
+      "labelStandard": "保証人なしでの入居実現",
+      "labelSimple": "保証人なしでの入居実現",
       "value": "保証人なしでの入居実現",
+      "unit": "",
+      "oldValue": "現行",
       "description": "公的指定法人が連帯保証人となり身寄りのない高齢者を支援。",
+      "descriptionStandard": "保証人なしでの入居実現",
+      "descriptionSimple": "保証人なしでの入居実現",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Home"
     },
     {
       "label": "孤独死・残置物の公的補償",
+      "labelStandard": "孤独死・残置物の公的補償",
+      "labelSimple": "孤独死・残置物の公的補償",
       "value": "孤独死・残置物の公的補償",
+      "unit": "",
+      "oldValue": "現行",
       "description": "万一の事故時の家財処分や原状回復費用を保険で全額カバー。",
+      "descriptionStandard": "孤独死・残置物の公的補償",
+      "descriptionSimple": "孤独死・残置物の公的補償",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "定期見守りサービスの連動",
+      "labelStandard": "定期見守りサービスの連動",
+      "labelSimple": "定期見守りサービスの連動",
       "value": "定期見守りサービスの連動",
+      "unit": "",
+      "oldValue": "現行",
       "description": "スマートメーターや定期訪問で見守りを行い家主の不安を解消。",
+      "descriptionStandard": "定期見守りサービスの連動",
+      "descriptionSimple": "定期見守りサービスの連動",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

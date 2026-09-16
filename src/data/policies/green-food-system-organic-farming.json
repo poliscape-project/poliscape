@@ -175,62 +175,76 @@
   "badges": [
     {
       "label": "2050年有機農業25%へ",
-      "variant": "neutral"
+      "text": "2050年有機農業25%へ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "化学農薬50%・肥料30%減",
-      "variant": "neutral"
+      "text": "化学農薬50%・肥料30%減",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "みどり認定と設備減税",
-      "variant": "neutral"
+      "text": "みどり認定と設備減税",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "体にやさしい畑の目標",
+      "label": "",
       "labelStandard": "2050年 有機農業割合",
+      "labelSimple": "体にやさしい畑の目標",
       "value": "25",
       "unit": "%（100万ha）",
       "oldValue": "現状の有機比率はわずか約0.6%（2.5万ha）",
-      "descriptionSimple": "2050年までに畑の4分の1を有機に！",
+      "description": "",
       "descriptionStandard": "農地全体の有機比率を約40倍へ拡大する国家目標",
+      "descriptionSimple": "2050年までに畑の4分の1を有機に！",
       "badge": "40倍拡大目標",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Leaf"
     },
     {
-      "labelSimple": "虫よけのお薬をへらす",
+      "label": "",
       "labelStandard": "化学農薬の使用低減",
+      "labelSimple": "虫よけのお薬をへらす",
       "value": "50",
       "unit": "%削減",
       "oldValue": "高温多湿な気候で病害虫防除に農薬依存",
-      "descriptionSimple": "2050年までに化学農薬を半分に！",
+      "description": "",
       "descriptionStandard": "リスク換算で使用量を半減、生態系を回復",
+      "descriptionSimple": "2050年までに化学農薬を半分に！",
       "badge": "農薬50%減",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "外国からの肥料をへらす",
+      "label": "",
       "labelStandard": "化学肥料の使用低減",
+      "labelSimple": "外国からの肥料をへらす",
       "value": "30",
       "unit": "%削減",
       "oldValue": "リン鉱石等の原料はほぼ100%輸入依存",
-      "descriptionSimple": "牛のフンや堆肥（たいひ）を使って自分たちで作る！",
+      "description": "",
       "descriptionStandard": "国内資源循環型農業で海外依存を脱却",
+      "descriptionSimple": "牛のフンや堆肥（たいひ）を使って自分たちで作る！",
       "badge": "肥料30%減",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Trees"
     },
     {
-      "labelSimple": "がんばる農家さんのお墨付き",
+      "label": "",
       "labelStandard": "みどり認定制度",
+      "labelSimple": "がんばる農家さんのお墨付き",
       "value": "税制優遇",
       "unit": "・融資特例",
       "oldValue": "個別環境対策への単発補助のみ",
-      "descriptionSimple": "計画が認められたらトラクターの税金が安く！",
+      "description": "",
       "descriptionStandard": "環境負荷低減計画の認定者に重点的政策支援",
+      "descriptionSimple": "計画が認められたらトラクターの税金が安く！",
       "badge": "みどり認定",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Sparkles"

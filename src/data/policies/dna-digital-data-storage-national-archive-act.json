@@ -2,7 +2,7 @@
   "id": "dna-digital-data-storage-national-archive-act",
   "title": "DNAデータストレージ・国家公文書超長期デジタル保存法",
   "catchphrase": "数千年先まで人類の英知を劣化なしで保存、DNA合成による国家公文書・学術データの超長期保存",
-  "category": "technology",
+  "category": "society",
   "categoryLabel": "テクノロジー・インフラ・通信",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "DNAストレージ",
-      "variant": "positive"
+      "text": "DNAストレージ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "デジタルアーカイブ",
-      "variant": "positive"
+      "text": "デジタルアーカイブ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "フロンティア技術",
-      "variant": "neutral"
+      "text": "フロンティア技術",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "保存期間",
+      "labelStandard": "保存期間",
+      "labelSimple": "保存期間",
       "value": "数千年〜数万年",
+      "unit": "",
+      "oldValue": "現行",
       "description": "磁気テープの寿命（10年）を遥かに超える超長期常温保存",
+      "descriptionStandard": "保存期間",
+      "descriptionSimple": "保存期間",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Database"
     },
     {
       "label": "保管電力",
+      "labelStandard": "保管電力",
+      "labelSimple": "保管電力",
       "value": "0W（無電力）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "電気を一切使わずにデータを維持できる究極のグリーン記憶媒体",
+      "descriptionStandard": "保管電力",
+      "descriptionSimple": "保管電力",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Zap"
     }
   ],

@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "経済安全保障",
-      "variant": "positive"
+      "text": "経済安全保障",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "国家備蓄拡充",
-      "variant": "positive"
+      "text": "国家備蓄拡充",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "投資リスク管理",
-      "variant": "warning"
+      "text": "投資リスク管理",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "指定物資",
+      "labelStandard": "指定物資",
+      "labelSimple": "指定物資",
       "value": "重要鉱物（レアアース等）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "リチウム・ニッケル・コバルト・タングステンなど",
+      "descriptionStandard": "指定物資",
+      "descriptionSimple": "指定物資",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "公的支援",
+      "labelStandard": "公的支援",
+      "labelSimple": "公的支援",
       "value": "出資比率最大75%",
+      "unit": "",
+      "oldValue": "現行",
       "description": "JOGMECによる海外鉱山開発へのリスクマネー供給",
+      "descriptionStandard": "公的支援",
+      "descriptionSimple": "公的支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "柱",
+      "labelStandard": "柱",
+      "labelSimple": "柱",
       "value": "都市鉱山リサイクル",
+      "unit": "",
+      "oldValue": "現行",
       "description": "国内での使用済み蓄電池の再精錬プラント建設助成",
+      "descriptionStandard": "柱",
+      "descriptionSimple": "柱",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

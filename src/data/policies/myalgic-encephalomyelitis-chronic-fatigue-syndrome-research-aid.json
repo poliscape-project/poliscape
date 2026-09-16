@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "重症寝たきり患者割合",
+      "labelStandard": "重症寝たきり患者割合",
+      "labelSimple": "重症寝たきり患者割合",
       "value": "約30",
       "unit": "%（患者実態調査）",
       "oldValue": "軽度疲労との誤認",
       "description": "遮光・静寂環境を要し食事や入浴も介助が必要な最重度患者の存在",
+      "descriptionStandard": "重症寝たきり患者割合",
+      "descriptionSimple": "重症寝たきり患者割合",
       "badge": "重症度解明",
       "badgeColor": "blue",
       "icon": "heart"
     },
     {
       "label": "研究開発投資額",
+      "labelStandard": "研究開発投資額",
+      "labelSimple": "研究開発投資額",
       "value": "年数億",
       "unit": "円規模（重点公費配分）",
       "oldValue": "基礎研究費のみ",
       "description": "AMED等を通じたバイオマーカー特定および創薬標的探索の加速",
+      "descriptionStandard": "研究開発投資額",
+      "descriptionSimple": "研究開発投資額",
       "badge": "国家研究支援",
       "badgeColor": "green",
       "icon": "beaker"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

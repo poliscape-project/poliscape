@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "2030年国内貯留目標",
+      "labelStandard": "2030年国内貯留目標",
+      "labelSimple": "2030年国内貯留目標",
       "value": "600〜1200",
       "unit": "万トン/年",
       "oldValue": "実証レベル",
       "description": "セメント・鉄鋼・化学等の産業排出CO2を大規模商用貯留",
+      "descriptionStandard": "2030年国内貯留目標",
+      "descriptionSimple": "2030年国内貯留目標",
       "badge": "商用化目標",
       "badgeColor": "blue",
       "icon": "trending-up"
     },
     {
       "label": "国内想定貯留可能容量",
+      "labelStandard": "国内想定貯留可能容量",
+      "labelSimple": "国内想定貯留可能容量",
       "value": "約160",
       "unit": "億トン規模",
       "oldValue": "-",
       "description": "日本周辺の沿岸・海底下における十分な貯留ポテンシャルを推計",
+      "descriptionStandard": "国内想定貯留可能容量",
+      "descriptionSimple": "国内想定貯留可能容量",
       "badge": "膨大ポテンシャル",
       "badgeColor": "green",
       "icon": "building-library"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "environment"
 }

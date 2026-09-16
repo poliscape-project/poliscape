@@ -177,62 +177,76 @@
   "badges": [
     {
       "label": "乳牛1頭15万円淘汰補助",
-      "variant": "neutral"
+      "text": "乳牛1頭15万円淘汰補助",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "牛乳廃棄パニック回避",
-      "variant": "neutral"
+      "text": "牛乳廃棄パニック回避",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "飲用乳価の引き上げ",
-      "variant": "neutral"
+      "text": "飲用乳価の引き上げ",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "牛をへらす国のお金",
+      "label": "",
       "labelStandard": "乳牛早期淘汰緊急支援",
+      "labelSimple": "牛をへらす国のお金",
       "value": "1頭 15",
       "unit": "万円",
       "oldValue": "これまで増頭・規模拡大を補助金で奨励",
-      "descriptionSimple": "牛乳が余るのを防ぐため牛を処分する苦しい対策",
+      "description": "",
       "descriptionStandard": "全国4万頭規模の早期淘汰で需給を引き締め",
+      "descriptionSimple": "牛乳が余るのを防ぐため牛を処分する苦しい対策",
       "badge": "早期淘汰補助",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "へらす牛の数",
+      "label": "",
       "labelStandard": "生乳需給調整目標",
+      "labelSimple": "へらす牛の数",
       "value": "約 4",
       "unit": "万頭規模",
       "oldValue": "バター不足を受けた畜産クラスターで増産",
-      "descriptionSimple": "牛乳をドバドバ捨てる事態を絶対に防ぐ！",
+      "description": "",
       "descriptionStandard": "生乳廃棄パニックを回避するための緊急枠",
+      "descriptionSimple": "牛乳をドバドバ捨てる事態を絶対に防ぐ！",
       "badge": "頭数削減",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Scale"
     },
     {
-      "labelSimple": "牛乳のねだん値上げ",
+      "label": "",
       "labelStandard": "飲用乳価の店頭反映",
+      "labelSimple": "牛乳のねだん値上げ",
       "value": "+10〜20",
       "unit": "円/本 値上げ",
       "oldValue": "スーパーの特売目玉として安売り",
-      "descriptionSimple": "酪農家さんを助けるため少し高くなった牛乳",
+      "description": "",
       "descriptionStandard": "コスト高騰を正当に反映する適正価格への転嫁",
+      "descriptionSimple": "酪農家さんを助けるため少し高くなった牛乳",
       "badge": "乳価転嫁",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "TrendingUp"
     },
     {
-      "labelSimple": "牛のごはん代の割合",
+      "label": "",
       "labelStandard": "酪農生産費に占める飼料費",
+      "labelSimple": "牛のごはん代の割合",
       "value": "約 50〜60",
       "unit": "%",
       "oldValue": "平時のエサ代は現在の約6割程度",
-      "descriptionSimple": "牛乳を作れば作るほど赤字になる原因！",
+      "description": "",
       "descriptionStandard": "輸入配合飼料の記録的高騰が酪農経営を直撃",
+      "descriptionSimple": "牛乳を作れば作るほど赤字になる原因！",
       "badge": "飼料費高騰",
       "badgeColor": "bg-slate-100 text-slate-700",
       "icon": "Wallet"

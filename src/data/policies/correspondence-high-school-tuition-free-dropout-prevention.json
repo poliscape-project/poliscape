@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "授業料実質負担",
+      "labelStandard": "授業料実質負担",
+      "labelSimple": "授業料実質負担",
       "value": "0",
       "unit": "円（年収約910万円未満世帯）",
       "oldValue": "年間数十万円の自己負担",
       "description": "就学支援金単位単価の満額受給により授業料実質完全無償化",
+      "descriptionStandard": "授業料実質負担",
+      "descriptionSimple": "授業料実質負担",
       "badge": "学費実質ゼロ",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "通信制高校卒業率",
+      "labelStandard": "通信制高校卒業率",
+      "labelSimple": "通信制高校卒業率",
       "value": "約80〜85",
       "unit": "%（改善傾向）",
       "oldValue": "中退率が約10〜15%存在",
       "description": "メンター制度とオンライン伴走による中途退学の大幅防止",
+      "descriptionStandard": "通信制高校卒業率",
+      "descriptionSimple": "通信制高校卒業率",
       "badge": "卒業率改善",
       "badgeColor": "blue",
       "icon": "academic-cap"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

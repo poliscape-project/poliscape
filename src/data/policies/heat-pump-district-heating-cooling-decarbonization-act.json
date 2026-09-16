@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "地域熱供給",
-      "variant": "positive"
+      "text": "地域熱供給",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ヒートポンプ",
-      "variant": "positive"
+      "text": "ヒートポンプ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "下水熱利用",
-      "variant": "neutral"
+      "text": "下水熱利用",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "捨てられていた熱を回収",
+      "labelStandard": "捨てられていた熱を回収",
+      "labelSimple": "捨てられていた熱を回収",
       "value": "捨てられていた熱を回収",
+      "unit": "",
+      "oldValue": "現行",
       "description": "冬でも温かい下水の熱をヒートポンプで汲み上げビル全体の暖房に活用。",
+      "descriptionStandard": "捨てられていた熱を回収",
+      "descriptionSimple": "捨てられていた熱を回収",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "化石燃料輸入の削減",
+      "labelStandard": "化石燃料輸入の削減",
+      "labelSimple": "化石燃料輸入の削減",
       "value": "化石燃料輸入の削減",
+      "unit": "",
+      "oldValue": "現行",
       "description": "天然ガス・重油依存の都市給湯をクリーン電力熱源へ転換。",
+      "descriptionStandard": "化石燃料輸入の削減",
+      "descriptionSimple": "化石燃料輸入の削減",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "再エネ余剰電力の蓄熱",
+      "labelStandard": "再エネ余剰電力の蓄熱",
+      "labelSimple": "再エネ余剰電力の蓄熱",
       "value": "再エネ余剰電力の蓄熱",
+      "unit": "",
+      "oldValue": "現行",
       "description": "昼間の太陽光余剰電力を熱に変えて巨大蓄熱槽に貯蔵するスマート熱網。",
+      "descriptionStandard": "再エネ余剰電力の蓄熱",
+      "descriptionSimple": "再エネ余剰電力の蓄熱",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

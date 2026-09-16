@@ -145,62 +145,76 @@
   "badges": [
     {
       "label": "不同意性交等罪の施行",
-      "variant": "neutral"
+      "text": "不同意性交等罪の施行",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "性的同意年齢16歳へ",
-      "variant": "neutral"
+      "text": "性的同意年齢16歳へ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "盗撮処罰法（撮影罪）新設",
-      "variant": "neutral"
+      "text": "盗撮処罰法（撮影罪）新設",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "歴史的改正",
+      "label": "",
       "labelStandard": "明治以来の法律改正",
+      "labelSimple": "歴史的改正",
       "value": "116",
       "unit": "年ぶり抜本改正",
       "oldValue": "1907年制定「強制性交等罪（旧強姦罪）」",
-      "descriptionSimple": "「暴行・脅迫」から「不同意」への要件転換",
+      "description": "",
       "descriptionStandard": "「暴行・脅迫」から「不同意」への要件転換",
+      "descriptionSimple": "「暴行・脅迫」から「不同意」への要件転換",
       "badge": "歴史的改正",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Scale"
     },
     {
-      "labelSimple": "同意年齢16歳",
+      "label": "",
       "labelStandard": "性交同意年齢の引き上げ",
+      "labelSimple": "同意年齢16歳",
       "value": "16",
       "unit": "歳未満禁止",
       "oldValue": "明治時代に決まった「13歳以上」",
-      "descriptionSimple": "中学生等への大人の性的搾取を厳罰化",
+      "description": "",
       "descriptionStandard": "中学生等への大人の性的搾取を厳罰化",
+      "descriptionSimple": "中学生等への大人の性的搾取を厳罰化",
       "badge": "同意年齢16歳",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "「撮影罪」新設",
+      "label": "",
       "labelStandard": "盗撮に対する新法創設",
+      "labelSimple": "「撮影罪」新設",
       "value": "性的姿態",
       "unit": "撮影処罰法",
       "oldValue": "各自治体の迷惑防止条例に依存",
-      "descriptionSimple": "アスリートや下着の盗撮・所持を国法で処罰",
+      "description": "",
       "descriptionStandard": "アスリートや下着の盗撮・所持を国法で処罰",
+      "descriptionSimple": "アスリートや下着の盗撮・所持を国法で処罰",
       "badge": "「撮影罪」新設",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "厳罰化",
+      "label": "",
       "labelStandard": "法定刑の上限",
+      "labelSimple": "厳罰化",
       "value": "拘禁刑 15",
       "unit": "年まで",
       "oldValue": "懲役5年以上（旧強制性交罪）",
-      "descriptionSimple": "恐怖によるフリーズや上下関係の悪用を処罰",
+      "description": "",
       "descriptionStandard": "恐怖によるフリーズや上下関係の悪用を処罰",
+      "descriptionSimple": "恐怖によるフリーズや上下関係の悪用を処罰",
       "badge": "厳罰化",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Activity"

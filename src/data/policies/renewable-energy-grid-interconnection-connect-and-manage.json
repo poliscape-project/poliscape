@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "再エネ送電網",
-      "variant": "positive"
+      "text": "再エネ送電網",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "電力DX",
-      "variant": "positive"
+      "text": "電力DX",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "系統蓄電池",
-      "variant": "neutral"
+      "text": "系統蓄電池",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "既存送電線の空き容量倍増",
+      "labelStandard": "既存送電線の空き容量倍増",
+      "labelSimple": "既存送電線の空き容量倍増",
       "value": "既存送電線の空き容量倍増",
+      "unit": "",
+      "oldValue": "現行",
       "description": "混雑時のみ絞るノンファーム接続で数千万kWの再エネを即座に連系。",
+      "descriptionStandard": "既存送電線の空き容量倍増",
+      "descriptionSimple": "既存送電線の空き容量倍増",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "AI自動出力制御DX",
+      "labelStandard": "AI自動出力制御DX",
+      "labelSimple": "AI自動出力制御DX",
       "value": "AI自動出力制御DX",
+      "unit": "",
+      "oldValue": "現行",
       "description": "気象予測と電力需要に合わせ1分単位で最適な給電指令を自動化。",
+      "descriptionStandard": "AI自動出力制御DX",
+      "descriptionSimple": "AI自動出力制御DX",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "系統用大型蓄電池の導入",
+      "labelStandard": "系統用大型蓄電池の導入",
+      "labelSimple": "系統用大型蓄電池の導入",
       "value": "系統用大型蓄電池の導入",
+      "unit": "",
+      "oldValue": "現行",
       "description": "余った再エネ電力を巨大バッテリーに貯めて夜間ピーク時に放電。",
+      "descriptionStandard": "系統用大型蓄電池の導入",
+      "descriptionSimple": "系統用大型蓄電池の導入",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

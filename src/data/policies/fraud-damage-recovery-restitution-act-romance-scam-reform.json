@@ -1,8 +1,8 @@
 {
   "id": "fraud-damage-recovery-restitution-act-romance-scam-reform",
   "title": "犯罪被害財産等支給法（被害回復給付金）のSNS投資詐欺・ロマンス詐欺への適用拡大",
-  "category": "governance-reform",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "SNSやマッチングアプリを悪用した「SNS型投資詐欺」や「国際ロマンス詐欺」による壊滅的な被害（年間被害額1,000億円超）から被害者の財産を救済するため、犯罪被害財産等支給法の適用要件を抜本的に緩和・拡大する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "詐欺被害救済",
-      "variant": "purple"
+      "text": "詐欺被害救済",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "治安・司法",
-      "variant": "blue"
+      "text": "治安・司法",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "トクリュウ対策",
-      "variant": "green"
+      "text": "トクリュウ対策",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "年間推計被害総額",
+      "label": "年間推計被害総額",
+      "labelStandard": "年間推計被害総額",
+      "labelSimple": "年間推計被害総額",
       "value": "1,000",
       "unit": "億円超",
+      "oldValue": "現行",
       "description": "SNS型投資詐欺・ロマンス詐欺による全国の年間被害規模（特殊詐欺の2倍超）",
-      "trend": "up",
-      "trendLabel": "史上最悪水準"
+      "descriptionStandard": "年間推計被害総額",
+      "descriptionSimple": "年間推計被害総額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "資産凍結・給付期間",
+      "label": "資産凍結・給付期間",
+      "labelStandard": "資産凍結・給付期間",
+      "labelSimple": "資産凍結・給付期間",
       "value": "60",
       "unit": "%短縮",
+      "oldValue": "現行",
       "description": "法改正による口座凍結から被害者への被害回復給付金支給までの所要期間短縮",
-      "trend": "down",
-      "trendLabel": "返還迅速化"
+      "descriptionStandard": "資産凍結・給付期間",
+      "descriptionSimple": "資産凍結・給付期間",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

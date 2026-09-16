@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "衣料廃棄禁止",
-      "variant": "positive"
+      "text": "衣料廃棄禁止",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "サステナブル",
-      "variant": "positive"
+      "text": "サステナブル",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "循環経済",
-      "variant": "neutral"
+      "text": "循環経済",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "廃棄規制",
+      "labelStandard": "廃棄規制",
+      "labelSimple": "廃棄規制",
       "value": "新品焼却・埋立禁止",
+      "unit": "",
+      "oldValue": "現行",
       "description": "売れ残った新品衣料品の焼却処分を法的に完全禁止",
+      "descriptionStandard": "廃棄規制",
+      "descriptionSimple": "廃棄規制",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "義務措置",
+      "labelStandard": "義務措置",
+      "labelSimple": "義務措置",
       "value": "寄付または繊維再生",
+      "unit": "",
+      "oldValue": "現行",
       "description": "生活困窮者への寄付やケミカルリサイクルを義務化",
+      "descriptionStandard": "義務措置",
+      "descriptionSimple": "義務措置",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Heart"
     }
   ],

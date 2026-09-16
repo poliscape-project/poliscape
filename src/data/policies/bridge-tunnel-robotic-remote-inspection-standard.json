@@ -2,7 +2,7 @@
   "id": "bridge-tunnel-robotic-remote-inspection-standard",
   "title": "道路橋・トンネルインフラAIロボット打音検査・目視代替認可法",
   "catchphrase": "老朽インフラの総崩れを防ぐ、AIドローン・ロボット打音検査の公的認可と定期点検DX",
-  "category": "infrastructure",
+  "category": "society",
   "categoryLabel": "国土・交通",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "インフラ老朽化",
-      "variant": "positive"
+      "text": "インフラ老朽化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ドローン点検",
-      "variant": "positive"
+      "text": "ドローン点検",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "建設DX",
-      "variant": "neutral"
+      "text": "建設DX",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "点検費用",
+      "labelStandard": "点検費用",
+      "labelSimple": "点検費用",
       "value": "約30〜50%削減",
+      "unit": "",
+      "oldValue": "現行",
       "description": "仮設足場や交通規制を排除し自治体の点検コストを半減",
+      "descriptionStandard": "点検費用",
+      "descriptionSimple": "点検費用",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingDown"
     },
     {
       "label": "代替基準",
+      "labelStandard": "代替基準",
+      "labelSimple": "代替基準",
       "value": "近接目視・打音同等",
+      "unit": "",
+      "oldValue": "現行",
       "description": "AI高解像度解析と音響スペクトル解析による公的性能認定",
+      "descriptionStandard": "代替基準",
+      "descriptionSimple": "代替基準",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

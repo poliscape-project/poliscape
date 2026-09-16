@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "無縁社会対策",
-      "variant": "positive"
+      "text": "無縁社会対策",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "自治体負担軽減",
-      "variant": "positive"
+      "text": "自治体負担軽減",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "公衆衛生",
-      "variant": "neutral"
+      "text": "公衆衛生",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "預金の直接清算",
+      "labelStandard": "預金の直接清算",
+      "labelSimple": "預金の直接清算",
       "value": "家裁手続き不要へ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "本人の口座から火葬・埋葬実費を金融機関が自治体に直接還付",
+      "descriptionStandard": "預金の直接清算",
+      "descriptionSimple": "預金の直接清算",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "安置期間の適正化",
+      "labelStandard": "安置期間の適正化",
+      "labelSimple": "安置期間の適正化",
       "value": "数週間で火葬へ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "何カ月も放置される非人道的状況をなくし速やかな尊厳の回復",
+      "descriptionStandard": "安置期間の適正化",
+      "descriptionSimple": "安置期間の適正化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

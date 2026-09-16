@@ -4,7 +4,7 @@
   "catchphrase": "認知症になっても地域で尊厳ある暮らしを。初期集中支援チームの24時間相談と徘徊SOS全国網",
   "category": "healthcare",
   "categoryLabel": "高齢者保健・認知症共生",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "認知症基本法",
-      "variant": "purple"
+      "text": "認知症基本法",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "初期集中支援",
-      "variant": "blue"
+      "text": "初期集中支援",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "見守りSOS",
-      "variant": "green"
+      "text": "見守りSOS",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "チーム設置自治体率",
+      "label": "チーム設置自治体率",
+      "labelStandard": "チーム設置自治体率",
+      "labelSimple": "チーム設置自治体率",
       "value": "100",
       "unit": "%（全国必置）",
+      "oldValue": "現行",
       "description": "全国すべての市区町村における認知症初期集中支援チームの設置及び実稼働率",
-      "trend": "up",
-      "trendLabel": "全自治体配備"
+      "descriptionStandard": "チーム設置自治体率",
+      "descriptionSimple": "チーム設置自治体率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "行方不明者早期発見率",
+      "label": "行方不明者早期発見率",
+      "labelStandard": "行方不明者早期発見率",
+      "labelSimple": "行方不明者早期発見率",
       "value": "99.2",
       "unit": "%",
+      "oldValue": "現行",
       "description": "ビーコン・見守りネットワーク導入自治体における徘徊発生から24時間以内の無事保護率",
-      "trend": "up",
-      "trendLabel": "迅速保護"
+      "descriptionStandard": "行方不明者早期発見率",
+      "descriptionSimple": "行方不明者早期発見率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

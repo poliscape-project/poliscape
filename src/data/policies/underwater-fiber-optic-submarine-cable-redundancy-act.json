@@ -2,7 +2,7 @@
   "id": "underwater-fiber-optic-submarine-cable-redundancy-act",
   "title": "国際海底光ケーブル日本海迂回・多重分散陸揚げ拠点法",
   "catchphrase": "通信遮断の国家危機を防ぐ、太平洋側に集中する海底ケーブルの日本海・地方分散化",
-  "category": "technology",
+  "category": "society",
   "categoryLabel": "テクノロジー・インフラ・通信",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "通信インフラ",
-      "variant": "positive"
+      "text": "通信インフラ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "経済安全保障",
-      "variant": "positive"
+      "text": "経済安全保障",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "防災強靱化",
-      "variant": "neutral"
+      "text": "防災強靱化",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "助成割合",
+      "labelStandard": "助成割合",
+      "labelSimple": "助成割合",
       "value": "建設費最大50%",
+      "unit": "",
+      "oldValue": "現行",
       "description": "日本海側や地方への国際陸揚げ局新設費用を国が半額補助",
+      "descriptionStandard": "助成割合",
+      "descriptionSimple": "助成割合",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Radio"
     },
     {
       "label": "防護基準",
+      "labelStandard": "防護基準",
+      "labelSimple": "防護基準",
       "value": "海上保安庁24時間監視",
+      "unit": "",
+      "oldValue": "現行",
       "description": "重要海底ケーブル敷設海域への哨戒体制と切断厳罰化",
+      "descriptionStandard": "防護基準",
+      "descriptionSimple": "防護基準",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

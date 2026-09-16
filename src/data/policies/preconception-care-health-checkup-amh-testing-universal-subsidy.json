@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "検査費用助成額",
+      "labelStandard": "検査費用助成額",
+      "labelSimple": "検査費用助成額",
       "value": "最大3〜5",
       "unit": "万円（自治体補助）",
       "oldValue": "全額自己負担（自由診療）",
       "description": "AMH検査・超音波検査・精液検査等の費用を公費助成",
+      "descriptionStandard": "検査費用助成額",
+      "descriptionSimple": "検査費用助成額",
       "badge": "公費大幅助成",
       "badgeColor": "blue",
       "icon": "currency-yen"
     },
     {
       "label": "男性検査受診率",
+      "labelStandard": "男性検査受診率",
+      "labelSimple": "男性検査受診率",
       "value": "約30",
       "unit": "%（カップル受診等）",
       "oldValue": "数パーセント未満",
       "description": "男性不妊検査の助成対象化により男性の受診意識が大幅向上",
+      "descriptionStandard": "男性検査受診率",
+      "descriptionSimple": "男性検査受診率",
       "badge": "男性参加向上",
       "badgeColor": "green",
       "icon": "user-group"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

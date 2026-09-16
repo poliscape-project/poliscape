@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "教育格差是正",
-      "variant": "positive"
+      "text": "教育格差是正",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "財源確保が鍵",
-      "variant": "warning"
+      "text": "財源確保が鍵",
+      "variant": "warning",
+      "color": "blue"
     },
     {
       "label": "議論継続中",
-      "variant": "neutral"
+      "text": "議論継続中",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "出生時公的付与",
+      "labelStandard": "出生時公的付与",
+      "labelSimple": "出生時公的付与",
       "value": "成人時の自立資金",
+      "unit": "",
+      "oldValue": "現行",
       "description": "生まれによる格差を解消するための長期積立",
+      "descriptionStandard": "出生時公的付与",
+      "descriptionSimple": "出生時公的付与",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Baby"
     },
     {
       "label": "対象者",
+      "labelStandard": "対象者",
+      "labelSimple": "対象者",
       "value": "すべての子ども",
+      "unit": "",
+      "oldValue": "現行",
       "description": "所得制限の有無や傾斜配分を現在検討中",
+      "descriptionStandard": "対象者",
+      "descriptionSimple": "対象者",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "受給開始時期",
+      "labelStandard": "受給開始時期",
+      "labelSimple": "受給開始時期",
       "value": "満18歳到達時",
+      "unit": "",
+      "oldValue": "現行",
       "description": "高等教育費や起業、キャリアアップ資金に限定",
+      "descriptionStandard": "受給開始時期",
+      "descriptionSimple": "受給開始時期",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

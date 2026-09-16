@@ -1,0 +1,264 @@
+{
+  "id": "correctional-facility-digital-skills-vocational-training",
+  "title": "刑務所・少年刑務所におけるデジタルスキル・IT資格職業訓練導入",
+  "category": "society",
+  "subcategory": "更生保護・矯正教育・就労支援",
+  "catchphrase": "服役を学びの機会へ！刑務所でのプログラミング・CAD・WEB制作訓練による出所後のIT就労支援",
+  "lastUpdated": "2026-03-28",
+  "status": "enacted",
+  "statusLabel": "モデル施設展開中",
+  "summary": {
+    "simple": [
+      "刑務所に入っている受刑者や少年刑務所の若者に、パソコンの操作やプログラミング、CAD（図面作成）などのITスキルを教え、出所後に正社員として就職できるようにする取り組みです。",
+      "わかりやすい支援を進めます。"
+    ],
+    "standard": [
+      "受刑者の再犯防止と円滑な社会復帰を図るため、従来の木工・印刷・金属加工中心だった刑務作業・職業訓練体系を見直し、インターネット遮断下のセキュアなPC環境でプログラミング、CAD製図、ウェブデザイン、データ入力等のデジタルスキルを習得させる先端矯正教育プログラム。",
+      "服役を学びの機会へ！刑務所でのプログラミング・CAD・WEB制作訓練による出所後のIT就労支援"
+    ]
+  },
+  "background": {
+    "simple": "出所しても仕事が見つからず生活に困って再び犯罪に手を染めてしまう人が多いため、人手不足で給料の良いIT関連の技能を身につけさせることが重要視されています。",
+    "standard": "再犯者の約7割が無職であり、安定した就労先の確保が再犯防止の最大の鍵とされる。現代の産業界で需要が急増するIT・デジタル分野の職種へのマッチングを目指し、民間IT企業と提携した実践的なカリキュラムと資格取得（ITパスポートやCAD利用技術者）の支援が開始された。"
+  },
+  "changes": [
+    {
+      "id": "change-1",
+      "topic": "全国の主要刑務所・少年刑務所へのセキュアなオフライ...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "全国の主要刑務所・少年刑務所へのセキュアなオフライン型IT職業訓練専用PCルームの設置",
+      "highlight": "全国の主要刑務所・少年刑務所へのセキュアなオフライン型IT職",
+      "icon": "FileCheck"
+    },
+    {
+      "id": "change-2",
+      "topic": "Pythonプログラミング、HTML/CSSコーデ...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "Pythonプログラミング、HTML/CSSコーディング、2D/3D-CAD製図等の実践的カリキュラムの導入",
+      "highlight": "Pythonプログラミング、HTML/CSSコーディング、2",
+      "icon": "TrendingUp"
+    },
+    {
+      "id": "change-3",
+      "topic": "出所予定者とIT・建設設計・デジタルBPO分野の協...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "出所予定者とIT・建設設計・デジタルBPO分野の協力雇用主を結ぶオンライン就職面接会の開催",
+      "highlight": "出所予定者とIT・建設設計・デジタルBPO分野の協力雇用主を",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される主な効果・メリット（推進側の視点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "需要の高いデジタル技術を身につけることで、出所後の...",
+        "summary": "需要の高いデジタル技術を身につけることで、出所後の正社員採用率や初任給水準が向上し再犯リスクが激減",
+        "detail": "需要の高いデジタル技術を身につけることで、出所後の正社員採用率や初任給水準が向上し再犯リスクが激減",
+        "simpleDetail": "需要の高いデジタル技術を身につけることで、出所後の正社員採用率や初任給水準が向上し再犯リスクが激減",
+        "tag": "期待・効果"
+      },
+      {
+        "id": "b2",
+        "title": "受刑者が「社会に求められる有用な技能を学んでいる」...",
+        "summary": "受刑者が「社会に求められる有用な技能を学んでいる」という自尊心と就労意欲を回復できる",
+        "detail": "受刑者が「社会に求められる有用な技能を学んでいる」という自尊心と就労意欲を回復できる",
+        "simpleDetail": "受刑者が「社会に求められる有用な技能を学んでいる」という自尊心と就労意欲を回復できる",
+        "tag": "期待・効果"
+      },
+      {
+        "id": "b3",
+        "title": "人手不足に悩む中小IT企業や設計事務所にとっても、...",
+        "summary": "人手不足に悩む中小IT企業や設計事務所にとっても、即戦力候補となる若年・中年技術者の採用パイプラインが開拓される",
+        "detail": "人手不足に悩む中小IT企業や設計事務所にとっても、即戦力候補となる若年・中年技術者の採用パイプラインが開拓される",
+        "simpleDetail": "人手不足に悩む中小IT企業や設計事務所にとっても、即戦力候補となる若年・中年技術者の採用パイプラインが開拓される",
+        "tag": "期待・効果"
+      }
+    ],
+    "challengesTitle": "検討されている課題・懸念点（慎重側の視点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "受刑者がPCを用いて外部と不正通信したり、サイバー...",
+        "summary": "受刑者がPCを用いて外部と不正通信したり、サイバー犯罪技術（クラッキング）を悪用したりしない厳重なセキュリティ管理",
+        "detail": "受刑者がPCを用いて外部と不正通信したり、サイバー犯罪技術（クラッキング）を悪用したりしない厳重なセキュリティ管理",
+        "simpleDetail": "受刑者がPCを用いて外部と不正通信したり、サイバー犯罪技術（クラッキング）を悪用したりしない厳重なセキュリティ管理",
+        "tag": "課題・懸念"
+      },
+      {
+        "id": "c2",
+        "title": "高度なITスキルを教えられる専門講師を刑務所内に確...",
+        "summary": "高度なITスキルを教えられる専門講師を刑務所内に確保・派遣するコストと民間連携の継続性",
+        "detail": "高度なITスキルを教えられる専門講師を刑務所内に確保・派遣するコストと民間連携の継続性",
+        "simpleDetail": "高度なITスキルを教えられる専門講師を刑務所内に確保・派遣するコストと民間連携の継続性",
+        "tag": "課題・懸念"
+      },
+      {
+        "id": "c3",
+        "title": "「受刑者に税金で高価なPC教育を受けさせるのか」と...",
+        "summary": "「受刑者に税金で高価なPC教育を受けさせるのか」という一部世論の不公平感への理解促進",
+        "detail": "「受刑者に税金で高価なPC教育を受けさせるのか」という一部世論の不公平感への理解促進",
+        "simpleDetail": "「受刑者に税金で高価なPC教育を受けさせるのか」という一部世論の不公平感への理解促進",
+        "tag": "課題・懸念"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2021年",
+      "label": "法務省矯正局において受刑者向けITスキル訓練のモデ...",
+      "title": "法務省矯正局において受刑者向けITスキル訓練のモデル事業開始",
+      "status": "completed",
+      "description": "法務省矯正局において受刑者向けITスキル訓練のモデル事業開始"
+    },
+    {
+      "date": "2023年",
+      "label": "少年刑務所・女性刑務所等へのプログラミング・CAD...",
+      "title": "少年刑務所・女性刑務所等へのプログラミング・CAD訓練枠の拡大",
+      "status": "completed",
+      "description": "少年刑務所・女性刑務所等へのプログラミング・CAD訓練枠の拡大"
+    },
+    {
+      "date": "2026年",
+      "label": "全国主要10管区の矯正施設でのデジタル職業訓練の常...",
+      "title": "全国主要10管区の矯正施設でのデジタル職業訓練の常設化と資格試験会場認定",
+      "status": "current",
+      "description": "全国主要10管区の矯正施設でのデジタル職業訓練の常設化と資格試験会場認定"
+    }
+  ],
+  "sources": [
+    {
+      "title": "法務省矯正局：刑務所における職業訓練の取組とデジタル人材育成",
+      "url": "https://www.moj.go.jp/kyousei1/kyousei05_00008.html"
+    },
+    {
+      "title": "法務省：再犯防止推進計画における就労支援・職業訓練の強化",
+      "url": "https://www.moj.go.jp/hogo1/soumu/hogo_hogo01.html"
+    }
+  ],
+  "badges": [
+    {
+      "label": "矯正教育",
+      "text": "矯正教育",
+      "variant": "primary",
+      "color": "blue"
+    },
+    {
+      "label": "デジタル就労",
+      "text": "デジタル就労",
+      "variant": "default",
+      "color": "blue"
+    },
+    {
+      "label": "再犯防止",
+      "text": "再犯防止",
+      "variant": "outline",
+      "color": "blue"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "訓練科目",
+      "labelStandard": "訓練科目",
+      "labelSimple": "訓練科目",
+      "value": "プログラミング・CAD等",
+      "unit": "（需要の高い実務技術）",
+      "oldValue": "現行",
+      "description": "訓練科目",
+      "descriptionStandard": "訓練科目",
+      "descriptionSimple": "訓練科目",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
+    },
+    {
+      "label": "資格取得",
+      "labelStandard": "資格取得",
+      "labelSimple": "資格取得",
+      "value": "公的IT資格対応",
+      "unit": "（ITパスポート等）",
+      "oldValue": "現行",
+      "description": "資格取得",
+      "descriptionStandard": "資格取得",
+      "descriptionSimple": "資格取得",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
+    },
+    {
+      "label": "環境設計",
+      "labelStandard": "環境設計",
+      "labelSimple": "環境設計",
+      "value": "完全隔離セキュアPC",
+      "unit": "（不正通信遮断設計）",
+      "oldValue": "現行",
+      "description": "環境設計",
+      "descriptionStandard": "環境設計",
+      "descriptionSimple": "環境設計",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "TrendingUp"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "推進派・利用者の声",
+        "commentStandard": "早期の実装を期待しています。",
+        "commentSimple": "期待しています。"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "専門家・現場の声",
+        "commentStandard": "現場への丁寧な配慮が必要です。",
+        "commentSimple": "課題への配慮が必要です。"
+      }
+    ]
+  },
+  "international": {
+    "summary": "海外主要国における関連施策の比較と最新動向",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "アメリカの関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "アメリカ関係公的機関",
+          "title": "アメリカにおける制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      },
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "フィンランドの関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "フィンランド関係公的機関",
+          "title": "フィンランドにおける制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "UK",
+        "flag": "🇬🇧",
+        "systemName": "イギリスの関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "イギリス関係公的機関",
+          "title": "イギリスにおける制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      }
+    ]
+  },
+  "categoryLabel": "法務・治安"
+}

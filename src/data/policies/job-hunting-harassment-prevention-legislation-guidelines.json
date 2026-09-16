@@ -155,50 +155,62 @@
   "badges": [
     {
       "label": "求職者を法律の保護対象へ",
-      "variant": "neutral"
+      "text": "求職者を法律の保護対象へ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "OB訪問の密室面談禁止",
-      "variant": "neutral"
+      "text": "OB訪問の密室面談禁止",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "相談窓口の設置義務化",
-      "variant": "neutral"
+      "text": "相談窓口の設置義務化",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "就活生の被害経験率",
+      "label": "",
       "labelStandard": "就活ハラスメント経験割合",
+      "labelSimple": "就活生の被害経験率",
       "value": "4人に1人",
       "unit": "（政府実態調査）",
       "oldValue": "被害の実態が不可視化",
-      "descriptionSimple": "大学生の約25%が性的な発言や威迫などの被害に遭っている！",
+      "description": "",
       "descriptionStandard": "面接官やOBによる優越的地位の濫用が広範に存在することを把握",
+      "descriptionSimple": "大学生の約25%が性的な発言や威迫などの被害に遭っている！",
       "badge": "深刻な実態",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "法律の保護対象",
+      "label": "",
       "labelStandard": "防止義務の適用範囲",
+      "labelSimple": "法律の保護対象",
       "value": "学生も含む",
       "unit": "（求職者全般）",
       "oldValue": "自社の正社員・契約社員のみ",
-      "descriptionSimple": "内定前・入社前の就活生も法律で守られるように拡大！",
+      "description": "",
       "descriptionStandard": "労働契約関係のない採用選考応募者を防止措置義務の保護対象に明記",
+      "descriptionSimple": "内定前・入社前の就活生も法律で守られるように拡大！",
       "badge": "法の空白解消",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "夜のお酒の席でのOB訪問",
+      "label": "",
       "labelStandard": "OB・OG訪問の企業管理責任",
+      "labelSimple": "夜のお酒の席でのOB訪問",
       "value": "原則禁止",
       "unit": "（オンライン・社内推奨）",
       "oldValue": "社員個人の裁量・放置",
-      "descriptionSimple": "密室や深夜の面談を禁止し会社が把握するルールに！",
+      "description": "",
       "descriptionStandard": "企業公認手続きと密室回避のガイドライン遵守を社内義務化",
+      "descriptionSimple": "密室や深夜の面談を禁止し会社が把握するルールに！",
       "badge": "ルール厳格化",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Users"

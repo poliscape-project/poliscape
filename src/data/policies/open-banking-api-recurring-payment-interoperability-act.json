@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "接続手数料低減率",
+      "labelStandard": "接続手数料低減率",
+      "labelSimple": "接続手数料低減率",
       "value": "70",
       "unit": "%減（平均）",
       "oldValue": "個別高額課金",
       "description": "原価ベースの上限規制によりFinTechのAPI接続コストを大幅圧縮",
+      "descriptionStandard": "接続手数料低減率",
+      "descriptionSimple": "接続手数料低減率",
       "badge": "手数料引き下げ",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "標準API対応銀行率",
+      "labelStandard": "標準API対応銀行率",
+      "labelSimple": "標準API対応銀行率",
       "value": "98",
       "unit": "%超",
       "oldValue": "バラバラの独自仕様",
       "description": "全国のメガバンク・地銀・信金のほぼ全行が統一APIへ移行完了",
+      "descriptionStandard": "標準API対応銀行率",
+      "descriptionSimple": "標準API対応銀行率",
       "badge": "全国標準化",
       "badgeColor": "blue",
       "icon": "cpu"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "風力発電",
-      "variant": "positive"
+      "text": "風力発電",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "低周波音",
-      "variant": "positive"
+      "text": "低周波音",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "環境基準",
-      "variant": "neutral"
+      "text": "環境基準",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "住宅から1km以上の距離",
+      "labelStandard": "住宅から1km以上の距離",
+      "labelSimple": "住宅から1km以上の距離",
       "value": "住宅から1km以上の距離",
+      "unit": "",
+      "oldValue": "現行",
       "description": "巨大風車と民家の間に十分な距離を確保させ圧迫感と騒音を防止。",
+      "descriptionStandard": "住宅から1km以上の距離",
+      "descriptionSimple": "住宅から1km以上の距離",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "夜間の室内騒音測定",
+      "labelStandard": "夜間の室内騒音測定",
+      "labelSimple": "夜間の室内騒音測定",
       "value": "夜間の室内騒音測定",
+      "unit": "",
+      "oldValue": "現行",
       "description": "人間の耳に聞こえにくい重低音（超低周波）を寝室で厳密に測定。",
+      "descriptionStandard": "夜間の室内騒音測定",
+      "descriptionSimple": "夜間の室内騒音測定",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "基準超過時の停止命令",
+      "labelStandard": "基準超過時の停止命令",
+      "labelSimple": "基準超過時の停止命令",
       "value": "基準超過時の停止命令",
+      "unit": "",
+      "oldValue": "現行",
       "description": "住民の健康被害が確認された場合は夜間の風車回転ストップを行政命令。",
+      "descriptionStandard": "基準超過時の停止命令",
+      "descriptionSimple": "基準超過時の停止命令",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

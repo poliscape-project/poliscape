@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "企業の実質負担率",
+      "labelStandard": "企業の実質負担率",
+      "labelSimple": "企業の実質負担率",
       "value": "約10",
       "unit": "%（最大9割控除）",
       "oldValue": "実質約40%負担",
       "description": "法人関係税（法人税・法人住民税・事業税）から寄附額の最大9割を税額控除",
+      "descriptionStandard": "企業の実質負担率",
+      "descriptionSimple": "企業の実質負担率",
       "badge": "最大9割控除恒久化",
       "badgeColor": "blue",
       "icon": "currency-yen"
     },
     {
       "label": "全国年間寄附額",
+      "labelStandard": "全国年間寄附額",
+      "labelSimple": "全国年間寄附額",
       "value": "500",
       "unit": "億円超（急拡大）",
       "oldValue": "約10億円（創設初年度）",
       "description": "税制優遇の拡充により民間から地方への資金還流が約50倍に急伸",
+      "descriptionStandard": "全国年間寄附額",
+      "descriptionSimple": "全国年間寄附額",
       "badge": "寄附額急増",
       "badgeColor": "green",
       "icon": "trending-up"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

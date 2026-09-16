@@ -4,7 +4,7 @@
   "catchphrase": "身近で頼れる医療を制度化。かかりつけ医機能の医療機関報告を義務付け休日夜間対応を可視化",
   "category": "healthcare",
   "categoryLabel": "医療提供体制・地域医療",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "かかりつけ医",
-      "variant": "purple"
+      "text": "かかりつけ医",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "地域包括ケア",
-      "variant": "blue"
+      "text": "地域包括ケア",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "医療情報可視化",
-      "variant": "green"
+      "text": "医療情報可視化",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "機能報告医療機関率",
+      "label": "機能報告医療機関率",
+      "labelStandard": "機能報告医療機関率",
+      "labelSimple": "機能報告医療機関率",
       "value": "100",
       "unit": "%義務",
+      "oldValue": "現行",
       "description": "都道府県知事に対してかかりつけ医機能の有無・内容を報告する対象医療機関の報告率",
-      "trend": "up",
-      "trendLabel": "全数可視化"
+      "descriptionStandard": "機能報告医療機関率",
+      "descriptionSimple": "機能報告医療機関率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "在宅看取り対応診療所数",
+      "label": "在宅看取り対応診療所数",
+      "labelStandard": "在宅看取り対応診療所数",
+      "labelSimple": "在宅看取り対応診療所数",
       "value": "30",
       "unit": "%増",
+      "oldValue": "現行",
       "description": "包括診療報酬の充実により24時間在宅往診・看取りを行う地域クリニックの増加率",
-      "trend": "up",
-      "trendLabel": "在宅体制拡充"
+      "descriptionStandard": "在宅看取り対応診療所数",
+      "descriptionSimple": "在宅看取り対応診療所数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

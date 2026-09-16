@@ -4,7 +4,7 @@
   "catchphrase": "生まれつきの難病を早期発見。SMAや重症複合免疫不全症など拡大検査を国費で全員無料化",
   "category": "healthcare",
   "categoryLabel": "医療・健康",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "新生児検査",
-      "variant": "purple"
+      "text": "新生児検査",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "小児医療",
-      "variant": "blue"
+      "text": "小児医療",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "難病早期治療",
-      "variant": "green"
+      "text": "難病早期治療",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "拡大検査受診率目標",
+      "label": "拡大検査受診率目標",
+      "labelStandard": "拡大検査受診率目標",
+      "labelSimple": "拡大検査受診率目標",
       "value": "99.9",
       "unit": "%",
+      "oldValue": "現行",
       "description": "全額公費化により全国すべての出生児が受けられる拡大マススクリーニングの受診率目標",
-      "trend": "up",
-      "trendLabel": "全国全員受診"
+      "descriptionStandard": "拡大検査受診率目標",
+      "descriptionSimple": "拡大検査受診率目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "SMA等重度障害防止率",
+      "label": "SMA等重度障害防止率",
+      "labelStandard": "SMA等重度障害防止率",
+      "labelSimple": "SMA等重度障害防止率",
       "value": "90",
       "unit": "%以上",
+      "oldValue": "現行",
       "description": "発症前早期スクリーニングと遺伝子治療薬の早期投与による不可逆的運動麻痺の防止割合",
-      "trend": "up",
-      "trendLabel": "重症化阻止"
+      "descriptionStandard": "SMA等重度障害防止率",
+      "descriptionSimple": "SMA等重度障害防止率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

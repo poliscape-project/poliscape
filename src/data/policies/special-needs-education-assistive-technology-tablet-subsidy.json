@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "機器補助上限額",
+      "labelStandard": "機器補助上限額",
+      "labelSimple": "機器補助上限額",
       "value": "100",
       "unit": "万円/台",
       "oldValue": "自己負担または一般枠",
       "description": "高機能アイトラッカー・アーム・専用ソフト一式を全額公費補助",
+      "descriptionStandard": "機器補助上限額",
+      "descriptionSimple": "機器補助上限額",
       "badge": "全額公費補助",
       "badgeColor": "blue",
       "icon": "currency-yen"
     },
     {
       "label": "公費負担率",
+      "labelStandard": "公費負担率",
+      "labelSimple": "公費負担率",
       "value": "100",
       "unit": "%",
       "oldValue": "自治体・保護者折半",
       "description": "経済格差による意思表出機会の喪失をゼロにする完全公費化",
+      "descriptionStandard": "公費負担率",
+      "descriptionSimple": "公費負担率",
       "badge": "完全無償",
       "badgeColor": "green",
       "icon": "sparkles"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

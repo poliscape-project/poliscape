@@ -152,58 +152,76 @@
   "badges": [
     {
       "label": "サブスク解約妨害規制",
-      "variant": "neutral"
+      "text": "サブスク解約妨害規制",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "ダークパターン禁止",
-      "variant": "neutral"
+      "text": "ダークパターン禁止",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "ワンクリック解約義務化",
-      "variant": "neutral"
+      "text": "ワンクリック解約義務化",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "サブスクの解約方法",
+      "label": "",
       "labelStandard": "解約手続きのクリック数",
+      "labelSimple": "サブスクの解約方法",
       "value": "ワンクリック",
       "unit": "解約を義務化",
       "oldValue": "これまで 迷路化や電話限定で解約妨害",
       "description": "申込時と同等の簡単な手順での解約を法制化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "解約妨害禁止",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Ban"
     },
     {
-      "labelSimple": "無料体験の後の請求",
+      "label": "",
       "labelStandard": "自動更新・縛りの明示義務",
+      "labelSimple": "無料体験の後の請求",
       "value": "総額事前明示",
       "unit": "の徹底",
       "oldValue": "これまで 初回実質ゼロ円で年縛り契約",
       "description": "期間満了前の事前通知と解約条件の明示を義務化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "縛り明示",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "FileCheck"
     },
     {
-      "labelSimple": "悪質な事業者への罰",
+      "label": "",
       "labelStandard": "ダークパターンへの課徴金",
+      "labelSimple": "悪質な事業者への罰",
       "value": "業務停止命令",
       "unit": "と課徴金適用",
       "oldValue": "これまで 行政指導止まりで逃げ得が横行",
       "description": "特商法改正で欺瞞的なUIデザインに厳罰",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "厳罰化",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "ShieldAlert"
     },
     {
-      "labelSimple": "相談トラブル件数",
+      "label": "",
       "labelStandard": "消費者相談件数の抑制",
+      "labelSimple": "相談トラブル件数",
       "value": "相談急増に歯止め",
       "unit": "をかける法整備",
       "oldValue": "これまで サブスク関連の相談が年間数万件",
       "description": "国民生活センターの被害事例をもとに迅速対処",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "消費者保護",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "HeartHandshake"

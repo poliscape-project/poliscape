@@ -1,7 +1,7 @@
 {
   "id": "anti-stalking-gps-airtag-unauthorized-tracking-criminal",
   "title": "ストーカー規制法改正（スマートタグ・位置情報共有アプリの悪用即時処罰）",
-  "category": "admin",
+  "category": "society",
   "subcategory": "治安・ストーカー対策",
   "status": "施行中",
   "date": "2024-05",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "処罰のスピード",
+      "labelStandard": "処罰のスピード",
+      "labelSimple": "処罰のスピード",
       "value": "直罰化（即時逮捕）",
       "unit": "",
       "oldValue": "警察の警告が前提",
       "description": "承諾のないタグ設置・追跡行為は警告を経ずに即座に逮捕・起訴可能",
+      "descriptionStandard": "処罰のスピード",
+      "descriptionSimple": "処罰のスピード",
       "badge": "即時逮捕可能",
       "badgeColor": "red",
       "icon": "shield-check"
     },
     {
       "label": "緊急接近禁止命令",
+      "labelStandard": "緊急接近禁止命令",
+      "labelSimple": "緊急接近禁止命令",
       "value": "即日発令",
       "unit": "",
       "oldValue": "数日〜数週間の手続き",
       "description": "被害者の身に危険が迫っている場合は当日中に法的接近禁止を発令",
+      "descriptionStandard": "緊急接近禁止命令",
+      "descriptionSimple": "緊急接近禁止命令",
       "badge": "即日保護",
       "badgeColor": "green",
       "icon": "clock"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "admin"
 }

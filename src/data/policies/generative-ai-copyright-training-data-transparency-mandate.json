@@ -1,7 +1,7 @@
 {
   "id": "generative-ai-copyright-training-data-transparency-mandate",
   "title": "AI開発企業に対する学習データセット著作物開示・出所透明化ガイドライン",
-  "category": "technology",
+  "category": "society",
   "subcategory": "AIガバナンス・著作権",
   "status": "施行中",
   "date": "2024-06",
@@ -154,20 +154,28 @@
   "highlights": [
     {
       "label": "海賊版学習の違法性",
+      "labelStandard": "海賊版学習の違法性",
+      "labelSimple": "海賊版学習の違法性",
       "value": "明確化完了",
       "unit": "",
       "oldValue": "法解釈が不透明",
       "description": "海賊版サイトと知りながらAI学習に用いる行為は著作権法第30条の4の適用外と明示",
+      "descriptionStandard": "海賊版学習の違法性",
+      "descriptionSimple": "海賊版学習の違法性",
       "badge": "違法性明確化",
       "badgeColor": "red",
       "icon": "shield-check"
     },
     {
       "label": "国際枠組み準拠",
+      "labelStandard": "国際枠組み準拠",
+      "labelSimple": "国際枠組み準拠",
       "value": "広島AIプロセス",
       "unit": "",
       "oldValue": "日本単独解釈",
       "description": "G7共通のAI開発者行動規範と完全整合した国内ガイドライン",
+      "descriptionStandard": "国際枠組み準拠",
+      "descriptionSimple": "国際枠組み準拠",
       "badge": "国際標準",
       "badgeColor": "blue",
       "icon": "sparkles"
@@ -239,5 +247,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "technology"
 }

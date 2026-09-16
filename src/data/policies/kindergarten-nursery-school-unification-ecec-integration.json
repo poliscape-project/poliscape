@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "幼保一元化",
-      "variant": "positive"
+      "text": "幼保一元化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "認定こども園推進",
-      "variant": "positive"
+      "text": "認定こども園推進",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "現場融合課題",
-      "variant": "neutral"
+      "text": "現場融合課題",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "統合形態",
+      "labelStandard": "統合形態",
+      "labelSimple": "統合形態",
       "value": "幼保連携型認定こども園",
+      "unit": "",
+      "oldValue": "現行",
       "description": "教育と保育を1つの施設で切れ目なく一体提供",
+      "descriptionStandard": "統合形態",
+      "descriptionSimple": "統合形態",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Baby"
     },
     {
       "label": "資格一本化",
+      "labelStandard": "資格一本化",
+      "labelSimple": "資格一本化",
       "value": "保育教諭特例制度",
+      "unit": "",
+      "oldValue": "現行",
       "description": "幼稚園教諭免許と保育士資格の併有を国が支援",
+      "descriptionStandard": "資格一本化",
+      "descriptionSimple": "資格一本化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "継続在籍",
+      "labelStandard": "継続在籍",
+      "labelSimple": "継続在籍",
       "value": "親の就労変動に対応",
+      "unit": "",
+      "oldValue": "現行",
       "description": "仕事を辞めても幼稚園枠に切り替えて同じ園に通園",
+      "descriptionStandard": "継続在籍",
+      "descriptionSimple": "継続在籍",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

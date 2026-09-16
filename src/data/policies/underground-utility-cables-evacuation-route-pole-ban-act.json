@@ -1,8 +1,8 @@
 {
   "id": "underground-utility-cables-evacuation-route-pole-ban-act",
   "title": "無電柱化推進計画（緊急輸送道路における新規電柱占用許可の原則禁止）",
-  "category": "infrastructure",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "首都直下地震や南海トラフ巨大地震、大型台風による電柱倒壊が引き起こす緊急輸送道路の寸断、消防救助車両の通行妨害、長期停電を防ぐため、無電柱化推進法に基づき、第一線救命活動を担う「緊急輸送道路」における新規電柱の道路占用許可を原則禁止（占用制限）とする。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "無電柱化",
-      "variant": "purple"
+      "text": "無電柱化",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "防災インフラ",
-      "variant": "blue"
+      "text": "防災インフラ",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "都市強靭化",
-      "variant": "green"
+      "text": "都市強靭化",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "地中化コスト削減率",
+      "label": "地中化コスト削減率",
+      "labelStandard": "地中化コスト削減率",
+      "labelSimple": "地中化コスト削減率",
       "value": "50",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "浅層埋設工法および小型ボックス活用による無電柱化工事1kmあたり整備費用の削減効果",
-      "trend": "down",
-      "trendLabel": "コスト半減"
+      "descriptionStandard": "地中化コスト削減率",
+      "descriptionSimple": "地中化コスト削減率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "緊急輸送道路占用制限率",
+      "label": "緊急輸送道路占用制限率",
+      "labelStandard": "緊急輸送道路占用制限率",
+      "labelSimple": "緊急輸送道路占用制限率",
       "value": "95",
       "unit": "%達成",
+      "oldValue": "現行",
       "description": "第1次緊急輸送道路における新規電柱占用禁止指定の全国整備カバー率",
-      "trend": "up",
-      "trendLabel": "新設完全阻止"
+      "descriptionStandard": "緊急輸送道路占用制限率",
+      "descriptionSimple": "緊急輸送道路占用制限率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

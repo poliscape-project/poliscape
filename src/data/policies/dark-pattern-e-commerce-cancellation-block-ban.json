@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "消費者保護",
-      "variant": "positive"
+      "text": "消費者保護",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ダークパターン",
-      "variant": "positive"
+      "text": "ダークパターン",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "デジタル市場",
-      "variant": "neutral"
+      "text": "デジタル市場",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "解約原則",
+      "labelStandard": "解約原則",
+      "labelSimple": "解約原則",
       "value": "Click-to-Cancel",
+      "unit": "",
+      "oldValue": "現行",
       "description": "Webで入会したサービスはWeb上でワンクリック解約可能に",
+      "descriptionStandard": "解約原則",
+      "descriptionSimple": "解約原則",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "違法行為",
+      "labelStandard": "違法行為",
+      "labelSimple": "違法行為",
       "value": "電話限定・迷路UI",
+      "unit": "",
+      "oldValue": "現行",
       "description": "電話しか解約手段がない設定や解約ボタン隠しを禁止",
+      "descriptionStandard": "違法行為",
+      "descriptionSimple": "違法行為",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "AlertTriangle"
     }
   ],

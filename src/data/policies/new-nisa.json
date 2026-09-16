@@ -155,62 +155,76 @@
   "badges": [
     {
       "label": "生涯枠1,800万円",
-      "variant": "neutral"
+      "text": "生涯枠1,800万円",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "非課税無期限・恒久化",
-      "variant": "neutral"
+      "text": "非課税無期限・恒久化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "売却枠の翌年再利用",
-      "variant": "neutral"
+      "text": "売却枠の翌年再利用",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "一生で非課税にできる上限",
+      "label": "",
       "labelStandard": "生涯非課税保有限度額",
+      "labelSimple": "一生で非課税にできる上限",
       "value": "1,800",
       "unit": "万円",
       "oldValue": "旧つみたてNISA最大800万円",
-      "descriptionSimple": "売れば枠が復活して再利用可能！",
+      "description": "",
       "descriptionStandard": "簿価（買付残高）ベースで枠再利用可",
+      "descriptionSimple": "売れば枠が復活して再利用可能！",
       "badge": "生涯枠拡大",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "PiggyBank"
     },
     {
-      "labelSimple": "税金がタダになる期間",
+      "label": "",
       "labelStandard": "非課税保有期間",
+      "labelSimple": "税金がタダになる期間",
       "value": "無期限",
       "unit": "（恒久化）",
       "oldValue": "旧制度は5年または20年限定",
-      "descriptionSimple": "一生涯ずっと税金ゼロで運用！",
+      "description": "",
       "descriptionStandard": "ロールオーバー手続き不要で完全恒久化",
+      "descriptionSimple": "一生涯ずっと税金ゼロで運用！",
       "badge": "恒久化",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Clock"
     },
     {
-      "labelSimple": "1年間に投資できる上限",
+      "label": "",
       "labelStandard": "年間投資枠",
+      "labelSimple": "1年間に投資できる上限",
       "value": "360",
       "unit": "万円/年",
       "oldValue": "旧制度は年40万〜120万円",
-      "descriptionSimple": "つみたてと成長枠を一緒に使える！",
+      "description": "",
       "descriptionStandard": "つみたて120万＋成長投資240万の併用",
+      "descriptionSimple": "つみたてと成長枠を一緒に使える！",
       "badge": "併用可能",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Sparkles"
     },
     {
-      "labelSimple": "浮く税金の割合",
+      "label": "",
       "labelStandard": "非課税メリット率",
+      "labelSimple": "浮く税金の割合",
       "value": "20.315",
       "unit": "%",
       "oldValue": "通常口座は利益の2割を課税",
-      "descriptionSimple": "本来引かれる税金がまるまる手元に",
+      "description": "",
       "descriptionStandard": "所得税15.315%＋住民税5%が全額免除",
+      "descriptionSimple": "本来引かれる税金がまるまる手元に",
       "badge": "まるまる手取り",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Wallet"

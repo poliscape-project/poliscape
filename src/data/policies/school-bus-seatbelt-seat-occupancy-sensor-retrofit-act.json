@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "装置設置完了率",
+      "labelStandard": "装置設置完了率",
+      "labelSimple": "装置設置完了率",
       "value": "99.9",
       "unit": "%（全国）",
       "oldValue": "0%（未装着）",
       "description": "全国約5万台の対象バスで安全装置の装着がほぼ完了",
+      "descriptionStandard": "装置設置完了率",
+      "descriptionSimple": "装置設置完了率",
       "badge": "設置完了",
       "badgeColor": "green",
       "icon": "check-circle"
     },
     {
       "label": "安全装置導入補助",
+      "labelStandard": "安全装置導入補助",
+      "labelSimple": "安全装置導入補助",
       "value": "17.5",
       "unit": "万円/台",
       "oldValue": "自己負担",
       "description": "国費による定額補助により事業者の自己負担ゼロで導入実現",
+      "descriptionStandard": "安全装置導入補助",
+      "descriptionSimple": "安全装置導入補助",
       "badge": "全額公費補助",
       "badgeColor": "blue",
       "icon": "currency-yen"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

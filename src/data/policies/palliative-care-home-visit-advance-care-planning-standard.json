@@ -3,7 +3,7 @@
   "title": "在宅緩和ケアおよびアドバンス・ケア・プランニング（ACP）推進指針",
   "category": "healthcare",
   "categoryLabel": "医療・公衆衛生",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "人生会議指針・診療報酬加算運用中",
   "catchphrase": "最期まで住み慣れた自宅で自分らしく。在宅緩和ケアの24時間体制と『人生会議（ACP）』の普及",
   "lastUpdated": "2026-09-16",
@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "在宅看取り希望率",
+      "labelStandard": "在宅看取り希望率",
+      "labelSimple": "在宅看取り希望率",
       "value": "70",
       "unit": "%",
       "oldValue": "実際の看取り率は約17%",
       "description": "国民の大多数が希望する自宅での尊厳ある看取りの環境整備目標",
+      "descriptionStandard": "在宅看取り希望率",
+      "descriptionSimple": "在宅看取り希望率",
       "badge": "国民の希望",
       "badgeColor": "blue",
       "icon": "Home"
     },
     {
       "label": "24時間対応体制",
+      "labelStandard": "24時間対応体制",
+      "labelSimple": "24時間対応体制",
       "value": "365",
       "unit": "日対応",
       "oldValue": "平日日中のみの往診",
       "description": "夜間・休日の緊急コールにも医師・看護師が駆けつける往診網の構築",
+      "descriptionStandard": "24時間対応体制",
+      "descriptionSimple": "24時間対応体制",
       "badge": "常時待機",
       "badgeColor": "green",
       "icon": "Clock"

@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "文化芸術",
-      "variant": "neutral"
+      "text": "文化芸術",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "フリーランス保護",
-      "variant": "positive"
+      "text": "フリーランス保護",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "適正対価",
-      "variant": "positive"
+      "text": "適正対価",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "助成金にフェアペイ義務化",
+      "labelStandard": "助成金にフェアペイ義務化",
+      "labelSimple": "助成金にフェアペイ義務化",
       "value": "助成金にフェアペイ義務化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "公的補助を受ける全公演・展示で適正最低報酬の支払いを必須化。",
+      "descriptionStandard": "助成金にフェアペイ義務化",
+      "descriptionSimple": "助成金にフェアペイ義務化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "契約書の書面交付義務",
+      "labelStandard": "契約書の書面交付義務",
+      "labelSimple": "契約書の書面交付義務",
       "value": "契約書の書面交付義務",
+      "unit": "",
+      "oldValue": "現行",
       "description": "口頭発注を禁止しキャンセル補償や業務範囲を明文化。",
+      "descriptionStandard": "契約書の書面交付義務",
+      "descriptionSimple": "契約書の書面交付義務",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "FileText"
     },
     {
       "label": "業界第三者相談窓口",
+      "labelStandard": "業界第三者相談窓口",
+      "labelSimple": "業界第三者相談窓口",
       "value": "業界第三者相談窓口",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ハラスメントや報酬未払いを告発・解決する専門窓口を常設。",
+      "descriptionStandard": "業界第三者相談窓口",
+      "descriptionSimple": "業界第三者相談窓口",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

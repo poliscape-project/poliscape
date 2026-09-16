@@ -1,8 +1,8 @@
 {
   "id": "hydrogen-station-self-service-deregulation-heavy-trucks",
   "title": "水素ステーションのセルフ充填解禁と大型燃料電池トラック対応規格化",
-  "category": "energy-environment",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "燃料電池自動車（FCEV）および大型燃料電池トラック・バスの商用普及を後押しするため、高圧ガス保安法に基づく水素ステーションの保安基準を大幅に規制緩和し、利用客による「セルフ充填」を全面解禁する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "水素インフラ",
-      "variant": "green"
+      "text": "水素インフラ",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "規制緩和",
-      "variant": "blue"
+      "text": "規制緩和",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "グリーン物流",
-      "variant": "purple"
+      "text": "グリーン物流",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "大型トラック充填時間",
+      "label": "大型トラック充填時間",
+      "labelStandard": "大型トラック充填時間",
+      "labelSimple": "大型トラック充填時間",
       "value": "10",
       "unit": "分以内",
+      "oldValue": "現行",
       "description": "50kgの大容量水素を急速充填し、600km以上の長距離連続走行を可能に",
-      "trend": "down",
-      "trendLabel": "急速充填達成"
+      "descriptionStandard": "大型トラック充填時間",
+      "descriptionSimple": "大型トラック充填時間",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "ステーション運営人件費",
+      "label": "ステーション運営人件費",
+      "labelStandard": "ステーション運営人件費",
+      "labelSimple": "ステーション運営人件費",
       "value": "50",
       "unit": "%削減",
+      "oldValue": "現行",
       "description": "セルフ化と遠隔保安カメラ導入により年間数千万円の人件費を半減",
-      "trend": "down",
-      "trendLabel": "コスト半減"
+      "descriptionStandard": "ステーション運営人件費",
+      "descriptionSimple": "ステーション運営人件費",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

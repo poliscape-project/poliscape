@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "見直し対象規制数",
+      "labelStandard": "見直し対象規制数",
+      "labelSimple": "見直し対象規制数",
       "value": "約1万",
       "unit": "条文（一括撤廃完了）",
       "oldValue": "目視・常駐が法律上の義務",
       "description": "明治・昭和から続いた法令・省令・通達の非効率ルールを全面デジタル適合化",
+      "descriptionStandard": "見直し対象規制数",
+      "descriptionSimple": "見直し対象規制数",
       "badge": "1万条文一斉改正",
       "badgeColor": "green",
       "icon": "document-text"
     },
     {
       "label": "インフラ点検コスト削減",
+      "labelStandard": "インフラ点検コスト削減",
+      "labelSimple": "インフラ点検コスト削減",
       "value": "約50〜70",
       "unit": "%（高所・危険作業）",
       "oldValue": "高額な足場設置と人手点検",
       "description": "ドローン空撮とAI解析への置き換えにより点検工期と費用を劇的圧縮",
+      "descriptionStandard": "インフラ点検コスト削減",
+      "descriptionSimple": "インフラ点検コスト削減",
       "badge": "点検コスト激減",
       "badgeColor": "blue",
       "icon": "arrow-trending-down"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

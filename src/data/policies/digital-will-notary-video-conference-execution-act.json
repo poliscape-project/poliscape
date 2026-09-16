@@ -1,7 +1,7 @@
 {
   "id": "digital-will-notary-video-conference-execution-act",
   "title": "公正証書遺言の完全オンライン作成・公証人ウェブ面談解禁法",
-  "category": "admin",
+  "category": "society",
   "subcategory": "法務・デジタル化",
   "status": "施行中",
   "date": "2024-06",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "作成所要期間",
+      "labelStandard": "作成所要期間",
+      "labelSimple": "作成所要期間",
       "value": "即日〜数日",
       "unit": "",
       "oldValue": "対面予約で数週間〜1ヶ月",
       "description": "オンライン面談とデジタル署名で来庁不要・即日作成を実現",
+      "descriptionStandard": "作成所要期間",
+      "descriptionSimple": "作成所要期間",
       "badge": "即時完結",
       "badgeColor": "green",
       "icon": "clock"
     },
     {
       "label": "本人確認技術",
+      "labelStandard": "本人確認技術",
+      "labelSimple": "本人確認技術",
       "value": "マイナ公的個人認証",
       "unit": "＋顔認証AI",
       "oldValue": "印鑑証明書・実印",
       "description": "なりすましや偽造を完全に排除する最高水準の電子認証",
+      "descriptionStandard": "本人確認技術",
+      "descriptionSimple": "本人確認技術",
       "badge": "最高セキュリティ",
       "badgeColor": "blue",
       "icon": "shield-check"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "admin"
 }

@@ -1,8 +1,8 @@
 {
   "id": "autonomous-uncrewed-cargo-ship-commercial-licensing-act",
   "title": "無人自律運航船（MEGURI2040）の実用航行ライセンス及び海難救助特例",
-  "category": "technology-dx",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "船員の激甚な高齢化と人手不足に直面する内航海運において、AIとセンサーによる自動離着岸・自律航行を行う「無人自律運航船」の本格的商業運航ライセンス制度を創設する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "自動運航船",
-      "variant": "blue"
+      "text": "自動運航船",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "海運DX",
-      "variant": "green"
+      "text": "海運DX",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "物流革命",
-      "variant": "purple"
+      "text": "物流革命",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "海難事故の低減効果",
+      "label": "海難事故の低減効果",
+      "labelStandard": "海難事故の低減効果",
+      "labelSimple": "海難事故の低減効果",
       "value": "80",
       "unit": "%減見込",
+      "oldValue": "現行",
       "description": "ヒューマンエラーに起因する見張り不足・操船ミスによる衝突事故の激減",
-      "trend": "down",
-      "trendLabel": "海難激減"
+      "descriptionStandard": "海難事故の低減効果",
+      "descriptionSimple": "海難事故の低減効果",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "自律運航船導入目標",
+      "label": "自律運航船導入目標",
+      "labelStandard": "自律運航船導入目標",
+      "labelSimple": "自律運航船導入目標",
       "value": "50",
       "unit": "%（2040年）",
+      "oldValue": "現行",
       "description": "2040年までに日本の内航船の半数を自律運航船へ移行する国家目標",
-      "trend": "up",
-      "trendLabel": "半数自動化"
+      "descriptionStandard": "自律運航船導入目標",
+      "descriptionSimple": "自律運航船導入目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

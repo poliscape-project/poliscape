@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "障害者雇用",
-      "variant": "positive"
+      "text": "障害者雇用",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ダイバーシティ",
-      "variant": "positive"
+      "text": "ダイバーシティ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "短時間就労",
-      "variant": "neutral"
+      "text": "短時間就労",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "法定雇用率2.7%へ",
+      "labelStandard": "法定雇用率2.7%へ",
+      "labelSimple": "法定雇用率2.7%へ",
       "value": "法定雇用率2.7%へ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "民間企業の義務付け比率を段階的に引き上げ雇用機会を拡大。",
+      "descriptionStandard": "法定雇用率2.7%へ",
+      "descriptionSimple": "法定雇用率2.7%へ",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "週10時間就労の算定化",
+      "labelStandard": "週10時間就労の算定化",
+      "labelSimple": "週10時間就労の算定化",
       "value": "週10時間就労の算定化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "フルタイムが難しい精神・難病の方も週10時間から正規算定。",
+      "descriptionStandard": "週10時間就労の算定化",
+      "descriptionSimple": "週10時間就労の算定化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "納付金・助成金の連動",
+      "labelStandard": "納付金・助成金の連動",
+      "labelSimple": "納付金・助成金の連動",
       "value": "納付金・助成金の連動",
+      "unit": "",
+      "oldValue": "現行",
       "description": "未達成企業からの納付金を達成企業の職場改善助成金へ再配分。",
+      "descriptionStandard": "納付金・助成金の連動",
+      "descriptionSimple": "納付金・助成金の連動",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

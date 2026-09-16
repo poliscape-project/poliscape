@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "子どもの読書",
-      "variant": "positive"
+      "text": "子どもの読書",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "デジタル図書館",
-      "variant": "positive"
+      "text": "デジタル図書館",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "GIGAスクール",
-      "variant": "neutral"
+      "text": "GIGAスクール",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "提供冊数",
+      "labelStandard": "提供冊数",
+      "labelSimple": "提供冊数",
       "value": "10万冊以上",
+      "unit": "",
+      "oldValue": "現行",
       "description": "児童書・名作文学・学術図書・図鑑をクラウド無料配信",
+      "descriptionStandard": "提供冊数",
+      "descriptionSimple": "提供冊数",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "BookOpen"
     },
     {
       "label": "対象",
+      "labelStandard": "対象",
+      "labelSimple": "対象",
       "value": "全国1,000万人",
+      "unit": "",
+      "oldValue": "現行",
       "description": "全国の公立・私立小中高生に無料アカウントを提供",
+      "descriptionStandard": "対象",
+      "descriptionSimple": "対象",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "AI安全評価",
-      "variant": "positive"
+      "text": "AI安全評価",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "AISI発足",
-      "variant": "positive"
+      "text": "AISI発足",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "法的拘束力議論",
-      "variant": "warning"
+      "text": "法的拘束力議論",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "専門機関",
+      "labelStandard": "専門機関",
+      "labelSimple": "専門機関",
       "value": "AIセーフティ・インスティテュート",
+      "unit": "",
+      "oldValue": "現行",
       "description": "フロンティアAIモデルの安全性テストと研究を専従実施",
+      "descriptionStandard": "専門機関",
+      "descriptionSimple": "専門機関",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "検証手法",
+      "labelStandard": "検証手法",
+      "labelSimple": "検証手法",
       "value": "第三者レッドチーミング",
+      "unit": "",
+      "oldValue": "現行",
       "description": "敵対的プロンプト攻撃に対する脆弱性と防護力を事前テスト",
+      "descriptionStandard": "検証手法",
+      "descriptionSimple": "検証手法",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "国際枠組み",
+      "labelStandard": "国際枠組み",
+      "labelSimple": "国際枠組み",
       "value": "広島AIプロセス準拠",
+      "unit": "",
+      "oldValue": "現行",
       "description": "米英のAISIと連携した多国間相互運用テスト標準化",
+      "descriptionStandard": "国際枠組み",
+      "descriptionSimple": "国際枠組み",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

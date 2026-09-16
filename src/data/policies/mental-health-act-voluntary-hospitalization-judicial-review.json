@@ -2,7 +2,7 @@
   "id": "mental-health-act-voluntary-hospitalization-judicial-review",
   "title": "精神保健福祉法改正（医療保護入院の期間制限・家族同意要件見直しと虐待防止）",
   "catchphrase": "家族の同意だけで無期限に入院させられる制度を是正。医療保護入院の期間上限設定と退院促進",
-  "category": "social",
+  "category": "society",
   "categoryLabel": "社会保障・医療・人権擁護",
   "lastUpdated": "2024-04-15",
   "effectiveDate": "2024年4月施行",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "精神医療改革",
-      "variant": "positive"
+      "text": "精神医療改革",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "社会的入院防止",
-      "variant": "positive"
+      "text": "社会的入院防止",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "受け皿施設不足",
-      "variant": "warning"
+      "text": "受け皿施設不足",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "入院制限",
+      "labelStandard": "入院制限",
+      "labelSimple": "入院制限",
       "value": "原則最長1年上限",
+      "unit": "",
+      "oldValue": "現行",
       "description": "無期限入院を廃止し定期的な精神医療審査会審査を義務化",
+      "descriptionStandard": "入院制限",
+      "descriptionSimple": "入院制限",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "虐待防止",
+      "labelStandard": "虐待防止",
+      "labelSimple": "虐待防止",
       "value": "全職員に通報義務",
+      "unit": "",
+      "oldValue": "現行",
       "description": "病棟内虐待の早期発見と都道府県による立ち入り調査",
+      "descriptionStandard": "虐待防止",
+      "descriptionSimple": "虐待防止",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "権利擁護",
+      "labelStandard": "権利擁護",
+      "labelSimple": "権利擁護",
       "value": "アドボケイト病棟訪問",
+      "unit": "",
+      "oldValue": "現行",
       "description": "外部の権利擁護者が患者と直接面会し退院意向を支援",
+      "descriptionStandard": "権利擁護",
+      "descriptionSimple": "権利擁護",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     }
   ],

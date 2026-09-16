@@ -165,62 +165,76 @@
   "badges": [
     {
       "label": "私立 年約70万円免除",
-      "variant": "neutral"
+      "text": "私立 年約70万円免除",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "所得制限なし",
-      "variant": "neutral"
+      "text": "所得制限なし",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "3人扶養で全員対象",
-      "variant": "neutral"
+      "text": "3人扶養で全員対象",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "免除されるお金",
+      "label": "",
       "labelStandard": "授業料の減免上限",
+      "labelSimple": "免除されるお金",
       "value": "約 70",
       "unit": "万円/年",
       "oldValue": "私立大は約70万、国公立は約54万円",
-      "descriptionSimple": "大学の授業料が無料に！",
+      "description": "",
       "descriptionStandard": "国が定める上限まで免除",
+      "descriptionSimple": "大学の授業料が無料に！",
       "badge": "私立年70万円",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "GraduationCap"
     },
     {
-      "labelSimple": "対象になる条件",
+      "label": "",
       "labelStandard": "対象世帯",
+      "labelSimple": "対象になる条件",
       "value": "3人",
       "unit": "扶養",
       "oldValue": "子ども3人以上を同時に扶養",
-      "descriptionSimple": "3人以上育てている家庭",
+      "description": "",
       "descriptionStandard": "多子世帯の全兄弟が対象",
+      "descriptionSimple": "3人以上育てている家庭",
       "badge": "多子世帯限定",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "親のきゅうりょう制限",
+      "label": "",
       "labelStandard": "所得制限",
+      "labelSimple": "親のきゅうりょう制限",
       "value": "なし",
       "unit": "（撤廃）",
       "oldValue": "これまで年収約380万円未満のみ",
-      "descriptionSimple": "年収に関係なく使える！",
+      "description": "",
       "descriptionStandard": "どの年収層でも利用可能",
+      "descriptionSimple": "年収に関係なく使える！",
       "badge": "完全撤廃",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "いつから始まる？",
+      "label": "",
       "labelStandard": "制度の開始時期",
+      "labelSimple": "いつから始まる？",
       "value": "2025",
       "unit": "年4月〜",
       "oldValue": "令和7年度から正式スタート",
-      "descriptionSimple": "在学生も新入生も対象！",
+      "description": "",
       "descriptionStandard": "2025年度春学期から適用",
+      "descriptionSimple": "在学生も新入生も対象！",
       "badge": "令和7年度〜",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Clock"

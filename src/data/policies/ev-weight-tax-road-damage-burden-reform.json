@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "道路財源枯渇問題",
-      "variant": "warning"
+      "text": "道路財源枯渇問題",
+      "variant": "warning",
+      "color": "blue"
     },
     {
       "label": "公平負担の議論",
-      "variant": "neutral"
+      "text": "公平負担の議論",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "地方反発で難航",
-      "variant": "warning"
+      "text": "地方反発で難航",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "検討課題",
+      "labelStandard": "検討課題",
+      "labelSimple": "検討課題",
       "value": "走行距離・重量課税",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ガソリン税減収を補う新負担システムの検討",
+      "descriptionStandard": "検討課題",
+      "descriptionSimple": "検討課題",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "EVの重量増",
+      "labelStandard": "EVの重量増",
+      "labelSimple": "EVの重量増",
       "value": "約300〜500kg重い",
+      "unit": "",
+      "oldValue": "現行",
       "description": "バッテリー重量による道路アスファルトへの負荷",
+      "descriptionStandard": "EVの重量増",
+      "descriptionSimple": "EVの重量増",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "AlertTriangle"
     },
     {
       "label": "対立点",
+      "labelStandard": "対立点",
+      "labelSimple": "対立点",
       "value": "地方住民の生活負担",
+      "unit": "",
+      "oldValue": "現行",
       "description": "公共交通空白地での車依存と税負担増の摩擦",
+      "descriptionStandard": "対立点",
+      "descriptionSimple": "対立点",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Home"
     }
   ],

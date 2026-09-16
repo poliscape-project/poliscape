@@ -1,8 +1,8 @@
 {
   "id": "visual-impairment-ai-smart-glasses-insurance-coverage",
   "title": "視覚障害者向け歩行支援AIスマートグラスの保険適用・装具給付",
-  "category": "health-medical",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "視覚障害者の自立歩行と社会参加を支援するため、カメラとAI画像認識を搭載したスマートグラス（歩行支援機器）を補装具費支給制度の対象に追加する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "福祉DX",
-      "variant": "blue"
+      "text": "福祉DX",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "バリアフリー",
-      "variant": "green"
+      "text": "バリアフリー",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "AI医療支援",
-      "variant": "purple"
+      "text": "AI医療支援",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "自己負担額の軽減",
+      "label": "自己負担額の軽減",
+      "labelStandard": "自己負担額の軽減",
+      "labelSimple": "自己負担額の軽減",
       "value": "90",
       "unit": "%",
+      "oldValue": "現行",
       "description": "従来の全額自費から原則1割負担（上限月額あり）へと大幅に引き下げ",
-      "trend": "down",
-      "trendLabel": "自己負担軽減"
+      "descriptionStandard": "自己負担額の軽減",
+      "descriptionSimple": "自己負担額の軽減",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "対象視覚障害者数",
+      "label": "対象視覚障害者数",
+      "labelStandard": "対象視覚障害者数",
+      "labelSimple": "対象視覚障害者数",
       "value": "31",
       "unit": "万人",
+      "oldValue": "現行",
       "description": "国内の身体障害者手帳（視覚障害）保持者全体が助成検討の視野に",
-      "trend": "neutral",
-      "trendLabel": "潜在受益層"
+      "descriptionStandard": "対象視覚障害者数",
+      "descriptionSimple": "対象視覚障害者数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

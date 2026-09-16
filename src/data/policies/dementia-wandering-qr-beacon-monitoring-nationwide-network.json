@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "発見連絡所要時間",
+      "labelStandard": "発見連絡所要時間",
+      "labelSimple": "発見連絡所要時間",
       "value": "平均30",
       "unit": "分以内（QRスキャン時）",
       "oldValue": "半日〜数日間の捜索",
       "description": "市民スマホによるスキャンからコールセンター経由での即時家族連絡",
+      "descriptionStandard": "発見連絡所要時間",
+      "descriptionSimple": "発見連絡所要時間",
       "badge": "即時発見保護",
       "badgeColor": "green",
       "icon": "clock"
     },
     {
       "label": "シール配布費用",
+      "labelStandard": "シール配布費用",
+      "labelSimple": "シール配布費用",
       "value": "0",
       "unit": "円（全額公費無償）",
       "oldValue": "家族自費購入",
       "description": "自治体交付金により耐洗QRラベル（40〜50枚セット）を無償支給",
+      "descriptionStandard": "シール配布費用",
+      "descriptionSimple": "シール配布費用",
       "badge": "無償配布",
       "badgeColor": "blue",
       "icon": "tag"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

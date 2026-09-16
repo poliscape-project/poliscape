@@ -161,58 +161,76 @@
   "badges": [
     {
       "label": "ヤングケアラーの国法初明記と支援責務化",
-      "variant": "neutral"
+      "text": "ヤングケアラーの国法初明記と支援責務化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "家庭への家事・介護ヘルパー公費派遣事業",
-      "variant": "neutral"
+      "text": "家庭への家事・介護ヘルパー公費派遣事業",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "学校スクリーニングと専門支援ネットワーク直結",
-      "variant": "neutral"
+      "text": "学校スクリーニングと専門支援ネットワーク直結",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "ヤングケアラーの法的位置づけ",
+      "label": "",
       "labelStandard": "ヤングケアラーの法的位置づけ",
+      "labelSimple": "ヤングケアラーの法的位置づけ",
       "value": "ヤングケアラーの国法初明記と支援責務化",
       "unit": "",
       "oldValue": "これまで: 法律上の定義がなく行政の福祉支援の対象外として放置",
       "description": "子ども・若者育成支援推進法に「ヤングケアラー」を明記し国の支援を義務化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "ヤングケアラーの国法初明記と支援責務化",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "ShieldAlert"
     },
     {
-      "labelSimple": "家事・介護の直接的代替支援",
+      "label": "",
       "labelStandard": "家事・介護の直接的代替支援",
+      "labelSimple": "家事・介護の直接的代替支援",
       "value": "家庭への家事・介護ヘルパー公費派遣事業",
       "unit": "",
       "oldValue": "これまで: 子どもが自力で食事作りや排泄介助を行い学業や睡眠時間を圧迫",
       "description": "自治体から家事支援ヘルパーや訪問介護を無償派遣し負担を肩代わり",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "家庭への家事・介護ヘルパー公費派遣事業",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Heart"
     },
     {
-      "labelSimple": "学校での早期発見体制",
+      "label": "",
       "labelStandard": "学校での早期発見体制",
+      "labelSimple": "学校での早期発見体制",
       "value": "学校スクリーニングと専門支援ネットワーク直結",
       "unit": "",
       "oldValue": "これまで: 「親孝行な子」「単なる遅刻・宿題忘れ」と見過ごされ孤立化",
       "description": "チェックシートによる早期スクリーニングとスクールソーシャルワーカー直結",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "学校スクリーニングと専門支援ネットワーク直結",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "進路・学習支援と奨学金",
+      "label": "",
       "labelStandard": "進路・学習支援と奨学金",
+      "labelSimple": "進路・学習支援と奨学金",
       "value": "進学断念を防ぐ給付型奨学金優先枠の創設",
       "unit": "",
       "oldValue": "これまで: 介護離職ならぬ「介護進学断念」で高卒・中退を余儀なくされる構造",
       "description": "給付型奨学金の優先枠設定や個別学習指導ボランティアを配備",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "進学断念を防ぐ給付型奨学金優先枠の創設",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "GraduationCap"

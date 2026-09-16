@@ -2,7 +2,7 @@
   "id": "wild-bird-influenza-egg-poultry-farm-biosecurity",
   "title": "高病原性鳥インフルエンザ防疫基準強化・密閉型鶏舎改修支援法",
   "catchphrase": "卵ショックと大量殺処分を繰り返さない、野鳥・害獣を遮断するウインドウレス鶏舎改修支援",
-  "category": "agriculture",
+  "category": "society",
   "categoryLabel": "農林水産業",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "鳥インフル対策",
-      "variant": "positive"
+      "text": "鳥インフル対策",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "卵ショック防止",
-      "variant": "positive"
+      "text": "卵ショック防止",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "農業支援",
-      "variant": "neutral"
+      "text": "農業支援",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "改修補助",
+      "labelStandard": "改修補助",
+      "labelSimple": "改修補助",
       "value": "建設費最大50%",
+      "unit": "",
+      "oldValue": "現行",
       "description": "野鳥侵入を物理遮断する密閉型ウインドウレス鶏舎整備を半額支援",
+      "descriptionStandard": "改修補助",
+      "descriptionSimple": "改修補助",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Building2"
     },
     {
       "label": "防疫新基準",
+      "labelStandard": "防疫新基準",
+      "labelSimple": "防疫新基準",
       "value": "コンパートメント化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "独立区画ごとの陰性確認による全羽殺処分の回避を法制化",
+      "descriptionStandard": "防疫新基準",
+      "descriptionSimple": "防疫新基準",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

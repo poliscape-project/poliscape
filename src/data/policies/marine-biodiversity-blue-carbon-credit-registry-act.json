@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "ブルーカーボン",
-      "variant": "positive"
+      "text": "ブルーカーボン",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "藻場再生",
-      "variant": "positive"
+      "text": "藻場再生",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "海洋生態系",
-      "variant": "neutral"
+      "text": "海洋生態系",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "還元比率",
+      "labelStandard": "還元比率",
+      "labelSimple": "還元比率",
       "value": "販売額の90%以上",
+      "unit": "",
+      "oldValue": "現行",
       "description": "クレジット売却収入を地元の漁協・保全活動団体へ直接還元",
+      "descriptionStandard": "還元比率",
+      "descriptionSimple": "還元比率",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "隔離期間",
+      "labelStandard": "隔離期間",
+      "labelSimple": "隔離期間",
       "value": "数千年スパン",
+      "unit": "",
+      "oldValue": "現行",
       "description": "海底泥中に有機炭素を難分解性沈殿物として長期隔離",
+      "descriptionStandard": "隔離期間",
+      "descriptionSimple": "隔離期間",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

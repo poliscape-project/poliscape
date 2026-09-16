@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "犯罪いじめ警察通報",
-      "variant": "positive"
+      "text": "犯罪いじめ警察通報",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "隠蔽防止客観基準",
-      "variant": "positive"
+      "text": "隠蔽防止客観基準",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "教育的指導との葛藤",
-      "variant": "warning"
+      "text": "教育的指導との葛藤",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "警察連携",
+      "labelStandard": "警察連携",
+      "labelSimple": "警察連携",
       "value": "犯罪行為の即時通報義務",
+      "unit": "",
+      "oldValue": "現行",
       "description": "暴行・傷害・恐喝・性的加害・SNS誹謗中傷等19類型",
+      "descriptionStandard": "警察連携",
+      "descriptionSimple": "警察連携",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "客観基準",
+      "labelStandard": "客観基準",
+      "labelSimple": "客観基準",
       "value": "30日不登校・重傷等で自動認定",
+      "unit": "",
+      "oldValue": "現行",
       "description": "校長や教育委員会の恣意的な揉み消し・先送りを遮断",
+      "descriptionStandard": "客観基準",
+      "descriptionSimple": "客観基準",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "調査体制",
+      "labelStandard": "調査体制",
+      "labelSimple": "調査体制",
       "value": "中立な外部第三者委員会",
+      "unit": "",
+      "oldValue": "現行",
       "description": "弁護士・心理専門職による独立した事実関係の真相解明",
+      "descriptionStandard": "調査体制",
+      "descriptionSimple": "調査体制",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

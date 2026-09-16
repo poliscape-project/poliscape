@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "プラスチック資源循環",
-      "variant": "positive"
+      "text": "プラスチック資源循環",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "脱使い捨て社会",
-      "variant": "positive"
+      "text": "脱使い捨て社会",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "事業者コスト課題",
-      "variant": "neutral"
+      "text": "事業者コスト課題",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "対象品目",
+      "labelStandard": "対象品目",
+      "labelSimple": "対象品目",
       "value": "特定プラ12品目",
+      "unit": "",
+      "oldValue": "現行",
       "description": "歯ブラシ、カミソリ、スプーン、フォーク等の使い捨て品",
+      "descriptionStandard": "対象品目",
+      "descriptionSimple": "対象品目",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Leaf"
     },
     {
       "label": "削減手法",
+      "labelStandard": "削減手法",
+      "labelSimple": "削減手法",
       "value": "有料化・辞退確認・代替素材",
+      "unit": "",
+      "oldValue": "現行",
       "description": "事業者の実情に応じた削減措置の選択と履行義務",
+      "descriptionStandard": "削減手法",
+      "descriptionSimple": "削減手法",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "新制度",
+      "labelStandard": "新制度",
+      "labelSimple": "新制度",
       "value": "一括回収・自主リサイクル",
+      "unit": "",
+      "oldValue": "現行",
       "description": "自治体の一括分別回収と企業の自主回収認定",
+      "descriptionStandard": "新制度",
+      "descriptionSimple": "新制度",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

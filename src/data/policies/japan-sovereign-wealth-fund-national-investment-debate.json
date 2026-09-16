@@ -1,8 +1,8 @@
 {
   "id": "japan-sovereign-wealth-fund-national-investment-debate",
   "title": "国家戦略投資のための日本版ソブリン・ウェルス・ファンド創設法案",
-  "category": "tax-finance",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "政府が保有する膨大な公的資産（外国為替資金特別会計の約1.3兆ドルにおよぶ外貨準備や財政投融資資産等）の運用益を最大化し、先端半導体、AI、宇宙、重要インフラ等の国家戦略分野へ長期投資する「日本版ソブリン・ウェルス・ファンド（SWF）」を創設する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "財政・金融",
-      "variant": "blue"
+      "text": "財政・金融",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "国家投資ファンド",
-      "variant": "green"
+      "text": "国家投資ファンド",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "財源創出",
-      "variant": "purple"
+      "text": "財源創出",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "外貨準備保有総額",
+      "label": "外貨準備保有総額",
+      "labelStandard": "外貨準備保有総額",
+      "labelSimple": "外貨準備保有総額",
       "value": "1.3",
       "unit": "兆ドル（約200兆円）",
+      "oldValue": "現行",
       "description": "日本政府が保有する世界第2位の膨大な外貨資産（ファンドの潜在的原資）",
-      "trend": "neutral",
-      "trendLabel": "世界2位の巨額資産"
+      "descriptionStandard": "外貨準備保有総額",
+      "descriptionSimple": "外貨準備保有総額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "想定超過収益",
+      "label": "想定超過収益",
+      "labelStandard": "想定超過収益",
+      "labelSimple": "想定超過収益",
       "value": "3-5",
       "unit": "兆円/年",
+      "oldValue": "現行",
       "description": "年3〜5%の分散運用利回り達成時に期待される年間国庫還元額",
-      "trend": "up",
-      "trendLabel": "新規財源創出"
+      "descriptionStandard": "想定超過収益",
+      "descriptionSimple": "想定超過収益",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

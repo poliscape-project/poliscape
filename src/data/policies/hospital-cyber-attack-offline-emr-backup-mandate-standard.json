@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "診療データ復旧時間",
+      "labelStandard": "診療データ復旧時間",
+      "labelSimple": "診療データ復旧時間",
       "value": "数日以内",
       "unit": "に短縮（従来数ヶ月）",
       "oldValue": "2〜3ヶ月間の通常診療停止",
       "description": "隔離されたクリーンバックアップからの迅速リストアによる早期再開",
+      "descriptionStandard": "診療データ復旧時間",
+      "descriptionSimple": "診療データ復旧時間",
       "badge": "迅速復旧",
       "badgeColor": "green",
       "icon": "arrow-path"
     },
     {
       "label": "導入設備補助率",
+      "labelStandard": "導入設備補助率",
+      "labelSimple": "導入設備補助率",
       "value": "最大50",
       "unit": "%（公費助成）",
       "oldValue": "病院全額負担",
       "description": "不変性ストレージやEDRセキュリティ監視ソリューションへの公費支援",
+      "descriptionStandard": "導入設備補助率",
+      "descriptionSimple": "導入設備補助率",
       "badge": "最大半額補助",
       "badgeColor": "blue",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

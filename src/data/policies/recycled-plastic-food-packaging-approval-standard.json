@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "ケミカルリサイクル",
-      "variant": "positive"
+      "text": "ケミカルリサイクル",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "食品安全",
-      "variant": "positive"
+      "text": "食品安全",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "脱プラスチック",
-      "variant": "neutral"
+      "text": "脱プラスチック",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "利用目標",
+      "labelStandard": "利用目標",
+      "labelSimple": "利用目標",
       "value": "2030年30%以上",
+      "unit": "",
+      "oldValue": "現行",
       "description": "大手食品・飲料包装への再生プラスチック使用比率を義務化",
+      "descriptionStandard": "利用目標",
+      "descriptionSimple": "利用目標",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "安全評価",
+      "labelStandard": "安全評価",
+      "labelSimple": "安全評価",
       "value": "科学的チャレンジテスト",
+      "unit": "",
+      "oldValue": "現行",
       "description": "欧米EFSA/FDAと同等の迅速安全性承認ガイドラインを確立",
+      "descriptionStandard": "安全評価",
+      "descriptionSimple": "安全評価",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

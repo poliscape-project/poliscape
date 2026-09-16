@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "物流2024年問題",
-      "variant": "positive"
+      "text": "物流2024年問題",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "高速料金見直し",
-      "variant": "positive"
+      "text": "高速料金見直し",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "コスト転嫁課題",
-      "variant": "warning"
+      "text": "コスト転嫁課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "新方式",
+      "labelStandard": "新方式",
+      "labelSimple": "新方式",
       "value": "走行分のみ3割引",
+      "unit": "",
+      "oldValue": "現行",
       "description": "深夜帯に実際に走った距離分だけを割引計算",
+      "descriptionStandard": "新方式",
+      "descriptionSimple": "新方式",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "対象時間",
+      "labelStandard": "対象時間",
+      "labelSimple": "対象時間",
       "value": "22時〜翌5時へ拡大",
+      "unit": "",
+      "oldValue": "現行",
       "description": "割引対象時間を拡大し運行の自由度を確保",
+      "descriptionStandard": "対象時間",
+      "descriptionSimple": "対象時間",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "効果",
+      "labelStandard": "効果",
+      "labelSimple": "効果",
       "value": "危険な滞留渋滞ゼロへ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "料金所前での0時待ちハザード駐車を根本解消",
+      "descriptionStandard": "効果",
+      "descriptionSimple": "効果",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

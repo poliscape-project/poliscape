@@ -161,50 +161,62 @@
   "badges": [
     {
       "label": "全新築住宅で適合義務化",
-      "variant": "neutral"
+      "text": "全新築住宅で適合義務化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "4号特例の大幅縮小",
-      "variant": "neutral"
+      "text": "4号特例の大幅縮小",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "不適合なら着工不可",
-      "variant": "neutral"
+      "text": "不適合なら着工不可",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "省エネ基準の適合対象",
+      "label": "",
       "labelStandard": "新築住宅の適合義務",
+      "labelSimple": "省エネ基準の適合対象",
       "value": "100%",
       "unit": "（原則全棟）",
       "oldValue": "大規模ビル等のみ（住宅は努力義務）",
-      "descriptionSimple": "戸建て住宅もマンションも、すべての新築で基準クリアが必須に！",
+      "description": "",
       "descriptionStandard": "建築確認手続きと連動し省エネ基準不適合の建物は確認済証が不交付",
+      "descriptionSimple": "戸建て住宅もマンションも、すべての新築で基準クリアが必須に！",
       "badge": "全棟完全義務化",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Home"
     },
     {
-      "labelSimple": "木造2階建ての耐震審査",
+      "label": "",
       "labelStandard": "4号特例の縮小と新2号化",
+      "labelSimple": "木造2階建ての耐震審査",
       "value": "審査必須",
       "unit": "（省略廃止）",
       "oldValue": "図面や計算書の審査を省略",
-      "descriptionSimple": "普通の木造2階建て住宅でも耐震性の書類提出が義務付けられる！",
+      "description": "",
       "descriptionStandard": "木造戸建ての構造関係規定等に係る図書提出・審査を必須化",
+      "descriptionSimple": "普通の木造2階建て住宅でも耐震性の書類提出が義務付けられる！",
       "badge": "耐震安全性向上",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "最低限必要な断熱性能",
+      "label": "",
       "labelStandard": "断熱等性能等級の基準",
+      "labelSimple": "最低限必要な断熱性能",
       "value": "等級 4",
       "unit": "以上（2030年は等級5）",
       "oldValue": "等級の法的強制力なし",
-      "descriptionSimple": "ペアガラスやしっかりした断熱材が日本の最低基準に！",
+      "description": "",
       "descriptionStandard": "外皮平均熱貫流率（Ua値）等の断熱等級4および一次エネ消費量等級4以上",
+      "descriptionSimple": "ペアガラスやしっかりした断熱材が日本の最低基準に！",
       "badge": "最低ライン設定",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Flame"

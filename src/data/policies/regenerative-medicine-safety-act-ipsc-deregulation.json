@@ -2,7 +2,7 @@
   "id": "regenerative-medicine-safety-act-ipsc-deregulation",
   "title": "再生医療等安全性確保法・薬機法の合理化改正（iPS細胞実用化迅速化）",
   "catchphrase": "日本の再生医療を世界最速で患者へ。リスクに応じた手続き合理化とiPS・細胞治療の商用承認を加速",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・健康・公衆衛生",
   "lastUpdated": "2024-05-20",
   "effectiveDate": "2024年6月改正法成立・1年以内施行予定",
@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "iPS実用化迅速化",
-      "variant": "positive"
+      "text": "iPS実用化迅速化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "悪質美容取締強化",
-      "variant": "positive"
+      "text": "悪質美容取締強化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "超高額薬価が課題",
-      "variant": "warning"
+      "text": "超高額薬価が課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "規制の合理化",
+      "labelStandard": "規制の合理化",
+      "labelSimple": "規制の合理化",
       "value": "リスクに応じた手続き簡素化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "実績ある細胞治療の審査区分引き下げと期間短縮",
+      "descriptionStandard": "規制の合理化",
+      "descriptionSimple": "規制の合理化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "取締権限",
+      "labelStandard": "取締権限",
+      "labelSimple": "取締権限",
       "value": "緊急停止命令・立入検査",
+      "unit": "",
+      "oldValue": "現行",
       "description": "科学的根拠なき自由診療クリニックへの監視強化",
+      "descriptionStandard": "取締権限",
+      "descriptionSimple": "取締権限",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "対象分野",
+      "labelStandard": "対象分野",
+      "labelSimple": "対象分野",
       "value": "iPS・他家幹細胞治療",
+      "unit": "",
+      "oldValue": "現行",
       "description": "脊髄損傷、パーキンソン病、重症心不全等の克服",
+      "descriptionStandard": "対象分野",
+      "descriptionSimple": "対象分野",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     }
   ],

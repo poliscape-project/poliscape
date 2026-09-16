@@ -2,7 +2,7 @@
   "id": "minimum-pension-guaranteed-allowance-poverty-alleviation",
   "title": "年金生活者支援給付金拡充法（低所得高齢者加算金引き上げ）",
   "catchphrase": "低年金による高齢者貧困を救済、基礎年金に上乗せ支給される支援給付金の月額増額と受給手続き簡素化",
-  "category": "welfare",
+  "category": "society",
   "categoryLabel": "社会保障・福祉",
   "lastUpdated": "2026-02-05",
   "effectiveDate": "2025年10月施行",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "年金給付金",
-      "variant": "positive"
+      "text": "年金給付金",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "貧困対策",
-      "variant": "positive"
+      "text": "貧困対策",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "高齢者福祉",
-      "variant": "neutral"
+      "text": "高齢者福祉",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "月額最大7,500円へ増額",
+      "labelStandard": "月額最大7,500円へ増額",
+      "labelSimple": "月額最大7,500円へ増額",
       "value": "月額最大7,500円へ増額",
+      "unit": "",
+      "oldValue": "現行",
       "description": "低所得年金受給者の基礎年金に毎月手厚く上乗せ支給。",
+      "descriptionStandard": "月額最大7,500円へ増額",
+      "descriptionSimple": "月額最大7,500円へ増額",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "プッシュ型で申請漏れゼロ",
+      "labelStandard": "プッシュ型で申請漏れゼロ",
+      "labelSimple": "プッシュ型で申請漏れゼロ",
       "value": "プッシュ型で申請漏れゼロ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "マイナンバーを活用し対象者へ案内なしで自動審査・振込。",
+      "descriptionStandard": "プッシュ型で申請漏れゼロ",
+      "descriptionSimple": "プッシュ型で申請漏れゼロ",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "対象世帯を150万人拡大",
+      "labelStandard": "対象世帯を150万人拡大",
+      "labelSimple": "対象世帯を150万人拡大",
       "value": "対象世帯を150万人拡大",
+      "unit": "",
+      "oldValue": "現行",
       "description": "所得基準を緩和し物価高で困窮する高齢層を幅広くカバー。",
+      "descriptionStandard": "対象世帯を150万人拡大",
+      "descriptionSimple": "対象世帯を150万人拡大",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

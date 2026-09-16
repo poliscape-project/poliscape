@@ -1,8 +1,8 @@
 {
   "id": "smart-forestry-wearable-assist-suit-equipment-grant",
   "title": "急傾斜地林業向けアシストスーツ及び遠隔操作グラップル導入支援",
-  "category": "regional-agriculture",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "日本の林業における深刻な高齢化と、全産業平均の約10倍に達する過酷な労働災害死亡事故を撲滅するため、急傾斜地での作業を支援する「パワードアシストスーツ」や「遠隔操作式高性能林業機械（林内作業グラップル・タワーヤーダ）」の導入費用の3分の2を助成する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "スマート林業",
-      "variant": "green"
+      "text": "スマート林業",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "労働安全",
-      "variant": "blue"
+      "text": "労働安全",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "ロボットスーツ",
-      "variant": "purple"
+      "text": "ロボットスーツ",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "作業疲労度・腰痛負荷軽減",
+      "label": "作業疲労度・腰痛負荷軽減",
+      "labelStandard": "作業疲労度・腰痛負荷軽減",
+      "labelSimple": "作業疲労度・腰痛負荷軽減",
       "value": "40",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "外骨格アシストスーツ着用による斜面歩行およびチェーンソー保持時の筋肉疲労軽減",
-      "trend": "down",
-      "trendLabel": "身体負荷大幅減"
+      "descriptionStandard": "作業疲労度・腰痛負荷軽減",
+      "descriptionSimple": "作業疲労度・腰痛負荷軽減",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "労災死亡事故半減目標",
+      "label": "労災死亡事故半減目標",
+      "labelStandard": "労災死亡事故半減目標",
+      "labelSimple": "労災死亡事故半減目標",
       "value": "50",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "遠隔操作化と安全装備普及による林業死亡災害の半減国家目標",
-      "trend": "down",
-      "trendLabel": "死亡事故半減"
+      "descriptionStandard": "労災死亡事故半減目標",
+      "descriptionSimple": "労災死亡事故半減目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

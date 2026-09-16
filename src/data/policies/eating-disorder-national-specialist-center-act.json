@@ -2,7 +2,7 @@
   "id": "eating-disorder-national-specialist-center-act",
   "title": "摂食障害専門治療・包括支援ネットワーク法（全国拠点病院整備）",
   "catchphrase": "孤立する摂食障害に専門の光を、全国拠点病院の整備と包括的ケア",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・福祉",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "思春期メンタル",
-      "variant": "positive"
+      "text": "思春期メンタル",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "摂食障害拠点",
-      "variant": "positive"
+      "text": "摂食障害拠点",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "専門医療",
-      "variant": "neutral"
+      "text": "専門医療",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "全国拠点病院整備",
+      "labelStandard": "全国拠点病院整備",
+      "labelSimple": "全国拠点病院整備",
       "value": "全47都道府県",
+      "unit": "",
+      "oldValue": "現行",
       "description": "どこに住んでいても専門的な診断・治療が受けられる体制を構築",
+      "descriptionStandard": "全国拠点病院整備",
+      "descriptionSimple": "全国拠点病院整備",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "心身統合型チーム",
+      "labelStandard": "心身統合型チーム",
+      "labelSimple": "心身統合型チーム",
       "value": "内科×精神科",
+      "unit": "",
+      "oldValue": "現行",
       "description": "点滴での身体管理と心理カウンセリングをワンストップで実施",
+      "descriptionStandard": "心身統合型チーム",
+      "descriptionSimple": "心身統合型チーム",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

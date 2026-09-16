@@ -4,7 +4,7 @@
   "catchphrase": "猛暑の熱中症と避難所の凍死を防ぐ。全国の小中学校体育館への空調完全配備を国費補助",
   "category": "education",
   "categoryLabel": "学校施設・防災インフラ",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "体育館エアコン",
-      "variant": "purple"
+      "text": "体育館エアコン",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "熱中症予防",
-      "variant": "blue"
+      "text": "熱中症予防",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "防災避難所",
-      "variant": "green"
+      "text": "防災避難所",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "体育館空調配備目標率",
+      "label": "体育館空調配備目標率",
+      "labelStandard": "体育館空調配備目標率",
+      "labelSimple": "体育館空調配備目標率",
       "value": "100",
       "unit": "%",
+      "oldValue": "現行",
       "description": "指定避難所となる全国すべての公立小中学校体育館における冷暖房空調設備の設置目標",
-      "trend": "up",
-      "trendLabel": "完全配備"
+      "descriptionStandard": "体育館空調配備目標率",
+      "descriptionSimple": "体育館空調配備目標率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "夏期体育館内温度低減",
+      "label": "夏期体育館内温度低減",
+      "labelStandard": "夏期体育館内温度低減",
+      "labelSimple": "夏期体育館内温度低減",
       "value": "10",
       "unit": "℃以上低減",
+      "oldValue": "現行",
       "description": "断熱改修と大型空調稼働により40℃超の酷暑空間を28℃以下の安全水準に冷却する効果",
-      "trend": "down",
-      "trendLabel": "安全温度維持"
+      "descriptionStandard": "夏期体育館内温度低減",
+      "descriptionSimple": "夏期体育館内温度低減",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

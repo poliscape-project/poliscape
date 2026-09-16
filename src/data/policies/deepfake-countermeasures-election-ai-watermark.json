@@ -2,7 +2,7 @@
   "id": "deepfake-countermeasures-election-ai-watermark",
   "title": "選挙ディープフェイク・偽情報対策法（AI生成コンテンツ電子透かし義務付け）",
   "catchphrase": "精巧な偽動画で選挙が歪められるのを防ぐ。生成AIコンテンツへの電子透かし義務化とプラットフォーム迅速削除",
-  "category": "technology",
+  "category": "society",
   "categoryLabel": "テクノロジー・AI・情報",
   "lastUpdated": "2024-04-10",
   "effectiveDate": "法案審議中（2025年施行目指す）",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "AI偽情報対策",
-      "variant": "positive"
+      "text": "AI偽情報対策",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "電子透かし義務化",
-      "variant": "positive"
+      "text": "電子透かし義務化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "表現の自由論争",
-      "variant": "warning"
+      "text": "表現の自由論争",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "対象",
+      "labelStandard": "対象",
+      "labelSimple": "対象",
       "value": "政治関連AI動画・音声",
+      "unit": "",
+      "oldValue": "現行",
       "description": "選挙期間中の世論誘導ディープフェイクを規制",
+      "descriptionStandard": "対象",
+      "descriptionSimple": "対象",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "対応期限",
+      "labelStandard": "対応期限",
+      "labelSimple": "対応期限",
       "value": "48時間以内迅速削除",
+      "unit": "",
+      "oldValue": "現行",
       "description": "プラットフォームへ悪質動画の速やかな遮断を義務付け",
+      "descriptionStandard": "対応期限",
+      "descriptionSimple": "対応期限",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "技術要件",
+      "labelStandard": "技術要件",
+      "labelSimple": "技術要件",
       "value": "不可視電子透かし",
+      "unit": "",
+      "oldValue": "現行",
       "description": "C2PAやオリジネーター・プロファイル等の出所証明を導入",
+      "descriptionStandard": "技術要件",
+      "descriptionSimple": "技術要件",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

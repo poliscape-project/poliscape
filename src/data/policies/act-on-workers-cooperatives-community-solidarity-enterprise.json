@@ -155,50 +155,62 @@
   "badges": [
     {
       "label": "出資・意見・労働の一致",
-      "variant": "neutral"
+      "text": "出資・意見・労働の一致",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "3人で即日登記可能",
-      "variant": "neutral"
+      "text": "3人で即日登記可能",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "出資配当なし・1人1票",
-      "variant": "neutral"
+      "text": "出資配当なし・1人1票",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "組合を作るのに必要な人数",
+      "label": "",
       "labelStandard": "設立発起人の最低人数",
+      "labelSimple": "組合を作るのに必要な人数",
       "value": "3人以上",
       "unit": "（登記のみで即設立）",
       "oldValue": "NPO認証に数ヶ月〜半年",
-      "descriptionSimple": "3人の仲間が集まれば役所の許可なしですぐに立ち上げられる！",
+      "description": "",
       "descriptionStandard": "準則主義により定款作成と法務局での登記手続きのみで成立",
+      "descriptionSimple": "3人の仲間が集まれば役所の許可なしですぐに立ち上げられる！",
       "badge": "スピーディー設立",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "会社の決め事のルール",
+      "label": "",
       "labelStandard": "組合員の議決権",
+      "labelSimple": "会社の決め事のルール",
       "value": "1人 1票",
       "unit": "（出資額に無関係）",
       "oldValue": "出資比率に応じた議決権",
-      "descriptionSimple": "大金を払った人が威張るのではなく、全員が対等に話し合える！",
+      "description": "",
       "descriptionStandard": "資本多数決を排除し人間平等の原則に基づく民主的運営を担保",
+      "descriptionSimple": "大金を払った人が威張るのではなく、全員が対等に話し合える！",
       "badge": "民主的運営",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "働く人の身分と安全",
+      "label": "",
       "labelStandard": "労働契約と労働法の適用",
+      "labelSimple": "働く人の身分と安全",
       "value": "労基法適用",
       "unit": "（最低賃金・労災対象）",
       "oldValue": "個人事業主や無償ボランティア",
-      "descriptionSimple": "出資者であっても従業員として労働基準法や労災保険で守られる！",
+      "description": "",
       "descriptionStandard": "組合と組合員の間で労働契約を締結し最低賃金や労働時間を法的に保護",
+      "descriptionSimple": "出資者であっても従業員として労働基準法や労災保険で守られる！",
       "badge": "労働者保護",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "CheckCircle2"

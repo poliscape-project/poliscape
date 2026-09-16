@@ -1,7 +1,7 @@
 {
   "id": "synthetic-biology-biomanufacturing-pilot-foundry-subsidy",
   "title": "合成生物学・バイオものづくり（バイオファウンドリ）拠点整備支援",
-  "category": "technology",
+  "category": "society",
   "subcategory": "先端科学技術",
   "status": "施行中",
   "date": "2024-06",
@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "事業支援総予算",
+      "labelStandard": "事業支援総予算",
+      "labelSimple": "事業支援総予算",
       "value": "3000",
       "unit": "億円規模",
       "oldValue": "数十億円/年",
       "description": "NEDO基金による複数年度にわたる大規模バイオ製造インフラ投資",
+      "descriptionStandard": "事業支援総予算",
+      "descriptionSimple": "事業支援総予算",
       "badge": "国家大型基金",
       "badgeColor": "blue",
       "icon": "currency-yen"
     },
     {
       "label": "CO2削減効果目標",
+      "labelStandard": "CO2削減効果目標",
+      "labelSimple": "CO2削減効果目標",
       "value": "80",
       "unit": "%減（従来比）",
       "oldValue": "石油化学プロセス",
       "description": "微生物発酵による高機能化学品合成時の温室効果ガス削減率",
+      "descriptionStandard": "CO2削減効果目標",
+      "descriptionSimple": "CO2削減効果目標",
       "badge": "劇的脱炭素",
       "badgeColor": "green",
       "icon": "sparkles"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "technology"
 }

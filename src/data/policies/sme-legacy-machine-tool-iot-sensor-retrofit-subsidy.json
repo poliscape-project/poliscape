@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "設備投資費用削減率",
+      "labelStandard": "設備投資費用削減率",
+      "labelSimple": "設備投資費用削減率",
       "value": "約90",
       "unit": "%安価（新品購入比）",
       "oldValue": "数千万円の全台更新",
       "description": "後付けセンサーとクラウド活用により新品導入の約10分の1の費用で実現",
+      "descriptionStandard": "設備投資費用削減率",
+      "descriptionSimple": "設備投資費用削減率",
       "badge": "投資コスト9割減",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "工場稼働率向上",
+      "labelStandard": "工場稼働率向上",
+      "labelSimple": "工場稼働率向上",
       "value": "約25",
       "unit": "%向上（実証平均）",
       "oldValue": "チョコ停や突発故障による停止多発",
       "description": "リアルタイムデータ可視化による段取りロス削減とライン最適化",
+      "descriptionStandard": "工場稼働率向上",
+      "descriptionSimple": "工場稼働率向上",
       "badge": "稼働率25%増",
       "badgeColor": "blue",
       "icon": "chart-bar"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

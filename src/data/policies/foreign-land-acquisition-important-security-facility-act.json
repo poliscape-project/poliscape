@@ -2,7 +2,7 @@
   "id": "foreign-land-acquisition-important-security-facility-act",
   "title": "重要土地等調査法全面運用（防衛施設・国境離島周囲の外国資本買収監視）",
   "catchphrase": "基地周辺や国境離島を守る、安保重要土地の利用・買収監視法制",
-  "category": "diplomacy",
+  "category": "society",
   "categoryLabel": "外交・安全保障",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2024年4月全面指定完了・監視強化中",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "安全保障",
-      "variant": "positive"
+      "text": "安全保障",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "土地買収監視",
-      "variant": "positive"
+      "text": "土地買収監視",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "国境離島",
-      "variant": "neutral"
+      "text": "国境離島",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "基地周辺1kmを特別監視",
+      "labelStandard": "基地周辺1kmを特別監視",
+      "labelSimple": "基地周辺1kmを特別監視",
       "value": "基地周辺1kmを特別監視",
+      "unit": "",
+      "oldValue": "現行",
       "description": "自衛隊・米軍基地や原発の周囲での不審な土地取得を事前に把握。",
+      "descriptionStandard": "基地周辺1kmを特別監視",
+      "descriptionSimple": "基地周辺1kmを特別監視",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "売買時の事前届出義務",
+      "labelStandard": "売買時の事前届出義務",
+      "labelSimple": "売買時の事前届出義務",
       "value": "売買時の事前届出義務",
+      "unit": "",
+      "oldValue": "現行",
       "description": "買い手の国籍や利用目的を届け出させ悪質な妨害利用を禁止。",
+      "descriptionStandard": "売買時の事前届出義務",
+      "descriptionSimple": "売買時の事前届出義務",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "国による買い取り制度",
+      "labelStandard": "国による買い取り制度",
+      "labelSimple": "国による買い取り制度",
       "value": "国による買い取り制度",
+      "unit": "",
+      "oldValue": "現行",
       "description": "利用制限により不利益を受ける地権者に対して国が適正価格で買い取る救済措置。",
+      "descriptionStandard": "国による買い取り制度",
+      "descriptionSimple": "国による買い取り制度",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

@@ -4,7 +4,7 @@
   "catchphrase": "軽度高齢者の要介護化を食い止める。要支援1・2の総合事業に成果連動型インセンティブと質基準を導入",
   "category": "healthcare",
   "categoryLabel": "介護予防・地域福祉",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "総合事業改革",
-      "variant": "purple"
+      "text": "総合事業改革",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "自立支援インセンティブ",
-      "variant": "blue"
+      "text": "自立支援インセンティブ",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "重度化防止",
-      "variant": "green"
+      "text": "重度化防止",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "自立・非該当改善率",
+      "label": "自立・非該当改善率",
+      "labelStandard": "自立・非該当改善率",
+      "labelSimple": "自立・非該当改善率",
       "value": "25",
       "unit": "%達成",
+      "oldValue": "現行",
       "description": "短期集中予防サービスCを受講した要支援高齢者のうち自立（介護保険非該当）へ改善した割合",
-      "trend": "up",
-      "trendLabel": "自立回復"
+      "descriptionStandard": "自立・非該当改善率",
+      "descriptionSimple": "自立・非該当改善率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "全国サービスC必置率",
+      "label": "全国サービスC必置率",
+      "labelStandard": "全国サービスC必置率",
+      "labelSimple": "全国サービスC必置率",
       "value": "100",
       "unit": "%義務",
+      "oldValue": "現行",
       "description": "専門職による短期集中リハビリプログラムを整備している全国市区町村の割合",
-      "trend": "up",
-      "trendLabel": "全都道府県整備"
+      "descriptionStandard": "全国サービスC必置率",
+      "descriptionSimple": "全国サービスC必置率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

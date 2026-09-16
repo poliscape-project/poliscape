@@ -4,7 +4,7 @@
   "catchphrase": "スタートアップの最大の顧客は政府。日本版SBIRによる実証助成と政府調達への優先採用義務化",
   "category": "economy",
   "categoryLabel": "イノベーション・調達改革",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "日本版SBIR",
-      "variant": "purple"
+      "text": "日本版SBIR",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "スタートアップ調達",
-      "variant": "blue"
+      "text": "スタートアップ調達",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "技術革新",
-      "variant": "green"
+      "text": "技術革新",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "政府調達スタートアップ比率",
+      "label": "政府調達スタートアップ比率",
+      "labelStandard": "政府調達スタートアップ比率",
+      "labelSimple": "政府調達スタートアップ比率",
       "value": "5",
       "unit": "%以上目標",
+      "oldValue": "現行",
       "description": "国等の公共調達総額に占める創業10年未満スタートアップからの直接調達割合目標",
-      "trend": "up",
-      "trendLabel": "調達枠拡大"
+      "descriptionStandard": "政府調達スタートアップ比率",
+      "descriptionSimple": "政府調達スタートアップ比率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "SBIR支援最大額",
+      "label": "SBIR支援最大額",
+      "labelStandard": "SBIR支援最大額",
+      "labelSimple": "SBIR支援最大額",
       "value": "30",
       "unit": "億円/件",
+      "oldValue": "現行",
       "description": "宇宙・バイオ・核融合等のディープテック実証フェーズ3に対する1件あたり最大公費助成規模",
-      "trend": "up",
-      "trendLabel": "大型助成"
+      "descriptionStandard": "SBIR支援最大額",
+      "descriptionSimple": "SBIR支援最大額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

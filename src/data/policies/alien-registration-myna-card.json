@@ -131,62 +131,76 @@
   "badges": [
     {
       "label": "在留カードとマイナ統合",
-      "variant": "neutral"
+      "text": "在留カードとマイナ統合",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "市役所訪問が不要に",
-      "variant": "neutral"
+      "text": "市役所訪問が不要に",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "偽造カード不法就労撲滅",
-      "variant": "neutral"
+      "text": "偽造カード不法就労撲滅",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "持っているカードの数",
+      "label": "",
       "labelStandard": "外国人住民のカード統合",
+      "labelSimple": "持っているカードの数",
       "value": "2枚 → 1枚",
       "unit": "（特定在留カード）",
       "oldValue": "在留カードとマイナカードの2枚持ち",
-      "descriptionSimple": "2枚あったカードが1枚に合体する！",
+      "description": "",
       "descriptionStandard": "在留カードとマイナンバーカードを一体化した新カード",
+      "descriptionSimple": "2枚あったカードが1枚に合体する！",
       "badge": "2枚を1枚に統合",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "CreditCard"
     },
     {
-      "labelSimple": "役所に行く回数",
+      "label": "",
       "labelStandard": "窓口手続きのワンストップ化",
+      "labelSimple": "役所に行く回数",
       "value": "市役所訪問",
       "unit": "が不要に",
       "oldValue": "入管で更新後、さらに市役所へ行く必要あり",
-      "descriptionSimple": "入国管理局に行けば市役所に行く必要がなくなる！",
+      "description": "",
       "descriptionStandard": "在留更新と同時にマイナンバー期限も自動連動更新",
+      "descriptionSimple": "入国管理局に行けば市役所に行く必要がなくなる！",
       "badge": "二度手間を解消",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "FileCheck"
     },
     {
-      "labelSimple": "節約できる時間",
+      "label": "",
       "labelStandard": "更新手続きの短縮時間",
+      "labelSimple": "節約できる時間",
       "value": "約 5時間",
       "unit": "節約 / 1回",
       "oldValue": "入管待ち時間＋市役所待ち時間で丸1日消費",
-      "descriptionSimple": "有給休暇を潰さずに手続きが終わる！",
+      "description": "",
       "descriptionStandard": "外国人本人と受け入れ企業の労務コストを大幅カット",
+      "descriptionSimple": "有給休暇を潰さずに手続きが終わる！",
       "badge": "約5時間短縮",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Clock"
     },
     {
-      "labelSimple": "ニセモノのカード防止",
+      "label": "",
       "labelStandard": "ICチップ暗号照合（JPKI）",
+      "labelSimple": "ニセモノのカード防止",
       "value": "偽造を撲滅",
       "unit": "（1秒で判別）",
       "oldValue": "精巧な偽造在留カードでの不法就労が多発",
-      "descriptionSimple": "スマホをかざすだけでニセモノかすぐ見破れる！",
+      "description": "",
       "descriptionStandard": "公的個人認証と入管データベースのリアルタイム照合",
+      "descriptionSimple": "スマホをかざすだけでニセモノかすぐ見破れる！",
       "badge": "不法就労を防止",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "ShieldCheck"

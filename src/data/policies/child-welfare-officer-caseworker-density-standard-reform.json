@@ -4,7 +4,7 @@
   "catchphrase": "児童虐待死ゼロへ。児相の児童福祉司・心理司を大幅増員しケースワーカー担当件数を半減",
   "category": "childcare",
   "categoryLabel": "子ども家庭福祉・安全",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "児童相談所",
-      "variant": "purple"
+      "text": "児童相談所",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "虐待死ゼロ",
-      "variant": "blue"
+      "text": "虐待死ゼロ",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "配置基準強化",
-      "variant": "green"
+      "text": "配置基準強化",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "児童福祉司配置基準",
+      "label": "児童福祉司配置基準",
+      "labelStandard": "児童福祉司配置基準",
+      "labelSimple": "児童福祉司配置基準",
       "value": "20,000",
       "unit": "人に1人",
+      "oldValue": "現行",
       "description": "管轄人口あたりの児童福祉司配置基準（従来の3万〜4万人から大幅厳格化）",
-      "trend": "down",
-      "trendLabel": "基準引き上げ"
+      "descriptionStandard": "児童福祉司配置基準",
+      "descriptionSimple": "児童福祉司配置基準",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "弁護士常駐率",
+      "label": "弁護士常駐率",
+      "labelStandard": "弁護士常駐率",
+      "labelSimple": "弁護士常駐率",
       "value": "100",
       "unit": "%達成",
+      "oldValue": "現行",
       "description": "全国すべての児童相談所における常勤弁護士または専任常任弁護士の配備率",
-      "trend": "up",
-      "trendLabel": "全児相常駐"
+      "descriptionStandard": "弁護士常駐率",
+      "descriptionSimple": "弁護士常駐率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

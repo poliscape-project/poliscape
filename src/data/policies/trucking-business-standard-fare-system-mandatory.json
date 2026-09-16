@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "トラック運賃引上げ",
-      "variant": "positive"
+      "text": "トラック運賃引上げ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "トラックGメン",
-      "variant": "positive"
+      "text": "トラックGメン",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "物価転嫁課題",
-      "variant": "warning"
+      "text": "物価転嫁課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "引上げ率",
+      "labelStandard": "引上げ率",
+      "labelSimple": "引上げ率",
       "value": "平均約8%引き上げ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "物価高・人件費高騰を反映した国の新運賃告示",
+      "descriptionStandard": "引上げ率",
+      "descriptionSimple": "引上げ率",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "監視体制",
+      "labelStandard": "監視体制",
+      "labelSimple": "監視体制",
       "value": "トラックGメン160名超",
+      "unit": "",
+      "oldValue": "現行",
       "description": "不当な荷待ちや買いたたき荷主を徹底監視・公表",
+      "descriptionStandard": "監視体制",
+      "descriptionSimple": "監視体制",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "構造改革",
+      "labelStandard": "構造改革",
+      "labelSimple": "構造改革",
       "value": "実運送体制の義務化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "多重下請けの中抜き構造を是正しドライバーへ還元",
+      "descriptionStandard": "構造改革",
+      "descriptionSimple": "構造改革",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     }
   ],

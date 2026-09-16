@@ -161,58 +161,76 @@
   "badges": [
     {
       "label": "教職調整額を4%から10%以上へ拡充",
-      "variant": "neutral"
+      "text": "教職調整額を4%から10%以上へ拡充",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "サポートスタッフの全校配備",
-      "variant": "neutral"
+      "text": "サポートスタッフの全校配備",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "自治体直収による集金負担ゼロ化",
-      "variant": "neutral"
+      "text": "自治体直収による集金負担ゼロ化",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "教職調整額の支給水準",
+      "label": "",
       "labelStandard": "教職調整額の支給水準",
+      "labelSimple": "教職調整額の支給水準",
       "value": "教職調整額を4%から10%以上へ拡充",
       "unit": "",
       "oldValue": "これまで: 1971年制定以来、給料月額の4%で50年間固定（残業代不支給）",
       "description": "給料月額の10%以上（13%程度を軸に調整）へ大幅引き上げ",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "教職調整額を4%から10%以上へ拡充",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "学校事務・雑務の支援員配置",
+      "label": "",
       "labelStandard": "学校事務・雑務の支援員配置",
+      "labelSimple": "学校事務・雑務の支援員配置",
       "value": "サポートスタッフの全校配備",
       "unit": "",
       "oldValue": "これまで: プリント印刷や電話対応、備品管理を教員が持ち時間外に兼務",
       "description": "スクール・サポート・スタッフ（校務支援員）を全小中学校に重点配置",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "サポートスタッフの全校配備",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "給食費・教材費の現金徴収",
+      "label": "",
       "labelStandard": "給食費・教材費の現金徴収",
+      "labelSimple": "給食費・教材費の現金徴収",
       "value": "自治体直収による集金負担ゼロ化",
       "unit": "",
       "oldValue": "これまで: 担任教員が保護者への督促や現金の計算・口座管理を担当",
       "description": "自治体による公会計化（自治体直収）を義務付け教員の金銭管理を完全排除",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "自治体直収による集金負担ゼロ化",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "CheckCircle2"
     },
     {
-      "labelSimple": "小学校高学年の指導体制",
+      "label": "",
       "labelStandard": "小学校高学年の指導体制",
+      "labelSimple": "小学校高学年の指導体制",
       "value": "小学校高学年の教科担任制推進",
       "unit": "",
       "oldValue": "これまで: 単独担任がほぼ全教科を教えるため授業準備の空きコマが極小",
       "description": "小5・小6における教科担任制の全面導入で授業負担を分散",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "小学校高学年の教科担任制推進",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "BookOpen"

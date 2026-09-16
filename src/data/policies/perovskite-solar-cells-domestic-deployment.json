@@ -145,62 +145,76 @@
   "badges": [
     {
       "label": "次世代ペロブスカイト",
-      "variant": "neutral"
+      "text": "次世代ペロブスカイト",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "ビル壁面・曲面設置",
-      "variant": "neutral"
+      "text": "ビル壁面・曲面設置",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "ヨウ素の国産サプライ",
-      "variant": "neutral"
+      "text": "ヨウ素の国産サプライ",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "超軽量・柔軟",
+      "label": "",
       "labelStandard": "電池の薄さと重量",
+      "labelSimple": "超軽量・柔軟",
       "value": "従来の1/10",
       "unit": "以下の軽さ",
       "oldValue": "重いシリコン製ガラスパネル",
-      "descriptionSimple": "曲げられ建物の壁面や窓にも設置可能",
+      "description": "",
       "descriptionStandard": "曲げられ建物の壁面や窓にも設置可能",
+      "descriptionSimple": "曲げられ建物の壁面や窓にも設置可能",
       "badge": "超軽量・柔軟",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Sun"
     },
     {
-      "labelSimple": "純国産資源",
+      "label": "",
       "labelStandard": "主原料ヨウ素の日本シェア",
+      "labelSimple": "純国産資源",
       "value": "世界第 2",
       "unit": "位（約3割）",
       "oldValue": "シリコン原材料は中国産に依存",
-      "descriptionSimple": "純国産の資源サプライチェーンを確立",
+      "description": "",
       "descriptionStandard": "純国産の資源サプライチェーンを確立",
+      "descriptionSimple": "純国産の資源サプライチェーンを確立",
       "badge": "純国産資源",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Globe"
     },
     {
-      "labelSimple": "官民投資支援",
+      "label": "",
       "labelStandard": "政府の量産導入目標",
+      "labelSimple": "官民投資支援",
       "value": "2030年",
       "unit": "までに普及",
       "oldValue": "研究所での実験段階にとどまる",
-      "descriptionSimple": "公共施設や鉄道駅の壁面へ先導導入",
+      "description": "",
       "descriptionStandard": "公共施設や鉄道駅の壁面へ先導導入",
+      "descriptionSimple": "公共施設や鉄道駅の壁面へ先導導入",
       "badge": "官民投資支援",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Building"
     },
     {
-      "labelSimple": "技術課題",
+      "label": "",
       "labelStandard": "現在の耐久性（寿命）",
+      "labelSimple": "技術課題",
       "value": "10〜15",
       "unit": "年（改善中）",
       "oldValue": "シリコン太陽電池 約20〜30年",
-      "descriptionSimple": "水や熱への弱さを克服する封止技術が急務",
+      "description": "",
       "descriptionStandard": "水や熱への弱さを克服する封止技術が急務",
+      "descriptionSimple": "水や熱への弱さを克服する封止技術が急務",
       "badge": "技術課題",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Activity"

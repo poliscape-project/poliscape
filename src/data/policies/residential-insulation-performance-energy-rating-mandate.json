@@ -1,8 +1,8 @@
 {
   "id": "residential-insulation-performance-energy-rating-mandate",
   "title": "新築住宅の断熱等性能等級6以上（ZEH基準超）表示義務化と適合誘導",
-  "category": "energy-environment",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "2025年4月の省エネ基準適合義務化（断熱等級4）に続き、新築一戸建て・マンションの不動産販売・賃貸広告において、より高い上位等級「断熱等性能等級6以上（HEAT20 G2相当、ZEH水準超）」の性能ラベル表示を完全義務付ける。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "住宅断熱",
-      "variant": "green"
+      "text": "住宅断熱",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "健康住宅",
-      "variant": "blue"
+      "text": "健康住宅",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "省エネ基準",
-      "variant": "purple"
+      "text": "省エネ基準",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "年間ヒートショック死者数",
+      "label": "年間ヒートショック死者数",
+      "labelStandard": "年間ヒートショック死者数",
+      "labelSimple": "年間ヒートショック死者数",
       "value": "1.9",
       "unit": "万人",
+      "oldValue": "現行",
       "description": "冬場の入浴中急死者数（交通事故死者数の約7倍に相当する防げる事故）",
-      "trend": "neutral",
-      "trendLabel": "深刻な被害"
+      "descriptionStandard": "年間ヒートショック死者数",
+      "descriptionSimple": "年間ヒートショック死者数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "冷暖房光熱費の削減効果",
+      "label": "冷暖房光熱費の削減効果",
+      "labelStandard": "冷暖房光熱費の削減効果",
+      "labelSimple": "冷暖房光熱費の削減効果",
       "value": "50",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "断熱等級6以上の施工により年間エアコン電気代を半分以下に抑制",
-      "trend": "down",
-      "trendLabel": "光熱費半減"
+      "descriptionStandard": "冷暖房光熱費の削減効果",
+      "descriptionSimple": "冷暖房光熱費の削減効果",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

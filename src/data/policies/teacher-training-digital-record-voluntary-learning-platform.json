@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "免許有効期間",
+      "labelStandard": "免許有効期間",
+      "labelSimple": "免許有効期間",
       "value": "生涯有効",
       "unit": "（10年更新完全撤廃）",
       "oldValue": "10年ごとに失効リスク",
       "description": "更新手続き不要で生涯にわたり教員免許の効力を保持",
+      "descriptionStandard": "免許有効期間",
+      "descriptionSimple": "免許有効期間",
       "badge": "生涯有効化",
       "badgeColor": "green",
       "icon": "check-circle"
     },
     {
       "label": "教員自己負担講習費",
+      "labelStandard": "教員自己負担講習費",
+      "labelSimple": "教員自己負担講習費",
       "value": "0",
       "unit": "円（完全無料化）",
       "oldValue": "自腹で約3万円負担",
       "description": "公費オンラインプラットフォームによる研修費用の完全無償化",
+      "descriptionStandard": "教員自己負担講習費",
+      "descriptionSimple": "教員自己負担講習費",
       "badge": "金銭負担ゼロ",
       "badgeColor": "blue",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

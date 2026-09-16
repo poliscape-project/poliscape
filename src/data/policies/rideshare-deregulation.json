@@ -155,62 +155,76 @@
   "badges": [
     {
       "label": "タクシー同等運賃",
-      "variant": "neutral"
+      "text": "タクシー同等運賃",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "タクシー会社が安全管理",
-      "variant": "neutral"
+      "text": "タクシー会社が安全管理",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "不足時間帯・エリア限定",
-      "variant": "neutral"
+      "text": "不足時間帯・エリア限定",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "乗るときの料金水準",
+      "label": "",
       "labelStandard": "事前確定タクシー同等運賃",
+      "labelSimple": "乗るときの料金水準",
       "value": "タクシー同等",
       "unit": "（事前確定）",
       "oldValue": "アプリで乗る前に料金が確定",
-      "descriptionSimple": "ぼったくりの心配なしで明朗会計！",
+      "description": "",
       "descriptionStandard": "メーターではなく配車アプリで事前確定・決済",
+      "descriptionSimple": "ぼったくりの心配なしで明朗会計！",
       "badge": "同等運賃",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Car"
     },
     {
-      "labelSimple": "走れる地域と時間",
+      "label": "",
       "labelStandard": "運行時間帯・エリアの制限",
+      "labelSimple": "走れる地域と時間",
       "value": "不足時限定",
       "unit": "（金曜深夜等）",
       "oldValue": "いつでも走れるわけではない",
-      "descriptionSimple": "タクシーが捕まらない時間・場所で活躍！",
+      "description": "",
       "descriptionStandard": "国交省がデータで認定したタクシー不足枠",
+      "descriptionSimple": "タクシーが捕まらない時間・場所で活躍！",
       "badge": "条件付き解禁",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Clock"
     },
     {
-      "labelSimple": "事故や安全の責任",
+      "label": "",
       "labelStandard": "運行管理と安全責任の主体",
+      "labelSimple": "事故や安全の責任",
       "value": "タクシー会社",
       "unit": "が管理",
       "oldValue": "個人の自己責任ではなく会社責任",
-      "descriptionSimple": "アルコール検査や車両整備もプロが管理！",
+      "description": "",
       "descriptionStandard": "点呼・研修・車両点検・保険をタクシー事業者が担う",
+      "descriptionSimple": "アルコール検査や車両整備もプロが管理！",
       "badge": "安全管理徹底",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "全面解禁の議論",
+      "label": "",
       "labelStandard": "ライドシェア新法（全面解禁論）",
+      "labelSimple": "全面解禁の議論",
       "value": "新法制定",
       "unit": "を審議中",
       "oldValue": "タクシー会社以外が運営する解禁論",
-      "descriptionSimple": "一般企業や海外アプリの自由解禁は議論中",
+      "description": "",
       "descriptionStandard": "安全確保と地域交通維持を巡る国会審議",
+      "descriptionSimple": "一般企業や海外アプリの自由解禁は議論中",
       "badge": "法制化議論",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "FileCheck"

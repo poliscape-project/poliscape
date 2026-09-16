@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "自動操船システム",
+      "labelStandard": "自動操船システム",
+      "labelSimple": "自動操船システム",
       "value": "世界初認可",
       "unit": "",
       "oldValue": "有資格者常時搭乗義務",
       "description": "国際海事機関（IMO）基準に先駆け日本が世界初の商用安全基準を策定",
+      "descriptionStandard": "自動操船システム",
+      "descriptionSimple": "自動操船システム",
       "badge": "世界初法制化",
       "badgeColor": "blue",
       "icon": "shield-check"
     },
     {
       "label": "海難事故原因削減目標",
+      "labelStandard": "海難事故原因削減目標",
+      "labelSimple": "海難事故原因削減目標",
       "value": "70",
       "unit": "%減（見張り不十分）",
       "oldValue": "人為ミスが大多数",
       "description": "AIセンサーフュージョンによる常時全方位見張りで衝突を根絶",
+      "descriptionStandard": "海難事故原因削減目標",
+      "descriptionSimple": "海難事故原因削減目標",
       "badge": "安全革命",
       "badgeColor": "green",
       "icon": "sparkles"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

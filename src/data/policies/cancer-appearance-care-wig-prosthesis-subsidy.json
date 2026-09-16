@@ -2,7 +2,7 @@
   "id": "cancer-appearance-care-wig-prosthesis-subsidy",
   "title": "がん患者アピアランスケア助成法（医療用ウィッグ・エピテーゼ購入公費助成）",
   "catchphrase": "治療中の外見の悩みに寄り添う、医療用ウィッグ・補整具の公費助成",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・福祉",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "がん対策",
-      "variant": "positive"
+      "text": "がん対策",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ウィッグ助成",
-      "variant": "positive"
+      "text": "ウィッグ助成",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "全国一律",
-      "variant": "neutral"
+      "text": "全国一律",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "購入助成上限額",
+      "labelStandard": "購入助成上限額",
+      "labelSimple": "購入助成上限額",
       "value": "最大5万円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "医療用ウィッグや人工乳房の初期購入費用を公費補助",
+      "descriptionStandard": "購入助成上限額",
+      "descriptionSimple": "購入助成上限額",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "全国100%自治体",
+      "labelStandard": "全国100%自治体",
+      "labelSimple": "全国100%自治体",
       "value": "地域格差ゼロ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "全国すべての基礎自治体で共通の助成窓口を開設",
+      "descriptionStandard": "全国100%自治体",
+      "descriptionSimple": "全国100%自治体",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

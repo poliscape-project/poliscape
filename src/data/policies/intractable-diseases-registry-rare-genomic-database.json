@@ -2,7 +2,7 @@
   "id": "intractable-diseases-registry-rare-genomic-database",
   "title": "難病ゲノム医療推進・全ゲノム解析等実行計画（希少疾患の診断期間短縮と創薬基盤）",
   "catchphrase": "原因不明の難病に答えを。全ゲノム解析データベースの構築により、10年かかっていた診断を数ヶ月へ短縮",
-  "category": "social",
+  "category": "society",
   "categoryLabel": "社会保障・医療・ゲノム医療",
   "lastUpdated": "2024-04-15",
   "effectiveDate": "2022年策定・順次実行中",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "難病ゲノム医療",
-      "variant": "positive"
+      "text": "難病ゲノム医療",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "診断期間短縮",
-      "variant": "positive"
+      "text": "診断期間短縮",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "遺伝差別・薬価課題",
-      "variant": "warning"
+      "text": "遺伝差別・薬価課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "解析手法",
+      "labelStandard": "解析手法",
+      "labelSimple": "解析手法",
       "value": "全ゲノムシークエンス（WGS）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "30億塩基対を解読し未知の遺伝子変異を網羅特定",
+      "descriptionStandard": "解析手法",
+      "descriptionSimple": "解析手法",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     },
     {
       "label": "診断基盤",
+      "labelStandard": "診断基盤",
+      "labelSimple": "診断基盤",
       "value": "IRUD全国連携ネットワーク",
+      "unit": "",
+      "oldValue": "現行",
       "description": "全国の難病拠点と直結し未診断患者の病因を解明",
+      "descriptionStandard": "診断基盤",
+      "descriptionSimple": "診断基盤",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "創薬支援",
+      "labelStandard": "創薬支援",
+      "labelSimple": "創薬支援",
       "value": "統合臨床ゲノムDB開放",
+      "unit": "",
+      "oldValue": "現行",
       "description": "製薬企業へ安全に還元し難病特効薬の開発を加速",
+      "descriptionStandard": "創薬支援",
+      "descriptionSimple": "創薬支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     }
   ],

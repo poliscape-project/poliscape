@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "ガバナンス",
-      "variant": "positive"
+      "text": "ガバナンス",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "資本効率",
-      "variant": "positive"
+      "text": "資本効率",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "株式市場改革",
-      "variant": "neutral"
+      "text": "株式市場改革",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "資本効率（ROE）の向上",
+      "labelStandard": "資本効率（ROE）の向上",
+      "labelSimple": "資本効率（ROE）の向上",
       "value": "資本効率（ROE）の向上",
+      "unit": "",
+      "oldValue": "現行",
       "description": "死蔵された持ち合い株を売却し成長投資や株主還元へ転換。",
+      "descriptionStandard": "資本効率（ROE）の向上",
+      "descriptionSimple": "資本効率（ROE）の向上",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "保有理由の開示完全義務化",
+      "labelStandard": "保有理由の開示完全義務化",
+      "labelSimple": "保有理由の開示完全義務化",
       "value": "保有理由の開示完全義務化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "曖昧な「取引関係維持」での保有を認めず取締役会での検証を義務化。",
+      "descriptionStandard": "保有理由の開示完全義務化",
+      "descriptionSimple": "保有理由の開示完全義務化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "癒着・カルテルの根絶",
+      "labelStandard": "癒着・カルテルの根絶",
+      "labelSimple": "癒着・カルテルの根絶",
       "value": "癒着・カルテルの根絶",
+      "unit": "",
+      "oldValue": "現行",
       "description": "持ち合い株を背景とした保険契約や下請け取引の談合構造を解体。",
+      "descriptionStandard": "癒着・カルテルの根絶",
+      "descriptionSimple": "癒着・カルテルの根絶",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

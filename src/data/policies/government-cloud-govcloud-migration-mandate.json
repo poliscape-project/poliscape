@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "自治体システム標準化",
-      "variant": "positive"
+      "text": "自治体システム標準化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ガバメントクラウド",
-      "variant": "positive"
+      "text": "ガバメントクラウド",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "2025年期限の壁",
-      "variant": "warning"
+      "text": "2025年期限の壁",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "対象規模",
+      "labelStandard": "対象規模",
+      "labelSimple": "対象規模",
       "value": "全国1,741市区町村",
+      "unit": "",
+      "oldValue": "現行",
       "description": "住民票・税・保険など基幹20業務システムを統一",
+      "descriptionStandard": "対象規模",
+      "descriptionSimple": "対象規模",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "移行基盤",
+      "labelStandard": "移行基盤",
+      "labelSimple": "移行基盤",
       "value": "ガバメントクラウド",
+      "unit": "",
+      "oldValue": "現行",
       "description": "デジタル庁認定の堅牢な政府共通クラウドへ集約",
+      "descriptionStandard": "移行基盤",
+      "descriptionSimple": "移行基盤",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "コスト目標",
+      "labelStandard": "コスト目標",
+      "labelSimple": "コスト目標",
       "value": "運用管理費3割削減",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ベンダーロックインを打破し財政効率化と迅速DXを実現",
+      "descriptionStandard": "コスト目標",
+      "descriptionSimple": "コスト目標",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

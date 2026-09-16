@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "肥料自給",
-      "variant": "positive"
+      "text": "肥料自給",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "リン回収",
-      "variant": "positive"
+      "text": "リン回収",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "食料安全保障",
-      "variant": "neutral"
+      "text": "食料安全保障",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "自給可能量",
+      "labelStandard": "自給可能量",
+      "labelSimple": "自給可能量",
       "value": "国内需要の約30%",
+      "unit": "",
+      "oldValue": "現行",
       "description": "全国の下水汚泥から日本の年間リン需要の3割を自給可能",
+      "descriptionStandard": "自給可能量",
+      "descriptionSimple": "自給可能量",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "国庫助成",
+      "labelStandard": "国庫助成",
+      "labelSimple": "国庫助成",
       "value": "建設費用の2/3",
+      "unit": "",
+      "oldValue": "現行",
       "description": "自治体下水処理場へのリン回収プラント新設費用を手厚く助成",
+      "descriptionStandard": "国庫助成",
+      "descriptionSimple": "国庫助成",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

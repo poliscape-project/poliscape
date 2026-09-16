@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "導入対象教科",
+      "labelStandard": "導入対象教科",
+      "labelSimple": "導入対象教科",
       "value": "2",
       "unit": "教科先行",
       "oldValue": "0（独自購入）",
       "description": "小5〜中3の「英語」「算数・数学」から全国無償化スタート",
+      "descriptionStandard": "導入対象教科",
+      "descriptionSimple": "導入対象教科",
       "badge": "全国標準",
       "badgeColor": "blue",
       "icon": "book-open"
     },
     {
       "label": "公費負担率",
+      "labelStandard": "公費負担率",
+      "labelSimple": "公費負担率",
       "value": "100",
       "unit": "%",
       "oldValue": "自治体負担",
       "description": "義務教育教科書無償給与の枠組みにより国費全額負担",
+      "descriptionStandard": "公費負担率",
+      "descriptionSimple": "公費負担率",
       "badge": "完全無償",
       "badgeColor": "green",
       "icon": "currency-yen"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

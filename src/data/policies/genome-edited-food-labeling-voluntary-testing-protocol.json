@@ -1,8 +1,8 @@
 {
   "id": "genome-edited-food-labeling-voluntary-testing-protocol",
   "title": "ゲノム編集食品の流通届出情報公開プラットフォームと任意表示指針",
-  "category": "regional-agriculture",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "CRISPR-Cas9等のゲノム編集技術を用いて開発された農水産物（高GABAトマト、肉厚マダイ、低アレルゲン卵等）について、消費者の知る権利と選択の自由を保障するため、厚生労働省・消費者庁の流通届出情報公開データベースを刷新する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "アグリバイオ",
-      "variant": "green"
+      "text": "アグリバイオ",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "食品表示",
-      "variant": "blue"
+      "text": "食品表示",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "消費者保護",
-      "variant": "purple"
+      "text": "消費者保護",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "国内流通届出品目数",
+      "label": "国内流通届出品目数",
+      "labelStandard": "国内流通届出品目数",
+      "labelSimple": "国内流通届出品目数",
       "value": "10",
       "unit": "品目超",
+      "oldValue": "現行",
       "description": "トマト、マダイ、トラフグ等、国への届出を経て流通が認められた品目",
-      "trend": "up",
-      "trendLabel": "品目拡大"
+      "descriptionStandard": "国内流通届出品目数",
+      "descriptionSimple": "国内流通届出品目数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "品種改良期間の短縮",
+      "label": "品種改良期間の短縮",
+      "labelStandard": "品種改良期間の短縮",
+      "labelSimple": "品種改良期間の短縮",
       "value": "80",
       "unit": "%短縮",
+      "oldValue": "現行",
       "description": "従来の掛け合わせによる10年以上の品種改良期間を2〜3年に大幅短縮",
-      "trend": "down",
-      "trendLabel": "開発迅速化"
+      "descriptionStandard": "品種改良期間の短縮",
+      "descriptionSimple": "品種改良期間の短縮",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

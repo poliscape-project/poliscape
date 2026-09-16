@@ -2,7 +2,7 @@
   "id": "neuromorphic-ai-semiconductor-energy-efficiency-fund",
   "title": "脳型（ニューロモルフィック）極低消費電力AI半導体開発支援法",
   "catchphrase": "AIデータセンターの電力危機を救う、人間の脳を模した超省エネ「脳型半導体」の国家集中投資",
-  "category": "technology",
+  "category": "society",
   "categoryLabel": "テクノロジー・インフラ・通信",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "AI半導体",
-      "variant": "positive"
+      "text": "AI半導体",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "省エネ",
-      "variant": "positive"
+      "text": "省エネ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ディープテック",
-      "variant": "neutral"
+      "text": "ディープテック",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "省エネ性能",
+      "labelStandard": "省エネ性能",
+      "labelSimple": "省エネ性能",
       "value": "消費電力1/100以下",
+      "unit": "",
+      "oldValue": "現行",
       "description": "従来のGPUに比べ圧倒的な省電力をスパイキング回路で実現",
+      "descriptionStandard": "省エネ性能",
+      "descriptionSimple": "省エネ性能",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Zap"
     },
     {
       "label": "基金規模",
+      "labelStandard": "基金規模",
+      "labelSimple": "基金規模",
       "value": "2,000億円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "5年間集中の国家開発基金でチップ試作・実証を支援",
+      "descriptionStandard": "基金規模",
+      "descriptionSimple": "基金規模",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Cpu"
     }
   ],

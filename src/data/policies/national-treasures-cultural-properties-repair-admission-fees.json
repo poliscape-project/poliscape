@@ -130,58 +130,76 @@
   "badges": [
     {
       "label": "国宝・重文の修繕危機",
-      "variant": "neutral"
+      "text": "国宝・重文の修繕危機",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "保存から「稼ぐ公開」へ",
-      "variant": "neutral"
+      "text": "保存から「稼ぐ公開」へ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "拝観料適正化・民間MICE",
-      "variant": "neutral"
+      "text": "拝観料適正化・民間MICE",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "修理代の値上がり",
+      "label": "",
       "labelStandard": "国宝・重文の修繕費高騰",
+      "labelSimple": "修理代の値上がり",
       "value": "数倍",
       "unit": "資材・職人高騰",
       "oldValue": "これまで 文化庁補助金でカバー",
       "description": "ヒノキ・漆・金箔の高騰と宮大工不足で危機",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "修繕危機",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "公開のルール",
+      "label": "",
       "labelStandard": "文化財行政の方針転換",
+      "labelSimple": "公開のルール",
       "value": "稼ぐ公開",
       "unit": "保存と両立",
       "oldValue": "これまで 傷めないため非公開が原則",
       "description": "観光客に見せて稼いだお金で修理する好循環へ",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "活用へ転換",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "BookOpen"
     },
     {
-      "labelSimple": "特別ツアー料金",
+      "label": "",
       "labelStandard": "プレミアム拝観・MICE活用",
+      "labelSimple": "特別ツアー料金",
       "value": "数千〜数万",
       "unit": "円の特別拝観",
       "oldValue": "これまで 数百円の低額拝観料",
       "description": "夜間貸切や解説付きで富裕層から修繕資金を確保",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "高付加価値化",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "一般市民の心配",
+      "label": "",
       "labelStandard": "市民のアクセス制限懸念",
+      "labelSimple": "一般市民の心配",
       "value": "文化離れ",
       "unit": "料金高騰懸念",
       "oldValue": "これまで 気軽に訪れられた寺社",
       "description": "拝観料が高すぎて学生や地元住民が行けなくなる恐れ",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "アクセス格差",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Users"

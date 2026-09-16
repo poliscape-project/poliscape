@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "知的財産",
-      "variant": "positive"
+      "text": "知的財産",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "技術流出防止",
-      "variant": "neutral"
+      "text": "技術流出防止",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "法改正",
-      "variant": "positive"
+      "text": "法改正",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "最大3倍の加重損害賠償",
+      "labelStandard": "最大3倍の加重損害賠償",
+      "labelSimple": "最大3倍の加重損害賠償",
       "value": "最大3倍の加重損害賠償",
+      "unit": "",
+      "oldValue": "現行",
       "description": "悪質な営業秘密盗用や故意の侵害に巨額の賠償支払いを命令。",
+      "descriptionStandard": "最大3倍の加重損害賠償",
+      "descriptionSimple": "最大3倍の加重損害賠償",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "立証責任の転換と緩和",
+      "labelStandard": "立証責任の転換と緩和",
+      "labelSimple": "立証責任の転換と緩和",
       "value": "立証責任の転換と緩和",
+      "unit": "",
+      "oldValue": "現行",
       "description": "知財権者の損害証明負担を大幅に減らし勝訴率を向上。",
+      "descriptionStandard": "立証責任の転換と緩和",
+      "descriptionSimple": "立証責任の転換と緩和",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "海外越境侵害への管轄拡大",
+      "labelStandard": "海外越境侵害への管轄拡大",
+      "labelSimple": "海外越境侵害への管轄拡大",
       "value": "海外越境侵害への管轄拡大",
+      "unit": "",
+      "oldValue": "現行",
       "description": "国外サーバーを使った模倣サイトやデータ窃取にも日本の裁判所が介入。",
+      "descriptionStandard": "海外越境侵害への管轄拡大",
+      "descriptionSimple": "海外越境侵害への管轄拡大",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "FileText"
     }
   ],

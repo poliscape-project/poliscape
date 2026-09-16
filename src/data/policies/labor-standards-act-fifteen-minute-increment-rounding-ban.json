@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "労働基準法",
-      "variant": "positive"
+      "text": "労働基準法",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "賃金適正化",
-      "variant": "positive"
+      "text": "賃金適正化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "残業代請求",
-      "variant": "neutral"
+      "text": "残業代請求",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "1分単位の労働時間把握",
+      "labelStandard": "1分単位の労働時間把握",
+      "labelSimple": "1分単位の労働時間把握",
       "value": "1分単位の労働時間把握",
+      "unit": "",
+      "oldValue": "現行",
       "description": "日々の労働時間を15分や30分で切り捨てる丸め計算を完全に違法化。",
+      "descriptionStandard": "1分単位の労働時間把握",
+      "descriptionSimple": "1分単位の労働時間把握",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "未払い賃金の遡及全額支払い",
+      "labelStandard": "未払い賃金の遡及全額支払い",
+      "labelSimple": "未払い賃金の遡及全額支払い",
       "value": "未払い賃金の遡及全額支払い",
+      "unit": "",
+      "oldValue": "現行",
       "description": "違法な端数処理を行っていた企業に対し過去最大3年分の差額支払いを命令。",
+      "descriptionStandard": "未払い賃金の遡及全額支払い",
+      "descriptionSimple": "未払い賃金の遡及全額支払い",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "着替え・準備時間の労働認定",
+      "labelStandard": "着替え・準備時間の労働認定",
+      "labelSimple": "着替え・準備時間の労働認定",
       "value": "着替え・準備時間の労働認定",
+      "unit": "",
+      "oldValue": "現行",
       "description": "制服の着替えや開店準備、終礼も正規の労働時間としてカウント。",
+      "descriptionStandard": "着替え・準備時間の労働認定",
+      "descriptionSimple": "着替え・準備時間の労働認定",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

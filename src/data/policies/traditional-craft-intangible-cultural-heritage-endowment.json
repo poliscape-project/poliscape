@@ -1,8 +1,8 @@
 {
   "id": "traditional-craft-intangible-cultural-heritage-endowment",
   "title": "伝統工芸品産業振興法に基づく無形文化遺産技術承継基金の創設",
-  "category": "culture",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "全国の漆器、織物、陶磁器、和紙、刃物などの国指定伝統的工芸品（241品目）が、職人の超高齢化と後継者不足、原材料（漆、生糸、木炭等）の調達難により歴史的断絶の危機に直面している事態を打開するため、伝統工芸品産業振興法（伝産法）に基づき、国・自治体・民間拠出による「無形文化遺産技術承継永久基金（エンドウメント）」を創設する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "伝統工芸",
-      "variant": "purple"
+      "text": "伝統工芸",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "文化遺産",
-      "variant": "blue"
+      "text": "文化遺産",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "後継者育成",
-      "variant": "green"
+      "text": "後継者育成",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "修行中生活支援給付",
+      "label": "修行中生活支援給付",
+      "labelStandard": "修行中生活支援給付",
+      "labelSimple": "修行中生活支援給付",
       "value": "25",
       "unit": "万円/月",
+      "oldValue": "現行",
       "description": "若手後継者が技術修得に専念できるよう最長5年間直接支給される生活支援給付金上限額",
-      "trend": "up",
-      "trendLabel": "生活給保証"
+      "descriptionStandard": "修行中生活支援給付",
+      "descriptionSimple": "修行中生活支援給付",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "伝統工芸海外輸出額",
+      "label": "伝統工芸海外輸出額",
+      "labelStandard": "伝統工芸海外輸出額",
+      "labelSimple": "伝統工芸海外輸出額",
       "value": "3",
       "unit": "倍増",
+      "oldValue": "現行",
       "description": "高付加価値ブランディングおよび海外ラグジュアリー市場開拓による工芸品輸出目標",
-      "trend": "up",
-      "trendLabel": "海外展開"
+      "descriptionStandard": "伝統工芸海外輸出額",
+      "descriptionSimple": "伝統工芸海外輸出額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

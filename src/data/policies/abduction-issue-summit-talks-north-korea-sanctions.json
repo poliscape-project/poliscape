@@ -129,58 +129,76 @@
   "badges": [
     {
       "label": "全拉致被害者の即時奪還",
-      "variant": "neutral"
+      "text": "全拉致被害者の即時奪還",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "独自制裁（輸出入全面禁止）",
-      "variant": "neutral"
+      "text": "独自制裁（輸出入全面禁止）",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "無条件首脳会談模索",
-      "variant": "neutral"
+      "text": "無条件首脳会談模索",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "被害者の救出",
+      "label": "",
       "labelStandard": "日本政府の基本目標",
+      "labelSimple": "被害者の救出",
       "value": "即時一括",
       "unit": "全員帰国",
       "oldValue": "これまで 5名のみ帰国（2002年）",
       "description": "横田めぐみさんら全被害者の奪還が最重要課題",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "最重要課題",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "UserCheck"
     },
     {
-      "labelSimple": "日本独自の制裁",
+      "label": "",
       "labelStandard": "対北朝鮮独自制裁の内容",
+      "labelSimple": "日本独自の制裁",
       "value": "全面禁止",
       "unit": "2年ごと延長",
       "oldValue": "これまで 一部貿易許可の時期も",
       "description": "輸出入の全面禁止と北朝鮮船の入港完全禁止",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "独自制裁",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Ban"
     },
     {
-      "labelSimple": "首脳会談の提案",
+      "label": "",
       "labelStandard": "日朝トップ対話の方針",
+      "labelSimple": "首脳会談の提案",
       "value": "前提条件なし",
       "unit": "会談呼びかけ",
       "oldValue": "これまで 進展を首脳会談の前提条件に",
       "description": "金正恩総書記との無条件直接会談を模索",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "外交模索",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "HeartPulse"
     },
     {
-      "labelSimple": "家族の残された時間",
+      "label": "",
       "labelStandard": "被害者家族の親世代現状",
+      "labelSimple": "家族の残された時間",
       "value": "親世代",
       "unit": "残りわずか",
       "oldValue": "これまで 横田滋さんら相次ぎ逝去",
       "description": "再会を果たせないまま亡くなる悲劇の阻止へ",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "時間との闘い",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"

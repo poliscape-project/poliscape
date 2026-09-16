@@ -3,7 +3,7 @@
   "title": "希少難病オーファンドラッグの条件付き早期承認と薬価インセンティブ",
   "category": "healthcare",
   "categoryLabel": "医療・公衆衛生",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "指定・税制優遇運用中",
   "catchphrase": "患者数が少ない希少難病の創薬を促す開発費助成・税額控除と最長10年の市場独占権付与",
   "lastUpdated": "2026-09-16",
@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "市場独占期間",
+      "labelStandard": "市場独占期間",
+      "labelSimple": "市場独占期間",
       "value": "10",
       "unit": "年間",
       "oldValue": "通常6〜8年間",
       "description": "希少疾病用医薬品に対する最長10年間の再審査期間（ジェネリック参入不可）",
+      "descriptionStandard": "市場独占期間",
+      "descriptionSimple": "市場独占期間",
       "badge": "独占権付与",
       "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "研究開発費助成率",
+      "labelStandard": "研究開発費助成率",
+      "labelSimple": "研究開発費助成率",
       "value": "20",
       "unit": "%公費助成",
       "oldValue": "全額自己資金",
       "description": "NIBIOHNによる希少病薬治験費用の直接資金助成割合",
+      "descriptionStandard": "研究開発費助成率",
+      "descriptionSimple": "研究開発費助成率",
       "badge": "資金助成",
       "badgeColor": "green",
       "icon": "TrendingUp"

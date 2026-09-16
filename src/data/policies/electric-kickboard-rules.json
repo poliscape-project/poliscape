@@ -161,62 +161,76 @@
   "badges": [
     {
       "label": "16歳以上免許不要",
-      "variant": "neutral"
+      "text": "16歳以上免許不要",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "車道20km/歩道6km特例",
-      "variant": "neutral"
+      "text": "車道20km/歩道6km特例",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "ヘルメット努力義務",
-      "variant": "neutral"
+      "text": "ヘルメット努力義務",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "運転できる条件",
+      "label": "",
       "labelStandard": "運転免許の要否",
+      "labelSimple": "運転できる条件",
       "value": "免許不要",
       "unit": "（16歳以上）",
       "oldValue": "これまで 原付免許が必須だった",
-      "descriptionSimple": "16歳以上なら免許なしで乗れるように！",
+      "description": "",
       "descriptionStandard": "特定小型原動機付自転車として免許不要化",
+      "descriptionSimple": "16歳以上なら免許なしで乗れるように！",
       "badge": "免許不要",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Sparkles"
     },
     {
-      "labelSimple": "走れるスピード",
+      "label": "",
       "labelStandard": "最高速度（車道 / 歩道）",
+      "labelSimple": "走れるスピード",
       "value": "20km / 6km",
       "unit": "最高時速",
       "oldValue": "歩道走行は一切不可だった",
-      "descriptionSimple": "緑ランプ点滅モード（6km/h）なら歩道も可",
+      "description": "",
       "descriptionStandard": "特例特定小型原動機付自転車モードで一部歩道走行可",
+      "descriptionSimple": "緑ランプ点滅モード（6km/h）なら歩道も可",
       "badge": "歩道特例あり",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Car"
     },
     {
-      "labelSimple": "ヘルメットのルール",
+      "label": "",
       "labelStandard": "ヘルメット着用義務",
+      "labelSimple": "ヘルメットのルール",
       "value": "努力義務",
       "unit": "（推奨）",
       "oldValue": "これまで 道路交通法で着用義務",
-      "descriptionSimple": "かぶることがおすすめだけど罰則なし",
+      "description": "",
       "descriptionStandard": "自転車と同様に着用努力義務（着用強く推奨）",
+      "descriptionSimple": "かぶることがおすすめだけど罰則なし",
       "badge": "努力義務",
       "badgeColor": "bg-slate-100 text-slate-700",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "公道を走るためのルール",
+      "label": "",
       "labelStandard": "必須装備・保安基準",
+      "labelSimple": "公道を走るためのルール",
       "value": "ナンバー＋自賠責",
       "unit": "必須",
       "oldValue": "一般原付の保安基準",
-      "descriptionSimple": "緑色の最高速度表示灯と自賠責保険が必須！",
+      "description": "",
       "descriptionStandard": "最高速度表示灯・ナンバープレート・自賠責加入義務",
+      "descriptionSimple": "緑色の最高速度表示灯と自賠責保険が必須！",
       "badge": "装備必須",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"

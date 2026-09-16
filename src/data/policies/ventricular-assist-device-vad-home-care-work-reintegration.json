@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "5年生存率",
+      "labelStandard": "5年生存率",
+      "labelSimple": "5年生存率",
       "value": "約70〜80",
       "unit": "%（最新機種装着時）",
       "oldValue": "薬物療法のみで1年生存率50%未満",
       "description": "最新の完全磁気浮上遠心ポンプ技術による生存率の劇的改善",
+      "descriptionStandard": "5年生存率",
+      "descriptionSimple": "5年生存率",
       "badge": "生存率劇的改善",
       "badgeColor": "green",
       "icon": "heart"
     },
     {
       "label": "就労・社会復帰率",
+      "labelStandard": "就労・社会復帰率",
+      "labelSimple": "就労・社会復帰率",
       "value": "約60",
       "unit": "%（就労可能年齢患者）",
       "oldValue": "ほぼ全例が退職・寝たきり",
       "description": "在宅管理加算と両立支援ガイドラインによる復職率の向上",
+      "descriptionStandard": "就労・社会復帰率",
+      "descriptionSimple": "就労・社会復帰率",
       "badge": "就労復帰",
       "badgeColor": "blue",
       "icon": "briefcase"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

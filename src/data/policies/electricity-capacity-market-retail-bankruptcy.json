@@ -145,62 +145,76 @@
   "badges": [
     {
       "label": "容量市場拠出金",
-      "variant": "neutral"
+      "text": "容量市場拠出金",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "新電力の倒産急増",
-      "variant": "neutral"
+      "text": "新電力の倒産急増",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "レベニューキャップ",
-      "variant": "neutral"
+      "text": "レベニューキャップ",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "倒産急増",
+      "label": "",
       "labelStandard": "新電力の倒産・撤退数",
+      "labelSimple": "倒産急増",
       "value": "累計200",
       "unit": "社超",
       "oldValue": "電力自由化で700社以上が参入",
-      "descriptionSimple": "燃料高と容量市場負担で経営破綻が続出",
+      "description": "",
       "descriptionStandard": "燃料高と容量市場負担で経営破綻が続出",
+      "descriptionSimple": "燃料高と容量市場負担で経営破綻が続出",
       "badge": "倒産急増",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "巨額拠出金",
+      "label": "",
       "labelStandard": "容量市場の総約定額",
+      "labelSimple": "巨額拠出金",
       "value": "年約1.6",
       "unit": "兆円規模",
       "oldValue": "これまで 発電した電気の市場取引のみ",
-      "descriptionSimple": "将来の発電維持（kW価値）への公費課金",
+      "description": "",
       "descriptionStandard": "将来の発電維持（kW価値）への公費課金",
+      "descriptionSimple": "将来の発電維持（kW価値）への公費課金",
       "badge": "巨額拠出金",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Coins"
     },
     {
-      "labelSimple": "寡占回帰",
+      "label": "",
       "labelStandard": "新電力の市場シェア",
+      "labelSimple": "寡占回帰",
       "value": "約2割",
       "unit": "で頭打ち",
       "oldValue": "急成長し一時は25%に迫っていた",
-      "descriptionSimple": "大手電力（旧一電）への顧客回帰が加速",
+      "description": "",
       "descriptionStandard": "大手電力（旧一電）への顧客回帰が加速",
+      "descriptionSimple": "大手電力（旧一電）への顧客回帰が加速",
       "badge": "寡占回帰",
       "badgeColor": "bg-slate-100 text-slate-700",
       "icon": "Building"
     },
     {
-      "labelSimple": "新送電料金",
+      "label": "",
       "labelStandard": "託送料金制度改革",
+      "labelSimple": "新送電料金",
       "value": "レベニュー",
       "unit": "キャップ",
       "oldValue": "総括原価方式による認可制",
-      "descriptionSimple": "送電網の維持費を上限規制し効率化",
+      "description": "",
       "descriptionStandard": "送電網の維持費を上限規制し効率化",
+      "descriptionSimple": "送電網の維持費を上限規制し効率化",
       "badge": "新送電料金",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Zap"

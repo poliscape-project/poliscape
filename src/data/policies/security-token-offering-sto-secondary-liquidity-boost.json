@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "国内STO累計発行額",
+      "labelStandard": "国内STO累計発行額",
+      "labelSimple": "国内STO累計発行額",
       "value": "2000",
       "unit": "億円超",
       "oldValue": "数十億円",
       "description": "大手不動産・信託銀行による公募型不動産STの発行が急拡大",
+      "descriptionStandard": "国内STO累計発行額",
+      "descriptionSimple": "国内STO累計発行額",
       "badge": "市場急伸",
       "badgeColor": "blue",
       "icon": "trending-up"
     },
     {
       "label": "最低投資金額水準",
+      "labelStandard": "最低投資金額水準",
+      "labelSimple": "最低投資金額水準",
       "value": "10",
       "unit": "万円〜",
       "oldValue": "100万円〜",
       "description": "一般個人がスマート証券口座から気軽に買える小口化を達成",
+      "descriptionStandard": "最低投資金額水準",
+      "descriptionSimple": "最低投資金額水準",
       "badge": "小口化達成",
       "badgeColor": "green",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

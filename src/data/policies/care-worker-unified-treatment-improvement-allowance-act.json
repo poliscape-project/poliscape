@@ -4,7 +4,7 @@
   "catchphrase": "介護現場の人手不足に終止符を。複雑な処遇改善加算を新一本化し月額最大3.7万円相当の給与底上げ",
   "category": "labor",
   "categoryLabel": "介護労働・処遇改善",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "処遇改善一本化",
-      "variant": "purple"
+      "text": "処遇改善一本化",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "介護職員ベア",
-      "variant": "blue"
+      "text": "介護職員ベア",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "事務負担半減",
-      "variant": "green"
+      "text": "事務負担半減",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "月額処遇改善水準",
+      "label": "月額処遇改善水準",
+      "labelStandard": "月額処遇改善水準",
+      "labelSimple": "月額処遇改善水準",
       "value": "37,000",
       "unit": "円/月最大",
+      "oldValue": "現行",
       "description": "新・介護職員等処遇改善加算（区分I算定時）における職員1人あたり月額相当賃金改善額",
-      "trend": "up",
-      "trendLabel": "給与大幅底上げ"
+      "descriptionStandard": "月額処遇改善水準",
+      "descriptionSimple": "月額処遇改善水準",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "加算取得率目標",
+      "label": "加算取得率目標",
+      "labelStandard": "加算取得率目標",
+      "labelSimple": "加算取得率目標",
       "value": "95",
       "unit": "%達成",
+      "oldValue": "現行",
       "description": "手続き簡素化により中小零細事業所を含めて達成される処遇改善加算の全国取得率",
-      "trend": "up",
-      "trendLabel": "ほぼ全事業所適用"
+      "descriptionStandard": "加算取得率目標",
+      "descriptionSimple": "加算取得率目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "コンプライアンス",
-      "variant": "positive"
+      "text": "コンプライアンス",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "内部告発",
-      "variant": "positive"
+      "text": "内部告発",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "不正防止",
-      "variant": "neutral"
+      "text": "不正防止",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "報奨金比率",
+      "labelStandard": "報奨金比率",
+      "labelSimple": "報奨金比率",
       "value": "課徴金の10〜30%",
+      "unit": "",
+      "oldValue": "現行",
       "description": "国が回収した罰金から通報者に最大数億円を給付",
+      "descriptionStandard": "報奨金比率",
+      "descriptionSimple": "報奨金比率",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Coins"
     },
     {
       "label": "報復厳罰",
+      "labelStandard": "報復厳罰",
+      "labelSimple": "報復厳罰",
       "value": "3年以下の懲役",
+      "unit": "",
+      "oldValue": "現行",
       "description": "通報者への解雇や嫌がらせに刑事罰と3倍賠償を導入",
+      "descriptionStandard": "報復厳罰",
+      "descriptionSimple": "報復厳罰",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

@@ -2,7 +2,7 @@
   "id": "compact-city-medical-hub-relocation-incentive-act",
   "title": "コンパクトシティ立地適正化計画（都心部医療モール移転優遇法）",
   "catchphrase": "車を手放しても歩いて通院できる街へ、郊外クリニックの駅前中心街集約と医療モール税制優遇",
-  "category": "infrastructure",
+  "category": "society",
   "categoryLabel": "国土・交通",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "コンパクトシティ",
-      "variant": "positive"
+      "text": "コンパクトシティ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "地域医療",
-      "variant": "positive"
+      "text": "地域医療",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "まちづくり",
-      "variant": "neutral"
+      "text": "まちづくり",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "税制優遇",
+      "labelStandard": "税制優遇",
+      "labelSimple": "税制優遇",
       "value": "固定資産税5年免除",
+      "unit": "",
+      "oldValue": "現行",
       "description": "中心街メディカルハブへ移転した診療所の固定資産税をゼロ化",
+      "descriptionStandard": "税制優遇",
+      "descriptionSimple": "税制優遇",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "移転助成",
+      "labelStandard": "移転助成",
+      "labelSimple": "移転助成",
       "value": "最大2,000万円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "電子カルテ移行や医療機器移設工事費用を公費補助",
+      "descriptionStandard": "移転助成",
+      "descriptionSimple": "移転助成",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Building2"
     }
   ],

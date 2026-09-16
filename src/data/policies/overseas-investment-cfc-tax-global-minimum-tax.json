@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "最低税率15%",
-      "variant": "positive"
+      "text": "最低税率15%",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "OECD国際合意",
-      "variant": "positive"
+      "text": "OECD国際合意",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "事務負担激増",
-      "variant": "warning"
+      "text": "事務負担激増",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "最低税率",
+      "labelStandard": "最低税率",
+      "labelSimple": "最低税率",
       "value": "実効税率15%",
+      "unit": "",
+      "oldValue": "現行",
       "description": "世界各国ごとに15%未満の場合に差額を追徴課税",
+      "descriptionStandard": "最低税率",
+      "descriptionSimple": "最低税率",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "対象企業",
+      "labelStandard": "対象企業",
+      "labelSimple": "対象企業",
       "value": "売上7.5億ユーロ超",
+      "unit": "",
+      "oldValue": "現行",
       "description": "連結売上高約1,100億円以上の超多国籍企業グループ",
+      "descriptionStandard": "対象企業",
+      "descriptionSimple": "対象企業",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "適用開始",
+      "labelStandard": "適用開始",
+      "labelSimple": "適用開始",
       "value": "2024年4月〜",
+      "unit": "",
+      "oldValue": "現行",
       "description": "欧州主要国と足並みを揃え世界最速グループで導入",
+      "descriptionStandard": "適用開始",
+      "descriptionSimple": "適用開始",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

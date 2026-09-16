@@ -2,7 +2,7 @@
   "id": "pharmaceutical-shortage-national-reserve-act",
   "title": "医薬品供給不安・安定供給確保法（後発薬国家備蓄と製造ライン監査）",
   "catchphrase": "薬が届かない医療危機を解消、後発薬の国家戦略備蓄と品質管理強化",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・福祉",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "医療安全",
-      "variant": "positive"
+      "text": "医療安全",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "国家備蓄",
-      "variant": "positive"
+      "text": "国家備蓄",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "薬不足解消",
-      "variant": "warning"
+      "text": "薬不足解消",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "重要医薬品の国家備蓄",
+      "labelStandard": "重要医薬品の国家備蓄",
+      "labelSimple": "重要医薬品の国家備蓄",
       "value": "3カ月分",
+      "unit": "",
+      "oldValue": "現行",
       "description": "全国の医療逼迫を防ぐ安全在庫を国が集中保有",
+      "descriptionStandard": "重要医薬品の国家備蓄",
+      "descriptionSimple": "重要医薬品の国家備蓄",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "PMDA無通告査察",
+      "labelStandard": "PMDA無通告査察",
+      "labelSimple": "PMDA無通告査察",
       "value": "全工場対象",
+      "unit": "",
+      "oldValue": "現行",
       "description": "不正製造を未然に防ぐ抜き打ち検査体制を全国配備",
+      "descriptionStandard": "PMDA無通告査察",
+      "descriptionSimple": "PMDA無通告査察",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

@@ -3,7 +3,7 @@
   "title": "地域包括支援センターの担当高齢者数上限（1人あたりケアマネ基準）適正化",
   "category": "healthcare",
   "categoryLabel": "医療・公衆衛生",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "配置基準見直し・業務効率化中",
   "catchphrase": "高齢者虐待・孤立・介護崩壊を防ぐ。地域包括支援センターの職員1人あたり担当上限の適正化",
   "lastUpdated": "2026-09-16",
@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "全国センター設置数",
+      "labelStandard": "全国センター設置数",
+      "labelSimple": "全国センター設置数",
       "value": "5,400",
       "unit": "カ所以上",
       "oldValue": "ブランチ含め約7,000拠点",
       "description": "日常生活圏域ごとに高齢者を包括的に支える相談拠点の全国配備",
+      "descriptionStandard": "全国センター設置数",
+      "descriptionSimple": "全国センター設置数",
       "badge": "全国網羅",
       "badgeColor": "blue",
       "icon": "Building"
     },
     {
       "label": "予防プラン外注率目標",
+      "labelStandard": "予防プラン外注率目標",
+      "labelSimple": "予防プラン外注率目標",
       "value": "50",
       "unit": "%以上",
       "oldValue": "約20〜30%",
       "description": "要支援者のケアプラン作成を民間へ委託し、包括職員が虐待・孤立対応に専念",
+      "descriptionStandard": "予防プラン外注率目標",
+      "descriptionSimple": "予防プラン外注率目標",
       "badge": "業務スリム化",
       "badgeColor": "green",
       "icon": "TrendingUp"

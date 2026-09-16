@@ -149,62 +149,76 @@
   "badges": [
     {
       "label": "認知症基本法施行（共生社会）",
-      "variant": "neutral"
+      "text": "認知症基本法施行（共生社会）",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "高齢者5人に1人の時代へ",
-      "variant": "neutral"
+      "text": "高齢者5人に1人の時代へ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "徘徊賠償の自治体公費保険",
-      "variant": "neutral"
+      "text": "徘徊賠償の自治体公費保険",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "認知症になる人の割合",
+      "label": "",
       "labelStandard": "2025年以降の推計",
+      "labelSimple": "認知症になる人の割合",
       "value": "5人に1人",
       "unit": "（約700万人弱）",
       "oldValue": "一部の病気や特別な状態と考えられがちだった",
-      "descriptionSimple": "高齢者の5人に1人！だれでも認知症になりうる時代へ",
+      "description": "",
       "descriptionStandard": "超高齢社会で誰もが当事者・家族になる国民的課題",
+      "descriptionSimple": "高齢者の5人に1人！だれでも認知症になりうる時代へ",
       "badge": "5人に1人",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "政策の合言葉",
+      "label": "",
       "labelStandard": "基本理念の転換",
+      "labelSimple": "政策の合言葉",
       "value": "共生",
       "unit": "（尊厳と希望）",
       "oldValue": "「治す・防ぐ」予防や施設隔離が中心だった",
-      "descriptionSimple": "防ぐことばかり言わず、病気になっても楽しく暮らせる街へ！",
+      "description": "",
       "descriptionStandard": "認知症になっても本人が尊厳を持って地域で生きる社会",
+      "descriptionSimple": "防ぐことばかり言わず、病気になっても楽しく暮らせる街へ！",
       "badge": "共生社会の推進",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Heart"
     },
     {
-      "labelSimple": "道に迷ったときの保険",
+      "label": "",
       "labelStandard": "徘徊事故の賠償保険",
+      "labelSimple": "道に迷ったときの保険",
       "value": "公費全額",
       "unit": "（自治体保険普及）",
       "oldValue": "電車を止めたら家族に数千万円の損害賠償請求の恐怖",
-      "descriptionSimple": "事故があっても町が代わりに払ってくれるから閉じ込めない！",
+      "description": "",
       "descriptionStandard": "自治体が保険料を負担し最高数億円まで損害賠償を補償",
+      "descriptionSimple": "事故があっても町が代わりに払ってくれるから閉じ込めない！",
       "badge": "自治体賠償保険",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "政策への参加",
+      "label": "",
       "labelStandard": "本人の会議参画",
+      "labelSimple": "政策への参加",
       "value": "義務化",
       "unit": "（意見反映）",
       "oldValue": "医者や役人だけで決められ、本人の声は聞かれなかった",
-      "descriptionSimple": "認知症のご本人が直接役所の会議に出て意見を言える！",
+      "description": "",
       "descriptionStandard": "国・自治体の施策策定会議に当事者本人の参加を義務付け",
+      "descriptionSimple": "認知症のご本人が直接役所の会議に出て意見を言える！",
       "badge": "当事者参画",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "UserCheck"

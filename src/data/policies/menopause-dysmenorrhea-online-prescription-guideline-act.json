@@ -4,7 +4,7 @@
   "catchphrase": "女性の健康課題を我慢させない。更年期ホルモン療法や低用量ピルのオンライン処方を安全に普及",
   "category": "healthcare",
   "categoryLabel": "女性保健・オンライン診療",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "フェムテック",
-      "variant": "purple"
+      "text": "フェムテック",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "更年期支援",
-      "variant": "blue"
+      "text": "更年期支援",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "オンライン診療",
-      "variant": "green"
+      "text": "オンライン診療",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "女性更年期離職低減率",
+      "label": "女性更年期離職低減率",
+      "labelStandard": "女性更年期離職低減率",
+      "labelSimple": "女性更年期離職低減率",
       "value": "40",
       "unit": "%減目標",
+      "oldValue": "現行",
       "description": "オンライン早期アクセスとHRT治療普及により削減される年間更年期離職者数の割合",
-      "trend": "down",
-      "trendLabel": "離職大幅抑制"
+      "descriptionStandard": "女性更年期離職低減率",
+      "descriptionSimple": "女性更年期離職低減率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "定期配送利用満足度",
+      "label": "定期配送利用満足度",
+      "labelStandard": "定期配送利用満足度",
+      "labelSimple": "定期配送利用満足度",
       "value": "92",
       "unit": "%",
+      "oldValue": "現行",
       "description": "オンライン問診・自宅配送を利用した月経困難症・更年期患者の継続利用満足度",
-      "trend": "up",
-      "trendLabel": "高満足度"
+      "descriptionStandard": "定期配送利用満足度",
+      "descriptionSimple": "定期配送利用満足度",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

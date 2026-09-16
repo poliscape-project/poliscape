@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "必須管理策項目数",
+      "labelStandard": "必須管理策項目数",
+      "labelSimple": "必須管理策項目数",
       "value": "110",
       "unit": "項目（NIST準拠）",
       "oldValue": "数十項目の努力目標",
       "description": "多要素認証・暗号化・アクセス制御など米軍規格と同等の厳格基準",
+      "descriptionStandard": "必須管理策項目数",
+      "descriptionSimple": "必須管理策項目数",
       "badge": "米軍同等基準",
       "badgeColor": "red",
       "icon": "shield-check"
     },
     {
       "label": "中小企業改修補助率",
+      "labelStandard": "中小企業改修補助率",
+      "labelSimple": "中小企業改修補助率",
       "value": "最大100",
       "unit": "%（基盤強化法）",
       "oldValue": "自己負担",
       "description": "指定サプライヤーのセキュリティ機器導入費等を公費支援",
+      "descriptionStandard": "中小企業改修補助率",
+      "descriptionSimple": "中小企業改修補助率",
       "badge": "手厚い公費支援",
       "badgeColor": "green",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

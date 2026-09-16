@@ -3,7 +3,7 @@
   "title": "鉄道駅ホームドア・跨線橋等における自殺防止安全設備緊急整備補助金",
   "category": "healthcare",
   "categoryLabel": "医療・公衆衛生",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "駅ホームドア・安全設備補助中",
   "catchphrase": "衝動的な鉄道人身事故と飛び降り自殺を防ぐ。ホームドア設置率向上と橋梁・高層建築の防護柵配備",
   "lastUpdated": "2026-09-16",
@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "ホームドア設置駅転落事故",
+      "labelStandard": "ホームドア設置駅転落事故",
+      "labelSimple": "ホームドア設置駅転落事故",
       "value": "ほぼ0",
       "unit": "件",
       "oldValue": "年間数百件の人身・転落事故",
       "description": "ホームドアが整備された駅番線における人身事故・転落事故の激減実績",
+      "descriptionStandard": "ホームドア設置駅転落事故",
+      "descriptionSimple": "ホームドア設置駅転落事故",
       "badge": "事故根絶",
       "badgeColor": "green",
       "icon": "ShieldCheck"
     },
     {
       "label": "整備目標番線数",
+      "labelStandard": "整備目標番線数",
+      "labelSimple": "整備目標番線数",
       "value": "3,000",
       "unit": "番線以上",
       "oldValue": "主要駅の一部のみ",
       "description": "全国の利用客が多い駅を中心としたホームドア緊急配備目標",
+      "descriptionStandard": "整備目標番線数",
+      "descriptionSimple": "整備目標番線数",
       "badge": "全国配備目標",
       "badgeColor": "blue",
       "icon": "Train"

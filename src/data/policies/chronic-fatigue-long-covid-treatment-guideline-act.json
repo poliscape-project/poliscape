@@ -2,7 +2,7 @@
   "id": "chronic-fatigue-long-covid-treatment-guideline-act",
   "title": "筋痛性脳脊髄炎・Long COVID（コロナ後遺症）公的医療支援法",
   "catchphrase": "見えない激痛と倦怠感に向き合う、コロナ後遺症・ME/CFSの公的支援",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・福祉",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年6月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "コロナ後遺症",
-      "variant": "positive"
+      "text": "コロナ後遺症",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ブレインフォグ",
-      "variant": "warning"
+      "text": "ブレインフォグ",
+      "variant": "warning",
+      "color": "blue"
     },
     {
       "label": "障害年金",
-      "variant": "neutral"
+      "text": "障害年金",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "専門外来配備",
+      "labelStandard": "専門外来配備",
+      "labelSimple": "専門外来配備",
       "value": "全47都道府県",
+      "unit": "",
+      "oldValue": "現行",
       "description": "総合病院内に内科・神経内科・心療内科連携外来を整備",
+      "descriptionStandard": "専門外来配備",
+      "descriptionSimple": "専門外来配備",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "障害年金認定",
+      "labelStandard": "障害年金認定",
+      "labelSimple": "障害年金認定",
       "value": "PS基準の明確化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "日常生活能力の低下度合いに応じた年金給付要件を通知",
+      "descriptionStandard": "障害年金認定",
+      "descriptionSimple": "障害年金認定",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

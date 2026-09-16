@@ -1,7 +1,7 @@
 {
   "id": "freelance-protection-subcontract-dispute-mediation-act",
   "title": "フリーランス新法に基づく受託取引トラブル迅速調停機関（ADR）整備",
-  "category": "employment",
+  "category": "society",
   "subcategory": "フリーランス・労働法",
   "status": "施行中",
   "date": "2024-11",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "調停解決目標期間",
+      "labelStandard": "調停解決目標期間",
+      "labelSimple": "調停解決目標期間",
       "value": "1〜2",
       "unit": "ヶ月以内",
       "oldValue": "裁判で半年〜1年超",
       "description": "オンライン審理により短期間でのスピード和解協定を締結",
+      "descriptionStandard": "調停解決目標期間",
+      "descriptionSimple": "調停解決目標期間",
       "badge": "スピード解決",
       "badgeColor": "green",
       "icon": "clock"
     },
     {
       "label": "申立て費用",
+      "labelStandard": "申立て費用",
+      "labelSimple": "申立て費用",
       "value": "原則無料",
       "unit": "（一部低廉）",
       "oldValue": "弁護士着手金数十万円",
       "description": "少額被害でも費用倒れにならない完全公費支援スキーム",
+      "descriptionStandard": "申立て費用",
+      "descriptionSimple": "申立て費用",
       "badge": "低廉化",
       "badgeColor": "blue",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "employment"
 }

@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "相談対応時間",
+      "labelStandard": "相談対応時間",
+      "labelSimple": "相談対応時間",
       "value": "24",
       "unit": "時間365日対応",
       "oldValue": "夜間・休日の限定時間",
       "description": "全国全都道府県で切れ目のない24時間オンライン相談体制を確立",
+      "descriptionStandard": "相談対応時間",
+      "descriptionSimple": "相談対応時間",
       "badge": "全国24時間化",
       "badgeColor": "blue",
       "icon": "clock"
     },
     {
       "label": "夜間軽症救急受診削減率",
+      "labelStandard": "夜間軽症救急受診削減率",
+      "labelSimple": "夜間軽症救急受診削減率",
       "value": "約35",
       "unit": "%減（モデル地域実績）",
       "oldValue": "夜間救急の約8割が軽症",
       "description": "的確なホームケア指導により救急外来の過密化と医師疲弊を緩和",
+      "descriptionStandard": "夜間軽症救急受診削減率",
+      "descriptionSimple": "夜間軽症救急受診削減率",
       "badge": "コンビニ受診減",
       "badgeColor": "green",
       "icon": "arrow-trending-down"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

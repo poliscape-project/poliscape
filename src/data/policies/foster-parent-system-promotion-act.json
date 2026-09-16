@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "家庭養育優先",
-      "variant": "positive"
+      "text": "家庭養育優先",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "里親委託率75%目標",
-      "variant": "positive"
+      "text": "里親委託率75%目標",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "里親不足が深刻",
-      "variant": "warning"
+      "text": "里親不足が深刻",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "目標委託率",
+      "labelStandard": "目標委託率",
+      "labelSimple": "目標委託率",
       "value": "就学前75%以上",
+      "unit": "",
+      "oldValue": "現行",
       "description": "2029年度末までの里親・ファミリーホーム委託率目標",
+      "descriptionStandard": "目標委託率",
+      "descriptionSimple": "目標委託率",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "支援機関",
+      "labelStandard": "支援機関",
+      "labelSimple": "支援機関",
       "value": "フォスタリング機関",
+      "unit": "",
+      "oldValue": "現行",
       "description": "里親のリクルート・研修・受託中伴走をワンストップ支援",
+      "descriptionStandard": "支援機関",
+      "descriptionSimple": "支援機関",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "基本理念",
+      "labelStandard": "基本理念",
+      "labelSimple": "基本理念",
       "value": "家庭養育の原則化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "施設偏重から家庭的な個別ケアへの抜本シフト",
+      "descriptionStandard": "基本理念",
+      "descriptionSimple": "基本理念",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Home"
     }
   ],

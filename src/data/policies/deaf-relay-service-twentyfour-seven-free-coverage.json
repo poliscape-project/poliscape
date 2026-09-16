@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "電話リレー",
-      "variant": "positive"
+      "text": "電話リレー",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "完全無料化",
-      "variant": "positive"
+      "text": "完全無料化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "24時間365日",
-      "variant": "neutral"
+      "text": "24時間365日",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "通話料自己負担",
+      "labelStandard": "通話料自己負担",
+      "labelSimple": "通話料自己負担",
       "value": "完全ゼロ円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ユニバーサルサービス基金によりすべての国内通話を無料化",
+      "descriptionStandard": "通話料自己負担",
+      "descriptionSimple": "通話料自己負担",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "業務利用の解禁",
+      "labelStandard": "業務利用の解禁",
+      "labelSimple": "業務利用の解禁",
       "value": "職場での通話公認",
+      "unit": "",
+      "oldValue": "現行",
       "description": "障害者雇用の現場でのビジネス通話を公的にサポート",
+      "descriptionStandard": "業務利用の解禁",
+      "descriptionSimple": "業務利用の解禁",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "電子図書館普及",
-      "variant": "positive"
+      "text": "電子図書館普及",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "読書バリアフリー",
-      "variant": "positive"
+      "text": "読書バリアフリー",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "出版保護との調和",
-      "variant": "warning"
+      "text": "出版保護との調和",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "国会図書館",
+      "labelStandard": "国会図書館",
+      "labelSimple": "国会図書館",
       "value": "絶版150万点自宅送信",
+      "unit": "",
+      "oldValue": "現行",
       "description": "登録利用者ならスマホから直接学術書を無料閲覧",
+      "descriptionStandard": "国会図書館",
+      "descriptionSimple": "国会図書館",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "機能",
+      "labelStandard": "機能",
+      "labelSimple": "機能",
       "value": "文字拡大・自動読み上げ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "視覚障害者や高齢者に優しいユニバーサルデザイン",
+      "descriptionStandard": "機能",
+      "descriptionSimple": "機能",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     },
     {
       "label": "課題解決",
+      "labelStandard": "課題解決",
+      "labelSimple": "課題解決",
       "value": "貸出実績連動ロイヤリティ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "作家・出版社に正当な対価が回る持続的エコシステム構築",
+      "descriptionStandard": "課題解決",
+      "descriptionSimple": "課題解決",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

@@ -1,8 +1,8 @@
 {
   "id": "remote-fetal-monitoring-telemedicine-obstetric-shortage",
   "title": "産科無医地区向けモバイル胎児心拍計（遠隔分娩監視）無償貸与",
-  "category": "health-medical",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "産婦人科医の不足により分娩施設のない自治体（産科無医地区）や離島に暮らす妊婦に対し、自宅で胎児の心拍数や子宮収縮を測定できる「モバイル胎児心拍計（モバイルNST）」を全額公費で無償貸与する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "周産期医療",
-      "variant": "purple"
+      "text": "周産期医療",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "遠隔診療",
-      "variant": "blue"
+      "text": "遠隔診療",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "過疎・離島対策",
-      "variant": "green"
+      "text": "過疎・離島対策",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "通院回数の削減効果",
+      "label": "通院回数の削減効果",
+      "labelStandard": "通院回数の削減効果",
+      "labelSimple": "通院回数の削減効果",
       "value": "50",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "妊娠後期の通院頻度を隔週から月1回対面＋遠隔モニタリングに効率化",
-      "trend": "down",
-      "trendLabel": "移動負担半減"
+      "descriptionStandard": "通院回数の削減効果",
+      "descriptionSimple": "通院回数の削減効果",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "分娩施設のない自治体割合",
+      "label": "分娩施設のない自治体割合",
+      "labelStandard": "分娩施設のない自治体割合",
+      "labelSimple": "分娩施設のない自治体割合",
       "value": "52",
       "unit": "%",
+      "oldValue": "現行",
       "description": "全国1,718市町村のうち分娩取扱医療機関が存在しない割合",
-      "trend": "neutral",
-      "trendLabel": "産科空白地域"
+      "descriptionStandard": "分娩施設のない自治体割合",
+      "descriptionSimple": "分娩施設のない自治体割合",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

@@ -129,58 +129,76 @@
   "badges": [
     {
       "label": "北方領土・平和条約凍結",
-      "variant": "neutral"
+      "text": "北方領土・平和条約凍結",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "元島民の高齢化（88歳超）",
-      "variant": "neutral"
+      "text": "元島民の高齢化（88歳超）",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "人道墓参再開を要請",
-      "variant": "neutral"
+      "text": "人道墓参再開を要請",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "話し合いの状況",
+      "label": "",
       "labelStandard": "平和条約締結交渉",
+      "labelSimple": "話し合いの状況",
       "value": "完全凍結",
       "unit": "交渉中断",
       "oldValue": "これまで 首脳会談で共同経済活動",
       "description": "ロシアがウクライナ制裁に対抗し一方的ストップ",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "対露制裁中",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Ban"
     },
     {
-      "labelSimple": "元島民の年齢",
+      "label": "",
       "labelStandard": "生存する元島民の平均年齢",
+      "labelSimple": "元島民の年齢",
       "value": "88",
       "unit": "歳超",
       "oldValue": "これまで 1万7千人が島に居住",
       "description": "生存者5千人割れ・生きているうちの解決が急務",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "時間限界",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Users"
     },
     {
-      "labelSimple": "現在のお墓参り",
+      "label": "",
       "labelStandard": "元島民の墓参形態",
+      "labelSimple": "現在のお墓参り",
       "value": "洋上慰霊",
       "unit": "船上から合掌",
       "oldValue": "これまで ビザなし交流で上陸墓参",
       "description": "上陸が拒否され船の上から祈りを捧げる現状",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "人道墓参要請",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Ship"
     },
     {
-      "labelSimple": "ロシアの動き",
+      "label": "",
       "labelStandard": "北方四島の軍事情勢",
+      "labelSimple": "ロシアの動き",
       "value": "要塞化",
       "unit": "ミサイル配備",
       "oldValue": "これまで 限定的な守備隊駐屯",
       "description": "地対艦ミサイル配備や滑走路整備で軍事拠点化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "防衛脅威",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "ShieldAlert"

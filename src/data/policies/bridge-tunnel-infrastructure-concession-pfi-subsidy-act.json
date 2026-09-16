@@ -1,8 +1,8 @@
 {
   "id": "bridge-tunnel-infrastructure-concession-pfi-subsidy-act",
   "title": "地方自治体の老朽化橋梁・トンネル群に対する包括的民間維持管理（PFI）支援",
-  "category": "regional-agriculture",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "高度経済成長期に建設され一斉に老朽化を迎えている地方自治体の道路橋、トンネル、歩道橋等のインフラ構造物について、市町村単位の枠を超えた「複数自治体合同・包括的民間委託（コンセッション／PFI方式）」の導入を国が重点助成する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "インフラ長寿命化",
-      "variant": "blue"
+      "text": "インフラ長寿命化",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "PPP/PFI",
-      "variant": "green"
+      "text": "PPP/PFI",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "地域連携",
-      "variant": "purple"
+      "text": "地域連携",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "維持管理コスト削減率",
+      "label": "維持管理コスト削減率",
+      "labelStandard": "維持管理コスト削減率",
+      "labelSimple": "維持管理コスト削減率",
       "value": "25",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "広域包括委託とAI・ドローン予防保全導入による自治体財政負担の削減実績",
-      "trend": "down",
-      "trendLabel": "コスト大幅縮減"
+      "descriptionStandard": "維持管理コスト削減率",
+      "descriptionSimple": "維持管理コスト削減率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "建設後50年超橋梁比率",
+      "label": "建設後50年超橋梁比率",
+      "labelStandard": "建設後50年超橋梁比率",
+      "labelSimple": "建設後50年超橋梁比率",
       "value": "63",
       "unit": "%（2033年）",
+      "oldValue": "現行",
       "description": "全国の道路橋のうち老朽化基準（50年）を超える危険橋梁の将来予測比率",
-      "trend": "up",
-      "trendLabel": "老朽化急増"
+      "descriptionStandard": "建設後50年超橋梁比率",
+      "descriptionSimple": "建設後50年超橋梁比率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "勤務形態目標",
+      "labelStandard": "勤務形態目標",
+      "labelSimple": "勤務形態目標",
       "value": "100",
       "unit": "%（常勤化推進）",
       "oldValue": "約90%非常勤",
       "description": "週数日の非常勤から、学校区常駐の正規公務員身分への移行を目指す",
+      "descriptionStandard": "勤務形態目標",
+      "descriptionSimple": "勤務形態目標",
       "badge": "正規定数化",
       "badgeColor": "blue",
       "icon": "user-check"
     },
     {
       "label": "配置単位目標",
+      "labelStandard": "配置単位目標",
+      "labelSimple": "配置単位目標",
       "value": "1",
       "unit": "名/中学校区",
       "oldValue": "複数校兼務・巡回",
       "description": "中学校区ごとにSC・SSWが常駐し小中連携を即座にカバー",
+      "descriptionStandard": "配置単位目標",
+      "descriptionSimple": "配置単位目標",
       "badge": "常駐配置",
       "badgeColor": "green",
       "icon": "building-library"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

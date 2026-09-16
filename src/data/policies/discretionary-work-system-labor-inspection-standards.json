@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "裁量労働制",
-      "variant": "positive"
+      "text": "裁量労働制",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "働き方改革",
-      "variant": "positive"
+      "text": "働き方改革",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "健康確保",
-      "variant": "neutral"
+      "text": "健康確保",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "本人の同意撤回権の法定化",
+      "labelStandard": "本人の同意撤回権の法定化",
+      "labelSimple": "本人の同意撤回権の法定化",
       "value": "本人の同意撤回権の法定化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "いつでも裁量労働をやめて通常勤務に戻れる権利を法的に保障。",
+      "descriptionStandard": "本人の同意撤回権の法定化",
+      "descriptionSimple": "本人の同意撤回権の法定化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "勤務間インターバルの導入",
+      "labelStandard": "勤務間インターバルの導入",
+      "labelSimple": "勤務間インターバルの導入",
       "value": "勤務間インターバルの導入",
+      "unit": "",
+      "oldValue": "現行",
       "description": "終業から次の始業までの休息時間確保を健康保持措置に義務化。",
+      "descriptionStandard": "勤務間インターバルの導入",
+      "descriptionSimple": "勤務間インターバルの導入",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "不利益取扱いの厳罰化",
+      "labelStandard": "不利益取扱いの厳罰化",
+      "labelSimple": "不利益取扱いの厳罰化",
       "value": "不利益取扱いの厳罰化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "同意を拒否・撤回した従業員に対する減給や嫌がらせを厳禁。",
+      "descriptionStandard": "不利益取扱いの厳罰化",
+      "descriptionSimple": "不利益取扱いの厳罰化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

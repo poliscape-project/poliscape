@@ -145,62 +145,76 @@
   "badges": [
     {
       "label": "10兆円大学ファンド",
-      "variant": "neutral"
+      "text": "10兆円大学ファンド",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "東北大学を第1号認定",
-      "variant": "neutral"
+      "text": "東北大学を第1号認定",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "年数百億円の長期助成",
-      "variant": "neutral"
+      "text": "年数百億円の長期助成",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "10兆円基金",
+      "label": "",
       "labelStandard": "大学ファンドの運用規模",
+      "labelSimple": "10兆円基金",
       "value": "10",
       "unit": "兆円基金",
       "oldValue": "単年度科研費（年約2,500億円）中心",
-      "descriptionSimple": "年間運用益数百億円を特定大学に集中助成",
+      "description": "",
       "descriptionStandard": "年間運用益数百億円を特定大学に集中助成",
+      "descriptionSimple": "年間運用益数百億円を特定大学に集中助成",
       "badge": "10兆円基金",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "第1号認定",
+      "label": "",
       "labelStandard": "第1号認定大学",
+      "labelSimple": "第1号認定",
       "value": "東北大学",
       "unit": "を正式認定",
       "oldValue": "東大・京大など10大学が応募選考",
-      "descriptionSimple": "学外有識者主導の合議制機関新設など大改革",
+      "description": "",
       "descriptionStandard": "学外有識者主導の合議制機関新設など大改革",
+      "descriptionSimple": "学外有識者主導の合議制機関新設など大改革",
       "badge": "第1号認定",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Building"
     },
     {
-      "labelSimple": "四半世紀助成",
+      "label": "",
       "labelStandard": "助成の支援期間",
+      "labelSimple": "四半世紀助成",
       "value": "最長 25",
       "unit": "年間",
       "oldValue": "3〜5年の短期研究プロジェクト",
-      "descriptionSimple": "四半世紀にわたる超長期の安定研究環境保障",
+      "description": "",
       "descriptionStandard": "四半世紀にわたる超長期の安定研究環境保障",
+      "descriptionSimple": "四半世紀にわたる超長期の安定研究環境保障",
       "badge": "四半世紀助成",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Clock"
     },
     {
-      "labelSimple": "研究力再生",
+      "label": "",
       "labelStandard": "日本の論文世界ランク",
+      "labelSimple": "研究力再生",
       "value": "世界 13",
       "unit": "位へ転落",
       "oldValue": "20年前は世界4位の論文大国だった",
-      "descriptionSimple": "若手研究者の処遇改善と世界トップ復権へ",
+      "description": "",
       "descriptionStandard": "若手研究者の処遇改善と世界トップ復権へ",
+      "descriptionSimple": "若手研究者の処遇改善と世界トップ復権へ",
       "badge": "研究力再生",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "TrendingDown"

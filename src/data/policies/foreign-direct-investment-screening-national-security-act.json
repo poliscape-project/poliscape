@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "外為法",
-      "variant": "positive"
+      "text": "外為法",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "投資審査",
-      "variant": "neutral"
+      "text": "投資審査",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "国家安全保障",
-      "variant": "positive"
+      "text": "国家安全保障",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "出資比率1%からの審査",
+      "labelStandard": "出資比率1%からの審査",
+      "labelSimple": "出資比率1%からの審査",
       "value": "出資比率1%からの審査",
+      "unit": "",
+      "oldValue": "現行",
       "description": "指定重要業種の株式をわずか1%取得する段階から事前届出を義務化。",
+      "descriptionStandard": "出資比率1%からの審査",
+      "descriptionSimple": "出資比率1%からの審査",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "中止・売却命令の権限",
+      "labelStandard": "中止・売却命令の権限",
+      "labelSimple": "中止・売却命令の権限",
       "value": "中止・売却命令の権限",
+      "unit": "",
+      "oldValue": "現行",
       "description": "安全保障上危険な買収計画を行政命令で強制停止可能。",
+      "descriptionStandard": "中止・売却命令の権限",
+      "descriptionSimple": "中止・売却命令の権限",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "クラウド・重要鉱物へ拡大",
+      "labelStandard": "クラウド・重要鉱物へ拡大",
+      "labelSimple": "クラウド・重要鉱物へ拡大",
       "value": "クラウド・重要鉱物へ拡大",
+      "unit": "",
+      "oldValue": "現行",
       "description": "現代の重要インフラであるデータセンターや蓄電池素材も網羅。",
+      "descriptionStandard": "クラウド・重要鉱物へ拡大",
+      "descriptionSimple": "クラウド・重要鉱物へ拡大",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

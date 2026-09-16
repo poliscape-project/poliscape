@@ -1,8 +1,8 @@
 {
   "id": "veterinarian-shortage-livestock-public-scholarship-act",
   "title": "大動物（産業動物）獣医師及び公務員獣医師の確保に向けた修学資金貸与制度",
-  "category": "agriculture",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "全国の畜産現場で牛や豚、馬などの診療を行う「産業動物（大動物）獣医師」および、家畜伝染病（鳥インフルエンザ・豚熱・口蹄疫）の防疫・と畜場検査を担う「地方公務員獣医師」の極端な不足を解消するため、獣医学部学生向け修学資金貸与および返還免除制度を抜本拡充する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "獣医療改革",
-      "variant": "purple"
+      "text": "獣医療改革",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "畜産振興",
-      "variant": "blue"
+      "text": "畜産振興",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "防疫体制",
-      "variant": "green"
+      "text": "防疫体制",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "学費支援最大額",
+      "label": "学費支援最大額",
+      "labelStandard": "学費支援最大額",
+      "labelSimple": "学費支援最大額",
       "value": "1,500",
       "unit": "万円免除",
+      "oldValue": "現行",
       "description": "指定地域・公務員勤務（原則6年間）により返還免除となる私立獣医学部学費等の上限額",
-      "trend": "up",
-      "trendLabel": "学費実質ゼロ"
+      "descriptionStandard": "学費支援最大額",
+      "descriptionSimple": "学費支援最大額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "大動物獣医師定着率",
+      "label": "大動物獣医師定着率",
+      "labelStandard": "大動物獣医師定着率",
+      "labelSimple": "大動物獣医師定着率",
       "value": "80",
       "unit": "%維持",
+      "oldValue": "現行",
       "description": "奨学金免除プログラム修了後も継続して地方畜産現場または家保に留まる獣医師割合",
-      "trend": "up",
-      "trendLabel": "地方定着促進"
+      "descriptionStandard": "大動物獣医師定着率",
+      "descriptionSimple": "大動物獣医師定着率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

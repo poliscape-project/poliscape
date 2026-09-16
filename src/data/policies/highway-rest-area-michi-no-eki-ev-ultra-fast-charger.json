@@ -2,7 +2,7 @@
   "id": "highway-rest-area-michi-no-eki-ev-ultra-fast-charger",
   "title": "高速道路SA・道の駅における超急速EV充電器（150kW超）全数配備法",
   "catchphrase": "充電待ち大渋滞を解消、高速SA・道の駅への150kW級超急速マルチポート配備義務化",
-  "category": "infrastructure",
+  "category": "society",
   "categoryLabel": "国土・交通",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "EV充電",
-      "variant": "positive"
+      "text": "EV充電",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "超急速150kW",
-      "variant": "positive"
+      "text": "超急速150kW",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "インフラ整備",
-      "variant": "neutral"
+      "text": "インフラ整備",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "充電出力",
+      "labelStandard": "充電出力",
+      "labelSimple": "充電出力",
       "value": "150kW超急速",
+      "unit": "",
+      "oldValue": "現行",
       "description": "15分間の充電で約200km走行分の電力を急速補給",
+      "descriptionStandard": "充電出力",
+      "descriptionSimple": "充電出力",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Zap"
     },
     {
       "label": "設置基準",
+      "labelStandard": "設置基準",
+      "labelSimple": "設置基準",
       "value": "最低6口以上義務化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "充電待ち渋滞を根絶するマルチポート同時充電ステーション化",
+      "descriptionStandard": "設置基準",
+      "descriptionSimple": "設置基準",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

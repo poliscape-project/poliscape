@@ -2,7 +2,7 @@
   "id": "whistleblower-protection-act-mandatory-compliance-penalty",
   "title": "公益通報者保護法改正（内部通報体制整備義務違反への罰則導入・報復処罰強化）",
   "catchphrase": "不正を暴いた者が泣き寝入りする社会を終わらせる。通報体制の不備に過料を科し、報復人事への刑事罰を導入",
-  "category": "governance",
+  "category": "society",
   "categoryLabel": "統治機構・企業統治・コンプライアンス",
   "lastUpdated": "2024-04-10",
   "effectiveDate": "法案審議中（2025年改正目指す）",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "公益通報者保護",
-      "variant": "positive"
+      "text": "公益通報者保護",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "企業統治改革",
-      "variant": "positive"
+      "text": "企業統治改革",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "虚偽通報対策",
-      "variant": "warning"
+      "text": "虚偽通報対策",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "新罰則",
+      "labelStandard": "新罰則",
+      "labelSimple": "新罰則",
       "value": "体制不備企業への過料",
+      "unit": "",
+      "oldValue": "現行",
       "description": "形骸化した窓口や通報無視の企業に行政罰を導入",
+      "descriptionStandard": "新罰則",
+      "descriptionSimple": "新罰則",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "禁止事項",
+      "labelStandard": "禁止事項",
+      "labelSimple": "禁止事項",
       "value": "犯人捜し行為の違法化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "通報者を特定しようとする探索行為や嫌がらせを厳禁",
+      "descriptionStandard": "禁止事項",
+      "descriptionSimple": "禁止事項",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "窓口要件",
+      "labelStandard": "窓口要件",
+      "labelSimple": "窓口要件",
       "value": "社外独立ホットライン",
+      "unit": "",
+      "oldValue": "現行",
       "description": "経営陣の圧力を受けない社外弁護士等の独立窓口を必須化",
+      "descriptionStandard": "窓口要件",
+      "descriptionSimple": "窓口要件",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

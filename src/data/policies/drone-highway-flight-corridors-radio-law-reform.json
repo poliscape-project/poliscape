@@ -155,58 +155,76 @@
   "badges": [
     {
       "label": "送電線・河川上空を空の道に指定",
-      "variant": "neutral"
+      "text": "送電線・河川上空を空の道に指定",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "上空での5G利用規制を緩和",
-      "variant": "neutral"
+      "text": "上空での5G利用規制を緩和",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "UTMクラウドで空中衝突を自動防止",
-      "variant": "neutral"
+      "text": "UTMクラウドで空中衝突を自動防止",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "ドローンの飛行ルート設定",
+      "label": "",
       "labelStandard": "ドローンの飛行ルート設定",
+      "labelSimple": "ドローンの飛行ルート設定",
       "value": "送電線・河川上空を空の道に指定",
       "unit": "",
       "oldValue": "これまで: 各事業者が個別に土地所有者の許可を取り、独自の航路を飛行",
       "description": "送電線上空や一級河川上空を「公認ドローン航路」として指定・整備",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "送電線・河川上空を空の道に指定",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "MapPin"
     },
     {
-      "labelSimple": "上空での携帯通信（5G等）利用",
+      "label": "",
       "labelStandard": "上空での携帯通信（5G等）利用",
+      "labelSimple": "上空での携帯通信（5G等）利用",
       "value": "上空での5G利用規制を緩和",
       "unit": "",
       "oldValue": "これまで: 地上の基地局への電波干渉を防ぐため、上空での通信は厳しい出力規制と個別許可",
       "description": "電波法関連告示の改正により、上空利用の手続きを簡素化し長距離通信を安定化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "上空での5G利用規制を緩和",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Zap"
     },
     {
-      "labelSimple": "空中衝突防止システム",
+      "label": "",
       "labelStandard": "空中衝突防止システム",
+      "labelSimple": "空中衝突防止システム",
       "value": "UTMクラウドで空中衝突を自動防止",
       "unit": "",
       "oldValue": "これまで: 事業者が無線で目視確認するか、単独でしか飛ばせない",
       "description": "運航管理システム（UTM）で複数事業者の飛行計画と位置情報をリアルタイム統合",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "UTMクラウドで空中衝突を自動防止",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Cpu"
     },
     {
-      "labelSimple": "離着陸場・充電ステーション",
+      "label": "",
       "labelStandard": "離着陸場・充電ステーション",
+      "labelSimple": "離着陸場・充電ステーション",
       "value": "自動充電ドローンポートの配備",
       "unit": "",
       "oldValue": "これまで: 空き地や屋上に仮設され、充電や保守作業が手作業",
       "description": "航路沿いの鉄塔や道の駅に自動充電ポート付きドローンポートを配備",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "自動充電ドローンポートの配備",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Building"

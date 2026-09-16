@@ -2,7 +2,7 @@
   "id": "construction-soil-surplus-earth-electronic-manifest-act",
   "title": "建設発生土（残土）適正処理トレーサビリティ法（電子マニフェスト完全義務化）",
   "catchphrase": "不法盛り土・残土投棄を許さない、建設残土の電子マニフェスト完全義務化",
-  "category": "infrastructure",
+  "category": "society",
   "categoryLabel": "国土・交通",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年6月施行予定",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "残土トレーサビリティ",
-      "variant": "positive"
+      "text": "残土トレーサビリティ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "不法盛土根絶",
-      "variant": "positive"
+      "text": "不法盛土根絶",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "土砂災害防止",
-      "variant": "neutral"
+      "text": "土砂災害防止",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "危険盛り土を根絶",
+      "labelStandard": "危険盛り土を根絶",
+      "labelSimple": "危険盛り土を根絶",
       "value": "危険盛り土を根絶",
+      "unit": "",
+      "oldValue": "現行",
       "description": "トラックの行き先をスマホアプリで完全追跡し無許可ヤードへの不法投棄を遮断。",
+      "descriptionStandard": "危険盛り土を根絶",
+      "descriptionSimple": "危険盛り土を根絶",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "元請の責任を明確化",
+      "labelStandard": "元請の責任を明確化",
+      "labelSimple": "元請の責任を明確化",
       "value": "元請の責任を明確化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "大手ゼネコンから排出された土がどこに行ったか最後まで元請の法的責任に。",
+      "descriptionStandard": "元請の責任を明確化",
+      "descriptionSimple": "元請の責任を明確化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "受入地不足の解消へ",
+      "labelStandard": "受入地不足の解消へ",
+      "labelSimple": "受入地不足の解消へ",
       "value": "受入地不足の解消へ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "公共工事間での土砂マッチングシステムと連携しリサイクル利用を促進。",
+      "descriptionStandard": "受入地不足の解消へ",
+      "descriptionSimple": "受入地不足の解消へ",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

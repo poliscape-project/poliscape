@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "日本語教育",
-      "variant": "positive"
+      "text": "日本語教育",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "国家資格",
-      "variant": "positive"
+      "text": "国家資格",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "留学生政策",
-      "variant": "neutral"
+      "text": "留学生政策",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "国の公的認定制度",
+      "labelStandard": "国の公的認定制度",
+      "labelSimple": "国の公的認定制度",
       "value": "国の公的認定制度",
+      "unit": "",
+      "oldValue": "現行",
       "description": "基準を満たした日本語学校のみを文部科学大臣が認定。",
+      "descriptionStandard": "国の公的認定制度",
+      "descriptionSimple": "国の公的認定制度",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "登録日本語教員の新設",
+      "labelStandard": "登録日本語教員の新設",
+      "labelSimple": "登録日本語教員の新設",
       "value": "登録日本語教員の新設",
+      "unit": "",
+      "oldValue": "現行",
       "description": "日本語教師を国家資格化し質の高い指導体制を保証。",
+      "descriptionStandard": "登録日本語教員の新設",
+      "descriptionSimple": "登録日本語教員の新設",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "FileText"
     },
     {
       "label": "在籍管理と適正化",
+      "labelStandard": "在籍管理と適正化",
+      "labelSimple": "在籍管理と適正化",
       "value": "在籍管理と適正化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "出席率や不法就労を厳しく監査し悪質校の認可を取り消し。",
+      "descriptionStandard": "在籍管理と適正化",
+      "descriptionSimple": "在籍管理と適正化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     }
   ],

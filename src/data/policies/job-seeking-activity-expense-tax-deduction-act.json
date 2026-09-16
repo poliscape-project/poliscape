@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "リスキリング",
-      "variant": "positive"
+      "text": "リスキリング",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "税制改正",
-      "variant": "positive"
+      "text": "税制改正",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "キャリア支援",
-      "variant": "neutral"
+      "text": "キャリア支援",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "控除下限",
+      "labelStandard": "控除下限",
+      "labelSimple": "控除下限",
       "value": "年間10万円〜",
+      "unit": "",
+      "oldValue": "現行",
       "description": "年収に関係なく10万円以上の支出で税額控除を適用",
+      "descriptionStandard": "控除下限",
+      "descriptionSimple": "控除下限",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "対象経費",
+      "labelStandard": "対象経費",
+      "labelSimple": "対象経費",
       "value": "面接交通費・受験料",
+      "unit": "",
+      "oldValue": "現行",
       "description": "宿泊費・資格検定料・キャリア相談料も完全対象",
+      "descriptionStandard": "対象経費",
+      "descriptionSimple": "対象経費",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

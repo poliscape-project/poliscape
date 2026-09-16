@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "教員支援",
-      "variant": "positive"
+      "text": "教員支援",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "教育DX",
-      "variant": "positive"
+      "text": "教育DX",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "負担軽減",
-      "variant": "neutral"
+      "text": "負担軽減",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "自己負担",
+      "labelStandard": "自己負担",
+      "labelSimple": "自己負担",
       "value": "0円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "研修受講費用や教材費を全額公費負担",
+      "descriptionStandard": "自己負担",
+      "descriptionSimple": "自己負担",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "履歴管理",
+      "labelStandard": "履歴管理",
+      "labelSimple": "履歴管理",
       "value": "全国共通クラウド",
+      "unit": "",
+      "oldValue": "現行",
       "description": "転勤や他県異動でも継続利用可能な受講プラットフォーム",
+      "descriptionStandard": "履歴管理",
+      "descriptionSimple": "履歴管理",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "GraduationCap"
     }
   ],

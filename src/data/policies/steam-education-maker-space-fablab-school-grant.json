@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "学校あたり助成上限",
+      "labelStandard": "学校あたり助成上限",
+      "labelSimple": "学校あたり助成上限",
       "value": "1000",
       "unit": "万円",
       "oldValue": "0（配備支援なし）",
       "description": "機器導入費・排気設備・教室改修費用を最大1,000万円まで補助",
+      "descriptionStandard": "学校あたり助成上限",
+      "descriptionSimple": "学校あたり助成上限",
       "badge": "最大規模助成",
       "badgeColor": "blue",
       "icon": "currency-yen"
     },
     {
       "label": "整備目標校数",
+      "labelStandard": "整備目標校数",
+      "labelSimple": "整備目標校数",
       "value": "1000",
       "unit": "校",
       "oldValue": "数十校程度",
       "description": "2028年度までに全国1,000の中学・高校でメイカースペースを整備",
+      "descriptionStandard": "整備目標校数",
+      "descriptionSimple": "整備目標校数",
       "badge": "全国展開",
       "badgeColor": "green",
       "icon": "building-library"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

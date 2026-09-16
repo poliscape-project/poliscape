@@ -1,8 +1,8 @@
 {
   "id": "medically-fragile-child-short-stay-respite-hub-subsidy",
   "title": "医療的ケア児専用レスパイト（短期入所）受入拠点整備促進事業",
-  "category": "education-child",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "人工呼吸器や経管栄養などの日常的医療ケアが必要な重症心身障害児・医療的ケア児を預かる専用の「レスパイト（短期入所）受入拠点」の整備費および運営費を国が重点助成する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "レスパイトケア",
-      "variant": "purple"
+      "text": "レスパイトケア",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "医療的ケア児",
-      "variant": "blue"
+      "text": "医療的ケア児",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "家族支援",
-      "variant": "green"
+      "text": "家族支援",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "全国二次医療圏カバー率",
+      "label": "全国二次医療圏カバー率",
+      "labelStandard": "全国二次医療圏カバー率",
+      "labelSimple": "全国二次医療圏カバー率",
       "value": "95",
       "unit": "%目標",
+      "oldValue": "現行",
       "description": "全国約330圏域すべてに医療的ケア児専用ショートステイを整備する目標",
-      "trend": "up",
-      "trendLabel": "全国整備推進"
+      "descriptionStandard": "全国二次医療圏カバー率",
+      "descriptionSimple": "全国二次医療圏カバー率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "年間公費利用可能日数",
+      "label": "年間公費利用可能日数",
+      "labelStandard": "年間公費利用可能日数",
+      "labelSimple": "年間公費利用可能日数",
       "value": "30",
       "unit": "日/年",
+      "oldValue": "現行",
       "description": "公費助成により自己負担を抑えて年間利用できるショートステイ日数の目安",
-      "trend": "up",
-      "trendLabel": "利用日数拡充"
+      "descriptionStandard": "年間公費利用可能日数",
+      "descriptionSimple": "年間公費利用可能日数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "所得控除対象割合",
+      "labelStandard": "所得控除対象割合",
+      "labelSimple": "所得控除対象割合",
       "value": "最大100",
       "unit": "%（投資額全額控除）",
       "oldValue": "上限が厳しく一部のみ控除",
       "description": "創業5年未満企業への投資額をその年の総所得から直接マイナス（上限800万円）",
+      "descriptionStandard": "所得控除対象割合",
+      "descriptionSimple": "所得控除対象割合",
       "badge": "全額所得控除",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "再投資時売却益税率",
+      "labelStandard": "再投資時売却益税率",
+      "labelSimple": "再投資時売却益税率",
       "value": "0",
       "unit": "%（完全非課税）",
       "oldValue": "約20.315%の譲渡益課税",
       "description": "株式売却益を新たなスタートアップへ再投資する場合の完全非課税特例",
+      "descriptionStandard": "再投資時売却益税率",
+      "descriptionSimple": "再投資時売却益税率",
       "badge": "売却益非課税",
       "badgeColor": "blue",
       "icon": "sparkles"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

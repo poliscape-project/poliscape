@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "教員の休日部活関与",
+      "labelStandard": "教員の休日部活関与",
+      "labelSimple": "教員の休日部活関与",
       "value": "0",
       "unit": "（原則任意）",
       "oldValue": "事実上義務",
       "description": "休日の部活指導は学校業務から切り離し教員の関与を完全任意化",
+      "descriptionStandard": "教員の休日部活関与",
+      "descriptionSimple": "教員の休日部活関与",
       "badge": "業務外化",
       "badgeColor": "green",
       "icon": "shield-check"
     },
     {
       "label": "休日移行達成目標",
+      "labelStandard": "休日移行達成目標",
+      "labelSimple": "休日移行達成目標",
       "value": "100",
       "unit": "%（全国推進）",
       "oldValue": "学校単独実施",
       "description": "休日の地域クラブ活動への移行を全国の中学校で推進",
+      "descriptionStandard": "休日移行達成目標",
+      "descriptionSimple": "休日移行達成目標",
       "badge": "改革推進",
       "badgeColor": "blue",
       "icon": "users"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

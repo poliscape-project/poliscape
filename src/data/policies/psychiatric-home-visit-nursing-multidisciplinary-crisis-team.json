@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "再入院抑制率",
+      "labelStandard": "再入院抑制率",
+      "labelSimple": "再入院抑制率",
       "value": "約30",
       "unit": "%減（クライシス介入地域）",
       "oldValue": "頻回の強制入院の繰り返し",
       "description": "自宅での迅速な危機介入による精神科急性期再入院の大幅低減",
+      "descriptionStandard": "再入院抑制率",
+      "descriptionSimple": "再入院抑制率",
       "badge": "再入院大幅減",
       "badgeColor": "green",
       "icon": "arrow-trending-down"
     },
     {
       "label": "緊急出動対応時間",
+      "labelStandard": "緊急出動対応時間",
+      "labelSimple": "緊急出動対応時間",
       "value": "24",
       "unit": "時間365日駆けつけ",
       "oldValue": "日中のみ・夜間対応なし",
       "description": "夜間・休日の急変時でも多職種チームが自宅へ直接駆けつけ",
+      "descriptionStandard": "緊急出動対応時間",
+      "descriptionSimple": "緊急出動対応時間",
       "badge": "24時間即応",
       "badgeColor": "blue",
       "icon": "clock"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

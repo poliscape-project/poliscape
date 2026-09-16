@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "薬価削減率",
+      "labelStandard": "薬価削減率",
+      "labelSimple": "薬価削減率",
       "value": "約30〜40",
       "unit": "%安価（先行品比）",
       "oldValue": "超高額な先行バイオ薬価",
       "description": "同等の有効性・安全性を保ちながら薬価基準が大幅に安価",
+      "descriptionStandard": "薬価削減率",
+      "descriptionSimple": "薬価削減率",
       "badge": "薬価3〜4割安",
       "badgeColor": "green",
       "icon": "arrow-trending-down"
     },
     {
       "label": "患者年間負担軽減",
+      "labelStandard": "患者年間負担軽減",
+      "labelSimple": "患者年間負担軽減",
       "value": "約10〜20",
       "unit": "万円（自己負担軽減）",
       "oldValue": "年間数十万円の自己負担",
       "description": "3割負担患者で月額約1万〜2万円の窓口負担軽減を実現",
+      "descriptionStandard": "患者年間負担軽減",
+      "descriptionSimple": "患者年間負担軽減",
       "badge": "家計負担大幅減",
       "badgeColor": "blue",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

@@ -1,8 +1,8 @@
 {
   "id": "full-scale-ridesharing-deregulation-private-car-passenger",
   "title": "自家用車活用事業（日本型ライドシェア）の運行時間・地域制限撤廃議論",
-  "category": "economy-industry",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "観光地や都市部、地方における深刻な「タクシー不足（移動の足の不足）」を解消するため、2024年4月にスタートしたタクシー会社管理下の「日本型ライドシェア」の運行時間帯・台数・地域制限を抜本的に緩和・撤廃する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "ライドシェア",
-      "variant": "blue"
+      "text": "ライドシェア",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "規制緩和",
-      "variant": "green"
+      "text": "規制緩和",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "交通政策",
-      "variant": "purple"
+      "text": "交通政策",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "全国タクシードライバー減少率",
+      "label": "全国タクシードライバー減少率",
+      "labelStandard": "全国タクシードライバー減少率",
+      "labelSimple": "全国タクシードライバー減少率",
       "value": "20",
       "unit": "%減（過去10年）",
+      "oldValue": "現行",
       "description": "コロナ禍や高齢引退に伴う深刻なドライバー不足（ライドシェア解禁の背景）",
-      "trend": "down",
-      "trendLabel": "運転手急減"
+      "descriptionStandard": "全国タクシードライバー減少率",
+      "descriptionSimple": "全国タクシードライバー減少率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "配車待ち時間の短縮効果",
+      "label": "配車待ち時間の短縮効果",
+      "labelStandard": "配車待ち時間の短縮効果",
+      "labelSimple": "配車待ち時間の短縮効果",
       "value": "60",
       "unit": "%短縮",
+      "oldValue": "現行",
       "description": "先行解禁都市におけるピーク時配車平均待ち時間の大幅改善実績",
-      "trend": "down",
-      "trendLabel": "待ち時間激減"
+      "descriptionStandard": "配車待ち時間の短縮効果",
+      "descriptionSimple": "配車待ち時間の短縮効果",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

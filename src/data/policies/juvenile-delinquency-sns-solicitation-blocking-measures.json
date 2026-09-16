@@ -2,7 +2,7 @@
   "id": "juvenile-delinquency-sns-solicitation-blocking-measures",
   "title": "青少年ネット環境整備法改正（闇バイトSNS募集の即時削除要請法）",
   "catchphrase": "若者を犯罪から守る、SNS上の「高額バイト・裏バイト」違法募集投稿の迅速削除とアカウント凍結",
-  "category": "governance",
+  "category": "society",
   "categoryLabel": "司法・統治",
   "lastUpdated": "2026-01-15",
   "effectiveDate": "2025年4月施行",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "サイバー防衛",
-      "variant": "positive"
+      "text": "サイバー防衛",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "青少年保護",
-      "variant": "positive"
+      "text": "青少年保護",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "闇バイト撲滅",
-      "variant": "neutral"
+      "text": "闇バイト撲滅",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "違法募集の即時削除",
+      "labelStandard": "違法募集の即時削除",
+      "labelSimple": "違法募集の即時削除",
       "value": "違法募集の即時削除",
+      "unit": "",
+      "oldValue": "現行",
       "description": "警察からの通知を受けたSNS事業者が危険な募集投稿を数時間以内に消去。",
+      "descriptionStandard": "違法募集の即時削除",
+      "descriptionSimple": "違法募集の即時削除",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "AI自動警告の表示",
+      "labelStandard": "AI自動警告の表示",
+      "labelSimple": "AI自動警告の表示",
       "value": "AI自動警告の表示",
+      "unit": "",
+      "oldValue": "現行",
       "description": "「即日入金」等の危険ワード検索時に警察の警告画面を強制ポップアップ。",
+      "descriptionStandard": "AI自動警告の表示",
+      "descriptionSimple": "AI自動警告の表示",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "AlertTriangle"
     },
     {
       "label": "中高生へのフィルタリング",
+      "labelStandard": "中高生へのフィルタリング",
+      "labelSimple": "中高生へのフィルタリング",
       "value": "中高生へのフィルタリング",
+      "unit": "",
+      "oldValue": "現行",
       "description": "有害情報や違法マッチングから子どものスマホを守る防御設定を標準化。",
+      "descriptionStandard": "中高生へのフィルタリング",
+      "descriptionSimple": "中高生へのフィルタリング",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

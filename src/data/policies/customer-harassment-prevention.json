@@ -161,62 +161,76 @@
   "badges": [
     {
       "label": "土下座強要・暴言を明文化",
-      "variant": "neutral"
+      "text": "土下座強要・暴言を明文化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "企業の防止措置義務化へ",
-      "variant": "neutral"
+      "text": "企業の防止措置義務化へ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "名札名字・イニシャル化",
-      "variant": "neutral"
+      "text": "名札名字・イニシャル化",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "迷惑なお客さんの行為",
+      "label": "",
       "labelStandard": "カスハラの行為類型",
+      "labelSimple": "迷惑なお客さんの行為",
       "value": "著しい迷惑行為",
       "unit": "（明文化）",
       "oldValue": "「お客様は神様」で我慢させられていた",
-      "descriptionSimple": "土下座強要・暴言・SNS晒しは明確にダメ！",
+      "description": "",
       "descriptionStandard": "強要罪・業務妨害罪に抵触する行為を定義化",
+      "descriptionSimple": "土下座強要・暴言・SNS晒しは明確にダメ！",
       "badge": "行為の明文化",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Ban"
     },
     {
-      "labelSimple": "守るためのルール",
+      "label": "",
       "labelStandard": "条例・法制化の動向",
+      "labelSimple": "守るためのルール",
       "value": "企業の防止義務",
       "unit": "（全国拡大）",
       "oldValue": "企業の自主対応マニュアル止まり",
-      "descriptionSimple": "東京都が条例施行、国も全国義務化を審議中",
+      "description": "",
       "descriptionStandard": "パワハラ防止法に準じ従業員保護措置を義務付け",
+      "descriptionSimple": "東京都が条例施行、国も全国義務化を審議中",
       "badge": "防止義務化へ",
       "badgeColor": "bg-slate-100 text-slate-700",
       "icon": "ShieldAlert"
     },
     {
-      "labelSimple": "店員さんの名札",
+      "label": "",
       "labelStandard": "名札の実名表記見直し",
+      "labelSimple": "店員さんの名札",
       "value": "名字・番号化",
       "unit": "（推奨）",
       "oldValue": "フルネーム実名表示が当たり前だった",
-      "descriptionSimple": "ネットに名前や顔を晒されるのを防ぐ！",
+      "description": "",
       "descriptionStandard": "名字のみやイニシャル・スタッフ番号表示を推進",
+      "descriptionSimple": "ネットに名前や顔を晒されるのを防ぐ！",
       "badge": "プライバシー保護",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "お店の対応ルール",
+      "label": "",
       "labelStandard": "組織対応の徹底",
+      "labelSimple": "お店の対応ルール",
       "value": "複数人＋録音",
       "unit": "（警察通報）",
       "oldValue": "担当者が1人で謝らされていた",
-      "descriptionSimple": "1人で謝らせず、上司が同席して通話も録音！",
+      "description": "",
       "descriptionStandard": "現場スタッフを孤立させない組織防衛を義務付け",
+      "descriptionSimple": "1人で謝らせず、上司が同席して通話も録音！",
       "badge": "組織対応義務",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Users"

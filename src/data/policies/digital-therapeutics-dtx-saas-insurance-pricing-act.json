@@ -3,7 +3,7 @@
   "title": "デジタル治療アプリ（DTx）の保険償還価格算定ルールと医師処方標準化",
   "category": "healthcare",
   "categoryLabel": "医療・公衆衛生",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "薬価・診療報酬収載中",
   "catchphrase": "スマホアプリが病気を治す。禁煙・高血圧・不眠症等の治療用アプリ（DTx）の処方普及と保険償還",
   "lastUpdated": "2026-09-16",
@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "治療完了率",
+      "labelStandard": "治療完了率",
+      "labelSimple": "治療完了率",
       "value": "60",
       "unit": "%超",
       "oldValue": "約30〜40%（従来禁煙指導）",
       "description": "デジタル禁煙アプリ併用による9カ月継続禁煙率の改善",
+      "descriptionStandard": "治療完了率",
+      "descriptionSimple": "治療完了率",
       "badge": "高い禁煙効果",
       "badgeColor": "green",
       "icon": "TrendingUp"
     },
     {
       "label": "標準保険適用期間",
+      "labelStandard": "標準保険適用期間",
+      "labelSimple": "標準保険適用期間",
       "value": "6",
       "unit": "カ月間",
       "oldValue": "対面通院時のみ",
       "description": "医師のオンラインモニタリングと連動した標準処方管理期間",
+      "descriptionStandard": "標準保険適用期間",
+      "descriptionSimple": "標準保険適用期間",
       "badge": "日常介入",
       "badgeColor": "blue",
       "icon": "Smartphone"

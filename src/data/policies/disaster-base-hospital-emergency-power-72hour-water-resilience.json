@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "非常用電源稼働時間",
+      "labelStandard": "非常用電源稼働時間",
+      "labelSimple": "非常用電源稼働時間",
       "value": "72",
       "unit": "時間連続運転担保",
       "oldValue": "24〜48時間（一部不足）",
       "description": "商用電源途絶下でも主要医療設備を丸3日間完全維持",
+      "descriptionStandard": "非常用電源稼働時間",
+      "descriptionSimple": "非常用電源稼働時間",
       "badge": "72時間無補給",
       "badgeColor": "blue",
       "icon": "bolt"
     },
     {
       "label": "設備整備補助率",
+      "labelStandard": "設備整備補助率",
+      "labelSimple": "設備整備補助率",
       "value": "最大50",
       "unit": "%（公費助成）",
       "oldValue": "医療機関全額自己負担",
       "description": "高額な自家発電機更新・井戸水浄化設備導入費を国と地方が折半助成",
+      "descriptionStandard": "設備整備補助率",
+      "descriptionSimple": "設備整備補助率",
       "badge": "最大半額補助",
       "badgeColor": "green",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

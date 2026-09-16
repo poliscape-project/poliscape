@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "特例適用統合実績",
+      "labelStandard": "特例適用統合実績",
+      "labelSimple": "特例適用統合実績",
       "value": "複数行成立",
       "unit": "",
       "oldValue": "独禁法の壁で停滞",
       "description": "長崎（十八親和）や青森（プロクレア）等で県内高シェア統合が実現",
+      "descriptionStandard": "特例適用統合実績",
+      "descriptionSimple": "特例適用統合実績",
       "badge": "再編進展",
       "badgeColor": "blue",
       "icon": "building-library"
     },
     {
       "label": "システム共同化コスト削減",
+      "labelStandard": "システム共同化コスト削減",
+      "labelSimple": "システム共同化コスト削減",
       "value": "30〜50",
       "unit": "%減",
       "oldValue": "個別単独構築",
       "description": "基幹クラウド共同化により各行のIT維持費を大幅圧縮",
+      "descriptionStandard": "システム共同化コスト削減",
+      "descriptionSimple": "システム共同化コスト削減",
       "badge": "コスト半減",
       "badgeColor": "green",
       "icon": "cpu"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

@@ -2,7 +2,7 @@
   "id": "board-of-education-reform-superintendent-accountability",
   "title": "地方教育行政組織法改正（教育委員会制度改革・首長と総合教育会議・教育長一本化）",
   "catchphrase": "いじめ隠蔽や教育の無責任体制を打破。首長と教育委員会が協議する「総合教育会議」と新・教育長制度",
-  "category": "governance",
+  "category": "society",
   "categoryLabel": "統治機構・教育行政・ガバナンス",
   "lastUpdated": "2024-04-15",
   "effectiveDate": "2015年4月施行",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "教育委員会改革",
-      "variant": "positive"
+      "text": "教育委員会改革",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "総合教育会議",
-      "variant": "positive"
+      "text": "総合教育会議",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "政治的中立性課題",
-      "variant": "warning"
+      "text": "政治的中立性課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "責任体制",
+      "labelStandard": "責任体制",
+      "labelSimple": "責任体制",
       "value": "新「教育長」の一本化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "首長が直接任免し議会と市民への説明責任を明確化",
+      "descriptionStandard": "責任体制",
+      "descriptionSimple": "責任体制",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "連携機関",
+      "labelStandard": "連携機関",
+      "labelSimple": "連携機関",
       "value": "総合教育会議の必置",
+      "unit": "",
+      "oldValue": "現行",
       "description": "首長と教育委員会が教育大綱や重要予算を公開協議",
+      "descriptionStandard": "連携機関",
+      "descriptionSimple": "連携機関",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "危機管理",
+      "labelStandard": "危機管理",
+      "labelSimple": "危機管理",
       "value": "首長のいじめ再調査権",
+      "unit": "",
+      "oldValue": "現行",
       "description": "教育委員会の身内調査を排し首長直轄で公正再調査",
+      "descriptionStandard": "危機管理",
+      "descriptionSimple": "危機管理",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

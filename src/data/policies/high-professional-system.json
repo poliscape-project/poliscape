@@ -158,62 +158,76 @@
   "badges": [
     {
       "label": "年収1,075万円以上",
-      "variant": "neutral"
+      "text": "年収1,075万円以上",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "時間規制除外・残業代ゼロ",
-      "variant": "neutral"
+      "text": "時間規制除外・残業代ゼロ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "年間104日休日＋医師面接",
-      "variant": "neutral"
+      "text": "年間104日休日＋医師面接",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "対象になる年収の条件",
+      "label": "",
       "labelStandard": "年収要件（平均給与3倍水準）",
+      "labelSimple": "対象になる年収の条件",
       "value": "1,075",
       "unit": "万円以上",
       "oldValue": "法改正時の基準（当面維持）",
-      "descriptionSimple": "高年収のプロフェッショナルだけが対象！",
+      "description": "",
       "descriptionStandard": "明確に高所得な労働者に限定された制度",
+      "descriptionSimple": "高年収のプロフェッショナルだけが対象！",
       "badge": "年収1,075万円",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Briefcase"
     },
     {
-      "labelSimple": "時間のルール・残業代",
+      "label": "",
       "labelStandard": "労働時間規制・割増賃金",
+      "labelSimple": "時間のルール・残業代",
       "value": "適用除外",
       "unit": "（残業代なし）",
       "oldValue": "1日8時間、週40時間、深夜割増除外",
-      "descriptionSimple": "働く時間ではなく仕事の成果で評価！",
+      "description": "",
       "descriptionStandard": "裁量労働制と異なり労働時間の概念自体を除外",
+      "descriptionSimple": "働く時間ではなく仕事の成果で評価！",
       "badge": "成果主義",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Clock"
     },
     {
-      "labelSimple": "いやなら断れる権利",
+      "label": "",
       "labelStandard": "本人の書面同意・撤回権",
+      "labelSimple": "いやなら断れる権利",
       "value": "撤回自由",
       "unit": "（いつでも可）",
       "oldValue": "会社が無理やり適用することは違法",
-      "descriptionSimple": "自分の意志でサインし、いつでもやめられる！",
+      "description": "",
       "descriptionStandard": "労使委員会の決議＋本人の自由な同意が必須要件",
+      "descriptionSimple": "自分の意志でサインし、いつでもやめられる！",
       "badge": "同意撤回権",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "健康を守るための義務",
+      "label": "",
       "labelStandard": "健康管理時間の義務的措置",
+      "labelSimple": "健康を守るための義務",
       "value": "年 104",
       "unit": "日以上の休日",
       "oldValue": "週40時間超が月100時間で医師面接",
-      "descriptionSimple": "働きすぎを防ぐ病院チェックが法律で義務！",
+      "description": "",
       "descriptionStandard": "在社時間の把握とインターバル規制等の義務化",
+      "descriptionSimple": "働きすぎを防ぐ病院チェックが法律で義務！",
       "badge": "医師面接義務",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "HeartPulse"

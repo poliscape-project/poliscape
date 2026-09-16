@@ -2,7 +2,7 @@
   "id": "mental-health-peer-supporter-employment-act",
   "title": "精神障害当事者ピアサポーター専門職化・診療報酬算定法",
   "catchphrase": "同じ痛みを経験したから寄り添える、ピアサポーターの専門職化と報酬算定",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・福祉",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "精神医療",
-      "variant": "positive"
+      "text": "精神医療",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ピアサポート",
-      "variant": "positive"
+      "text": "ピアサポート",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "当事者参画",
-      "variant": "neutral"
+      "text": "当事者参画",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "再入院率の抑制",
+      "labelStandard": "再入院率の抑制",
+      "labelSimple": "再入院率の抑制",
       "value": "約25%低下",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ピアサポーター介入による孤立防止と地域生活定着効果",
+      "descriptionStandard": "再入院率の抑制",
+      "descriptionSimple": "再入院率の抑制",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "診療報酬加算",
+      "labelStandard": "診療報酬加算",
+      "labelSimple": "診療報酬加算",
       "value": "チーム配置評価",
+      "unit": "",
+      "oldValue": "現行",
       "description": "精神科病院・診療所の多職種連携チームへの正規雇用を後押し",
+      "descriptionStandard": "診療報酬加算",
+      "descriptionSimple": "診療報酬加算",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

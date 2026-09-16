@@ -161,50 +161,62 @@
   "badges": [
     {
       "label": "公開基準5万円超に引下げ",
-      "variant": "neutral"
+      "text": "公開基準5万円超に引下げ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "議員本人の確認書義務化",
-      "variant": "neutral"
+      "text": "議員本人の確認書義務化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "政策活動費10年後開示",
-      "variant": "neutral"
+      "text": "政策活動費10年後開示",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "パーティー券の公開基準",
+      "label": "",
       "labelStandard": "購入者氏名公表の基準額",
+      "labelSimple": "パーティー券の公開基準",
       "value": "5万",
       "unit": "円超",
       "oldValue": "20万円超",
-      "descriptionSimple": "5万円を超えるパーティー券を買った人は全員名前が出る！",
+      "description": "",
       "descriptionStandard": "1回の支払いが5万円を超える購入者の氏名・住所・金額の記載を義務化",
+      "descriptionSimple": "5万円を超えるパーティー券を買った人は全員名前が出る！",
       "badge": "大幅引き下げ",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "政治家本人の責任",
+      "label": "",
       "labelStandard": "確認書提出と公民権停止",
+      "labelSimple": "政治家本人の責任",
       "value": "公民権停止",
       "unit": "（失職リスク）",
       "oldValue": "秘書のみ処罰・議員は不問",
-      "descriptionSimple": "確認を怠って不正があれば、政治家自身が選挙に出られなくなる！",
+      "description": "",
       "descriptionStandard": "収支報告書の確認義務違反に対して公民権停止および議員失職を規定",
+      "descriptionSimple": "確認を怠って不正があれば、政治家自身が選挙に出られなくなる！",
       "badge": "連座制的手法",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "政策活動費の領収書",
+      "label": "",
       "labelStandard": "政策活動費の使途開示",
+      "labelSimple": "政策活動費の領収書",
       "value": "10年後",
       "unit": "公開",
       "oldValue": "一切非公開（使途不明）",
-      "descriptionSimple": "政党から配られたお金の領収書は10年後に公開される！",
+      "description": "",
       "descriptionStandard": "項目別内訳の即時開示と50万円超支出の領収書等の10年後開示義務",
+      "descriptionSimple": "政党から配られたお金の領収書は10年後に公開される！",
       "badge": "ブラックボックス是正",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "FileText"

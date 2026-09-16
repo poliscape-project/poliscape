@@ -1,7 +1,7 @@
 {
   "id": "smart-water-meter-automated-leak-detection-iot-mandate",
   "title": "水道事業におけるIoTスマートメーター導入と地下漏水自動検知支援",
-  "category": "infrastructure",
+  "category": "society",
   "subcategory": "上下水道・インフラDX",
   "status": "施行中",
   "date": "2024-04",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "漏水検知スピード",
+      "labelStandard": "漏水検知スピード",
+      "labelSimple": "漏水検知スピード",
       "value": "即日〜数日",
       "unit": "自動特定",
       "oldValue": "数ヶ月〜数年放置",
       "description": "AIによる夜間流量データの異常検知で地下漏水を瞬時に特定",
+      "descriptionStandard": "漏水検知スピード",
+      "descriptionSimple": "漏水検知スピード",
       "badge": "即時検知",
       "badgeColor": "green",
       "icon": "clock"
     },
     {
       "label": "公費補助率",
+      "labelStandard": "公費補助率",
+      "labelSimple": "公費補助率",
       "value": "最大67",
       "unit": "%（3分の2）",
       "oldValue": "自治体全額自己負担",
       "description": "インフラ老朽化対策基金により自治体の導入負担を大幅軽減",
+      "descriptionStandard": "公費補助率",
+      "descriptionSimple": "公費補助率",
       "badge": "手厚い補助",
       "badgeColor": "blue",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "infrastructure"
 }

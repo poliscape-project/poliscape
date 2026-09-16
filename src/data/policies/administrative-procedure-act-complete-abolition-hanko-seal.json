@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "行政DX",
-      "variant": "positive"
+      "text": "行政DX",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "脱ハンコ",
-      "variant": "positive"
+      "text": "脱ハンコ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "デジタル庁",
-      "variant": "neutral"
+      "text": "デジタル庁",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "スマホで全手続完結",
+      "labelStandard": "スマホで全手続完結",
+      "labelSimple": "スマホで全手続完結",
       "value": "スマホで全手続完結",
+      "unit": "",
+      "oldValue": "現行",
       "description": "役所の窓口に行かず、マイナンバー認証で24時間いつでも申請。",
+      "descriptionStandard": "スマホで全手続完結",
+      "descriptionSimple": "スマホで全手続完結",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "押印の99%以上を撤廃",
+      "labelStandard": "押印の99%以上を撤廃",
+      "labelSimple": "押印の99%以上を撤廃",
       "value": "押印の99%以上を撤廃",
+      "unit": "",
+      "oldValue": "現行",
       "description": "実印や認印を必要としていた数万の手続きを書面不要の電子化。",
+      "descriptionStandard": "押印の99%以上を撤廃",
+      "descriptionSimple": "押印の99%以上を撤廃",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "電子定款・公証のオンライン化",
+      "labelStandard": "電子定款・公証のオンライン化",
+      "labelSimple": "電子定款・公証のオンライン化",
       "value": "電子定款・公証のオンライン化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "会社の設立登記も公証人とのウェブ面談で即日完了。",
+      "descriptionStandard": "電子定款・公証のオンライン化",
+      "descriptionSimple": "電子定款・公証のオンライン化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "FileText"
     }
   ],

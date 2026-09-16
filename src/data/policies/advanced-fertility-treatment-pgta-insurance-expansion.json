@@ -1,8 +1,8 @@
 {
   "id": "advanced-fertility-treatment-pgta-insurance-expansion",
   "title": "特定不妊治療（先進医療PGT-A着床前胚異数性検査）の保険適用拡大",
-  "category": "health-medical",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "体外受精において受精卵の染色体数を調べる「着床前胚異数性検査（PGT-A）」について、反復流産や反復着床不全を経験した患者を対象に公的医療保険の適用範囲を拡大する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "不妊治療",
-      "variant": "blue"
+      "text": "不妊治療",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "医療保険",
-      "variant": "green"
+      "text": "医療保険",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "少子化対策",
-      "variant": "purple"
+      "text": "少子化対策",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "自己負担費用の軽減",
+      "label": "自己負担費用の軽減",
+      "labelStandard": "自己負担費用の軽減",
+      "labelSimple": "自己負担費用の軽減",
       "value": "70",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "高額療養費制度の併用により一般的な所得層では月数万円程度に抑制",
-      "trend": "down",
-      "trendLabel": "経済負担軽減"
+      "descriptionStandard": "自己負担費用の軽減",
+      "descriptionSimple": "自己負担費用の軽減",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "流産率の低減効果",
+      "label": "流産率の低減効果",
+      "labelStandard": "流産率の低減効果",
+      "labelSimple": "流産率の低減効果",
       "value": "10",
       "unit": "%未満",
+      "oldValue": "現行",
       "description": "高齢層の体外受精流産率（通常25〜35%）を大幅に低下させる効果",
-      "trend": "down",
-      "trendLabel": "流産リスク低減"
+      "descriptionStandard": "流産率の低減効果",
+      "descriptionSimple": "流産率の低減効果",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

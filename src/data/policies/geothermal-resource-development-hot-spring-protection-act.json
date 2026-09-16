@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "地熱発電",
-      "variant": "positive"
+      "text": "地熱発電",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "温泉共生",
-      "variant": "positive"
+      "text": "温泉共生",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ベースロード",
-      "variant": "neutral"
+      "text": "ベースロード",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "温泉泉質を守る監視義務",
+      "labelStandard": "温泉泉質を守る監視義務",
+      "labelSimple": "温泉泉質を守る監視義務",
       "value": "温泉泉質を守る監視義務",
+      "unit": "",
+      "oldValue": "現行",
       "description": "泉温や湯量のデータを公開し影響が出た場合は即時停止する安全弁を設置。",
+      "descriptionStandard": "温泉泉質を守る監視義務",
+      "descriptionSimple": "温泉泉質を守る監視義務",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "超臨界地熱の解禁",
+      "labelStandard": "超臨界地熱の解禁",
+      "labelSimple": "超臨界地熱の解禁",
       "value": "超臨界地熱の解禁",
+      "unit": "",
+      "oldValue": "現行",
       "description": "地下深くの超高温・超高圧熱水を利用し1基で原発並みの出力ポテンシャル。",
+      "descriptionStandard": "超臨界地熱の解禁",
+      "descriptionSimple": "超臨界地熱の解禁",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "地域への熱還元",
+      "labelStandard": "地域への熱還元",
+      "labelSimple": "地域への熱還元",
       "value": "地域への熱還元",
+      "unit": "",
+      "oldValue": "現行",
       "description": "発電で使い終えた熱を温泉街のロードヒーティングやビニールハウスに無料供給。",
+      "descriptionStandard": "地域への熱還元",
+      "descriptionSimple": "地域への熱還元",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

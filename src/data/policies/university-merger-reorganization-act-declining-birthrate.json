@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "大学再編統合",
-      "variant": "positive"
+      "text": "大学再編統合",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "定員割れ助成カット",
-      "variant": "warning"
+      "text": "定員割れ助成カット",
+      "variant": "warning",
+      "color": "blue"
     },
     {
       "label": "学生転学保護",
-      "variant": "positive"
+      "text": "学生転学保護",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "現状危機",
+      "labelStandard": "現状危機",
+      "labelSimple": "現状危機",
       "value": "私大の53%が定員割れ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "18歳人口の急減に伴う構造的な過剰供給",
+      "descriptionStandard": "現状危機",
+      "descriptionSimple": "現状危機",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "AlertTriangle"
     },
     {
       "label": "改革の柱",
+      "labelStandard": "改革の柱",
+      "labelSimple": "改革の柱",
       "value": "アンブレラ方式と撤退支援",
+      "unit": "",
+      "oldValue": "現行",
       "description": "国立大の経営統合と私学の円滑な整理・学生保護",
+      "descriptionStandard": "改革の柱",
+      "descriptionSimple": "改革の柱",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "ガバナンス",
+      "labelStandard": "ガバナンス",
+      "labelSimple": "ガバナンス",
       "value": "改正私立学校法の施行",
+      "unit": "",
+      "oldValue": "現行",
       "description": "外部評議員会による監督強化と経営の透明化",
+      "descriptionStandard": "ガバナンス",
+      "descriptionSimple": "ガバナンス",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     }
   ],

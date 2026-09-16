@@ -129,58 +129,76 @@
   "badges": [
     {
       "label": "理系無償化年収600万",
-      "variant": "neutral"
+      "text": "理系無償化年収600万",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "文理差額上乗せ",
-      "variant": "neutral"
+      "text": "文理差額上乗せ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "理系学生比率5割へ",
-      "variant": "neutral"
+      "text": "理系学生比率5割へ",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "支援される親の年収",
+      "label": "",
       "labelStandard": "理工農系向け所得制限",
+      "labelSimple": "支援される親の年収",
       "value": "年収約600",
       "unit": "万円まで緩和",
       "oldValue": "従来 年収約380万円未満に限定",
       "description": "中間所得層の理系進学を国費で支援",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "年収600万円枠",
       "badgeColor": "bg-cyan-100 text-cyan-800",
       "icon": "GraduationCap"
     },
     {
-      "labelSimple": "私立の文系と理系の差",
+      "label": "",
       "labelStandard": "文理の学費差額支援",
+      "labelSimple": "私立の文系と理系の差",
       "value": "年約40万",
       "unit": "円を上乗せ減免",
       "oldValue": "実験費等で理系私立の学費が割高",
       "description": "学費格差を公費で埋めて進学断念を防止",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "学費差額支援",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "日本の理系学生比率",
+      "label": "",
       "labelStandard": "理系学位取得者割合",
+      "labelSimple": "日本の理系学生比率",
       "value": "約35",
       "unit": "%（OECD最低水準）",
       "oldValue": "目標 2030年代に50％へ引き上げ",
       "description": "AI・半導体人材の致命的不足を解消",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "理系5割目標",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Cpu"
     },
     {
-      "labelSimple": "大学の学部転換基金",
+      "label": "",
       "labelStandard": "理系学部改組支援基金",
+      "labelSimple": "大学の学部転換基金",
       "value": "3,000",
       "unit": "億円規模",
       "oldValue": "開設しやすい文系学部偏重が定着",
       "description": "文系学部をデジタル・バイオへ改組",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "大学3千億円基金",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Building"

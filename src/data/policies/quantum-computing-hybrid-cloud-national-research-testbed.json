@@ -1,7 +1,7 @@
 {
   "id": "quantum-computing-hybrid-cloud-national-research-testbed",
   "title": "量子アニーリング・ゲート型量子コンピュータの国家クラウド基盤共用法",
-  "category": "technology",
+  "category": "society",
   "subcategory": "先端科学技術",
   "status": "施行中",
   "date": "2024-05",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "ハイブリッド計算効率",
+      "labelStandard": "ハイブリッド計算効率",
+      "labelSimple": "ハイブリッド計算効率",
       "value": "100",
       "unit": "倍以上（特定問題）",
       "oldValue": "古典単体計算",
       "description": "複雑分子の基底状態計算等で富岳単独を上回る超高速処理を達成",
+      "descriptionStandard": "ハイブリッド計算効率",
+      "descriptionSimple": "ハイブリッド計算効率",
       "badge": "性能飛躍",
       "badgeColor": "blue",
       "icon": "cpu"
     },
     {
       "label": "人材育成目標数",
+      "labelStandard": "人材育成目標数",
+      "labelSimple": "人材育成目標数",
       "value": "10",
       "unit": "万人（2030年）",
       "oldValue": "数千人規模",
       "description": "全国の学生・エンジニアを対象に量子クラウド演習アカウントを提供",
+      "descriptionStandard": "人材育成目標数",
+      "descriptionSimple": "人材育成目標数",
       "badge": "人材爆発",
       "badgeColor": "green",
       "icon": "users"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "technology"
 }

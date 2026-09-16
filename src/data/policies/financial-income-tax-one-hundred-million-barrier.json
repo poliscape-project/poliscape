@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "1億円の壁是正",
-      "variant": "positive"
+      "text": "1億円の壁是正",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "2025年適用",
-      "variant": "neutral"
+      "text": "2025年適用",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "対象は30億円超",
-      "variant": "warning"
+      "text": "対象は30億円超",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "新設税率",
+      "labelStandard": "新設税率",
+      "labelSimple": "新設税率",
       "value": "最低税負担率 22.5%",
+      "unit": "",
+      "oldValue": "現行",
       "description": "基準所得に対するミニマムタックス方式",
+      "descriptionStandard": "新設税率",
+      "descriptionSimple": "新設税率",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "実質対象層",
+      "labelStandard": "実質対象層",
+      "labelSimple": "実質対象層",
       "value": "年間所得約30億円超",
+      "unit": "",
+      "oldValue": "現行",
       "description": "全国で200〜300人程度の超富裕層に限定",
+      "descriptionStandard": "実質対象層",
+      "descriptionSimple": "実質対象層",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "一般投資家",
+      "labelStandard": "一般投資家",
+      "labelSimple": "一般投資家",
       "value": "完全対象外（影響ゼロ）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "NISAや通常の株式投資の税率は20.315%を維持",
+      "descriptionStandard": "一般投資家",
+      "descriptionSimple": "一般投資家",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

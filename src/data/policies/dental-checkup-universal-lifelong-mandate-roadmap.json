@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "8020達成率目標",
+      "labelStandard": "8020達成率目標",
+      "labelSimple": "8020達成率目標",
       "value": "60",
       "unit": "%以上",
       "oldValue": "約51.6%（現在）",
       "description": "80歳で20本以上の自分の歯を保つ高齢者の割合を大幅に底上げ",
+      "descriptionStandard": "8020達成率目標",
+      "descriptionSimple": "8020達成率目標",
       "badge": "8020運動",
       "badgeColor": "green",
       "icon": "TrendingUp"
     },
     {
       "label": "健診受診費用",
+      "labelStandard": "健診受診費用",
+      "labelSimple": "健診受診費用",
       "value": "0〜500",
       "unit": "円程度",
       "oldValue": "全額自己負担（数千円）",
       "description": "公費助成および職域健診義務化によりワンコインまたは無償受診を実現",
+      "descriptionStandard": "健診受診費用",
+      "descriptionSimple": "健診受診費用",
       "badge": "低廉な受診",
       "badgeColor": "blue",
       "icon": "Coins"

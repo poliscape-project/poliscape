@@ -165,62 +165,76 @@
   "badges": [
     {
       "label": "取得から3年以内義務",
-      "variant": "neutral"
+      "text": "取得から3年以内義務",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "正当理由なし過料10万",
-      "variant": "neutral"
+      "text": "正当理由なし過料10万",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "申出登記で過料回避",
-      "variant": "neutral"
+      "text": "申出登記で過料回避",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "名義変更の期限",
+      "label": "",
       "labelStandard": "相続登記の申請期限",
+      "labelSimple": "名義変更の期限",
       "value": "3年",
       "unit": "以内",
       "oldValue": "これまで 期限なし（任意）",
-      "descriptionSimple": "相続を知った日から3年以内に登記！",
+      "description": "",
       "descriptionStandard": "不動産の取得を知った日から3年以内に義務化",
+      "descriptionSimple": "相続を知った日から3年以内に登記！",
       "badge": "義務化施行",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Clock"
     },
     {
-      "labelSimple": "放置したときのペナルティ",
+      "label": "",
       "labelStandard": "過料ペナルティ上限",
+      "labelSimple": "放置したときのペナルティ",
       "value": "最大10万",
       "unit": "円",
       "oldValue": "これまで 罰則なし",
-      "descriptionSimple": "理由なく放っておくと過料の対象に",
+      "description": "",
       "descriptionStandard": "正当な理由のない怠慢に対して裁判所から過料",
+      "descriptionSimple": "理由なく放っておくと過料の対象に",
       "badge": "罰則規定",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "昔に相続した土地",
+      "label": "",
       "labelStandard": "過去の放置不動産の猶予",
+      "labelSimple": "昔に相続した土地",
       "value": "2027年3月",
       "unit": "まで",
       "oldValue": "2024年4月以前の未登記分",
-      "descriptionSimple": "昔の相続分も3年の間に登記が必要！",
+      "description": "",
       "descriptionStandard": "法改正前の放置分も3年間の猶予期間内に登記要",
+      "descriptionSimple": "昔の相続分も3年の間に登記が必要！",
       "badge": "遡及適用",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Calendar"
     },
     {
-      "labelSimple": "話がまとまらない時の救済",
+      "label": "",
       "labelStandard": "相続人申出登記制度",
+      "labelSimple": "話がまとまらない時の救済",
       "value": "単独申出",
       "unit": "可能",
       "oldValue": "遺産分割が難航すると登記不可だった",
-      "descriptionSimple": "自分が相続人だと名乗り出れば過料免除！",
+      "description": "",
       "descriptionStandard": "単独で申出登記を行えば10万円の過料を回避可能",
+      "descriptionSimple": "自分が相続人だと名乗り出れば過料免除！",
       "badge": "過料回避策",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "FileCheck"

@@ -129,58 +129,76 @@
   "badges": [
     {
       "label": "公文書の100%電子決裁",
-      "variant": "neutral"
+      "text": "公文書の100%電子決裁",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "国立公文書館への自動移管",
-      "variant": "neutral"
+      "text": "国立公文書館への自動移管",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "改ざん・隠蔽の完全防止",
-      "variant": "neutral"
+      "text": "改ざん・隠蔽の完全防止",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "公文書の作成媒体",
+      "label": "",
       "labelStandard": "公文書の作成媒体",
+      "labelSimple": "公文書の作成媒体",
       "value": "100",
       "unit": "%電子決裁へ移行",
       "oldValue": "紙の決裁文書（抜き取り・改ざん容易）",
       "description": "システムログで改ざん不可能な履歴記録",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "100%電子決裁",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "FileCheck"
     },
     {
-      "labelSimple": "廃棄判断の権限",
+      "label": "",
       "labelStandard": "廃棄判断の権限",
+      "labelSimple": "廃棄判断の権限",
       "value": "専門家審査",
       "unit": "（アーキビスト）",
       "oldValue": "各省庁の担当官僚が勝手にシュレッダー",
       "description": "公文書館の審査なくして勝手な廃棄不可",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "勝手な廃棄禁止",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "国民へのデジタル公開",
+      "label": "",
       "labelStandard": "国民へのデジタル公開",
+      "labelSimple": "国民へのデジタル公開",
       "value": "完全無料",
       "unit": "（オンライン全文検索）",
       "oldValue": "公文書館に出向いて紙コピー取り寄せ",
       "description": "歴史的記録をスマホから誰でも即座に閲覧",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "全文無料公開",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Globe"
     },
     {
-      "labelSimple": "新国立公文書館の開館",
+      "label": "",
       "labelStandard": "新国立公文書館の開館",
+      "labelSimple": "新国立公文書館の開館",
       "value": "2028",
       "unit": "年度（永田町に新本館）",
       "oldValue": "手狭で予算も権限も欧米より極めて貧弱",
       "description": "憲政記念館跡地に世界水準のアーキビスト拠点",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "2028年新本館",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Building"

@@ -2,9 +2,9 @@
   "id": "single-parent-medical-aid-cashless-universal-coverage",
   "title": "ひとり親家庭等医療費助成制度の所得制限緩和と窓口キャッシュレス化",
   "catchphrase": "ひとり親家庭の健康と受診アクセスを保障。所得制限を大幅緩和し全国医療機関での窓口無料化を実現",
-  "category": "welfare",
+  "category": "society",
   "categoryLabel": "社会福祉・ひとり親",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "ひとり親支援",
-      "variant": "purple"
+      "text": "ひとり親支援",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "医療費助成",
-      "variant": "blue"
+      "text": "医療費助成",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "窓口キャッシュレス",
-      "variant": "green"
+      "text": "窓口キャッシュレス",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "所得制限対象年収基準",
+      "label": "所得制限対象年収基準",
+      "labelStandard": "所得制限対象年収基準",
+      "labelSimple": "所得制限対象年収基準",
       "value": "400",
       "unit": "万円程度",
+      "oldValue": "現行",
       "description": "ひとり親（子ども1人）が親自身の医療費助成を受けられる年収上限目安（大幅緩和）",
-      "trend": "up",
-      "trendLabel": "制限大幅緩和"
+      "descriptionStandard": "所得制限対象年収基準",
+      "descriptionSimple": "所得制限対象年収基準",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "窓口立替払い解消率",
+      "label": "窓口立替払い解消率",
+      "labelStandard": "窓口立替払い解消率",
+      "labelSimple": "窓口立替払い解消率",
       "value": "100",
       "unit": "%",
+      "oldValue": "現行",
       "description": "オンライン資格確認連携による県外受診を含めた医療機関窓口立替ゼロ達成割合",
-      "trend": "up",
-      "trendLabel": "立替完全撤廃"
+      "descriptionStandard": "窓口立替払い解消率",
+      "descriptionSimple": "窓口立替払い解消率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

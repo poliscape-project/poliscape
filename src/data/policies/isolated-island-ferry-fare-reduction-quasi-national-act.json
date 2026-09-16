@@ -1,8 +1,8 @@
 {
   "id": "isolated-island-ferry-fare-reduction-quasi-national-act",
   "title": "有人国境離島航路の運賃低廉化（JR並み運賃化及び準公営補助維持）",
-  "category": "regional-revitalization",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "日本海・東シナ海・太平洋等の国境離島に暮らす島民の定住を支援し、領海・排他的経済水域（EEZ）の保全基盤を維持するため、有人国境離島地域社会維持特別措置法に基づき、離島航路・航空路の島民旅客運賃を「JR本土並み水準」まで大幅に引き下げる国の運賃低廉化支援制度を拡充する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "国境離島",
-      "variant": "purple"
+      "text": "国境離島",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "交通インフラ",
-      "variant": "blue"
+      "text": "交通インフラ",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "安全保障",
-      "variant": "green"
+      "text": "安全保障",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "島民運賃引き下げ率",
+      "label": "島民運賃引き下げ率",
+      "labelStandard": "島民運賃引き下げ率",
+      "labelSimple": "島民運賃引き下げ率",
       "value": "55",
       "unit": "%割引",
+      "oldValue": "現行",
       "description": "有人国境離島法に基づく島民フェリー運賃の本土JR並み基準への平均引き下げ率",
-      "trend": "down",
-      "trendLabel": "JR並み格安化"
+      "descriptionStandard": "島民運賃引き下げ率",
+      "descriptionSimple": "島民運賃引き下げ率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "島民本土往来頻度",
+      "label": "島民本土往来頻度",
+      "labelStandard": "島民本土往来頻度",
+      "labelSimple": "島民本土往来頻度",
       "value": "40",
       "unit": "%増",
+      "oldValue": "現行",
       "description": "運賃低廉化制度導入後の島民による通院・商用・家族訪問等の本土往来回数増加率",
-      "trend": "up",
-      "trendLabel": "交流活発化"
+      "descriptionStandard": "島民本土往来頻度",
+      "descriptionSimple": "島民本土往来頻度",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

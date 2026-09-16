@@ -4,7 +4,7 @@
   "catchphrase": "75歳まで選べる年金。繰下げ受給で一生涯＋84%増額の安心と高齢期就労を強力支援",
   "category": "pension",
   "categoryLabel": "公的年金・老後資金",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "年金繰下げ",
-      "variant": "purple"
+      "text": "年金繰下げ",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "最大84%増",
-      "variant": "blue"
+      "text": "最大84%増",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "長生きリスク対策",
-      "variant": "green"
+      "text": "長生きリスク対策",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "生涯年金増額率",
+      "label": "生涯年金増額率",
+      "labelStandard": "生涯年金増額率",
+      "labelSimple": "生涯年金増額率",
       "value": "84",
       "unit": "%増（1.84倍）",
+      "oldValue": "現行",
       "description": "公的年金の受給開始を75歳まで繰り下げた場合に一生涯上乗せされる増額割合",
-      "trend": "up",
-      "trendLabel": "最大増額"
+      "descriptionStandard": "生涯年金増額率",
+      "descriptionSimple": "生涯年金増額率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "受給開始可能年齢幅",
+      "label": "受給開始可能年齢幅",
+      "labelStandard": "受給開始可能年齢幅",
+      "labelSimple": "受給開始可能年齢幅",
       "value": "15",
       "unit": "年間（60〜75歳）",
+      "oldValue": "現行",
       "description": "本人の健康状態や就労状況に合わせて自由に受給開始を選択できる月単位の期間幅",
-      "trend": "up",
-      "trendLabel": "自由選択"
+      "descriptionStandard": "受給開始可能年齢幅",
+      "descriptionSimple": "受給開始可能年齢幅",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

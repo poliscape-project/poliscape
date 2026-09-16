@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "派遣費用公費助成",
+      "labelStandard": "派遣費用公費助成",
+      "labelSimple": "派遣費用公費助成",
       "value": "全額公費",
       "unit": "（渡航費・受講費）",
       "oldValue": "自費で数百万円",
       "description": "往復航空券、現地宿泊、トップアクセラレーター受講料を国が全額支援",
+      "descriptionStandard": "派遣費用公費助成",
+      "descriptionSimple": "派遣費用公費助成",
       "badge": "全額公費負担",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "累計海外派遣規模",
+      "labelStandard": "累計海外派遣規模",
+      "labelSimple": "累計海外派遣規模",
       "value": "3,000",
       "unit": "名超（起業家・学生等）",
       "oldValue": "年数十名程度",
       "description": "世界各地の先端拠点へ若き才能を大規模派遣しグローバル化を加速",
+      "descriptionStandard": "累計海外派遣規模",
+      "descriptionSimple": "累計海外派遣規模",
       "badge": "派遣3,000名突破",
       "badgeColor": "blue",
       "icon": "globe-americas"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

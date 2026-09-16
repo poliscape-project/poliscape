@@ -1,0 +1,264 @@
+{
+  "id": "heavy-duty-fuel-cell-hydrogen-truck-expressway-corridor",
+  "title": "大型燃料電池（FC）トラック幹線物流実証と高速道路水素ST整備",
+  "category": "environment",
+  "subcategory": "水素エネルギー・物流脱炭素化",
+  "catchphrase": "東京・大阪間を水素で結ぶ！大型FCトラックの実証走行とメガステーション整備による幹線物流の脱炭素シフト",
+  "lastUpdated": "2026-03-28",
+  "status": "enacted",
+  "statusLabel": "実証走行・拠点整備中",
+  "summary": {
+    "simple": [
+      "東京と大阪を結ぶ高速道路沿いに大型トラック用の巨大な水素ステーションを整備し、二酸化炭素を出さず水しか出さない大型水素トラック（燃料電池車）を走らせるプロジェクトです。",
+      "わかりやすい支援を進めます。"
+    ],
+    "standard": [
+      "長距離走行と大積載量が求められる大型幹線輸送トラックの脱炭素化を実現するため、70MPa対応・大流量水素充填スタンドを東名・名神等の主要高速道路SAや物流ハブに先行整備し、自動車メーカー・大手物流企業と連携して大型FC大型トラックの大規模走行実証および導入支援を行う施策。",
+      "東京・大阪間を水素で結ぶ！大型FCトラックの実証走行とメガステーション整備による幹線物流の脱炭素シフト"
+    ]
+  },
+  "background": {
+    "simple": "大型トラックはバッテリーで動かそうとすると電池が重すぎて荷物が積めず、充電に何時間もかかるため、短時間で充填できて長距離を走れる水素燃料が期待されています。",
+    "standard": "日本の商用車CO2排出の約7割を占める大型トラックにおいて、純粋なEV（BEV）では電池重量と充電時間が長距離運行上の致命的なボトルネックとなっていた。3〜10分程度の水素充填で600km以上を走行できる燃料電池（FC）技術の社会実装が、物流網維持と2050年カーボンニュートラル両立の切り札として位置づけられた。"
+  },
+  "changes": [
+    {
+      "id": "change-1",
+      "topic": "東名・新東名・名神高速道路の主要SA/PAおよび物...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "東名・新東名・名神高速道路の主要SA/PAおよび物流結節点への大型FC商用車対応水素ステーションの集中整備",
+      "highlight": "東名・新東名・名神高速道路の主要SA/PAおよび物流結節点へ",
+      "icon": "FileCheck"
+    },
+    {
+      "id": "change-2",
+      "topic": "大型FCトラック車両本体価格とディーゼル車との差額...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "大型FCトラック車両本体価格とディーゼル車との差額に対する重点補助（補助率最大2/3〜3/4）",
+      "highlight": "大型FCトラック車両本体価格とディーゼル車との差額に対する重",
+      "icon": "TrendingUp"
+    },
+    {
+      "id": "change-3",
+      "topic": "水素ステーションでの充填時間短縮を可能にする国際規...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "水素ステーションでの充填時間短縮を可能にする国際規格大流量充填ノズル・高圧圧縮機の開発支援",
+      "highlight": "水素ステーションでの充填時間短縮を可能にする国際規格大流量充",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される主な効果・メリット（推進側の視点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "ディーゼル車特有の排出ガス（NOx・PM）やCO2...",
+        "summary": "ディーゼル車特有の排出ガス（NOx・PM）やCO2がゼロになり、高速道路沿線の大気環境が劇的に改善",
+        "detail": "ディーゼル車特有の排出ガス（NOx・PM）やCO2がゼロになり、高速道路沿線の大気環境が劇的に改善",
+        "simpleDetail": "ディーゼル車特有の排出ガス（NOx・PM）やCO2がゼロになり、高速道路沿線の大気環境が劇的に改善",
+        "tag": "期待・効果"
+      },
+      {
+        "id": "b2",
+        "title": "満充填で東京・大阪間を無充填または1回数分の充填で...",
+        "summary": "満充填で東京・大阪間を無充填または1回数分の充填で走破可能となり、ドライバーの運行拘束時間を増やさない",
+        "detail": "満充填で東京・大阪間を無充填または1回数分の充填で走破可能となり、ドライバーの運行拘束時間を増やさない",
+        "simpleDetail": "満充填で東京・大阪間を無充填または1回数分の充填で走破可能となり、ドライバーの運行拘束時間を増やさない",
+        "tag": "期待・効果"
+      },
+      {
+        "id": "b3",
+        "title": "大容量燃料電池スタックと水素タンクにより、災害時に...",
+        "summary": "大容量燃料電池スタックと水素タンクにより、災害時に巨大な移動発電所として避難所や病院へ数日分の電力を供給可能",
+        "detail": "大容量燃料電池スタックと水素タンクにより、災害時に巨大な移動発電所として避難所や病院へ数日分の電力を供給可能",
+        "simpleDetail": "大容量燃料電池スタックと水素タンクにより、災害時に巨大な移動発電所として避難所や病院へ数日分の電力を供給可能",
+        "tag": "期待・効果"
+      }
+    ],
+    "challengesTitle": "検討されている課題・懸念点（慎重側の視点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "1基あたり数億円〜十数億円かかる大型商用車用水素ス...",
+        "summary": "1基あたり数億円〜十数億円かかる大型商用車用水素ステーションの建設費および水素価格自体の高止まり",
+        "detail": "1基あたり数億円〜十数億円かかる大型商用車用水素ステーションの建設費および水素価格自体の高止まり",
+        "simpleDetail": "1基あたり数億円〜十数億円かかる大型商用車用水素ステーションの建設費および水素価格自体の高止まり",
+        "tag": "課題・懸念"
+      },
+      {
+        "id": "c2",
+        "title": "グリーン水素（再エネ由来水素）のサプライチェーンが...",
+        "summary": "グリーン水素（再エネ由来水素）のサプライチェーンが未確立な段階では製造時CO2排出（グレー水素問題）が残る点",
+        "detail": "グリーン水素（再エネ由来水素）のサプライチェーンが未確立な段階では製造時CO2排出（グレー水素問題）が残る点",
+        "simpleDetail": "グリーン水素（再エネ由来水素）のサプライチェーンが未確立な段階では製造時CO2排出（グレー水素問題）が残る点",
+        "tag": "課題・懸念"
+      },
+      {
+        "id": "c3",
+        "title": "車両価格がディーゼル車の数倍に及び、補助金が終了し...",
+        "summary": "車両価格がディーゼル車の数倍に及び、補助金が終了した後の民間自立採算性の見通し",
+        "detail": "車両価格がディーゼル車の数倍に及び、補助金が終了した後の民間自立採算性の見通し",
+        "simpleDetail": "車両価格がディーゼル車の数倍に及び、補助金が終了した後の民間自立採算性の見通し",
+        "tag": "課題・懸念"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2022年",
+      "label": "NEDOおよび新エネルギー技術研究組合による大型F...",
+      "title": "NEDOおよび新エネルギー技術研究組合による大型FCトラック共同実証の開始",
+      "status": "completed",
+      "description": "NEDOおよび新エネルギー技術研究組合による大型FCトラック共同実証の開始"
+    },
+    {
+      "date": "2024年",
+      "label": "新東名高速道路駿河湾沼津SA等における大型FC商用...",
+      "title": "新東名高速道路駿河湾沼津SA等における大型FC商用車用水素ステーションの稼働",
+      "status": "completed",
+      "description": "新東名高速道路駿河湾沼津SA等における大型FC商用車用水素ステーションの稼働"
+    },
+    {
+      "date": "2026年",
+      "label": "東京〜大阪間幹線物流における商用大型FCトラックフ...",
+      "title": "東京〜大阪間幹線物流における商用大型FCトラックフリートの本格運行開始",
+      "status": "current",
+      "description": "東京〜大阪間幹線物流における商用大型FCトラックフリートの本格運行開始"
+    }
+  ],
+  "sources": [
+    {
+      "title": "経済産業省：水素・アンモニア政策小委員会（商用車における水素利用拡大）",
+      "url": "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/index.html"
+    },
+    {
+      "title": "国土交通省：幹線輸送における大型商用車の脱炭素化に向けた実証実験",
+      "url": "https://www.mlit.go.jp/jidosha/jidosha_tk10_000008.html"
+    }
+  ],
+  "badges": [
+    {
+      "label": "水素物流",
+      "text": "水素物流",
+      "variant": "primary",
+      "color": "blue"
+    },
+    {
+      "label": "大型FCトラック",
+      "text": "大型FCトラック",
+      "variant": "default",
+      "color": "blue"
+    },
+    {
+      "label": "東名阪コリドー",
+      "text": "東名阪コリドー",
+      "variant": "outline",
+      "color": "blue"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "航続距離",
+      "labelStandard": "航続距離",
+      "labelSimple": "航続距離",
+      "value": "約600km以上",
+      "unit": "（東京〜大阪間走破）",
+      "oldValue": "現行",
+      "description": "航続距離",
+      "descriptionStandard": "航続距離",
+      "descriptionSimple": "航続距離",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
+    },
+    {
+      "label": "充填時間",
+      "labelStandard": "充填時間",
+      "labelSimple": "充填時間",
+      "value": "約10〜15分",
+      "unit": "（大流量ノズル充填）",
+      "oldValue": "現行",
+      "description": "充填時間",
+      "descriptionStandard": "充填時間",
+      "descriptionSimple": "充填時間",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
+    },
+    {
+      "label": "排出ガス",
+      "labelStandard": "排出ガス",
+      "labelSimple": "排出ガス",
+      "value": "水のみ（ゼロエミッション）",
+      "unit": "（CO2・NOx排出ゼロ）",
+      "oldValue": "現行",
+      "description": "排出ガス",
+      "descriptionStandard": "排出ガス",
+      "descriptionSimple": "排出ガス",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "TrendingUp"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "推進派・利用者の声",
+        "commentStandard": "早期の実装を期待しています。",
+        "commentSimple": "期待しています。"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "専門家・現場の声",
+        "commentStandard": "現場への丁寧な配慮が必要です。",
+        "commentSimple": "課題への配慮が必要です。"
+      }
+    ]
+  },
+  "international": {
+    "summary": "海外主要国における関連施策の比較と最新動向",
+    "countries": [
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "スイスの関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "スイス関係公的機関",
+          "title": "スイスにおける制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "アメリカの関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "アメリカ関係公的機関",
+          "title": "アメリカにおける制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      },
+      {
+        "country": "欧州連合（EU）",
+        "countryCode": "INT",
+        "flag": "🌐",
+        "systemName": "欧州連合（EU）の関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "欧州連合（EU）関係公的機関",
+          "title": "欧州連合（EU）における制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      }
+    ]
+  },
+  "categoryLabel": "環境・エネルギー"
+}

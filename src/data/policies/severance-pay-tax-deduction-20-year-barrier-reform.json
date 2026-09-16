@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "労働移動円滑化",
-      "variant": "positive"
+      "text": "労働移動円滑化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "勤続20年超是正",
-      "variant": "neutral"
+      "text": "勤続20年超是正",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "サラリーマン増税懸念",
-      "variant": "warning"
+      "text": "サラリーマン増税懸念",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "現行制度",
+      "labelStandard": "現行制度",
+      "labelSimple": "現行制度",
       "value": "20年超で控除が年70万へ倍増",
+      "unit": "",
+      "oldValue": "現行",
       "description": "終身雇用を前提とした傾斜配分ルール",
+      "descriptionStandard": "現行制度",
+      "descriptionSimple": "現行制度",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "見直し案",
+      "labelStandard": "見直し案",
+      "labelSimple": "見直し案",
       "value": "年数に関わらず一律平準化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "転職やキャリアアップにペナルティを与えない中立税制へ",
+      "descriptionStandard": "見直し案",
+      "descriptionSimple": "見直し案",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "最大の争点",
+      "labelStandard": "最大の争点",
+      "labelSimple": "最大の争点",
       "value": "中高年層への激変緩和",
+      "unit": "",
+      "oldValue": "現行",
       "description": "定年間近の世代に対する老後資金計画への配慮",
+      "descriptionStandard": "最大の争点",
+      "descriptionSimple": "最大の争点",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

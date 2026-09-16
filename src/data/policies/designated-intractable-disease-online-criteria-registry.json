@@ -1,8 +1,8 @@
 {
   "id": "designated-intractable-disease-online-criteria-registry",
   "title": "指定難病オンライン診断基準照会システムと医療費受給者証デジタル化",
-  "category": "health-medical",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "原因不明で治療法が確立していない「指定難病（現在341疾病）」について、患者の診断基準照会および臨床調査個人票の作成を完全オンライン・デジタル化する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "難病支援",
-      "variant": "purple"
+      "text": "難病支援",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "医療DX",
-      "variant": "blue"
+      "text": "医療DX",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "行政改革",
-      "variant": "green"
+      "text": "行政改革",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "指定難病の対象疾病数",
+      "label": "指定難病の対象疾病数",
+      "labelStandard": "指定難病の対象疾病数",
+      "labelSimple": "指定難病の対象疾病数",
       "value": "341",
       "unit": "疾病",
+      "oldValue": "現行",
       "description": "国が医療費助成の対象として指定している希少難治性疾患の総数",
-      "trend": "neutral",
-      "trendLabel": "指定対象数"
+      "descriptionStandard": "指定難病の対象疾病数",
+      "descriptionSimple": "指定難病の対象疾病数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "受給証交付までの期間",
+      "label": "受給証交付までの期間",
+      "labelStandard": "受給証交付までの期間",
+      "labelSimple": "受給証交付までの期間",
       "value": "75",
       "unit": "%短縮",
+      "oldValue": "現行",
       "description": "従来の平均2〜3か月から最短2週間程度へと大幅に圧縮",
-      "trend": "down",
-      "trendLabel": "発行期間短縮"
+      "descriptionStandard": "受給証交付までの期間",
+      "descriptionSimple": "受給証交付までの期間",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

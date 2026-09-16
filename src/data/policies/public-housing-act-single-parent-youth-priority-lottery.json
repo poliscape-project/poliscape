@@ -2,7 +2,7 @@
   "id": "public-housing-act-single-parent-youth-priority-lottery",
   "title": "公営住宅法改正（子育て世帯・若者単身者優先入居枠拡充法）",
   "catchphrase": "若い世代の住宅コストを軽減、公営住宅の入居要件緩和と子育て世帯向け優先抽選枠の全国義務化",
-  "category": "welfare",
+  "category": "society",
   "categoryLabel": "社会保障・福祉",
   "lastUpdated": "2026-02-03",
   "effectiveDate": "2025年4月施行",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "公営住宅",
-      "variant": "positive"
+      "text": "公営住宅",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "少子化対策",
-      "variant": "positive"
+      "text": "少子化対策",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "若者支援",
-      "variant": "neutral"
+      "text": "若者支援",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "子育て優先枠20%義務化",
+      "labelStandard": "子育て優先枠20%義務化",
+      "labelSimple": "子育て優先枠20%義務化",
       "value": "子育て優先枠20%義務化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "子育て・新婚世帯に優先的な当選確率を設定し安価な住居を提供。",
+      "descriptionStandard": "子育て優先枠20%義務化",
+      "descriptionSimple": "子育て優先枠20%義務化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Home"
     },
     {
       "label": "若者単身者の入居解禁",
+      "labelStandard": "若者単身者の入居解禁",
+      "labelSimple": "若者単身者の入居解禁",
       "value": "若者単身者の入居解禁",
+      "unit": "",
+      "oldValue": "現行",
       "description": "高齢者に限定されていた単身入居資格を40歳未満の若者へ全面開放。",
+      "descriptionStandard": "若者単身者の入居解禁",
+      "descriptionSimple": "若者単身者の入居解禁",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "老朽団地のリノベーション",
+      "labelStandard": "老朽団地のリノベーション",
+      "labelSimple": "老朽団地のリノベーション",
       "value": "老朽団地のリノベーション",
+      "unit": "",
+      "oldValue": "現行",
       "description": "間取りの結合や防音・断熱工事で子育てしやすいモダン住宅へ刷新。",
+      "descriptionStandard": "老朽団地のリノベーション",
+      "descriptionSimple": "老朽団地のリノベーション",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

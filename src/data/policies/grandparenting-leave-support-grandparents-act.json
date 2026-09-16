@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "孫育て休暇",
-      "variant": "positive"
+      "text": "孫育て休暇",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "シニア活躍",
-      "variant": "positive"
+      "text": "シニア活躍",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ワンオペ解消",
-      "variant": "neutral"
+      "text": "ワンオペ解消",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "企業助成金",
+      "labelStandard": "企業助成金",
+      "labelSimple": "企業助成金",
       "value": "最大60万円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "孫育て休業を有給で就業規則に定めた中小企業へ給付",
+      "descriptionStandard": "企業助成金",
+      "descriptionSimple": "企業助成金",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "孫育て退職防止",
+      "labelStandard": "孫育て退職防止",
+      "labelSimple": "孫育て退職防止",
       "value": "最長1カ月休業",
+      "unit": "",
+      "oldValue": "現行",
       "description": "産後のサポート期間に合わせて有給分割取得を可能に",
+      "descriptionStandard": "孫育て退職防止",
+      "descriptionSimple": "孫育て退職防止",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

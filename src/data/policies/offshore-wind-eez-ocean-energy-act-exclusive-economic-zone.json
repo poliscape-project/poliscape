@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "洋上風力EEZ新法",
-      "variant": "positive"
+      "text": "洋上風力EEZ新法",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "エネルギー安全保障",
-      "variant": "positive"
+      "text": "エネルギー安全保障",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "漁業共生課題",
-      "variant": "warning"
+      "text": "漁業共生課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "展開海域",
+      "labelStandard": "展開海域",
+      "labelSimple": "展開海域",
       "value": "排他的経済水域（EEZ）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "領海外の広大な海洋で最長30年の占用を許可",
+      "descriptionStandard": "展開海域",
+      "descriptionSimple": "展開海域",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Leaf"
     },
     {
       "label": "中核技術",
+      "labelStandard": "中核技術",
+      "labelSimple": "中核技術",
       "value": "浮体式洋上風力",
+      "unit": "",
+      "oldValue": "現行",
       "description": "水深100m超の深海にも対応する日本発の海洋技術",
+      "descriptionStandard": "中核技術",
+      "descriptionSimple": "中核技術",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "共生枠組",
+      "labelStandard": "共生枠組",
+      "labelSimple": "共生枠組",
       "value": "漁業振興還元基金",
+      "unit": "",
+      "oldValue": "現行",
       "description": "売電収益の一部を海洋調査や地域漁業振興に還元",
+      "descriptionStandard": "共生枠組",
+      "descriptionSimple": "共生枠組",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

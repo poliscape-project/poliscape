@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "離島医療",
-      "variant": "positive"
+      "text": "離島医療",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "遠隔診療",
-      "variant": "positive"
+      "text": "遠隔診療",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ドローン薬局",
-      "variant": "neutral"
+      "text": "ドローン薬局",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "専門医療",
+      "labelStandard": "専門医療",
+      "labelSimple": "専門医療",
       "value": "大学病院専任科直結",
+      "unit": "",
+      "oldValue": "現行",
       "description": "全都道府県の大学病院に離島専任の遠隔専門医チームを常設",
+      "descriptionStandard": "専門医療",
+      "descriptionSimple": "専門医療",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "薬局配送",
+      "labelStandard": "薬局配送",
+      "labelSimple": "薬局配送",
       "value": "ドローン全額国費補助",
+      "unit": "",
+      "oldValue": "現行",
       "description": "本土から離島への処方薬ドローン定期航路の開設維持費を全額支援",
+      "descriptionStandard": "薬局配送",
+      "descriptionSimple": "薬局配送",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Radio"
     }
   ],

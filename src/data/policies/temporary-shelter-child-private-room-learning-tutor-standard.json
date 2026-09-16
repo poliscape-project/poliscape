@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "居室環境基準",
+      "labelStandard": "居室環境基準",
+      "labelSimple": "居室環境基準",
       "value": "原則個室",
       "unit": "化（法的最低基準化）",
       "oldValue": "大部屋雑居が中心",
       "description": "子どものプライバシーと尊厳を守る個室空間の確保を義務化",
+      "descriptionStandard": "居室環境基準",
+      "descriptionSimple": "居室環境基準",
       "badge": "完全個室化",
       "badgeColor": "green",
       "icon": "home"
     },
     {
       "label": "施設改修補助率",
+      "labelStandard": "施設改修補助率",
+      "labelSimple": "施設改修補助率",
       "value": "最大75",
       "unit": "%（国庫重点支援）",
       "oldValue": "自治体通常負担",
       "description": "社会保障資本整備交付金による個室化・建て替え費用の手厚い公費負担",
+      "descriptionStandard": "施設改修補助率",
+      "descriptionSimple": "施設改修補助率",
       "badge": "手厚い改修補助",
       "badgeColor": "blue",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

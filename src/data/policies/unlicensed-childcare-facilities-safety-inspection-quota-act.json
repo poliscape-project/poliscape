@@ -4,7 +4,7 @@
   "catchphrase": "保育事故ゼロへ。企業主導型保育や認可外施設への年1回立入監査義務化と事故隠蔽防止",
   "category": "childcare",
   "categoryLabel": "子育て・保育安全",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "保育安全",
-      "variant": "purple"
+      "text": "保育安全",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "事故防止",
-      "variant": "blue"
+      "text": "事故防止",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "企業主導型",
-      "variant": "green"
+      "text": "企業主導型",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "立入監査実施率",
+      "label": "立入監査実施率",
+      "labelStandard": "立入監査実施率",
+      "labelSimple": "立入監査実施率",
       "value": "100",
       "unit": "%達成",
+      "oldValue": "現行",
       "description": "全国の企業主導型・認可外保育施設に対する年1回以上の実地立入監査実施率",
-      "trend": "up",
-      "trendLabel": "全数監査"
+      "descriptionStandard": "立入監査実施率",
+      "descriptionSimple": "立入監査実施率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "重大睡眠事故件数",
+      "label": "重大睡眠事故件数",
+      "labelStandard": "重大睡眠事故件数",
+      "labelSimple": "重大睡眠事故件数",
       "value": "0",
       "unit": "件目標",
+      "oldValue": "現行",
       "description": "IoT体動センサー配備および午睡時チェック厳格化による施設内睡眠中死亡事故ゼロ目標",
-      "trend": "down",
-      "trendLabel": "事故根絶"
+      "descriptionStandard": "重大睡眠事故件数",
+      "descriptionSimple": "重大睡眠事故件数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

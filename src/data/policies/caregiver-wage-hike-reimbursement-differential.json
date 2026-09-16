@@ -2,7 +2,7 @@
   "id": "caregiver-wage-hike-reimbursement-differential",
   "title": "介護職員等処遇改善加算の一本化・新加算創設（月額数千円〜1万円強の継続的賃上げ）",
   "catchphrase": "介護崩壊を食い止める。複雑だった3つの加算を1つに統合し、他産業との賃金格差を埋める処遇改善を推進",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・健康・公衆衛生",
   "lastUpdated": "2024-04-01",
   "effectiveDate": "2024年6月施行（2024年度介護報酬改定）",
@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "加算の一本化",
-      "variant": "positive"
+      "text": "加算の一本化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "基本給アップ義務",
-      "variant": "positive"
+      "text": "基本給アップ義務",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "保険料増が課題",
-      "variant": "warning"
+      "text": "保険料増が課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "新加算名称",
+      "labelStandard": "新加算名称",
+      "labelSimple": "新加算名称",
       "value": "介護職員等処遇改善加算",
+      "unit": "",
+      "oldValue": "現行",
       "description": "従来の3加算を一本化し事務手続きを劇的簡素化",
+      "descriptionStandard": "新加算名称",
+      "descriptionSimple": "新加算名称",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "賃上げ義務",
+      "labelStandard": "賃上げ義務",
+      "labelSimple": "賃上げ義務",
       "value": "新加算の2/3以上を基本給へ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ボーナスではなく毎月の確実なベースアップに充当",
+      "descriptionStandard": "賃上げ義務",
+      "descriptionSimple": "賃上げ義務",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "配分対象",
+      "labelStandard": "配分対象",
+      "labelSimple": "配分対象",
       "value": "事業所の全職種へ柔軟配分",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ケアマネや事務員を含めたチーム全体の処遇改善",
+      "descriptionStandard": "配分対象",
+      "descriptionSimple": "配分対象",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

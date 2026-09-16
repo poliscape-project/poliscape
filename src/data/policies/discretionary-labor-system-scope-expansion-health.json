@@ -133,58 +133,76 @@
   "badges": [
     {
       "label": "裁量労働同意必須",
-      "variant": "neutral"
+      "text": "裁量労働同意必須",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "M&A・企画追加",
-      "variant": "neutral"
+      "text": "M&A・企画追加",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "インターバル義務",
-      "variant": "neutral"
+      "text": "インターバル義務",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "働く人のサイン",
+      "label": "",
       "labelStandard": "労働者本人の同意",
+      "labelSimple": "働く人のサイン",
       "value": "個別同意",
       "unit": "を必須化",
       "oldValue": "これまで 労使委員会決議で包括適用",
       "description": "嫌な場合は拒否でき撤回権も保障",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "同意必須",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "UserCheck"
     },
     {
-      "labelSimple": "新しく増えた仕事",
+      "label": "",
       "labelStandard": "企画業務型の追加職種",
+      "labelSimple": "新しく増えた仕事",
       "value": "M&A等",
       "unit": "事業計画策定",
       "oldValue": "経営企画の狭い範囲に限定",
       "description": "市場開拓等の戦略業務を対象拡大",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "対象追加",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Briefcase"
     },
     {
-      "labelSimple": "休む時間のルール",
+      "label": "",
       "labelStandard": "勤務間インターバル",
+      "labelSimple": "休む時間のルール",
       "value": "11時間",
       "unit": "等の休息確保",
       "oldValue": "深夜業の野放し・健康診断のみ",
       "description": "健康確保措置の選択実施を義務化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "健康管理義務",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "残業代の仕組み",
+      "label": "",
       "labelStandard": "みなし労働時間制",
+      "labelSimple": "残業代の仕組み",
       "value": "成果型",
       "unit": "評価（定額みなし）",
       "oldValue": "「定額働かせ放題」の強い警戒感",
       "description": "効率的な短時間勤務と成果評価",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "自律的労働",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Clock"

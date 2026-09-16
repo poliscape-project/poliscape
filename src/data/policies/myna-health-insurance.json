@@ -163,62 +163,76 @@
   "badges": [
     {
       "label": "紙保険証は失効",
-      "variant": "neutral"
+      "text": "紙保険証は失効",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "資格確認書は要申請",
-      "variant": "neutral"
+      "text": "資格確認書は要申請",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "限度額認定が全自動",
-      "variant": "neutral"
+      "text": "限度額認定が全自動",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "昔の保険証のあつかい",
+      "label": "",
       "labelStandard": "従来の健康保険証",
+      "labelSimple": "昔の保険証のあつかい",
       "value": "完全失効",
       "unit": "（利用不可）",
       "oldValue": "2024年12月に新規発行終了",
-      "descriptionSimple": "いまはもう昔の保険証は使えません",
+      "description": "",
       "descriptionStandard": "紙・プラスチック保険証はすべて失効",
+      "descriptionSimple": "いまはもう昔の保険証は使えません",
       "badge": "完全終了",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "CreditCard"
     },
     {
-      "labelSimple": "1年間のゆうよ期間",
+      "label": "",
       "labelStandard": "経過措置（猶予期間）",
+      "labelSimple": "1年間のゆうよ期間",
       "value": "終了済",
       "unit": "（2025/12/1）",
       "oldValue": "最長1年間の経過措置期間",
-      "descriptionSimple": "手元の保険証が使えた期間も終了！",
+      "description": "",
       "descriptionStandard": "2025年12月1日をもって猶予終了",
+      "descriptionSimple": "手元の保険証が使えた期間も終了！",
       "badge": "完全移行済",
       "badgeColor": "bg-slate-100 text-slate-800",
       "icon": "Clock"
     },
     {
-      "labelSimple": "マイナを使わない人の受診",
+      "label": "",
       "labelStandard": "「資格確認書」の手続き",
+      "labelSimple": "マイナを使わない人の受診",
       "value": "要申請",
       "unit": "（会社・役所）",
       "oldValue": "待っていても届かないため申請が必要",
-      "descriptionSimple": "申請すればこれまで通り受診OK！",
+      "description": "",
       "descriptionStandard": "健保や自治体に申請して交付を受ける",
+      "descriptionSimple": "申請すればこれまで通り受診OK！",
       "badge": "健保・役所へ申請",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "高額な医療費の手続き",
+      "label": "",
       "labelStandard": "限度額適用認定証",
+      "labelSimple": "高額な医療費の手続き",
       "value": "事前申請",
       "unit": "なし（マイナ）",
       "oldValue": "マイナなら窓口同意で自動適用",
-      "descriptionSimple": "マイナなら数十万円の立て替えゼロ！",
+      "description": "",
       "descriptionStandard": "資格確認書は従来通り事前申請が必要",
+      "descriptionSimple": "マイナなら数十万円の立て替えゼロ！",
       "badge": "マイナの利点",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "FileCheck"

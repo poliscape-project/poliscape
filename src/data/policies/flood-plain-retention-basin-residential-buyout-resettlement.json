@@ -1,7 +1,7 @@
 {
   "id": "flood-plain-retention-basin-residential-buyout-resettlement",
   "title": "高頻度水没浸水想定区域における集団移転促進と宅地公費買収制度",
-  "category": "infrastructure",
+  "category": "society",
   "subcategory": "防災・都市計画",
   "status": "施行中",
   "date": "2024-04",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "1世帯あたり移転補助",
+      "labelStandard": "1世帯あたり移転補助",
+      "labelSimple": "1世帯あたり移転補助",
       "value": "最大1500",
       "unit": "万円",
       "oldValue": "数十万円（被災者生活再建支援法）",
       "description": "住宅新築・引越し・解体費用を高台移転事業により手厚く公費補助",
+      "descriptionStandard": "1世帯あたり移転補助",
+      "descriptionSimple": "1世帯あたり移転補助",
       "badge": "最大規模助成",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "買収跡地の用途",
+      "labelStandard": "買収跡地の用途",
+      "labelSimple": "買収跡地の用途",
       "value": "100",
       "unit": "%（遊水・緑地化）",
       "oldValue": "再建築の繰り返し",
       "description": "危険な宅地を根絶し大雨時の洪水バッファとして永久公有化",
+      "descriptionStandard": "買収跡地の用途",
+      "descriptionSimple": "買収跡地の用途",
       "badge": "リスク根絶",
       "badgeColor": "blue",
       "icon": "shield-check"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "infrastructure"
 }

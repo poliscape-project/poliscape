@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "特定技能2号拡大",
-      "variant": "positive"
+      "text": "特定技能2号拡大",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "家族帯同・無期限",
-      "variant": "positive"
+      "text": "家族帯同・無期限",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "共生・日本語教育急務",
-      "variant": "warning"
+      "text": "共生・日本語教育急務",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "対象拡大",
+      "labelStandard": "対象拡大",
+      "labelSimple": "対象拡大",
       "value": "全11分野へ全面開放",
+      "unit": "",
+      "oldValue": "現行",
       "description": "外食、宿泊、農業、製造、飲食料品製造などを網羅",
+      "descriptionStandard": "対象拡大",
+      "descriptionSimple": "対象拡大",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "最大の権利",
+      "labelStandard": "最大の権利",
+      "labelSimple": "最大の権利",
       "value": "家族帯同と更新制限なし",
+      "unit": "",
+      "oldValue": "現行",
       "description": "配偶者・子どもの同伴と将来の永住権申請が可能",
+      "descriptionStandard": "最大の権利",
+      "descriptionSimple": "最大の権利",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "資格要件",
+      "labelStandard": "資格要件",
+      "labelSimple": "資格要件",
       "value": "現場監督・熟練技能試験",
+      "unit": "",
+      "oldValue": "現行",
       "description": "日本語能力と現場リーダーとしての実務能力を厳格審査",
+      "descriptionStandard": "資格要件",
+      "descriptionSimple": "資格要件",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

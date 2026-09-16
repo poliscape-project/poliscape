@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "生前贈与7年加算",
-      "variant": "warning"
+      "text": "生前贈与7年加算",
+      "variant": "warning",
+      "color": "blue"
     },
     {
       "label": "精算課税110万控除",
-      "variant": "positive"
+      "text": "精算課税110万控除",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "2024年施行",
-      "variant": "neutral"
+      "text": "2024年施行",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "持ち戻し期間",
+      "labelStandard": "持ち戻し期間",
+      "labelSimple": "持ち戻し期間",
       "value": "3年から7年へ延長",
+      "unit": "",
+      "oldValue": "現行",
       "description": "2024年以降の贈与から段階的に対象期間を拡大",
+      "descriptionStandard": "持ち戻し期間",
+      "descriptionSimple": "持ち戻し期間",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "相続時精算課税",
+      "labelStandard": "相続時精算課税",
+      "labelSimple": "相続時精算課税",
       "value": "年110万円非課税新設",
+      "unit": "",
+      "oldValue": "現行",
       "description": "申告不要で持ち戻しもない使いやすい非課税枠",
+      "descriptionStandard": "相続時精算課税",
+      "descriptionSimple": "相続時精算課税",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "改革の趣旨",
+      "labelStandard": "改革の趣旨",
+      "labelSimple": "改革の趣旨",
       "value": "早期資産移転と公平化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "駆け込み節税を抑止し若年世代への資産移転を促進",
+      "descriptionStandard": "改革の趣旨",
+      "descriptionSimple": "改革の趣旨",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

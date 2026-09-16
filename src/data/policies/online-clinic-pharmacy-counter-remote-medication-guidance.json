@@ -2,7 +2,7 @@
   "id": "online-clinic-pharmacy-counter-remote-medication-guidance",
   "title": "オンライン診療・服薬指導恒久化（初診解禁と処方薬当日配送ネットワーク）",
   "catchphrase": "通院待ち時間をゼロへ。スマホでの初診オンライン診療・服薬指導の完全恒久化と処方薬の即日宅配",
-  "category": "social",
+  "category": "society",
   "categoryLabel": "社会保障・医療・デジタルヘルス",
   "lastUpdated": "2024-04-15",
   "effectiveDate": "2022年4月改定・順次拡大",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "オンライン診療恒久化",
-      "variant": "positive"
+      "text": "オンライン診療恒久化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "医療DX推進",
-      "variant": "positive"
+      "text": "医療DX推進",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "誤診・乱用防止対策",
-      "variant": "warning"
+      "text": "誤診・乱用防止対策",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "適用範囲",
+      "labelStandard": "適用範囲",
+      "labelSimple": "適用範囲",
       "value": "初診からのオンライン診療",
+      "unit": "",
+      "oldValue": "現行",
       "description": "一定の安全要件を満たすことで初診から受診可能",
+      "descriptionStandard": "適用範囲",
+      "descriptionSimple": "適用範囲",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "処方制限",
+      "labelStandard": "処方制限",
+      "labelSimple": "処方制限",
       "value": "向精神薬禁止・7日上限",
+      "unit": "",
+      "oldValue": "現行",
       "description": "乱用防止のため初診時の睡眠薬処方を全面禁止",
+      "descriptionStandard": "処方制限",
+      "descriptionSimple": "処方制限",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "薬局連携",
+      "labelStandard": "薬局連携",
+      "labelSimple": "薬局連携",
       "value": "処方薬の即日宅配",
+      "unit": "",
+      "oldValue": "現行",
       "description": "オンライン服薬指導と連携した薬の自宅配送",
+      "descriptionStandard": "薬局連携",
+      "descriptionSimple": "薬局連携",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

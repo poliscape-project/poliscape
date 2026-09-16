@@ -2,7 +2,7 @@
   "id": "deep-sea-rare-earth-mining-environmental-impact-act",
   "title": "南鳥島レアアース泥深海採掘・環境アセスメント推進法",
   "catchphrase": "中国依存を脱却する日本の宝の海、水深6,000mの南鳥島レアアース採掘実証と生態系保全アセス",
-  "category": "technology",
+  "category": "society",
   "categoryLabel": "テクノロジー・インフラ・通信",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "経済安全保障",
-      "variant": "positive"
+      "text": "経済安全保障",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "海洋資源",
-      "variant": "positive"
+      "text": "海洋資源",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "レアアース",
-      "variant": "neutral"
+      "text": "レアアース",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "埋蔵量",
+      "labelStandard": "埋蔵量",
+      "labelSimple": "埋蔵量",
       "value": "世界需要の数百年分",
+      "unit": "",
+      "oldValue": "現行",
       "description": "南鳥島沖EEZ内に眠る世界最高濃度の重レアアース泥",
+      "descriptionStandard": "埋蔵量",
+      "descriptionSimple": "埋蔵量",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Ship"
     },
     {
       "label": "水深",
+      "labelStandard": "水深",
+      "labelSimple": "水深",
       "value": "6,000メートル",
+      "unit": "",
+      "oldValue": "現行",
       "description": "超大水深での連続揚泥パイプ技術を世界で初めて実証",
+      "descriptionStandard": "水深",
+      "descriptionSimple": "水深",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

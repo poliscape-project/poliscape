@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "新幹線物流",
-      "variant": "positive"
+      "text": "新幹線物流",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "グリーンモーダルシフト",
-      "variant": "positive"
+      "text": "グリーンモーダルシフト",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "駅構内動線課題",
-      "variant": "neutral"
+      "text": "駅構内動線課題",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "輸送速度",
+      "labelStandard": "輸送速度",
+      "labelSimple": "輸送速度",
       "value": "地方〜東京4時間以内",
+      "unit": "",
+      "oldValue": "現行",
       "description": "九州や東北から首都圏へ即日輸送を実現",
+      "descriptionStandard": "輸送速度",
+      "descriptionSimple": "輸送速度",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "環境性能",
+      "labelStandard": "環境性能",
+      "labelSimple": "環境性能",
       "value": "CO2排出約90%削減",
+      "unit": "",
+      "oldValue": "現行",
       "description": "トラック輸送に比べ圧倒的な脱炭素効果",
+      "descriptionStandard": "環境性能",
+      "descriptionSimple": "環境性能",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Leaf"
     },
     {
       "label": "対象物資",
+      "labelStandard": "対象物資",
+      "labelSimple": "対象物資",
       "value": "生鮮食品・精密半導体・医療品",
+      "unit": "",
+      "oldValue": "現行",
       "description": "緊急性と高付加価値を兼ね備えた貨物を重点輸送",
+      "descriptionStandard": "対象物資",
+      "descriptionSimple": "対象物資",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

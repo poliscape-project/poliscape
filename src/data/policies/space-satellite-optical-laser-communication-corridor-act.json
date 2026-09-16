@@ -1,7 +1,7 @@
 {
   "id": "space-satellite-optical-laser-communication-corridor-act",
   "title": "宇宙光通信（衛星間・地上間レーザー通信）ネットワーク国家実証支援",
-  "category": "technology",
+  "category": "society",
   "subcategory": "宇宙・通信インフラ",
   "status": "施行中",
   "date": "2024-05",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "最大データ伝送速度",
+      "labelStandard": "最大データ伝送速度",
+      "labelSimple": "最大データ伝送速度",
       "value": "100",
       "unit": "Gbps（実証目標）",
       "oldValue": "数百Mbps（電波）",
       "description": "従来の宇宙無線通信の100倍以上の超高速大容量伝送を実現",
+      "descriptionStandard": "最大データ伝送速度",
+      "descriptionSimple": "最大データ伝送速度",
       "badge": "超高速化",
       "badgeColor": "blue",
       "icon": "sparkles"
     },
     {
       "label": "端末の小型軽量化",
+      "labelStandard": "端末の小型軽量化",
+      "labelSimple": "端末の小型軽量化",
       "value": "10",
       "unit": "kg級（小型衛星用）",
       "oldValue": "100kg超（従来機）",
       "description": "小型衛星群（コンステレーション）に搭載可能な超小型端末を開発",
+      "descriptionStandard": "端末の小型軽量化",
+      "descriptionSimple": "端末の小型軽量化",
       "badge": "超軽量化",
       "badgeColor": "green",
       "icon": "cpu"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "technology"
 }

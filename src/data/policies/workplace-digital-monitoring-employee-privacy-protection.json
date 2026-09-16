@@ -1,7 +1,7 @@
 {
   "id": "workplace-digital-monitoring-employee-privacy-protection",
   "title": "職場におけるPC画面監視・キーストローク監視に対する労働者プライバシー保護指針",
-  "category": "employment",
+  "category": "society",
   "subcategory": "テレワーク・労働安全",
   "status": "施行中",
   "date": "2024-06",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "キーストローク監視",
+      "labelStandard": "キーストローク監視",
+      "labelSimple": "キーストローク監視",
       "value": "原則禁止",
       "unit": "（重大違反）",
       "oldValue": "自由導入",
       "description": "キーボード入力履歴を全て記録・盗聴する行為を権利侵害と認定",
+      "descriptionStandard": "キーストローク監視",
+      "descriptionSimple": "キーストローク監視",
       "badge": "監視原則禁止",
       "badgeColor": "red",
       "icon": "shield-check"
     },
     {
       "label": "導入前労使協議",
+      "labelStandard": "導入前労使協議",
+      "labelSimple": "導入前労使協議",
       "value": "100",
       "unit": "%（義務化）",
       "oldValue": "一方的導入",
       "description": "監視ツールの機能と目的を事前に労働者側へ開示・同意取得",
+      "descriptionStandard": "導入前労使協議",
+      "descriptionSimple": "導入前労使協議",
       "badge": "事前告知義務",
       "badgeColor": "blue",
       "icon": "file-text"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "employment"
 }

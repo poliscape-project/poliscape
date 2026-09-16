@@ -1,8 +1,8 @@
 {
   "id": "childcare-leave-benefit-direct-digital-application-act",
   "title": "育児休業給付金の労働者直接デジタル申請制度（事業主経由の廃止）",
-  "category": "social-security",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "出産・育児休業取得者の生活費を支える「育児休業給付金」について、会社（事業主）を経由せずに労働者本人がマイナポータル等から直接ハローワークへオンライン申請できる仕組みを法制化する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "育児休業",
-      "variant": "purple"
+      "text": "育児休業",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "行政DX",
-      "variant": "blue"
+      "text": "行政DX",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "少子化対策",
-      "variant": "green"
+      "text": "少子化対策",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "初回振込までの日数",
+      "label": "初回振込までの日数",
+      "labelStandard": "初回振込までの日数",
+      "labelSimple": "初回振込までの日数",
       "value": "14",
       "unit": "日以内",
+      "oldValue": "現行",
       "description": "従来の2〜4か月かかっていた振込待機時間を大幅に短縮",
-      "trend": "down",
-      "trendLabel": "振込劇的短縮"
+      "descriptionStandard": "初回振込までの日数",
+      "descriptionSimple": "初回振込までの日数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "男性育休取得率目標",
+      "label": "男性育休取得率目標",
+      "labelStandard": "男性育休取得率目標",
+      "labelSimple": "男性育休取得率目標",
       "value": "85",
       "unit": "%",
+      "oldValue": "現行",
       "description": "直接申請による手続きの不安解消とパタハラ抑止で取得率大幅増へ",
-      "trend": "up",
-      "trendLabel": "取得率目標"
+      "descriptionStandard": "男性育休取得率目標",
+      "descriptionSimple": "男性育休取得率目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

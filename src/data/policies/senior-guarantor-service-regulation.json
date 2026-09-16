@@ -137,15 +137,21 @@
   "badges": [
     {
       "label": "おひとりさま高齢者支援",
-      "variant": "neutral"
+      "text": "おひとりさま高齢者支援",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "預託金信託保全ルール",
-      "variant": "neutral"
+      "text": "預託金信託保全ルール",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "身元保証なし入院拒否是正",
-      "variant": "neutral"
+      "text": "身元保証なし入院拒否是正",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "international": {

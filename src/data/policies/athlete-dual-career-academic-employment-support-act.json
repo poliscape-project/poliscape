@@ -1,8 +1,8 @@
 {
   "id": "athlete-dual-career-academic-employment-support-act",
   "title": "アスリートのデュアルキャリア（競技と学業・就労の両立）支援基本法",
-  "category": "education-child",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "トップアスリートや実業団・プロ競技者が、現役引退後に直面する「セカンドキャリアの断絶」を防ぐため、現役時代から学業や就業スキルを並行して培う「デュアルキャリア」支援を基本法として法制化する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "スポーツ振興",
-      "variant": "blue"
+      "text": "スポーツ振興",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "キャリア支援",
-      "variant": "green"
+      "text": "キャリア支援",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "リスキリング",
-      "variant": "purple"
+      "text": "リスキリング",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "引退後就職難の解消目標",
+      "label": "引退後就職難の解消目標",
+      "labelStandard": "引退後就職難の解消目標",
+      "labelSimple": "引退後就職難の解消目標",
       "value": "80",
       "unit": "%以上",
+      "oldValue": "現行",
       "description": "引退後半年以内に希望する分野（企業・教育・起業）へスムーズに転換できた割合",
-      "trend": "up",
-      "trendLabel": "就職成功率"
+      "descriptionStandard": "引退後就職難の解消目標",
+      "descriptionSimple": "引退後就職難の解消目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "リスキリング受講補助率",
+      "label": "リスキリング受講補助率",
+      "labelStandard": "リスキリング受講補助率",
+      "labelSimple": "リスキリング受講補助率",
       "value": "70",
       "unit": "%",
+      "oldValue": "現行",
       "description": "引退後3年以内の専門教育・資格取得費用に対する公費給付割合",
-      "trend": "up",
-      "trendLabel": "学費助成"
+      "descriptionStandard": "リスキリング受講補助率",
+      "descriptionSimple": "リスキリング受講補助率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

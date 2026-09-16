@@ -165,62 +165,76 @@
   "badges": [
     {
       "label": "管理不全空家を新設",
-      "variant": "neutral"
+      "text": "管理不全空家を新設",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "勧告で住宅特例解除",
-      "variant": "neutral"
+      "text": "勧告で住宅特例解除",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "固定資産税実質最大6倍",
-      "variant": "neutral"
+      "text": "固定資産税実質最大6倍",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "新しくできた警告区分",
+      "label": "",
       "labelStandard": "新設された指定区分",
+      "labelSimple": "新しくできた警告区分",
       "value": "管理不全空家",
       "unit": "（早期指導）",
       "oldValue": "倒壊寸前の「特定空家」のみだった",
-      "descriptionSimple": "窓割れ・草ぼうぼうの段階で警告される！",
+      "description": "",
       "descriptionStandard": "放置すれば危険になる前の段階で自治体が勧告",
+      "descriptionSimple": "窓割れ・草ぼうぼうの段階で警告される！",
       "badge": "早期指導新設",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "警告された後の税金",
+      "label": "",
       "labelStandard": "固定資産税の増税倍率",
+      "labelSimple": "警告された後の税金",
       "value": "実質最大6倍",
       "unit": "（住宅特例解除）",
       "oldValue": "住宅用地特例で1/6減額が続いていた",
-      "descriptionSimple": "勧告を受けると税金の割引が即座に消滅！",
+      "description": "",
       "descriptionStandard": "小規模住宅用地の課税標準1/6特例が取り消し",
+      "descriptionSimple": "勧告を受けると税金の割引が即座に消滅！",
       "badge": "実質最大6倍",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "家を壊す費用の相場",
+      "label": "",
       "labelStandard": "解体工事費の相場",
+      "labelSimple": "家を壊す費用の相場",
       "value": "約150〜250万",
       "unit": "円（木造家屋）",
       "oldValue": "放置した方が税金が安かった",
-      "descriptionSimple": "自治体の解体補助金（最大数十万円）を活用",
+      "description": "",
       "descriptionStandard": "放置増税を払い続けるより更地化・売却が有利に",
+      "descriptionSimple": "自治体の解体補助金（最大数十万円）を活用",
       "badge": "解体費用の壁",
       "badgeColor": "bg-slate-100 text-slate-700",
       "icon": "Home"
     },
     {
-      "labelSimple": "日本の空き家の数",
+      "label": "",
       "labelStandard": "全国の空き家総数",
+      "labelSimple": "日本の空き家の数",
       "value": "約900万",
       "unit": "戸（過去最高）",
       "oldValue": "年々増加して社会問題化",
-      "descriptionSimple": "全国で過去最多。国が対策を本気で強化中",
+      "description": "",
       "descriptionStandard": "所有者不明土地法や空家特措法で活用を促進",
+      "descriptionSimple": "全国で過去最多。国が対策を本気で強化中",
       "badge": "過去最高",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "TrendingUp"

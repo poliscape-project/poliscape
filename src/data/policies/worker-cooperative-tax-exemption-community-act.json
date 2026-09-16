@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "協同労働",
-      "variant": "positive"
+      "text": "協同労働",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "地域創生",
-      "variant": "positive"
+      "text": "地域創生",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "税制優遇",
-      "variant": "neutral"
+      "text": "税制優遇",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "税制優遇",
+      "labelStandard": "税制優遇",
+      "labelSimple": "税制優遇",
       "value": "収益事業課税方式",
+      "unit": "",
+      "oldValue": "現行",
       "description": "非営利徹底型組合に公益法人並みの法人税非課税枠を適用",
+      "descriptionStandard": "税制優遇",
+      "descriptionSimple": "税制優遇",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "起業助成",
+      "labelStandard": "起業助成",
+      "labelSimple": "起業助成",
       "value": "最大300万円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "地域の課題解決コミュニティ起業に初期費用を助成",
+      "descriptionStandard": "起業助成",
+      "descriptionSimple": "起業助成",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Coins"
     }
   ],

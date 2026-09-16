@@ -2,7 +2,7 @@
   "id": "automated-delivery-robot-public-sidewalk-enforcement",
   "title": "道路交通法改正（自動配送ロボット・遠隔操作型小型車の公道走行解禁）",
   "catchphrase": "再配達と人手不足をロボットが解消。歩道を自律走行する小型宅配ロボットの公道走行を全国解禁",
-  "category": "technology",
+  "category": "society",
   "categoryLabel": "テクノロジー・物流・交通",
   "lastUpdated": "2024-04-10",
   "effectiveDate": "2023年4月施行",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "自動配送ロボット",
-      "variant": "positive"
+      "text": "自動配送ロボット",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "物流DX",
-      "variant": "positive"
+      "text": "物流DX",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "歩行者安全配慮",
-      "variant": "neutral"
+      "text": "歩行者安全配慮",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "速度制限",
+      "labelStandard": "速度制限",
+      "labelSimple": "速度制限",
       "value": "最高時速6km以下",
+      "unit": "",
+      "oldValue": "現行",
       "description": "人間の歩行速度と同等の低速走行を義務付け",
+      "descriptionStandard": "速度制限",
+      "descriptionSimple": "速度制限",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "安全監視",
+      "labelStandard": "安全監視",
+      "labelSimple": "安全監視",
       "value": "遠隔常時監視・緊急停止",
+      "unit": "",
+      "oldValue": "現行",
       "description": "オペレーターによる常時監視と遠隔即時停止機能",
+      "descriptionStandard": "安全監視",
+      "descriptionSimple": "安全監視",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "対象区域",
+      "labelStandard": "対象区域",
+      "labelSimple": "対象区域",
       "value": "全国の公道（歩道）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "届出により住宅街やオフィス街の歩道を走行可能",
+      "descriptionStandard": "対象区域",
+      "descriptionSimple": "対象区域",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

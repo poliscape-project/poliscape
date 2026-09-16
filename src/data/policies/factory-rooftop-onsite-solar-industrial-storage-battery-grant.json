@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "設備導入補助率",
+      "labelStandard": "設備導入補助率",
+      "labelSimple": "設備導入補助率",
       "value": "最大33",
       "unit": "%（公費助成）",
       "oldValue": "民間全額自己負担",
       "description": "太陽光パネルおよび大型産業用蓄電池の初期導入費を国が最大3分の1助成",
+      "descriptionStandard": "設備導入補助率",
+      "descriptionSimple": "設備導入補助率",
       "badge": "最大3分の1補助",
       "badgeColor": "blue",
       "icon": "currency-yen"
     },
     {
       "label": "電気料金削減率",
+      "labelStandard": "電気料金削減率",
+      "labelSimple": "電気料金削減率",
       "value": "約30〜40",
       "unit": "%減（昼間買電量）",
       "oldValue": "高圧電気料金の直撃",
       "description": "屋根上自給自足により電力会社からの買電量を大幅に圧縮",
+      "descriptionStandard": "電気料金削減率",
+      "descriptionSimple": "電気料金削減率",
       "badge": "電気代大幅減",
       "badgeColor": "green",
       "icon": "arrow-trending-down"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

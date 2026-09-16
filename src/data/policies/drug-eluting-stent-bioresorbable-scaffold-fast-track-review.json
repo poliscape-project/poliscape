@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "承認審査期間短縮",
+      "labelStandard": "承認審査期間短縮",
+      "labelSimple": "承認審査期間短縮",
       "value": "約50",
       "unit": "%短縮（1年未満達成）",
       "oldValue": "平均2〜3年の審査期間",
       "description": "優先対面助言と国際共同治験データの積極活用による審査加速",
+      "descriptionStandard": "承認審査期間短縮",
+      "descriptionSimple": "承認審査期間短縮",
       "badge": "審査スピード化",
       "badgeColor": "blue",
       "icon": "clock"
     },
     {
       "label": "血管内異物残存率",
+      "labelStandard": "血管内異物残存率",
+      "labelSimple": "血管内異物残存率",
       "value": "0",
       "unit": "%（留置後3年後）",
       "oldValue": "金属ステントが永久残存",
       "description": "生体吸収性素材により血管本来の自然な伸縮・拍動が完全に回復",
+      "descriptionStandard": "血管内異物残存率",
+      "descriptionSimple": "血管内異物残存率",
       "badge": "異物完全消失",
       "badgeColor": "green",
       "icon": "check-circle"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

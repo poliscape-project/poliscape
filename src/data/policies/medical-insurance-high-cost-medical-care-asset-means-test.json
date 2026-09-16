@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "現役世代負担軽減",
-      "variant": "positive"
+      "text": "現役世代負担軽減",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "金融資産考慮論",
-      "variant": "neutral"
+      "text": "金融資産考慮論",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "資産捕捉が難所",
-      "variant": "warning"
+      "text": "資産捕捉が難所",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "改革の焦点",
+      "labelStandard": "改革の焦点",
+      "labelSimple": "改革の焦点",
       "value": "金融資産を負担判定に反映",
+      "unit": "",
+      "oldValue": "現行",
       "description": "フローの年金だけでなく預貯金・株式を自己負担上限へ反映",
+      "descriptionStandard": "改革の焦点",
+      "descriptionSimple": "改革の焦点",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "狙い",
+      "labelStandard": "狙い",
+      "labelSimple": "狙い",
       "value": "現役世代の保険料増を抑制",
+      "unit": "",
+      "oldValue": "現行",
       "description": "子育て世代の手取りを圧迫する支援金負担に歯止め",
+      "descriptionStandard": "狙い",
+      "descriptionSimple": "狙い",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "インフラ",
+      "labelStandard": "インフラ",
+      "labelSimple": "インフラ",
       "value": "マイナンバー口座付番",
+      "unit": "",
+      "oldValue": "現行",
       "description": "公平な資力判定を実現するための行政デジタル化",
+      "descriptionStandard": "インフラ",
+      "descriptionSimple": "インフラ",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     }
   ],

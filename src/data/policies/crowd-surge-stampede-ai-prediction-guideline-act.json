@@ -2,7 +2,7 @@
   "id": "crowd-surge-stampede-ai-prediction-guideline-act",
   "title": "花火大会・雑踏事故（群衆雪崩）AI過密検知・警備基準義務化法",
   "catchphrase": "明石歩道橋や梨泰院の悲劇を二度と繰り返さない、AIカメラによる群衆密度リアルタイム検知と警備義務化",
-  "category": "safety",
+  "category": "society",
   "categoryLabel": "司法・治安・刑事政策",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "雑踏警備",
-      "variant": "positive"
+      "text": "雑踏警備",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "AI事故防止",
-      "variant": "positive"
+      "text": "AI事故防止",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "イベント安全",
-      "variant": "neutral"
+      "text": "イベント安全",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "危険基準",
+      "labelStandard": "危険基準",
+      "labelSimple": "危険基準",
       "value": "1㎡あたり4人以上",
+      "unit": "",
+      "oldValue": "現行",
       "description": "警戒密度に達した時点で自動流入規制と広報誘導を発令",
+      "descriptionStandard": "危険基準",
+      "descriptionSimple": "危険基準",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "AlertTriangle"
     },
     {
       "label": "技術導入",
+      "labelStandard": "技術導入",
+      "labelSimple": "技術導入",
       "value": "AIリアルタイム計測",
+      "unit": "",
+      "oldValue": "現行",
       "description": "高所カメラ画像から群衆密度と流速を自動リアルタイム判定",
+      "descriptionStandard": "技術導入",
+      "descriptionSimple": "技術導入",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Activity"
     }
   ],

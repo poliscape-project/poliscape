@@ -145,62 +145,76 @@
   "badges": [
     {
       "label": "2040年介護職員57万人不足",
-      "variant": "neutral"
+      "text": "2040年介護職員57万人不足",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "育成就労制度で転籍容認へ",
-      "variant": "neutral"
+      "text": "育成就労制度で転籍容認へ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "円安下の国際人材獲得競争",
-      "variant": "neutral"
+      "text": "円安下の国際人材獲得競争",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "2040年に足りない人",
+      "label": "",
       "labelStandard": "介護人材不足の予測",
+      "labelSimple": "2040年に足りない人",
       "value": "約57万人",
       "unit": "（全国推計）",
       "oldValue": "日本人の若者を採用しようとしても応募ゼロが多発",
-      "descriptionSimple": "日本人だけでは足りず、介護の現場が持たない！",
+      "description": "",
       "descriptionStandard": "少子化の中で外国人介護人材の受入れ拡大が不可欠に",
+      "descriptionSimple": "日本人だけでは足りず、介護の現場が持たない！",
       "badge": "57万人不足",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "新しい仕組み",
+      "label": "",
       "labelStandard": "育成就労制度への移行",
+      "labelSimple": "新しい仕組み",
       "value": "新制度",
       "unit": "（技能実習を解消）",
       "oldValue": "実習生は職場を変えられず（転職不可）国際批判",
-      "descriptionSimple": "ひどい職場から別の施設へ移れるようになって人権を守る！",
+      "description": "",
       "descriptionStandard": "1〜2年勤務後に本人の意向で転籍を容認する新制度へ",
+      "descriptionSimple": "ひどい職場から別の施設へ移れるようになって人権を守る！",
       "badge": "転籍の容認",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Briefcase"
     },
     {
-      "labelSimple": "ずっと住めるチャンス",
+      "label": "",
       "labelStandard": "特定技能・介護福祉士",
+      "labelSimple": "ずっと住めるチャンス",
       "value": "家族帯同",
       "unit": "・永住可能",
       "oldValue": "3年の実習期間が終われば母国へ帰国させられていた",
-      "descriptionSimple": "試験に合格すれば家族を連れてずっと日本で暮らせる！",
+      "description": "",
       "descriptionStandard": "特定技能2号や介護福祉士資格の取得で長期リーダーへ",
+      "descriptionSimple": "試験に合格すれば家族を連れてずっと日本で暮らせる！",
       "badge": "永住ルート",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "GraduationCap"
     },
     {
-      "labelSimple": "一番のライバル",
+      "label": "",
       "labelStandard": "円安と国際獲得競争",
+      "labelSimple": "一番のライバル",
       "value": "アジア争奪",
       "unit": "（韓国・台湾等）",
       "oldValue": "「日本で稼げる」と多くの若者が集まっていた",
-      "descriptionSimple": "円安でお給料が減り、韓国やオーストラリアに取られてしまう！",
+      "description": "",
       "descriptionStandard": "給与の高い近隣諸国に流出し、日本が選ばれなくなる危機",
+      "descriptionSimple": "円安でお給料が減り、韓国やオーストラリアに取られてしまう！",
       "badge": "円安・人材流出",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Globe"

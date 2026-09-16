@@ -161,62 +161,76 @@
   "badges": [
     {
       "label": "都府で私立も全額支援",
-      "variant": "neutral"
+      "text": "都府で私立も全額支援",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "国基準年収910万制限",
-      "variant": "neutral"
+      "text": "国基準年収910万制限",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "全国一律化の議論",
-      "variant": "neutral"
+      "text": "全国一律化の議論",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "国の給料制限ライン",
+      "label": "",
       "labelStandard": "国の所得制限基準",
+      "labelSimple": "国の給料制限ライン",
       "value": "年収約910万",
       "unit": "円未満が対象",
       "oldValue": "公立年11.88万・私立年最大39.6万",
-      "descriptionSimple": "910万円を超えると国の補助金はゼロ",
+      "description": "",
       "descriptionStandard": "国の就学支援金は年収目安910万円で制限維持",
+      "descriptionSimple": "910万円を超えると国の補助金はゼロ",
       "badge": "国基準制限あり",
       "badgeColor": "bg-slate-100 text-slate-700",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "東京や大阪のルール",
+      "label": "",
       "labelStandard": "先行自治体の所得制限",
+      "labelSimple": "東京や大阪のルール",
       "value": "完全撤廃",
       "unit": "（私立高校も全額）",
       "oldValue": "所得制限ありの補助金だった",
-      "descriptionSimple": "親の年収に関係なく私立高校も全額支援！",
+      "description": "",
       "descriptionStandard": "東京都・大阪府等で私立高校平均授業料を全額助成",
+      "descriptionSimple": "親の年収に関係なく私立高校も全額支援！",
       "badge": "都府で全額支援",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Sparkles"
     },
     {
-      "labelSimple": "浮く教育費（3年間）",
+      "label": "",
       "labelStandard": "3年間の授業料軽減額",
+      "labelSimple": "浮く教育費（3年間）",
       "value": "約35〜140万",
       "unit": "円の学費減",
       "oldValue": "全額保護者の家計負担だった",
-      "descriptionSimple": "公立約35万円・私立最大約140万円浮く！",
+      "description": "",
       "descriptionStandard": "高校年代の最も重い固定教育費を大幅カット",
+      "descriptionSimple": "公立約35万円・私立最大約140万円浮く！",
       "badge": "教育費大幅減",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "住む場所の格差",
+      "label": "",
       "labelStandard": "地域間格差の課題",
+      "labelSimple": "住む場所の格差",
       "value": "地域差拡大",
       "unit": "全国一律化協議",
       "oldValue": "公立無償のみ全国一律だった",
-      "descriptionSimple": "住む街による不公平をなくす議論が進行中",
+      "description": "",
       "descriptionStandard": "大都市と地方の教育格差是正へ国費負担を議論",
+      "descriptionSimple": "住む街による不公平をなくす議論が進行中",
       "badge": "全国一律化協議",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "GraduationCap"

@@ -161,58 +161,76 @@
   "badges": [
     {
       "label": "城泊・体験型高級観光の公式解禁",
-      "variant": "neutral"
+      "text": "城泊・体験型高級観光の公式解禁",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "NFT・CFによるグローバル修繕資金調達",
-      "variant": "neutral"
+      "text": "NFT・CFによるグローバル修繕資金調達",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "観光利益の修繕積立金への強制還元",
-      "variant": "neutral"
+      "text": "観光利益の修繕積立金への強制還元",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "文化財の利用・公開基準",
+      "label": "",
       "labelStandard": "文化財の利用・公開基準",
+      "labelSimple": "文化財の利用・公開基準",
       "value": "城泊・体験型高級観光の公式解禁",
       "unit": "",
       "oldValue": "これまで: 厳格な現状保存を最優先とし飲食や宿泊などの商業利用は原則禁止",
       "description": "一定の防災・保存要件を満たせば城泊・寺泊・夜間貸切等の活用を公認",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "城泊・体験型高級観光の公式解禁",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Building"
     },
     {
-      "labelSimple": "修繕資金の調達手段",
+      "label": "",
       "labelStandard": "修繕資金の調達手段",
+      "labelSimple": "修繕資金の調達手段",
       "value": "NFT・CFによるグローバル修繕資金調達",
       "unit": "",
       "oldValue": "これまで: 国や自治体の補助金と所有者の私費・地元住民の寄進頼みで資金不足",
       "description": "クラウドファンディングやブロックチェーンNFTサポーター証で世界から資金調達",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "NFT・CFによるグローバル修繕資金調達",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Coins"
     },
     {
-      "labelSimple": "観光収益の還元義務",
+      "label": "",
       "labelStandard": "観光収益の還元義務",
+      "labelSimple": "観光収益の還元義務",
       "value": "観光利益の修繕積立金への強制還元",
       "unit": "",
       "oldValue": "これまで: 観光利益が建造物の修繕に還元される法的担保が不十分だった",
       "description": "事業収益の一定割合を修繕基金や積立金に直接回すことを認可条件に設定",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "観光利益の修繕積立金への強制還元",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "CheckCircle2"
     },
     {
-      "labelSimple": "防災設備と歴史的意匠の両立",
+      "label": "",
       "labelStandard": "防災設備と歴史的意匠の両立",
+      "labelSimple": "防災設備と歴史的意匠の両立",
       "value": "文化財専用の柔軟な防災・耐震新基準",
       "unit": "",
       "oldValue": "これまで: 近代の建築基準法や消防法を一律適用すると意匠が破壊されるジレンマ",
       "description": "景観を損なわない隠蔽型スプリンクラーや木造専用消火基準を標準化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "文化財専用の柔軟な防災・耐震新基準",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "ShieldCheck"

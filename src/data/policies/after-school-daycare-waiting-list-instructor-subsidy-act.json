@@ -4,7 +4,7 @@
   "catchphrase": "小1の壁を打破。学童待機児童ゼロへ向け空き教室活用と指導員給与月額改善を法制化",
   "category": "childcare",
   "categoryLabel": "子育て・保育",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "小1の壁打破",
-      "variant": "purple"
+      "text": "小1の壁打破",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "学童待機ゼロ",
-      "variant": "blue"
+      "text": "学童待機ゼロ",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "指導員処遇改善",
-      "variant": "green"
+      "text": "指導員処遇改善",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "学童待機児童削減目標",
+      "label": "学童待機児童削減目標",
+      "labelStandard": "学童待機児童削減目標",
+      "labelSimple": "学童待機児童削減目標",
       "value": "0",
       "unit": "人",
+      "oldValue": "現行",
       "description": "約30万人分の受け入れ枠拡充による放課後児童クラブ待機児童ゼロ達成目標",
-      "trend": "down",
-      "trendLabel": "待機ゼロ"
+      "descriptionStandard": "学童待機児童削減目標",
+      "descriptionSimple": "学童待機児童削減目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "支援員処遇改善額",
+      "label": "支援員処遇改善額",
+      "labelStandard": "支援員処遇改善額",
+      "labelSimple": "支援員処遇改善額",
       "value": "15,000",
       "unit": "円/月超",
+      "oldValue": "現行",
       "description": "常勤放課後児童支援員に対する国の公費補助による月額給与改善水準",
-      "trend": "up",
-      "trendLabel": "処遇底上げ"
+      "descriptionStandard": "支援員処遇改善額",
+      "descriptionSimple": "支援員処遇改善額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "補助金上限額",
+      "labelStandard": "補助金上限額",
+      "labelSimple": "補助金上限額",
       "value": "1500",
       "unit": "万円/年",
       "oldValue": "500万円",
       "description": "外国人講師雇用やワークショップ研修費用を大幅拡充",
+      "descriptionStandard": "補助金上限額",
+      "descriptionSimple": "補助金上限額",
       "badge": "手厚い補助",
       "badgeColor": "blue",
       "icon": "currency-yen"
     },
     {
       "label": "全国公立認定校目標",
+      "labelStandard": "全国公立認定校目標",
+      "labelSimple": "全国公立認定校目標",
       "value": "50",
       "unit": "校超",
       "oldValue": "約20校",
       "description": "全都道府県に最低1校以上の公立IB校ネットワークを確立",
+      "descriptionStandard": "全国公立認定校目標",
+      "descriptionSimple": "全国公立認定校目標",
       "badge": "全国配置",
       "badgeColor": "green",
       "icon": "building-library"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

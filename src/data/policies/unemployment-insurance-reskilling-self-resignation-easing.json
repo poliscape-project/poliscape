@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "給付制限1ヶ月へ",
-      "variant": "positive"
+      "text": "給付制限1ヶ月へ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "リスキリングで即時支給",
-      "variant": "positive"
+      "text": "リスキリングで即時支給",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "2025年4月施行",
-      "variant": "neutral"
+      "text": "2025年4月施行",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "制限期間",
+      "labelStandard": "制限期間",
+      "labelSimple": "制限期間",
       "value": "2ヶ月から1ヶ月へ半減",
+      "unit": "",
+      "oldValue": "現行",
       "description": "自己都合退職時の待機ペナルティを大幅緩和",
+      "descriptionStandard": "制限期間",
+      "descriptionSimple": "制限期間",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "特例免除",
+      "labelStandard": "特例免除",
+      "labelSimple": "特例免除",
       "value": "リスキリング中は即時支給",
+      "unit": "",
+      "oldValue": "現行",
       "description": "自発的な学び直しを行う場合は給付制限を完全免除",
+      "descriptionStandard": "特例免除",
+      "descriptionSimple": "特例免除",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "改革の意義",
+      "labelStandard": "改革の意義",
+      "labelSimple": "改革の意義",
       "value": "前向きな転職と安全網",
+      "unit": "",
+      "oldValue": "現行",
       "description": "生活不安なくスキルを身につけ成長産業へ挑戦可能に",
+      "descriptionStandard": "改革の意義",
+      "descriptionSimple": "改革の意義",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "地域通貨",
-      "variant": "neutral"
+      "text": "地域通貨",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "地方創生",
-      "variant": "positive"
+      "text": "地方創生",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "デジタルポイント",
-      "variant": "positive"
+      "text": "デジタルポイント",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "地元消費の域内循環",
+      "labelStandard": "地元消費の域内循環",
+      "labelSimple": "地元消費の域内循環",
       "value": "地元消費の域内循環",
+      "unit": "",
+      "oldValue": "現行",
       "description": "地域内の中小個店限定で使える決済通貨で外貨流出を防止。",
+      "descriptionStandard": "地元消費の域内循環",
+      "descriptionSimple": "地元消費の域内循環",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "健康・防災ポイント連携",
+      "labelStandard": "健康・防災ポイント連携",
+      "labelSimple": "健康・防災ポイント連携",
       "value": "健康・防災ポイント連携",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ウォーキングやゴミ拾いでポイントが貯まり買い物に使える仕組み。",
+      "descriptionStandard": "健康・防災ポイント連携",
+      "descriptionSimple": "健康・防災ポイント連携",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "アプリ共通基盤の導入",
+      "labelStandard": "アプリ共通基盤の導入",
+      "labelSimple": "アプリ共通基盤の導入",
       "value": "アプリ共通基盤の導入",
+      "unit": "",
+      "oldValue": "現行",
       "description": "乱立していた独自アプリを共通オープン規格で統合し開発コストを削減。",
+      "descriptionStandard": "アプリ共通基盤の導入",
+      "descriptionSimple": "アプリ共通基盤の導入",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     }
   ],

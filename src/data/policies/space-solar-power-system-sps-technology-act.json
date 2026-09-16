@@ -2,7 +2,7 @@
   "id": "space-solar-power-system-sps-technology-act",
   "title": "宇宙太陽光発電（SSPS・宇宙再エネ送電）実証推進法",
   "catchphrase": "宇宙から24時間365日クリーンエネルギーを地上へ、マイクロ波送電実証と軌道上メガソーラー開発",
-  "category": "technology",
+  "category": "society",
   "categoryLabel": "テクノロジー・インフラ・通信",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "宇宙開発",
-      "variant": "positive"
+      "text": "宇宙開発",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "クリーンエネルギー",
-      "variant": "positive"
+      "text": "クリーンエネルギー",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "フロンティア",
-      "variant": "neutral"
+      "text": "フロンティア",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "稼働時間",
+      "labelStandard": "稼働時間",
+      "labelSimple": "稼働時間",
       "value": "24時間365日",
+      "unit": "",
+      "oldValue": "現行",
       "description": "天候や昼夜に左右されない宇宙空間での常時太陽光発電",
+      "descriptionStandard": "稼働時間",
+      "descriptionSimple": "稼働時間",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Zap"
     },
     {
       "label": "研究投資",
+      "labelStandard": "研究投資",
+      "labelSimple": "研究投資",
       "value": "宇宙戦略基金1,000億円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "低軌道送電実証衛星の開発と打ち上げを集中的に公費助成",
+      "descriptionStandard": "研究投資",
+      "descriptionSimple": "研究投資",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

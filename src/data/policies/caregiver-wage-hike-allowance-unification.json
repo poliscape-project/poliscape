@@ -145,62 +145,76 @@
   "badges": [
     {
       "label": "処遇改善3加算を1本化",
-      "variant": "neutral"
+      "text": "処遇改善3加算を1本化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "基本給ベースアップ義務化",
-      "variant": "neutral"
+      "text": "基本給ベースアップ義務化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "全産業月5〜7万円格差是正",
-      "variant": "neutral"
+      "text": "全産業月5〜7万円格差是正",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "給料アップの仕組み",
+      "label": "",
       "labelStandard": "加算の一本化",
+      "labelSimple": "給料アップの仕組み",
       "value": "3加算",
       "unit": "統合",
       "oldValue": "複雑な3つの加算がバラバラに併存",
-      "descriptionSimple": "3つあった難しい仕組みを1つにスッキリ整理！",
+      "description": "",
       "descriptionStandard": "「介護職員等処遇改善加算」の4区分へ一本化",
+      "descriptionSimple": "3つあった難しい仕組みを1つにスッキリ整理！",
       "badge": "制度一本化",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Layers"
     },
     {
-      "labelSimple": "基本給の底上げ",
+      "label": "",
       "labelStandard": "ベースアップ充当",
+      "labelSimple": "基本給の底上げ",
       "value": "義務化",
       "unit": "（一定割合）",
       "oldValue": "一時金やボーナスでの支給が中心だった",
-      "descriptionSimple": "ボーナスではなく毎月のお給料がちゃんと上がる！",
+      "description": "",
       "descriptionStandard": "新加算配分額の一定以上を毎月の基本給改善へ",
+      "descriptionSimple": "ボーナスではなく毎月のお給料がちゃんと上がる！",
       "badge": "ベア義務化",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "TrendingUp"
     },
     {
-      "labelSimple": "他の仕事との差",
+      "label": "",
       "labelStandard": "全産業との賃金格差",
+      "labelSimple": "他の仕事との差",
       "value": "約5〜7万",
       "unit": "円低い",
       "oldValue": "介護平均 約31万円 vs 全産業 約36万円",
-      "descriptionSimple": "格差をなくして、介護を辞める人を減らす！",
+      "description": "",
       "descriptionStandard": "深刻な人材流出を食い止めるための継続支援",
+      "descriptionSimple": "格差をなくして、介護を辞める人を減らす！",
       "badge": "格差是正",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "手伝う他の仲間",
+      "label": "",
       "labelStandard": "他職種への配分",
+      "labelSimple": "手伝う他の仲間",
       "value": "柔軟化",
       "unit": "（事業所裁量）",
       "oldValue": "介護職以外への支給は極めて厳格に制限",
-      "descriptionSimple": "ケアマネやご飯を作る人にも給料アップを分け合える！",
+      "description": "",
       "descriptionStandard": "事業所の判断で事務職や看護師などにも配分可能",
+      "descriptionSimple": "ケアマネやご飯を作る人にも給料アップを分け合える！",
       "badge": "配分柔軟化",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Users"

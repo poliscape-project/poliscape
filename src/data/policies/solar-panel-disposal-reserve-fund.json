@@ -137,15 +137,21 @@
   "badges": [
     {
       "label": "10kW以上外部積立義務",
-      "variant": "neutral"
+      "text": "10kW以上外部積立義務",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "2030年代大量廃棄対策",
-      "variant": "neutral"
+      "text": "2030年代大量廃棄対策",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "パネル放置・投棄を抑止",
-      "variant": "neutral"
+      "text": "パネル放置・投棄を抑止",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "international": {

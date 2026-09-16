@@ -2,7 +2,7 @@
   "id": "underground-mall-inundation-waterstop-plate-mandate",
   "title": "地下街・地下鉄出入口止水板・防水扉設置義務化法（豪雨内水氾濫）",
   "catchphrase": "線状降水帯による都市水没を防ぐ、地下街・地下鉄への大型自動止水板と防水扉設置義務化",
-  "category": "infrastructure",
+  "category": "society",
   "categoryLabel": "国土・交通",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "都市型水害",
-      "variant": "positive"
+      "text": "都市型水害",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "地下街水没防止",
-      "variant": "positive"
+      "text": "地下街水没防止",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "防災インフラ",
-      "variant": "neutral"
+      "text": "防災インフラ",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "止水設備",
+      "labelStandard": "止水設備",
+      "labelSimple": "止水設備",
       "value": "自動起伏式1.5m以上",
+      "unit": "",
+      "oldValue": "現行",
       "description": "道路冠水時にセンサー連動で数秒で自動遮断する止水板義務化",
+      "descriptionStandard": "止水設備",
+      "descriptionSimple": "止水設備",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "国庫補助",
+      "labelStandard": "国庫補助",
+      "labelSimple": "国庫補助",
       "value": "改修工事費の1/3",
+      "unit": "",
+      "oldValue": "現行",
       "description": "排水ポンプ倍増および防水扉設置工事を財政支援",
+      "descriptionStandard": "国庫補助",
+      "descriptionSimple": "国庫補助",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

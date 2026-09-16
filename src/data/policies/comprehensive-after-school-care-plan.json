@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "小1の壁解消",
-      "variant": "positive"
+      "text": "小1の壁解消",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "30万人枠拡充",
-      "variant": "positive"
+      "text": "30万人枠拡充",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "支援員確保が急務",
-      "variant": "warning"
+      "text": "支援員確保が急務",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "目標定員拡大",
+      "labelStandard": "目標定員拡大",
+      "labelSimple": "目標定員拡大",
       "value": "約30万人分",
+      "unit": "",
+      "oldValue": "現行",
       "description": "2028年度末までの学童保育受入目標枠",
+      "descriptionStandard": "目標定員拡大",
+      "descriptionSimple": "目標定員拡大",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "主な実施場所",
+      "labelStandard": "主な実施場所",
+      "labelSimple": "主な実施場所",
       "value": "小学校敷地内",
+      "unit": "",
+      "oldValue": "現行",
       "description": "余裕教室や体育館を活用し移動事故リスクゼロへ",
+      "descriptionStandard": "主な実施場所",
+      "descriptionSimple": "主な実施場所",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Home"
     },
     {
       "label": "指導員処遇改善",
+      "labelStandard": "指導員処遇改善",
+      "labelSimple": "指導員処遇改善",
       "value": "継続的給与加算",
+      "unit": "",
+      "oldValue": "現行",
       "description": "キャリアアップ手当および経験年数に応じた改善",
+      "descriptionStandard": "指導員処遇改善",
+      "descriptionSimple": "指導員処遇改善",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

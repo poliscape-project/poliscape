@@ -145,15 +145,21 @@
   "badges": [
     {
       "label": "高裁で違憲判決相次ぐ",
-      "variant": "neutral"
+      "text": "高裁で違憲判決相次ぐ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "相続権・共同親権の平等",
-      "variant": "neutral"
+      "text": "相続権・共同親権の平等",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "憲法24条改正論争",
-      "variant": "neutral"
+      "text": "憲法24条改正論争",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "international": {

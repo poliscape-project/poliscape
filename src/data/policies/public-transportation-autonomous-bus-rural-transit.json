@@ -2,7 +2,7 @@
   "id": "public-transportation-autonomous-bus-rural-transit",
   "title": "地域公共交通活性化再生法改正（過疎地路線バスの自動運転化・BRT再編支援）",
   "catchphrase": "運転手不足で消えゆく地方路線を救う。レベル4自動運転バスとBRT（バス専用道）転換への国庫重点支援",
-  "category": "social",
+  "category": "society",
   "categoryLabel": "社会保障・地域再生・交通",
   "lastUpdated": "2024-04-10",
   "effectiveDate": "2023年4月成立・10月施行",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "地域公共交通",
-      "variant": "positive"
+      "text": "地域公共交通",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "自動運転レベル4",
-      "variant": "positive"
+      "text": "自動運転レベル4",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "BRT転換支援",
-      "variant": "neutral"
+      "text": "BRT転換支援",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "対象",
+      "labelStandard": "対象",
+      "labelSimple": "対象",
       "value": "地方鉄道・過疎路線バス",
+      "unit": "",
+      "oldValue": "現行",
       "description": "人手不足と赤字で存続の危ぶまれる公共交通",
+      "descriptionStandard": "対象",
+      "descriptionSimple": "対象",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "技術",
+      "labelStandard": "技術",
+      "labelSimple": "技術",
       "value": "レベル4自動運転・専用道",
+      "unit": "",
+      "oldValue": "現行",
       "description": "遠隔監視による省人運行と安全な定時運行を両立",
+      "descriptionStandard": "技術",
+      "descriptionSimple": "技術",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "支援",
+      "labelStandard": "支援",
+      "labelSimple": "支援",
       "value": "国庫補助金重点配分",
+      "unit": "",
+      "oldValue": "現行",
       "description": "車両導入や専用道整備費用の最大半額を支援",
+      "descriptionStandard": "支援",
+      "descriptionSimple": "支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

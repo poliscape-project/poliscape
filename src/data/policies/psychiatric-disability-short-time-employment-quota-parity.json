@@ -1,8 +1,8 @@
 {
   "id": "psychiatric-disability-short-time-employment-quota-parity",
   "title": "精神障害者の週10時間以上20時間未満雇用における実雇用率算定基準改善",
-  "category": "labor-employment",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "うつ病、双極性障害、統合失調症、発達障害などの精神障害者が、体調に合わせて無理なく働き始められるよう、週10時間以上20時間未満の超短時間雇用を障害者雇用率制度の法定雇用率（0.5カウント）として正式算定する特例を拡充・恒久化する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "障害者雇用",
-      "variant": "blue"
+      "text": "障害者雇用",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "短時間就労",
-      "variant": "green"
+      "text": "短時間就労",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "共生社会",
-      "variant": "purple"
+      "text": "共生社会",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "雇用率算定換算値",
+      "label": "雇用率算定換算値",
+      "labelStandard": "雇用率算定換算値",
+      "labelSimple": "雇用率算定換算値",
       "value": "0.5",
       "unit": "人カウント",
+      "oldValue": "現行",
       "description": "週10時間以上20時間未満の雇用1人につき0.5人として雇用率に算定",
-      "trend": "up",
-      "trendLabel": "正式算定"
+      "descriptionStandard": "雇用率算定換算値",
+      "descriptionSimple": "雇用率算定換算値",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "精神障害者の職場定着率",
+      "label": "精神障害者の職場定着率",
+      "labelStandard": "精神障害者の職場定着率",
+      "labelSimple": "精神障害者の職場定着率",
       "value": "75",
       "unit": "%（1年後）",
+      "oldValue": "現行",
       "description": "短時間からスモールステップで勤務を開始した場合の1年後就労定着率",
-      "trend": "up",
-      "trendLabel": "定着率改善"
+      "descriptionStandard": "精神障害者の職場定着率",
+      "descriptionSimple": "精神障害者の職場定着率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

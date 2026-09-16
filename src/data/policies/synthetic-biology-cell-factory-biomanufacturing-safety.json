@@ -2,7 +2,7 @@
   "id": "synthetic-biology-cell-factory-biomanufacturing-safety",
   "title": "合成生物学・微生物スマートセル工場バイオセーフティ法",
   "catchphrase": "石油依存から微生物による物質生産へ、バイオものづくり推進と厳格な生物安全基準の両立",
-  "category": "technology",
+  "category": "society",
   "categoryLabel": "テクノロジー・インフラ・通信",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "バイオものづくり",
-      "variant": "positive"
+      "text": "バイオものづくり",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "合成生物学",
-      "variant": "positive"
+      "text": "合成生物学",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "バイオセーフティ",
-      "variant": "neutral"
+      "text": "バイオセーフティ",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "施設助成",
+      "labelStandard": "施設助成",
+      "labelSimple": "施設助成",
       "value": "建設費最大1/3",
+      "unit": "",
+      "oldValue": "現行",
       "description": "大規模微生物発酵・精製プラントの整備を国庫助成",
+      "descriptionStandard": "施設助成",
+      "descriptionSimple": "施設助成",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Building2"
     },
     {
       "label": "安全義務",
+      "labelStandard": "安全義務",
+      "labelSimple": "安全義務",
       "value": "キルスイッチ搭載",
+      "unit": "",
+      "oldValue": "現行",
       "description": "工場外漏出時に自動自己融解する安全遺伝子機構を義務化",
+      "descriptionStandard": "安全義務",
+      "descriptionSimple": "安全義務",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

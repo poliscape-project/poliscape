@@ -129,58 +129,76 @@
   "badges": [
     {
       "label": "BBNJ公海生物多様性条約",
-      "variant": "neutral"
+      "text": "BBNJ公海生物多様性条約",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "海の30%保護区化",
-      "variant": "neutral"
+      "text": "海の30%保護区化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "遠洋漁業への影響懸念",
-      "variant": "neutral"
+      "text": "遠洋漁業への影響懸念",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "守る海の広さ",
+      "label": "",
       "labelStandard": "公海の割合（全海洋）",
+      "labelSimple": "守る海の広さ",
       "value": "海の約6割",
       "unit": "国際水域",
       "oldValue": "これまで 各国の自由な利用原則",
       "description": "どこの国のものでもない広大な公海を守る条約",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "BBNJ条約",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Globe"
     },
     {
-      "labelSimple": "世界の自然目標",
+      "label": "",
       "labelStandard": "海洋保護区の目標割合",
+      "labelSimple": "世界の自然目標",
       "value": "30",
       "unit": "%保護（30by30）",
       "oldValue": "これまで 公海の保護区は1%未満",
       "description": "2030年までに海の30%を自然保護区へ指定",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "保護区創設",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "深海のお薬の利益",
+      "label": "",
       "labelStandard": "海洋遺伝資源の利益配分",
+      "labelSimple": "深海のお薬の利益",
       "value": "利益共有",
       "unit": "途上国へ還元",
       "oldValue": "これまで 発見した国・企業が独占",
       "description": "深海生物から作った新薬の利益を国際分配",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "公平配分",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Scale"
     },
     {
-      "labelSimple": "漁師さんへの影響",
+      "label": "",
       "labelStandard": "遠洋まぐろ・かつお漁業への懸念",
+      "labelSimple": "漁師さんへの影響",
       "value": "漁場縮小",
       "unit": "操業規制懸念",
       "oldValue": "これまで 自由に遠洋操業",
       "description": "保護区が広がりすぎて日本の漁船が締め出される恐れ",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "産業懸念",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"

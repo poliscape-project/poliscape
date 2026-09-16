@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "退職金税制",
-      "variant": "neutral"
+      "text": "退職金税制",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "労働移動",
-      "variant": "positive"
+      "text": "労働移動",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "公平な税制",
-      "variant": "positive"
+      "text": "公平な税制",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "控除額",
+      "labelStandard": "控除額",
+      "labelSimple": "控除額",
       "value": "一律年50万円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "勤続年数にかかわらず一律控除に平準化",
+      "descriptionStandard": "控除額",
+      "descriptionSimple": "控除額",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "移行期間",
+      "labelStandard": "移行期間",
+      "labelSimple": "移行期間",
       "value": "10年間",
+      "unit": "",
+      "oldValue": "現行",
       "description": "現役シニア層のための激変緩和選択期間を設定",
+      "descriptionStandard": "移行期間",
+      "descriptionSimple": "移行期間",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

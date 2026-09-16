@@ -1,7 +1,7 @@
 {
   "id": "labor-inspection-ai-risk-scoring-unpaid-overtime-audit",
   "title": "労働基準監督署における労務データAI分析によるサービス残業重点立入監査",
-  "category": "employment",
+  "category": "society",
   "subcategory": "労働基準監督・DX",
   "status": "施行中",
   "date": "2024-05",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "違法残業摘発効率",
+      "labelStandard": "違法残業摘発効率",
+      "labelSimple": "違法残業摘発効率",
       "value": "2.8",
       "unit": "倍向上",
       "oldValue": "ランダム巡回調査",
       "description": "打刻とPCログの乖離スコアリングにより是正勧告の発令率が急伸",
+      "descriptionStandard": "違法残業摘発効率",
+      "descriptionSimple": "違法残業摘発効率",
       "badge": "摘発力強化",
       "badgeColor": "red",
       "icon": "shield-check"
     },
     {
       "label": "遡及残業代支払額",
+      "labelStandard": "遡及残業代支払額",
+      "labelSimple": "遡及残業代支払額",
       "value": "数百億円規模",
       "unit": "（全国累計）",
       "oldValue": "泣き寝入り多数",
       "description": "客観的PCログの証拠採用により労働者への未払い賃金還元を強制",
+      "descriptionStandard": "遡及残業代支払額",
+      "descriptionSimple": "遡及残業代支払額",
       "badge": "賃金回収",
       "badgeColor": "green",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "employment"
 }

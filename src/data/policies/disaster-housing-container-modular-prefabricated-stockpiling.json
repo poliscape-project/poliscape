@@ -2,7 +2,7 @@
   "id": "disaster-housing-container-modular-prefabricated-stockpiling",
   "title": "防災モジュラー・ムービングハウス（コンテナ仮設住宅）事前備蓄協定法",
   "catchphrase": "発災数日で届く快適な断熱仮設、ムービングハウスの全国備蓄ネットワーク",
-  "category": "safety",
+  "category": "society",
   "categoryLabel": "治安・防災",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年6月施行予定",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "ムービングハウス",
-      "variant": "positive"
+      "text": "ムービングハウス",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "災害関連死ゼロ",
-      "variant": "positive"
+      "text": "災害関連死ゼロ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "高断熱仮設",
-      "variant": "neutral"
+      "text": "高断熱仮設",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "発災数日でホテル並みの個室",
+      "labelStandard": "発災数日でホテル並みの個室",
+      "labelSimple": "発災数日でホテル並みの個室",
       "value": "発災数日でホテル並みの個室",
+      "unit": "",
+      "oldValue": "現行",
       "description": "専用のキッチン・バス・トイレ付き木造住宅がトラックで被災地に到着。",
+      "descriptionStandard": "発災数日でホテル並みの個室",
+      "descriptionSimple": "発災数日でホテル並みの個室",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "平時は観光施設として活用",
+      "labelStandard": "平時は観光施設として活用",
+      "labelSimple": "平時は観光施設として活用",
       "value": "平時は観光施設として活用",
+      "unit": "",
+      "oldValue": "現行",
       "description": "普段はキャンプ場や別荘として稼働し、地震が起きたら被災地へ出動。",
+      "descriptionStandard": "平時は観光施設として活用",
+      "descriptionSimple": "平時は観光施設として活用",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "災害関連死を大幅防止",
+      "labelStandard": "災害関連死を大幅防止",
+      "labelSimple": "災害関連死を大幅防止",
       "value": "災害関連死を大幅防止",
+      "unit": "",
+      "oldValue": "現行",
       "description": "体育館の雑魚寝による肺炎やエコノミークラス症候群を水際でブロック。",
+      "descriptionStandard": "災害関連死を大幅防止",
+      "descriptionSimple": "災害関連死を大幅防止",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

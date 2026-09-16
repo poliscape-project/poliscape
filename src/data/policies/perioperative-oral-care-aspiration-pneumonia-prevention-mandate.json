@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "術後肺炎発症率低減",
+      "labelStandard": "術後肺炎発症率低減",
+      "labelSimple": "術後肺炎発症率低減",
       "value": "約50〜60",
       "unit": "%減（実施群比較）",
       "oldValue": "術後誤嚥性肺炎が多発",
       "description": "術前の専門的歯石・プラーク除去による術後呼吸器感染の大幅抑制",
+      "descriptionStandard": "術後肺炎発症率低減",
+      "descriptionSimple": "術後肺炎発症率低減",
       "badge": "肺炎半減",
       "badgeColor": "green",
       "icon": "shield-check"
     },
     {
       "label": "術後平均在院日数",
+      "labelStandard": "術後平均在院日数",
+      "labelSimple": "術後平均在院日数",
       "value": "約2〜3",
       "unit": "日短縮（合併症防止）",
       "oldValue": "感染合併による長期入院",
       "description": "合併症ゼロ化による早期経口摂取再開とスムーズな退院",
+      "descriptionStandard": "術後平均在院日数",
+      "descriptionSimple": "術後平均在院日数",
       "badge": "入院日数短縮",
       "badgeColor": "blue",
       "icon": "clock"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

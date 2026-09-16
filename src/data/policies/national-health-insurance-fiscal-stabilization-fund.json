@@ -2,7 +2,7 @@
   "id": "national-health-insurance-fiscal-stabilization-fund",
   "title": "国民健康保険財政安定化法（都道府県化完成と保険料格差是正）",
   "catchphrase": "住む場所で保険料が変わる不公平を解消、国保の全都道府県完全一元化と高額医療費財政支援",
-  "category": "welfare",
+  "category": "society",
   "categoryLabel": "社会保障・福祉",
   "lastUpdated": "2026-02-11",
   "effectiveDate": "2026年4月完全施行",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "医療保険",
-      "variant": "positive"
+      "text": "医療保険",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "国保改革",
-      "variant": "positive"
+      "text": "国保改革",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "格差是正",
-      "variant": "neutral"
+      "text": "格差是正",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "県内同一の保険料率",
+      "labelStandard": "県内同一の保険料率",
+      "labelSimple": "県内同一の保険料率",
       "value": "県内同一の保険料率",
+      "unit": "",
+      "oldValue": "現行",
       "description": "市町村ごとの不公平な保険料格差を完全に平準化・統一。",
+      "descriptionStandard": "県内同一の保険料率",
+      "descriptionSimple": "県内同一の保険料率",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "低所得世帯の最大7割軽減",
+      "labelStandard": "低所得世帯の最大7割軽減",
+      "labelSimple": "低所得世帯の最大7割軽減",
       "value": "低所得世帯の最大7割軽減",
+      "unit": "",
+      "oldValue": "現行",
       "description": "年金生活者や単身世帯の保険料負担を公費で手厚く減免。",
+      "descriptionStandard": "低所得世帯の最大7割軽減",
+      "descriptionSimple": "低所得世帯の最大7割軽減",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "財政安定化基金の拡充",
+      "labelStandard": "財政安定化基金の拡充",
+      "labelSimple": "財政安定化基金の拡充",
       "value": "財政安定化基金の拡充",
+      "unit": "",
+      "oldValue": "現行",
       "description": "高額な先端医療費が発生しても自治体が破綻しないセーフティネット。",
+      "descriptionStandard": "財政安定化基金の拡充",
+      "descriptionSimple": "財政安定化基金の拡充",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "id": "court-certified-ai-transcription-hearing-record-mandate",
   "title": "裁判所速記録におけるAI音声文字起こしシステムの公式採用と調書作成迅速化",
-  "category": "admin",
+  "category": "society",
   "subcategory": "司法・裁判DX",
   "status": "施行中",
   "date": "2024-05",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "調書作成所要時間",
+      "labelStandard": "調書作成所要時間",
+      "labelSimple": "調書作成所要時間",
       "value": "翌日〜数日",
       "unit": "",
       "oldValue": "数週間〜1ヶ月以上",
       "description": "AI話者分離ドラフトと速記官校閲により作成期間を劇的に短縮",
+      "descriptionStandard": "調書作成所要時間",
+      "descriptionSimple": "調書作成所要時間",
       "badge": "即日化達成",
       "badgeColor": "green",
       "icon": "clock"
     },
     {
       "label": "法廷音声認識精度",
+      "labelStandard": "法廷音声認識精度",
+      "labelSimple": "法廷音声認識精度",
       "value": "96",
       "unit": "%超（専門辞書適用時）",
       "oldValue": "手作業入力",
       "description": "法律・医療・特許専門用語を学習した専用AIエンジンを搭載",
+      "descriptionStandard": "法廷音声認識精度",
+      "descriptionSimple": "法廷音声認識精度",
       "badge": "高精度認識",
       "badgeColor": "blue",
       "icon": "cpu"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "admin"
 }

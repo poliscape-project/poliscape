@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "下請法",
-      "variant": "positive"
+      "text": "下請法",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "価格転嫁",
-      "variant": "positive"
+      "text": "価格転嫁",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "賃上げ支援",
-      "variant": "neutral"
+      "text": "賃上げ支援",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "価格交渉の応諾義務化",
+      "labelStandard": "価格交渉の応諾義務化",
+      "labelSimple": "価格交渉の応諾義務化",
       "value": "価格交渉の応諾義務化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "下請けからの値上げ要求を無視・拒否して据え置く行為を違法化。",
+      "descriptionStandard": "価格交渉の応諾義務化",
+      "descriptionSimple": "価格交渉の応諾義務化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "労務費の転嫁を明記",
+      "labelStandard": "労務費の転嫁を明記",
+      "labelSimple": "労務費の転嫁を明記",
       "value": "労務費の転嫁を明記",
+      "unit": "",
+      "oldValue": "現行",
       "description": "モノの原価だけでなく従業員の人件費アップも転嫁対象に認定。",
+      "descriptionStandard": "労務費の転嫁を明記",
+      "descriptionSimple": "労務費の転嫁を明記",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "下請Gメンの調査強化",
+      "labelStandard": "下請Gメンの調査強化",
+      "labelSimple": "下請Gメンの調査強化",
       "value": "下請Gメンの調査強化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "覆面調査員による下請けヒアリングで買いたたき大企業を実名指導。",
+      "descriptionStandard": "下請Gメンの調査強化",
+      "descriptionSimple": "下請Gメンの調査強化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

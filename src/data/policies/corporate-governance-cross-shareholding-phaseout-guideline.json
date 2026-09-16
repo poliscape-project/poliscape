@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "損保大手の売却コミット",
+      "labelStandard": "損保大手の売却コミット",
+      "labelSimple": "損保大手の売却コミット",
       "value": "完全ゼロ化",
       "unit": "",
       "oldValue": "純資産の数十%",
       "description": "損保大手各社が約10兆円超の政策保有株式をゼロにする方針を表明",
+      "descriptionStandard": "損保大手の売却コミット",
+      "descriptionSimple": "損保大手の売却コミット",
       "badge": "ゼロ化方針",
       "badgeColor": "green",
       "icon": "trending-up"
     },
     {
       "label": "東証PBR1倍超え企業比率",
+      "labelStandard": "東証PBR1倍超え企業比率",
+      "labelSimple": "東証PBR1倍超え企業比率",
       "value": "急伸中",
       "unit": "",
       "oldValue": "半数以上がPBR1倍割れ",
       "description": "資本効率改善と自社株買いにより日本企業の企業価値が大幅向上",
+      "descriptionStandard": "東証PBR1倍超え企業比率",
+      "descriptionSimple": "東証PBR1倍超え企業比率",
       "badge": "株価底上げ",
       "badgeColor": "blue",
       "icon": "sparkles"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

@@ -1,8 +1,8 @@
 {
   "id": "agritech-autonomous-tractor-radio-wave-deregulation-act",
   "title": "スマート農業向け自動操舵トラクターの電波法免許手続き簡素化",
-  "category": "regional-agriculture",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "農業従事者の急速な減少と高齢化が進む農村地域において、GNSS（みちびき等の衛星測位）とミリ波レーダー、5G/ローカル5Gを用いた「レベル3（完全無人遠隔監視）」自動操舵トラクター・コンバインの普及を加速するため、電波法関連規則を抜本的に緩和する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "スマート農業",
-      "variant": "green"
+      "text": "スマート農業",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "電波法規制緩和",
-      "variant": "blue"
+      "text": "電波法規制緩和",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "自動運転",
-      "variant": "purple"
+      "text": "自動運転",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "作業時間の削減効果",
+      "label": "作業時間の削減効果",
+      "labelStandard": "作業時間の削減効果",
+      "labelSimple": "作業時間の削減効果",
       "value": "50",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "自動操舵と複数台遠隔稼働による1ヘクタールあたり農作業時間の大幅削減",
-      "trend": "down",
-      "trendLabel": "作業時間半減"
+      "descriptionStandard": "作業時間の削減効果",
+      "descriptionSimple": "作業時間の削減効果",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "位置補正精度",
+      "label": "位置補正精度",
+      "labelStandard": "位置補正精度",
+      "labelSimple": "位置補正精度",
       "value": "2-3",
       "unit": "cm以内",
+      "oldValue": "現行",
       "description": "RTK基準局とみちびき衛星連携による高精度な自動直進・耕作誤差",
-      "trend": "neutral",
-      "trendLabel": "センチ級精度"
+      "descriptionStandard": "位置補正精度",
+      "descriptionSimple": "位置補正精度",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

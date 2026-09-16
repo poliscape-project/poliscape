@@ -3,7 +3,7 @@
   "title": "地域中核病院における医療機器・電子カルテのサイバー防御監視（SOC）義務化",
   "category": "healthcare",
   "categoryLabel": "医療・公衆衛生",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "安全管理指針改定・支援運用中",
   "catchphrase": "ランサムウェアによる診療停止を防ぐ。全中核病院への24時間セキュリティ監視（SOC）導入とBCP義務化",
   "lastUpdated": "2026-09-16",
@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "常時監視体制",
+      "labelStandard": "常時監視体制",
+      "labelSimple": "常時監視体制",
       "value": "24/365",
       "unit": "時間",
       "oldValue": "定期点検のみ",
       "description": "外部セキュリティ専門家による電子カルテ網の常時監視と即時隔離",
+      "descriptionStandard": "常時監視体制",
+      "descriptionSimple": "常時監視体制",
       "badge": "常時防衛",
       "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "復旧目標時間",
+      "labelStandard": "復旧目標時間",
+      "labelSimple": "復旧目標時間",
       "value": "24",
       "unit": "時間以内",
       "oldValue": "数週間〜数カ月",
       "description": "オフライン不変バックアップによるシステム復旧までの目標時間短縮",
+      "descriptionStandard": "復旧目標時間",
+      "descriptionSimple": "復旧目標時間",
       "badge": "早期復旧",
       "badgeColor": "green",
       "icon": "Clock"

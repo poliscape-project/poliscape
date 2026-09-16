@@ -169,62 +169,76 @@
   "badges": [
     {
       "label": "年最大150万円生活支援",
-      "variant": "neutral"
+      "text": "年最大150万円生活支援",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "平均年齢68歳の担い手対策",
-      "variant": "neutral"
+      "text": "平均年齢68歳の担い手対策",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "第三者事業承継マッチング",
-      "variant": "neutral"
+      "text": "第三者事業承継マッチング",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "国からもらえる生活のお金",
+      "label": "",
       "labelStandard": "就農準備・経営開始資金",
+      "labelSimple": "国からもらえる生活のお金",
       "value": "年最大 150",
       "unit": "万円",
       "oldValue": "無収入の研修・赤字初期に耐えられず挫折",
-      "descriptionSimple": "研修2年＋経営3年で最大5年間お金がもらえる！",
+      "description": "",
       "descriptionStandard": "年間最大150万円を最長5年間給付し生活を保障",
+      "descriptionSimple": "研修2年＋経営3年で最大5年間お金がもらえる！",
       "badge": "最長5年給付",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "もらえる人のねんれい",
+      "label": "",
       "labelStandard": "給付対象年齢",
+      "labelSimple": "もらえる人のねんれい",
       "value": "49",
       "unit": "歳以下",
       "oldValue": "高齢化が進み若手就農者が極端に不足",
-      "descriptionSimple": "農業を始めたい若い人を国が応援！",
+      "description": "",
       "descriptionStandard": "次世代を担う青年就農者への集中的インセンティブ",
+      "descriptionSimple": "農業を始めたい若い人を国が応援！",
       "badge": "若手就農促進",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "機械やハウスを買うお金",
+      "label": "",
       "labelStandard": "経営発展支援事業",
+      "labelSimple": "機械やハウスを買うお金",
       "value": "最大 1,000",
       "unit": "万円補助",
       "oldValue": "トラクターや設備に数千万円の借金を背負う",
-      "descriptionSimple": "ハウスや機械の代金を最大4分の3補助！",
+      "description": "",
       "descriptionStandard": "新規就農時の施設・機械導入費用を大幅助成",
+      "descriptionSimple": "ハウスや機械の代金を最大4分の3補助！",
       "badge": "最大3/4補助",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "TrendingUp"
     },
     {
-      "labelSimple": "おじいちゃんからの引き継ぎ",
+      "label": "",
       "labelStandard": "第三者事業承継マッチング",
+      "labelSimple": "おじいちゃんからの引き継ぎ",
       "value": "地域計画",
       "unit": "目標地図",
       "oldValue": "親族に跡継ぎがいない場合は廃業・放棄",
-      "descriptionSimple": "ビニールハウスや畑を若手にまるごとバトンタッチ！",
+      "description": "",
       "descriptionStandard": "市町村が引退農家と新規参入者を地図上でマッチング",
+      "descriptionSimple": "ビニールハウスや畑を若手にまるごとバトンタッチ！",
       "badge": "資産・技術承継",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Sparkles"

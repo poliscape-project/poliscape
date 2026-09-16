@@ -2,7 +2,7 @@
   "id": "emergency-medical-call-triage-sharp-7119-mandate",
   "title": "救急安心センター事業（#7119）の全国展開・救急車適正利用の法的位置づけ",
   "catchphrase": "迷ったら「#7119」。救急車を呼ぶべきか看護師が24時間判定し、逼迫する救命医療を守る",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・健康・公衆衛生",
   "lastUpdated": "2024-04-15",
   "effectiveDate": "2024年度目標で全国人口カバー率100%を推進",
@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "#7119全国展開",
-      "variant": "positive"
+      "text": "#7119全国展開",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "救急車適正利用",
-      "variant": "positive"
+      "text": "救急車適正利用",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "看護師確保が鍵",
-      "variant": "warning"
+      "text": "看護師確保が鍵",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "短縮ダイヤル",
+      "labelStandard": "短縮ダイヤル",
+      "labelSimple": "短縮ダイヤル",
       "value": "#7119",
+      "unit": "",
+      "oldValue": "現行",
       "description": "急な病気やケガの救急相談・受診相談窓口",
+      "descriptionStandard": "短縮ダイヤル",
+      "descriptionSimple": "短縮ダイヤル",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "対応体制",
+      "labelStandard": "対応体制",
+      "labelSimple": "対応体制",
       "value": "医師・看護師24時間待機",
+      "unit": "",
+      "oldValue": "現行",
       "description": "緊急度判定プロトコルに基づき直ちにトリアージ",
+      "descriptionStandard": "対応体制",
+      "descriptionSimple": "対応体制",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     },
     {
       "label": "目的",
+      "labelStandard": "目的",
+      "labelSimple": "目的",
       "value": "救命率向上と出動最適化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "不急利用を減らし重篤患者への到着時間を短縮",
+      "descriptionStandard": "目的",
+      "descriptionSimple": "目的",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

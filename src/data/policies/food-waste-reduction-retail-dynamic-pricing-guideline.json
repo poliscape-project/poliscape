@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "店舗廃棄ロス削減率",
+      "labelStandard": "店舗廃棄ロス削減率",
+      "labelSimple": "店舗廃棄ロス削減率",
       "value": "約30〜50",
       "unit": "%減（実証平均）",
       "oldValue": "手作業廃棄処分",
       "description": "段階的値下げによる売り切り率向上と廃棄コスト削減",
+      "descriptionStandard": "店舗廃棄ロス削減率",
+      "descriptionSimple": "店舗廃棄ロス削減率",
       "badge": "廃棄大幅減",
       "badgeColor": "green",
       "icon": "trending-down"
     },
     {
       "label": "値引き作業時間",
+      "labelStandard": "値引き作業時間",
+      "labelSimple": "値引き作業時間",
       "value": "90",
       "unit": "%削減（自動化）",
       "oldValue": "毎日1〜2時間作業",
       "description": "電子棚札連動により夕方のシール貼り業務をほぼ解消",
+      "descriptionStandard": "値引き作業時間",
+      "descriptionSimple": "値引き作業時間",
       "badge": "省人化",
       "badgeColor": "blue",
       "icon": "clock"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "environment"
 }

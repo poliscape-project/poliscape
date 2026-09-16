@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "防げる死をゼロへ",
-      "variant": "positive"
+      "text": "防げる死をゼロへ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "法制化審議中",
-      "variant": "neutral"
+      "text": "法制化審議中",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "多職種連携",
-      "variant": "positive"
+      "text": "多職種連携",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "対象事例",
+      "labelStandard": "対象事例",
+      "labelSimple": "対象事例",
       "value": "18歳未満の全小児死亡",
+      "unit": "",
+      "oldValue": "現行",
       "description": "事故・虐待・自殺・病死など予防可能な死を網羅",
+      "descriptionStandard": "対象事例",
+      "descriptionSimple": "対象事例",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     },
     {
       "label": "中核理念",
+      "labelStandard": "中核理念",
+      "labelSimple": "中核理念",
       "value": "責任追及なき予防",
+      "unit": "",
+      "oldValue": "現行",
       "description": "犯人探しではなく将来の安全基準や法整備に還元",
+      "descriptionStandard": "中核理念",
+      "descriptionSimple": "中核理念",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "連携組織",
+      "labelStandard": "連携組織",
+      "labelSimple": "連携組織",
       "value": "多職種合同検証チーム",
+      "unit": "",
+      "oldValue": "現行",
       "description": "医師・警察・児童相談所・行政・学校が連携",
+      "descriptionStandard": "連携組織",
+      "descriptionSimple": "連携組織",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "国庫補助上限額",
+      "labelStandard": "国庫補助上限額",
+      "labelSimple": "国庫補助上限額",
       "value": "5.5",
       "unit": "万円/台",
       "oldValue": "4.5万円",
       "description": "物価高や高機能化を反映して1台あたりの補助基準額を引き上げ",
+      "descriptionStandard": "国庫補助上限額",
+      "descriptionSimple": "国庫補助上限額",
       "badge": "上限引き上げ",
       "badgeColor": "blue",
       "icon": "currency-yen"
     },
     {
       "label": "推奨予備機保有率",
+      "labelStandard": "推奨予備機保有率",
+      "labelSimple": "推奨予備機保有率",
       "value": "15",
       "unit": "%",
       "oldValue": "5%未満",
       "description": "故障・紛失時に翌日までに代替機を配備可能なストック基準",
+      "descriptionStandard": "推奨予備機保有率",
+      "descriptionSimple": "推奨予備機保有率",
       "badge": "即時代替",
       "badgeColor": "green",
       "icon": "shield-check"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

@@ -163,62 +163,76 @@
   "badges": [
     {
       "label": "企業へ1人最大50万円助成",
-      "variant": "neutral"
+      "text": "企業へ1人最大50万円助成",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "手当支給で手取り減ゼロ",
-      "variant": "neutral"
+      "text": "手当支給で手取り減ゼロ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "厚生年金加入で将来増額",
-      "variant": "neutral"
+      "text": "厚生年金加入で将来増額",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "会社がもらえる国の補助金",
+      "label": "",
       "labelStandard": "キャリアアップ助成金",
+      "labelSimple": "会社がもらえる国の補助金",
       "value": "最大 50",
       "unit": "万円/人支給",
       "oldValue": "手取り補填に対する国の補助なし",
-      "descriptionSimple": "パートの手取りを減らさない会社にお金が出る！",
+      "description": "",
       "descriptionStandard": "社会保険適用時処遇改善コースで最長2年支援",
+      "descriptionSimple": "パートの手取りを減らさない会社にお金が出る！",
       "badge": "1人最大50万円",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "パートさんの手取り",
+      "label": "",
       "labelStandard": "手取り補填（手当支給）",
+      "labelSimple": "パートさんの手取り",
       "value": "全額補填",
       "unit": "（手取り減ゼロ）",
       "oldValue": "106万で社保天引きされ手取り約15%急減",
-      "descriptionSimple": "会社から手当が出て手取りが減らない！",
+      "description": "",
       "descriptionStandard": "社会保険適用促進手当により「手取りの崖」解消",
+      "descriptionSimple": "会社から手当が出て手取りが減らない！",
       "badge": "手取り減ゼロ",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Sparkles"
     },
     {
-      "labelSimple": "将来もらえる年金",
+      "label": "",
       "labelStandard": "厚生年金加入メリット",
+      "labelSimple": "将来もらえる年金",
       "value": "年金増額",
       "unit": "（将来の受取プラス）",
       "oldValue": "国民年金（第3号）のみで受給が少なかった",
-      "descriptionSimple": "手取りは減らずに将来もらえる年金が増える！",
+      "description": "",
       "descriptionStandard": "手取り維持のまま厚生年金と傷病手当金の権利獲得",
+      "descriptionSimple": "手取りは減らずに将来もらえる年金が増える！",
       "badge": "将来年金アップ",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "TrendingUp"
     },
     {
-      "labelSimple": "いつまで続く？",
+      "label": "",
       "labelStandard": "支援措置の適用期間",
+      "labelSimple": "いつまで続く？",
       "value": "最長 2年間",
       "unit": "（時限措置）",
       "oldValue": "なし",
-      "descriptionSimple": "2年の間に時給を上げたり働く時間を増やす！",
+      "description": "",
       "descriptionStandard": "抜本的な年金制度改革までの暫定激変緩和パッケージ",
+      "descriptionSimple": "2年の間に時給を上げたり働く時間を増やす！",
       "badge": "最長2年の時限措置",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Clock"

@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "学童待機児童数",
+      "labelStandard": "学童待機児童数",
+      "labelSimple": "学童待機児童数",
       "value": "ほぼ0",
       "unit": "人（解消目標達成）",
       "oldValue": "全国約1万7,000人の待機児",
       "description": "学校の余裕教室活用により預け先不足による小1の壁を解消",
+      "descriptionStandard": "学童待機児童数",
+      "descriptionSimple": "学童待機児童数",
       "badge": "待機児ほぼゼロ",
       "badgeColor": "green",
       "icon": "check-circle"
     },
     {
       "label": "受け入れ可能児童数",
+      "labelStandard": "受け入れ可能児童数",
+      "labelSimple": "受け入れ可能児童数",
       "value": "約150",
       "unit": "万人規模へ拡大",
       "oldValue": "約120万人（2018年）",
       "description": "学校敷地内の一体型拠点増設により全国受入枠を大幅拡張",
+      "descriptionStandard": "受け入れ可能児童数",
+      "descriptionSimple": "受け入れ可能児童数",
       "badge": "受入枠150万人",
       "badgeColor": "blue",
       "icon": "user-group"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

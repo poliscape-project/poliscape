@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "給食費完全無償化",
-      "variant": "positive"
+      "text": "給食費完全無償化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "自治体格差是正",
-      "variant": "positive"
+      "text": "自治体格差是正",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "5000億財源確保",
-      "variant": "warning"
+      "text": "5000億財源確保",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "削減効果",
+      "labelStandard": "削減効果",
+      "labelSimple": "削減効果",
       "value": "年約5万〜6万円/人",
+      "unit": "",
+      "oldValue": "現行",
       "description": "公立小中学校の全保護者の給食費自己負担ゼロへ",
+      "descriptionStandard": "削減効果",
+      "descriptionSimple": "削減効果",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "現場改善",
+      "labelStandard": "現場改善",
+      "labelSimple": "現場改善",
       "value": "教員の集金・未納督促ゼロ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "先生が集金係から解放され本来の授業指導に専念",
+      "descriptionStandard": "現場改善",
+      "descriptionSimple": "現場改善",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "所要財源",
+      "labelStandard": "所要財源",
+      "labelSimple": "所要財源",
       "value": "年間約4,500億〜5,000億円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "国費による全国均一な義務教育完全無償化",
+      "descriptionStandard": "所要財源",
+      "descriptionSimple": "所要財源",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

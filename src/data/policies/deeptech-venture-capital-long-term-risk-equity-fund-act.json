@@ -2,9 +2,9 @@
   "id": "deeptech-venture-capital-long-term-risk-equity-fund-act",
   "title": "ディープテック・スタートアップに対する長期リスクマネー供給基金",
   "catchphrase": "10年かかる研究開発を支える。核融合・バイオ・量子等への1,000億円超の長期公的ファンド",
-  "category": "technology",
+  "category": "society",
   "categoryLabel": "先端技術・ベンチャー金融",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "ディープテック",
-      "variant": "purple"
+      "text": "ディープテック",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "長期リスクマネー",
-      "variant": "blue"
+      "text": "長期リスクマネー",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "国家基幹産業",
-      "variant": "green"
+      "text": "国家基幹産業",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "ファンド運用可能期間",
+      "label": "ファンド運用可能期間",
+      "labelStandard": "ファンド運用可能期間",
+      "labelSimple": "ファンド運用可能期間",
       "value": "20",
       "unit": "年以内",
+      "oldValue": "現行",
       "description": "短期回収を求めず基礎研究から量産実証まで伴走可能なディープテック専用ファンドの最長運用期間",
-      "trend": "up",
-      "trendLabel": "超長期運用"
+      "descriptionStandard": "ファンド運用可能期間",
+      "descriptionSimple": "ファンド運用可能期間",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "民間資金呼び込み倍率",
+      "label": "民間資金呼び込み倍率",
+      "labelStandard": "民間資金呼び込み倍率",
+      "labelSimple": "民間資金呼び込み倍率",
       "value": "3",
       "unit": "倍以上",
+      "oldValue": "現行",
       "description": "国のファーストロス出資を梃子（レバレッジ）として呼び込まれる民間機関投資家マネーの比率",
-      "trend": "up",
-      "trendLabel": "民間マネー動員"
+      "descriptionStandard": "民間資金呼び込み倍率",
+      "descriptionSimple": "民間資金呼び込み倍率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

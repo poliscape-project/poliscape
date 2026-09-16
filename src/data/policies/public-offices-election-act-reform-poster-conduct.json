@@ -155,50 +155,62 @@
   "badges": [
     {
       "label": "ポスター枠の商業利用禁止",
-      "variant": "neutral"
+      "text": "ポスター枠の商業利用禁止",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "超党派で法改正協議中",
-      "variant": "neutral"
+      "text": "超党派で法改正協議中",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "演説妨害の取締基準明確化",
-      "variant": "neutral"
+      "text": "演説妨害の取締基準明確化",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "ポスター枠の営利利用",
+      "label": "",
       "labelStandard": "商業広告・枠販売の規制",
+      "labelSimple": "ポスター枠の営利利用",
       "value": "全面禁止",
       "unit": "（法制化検討）",
       "oldValue": "名目上候補者名があれば規制不可",
-      "descriptionSimple": "自分のお店の宣伝や枠の転売・売買は法律で罰せられるように！",
+      "description": "",
       "descriptionStandard": "候補者の政見と無関係な営利広告掲示や権利売買に罰則を新設",
+      "descriptionSimple": "自分のお店の宣伝や枠の転売・売買は法律で罰せられるように！",
       "badge": "制度悪用防止",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "ポスター掲示場の公費",
+      "label": "",
       "labelStandard": "公営掲示場設置の税金負担",
+      "labelSimple": "ポスター掲示場の公費",
       "value": "約 40億",
       "unit": "円（都知事選概算）",
       "oldValue": "都内約1万4000箇所に設置",
-      "descriptionSimple": "巨額の税金が使われているからこそ本来の政策比較の場に！",
+      "description": "",
       "descriptionStandard": "公費負担の趣旨に反する目的外利用の抑止が強く求められる",
+      "descriptionSimple": "巨額の税金が使われているからこそ本来の政策比較の場に！",
       "badge": "税金の適正利用",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "選挙演説の妨害対策",
+      "label": "",
       "labelStandard": "自由妨害罪と警察の権限",
+      "labelSimple": "選挙演説の妨害対策",
       "value": "基準明確化",
       "unit": "（即時制止等）",
       "oldValue": "言論の自由への配慮で制止困難",
-      "descriptionSimple": "大声で演説をかき消したり追い回す行為を警察が取り締まりやすく！",
+      "description": "",
       "descriptionStandard": "公選法225条の適用判断要件を具体化し候補者の安全を確保",
+      "descriptionSimple": "大声で演説をかき消したり追い回す行為を警察が取り締まりやすく！",
       "badge": "言論の安全",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "ShieldCheck"

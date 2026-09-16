@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "事業承継",
-      "variant": "positive"
+      "text": "事業承継",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "中小企業支援",
-      "variant": "positive"
+      "text": "中小企業支援",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "税制改正",
-      "variant": "neutral"
+      "text": "税制改正",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "納税猶予割合",
+      "labelStandard": "納税猶予割合",
+      "labelSimple": "納税猶予割合",
       "value": "100%（全額）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "後継者が事業を継続する限り贈与税・相続税の納税を全額猶予",
+      "descriptionStandard": "納税猶予割合",
+      "descriptionSimple": "納税猶予割合",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "適用期限",
+      "labelStandard": "適用期限",
+      "labelSimple": "適用期限",
       "value": "恒久化（無期限）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "時限措置を撤廃し将来にわたって安定した計画承継を保障",
+      "descriptionStandard": "適用期限",
+      "descriptionSimple": "適用期限",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Building2"
     }
   ],

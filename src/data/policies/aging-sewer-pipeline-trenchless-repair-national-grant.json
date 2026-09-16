@@ -1,8 +1,8 @@
 {
   "id": "aging-sewer-pipeline-trenchless-repair-national-grant",
   "title": "老朽化下水道管の非開削更新工法（SPR工法等）推進緊急交付金",
-  "category": "safety-disaster",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "道路を掘り返さずに地下の古い下水管の内側に新しいプラスチック管を形成する「非開削更生工法（SPR工法等）」を全国の下水道事業体に一斉普及させるため、国の重点防災交付金を創設する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "下水道インフラ",
-      "variant": "blue"
+      "text": "下水道インフラ",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "非開削技術",
-      "variant": "green"
+      "text": "非開削技術",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "防災・道路陥没防止",
-      "variant": "purple"
+      "text": "防災・道路陥没防止",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "年間道路陥没発生件数",
+      "label": "年間道路陥没発生件数",
+      "labelStandard": "年間道路陥没発生件数",
+      "labelSimple": "年間道路陥没発生件数",
       "value": "2,600",
       "unit": "件/年",
+      "oldValue": "現行",
       "description": "下水管の腐食破損に起因して全国で毎年発生している道路陥没事故の総数",
-      "trend": "down",
-      "trendLabel": "撲滅目標"
+      "descriptionStandard": "年間道路陥没発生件数",
+      "descriptionSimple": "年間道路陥没発生件数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "工期およびコスト削減",
+      "label": "工期およびコスト削減",
+      "labelStandard": "工期およびコスト削減",
+      "labelSimple": "工期およびコスト削減",
       "value": "50",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "道路開削工法に比べて工事期間およびトータル施工費用を大幅削減",
-      "trend": "down",
-      "trendLabel": "工期・費用半減"
+      "descriptionStandard": "工期およびコスト削減",
+      "descriptionSimple": "工期およびコスト削減",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

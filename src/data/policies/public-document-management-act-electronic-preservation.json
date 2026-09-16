@@ -2,7 +2,7 @@
   "id": "public-document-management-act-electronic-preservation",
   "title": "公文書管理法改正（電子公文書の改ざん防止・ブロックチェーン等活用と永久保存義務化）",
   "catchphrase": "歴史の記録を改ざん・廃棄させない。電子決裁ログの改ざん耐性技術保存と公文書の永久アーカイブ化",
-  "category": "governance",
+  "category": "society",
   "categoryLabel": "統治機構・行政改革・情報公開",
   "lastUpdated": "2024-04-10",
   "effectiveDate": "法案審議中（2025年施行目指す）",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "公文書改ざん防止",
-      "variant": "positive"
+      "text": "公文書改ざん防止",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "電子アーカイブ永久化",
-      "variant": "positive"
+      "text": "電子アーカイブ永久化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "行政萎縮懸念",
-      "variant": "neutral"
+      "text": "行政萎縮懸念",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "技術基盤",
+      "labelStandard": "技術基盤",
+      "labelSimple": "技術基盤",
       "value": "耐改ざん暗号台帳技術",
+      "unit": "",
+      "oldValue": "現行",
       "description": "電子決裁の修正履歴やタイムスタンプを完全固定",
+      "descriptionStandard": "技術基盤",
+      "descriptionSimple": "技術基盤",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "FileText"
     },
     {
       "label": "抑止力",
+      "labelStandard": "抑止力",
+      "labelSimple": "抑止力",
       "value": "無断廃棄・隠蔽への厳罰",
+      "unit": "",
+      "oldValue": "現行",
       "description": "公文書の不当な隠滅を行った公務員への処罰を新設",
+      "descriptionStandard": "抑止力",
+      "descriptionSimple": "抑止力",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "公開制度",
+      "labelStandard": "公開制度",
+      "labelSimple": "公開制度",
       "value": "デジタルオープンアーカイブ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "歴史的公文書をオンラインで全国民へ無料公開",
+      "descriptionStandard": "公開制度",
+      "descriptionSimple": "公開制度",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     }
   ],

@@ -2,7 +2,7 @@
   "id": "pediatric-cancer-proton-beam-heavy-ion-subsidy",
   "title": "小児がん陽子線・重粒子線治療交通宿泊費公費助成法",
   "catchphrase": "子どもの未来を守る先進粒子線治療、遠隔地通院の交通・宿泊費を全額助成",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・福祉",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "小児がん",
-      "variant": "positive"
+      "text": "小児がん",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "陽子線治療",
-      "variant": "positive"
+      "text": "陽子線治療",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "家族滞在支援",
-      "variant": "neutral"
+      "text": "家族滞在支援",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "交通・宿泊費助成",
+      "labelStandard": "交通・宿泊費助成",
+      "labelSimple": "交通・宿泊費助成",
       "value": "実費全額（上限設定）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "地方・離島から都市部粒子線センターへの遠征費用を国庫補助",
+      "descriptionStandard": "交通・宿泊費助成",
+      "descriptionSimple": "交通・宿泊費助成",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "後遺症の劇的低減",
+      "labelStandard": "後遺症の劇的低減",
+      "labelSimple": "後遺症の劇的低減",
       "value": "正常組織被ばく最小",
+      "unit": "",
+      "oldValue": "現行",
       "description": "成長期の子どもの脳や骨への悪影響を抑え成人後のQOLを保護",
+      "descriptionStandard": "後遺症の劇的低減",
+      "descriptionSimple": "後遺症の劇的低減",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

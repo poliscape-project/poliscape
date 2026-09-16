@@ -1,8 +1,8 @@
 {
   "id": "decentralized-data-center-power-grid-priority-access-act",
   "title": "地方分散型データセンターに対する再エネ送電網優先接続・固定資産税軽減",
-  "category": "technology-dx",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "生成AIの爆発的普及に伴うデータセンターの電力消費急増と首都圏集中を是正するため、北海道や東北、九州等の地方に分散設置される「地方分散型ハイパースケールデータセンター」を強力に支援する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "データセンター",
-      "variant": "blue"
+      "text": "データセンター",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "再エネ地産地消",
-      "variant": "green"
+      "text": "再エネ地産地消",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "地方創生",
-      "variant": "purple"
+      "text": "地方創生",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "固定資産税の減免割合",
+      "label": "固定資産税の減免割合",
+      "labelStandard": "固定資産税の減免割合",
+      "labelSimple": "固定資産税の減免割合",
       "value": "50",
       "unit": "%減（最長10年）",
+      "oldValue": "現行",
       "description": "地方分散型データセンターのサーバー設備・建物の固定資産税を半減",
-      "trend": "down",
-      "trendLabel": "大型減税"
+      "descriptionStandard": "固定資産税の減免割合",
+      "descriptionSimple": "固定資産税の減免割合",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "地方分散目標比率",
+      "label": "地方分散目標比率",
+      "labelStandard": "地方分散目標比率",
+      "labelSimple": "地方分散目標比率",
       "value": "50",
       "unit": "%",
+      "oldValue": "現行",
       "description": "東京圏8割集中から、地方でのデータセンター収容能力シェア5割を目指す",
-      "trend": "up",
-      "trendLabel": "分散目標"
+      "descriptionStandard": "地方分散目標比率",
+      "descriptionSimple": "地方分散目標比率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

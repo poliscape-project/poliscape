@@ -1,8 +1,8 @@
 {
   "id": "disability-group-home-night-care-allowance-reform",
   "title": "障害者グループホームの夜間防災・看護体制加算拡充と宿直規制緩和",
-  "category": "social-security",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "重度知的障害や精神障害のある利用者が暮らす障害者グループホーム（共同生活援助）において、夜間の火災・災害避難および医療的ケアに対応できるよう「夜間看護・防災体制加算」を大幅に拡充する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "障害福祉",
-      "variant": "purple"
+      "text": "障害福祉",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "処遇改善",
-      "variant": "green"
+      "text": "処遇改善",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "防災対策",
-      "variant": "blue"
+      "text": "防災対策",
+      "variant": "blue",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "全国グループホーム利用者数",
+      "label": "全国グループホーム利用者数",
+      "labelStandard": "全国グループホーム利用者数",
+      "labelSimple": "全国グループホーム利用者数",
       "value": "14",
       "unit": "万人",
+      "oldValue": "現行",
       "description": "地域で共同生活援助を利用して暮らす障害当事者の総数",
-      "trend": "up",
-      "trendLabel": "利用拡大中"
+      "descriptionStandard": "全国グループホーム利用者数",
+      "descriptionSimple": "全国グループホーム利用者数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "夜勤手当加算額",
+      "label": "夜勤手当加算額",
+      "labelStandard": "夜勤手当加算額",
+      "labelSimple": "夜勤手当加算額",
       "value": "15,000",
       "unit": "円/回",
+      "oldValue": "現行",
       "description": "公費助成による夜勤スタッフの1回あたり手当水準の引き上げ目標",
-      "trend": "up",
-      "trendLabel": "処遇改善"
+      "descriptionStandard": "夜勤手当加算額",
+      "descriptionSimple": "夜勤手当加算額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

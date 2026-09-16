@@ -1,8 +1,8 @@
 {
   "id": "railroad-crossing-flyover-smart-barrier-subsidy-boost",
   "title": "開かずの踏切解消のための連続立体交差事業及びスマート踏切導入支援",
-  "category": "safety-disaster",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "朝夕のラッシュ時に遮断機が長時間降りたままで深刻な交通渋滞と事故を引き起こす「開かずの踏切（ピーク時1時間あたり40分以上遮断）」を根絶するため、鉄道の高架化・地下化を行う「連続立体交差事業（連立事業）」への国費補助率を嵩上げする。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "踏切安全",
-      "variant": "blue"
+      "text": "踏切安全",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "連続立体交差",
-      "variant": "green"
+      "text": "連続立体交差",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "都市渋滞解消",
-      "variant": "purple"
+      "text": "都市渋滞解消",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "ピーク時遮断時間",
+      "label": "ピーク時遮断時間",
+      "labelStandard": "ピーク時遮断時間",
+      "labelSimple": "ピーク時遮断時間",
       "value": "40",
       "unit": "分以上/時",
+      "oldValue": "現行",
       "description": "「開かずの踏切」の定義（1時間中40分以上閉まっている過酷な踏切）",
-      "trend": "neutral",
-      "trendLabel": "深刻な渋滞"
+      "descriptionStandard": "ピーク時遮断時間",
+      "descriptionSimple": "ピーク時遮断時間",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "踏切事故死亡者削減目標",
+      "label": "踏切事故死亡者削減目標",
+      "labelStandard": "踏切事故死亡者削減目標",
+      "labelSimple": "踏切事故死亡者削減目標",
       "value": "0",
       "unit": "人",
+      "oldValue": "現行",
       "description": "スマート検知器と立体交差化により踏切内事故死者数ゼロを目指す",
-      "trend": "down",
-      "trendLabel": "事故死ゼロ目標"
+      "descriptionStandard": "踏切事故死亡者削減目標",
+      "descriptionSimple": "踏切事故死亡者削減目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

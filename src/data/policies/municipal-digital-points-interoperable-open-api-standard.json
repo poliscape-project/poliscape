@@ -1,8 +1,8 @@
 {
   "id": "municipal-digital-points-interoperable-open-api-standard",
   "title": "自治体独自デジタル地域ポイントの全国相互利用オープンAPI標準化",
-  "category": "governance-reform",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "全国の市区町村が乱立させている独自の「デジタル地域ポイント・地域振興券アプリ」について、国のマイナポータルおよびオープンAPI技術標準を策定し、全国どこでも相互交換・相互利用を可能にする。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "行政DX",
-      "variant": "blue"
+      "text": "行政DX",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "地域通貨",
-      "variant": "green"
+      "text": "地域通貨",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "マイナポータル",
-      "variant": "purple"
+      "text": "マイナポータル",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "自治体システム開発費削減",
+      "label": "自治体システム開発費削減",
+      "labelStandard": "自治体システム開発費削減",
+      "labelSimple": "自治体システム開発費削減",
       "value": "60",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "共通基盤APIの利用により各自治体の独自アプリ開発・維持コストを大幅削減",
-      "trend": "down",
-      "trendLabel": "公費節減"
+      "descriptionStandard": "自治体システム開発費削減",
+      "descriptionSimple": "自治体システム開発費削減",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "相互利用可能自治体数",
+      "label": "相互利用可能自治体数",
+      "labelStandard": "相互利用可能自治体数",
+      "labelSimple": "相互利用可能自治体数",
       "value": "1,000",
       "unit": "自治体超",
+      "oldValue": "現行",
       "description": "全国共通APIに接続して相互交換可能となる全国市区町村の目標規模",
-      "trend": "up",
-      "trendLabel": "全国連携"
+      "descriptionStandard": "相互利用可能自治体数",
+      "descriptionSimple": "相互利用可能自治体数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

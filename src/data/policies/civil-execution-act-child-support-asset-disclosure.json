@@ -2,7 +2,7 @@
   "id": "civil-execution-act-child-support-asset-disclosure",
   "title": "民事執行法改正（養育費未払い回収のための預貯金・給与等財産開示手続強化）",
   "catchphrase": "養育費の踏み倒しを許さない。金融機関から口座情報を、年金機構から勤務先を直接照会・給与差押え",
-  "category": "social",
+  "category": "society",
   "categoryLabel": "社会保障・民事司法・ひとり親支援",
   "lastUpdated": "2024-04-10",
   "effectiveDate": "2020年4月施行",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "養育費未払い回収",
-      "variant": "positive"
+      "text": "養育費未払い回収",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "勤務先照会新設",
-      "variant": "positive"
+      "text": "勤務先照会新設",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "自営業捕捉課題",
-      "variant": "neutral"
+      "text": "自営業捕捉課題",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "口座照会",
+      "labelStandard": "口座照会",
+      "labelSimple": "口座照会",
       "value": "全銀本店一括照会",
+      "unit": "",
+      "oldValue": "現行",
       "description": "裁判所を通じて隠し口座の支店名・残高を特定",
+      "descriptionStandard": "口座照会",
+      "descriptionSimple": "口座照会",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "勤務先照会",
+      "labelStandard": "勤務先照会",
+      "labelSimple": "勤務先照会",
       "value": "年金機構から勤務先特定",
+      "unit": "",
+      "oldValue": "現行",
       "description": "養育費債権に限り勤務先を開示させ給与差押え",
+      "descriptionStandard": "勤務先照会",
+      "descriptionSimple": "勤務先照会",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Home"
     },
     {
       "label": "罰則強化",
+      "labelStandard": "罰則強化",
+      "labelSimple": "罰則強化",
       "value": "6ヶ月以下の拘禁刑",
+      "unit": "",
+      "oldValue": "現行",
       "description": "不出頭・虚偽申告に対し過料から前科つく刑事罰へ",
+      "descriptionStandard": "罰則強化",
+      "descriptionSimple": "罰則強化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     }
   ],

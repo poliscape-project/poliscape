@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "卒業生求人倍率",
+      "labelStandard": "卒業生求人倍率",
+      "labelSimple": "卒業生求人倍率",
       "value": "約30〜40",
       "unit": "倍（半導体・電気情報）",
       "oldValue": "約20倍（以前の実績）",
       "description": "先端ハイテク企業からの圧倒的な求人ニーズによる引く手あまた状態",
+      "descriptionStandard": "卒業生求人倍率",
+      "descriptionSimple": "卒業生求人倍率",
       "badge": "就職実績抜群",
       "badgeColor": "green",
       "icon": "briefcase"
     },
     {
       "label": "半導体人材育成規模",
+      "labelStandard": "半導体人材育成規模",
+      "labelSimple": "半導体人材育成規模",
       "value": "年2,000",
       "unit": "名規模へ倍増",
       "oldValue": "年数百名程度",
       "description": "全国ネットワークでのカリキュラム標準化により専門修了生を大幅拡充",
+      "descriptionStandard": "半導体人材育成規模",
+      "descriptionSimple": "半導体人材育成規模",
       "badge": "育成数倍増",
       "badgeColor": "blue",
       "icon": "academic-cap"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

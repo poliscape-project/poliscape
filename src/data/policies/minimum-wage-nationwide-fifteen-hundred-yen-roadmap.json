@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "時給1500円目標",
-      "variant": "positive"
+      "text": "時給1500円目標",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "地域格差是正",
-      "variant": "positive"
+      "text": "地域格差是正",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "中小支援が急務",
-      "variant": "warning"
+      "text": "中小支援が急務",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "国家目標",
+      "labelStandard": "国家目標",
+      "labelSimple": "国家目標",
       "value": "2030年代半ばに1,500円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "政労使一体となった持続的賃上げロードマップ",
+      "descriptionStandard": "国家目標",
+      "descriptionSimple": "国家目標",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "直近改定",
+      "labelStandard": "直近改定",
+      "labelSimple": "直近改定",
       "value": "全国平均1,054円（+50円）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "物価高に対応した過去最大の引き上げ幅",
+      "descriptionStandard": "直近改定",
+      "descriptionSimple": "直近改定",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "支援策",
+      "labelStandard": "支援策",
+      "labelSimple": "支援策",
       "value": "業務改善助成金最大600万",
+      "unit": "",
+      "oldValue": "現行",
       "description": "設備投資を行った中小企業の賃上げ費用を補助",
+      "descriptionStandard": "支援策",
+      "descriptionSimple": "支援策",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

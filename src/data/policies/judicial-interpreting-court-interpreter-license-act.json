@@ -2,7 +2,7 @@
   "id": "judicial-interpreting-court-interpreter-license-act",
   "title": "法廷通訳人国家資格制度創設法（外国人刑事裁判の公平性保障）",
   "catchphrase": "言葉の壁による冤罪を防ぐ、法廷通訳人の国家資格化と待遇改善・公費通訳体制の確立",
-  "category": "safety",
+  "category": "society",
   "categoryLabel": "司法・治安・刑事政策",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "司法改革",
-      "variant": "positive"
+      "text": "司法改革",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "法廷通訳",
-      "variant": "positive"
+      "text": "法廷通訳",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "人権保障",
-      "variant": "neutral"
+      "text": "人権保障",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "資格制度",
+      "labelStandard": "資格制度",
+      "labelSimple": "資格制度",
       "value": "国家資格「法廷通訳士」",
+      "unit": "",
+      "oldValue": "現行",
       "description": "法学知識と高度通訳技術を兼ね備えた公的資格を創設",
+      "descriptionStandard": "資格制度",
+      "descriptionSimple": "資格制度",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Award"
     },
     {
       "label": "報酬水準",
+      "labelStandard": "報酬水準",
+      "labelSimple": "報酬水準",
       "value": "時給1.5万円以上",
+      "unit": "",
+      "oldValue": "現行",
       "description": "専門職にふさわしい適正な報酬基準を法定化",
+      "descriptionStandard": "報酬水準",
+      "descriptionSimple": "報酬水準",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

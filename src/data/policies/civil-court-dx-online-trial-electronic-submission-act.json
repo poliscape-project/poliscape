@@ -2,7 +2,7 @@
   "id": "civil-court-dx-online-trial-electronic-submission-act",
   "title": "民事訴訟法改正（裁判DX・ウェブ法廷と訴状電子提出の全面施行）",
   "catchphrase": "裁判所に行かずに紛争解決へ、オンライン裁判期日・訴状の電子提出（e提出）と判決の電子化",
-  "category": "governance",
+  "category": "society",
   "categoryLabel": "司法・統治",
   "lastUpdated": "2026-01-14",
   "effectiveDate": "2026年5月施行予定",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "裁判DX",
-      "variant": "positive"
+      "text": "裁判DX",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "民事訴訟",
-      "variant": "neutral"
+      "text": "民事訴訟",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "司法アクセス",
-      "variant": "positive"
+      "text": "司法アクセス",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "ウェブ法廷で出廷不要",
+      "labelStandard": "ウェブ法廷で出廷不要",
+      "labelSimple": "ウェブ法廷で出廷不要",
       "value": "ウェブ法廷で出廷不要",
+      "unit": "",
+      "oldValue": "現行",
       "description": "オフィスや自宅のPCからオンラインで口頭弁論や証拠調べに参加可能。",
+      "descriptionStandard": "ウェブ法廷で出廷不要",
+      "descriptionSimple": "ウェブ法廷で出廷不要",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "訴状の24時間電子提出",
+      "labelStandard": "訴状の24時間電子提出",
+      "labelSimple": "訴状の24時間電子提出",
       "value": "訴状の24時間電子提出",
+      "unit": "",
+      "oldValue": "現行",
       "description": "紙の郵送や持参を廃止し、深夜でもクラウドから即座に訴訟提起。",
+      "descriptionStandard": "訴状の24時間電子提出",
+      "descriptionSimple": "訴状の24時間電子提出",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "FileText"
     },
     {
       "label": "審理期間の大幅短縮",
+      "labelStandard": "審理期間の大幅短縮",
+      "labelSimple": "審理期間の大幅短縮",
       "value": "審理期間の大幅短縮",
+      "unit": "",
+      "oldValue": "現行",
       "description": "書面送達や日程調整のタイムラグを削減し迅速な判決・和解を実現。",
+      "descriptionStandard": "審理期間の大幅短縮",
+      "descriptionSimple": "審理期間の大幅短縮",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

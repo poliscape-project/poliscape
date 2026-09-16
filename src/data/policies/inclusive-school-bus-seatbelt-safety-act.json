@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "子どもの安全",
-      "variant": "positive"
+      "text": "子どもの安全",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "送迎バス",
-      "variant": "positive"
+      "text": "送迎バス",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "交通安全",
-      "variant": "neutral"
+      "text": "交通安全",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "配備義務",
+      "labelStandard": "配備義務",
+      "labelSimple": "配備義務",
       "value": "全送迎車100%",
+      "unit": "",
+      "oldValue": "現行",
       "description": "幼児・児童を送迎する全バスへの安全装置義務化",
+      "descriptionStandard": "配備義務",
+      "descriptionSimple": "配備義務",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "補助率",
+      "labelStandard": "補助率",
+      "labelSimple": "補助率",
       "value": "定額17.5万円〜",
+      "unit": "",
+      "oldValue": "現行",
       "description": "装置導入費用を行政が手厚く公費助成",
+      "descriptionStandard": "補助率",
+      "descriptionSimple": "補助率",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

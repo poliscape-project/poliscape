@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "iDeCo70歳延長",
-      "variant": "positive"
+      "text": "iDeCo70歳延長",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "拠出枠拡大",
-      "variant": "positive"
+      "text": "拠出枠拡大",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "2025年法改正議論",
-      "variant": "neutral"
+      "text": "2025年法改正議論",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "加入上限年齢",
+      "labelStandard": "加入上限年齢",
+      "labelSimple": "加入上限年齢",
       "value": "70歳未満へ延長",
+      "unit": "",
+      "oldValue": "現行",
       "description": "現行の65歳未満から5年拡大しシニア就労に対応",
+      "descriptionStandard": "加入上限年齢",
+      "descriptionSimple": "加入上限年齢",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "税制メリット",
+      "labelStandard": "税制メリット",
+      "labelSimple": "税制メリット",
       "value": "掛金全額が所得控除",
+      "unit": "",
+      "oldValue": "現行",
       "description": "働きながら老後資金を積み立て毎年の税金を軽減",
+      "descriptionStandard": "税制メリット",
+      "descriptionSimple": "税制メリット",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "改革の焦点",
+      "labelStandard": "改革の焦点",
+      "labelSimple": "改革の焦点",
       "value": "会社員の拠出枠引き上げ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "企業年金の有無による不公平な上限格差を解消",
+      "descriptionStandard": "改革の焦点",
+      "descriptionSimple": "改革の焦点",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     }
   ],

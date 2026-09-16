@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "骨髄ドナー休暇",
-      "variant": "positive"
+      "text": "骨髄ドナー休暇",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "辞退ゼロへ",
-      "variant": "positive"
+      "text": "辞退ゼロへ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "命のボランティア",
-      "variant": "neutral"
+      "text": "命のボランティア",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "有給休暇を減らさず提供",
+      "labelStandard": "有給休暇を減らさず提供",
+      "labelSimple": "有給休暇を減らさず提供",
       "value": "有給休暇を減らさず提供",
+      "unit": "",
+      "oldValue": "現行",
       "description": "自分の年次有給休暇を使わずに特別な公休として入院・通院が可能。",
+      "descriptionStandard": "有給休暇を減らさず提供",
+      "descriptionSimple": "有給休暇を減らさず提供",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "企業への助成金を支給",
+      "labelStandard": "企業への助成金を支給",
+      "labelSimple": "企業への助成金を支給",
       "value": "企業への助成金を支給",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ドナーを送り出す中小企業に対して国から日額助成金を給付。",
+      "descriptionStandard": "企業への助成金を支給",
+      "descriptionSimple": "企業への助成金を支給",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "適合者の辞退を激減",
+      "labelStandard": "適合者の辞退を激減",
+      "labelSimple": "適合者の辞退を激減",
       "value": "適合者の辞退を激減",
+      "unit": "",
+      "oldValue": "現行",
       "description": "「仕事が休めないから」と見殺しにせざるを得ない悲劇をなくす。",
+      "descriptionStandard": "適合者の辞退を激減",
+      "descriptionSimple": "適合者の辞退を激減",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "id": "statutory-minimum-wage-weighted-average-1500-yen-roadmap",
   "title": "最低賃金全国加重平均1,500円への段階的引き上げと中小企業設備助成",
-  "category": "employment",
+  "category": "society",
   "subcategory": "賃金・最低賃金",
   "status": "施行中",
   "date": "2024-10",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "全国目標水準",
+      "labelStandard": "全国目標水準",
+      "labelSimple": "全国目標水準",
       "value": "1500",
       "unit": "円/時",
       "oldValue": "約1,000円",
       "description": "2030年代半ばまでに全国加重平均1,500円達成を国家目標化",
+      "descriptionStandard": "全国目標水準",
+      "descriptionSimple": "全国目標水準",
       "badge": "国家目標",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "業務改善助成金上限",
+      "labelStandard": "業務改善助成金上限",
+      "labelSimple": "業務改善助成金上限",
       "value": "600",
       "unit": "万円",
       "oldValue": "300万円",
       "description": "生産性向上のための設備投資を行う中小企業へ最大600万円助成",
+      "descriptionStandard": "業務改善助成金上限",
+      "descriptionSimple": "業務改善助成金上限",
       "badge": "助成倍増",
       "badgeColor": "blue",
       "icon": "sparkles"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "employment"
 }

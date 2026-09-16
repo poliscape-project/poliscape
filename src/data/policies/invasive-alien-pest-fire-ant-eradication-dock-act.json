@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "特定外来生物",
-      "variant": "positive"
+      "text": "特定外来生物",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ヒアリ根絶",
-      "variant": "positive"
+      "text": "ヒアリ根絶",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "生態系保全",
-      "variant": "neutral"
+      "text": "生態系保全",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "検査体制",
+      "labelStandard": "検査体制",
+      "labelSimple": "検査体制",
       "value": "探知犬・AI全数検査",
+      "unit": "",
+      "oldValue": "現行",
       "description": "高リスク輸入コンテナへの探知犬と赤外線AIスキャンを義務化",
+      "descriptionStandard": "検査体制",
+      "descriptionSimple": "検査体制",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "基金規模",
+      "labelStandard": "基金規模",
+      "labelSimple": "基金規模",
       "value": "国家基金100億円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "発見時の即日緊急燻蒸・伐採費用を全額国費で支援",
+      "descriptionStandard": "基金規模",
+      "descriptionSimple": "基金規模",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

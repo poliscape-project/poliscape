@@ -1,8 +1,8 @@
 {
   "id": "teacher-kyotoku-law-salary-reform-overtime-pay-boost",
   "title": "給特法（教員給与特別措置法）抜本改正（教職調整額10%引上げと時間外手当）",
-  "category": "education-child",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "公立学校教員の過酷な長時間労働と教員不足を解消するため、半世紀以上固定されていた「教職調整額」（月給の4%）を10%以上に引き上げる給特法改正を実施する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "教員の働き方改革",
-      "variant": "blue"
+      "text": "教員の働き方改革",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "給特法改正",
-      "variant": "purple"
+      "text": "給特法改正",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "学校教育",
-      "variant": "green"
+      "text": "学校教育",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "教職調整額の上乗せ率",
+      "label": "教職調整額の上乗せ率",
+      "labelStandard": "教職調整額の上乗せ率",
+      "labelSimple": "教職調整額の上乗せ率",
       "value": "10",
       "unit": "%以上",
+      "oldValue": "現行",
       "description": "従来の月額給与の4%から10%以上へと2.5倍に引き上げ",
-      "trend": "up",
-      "trendLabel": "手当大幅増額"
+      "descriptionStandard": "教職調整額の上乗せ率",
+      "descriptionSimple": "教職調整額の上乗せ率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "月45時間超教員削減目標",
+      "label": "月45時間超教員削減目標",
+      "labelStandard": "月45時間超教員削減目標",
+      "labelSimple": "月45時間超教員削減目標",
       "value": "50",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "業務削減と支援スタッフ配置による時間外労働の半減目標",
-      "trend": "down",
-      "trendLabel": "残業削減"
+      "descriptionStandard": "月45時間超教員削減目標",
+      "descriptionSimple": "月45時間超教員削減目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

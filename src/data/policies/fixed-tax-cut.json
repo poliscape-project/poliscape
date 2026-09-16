@@ -157,62 +157,76 @@
   "badges": [
     {
       "label": "1人あたり4万円減税",
-      "variant": "neutral"
+      "text": "1人あたり4万円減税",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "扶養家族・子ども全員",
-      "variant": "neutral"
+      "text": "扶養家族・子ども全員",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "不足分は調整給付金",
-      "variant": "neutral"
+      "text": "不足分は調整給付金",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "1人あたりの減税合計額",
+      "label": "",
       "labelStandard": "定額減税（所得税＋住民税）",
+      "labelSimple": "1人あたりの減税合計額",
       "value": "40,000",
       "unit": "円/人",
       "oldValue": "所得税3万円＋住民税1万円",
-      "descriptionSimple": "家族の人数分だけ手取りが増える！",
+      "description": "",
       "descriptionStandard": "納税者本人＋扶養家族1人につき4万円",
+      "descriptionSimple": "家族の人数分だけ手取りが増える！",
       "badge": "1人4万円",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Calculator"
     },
     {
-      "labelSimple": "子ども・配偶者のカウント",
+      "label": "",
       "labelStandard": "扶養親族の対象",
+      "labelSimple": "子ども・配偶者のカウント",
       "value": "16歳未満",
       "unit": "も含む",
       "oldValue": "税法上の年少扶養も人数に合算",
-      "descriptionSimple": "赤ちゃんや子どもも全員対象！",
+      "description": "",
       "descriptionStandard": "同一生計配偶者および扶養親族全員",
+      "descriptionSimple": "赤ちゃんや子どもも全員対象！",
       "badge": "子どもも対象",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "税金が足りない人の救済",
+      "label": "",
       "labelStandard": "調整給付金（補足給付）",
+      "labelSimple": "税金が足りない人の救済",
       "value": "1万円単位",
       "unit": "で切り上げ",
       "oldValue": "税額不足分は現金で振込",
-      "descriptionSimple": "引ききれない分は自治体から届く！",
+      "description": "",
       "descriptionStandard": "減税しきれない差額を切り上げ給付",
+      "descriptionSimple": "引ききれない分は自治体から届く！",
       "badge": "現金給付",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "税金を払っていない世帯",
+      "label": "",
       "labelStandard": "低所得・非課税世帯措置",
+      "labelSimple": "税金を払っていない世帯",
       "value": "7〜10",
       "unit": "万円/世帯",
       "oldValue": "減税の代わりに先行給付",
-      "descriptionSimple": "住民税非課税世帯には別途給付金！",
+      "description": "",
       "descriptionStandard": "子ども加算（1人5万円）等の物価高給付",
+      "descriptionSimple": "住民税非課税世帯には別途給付金！",
       "badge": "重点支援給付",
       "badgeColor": "bg-slate-100 text-slate-800",
       "icon": "ShieldCheck"

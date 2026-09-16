@@ -175,62 +175,76 @@
   "badges": [
     {
       "label": "南鳥島水深6,000mレアアース",
-      "variant": "neutral"
+      "text": "南鳥島水深6,000mレアアース",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "中国独占打破へ試掘実験",
-      "variant": "neutral"
+      "text": "中国独占打破へ試掘実験",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "EV廃電池都市鉱山リサイクル",
-      "variant": "neutral"
+      "text": "EV廃電池都市鉱山リサイクル",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "南鳥島の深海のレアアース",
+      "label": "",
       "labelStandard": "南鳥島沖 レアアース泥の深度",
+      "labelSimple": "南鳥島の深海のレアアース",
       "value": "水深 6,000",
       "unit": "m海底",
       "oldValue": "学術調査船による少量の泥採取レベルだった",
-      "descriptionSimple": "世界中が何百年も使える宝の泥が日本の海に眠っている！",
+      "description": "",
       "descriptionStandard": "超高圧・深海から1日数万トン揚泥する世界初の実証",
+      "descriptionSimple": "世界中が何百年も使える宝の泥が日本の海に眠っている！",
       "badge": "水深6,000m採掘",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Anchor"
     },
     {
-      "labelSimple": "中国が握っている割合",
+      "label": "",
       "labelStandard": "中国のレアアース精錬シェア",
+      "labelSimple": "中国が握っている割合",
       "value": "約 70〜90",
       "unit": "%独占",
       "oldValue": "日本は重要鉱物の大部分を中国からの輸入に依存",
-      "descriptionSimple": "中国に材料を止められたら電気自動車が作れない！",
+      "description": "",
       "descriptionStandard": "モーター用ジスプロシウム等の独占を打破する自給戦略",
+      "descriptionSimple": "中国に材料を止められたら電気自動車が作れない！",
       "badge": "中国寡占打破",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "ゴミから取り出す金属",
+      "label": "",
       "labelStandard": "日本の都市鉱山埋蔵量",
+      "labelSimple": "ゴミから取り出す金属",
       "value": "世界有数",
       "unit": "の規模",
       "oldValue": "使用済み家電やスマホが海外に流出・破棄されていた",
-      "descriptionSimple": "捨てられたスマホや車から大切な金属をリサイクル！",
+      "description": "",
       "descriptionStandard": "金・リチウム・コバルトを回収する完全循環経済",
+      "descriptionSimple": "捨てられたスマホや車から大切な金属をリサイクル！",
       "badge": "都市鉱山再生",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Layers"
     },
     {
-      "labelSimple": "古い車の電池を全部集める",
+      "label": "",
       "labelStandard": "EV廃バッテリー回収義務化",
+      "labelSimple": "古い車の電池を全部集める",
       "value": "全量リサイクル",
       "unit": "法制化へ",
       "oldValue": "廃車解体業者まかせで発火事故や不法転売が横行",
-      "descriptionSimple": "使わなくなった電気自動車のバッテリーを全部再利用！",
+      "description": "",
       "descriptionStandard": "デジタルパスポートで追跡しレアメタルを100%再資源化",
+      "descriptionSimple": "使わなくなった電気自動車のバッテリーを全部再利用！",
       "badge": "回収義務化",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "ShieldCheck"

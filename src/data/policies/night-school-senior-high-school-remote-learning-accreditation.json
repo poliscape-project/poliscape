@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "通信制高校",
-      "variant": "positive"
+      "text": "通信制高校",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "学び直し",
-      "variant": "positive"
+      "text": "学び直し",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "教育の質保証",
-      "variant": "neutral"
+      "text": "教育の質保証",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "オンライン履修上限撤廃",
+      "labelStandard": "オンライン履修上限撤廃",
+      "labelSimple": "オンライン履修上限撤廃",
       "value": "オンライン履修上限撤廃",
+      "unit": "",
+      "oldValue": "現行",
       "description": "自宅や職場から柔軟に学べるオンライン学習単位を完全認定。",
+      "descriptionStandard": "オンライン履修上限撤廃",
+      "descriptionSimple": "オンライン履修上限撤廃",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "第三者機関の実地監査",
+      "labelStandard": "第三者機関の実地監査",
+      "labelSimple": "第三者機関の実地監査",
       "value": "第三者機関の実地監査",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ずさんな単位認定やペーパー校を排除する厳格な審査体制。",
+      "descriptionStandard": "第三者機関の実地監査",
+      "descriptionSimple": "第三者機関の実地監査",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "夜間定時制の存続支援",
+      "labelStandard": "夜間定時制の存続支援",
+      "labelSimple": "夜間定時制の存続支援",
       "value": "夜間定時制の存続支援",
+      "unit": "",
+      "oldValue": "現行",
       "description": "地域のセーフティネットである定時制高校の夜間給食・設備を補助。",
+      "descriptionStandard": "夜間定時制の存続支援",
+      "descriptionSimple": "夜間定時制の存続支援",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

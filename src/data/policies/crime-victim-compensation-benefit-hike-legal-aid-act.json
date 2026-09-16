@@ -1,8 +1,8 @@
 {
   "id": "crime-victim-compensation-benefit-hike-legal-aid-act",
   "title": "犯罪被害者等給付金の給付額抜本引き上げと弁護士費用・カウンセリング公費支援",
-  "category": "legal-affairs",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "殺人や傷害致死、性犯罪等の重大犯罪により生活の平穏を奪われた被害者および遺族に対し、経済的困窮と二次被害を防ぐため、犯罪被害者等給付金支給法を改正し、遺族給付金・重障害給付金の基礎額を大幅に引き上げ（労災保険給付や自動車損害賠償保障法水準へ是正）する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "犯罪被害者支援",
-      "variant": "purple"
+      "text": "犯罪被害者支援",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "司法救済",
-      "variant": "blue"
+      "text": "司法救済",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "人権擁護",
-      "variant": "green"
+      "text": "人権擁護",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "遺族給付金最低保障",
+      "label": "遺族給付金最低保障",
+      "labelStandard": "遺族給付金最低保障",
+      "labelSimple": "遺族給付金最低保障",
       "value": "3,000",
       "unit": "万円超",
+      "oldValue": "現行",
       "description": "若年者や無職被害者であっても生活再建を支えるために新設された給付金最低保障水準",
-      "trend": "up",
-      "trendLabel": "最低額創設"
+      "descriptionStandard": "遺族給付金最低保障",
+      "descriptionSimple": "遺族給付金最低保障",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "弁護士費用自己負担",
+      "label": "弁護士費用自己負担",
+      "labelStandard": "弁護士費用自己負担",
+      "labelSimple": "弁護士費用自己負担",
       "value": "0",
       "unit": "円（全額公費）",
+      "oldValue": "現行",
       "description": "刑事手続き参加から民事賠償請求まで被害者が負担する弁護士費用の公費支援率",
-      "trend": "down",
-      "trendLabel": "完全無償化"
+      "descriptionStandard": "弁護士費用自己負担",
+      "descriptionSimple": "弁護士費用自己負担",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

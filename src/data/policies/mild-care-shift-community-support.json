@@ -145,62 +145,76 @@
   "badges": [
     {
       "label": "要介護1・2の総合事業移行案",
-      "variant": "neutral"
+      "text": "要介護1・2の総合事業移行案",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "軽度者の保険給付外し議論",
-      "variant": "neutral"
+      "text": "軽度者の保険給付外し議論",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "早期重度化・家族負担の懸念",
-      "variant": "neutral"
+      "text": "早期重度化・家族負担の懸念",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "外すか議論される人",
+      "label": "",
       "labelStandard": "移行対象（提案）",
+      "labelSimple": "外すか議論される人",
       "value": "要介護1・2",
       "unit": "の生活援助",
       "oldValue": "これまでは全国一律の介護保険給付",
-      "descriptionSimple": "軽めのお年寄りの掃除やご飯作りが保険から外される？",
+      "description": "",
       "descriptionStandard": "財務省が市町村「総合事業」への移管を強力に要求",
+      "descriptionSimple": "軽めのお年寄りの掃除やご飯作りが保険から外される？",
       "badge": "給付外し議論",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Scale"
     },
     {
-      "labelSimple": "介護保険の費用",
+      "label": "",
       "labelStandard": "総給付費の急増",
+      "labelSimple": "介護保険の費用",
       "value": "約14兆",
       "unit": "円（当初3.6兆円）",
       "oldValue": "2000年創設時は 3.6兆円",
-      "descriptionSimple": "介護にかかるお金が最初の4倍近くまで膨らんだ！",
+      "description": "",
       "descriptionStandard": "現役世代の保険料高騰を抑えるための見直し圧力",
+      "descriptionSimple": "介護にかかるお金が最初の4倍近くまで膨らんだ！",
       "badge": "4倍に膨張",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "お世話の代わり",
+      "label": "",
       "labelStandard": "主な支援の担い手",
+      "labelSimple": "お世話の代わり",
       "value": "ボランティア",
       "unit": "や住民互助",
       "oldValue": "介護福祉士など専門職ヘルパーが訪問",
-      "descriptionSimple": "プロではなく、町のご近所さんやNPOがお手伝い",
+      "description": "",
       "descriptionStandard": "地域住民主体の通いの場や有償ボランティアを活用",
+      "descriptionSimple": "プロではなく、町のご近所さんやNPOがお手伝い",
       "badge": "互助への移行",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "心配されていること",
+      "label": "",
       "labelStandard": "早期重度化リスク",
+      "labelSimple": "心配されていること",
       "value": "寝たきり",
       "unit": "化の懸念",
       "oldValue": "プロの気づきで認知症や衰弱を予防",
-      "descriptionSimple": "プロが来なくなることで、急に病気やボケが悪化する！",
+      "description": "",
       "descriptionStandard": "早期発見が遅れ、かえって医療費・施設費が急増する恐れ",
+      "descriptionSimple": "プロが来なくなることで、急に病気やボケが悪化する！",
       "badge": "重度化懸念",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "ShieldAlert"

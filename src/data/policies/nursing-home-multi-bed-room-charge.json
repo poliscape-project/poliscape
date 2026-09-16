@@ -145,62 +145,76 @@
   "badges": [
     {
       "label": "特養相部屋に月約8,000円室料",
-      "variant": "neutral"
+      "text": "特養相部屋に月約8,000円室料",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "ユニット個室との公平性",
-      "variant": "neutral"
+      "text": "ユニット個室との公平性",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "低年金高齢者の退所リスク",
-      "variant": "neutral"
+      "text": "低年金高齢者の退所リスク",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "相部屋の部屋代",
+      "label": "",
       "labelStandard": "特養多床室の室料",
+      "labelSimple": "相部屋の部屋代",
       "value": "月約8,000",
       "unit": "円負担（日額約270円）",
       "oldValue": "室料ゼロ（光熱水費等の実費のみ）",
-      "descriptionSimple": "タダだった相部屋でも毎月家賃が取られるように！",
+      "description": "",
       "descriptionStandard": "一定所得以上の入所者に月額約8,000円相当を導入",
+      "descriptionSimple": "タダだった相部屋でも毎月家賃が取られるように！",
       "badge": "室料新設",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Home"
     },
     {
-      "labelSimple": "比べられる部屋",
+      "label": "",
       "labelStandard": "個室との公平性",
+      "labelSimple": "比べられる部屋",
       "value": "月3万〜6万",
       "unit": "円（個室室料）",
       "oldValue": "個室は全額自己負担、相部屋は全額給付で歪み",
-      "descriptionSimple": "高い個室代を払っている人との不公平をなくすため",
+      "description": "",
       "descriptionStandard": "ユニット型個室入所者とのホテルコスト負担を平準化",
+      "descriptionSimple": "高い個室代を払っている人との不公平をなくすため",
       "badge": "公平性の確保",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Scale"
     },
     {
-      "labelSimple": "生活が苦しい人",
+      "label": "",
       "labelStandard": "補足給付の継続",
+      "labelSimple": "生活が苦しい人",
       "value": "免除維持",
       "unit": "（非課税世帯等）",
       "oldValue": "低所得層へのセーフティネットが存在",
-      "descriptionSimple": "年金がとても少ない人は国が助けてくれるから安心",
+      "description": "",
       "descriptionStandard": "住民税非課税世帯（第1〜第3段階）は自己負担ゼロを維持",
+      "descriptionSimple": "年金がとても少ない人は国が助けてくれるから安心",
       "badge": "低所得者減免",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "心配されていること",
+      "label": "",
       "labelStandard": "在宅逆戻りと破綻",
+      "labelSimple": "心配されていること",
       "value": "退所危機",
       "unit": "・老老介護",
       "oldValue": "月数万円の年金でなんとか施設に入所できていた",
-      "descriptionSimple": "年金ギリギリの人がお金を払えず施設を出される心配！",
+      "description": "",
       "descriptionStandard": "80代の家族が自宅へ引き取り共倒れになるリスク",
+      "descriptionSimple": "年金ギリギリの人がお金を払えず施設を出される心配！",
       "badge": "在宅崩壊リスク",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"

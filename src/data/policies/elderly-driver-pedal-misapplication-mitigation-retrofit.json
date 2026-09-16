@@ -1,7 +1,7 @@
 {
   "id": "elderly-driver-pedal-misapplication-mitigation-retrofit",
   "title": "高齢ドライバー向けペダル踏み間違い急発進抑制装置の後付け公費補助",
-  "category": "admin",
+  "category": "society",
   "subcategory": "交通安全・高齢者対策",
   "status": "施行中",
   "date": "2024-04",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "公費補助率",
+      "labelStandard": "公費補助率",
+      "labelSimple": "公費補助率",
       "value": "最大90",
       "unit": "%（国・自治体）",
       "oldValue": "全額自己負担",
       "description": "自己負担を数千円〜1万円前後に抑え低年金高齢者でも導入可能に",
+      "descriptionStandard": "公費補助率",
+      "descriptionSimple": "公費補助率",
       "badge": "最大9割補助",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "急発進事故防止率",
+      "labelStandard": "急発進事故防止率",
+      "labelSimple": "急発進事故防止率",
       "value": "90",
       "unit": "%超（認定装置）",
       "oldValue": "人為ミス多数",
       "description": "誤踏み込み時の燃料カットまたはブレーキ介入で衝突を回避",
+      "descriptionStandard": "急発進事故防止率",
+      "descriptionSimple": "急発進事故防止率",
       "badge": "圧倒的事故低減",
       "badgeColor": "blue",
       "icon": "shield-check"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "admin"
 }

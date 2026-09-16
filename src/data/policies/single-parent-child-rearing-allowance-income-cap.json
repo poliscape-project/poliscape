@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "全部支給枠拡大",
-      "variant": "positive"
+      "text": "全部支給枠拡大",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "多子加算倍増",
-      "variant": "positive"
+      "text": "多子加算倍増",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "2024年11月施行",
-      "variant": "neutral"
+      "text": "2024年11月施行",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "全部支給所得上限",
+      "labelStandard": "全部支給所得上限",
+      "labelSimple": "全部支給所得上限",
       "value": "年収約190万円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "従来の約160万円から大幅引き上げ",
+      "descriptionStandard": "全部支給所得上限",
+      "descriptionSimple": "全部支給所得上限",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "第3子以降加算額",
+      "labelStandard": "第3子以降加算額",
+      "labelSimple": "第3子以降加算額",
       "value": "月額10,750円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "第2子と同額へ引き上げ（従来6,450円）",
+      "descriptionStandard": "第3子以降加算額",
+      "descriptionSimple": "第3子以降加算額",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Baby"
     },
     {
       "label": "施行時期",
+      "labelStandard": "施行時期",
+      "labelSimple": "施行時期",
       "value": "2024年11月",
+      "unit": "",
+      "oldValue": "現行",
       "description": "2025年1月支給分から新基準で振込",
+      "descriptionStandard": "施行時期",
+      "descriptionSimple": "施行時期",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

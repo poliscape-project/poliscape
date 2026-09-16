@@ -161,58 +161,76 @@
   "badges": [
     {
       "label": "特別警戒アラートの新設",
-      "variant": "neutral"
+      "text": "特別警戒アラートの新設",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "避難施設（シェルター）指定",
-      "variant": "neutral"
+      "text": "避難施設（シェルター）指定",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "開放義務と情報公開",
-      "variant": "neutral"
+      "text": "開放義務と情報公開",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "特別警戒アラートの新設",
+      "label": "",
       "labelStandard": "特別警戒アラートの新設",
+      "labelSimple": "特別警戒アラートの新設",
       "value": "特別警戒アラートの新設",
       "unit": "",
       "oldValue": "これまで: WBGT33基準の通常アラートのみで注意喚起中心",
       "description": "重大な健康被害が生じる恐れがあるWBGT35超の特別警戒を新設",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "特別警戒アラートの新設",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "避難施設（シェルター）指定",
+      "label": "",
       "labelStandard": "避難施設（シェルター）指定",
+      "labelSimple": "避難施設（シェルター）指定",
       "value": "避難施設（シェルター）指定",
       "unit": "",
       "oldValue": "これまで: 熱中症発生時の緊急避難場所に関する法的位置づけなし",
       "description": "市町村が図書館・公民館や民間商業施設等を法的に指定",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "避難施設（シェルター）指定",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Building"
     },
     {
-      "labelSimple": "開放義務と情報公開",
+      "label": "",
       "labelStandard": "開放義務と情報公開",
+      "labelSimple": "開放義務と情報公開",
       "value": "開放義務と情報公開",
       "unit": "",
       "oldValue": "これまで: 猛暑時も店舗等の入退館基準は事業者の任意判断",
       "description": "特別警戒発令時は指定施設を一般開放しアプリ等で空き状況を公開",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "開放義務と情報公開",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Share2"
     },
     {
-      "labelSimple": "学校・イベントの中止要請",
+      "label": "",
       "labelStandard": "学校・イベントの中止要請",
+      "labelSimple": "学校・イベントの中止要請",
       "value": "学校・イベントの中止要請",
       "unit": "",
       "oldValue": "これまで: 部活動や野外行事の中止基準が各校・主催者任せ",
       "description": "特別警戒発令時は原則として屋外活動の中止・延期を強く要請",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "学校・イベントの中止要請",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Clock"

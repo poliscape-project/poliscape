@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "カーボンフットプリント",
-      "variant": "positive"
+      "text": "カーボンフットプリント",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "脱炭素",
-      "variant": "positive"
+      "text": "脱炭素",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "サプライチェーン",
-      "variant": "neutral"
+      "text": "サプライチェーン",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "表示方式",
+      "labelStandard": "表示方式",
+      "labelSimple": "表示方式",
       "value": "QR・数値ラベル義務",
+      "unit": "",
+      "oldValue": "現行",
       "description": "原材料から廃棄までの総排出量（kg-CO2e）を表示",
+      "descriptionStandard": "表示方式",
+      "descriptionSimple": "表示方式",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "支援策",
+      "labelStandard": "支援策",
+      "labelSimple": "支援策",
       "value": "算定クラウド無償提供",
+      "unit": "",
+      "oldValue": "現行",
       "description": "中小企業向けに政府が無償で自動計算ツールを配備",
+      "descriptionStandard": "支援策",
+      "descriptionSimple": "支援策",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     }
   ],

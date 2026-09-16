@@ -1,7 +1,7 @@
 {
   "id": "phone-scam-spoofed-international-caller-id-telecom-mandate",
   "title": "特殊詐欺対策における国際電話偽装発信番号（スプーフィング）自動遮断",
-  "category": "admin",
+  "category": "society",
   "subcategory": "治安・通信行政",
   "status": "施行中",
   "date": "2024-05",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "偽装国際通話遮断率",
+      "labelStandard": "偽装国際通話遮断率",
+      "labelSimple": "偽装国際通話遮断率",
       "value": "99",
       "unit": "%超（自動破棄）",
       "oldValue": "素通り（無制限着信）",
       "description": "海外発信の国内番号偽装コールを関門交換機で一括遮断",
+      "descriptionStandard": "偽装国際通話遮断率",
+      "descriptionSimple": "偽装国際通話遮断率",
       "badge": "完全遮断",
       "badgeColor": "red",
       "icon": "shield-check"
     },
     {
       "label": "国際電話休止申込件数",
+      "labelStandard": "国際電話休止申込件数",
+      "labelSimple": "国際電話休止申込件数",
       "value": "200",
       "unit": "万世帯超",
       "oldValue": "数万件",
       "description": "高齢者世帯への無償提供により固定電話の安全化が急拡大",
+      "descriptionStandard": "国際電話休止申込件数",
+      "descriptionSimple": "国際電話休止申込件数",
       "badge": "安全化加速",
       "badgeColor": "blue",
       "icon": "phone"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "admin"
 }

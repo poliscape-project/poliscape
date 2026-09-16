@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "中小企業支援",
-      "variant": "positive"
+      "text": "中小企業支援",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "事業再生",
-      "variant": "positive"
+      "text": "事業再生",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "経営者保証解除",
-      "variant": "neutral"
+      "text": "経営者保証解除",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "経営者保証の原則解除",
+      "labelStandard": "経営者保証の原則解除",
+      "labelSimple": "経営者保証の原則解除",
       "value": "経営者保証の原則解除",
+      "unit": "",
+      "oldValue": "現行",
       "description": "会社の借金で社長個人や家族が自己破産に追い込まれる悲劇を遮断。",
+      "descriptionStandard": "経営者保証の原則解除",
+      "descriptionSimple": "経営者保証の原則解除",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "事業と雇用の維持",
+      "labelStandard": "事業と雇用の維持",
+      "labelSimple": "事業と雇用の維持",
       "value": "事業と雇用の維持",
+      "unit": "",
+      "oldValue": "現行",
       "description": "破産前に債権カット・リスケを行い黒字化可能な本業を救済。",
+      "descriptionStandard": "事業と雇用の維持",
+      "descriptionSimple": "事業と雇用の維持",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "手元生活資金の確保",
+      "labelStandard": "手元生活資金の確保",
+      "labelSimple": "手元生活資金の確保",
       "value": "手元生活資金の確保",
+      "unit": "",
+      "oldValue": "現行",
       "description": "再生支援時に自宅や一定の手元資産を温存し再起を強力バックアップ。",
+      "descriptionStandard": "手元生活資金の確保",
+      "descriptionSimple": "手元生活資金の確保",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

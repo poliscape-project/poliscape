@@ -145,62 +145,76 @@
   "badges": [
     {
       "label": "訪問介護基本報酬2〜3%減",
-      "variant": "neutral"
+      "text": "訪問介護基本報酬2〜3%減",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "ヘルパー求人倍率15倍超",
-      "variant": "neutral"
+      "text": "ヘルパー求人倍率15倍超",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "事業所倒産・休廃業が過去最多",
-      "variant": "neutral"
+      "text": "事業所倒産・休廃業が過去最多",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "訪問介護の基本料金",
+      "label": "",
       "labelStandard": "基本報酬の改定",
+      "labelSimple": "訪問介護の基本料金",
       "value": "▲2〜3",
       "unit": "%削減",
       "oldValue": "これまで 現行の基本単価を維持",
-      "descriptionSimple": "国が決める訪問介護の基本料金が引き下げに…",
+      "description": "",
       "descriptionStandard": "サ高住併設の大手利益率を理由に基本報酬減額",
+      "descriptionSimple": "国が決める訪問介護の基本料金が引き下げに…",
       "badge": "報酬削減",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "TrendingDown"
     },
     {
-      "labelSimple": "ヘルパーの足りなさ",
+      "label": "",
       "labelStandard": "有効求人倍率",
+      "labelSimple": "ヘルパーの足りなさ",
       "value": "15倍",
       "unit": "超（全国平均）",
       "oldValue": "全職種平均は 約1.2〜1.3倍",
-      "descriptionSimple": "15社の求人に1人しか応募者が来ない異常事態！",
+      "description": "",
       "descriptionStandard": "他産業への流出と高齢化で史上最悪の人手不足",
+      "descriptionSimple": "15社の求人に1人しか応募者が来ない異常事態！",
       "badge": "人材枯渇",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Users"
     },
     {
-      "labelSimple": "事業所の倒産",
+      "label": "",
       "labelStandard": "年間倒産・休廃業",
+      "labelSimple": "事業所の倒産",
       "value": "過去最多",
       "unit": "ペース",
       "oldValue": "年間数十件レベルで推移していた",
-      "descriptionSimple": "地域の小さなお店が耐えきれず次々つぶれている！",
+      "description": "",
       "descriptionStandard": "一般住宅を回る地域の中小訪問介護事業所が直撃",
+      "descriptionSimple": "地域の小さなお店が耐えきれず次々つぶれている！",
       "badge": "倒産急増",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "ヘルパーの平均年齢",
+      "label": "",
       "labelStandard": "従事者の超高齢化",
+      "labelSimple": "ヘルパーの平均年齢",
       "value": "54歳",
       "unit": "超（4人に1人65歳〜）",
       "oldValue": "若年層の参入が完全に途絶",
-      "descriptionSimple": "おばあちゃんヘルパーがお年寄りを助ける老老介護！",
+      "description": "",
       "descriptionStandard": "10年後の引退ラッシュで在宅崩壊の瀬戸際",
+      "descriptionSimple": "おばあちゃんヘルパーがお年寄りを助ける老老介護！",
       "badge": "平均54歳超",
       "badgeColor": "bg-slate-100 text-slate-800",
       "icon": "Clock"

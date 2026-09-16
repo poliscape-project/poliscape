@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "海洋環境",
-      "variant": "positive"
+      "text": "海洋環境",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "プラスチック規制",
-      "variant": "positive"
+      "text": "プラスチック規制",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "水産保護",
-      "variant": "neutral"
+      "text": "水産保護",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "海のゴミ元凶を遮断",
+      "labelStandard": "海のゴミ元凶を遮断",
+      "labelSimple": "海のゴミ元凶を遮断",
       "value": "海のゴミ元凶を遮断",
+      "unit": "",
+      "oldValue": "現行",
       "description": "海鳥や魚が餌と間違えて誤飲するプラスチック原料の流出を根絶。",
+      "descriptionStandard": "海のゴミ元凶を遮断",
+      "descriptionSimple": "海のゴミ元凶を遮断",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "国際環境条約への先駆",
+      "labelStandard": "国際環境条約への先駆",
+      "labelSimple": "国際環境条約への先駆",
       "value": "国際環境条約への先駆",
+      "unit": "",
+      "oldValue": "現行",
       "description": "国連条約締結に先行して国内産業の設備投資を支援。",
+      "descriptionStandard": "国際環境条約への先駆",
+      "descriptionSimple": "国際環境条約への先駆",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "排水フィルター義務化",
+      "labelStandard": "排水フィルター義務化",
+      "labelSimple": "排水フィルター義務化",
       "value": "排水フィルター義務化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "工場や積み下ろし場の下水道接続部に多重防護ネットの設置を義務化。",
+      "descriptionStandard": "排水フィルター義務化",
+      "descriptionSimple": "排水フィルター義務化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

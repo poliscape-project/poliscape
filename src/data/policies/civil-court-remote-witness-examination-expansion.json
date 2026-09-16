@@ -2,7 +2,7 @@
   "id": "civil-court-remote-witness-examination-expansion",
   "title": "民事裁判における遠隔地証人・当事者ウェブ尋問全面解禁法",
   "catchphrase": "裁判所へ行かずに自宅や職場から証言できる、民事訴訟ウェブ証人尋問の全面解禁と司法DX",
-  "category": "admin",
+  "category": "society",
   "categoryLabel": "政治・司法 DX",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "司法DX",
-      "variant": "positive"
+      "text": "司法DX",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "民事裁判",
-      "variant": "positive"
+      "text": "民事裁判",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ウェブ尋問",
-      "variant": "neutral"
+      "text": "ウェブ尋問",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "出頭不要",
+      "labelStandard": "出頭不要",
+      "labelSimple": "出頭不要",
       "value": "自宅・事務所から証言",
+      "unit": "",
+      "oldValue": "現行",
       "description": "遠隔地や海外の証人が裁判所へ出頭せずウェブ尋問可能に",
+      "descriptionStandard": "出頭不要",
+      "descriptionSimple": "出頭不要",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "不正防止",
+      "labelStandard": "不正防止",
+      "labelSimple": "不正防止",
       "value": "360度カメラ監視",
+      "unit": "",
+      "oldValue": "現行",
       "description": "死角からのカンペや不当指示を防止する技術基準を法制化",
+      "descriptionStandard": "不正防止",
+      "descriptionSimple": "不正防止",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

@@ -2,7 +2,7 @@
   "id": "regenerative-medicine-safety-act-exosome-cell-therapy",
   "title": "再生医療等安全性確保法改正（エクソソーム・未承認細胞療法の規制強化と安全基準）",
   "catchphrase": "美容クリニックの危険な「若返り点滴」にメス。エクソソーム・幹細胞培養上清液の品質管理基準と罰則新設",
-  "category": "social",
+  "category": "society",
   "categoryLabel": "社会保障・医療・再生医療規制",
   "lastUpdated": "2024-04-15",
   "effectiveDate": "2024年成立・順次施行",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "再生医療法改正",
-      "variant": "positive"
+      "text": "再生医療法改正",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "エクソソーム規制",
-      "variant": "positive"
+      "text": "エクソソーム規制",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "美容誇大広告防止",
-      "variant": "neutral"
+      "text": "美容誇大広告防止",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "規制対象",
+      "labelStandard": "規制対象",
+      "labelSimple": "規制対象",
       "value": "エクソソーム・培養上清液",
+      "unit": "",
+      "oldValue": "現行",
       "description": "抜け穴となっていた無細胞製剤を再生医療法へ正式編入",
+      "descriptionStandard": "規制対象",
+      "descriptionSimple": "規制対象",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "安全基準",
+      "labelStandard": "安全基準",
+      "labelSimple": "安全基準",
       "value": "無菌・ウイルス検査義務化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "HIV・肝炎ウイルス検査と厳格なロット管理を必須化",
+      "descriptionStandard": "安全基準",
+      "descriptionSimple": "安全基準",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     },
     {
       "label": "罰則新設",
+      "labelStandard": "罰則新設",
+      "labelSimple": "罰則新設",
       "value": "無届投与・誇大広告の処罰",
+      "unit": "",
+      "oldValue": "現行",
       "description": "重大被害時の即時報告義務と悪質クリニックの業務停止",
+      "descriptionStandard": "罰則新設",
+      "descriptionSimple": "罰則新設",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     }
   ],

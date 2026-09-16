@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "学生寮整備",
-      "variant": "positive"
+      "text": "学生寮整備",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "家賃半額補助",
-      "variant": "positive"
+      "text": "家賃半額補助",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "教育格差是正",
-      "variant": "neutral"
+      "text": "教育格差是正",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "公的学生寮家賃",
+      "labelStandard": "公的学生寮家賃",
+      "labelSimple": "公的学生寮家賃",
       "value": "月額2万〜3万円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "光熱費込みの低廉な家賃で安心して学べる拠点を整備",
+      "descriptionStandard": "公的学生寮家賃",
+      "descriptionSimple": "公的学生寮家賃",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "家賃補助額",
+      "labelStandard": "家賃補助額",
+      "labelSimple": "家賃補助額",
       "value": "月最大3万円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "民間アパートに下宿する非課税・低所得学生に直接家賃補填",
+      "descriptionStandard": "家賃補助額",
+      "descriptionSimple": "家賃補助額",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

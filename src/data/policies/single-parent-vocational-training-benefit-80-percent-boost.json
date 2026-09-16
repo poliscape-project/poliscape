@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "受講費用助成率",
+      "labelStandard": "受講費用助成率",
+      "labelSimple": "受講費用助成率",
       "value": "最大80",
       "unit": "%（公費給付）",
       "oldValue": "最大60%補助",
       "description": "高額な資格講座・専門学校の学費の最大8割を公費支援",
+      "descriptionStandard": "受講費用助成率",
+      "descriptionSimple": "受講費用助成率",
       "badge": "最大8割給付",
       "badgeColor": "green",
       "icon": "arrow-trending-up"
     },
     {
       "label": "修職中生活費給付",
+      "labelStandard": "修職中生活費給付",
+      "labelSimple": "修職中生活費給付",
       "value": "月額14",
       "unit": "万円（非課税・最長4年）",
       "oldValue": "自己負担で借金やアルバイト",
       "description": "高等職業訓練促進給付金により修業期間中の生活を完全下支え",
+      "descriptionStandard": "修職中生活費給付",
+      "descriptionSimple": "修職中生活費給付",
       "badge": "生活費毎月支給",
       "badgeColor": "blue",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

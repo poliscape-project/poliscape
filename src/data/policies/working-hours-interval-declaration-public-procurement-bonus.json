@@ -1,8 +1,8 @@
 {
   "id": "working-hours-interval-declaration-public-procurement-bonus",
   "title": "勤務間インターバル宣言企業に対する公共調達総合評価加点制度",
-  "category": "labor-employment",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "労働者の十分な睡眠時間と健康を確保するため、退勤から翌日の出社までに一定時間（11時間以上）の休息を義務付ける「勤務間インターバル制度」を導入・宣言した企業に対し、国の公共工事や物品調達の総合評価落札方式で加点優遇する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "働き方改革",
-      "variant": "blue"
+      "text": "働き方改革",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "過労死防止",
-      "variant": "purple"
+      "text": "過労死防止",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "公共調達",
-      "variant": "green"
+      "text": "公共調達",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "インターバル基準時間",
+      "label": "インターバル基準時間",
+      "labelStandard": "インターバル基準時間",
+      "labelSimple": "インターバル基準時間",
       "value": "11",
       "unit": "時間以上",
+      "oldValue": "現行",
       "description": "前日の終業時刻から翌日の始業時刻までの確保すべき休息時間",
-      "trend": "neutral",
-      "trendLabel": "国際標準"
+      "descriptionStandard": "インターバル基準時間",
+      "descriptionSimple": "インターバル基準時間",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "導入企業目標割合",
+      "label": "導入企業目標割合",
+      "labelStandard": "導入企業目標割合",
+      "labelSimple": "導入企業目標割合",
       "value": "30",
       "unit": "%目標",
+      "oldValue": "現行",
       "description": "公共調達加点インセンティブにより現在の約6%から大幅引き上げ",
-      "trend": "up",
-      "trendLabel": "普及率向上"
+      "descriptionStandard": "導入企業目標割合",
+      "descriptionSimple": "導入企業目標割合",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

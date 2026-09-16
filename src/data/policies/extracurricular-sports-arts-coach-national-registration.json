@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "働き方改革",
-      "variant": "positive"
+      "text": "働き方改革",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "部活動改革",
-      "variant": "positive"
+      "text": "部活動改革",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "スポーツ振興",
-      "variant": "neutral"
+      "text": "スポーツ振興",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "教員の過重労働解消",
+      "labelStandard": "教員の過重労働解消",
+      "labelSimple": "教員の過重労働解消",
       "value": "教員の過重労働解消",
+      "unit": "",
+      "oldValue": "現行",
       "description": "休日の部活顧問負担を切り離し教職本来の業務へ回帰。",
+      "descriptionStandard": "教員の過重労働解消",
+      "descriptionSimple": "教員の過重労働解消",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "指導員の国家登録",
+      "labelStandard": "指導員の国家登録",
+      "labelSimple": "指導員の国家登録",
       "value": "指導員の国家登録",
+      "unit": "",
+      "oldValue": "現行",
       "description": "体罰根絶・応急手当講習を必須化し指導の安全性を担保。",
+      "descriptionStandard": "指導員の国家登録",
+      "descriptionSimple": "指導員の国家登録",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "適正報酬の基準設定",
+      "labelStandard": "適正報酬の基準設定",
+      "labelSimple": "適正報酬の基準設定",
       "value": "適正報酬の基準設定",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ボランティア依存を脱却しプロ指導者への対価を制度化。",
+      "descriptionStandard": "適正報酬の基準設定",
+      "descriptionSimple": "適正報酬の基準設定",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

@@ -4,7 +4,7 @@
   "catchphrase": "忙しい現役世代の生活習慣病をストップ。メタボ保健指導をスマホ面談・夜間休日対応で全面解禁",
   "category": "healthcare",
   "categoryLabel": "公衆衛生・予防医療",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "特定保健指導",
-      "variant": "purple"
+      "text": "特定保健指導",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "オンライン面談",
-      "variant": "blue"
+      "text": "オンライン面談",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "生活習慣病予防",
-      "variant": "green"
+      "text": "生活習慣病予防",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "特定保健指導実施率目標",
+      "label": "特定保健指導実施率目標",
+      "labelStandard": "特定保健指導実施率目標",
+      "labelSimple": "特定保健指導実施率目標",
       "value": "45",
       "unit": "%以上達成",
+      "oldValue": "現行",
       "description": "オンライン全面解禁により全国の健康保険組合で達成を目指す特定保健指導の実施率目標",
-      "trend": "up",
-      "trendLabel": "参加率倍増"
+      "descriptionStandard": "特定保健指導実施率目標",
+      "descriptionSimple": "特定保健指導実施率目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "体重・腹囲改善達成率",
+      "label": "体重・腹囲改善達成率",
+      "labelStandard": "体重・腹囲改善達成率",
+      "labelSimple": "体重・腹囲改善達成率",
       "value": "60",
       "unit": "%達成",
+      "oldValue": "現行",
       "description": "ICT・アプリ伴走支援型指導を完了した対象者における「体重2kg・腹囲2cm減」達成割合",
-      "trend": "up",
-      "trendLabel": "確実な減量"
+      "descriptionStandard": "体重・腹囲改善達成率",
+      "descriptionSimple": "体重・腹囲改善達成率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

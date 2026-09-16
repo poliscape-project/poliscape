@@ -1,0 +1,264 @@
+{
+  "id": "open-source-software-public-interest-developer-grant",
+  "title": "公共インフラ支援・国産オープンソースソフトウェア（OSS）開発者助成",
+  "category": "digital",
+  "subcategory": "デジタルインフラ・技術安全保障",
+  "catchphrase": "社会を支える無名コードを守る！公共的オープンソース開発者への経済支援とセキュリティ監査支援",
+  "lastUpdated": "2026-03-28",
+  "status": "enacted",
+  "statusLabel": "助成事業公募中",
+  "summary": {
+    "simple": [
+      "インターネットやアプリの土台として世界中で広く使われているのに無償で開発されている便利なプログラム（オープンソース）の作者に、国が開発資金や安全点検を支援する制度です。",
+      "わかりやすい支援を進めます。"
+    ],
+    "standard": [
+      "社会基盤・公共システムを支えるオープンソースソフトウェア（OSS）の持続可能性とセキュリティを確保するため、重要ライブラリの開発者・メンテナー個人やコミュニティに対して、開発助成金給付、コードの脆弱性監査、知財・法務支援を提供するプログラム。",
+      "社会を支える無名コードを守る！公共的オープンソース開発者への経済支援とセキュリティ監査支援"
+    ]
+  },
+  "background": {
+    "simple": "世界中の大企業や政府システムが依存している重要な無料ソフトを、実は海外のボランティア1人が無給で保守していて過労や放置で危険に晒されている実態があります。",
+    "standard": "Log4jやXZ Utilsのバックドア事件など、広く使われるOSSのサプライチェーン攻撃リスクが世界的な安全保障上の脅威として顕在化。経済的見返りのない個人メンテナーの善意に頼る構造を是正し、基盤技術の持続的維持とセキュリティ強化を官民で支える方針が打ち出された。"
+  },
+  "changes": [
+    {
+      "id": "change-1",
+      "topic": "IPAやNEDOを通じた重要OSSプロジェクトおよ...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "IPAやNEDOを通じた重要OSSプロジェクトおよび国内メンテナーに対する年間直接開発助成金（上限数百万円〜数千万円）の創設",
+      "highlight": "IPAやNEDOを通じた重要OSSプロジェクトおよび国内メン",
+      "icon": "FileCheck"
+    },
+    {
+      "id": "change-2",
+      "topic": "外部セキュリティ専門企業によるソースコード脆弱性無...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "外部セキュリティ専門企業によるソースコード脆弱性無償診断およびバグバウンティ（報奨金）制度の支援",
+      "highlight": "外部セキュリティ専門企業によるソースコード脆弱性無償診断およ",
+      "icon": "TrendingUp"
+    },
+    {
+      "id": "change-3",
+      "topic": "OSSライセンスや知財トラブル、後継メンテナー選定...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "OSSライセンスや知財トラブル、後継メンテナー選定に関する法務・ガバナンス相談窓口の常設",
+      "highlight": "OSSライセンスや知財トラブル、後継メンテナー選定に関する法",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される主な効果・メリット（推進側の視点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "重要なデジタルインフラを支える開発者が本業としてO...",
+        "summary": "重要なデジタルインフラを支える開発者が本業としてOSS保守に専念でき、脆弱性の放置や開発停止を未然に防止",
+        "detail": "重要なデジタルインフラを支える開発者が本業としてOSS保守に専念でき、脆弱性の放置や開発停止を未然に防止",
+        "simpleDetail": "重要なデジタルインフラを支える開発者が本業としてOSS保守に専念でき、脆弱性の放置や開発停止を未然に防止",
+        "tag": "期待・効果"
+      },
+      {
+        "id": "b2",
+        "title": "政府や重要インフラ企業が利用するOSSの安全性が高...",
+        "summary": "政府や重要インフラ企業が利用するOSSの安全性が高まり、サイバー攻撃やバックドア混入リスクを激減できる",
+        "detail": "政府や重要インフラ企業が利用するOSSの安全性が高まり、サイバー攻撃やバックドア混入リスクを激減できる",
+        "simpleDetail": "政府や重要インフラ企業が利用するOSSの安全性が高まり、サイバー攻撃やバックドア混入リスクを激減できる",
+        "tag": "期待・効果"
+      },
+      {
+        "id": "b3",
+        "title": "国内の若手優秀なソフトウェアエンジニアが世界で活躍...",
+        "summary": "国内の若手優秀なソフトウェアエンジニアが世界で活躍するOSSコントリビューターとして育つ環境を醸成",
+        "detail": "国内の若手優秀なソフトウェアエンジニアが世界で活躍するOSSコントリビューターとして育つ環境を醸成",
+        "simpleDetail": "国内の若手優秀なソフトウェアエンジニアが世界で活躍するOSSコントリビューターとして育つ環境を醸成",
+        "tag": "期待・効果"
+      }
+    ],
+    "challengesTitle": "検討されている課題・懸念点（慎重側の視点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "無数に存在するオープンソースプロジェクトの中から、...",
+        "summary": "無数に存在するオープンソースプロジェクトの中から、公的支援に値する真に重要かつ中立な対象を選定する難しさ",
+        "detail": "無数に存在するオープンソースプロジェクトの中から、公的支援に値する真に重要かつ中立な対象を選定する難しさ",
+        "simpleDetail": "無数に存在するオープンソースプロジェクトの中から、公的支援に値する真に重要かつ中立な対象を選定する難しさ",
+        "tag": "課題・懸念"
+      },
+      {
+        "id": "c2",
+        "title": "公的資金の投入に伴う成果報告書作成などの事務手続き...",
+        "summary": "公的資金の投入に伴う成果報告書作成などの事務手続きが、自由なOSS開発コミュニティの負担になる懸念",
+        "detail": "公的資金の投入に伴う成果報告書作成などの事務手続きが、自由なOSS開発コミュニティの負担になる懸念",
+        "simpleDetail": "公的資金の投入に伴う成果報告書作成などの事務手続きが、自由なOSS開発コミュニティの負担になる懸念",
+        "tag": "課題・懸念"
+      },
+      {
+        "id": "c3",
+        "title": "国際的なコミュニティの中で日本政府の支援が特定プロ...",
+        "summary": "国際的なコミュニティの中で日本政府の支援が特定プロジェクトへの政治的介入と見なされない配慮",
+        "detail": "国際的なコミュニティの中で日本政府の支援が特定プロジェクトへの政治的介入と見なされない配慮",
+        "simpleDetail": "国際的なコミュニティの中で日本政府の支援が特定プロジェクトへの政治的介入と見なされない配慮",
+        "tag": "課題・懸念"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023年",
+      "label": "政府調達におけるオープンソースソフトウェア利用指針...",
+      "title": "政府調達におけるオープンソースソフトウェア利用指針とSBOM導入検討",
+      "status": "completed",
+      "description": "政府調達におけるオープンソースソフトウェア利用指針とSBOM導入検討"
+    },
+    {
+      "date": "2024年",
+      "label": "デジタル庁・経済産業省による公共OSS支援検討会と...",
+      "title": "デジタル庁・経済産業省による公共OSS支援検討会とパイロット助成開始",
+      "status": "completed",
+      "description": "デジタル庁・経済産業省による公共OSS支援検討会とパイロット助成開始"
+    },
+    {
+      "date": "2026年",
+      "label": "公共インフラ重要OSS開発者助成ファンドの本格公募...",
+      "title": "公共インフラ重要OSS開発者助成ファンドの本格公募開始",
+      "status": "current",
+      "description": "公共インフラ重要OSS開発者助成ファンドの本格公募開始"
+    }
+  ],
+  "sources": [
+    {
+      "title": "デジタル庁：オープンソースソフトウェア（OSS）の活用とセキュリティ確保",
+      "url": "https://www.digital.go.jp/policies/oss"
+    },
+    {
+      "title": "経済産業省：ソフトウェア・サプライチェーンセキュリティの強化",
+      "url": "https://www.meti.go.jp/policy/netsecurity/software_supply_chain.html"
+    }
+  ],
+  "badges": [
+    {
+      "label": "OSS支援",
+      "text": "OSS支援",
+      "variant": "primary",
+      "color": "blue"
+    },
+    {
+      "label": "サプライチェーン",
+      "text": "サプライチェーン",
+      "variant": "default",
+      "color": "blue"
+    },
+    {
+      "label": "技術安全保障",
+      "text": "技術安全保障",
+      "variant": "outline",
+      "color": "blue"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "年間開発助成額",
+      "labelStandard": "年間開発助成額",
+      "labelSimple": "年間開発助成額",
+      "value": "数百〜数千万円",
+      "unit": "（重要プロジェクト枠）",
+      "oldValue": "現行",
+      "description": "年間開発助成額",
+      "descriptionStandard": "年間開発助成額",
+      "descriptionSimple": "年間開発助成額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
+    },
+    {
+      "label": "コード脆弱性診断",
+      "labelStandard": "コード脆弱性診断",
+      "labelSimple": "コード脆弱性診断",
+      "value": "公的無償提供",
+      "unit": "（専門監査チーム）",
+      "oldValue": "現行",
+      "description": "コード脆弱性診断",
+      "descriptionStandard": "コード脆弱性診断",
+      "descriptionSimple": "コード脆弱性診断",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
+    },
+    {
+      "label": "対象領域",
+      "labelStandard": "対象領域",
+      "labelSimple": "対象領域",
+      "value": "重要デジタル基盤",
+      "unit": "（ライブラリ・OS）",
+      "oldValue": "現行",
+      "description": "対象領域",
+      "descriptionStandard": "対象領域",
+      "descriptionSimple": "対象領域",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "TrendingUp"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "推進派・利用者の声",
+        "commentStandard": "早期の実装を期待しています。",
+        "commentSimple": "期待しています。"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "専門家・現場の声",
+        "commentStandard": "現場への丁寧な配慮が必要です。",
+        "commentSimple": "課題への配慮が必要です。"
+      }
+    ]
+  },
+  "international": {
+    "summary": "海外主要国における関連施策の比較と最新動向",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ドイツの関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "ドイツ関係公的機関",
+          "title": "ドイツにおける制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "アメリカの関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "アメリカ関係公的機関",
+          "title": "アメリカにおける制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      },
+      {
+        "country": "欧州連合（EU）",
+        "countryCode": "INT",
+        "flag": "🌐",
+        "systemName": "欧州連合（EU）の関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "欧州連合（EU）関係公的機関",
+          "title": "欧州連合（EU）における制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      }
+    ]
+  },
+  "categoryLabel": "産業・技術・デジタル"
+}

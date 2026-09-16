@@ -175,62 +175,76 @@
   "badges": [
     {
       "label": "一般企業の農地所有解禁",
-      "variant": "neutral"
+      "text": "一般企業の農地所有解禁",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "耕作放棄地40万ha再生",
-      "variant": "neutral"
+      "text": "耕作放棄地40万ha再生",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "産廃転用・投機への懸念",
-      "variant": "neutral"
+      "text": "産廃転用・投機への懸念",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "草だらけになった畑",
+      "label": "",
       "labelStandard": "全国の耕作放棄地面積",
+      "labelSimple": "草だらけになった畑",
       "value": "約 40",
       "unit": "万ha",
       "oldValue": "高齢化と後継者難で年々拡大中",
-      "descriptionSimple": "滋賀県と同じくらいの広さの畑が放置！",
+      "description": "",
       "descriptionStandard": "有効活用されない荒廃農地の再生が急務",
+      "descriptionSimple": "滋賀県と同じくらいの広さの畑が放置！",
       "badge": "滋賀県と同規模",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "Trees"
     },
     {
-      "labelSimple": "農業をしている会社",
+      "label": "",
       "labelStandard": "企業の農業参入数",
+      "labelSimple": "農業をしている会社",
       "value": "4,000",
       "unit": "社超",
       "oldValue": "2009年農地法改正でリース解禁",
-      "descriptionSimple": "いまは畑を「借りて」会社が参入！",
+      "description": "",
       "descriptionStandard": "賃貸借方式で全国4,000社以上が営農中",
+      "descriptionSimple": "いまは畑を「借りて」会社が参入！",
       "badge": "参入急増",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Building"
     },
     {
-      "labelSimple": "議論されているポイント",
+      "label": "",
       "labelStandard": "解禁をめぐる焦点",
+      "labelSimple": "議論されているポイント",
       "value": "所有権",
       "unit": "の取得",
       "oldValue": "現行は「賃貸借（リース）」のみ",
-      "descriptionSimple": "会社が畑を「買い取れる」ようにするか？",
+      "description": "",
       "descriptionStandard": "担保融資による大規模投資 vs 投機懸念",
+      "descriptionSimple": "会社が畑を「買い取れる」ようにするか？",
       "badge": "所有権解禁論",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Scale"
     },
     {
-      "labelSimple": "会社がやめたときのルール",
+      "label": "",
       "labelStandard": "農地保全の安全弁",
+      "labelSimple": "会社がやめたときのルール",
       "value": "買戻し",
       "unit": "権の義務化",
       "oldValue": "倒産時の転売・産廃化リスクが懸念",
-      "descriptionSimple": "やめたら畑を自治体が買い戻して守る！",
+      "description": "",
       "descriptionStandard": "原状回復義務・自治体の先買権で乱開発抑止",
+      "descriptionSimple": "やめたら畑を自治体が買い戻して守る！",
       "badge": "安全弁措置",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "ShieldAlert"

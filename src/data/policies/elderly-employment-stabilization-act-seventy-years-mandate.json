@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "70歳就業機会確保",
-      "variant": "positive"
+      "text": "70歳就業機会確保",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "生涯現役社会",
-      "variant": "positive"
+      "text": "生涯現役社会",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ポスト目詰まり懸念",
-      "variant": "warning"
+      "text": "ポスト目詰まり懸念",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "目標年齢",
+      "labelStandard": "目標年齢",
+      "labelSimple": "目標年齢",
       "value": "70歳までの就業確保",
+      "unit": "",
+      "oldValue": "現行",
       "description": "定年引き上げ・再雇用・フリーランス契約等の措置",
+      "descriptionStandard": "目標年齢",
+      "descriptionSimple": "目標年齢",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "法的性格",
+      "labelStandard": "法的性格",
+      "labelSimple": "法的性格",
       "value": "企業の努力義務",
+      "unit": "",
+      "oldValue": "現行",
       "description": "将来の完全義務化を見据えた段階的ステップ",
+      "descriptionStandard": "法的性格",
+      "descriptionSimple": "法的性格",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "支援策",
+      "labelStandard": "支援策",
+      "labelSimple": "支援策",
       "value": "65歳超雇用推進助成金",
+      "unit": "",
+      "oldValue": "現行",
       "description": "就業規則改定や制度導入を行った企業へ最大160万円補助",
+      "descriptionStandard": "支援策",
+      "descriptionSimple": "支援策",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

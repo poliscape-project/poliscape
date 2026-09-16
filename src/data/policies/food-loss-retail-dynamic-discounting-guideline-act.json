@@ -1,8 +1,8 @@
 {
   "id": "food-loss-retail-dynamic-discounting-guideline-act",
   "title": "食品小売業におけるAIダイナミックプライシング（見切り品値引き）推進指針",
-  "category": "energy-environment",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "スーパーマーケットやコンビニエンスストア等の食品小売業において、消費期限・賞味期限の迫った食品の大量廃棄（食品ロス）を削減するため、電子棚札（ESL）とAI需要予測を連動させた「ダイナミックプライシング（自動段階値引き）」の導入ガイドラインを策定する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "食品ロス削減",
-      "variant": "green"
+      "text": "食品ロス削減",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "小売DX",
-      "variant": "blue"
+      "text": "小売DX",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "省力化投資",
-      "variant": "purple"
+      "text": "省力化投資",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "店舗食品廃棄削減効果",
+      "label": "店舗食品廃棄削減効果",
+      "labelStandard": "店舗食品廃棄削減効果",
+      "labelSimple": "店舗食品廃棄削減効果",
       "value": "40",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "AI自動値引きと電子棚札連動によるコンビニ・スーパーの実証廃棄削減実績",
-      "trend": "down",
-      "trendLabel": "廃棄大幅減"
+      "descriptionStandard": "店舗食品廃棄削減効果",
+      "descriptionSimple": "店舗食品廃棄削減効果",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "見切り作業時間の削減",
+      "label": "見切り作業時間の削減",
+      "labelStandard": "見切り作業時間の削減",
+      "labelSimple": "見切り作業時間の削減",
       "value": "90",
       "unit": "%削減",
+      "oldValue": "現行",
       "description": "店員の手作業によるシール貼り作業時間をシステム自動化によりほぼゼロ化",
-      "trend": "down",
-      "trendLabel": "作業負荷激減"
+      "descriptionStandard": "見切り作業時間の削減",
+      "descriptionSimple": "見切り作業時間の削減",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

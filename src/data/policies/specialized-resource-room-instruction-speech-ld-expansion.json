@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "教員配置基準",
+      "labelStandard": "教員配置基準",
+      "labelSimple": "教員配置基準",
       "value": "児童13",
       "unit": "人に教員1人（基礎定数化）",
       "oldValue": "単年度の加配予算任せ",
       "description": "義務標準法に基づき安定的な専門教員数を法律で恒久保障",
+      "descriptionStandard": "教員配置基準",
+      "descriptionSimple": "教員配置基準",
       "badge": "法的定数化",
       "badgeColor": "blue",
       "icon": "user-group"
     },
     {
       "label": "他校送迎解消率",
+      "labelStandard": "他校送迎解消率",
+      "labelSimple": "他校送迎解消率",
       "value": "約75",
       "unit": "%（自校・巡回化）",
       "oldValue": "ほぼ全例が保護者送迎",
       "description": "自分の学校での受講または巡回訪問により親の送迎負担を大幅軽減",
+      "descriptionStandard": "他校送迎解消率",
+      "descriptionSimple": "他校送迎解消率",
       "badge": "送迎負担解消",
       "badgeColor": "green",
       "icon": "check-circle"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

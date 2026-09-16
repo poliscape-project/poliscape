@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "分離課税20%検討",
-      "variant": "positive"
+      "text": "分離課税20%検討",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "損失繰越3年",
-      "variant": "positive"
+      "text": "損失繰越3年",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "議論継続中",
-      "variant": "neutral"
+      "text": "議論継続中",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "要望税率",
+      "labelStandard": "要望税率",
+      "labelSimple": "要望税率",
       "value": "一律20%（申告分離）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "現行の最大55%雑所得から株式並みへ引き下げ",
+      "descriptionStandard": "要望税率",
+      "descriptionSimple": "要望税率",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "損失繰越",
+      "labelStandard": "損失繰越",
+      "labelSimple": "損失繰越",
       "value": "3年間の繰越控除",
+      "unit": "",
+      "oldValue": "現行",
       "description": "暴落時の損失を翌年以降の利益と損益通算",
+      "descriptionStandard": "損失繰越",
+      "descriptionSimple": "損失繰越",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "主眼",
+      "labelStandard": "主眼",
+      "labelSimple": "主眼",
       "value": "Web3頭脳流出防止",
+      "unit": "",
+      "oldValue": "現行",
       "description": "国内スタートアップエコシステムの国際競争力強化",
+      "descriptionStandard": "主眼",
+      "descriptionSimple": "主眼",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

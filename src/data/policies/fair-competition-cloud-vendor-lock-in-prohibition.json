@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "クラウド競争",
-      "variant": "positive"
+      "text": "クラウド競争",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "独占禁止法",
-      "variant": "positive"
+      "text": "独占禁止法",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "デジタル市場",
-      "variant": "neutral"
+      "text": "デジタル市場",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "転出手数料",
+      "labelStandard": "転出手数料",
+      "labelSimple": "転出手数料",
       "value": "原則0円（無料化）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "他社クラウドや自社サーバーへのデータ移行手数料を禁止",
+      "descriptionStandard": "転出手数料",
+      "descriptionSimple": "転出手数料",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingDown"
     },
     {
       "label": "ライセンス",
+      "labelStandard": "ライセンス",
+      "labelSimple": "ライセンス",
       "value": "価格差別禁止",
+      "unit": "",
+      "oldValue": "現行",
       "description": "競合インフラでの自社ソフトウェア利用時の割高請求を違法化",
+      "descriptionStandard": "ライセンス",
+      "descriptionSimple": "ライセンス",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

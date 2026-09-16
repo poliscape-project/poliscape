@@ -161,62 +161,76 @@
   "badges": [
     {
       "label": "大半9割は1割負担維持",
-      "variant": "neutral"
+      "text": "大半9割は1割負担維持",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "2割負担拡大検討継続",
-      "variant": "neutral"
+      "text": "2割負担拡大検討継続",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "高額介護費上限ガード",
-      "variant": "neutral"
+      "text": "高額介護費上限ガード",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "いま1割負担の人",
+      "label": "",
       "labelStandard": "1割負担利用者の割合",
+      "labelSimple": "いま1割負担の人",
       "value": "約90",
       "unit": "％が1割",
       "oldValue": "単身年収280万円未満等は原則1割",
-      "descriptionSimple": "大半のおじいちゃん・おばあちゃんは1割",
+      "description": "",
       "descriptionStandard": "現行制度では8割強〜9割弱の利用者が1割負担",
+      "descriptionSimple": "大半のおじいちゃん・おばあちゃんは1割",
       "badge": "大半が1割",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "HeartPulse"
     },
     {
-      "labelSimple": "2割負担の対象拡大案",
+      "label": "",
       "labelStandard": "見直し検討対象ライン",
+      "labelSimple": "2割負担の対象拡大案",
       "value": "単身280万未満",
       "unit": "への引下げ議論",
       "oldValue": "現行は単身280万円以上のみ2割",
-      "descriptionSimple": "年金が多い人の窓口負担を増やす議論が継続",
+      "description": "",
       "descriptionStandard": "財政審議会等で提起されるも激変緩和で慎重判断",
+      "descriptionSimple": "年金が多い人の窓口負担を増やす議論が継続",
       "badge": "検討継続",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "65歳以上の介護保険料",
+      "label": "",
       "labelStandard": "全国平均基準保険料",
+      "labelSimple": "65歳以上の介護保険料",
       "value": "月6,225",
       "unit": "円/月",
       "oldValue": "制度開始当初（2000年）約2,911円",
-      "descriptionSimple": "お年寄りが増えて毎月の保険料は右肩上がり",
+      "description": "",
       "descriptionStandard": "第9期計画（2024〜2026年度）で過去最高を更新",
+      "descriptionSimple": "お年寄りが増えて毎月の保険料は右肩上がり",
       "badge": "過去最高",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Calculator"
     },
     {
-      "labelSimple": "月の支払い上限制度",
+      "label": "",
       "labelStandard": "高額介護サービス費上限",
+      "labelSimple": "月の支払い上限制度",
       "value": "月44,400",
       "unit": "円/月（一般）",
       "oldValue": "所得区分に応じた月額上限設定",
-      "descriptionSimple": "どんなに使っても上限を超えた分は戻る！",
+      "description": "",
       "descriptionStandard": "2割負担になっても高額介護サービス費で上限ガード",
+      "descriptionSimple": "どんなに使っても上限を超えた分は戻る！",
       "badge": "上限ストッパー",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "ShieldCheck"

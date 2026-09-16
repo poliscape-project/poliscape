@@ -2,7 +2,7 @@
   "id": "disaster-rubble-cross-prefecture-treatment-agreement",
   "title": "巨大地震津波がれき・災害廃棄物広域処理ブロック事前協定法",
   "catchphrase": "復興の最大の足枷「がれき処理」を迅速化、南海トラフ想定がれき数億トンの事前受入協定法制化",
-  "category": "safety",
+  "category": "society",
   "categoryLabel": "司法・治安・刑事政策",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "災害廃棄物",
-      "variant": "positive"
+      "text": "災害廃棄物",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "巨大地震対策",
-      "variant": "positive"
+      "text": "巨大地震対策",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "広域連携",
-      "variant": "neutral"
+      "text": "広域連携",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "協定締結",
+      "labelStandard": "協定締結",
+      "labelSimple": "協定締結",
       "value": "平時8ブロック義務化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "巨大地震発生前の事前受入処理分担協定締結を法定義務化",
+      "descriptionStandard": "協定締結",
+      "descriptionSimple": "協定締結",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "費用負担",
+      "labelStandard": "費用負担",
+      "labelSimple": "費用負担",
       "value": "国庫100%全額負担",
+      "unit": "",
+      "oldValue": "現行",
       "description": "広域輸送・焼却処分費用を全額国費特例交付金で措置",
+      "descriptionStandard": "費用負担",
+      "descriptionSimple": "費用負担",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

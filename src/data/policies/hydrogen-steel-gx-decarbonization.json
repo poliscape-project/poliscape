@@ -175,62 +175,76 @@
   "badges": [
     {
       "label": "産業CO2の4割を削減へ",
-      "variant": "neutral"
+      "text": "産業CO2の4割を削減へ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "GX20兆円移行債で支援",
-      "variant": "neutral"
+      "text": "GX20兆円移行債で支援",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "水素不足と産業空洞化懸念",
-      "variant": "neutral"
+      "text": "水素不足と産業空洞化懸念",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "鉄作りから出る温室ガス",
+      "label": "",
       "labelStandard": "産業CO2に占める鉄鋼の割合",
+      "labelSimple": "鉄作りから出る温室ガス",
       "value": "約 40",
       "unit": "%（排出の約12%）",
       "oldValue": "石炭コークスを高炉で燃やして鉄を還元",
-      "descriptionSimple": "日本の工場から出る温室ガスの4割が鉄作り！",
+      "description": "",
       "descriptionStandard": "産業部門最大の二酸化炭素排出源の脱炭素化が必須",
+      "descriptionSimple": "日本の工場から出る温室ガスの4割が鉄作り！",
       "badge": "最大排出源",
       "badgeColor": "bg-amber-100 text-amber-900",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "国が出す脱炭素のお金",
+      "label": "",
       "labelStandard": "GX経済移行債の発行規模",
+      "labelSimple": "国が出す脱炭素のお金",
       "value": "20",
       "unit": "兆円（10年間）",
       "oldValue": "排出削減は民間企業の自己負担が基本だった",
-      "descriptionSimple": "工場をきれいにするため国が20兆円の債券を発行！",
+      "description": "",
       "descriptionStandard": "水素製鉄や電炉転換などの長期研究・設備投資を支援",
+      "descriptionSimple": "工場をきれいにするため国が20兆円の債券を発行！",
       "badge": "GX20兆円債",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "水素を使った新しい鉄作り",
+      "label": "",
       "labelStandard": "水素還元製鉄の削減効果",
+      "labelSimple": "水素を使った新しい鉄作り",
       "value": "最大 100",
       "unit": "%削減（実質ゼロ）",
       "oldValue": "高炉法では鉄1トンあたり約2トンのCO2排出",
-      "descriptionSimple": "石炭のかわりに水素を使ってCO2を出さない！",
+      "description": "",
       "descriptionStandard": "煙突から水蒸気しか出ない究極のグリーンスチール",
+      "descriptionSimple": "石炭のかわりに水素を使ってCO2を出さない！",
       "badge": "CO2排出ゼロ",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Zap"
     },
     {
-      "labelSimple": "工場を変える莫大なお金",
+      "label": "",
       "labelStandard": "製鉄設備転換の総投資規模",
+      "labelSimple": "工場を変える莫大なお金",
       "value": "数兆〜十数兆",
       "unit": "円",
       "oldValue": "安価な石炭高炉が日本の産業基盤を支えてきた",
-      "descriptionSimple": "新しい巨大な炉に建て替えるには何兆円もかかる！",
+      "description": "",
       "descriptionStandard": "電気代・水素コスト高騰による産業空洞化リスク",
+      "descriptionSimple": "新しい巨大な炉に建て替えるには何兆円もかかる！",
       "badge": "巨額更新費",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Layers"

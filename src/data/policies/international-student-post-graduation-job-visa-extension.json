@@ -1,8 +1,8 @@
 {
   "id": "international-student-post-graduation-job-visa-extension",
   "title": "外国人留学生の卒業後就職活動ビザ（特定活動）最長2年への延長",
-  "category": "labor-employment",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "日本の大学・大学院・高等専門学校を卒業・修了した優秀な外国人留学生が、国内企業への就職活動を継続できるよう、「特定活動（継続就職活動）」ビザの在留可能期間を従来の最長1年から「最長2年」へと延長する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "高度外国人材",
-      "variant": "blue"
+      "text": "高度外国人材",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "出入国在留管理",
-      "variant": "green"
+      "text": "出入国在留管理",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "就労促進",
-      "variant": "purple"
+      "text": "就労促進",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "ビザ在留可能期間",
+      "label": "ビザ在留可能期間",
+      "labelStandard": "ビザ在留可能期間",
+      "labelSimple": "ビザ在留可能期間",
       "value": "2",
       "unit": "年（最長）",
+      "oldValue": "現行",
       "description": "従来の1年から倍増し、落ち着いた就職活動と有償インターンを可能に",
-      "trend": "up",
-      "trendLabel": "期間倍増"
+      "descriptionStandard": "ビザ在留可能期間",
+      "descriptionSimple": "ビザ在留可能期間",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "留学生国内就職率目標",
+      "label": "留学生国内就職率目標",
+      "labelStandard": "留学生国内就職率目標",
+      "labelSimple": "留学生国内就職率目標",
       "value": "60",
       "unit": "%",
+      "oldValue": "現行",
       "description": "現在の約35%から大幅に引き上げ、卒業生の過半の国内定着を目指す",
-      "trend": "up",
-      "trendLabel": "定着促進"
+      "descriptionStandard": "留学生国内就職率目標",
+      "descriptionSimple": "留学生国内就職率目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

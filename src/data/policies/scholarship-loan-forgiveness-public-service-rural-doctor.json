@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "地域医療",
-      "variant": "positive"
+      "text": "地域医療",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "奨学金免除",
-      "variant": "positive"
+      "text": "奨学金免除",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "医師偏在是正",
-      "variant": "neutral"
+      "text": "医師偏在是正",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "地域医療の存続確保",
+      "labelStandard": "地域医療の存続確保",
+      "labelSimple": "地域医療の存続確保",
       "value": "地域医療の存続確保",
+      "unit": "",
+      "oldValue": "現行",
       "description": "医師少数地域で勤務する若手医師を重点的に確保・支援。",
+      "descriptionStandard": "地域医療の存続確保",
+      "descriptionSimple": "地域医療の存続確保",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     },
     {
       "label": "奨学金の全額免除",
+      "labelStandard": "奨学金の全額免除",
+      "labelSimple": "奨学金の全額免除",
       "value": "奨学金の全額免除",
+      "unit": "",
+      "oldValue": "現行",
       "description": "一定期間のへき地勤務を満たせば返還残額を公費で肩代わり。",
+      "descriptionStandard": "奨学金の全額免除",
+      "descriptionSimple": "奨学金の全額免除",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "医療従事者全般へ拡大",
+      "labelStandard": "医療従事者全般へ拡大",
+      "labelSimple": "医療従事者全般へ拡大",
       "value": "医療従事者全般へ拡大",
+      "unit": "",
+      "oldValue": "現行",
       "description": "医師のみならず看護師や救急救命士なども支援対象に内包。",
+      "descriptionStandard": "医療従事者全般へ拡大",
+      "descriptionSimple": "医療従事者全般へ拡大",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

@@ -149,58 +149,76 @@
   "badges": [
     {
       "label": "押し買い・訪問購入規制",
-      "variant": "neutral"
+      "text": "押し買い・訪問購入規制",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "8日間クーリングオフ",
-      "variant": "neutral"
+      "text": "8日間クーリングオフ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "引き渡し拒絶権の徹底",
-      "variant": "neutral"
+      "text": "引き渡し拒絶権の徹底",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "売った後の取消期間",
+      "label": "",
       "labelStandard": "クーリングオフ適用期間",
+      "labelSimple": "売った後の取消期間",
       "value": "8",
       "unit": "日間は無条件解除",
       "oldValue": "これまで 持ち去られたら取り戻し不可能",
       "description": "契約後8日以内なら無条件で品物を取り戻せる",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "8日間保証",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Clock"
     },
     {
-      "labelSimple": "品物を渡さない権利",
+      "label": "",
       "labelStandard": "引き渡し拒絶権の保障",
+      "labelSimple": "品物を渡さない権利",
       "value": "手元保管",
       "unit": "で渡さず防衛可",
       "oldValue": "これまで 押し切られて即日回収・即時転売",
       "description": "クーリングオフ期間中は品物の引き渡しを拒絶可能",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "拒絶権明記",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "ShieldCheck"
     },
     {
-      "labelSimple": "突然の訪問買取",
+      "label": "",
       "labelStandard": "アポなし訪問勧誘の禁止",
+      "labelSimple": "突然の訪問買取",
       "value": "不招請禁止",
       "unit": "（飛び込み厳禁）",
       "oldValue": "これまで 「不用品処分」を口実に貴金属強引買取り",
       "description": "事前の明確な承諾がない訪問買取りを完全禁止",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "訪問禁止",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "Ban"
     },
     {
-      "labelSimple": "契約書の交付義務",
+      "label": "",
       "labelStandard": "買取書面の即時交付義務",
+      "labelSimple": "契約書の交付義務",
       "value": "書面義務化",
       "unit": "で違反は罰則",
       "oldValue": "これまで 口頭だけで安く買い叩き領収書なし",
       "description": "品目や査定根拠を明記した書面交付を義務化",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "書面徹底",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "FileCheck"

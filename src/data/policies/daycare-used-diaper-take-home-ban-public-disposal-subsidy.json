@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "持ち帰り廃止達成率",
+      "labelStandard": "持ち帰り廃止達成率",
+      "labelSimple": "持ち帰り廃止達成率",
       "value": "約98",
       "unit": "%（全国市区町村）",
       "oldValue": "約35%の自治体で持ち帰り残存",
       "description": "国の強力な通知と交付金により全国の保育園で持ち帰りがほぼ完全撤廃",
+      "descriptionStandard": "持ち帰り廃止達成率",
+      "descriptionSimple": "持ち帰り廃止達成率",
       "badge": "全国ほぼ100%廃止",
       "badgeColor": "green",
       "icon": "check-circle"
     },
     {
       "label": "保育士仕分け作業時間",
+      "labelStandard": "保育士仕分け作業時間",
+      "labelSimple": "保育士仕分け作業時間",
       "value": "0",
       "unit": "分（作業完全撤廃）",
       "oldValue": "毎日30〜45分の個別仕分け",
       "description": "園児ごとの名前確認とビニール袋詰めの負担を完全解消",
+      "descriptionStandard": "保育士仕分け作業時間",
+      "descriptionSimple": "保育士仕分け作業時間",
       "badge": "仕分け時間ゼロ",
       "badgeColor": "blue",
       "icon": "clock"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

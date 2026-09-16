@@ -1,8 +1,8 @@
 {
   "id": "port-cargo-handling-electrification-clean-energy-tax",
   "title": "カーボンニュートラルポート（CNP）における荷役機械電化・水素化税制",
-  "category": "energy-environment",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "国際海上コンテナターミナル等で稼働する巨大な荷役機械（ガントリークレーン、トランスファークレーン（RTG）、リーチスタッカー、ヤードトラクター）について、重油・軽油ディーゼル駆動から大容量蓄電池式電動化または水素燃料電池（FC）化への転換を強力に支援する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "CNP港湾脱炭素",
-      "variant": "blue"
+      "text": "CNP港湾脱炭素",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "水素・電動化",
-      "variant": "green"
+      "text": "水素・電動化",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "国際海運",
-      "variant": "purple"
+      "text": "国際海運",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "港湾CO2削減目標",
+      "label": "港湾CO2削減目標",
+      "labelStandard": "港湾CO2削減目標",
+      "labelSimple": "港湾CO2削減目標",
       "value": "46",
       "unit": "%減（2030年）",
+      "oldValue": "現行",
       "description": "荷役機械の電化・水素化および陸電導入による臨海部温室効果ガス削減目標",
-      "trend": "down",
-      "trendLabel": "大幅排出削減"
+      "descriptionStandard": "港湾CO2削減目標",
+      "descriptionSimple": "港湾CO2削減目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "税制特例償却率",
+      "label": "税制特例償却率",
+      "labelStandard": "税制特例償却率",
+      "labelSimple": "税制特例償却率",
       "value": "100",
       "unit": "%（即時償却）",
+      "oldValue": "現行",
       "description": "認定電動クレーン・FC車両の導入初年度における一括特別償却割合",
-      "trend": "up",
-      "trendLabel": "全額即時償却"
+      "descriptionStandard": "税制特例償却率",
+      "descriptionSimple": "税制特例償却率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

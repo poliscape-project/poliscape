@@ -2,7 +2,7 @@
   "id": "aviation-act-level4-drone-beyond-visual-line-of-sight",
   "title": "航空法改正（有人地帯における補助者なし目視外飛行・レベル4ドローン運航解禁）",
   "catchphrase": "ドローンが街の上を飛ぶ時代へ。有人地帯での目視外飛行（レベル4）解禁と国家資格・機体認証制度",
-  "category": "technology",
+  "category": "society",
   "categoryLabel": "テクノロジー・航空・物流",
   "lastUpdated": "2024-04-10",
   "effectiveDate": "2022年12月施行",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "ドローンレベル4",
-      "variant": "positive"
+      "text": "ドローンレベル4",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "国家資格新設",
-      "variant": "positive"
+      "text": "国家資格新設",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "空の産業革命",
-      "variant": "neutral"
+      "text": "空の産業革命",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "飛行区分",
+      "labelStandard": "飛行区分",
+      "labelSimple": "飛行区分",
       "value": "レベル4（有人地帯目視外）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "住宅街や都市部上空を補助者なしで自動飛行可能",
+      "descriptionStandard": "飛行区分",
+      "descriptionSimple": "飛行区分",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "資格制度",
+      "labelStandard": "資格制度",
+      "labelSimple": "資格制度",
       "value": "一等操縦士国家資格",
+      "unit": "",
+      "oldValue": "現行",
       "description": "国交省による実地・学科試験を経た公的技能証明",
+      "descriptionStandard": "資格制度",
+      "descriptionSimple": "資格制度",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "機体要件",
+      "labelStandard": "機体要件",
+      "labelSimple": "機体要件",
       "value": "第一種機体認証",
+      "unit": "",
+      "oldValue": "現行",
       "description": "航空機並みの墜落防止設計と安全認証を義務付け",
+      "descriptionStandard": "機体要件",
+      "descriptionSimple": "機体要件",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

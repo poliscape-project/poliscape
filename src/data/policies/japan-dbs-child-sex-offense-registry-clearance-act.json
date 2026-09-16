@@ -2,9 +2,9 @@
   "id": "japan-dbs-child-sex-offense-registry-clearance-act",
   "title": "日本版DBS（こども性暴力防止法）に基づく学校・教育現場の犯歴照会義務",
   "catchphrase": "子どもを性暴力から守る。学校・保育所・学習塾での性犯罪歴確認（日本版DBS）を法定義務化",
-  "category": "legal-affairs",
+  "category": "society",
   "categoryLabel": "子ども安全・司法制度",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "日本版DBS",
-      "variant": "purple"
+      "text": "日本版DBS",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "性暴力防止",
-      "variant": "blue"
+      "text": "性暴力防止",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "子どもの安全",
-      "variant": "green"
+      "text": "子どもの安全",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "就労制限最長期間",
+      "label": "就労制限最長期間",
+      "labelStandard": "就労制限最長期間",
+      "labelSimple": "就労制限最長期間",
       "value": "20",
       "unit": "年間（拘禁刑）",
+      "oldValue": "現行",
       "description": "児童性暴力により拘禁刑（懲役）に処された者が子どもと接する職種へ就労できない法定期間",
-      "trend": "up",
-      "trendLabel": "厳格制限"
+      "descriptionStandard": "就労制限最長期間",
+      "descriptionSimple": "就労制限最長期間",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "学校・認可保育所照会率",
+      "label": "学校・認可保育所照会率",
+      "labelStandard": "学校・認可保育所照会率",
+      "labelSimple": "学校・認可保育所照会率",
       "value": "100",
       "unit": "%義務",
+      "oldValue": "現行",
       "description": "全国の国公私立学校および認可保育所における新規採用時DBS照会の法定義務履行率",
-      "trend": "up",
-      "trendLabel": "完全義務化"
+      "descriptionStandard": "学校・認可保育所照会率",
+      "descriptionSimple": "学校・認可保育所照会率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

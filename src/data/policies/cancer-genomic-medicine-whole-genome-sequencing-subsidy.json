@@ -3,7 +3,7 @@
   "title": "がんゲノム医療における全ゲノム解析等実行計画と公費助成",
   "category": "healthcare",
   "categoryLabel": "医療・公衆衛生",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "事業実施・保険適用中",
   "catchphrase": "がん細胞の全遺伝情報を一括解読。患者一人ひとりに最適な標的薬を選定する全ゲノム解析の国家推進",
   "lastUpdated": "2026-09-16",
@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "解析対象塩基数",
+      "labelStandard": "解析対象塩基数",
+      "labelSimple": "解析対象塩基数",
       "value": "30",
       "unit": "億塩基対",
       "oldValue": "数百遺伝子（パネル検査）",
       "description": "がん細胞の全遺伝情報を一網打尽にシーケンシング解読",
+      "descriptionStandard": "解析対象塩基数",
+      "descriptionSimple": "解析対象塩基数",
       "badge": "網羅性",
       "badgeColor": "blue",
       "icon": "Cpu"
     },
     {
       "label": "薬物治療到達率目標",
+      "labelStandard": "薬物治療到達率目標",
+      "labelSimple": "薬物治療到達率目標",
       "value": "30",
       "unit": "%以上",
       "oldValue": "約10〜15%",
       "description": "全ゲノム情報とAI解析による適格分子標的薬マッチング率の倍増",
+      "descriptionStandard": "薬物治療到達率目標",
+      "descriptionSimple": "薬物治療到達率目標",
       "badge": "到達率改善",
       "badgeColor": "green",
       "icon": "TrendingUp"

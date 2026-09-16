@@ -2,7 +2,7 @@
   "id": "telecom-business-act-dark-fiber-leasing-deregulation",
   "title": "電気通信事業法改正（光ファイバー・ダークファイバー開放促進と地域デジタル基盤強化）",
   "catchphrase": "地方の超高速通信を安価に実現。使われていない余剰光回線（ダークファイバー）の低コスト開放を義務化",
-  "category": "technology",
+  "category": "society",
   "categoryLabel": "テクノロジー・インフラ・通信",
   "lastUpdated": "2024-04-10",
   "effectiveDate": "2023年5月成立・順次施行",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "通信インフラ開放",
-      "variant": "positive"
+      "text": "通信インフラ開放",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "デジタル田園都市",
-      "variant": "positive"
+      "text": "デジタル田園都市",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "公正競争ルール",
-      "variant": "neutral"
+      "text": "公正競争ルール",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "対象設備",
+      "labelStandard": "対象設備",
+      "labelSimple": "対象設備",
       "value": "余剰光ファイバー（芯線）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "大手キャリア・電力会社の未利用ダークファイバーを開放",
+      "descriptionStandard": "対象設備",
+      "descriptionSimple": "対象設備",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "目的",
+      "labelStandard": "目的",
+      "labelSimple": "目的",
       "value": "地方5G・超高速通信普及",
+      "unit": "",
+      "oldValue": "現行",
       "description": "地方・過疎地でのブロードバンド基盤の整備を加速",
+      "descriptionStandard": "目的",
+      "descriptionSimple": "目的",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "ルール",
+      "labelStandard": "ルール",
+      "labelSimple": "ルール",
       "value": "適正原価に基づく料金設定",
+      "unit": "",
+      "oldValue": "現行",
       "description": "不当に高い接続料を排除し公平な競争を担保",
+      "descriptionStandard": "ルール",
+      "descriptionSimple": "ルール",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     }
   ],

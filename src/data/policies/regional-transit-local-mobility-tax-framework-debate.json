@@ -1,8 +1,8 @@
 {
   "id": "regional-transit-local-mobility-tax-framework-debate",
   "title": "過疎・地方都市の生活交通（赤字ローカル線・路線バス）維持のための交通税構想",
-  "category": "regional-agriculture",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "人口減少とマイカー普及により壊滅的な経営危機に直面する地方の赤字鉄道路線や路線バス等の公共交通を維持するため、自治体が目的税として課税できる「法定外目的税（地方交通税）」の法制度枠組みを整備する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "地域公共交通",
-      "variant": "blue"
+      "text": "地域公共交通",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "交通税構想",
-      "variant": "purple"
+      "text": "交通税構想",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "上下分離方式",
-      "variant": "green"
+      "text": "上下分離方式",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "想定個人負担額",
+      "label": "想定個人負担額",
+      "labelStandard": "想定個人負担額",
+      "labelSimple": "想定個人負担額",
       "value": "1,000",
       "unit": "円/年程度",
+      "oldValue": "現行",
       "description": "地方住民税等に上乗せして地域交通を支える年間負担の検討水準",
-      "trend": "neutral",
-      "trendLabel": "薄く広い負担"
+      "descriptionStandard": "想定個人負担額",
+      "descriptionSimple": "想定個人負担額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "JR赤字ローカル線区数",
+      "label": "JR赤字ローカル線区数",
+      "labelStandard": "JR赤字ローカル線区数",
+      "labelSimple": "JR赤字ローカル線区数",
       "value": "100",
       "unit": "線区超",
+      "oldValue": "現行",
       "description": "全国で輸送密度が低く存廃やバス転換の協議対象となっている線区",
-      "trend": "up",
-      "trendLabel": "存続の危機"
+      "descriptionStandard": "JR赤字ローカル線区数",
+      "descriptionSimple": "JR赤字ローカル線区数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

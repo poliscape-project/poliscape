@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "未実現含み益への課税",
+      "labelStandard": "未実現含み益への課税",
+      "labelSimple": "未実現含み益への課税",
       "value": "0",
       "unit": "%（完全撤廃）",
       "oldValue": "最大約30%超課税",
       "description": "長期保有・譲渡制限要件を満たす暗号資産の期末課税をゼロ化",
+      "descriptionStandard": "未実現含み益への課税",
+      "descriptionSimple": "未実現含み益への課税",
       "badge": "課税撤廃",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "国内Web3法人設立数",
+      "labelStandard": "国内Web3法人設立数",
+      "labelSimple": "国内Web3法人設立数",
       "value": "2.4",
       "unit": "倍増",
       "oldValue": "海外流出超過",
       "description": "税制改正後に日本国内でのブロックチェーン企業設立が急回復",
+      "descriptionStandard": "国内Web3法人設立数",
+      "descriptionSimple": "国内Web3法人設立数",
       "badge": "国内回帰",
       "badgeColor": "blue",
       "icon": "trending-up"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "フィンテック",
-      "variant": "positive"
+      "text": "フィンテック",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "オープンAPI",
-      "variant": "positive"
+      "text": "オープンAPI",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "金融改革",
-      "variant": "neutral"
+      "text": "金融改革",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "口座照会API",
+      "labelStandard": "口座照会API",
+      "labelSimple": "口座照会API",
       "value": "原則無償化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "家計簿アプリや会計ソフトへの過重な接続料を撤廃",
+      "descriptionStandard": "口座照会API",
+      "descriptionSimple": "口座照会API",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "規格統一",
+      "labelStandard": "規格統一",
+      "labelSimple": "規格統一",
       "value": "全国共通標準API",
+      "unit": "",
+      "oldValue": "現行",
       "description": "銀行ごとにバラバラだった接続仕様を法制化で統一",
+      "descriptionStandard": "規格統一",
+      "descriptionSimple": "規格統一",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Lock"
     }
   ],

@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "非正規支援",
-      "variant": "positive"
+      "text": "非正規支援",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "学び直し",
-      "variant": "positive"
+      "text": "学び直し",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "働き方改革",
-      "variant": "neutral"
+      "text": "働き方改革",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "有給休暇日数",
+      "labelStandard": "有給休暇日数",
+      "labelSimple": "有給休暇日数",
       "value": "年間最低5日",
+      "unit": "",
+      "oldValue": "現行",
       "description": "給料をもらいながら公的資格や研修を受講可能",
+      "descriptionStandard": "有給休暇日数",
+      "descriptionSimple": "有給休暇日数",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "GraduationCap"
     },
     {
       "label": "賃金助成",
+      "labelStandard": "賃金助成",
+      "labelSimple": "賃金助成",
       "value": "国が100%全額助成",
+      "unit": "",
+      "oldValue": "現行",
       "description": "休業中の賃金相当額を助成金で事業主に支給",
+      "descriptionStandard": "賃金助成",
+      "descriptionSimple": "賃金助成",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "id": "corporate-in-house-whistleblower-hotline-outsourcing-rule",
   "title": "大企業における内部通報外部第三者窓口の独立性担保・委託義務化",
-  "category": "admin",
+  "category": "society",
   "subcategory": "法務・企業統治",
   "status": "施行中",
   "date": "2024-05",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "窓口設置義務企業",
+      "labelStandard": "窓口設置義務企業",
+      "labelSimple": "窓口設置義務企業",
       "value": "300",
       "unit": "人超の全企業",
       "oldValue": "努力義務",
       "description": "大企業・中堅企業すべてに独立した第三者通報窓口の設置を義務付け",
+      "descriptionStandard": "窓口設置義務企業",
+      "descriptionSimple": "窓口設置義務企業",
       "badge": "設置義務化",
       "badgeColor": "blue",
       "icon": "building-library"
     },
     {
       "label": "通報者探索・報復への措置",
+      "labelStandard": "通報者探索・報復への措置",
+      "labelSimple": "通報者探索・報復への措置",
       "value": "刑事罰・過料",
       "unit": "",
       "oldValue": "民事損害賠償のみ",
       "description": "通報者を特定して嫌がらせや左遷を行った関係者を直接処罰",
+      "descriptionStandard": "通報者探索・報復への措置",
+      "descriptionSimple": "通報者探索・報復への措置",
       "badge": "罰則厳罰化",
       "badgeColor": "red",
       "icon": "shield-check"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "admin"
 }

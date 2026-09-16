@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "生物多様性",
-      "variant": "positive"
+      "text": "生物多様性",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "外来種対策",
-      "variant": "positive"
+      "text": "外来種対策",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "生態系保全",
-      "variant": "neutral"
+      "text": "生態系保全",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "販売・野外放流の完全禁止",
+      "labelStandard": "販売・野外放流の完全禁止",
+      "labelSimple": "販売・野外放流の完全禁止",
       "value": "販売・野外放流の完全禁止",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ペットショップでの新規販売や池への遺棄を厳罰化（最高懲役3年）。",
+      "descriptionStandard": "販売・野外放流の完全禁止",
+      "descriptionSimple": "販売・野外放流の完全禁止",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "家での飼育継続はOK",
+      "labelStandard": "家での飼育継続はOK",
+      "labelSimple": "家での飼育継続はOK",
       "value": "家での飼育継続はOK",
+      "unit": "",
+      "oldValue": "現行",
       "description": "いま飼っているザリガニを最後まで大切に飼うことは許可不要で容認。",
+      "descriptionStandard": "家での飼育継続はOK",
+      "descriptionSimple": "家での飼育継続はOK",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "在来種の生息地復活",
+      "labelStandard": "在来種の生息地復活",
+      "labelSimple": "在来種の生息地復活",
       "value": "在来種の生息地復活",
+      "unit": "",
+      "oldValue": "現行",
       "description": "外来種が減った池で絶滅危惧水草や小魚が急速に回復。",
+      "descriptionStandard": "在来種の生息地復活",
+      "descriptionSimple": "在来種の生息地復活",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Leaf"
     }
   ],

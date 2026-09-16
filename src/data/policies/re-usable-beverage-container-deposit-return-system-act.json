@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "想定デポジット額",
+      "labelStandard": "想定デポジット額",
+      "labelSimple": "想定デポジット額",
       "value": "10〜20",
       "unit": "円/本",
       "oldValue": "0円（無料回収）",
       "description": "購入時に預かり金を上乗せし自動回収機返却で即座に電子マネー還元",
+      "descriptionStandard": "想定デポジット額",
+      "descriptionSimple": "想定デポジット額",
       "badge": "金銭インセンティブ",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "海外導入国回収率",
+      "labelStandard": "海外導入国回収率",
+      "labelSimple": "海外導入国回収率",
       "value": "95〜98",
       "unit": "%（ドイツ・北欧等）",
       "oldValue": "散乱ゴミ残存",
       "description": "デポジット制を導入した欧州各国でポイ捨てほぼ完全ゼロ化を達成",
+      "descriptionStandard": "海外導入国回収率",
+      "descriptionSimple": "海外導入国回収率",
       "badge": "驚異の回収率",
       "badgeColor": "blue",
       "icon": "sparkles"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "environment"
 }

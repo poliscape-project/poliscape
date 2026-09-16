@@ -2,7 +2,7 @@
   "id": "generative-ai-copyright-transparency-training-data-law",
   "title": "生成AI学習データセット著作物開示・クリエイター還元法",
   "catchphrase": "AIの無断学習からクリエイターの権利を守る、学習データセットの開示義務と公正な利益還元",
-  "category": "technology",
+  "category": "society",
   "categoryLabel": "テクノロジー・インフラ・通信",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "生成AI",
-      "variant": "positive"
+      "text": "生成AI",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "著作権保護",
-      "variant": "positive"
+      "text": "著作権保護",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "クリエイター支援",
-      "variant": "neutral"
+      "text": "クリエイター支援",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "開示義務",
+      "labelStandard": "開示義務",
+      "labelSimple": "開示義務",
       "value": "学習データ一覧公開",
+      "unit": "",
+      "oldValue": "現行",
       "description": "商用AI基盤モデルに学習元の透明性レポート公表を義務化",
+      "descriptionStandard": "開示義務",
+      "descriptionSimple": "開示義務",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "FileText"
     },
     {
       "label": "オプトアウト",
+      "labelStandard": "オプトアウト",
+      "labelSimple": "オプトアウト",
       "value": "法的拘束力付与",
+      "unit": "",
+      "oldValue": "現行",
       "description": "拒否タグがある著作物のAI無断クローリングを違法化",
+      "descriptionStandard": "オプトアウト",
+      "descriptionSimple": "オプトアウト",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Lock"
     }
   ],

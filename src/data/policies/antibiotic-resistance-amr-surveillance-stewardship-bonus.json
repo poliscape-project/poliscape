@@ -3,7 +3,7 @@
   "title": "薬剤耐性（AMR）対策アクションプランに基づく抗菌薬適正使用加算",
   "category": "healthcare",
   "categoryLabel": "医療・公衆衛生",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "アクションプラン・適正使用加算中",
   "catchphrase": "薬が効かない耐性菌のパンデミックを阻止。風邪への無駄な抗生物質処方抑制と適正使用インセンティブ",
   "lastUpdated": "2026-09-16",
@@ -136,20 +136,28 @@
   "highlights": [
     {
       "label": "経口抗菌薬削減実績",
+      "labelStandard": "経口抗菌薬削減実績",
+      "labelSimple": "経口抗菌薬削減実績",
       "value": "30",
       "unit": "%以上減",
       "oldValue": "年間数千万処方の過剰投薬",
       "description": "アクションプラン推進による経口広域抗菌薬の総使用量大幅削減",
+      "descriptionStandard": "経口抗菌薬削減実績",
+      "descriptionSimple": "経口抗菌薬削減実績",
       "badge": "使用量削減",
       "badgeColor": "green",
       "icon": "TrendingUp"
     },
     {
       "label": "小児適正使用加算",
+      "labelStandard": "小児適正使用加算",
+      "labelSimple": "小児適正使用加算",
       "value": "80",
       "unit": "点（800円相当）",
       "oldValue": "加算なし（処方した方が有利）",
       "description": "風邪に抗生物質を出さずに病態指導を行った医師への公的報酬評価",
+      "descriptionStandard": "小児適正使用加算",
+      "descriptionSimple": "小児適正使用加算",
       "badge": "適正使用評価",
       "badgeColor": "blue",
       "icon": "FileCheck"

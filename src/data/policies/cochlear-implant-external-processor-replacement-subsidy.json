@@ -1,8 +1,8 @@
 {
   "id": "cochlear-implant-external-processor-replacement-subsidy",
   "title": "人工内耳体外装置（サウンドプロセッサ）買替え費用の公費助成制度",
-  "category": "health-medical",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "重度難聴者の聴覚を回復させる人工内耳について、経年劣化する「体外装置（サウンドプロセッサ）」の買替え費用を補装具費支給制度として恒久的に公費助成する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "聴覚障害支援",
-      "variant": "purple"
+      "text": "聴覚障害支援",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "福祉政策",
-      "variant": "green"
+      "text": "福祉政策",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "生活支援",
-      "variant": "blue"
+      "text": "生活支援",
+      "variant": "blue",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "買替え自己負担の削減",
+      "label": "買替え自己負担の削減",
+      "labelStandard": "買替え自己負担の削減",
+      "labelSimple": "買替え自己負担の削減",
       "value": "90",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "100万〜150万円の実費負担が補装具上限月額（一般層で数万円〜原則1割）に激減",
-      "trend": "down",
-      "trendLabel": "自己負担大幅減"
+      "descriptionStandard": "買替え自己負担の削減",
+      "descriptionSimple": "買替え自己負担の削減",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "国内人工内耳装用者数",
+      "label": "国内人工内耳装用者数",
+      "labelStandard": "国内人工内耳装用者数",
+      "labelSimple": "国内人工内耳装用者数",
       "value": "1.5",
       "unit": "万人超",
+      "oldValue": "現行",
       "description": "小児から高齢者まで国内で人工内耳の埋め込み手術を受けた総数",
-      "trend": "up",
-      "trendLabel": "装用者増加中"
+      "descriptionStandard": "国内人工内耳装用者数",
+      "descriptionSimple": "国内人工内耳装用者数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

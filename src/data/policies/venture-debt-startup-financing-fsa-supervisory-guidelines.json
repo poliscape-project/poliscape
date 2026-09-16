@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "スタートアップ",
-      "variant": "positive"
+      "text": "スタートアップ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "金融改革",
-      "variant": "positive"
+      "text": "金融改革",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "イノベーション",
-      "variant": "neutral"
+      "text": "イノベーション",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "株式希薄化の抑制",
+      "labelStandard": "株式希薄化の抑制",
+      "labelSimple": "株式希薄化の抑制",
       "value": "株式希薄化の抑制",
+      "unit": "",
+      "oldValue": "現行",
       "description": "株式を安売りせずに大型の成長運転資金を銀行から調達可能に。",
+      "descriptionStandard": "株式希薄化の抑制",
+      "descriptionSimple": "株式希薄化の抑制",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "金融庁指針の抜本改定",
+      "labelStandard": "金融庁指針の抜本改定",
+      "labelSimple": "金融庁指針の抜本改定",
       "value": "金融庁指針の抜本改定",
+      "unit": "",
+      "oldValue": "現行",
       "description": "赤字スタートアップへの融資を不良債権視しない新査定基準を策定。",
+      "descriptionStandard": "金融庁指針の抜本改定",
+      "descriptionSimple": "金融庁指針の抜本改定",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     },
     {
       "label": "経営者個人保証の原則撤廃",
+      "labelStandard": "経営者個人保証の原則撤廃",
+      "labelSimple": "経営者個人保証の原則撤廃",
       "value": "経営者個人保証の原則撤廃",
+      "unit": "",
+      "oldValue": "現行",
       "description": "創業者個人への無限連帯保証を求めない融資スキームを標準化。",
+      "descriptionStandard": "経営者個人保証の原則撤廃",
+      "descriptionSimple": "経営者個人保証の原則撤廃",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

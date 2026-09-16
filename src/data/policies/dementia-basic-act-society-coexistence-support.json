@@ -2,7 +2,7 @@
   "id": "dementia-basic-act-society-coexistence-support",
   "title": "共生社会の実現を推進するための認知症基本法（本人の意思尊重と共生社会づくり）",
   "catchphrase": "認知症になっても自分らしく生きられる街へ。本人の意思決定支援とバリアフリー・地域見守りネットワーク",
-  "category": "social",
+  "category": "society",
   "categoryLabel": "社会保障・福祉・高齢者支援",
   "lastUpdated": "2024-04-15",
   "effectiveDate": "2024年1月施行",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "認知症基本法",
-      "variant": "positive"
+      "text": "認知症基本法",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "共生社会・インクルージョン",
-      "variant": "positive"
+      "text": "共生社会・インクルージョン",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "財産保護・徘徊課題",
-      "variant": "neutral"
+      "text": "財産保護・徘徊課題",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "基本理念",
+      "labelStandard": "基本理念",
+      "labelSimple": "基本理念",
       "value": "共生と本人の意思尊重",
+      "unit": "",
+      "oldValue": "現行",
       "description": "保護・隔離から尊厳ある自立生活支援への大転換",
+      "descriptionStandard": "基本理念",
+      "descriptionSimple": "基本理念",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "施策策定",
+      "labelStandard": "施策策定",
+      "labelSimple": "施策策定",
       "value": "当事者の直接参画義務",
+      "unit": "",
+      "oldValue": "現行",
       "description": "国・自治体の計画策定に認知症本人の意見を反映",
+      "descriptionStandard": "施策策定",
+      "descriptionSimple": "施策策定",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "FileText"
     },
     {
       "label": "金融対応",
+      "labelStandard": "金融対応",
+      "labelSimple": "金融対応",
       "value": "預金引き出し柔軟化指針",
+      "unit": "",
+      "oldValue": "現行",
       "description": "医療費・介護費等の正当な払い戻しを銀行が支援",
+      "descriptionStandard": "金融対応",
+      "descriptionSimple": "金融対応",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

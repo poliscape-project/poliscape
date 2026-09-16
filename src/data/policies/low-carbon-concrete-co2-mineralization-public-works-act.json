@@ -1,8 +1,8 @@
 {
   "id": "low-carbon-concrete-co2-mineralization-public-works-act",
   "title": "公共工事におけるCO2固定型コンクリート（低炭素コンクリート）優先調達基準",
-  "category": "energy-environment",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "セメント製造時の大量のCO2排出を削減するため、工場排ガス等の二酸化炭素を炭酸塩としてコンクリート内部に永久鉱物化・固定する「CO2固定型コンクリート（CCUコンクリート）」および高炉スラグ微粉末等を大量置換した「低炭素コンクリート」を、国や自治体の公共工事で優先調達することを義務付ける。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "低炭素コンクリート",
-      "variant": "green"
+      "text": "低炭素コンクリート",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "CCU・炭素固定",
-      "variant": "blue"
+      "text": "CCU・炭素固定",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "公共工事DX",
-      "variant": "purple"
+      "text": "公共工事DX",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "CO2削減・固定効果",
+      "label": "CO2削減・固定効果",
+      "labelStandard": "CO2削減・固定効果",
+      "labelSimple": "CO2削減・固定効果",
       "value": "70-100",
       "unit": "%減（最大マイナス）",
+      "oldValue": "現行",
       "description": "高炉スラグ置換と排ガスCO2強制固定により、従来のセメント排出を実質ゼロ以下に",
-      "trend": "down",
-      "trendLabel": "炭素ネガティブ"
+      "descriptionStandard": "CO2削減・固定効果",
+      "descriptionSimple": "CO2削減・固定効果",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "公共土木指定対象工事",
+      "label": "公共土木指定対象工事",
+      "labelStandard": "公共土木指定対象工事",
+      "labelSimple": "公共土木指定対象工事",
       "value": "10,000",
       "unit": "件/年",
+      "oldValue": "現行",
       "description": "全国の直轄国道・河川・港湾工事で優先指定されるプレキャスト部材規模",
-      "trend": "up",
-      "trendLabel": "大量調達"
+      "descriptionStandard": "公共土木指定対象工事",
+      "descriptionSimple": "公共土木指定対象工事",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

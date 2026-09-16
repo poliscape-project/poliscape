@@ -161,50 +161,62 @@
   "badges": [
     {
       "label": "難治性てんかん薬解禁",
-      "variant": "neutral"
+      "text": "難治性てんかん薬解禁",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "使用罪の新設（7年以下）",
-      "variant": "neutral"
+      "text": "使用罪の新設（7年以下）",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "成分（THC）規制へ転換",
-      "variant": "neutral"
+      "text": "成分（THC）規制へ転換",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "医療用大麻の国内使用",
+      "label": "",
       "labelStandard": "大麻草由来医薬品の施用",
+      "labelSimple": "医療用大麻の国内使用",
       "value": "承認・解禁",
       "unit": "（処方箋必要）",
       "oldValue": "一律全面禁止（施用も不可）",
-      "descriptionSimple": "重いてんかんの発作を抑える新しい薬が病院で処方可能に！",
+      "description": "",
       "descriptionStandard": "治験を経た有効な大麻草由来医薬品の医師による施用・処方を容認",
+      "descriptionSimple": "重いてんかんの発作を抑える新しい薬が病院で処方可能に！",
       "badge": "患者待望の解禁",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "HeartPulse"
     },
     {
-      "labelSimple": "大麻使用（吸った場合）の罰則",
+      "label": "",
       "labelStandard": "麻薬施用罪（使用罪）の新設",
+      "labelSimple": "大麻使用（吸った場合）の罰則",
       "value": "最長 7年",
       "unit": "の懲役",
       "oldValue": "使用自体の処罰規定なし",
-      "descriptionSimple": "違法に使っただけでも所持と同じく逮捕・懲役刑の対象に！",
+      "description": "",
       "descriptionStandard": "麻薬取締法上の施用罪を適用し他の麻薬と同様に厳罰化",
+      "descriptionSimple": "違法に使っただけでも所持と同じく逮捕・懲役刑の対象に！",
       "badge": "乱用抑止",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "規制ルールの変更",
+      "label": "",
       "labelStandard": "部位規制から成分規制へ",
+      "labelSimple": "規制ルールの変更",
       "value": "75年ぶり",
       "unit": "の抜本改正",
       "oldValue": "葉や花穂か茎かで判断",
-      "descriptionSimple": "植物の場所ではなく有害成分（THC）の量で判断する現代的基準へ！",
+      "description": "",
       "descriptionStandard": "1948年制定の旧法から国際基準に沿ったTHC濃度による規制体系に刷新",
+      "descriptionSimple": "植物の場所ではなく有害成分（THC）の量で判断する現代的基準へ！",
       "badge": "国際標準化",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "CheckCircle2"

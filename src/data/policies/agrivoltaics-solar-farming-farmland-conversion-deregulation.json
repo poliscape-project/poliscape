@@ -1,7 +1,7 @@
 {
   "id": "agrivoltaics-solar-farming-farmland-conversion-deregulation",
   "title": "営農型太陽光発電（ソーラーシェアリング）の一時転用許可期間10年延長特例",
-  "category": "agriculture",
+  "category": "society",
   "subcategory": "農業改革・再生可能エネルギー",
   "status": "施行中",
   "date": "2024-03",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "一時転用許可期間",
+      "labelStandard": "一時転用許可期間",
+      "labelSimple": "一時転用許可期間",
       "value": "最長10",
       "unit": "年間（一括許可）",
       "oldValue": "原則3年ごと更新",
       "description": "更新リスクを解消し長期融資の引き出しを容易化",
+      "descriptionStandard": "一時転用許可期間",
+      "descriptionSimple": "一時転用許可期間",
       "badge": "許可期間大幅延長",
       "badgeColor": "blue",
       "icon": "calendar"
     },
     {
       "label": "農家平均所得増",
+      "labelStandard": "農家平均所得増",
+      "labelSimple": "農家平均所得増",
       "value": "約1.5〜2",
       "unit": "倍（売電収入合算）",
       "oldValue": "農業単独収入のみ",
       "description": "農作物の売上と固定価格売電によるダブルインカムの確立",
+      "descriptionStandard": "農家平均所得増",
+      "descriptionSimple": "農家平均所得増",
       "badge": "所得安定化",
       "badgeColor": "green",
       "icon": "trending-up"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "agriculture"
 }

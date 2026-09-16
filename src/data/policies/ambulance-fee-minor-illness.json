@@ -139,15 +139,21 @@
   "badges": [
     {
       "label": "軽症選定療養費7,700円",
-      "variant": "neutral"
+      "text": "軽症選定療養費7,700円",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "救急出動パンク抑止",
-      "variant": "neutral"
+      "text": "救急出動パンク抑止",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "#7119相談窓口推奨",
-      "variant": "neutral"
+      "text": "#7119相談窓口推奨",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "international": {

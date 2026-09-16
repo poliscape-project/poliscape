@@ -4,7 +4,7 @@
   "catchphrase": "学ぶ権利をすべての人へ。不登校経験者や外国人労働者を支える公立夜間中学を全国に必置化",
   "category": "education",
   "categoryLabel": "公教育・リカレント",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "夜間中学",
-      "variant": "purple"
+      "text": "夜間中学",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "学び直し",
-      "variant": "blue"
+      "text": "学び直し",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "教育機会確保",
-      "variant": "green"
+      "text": "教育機会確保",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "全国設置県カバー率",
+      "label": "全国設置県カバー率",
+      "labelStandard": "全国設置県カバー率",
+      "labelSimple": "全国設置県カバー率",
       "value": "100",
       "unit": "%達成",
+      "oldValue": "現行",
       "description": "全都道府県および政令指定都市における公立夜間中学校の整備率",
-      "trend": "up",
-      "trendLabel": "全都道府県網羅"
+      "descriptionStandard": "全国設置県カバー率",
+      "descriptionSimple": "全国設置県カバー率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "授業料・教科書自己負担",
+      "label": "授業料・教科書自己負担",
+      "labelStandard": "授業料・教科書自己負担",
+      "labelSimple": "授業料・教科書自己負担",
       "value": "0",
       "unit": "円（完全無料）",
+      "oldValue": "現行",
       "description": "公立夜間中学に在籍するすべての生徒に対する授業料・教科書代の公費全額免除",
-      "trend": "down",
-      "trendLabel": "完全無償"
+      "descriptionStandard": "授業料・教科書自己負担",
+      "descriptionSimple": "授業料・教科書自己負担",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

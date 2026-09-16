@@ -4,7 +4,7 @@
   "catchphrase": "激痛と後遺症を防ぐ。高齢者を対象とした帯状疱疹ワクチン（シングリックス等）の定期接種化",
   "category": "healthcare",
   "categoryLabel": "予防接種・公衆衛生",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "帯状疱疹ワクチン",
-      "variant": "purple"
+      "text": "帯状疱疹ワクチン",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "定期接種化",
-      "variant": "blue"
+      "text": "定期接種化",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "健康寿命延伸",
-      "variant": "green"
+      "text": "健康寿命延伸",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "帯状疱疹予防効果",
+      "label": "帯状疱疹予防効果",
+      "labelStandard": "帯状疱疹予防効果",
+      "labelSimple": "帯状疱疹予防効果",
       "value": "97",
       "unit": "%（不活化ワクチン）",
+      "oldValue": "現行",
       "description": "組換え不活化ワクチン2回接種による高齢者の帯状疱疹発症予防効果",
-      "trend": "up",
-      "trendLabel": "極めて高い予防率"
+      "descriptionStandard": "帯状疱疹予防効果",
+      "descriptionSimple": "帯状疱疹予防効果",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "定期接種自己負担目安",
+      "label": "定期接種自己負担目安",
+      "labelStandard": "定期接種自己負担目安",
+      "labelSimple": "定期接種自己負担目安",
       "value": "3,000",
       "unit": "円/回程度",
+      "oldValue": "現行",
       "description": "公費助成適用後の一般高齢者における1回あたり標準自己負担額水準",
-      "trend": "down",
-      "trendLabel": "大幅負担軽減"
+      "descriptionStandard": "定期接種自己負担目安",
+      "descriptionSimple": "定期接種自己負担目安",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

@@ -131,62 +131,76 @@
   "badges": [
     {
       "label": "湿布・保湿剤差額自腹化",
-      "variant": "neutral"
+      "text": "湿布・保湿剤差額自腹化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "年間数千億円の公費是正",
-      "variant": "neutral"
+      "text": "年間数千億円の公費是正",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "重症アトピー等は3割維持",
-      "variant": "neutral"
+      "text": "重症アトピー等は3割維持",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "薬局で買える薬の病院代",
+      "label": "",
       "labelStandard": "湿布・保湿剤の自己負担",
+      "labelSimple": "薬局で買える薬の病院代",
       "value": "選定療養",
       "unit": "（差額自腹化）",
       "oldValue": "一律3割負担（数百円で入手可能）",
-      "descriptionSimple": "ドラッグストアで買える薬は自己負担が増える！",
+      "description": "",
       "descriptionStandard": "市販薬との価格差を患者が支払う見直し論議",
+      "descriptionSimple": "ドラッグストアで買える薬は自己負担が増える！",
       "badge": "自己負担増の検討",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "HeartPulse"
     },
     {
-      "labelSimple": "国が削れる医療費",
+      "label": "",
       "labelStandard": "想定公費削減効果",
+      "labelSimple": "国が削れる医療費",
       "value": "数千億円",
       "unit": "規模 / 年",
       "oldValue": "美容目的や大量処方で公費が浪費",
-      "descriptionSimple": "ムダな薬代を減らして本当に重い病気に使う！",
+      "description": "",
       "descriptionStandard": "財政制度等審議会が提言するセルフメディケーション促進",
+      "descriptionSimple": "ムダな薬代を減らして本当に重い病気に使う！",
       "badge": "公費ムダ削減",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "1回にもらえる湿布の枚数",
+      "label": "",
       "labelStandard": "処方枚数の制限上限",
+      "labelSimple": "1回にもらえる湿布の枚数",
       "value": "最大 63",
       "unit": "枚まで（削減傾向）",
       "oldValue": "過去70枚・制限なし時代は大量廃棄",
-      "descriptionSimple": "一度にたくさん湿布をもらうことはできない！",
+      "description": "",
       "descriptionStandard": "重複処方や残薬防止のための厳格な数量規制",
+      "descriptionSimple": "一度にたくさん湿布をもらうことはできない！",
       "badge": "まとめ処方制限",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "本当に重い病気の人は？",
+      "label": "",
       "labelStandard": "難病・アトピー患者の特例",
+      "labelSimple": "本当に重い病気の人は？",
       "value": "3割負担",
       "unit": "を維持（例外）",
       "oldValue": "全患者一律負担",
-      "descriptionSimple": "ひどい皮膚病や難病の人は今まで通り安く買える！",
+      "description": "",
       "descriptionStandard": "慢性重症患者の治療継続を守る医療的セーフティネット",
+      "descriptionSimple": "ひどい皮膚病や難病の人は今まで通り安く買える！",
       "badge": "重症者は保護",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "ShieldCheck"

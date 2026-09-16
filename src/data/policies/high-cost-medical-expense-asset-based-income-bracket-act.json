@@ -2,9 +2,9 @@
   "id": "high-cost-medical-expense-asset-based-income-bracket-act",
   "title": "高額療養費制度における所得区分の細分化と金融資産保有状況の勘案議論",
   "catchphrase": "現役世代の過重な保険料負担を是正。高額療養費の上限額細分化と富裕層の応能負担改革",
-  "category": "social-security",
+  "category": "society",
   "categoryLabel": "医療保険改革・社会保障",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "高額療養費改革",
-      "variant": "purple"
+      "text": "高額療養費改革",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "応能負担",
-      "variant": "blue"
+      "text": "応能負担",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "現役世代負担軽減",
-      "variant": "green"
+      "text": "現役世代負担軽減",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "最高所得区分新設",
+      "label": "最高所得区分新設",
+      "labelStandard": "最高所得区分新設",
+      "labelSimple": "最高所得区分新設",
       "value": "2,000",
       "unit": "万円超枠",
+      "oldValue": "現行",
       "description": "高額療養費の上限額を負担能力に応じて適正化するために新設される最高年収所得区分",
-      "trend": "up",
-      "trendLabel": "富裕層応能負担"
+      "descriptionStandard": "最高所得区分新設",
+      "descriptionSimple": "最高所得区分新設",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "現役世代拠出金抑制",
+      "label": "現役世代拠出金抑制",
+      "labelStandard": "現役世代拠出金抑制",
+      "labelSimple": "現役世代拠出金抑制",
       "value": "1,500",
       "unit": "億円/年規模",
+      "oldValue": "現行",
       "description": "高額療養費見直しと応能負担徹底により抑制される現役世代の公的医療保険支援金総額",
-      "trend": "down",
-      "trendLabel": "保険料抑制"
+      "descriptionStandard": "現役世代拠出金抑制",
+      "descriptionSimple": "現役世代拠出金抑制",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

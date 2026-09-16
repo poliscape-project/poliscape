@@ -2,7 +2,7 @@
   "id": "patient-advocate-hospital-ombudsperson-system",
   "title": "医療オンブズパーソン制度（患者権利擁護相談員の総合病院常駐義務化）",
   "catchphrase": "患者と医療者の対話を支える、中立な権利擁護相談員の総合病院配置",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・福祉",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "患者権利",
-      "variant": "positive"
+      "text": "患者権利",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "医療対話",
-      "variant": "positive"
+      "text": "医療対話",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "医療安全",
-      "variant": "neutral"
+      "text": "医療安全",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "対象病院規模",
+      "labelStandard": "対象病院規模",
+      "labelSimple": "対象病院規模",
       "value": "300床以上",
+      "unit": "",
+      "oldValue": "現行",
       "description": "全国約1,000カ所の総合病院・急性期病院に配置義務化",
+      "descriptionStandard": "対象病院規模",
+      "descriptionSimple": "対象病院規模",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "相談窓口中立性",
+      "labelStandard": "相談窓口中立性",
+      "labelSimple": "相談窓口中立性",
       "value": "第三者保証",
+      "unit": "",
+      "oldValue": "現行",
       "description": "病院経営陣から独立した守秘義務付き専任相談員が対応",
+      "descriptionStandard": "相談窓口中立性",
+      "descriptionSimple": "相談窓口中立性",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

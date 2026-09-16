@@ -2,7 +2,7 @@
   "id": "age-related-hearing-loss-hearing-aid-subsidy-act",
   "title": "加齢性難聴者補聴器購入公費助成制度（認知症予防・地域生活支援）",
   "catchphrase": "耳の聞こえを守り認知症を防ぐ、高齢者補聴器購入の公費助成",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・福祉",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年10月施行予定",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "補聴器助成",
-      "variant": "positive"
+      "text": "補聴器助成",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "認知症予防",
-      "variant": "positive"
+      "text": "認知症予防",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "加齢性難聴",
-      "variant": "neutral"
+      "text": "加齢性難聴",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "認知症リスクを最大遮断",
+      "labelStandard": "認知症リスクを最大遮断",
+      "labelSimple": "認知症リスクを最大遮断",
       "value": "認知症リスクを最大遮断",
+      "unit": "",
+      "oldValue": "現行",
       "description": "聞こえを維持することで脳への刺激を保ち孤立やうつを予防。",
+      "descriptionStandard": "認知症リスクを最大遮断",
+      "descriptionSimple": "認知症リスクを最大遮断",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "最大5万〜10万円の購入補助",
+      "labelStandard": "最大5万〜10万円の購入補助",
+      "labelSimple": "最大5万〜10万円の購入補助",
       "value": "最大5万〜10万円の購入補助",
+      "unit": "",
+      "oldValue": "現行",
       "description": "高額な補聴器購入費用を国と自治体が連携して補助。",
+      "descriptionStandard": "最大5万〜10万円の購入補助",
+      "descriptionSimple": "最大5万〜10万円の購入補助",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "専門医のフィッティング必須",
+      "labelStandard": "専門医のフィッティング必須",
+      "labelSimple": "専門医のフィッティング必須",
       "value": "専門医のフィッティング必須",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ただ配るだけでなく耳鼻科医の適切な検査・調整を条件化し無駄を防ぐ。",
+      "descriptionStandard": "専門医のフィッティング必須",
+      "descriptionSimple": "専門医のフィッティング必須",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

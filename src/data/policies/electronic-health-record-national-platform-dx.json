@@ -2,7 +2,7 @@
   "id": "electronic-health-record-national-platform-dx",
   "title": "電子カルテ情報共有サービス・全国医療情報プラットフォームの構築",
   "catchphrase": "日本の医療をクラウドで繋ぐ。全国どの病院・薬局でもカルテや検査結果を共有し、重複投薬やたらい回しを撲滅",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・健康・公衆衛生",
   "lastUpdated": "2024-05-20",
   "effectiveDate": "2025年度からの全国本格稼働に向け導入支援中",
@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "医療DX全国基盤",
-      "variant": "positive"
+      "text": "医療DX全国基盤",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "2025年本格稼働",
-      "variant": "neutral"
+      "text": "2025年本格稼働",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "セキュリティ必須",
-      "variant": "warning"
+      "text": "セキュリティ必須",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "共有項目",
+      "labelStandard": "共有項目",
+      "labelSimple": "共有項目",
       "value": "傷病名・アレルギー・検査値",
+      "unit": "",
+      "oldValue": "現行",
       "description": "生活習慣病情報や処方歴を全国シームレス連携",
+      "descriptionStandard": "共有項目",
+      "descriptionSimple": "共有項目",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "規格",
+      "labelStandard": "規格",
+      "labelSimple": "規格",
       "value": "国際標準 HL7 FHIR",
+      "unit": "",
+      "oldValue": "現行",
       "description": "メーカーごとの囲い込みを打破する共通データ構造",
+      "descriptionStandard": "規格",
+      "descriptionSimple": "規格",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "メリット",
+      "labelStandard": "メリット",
+      "labelSimple": "メリット",
       "value": "重複検査排除と救急救命",
+      "unit": "",
+      "oldValue": "現行",
       "description": "身体的・金銭的負担の軽減と迅速な医療処置",
+      "descriptionStandard": "メリット",
+      "descriptionSimple": "メリット",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     }
   ],

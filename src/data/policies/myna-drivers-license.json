@@ -161,62 +161,76 @@
   "badges": [
     {
       "label": "更新手数料400円引",
-      "variant": "neutral"
+      "text": "更新手数料400円引",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "住所変更ワンストップ",
-      "variant": "neutral"
+      "text": "住所変更ワンストップ",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "スマホ24hオンライン講習",
-      "variant": "neutral"
+      "text": "スマホ24hオンライン講習",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "免許の更新手数料",
+      "label": "",
       "labelStandard": "更新手数料（一体化）",
+      "labelSimple": "免許の更新手数料",
       "value": "2,100",
       "unit": "円",
       "oldValue": "従来免許証 2,500円（差額400円安）",
-      "descriptionSimple": "マイナ一体化で更新料が400円お得に！",
+      "description": "",
       "descriptionStandard": "マイナ免許証保有者は更新手数料が優遇",
+      "descriptionSimple": "マイナ一体化で更新料が400円お得に！",
       "badge": "400円お得",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "住所変更の手間",
+      "label": "",
       "labelStandard": "引越し時の住所変更",
+      "labelSimple": "住所変更の手間",
       "value": "1箇所",
       "unit": "（ワンストップ）",
       "oldValue": "これまで 警察署・交番に別届け出",
-      "descriptionSimple": "市役所で手続きすれば警察への届出不要！",
+      "description": "",
       "descriptionStandard": "自治体窓口のマイナ更新で警察署変更も同時完了",
+      "descriptionSimple": "市役所で手続きすれば警察への届出不要！",
       "badge": "ワンストップ",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Sparkles"
     },
     {
-      "labelSimple": "更新講習の受け方",
+      "label": "",
       "labelStandard": "オンライン更新講習",
+      "labelSimple": "更新講習の受け方",
       "value": "24時間",
       "unit": "自宅受講可能",
       "oldValue": "これまで 免許センター等で対面受講",
-      "descriptionSimple": "優良運転者はスマホで好きな時に講習！",
+      "description": "",
       "descriptionStandard": "優良・一般運転者はマイナポータルから受講可",
+      "descriptionSimple": "優良運転者はスマホで好きな時に講習！",
       "badge": "スマホ受講",
       "badgeColor": "bg-indigo-100 text-indigo-800",
       "icon": "Clock"
     },
     {
-      "labelSimple": "持ち方のルール",
+      "label": "",
       "labelStandard": "所持形態の選択制",
+      "labelSimple": "持ち方のルール",
       "value": "3通り",
       "unit": "から選択",
       "oldValue": "従来型免許証のみ",
-      "descriptionSimple": "一体化・従来のまま・2枚持ちから自由に選べる",
+      "description": "",
       "descriptionStandard": "義務ではなく任意。従来の運転免許証の継続も可能",
+      "descriptionSimple": "一体化・従来のまま・2枚持ちから自由に選べる",
       "badge": "任意選択",
       "badgeColor": "bg-slate-100 text-slate-700",
       "icon": "ShieldCheck"

@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "近視進行抑制率",
+      "labelStandard": "近視進行抑制率",
+      "labelSimple": "近視進行抑制率",
       "value": "約50〜60",
       "unit": "%（点眼・特殊レンズ併用）",
       "oldValue": "放置による無制限進行",
       "description": "低濃度アトロピンやオルソケラトロジーによる眼軸長延長の抑制効果",
+      "descriptionStandard": "近視進行抑制率",
+      "descriptionSimple": "近視進行抑制率",
       "badge": "進行半減",
       "badgeColor": "green",
       "icon": "eye"
     },
     {
       "label": "推奨屋外活動時間",
+      "labelStandard": "推奨屋外活動時間",
+      "labelSimple": "推奨屋外活動時間",
       "value": "1日2",
       "unit": "時間以上（太陽光）",
       "oldValue": "室内受光中心",
       "description": "バイオレットライト受光によるドーパミン分泌と眼軸伸長抑止",
+      "descriptionStandard": "推奨屋外活動時間",
+      "descriptionSimple": "推奨屋外活動時間",
       "badge": "外遊び推奨",
       "badgeColor": "blue",
       "icon": "sun"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "healthcare"
 }

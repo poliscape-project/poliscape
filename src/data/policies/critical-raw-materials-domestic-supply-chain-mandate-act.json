@@ -4,7 +4,7 @@
   "catchphrase": "中国依存を打破しEV・ハイブリッド車を守る。レアアース・永久磁石・蓄電池部材の国内調達を支援",
   "category": "economy",
   "categoryLabel": "経済安全保障・資源戦略",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "経済安全保障",
-      "variant": "purple"
+      "text": "経済安全保障",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "永久磁石自給",
-      "variant": "blue"
+      "text": "永久磁石自給",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "都市鉱山",
-      "variant": "green"
+      "text": "都市鉱山",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "永久磁石国内自給率目標",
+      "label": "永久磁石国内自給率目標",
+      "labelStandard": "永久磁石国内自給率目標",
+      "labelSimple": "永久磁石国内自給率目標",
       "value": "50",
       "unit": "%以上",
+      "oldValue": "現行",
       "description": "国内設備投資およびリサイクル推進により達成を目指す車載用永久磁石の国内調達比率",
-      "trend": "up",
-      "trendLabel": "自給率倍増"
+      "descriptionStandard": "永久磁石国内自給率目標",
+      "descriptionSimple": "永久磁石国内自給率目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "特定国輸入依存度低減",
+      "label": "特定国輸入依存度低減",
+      "labelStandard": "特定国輸入依存度低減",
+      "labelSimple": "特定国輸入依存度低減",
       "value": "40",
       "unit": "%以下目標",
+      "oldValue": "現行",
       "description": "豪州・カナダ等への多角化により現状90%超から引き下げる特定国レアアース依存度",
-      "trend": "down",
-      "trendLabel": "依存脱却"
+      "descriptionStandard": "特定国輸入依存度低減",
+      "descriptionSimple": "特定国輸入依存度低減",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

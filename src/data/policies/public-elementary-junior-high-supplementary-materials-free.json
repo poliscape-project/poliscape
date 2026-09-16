@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "副教材費自己負担",
+      "labelStandard": "副教材費自己負担",
+      "labelSimple": "副教材費自己負担",
       "value": "0",
       "unit": "円（全額公費完全無償）",
       "oldValue": "年間1人約2万〜4万円",
       "description": "ドリル・ワークブック・プリント集・実験教材を公費で一括支給",
+      "descriptionStandard": "副教材費自己負担",
+      "descriptionSimple": "副教材費自己負担",
       "badge": "完全無償化",
       "badgeColor": "green",
       "icon": "currency-yen"
     },
     {
       "label": "教員集金事務時間",
+      "labelStandard": "教員集金事務時間",
+      "labelSimple": "教員集金事務時間",
       "value": "0",
       "unit": "時間（督促・集金ゼロ化）",
       "oldValue": "毎月数時間の未納督促・管理",
       "description": "公費直接調達により教員の精神的集金ストレスを完全解消",
+      "descriptionStandard": "教員集金事務時間",
+      "descriptionSimple": "教員集金事務時間",
       "badge": "集金事務ゼロ",
       "badgeColor": "blue",
       "icon": "clock"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

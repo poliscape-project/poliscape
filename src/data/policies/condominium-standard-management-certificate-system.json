@@ -2,7 +2,7 @@
   "id": "condominium-standard-management-certificate-system",
   "title": "マンション管理適正化法改正（管理計画認定制度と修繕積立金適正化）",
   "catchphrase": "マンションの廃墟化を防ぐ、自治体による管理計画の公的認定と修繕積立金引き上げガイドライン",
-  "category": "welfare",
+  "category": "society",
   "categoryLabel": "社会保障・福祉",
   "lastUpdated": "2026-02-09",
   "effectiveDate": "2024年4月本格運用",
@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "マンション管理",
-      "variant": "positive"
+      "text": "マンション管理",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "修繕積立金",
-      "variant": "positive"
+      "text": "修繕積立金",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "資産価値",
-      "variant": "neutral"
+      "text": "資産価値",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "自治体のお墨付き認定",
+      "labelStandard": "自治体のお墨付き認定",
+      "labelSimple": "自治体のお墨付き認定",
       "value": "自治体のお墨付き認定",
+      "unit": "",
+      "oldValue": "現行",
       "description": "管理規約や修繕計画が健全なマンションを自治体が公式認定。",
+      "descriptionStandard": "自治体のお墨付き認定",
+      "descriptionSimple": "自治体のお墨付き認定",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Home"
     },
     {
       "label": "修繕積立金の適正引き上げ",
+      "labelStandard": "修繕積立金の適正引き上げ",
+      "labelSimple": "修繕積立金の適正引き上げ",
       "value": "修繕積立金の適正引き上げ",
+      "unit": "",
+      "oldValue": "現行",
       "description": "将来の一時金徴収破綻を防ぐ均等積立方式への移行を促進。",
+      "descriptionStandard": "修繕積立金の適正引き上げ",
+      "descriptionSimple": "修繕積立金の適正引き上げ",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "不明所有者の決議除外",
+      "labelStandard": "不明所有者の決議除外",
+      "labelSimple": "不明所有者の決議除外",
       "value": "不明所有者の決議除外",
+      "unit": "",
+      "oldValue": "現行",
       "description": "連絡がつかない幽霊所有者を分母から除外して円滑に議決可能に。",
+      "descriptionStandard": "不明所有者の決議除外",
+      "descriptionSimple": "不明所有者の決議除外",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     }
   ],

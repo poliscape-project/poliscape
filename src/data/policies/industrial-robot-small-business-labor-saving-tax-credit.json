@@ -1,8 +1,8 @@
 {
   "id": "industrial-robot-small-business-labor-saving-tax-credit",
   "title": "中小製造業向け協働ロボット・省力化自動機導入の特別償却・税額控除",
-  "category": "economy-industry",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "少子高齢化に伴う中小製造業の深刻な熟練職人不足を解消するため、人と並んで作業できる「協働ロボット（コボット）」や自動搬送車（AGV/AMR）等の省力化設備を導入した企業に対し、即時償却（100%特別償却）または最大10%の税額控除を適用する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "中小企業",
-      "variant": "blue"
+      "text": "中小企業",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "ロボットDX",
-      "variant": "green"
+      "text": "ロボットDX",
+      "variant": "green",
+      "color": "blue"
     },
     {
       "label": "生産性向上",
-      "variant": "purple"
+      "text": "生産性向上",
+      "variant": "purple",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "特別償却限度額",
+      "label": "特別償却限度額",
+      "labelStandard": "特別償却限度額",
+      "labelSimple": "特別償却限度額",
       "value": "100",
       "unit": "%（即時償却）",
+      "oldValue": "現行",
       "description": "導入初年度に全額を一括費用化して大幅な節税・資金繰り改善を実現",
-      "trend": "up",
-      "trendLabel": "全額即時償却"
+      "descriptionStandard": "特別償却限度額",
+      "descriptionSimple": "特別償却限度額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "省力化補助上限額",
+      "label": "省力化補助上限額",
+      "labelStandard": "省力化補助上限額",
+      "labelSimple": "省力化補助上限額",
       "value": "1,500",
       "unit": "万円",
+      "oldValue": "現行",
       "description": "カタログ型省力化補助金における中小企業の設備購入補助上限",
-      "trend": "up",
-      "trendLabel": "手厚い補助"
+      "descriptionStandard": "省力化補助上限額",
+      "descriptionSimple": "省力化補助上限額",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

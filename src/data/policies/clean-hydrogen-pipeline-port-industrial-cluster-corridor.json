@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "インフラ補助率",
+      "labelStandard": "インフラ補助率",
+      "labelSimple": "インフラ補助率",
       "value": "最大50",
       "unit": "%（公費助成）",
       "oldValue": "民間全額自己負担",
       "description": "GX経済移行債基金を活用した国家規模のパイプライン敷設支援",
+      "descriptionStandard": "インフラ補助率",
+      "descriptionSimple": "インフラ補助率",
       "badge": "最大半額補助",
       "badgeColor": "blue",
       "icon": "currency-yen"
     },
     {
       "label": "輸送コスト低減率",
+      "labelStandard": "輸送コスト低減率",
+      "labelSimple": "輸送コスト低減率",
       "value": "約80",
       "unit": "%減（ローリー比）",
       "oldValue": "個別高額輸送",
       "description": "パイプライン直結による大量高圧輸送で物流費を劇的圧縮",
+      "descriptionStandard": "輸送コスト低減率",
+      "descriptionSimple": "輸送コスト低減率",
       "badge": "コスト削減",
       "badgeColor": "green",
       "icon": "trending-down"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "environment"
 }

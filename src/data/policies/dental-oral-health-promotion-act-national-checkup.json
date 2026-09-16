@@ -2,7 +2,7 @@
   "id": "dental-oral-health-promotion-act-national-checkup",
   "title": "歯科口腔保健推進法改正（国民皆歯科健診制度の導入推進・オーラルフレイル予防）",
   "catchphrase": "歯を失うと認知症や心臓病のリスクが高まる。全世代での年1回歯科健診受診を促す「国民皆歯科健診」",
-  "category": "social",
+  "category": "society",
   "categoryLabel": "社会保障・医療・予防歯科",
   "lastUpdated": "2024-04-15",
   "effectiveDate": "骨太の方針に明記・制度設計推進中",
@@ -121,34 +121,64 @@
   "badges": [
     {
       "label": "国民皆歯科健診",
-      "variant": "positive"
+      "text": "国民皆歯科健診",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "オーラルフレイル予防",
-      "variant": "positive"
+      "text": "オーラルフレイル予防",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "企業健診費用課題",
-      "variant": "neutral"
+      "text": "企業健診費用課題",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "健診方針",
+      "labelStandard": "健診方針",
+      "labelSimple": "健診方針",
       "value": "全世代で年1回受診",
+      "unit": "",
+      "oldValue": "現行",
       "description": "成人期・壮年期の受診空白を埋め全身疾患を未然予防",
+      "descriptionStandard": "健診方針",
+      "descriptionSimple": "健診方針",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     },
     {
       "label": "連携先",
+      "labelStandard": "連携先",
+      "labelSimple": "連携先",
       "value": "企業の職場定期健康診断",
+      "unit": "",
+      "oldValue": "現行",
       "description": "労働安全衛生法健診とタイアップした受診率引き上げ",
+      "descriptionStandard": "連携先",
+      "descriptionSimple": "連携先",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "高齢者",
+      "labelStandard": "高齢者",
+      "labelSimple": "高齢者",
       "value": "オーラルフレイル検査必須化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "噛む力・舌の筋力チェックにより誤嚥性肺炎を阻止",
+      "descriptionStandard": "高齢者",
+      "descriptionSimple": "高齢者",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

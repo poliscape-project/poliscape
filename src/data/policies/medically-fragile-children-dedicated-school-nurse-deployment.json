@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "保護者付き添い解消率",
+      "labelStandard": "保護者付き添い解消率",
+      "labelSimple": "保護者付き添い解消率",
       "value": "約85",
       "unit": "%（希望世帯）",
       "oldValue": "ほぼ100%が毎日終日付き添い",
       "description": "看護師常駐化により親の学校拘束を原則解消",
+      "descriptionStandard": "保護者付き添い解消率",
+      "descriptionSimple": "保護者付き添い解消率",
       "badge": "付き添い大幅解消",
       "badgeColor": "green",
       "icon": "check-circle"
     },
     {
       "label": "全国学校看護師配置数",
+      "labelStandard": "全国学校看護師配置数",
+      "labelSimple": "全国学校看護師配置数",
       "value": "約5,000",
       "unit": "名規模へ倍増",
       "oldValue": "約2,000名（2020年）",
       "description": "公費補助増額により全国の普通小中学校への常駐が加速",
+      "descriptionStandard": "全国学校看護師配置数",
+      "descriptionSimple": "全国学校看護師配置数",
       "badge": "配置数大幅増",
       "badgeColor": "blue",
       "icon": "user-group"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

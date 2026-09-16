@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "子ども政策",
-      "variant": "neutral"
+      "text": "子ども政策",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "人権擁護",
-      "variant": "positive"
+      "text": "人権擁護",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "いじめ防止",
-      "variant": "positive"
+      "text": "いじめ防止",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "教育委員会から完全独立",
+      "labelStandard": "教育委員会から完全独立",
+      "labelSimple": "教育委員会から完全独立",
       "value": "教育委員会から完全独立",
+      "unit": "",
+      "oldValue": "現行",
       "description": "忖度のない中立な立場からいじめ・虐待を調査・勧告。",
+      "descriptionStandard": "教育委員会から完全独立",
+      "descriptionSimple": "教育委員会から完全独立",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "子ども直通のチャット相談",
+      "labelStandard": "子ども直通のチャット相談",
+      "labelSimple": "子ども直通のチャット相談",
       "value": "子ども直通のチャット相談",
+      "unit": "",
+      "oldValue": "現行",
       "description": "スマホから直接助けを呼べる24時間相談窓口を整備。",
+      "descriptionStandard": "子ども直通のチャット相談",
+      "descriptionSimple": "子ども直通のチャット相談",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "強力な調査・勧告権限",
+      "labelStandard": "強力な調査・勧告権限",
+      "labelSimple": "強力な調査・勧告権限",
       "value": "強力な調査・勧告権限",
+      "unit": "",
+      "oldValue": "現行",
       "description": "学校や行政に対する立入調査と是正措置命令を法制化。",
+      "descriptionStandard": "強力な調査・勧告権限",
+      "descriptionSimple": "強力な調査・勧告権限",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     }
   ],

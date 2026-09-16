@@ -129,58 +129,76 @@
   "badges": [
     {
       "label": "鳥獣捕獲報奨金",
-      "variant": "neutral"
+      "text": "鳥獣捕獲報奨金",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "ICT罠・ドローン",
-      "variant": "neutral"
+      "text": "ICT罠・ドローン",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "国産ジビエ認証",
-      "variant": "neutral"
+      "text": "国産ジビエ認証",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "畑の農作物被害額",
+      "label": "",
       "labelStandard": "年間鳥獣被害額",
+      "labelSimple": "畑の農作物被害額",
       "value": "約150億",
       "unit": "円（高止まり）",
       "oldValue": "シカ・イノシシ・クマの生息数が急増",
       "description": "収穫直前の野菜や果樹の食害が頻発",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "被害150億円",
       "badgeColor": "bg-rose-100 text-rose-800",
       "icon": "AlertTriangle"
     },
     {
-      "labelSimple": "猟師さんの高齢化",
+      "label": "",
       "labelStandard": "狩猟免許所持者の年齢",
+      "labelSimple": "猟師さんの高齢化",
       "value": "60%超",
       "unit": "が60歳以上",
       "oldValue": "ピーク時約50万人から21万人に激減",
       "description": "引退ラッシュで駆除の担い手が危機",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "担い手高齢化",
       "badgeColor": "bg-amber-100 text-amber-800",
       "icon": "Users"
     },
     {
-      "labelSimple": "スマホで見張る罠",
+      "label": "",
       "labelStandard": "ICT罠・捕獲支援",
+      "labelSimple": "スマホで見張る罠",
       "value": "自動",
       "unit": "通知（見回り半減）",
       "oldValue": "毎日山奥の罠を見回る過酷な重労働",
       "description": "獲物感知時にスマホへ自動連絡",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "スマート捕獲",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "Smartphone"
     },
     {
-      "labelSimple": "お肉としての活用",
+      "label": "",
       "labelStandard": "国産ジビエ消費量",
+      "labelSimple": "お肉としての活用",
       "value": "4,000",
       "unit": "トン目標（倍増）",
       "oldValue": "駆除個体の9割以上が埋設廃棄処分",
       "description": "衛生処理施設を認証し給食やペット用へ",
+      "descriptionStandard": "",
+      "descriptionSimple": "",
       "badge": "命をいただく",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "HeartHandshake"

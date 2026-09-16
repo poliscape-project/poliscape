@@ -1,8 +1,8 @@
 {
   "id": "digital-identity-smartphone-mynumber-face-to-face-act",
   "title": "スマートフォン搭載マイナンバーカードによる公的個人認証の対面本人確認法制化",
-  "category": "digital-transformation",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "物理的なプラスチック製マイナンバーカードを携帯・提示することなく、スマートフォン内のセキュアエレメント（GP-SE）に格納された電子証明書を専用リーダーにかざすだけで、銀行口座開設、携帯電話契約、病院受付、行政窓口での「公的個人認証（JPKI）対面確認」を完了できる法的効力を付与する。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "デジタルID",
-      "variant": "purple"
+      "text": "デジタルID",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "特殊詐欺防止",
-      "variant": "blue"
+      "text": "特殊詐欺防止",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "JPKI推進",
-      "variant": "green"
+      "text": "JPKI推進",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "偽造券面詐欺阻止率",
+      "label": "偽造券面詐欺阻止率",
+      "labelStandard": "偽造券面詐欺阻止率",
+      "labelSimple": "偽造券面詐欺阻止率",
       "value": "99.9",
       "unit": "%阻止",
+      "oldValue": "現行",
       "description": "JPKI暗号電子証明書による真正性検証による身分証券面偽造犯行の阻止効果",
-      "trend": "up",
-      "trendLabel": "偽造無力化"
+      "descriptionStandard": "偽造券面詐欺阻止率",
+      "descriptionSimple": "偽造券面詐欺阻止率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "窓口手続所要時間",
+      "label": "窓口手続所要時間",
+      "labelStandard": "窓口手続所要時間",
+      "labelSimple": "窓口手続所要時間",
       "value": "60",
       "unit": "%削減",
+      "oldValue": "現行",
       "description": "身分証コピー・氏名手書きからスマホタッチ認証への移行による窓口処理時間短縮",
-      "trend": "down",
-      "trendLabel": "手続迅速化"
+      "descriptionStandard": "窓口手続所要時間",
+      "descriptionSimple": "窓口手続所要時間",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

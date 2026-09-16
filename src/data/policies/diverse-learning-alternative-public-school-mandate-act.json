@@ -4,7 +4,7 @@
   "catchphrase": "不登校児童生徒30万人時代の新しい公教育。学びの多様化学校を全都道府県に設置義務化",
   "category": "education",
   "categoryLabel": "教育・学校改革",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "学びの多様化",
-      "variant": "purple"
+      "text": "学びの多様化",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "不登校支援",
-      "variant": "blue"
+      "text": "不登校支援",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "教育セーフティネット",
-      "variant": "green"
+      "text": "教育セーフティネット",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "全国設置目標校数",
+      "label": "全国設置目標校数",
+      "labelStandard": "全国設置目標校数",
+      "labelSimple": "全国設置目標校数",
       "value": "300",
       "unit": "校規模",
+      "oldValue": "現行",
       "description": "全都道府県・主要自治体で展開される学びの多様化学校（分教室含む）の設置目標",
-      "trend": "up",
-      "trendLabel": "全国網羅"
+      "descriptionStandard": "全国設置目標校数",
+      "descriptionSimple": "全国設置目標校数",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "授業時数削減率",
+      "label": "授業時数削減率",
+      "labelStandard": "授業時数削減率",
+      "labelSimple": "授業時数削減率",
       "value": "20",
       "unit": "%削減",
+      "oldValue": "現行",
       "description": "標準学習指導要領比較で柔軟に削減・再編される年間授業時間数（個別探究へ転換）",
-      "trend": "down",
-      "trendLabel": "負担軽減"
+      "descriptionStandard": "授業時数削減率",
+      "descriptionSimple": "授業時数削減率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "クイックコマース",
-      "variant": "positive"
+      "text": "クイックコマース",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "住環境保護",
-      "variant": "positive"
+      "text": "住環境保護",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "都市計画",
-      "variant": "neutral"
+      "text": "都市計画",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "住宅街の静けさを保護",
+      "labelStandard": "住宅街の静けさを保護",
+      "labelSimple": "住宅街の静けさを保護",
       "value": "住宅街の静けさを保護",
+      "unit": "",
+      "oldValue": "現行",
       "description": "閑静な住宅街での早朝深夜のバイク爆走や路上荷積みを禁止。",
+      "descriptionStandard": "住宅街の静けさを保護",
+      "descriptionSimple": "住宅街の静けさを保護",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "敷地内駐輪スペース義務化",
+      "labelStandard": "敷地内駐輪スペース義務化",
+      "labelSimple": "敷地内駐輪スペース義務化",
       "value": "敷地内駐輪スペース義務化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "歩道に配達自転車が溢れるのを防ぐため敷地内に専用パーキングを義務付け。",
+      "descriptionStandard": "敷地内駐輪スペース義務化",
+      "descriptionSimple": "敷地内駐輪スペース義務化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "店舗か倉庫かの線引き",
+      "labelStandard": "店舗か倉庫かの線引き",
+      "labelSimple": "店舗か倉庫かの線引き",
       "value": "店舗か倉庫かの線引き",
+      "unit": "",
+      "oldValue": "現行",
       "description": "客が入らない配達拠点は法的に「倉庫」と定義し住居地域から排除。",
+      "descriptionStandard": "店舗か倉庫かの線引き",
+      "descriptionSimple": "店舗か倉庫かの線引き",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     }
   ],

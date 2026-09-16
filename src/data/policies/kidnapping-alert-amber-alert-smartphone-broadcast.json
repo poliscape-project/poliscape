@@ -2,7 +2,7 @@
   "id": "kidnapping-alert-amber-alert-smartphone-broadcast",
   "title": "子ども連れ去り・行方不明時「アンバーアラート」スマホ緊急速報法",
   "catchphrase": "誘拐された子どもを社会全員の目で救う、スマホ緊急速報を活用した日本版「アンバーアラート」法制化",
-  "category": "safety",
+  "category": "society",
   "categoryLabel": "司法・治安・刑事政策",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "子どもの安全",
-      "variant": "positive"
+      "text": "子どもの安全",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "アンバーアラート",
-      "variant": "positive"
+      "text": "アンバーアラート",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "緊急速報",
-      "variant": "neutral"
+      "text": "緊急速報",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "通知速度",
+      "labelStandard": "通知速度",
+      "labelSimple": "通知速度",
       "value": "数分以内に一斉配信",
+      "unit": "",
+      "oldValue": "現行",
       "description": "指定エリア内の全スマートフォンへ写真と車両ナンバーを即時送信",
+      "descriptionStandard": "通知速度",
+      "descriptionSimple": "通知速度",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "サイネージ",
+      "labelStandard": "サイネージ",
+      "labelSimple": "サイネージ",
       "value": "高速道路・駅画面連動",
+      "unit": "",
+      "oldValue": "現行",
       "description": "街頭ビジョンや高速道路電光掲示板に緊急手配情報を自動表示",
+      "descriptionStandard": "サイネージ",
+      "descriptionSimple": "サイネージ",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Radio"
     }
   ],

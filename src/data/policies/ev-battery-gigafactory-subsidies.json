@@ -175,62 +175,76 @@
   "badges": [
     {
       "label": "国内電池工場へ1兆円支援",
-      "variant": "neutral"
+      "text": "国内電池工場へ1兆円支援",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "全固体電池2020年代実用化",
-      "variant": "neutral"
+      "text": "全固体電池2020年代実用化",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "EV踊り場・HV優位の市場",
-      "variant": "neutral"
+      "text": "EV踊り場・HV優位の市場",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "labelSimple": "電池工場への国のお金",
+      "label": "",
       "labelStandard": "国内蓄電池工場への支援額",
+      "labelSimple": "電池工場への国のお金",
       "value": "最大 1",
       "unit": "兆円規模",
       "oldValue": "民間の自己投資のみで中国・韓国に劣後",
-      "descriptionSimple": "巨大なバッテリー工場を日本に作るお手伝い！",
+      "description": "",
       "descriptionStandard": "トヨタ・ホンダ等のギガファクトリー新設を強力支援",
+      "descriptionSimple": "巨大なバッテリー工場を日本に作るお手伝い！",
       "badge": "1兆円支援",
       "badgeColor": "bg-blue-100 text-blue-800",
       "icon": "BatteryCharging"
     },
     {
-      "labelSimple": "日本で作る電池の目標",
+      "label": "",
       "labelStandard": "2030年 国内製造能力目標",
+      "labelSimple": "日本で作る電池の目標",
       "value": "150",
       "unit": "GWh（ギガワット時）",
       "oldValue": "世界シェアの過半数を中国メーカーが支配",
-      "descriptionSimple": "日本の車を全部動かせるくらいの電池を作る！",
+      "description": "",
       "descriptionStandard": "グローバル600GWh、国内150GWhの国家目標",
+      "descriptionSimple": "日本の車を全部動かせるくらいの電池を作る！",
       "badge": "量産目標",
       "badgeColor": "bg-teal-100 text-teal-800",
       "icon": "Layers"
     },
     {
-      "labelSimple": "電気自動車で一番高い部品",
+      "label": "",
       "labelStandard": "車両コストに占める電池比率",
+      "labelSimple": "電気自動車で一番高い部品",
       "value": "約 30〜40",
       "unit": "%",
       "oldValue": "エンジン車ではエンジンが原価の約15%",
-      "descriptionSimple": "電池を外国に握られたら日本の自動車産業が負ける！",
+      "description": "",
       "descriptionStandard": "自動車の付加価値の核心を自社・国内で死守",
+      "descriptionSimple": "電池を外国に握られたら日本の自動車産業が負ける！",
       "badge": "最重要部品",
       "badgeColor": "bg-purple-100 text-purple-800",
       "icon": "Wallet"
     },
     {
-      "labelSimple": "夢の次世代バッテリー",
+      "label": "",
       "labelStandard": "全固体電池の実用化目標",
+      "labelSimple": "夢の次世代バッテリー",
       "value": "2020年代",
       "unit": "後半量産化",
       "oldValue": "現在の液系電池では航続距離・発火リスクに限界",
-      "descriptionSimple": "燃えにくく超高速で充電できる未来の電池！",
+      "description": "",
       "descriptionStandard": "特許数世界一の日本勢によるゲームチェンジ戦略",
+      "descriptionSimple": "燃えにくく超高速で充電できる未来の電池！",
       "badge": "全固体電池",
       "badgeColor": "bg-emerald-100 text-emerald-800",
       "icon": "Zap"

@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "フィンテック",
-      "variant": "positive"
+      "text": "フィンテック",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "ステーブルコイン",
-      "variant": "neutral"
+      "text": "ステーブルコイン",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "金融規制",
-      "variant": "positive"
+      "text": "金融規制",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "24時間即時低コスト送金",
+      "labelStandard": "24時間即時低コスト送金",
+      "labelSimple": "24時間即時低コスト送金",
       "value": "24時間即時低コスト送金",
+      "unit": "",
+      "oldValue": "現行",
       "description": "銀行送金の時間外制限や高額手数料をブロックチェーンで打破。",
+      "descriptionStandard": "24時間即時低コスト送金",
+      "descriptionSimple": "24時間即時低コスト送金",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "全額信託保全による保護",
+      "labelStandard": "全額信託保全による保護",
+      "labelSimple": "全額信託保全による保護",
       "value": "全額信託保全による保護",
+      "unit": "",
+      "oldValue": "現行",
       "description": "発行体破綻時でも預託資産から全額が利用者へ返還される仕組み。",
+      "descriptionStandard": "全額信託保全による保護",
+      "descriptionSimple": "全額信託保全による保護",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "厳格な本人確認・取引監査",
+      "labelStandard": "厳格な本人確認・取引監査",
+      "labelSimple": "厳格な本人確認・取引監査",
       "value": "厳格な本人確認・取引監査",
+      "unit": "",
+      "oldValue": "現行",
       "description": "マネーロンダリング対策として登録事業者による取引監視を徹底。",
+      "descriptionStandard": "厳格な本人確認・取引監査",
+      "descriptionSimple": "厳格な本人確認・取引監査",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Scale"
     }
   ],

@@ -1,0 +1,264 @@
+{
+  "id": "isolated-settlement-emergency-satellite-starlink-deployment",
+  "title": "災害時孤立集落向け衛星ブロードバンド（Starlink等）全国配備",
+  "category": "transport",
+  "subcategory": "防災通信・孤立集落対策・宇宙インフラ活用",
+  "catchphrase": "通信途絶をゼロに！低軌道衛星ブロードバンドアンテナの全国過疎集落・避難所事前配備",
+  "lastUpdated": "2026-03-28",
+  "status": "enacted",
+  "statusLabel": "全国配備推進中",
+  "summary": {
+    "simple": [
+      "地震や土砂崩れで道路が寸断され、携帯電話の電波や光回線が途切れて陸の孤島になった集落や避難所に、空さえ見えれば高速インターネットがつながる小型衛星アンテナ（Starlinkなど）を配備する取り組みです。",
+      "わかりやすい支援を進めます。"
+    ],
+    "standard": [
+      "大規模自然災害による光ファイバー切断や基地局倒壊に伴う「通信孤立」を防止するため、全国の中山間地域・孤立可能性集落の公民館、小中学校、防災拠点に対し、低軌道衛星コンステレーション（Starlink等）受信アンテナおよびポータブル電源を事前配備し、被災直後から住民の安否確認や救護要請を可能にする施策。",
+      "通信途絶をゼロに！低軌道衛星ブロードバンドアンテナの全国過疎集落・避難所事前配備"
+    ]
+  },
+  "background": {
+    "simple": "能登半島地震では多くの集落が孤立し、スマホも通じないため「どこに誰が取り残され、何が足りないか」が外部に分からず救助が大幅に遅れる事態が発生しました。",
+    "standard": "従来の静止衛星通信（防災相互通信用等）は通信速度が遅く専用機器の操作が困難であった。低軌道衛星（LEO）技術の実用化により、一般のスマートフォンからWi-Fi経由で高画質なビデオ通話や大容量データ通信が可能な環境が整ったため、総務省・デジタル庁が主導して全国の孤立危険地域への一斉導入が開始された。"
+  },
+  "changes": [
+    {
+      "id": "change-1",
+      "topic": "全国の土砂災害特別警戒区域内集落や離島の指定避難所...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "全国の土砂災害特別警戒区域内集落や離島の指定避難所への衛星ブロードバンドアンテナおよび蓄電池の無償配備",
+      "highlight": "全国の土砂災害特別警戒区域内集落や離島の指定避難所への衛星ブ",
+      "icon": "FileCheck"
+    },
+    {
+      "id": "change-2",
+      "topic": "被災時にパスワードなしで誰でも利用できる「公衆無料...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "被災時にパスワードなしで誰でも利用できる「公衆無料Wi-Fi（00000JAPAN連携）」の自動解放機能の搭載",
+      "highlight": "被災時にパスワードなしで誰でも利用できる「公衆無料Wi-Fi",
+      "icon": "TrendingUp"
+    },
+    {
+      "id": "change-3",
+      "topic": "自治体防災行政無線および警察・消防・自衛隊との災害...",
+      "before": "従来の制度・運用（未整備または個別対応）",
+      "after": "自治体防災行政無線および警察・消防・自衛隊との災害対策本部間IP電話・ライブ映像伝送網の確立",
+      "highlight": "自治体防災行政無線および警察・消防・自衛隊との災害対策本部間",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される主な効果・メリット（推進側の視点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "道路が寸断されても集落から即座にSOSを発信でき、...",
+        "summary": "道路が寸断されても集落から即座にSOSを発信でき、ドクターヘリの要請や負傷者のトリアージが劇的に迅速化",
+        "detail": "道路が寸断されても集落から即座にSOSを発信でき、ドクターヘリの要請や負傷者のトリアージが劇的に迅速化",
+        "simpleDetail": "道路が寸断されても集落から即座にSOSを発信でき、ドクターヘリの要請や負傷者のトリアージが劇的に迅速化",
+        "tag": "期待・効果"
+      },
+      {
+        "id": "b2",
+        "title": "避難住民が家族や親族とLINEや通話で安否確認がで...",
+        "summary": "避難住民が家族や親族とLINEや通話で安否確認ができ、極限の被災状況下での精神的孤立とパニックを防止",
+        "detail": "避難住民が家族や親族とLINEや通話で安否確認ができ、極限の被災状況下での精神的孤立とパニックを防止",
+        "simpleDetail": "避難住民が家族や親族とLINEや通話で安否確認ができ、極限の被災状況下での精神的孤立とパニックを防止",
+        "tag": "期待・効果"
+      },
+      {
+        "id": "b3",
+        "title": "避難所内の支援物資要請や罹災証明書受付などの行政手...",
+        "summary": "避難所内の支援物資要請や罹災証明書受付などの行政手続きが通信回線を通じて初動からデジタル処理可能",
+        "detail": "避難所内の支援物資要請や罹災証明書受付などの行政手続きが通信回線を通じて初動からデジタル処理可能",
+        "simpleDetail": "避難所内の支援物資要請や罹災証明書受付などの行政手続きが通信回線を通じて初動からデジタル処理可能",
+        "tag": "期待・効果"
+      }
+    ],
+    "challengesTitle": "検討されている課題・懸念点（慎重側の視点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "悪天候（豪雪や激しい雨）や周囲の高木・崖による衛星...",
+        "summary": "悪天候（豪雪や激しい雨）や周囲の高木・崖による衛星受信角度の遮蔽による通信速度低下",
+        "detail": "悪天候（豪雪や激しい雨）や周囲の高木・崖による衛星受信角度の遮蔽による通信速度低下",
+        "simpleDetail": "悪天候（豪雪や激しい雨）や周囲の高木・崖による衛星受信角度の遮蔽による通信速度低下",
+        "tag": "課題・懸念"
+      },
+      {
+        "id": "c2",
+        "title": "年間の通信衛星サービス維持費（月額利用料）を自治体...",
+        "summary": "年間の通信衛星サービス維持費（月額利用料）を自治体・集落が平時にどう負担・維持するか",
+        "detail": "年間の通信衛星サービス維持費（月額利用料）を自治体・集落が平時にどう負担・維持するか",
+        "simpleDetail": "年間の通信衛星サービス維持費（月額利用料）を自治体・集落が平時にどう負担・維持するか",
+        "tag": "課題・懸念"
+      },
+      {
+        "id": "c3",
+        "title": "民間の特定外国通信衛星プラットフォーム（米国スペー...",
+        "summary": "民間の特定外国通信衛星プラットフォーム（米国スペースX社等）への過度な依存に対する安全保障上の懸念",
+        "detail": "民間の特定外国通信衛星プラットフォーム（米国スペースX社等）への過度な依存に対する安全保障上の懸念",
+        "simpleDetail": "民間の特定外国通信衛星プラットフォーム（米国スペースX社等）への過度な依存に対する安全保障上の懸念",
+        "tag": "課題・懸念"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023年",
+      "label": "自治体向け防災拠点における低軌道衛星ブロードバンド...",
+      "title": "自治体向け防災拠点における低軌道衛星ブロードバンド実証実験の開始",
+      "status": "completed",
+      "description": "自治体向け防災拠点における低軌道衛星ブロードバンド実証実験の開始"
+    },
+    {
+      "date": "2024年",
+      "label": "令和6年能登半島地震において被災避難所に数百台のS...",
+      "title": "令和6年能登半島地震において被災避難所に数百台のStarlinkが緊急投入され効果を実証",
+      "status": "completed",
+      "description": "令和6年能登半島地震において被災避難所に数百台のStarlinkが緊急投入され効果を実証"
+    },
+    {
+      "date": "2025年",
+      "label": "全国の孤立可能性集落（約2万箇所）への衛星通信機器...",
+      "title": "全国の孤立可能性集落（約2万箇所）への衛星通信機器配備計画の正式策定",
+      "status": "current",
+      "description": "全国の孤立可能性集落（約2万箇所）への衛星通信機器配備計画の正式策定"
+    }
+  ],
+  "sources": [
+    {
+      "title": "総務省：災害時における非常用通信手段の確保（低軌道衛星通信の活用）",
+      "url": "https://www.soumu.go.jp/menu_seisaku/ict/bousai/satellite.html"
+    },
+    {
+      "title": "デジタル庁：防災DXにおける通信環境強靱化と衛星インターネットの導入",
+      "url": "https://www.digital.go.jp/policies/bousai_dx"
+    }
+  ],
+  "badges": [
+    {
+      "label": "防災通信",
+      "text": "防災通信",
+      "variant": "primary",
+      "color": "blue"
+    },
+    {
+      "label": "Starlink衛星",
+      "text": "Starlink衛星",
+      "variant": "default",
+      "color": "blue"
+    },
+    {
+      "label": "孤立集落ゼロ",
+      "text": "孤立集落ゼロ",
+      "variant": "outline",
+      "color": "blue"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "通信速度",
+      "labelStandard": "通信速度",
+      "labelSimple": "通信速度",
+      "value": "下り100Mbps超",
+      "unit": "（高速ブロードバンド）",
+      "oldValue": "現行",
+      "description": "通信速度",
+      "descriptionStandard": "通信速度",
+      "descriptionSimple": "通信速度",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
+    },
+    {
+      "label": "非常時Wi-Fi",
+      "labelStandard": "非常時Wi-Fi",
+      "labelSimple": "非常時Wi-Fi",
+      "value": "00000JAPAN無料開放",
+      "unit": "（全住民スマホ接続）",
+      "oldValue": "現行",
+      "description": "非常時Wi-Fi",
+      "descriptionStandard": "非常時Wi-Fi",
+      "descriptionSimple": "非常時Wi-Fi",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
+    },
+    {
+      "label": "電源確保",
+      "labelStandard": "電源確保",
+      "labelSimple": "電源確保",
+      "value": "蓄電池・ソーラーセット",
+      "unit": "（停電時72時間稼働）",
+      "oldValue": "現行",
+      "description": "電源確保",
+      "descriptionStandard": "電源確保",
+      "descriptionSimple": "電源確保",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "TrendingUp"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "推進派・利用者の声",
+        "commentStandard": "早期の実装を期待しています。",
+        "commentSimple": "期待しています。"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "専門家・現場の声",
+        "commentStandard": "現場への丁寧な配慮が必要です。",
+        "commentSimple": "課題への配慮が必要です。"
+      }
+    ]
+  },
+  "international": {
+    "summary": "海外主要国における関連施策の比較と最新動向",
+    "countries": [
+      {
+        "country": "ウクライナ",
+        "countryCode": "INT",
+        "flag": "🌐",
+        "systemName": "ウクライナの関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "ウクライナ関係公的機関",
+          "title": "ウクライナにおける制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "アメリカの関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "アメリカ関係公的機関",
+          "title": "アメリカにおける制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      },
+      {
+        "country": "フィリピン",
+        "countryCode": "PH",
+        "flag": "🇵🇭",
+        "systemName": "フィリピンの関連制度・方針",
+        "keyFeature": "",
+        "comparison": "",
+        "source": {
+          "organization": "フィリピン関係公的機関",
+          "title": "フィリピンにおける制度概況資料",
+          "url": "https://www.cas.go.jp"
+        }
+      }
+    ]
+  },
+  "categoryLabel": "国土・交通・防災"
+}

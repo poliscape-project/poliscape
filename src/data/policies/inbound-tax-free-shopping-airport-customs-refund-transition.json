@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "不正転売脱税阻止額",
+      "labelStandard": "不正転売脱税阻止額",
+      "labelSimple": "不正転売脱税阻止額",
       "value": "年数百億",
       "unit": "円規模（税収漏れ防止）",
       "oldValue": "年間巨額の徴収不能",
       "description": "国外持ち出しの現物確認を条件とすることで横流し転売の利益を完全遮断",
+      "descriptionStandard": "不正転売脱税阻止額",
+      "descriptionSimple": "不正転売脱税阻止額",
       "badge": "脱税完全防止",
       "badgeColor": "green",
       "icon": "shield-check"
     },
     {
       "label": "自動還付所要時間",
+      "labelStandard": "自動還付所要時間",
+      "labelSimple": "自動還付所要時間",
       "value": "約10〜15",
       "unit": "秒/人（キオスク処理）",
       "oldValue": "店頭での煩雑な免税手続き",
       "description": "パスポートスキャンと電子決済口座への即時自動送金によるスムーズな出国",
+      "descriptionStandard": "自動還付所要時間",
+      "descriptionSimple": "自動還付所要時間",
       "badge": "秒速自動還付",
       "badgeColor": "blue",
       "icon": "clock"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "economy"
 }

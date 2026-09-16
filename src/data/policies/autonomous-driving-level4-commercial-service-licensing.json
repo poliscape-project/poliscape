@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "レベル4公道解禁",
-      "variant": "positive"
+      "text": "レベル4公道解禁",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "全国50カ所実装へ",
-      "variant": "positive"
+      "text": "全国50カ所実装へ",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "悪天候対応が課題",
-      "variant": "warning"
+      "text": "悪天候対応が課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "運行形態",
+      "labelStandard": "運行形態",
+      "labelSimple": "運行形態",
       "value": "特定自動運行（車内無人）",
+      "unit": "",
+      "oldValue": "現行",
       "description": "遠隔監視・非常停止システムによる完全自動運転",
+      "descriptionStandard": "運行形態",
+      "descriptionSimple": "運行形態",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     },
     {
       "label": "第一号",
+      "labelStandard": "第一号",
+      "labelSimple": "第一号",
       "value": "福井県永平寺町で実用化",
+      "unit": "",
+      "oldValue": "現行",
       "description": "全国の自治体で路線バスの無人化プロジェクトが進行",
+      "descriptionStandard": "第一号",
+      "descriptionSimple": "第一号",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "政策目標",
+      "labelStandard": "政策目標",
+      "labelSimple": "政策目標",
       "value": "2025年全国50自治体実装",
+      "unit": "",
+      "oldValue": "現行",
       "description": "地方の移動難民解消とドライバー不足の根本解決",
+      "descriptionStandard": "政策目標",
+      "descriptionSimple": "政策目標",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "id": "organic-farming-school-lunch-local-procurement-quota-act",
   "title": "みどりの食料システム戦略に基づく学校給食の有機・特別栽培農産物優先調達補助",
-  "category": "agriculture",
+  "category": "society",
   "subcategory": "食育・みどりの食料システム",
   "status": "施行中",
   "date": "2024-04",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "目標有機比率",
+      "labelStandard": "目標有機比率",
+      "labelSimple": "目標有機比率",
       "value": "25",
       "unit": "%（2050年農地目標）",
       "oldValue": "約0.6%（現状）",
       "description": "給食等の公共調達を起爆剤に有機農地を約40倍に拡大する国家戦略",
+      "descriptionStandard": "目標有機比率",
+      "descriptionSimple": "目標有機比率",
       "badge": "国家目標",
       "badgeColor": "green",
       "icon": "flag"
     },
     {
       "label": "食材価格差補助",
+      "labelStandard": "食材価格差補助",
+      "labelSimple": "食材価格差補助",
       "value": "最大100",
       "unit": "%（差額公費支援）",
       "oldValue": "保護者または自治体全額負担",
       "description": "慣行栽培との価格差分および流通調整費を交付金で支援",
+      "descriptionStandard": "食材価格差補助",
+      "descriptionSimple": "食材価格差補助",
       "badge": "価格差全額補填",
       "badgeColor": "blue",
       "icon": "currency-yen"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "agriculture"
 }

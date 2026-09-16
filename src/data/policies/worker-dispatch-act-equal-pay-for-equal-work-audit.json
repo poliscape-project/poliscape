@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "同一労働同一賃金",
-      "variant": "positive"
+      "text": "同一労働同一賃金",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "労使協定方式是正",
-      "variant": "positive"
+      "text": "労使協定方式是正",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "雇い止めリスク",
-      "variant": "warning"
+      "text": "雇い止めリスク",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "監査重点",
+      "labelStandard": "監査重点",
+      "labelSimple": "監査重点",
       "value": "一般賃金水準と手当不払い",
+      "unit": "",
+      "oldValue": "現行",
       "description": "退職金・賞与・通勤手当の実質支給を厳格検査",
+      "descriptionStandard": "監査重点",
+      "descriptionSimple": "監査重点",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "手続適正化",
+      "labelStandard": "手続適正化",
+      "labelSimple": "手続適正化",
       "value": "過半数代表の民主的選任",
+      "unit": "",
+      "oldValue": "現行",
       "description": "会社都合の代表指名を禁止し派遣労働者による信任を徹底",
+      "descriptionStandard": "手続適正化",
+      "descriptionSimple": "手続適正化",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Users"
     },
     {
       "label": "派遣先義務",
+      "labelStandard": "派遣先義務",
+      "labelSimple": "派遣先義務",
       "value": "福利厚生施設の均等利用",
+      "unit": "",
+      "oldValue": "現行",
       "description": "食堂・休憩所・ロッカー等の利用差別を完全是正",
+      "descriptionStandard": "派遣先義務",
+      "descriptionSimple": "派遣先義務",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

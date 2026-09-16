@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "デジタル教科書無償化",
-      "variant": "positive"
+      "text": "デジタル教科書無償化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "英語から本格導入",
-      "variant": "positive"
+      "text": "英語から本格導入",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "近視・紙併用が課題",
-      "variant": "warning"
+      "text": "近視・紙併用が課題",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "無償対象",
+      "labelStandard": "無償対象",
+      "labelSimple": "無償対象",
       "value": "小5〜中3の英語教科書",
+      "unit": "",
+      "oldValue": "現行",
       "description": "音声・動画再生機能を備えたデジタル教科書を全校配布",
+      "descriptionStandard": "無償対象",
+      "descriptionSimple": "無償対象",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "アクセシビリティ",
+      "labelStandard": "アクセシビリティ",
+      "labelSimple": "アクセシビリティ",
       "value": "音声読み上げ・文字拡大",
+      "unit": "",
+      "oldValue": "現行",
       "description": "ディスレクシアや弱視の児童を標準機能で完全サポート",
+      "descriptionStandard": "アクセシビリティ",
+      "descriptionSimple": "アクセシビリティ",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "HeartPulse"
     },
     {
       "label": "基本方針",
+      "labelStandard": "基本方針",
+      "labelSimple": "基本方針",
       "value": "紙とデジタルの併用",
+      "unit": "",
+      "oldValue": "現行",
       "description": "手書き・深い読解の紙と、インタラクティブなデジタルを両立",
+      "descriptionStandard": "基本方針",
+      "descriptionSimple": "基本方針",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     }
   ],

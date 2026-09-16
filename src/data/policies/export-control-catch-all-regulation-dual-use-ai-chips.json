@@ -126,34 +126,64 @@
   "badges": [
     {
       "label": "経済安保",
-      "variant": "positive"
+      "text": "経済安保",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "輸出管理",
-      "variant": "neutral"
+      "text": "輸出管理",
+      "variant": "neutral",
+      "color": "blue"
     },
     {
       "label": "半導体",
-      "variant": "positive"
+      "text": "半導体",
+      "variant": "positive",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "先端製造装置の輸出審査",
+      "labelStandard": "先端製造装置の輸出審査",
+      "labelSimple": "先端製造装置の輸出審査",
       "value": "先端製造装置の輸出審査",
+      "unit": "",
+      "oldValue": "現行",
       "description": "最先端半導体をつくるための露光・成膜・洗浄装置を厳格審査。",
+      "descriptionStandard": "先端製造装置の輸出審査",
+      "descriptionSimple": "先端製造装置の輸出審査",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     },
     {
       "label": "AIチップ・量子技術の保護",
+      "labelStandard": "AIチップ・量子技術の保護",
+      "labelSimple": "AIチップ・量子技術の保護",
       "value": "AIチップ・量子技術の保護",
+      "unit": "",
+      "oldValue": "現行",
       "description": "軍事転用可能なフロンティア技術の不正流出を国境で遮断。",
+      "descriptionStandard": "AIチップ・量子技術の保護",
+      "descriptionSimple": "AIチップ・量子技術の保護",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "迂回ルートの完全封鎖",
+      "labelStandard": "迂回ルートの完全封鎖",
+      "labelSimple": "迂回ルートの完全封鎖",
       "value": "迂回ルートの完全封鎖",
+      "unit": "",
+      "oldValue": "現行",
       "description": "第三国を経由したロンダリング輸出を防止するエンドユーザー調査。",
+      "descriptionStandard": "迂回ルートの完全封鎖",
+      "descriptionSimple": "迂回ルートの完全封鎖",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "AlertTriangle"
     }
   ],

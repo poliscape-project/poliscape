@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "就職氷河期",
-      "variant": "positive"
+      "text": "就職氷河期",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "中高年雇用",
-      "variant": "positive"
+      "text": "中高年雇用",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "生活支援",
-      "variant": "neutral"
+      "text": "生活支援",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "企業助成",
+      "labelStandard": "企業助成",
+      "labelSimple": "企業助成",
       "value": "正社員化で100万円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "3ヶ月のトライアル後に正規雇用転換で手厚く報奨",
+      "descriptionStandard": "企業助成",
+      "descriptionSimple": "企業助成",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Award"
     },
     {
       "label": "本人給付",
+      "labelStandard": "本人給付",
+      "labelSimple": "本人給付",
       "value": "就職支度金30万円",
+      "unit": "",
+      "oldValue": "現行",
       "description": "採用決定時に本人の生活再建費用を直接給付",
+      "descriptionStandard": "本人給付",
+      "descriptionSimple": "本人給付",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Coins"
     }
   ],

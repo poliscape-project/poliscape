@@ -2,7 +2,7 @@
   "id": "program-medical-device-sad-fast-track-approval",
   "title": "プログラム医療機器（SaMD）迅速承認制度・2段階保険適用スキーム",
   "catchphrase": "ソフトウェアが病気を治す。AI画像診断や治療用アプリの迅速承認と早期保険適用で医療イノベーションを加速",
-  "category": "medical",
+  "category": "society",
   "categoryLabel": "医療・健康・公衆衛生",
   "lastUpdated": "2024-05-15",
   "effectiveDate": "2024年度診療報酬改定および薬機法通知により施行",
@@ -152,34 +152,64 @@
   "badges": [
     {
       "label": "SaMD迅速審査",
-      "variant": "positive"
+      "text": "SaMD迅速審査",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "2段階保険適用",
-      "variant": "positive"
+      "text": "2段階保険適用",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "デジタル格差懸念",
-      "variant": "warning"
+      "text": "デジタル格差懸念",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "制度新設",
+      "labelStandard": "制度新設",
+      "labelSimple": "制度新設",
       "value": "2段階保険適用スキーム",
+      "unit": "",
+      "oldValue": "現行",
       "description": "暫定的に保険適用し実臨床データを集めて正式評価",
+      "descriptionStandard": "制度新設",
+      "descriptionSimple": "制度新設",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     },
     {
       "label": "対象機器",
+      "labelStandard": "対象機器",
+      "labelSimple": "対象機器",
       "value": "治療用アプリ・AI診断支援",
+      "unit": "",
+      "oldValue": "現行",
       "description": "高血圧、禁煙、うつ病治療、内視鏡AI画像診断など",
+      "descriptionStandard": "対象機器",
+      "descriptionSimple": "対象機器",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Smartphone"
     },
     {
       "label": "改修対応",
+      "labelStandard": "改修対応",
+      "labelSimple": "改修対応",
       "value": "継続的アップデート容認",
+      "unit": "",
+      "oldValue": "現行",
       "description": "アルゴリズム改善に合わせた柔軟な薬事承認",
+      "descriptionStandard": "改修対応",
+      "descriptionSimple": "改修対応",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingUp"
     }
   ],

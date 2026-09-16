@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "地方銀行",
-      "variant": "positive"
+      "text": "地方銀行",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "クラウドDX",
-      "variant": "positive"
+      "text": "クラウドDX",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "金融インフラ",
-      "variant": "neutral"
+      "text": "金融インフラ",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "コスト削減",
+      "labelStandard": "コスト削減",
+      "labelSimple": "コスト削減",
       "value": "維持費約30〜50%減",
+      "unit": "",
+      "oldValue": "現行",
       "description": "勘定系システムの共同化・クラウド化で重複投資を排除",
+      "descriptionStandard": "コスト削減",
+      "descriptionSimple": "コスト削減",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "TrendingDown"
     },
     {
       "label": "国費助成",
+      "labelStandard": "国費助成",
+      "labelSimple": "国費助成",
       "value": "移行費用の最大1/3",
+      "unit": "",
+      "oldValue": "現行",
       "description": "全国共通オープン基盤への刷新費用を財政支援",
+      "descriptionStandard": "国費助成",
+      "descriptionSimple": "国費助成",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Wallet"
     }
   ],

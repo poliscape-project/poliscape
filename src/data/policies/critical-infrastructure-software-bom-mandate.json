@@ -151,34 +151,64 @@
   "badges": [
     {
       "label": "SBOM導入義務化",
-      "variant": "positive"
+      "text": "SBOM導入義務化",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "重要インフラ防衛",
-      "variant": "positive"
+      "text": "重要インフラ防衛",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "中小企業の更新負担",
-      "variant": "warning"
+      "text": "中小企業の更新負担",
+      "variant": "warning",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "基本概念",
+      "labelStandard": "基本概念",
+      "labelSimple": "基本概念",
       "value": "ソフトウェア部品表 (SBOM)",
+      "unit": "",
+      "oldValue": "現行",
       "description": "システムに含まれる全OSS・ライブラリの原材料表示",
+      "descriptionStandard": "基本概念",
+      "descriptionSimple": "基本概念",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "FileText"
     },
     {
       "label": "即応効果",
+      "labelStandard": "即応効果",
+      "labelSimple": "即応効果",
       "value": "脆弱性検知を数分に短縮",
+      "unit": "",
+      "oldValue": "現行",
       "description": "世界的ゼロデイ攻撃時の影響調査時間を劇的圧縮",
+      "descriptionStandard": "即応効果",
+      "descriptionSimple": "即応効果",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "Clock"
     },
     {
       "label": "適用対象",
+      "labelStandard": "適用対象",
+      "labelSimple": "適用対象",
       "value": "電力・鉄道・医療・通信等",
+      "unit": "",
+      "oldValue": "現行",
       "description": "国家重要インフラおよび医療機器の調達基準へ適用",
+      "descriptionStandard": "適用対象",
+      "descriptionSimple": "適用対象",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],

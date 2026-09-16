@@ -4,7 +4,7 @@
   "catchphrase": "地方の集中治療室を専門医が24時間見守る。遠隔ICUネットワーク整備で救命率向上と医師偏在を解消",
   "category": "healthcare",
   "categoryLabel": "先端医療・救急体制",
-  "status": "active",
+  "status": "enacted",
   "statusLabel": "2026年施行・推進中",
   "lastUpdated": "2026-09-16",
   "summary": {
@@ -126,33 +126,51 @@
   "badges": [
     {
       "label": "遠隔ICU",
-      "variant": "purple"
+      "text": "遠隔ICU",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "医療DX",
-      "variant": "blue"
+      "text": "医療DX",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "救命率向上",
-      "variant": "green"
+      "text": "救命率向上",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "ICU患者死亡率低減",
+      "label": "ICU患者死亡率低減",
+      "labelStandard": "ICU患者死亡率低減",
+      "labelSimple": "ICU患者死亡率低減",
       "value": "20",
       "unit": "%低減",
+      "oldValue": "現行",
       "description": "Tele-ICU導入病院における重症患者の院内死亡率およびICU在院日数の削減効果",
-      "trend": "down",
-      "trendLabel": "死亡率激減"
+      "descriptionStandard": "ICU患者死亡率低減",
+      "descriptionSimple": "ICU患者死亡率低減",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "接続病床数目標",
+      "label": "接続病床数目標",
+      "labelStandard": "接続病床数目標",
+      "labelSimple": "接続病床数目標",
       "value": "1,500",
       "unit": "床",
+      "oldValue": "現行",
       "description": "全国の地方中核病院において遠隔専門医支援センターとオンライン常時接続されるICU病床数",
-      "trend": "up",
-      "trendLabel": "全国網羅"
+      "descriptionStandard": "接続病床数目標",
+      "descriptionSimple": "接続病床数目標",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

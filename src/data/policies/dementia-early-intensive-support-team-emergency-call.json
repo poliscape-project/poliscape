@@ -1,8 +1,8 @@
 {
   "id": "dementia-early-intensive-support-team-emergency-call",
   "title": "認知症初期集中支援チームの24時間緊急往診・見守り連携体制",
-  "category": "social-security",
-  "status": "active",
+  "category": "society",
+  "status": "enacted",
   "summary": {
     "standard": [
       "認知症の疑いがある人や発症初期の高齢者宅を訪問する「認知症初期集中支援チーム」に、24時間対応の緊急往診体制とICT見守り連携を義務付ける。",
@@ -122,33 +122,51 @@
   "badges": [
     {
       "label": "認知症対策",
-      "variant": "purple"
+      "text": "認知症対策",
+      "variant": "purple",
+      "color": "blue"
     },
     {
       "label": "地域医療",
-      "variant": "blue"
+      "text": "地域医療",
+      "variant": "blue",
+      "color": "blue"
     },
     {
       "label": "高齢者福祉",
-      "variant": "green"
+      "text": "高齢者福祉",
+      "variant": "green",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
-      "title": "警察保護・救急搬送の削減",
+      "label": "警察保護・救急搬送の削減",
+      "labelStandard": "警察保護・救急搬送の削減",
+      "labelSimple": "警察保護・救急搬送の削減",
       "value": "45",
       "unit": "%減",
+      "oldValue": "現行",
       "description": "先行自治体における夜間出動体制導入後の警察保護・救急搬送の削減実績",
-      "trend": "down",
-      "trendLabel": "緊急搬送減"
+      "descriptionStandard": "警察保護・救急搬送の削減",
+      "descriptionSimple": "警察保護・救急搬送の削減",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Award"
     },
     {
-      "title": "在宅生活継続率",
+      "label": "在宅生活継続率",
+      "labelStandard": "在宅生活継続率",
+      "labelSimple": "在宅生活継続率",
       "value": "80",
       "unit": "%以上",
+      "oldValue": "現行",
       "description": "初期集中介入後、半年以上自宅での安定した生活を維持できた割合",
-      "trend": "up",
-      "trendLabel": "在宅維持率"
+      "descriptionStandard": "在宅生活継続率",
+      "descriptionSimple": "在宅生活継続率",
+      "badge": "注目",
+      "badgeColor": "blue",
+      "icon": "Target"
     }
   ],
   "voices": {

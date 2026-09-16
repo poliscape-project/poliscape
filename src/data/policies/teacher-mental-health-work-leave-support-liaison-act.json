@@ -141,20 +141,28 @@
   "highlights": [
     {
       "label": "面談義務化基準時間",
+      "labelStandard": "面談義務化基準時間",
+      "labelSimple": "面談義務化基準時間",
       "value": "80",
       "unit": "時間/月超",
       "oldValue": "100時間超",
       "description": "残業過労死ライン（月80時間）に達した全教員への面談を義務付け",
+      "descriptionStandard": "面談義務化基準時間",
+      "descriptionSimple": "面談義務化基準時間",
       "badge": "基準強化",
       "badgeColor": "red",
       "icon": "clock"
     },
     {
       "label": "復職初期の担当授業割合",
+      "labelStandard": "復職初期の担当授業割合",
+      "labelSimple": "復職初期の担当授業割合",
       "value": "50",
       "unit": "%以下",
       "oldValue": "100%（即時フル）",
       "description": "復職後3ヶ月〜半年間は持ちコマ数を通常教員の半分以下に制限",
+      "descriptionStandard": "復職初期の担当授業割合",
+      "descriptionSimple": "復職初期の担当授業割合",
       "badge": "負担軽減",
       "badgeColor": "green",
       "icon": "user-check"
@@ -226,5 +234,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "education"
 }

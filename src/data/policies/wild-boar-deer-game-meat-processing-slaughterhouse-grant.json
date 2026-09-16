@@ -1,7 +1,7 @@
 {
   "id": "wild-boar-deer-game-meat-processing-slaughterhouse-grant",
   "title": "鳥獣被害対策におけるジビエ解体処理施設の衛生基準認証と流通補助金",
-  "category": "agriculture",
+  "category": "society",
   "subcategory": "鳥獣被害対策・地域振興",
   "status": "施行中",
   "date": "2024-04",
@@ -147,20 +147,28 @@
   "highlights": [
     {
       "label": "処理施設補助率",
+      "labelStandard": "処理施設補助率",
+      "labelSimple": "処理施設補助率",
       "value": "最大50",
       "unit": "%（公費助成）",
       "oldValue": "自治体・猟友会全額負担",
       "description": "HACCP準拠の衛生解体施設・ジビエカー導入費を国が半額補助",
+      "descriptionStandard": "処理施設補助率",
+      "descriptionSimple": "処理施設補助率",
       "badge": "最大半額補助",
       "badgeColor": "blue",
       "icon": "currency-yen"
     },
     {
       "label": "年間ジビエ利用量",
+      "labelStandard": "年間ジビエ利用量",
+      "labelSimple": "年間ジビエ利用量",
       "value": "約3,000",
       "unit": "トン（倍増ペース）",
       "oldValue": "約1,200トン（2016年度）",
       "description": "廃棄されていた捕獲鳥獣を安全な食肉として活用拡大",
+      "descriptionStandard": "年間ジビエ利用量",
+      "descriptionSimple": "年間ジビエ利用量",
       "badge": "利用量大幅増",
       "badgeColor": "green",
       "icon": "trending-up"
@@ -232,5 +240,6 @@
       }
     ]
   },
-  "statusLabel": "実施・運用中"
+  "statusLabel": "実施・運用中",
+  "categoryLabel": "agriculture"
 }

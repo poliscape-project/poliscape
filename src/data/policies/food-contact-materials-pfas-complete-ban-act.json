@@ -2,7 +2,7 @@
   "id": "food-contact-materials-pfas-complete-ban-act",
   "title": "食品包装容器・テイクアウト包材PFAS（有機フッ素化合物）使用禁止法",
   "catchphrase": "体内に蓄積する永遠の化学物質を排除、ハンバーガー包み紙やピザ箱のPFAS完全禁止",
-  "category": "safety",
+  "category": "society",
   "categoryLabel": "司法・治安・刑事政策",
   "lastUpdated": "2026-01-18",
   "effectiveDate": "2026年4月施行予定",
@@ -125,28 +125,50 @@
   "badges": [
     {
       "label": "脱PFAS",
-      "variant": "positive"
+      "text": "脱PFAS",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "食品安全",
-      "variant": "positive"
+      "text": "食品安全",
+      "variant": "positive",
+      "color": "blue"
     },
     {
       "label": "健康保護",
-      "variant": "neutral"
+      "text": "健康保護",
+      "variant": "neutral",
+      "color": "blue"
     }
   ],
   "highlights": [
     {
       "label": "規制対象",
+      "labelStandard": "規制対象",
+      "labelSimple": "規制対象",
       "value": "食品包装へのPFAS全廃",
+      "unit": "",
+      "oldValue": "現行",
       "description": "耐油紙・紙コップ・ピザ箱・テイクアウト容器への意図的添加を禁止",
+      "descriptionStandard": "規制対象",
+      "descriptionSimple": "規制対象",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "CheckCircle2"
     },
     {
       "label": "水際基準",
+      "labelStandard": "水際基準",
+      "labelSimple": "水際基準",
       "value": "総フッ素量50ppm以下",
+      "unit": "",
+      "oldValue": "現行",
       "description": "検疫所での精密検査により基準超の輸入食品包材を水際差し止め",
+      "descriptionStandard": "水際基準",
+      "descriptionSimple": "水際基準",
+      "badge": "注目",
+      "badgeColor": "blue",
       "icon": "ShieldCheck"
     }
   ],
