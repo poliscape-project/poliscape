@@ -1,0 +1,211 @@
+{
+  "id": "food-contact-materials-pfas-complete-ban-act",
+  "title": "食品包装容器・テイクアウト包材PFAS（有機フッ素化合物）使用禁止法",
+  "catchphrase": "体内に蓄積する永遠の化学物質を排除、ハンバーガー包み紙やピザ箱のPFAS完全禁止",
+  "category": "safety",
+  "categoryLabel": "司法・治安・刑事政策",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年4月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "発がん性、免疫力低下、甲状腺異常等の健康被害が指摘される「PFAS（ペルフルオロアルキル化合物・ポリフルオロアルキル化合物）」から国民の健康を守るため、食品接触材料への使用を全面禁止する法律。",
+      "ファストフードの包み紙（耐油紙）、電子レンジポップコーン袋、ピザの箱、紙コップ、テイクアウト用惣菜トレー等におけるPFAS（PFOS/PFOA/PFHxS等および全PFAS群）の意図的添加・使用を100%禁止する。",
+      "植物性ワックスやセルロースナノファイバー（CNF）を用いた安全な天然由来耐油包材への代替を推進するため、製紙メーカー・包装容器メーカーの開発設備投資に最大50%を国庫助成する。"
+    ],
+    "simple": [
+      "ハンバーガーの包み紙やピザの箱、紙コップなどから、体にたまって病気の原因になる危険な化学物質「PFAS（有機フッ素化合物）」を完全に禁止する法律です。",
+      "PFASは油や水を弾く便利な成分として使われていましたが、体から何年も排出されず、がんやアレルギーの原因になることが分かってきました。",
+      "植物の油や安全な木の繊維（セルロース）を使った、体に優しくて油も漏れない新しい紙の包み紙を作る会社を国が応援します。"
+    ]
+  },
+  "background": {
+    "standard": "「永遠の化学物質（Forever Chemicals）」と呼ばれるPFASは、自然界で分解されず人体や血液中に何年も残留・蓄積する。米国食品医薬品局（FDA）や欧州各国が食品包装におけるPFAS使用を全面禁止する中、日本国内でも河川や水道水での検出が社会問題化し、毎日口にするテイクアウト食品の耐油紙からの体内移行リスクを遮断する法制化が急務となっていた。",
+    "simple": "フライポテトやハンバーガーの油を通さない紙に、実は体に悪い化学物質（PFAS）が使われていました。欧米ではすでに禁止令が出されており、日本でも赤ちゃんの健康や国民の体を守るために使うのを禁止します。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "食品接触紙・容器へのPFAS意図的添加の完全禁止",
+      "before": "水道水や土壌の基準のみで、食品包材への明確な禁止規定なし",
+      "after": "ファストフード包み紙・紙皿・ピザ箱へのPFAS添加・使用を全廃（完全違法化）",
+      "highlight": "食品包装・テイクアウト包材へのPFAS全面禁止",
+      "icon": "CheckCircle2"
+    },
+    {
+      "id": "c2",
+      "topic": "輸入食品・包装容器の水際検査の義務化",
+      "before": "海外輸入の冷凍食品や包材が無検査で国内流通",
+      "after": "税関・検疫所での総フッ素量検査（フッ素50ppm以下）による輸入差し止め",
+      "highlight": "検疫所でのフッ素検査による輸入差し止め",
+      "icon": "ShieldCheck"
+    },
+    {
+      "id": "c3",
+      "topic": "植物由来・無フッ素耐油包材への転換助成",
+      "before": "代替技術（水性コーティング等）の開発コストが高い",
+      "after": "脱PFAS包装材を開発・製造する中小製紙企業に設備投資費用の半額助成",
+      "highlight": "安全な天然由来包材開発への50%助成",
+      "icon": "Wallet"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "国民の体内PFAS蓄積と発がんリスクの根絶",
+        "summary": "温かい油物食品を通じて包紙から溶け出し体内へ移行する最大の摂取経路を遮断できる",
+        "detail": "乳幼児や妊婦への健康被害（低体重児出産、ワクチン抗体反応低下）を確実に予防する",
+        "simpleDetail": "温かいハンバーガーから体に悪い化学物質が溶け出す心配がなくなり、安心して食べられます",
+        "tag": "健康安全"
+      },
+      {
+        "id": "b2",
+        "title": "堆肥化（コンポスト）可能な完全エコ容器の実現",
+        "summary": "PFASを含まない紙容器はそのまま生ごみと一緒に堆肥化でき、土壌や地下水のPFAS汚染を防止する",
+        "detail": "食品残渣と包装容器を分別せずにリサイクルできるサーキュラーエコノミーが前進する",
+        "simpleDetail": "使い終わった紙皿を畑の土に戻しても土を汚さない、本当のエコ容器が街中に広がります",
+        "tag": "環境保全"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "代替包材のコストアップと油染み（耐油性能）の課題",
+        "summary": "フッ素不使用の植物性コーティング紙は製造コストが1.2〜1.5倍高く、時間が経つと油が染み出る恐れ",
+        "detail": "高度セルロースナノファイバー（CNF）コーティング技術の早期量産化と補助金による価格差補填が必要",
+        "simpleDetail": "安全な紙は少し高くなったり油が染み出しやすいため、安くて強い紙を作る技術支援が必要です",
+        "tag": "コスト・性能"
+      },
+      {
+        "id": "c2",
+        "title": "中小外食チェーン・個人飲食店の移行期間猶予",
+        "summary": "大量に買い溜めた既存のテイクアウト容器の廃棄損や、代替容器の手配が間に合わない現場の混乱",
+        "detail": "2年間の段階的経過措置（在庫消化猶予）と、共同仕入れによる安価な調達支援が不可欠",
+        "simpleDetail": "小さな食堂やカフェがいきなり困らないよう、2年間かけてゆっくり切り替える猶予期間を設けます",
+        "tag": "事業継続配慮"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020年2月",
+      "label": "ストックホルム条約（POPs条約）でPFOAが製造・使用禁止に指定",
+      "status": "completed",
+      "description": "国際規制開始。"
+    },
+    {
+      "date": "2024年2月",
+      "label": "米国FDAが食品接触包材におけるPFASの使用全廃を発表",
+      "status": "completed",
+      "description": "米国で完全排除。"
+    },
+    {
+      "date": "2026年4月",
+      "label": "食品接触PFAS完全禁止法の施行予定",
+      "status": "current",
+      "description": "製造・輸入・使用の完全禁止と検査開始。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "厚生労働省",
+      "title": "食品用器具・容器包装の規格基準及びPFASに関するリスク評価",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/kigu/pfas.html"
+    },
+    {
+      "organization": "環境省",
+      "title": "PFAS（PFOS・PFOA等）に対する総合戦略検討専門家会議報告書",
+      "url": "https://www.env.go.jp/water/pfas.html"
+    }
+  ],
+  "badges": [
+    {
+      "label": "脱PFAS",
+      "variant": "positive"
+    },
+    {
+      "label": "食品安全",
+      "variant": "positive"
+    },
+    {
+      "label": "健康保護",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "規制対象",
+      "value": "食品包装へのPFAS全廃",
+      "description": "耐油紙・紙コップ・ピザ箱・テイクアウト容器への意図的添加を禁止",
+      "icon": "CheckCircle2"
+    },
+    {
+      "label": "水際基準",
+      "value": "総フッ素量50ppm以下",
+      "description": "検疫所での精密検査により基準超の輸入食品包材を水際差し止め",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "小児科専門医（日本小児科学会評議員）",
+        "commentStandard": "「PFASの血中濃度はファストフードの摂取頻度と正相関している。子どもたちの未来を守るために包材規制は絶対に必要な公衆衛生対策だ」",
+        "commentSimple": "「子どもたちが大好きなポテトやバーガーの紙から有害な物質をなくすのは、お医者さんとして大賛成です」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "中堅製紙加工会社開発部長",
+        "commentStandard": "「フッ素を使わずに熱い肉汁やマヨネーズを耐える紙を作るのは高度な技術が必要。設備投資の補助金申請手続きを簡素化してほしい」",
+        "commentSimple": "「油に負けない安全な新しい紙を作るための工場の機械代を、しっかり応援してほしいです」"
+      }
+    ]
+  },
+  "international": {
+    "title": "食品接触材料におけるPFAS規制（PFAS Food Packaging Ban）の国際比較",
+    "comparisonSummary": "デンマーク（世界初2020年禁止）、米国FDA、EU全域が食品包装のPFASを全廃。",
+    "countries": [
+      {
+        "country": "デンマーク",
+        "countryCode": "DK",
+        "flag": "🇩🇰",
+        "systemName": "食品接触紙・ダンボールPFAS禁止令（世界初の国家禁止法）",
+        "keyFeature": "2020年7月より、食品接触用の紙・ダンボール製品への有機フッ素化合物の意図的添加を完全禁止。",
+        "source": {
+          "organization": "デンマーク獣医食品庁(DVFA)",
+          "title": "Ban on PFAS in food contact materials",
+          "url": "https://www.foedevarestyrelsen.dk"
+        }
+      },
+      {
+        "country": "米国",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "FDA食品接触用グリース防止剤PFAS自主全廃協定（2024年）",
+        "keyFeature": "米国内で販売される全食品包装からPFAS耐油剤が完全に排除されたことをFDAが公式発表。12州で州法禁止。",
+        "source": {
+          "organization": "米国FDA",
+          "title": "FDA Announces PFAS No Longer Sold for Food Packaging",
+          "url": "https://www.fda.gov"
+        }
+      },
+      {
+        "country": "EU",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "REACH規則に基づくPFAS包括制限提案（Universal PFAS Restriction）",
+        "keyFeature": "欧州化学品庁（ECHA）が全PFAS（1万種以上）の製造・使用・輸入を原則禁止する包括規制を推進中。",
+        "source": {
+          "organization": "欧州化学品庁(ECHA)",
+          "title": "ECHA proposes ban on PFASs",
+          "url": "https://echa.europa.eu"
+        }
+      }
+    ]
+  }
+}

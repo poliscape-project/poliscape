@@ -1,0 +1,216 @@
+{
+  "id": "patient-advocate-hospital-ombudsperson-system",
+  "title": "医療オンブズパーソン制度（患者権利擁護相談員の総合病院常駐義務化）",
+  "catchphrase": "患者と医療者の対話を支える、中立な権利擁護相談員の総合病院配置",
+  "category": "medical",
+  "categoryLabel": "医療・福祉",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年4月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "病状説明や治療方針に納得がいかない患者や家族が、医師や看護師に気兼ねなく相談できるよう、独立した「患者権利擁護員（医療オンブズパーソン）」の総合病院配置を法制化する法律。",
+      "医療紛争やクレームへの発展を未然に防ぎ、インフォームド・コンセント（納得診療）の実質化を後押しする。",
+      "オンブズパーソンには守秘義務と中立性を課し、カルテ閲覧権や院内調査要請権などの権限を付与する。"
+    ],
+    "simple": [
+      "病院で先生の説明がよく分からなかったり不満があるときに、患者さんの味方になって間を取り持ってくれる相談員を置く法律です。",
+      "「先生に聞いたら失礼かも」と遠慮してしまう患者さんの不安を解消し、納得して治療を受けられるようにします。",
+      "病院のスタッフとは別の立場の人なので、安心して本音を相談できます。"
+    ]
+  },
+  "background": {
+    "standard": "医療の高度化・複雑化に伴い、患者と医療従事者間の情報非対称性やコミュニケーション不全によるトラブルが増加している。既存の院内苦情窓口は病院側の立場に偏りがちだったため、患者に寄り添う第三者的な権利擁護制度が強く求められていた。",
+    "simple": "大きな病院で治療を受けるとき、難しい言葉が多くて本当の気持ちを伝えられない人が多いため、患者側の目線でサポートする相談員を配置します。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "オンブズパーソン常駐義務",
+      "before": "一部の病院が自主的に「患者相談窓口」を置くのみ",
+      "after": "300床以上の地域中核・総合病院に公認オンブズパーソンの配置を義務化",
+      "highlight": "総合病院に常駐義務化",
+      "icon": "ShieldCheck"
+    },
+    {
+      "id": "c2",
+      "topic": "中立性と調査権限",
+      "before": "病院事務職が兼任し中立性に疑問",
+      "after": "病院経営から独立した第三者委託または外部有識者による調査権限を保障",
+      "highlight": "経営から独立した調査権",
+      "icon": "CheckCircle2"
+    },
+    {
+      "id": "c3",
+      "topic": "診療報酬での評価",
+      "before": "病院側の完全持ち出し負担",
+      "after": "権利擁護体制加算として診療報酬上のインセンティブを付与",
+      "highlight": "診療報酬上の加算新設",
+      "icon": "TrendingUp"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "医療不信と訴訟の予防",
+        "summary": "些細な不信感や行き違いを初期段階で対話解決し、泥沼の医療訴訟を防げる",
+        "detail": "患者の精神的納得度が高まり、医療従事者側の精神的ストレスも大幅に軽減される",
+        "simpleDetail": "誤解や不満をすぐに話し合って解決できるため、お互いに嫌な思いをせずに済みます",
+        "tag": "信頼関係"
+      },
+      {
+        "id": "b2",
+        "title": "患者主体の医療選択",
+        "summary": "高齢者や身寄りのない患者でも、自己決定を尊重された治療計画を選択できる",
+        "detail": "セカンドオピニオンの取得や緩和ケアへの移行相談が円滑になる",
+        "simpleDetail": "言いたいことを我慢せず、自分に一番合った治療法を選べます",
+        "tag": "患者権利"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "病院経営と人件費負担",
+        "summary": "専任の専門職を雇用・常駐させるためのコスト負担が病院経営を圧迫する恐れ",
+        "detail": "地方の公立病院や赤字病院への十分な財政支援が不可欠",
+        "simpleDetail": "新しく専門の人を雇うための人件費がかかります",
+        "tag": "コスト"
+      },
+      {
+        "id": "c2",
+        "title": "医療現場との摩擦リスク",
+        "summary": "医療行為への過剰な介入や医療不信を煽る結果にならないよう運用基準が重要",
+        "detail": "医学的判断と患者の権利擁護の境界線を明確にするガイドラインが必要",
+        "simpleDetail": "お医者さんの専門的な判断とぶつかって治療がやりにくくならない注意が必要です",
+        "tag": "現場調整"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2018年6月",
+      "label": "日本医療安全調査機構の相談実態調査",
+      "status": "completed",
+      "description": "苦情対応の限界指摘。"
+    },
+    {
+      "date": "2024年4月",
+      "label": "医師の働き方改革施行と患者対話推進",
+      "status": "completed",
+      "description": "対話専門職の必要性高まる。"
+    },
+    {
+      "date": "2025年11月",
+      "label": "医療法改正案にオンブズパーソン規定を明記",
+      "status": "current",
+      "description": "国会審議入り。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "厚生労働省",
+      "title": "医療安全対策と患者相談窓口機能の強化方針",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/anzen/index.html"
+    },
+    {
+      "organization": "日本患者と医療をつなぐ会",
+      "title": "病院オンブズパーソン導入提言",
+      "url": "https://www.patient-advocate.jp"
+    }
+  ],
+  "badges": [
+    {
+      "label": "患者権利",
+      "variant": "positive"
+    },
+    {
+      "label": "医療対話",
+      "variant": "positive"
+    },
+    {
+      "label": "医療安全",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "対象病院規模",
+      "value": "300床以上",
+      "description": "全国約1,000カ所の総合病院・急性期病院に配置義務化",
+      "icon": "CheckCircle2"
+    },
+    {
+      "label": "相談窓口中立性",
+      "value": "第三者保証",
+      "description": "病院経営陣から独立した守秘義務付き専任相談員が対応",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "高齢入院患者の長男",
+        "commentStandard": "「主治医が忙しそうで聞けなかった疑問をオンブズパーソンが丁寧に仲介してくれて疑問が氷解した」",
+        "commentSimple": "「先生が忙しそうで聞けなかったことを相談でき、間に入って説明してくれて安心しました」"
+      },
+      {
+        "speaker": "総合病院医療安全部長",
+        "commentStandard": "「感情的なクレームになる前に初期消火できるため、医師や看護師が医療に専念できる効果は絶大だ」",
+        "commentSimple": "「トラブルになる前に話を聞いてくれる人がいることで、医療スタッフも働きやすくなります」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "地方民間病院理事長",
+        "commentStandard": "「資格要件が厳しすぎると地方では人材が見つからない。兼務やオンライン相談の併用を認めるべきだ」",
+        "commentSimple": "「田舎の病院では専門の人を雇うのが難しいため、ネットでの相談も認めてほしいです」"
+      }
+    ]
+  },
+  "international": {
+    "title": "医療オンブズパーソンに関する主要国の制度比較",
+    "comparisonSummary": "欧米では「ペイシェント・アドボケイト（患者権利擁護者）」が公的医療機関に法定義務として配置されている。",
+    "countries": [
+      {
+        "country": "米国",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "病院患者擁護官（Patient Advocate）制度",
+        "keyFeature": "退役軍人病院（VA）やメディケア指定病院でオンブズマン配置が義務付けられ、患者の不服申立権を完全サポート。",
+        "source": {
+          "organization": "米国退役軍人省",
+          "title": "Patient Advocacy Program",
+          "url": "https://www.va.gov"
+        }
+      },
+      {
+        "country": "英国",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS独立患者擁護サービス（ICAS）",
+        "keyFeature": "NHSに対する不満や苦情を支援する独立した無料アドボカシー組織が法定配置。",
+        "source": {
+          "organization": "英国保健省",
+          "title": "Independent Complaints Advocacy",
+          "url": "https://www.gov.uk"
+        }
+      },
+      {
+        "country": "フィンランド",
+        "countryCode": "FI",
+        "flag": "🇫🇮",
+        "systemName": "患者オンブズマン法（Patient Ombudsman Act）",
+        "keyFeature": "すべての医療・福祉施設に患者オンブズマンの指名を法律で義務付け、権利侵害の救済を徹底。",
+        "source": {
+          "organization": "フィンランドValvira",
+          "title": "Patient ombudsman",
+          "url": "https://valvira.fi"
+        }
+      }
+    ]
+  }
+}

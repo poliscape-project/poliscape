@@ -1,0 +1,211 @@
+{
+  "id": "smart-fishery-catch-data-vessel-electronic-log-act",
+  "title": "水産資源管理・電子操業日誌（デジタル漁獲報告）完全義務化法",
+  "catchphrase": "魚が消える海を食い止める、全漁船への電子操業日誌（デジタル日誌）義務化と資源評価の高度化",
+  "category": "agriculture",
+  "categoryLabel": "農林水産業",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年4月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "サンマ、サバ、スルメイカ等の記録的不漁が続く中、日本の水産資源を科学的に管理し持続可能な漁業へ転換するため、全漁船へのデジタル漁獲報告を義務付ける法律。",
+      "総トン数10トン以上の沖合・沿岸漁船に対し、タブレット端末やスマホアプリから船上で魚種・漁獲量・投網位置（GPS）を即座に入力・送信する「電子操業日誌（e-Logbook）」を義務化する。",
+      "端末導入費用および衛星通信通信料を国庫が100%全額補助し、集積されたビッグデータをAI解析してTAC（漁獲可能量）枠のリアルタイム配分と過剰漁獲の未然防止を実現する。"
+    ],
+    "simple": [
+      "日本の海から魚がいなくなってしまうのを防ぐため、漁師さんが海の上で「どんな魚を何匹獲ったか」をスマホやタブレットで入力して報告する法律です。",
+      "昔ながらの紙の日誌をやめ、アプリでピピッとお魚の重さや場所を入力できるようにし、機械代や通信代は国が全額負担します。",
+      "集まったデータをもとに「獲りすぎ」を防ぎ、海の魚を増やしてずっと美味しい魚を食べ続けられるようにします。"
+    ]
+  },
+  "background": {
+    "standard": "改正漁業法（2020年施行）によりTAC（総獲獲可能量）管理の対象魚種が拡大されたが、現場の漁獲報告は未だに手書きの紙日誌や市場の月末集計に依存しており、データ確定まで数ヶ月のタイムラグがあった。この間に資源が枯渇する「獲りすぎ」が発生していたため、欧米のような洋上リアルタイム電子報告の義務化が不可欠となっていた。",
+    "simple": "魚が減っているのに、誰がどれくらい魚を獲ったかの計算が紙の書類のせいで何ヶ月も遅れていました。その間に魚を獲りすぎて絶滅させてしまわないよう、海の上からスマホでリアルタイムに報告できるようにします。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "電子操業日誌（e-Logbook）の法定義務化",
+      "before": "月末に提出する手書きの紙日誌（集計に数ヶ月の遅延）",
+      "after": "操業終了後即座に洋上からクラウド送信する電子操業日誌を完全義務化",
+      "highlight": "全漁船への電子操業日誌の完全義務化",
+      "icon": "CheckCircle2"
+    },
+    {
+      "id": "c2",
+      "topic": "タブレット端末・通信費の100%公費補助",
+      "before": "漁船用衛星通信の高額な月額料金が漁師の負担",
+      "after": "Starlink等の低軌道衛星通信アンテナおよび専用タブレット費用を全額助成",
+      "highlight": "端末代・衛星通信費を国が全額補助",
+      "icon": "Wallet"
+    },
+    {
+      "id": "c3",
+      "topic": "AIによる水産資源評価のリアルタイム化",
+      "before": "数年前の過去データに基づく後追いの漁獲枠設定",
+      "after": "全国全船のビッグデータ解析により翌週の資源量をリアルタイム推計",
+      "highlight": "AIによる翌週資源推計と枠の機動的配分",
+      "icon": "Activity"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "日本の水産資源の劇的復活と持続可能な漁業",
+        "summary": "親魚の過剰漁獲が確実に防止され、ノルウェーのように数年でサバやタラの資源量が急回復する",
+        "detail": "「小さいうちに獲って安売りする」漁業から「大きく太らせて高く売る」高付加価値漁業へ転換できる",
+        "simpleDetail": "魚の獲りすぎをやめて海を休ませることで、数年後には大きくて脂の乗った魚がたくさん獲れるようになります",
+        "tag": "資源回復"
+      },
+      {
+        "id": "b2",
+        "title": "漁師の事務作業激減と洋上通信環境の改善",
+        "summary": "毎晩港に戻ってから手書きしていた面倒な日誌付けから解放され、音声入力等で数分で報告が完了する",
+        "detail": "全船に配備された高速衛星通信により、洋上での家族との連絡や海の天候急変の察知も可能になる",
+        "simpleDetail": "手書きで紙を書く面倒な宿題がなくなり、海の上でもスマホがつながって安全になります",
+        "tag": "漁業者DX"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "高齢漁師のデジタル機器操作への抵抗感",
+        "summary": "平均年齢が60歳を超える沿岸漁師にとって、揺れる船上でのタブレット操作が困難という現場の悲鳴",
+        "detail": "ワンタップ入力の直感的UIや音声認識入力、地元漁協による代理入力サポート員派遣が必要",
+        "simpleDetail": "機械が苦手なおじいちゃん漁師でも、声で話すだけで簡単に入力できるアプリが必要です",
+        "tag": "操作性配慮"
+      },
+      {
+        "id": "c2",
+        "title": "漁場の秘密（ノウハウ）が他人にバレる懸念",
+        "summary": "どこで大漁だったかというGPS秘密座標が同業者やライバル船に漏れることへの強い警戒感",
+        "detail": "位置情報のマスキング（広域メッシュ集計）と、厳格な守秘義務規定の法制化が不可欠",
+        "simpleDetail": "『自分の秘密の釣り場がライバルにバレるのではないか』と心配されないよう、場所を隠して集計します",
+        "tag": "プライバシー保護"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020年12月",
+      "label": "新漁業法施行（70年ぶりの抜本改正、新資源管理ロードマップ公表）",
+      "status": "completed",
+      "description": "TAC管理拡大。"
+    },
+    {
+      "date": "2023年4月",
+      "label": "水産庁がスマート水産業推進実証事業で電子日誌アプリ配布開始",
+      "status": "completed",
+      "description": "モデル漁協での実証。"
+    },
+    {
+      "date": "2026年4月",
+      "label": "電子操業日誌完全義務化法の施行予定",
+      "status": "current",
+      "description": "全漁船への電子報告義務付けと通信費全額助成開始。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "水産庁",
+      "title": "新たな水産資源管理ロードマップ及びスマート水産業の推進",
+      "url": "https://www.jfa.maff.go.jp/j/kikaku/smart_suisan/index.html"
+    },
+    {
+      "organization": "国立研究開発法人水産研究・教育機構",
+      "title": "水産資源の評価手法と電子操業日誌データの活用",
+      "url": "https://www.fra.go.jp"
+    }
+  ],
+  "badges": [
+    {
+      "label": "水産資源管理",
+      "variant": "positive"
+    },
+    {
+      "label": "スマート水産",
+      "variant": "positive"
+    },
+    {
+      "label": "漁業DX",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "報告方式",
+      "value": "洋上クラウド即時送信",
+      "description": "手書き紙日誌を廃止しタブレット・スマホからの即時報告を義務化",
+      "icon": "CheckCircle2"
+    },
+    {
+      "label": "公費補助",
+      "value": "端末・通信料100%",
+      "description": "低軌道衛星通信アンテナとタブレット費用を全額国費負担",
+      "icon": "Wallet"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "巻き網漁船若手船団長（30代）",
+        "commentStandard": "「操業日誌をスマホでサッと送信でき、船の上から市場の競り価格も見られる。紙の時代にはもう絶対に戻れない」",
+        "commentSimple": "「スマホでパパッと送信できるので仕事がものすごく楽になりました。海の上でネットができるのも最高です」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "一本釣り漁業者（72歳）",
+        "commentStandard": "「手袋をしたまま濡れた手でスマホを触るのは無理。揺れる小舟でも使えるボタン式の専用防水キーボードを作ってほしい」",
+        "commentSimple": "「水に濡れた手でも押せる大きなボタンの機械にしてくれないと、お年寄りには使いにくいです」"
+      }
+    ]
+  },
+  "international": {
+    "title": "電子漁獲報告（Electronic Logbook: ERS）の国際比較",
+    "comparisonSummary": "EU共通漁業政策（CFP）やノルウェー、米国で全漁船へのe-Logbookが法定義務化。",
+    "countries": [
+      {
+        "country": "ノルウェー",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "systemName": "ノルウェー漁業電子日誌（ERS / VMS）法制",
+        "keyFeature": "全長12m以上の全船に電子操業日誌を義務付け。寄港前に漁獲量を事前電送しなければ入港・水揚げを不認可。",
+        "source": {
+          "organization": "ノルウェー漁業総局(Fiskeridirektoratet)",
+          "title": "Electronic Reporting System (ERS)",
+          "url": "https://www.fiskeridir.no"
+        }
+      },
+      {
+        "country": "EU",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU漁業管理規則（Regulation (EU) 2023/2842改定）",
+        "keyFeature": "2026年より全加盟国の小規模漁船（全長12m未満含む）に電子漁獲日誌および船位測定（CCTV/VMS）を義務化。",
+        "source": {
+          "organization": "欧州委員会",
+          "title": "Revision of the EU fisheries control system",
+          "url": "https://oceans-and-fisheries.ec.europa.eu"
+        }
+      },
+      {
+        "country": "米国",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "NOAA Fisheries電子報告プログラム（eVTR）",
+        "keyFeature": "商業漁船および遊漁船に対し、操業ごとに電子漁獲報告書（eVTR）の提出を義務付け、違反者には厳しい罰金。",
+        "source": {
+          "organization": "米国NOAA Fisheries",
+          "title": "Vessel Reporting in the Greater Atlantic Region",
+          "url": "https://www.fisheries.noaa.gov"
+        }
+      }
+    ]
+  }
+}

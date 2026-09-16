@@ -1,0 +1,211 @@
+{
+  "id": "neuromorphic-ai-semiconductor-energy-efficiency-fund",
+  "title": "脳型（ニューロモルフィック）極低消費電力AI半導体開発支援法",
+  "catchphrase": "AIデータセンターの電力危機を救う、人間の脳を模した超省エネ「脳型半導体」の国家集中投資",
+  "category": "technology",
+  "categoryLabel": "テクノロジー・インフラ・通信",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年4月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "急増する生成AIの計算需要に伴うデータセンターの電力消費爆発（電力危機）を克服するため、人間の脳の神経回路網（シナプス）を模した「ニューロモルフィック（脳型）半導体」の開発を国家プロジェクトとして支援する法律。",
+      "従来のGPUやフォン・ノイマン型半導体に比べ消費電力を100分の1〜1,000分の1に削減できるイベント駆動型スパイキングニューラルネットワーク（SNN）チップの開発に5年間で2,000億円の基金を創設する。",
+      "ロボット、自動運転車、ドローン、ウェアラブル端末などの「エッジデバイス」へ脳型半導体を組み込む実証実験を支援し、省エネ端末市場での世界シェア獲得を目指す。"
+    ],
+    "simple": [
+      "AIを使うために莫大な電気が必要になり電気が足りなくなる危機を防ぐため、人間の脳のようにほんのわずかな電気（100分の1以下）で動く「脳型AIチップ」を作る法律です。",
+      "人間の脳はおにぎり1個分のエネルギーで高度な思考ができる仕組みを半導体で再現します。",
+      "スマホや自動運転の車、ロボットにこのチップを載せて、電池が何日も長持ちする便利な機械を作ります。"
+    ]
+  },
+  "background": {
+    "standard": "現在の生成AIは膨大な電力を食う巨大GPUサーバー群で稼働しており、2030年にはAI関連の電力需要が日本全体の発電量に匹敵するとの予測もある。日本の得意とする先端材料技術やメモリ技術（MRAM・抵抗変化メモリ等）を活かした脳型アーキテクチャの早期実用化が、エネルギーと経済安全保障の両面で死活問題となっていた。",
+    "simple": "今のAIは巨大なパソコンを何万台も動かしているため、ものすごい電気代とエネルギーを消費しています。人間の脳のように省エネで動く新しい半導体を日本が世界に先駆けて開発します。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "脳型AI半導体国家開発基金の創設",
+      "before": "単年度の大学研究費や小規模科研費による分散研究",
+      "after": "経済産業省・NEDOによる2,000億円規模の集中開発基金の設置",
+      "highlight": "5年間で2,000億円の国家開発基金創設",
+      "icon": "Cpu"
+    },
+    {
+      "id": "c2",
+      "topic": "光電融合・不揮発性メモリとの技術統合",
+      "before": "海外メガテックのシリコンGPU独占に追随する構造",
+      "after": "NTTのIOWN（光電融合）や国産次世代メモリを融合した独自超省エネ基盤の構築",
+      "highlight": "光電融合・新メモリ技術との国家統合",
+      "icon": "Zap"
+    },
+    {
+      "id": "c3",
+      "topic": "エッジAI実証特区の配備",
+      "before": "実験用チップの試作ラインが高額で国内になく海外ファウンドリ依存",
+      "after": "国内試作テストベッドを無償開放しベンチャーのチップ試作期間を短縮",
+      "highlight": "国内試作ファブの無償開放",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "AIデータセンターの電力崩壊危機の回避",
+        "summary": "消費電力を99%削減でき、脱炭素目標を維持しながら無制限のAIコンピューティング社会を実現できる",
+        "detail": "原発数基分の電力消費を抑制し、地域電力網のパンクや一般家庭の電気代高騰を未然に防ぐ",
+        "simpleDetail": "電気をほとんど使わずに賢いAIを動かせるので、地球にもお財布にも優しい未来になります",
+        "tag": "脱炭素・省エネ"
+      },
+      {
+        "id": "b2",
+        "title": "日本のエッジAI・ロボティクス産業の復権",
+        "summary": "通信がつながらない山奥や宇宙、バッテリー駆動の小型ドローンでも高度なAI判断を瞬時に実行できる",
+        "detail": "人型ロボットや医療用インプラントデバイスなど、日本が強いハードウェア領域で圧倒的な強みを発揮する",
+        "simpleDetail": "充電なしで何日も動き続ける介護ロボットや、瞬時に危険を避ける自動運転車が誕生します",
+        "tag": "新産業創出"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "既存AIソフトウェア（CUDA等）との非互換性",
+        "summary": "世界中のAIモデルがNVIDIAのCUDA向けに書かれており、スパイキング型（SNN）への書き換えが普及の壁",
+        "detail": "既存ディープラーニングモデルをSNNへ自動変換するコンパイラや開発SDKの整備支援が不可欠",
+        "simpleDetail": "今使われているAIのプログラムを脳型チップ用に書き直すのが大変なので、自動変換ソフトが必要です",
+        "tag": "ソフトウェア互換性"
+      },
+      {
+        "id": "c2",
+        "title": "米中テックジャイアントとの巨額資金格差",
+        "summary": "米Intel（Loihi）やIBM、中国勢が先行して研究を進めており、2,000億円規模ではまだ資金不足との指摘",
+        "detail": "民間半導体メーカーや自動車大手との共同出資コンソーシアムによる官民一体の投資上乗せが必要",
+        "simpleDetail": "アメリカや中国の巨大企業も同じ研究をしているため、日本の自動車メーカーなども一緒に団結する必要があります",
+        "tag": "国際投資競争"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2022年12月",
+      "label": "経済産業省が「半導体・デジタル産業戦略」改定",
+      "status": "completed",
+      "description": "次世代脳型半導体を重点開発項目に指定。"
+    },
+    {
+      "date": "2024年6月",
+      "label": "国内研究機関が超省エネSNNチップのプロトタイプ実証に成功",
+      "status": "completed",
+      "description": "消費電力1/100を達成。"
+    },
+    {
+      "date": "2026年4月",
+      "label": "脳型AI半導体開発支援法の施行予定",
+      "status": "current",
+      "description": "国家基金2,000億円の公募・配分開始。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "経済産業省",
+      "title": "半導体・デジタル産業戦略（次世代半導体の開発と省エネAI）",
+      "url": "https://www.meti.go.jp/policy/mono_info_service/joho/strategy/index.html"
+    },
+    {
+      "organization": "国立研究開発法人新エネルギー・産業技術総合開発機構(NEDO)",
+      "title": "高効率・高速処理を可能とするAIチップ・次世代コンピューティング技術開発",
+      "url": "https://www.nedo.go.jp"
+    }
+  ],
+  "badges": [
+    {
+      "label": "AI半導体",
+      "variant": "positive"
+    },
+    {
+      "label": "省エネ",
+      "variant": "positive"
+    },
+    {
+      "label": "ディープテック",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "省エネ性能",
+      "value": "消費電力1/100以下",
+      "description": "従来のGPUに比べ圧倒的な省電力をスパイキング回路で実現",
+      "icon": "Zap"
+    },
+    {
+      "label": "基金規模",
+      "value": "2,000億円",
+      "description": "5年間集中の国家開発基金でチップ試作・実証を支援",
+      "icon": "Cpu"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "産業用ロボットメーカー技術開発本部長",
+        "commentStandard": "「ロボットアームに直接AIチップを組み込めば、クラウド通信の遅延ゼロでミリ秒単位の危険回避ができる。熱も持たず完璧だ」",
+        "commentSimple": "「ロボットの頭脳として直接載せられるので、通信の遅れがなく瞬時に危険を避けて動けます」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "AIアルゴリズム研究者",
+        "commentStandard": "「脳型チップを動かすための数学的理論や学習アルゴリズムはまだ発展途上。ハードウェアだけでなくソフトウェア数学者への資金配分も重要だ」",
+        "commentSimple": "「機械だけでなく、その中で動く新しい計算プログラムを考える数学者にも研究費を配ってほしいです」"
+      }
+    ]
+  },
+  "international": {
+    "title": "ニューロモルフィック（脳型）コンピューティング開発政策の国際比較",
+    "comparisonSummary": "米国DARPAや欧州ヒューマンブレインプロジェクト、中国脳計画が国家予算で主導。",
+    "countries": [
+      {
+        "country": "米国",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "DARPA脳型AIプログラムおよびIntel Loihi 2",
+        "keyFeature": "国防高等研究計画局（DARPA）が数十億ドルを投じ、極限環境で自律動作するニューロモルフィックチップを開発。",
+        "source": {
+          "organization": "米国DARPA",
+          "title": "DARPA Neuro-inspired Computing",
+          "url": "https://www.darpa.mil"
+        }
+      },
+      {
+        "country": "ドイツ/EU",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "BrainScaleS / SpiNNaker（欧州脳型基盤）",
+        "keyFeature": "ハイデルベルク大学やマンチェスター大学が主導し、数十万の人工ニューロンを生物学的実時間でシミュレート。",
+        "source": {
+          "organization": "EBRAINS / European Union",
+          "title": "Neuromorphic Computing on EBRAINS",
+          "url": "https://www.ebrains.eu"
+        }
+      },
+      {
+        "country": "中国",
+        "countryCode": "CN",
+        "flag": "🇨🇳",
+        "systemName": "中国脳計画（China Brain Project / 清華大学「天機(Tianjic)」チップ）",
+        "keyFeature": "国家主導で数千億円を投入。自動運転自転車やドローンに脳型チップを搭載し世界最先端の実用化を推進。",
+        "source": {
+          "organization": "清華大学脳触媒研究センター",
+          "title": "Tianjic Chip Dual-Brain Driven Computing",
+          "url": "https://www.tsinghua.edu.cn"
+        }
+      }
+    ]
+  }
+}

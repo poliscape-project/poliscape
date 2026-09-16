@@ -1,0 +1,216 @@
+{
+  "id": "pharmaceutical-shortage-national-reserve-act",
+  "title": "医薬品供給不安・安定供給確保法（後発薬国家備蓄と製造ライン監査）",
+  "catchphrase": "薬が届かない医療危機を解消、後発薬の国家戦略備蓄と品質管理強化",
+  "category": "medical",
+  "categoryLabel": "医療・福祉",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年4月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "後発医薬品（ジェネリック医薬品）の相次ぐ品質不祥事と出荷停止に伴う全国的な薬不足を解消するため、基礎的医薬品の国家戦略備蓄制度を創設する法律。",
+      "原薬の海外依存度を下げ国内製造回帰を促す設備投資助成と、製薬企業に対する抜き打ち立入検査権限を強化する。",
+      "安定供給責任を果たせない製薬会社へのペナルティと、安定供給企業への診療報酬・薬価優遇措置を導入する。"
+    ],
+    "simple": [
+      "病院や薬局で必要な薬が足りなくなる問題を防ぐため、国が重要な薬を前もって備蓄しておく法律です。",
+      "日本国内で薬の原料を作れる工場を増やし、外国からの輸入が止まっても大丈夫なようにします。",
+      "きちんと安全な薬をいつも届けてくれる製薬会社を国が応援し、品質検査を厳しくします。"
+    ]
+  },
+  "background": {
+    "standard": "鎮咳薬や抗生剤、解熱鎮痛剤など約数千品目の医薬品で限定出荷や欠品が長期化し、医療現場の大きな負担となっていた。薬価引き下げによる製薬メーカーの採算悪化と不正製造が背景にあるため、薬価制度の抜本見直しと国家備蓄が急務となった。",
+    "simple": "咳止めや風邪薬などの身近な薬が薬局で手に入らない状態が続いたため、国が責任を持って薬の在庫を確保する仕組みを作りました。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "国家戦略備蓄制度",
+      "before": "各医療機関・卸売業者の個別在庫任せ",
+      "after": "国が感染症治療薬・抗菌薬・麻酔薬等を数カ月分集中備蓄",
+      "highlight": "重要薬の国家備蓄",
+      "icon": "ShieldCheck"
+    },
+    {
+      "id": "c2",
+      "topic": "製薬工場の査察強化",
+      "before": "自治体による定期監査が中心",
+      "after": "PMDA（医薬品医療機器総合機構）による無通告・抜き打ち査察を義務化",
+      "highlight": "抜き打ち査察の義務化",
+      "icon": "CheckCircle2"
+    },
+    {
+      "id": "c3",
+      "topic": "安定供給薬価優遇",
+      "before": "一律の市場実勢価格引き下げ",
+      "after": "安定供給体制を維持する企業の後発薬に薬価の下支え特例を適用",
+      "highlight": "安定供給企業の薬価優遇",
+      "icon": "TrendingUp"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "医療崩壊の防止",
+        "summary": "必要な薬が手に入らず手術や治療が延期される事態を防ぎ、患者の命を守れる",
+        "detail": "小児科や耳鼻科での抗生剤不足が解消し、地域医療の安全網が回復する",
+        "simpleDetail": "病院で「薬がありません」と言われて困ることがなくなります",
+        "tag": "医療安全"
+      },
+      {
+        "id": "b2",
+        "title": "国内原薬製造の復権",
+        "summary": "中国やインドに過度に依存していた原薬の国内調達比率が高まり、サプライチェーン危機に強くなる",
+        "detail": "パンデミックや地政学リスク発生時でも国内で自活できる医薬品安全保障が確立する",
+        "simpleDetail": "外国からの船が止まっても日本国内で薬を作り続けられます",
+        "tag": "経済安保"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "社会保障費・薬価の増大",
+        "summary": "備蓄管理コストや薬価引き上げにより、国民健康保険財政への負担が増加する恐れがある",
+        "detail": "安価な後発薬のメリットが薄れ、国民一人あたりの医療費自己負担がわずかに増える可能性がある",
+        "simpleDetail": "薬を備蓄したり工場の監査を増やすための税金や保険料が必要になります",
+        "tag": "財政負担"
+      },
+      {
+        "id": "c2",
+        "title": "中小製薬の再編淘汰",
+        "summary": "厳格な品質基準と設備投資についていけない中小メーカーが廃業し、一時的な供給ショックを招く懸念",
+        "detail": "過剰な品目数を抱える業界構造の集約には数年単位の調整期間と公的支援が不可欠",
+        "simpleDetail": "小さな製薬工場が基準に耐えられず倒産してしまう心配があります",
+        "tag": "産業影響"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020年12月",
+      "label": "大手後発薬メーカー不正発覚",
+      "status": "completed",
+      "description": "全国的な供給不足の引き金。"
+    },
+    {
+      "date": "2024年4月",
+      "label": "医薬品安定供給支援室を厚労省に新設",
+      "status": "completed",
+      "description": "供給不安解消タスクフォース。"
+    },
+    {
+      "date": "2025年11月",
+      "label": "医薬品安定供給確保新法案を国会提出",
+      "status": "current",
+      "description": "国家備蓄とPMDA査察強化。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "厚生労働省",
+      "title": "医療用医薬品の安定確保策に関する関係者会議報告書",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/index.html"
+    },
+    {
+      "organization": "PMDA",
+      "title": "後発医薬品の品質・GMP適合性調査の強化方針",
+      "url": "https://www.pmda.go.jp"
+    }
+  ],
+  "badges": [
+    {
+      "label": "医療安全",
+      "variant": "positive"
+    },
+    {
+      "label": "国家備蓄",
+      "variant": "positive"
+    },
+    {
+      "label": "薬不足解消",
+      "variant": "warning"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "重要医薬品の国家備蓄",
+      "value": "3カ月分",
+      "description": "全国の医療逼迫を防ぐ安全在庫を国が集中保有",
+      "icon": "ShieldCheck"
+    },
+    {
+      "label": "PMDA無通告査察",
+      "value": "全工場対象",
+      "description": "不正製造を未然に防ぐ抜き打ち検査体制を全国配備",
+      "icon": "CheckCircle2"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "日本医師会役員",
+        "commentStandard": "「処方したい薬が卸にない毎日の苦痛から解放される。国の備蓄制度は遅すぎた一手だ」",
+        "commentSimple": "「患者さんに必要な薬が出せない状態が続いていたので、国が備蓄してくれるのは本当に助かります」"
+      },
+      {
+        "speaker": "薬局薬剤師",
+        "commentStandard": "「朝から何十軒も薬を探して電話をかける在庫確保業務がなくなり、服薬指導に専念できる」",
+        "commentSimple": "「薬を探す電話だけで1日が終わるような大変な状況が改善されることを期待します」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "中堅製薬メーカー幹部",
+        "commentStandard": "「薬価を下げられ続けて設備投資の余力がない。査察基準だけ厳しくされても対応が厳しい」",
+        "commentSimple": "「薬の値段を安く抑えられているのに、厳しい設備ばかり求められると工場が持ちません」"
+      }
+    ]
+  },
+  "international": {
+    "title": "医薬品備蓄・安定供給に関する主要国の制度比較",
+    "comparisonSummary": "欧米でもパンデミックやインド・中国依存による薬不足が深刻化し、重要医薬品の国家リスト化と国内生産回帰が進む。",
+    "countries": [
+      {
+        "country": "米国",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "戦略的国家備蓄（SNS）およびDPA（国防生産法）",
+        "keyFeature": "バイデン政権が大統領令で重要医薬品の国内サプライチェーン再構築と連邦備蓄を義務付け。",
+        "source": {
+          "organization": "米国FDA",
+          "title": "Essential Medicines List",
+          "url": "https://www.fda.gov"
+        }
+      },
+      {
+        "country": "EU",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "重要医薬品アライアンス（Critical Medicines Alliance）",
+        "keyFeature": "EU重要医薬品リスト（200品目超）を制定し、域内生産企業への公的補助と共同調達を運用。",
+        "source": {
+          "organization": "欧州医薬品庁（EMA）",
+          "title": "Shortages catalogue",
+          "url": "https://www.ema.europa.eu"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "パラセタモール等重要薬の国内再移転計画",
+        "keyFeature": "アセトアミノフェン等の解熱鎮痛剤原薬工場を国費助成で国内に誘致・再建。",
+        "source": {
+          "organization": "フランス保健省",
+          "title": "Plan de souveraineté sanitaire",
+          "url": "https://sante.gouv.fr"
+        }
+      }
+    ]
+  }
+}

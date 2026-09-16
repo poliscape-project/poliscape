@@ -1,0 +1,211 @@
+{
+  "id": "highway-rest-area-michi-no-eki-ev-ultra-fast-charger",
+  "title": "高速道路SA・道の駅における超急速EV充電器（150kW超）全数配備法",
+  "catchphrase": "充電待ち大渋滞を解消、高速SA・道の駅への150kW級超急速マルチポート配備義務化",
+  "category": "infrastructure",
+  "categoryLabel": "国土・交通",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年4月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "電気自動車（EV）の長距離ドライブにおける「充電渋滞」と「電欠不安」を根本から解消するため、幹線道路拠点への超高出力充電器の設置を義務付ける法律。",
+      "全国の高速道路サービスエリア（SA）・パーキングエリア（PA）および主要「道の駅」に対し、出力150kW以上の超急速充電器を最低6口以上配備することを法定義務化する。",
+      "系統連系の電力受電容量（キュービクル）不足を克服するため、蓄電池併設型充電ステーションへの国庫補助率を最大3分の2へ引き上げ、30分充電制限と充電完了後の放置ペナルティ（アイドリングフィー）を法制化する。"
+    ],
+    "simple": [
+      "電気自動車（EV）で高速道路や遠くへお出かけしたときに、充電スタンドが少なすぎて大渋滞するのをなくす法律です。",
+      "高速道路のサービスエリアや全国の道の駅に、たった15分〜30分でたっぷり充電できる「超ハイパワー充電器（150キロワット以上）」を6台以上まとめて置くことをルールにします。",
+      "充電が終わっているのに車を停めっぱなしにして他の人の邪魔をする人には、追加の駐車料金（ペナルティ）を取ってマナーを守らせます。"
+    ]
+  },
+  "background": {
+    "standard": "日本のEV充電器は出力40〜50kWの旧型中速充電器が1〜2口しか置かれていない拠点が大半であり、連休中にSAの充電スポットで数時間待ちの長蛇の列が発生している。欧米や中国が150〜350kWのマルチポート充電ステーションを標準化する中、充電インフラの貧弱さが日本のEV普及を阻害する最大のボトルネックとなっていた。",
+    "simple": "せっかく電気自動車を買っても、高速道路のサービスエリアで充電待ちに何時間も並ばされるため遠出ができないという不満がありました。海外のように一度に何台も超スピードで充電できる設備を一気に増やします。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "150kW超急速充電器の最低6口配備義務化",
+      "before": "40〜50kW中速器が1〜2口のみ（連休中に大渋滞）",
+      "after": "全高速SA・主要道の駅に150kW以上×最低6口の同時充電ポートを義務化",
+      "highlight": "150kW超×最低6口以上の配備義務化",
+      "icon": "Zap"
+    },
+    {
+      "id": "c2",
+      "topic": "蓄電池併設型ステーションの補助拡充",
+      "before": "電力会社の高圧送電線引き込み工事に数億円・数年所要",
+      "after": "大容量定置型蓄電池を併設し系統負荷を抑える設備に補助率2/3適用",
+      "highlight": "蓄電池併設型への国庫補助2/3適用",
+      "icon": "Wallet"
+    },
+    {
+      "id": "c3",
+      "topic": "充電完了後放置へのアイドリングフィー法制化",
+      "before": "充電完了後も車を放置して食事や買い物に行くマナー違反が横行",
+      "after": "充電完了5分後から1分100円の放置課金を自動請求する法的枠組み",
+      "highlight": "充電後放置への自動ペナルティ課金",
+      "icon": "Clock"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "EVでの長距離移動の完全ストレスフリー化",
+        "summary": "トイレ休憩やコーヒーを買う15分間で約200km走行分の電力を充電でき、ガソリン車と同等の快適性を実現",
+        "detail": "充電待ち渋滞が完全に消滅し、年末年始やお盆休みでも安心して長距離ドライブを楽しめる",
+        "simpleDetail": "トイレやお茶をしている15分の間にパパッと充電が終わり、待たずにすぐ出発できます",
+        "tag": "利便性革新"
+      },
+      {
+        "id": "b2",
+        "title": "地方道の駅へのEV観光客誘致と経済効果",
+        "summary": "超急速充電器がある道の駅がEVドライバーの目的地となり、充電中の飲食やお土産購入で地域消費が潤う",
+        "detail": "地方へのマイカー観光が促進され、ガソリンスタンド過疎地における新たなエネルギー拠点となる",
+        "simpleDetail": "充電している間に道の駅で地元の美味しいご飯やお土産を買ってもらえ、町が潤います",
+        "tag": "地方創生"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "電力系統（送配電網）の容量不足と基本料金高騰",
+        "summary": "150kW×6口（計900kW）の超高圧受電契約により、年間の電力契約基本料金が跳ね上がり事業採算が圧迫される",
+        "detail": "夜間の余剰電力で昼用蓄電池に充電するピークカット制御と、デマンド課金緩和の特例措置が必要",
+        "simpleDetail": "一度にものすごい電気を使うため、電力会社に払う基本料金が高くなりすぎない工夫が必要です",
+        "tag": "系統負担"
+      },
+      {
+        "id": "c2",
+        "title": "既存のEV充電事業者・設置主の更新負担",
+        "summary": "数年前に設置したばかりの50kW器を廃棄して新設することに対する設備投資回収の難しさ",
+        "detail": "既存中速充電器の下取り助成や、複数口への段階的リプレイス補助制度の併用が不可欠",
+        "simpleDetail": "いまある古い充電器を新しい超急速タイプに取り替えるための補助金が必要です",
+        "tag": "更新費用"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2021年6月",
+      "label": "経済産業省が「充電インフラ整備ロードマップ」策定",
+      "status": "completed",
+      "description": "2030年15万口目標。"
+    },
+    {
+      "date": "2023年10月",
+      "label": "経産省が充電インフラ整備指針改定（高速道路の高出力化目標明記）",
+      "status": "completed",
+      "description": "90〜150kW推奨。"
+    },
+    {
+      "date": "2026年4月",
+      "label": "幹線道路超急速EV充電器配備法の施行予定",
+      "status": "current",
+      "description": "全高速SA・道の駅への配備義務化。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "経済産業省資源エネルギー庁",
+      "title": "EV・PHV向け充電インフラ普及に向けたロードマップ",
+      "url": "https://www.enecho.meti.go.jp/category/saving_and_new/advanced_systems/ev_infra"
+    },
+    {
+      "organization": "国土交通省道路局",
+      "title": "高速道路におけるEV急速充電器の整備方針と道の駅での展開",
+      "url": "https://www.mlit.go.jp/road/sisaku/ev"
+    }
+  ],
+  "badges": [
+    {
+      "label": "EV充電",
+      "variant": "positive"
+    },
+    {
+      "label": "超急速150kW",
+      "variant": "positive"
+    },
+    {
+      "label": "インフラ整備",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "充電出力",
+      "value": "150kW超急速",
+      "description": "15分間の充電で約200km走行分の電力を急速補給",
+      "icon": "Zap"
+    },
+    {
+      "label": "設置基準",
+      "value": "最低6口以上義務化",
+      "description": "充電待ち渋滞を根絶するマルチポート同時充電ステーション化",
+      "icon": "CheckCircle2"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "週末に家族でキャンプへ行くEVオーナー（40代）",
+        "commentStandard": "「連休の東名高速で充電3台待ちで1時間半無駄にした。150kWが6台あればガソリンスタンド感覚で安心して出かけられる」",
+        "commentSimple": "「充電待ちで子どもを待たせてイライラすることがなくなるので、本当に待ち望んでいた法律です」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "山間部の道の駅駅長",
+        "commentStandard": "「高圧受電設備を入れると電気代だけで赤字になる。蓄電池の設置補助金だけでなく、最初の数年間の維持管理費も助成してほしい」",
+        "commentSimple": "「山の中の道の駅でも維持できるよう、機械の修理代や電気代も国に応援してほしいです」"
+      }
+    ]
+  },
+  "international": {
+    "title": "幹線道路超急速EV充電インフラ整備政策の国際比較",
+    "comparisonSummary": "EU代替燃料インフラ規則（AFIR）および米NEVIプログラムが法定義務化を主導。",
+    "countries": [
+      {
+        "country": "EU",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "代替燃料インフラ規則（AFIR: Regulation (EU) 2023/1804）",
+        "keyFeature": "TEN-T主要高速道路に沿って60kmごとに最低400kW（2028年までに600kW）の急速充電プール設置を法定義務化。",
+        "source": {
+          "organization": "欧州委員会",
+          "title": "Alternative Fuels Infrastructure Regulation (AFIR)",
+          "url": "https://transport.ec.europa.eu"
+        }
+      },
+      {
+        "country": "米国",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "全米電気自動車インフラ（NEVI）フォーミュラ・プログラム",
+        "keyFeature": "50億ドルの連邦予算を配分し、州間高速道路の50マイル（80km）ごとに150kW×4口以上の充電ステーション建設を義務付け。",
+        "source": {
+          "organization": "米国連邦道路庁(FHWA)",
+          "title": "National Electric Vehicle Infrastructure (NEVI) Program",
+          "url": "https://www.fhwa.dot.gov/environment/nevi"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "ドイツ・ネット（Deutschlandnetz）公募インフラ",
+        "keyFeature": "連邦政府が自ら全国9,000口超の超急速（200〜300kW）充電ステーション網を公募発注し、空白地帯をゼロ化。",
+        "source": {
+          "organization": "ドイツ連邦デジタル交通省(BMDV)",
+          "title": "Das Deutschlandnetz für schnelles Laden",
+          "url": "https://bmdv.bund.de"
+        }
+      }
+    ]
+  }
+}

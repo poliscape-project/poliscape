@@ -1,0 +1,211 @@
+{
+  "id": "dna-digital-data-storage-national-archive-act",
+  "title": "DNAデータストレージ・国家公文書超長期デジタル保存法",
+  "catchphrase": "数千年先まで人類の英知を劣化なしで保存、DNA合成による国家公文書・学術データの超長期保存",
+  "category": "technology",
+  "categoryLabel": "テクノロジー・インフラ・通信",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年4月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "磁気テープやハードディスク（寿命十数年）の更新限界を打破し、国家の重要公文書、国宝級文化財デジタルアーカイブ、先端科学データを数千年間にわたり無電力で保存する「DNAデータストレージ」技術を実用化する法律。",
+      "デジタル情報（0と1）を塩基配列（A・T・C・G）へ変換・合成し、極微量の人工DNAとしてカプセル封入保存する国立DNAアーカイブセンターを設置する。",
+      "国立国会図書館法および公文書管理法を改正し、憲法原本や歴史的資料のデジタルツインをDNAデータとして永久保管する法定保存義務を創設する。"
+    ],
+    "simple": [
+      "何千年も消えない「生き物の設計図（DNA）」を使って、国の歴史的な記録や文化財のデータを永久に保存する法律です。",
+      "今のパソコンのハードディスクやテープは10年〜20年で壊れてしまいますが、DNAなら電気を使わずに小さなカプセルの中で数千年以上もキレイに残せます。",
+      "スプーン1杯のDNAに世界中のネット動画が全部入るくらいの超大容量で、未来の子孫へ日本の宝物を届けます。"
+    ]
+  },
+  "background": {
+    "standard": "世界的なデータ生成量は急増し、データセンターの記憶媒体（HDD/SSD）の製造限界と電力消費が環境問題化している。現在の磁気テープ保存は5〜10年ごとの媒体マイグレーション（移し替え）に莫大なコストがかかり、数百年スパンの長期保存には適さない。数千年の耐久性を持ち角砂糖1個分に膨大なペタバイトのデータを格納できるDNAストレージへの転換が国家知の防衛として求められていた。",
+    "simple": "昔の巻物や石碑は何千年も残っていますが、今のパソコンのデータは数十年の間に読めなくなってしまいます。消えては困る日本の歴史や科学の大発見を、電気を使わず数千年先まで残せる夢の技術を導入します。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "国立DNAアーカイブセンターの設置",
+      "before": "公文書は紙と数年おきに移し替える磁気テープ保存",
+      "after": "人工DNA合成による超長期・常温無電力アーカイブ拠点を国家設置",
+      "highlight": "国立DNAデータ保存センターの設置",
+      "icon": "Database"
+    },
+    {
+      "id": "c2",
+      "topic": "重要公文書・国宝データのDNA保存義務化",
+      "before": "データ破損・経年劣化による公文書消失リスク",
+      "after": "憲法原本、条約、重要文化財デジタルデータをDNAコード化し永久保管",
+      "highlight": "国家重要データのDNA永久保存を義務化",
+      "icon": "FileText"
+    },
+    {
+      "id": "c3",
+      "topic": "DNA合成・シーケンス装置の国産化助成",
+      "before": "DNA書き込み・読み出し装置の海外装置依存",
+      "after": "超高速DNAプリンターと国産シーケンサーの開発に集中研究開発助成",
+      "highlight": "DNA書き込み・読み出し装置の国産化",
+      "icon": "Microscope"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "データセンターの電力消費ゼロ化と究極の省スペース",
+        "summary": "電気を通す必要がなく、角砂糖1個分の体積に数万台のサーバー分のデータを数千年間保管できる",
+        "detail": "データ移し替えのための莫大な人件費・機器更新費用を完全に削減し、超省エネなデータ社会を実現する",
+        "simpleDetail": "電気代がまったくかからず、小さじ1杯の液体の中に図書館何千館分もの本やデータを保管できます",
+        "tag": "究極の省エネ"
+      },
+      {
+        "id": "b2",
+        "title": "千年の時を超える文化・学術遺産の完全継承",
+        "summary": "天災や戦争でハードウェアが破壊されても、耐火金庫内のDNAカプセルから完全なデジタル復元ができる",
+        "detail": "数千年前のマンモスのDNAが読めるように、人類の文明の記録を未来の子孫へ確実に伝える",
+        "simpleDetail": "何千年前の化石のDNAが読めるように、日本の歴史や科学のすべてを遠い未来へ届けられます",
+        "tag": "文化継承"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "書き込み（DNA合成）と読み出しのコストと速度",
+        "summary": "現時点ではギガバイト単位のデータをDNAに合成するのに数百万円かかり、読み出しにも時間がかかる課題",
+        "detail": "酵素法DNA合成技術のブレークスルーによる書き込みコストの劇的低減（1/10,000）が必須",
+        "simpleDetail": "まだデータをDNAに書き込む機械の値段が高く時間もかかるため、技術をもっと安くする必要があります",
+        "tag": "コスト課題"
+      },
+      {
+        "id": "c2",
+        "title": "生物学的兵器やウイルス配列との誤認・混入防止",
+        "summary": "人工DNAを大量合成する過程で、危険な病原体やウイルスゲノムが誤って合成されるバイオセキュリティリスク",
+        "detail": "合成配列の全数自動事前スクリーニングと、生命機能を持たない非生物学的配列暗号化の徹底が必要",
+        "simpleDetail": "病気のウイルスなど危険なDNAと間違えられたりしないよう、安全な暗号化ルールを厳しく守ります",
+        "tag": "安全性確保"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2019年3月",
+      "label": "マイクロソフトとワシントン大が全自動DNAデータ保存・復元システムを実証",
+      "status": "completed",
+      "description": "「HELLO」の文字書き込み読み出し。"
+    },
+    {
+      "date": "2023年9月",
+      "label": "DNAデータストレージ・アライアンスが標準フォーマット規格を策定",
+      "status": "completed",
+      "description": "国際規格化始動。"
+    },
+    {
+      "date": "2026年4月",
+      "label": "DNA超長期デジタル公文書保存法の施行予定",
+      "status": "current",
+      "description": "国立アーカイブセンターでの初号試験保存開始。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "国立公文書館",
+      "title": "電子公文書の長期保存技術に関する調査研究報告書",
+      "url": "https://www.archives.go.jp/about/report/digital_archive.html"
+    },
+    {
+      "organization": "文部科学省",
+      "title": "バイオDX・革新的情報記録媒体（DNAストレージ）の研究開発推進",
+      "url": "https://www.mext.go.jp/a_menu/kagaku/index.htm"
+    }
+  ],
+  "badges": [
+    {
+      "label": "DNAストレージ",
+      "variant": "positive"
+    },
+    {
+      "label": "デジタルアーカイブ",
+      "variant": "positive"
+    },
+    {
+      "label": "フロンティア技術",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "保存期間",
+      "value": "数千年〜数万年",
+      "description": "磁気テープの寿命（10年）を遥かに超える超長期常温保存",
+      "icon": "Database"
+    },
+    {
+      "label": "保管電力",
+      "value": "0W（無電力）",
+      "description": "電気を一切使わずにデータを維持できる究極のグリーン記憶媒体",
+      "icon": "Zap"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "国立国会図書館デジタル情報管理者",
+        "commentStandard": "「テラバイト単位の書籍スキャンデータを数年ごとに新しいハードディスクへ移す作業で予算が尽きかけていた。DNA保存は人類の夢だ」",
+        "commentSimple": "「壊れるたびにデータを引っ越す大変な作業から解放され、ずっと安心して保存できるようになります」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "バイオインフォマティクス技術者",
+        "commentStandard": "「日常的なアクセス用ではなく、あくまで100年単位の永久保管庫としてのコールドストレージ用途に限定して段階導入すべきだ」",
+        "commentSimple": "「普段すぐ使うデータではなく、絶対に消えては困る大事な宝物を眠らせておく金庫として使うのが最適です」"
+      }
+    ]
+  },
+  "international": {
+    "title": "DNAデータストレージ開発と国家アーカイブ政策の国際比較",
+    "comparisonSummary": "米国IARPAや欧州連合EICが国家プロジェクトとしてギガバイト・テラバイト級DNA保存を推進。",
+    "countries": [
+      {
+        "country": "米国",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "IARPA MISTプログラム（分子情報ストレージ技術）",
+        "keyFeature": "国家情報長官室直属のIARPAが、数ペタバイトの防衛・諜報データを極小体積で100年保存する技術を開発。",
+        "source": {
+          "organization": "米国情報高等研究計画局(IARPA)",
+          "title": "Molecular Information Storage (MIST)",
+          "url": "https://www.iarpa.gov"
+        }
+      },
+      {
+        "country": "フランス/EU",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "国立高等鉱業学校DNA公文書保存プロジェクト（Archives Nationales）",
+        "keyFeature": "フランス革命時の人権宣言や歴史的憲法文書をDNAに符号化し、国立公文書館の地下金庫に保存。",
+        "source": {
+          "organization": "フランス国立公文書館",
+          "title": "Sauvegarde du patrimoine sur ADN",
+          "url": "https://www.archives-nationales.culture.gouv.fr"
+        }
+      },
+      {
+        "country": "スイス",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "systemName": "チューリッヒ工科大学（ETH Zurich）シリカ封入DNA保存技術",
+        "keyFeature": "DNAを微小なガラス（シリカ球）に封入することで、数千年にわたり室温で化学的分解を防ぐ特許技術を確立。",
+        "source": {
+          "organization": "ETH Zurich",
+          "title": "DNA data storage in silica beads",
+          "url": "https://ethz.ch"
+        }
+      }
+    ]
+  }
+}

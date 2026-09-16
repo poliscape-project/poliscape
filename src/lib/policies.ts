@@ -11,6 +11,7 @@ import actOnWorkersCooperativesCommunitySolidarityEnterpriseData from "@/data/po
 import activeCyberDefenseLegalFrameworkNationalSecurityData from "@/data/policies/active-cyber-defense-legal-framework-national-security.json";
 import activeCyberDefenseLegislationData from "@/data/policies/active-cyber-defense-legislation.json";
 import administrativeProcedureActCompleteAbolitionHankoSealData from "@/data/policies/administrative-procedure-act-complete-abolition-hanko-seal.json";
+import adultGuardianshipJudicialSupervisionReformData from "@/data/policies/adult-guardianship-judicial-supervision-reform.json";
 import adultGuardianshipSystemFundamentalReformFlexibilityData from "@/data/policies/adult-guardianship-system-fundamental-reform-flexibility.json";
 import ageRelatedHearingLossHearingAidSubsidyActData from "@/data/policies/age-related-hearing-loss-hearing-aid-subsidy-act.json";
 import agingCondominiumRebuildingResolutionThresholdEasingData from "@/data/policies/aging-condominium-rebuilding-resolution-threshold-easing.json";
@@ -39,6 +40,7 @@ import autonomousTrainGoa3DriverlessRegionalRailData from "@/data/policies/auton
 import avianInfluenzaLivestockEpidemicControlData from "@/data/policies/avian-influenza-livestock-epidemic-control.json";
 import aviationActLevel4DroneBeyondVisualLineOfSightData from "@/data/policies/aviation-act-level4-drone-beyond-visual-line-of-sight.json";
 import babyBondChildrenAssetBuildingAccountData from "@/data/policies/baby-bond-children-asset-building-account.json";
+import barrierFreeAccessiblePedestrianNetworkActData from "@/data/policies/barrier-free-accessible-pedestrian-network-act.json";
 import bbnjHighSeasBiodiversityTreatyRatificationData from "@/data/policies/bbnj-high-seas-biodiversity-treaty-ratification.json";
 import bicycleBlueTicketData from "@/data/policies/bicycle-blue-ticket.json";
 import bicycleHelmetMandateInsuranceData from "@/data/policies/bicycle-helmet-mandate-insurance.json";
@@ -51,15 +53,18 @@ import biostimulantAgricultureFertilizerRegulationActData from "@/data/policies/
 import bloodDonationYoungGenerationIncentiveFrameworkData from "@/data/policies/blood-donation-young-generation-incentive-framework.json";
 import boardOfEducationReformSuperintendentAccountabilityData from "@/data/policies/board-of-education-reform-superintendent-accountability.json";
 import boneMarrowDonorPaidLeaveActCorporateSubsidyData from "@/data/policies/bone-marrow-donor-paid-leave-act-corporate-subsidy.json";
+import bridgeTunnelRoboticRemoteInspectionStandardData from "@/data/policies/bridge-tunnel-robotic-remote-inspection-standard.json";
 import broadcastingActRelayStationInfrastructureSharingData from "@/data/policies/broadcasting-act-relay-station-infrastructure-sharing.json";
 import buildingEnergyEfficiencyActMandatoryStandards2025Data from "@/data/policies/building-energy-efficiency-act-mandatory-standards-2025.json";
 import buildingSeismicRetrofitMandatoryEarthquakeBreakerData from "@/data/policies/building-seismic-retrofit-mandatory-earthquake-breaker.json";
 import businessOwnerGuaranteeReformCreditGuaranteeFeeData from "@/data/policies/business-owner-guarantee-reform-credit-guarantee-fee.json";
+import cancerAppearanceCareWigProsthesisSubsidyData from "@/data/policies/cancer-appearance-care-wig-prosthesis-subsidy.json";
 import cannabisControlActReformMedicalUseOffenseData from "@/data/policies/cannabis-control-act-reform-medical-use-offense.json";
 import carbonBorderAdjustmentMechanismCbamDialogueData from "@/data/policies/carbon-border-adjustment-mechanism-cbam-dialogue.json";
 import carbonNeutralPortCnpPortActHydrogenAmmoniaData from "@/data/policies/carbon-neutral-port-cnp-port-act-hydrogen-ammonia.json";
 import carePlanCopayDebateData from "@/data/policies/care-plan-copay-debate.json";
 import careRobotStaffingRatioDeregulationData from "@/data/policies/care-robot-staffing-ratio-deregulation.json";
+import careWorkerEmotionalLaborAllowanceActData from "@/data/policies/care-worker-emotional-labor-allowance-act.json";
 import caregiverWageHikeAllowanceUnificationData from "@/data/policies/caregiver-wage-hike-allowance-unification.json";
 import caregiverWageHikeReimbursementDifferentialData from "@/data/policies/caregiver-wage-hike-reimbursement-differential.json";
 import caregivingResignationLeaveActReformData from "@/data/policies/caregiving-resignation-leave-act-reform.json";
@@ -69,9 +74,11 @@ import childAllowanceExpansionData from "@/data/policies/child-allowance-expansi
 import childAndFamilyCenterNationwideMandate2024Data from "@/data/policies/child-and-family-center-nationwide-mandate-2024.json";
 import childCommissionerIndependentAdvocacyBodyData from "@/data/policies/child-commissioner-independent-advocacy-body.json";
 import childDeathReviewCdrInstitutionalizationData from "@/data/policies/child-death-review-cdr-institutionalization.json";
+import childFosterCareIndependentLivingContinuationData from "@/data/policies/child-foster-care-independent-living-continuation.json";
 import childMentalHealthClinicPediatricPsychiatrySubsidiesData from "@/data/policies/child-mental-health-clinic-pediatric-psychiatry-subsidies.json";
 import childMentalHealthSchoolCounselorFullDeploymentData from "@/data/policies/child-mental-health-school-counselor-full-deployment.json";
 import childPovertyPreventionCafeteriaPermanentSubsidiesData from "@/data/policies/child-poverty-prevention-cafeteria-permanent-subsidies.json";
+import childReadingDigitalLibraryFreeAccessActData from "@/data/policies/child-reading-digital-library-free-access-act.json";
 import childRightsOmbudspersonLocalOrdinanceMandateData from "@/data/policies/child-rights-ombudsperson-local-ordinance-mandate.json";
 import childSupportAdvancePaymentData from "@/data/policies/child-support-advance-payment.json";
 import childcareAndCaregiverLeaveActNursingCareFlexibility2025Data from "@/data/policies/childcare-and-caregiver-leave-act-nursing-care-flexibility-2025.json";
@@ -80,7 +87,9 @@ import childcareLeaveNetTakeHomePay100PercentBenefitData from "@/data/policies/c
 import childcareShortTimeWorkWageSubsidyBenefitData from "@/data/policies/childcare-short-time-work-wage-subsidy-benefit.json";
 import childcareSupportFundData from "@/data/policies/childcare-support-fund.json";
 import childrenAndFamiliesAgencySupportFundSystemData from "@/data/policies/children-and-families-agency-support-fund-system.json";
+import chronicFatigueLongCovidTreatmentGuidelineActData from "@/data/policies/chronic-fatigue-long-covid-treatment-guideline-act.json";
 import civilCourtDxOnlineTrialElectronicSubmissionActData from "@/data/policies/civil-court-dx-online-trial-electronic-submission-act.json";
+import civilCourtRemoteWitnessExaminationExpansionData from "@/data/policies/civil-court-remote-witness-examination-expansion.json";
 import civilExecutionActChildSupportAssetDisclosureData from "@/data/policies/civil-execution-act-child-support-asset-disclosure.json";
 import civilLitigationDigitalizationECourtWebHearingsData from "@/data/policies/civil-litigation-digitalization-e-court-web-hearings.json";
 import civilProtectionSheltersUndergroundStationsData from "@/data/policies/civil-protection-shelters-underground-stations.json";
@@ -92,8 +101,10 @@ import commercialDroneRemoteIdMandatorySafetyActData from "@/data/policies/comme
 import commercialWhalingKaneiMaruFinWhaleData from "@/data/policies/commercial-whaling-kanei-maru-fin-whale.json";
 import communityGeneralSupportCenterSocialIsolationOutreachData from "@/data/policies/community-general-support-center-social-isolation-outreach.json";
 import compactCityLocationOptimizationPlanConsolidationData from "@/data/policies/compact-city-location-optimization-plan-consolidation.json";
+import compactCityMedicalHubRelocationIncentiveActData from "@/data/policies/compact-city-medical-hub-relocation-incentive-act.json";
 import comprehensiveAfterSchoolCarePlanData from "@/data/policies/comprehensive-after-school-care-plan.json";
 import condoReconstructionSubdividedOwnershipData from "@/data/policies/condo-reconstruction-subdivided-ownership.json";
+import condominiumLongTermRepairFundShortagePreventData from "@/data/policies/condominium-long-term-repair-fund-shortage-prevent.json";
 import condominiumStandardManagementCertificateSystemData from "@/data/policies/condominium-standard-management-certificate-system.json";
 import confinementPenaltyPrisonSystemReformData from "@/data/policies/confinement-penalty-prison-system-reform.json";
 import constitutionalAmendmentEmergencyTermExtensionData from "@/data/policies/constitutional-amendment-emergency-term-extension.json";
@@ -107,6 +118,8 @@ import corporateGovernanceCodeCrossShareholdingEliminationData from "@/data/poli
 import corporateSpousalAllowanceReductionIncomeBarrierData from "@/data/policies/corporate-spousal-allowance-reduction-income-barrier.json";
 import corporateTakeoverGuidelinesConsentlessBidsTransparencyData from "@/data/policies/corporate-takeover-guidelines-consentless-bids-transparency.json";
 import counterstrikeCapabilityLongRangeMissilesData from "@/data/policies/counterstrike-capability-long-range-missiles.json";
+import covertTrackingAirtagStalkingRegulationReformData from "@/data/policies/covert-tracking-airtag-stalking-regulation-reform.json";
+import creativeIndustryFreelanceWrittenContractDutyData from "@/data/policies/creative-industry-freelance-written-contract-duty.json";
 import creditCardFraudPhishingVictimCompensationGuidelinesData from "@/data/policies/credit-card-fraud-phishing-victim-compensation-guidelines.json";
 import creditCardInterchangeFeeTransparencyDisclosureData from "@/data/policies/credit-card-interchange-fee-transparency-disclosure.json";
 import crimeVictimsBasicActFinancialBenefitIncreaseData from "@/data/policies/crime-victims-basic-act-financial-benefit-increase.json";
@@ -116,6 +129,8 @@ import criticalLandUseRegulationActBasesIslandsData from "@/data/policies/critic
 import criticalMineralsDeepSeaUrbanMiningData from "@/data/policies/critical-minerals-deep-sea-urban-mining.json";
 import criticalRawMaterialsDomesticStockpilingActData from "@/data/policies/critical-raw-materials-domestic-stockpiling-act.json";
 import criticalSoftwareBillOfMaterialsSbomMandateData from "@/data/policies/critical-software-bill-of-materials-sbom-mandate.json";
+import crowdSurgeStampedeAiPredictionGuidelineActData from "@/data/policies/crowd-surge-stampede-ai-prediction-guideline-act.json";
+import crowdfundingInvestorProtectionTaxCreditActData from "@/data/policies/crowdfunding-investor-protection-tax-credit-act.json";
 import cruiseShipPortFacilityCustomsQuarantineDxData from "@/data/policies/cruise-ship-port-facility-customs-quarantine-dx.json";
 import cryptoAssetsSeparateDeclarationTaxationReformData from "@/data/policies/crypto-assets-separate-declaration-taxation-reform.json";
 import cryptoAssetsSeparateSelfAssessmentTaxData from "@/data/policies/crypto-assets-separate-self-assessment-tax.json";
@@ -133,10 +148,14 @@ import dairyFarmingFeedPriceStabilizationFundData from "@/data/policies/dairy-fa
 import damRedevelopmentPreDischargeFloodControlHydropowerData from "@/data/policies/dam-redevelopment-pre-discharge-flood-control-hydropower.json";
 import dangerousDrivingPenalCodeReformData from "@/data/policies/dangerous-driving-penal-code-reform.json";
 import darkPartTimeJobBankAccountFreezingFrameworkData from "@/data/policies/dark-part-time-job-bank-account-freezing-framework.json";
+import darkPatternECommerceCancellationBlockBanData from "@/data/policies/dark-pattern-e-commerce-cancellation-block-ban.json";
 import darkStoreQuickCommerceUrbanPlanningActData from "@/data/policies/dark-store-quick-commerce-urban-planning-act.json";
+import deafRelayServiceTwentyfourSevenFreeCoverageData from "@/data/policies/deaf-relay-service-twentyfour-seven-free-coverage.json";
 import deafSignLanguageBasicActOfficialLanguageStatusData from "@/data/policies/deaf-sign-language-basic-act-official-language-status.json";
+import deafblindInterpreterServiceUniversalCoverageData from "@/data/policies/deafblind-interpreter-service-universal-coverage.json";
 import deathPenaltyAbolitionLifeWithoutParoleData from "@/data/policies/death-penalty-abolition-life-without-parole.json";
 import deepSeaRareEarthMiningEnvironmentalFrameworkData from "@/data/policies/deep-sea-rare-earth-mining-environmental-framework.json";
+import deepSeaRareEarthMiningEnvironmentalImpactActData from "@/data/policies/deep-sea-rare-earth-mining-environmental-impact-act.json";
 import deepfakeCountermeasuresElectionAiWatermarkData from "@/data/policies/deepfake-countermeasures-election-ai-watermark.json";
 import deepfakeDisinformationElectionInterferenceRegulationData from "@/data/policies/deepfake-disinformation-election-interference-regulation.json";
 import deepfakeWatermarkOriginatorProfileData from "@/data/policies/deepfake-watermark-originator-profile.json";
@@ -170,9 +189,12 @@ import disabilityDiscriminationEliminationActReasonableAccommodationMandateData 
 import disabilityEmploymentQuotaHikeAgencyCurbData from "@/data/policies/disability-employment-quota-hike-agency-curb.json";
 import disabilityPensionIncomeEarningRulesSimplificationData from "@/data/policies/disability-pension-income-earning-rules-simplification.json";
 import disabilityPensionMentalDisorderCriteriaStandardizationData from "@/data/policies/disability-pension-mental-disorder-criteria-standardization.json";
+import disabilitySupportedEmploymentMinimumWageParityData from "@/data/policies/disability-supported-employment-minimum-wage-parity.json";
 import disasterHousingContainerModularPrefabricatedStockpilingData from "@/data/policies/disaster-housing-container-modular-prefabricated-stockpiling.json";
 import disasterManagementActLineBedRestroomStandardsData from "@/data/policies/disaster-management-act-line-bed-restroom-standards.json";
+import disasterPetEvacuationCoShelteringGuidelineActData from "@/data/policies/disaster-pet-evacuation-co-sheltering-guideline-act.json";
 import disasterPreventionWeatherInformationLinearRainbandData from "@/data/policies/disaster-prevention-weather-information-linear-rainband.json";
+import disasterRubbleCrossPrefectureTreatmentAgreementData from "@/data/policies/disaster-rubble-cross-prefecture-treatment-agreement.json";
 import disasterWasteWideAreaDisposalTemporaryStorageData from "@/data/policies/disaster-waste-wide-area-disposal-temporary-storage.json";
 import disasterWasteWideAreaTreatmentPlanMandateData from "@/data/policies/disaster-waste-wide-area-treatment-plan-mandate.json";
 import discretionaryLaborSystemScopeExpansionHealthData from "@/data/policies/discretionary-labor-system-scope-expansion-health.json";
@@ -180,6 +202,8 @@ import discretionaryLaborSystemSpecialistExpansionData from "@/data/policies/dis
 import discretionaryWorkSystemLaborInspectionStandardsData from "@/data/policies/discretionary-work-system-labor-inspection-standards.json";
 import dismissalMonetaryResolutionData from "@/data/policies/dismissal-monetary-resolution.json";
 import disposablePlasticCutleryAmenityFeeData from "@/data/policies/disposable-plastic-cutlery-amenity-fee.json";
+import districtCoolingWasteHeatDataCenterGreenActData from "@/data/policies/district-cooling-waste-heat-data-center-green-act.json";
+import dnaDigitalDataStorageNationalArchiveActData from "@/data/policies/dna-digital-data-storage-national-archive-act.json";
 import doctorOvertimeRegulationData from "@/data/policies/doctor-overtime-regulation.json";
 import doctoralStudentsPostdocLivingAllowanceSupportData from "@/data/policies/doctoral-students-postdoc-living-allowance-support.json";
 import domesticFertilizerManureCompostUtilizationData from "@/data/policies/domestic-fertilizer-manure-compost-utilization.json";
@@ -195,6 +219,7 @@ import droneLevel4UrbanDeliveryDeregulationData from "@/data/policies/drone-leve
 import drugLagDrugLossFastTrackApprovalData from "@/data/policies/drug-lag-drug-loss-fast-track-approval.json";
 import dutyFreeRefundAirportExitData from "@/data/policies/duty-free-refund-airport-exit.json";
 import earlyEntranceUniversityAcceleratedEducationProgramData from "@/data/policies/early-entrance-university-accelerated-education-program.json";
+import eatingDisorderNationalSpecialistCenterActData from "@/data/policies/eating-disorder-national-specialist-center-act.json";
 import economicCoercionCountermeasuresMultilateralFrameworkData from "@/data/policies/economic-coercion-countermeasures-multilateral-framework.json";
 import economicSecurityPromotionActSupplyChainSubsidiesData from "@/data/policies/economic-security-promotion-act-supply-chain-subsidies.json";
 import economicSecuritySupplyChainResilienceData from "@/data/policies/economic-security-supply-chain-resilience.json";
@@ -208,6 +233,7 @@ import electricKickboardRulesData from "@/data/policies/electric-kickboard-rules
 import electricVehicleChargingInfrastructureParkingLotMandateData from "@/data/policies/electric-vehicle-charging-infrastructure-parking-lot-mandate.json";
 import electricVehicleUltraFastChargerHighwayMandateData from "@/data/policies/electric-vehicle-ultra-fast-charger-highway-mandate.json";
 import electricityCapacityMarketRetailBankruptcyData from "@/data/policies/electricity-capacity-market-retail-bankruptcy.json";
+import electronicHealthRecordInteroperabilityFireEmsData from "@/data/policies/electronic-health-record-interoperability-fire-ems.json";
 import electronicHealthRecordNationalPlatformDxData from "@/data/policies/electronic-health-record-national-platform-dx.json";
 import electronicPrescriptionMedicalDxPlatformData from "@/data/policies/electronic-prescription-medical-dx-platform.json";
 import electronicPrescriptionsRefillPrescriptionsPromotionData from "@/data/policies/electronic-prescriptions-refill-prescriptions-promotion.json";
@@ -218,6 +244,7 @@ import emergencyBloodDroneTransportColdChainGuidelinesData from "@/data/policies
 import emergencyCall7119TelephoneTriageNationwideData from "@/data/policies/emergency-call-7119-telephone-triage-nationwide.json";
 import emergencyContraceptionOtcPharmacySaleData from "@/data/policies/emergency-contraception-otc-pharmacy-sale.json";
 import emergencyMedicalCallTriageSharp7119MandateData from "@/data/policies/emergency-medical-call-triage-sharp-7119-mandate.json";
+import emergencyPowerSupplyDialysisHospitalMandateData from "@/data/policies/emergency-power-supply-dialysis-hospital-mandate.json";
 import endOfLifeCareLivingWillDeathWithDignityLegislationData from "@/data/policies/end-of-life-care-living-will-death-with-dignity-legislation.json";
 import energySubsidiesData from "@/data/policies/energy-subsidies.json";
 import equalPayEqualWorkBonusSeveranceData from "@/data/policies/equal-pay-equal-work-bonus-severance.json";
@@ -232,13 +259,16 @@ import expresswayMidnightTollDiscountReformData from "@/data/policies/expressway
 import expresswayTollCollectionExtension2115BridgeAgingData from "@/data/policies/expressway-toll-collection-extension-2115-bridge-aging.json";
 import extracurricularClubActivitiesRegionalTransitionData from "@/data/policies/extracurricular-club-activities-regional-transition.json";
 import extracurricularSportsArtsCoachNationalRegistrationData from "@/data/policies/extracurricular-sports-arts-coach-national-registration.json";
+import fairCompetitionCloudVendorLockInProhibitionData from "@/data/policies/fair-competition-cloud-vendor-lock-in-prohibition.json";
 import fairTradeCommissionFreelanceActEnforcementData from "@/data/policies/fair-trade-commission-freelance-act-enforcement.json";
 import fairTradeCommissionPremiumsActCommitmentsPenalties2024Data from "@/data/policies/fair-trade-commission-premiums-act-commitments-penalties-2024.json";
+import farmWorkerHeatstrokeSmartWatchMonitoringSubsidyData from "@/data/policies/farm-worker-heatstroke-smart-watch-monitoring-subsidy.json";
 import farmlandIntermediaryManagementBankConsolidationData from "@/data/policies/farmland-intermediary-management-bank-consolidation.json";
 import femaleBoardMembers30PercentTargetData from "@/data/policies/female-board-members-30-percent-target.json";
 import financialIncomeTaxOneHundredMillionBarrierData from "@/data/policies/financial-income-tax-one-hundred-million-barrier.json";
 import financialIncomeTaxData from "@/data/policies/financial-income-tax.json";
 import financialInstrumentsExchangeActQuarterlyReportAbolitionData from "@/data/policies/financial-instruments-exchange-act-quarterly-report-abolition.json";
+import fintechOpenBankingApiFreeStandardMandateData from "@/data/policies/fintech-open-banking-api-free-standard-mandate.json";
 import firearmsAndSwordsControlActCrossbowRegulationData from "@/data/policies/firearms-and-swords-control-act-crossbow-regulation.json";
 import fisheriesDistributionTraceabilityAntiPoachingData from "@/data/policies/fisheries-distribution-traceability-anti-poaching.json";
 import fisheriesResourceManagementTacSystemReformData from "@/data/policies/fisheries-resource-management-tac-system-reform.json";
@@ -246,8 +276,10 @@ import fixedTaxCutData from "@/data/policies/fixed-tax-cut.json";
 import floatingOffshoreWindEezOceanRenewableEnergyActData from "@/data/policies/floating-offshore-wind-eez-ocean-renewable-energy-act.json";
 import floodRiskRealEstateTransactionDisclosureData from "@/data/policies/flood-risk-real-estate-transaction-disclosure.json";
 import flyingCarEvtolCommercialOperationAirSafetyData from "@/data/policies/flying-car-evtol-commercial-operation-air-safety.json";
+import flyingCarVertiportUrbanZoningRegulationActData from "@/data/policies/flying-car-vertiport-urban-zoning-regulation-act.json";
 import foodAgricultureRuralBasicActFoodSecurityEmergencyData from "@/data/policies/food-agriculture-rural-basic-act-food-security-emergency.json";
 import foodConsumptionTaxZeroDebateData from "@/data/policies/food-consumption-tax-zero-debate.json";
+import foodContactMaterialsPfasCompleteBanActData from "@/data/policies/food-contact-materials-pfas-complete-ban-act.json";
 import foodSecurityEmergencyProductionOrderData from "@/data/policies/food-security-emergency-production-order.json";
 import foodWasteReductionActSupermarketDiscountAppPromotionData from "@/data/policies/food-waste-reduction-act-supermarket-discount-app-promotion.json";
 import foodWasteReductionRetailDiscardPenaltyData from "@/data/policies/food-waste-reduction-retail-discard-penalty.json";
@@ -264,6 +296,7 @@ import forestEnvironmentTaxNationwideCollectionFundUsageData from "@/data/polici
 import forestEnvironmentTaxData from "@/data/policies/forest-environment-tax.json";
 import forestEnvironmentTransferTaxAllocationFormulaReformData from "@/data/policies/forest-environment-transfer-tax-allocation-formula-reform.json";
 import forestManagementActClearcuttingReforestationMandateData from "@/data/policies/forest-management-act-clearcutting-reforestation-mandate.json";
+import forestTreeThinningDroneLaserSurveySubsidyData from "@/data/policies/forest-tree-thinning-drone-laser-survey-subsidy.json";
 import formulaFeedStabilizationDomesticCropsData from "@/data/policies/formula-feed-stabilization-domestic-crops.json";
 import fosterParentSystemPromotionActData from "@/data/policies/foster-parent-system-promotion-act.json";
 import fourDayWorkweekOptionalData from "@/data/policies/four-day-workweek-optional.json";
@@ -279,6 +312,7 @@ import gasolineSubsidiesTriggerData from "@/data/policies/gasoline-subsidies-tri
 import genderIdentityActSurgeryRequirementReformData from "@/data/policies/gender-identity-act-surgery-requirement-reform.json";
 import genderWageGapDisclosureHumanCapitalReportingData from "@/data/policies/gender-wage-gap-disclosure-human-capital-reporting.json";
 import generativeAiCopyrightRulesData from "@/data/policies/generative-ai-copyright-rules.json";
+import generativeAiCopyrightTransparencyTrainingDataLawData from "@/data/policies/generative-ai-copyright-transparency-training-data-law.json";
 import generativeAiEducationGuidelinesSchoolUseData from "@/data/policies/generative-ai-education-guidelines-school-use.json";
 import genericDrugSubstitutionIncentiveLongListedCopayData from "@/data/policies/generic-drug-substitution-incentive-long-listed-copay.json";
 import geothermalPowerNationalParksDeregulationHotSpringsData from "@/data/policies/geothermal-power-national-parks-deregulation-hot-springs.json";
@@ -286,6 +320,8 @@ import geothermalResourceDevelopmentHotSpringProtectionActData from "@/data/poli
 import globalMinimumTaxMultinationalCorporations15PercentData from "@/data/policies/global-minimum-tax-multinational-corporations-15-percent.json";
 import governmentCloudGovcloudMigrationMandateData from "@/data/policies/government-cloud-govcloud-migration-mandate.json";
 import governmentExecutiveSecurityClearanceCiaFbiCollaborationData from "@/data/policies/government-executive-security-clearance-cia-fbi-collaboration.json";
+import grandparentingLeaveSupportGrandparentsActData from "@/data/policies/grandparenting-leave-support-grandparents-act.json";
+import greenAmmoniaFuelCoalCoFiringSafetyStandardData from "@/data/policies/green-ammonia-fuel-coal-co-firing-safety-standard.json";
 import greenFoodSystemOrganicFarmingData from "@/data/policies/green-food-system-organic-farming.json";
 import gridScaleBatteryStoragePowerGridMasterplanData from "@/data/policies/grid-scale-battery-storage-power-grid-masterplan.json";
 import gxEmissionsTradingSchemeMandatoryPhase2026Data from "@/data/policies/gx-emissions-trading-scheme-mandatory-phase-2026.json";
@@ -298,10 +334,13 @@ import highCostMedicalCapData from "@/data/policies/high-cost-medical-cap.json";
 import highDenominationBanknotePhaseoutCashlessPromotionData from "@/data/policies/high-denomination-banknote-phaseout-cashless-promotion.json";
 import highLevelNuclearWasteFinalDisposalSurveyData from "@/data/policies/high-level-nuclear-waste-final-disposal-survey.json";
 import highProfessionalSystemData from "@/data/policies/high-professional-system.json";
+import highSchoolCareerConsultantMandatoryPlacementData from "@/data/policies/high-school-career-consultant-mandatory-placement.json";
 import highSchoolTuitionFreeData from "@/data/policies/high-school-tuition-free.json";
 import higherEducationFreeTuitionStemPriorityAllocationData from "@/data/policies/higher-education-free-tuition-stem-priority-allocation.json";
+import highwayRestAreaMichiNoEkiEvUltraFastChargerData from "@/data/policies/highway-rest-area-michi-no-eki-ev-ultra-fast-charger.json";
 import historicCastlesTemplesHotelStayDeregulationData from "@/data/policies/historic-castles-temples-hotel-stay-deregulation.json";
 import homeCareReimbursementCutCrisisData from "@/data/policies/home-care-reimbursement-cut-crisis.json";
+import homeDialysisPeritonealDialysisIncentiveActData from "@/data/policies/home-dialysis-peritoneal-dialysis-incentive-act.json";
 import homelessSupportActAutonomousHousingFirstApproachData from "@/data/policies/homeless-support-act-autonomous-housing-first-approach.json";
 import hospicePalliativeCareHomeVisitReimbursementReformData from "@/data/policies/hospice-palliative-care-home-visit-reimbursement-reform.json";
 import hospitalFinancialReportingMandateBankruptcyRestructuringData from "@/data/policies/hospital-financial-reporting-mandate-bankruptcy-restructuring.json";
@@ -320,9 +359,12 @@ import inHospitalClassroomsChronicallyIllChildrenData from "@/data/policies/in-h
 import inboundDutyFreeConsumptionTaxRefundSchemeData from "@/data/policies/inbound-duty-free-consumption-tax-refund-scheme.json";
 import inboundTaxFreeSalesDepartureAirportRefundSystemData from "@/data/policies/inbound-tax-free-sales-departure-airport-refund-system.json";
 import inboundTwoTierPricingSystemData from "@/data/policies/inbound-two-tier-pricing-system.json";
+import inclusiveSchoolBusSeatbeltSafetyActData from "@/data/policies/inclusive-school-bus-seatbelt-safety-act.json";
 import incomeBarrierCareerUpData from "@/data/policies/income-barrier-career-up.json";
 import incomeBarrierData from "@/data/policies/income-barrier.json";
+import industrialInjuryMentalIllnessCertificationSpeedupData from "@/data/policies/industrial-injury-mental-illness-certification-speedup.json";
 import industrialRobotSmartFactoryAutomationData from "@/data/policies/industrial-robot-smart-factory-automation.json";
+import industrialWaterReuseCoolingCircularMandateData from "@/data/policies/industrial-water-reuse-cooling-circular-mandate.json";
 import infectiousDiseaseAgencyJihsJapanCdcData from "@/data/policies/infectious-disease-agency-jihs-japan-cdc.json";
 import infectiousDiseasePreventionActPandemicHospitalBedOrderData from "@/data/policies/infectious-disease-prevention-act-pandemic-hospital-bed-order.json";
 import infertilityTreatmentAdvancedMedicineCostSubsidyData from "@/data/policies/infertility-treatment-advanced-medicine-cost-subsidy.json";
@@ -339,9 +381,11 @@ import interPrefecturalExpresswayTollFreeSocialExperimentData from "@/data/polic
 import internetVotingElectionsSystemData from "@/data/policies/internet-voting-elections-system.json";
 import internetVotingOverseasDisabledVotersStepwiseData from "@/data/policies/internet-voting-overseas-disabled-voters-stepwise.json";
 import intractableDiseasesRegistryRareGenomicDatabaseData from "@/data/policies/intractable-diseases-registry-rare-genomic-database.json";
+import invasiveAlienPestFireAntEradicationDockActData from "@/data/policies/invasive-alien-pest-fire-ant-eradication-dock-act.json";
 import invasiveAlienSpeciesMuntjacCrayfishControlData from "@/data/policies/invasive-alien-species-muntjac-crayfish-control.json";
 import invoiceSystemData from "@/data/policies/invoice-system.json";
 import isolatedCommunitiesDisasterHelicopterCommunicationData from "@/data/policies/isolated-communities-disaster-helicopter-communication.json";
+import isolatedIslandTelemedicineDroneMedicineFundData from "@/data/policies/isolated-island-telemedicine-drone-medicine-fund.json";
 import isolatedSettlementsSatelliteCommunicationsStarlinkData from "@/data/policies/isolated-settlements-satellite-communications-starlink.json";
 import japanDbsChildSexualViolenceData from "@/data/policies/japan-dbs-child-sexual-violence.json";
 import japanTrenchChishimaTrenchEarthquakeTsunamiTowerData from "@/data/policies/japan-trench-chishima-trench-earthquake-tsunami-tower.json";
@@ -349,13 +393,16 @@ import japanUsEuCriticalMineralsAgreementData from "@/data/policies/japan-us-eu-
 import jobBasedHiringNewGraduatesTransitionData from "@/data/policies/job-based-hiring-new-graduates-transition.json";
 import jobHuntingHarassmentPreventionLegislationGuidelinesData from "@/data/policies/job-hunting-harassment-prevention-legislation-guidelines.json";
 import jobHuntingHarassmentStudentProtectionRegulationsData from "@/data/policies/job-hunting-harassment-student-protection-regulations.json";
+import jobSeekingActivityExpenseTaxDeductionActData from "@/data/policies/job-seeking-activity-expense-tax-deduction-act.json";
 import johkasouDecentralizedSewageTransitionSubsidyData from "@/data/policies/johkasou-decentralized-sewage-transition-subsidy.json";
 import jointCustodyAfterDivorceData from "@/data/policies/joint-custody-after-divorce.json";
 import jointCustodyCivilCodeRevision2026EnforcementData from "@/data/policies/joint-custody-civil-code-revision-2026-enforcement.json";
 import jpkiPublicPersonalAuthenticationPrivateApiOpeningData from "@/data/policies/jpki-public-personal-authentication-private-api-opening.json";
 import jrHokkaidoShikokuFreightPublicSupportData from "@/data/policies/jr-hokkaido-shikoku-freight-public-support.json";
+import judicialInterpretingCourtInterpreterLicenseActData from "@/data/policies/judicial-interpreting-court-interpreter-license-act.json";
 import juvenileActSpecifiedJuvenilesStrictnessData from "@/data/policies/juvenile-act-specified-juveniles-strictness.json";
 import juvenileDelinquencySnsSolicitationBlockingMeasuresData from "@/data/policies/juvenile-delinquency-sns-solicitation-blocking-measures.json";
+import kidnappingAlertAmberAlertSmartphoneBroadcastData from "@/data/policies/kidnapping-alert-amber-alert-smartphone-broadcast.json";
 import kindergartenNurserySchoolUnificationEcecIntegrationData from "@/data/policies/kindergarten-nursery-school-unification-ecec-integration.json";
 import kodomoDaretemoTsuenData from "@/data/policies/kodomo-daretemo-tsuen.json";
 import kyutokuhoTeacherSalarySpecialMeasuresReformData from "@/data/policies/kyutokuho-teacher-salary-special-measures-reform.json";
@@ -379,12 +426,15 @@ import lonelyDeathPreventionHousingSupportMonitoringData from "@/data/policies/l
 import longTermCareInsuranceCopaymentIncreaseReviewData from "@/data/policies/long-term-care-insurance-copayment-increase-review.json";
 import maglevChuoShinkansenDelayShizuokaWaterTunnelData from "@/data/policies/maglev-chuo-shinkansen-delay-shizuoka-water-tunnel.json";
 import mandatoryEvChargingFacilitiesNewBuildingsData from "@/data/policies/mandatory-ev-charging-facilities-new-buildings.json";
+import marineBiodiversityBlueCarbonCreditRegistryActData from "@/data/policies/marine-biodiversity-blue-carbon-credit-registry-act.json";
 import marinePlasticGhostGearFisheriesData from "@/data/policies/marine-plastic-ghost-gear-fisheries.json";
 import medicalDebtGuarantorFreeHospitalAdmissionMandateData from "@/data/policies/medical-debt-guarantor-free-hospital-admission-mandate.json";
 import medicalInsuranceHighCostMedicalCareAssetMeansTestData from "@/data/policies/medical-insurance-high-cost-medical-care-asset-means-test.json";
 import medicallyFragileChildrenSupportSchoolNursesData from "@/data/policies/medically-fragile-children-support-school-nurses.json";
 import menopauseHealthSupportLeaveCorporateGuidelinesData from "@/data/policies/menopause-health-support-leave-corporate-guidelines.json";
 import mentalHealthActVoluntaryHospitalizationJudicialReviewData from "@/data/policies/mental-health-act-voluntary-hospitalization-judicial-review.json";
+import mentalHealthPeerSupporterEmploymentActData from "@/data/policies/mental-health-peer-supporter-employment-act.json";
+import methaneLeakSatelliteMonitoringReductionActData from "@/data/policies/methane-leak-satellite-monitoring-reduction-act.json";
 import microplasticsIndustrialPelletRunoffPreventionActData from "@/data/policies/microplastics-industrial-pellet-runoff-prevention-act.json";
 import mildCareShiftCommunitySupportData from "@/data/policies/mild-care-shift-community-support.json";
 import minamitorishimaRareEarthDeepSeaMiningTrialData from "@/data/policies/minamitorishima-rare-earth-deep-sea-mining-trial.json";
@@ -413,6 +463,7 @@ import nationalTreasuresCulturalPropertiesRepairAdmissionFeesData from "@/data/p
 import nationalUniversityTuitionHikeDebateData from "@/data/policies/national-university-tuition-hike-debate.json";
 import neglectedVacantHousesPropertyTaxReliefRevocationData from "@/data/policies/neglected-vacant-houses-property-tax-relief-revocation.json";
 import neighborhoodAssociationJichikaiDigitalizationReformData from "@/data/policies/neighborhood-association-jichikai-digitalization-reform.json";
+import neuromorphicAiSemiconductorEnergyEfficiencyFundData from "@/data/policies/neuromorphic-ai-semiconductor-energy-efficiency-fund.json";
 import newFarmersSupportSuccessionData from "@/data/policies/new-farmers-support-succession.json";
 import newNisaData from "@/data/policies/new-nisa.json";
 import newlywedMarriageHousingRelocationSupportSubsidyData from "@/data/policies/newlywed-marriage-housing-relocation-support-subsidy.json";
@@ -421,6 +472,7 @@ import nhkInternetDistributionMandatoryServiceFeeData from "@/data/policies/nhk-
 import nhkInternetReceivingFeeMandateData from "@/data/policies/nhk-internet-receiving-fee-mandate.json";
 import nightEconomyNoiseTransportationDeregulationData from "@/data/policies/night-economy-noise-transportation-deregulation.json";
 import nightSchoolSeniorHighSchoolRemoteLearningAccreditationData from "@/data/policies/night-school-senior-high-school-remote-learning-accreditation.json";
+import nightTrainSleeperTourismRevitalizationActData from "@/data/policies/night-train-sleeper-tourism-revitalization-act.json";
 import niptPrenatalTestingAccreditationGuidelinesData from "@/data/policies/nipt-prenatal-testing-accreditation-guidelines.json";
 import niptPrenatalTestingAccreditationSystemData from "@/data/policies/nipt-prenatal-testing-accreditation-system.json";
 import nonConsensualSexualOffensesPenalCodeData from "@/data/policies/non-consensual-sexual-offenses-penal-code.json";
@@ -448,6 +500,7 @@ import organDonationDriverLicenseMynumberCheckOptInData from "@/data/policies/or
 import organicFarmingExpansionSchoolLunchLocalProduceData from "@/data/policies/organic-farming-expansion-school-lunch-local-produce.json";
 import organicFarmingMidoriStrategy25PercentData from "@/data/policies/organic-farming-midori-strategy-25-percent.json";
 import orphanYouthCaregiverEmancipationSupportFundData from "@/data/policies/orphan-youth-caregiver-emancipation-support-fund.json";
+import orphanhoodBereavementChildLivingAllowanceData from "@/data/policies/orphanhood-bereavement-child-living-allowance.json";
 import otcAnalogDrugsInsuranceExclusionCopaymentIncreaseData from "@/data/policies/otc-analog-drugs-insurance-exclusion-copayment-increase.json";
 import otcSimilarDrugRestrictionData from "@/data/policies/otc-similar-drug-restriction.json";
 import overTheCounterMedicineAbuseCodeineRegulationData from "@/data/policies/over-the-counter-medicine-abuse-codeine-regulation.json";
@@ -457,11 +510,14 @@ import overtourismTouristTaxCongestionSurchargeActData from "@/data/policies/ove
 import painlessChildbirthEpiduralPublicSubsidyData from "@/data/policies/painless-childbirth-epidural-public-subsidy.json";
 import parallelConventionalLinesThirdSectorSeparationData from "@/data/policies/parallel-conventional-lines-third-sector-separation.json";
 import parentalLeaveWageReplacementRateEightyPercentReimbursementData from "@/data/policies/parental-leave-wage-replacement-rate-eighty-percent-reimbursement.json";
+import partTimeWorkerPaidEducationTrainingLeaveData from "@/data/policies/part-time-worker-paid-education-training-leave.json";
 import partTimeWorkerSocialInsuranceFullCoverageEliminationData from "@/data/policies/part-time-worker-social-insurance-full-coverage-elimination.json";
 import patentBoxIntellectualPropertyTaxIncentiveData from "@/data/policies/patent-box-intellectual-property-tax-incentive.json";
 import paternityLeaveAtBirthData from "@/data/policies/paternity-leave-at-birth.json";
+import patientAdvocateHospitalOmbudspersonSystemData from "@/data/policies/patient-advocate-hospital-ombudsperson-system.json";
 import patientSafetyActMedicalAccidentInvestigationBoardData from "@/data/policies/patient-safety-act-medical-accident-investigation-board.json";
 import pediatricCancerFertilityPreservationSubsidiesData from "@/data/policies/pediatric-cancer-fertility-preservation-subsidies.json";
+import pediatricCancerProtonBeamHeavyIonSubsidyData from "@/data/policies/pediatric-cancer-proton-beam-heavy-ion-subsidy.json";
 import penalCodeReformUnifiedPrisonSentenceData from "@/data/policies/penal-code-reform-unified-prison-sentence.json";
 import pensionContribution45yearsData from "@/data/policies/pension-contribution-45years.json";
 import pensionFiscalVerification100YearSustainabilityData from "@/data/policies/pension-fiscal-verification-100-year-sustainability.json";
@@ -474,18 +530,23 @@ import perovskiteSolarCellsDomesticMassProductionData from "@/data/policies/pero
 import personalInformationProtectionAnonymizationOptoutData from "@/data/policies/personal-information-protection-anonymization-optout.json";
 import petEvacuationShelterGuidelinesDisasterData from "@/data/policies/pet-evacuation-shelter-guidelines-disaster.json";
 import pfasDrinkingWaterQualityRegulationData from "@/data/policies/pfas-drinking-water-quality-regulation.json";
+import pharmaceuticalShortageNationalReserveActData from "@/data/policies/pharmaceutical-shortage-national-reserve-act.json";
 import pharmaceuticalSupplyChainShortageCountermeasuresData from "@/data/policies/pharmaceutical-supply-chain-shortage-countermeasures.json";
 import pharmacyDxElectronicPrescriptionFullRolloutData from "@/data/policies/pharmacy-dx-electronic-prescription-full-rollout.json";
+import phishingScamSmishingTelecomBlockingDutyActData from "@/data/policies/phishing-scam-smishing-telecom-blocking-duty-act.json";
 import physicianGeographicMaldistributionRuralMandateData from "@/data/policies/physician-geographic-maldistribution-rural-mandate.json";
 import pirateSiteFastCinemaIspBlockingDebateData from "@/data/policies/pirate-site-fast-cinema-isp-blocking-debate.json";
 import plasticResourceCirculationActHotelAmenitiesRetailData from "@/data/policies/plastic-resource-circulation-act-hotel-amenities-retail.json";
 import plasticResourceCirculationAmenityFeeExpansionData from "@/data/policies/plastic-resource-circulation-amenity-fee-expansion.json";
 import politicalFundsControlActReform2024Data from "@/data/policies/political-funds-control-act-reform-2024.json";
 import politicalPartySubsidiesUsageDisclosureOneYenReceiptsData from "@/data/policies/political-party-subsidies-usage-disclosure-one-yen-receipts.json";
+import portCraneAutomationRemoteOperationDxActData from "@/data/policies/port-crane-automation-remote-operation-dx-act.json";
 import postQuantumCryptographyGovernmentMigrationPlanData from "@/data/policies/post-quantum-cryptography-government-migration-plan.json";
 import postStrokeRehabilitationInsuranceDurationReformData from "@/data/policies/post-stroke-rehabilitation-insurance-duration-reform.json";
+import postdocTenureTrackYoungResearcherStabilizationData from "@/data/policies/postdoc-tenure-track-young-researcher-stabilization.json";
 import postpartumCareBusinessUniversalSupportData from "@/data/policies/postpartum-care-business-universal-support.json";
 import postpartumDepressionMentalHealthCareExpansionData from "@/data/policies/postpartum-depression-mental-health-care-expansion.json";
+import povertyAlleviationChildDepositAccountMatchingData from "@/data/policies/poverty-alleviation-child-deposit-account-matching.json";
 import preschoolTeacherPlacementStandardReformData from "@/data/policies/preschool-teacher-placement-standard-reform.json";
 import presumptionOfPaternityCivilCodeReformUnregisteredData from "@/data/policies/presumption-of-paternity-civil-code-reform-unregistered.json";
 import primaryCarePhysicianFunctionReportSystemData from "@/data/policies/primary-care-physician-function-report-system.json";
@@ -501,11 +562,14 @@ import publicNightJuniorHighSchoolPrefectureMandateData from "@/data/policies/pu
 import publicOfficesElectionActReformPosterConductData from "@/data/policies/public-offices-election-act-reform-poster-conduct.json";
 import publicSchoolTuitionAidExpansionHighSchoolData from "@/data/policies/public-school-tuition-aid-expansion-high-school.json";
 import publicTransportationAutonomousBusRuralTransitData from "@/data/policies/public-transportation-autonomous-bus-rural-transit.json";
+import pumpedStorageHydroelectricModernizationFundData from "@/data/policies/pumped-storage-hydroelectric-modernization-fund.json";
 import pyramidSchemeMultilevelMarketingCoolingOffExpansionData from "@/data/policies/pyramid-scheme-multilevel-marketing-cooling-off-expansion.json";
 import qualificationConfirmationLetterMynaData from "@/data/policies/qualification-confirmation-letter-myna.json";
 import radioactiveWasteFinalDisposalSiteSelectionSurveyData from "@/data/policies/radioactive-waste-final-disposal-site-selection-survey.json";
 import railwayGradeCrossingAbolitionUrbanFlyoverAccelerationData from "@/data/policies/railway-grade-crossing-abolition-urban-flyover-acceleration.json";
 import railwayStationPlatformDoorBarrierFreeMandateData from "@/data/policies/railway-station-platform-door-barrier-free-mandate.json";
+import rareDiseaseGenomicDrugAcceleratedApprovalActData from "@/data/policies/rare-disease-genomic-drug-accelerated-approval-act.json";
+import recycledPlasticFoodPackagingApprovalStandardData from "@/data/policies/recycled-plastic-food-packaging-approval-standard.json";
 import recycledPlasticMandatoryUsageCircularEconomyData from "@/data/policies/recycled-plastic-mandatory-usage-circular-economy.json";
 import refillPrescriptionUtilizationTargetExpansionData from "@/data/policies/refill-prescription-utilization-target-expansion.json";
 import refundableTaxCreditNegativeIncomeTaxData from "@/data/policies/refundable-tax-credit-negative-income-tax.json";
@@ -514,6 +578,7 @@ import regenerativeMedicineSafetyActExosomeCellTherapyData from "@/data/policies
 import regenerativeMedicineSafetyActIpscDeregulationData from "@/data/policies/regenerative-medicine-safety-act-ipsc-deregulation.json";
 import regionalAirportConcessionInboundData from "@/data/policies/regional-airport-concession-inbound.json";
 import regionalAirportsConcessionPrivatizationSecurityStaffData from "@/data/policies/regional-airports-concession-privatization-security-staff.json";
+import regionalBankJointCoreBankingSystemSubsidyData from "@/data/policies/regional-bank-joint-core-banking-system-subsidy.json";
 import regionalMedicalCoordinationHospitalDownsizingData from "@/data/policies/regional-medical-coordination-hospital-downsizing.json";
 import regionalRailwayRestructuringBusConversionData from "@/data/policies/regional-railway-restructuring-bus-conversion.json";
 import regionalRevitalizationRelocationSubsidyExpansionData from "@/data/policies/regional-revitalization-relocation-subsidy-expansion.json";
@@ -537,6 +602,7 @@ import riverBasinDisasterResilienceFloodControlData from "@/data/policies/river-
 import riverBasinDisasterResilienceRainwaterStorageFacilitiesData from "@/data/policies/river-basin-disaster-resilience-rainwater-storage-facilities.json";
 import roadCaveInPreventionAiUndergroundRadarPipelineData from "@/data/policies/road-cave-in-prevention-ai-underground-radar-pipeline.json";
 import roadTrafficActMopedElectricBicycleRegulationData from "@/data/policies/road-traffic-act-moped-electric-bicycle-regulation.json";
+import ruralDeliveryDepotDroneLandingCooperativeActData from "@/data/policies/rural-delivery-depot-drone-landing-cooperative-act.json";
 import ruralGasStationMaintenanceSsDepopulationData from "@/data/policies/rural-gas-station-maintenance-ss-depopulation.json";
 import safSustainableAviationFuelDomesticSupplyMandateData from "@/data/policies/saf-sustainable-aviation-fuel-domestic-supply-mandate.json";
 import sameSexMarriageEqualityData from "@/data/policies/same-sex-marriage-equality.json";
@@ -557,6 +623,7 @@ import schoolLunchLocalProcurementOrganicRatioData from "@/data/policies/school-
 import schoolSmartphoneBanGuidelinesDigitalDetoxData from "@/data/policies/school-smartphone-ban-guidelines-digital-detox.json";
 import schoolSmartphoneBanRegulationData from "@/data/policies/school-smartphone-ban-regulation.json";
 import schoolTripSafetyStandardsCharterBusSeatbeltData from "@/data/policies/school-trip-safety-standards-charter-bus-seatbelt.json";
+import schoolWaterDispenserHeatstrokeBottledBanData from "@/data/policies/school-water-dispenser-heatstroke-bottled-ban.json";
 import securitiesClearingSettlementCycleTPlusOneReformData from "@/data/policies/securities-clearing-settlement-cycle-t-plus-one-reform.json";
 import securityClearanceActEconomicSecurityInformationProtectionData from "@/data/policies/security-clearance-act-economic-security-information-protection.json";
 import securityClearanceEconomicSecurityData from "@/data/policies/security-clearance-economic-security.json";
@@ -574,9 +641,12 @@ import seniorEmploymentAge70MandateAge75ExtensionData from "@/data/policies/seni
 import seniorEmploymentSecuringMeasuresAge70MandateData from "@/data/policies/senior-employment-securing-measures-age-70-mandate.json";
 import seniorGuarantorServiceRegulationData from "@/data/policies/senior-guarantor-service-regulation.json";
 import serviceDogAssistanceDogMandatoryAcceptancePenaltyActData from "@/data/policies/service-dog-assistance-dog-mandatory-acceptance-penalty-act.json";
+import severancePayDeductionTenureNeutralityReformData from "@/data/policies/severance-pay-deduction-tenure-neutrality-reform.json";
 import severancePayTaxDeduction20YearBarrierReformData from "@/data/policies/severance-pay-tax-deduction-20-year-barrier-reform.json";
 import severancePayTaxData from "@/data/policies/severance-pay-tax.json";
 import sewagePipelineAiRobotInspectionSinkholePreventionData from "@/data/policies/sewage-pipeline-ai-robot-inspection-sinkhole-prevention.json";
+import sewageSludgePhosphorusFertilizerRecoveryMandateData from "@/data/policies/sewage-sludge-phosphorus-fertilizer-recovery-mandate.json";
+import sharedBicycleMicromobilityDedicatedParkingActData from "@/data/policies/shared-bicycle-micromobility-dedicated-parking-act.json";
 import shinglesZosterVaccineRoutineImmunizationSubsidyData from "@/data/policies/shingles-zoster-vaccine-routine-immunization-subsidy.json";
 import shinkansenFreightExpressCargoModalShiftActData from "@/data/policies/shinkansen-freight-express-cargo-modal-shift-act.json";
 import shinkansenFreightExpressCargoModalShiftData from "@/data/policies/shinkansen-freight-express-cargo-modal-shift.json";
@@ -587,6 +657,9 @@ import sideBusinessDualEmploymentHealthInsuranceAggregationData from "@/data/pol
 import sideJobDualEmploymentWorkingHoursManagementData from "@/data/policies/side-job-dual-employment-working-hours-management.json";
 import singleParentChildRearingAllowanceIncomeCapEasingData from "@/data/policies/single-parent-child-rearing-allowance-income-cap-easing.json";
 import singleParentChildRearingAllowanceIncomeCapData from "@/data/policies/single-parent-child-rearing-allowance-income-cap.json";
+import smallBreweryCraftSakeExportTaxIncentiveActData from "@/data/policies/small-brewery-craft-sake-export-tax-incentive-act.json";
+import smallBusinessBusinessSuccessionGiftTaxFreezeData from "@/data/policies/small-business-business-succession-gift-tax-freeze.json";
+import smallBusinessCyberResilienceInsuranceSubsidyData from "@/data/policies/small-business-cyber-resilience-insurance-subsidy.json";
 import smallBusinessRevitalizationTurnaroundWithoutBankruptcyData from "@/data/policies/small-business-revitalization-turnaround-without-bankruptcy.json";
 import smallBusinessSuccessionMAndAGuidelinesData from "@/data/policies/small-business-succession-m-and-a-guidelines.json";
 import smallMediumEnterpriseProductivitySubsidiesDxData from "@/data/policies/small-medium-enterprise-productivity-subsidies-dx.json";
@@ -595,6 +668,7 @@ import smartAgriculturePromotionActData from "@/data/policies/smart-agriculture-
 import smartAgriculturePromotionLawRobotTractorsData from "@/data/policies/smart-agriculture-promotion-law-robot-tractors.json";
 import smartArenaStadiumReformPrivateFinanceData from "@/data/policies/smart-arena-stadium-reform-private-finance.json";
 import smartCitySuperCityNationalStrategicSpecialZonesData from "@/data/policies/smart-city-super-city-national-strategic-special-zones.json";
+import smartFisheryCatchDataVesselElectronicLogActData from "@/data/policies/smart-fishery-catch-data-vessel-electronic-log-act.json";
 import smartMeterNextGenerationDynamicDemandResponseData from "@/data/policies/smart-meter-next-generation-dynamic-demand-response.json";
 import smartphoneCompetitionPromotionActAppStoresData from "@/data/policies/smartphone-competition-promotion-act-app-stores.json";
 import smartphoneSoftwareCompetitionActData from "@/data/policies/smartphone-software-competition-act.json";
@@ -612,15 +686,20 @@ import spaceBasicActOneTrillionYenSpaceStrategyFundData from "@/data/policies/sp
 import spaceDebrisMitigationRemovalLicensingActData from "@/data/policies/space-debris-mitigation-removal-licensing-act.json";
 import spaceIndustryStrategicFundData from "@/data/policies/space-industry-strategic-fund.json";
 import spaceResourceExplorationCommercialActData from "@/data/policies/space-resource-exploration-commercial-act.json";
+import spaceSolarPowerSystemSpsTechnologyActData from "@/data/policies/space-solar-power-system-sps-technology-act.json";
 import specialAdoptionSystemDeregulationChildRightsData from "@/data/policies/special-adoption-system-deregulation-child-rights.json";
+import specialFraudSimCardUnregisteredCountermeasuresData from "@/data/policies/special-fraud-sim-card-unregistered-countermeasures.json";
+import specialNeedsAssistiveTechDeviceGrantActData from "@/data/policies/special-needs-assistive-tech-device-grant-act.json";
 import specialNeedsEducationInclusiveEducationSupportStaffData from "@/data/policies/special-needs-education-inclusive-education-support-staff.json";
 import specializedPracticalEducationTrainingBenefit80PercentData from "@/data/policies/specialized-practical-education-training-benefit-80-percent.json";
 import specifiedSkilledWorker2ExpansionData from "@/data/policies/specified-skilled-worker-2-expansion.json";
 import sportsBettingLegalizationDebateData from "@/data/policies/sports-betting-legalization-debate.json";
 import sportsBettingLegalizationSportsPromotionFundData from "@/data/policies/sports-betting-legalization-sports-promotion-fund.json";
+import sportsConcussionProtocolStudentAthleteActData from "@/data/policies/sports-concussion-protocol-student-athlete-act.json";
 import spotWorkGigWorkerLaborProtectionData from "@/data/policies/spot-work-gig-worker-labor-protection.json";
 import spotWorkSukimaBaitoLaborProtectionWorkersCompData from "@/data/policies/spot-work-sukima-baito-labor-protection-workers-comp.json";
 import stablecoinIssuanceBankingLicenseFsaFrameworkData from "@/data/policies/stablecoin-issuance-banking-license-fsa-framework.json";
+import stadiumNamingRightsLocalTaxIncentiveActData from "@/data/policies/stadium-naming-rights-local-tax-incentive-act.json";
 import statutoryEmploymentRatePersonsWithDisabilitiesHikeData from "@/data/policies/statutory-employment-rate-persons-with-disabilities-hike.json";
 import stealthMarketingRegulationActEnforcementData from "@/data/policies/stealth-marketing-regulation-act-enforcement.json";
 import stealthMarketingRegulationInfluencerCrackdownData from "@/data/policies/stealth-marketing-regulation-influencer-crackdown.json";
@@ -636,14 +715,21 @@ import submarineCableLandingStationsDecentralizationData from "@/data/policies/s
 import submarineCableRedundancyLandingStationDecentralizationData from "@/data/policies/submarine-cable-redundancy-landing-station-decentralization.json";
 import subscriptionContractCancellationDarkPatternsData from "@/data/policies/subscription-contract-cancellation-dark-patterns.json";
 import suicidePreventionSnsConsultationExpansionData from "@/data/policies/suicide-prevention-sns-consultation-expansion.json";
+import supercomputerFugakuNextGenerationPriorityAccessData from "@/data/policies/supercomputer-fugaku-next-generation-priority-access.json";
+import supplyChainCarbonFootprintLabelDisplayDutyData from "@/data/policies/supply-chain-carbon-footprint-label-display-duty.json";
 import survivorsPensionGenderNeutralReformData from "@/data/policies/survivors-pension-gender-neutral-reform.json";
+import synchrotronRadiationNanoterasuIndustrialUtilizationData from "@/data/policies/synchrotron-radiation-nanoterasu-industrial-utilization.json";
+import syntheticBiologyCellFactoryBiomanufacturingSafetyData from "@/data/policies/synthetic-biology-cell-factory-biomanufacturing-safety.json";
 import tacFisheryQuotaExpansionWarmingSeasData from "@/data/policies/tac-fishery-quota-expansion-warming-seas.json";
 import taxiAppFareDynamicPricingDeregulationData from "@/data/policies/taxi-app-fare-dynamic-pricing-deregulation.json";
+import teacherLicenseRenewalAbolitionFollowupSupportData from "@/data/policies/teacher-license-renewal-abolition-followup-support.json";
 import teacherSpecialMeasureActData from "@/data/policies/teacher-special-measure-act.json";
 import teacherWorkloadReductionSchoolTaskOutsourcingData from "@/data/policies/teacher-workload-reduction-school-task-outsourcing.json";
 import telecomBusinessActDarkFiberLeasingDeregulationData from "@/data/policies/telecom-business-act-dark-fiber-leasing-deregulation.json";
 import telecomEmergencyRoamingMandateData from "@/data/policies/telecom-emergency-roaming-mandate.json";
+import teleworkRightToRequestCaregivingParentingData from "@/data/policies/telework-right-to-request-caregiving-parenting.json";
 import testamentarySubstituteTrustSingleElderlyAffairsData from "@/data/policies/testamentary-substitute-trust-single-elderly-affairs.json";
+import textileClothingMassDisposalIncinerationBanData from "@/data/policies/textile-clothing-mass-disposal-incineration-ban.json";
 import textileWasteFastFashionRecyclingRegulationsData from "@/data/policies/textile-waste-fast-fashion-recycling-regulations.json";
 import timberUsagePromotionPublicBuildingsWoodenData from "@/data/policies/timber-usage-promotion-public-buildings-wooden.json";
 import tobaccoTaxHeatedTobaccoParityHikeData from "@/data/policies/tobacco-tax-heated-tobacco-parity-hike.json";
@@ -656,19 +742,26 @@ import totalAllowableCatchTacMarineResourcesManagementData from "@/data/policies
 import touristTaxFreeShoppingRefundSystemResalePreventionData from "@/data/policies/tourist-tax-free-shopping-refund-system-resale-prevention.json";
 import towerMansionInheritanceTaxValuationData from "@/data/policies/tower-mansion-inheritance-tax-valuation.json";
 import towerMansionTaxLoopholeReformFairnessData from "@/data/policies/tower-mansion-tax-loophole-reform-fairness.json";
+import trademarkSquattingBrandTheftCountermeasuresActData from "@/data/policies/trademark-squatting-brand-theft-countermeasures-act.json";
 import traditionalCraftsPreservationSuccessorFundActData from "@/data/policies/traditional-crafts-preservation-successor-fund-act.json";
 import traditionalCraftsSuccessorsRawMaterialsSupportData from "@/data/policies/traditional-crafts-successors-raw-materials-support.json";
 import trafficAccidentVictimMandatoryInsuranceRecoveryData from "@/data/policies/traffic-accident-victim-mandatory-insurance-recovery.json";
+import trialEmploymentSubsidyMiddleAgedUnemployedData from "@/data/policies/trial-employment-subsidy-middle-aged-unemployed.json";
 import truancyFreeSchoolPublicFundingCocoloData from "@/data/policies/truancy-free-school-public-funding-cocolo.json";
 import truckDriverWaitingTimeDemurrageFeeMandatoryChargeData from "@/data/policies/truck-driver-waiting-time-demurrage-fee-mandatory-charge.json";
 import truckingBusinessStandardFareSystemMandatoryData from "@/data/policies/trucking-business-standard-fare-system-mandatory.json";
 import unSecurityCouncilReformJapanPermanentSeatData from "@/data/policies/un-security-council-reform-japan-permanent-seat.json";
+import unclaimedBodiesCremationPropertySettlementActData from "@/data/policies/unclaimed-bodies-cremation-property-settlement-act.json";
+import undergroundMallInundationWaterstopPlateMandateData from "@/data/policies/underground-mall-inundation-waterstop-plate-mandate.json";
 import undergroundUtilityTunnelsPoleFreeUrbanResilienceData from "@/data/policies/underground-utility-tunnels-pole-free-urban-resilience.json";
+import underwaterFiberOpticSubmarineCableRedundancyActData from "@/data/policies/underwater-fiber-optic-submarine-cable-redundancy-act.json";
 import unemploymentInsuranceReskillingSelfResignationEasingData from "@/data/policies/unemployment-insurance-reskilling-self-resignation-easing.json";
 import universalDentalCheckupMandatePeriodontalDiseaseData from "@/data/policies/universal-dental-checkup-mandate-periodontal-disease.json";
+import universityDormitoryLowIncomeSubsidyActData from "@/data/policies/university-dormitory-low-income-subsidy-act.json";
 import universityEndowmentFund10TrillionYenSelectionData from "@/data/policies/university-endowment-fund-10-trillion-yen-selection.json";
 import universityMergerReorganizationActDecliningBirthrateData from "@/data/policies/university-merger-reorganization-act-declining-birthrate.json";
 import universityScienceHumanitiesConversionSubsidyData from "@/data/policies/university-science-humanities-conversion-subsidy.json";
+import universitySpinningOffDeeptechVentureFundActData from "@/data/policies/university-spinning-off-deeptech-venture-fund-act.json";
 import universityTuitionWaiverData from "@/data/policies/university-tuition-waiver.json";
 import unmanagedAbandonedHousesTaxBreakRemovalEnforcementData from "@/data/policies/unmanaged-abandoned-houses-tax-break-removal-enforcement.json";
 import unoccupiedLandInheritanceStateAttributionReformData from "@/data/policies/unoccupied-land-inheritance-state-attribution-reform.json";
@@ -686,22 +779,29 @@ import waterSupplyPrivatizationRateHikeData from "@/data/policies/water-supply-p
 import waterUtilityRegionalConsolidationAgingPipesData from "@/data/policies/water-utility-regional-consolidation-aging-pipes.json";
 import welfareEvacuationSheltersVulnerableDirectAdmissionData from "@/data/policies/welfare-evacuation-shelters-vulnerable-direct-admission.json";
 import welfareRecipientMedicalAssistanceMynaCardMandateData from "@/data/policies/welfare-recipient-medical-assistance-myna-card-mandate.json";
+import wheelchairAccessibleHotelRoomBarrierFreeRatioData from "@/data/policies/wheelchair-accessible-hotel-room-barrier-free-ratio.json";
 import whistleblowerProtectionActMandatoryCompliancePenaltyData from "@/data/policies/whistleblower-protection-act-mandatory-compliance-penalty.json";
 import whistleblowerProtectionActMandatoryComplianceData from "@/data/policies/whistleblower-protection-act-mandatory-compliance.json";
+import whistleblowerProtectionFinancialBountyProgramData from "@/data/policies/whistleblower-protection-financial-bounty-program.json";
 import wildBearDamageCountermeasuresData from "@/data/policies/wild-bear-damage-countermeasures.json";
+import wildBirdInfluenzaEggPoultryFarmBiosecurityData from "@/data/policies/wild-bird-influenza-egg-poultry-farm-biosecurity.json";
 import wildBoarDeerDamagePreventionGibierUtilizationData from "@/data/policies/wild-boar-deer-damage-prevention-gibier-utilization.json";
+import wildPlantSeedsEndangeredSpeciesVaultActData from "@/data/policies/wild-plant-seeds-endangered-species-vault-act.json";
 import wildlifeDamageCountermeasuresHuntingLicenseEasingData from "@/data/policies/wildlife-damage-countermeasures-hunting-license-easing.json";
 import wildlifeDamagePreventionGibierUtilizationData from "@/data/policies/wildlife-damage-prevention-gibier-utilization.json";
+import woodenDeckPedestrianSkywalkPromenadeActData from "@/data/policies/wooden-deck-pedestrian-skywalk-promenade-act.json";
+import workerCooperativeTaxExemptionCommunityActData from "@/data/policies/worker-cooperative-tax-exemption-community-act.json";
 import workerDispatchActEqualPayForEqualWorkAuditData from "@/data/policies/worker-dispatch-act-equal-pay-for-equal-work-audit.json";
 import workerProtectionHeatAlertConstructionSiteSuspensionData from "@/data/policies/worker-protection-heat-alert-construction-site-suspension.json";
 import workersCompensationTeleworkHomeInjuryStandardsData from "@/data/policies/workers-compensation-telework-home-injury-standards.json";
 import workingHoursIntervalSystemRestMandateDebateData from "@/data/policies/working-hours-interval-system-rest-mandate-debate.json";
+import workplaceAirConditioningWarehouseLogisticsActData from "@/data/policies/workplace-air-conditioning-warehouse-logistics-act.json";
 import worldClassResearchUniversityFundData from "@/data/policies/world-class-research-university-fund.json";
 import youngCarerSupportLegalizationData from "@/data/policies/young-carer-support-legalization.json";
 import youthSmartphoneGamingTimeRestrictionData from "@/data/policies/youth-smartphone-gaming-time-restriction.json";
 import zaishokuPensionData from "@/data/policies/zaishoku-pension.json";
 
-const policies: PolicyTopic[] = [
+export const policies: PolicyTopic[] = [
   abandonedBoatsRemovalPortsCoastalCleanupData as unknown as PolicyTopic,
   abandonedFarmlandConsolidationFarmlandBankData as unknown as PolicyTopic,
   abandonedGravesDemolitionTreeBurialCremationRulesData as unknown as PolicyTopic,
@@ -713,6 +813,7 @@ const policies: PolicyTopic[] = [
   activeCyberDefenseLegalFrameworkNationalSecurityData as unknown as PolicyTopic,
   activeCyberDefenseLegislationData as unknown as PolicyTopic,
   administrativeProcedureActCompleteAbolitionHankoSealData as unknown as PolicyTopic,
+  adultGuardianshipJudicialSupervisionReformData as unknown as PolicyTopic,
   adultGuardianshipSystemFundamentalReformFlexibilityData as unknown as PolicyTopic,
   ageRelatedHearingLossHearingAidSubsidyActData as unknown as PolicyTopic,
   agingCondominiumRebuildingResolutionThresholdEasingData as unknown as PolicyTopic,
@@ -741,6 +842,7 @@ const policies: PolicyTopic[] = [
   avianInfluenzaLivestockEpidemicControlData as unknown as PolicyTopic,
   aviationActLevel4DroneBeyondVisualLineOfSightData as unknown as PolicyTopic,
   babyBondChildrenAssetBuildingAccountData as unknown as PolicyTopic,
+  barrierFreeAccessiblePedestrianNetworkActData as unknown as PolicyTopic,
   bbnjHighSeasBiodiversityTreatyRatificationData as unknown as PolicyTopic,
   bicycleBlueTicketData as unknown as PolicyTopic,
   bicycleHelmetMandateInsuranceData as unknown as PolicyTopic,
@@ -753,15 +855,18 @@ const policies: PolicyTopic[] = [
   bloodDonationYoungGenerationIncentiveFrameworkData as unknown as PolicyTopic,
   boardOfEducationReformSuperintendentAccountabilityData as unknown as PolicyTopic,
   boneMarrowDonorPaidLeaveActCorporateSubsidyData as unknown as PolicyTopic,
+  bridgeTunnelRoboticRemoteInspectionStandardData as unknown as PolicyTopic,
   broadcastingActRelayStationInfrastructureSharingData as unknown as PolicyTopic,
   buildingEnergyEfficiencyActMandatoryStandards2025Data as unknown as PolicyTopic,
   buildingSeismicRetrofitMandatoryEarthquakeBreakerData as unknown as PolicyTopic,
   businessOwnerGuaranteeReformCreditGuaranteeFeeData as unknown as PolicyTopic,
+  cancerAppearanceCareWigProsthesisSubsidyData as unknown as PolicyTopic,
   cannabisControlActReformMedicalUseOffenseData as unknown as PolicyTopic,
   carbonBorderAdjustmentMechanismCbamDialogueData as unknown as PolicyTopic,
   carbonNeutralPortCnpPortActHydrogenAmmoniaData as unknown as PolicyTopic,
   carePlanCopayDebateData as unknown as PolicyTopic,
   careRobotStaffingRatioDeregulationData as unknown as PolicyTopic,
+  careWorkerEmotionalLaborAllowanceActData as unknown as PolicyTopic,
   caregiverWageHikeAllowanceUnificationData as unknown as PolicyTopic,
   caregiverWageHikeReimbursementDifferentialData as unknown as PolicyTopic,
   caregivingResignationLeaveActReformData as unknown as PolicyTopic,
@@ -771,9 +876,11 @@ const policies: PolicyTopic[] = [
   childAndFamilyCenterNationwideMandate2024Data as unknown as PolicyTopic,
   childCommissionerIndependentAdvocacyBodyData as unknown as PolicyTopic,
   childDeathReviewCdrInstitutionalizationData as unknown as PolicyTopic,
+  childFosterCareIndependentLivingContinuationData as unknown as PolicyTopic,
   childMentalHealthClinicPediatricPsychiatrySubsidiesData as unknown as PolicyTopic,
   childMentalHealthSchoolCounselorFullDeploymentData as unknown as PolicyTopic,
   childPovertyPreventionCafeteriaPermanentSubsidiesData as unknown as PolicyTopic,
+  childReadingDigitalLibraryFreeAccessActData as unknown as PolicyTopic,
   childRightsOmbudspersonLocalOrdinanceMandateData as unknown as PolicyTopic,
   childSupportAdvancePaymentData as unknown as PolicyTopic,
   childcareAndCaregiverLeaveActNursingCareFlexibility2025Data as unknown as PolicyTopic,
@@ -782,7 +889,9 @@ const policies: PolicyTopic[] = [
   childcareShortTimeWorkWageSubsidyBenefitData as unknown as PolicyTopic,
   childcareSupportFundData as unknown as PolicyTopic,
   childrenAndFamiliesAgencySupportFundSystemData as unknown as PolicyTopic,
+  chronicFatigueLongCovidTreatmentGuidelineActData as unknown as PolicyTopic,
   civilCourtDxOnlineTrialElectronicSubmissionActData as unknown as PolicyTopic,
+  civilCourtRemoteWitnessExaminationExpansionData as unknown as PolicyTopic,
   civilExecutionActChildSupportAssetDisclosureData as unknown as PolicyTopic,
   civilLitigationDigitalizationECourtWebHearingsData as unknown as PolicyTopic,
   civilProtectionSheltersUndergroundStationsData as unknown as PolicyTopic,
@@ -794,8 +903,10 @@ const policies: PolicyTopic[] = [
   commercialWhalingKaneiMaruFinWhaleData as unknown as PolicyTopic,
   communityGeneralSupportCenterSocialIsolationOutreachData as unknown as PolicyTopic,
   compactCityLocationOptimizationPlanConsolidationData as unknown as PolicyTopic,
+  compactCityMedicalHubRelocationIncentiveActData as unknown as PolicyTopic,
   comprehensiveAfterSchoolCarePlanData as unknown as PolicyTopic,
   condoReconstructionSubdividedOwnershipData as unknown as PolicyTopic,
+  condominiumLongTermRepairFundShortagePreventData as unknown as PolicyTopic,
   condominiumStandardManagementCertificateSystemData as unknown as PolicyTopic,
   confinementPenaltyPrisonSystemReformData as unknown as PolicyTopic,
   constitutionalAmendmentEmergencyTermExtensionData as unknown as PolicyTopic,
@@ -809,6 +920,8 @@ const policies: PolicyTopic[] = [
   corporateSpousalAllowanceReductionIncomeBarrierData as unknown as PolicyTopic,
   corporateTakeoverGuidelinesConsentlessBidsTransparencyData as unknown as PolicyTopic,
   counterstrikeCapabilityLongRangeMissilesData as unknown as PolicyTopic,
+  covertTrackingAirtagStalkingRegulationReformData as unknown as PolicyTopic,
+  creativeIndustryFreelanceWrittenContractDutyData as unknown as PolicyTopic,
   creditCardFraudPhishingVictimCompensationGuidelinesData as unknown as PolicyTopic,
   creditCardInterchangeFeeTransparencyDisclosureData as unknown as PolicyTopic,
   crimeVictimsBasicActFinancialBenefitIncreaseData as unknown as PolicyTopic,
@@ -818,6 +931,8 @@ const policies: PolicyTopic[] = [
   criticalMineralsDeepSeaUrbanMiningData as unknown as PolicyTopic,
   criticalRawMaterialsDomesticStockpilingActData as unknown as PolicyTopic,
   criticalSoftwareBillOfMaterialsSbomMandateData as unknown as PolicyTopic,
+  crowdSurgeStampedeAiPredictionGuidelineActData as unknown as PolicyTopic,
+  crowdfundingInvestorProtectionTaxCreditActData as unknown as PolicyTopic,
   cruiseShipPortFacilityCustomsQuarantineDxData as unknown as PolicyTopic,
   cryptoAssetsSeparateDeclarationTaxationReformData as unknown as PolicyTopic,
   cryptoAssetsSeparateSelfAssessmentTaxData as unknown as PolicyTopic,
@@ -835,10 +950,14 @@ const policies: PolicyTopic[] = [
   damRedevelopmentPreDischargeFloodControlHydropowerData as unknown as PolicyTopic,
   dangerousDrivingPenalCodeReformData as unknown as PolicyTopic,
   darkPartTimeJobBankAccountFreezingFrameworkData as unknown as PolicyTopic,
+  darkPatternECommerceCancellationBlockBanData as unknown as PolicyTopic,
   darkStoreQuickCommerceUrbanPlanningActData as unknown as PolicyTopic,
+  deafRelayServiceTwentyfourSevenFreeCoverageData as unknown as PolicyTopic,
   deafSignLanguageBasicActOfficialLanguageStatusData as unknown as PolicyTopic,
+  deafblindInterpreterServiceUniversalCoverageData as unknown as PolicyTopic,
   deathPenaltyAbolitionLifeWithoutParoleData as unknown as PolicyTopic,
   deepSeaRareEarthMiningEnvironmentalFrameworkData as unknown as PolicyTopic,
+  deepSeaRareEarthMiningEnvironmentalImpactActData as unknown as PolicyTopic,
   deepfakeCountermeasuresElectionAiWatermarkData as unknown as PolicyTopic,
   deepfakeDisinformationElectionInterferenceRegulationData as unknown as PolicyTopic,
   deepfakeWatermarkOriginatorProfileData as unknown as PolicyTopic,
@@ -872,9 +991,12 @@ const policies: PolicyTopic[] = [
   disabilityEmploymentQuotaHikeAgencyCurbData as unknown as PolicyTopic,
   disabilityPensionIncomeEarningRulesSimplificationData as unknown as PolicyTopic,
   disabilityPensionMentalDisorderCriteriaStandardizationData as unknown as PolicyTopic,
+  disabilitySupportedEmploymentMinimumWageParityData as unknown as PolicyTopic,
   disasterHousingContainerModularPrefabricatedStockpilingData as unknown as PolicyTopic,
   disasterManagementActLineBedRestroomStandardsData as unknown as PolicyTopic,
+  disasterPetEvacuationCoShelteringGuidelineActData as unknown as PolicyTopic,
   disasterPreventionWeatherInformationLinearRainbandData as unknown as PolicyTopic,
+  disasterRubbleCrossPrefectureTreatmentAgreementData as unknown as PolicyTopic,
   disasterWasteWideAreaDisposalTemporaryStorageData as unknown as PolicyTopic,
   disasterWasteWideAreaTreatmentPlanMandateData as unknown as PolicyTopic,
   discretionaryLaborSystemScopeExpansionHealthData as unknown as PolicyTopic,
@@ -882,6 +1004,8 @@ const policies: PolicyTopic[] = [
   discretionaryWorkSystemLaborInspectionStandardsData as unknown as PolicyTopic,
   dismissalMonetaryResolutionData as unknown as PolicyTopic,
   disposablePlasticCutleryAmenityFeeData as unknown as PolicyTopic,
+  districtCoolingWasteHeatDataCenterGreenActData as unknown as PolicyTopic,
+  dnaDigitalDataStorageNationalArchiveActData as unknown as PolicyTopic,
   doctorOvertimeRegulationData as unknown as PolicyTopic,
   doctoralStudentsPostdocLivingAllowanceSupportData as unknown as PolicyTopic,
   domesticFertilizerManureCompostUtilizationData as unknown as PolicyTopic,
@@ -897,6 +1021,7 @@ const policies: PolicyTopic[] = [
   drugLagDrugLossFastTrackApprovalData as unknown as PolicyTopic,
   dutyFreeRefundAirportExitData as unknown as PolicyTopic,
   earlyEntranceUniversityAcceleratedEducationProgramData as unknown as PolicyTopic,
+  eatingDisorderNationalSpecialistCenterActData as unknown as PolicyTopic,
   economicCoercionCountermeasuresMultilateralFrameworkData as unknown as PolicyTopic,
   economicSecurityPromotionActSupplyChainSubsidiesData as unknown as PolicyTopic,
   economicSecuritySupplyChainResilienceData as unknown as PolicyTopic,
@@ -910,6 +1035,7 @@ const policies: PolicyTopic[] = [
   electricVehicleChargingInfrastructureParkingLotMandateData as unknown as PolicyTopic,
   electricVehicleUltraFastChargerHighwayMandateData as unknown as PolicyTopic,
   electricityCapacityMarketRetailBankruptcyData as unknown as PolicyTopic,
+  electronicHealthRecordInteroperabilityFireEmsData as unknown as PolicyTopic,
   electronicHealthRecordNationalPlatformDxData as unknown as PolicyTopic,
   electronicPrescriptionMedicalDxPlatformData as unknown as PolicyTopic,
   electronicPrescriptionsRefillPrescriptionsPromotionData as unknown as PolicyTopic,
@@ -920,6 +1046,7 @@ const policies: PolicyTopic[] = [
   emergencyCall7119TelephoneTriageNationwideData as unknown as PolicyTopic,
   emergencyContraceptionOtcPharmacySaleData as unknown as PolicyTopic,
   emergencyMedicalCallTriageSharp7119MandateData as unknown as PolicyTopic,
+  emergencyPowerSupplyDialysisHospitalMandateData as unknown as PolicyTopic,
   endOfLifeCareLivingWillDeathWithDignityLegislationData as unknown as PolicyTopic,
   energySubsidiesData as unknown as PolicyTopic,
   equalPayEqualWorkBonusSeveranceData as unknown as PolicyTopic,
@@ -934,13 +1061,16 @@ const policies: PolicyTopic[] = [
   expresswayTollCollectionExtension2115BridgeAgingData as unknown as PolicyTopic,
   extracurricularClubActivitiesRegionalTransitionData as unknown as PolicyTopic,
   extracurricularSportsArtsCoachNationalRegistrationData as unknown as PolicyTopic,
+  fairCompetitionCloudVendorLockInProhibitionData as unknown as PolicyTopic,
   fairTradeCommissionFreelanceActEnforcementData as unknown as PolicyTopic,
   fairTradeCommissionPremiumsActCommitmentsPenalties2024Data as unknown as PolicyTopic,
+  farmWorkerHeatstrokeSmartWatchMonitoringSubsidyData as unknown as PolicyTopic,
   farmlandIntermediaryManagementBankConsolidationData as unknown as PolicyTopic,
   femaleBoardMembers30PercentTargetData as unknown as PolicyTopic,
   financialIncomeTaxOneHundredMillionBarrierData as unknown as PolicyTopic,
   financialIncomeTaxData as unknown as PolicyTopic,
   financialInstrumentsExchangeActQuarterlyReportAbolitionData as unknown as PolicyTopic,
+  fintechOpenBankingApiFreeStandardMandateData as unknown as PolicyTopic,
   firearmsAndSwordsControlActCrossbowRegulationData as unknown as PolicyTopic,
   fisheriesDistributionTraceabilityAntiPoachingData as unknown as PolicyTopic,
   fisheriesResourceManagementTacSystemReformData as unknown as PolicyTopic,
@@ -948,8 +1078,10 @@ const policies: PolicyTopic[] = [
   floatingOffshoreWindEezOceanRenewableEnergyActData as unknown as PolicyTopic,
   floodRiskRealEstateTransactionDisclosureData as unknown as PolicyTopic,
   flyingCarEvtolCommercialOperationAirSafetyData as unknown as PolicyTopic,
+  flyingCarVertiportUrbanZoningRegulationActData as unknown as PolicyTopic,
   foodAgricultureRuralBasicActFoodSecurityEmergencyData as unknown as PolicyTopic,
   foodConsumptionTaxZeroDebateData as unknown as PolicyTopic,
+  foodContactMaterialsPfasCompleteBanActData as unknown as PolicyTopic,
   foodSecurityEmergencyProductionOrderData as unknown as PolicyTopic,
   foodWasteReductionActSupermarketDiscountAppPromotionData as unknown as PolicyTopic,
   foodWasteReductionRetailDiscardPenaltyData as unknown as PolicyTopic,
@@ -966,6 +1098,7 @@ const policies: PolicyTopic[] = [
   forestEnvironmentTaxData as unknown as PolicyTopic,
   forestEnvironmentTransferTaxAllocationFormulaReformData as unknown as PolicyTopic,
   forestManagementActClearcuttingReforestationMandateData as unknown as PolicyTopic,
+  forestTreeThinningDroneLaserSurveySubsidyData as unknown as PolicyTopic,
   formulaFeedStabilizationDomesticCropsData as unknown as PolicyTopic,
   fosterParentSystemPromotionActData as unknown as PolicyTopic,
   fourDayWorkweekOptionalData as unknown as PolicyTopic,
@@ -981,6 +1114,7 @@ const policies: PolicyTopic[] = [
   genderIdentityActSurgeryRequirementReformData as unknown as PolicyTopic,
   genderWageGapDisclosureHumanCapitalReportingData as unknown as PolicyTopic,
   generativeAiCopyrightRulesData as unknown as PolicyTopic,
+  generativeAiCopyrightTransparencyTrainingDataLawData as unknown as PolicyTopic,
   generativeAiEducationGuidelinesSchoolUseData as unknown as PolicyTopic,
   genericDrugSubstitutionIncentiveLongListedCopayData as unknown as PolicyTopic,
   geothermalPowerNationalParksDeregulationHotSpringsData as unknown as PolicyTopic,
@@ -988,6 +1122,8 @@ const policies: PolicyTopic[] = [
   globalMinimumTaxMultinationalCorporations15PercentData as unknown as PolicyTopic,
   governmentCloudGovcloudMigrationMandateData as unknown as PolicyTopic,
   governmentExecutiveSecurityClearanceCiaFbiCollaborationData as unknown as PolicyTopic,
+  grandparentingLeaveSupportGrandparentsActData as unknown as PolicyTopic,
+  greenAmmoniaFuelCoalCoFiringSafetyStandardData as unknown as PolicyTopic,
   greenFoodSystemOrganicFarmingData as unknown as PolicyTopic,
   gridScaleBatteryStoragePowerGridMasterplanData as unknown as PolicyTopic,
   gxEmissionsTradingSchemeMandatoryPhase2026Data as unknown as PolicyTopic,
@@ -1000,10 +1136,13 @@ const policies: PolicyTopic[] = [
   highDenominationBanknotePhaseoutCashlessPromotionData as unknown as PolicyTopic,
   highLevelNuclearWasteFinalDisposalSurveyData as unknown as PolicyTopic,
   highProfessionalSystemData as unknown as PolicyTopic,
+  highSchoolCareerConsultantMandatoryPlacementData as unknown as PolicyTopic,
   highSchoolTuitionFreeData as unknown as PolicyTopic,
   higherEducationFreeTuitionStemPriorityAllocationData as unknown as PolicyTopic,
+  highwayRestAreaMichiNoEkiEvUltraFastChargerData as unknown as PolicyTopic,
   historicCastlesTemplesHotelStayDeregulationData as unknown as PolicyTopic,
   homeCareReimbursementCutCrisisData as unknown as PolicyTopic,
+  homeDialysisPeritonealDialysisIncentiveActData as unknown as PolicyTopic,
   homelessSupportActAutonomousHousingFirstApproachData as unknown as PolicyTopic,
   hospicePalliativeCareHomeVisitReimbursementReformData as unknown as PolicyTopic,
   hospitalFinancialReportingMandateBankruptcyRestructuringData as unknown as PolicyTopic,
@@ -1022,9 +1161,12 @@ const policies: PolicyTopic[] = [
   inboundDutyFreeConsumptionTaxRefundSchemeData as unknown as PolicyTopic,
   inboundTaxFreeSalesDepartureAirportRefundSystemData as unknown as PolicyTopic,
   inboundTwoTierPricingSystemData as unknown as PolicyTopic,
+  inclusiveSchoolBusSeatbeltSafetyActData as unknown as PolicyTopic,
   incomeBarrierCareerUpData as unknown as PolicyTopic,
   incomeBarrierData as unknown as PolicyTopic,
+  industrialInjuryMentalIllnessCertificationSpeedupData as unknown as PolicyTopic,
   industrialRobotSmartFactoryAutomationData as unknown as PolicyTopic,
+  industrialWaterReuseCoolingCircularMandateData as unknown as PolicyTopic,
   infectiousDiseaseAgencyJihsJapanCdcData as unknown as PolicyTopic,
   infectiousDiseasePreventionActPandemicHospitalBedOrderData as unknown as PolicyTopic,
   infertilityTreatmentAdvancedMedicineCostSubsidyData as unknown as PolicyTopic,
@@ -1041,9 +1183,11 @@ const policies: PolicyTopic[] = [
   internetVotingElectionsSystemData as unknown as PolicyTopic,
   internetVotingOverseasDisabledVotersStepwiseData as unknown as PolicyTopic,
   intractableDiseasesRegistryRareGenomicDatabaseData as unknown as PolicyTopic,
+  invasiveAlienPestFireAntEradicationDockActData as unknown as PolicyTopic,
   invasiveAlienSpeciesMuntjacCrayfishControlData as unknown as PolicyTopic,
   invoiceSystemData as unknown as PolicyTopic,
   isolatedCommunitiesDisasterHelicopterCommunicationData as unknown as PolicyTopic,
+  isolatedIslandTelemedicineDroneMedicineFundData as unknown as PolicyTopic,
   isolatedSettlementsSatelliteCommunicationsStarlinkData as unknown as PolicyTopic,
   japanDbsChildSexualViolenceData as unknown as PolicyTopic,
   japanTrenchChishimaTrenchEarthquakeTsunamiTowerData as unknown as PolicyTopic,
@@ -1051,13 +1195,16 @@ const policies: PolicyTopic[] = [
   jobBasedHiringNewGraduatesTransitionData as unknown as PolicyTopic,
   jobHuntingHarassmentPreventionLegislationGuidelinesData as unknown as PolicyTopic,
   jobHuntingHarassmentStudentProtectionRegulationsData as unknown as PolicyTopic,
+  jobSeekingActivityExpenseTaxDeductionActData as unknown as PolicyTopic,
   johkasouDecentralizedSewageTransitionSubsidyData as unknown as PolicyTopic,
   jointCustodyAfterDivorceData as unknown as PolicyTopic,
   jointCustodyCivilCodeRevision2026EnforcementData as unknown as PolicyTopic,
   jpkiPublicPersonalAuthenticationPrivateApiOpeningData as unknown as PolicyTopic,
   jrHokkaidoShikokuFreightPublicSupportData as unknown as PolicyTopic,
+  judicialInterpretingCourtInterpreterLicenseActData as unknown as PolicyTopic,
   juvenileActSpecifiedJuvenilesStrictnessData as unknown as PolicyTopic,
   juvenileDelinquencySnsSolicitationBlockingMeasuresData as unknown as PolicyTopic,
+  kidnappingAlertAmberAlertSmartphoneBroadcastData as unknown as PolicyTopic,
   kindergartenNurserySchoolUnificationEcecIntegrationData as unknown as PolicyTopic,
   kodomoDaretemoTsuenData as unknown as PolicyTopic,
   kyutokuhoTeacherSalarySpecialMeasuresReformData as unknown as PolicyTopic,
@@ -1081,12 +1228,15 @@ const policies: PolicyTopic[] = [
   longTermCareInsuranceCopaymentIncreaseReviewData as unknown as PolicyTopic,
   maglevChuoShinkansenDelayShizuokaWaterTunnelData as unknown as PolicyTopic,
   mandatoryEvChargingFacilitiesNewBuildingsData as unknown as PolicyTopic,
+  marineBiodiversityBlueCarbonCreditRegistryActData as unknown as PolicyTopic,
   marinePlasticGhostGearFisheriesData as unknown as PolicyTopic,
   medicalDebtGuarantorFreeHospitalAdmissionMandateData as unknown as PolicyTopic,
   medicalInsuranceHighCostMedicalCareAssetMeansTestData as unknown as PolicyTopic,
   medicallyFragileChildrenSupportSchoolNursesData as unknown as PolicyTopic,
   menopauseHealthSupportLeaveCorporateGuidelinesData as unknown as PolicyTopic,
   mentalHealthActVoluntaryHospitalizationJudicialReviewData as unknown as PolicyTopic,
+  mentalHealthPeerSupporterEmploymentActData as unknown as PolicyTopic,
+  methaneLeakSatelliteMonitoringReductionActData as unknown as PolicyTopic,
   microplasticsIndustrialPelletRunoffPreventionActData as unknown as PolicyTopic,
   mildCareShiftCommunitySupportData as unknown as PolicyTopic,
   minamitorishimaRareEarthDeepSeaMiningTrialData as unknown as PolicyTopic,
@@ -1115,6 +1265,7 @@ const policies: PolicyTopic[] = [
   nationalUniversityTuitionHikeDebateData as unknown as PolicyTopic,
   neglectedVacantHousesPropertyTaxReliefRevocationData as unknown as PolicyTopic,
   neighborhoodAssociationJichikaiDigitalizationReformData as unknown as PolicyTopic,
+  neuromorphicAiSemiconductorEnergyEfficiencyFundData as unknown as PolicyTopic,
   newFarmersSupportSuccessionData as unknown as PolicyTopic,
   newNisaData as unknown as PolicyTopic,
   newlywedMarriageHousingRelocationSupportSubsidyData as unknown as PolicyTopic,
@@ -1123,6 +1274,7 @@ const policies: PolicyTopic[] = [
   nhkInternetReceivingFeeMandateData as unknown as PolicyTopic,
   nightEconomyNoiseTransportationDeregulationData as unknown as PolicyTopic,
   nightSchoolSeniorHighSchoolRemoteLearningAccreditationData as unknown as PolicyTopic,
+  nightTrainSleeperTourismRevitalizationActData as unknown as PolicyTopic,
   niptPrenatalTestingAccreditationGuidelinesData as unknown as PolicyTopic,
   niptPrenatalTestingAccreditationSystemData as unknown as PolicyTopic,
   nonConsensualSexualOffensesPenalCodeData as unknown as PolicyTopic,
@@ -1150,6 +1302,7 @@ const policies: PolicyTopic[] = [
   organicFarmingExpansionSchoolLunchLocalProduceData as unknown as PolicyTopic,
   organicFarmingMidoriStrategy25PercentData as unknown as PolicyTopic,
   orphanYouthCaregiverEmancipationSupportFundData as unknown as PolicyTopic,
+  orphanhoodBereavementChildLivingAllowanceData as unknown as PolicyTopic,
   otcAnalogDrugsInsuranceExclusionCopaymentIncreaseData as unknown as PolicyTopic,
   otcSimilarDrugRestrictionData as unknown as PolicyTopic,
   overTheCounterMedicineAbuseCodeineRegulationData as unknown as PolicyTopic,
@@ -1159,11 +1312,14 @@ const policies: PolicyTopic[] = [
   painlessChildbirthEpiduralPublicSubsidyData as unknown as PolicyTopic,
   parallelConventionalLinesThirdSectorSeparationData as unknown as PolicyTopic,
   parentalLeaveWageReplacementRateEightyPercentReimbursementData as unknown as PolicyTopic,
+  partTimeWorkerPaidEducationTrainingLeaveData as unknown as PolicyTopic,
   partTimeWorkerSocialInsuranceFullCoverageEliminationData as unknown as PolicyTopic,
   patentBoxIntellectualPropertyTaxIncentiveData as unknown as PolicyTopic,
   paternityLeaveAtBirthData as unknown as PolicyTopic,
+  patientAdvocateHospitalOmbudspersonSystemData as unknown as PolicyTopic,
   patientSafetyActMedicalAccidentInvestigationBoardData as unknown as PolicyTopic,
   pediatricCancerFertilityPreservationSubsidiesData as unknown as PolicyTopic,
+  pediatricCancerProtonBeamHeavyIonSubsidyData as unknown as PolicyTopic,
   penalCodeReformUnifiedPrisonSentenceData as unknown as PolicyTopic,
   pensionContribution45yearsData as unknown as PolicyTopic,
   pensionFiscalVerification100YearSustainabilityData as unknown as PolicyTopic,
@@ -1176,18 +1332,23 @@ const policies: PolicyTopic[] = [
   personalInformationProtectionAnonymizationOptoutData as unknown as PolicyTopic,
   petEvacuationShelterGuidelinesDisasterData as unknown as PolicyTopic,
   pfasDrinkingWaterQualityRegulationData as unknown as PolicyTopic,
+  pharmaceuticalShortageNationalReserveActData as unknown as PolicyTopic,
   pharmaceuticalSupplyChainShortageCountermeasuresData as unknown as PolicyTopic,
   pharmacyDxElectronicPrescriptionFullRolloutData as unknown as PolicyTopic,
+  phishingScamSmishingTelecomBlockingDutyActData as unknown as PolicyTopic,
   physicianGeographicMaldistributionRuralMandateData as unknown as PolicyTopic,
   pirateSiteFastCinemaIspBlockingDebateData as unknown as PolicyTopic,
   plasticResourceCirculationActHotelAmenitiesRetailData as unknown as PolicyTopic,
   plasticResourceCirculationAmenityFeeExpansionData as unknown as PolicyTopic,
   politicalFundsControlActReform2024Data as unknown as PolicyTopic,
   politicalPartySubsidiesUsageDisclosureOneYenReceiptsData as unknown as PolicyTopic,
+  portCraneAutomationRemoteOperationDxActData as unknown as PolicyTopic,
   postQuantumCryptographyGovernmentMigrationPlanData as unknown as PolicyTopic,
   postStrokeRehabilitationInsuranceDurationReformData as unknown as PolicyTopic,
+  postdocTenureTrackYoungResearcherStabilizationData as unknown as PolicyTopic,
   postpartumCareBusinessUniversalSupportData as unknown as PolicyTopic,
   postpartumDepressionMentalHealthCareExpansionData as unknown as PolicyTopic,
+  povertyAlleviationChildDepositAccountMatchingData as unknown as PolicyTopic,
   preschoolTeacherPlacementStandardReformData as unknown as PolicyTopic,
   presumptionOfPaternityCivilCodeReformUnregisteredData as unknown as PolicyTopic,
   primaryCarePhysicianFunctionReportSystemData as unknown as PolicyTopic,
@@ -1203,11 +1364,14 @@ const policies: PolicyTopic[] = [
   publicOfficesElectionActReformPosterConductData as unknown as PolicyTopic,
   publicSchoolTuitionAidExpansionHighSchoolData as unknown as PolicyTopic,
   publicTransportationAutonomousBusRuralTransitData as unknown as PolicyTopic,
+  pumpedStorageHydroelectricModernizationFundData as unknown as PolicyTopic,
   pyramidSchemeMultilevelMarketingCoolingOffExpansionData as unknown as PolicyTopic,
   qualificationConfirmationLetterMynaData as unknown as PolicyTopic,
   radioactiveWasteFinalDisposalSiteSelectionSurveyData as unknown as PolicyTopic,
   railwayGradeCrossingAbolitionUrbanFlyoverAccelerationData as unknown as PolicyTopic,
   railwayStationPlatformDoorBarrierFreeMandateData as unknown as PolicyTopic,
+  rareDiseaseGenomicDrugAcceleratedApprovalActData as unknown as PolicyTopic,
+  recycledPlasticFoodPackagingApprovalStandardData as unknown as PolicyTopic,
   recycledPlasticMandatoryUsageCircularEconomyData as unknown as PolicyTopic,
   refillPrescriptionUtilizationTargetExpansionData as unknown as PolicyTopic,
   refundableTaxCreditNegativeIncomeTaxData as unknown as PolicyTopic,
@@ -1216,6 +1380,7 @@ const policies: PolicyTopic[] = [
   regenerativeMedicineSafetyActIpscDeregulationData as unknown as PolicyTopic,
   regionalAirportConcessionInboundData as unknown as PolicyTopic,
   regionalAirportsConcessionPrivatizationSecurityStaffData as unknown as PolicyTopic,
+  regionalBankJointCoreBankingSystemSubsidyData as unknown as PolicyTopic,
   regionalMedicalCoordinationHospitalDownsizingData as unknown as PolicyTopic,
   regionalRailwayRestructuringBusConversionData as unknown as PolicyTopic,
   regionalRevitalizationRelocationSubsidyExpansionData as unknown as PolicyTopic,
@@ -1239,6 +1404,7 @@ const policies: PolicyTopic[] = [
   riverBasinDisasterResilienceRainwaterStorageFacilitiesData as unknown as PolicyTopic,
   roadCaveInPreventionAiUndergroundRadarPipelineData as unknown as PolicyTopic,
   roadTrafficActMopedElectricBicycleRegulationData as unknown as PolicyTopic,
+  ruralDeliveryDepotDroneLandingCooperativeActData as unknown as PolicyTopic,
   ruralGasStationMaintenanceSsDepopulationData as unknown as PolicyTopic,
   safSustainableAviationFuelDomesticSupplyMandateData as unknown as PolicyTopic,
   sameSexMarriageEqualityData as unknown as PolicyTopic,
@@ -1259,6 +1425,7 @@ const policies: PolicyTopic[] = [
   schoolSmartphoneBanGuidelinesDigitalDetoxData as unknown as PolicyTopic,
   schoolSmartphoneBanRegulationData as unknown as PolicyTopic,
   schoolTripSafetyStandardsCharterBusSeatbeltData as unknown as PolicyTopic,
+  schoolWaterDispenserHeatstrokeBottledBanData as unknown as PolicyTopic,
   securitiesClearingSettlementCycleTPlusOneReformData as unknown as PolicyTopic,
   securityClearanceActEconomicSecurityInformationProtectionData as unknown as PolicyTopic,
   securityClearanceEconomicSecurityData as unknown as PolicyTopic,
@@ -1276,9 +1443,12 @@ const policies: PolicyTopic[] = [
   seniorEmploymentSecuringMeasuresAge70MandateData as unknown as PolicyTopic,
   seniorGuarantorServiceRegulationData as unknown as PolicyTopic,
   serviceDogAssistanceDogMandatoryAcceptancePenaltyActData as unknown as PolicyTopic,
+  severancePayDeductionTenureNeutralityReformData as unknown as PolicyTopic,
   severancePayTaxDeduction20YearBarrierReformData as unknown as PolicyTopic,
   severancePayTaxData as unknown as PolicyTopic,
   sewagePipelineAiRobotInspectionSinkholePreventionData as unknown as PolicyTopic,
+  sewageSludgePhosphorusFertilizerRecoveryMandateData as unknown as PolicyTopic,
+  sharedBicycleMicromobilityDedicatedParkingActData as unknown as PolicyTopic,
   shinglesZosterVaccineRoutineImmunizationSubsidyData as unknown as PolicyTopic,
   shinkansenFreightExpressCargoModalShiftActData as unknown as PolicyTopic,
   shinkansenFreightExpressCargoModalShiftData as unknown as PolicyTopic,
@@ -1289,6 +1459,9 @@ const policies: PolicyTopic[] = [
   sideJobDualEmploymentWorkingHoursManagementData as unknown as PolicyTopic,
   singleParentChildRearingAllowanceIncomeCapEasingData as unknown as PolicyTopic,
   singleParentChildRearingAllowanceIncomeCapData as unknown as PolicyTopic,
+  smallBreweryCraftSakeExportTaxIncentiveActData as unknown as PolicyTopic,
+  smallBusinessBusinessSuccessionGiftTaxFreezeData as unknown as PolicyTopic,
+  smallBusinessCyberResilienceInsuranceSubsidyData as unknown as PolicyTopic,
   smallBusinessRevitalizationTurnaroundWithoutBankruptcyData as unknown as PolicyTopic,
   smallBusinessSuccessionMAndAGuidelinesData as unknown as PolicyTopic,
   smallMediumEnterpriseProductivitySubsidiesDxData as unknown as PolicyTopic,
@@ -1297,6 +1470,7 @@ const policies: PolicyTopic[] = [
   smartAgriculturePromotionLawRobotTractorsData as unknown as PolicyTopic,
   smartArenaStadiumReformPrivateFinanceData as unknown as PolicyTopic,
   smartCitySuperCityNationalStrategicSpecialZonesData as unknown as PolicyTopic,
+  smartFisheryCatchDataVesselElectronicLogActData as unknown as PolicyTopic,
   smartMeterNextGenerationDynamicDemandResponseData as unknown as PolicyTopic,
   smartphoneCompetitionPromotionActAppStoresData as unknown as PolicyTopic,
   smartphoneSoftwareCompetitionActData as unknown as PolicyTopic,
@@ -1314,15 +1488,20 @@ const policies: PolicyTopic[] = [
   spaceDebrisMitigationRemovalLicensingActData as unknown as PolicyTopic,
   spaceIndustryStrategicFundData as unknown as PolicyTopic,
   spaceResourceExplorationCommercialActData as unknown as PolicyTopic,
+  spaceSolarPowerSystemSpsTechnologyActData as unknown as PolicyTopic,
   specialAdoptionSystemDeregulationChildRightsData as unknown as PolicyTopic,
+  specialFraudSimCardUnregisteredCountermeasuresData as unknown as PolicyTopic,
+  specialNeedsAssistiveTechDeviceGrantActData as unknown as PolicyTopic,
   specialNeedsEducationInclusiveEducationSupportStaffData as unknown as PolicyTopic,
   specializedPracticalEducationTrainingBenefit80PercentData as unknown as PolicyTopic,
   specifiedSkilledWorker2ExpansionData as unknown as PolicyTopic,
   sportsBettingLegalizationDebateData as unknown as PolicyTopic,
   sportsBettingLegalizationSportsPromotionFundData as unknown as PolicyTopic,
+  sportsConcussionProtocolStudentAthleteActData as unknown as PolicyTopic,
   spotWorkGigWorkerLaborProtectionData as unknown as PolicyTopic,
   spotWorkSukimaBaitoLaborProtectionWorkersCompData as unknown as PolicyTopic,
   stablecoinIssuanceBankingLicenseFsaFrameworkData as unknown as PolicyTopic,
+  stadiumNamingRightsLocalTaxIncentiveActData as unknown as PolicyTopic,
   statutoryEmploymentRatePersonsWithDisabilitiesHikeData as unknown as PolicyTopic,
   stealthMarketingRegulationActEnforcementData as unknown as PolicyTopic,
   stealthMarketingRegulationInfluencerCrackdownData as unknown as PolicyTopic,
@@ -1338,14 +1517,21 @@ const policies: PolicyTopic[] = [
   submarineCableRedundancyLandingStationDecentralizationData as unknown as PolicyTopic,
   subscriptionContractCancellationDarkPatternsData as unknown as PolicyTopic,
   suicidePreventionSnsConsultationExpansionData as unknown as PolicyTopic,
+  supercomputerFugakuNextGenerationPriorityAccessData as unknown as PolicyTopic,
+  supplyChainCarbonFootprintLabelDisplayDutyData as unknown as PolicyTopic,
   survivorsPensionGenderNeutralReformData as unknown as PolicyTopic,
+  synchrotronRadiationNanoterasuIndustrialUtilizationData as unknown as PolicyTopic,
+  syntheticBiologyCellFactoryBiomanufacturingSafetyData as unknown as PolicyTopic,
   tacFisheryQuotaExpansionWarmingSeasData as unknown as PolicyTopic,
   taxiAppFareDynamicPricingDeregulationData as unknown as PolicyTopic,
+  teacherLicenseRenewalAbolitionFollowupSupportData as unknown as PolicyTopic,
   teacherSpecialMeasureActData as unknown as PolicyTopic,
   teacherWorkloadReductionSchoolTaskOutsourcingData as unknown as PolicyTopic,
   telecomBusinessActDarkFiberLeasingDeregulationData as unknown as PolicyTopic,
   telecomEmergencyRoamingMandateData as unknown as PolicyTopic,
+  teleworkRightToRequestCaregivingParentingData as unknown as PolicyTopic,
   testamentarySubstituteTrustSingleElderlyAffairsData as unknown as PolicyTopic,
+  textileClothingMassDisposalIncinerationBanData as unknown as PolicyTopic,
   textileWasteFastFashionRecyclingRegulationsData as unknown as PolicyTopic,
   timberUsagePromotionPublicBuildingsWoodenData as unknown as PolicyTopic,
   tobaccoTaxHeatedTobaccoParityHikeData as unknown as PolicyTopic,
@@ -1358,19 +1544,26 @@ const policies: PolicyTopic[] = [
   touristTaxFreeShoppingRefundSystemResalePreventionData as unknown as PolicyTopic,
   towerMansionInheritanceTaxValuationData as unknown as PolicyTopic,
   towerMansionTaxLoopholeReformFairnessData as unknown as PolicyTopic,
+  trademarkSquattingBrandTheftCountermeasuresActData as unknown as PolicyTopic,
   traditionalCraftsPreservationSuccessorFundActData as unknown as PolicyTopic,
   traditionalCraftsSuccessorsRawMaterialsSupportData as unknown as PolicyTopic,
   trafficAccidentVictimMandatoryInsuranceRecoveryData as unknown as PolicyTopic,
+  trialEmploymentSubsidyMiddleAgedUnemployedData as unknown as PolicyTopic,
   truancyFreeSchoolPublicFundingCocoloData as unknown as PolicyTopic,
   truckDriverWaitingTimeDemurrageFeeMandatoryChargeData as unknown as PolicyTopic,
   truckingBusinessStandardFareSystemMandatoryData as unknown as PolicyTopic,
   unSecurityCouncilReformJapanPermanentSeatData as unknown as PolicyTopic,
+  unclaimedBodiesCremationPropertySettlementActData as unknown as PolicyTopic,
+  undergroundMallInundationWaterstopPlateMandateData as unknown as PolicyTopic,
   undergroundUtilityTunnelsPoleFreeUrbanResilienceData as unknown as PolicyTopic,
+  underwaterFiberOpticSubmarineCableRedundancyActData as unknown as PolicyTopic,
   unemploymentInsuranceReskillingSelfResignationEasingData as unknown as PolicyTopic,
   universalDentalCheckupMandatePeriodontalDiseaseData as unknown as PolicyTopic,
+  universityDormitoryLowIncomeSubsidyActData as unknown as PolicyTopic,
   universityEndowmentFund10TrillionYenSelectionData as unknown as PolicyTopic,
   universityMergerReorganizationActDecliningBirthrateData as unknown as PolicyTopic,
   universityScienceHumanitiesConversionSubsidyData as unknown as PolicyTopic,
+  universitySpinningOffDeeptechVentureFundActData as unknown as PolicyTopic,
   universityTuitionWaiverData as unknown as PolicyTopic,
   unmanagedAbandonedHousesTaxBreakRemovalEnforcementData as unknown as PolicyTopic,
   unoccupiedLandInheritanceStateAttributionReformData as unknown as PolicyTopic,
@@ -1388,16 +1581,23 @@ const policies: PolicyTopic[] = [
   waterUtilityRegionalConsolidationAgingPipesData as unknown as PolicyTopic,
   welfareEvacuationSheltersVulnerableDirectAdmissionData as unknown as PolicyTopic,
   welfareRecipientMedicalAssistanceMynaCardMandateData as unknown as PolicyTopic,
+  wheelchairAccessibleHotelRoomBarrierFreeRatioData as unknown as PolicyTopic,
   whistleblowerProtectionActMandatoryCompliancePenaltyData as unknown as PolicyTopic,
   whistleblowerProtectionActMandatoryComplianceData as unknown as PolicyTopic,
+  whistleblowerProtectionFinancialBountyProgramData as unknown as PolicyTopic,
   wildBearDamageCountermeasuresData as unknown as PolicyTopic,
+  wildBirdInfluenzaEggPoultryFarmBiosecurityData as unknown as PolicyTopic,
   wildBoarDeerDamagePreventionGibierUtilizationData as unknown as PolicyTopic,
+  wildPlantSeedsEndangeredSpeciesVaultActData as unknown as PolicyTopic,
   wildlifeDamageCountermeasuresHuntingLicenseEasingData as unknown as PolicyTopic,
   wildlifeDamagePreventionGibierUtilizationData as unknown as PolicyTopic,
+  woodenDeckPedestrianSkywalkPromenadeActData as unknown as PolicyTopic,
+  workerCooperativeTaxExemptionCommunityActData as unknown as PolicyTopic,
   workerDispatchActEqualPayForEqualWorkAuditData as unknown as PolicyTopic,
   workerProtectionHeatAlertConstructionSiteSuspensionData as unknown as PolicyTopic,
   workersCompensationTeleworkHomeInjuryStandardsData as unknown as PolicyTopic,
   workingHoursIntervalSystemRestMandateDebateData as unknown as PolicyTopic,
+  workplaceAirConditioningWarehouseLogisticsActData as unknown as PolicyTopic,
   worldClassResearchUniversityFundData as unknown as PolicyTopic,
   youngCarerSupportLegalizationData as unknown as PolicyTopic,
   youthSmartphoneGamingTimeRestrictionData as unknown as PolicyTopic,

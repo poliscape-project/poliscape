@@ -1,0 +1,211 @@
+{
+  "id": "teacher-license-renewal-abolition-followup-support",
+  "title": "教員研修デジタルパスポート法（免許更新制廃止後の自律的リカレント支援）",
+  "catchphrase": "教員免許更新制の廃止に伴い、オンライン研修履歴を一元管理し自律的リスキリングを公費支援",
+  "category": "education",
+  "categoryLabel": "教育・子育て",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年4月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "2022年の教員免許更新制廃止を受け、教員の自律的な専門性向上とキャリア形成を支援するため、全国統一の「教員研修デジタルパスポート（受講履歴記録クラウド基盤）」を構築する法律。",
+      "ICT教育、特別支援教育、生徒指導、探究学習などの最新オンライン講座受講履歴をデジタルバッジとして記録し、管理職登用や専門教員認定と連動させる。",
+      "過度な義務的研修による多忙化を防ぎつつ、受講費用・代替教員手当を国庫補助により100%全額支援する。"
+    ],
+    "simple": [
+      "先生が新しい教え方やパソコンの使い方を学んだ記録をスマホやパソコンでまとめて管理できる仕組みを作る法律です。",
+      "10年ごとの免許更新講習がなくなった代わりに、自分のペースで学んだ成果が昇進や専門資格に活かせるようになります。",
+      "研修にかかるお金や、研修中に代わりに来てくれる先生の費用は国が全額負担します。"
+    ]
+  },
+  "background": {
+    "standard": "かつての教員免許更新制は30時間の講習受講が義務付けられていたが、受講料自己負担や長期休業中の激務化、更新忘れによる失効が問題となり2022年に発展的廃止となった。一方で指導力の質担保や最新教育DXへのキャッチアップが課題となり、新たな自律的受講記録・支援制度が求められていた。",
+    "simple": "昔は10年ごとに大変な講習を受ける義務がありましたが、先生たちの負担が重すぎたため廃止されました。その代わりに、先生が自分のペースで楽しく学べる仕組みが必要になりました。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "研修履歴のデジタル一元化",
+      "before": "自治体ごとにバラバラな紙記録や受講証明書",
+      "after": "文部科学省主導の全国共通クラウド研修パスポート基盤の配備",
+      "highlight": "受講履歴のクラウド一元管理",
+      "icon": "GraduationCap"
+    },
+    {
+      "id": "c2",
+      "topic": "受講費用の完全公費負担",
+      "before": "免許更新費用（約3万円）は原則自己負担だった",
+      "after": "受講費・教材費・オンライン通信支援を全額国庫負担",
+      "highlight": "受講費用の自己負担ゼロ",
+      "icon": "Wallet"
+    },
+    {
+      "id": "c3",
+      "topic": "代替教員プールの拡充",
+      "before": "研修参加により同僚教員の補欠授業負担が増加",
+      "after": "研修参加時の代替非常勤講師派遣費用を地方交付税措置",
+      "highlight": "代替教員派遣で授業に穴を開けない",
+      "icon": "Users"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "教員の専門性向上と意欲向上",
+        "summary": "自ら学びたい分野（AI・特別支援等）を選択して受講でき、実質的な指導力向上につながる",
+        "detail": "形式的な免許更新講習と異なり、各教員の現場課題に応じた即効性のあるスキルアップが図れる",
+        "simpleDetail": "先生が本当に知りたい新しい授業のやり方を自由に学べるようになります",
+        "tag": "指導力向上"
+      },
+      {
+        "id": "b2",
+        "title": "教員の自己負担・失効リスク解消",
+        "summary": "3万円超の講習料や失効リスクがなくなり、教員志望者の敬遠要因を根本から解消",
+        "detail": "免許失効による優秀なベテラン教員の離職を防止し、教員不足の緩和にも寄与する",
+        "simpleDetail": "高額なお金を払う必要がなくなり、更新手続きの不安も消えます",
+        "tag": "負担解消"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "実質的な研修義務化・評価連動への警戒",
+        "summary": "履歴データが校長や教育委員会による勤務評定や昇給査定に悪用される懸念",
+        "detail": "教職員組合等からは「自立的研修が事実上の強制にならないか」との懸念が根強く存在する",
+        "simpleDetail": "受講しないと評価が下がるようなプレッシャーにならないか注意が必要です",
+        "tag": "評価懸念"
+      },
+      {
+        "id": "c2",
+        "title": "多忙な現場での学習時間の確保",
+        "summary": "部活動や事務作業に追われる教員が平日に研修動画を見る余裕がない実態",
+        "detail": "労働時間そのものの縮減（持ちコマ数削減・部活動地域移行）が先行しなければ形骸化する恐れ",
+        "simpleDetail": "日々の仕事が忙しすぎて、勉強する時間が取れない問題があります",
+        "tag": "時間確保"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2022年7月",
+      "label": "教育公務員特例法等改正により教員免許更新制が廃止",
+      "status": "completed",
+      "description": "研修履歴記録の作成が教育委員会に義務付け。"
+    },
+    {
+      "date": "2024年4月",
+      "label": "教員研修デジタルプラットフォームのモデル実証開始",
+      "status": "completed",
+      "description": "全国20自治体で試験運用。"
+    },
+    {
+      "date": "2026年4月",
+      "label": "教員研修デジタルパスポート法の本格施行",
+      "status": "current",
+      "description": "全国全公立校への完全適用。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "文部科学省",
+      "title": "令和の日本型教育を担う新たな教師の学びの姿の実現に向けて（答申）",
+      "url": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo0/toushin/1422894_00001.htm"
+    },
+    {
+      "organization": "文部科学省",
+      "title": "教員免許更新制の発展的解消と新たな研修記録システム",
+      "url": "https://www.mext.go.jp/a_menu/shotou/kyoin/1422895.htm"
+    }
+  ],
+  "badges": [
+    {
+      "label": "教員支援",
+      "variant": "positive"
+    },
+    {
+      "label": "教育DX",
+      "variant": "positive"
+    },
+    {
+      "label": "負担軽減",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "自己負担",
+      "value": "0円",
+      "description": "研修受講費用や教材費を全額公費負担",
+      "icon": "Wallet"
+    },
+    {
+      "label": "履歴管理",
+      "value": "全国共通クラウド",
+      "description": "転勤や他県異動でも継続利用可能な受講プラットフォーム",
+      "icon": "GraduationCap"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "公立中学校理科教諭（30代）",
+        "commentStandard": "「探究学習やプログラミングの最新指導法を空きコマに10分単位のオンデマンドで学べる。更新制の頃と違って本当に役に立つ」",
+        "commentSimple": "「短いすきま時間にスマホで最新の授業アイデアを学べるので、とても役に立っています」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "小学校主任教諭（50代）",
+        "commentStandard": "「定時退勤すらできない現場で、さらにパスポートの受講コマ数を競わせるような人事評価が持ち込まれないか心配だ」",
+        "commentSimple": "「ただでさえ毎日忙しいので、無理やりたくさん勉強させられることにならないか不安です」"
+      }
+    ]
+  },
+  "international": {
+    "title": "教員の専門性開発（CPD）と研修履歴管理の国際比較",
+    "comparisonSummary": "英米豪では年間の継続的専門開発（CPD）時間設定とデジタルポートフォリオ管理が定着。",
+    "countries": [
+      {
+        "country": "イギリス",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "継続的専門能力開発（CPD）デジタルポートフォリオ制度",
+        "keyFeature": "年間最低35時間のCPD履修が推奨され、教員自己評価と連動するオンライン記録システムが標準化。",
+        "source": {
+          "organization": "英国教育省(DfE)",
+          "title": "Teachers' Standards and CPD",
+          "url": "https://www.gov.uk/government/organisations/department-for-education"
+        }
+      },
+      {
+        "country": "米国",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "州継続教育単位（CEU）デジタル認証制度",
+        "keyFeature": "5年ごとの免許維持に大学講義や公認ワークショップの単位（CEU）取得をデジタル認証で管理。",
+        "source": {
+          "organization": "カリフォルニア州教員資格委員会",
+          "title": "Continuing Education Units for Credential Renewal",
+          "url": "https://www.ctc.ca.gov"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "OPAL2.0（教員総合オンライン学習ポータル）",
+        "keyFeature": "年間最大100時間の有給研修受講権を保障し、政府提供のクラウドポータルで全教員の学習履歴をAI推薦。",
+        "source": {
+          "organization": "シンガポール教育省(MOE)",
+          "title": "Academy of Singapore Teachers Professional Development",
+          "url": "https://www.moe.gov.sg"
+        }
+      }
+    ]
+  }
+}

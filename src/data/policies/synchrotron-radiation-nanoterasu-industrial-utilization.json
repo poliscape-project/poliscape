@@ -1,0 +1,211 @@
+{
+  "id": "synchrotron-radiation-nanoterasu-industrial-utilization",
+  "title": "次世代放射光施設（NanoTerasu）産業利用促進法（ナノ可視化・創薬材料革新）",
+  "catchphrase": "物質のナノ世界を可視化する巨大顕微鏡、NanoTerasuの産業利用枠拡大と中小企業利用支援",
+  "category": "technology",
+  "categoryLabel": "テクノロジー・インフラ・通信",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年4月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "仙台市の東北大学青葉山新キャンパスに整備された次世代放射光施設「NanoTerasu（ナノテラス）」の産業利用を強力に推進し、日本の創薬・半導体・次世代電池開発を加速する法律。",
+      "学術研究中心だった大型放射光の利用枠を改め、民間企業向け利用枠を全体の50%以上に拡大し、中小企業・スタートアップ向けの利用料金半額助成制度を創設する。",
+      "放射光データを高度に解析できる専門コーディネーター（データサイエンティスト・放射光解析支援員）を常駐させ、測定から新素材設計までをワンストップで支援する。"
+    ],
+    "simple": [
+      "物の形や分子の動きをナノ（10億分の1メートル）レベルで見られる「巨大な光の顕微鏡（ナノテラス）」を、日本の会社が新製品作りに使いやすくする法律です。",
+      "新しいお薬や長持ちするバッテリー、省エネ半導体を作るために、民間企業が実験できる時間を大幅に増やします。",
+      "中小企業やベンチャー企業でも安く使えるように利用料金を補助し、使い方のプロが実験をお手伝いします。"
+    ]
+  },
+  "background": {
+    "standard": "2024年に運用を開始したNanoTerasuは、軟X線領域で世界最高水準の輝度を誇る最先端の国家基幹研究施設である。従来のSPring-8（硬X線）では困難だったリチウム電池内部の化学反応や生体高分子の可視化が可能となったが、高額な利用負担金や専門知識のハードルから中小企業の利用が限定的だったため、産業エコシステムの法制化が求められていた。",
+    "simple": "世界最高レベルの性能を持つ新しい巨大顕微鏡が仙台に完成しました。これまでは使いこなすのが難しくお金も高かったため、日本中のたくさんの会社が気軽に活用して大発明を生み出せるようにします。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "民間産業利用枠の50%以上確保",
+      "before": "大学・公的研究機関優先で民間スロットが不足",
+      "after": "ビームラインの最低50%を民間産業利用枠に法定確保",
+      "highlight": "産業利用スロット比率50%以上を義務化",
+      "icon": "Microscope"
+    },
+    {
+      "id": "c2",
+      "topic": "中小・スタートアップ利用料半額助成",
+      "before": "1回数百万円のビームタイム利用料が中小企業の壁",
+      "after": "国の産業利用支援交付金により利用料の50%を公費補助",
+      "highlight": "中小企業の利用料を半額助成",
+      "icon": "Wallet"
+    },
+    {
+      "id": "c3",
+      "topic": "解析支援コンソーシアムの常設",
+      "before": "放射光解析の専門家が自社にいなければ測定結果を活かせない",
+      "after": "専任のデータサイエンティストが測定データ解析と材料設計を伴走支援",
+      "highlight": "専任データサイエンティストの伴走支援",
+      "icon": "Users"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "日本のマテリアル・創薬産業の国際競争力飛躍",
+        "summary": "全固体電池の劣化機構解明や分子標的薬の結合状態観察が圧倒的スピードで進み、新製品開発期間が半減する",
+        "detail": "世界最先端のナノレベル分析により、海外巨大テックに対抗できる独自高機能材料を創出できる",
+        "simpleDetail": "電池が長持ちするEVや、難病を治す画期的な新薬が今までの半分の期間で開発できるようになります",
+        "tag": "技術革新"
+      },
+      {
+        "id": "b2",
+        "title": "東北復興と地域イノベーションハブの形成",
+        "summary": "世界中からトップ研究者や先端企業の研究開発拠点が仙台・東北に集積し、巨大な経済波及効果を生む",
+        "detail": "地元大学と地元企業の共同研究が活性化し、次世代を担う高度科学技術人材が地域に定着する",
+        "simpleDetail": "世界中から研究者やハイテク企業が集まり、東北の街が最先端科学の拠点として大いに賑わいます",
+        "tag": "地方創生"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "基礎科学研究用ビームタイムの圧迫懸念",
+        "summary": "民間企業の商業利用を優先しすぎると、大学の基礎物理・化学研究のための照射時間が削られる懸念",
+        "detail": "基礎科学枠と産業利用枠の適正な配分比率のモニタリングと新規ビームラインの増設投資が必要",
+        "simpleDetail": "目先のビジネスばかり優先して、将来のノーベル賞につながるような地道な研究の時間が減らないよう注意が必要です",
+        "tag": "基礎科学配慮"
+      },
+      {
+        "id": "c2",
+        "title": "測定データおよび営業秘密の漏洩防止",
+        "summary": "複数企業が共有する巨大施設内で、開発中の新材料の配合や分子構造などの機密が外部に漏れるリスク",
+        "detail": "遮蔽ブースの完全個室化と、暗号化専用ネットワークによるデータ隔離管理が不可欠",
+        "simpleDetail": "ライバル企業に新薬や新素材の秘密がバレてしまわないよう、厳重なセキュリティが必要です",
+        "tag": "機密保持"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020年12月",
+      "label": "官民地域パートナーシップによりNanoTerasu建屋着工",
+      "status": "completed",
+      "description": "国と地域パートナー（光科学イノベーションセンター等）の共同出資。"
+    },
+    {
+      "date": "2024年4月",
+      "label": "NanoTerasuの本格運用開始",
+      "status": "completed",
+      "description": "ファーストビーム供用開始。"
+    },
+    {
+      "date": "2026年4月",
+      "label": "NanoTerasu産業利用促進法の施行予定",
+      "status": "current",
+      "description": "産業枠50%確保と中小利用助成の開始。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "文部科学省",
+      "title": "次世代放射光施設（NanoTerasu）の整備及び利活用推進について",
+      "url": "https://www.mext.go.jp/a_menu/kagaku/shisetsu/1422900.htm"
+    },
+    {
+      "organization": "国立研究開発法人量子科学技術研究開発機構(QST)",
+      "title": "NanoTerasu施設概要及びビームライン産業利用案内",
+      "url": "https://www.qst.go.jp/site/nanoterasu"
+    }
+  ],
+  "badges": [
+    {
+      "label": "先端科学",
+      "variant": "positive"
+    },
+    {
+      "label": "NanoTerasu",
+      "variant": "positive"
+    },
+    {
+      "label": "イノベーション",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "産業枠比率",
+      "value": "最低50%以上",
+      "description": "ビームライン利用枠の半分を民間企業の研究開発に法定配分",
+      "icon": "Microscope"
+    },
+    {
+      "label": "中小助成",
+      "value": "利用料金50%補助",
+      "description": "中小・スタートアップのビームタイム費用を半額支援",
+      "icon": "Wallet"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "次世代リチウム電池ベンチャー開発部長",
+        "commentStandard": "「充放電中のリチウムイオンのナノ挙動がリアルタイムで見える。試作回数が10分の1に減り、製品化が一気に近づいた」",
+        "commentSimple": "「電池の中で何が起きているか目で見えるようになり、失敗する回数が激減して開発が超スピードアップしました」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "国立大学理学部教授（物性物理）",
+        "commentStandard": "「商業優先で採算重視の測定ばかりが優遇され、未知の物理現象を探究する純粋学術利用が後回しにされないか注視している」",
+        "commentSimple": "「すぐにお金にならないような、不思議な現象を解明する科学の研究も大切にしてほしいです」"
+      }
+    ]
+  },
+  "international": {
+    "title": "第4世代高輝度放射光施設の産業利用モデルの国際比較",
+    "comparisonSummary": "欧州ESRFやスウェーデンMAX IV、米国APS-Uで官民産業利用枠が確立。",
+    "countries": [
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "MAX IV 研究所産業利用オフィス（Industrial Relations Office）",
+        "keyFeature": "世界初の第4世代放射光施設。民間企業向け専用デスクを設置し、製薬・林業（バイオマテリアル）の迅速測定を提供。",
+        "source": {
+          "organization": "MAX IV Laboratory",
+          "title": "Industry at MAX IV",
+          "url": "https://www.maxiv.lu.se"
+        }
+      },
+      {
+        "country": "フランス/EU",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "欧州シンクロトロン放射光施設（ESRF-EBS）産業サービス",
+        "keyFeature": "グルノーブルのESRFが製薬・航空宇宙向けに有償プロプライエタリ測定枠を常設し、即日データ解析を納品。",
+        "source": {
+          "organization": "ESRF",
+          "title": "Business Development at ESRF",
+          "url": "https://www.esrf.fr"
+        }
+      },
+      {
+        "country": "米国",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "アルゴンヌ国立研究所 Advanced Photon Source (APS-U)",
+        "keyFeature": "エネルギー省（DOE）が主導し、CAT（共同アクセスチーム）方式で大手自動車・半導体メーカーが専用ビームラインを共同保有。",
+        "source": {
+          "organization": "APS/Argonne",
+          "title": "APS Industrial Applications",
+          "url": "https://www.aps.anl.gov"
+        }
+      }
+    ]
+  }
+}

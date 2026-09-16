@@ -1,0 +1,216 @@
+{
+  "id": "mental-health-peer-supporter-employment-act",
+  "title": "精神障害当事者ピアサポーター専門職化・診療報酬算定法",
+  "catchphrase": "同じ痛みを経験したから寄り添える、ピアサポーターの専門職化と報酬算定",
+  "category": "medical",
+  "categoryLabel": "医療・福祉",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年4月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "うつ病や統合失調症などの精神疾患からの回復者（当事者）が、現在治療中の患者の相談や社会復帰を支援する「ピアサポーター」を国家公認の専門職として位置づけ、精神科医療機関での診療報酬算定を認める法律。",
+      "医師や看護師には話せない本音や孤立感を和らげ、長期社会的入院患者の地域移行を加速する。",
+      "ピアサポーター本人の再発防止メンタルケア体制と、公的研修・資格認定制度を標準化する。"
+    ],
+    "simple": [
+      "心の病気を経験して元気になった人が、いま治療中の患者さんの相談に乗ってサポートするお仕事（ピアサポーター）を国の公式な専門職にする法律です。",
+      "お医者さんには言いづらい悩みも、「同じ経験をした先輩」だからこそ分かり合えて心が軽くなります。",
+      "相談に乗る人の給料を病院や福祉施設がしっかり払えるよう、国の保険制度で応援します。"
+    ]
+  },
+  "background": {
+    "standard": "精神科医療において患者の長期入院や地域からの孤立が長年問題視されてきた。欧米ではピアサポーターが多職種チームの一員として正規雇用され再入院率を劇的に下げているが、日本はボランティアや非常勤の薄給にとどまり定着していなかった。",
+    "simple": "心の病気になった時、同じ経験をした人に話を聞いてもらうと回復が早くなることが分かっています。このサポートを正式な仕事として広めるルールを作りました。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "診療報酬・自立支援給付加算",
+      "before": "病院側の完全持ち出しまたはボランティア謝礼のみ",
+      "after": "精神科デイケアや地域移行支援チームへのピアサポーター配置加算を創設",
+      "highlight": "診療報酬での配置加算新設",
+      "icon": "TrendingUp"
+    },
+    {
+      "id": "c2",
+      "topic": "公的認定資格制度の確立",
+      "before": "各民間団体による独自の講習会のみ",
+      "after": "国が認定基準を定める「公認ピアサポーター」研修・登録制度の創設",
+      "highlight": "国の公認資格制度の創設",
+      "icon": "CheckCircle2"
+    },
+    {
+      "id": "c3",
+      "topic": "サポーター自身のケア体制",
+      "before": "共感疲労によるサポーター本人の再発リスク放置",
+      "after": "専任スーパーバイザーによる定期面談とメンタル不調時の休業保障義務化",
+      "highlight": "共感疲労を防ぐケア義務化",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "再入院率の低下と希望の回復",
+        "summary": "「治って社会復帰できる」という生きたモデルを見ることで、患者の希望と治療意欲が高まる",
+        "detail": "精神科病院からの退院意欲が引き出され、長期社会的入院の解消が進む",
+        "simpleDetail": "病気を克服した先輩の姿を見て、「自分も治るんだ」と前向きになれます",
+        "tag": "リカバリー"
+      },
+      {
+        "id": "b2",
+        "title": "当事者自身の雇用と自立",
+        "summary": "精神障害当事者の強み（経験知）を活かした有意義な専門職雇用が創出される",
+        "detail": "障害者雇用率の質的向上と、当事者の経済的自立を強力に支える",
+        "simpleDetail": "つらい経験を人のために活かせるやりがいのある仕事が生まれます",
+        "tag": "就労支援"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "医療従事者との役割分担・摩擦",
+        "summary": "医師や看護師などの専門職チームとの間で、守秘義務や指導方針の対立が生じる恐れ",
+        "detail": "医療職側がピアサポーターの役割を正しく理解するための院内研修が不可欠",
+        "simpleDetail": "お医者さんや看護師さんと意見がぶつからないよう、役割をきちんと決める必要があります",
+        "tag": "チーム連携"
+      },
+      {
+        "id": "c2",
+        "title": "共感疲労による病状悪化",
+        "summary": "重い相談を受け止める中で、サポーター本人が過去のトラウマを刺激され再発するリスク",
+        "detail": "無理な長時間勤務を避け、定期的なスーパービジョンを受けられる環境整備が必要",
+        "simpleDetail": "他人のつらい話を聞きすぎて、自分がまた体調を崩さないよう守る仕組みが必要です",
+        "tag": "再発予防"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2021年4月",
+      "label": "障害福祉サービス等報酬改定でピアサポート加算新設",
+      "status": "completed",
+      "description": "福祉分野先行。"
+    },
+    {
+      "date": "2024年3月",
+      "label": "厚労省精神医療ピアサポーター研修標準テキスト策定",
+      "status": "completed",
+      "description": "カリキュラム標準化。"
+    },
+    {
+      "date": "2025年11月",
+      "label": "ピアサポーター専門職化・医療保険適用法案を提出",
+      "status": "current",
+      "description": "診療報酬化へ。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "厚生労働省",
+      "title": "精神障害者に対するピアサポートの推進について",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/seisinhoken/index.html"
+    },
+    {
+      "organization": "日本ピアサポート学会",
+      "title": "精神保健医療福祉におけるピアサポート実践指針",
+      "url": "https://www.peer-support.jp"
+    }
+  ],
+  "badges": [
+    {
+      "label": "精神医療",
+      "variant": "positive"
+    },
+    {
+      "label": "ピアサポート",
+      "variant": "positive"
+    },
+    {
+      "label": "当事者参画",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "再入院率の抑制",
+      "value": "約25%低下",
+      "description": "ピアサポーター介入による孤立防止と地域生活定着効果",
+      "icon": "ShieldCheck"
+    },
+    {
+      "label": "診療報酬加算",
+      "value": "チーム配置評価",
+      "description": "精神科病院・診療所の多職種連携チームへの正規雇用を後押し",
+      "icon": "TrendingUp"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "精神科退院患者（30代）",
+        "commentStandard": "「主治医には『薬を飲め』としか言われなかったが、ピアサポーターさんが『わかるよ』と言ってくれたことで生きる気力が湧いた」",
+        "commentSimple": "「同じ苦しみを分かってくれる先輩が話を聞いてくれたおかげで、退院して暮らす勇気が出ました」"
+      },
+      {
+        "speaker": "精神科クリニック院長",
+        "commentStandard": "「医療職の限界をピアが埋めてくれる。専門職として正当な報酬が支払われる制度を待ち望んでいた」",
+        "commentSimple": "「お医者さんや看護師にはできない寄り添いをしてくれる大切な仲間です。早く制度化してほしい」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "ピアサポーター当事者",
+        "commentStandard": "「重い相談を聞きすぎて夜眠れなくなることがある。相談できる専門の先輩（SV）が常時ついていてほしい」",
+        "commentSimple": "「患者さんの話に引きずられて体調を崩さないよう、サポートしてくれる仕組みが必要です」"
+      }
+    ]
+  },
+  "international": {
+    "title": "ピアサポーター専門職化に関する主要国の制度比較",
+    "comparisonSummary": "欧米では「Peer Support Specialist（PSS）」が公的医療・メディケイド給付対象として確立。",
+    "countries": [
+      {
+        "country": "米国",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "認定ピアサポートスペシャリスト（CPSS）およびメディケイド保険給付",
+        "keyFeature": "州ごとの公認試験に合格したピアサポーターが精神科病院や緊急危機介入センターで正規公務員・医療従事者として勤務。",
+        "source": {
+          "organization": "米国SAMHSA",
+          "title": "Peer Support Workers",
+          "url": "https://www.samhsa.gov"
+        }
+      },
+      {
+        "country": "英国",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHSピアサポートワーカー雇用枠組み",
+        "keyFeature": "NHS信託病院ごとに専任ピアサポートワーカー（PSW）の常勤ポストを設置し、給与等級（Band 3〜4）を保障。",
+        "source": {
+          "organization": "英国Health Education England",
+          "title": "Peer Support Worker framework",
+          "url": "https://www.hee.nhs.uk"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "メンタルヘルス・ピアワーク国家資格制度",
+        "keyFeature": "職業訓練省（TAFE）が公認サティフィケートIVを付与し、メンタルヘルスサービスでの義務的雇用枠を設定。",
+        "source": {
+          "organization": "豪州精神保健委員会",
+          "title": "National Lived Experience Workforce",
+          "url": "https://www.mentalhealthcommission.gov.au"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "id": "fintech-open-banking-api-free-standard-mandate",
+  "title": "オープンバンキングAPI無償開放・銀行手数料適正化法",
+  "catchphrase": "家計簿アプリやフィンテックの接続料高騰を是正、銀行APIの無償標準開放と手数料引き下げ",
+  "category": "economy",
+  "categoryLabel": "経済・消費",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年4月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "利用者の金融データ主権（データポータビリティ）を確立し、フィンテックサービスの革新と銀行間競争を促すため、銀行APIの無償開放と標準化を法定義務付ける法律。",
+      "銀行が家計簿アプリやクラウド会計ソフト（MoneyForward・freee等）に対して課している高額な参照API接続料を「実費ベース（低廉化または原則無償）」に規制する。",
+      "全銀ネットを介した他行宛て振込手数料（現在100〜300円）の原価検証を行い、公正取引委員会と金融庁が連携して適正原価水準（数十円レベル）への引き下げを義務付ける。"
+    ],
+    "simple": [
+      "スマホの家計簿アプリや会社の会計ソフトを銀行口座と連携するときに、銀行が高い手数料を取るのをやめさせる法律です。",
+      "自分のお金のデータは自分のものであるというルールを作り、アプリで便利にお金を管理できるようにします。",
+      "他の銀行にお金を振り込むときの手数料（数百円）も、本当にかかるコストに合わせて数十円程度に安くします。"
+    ]
+  },
+  "background": {
+    "standard": "2018年の銀行法改正でオープンAPI導入が進められたが、大手銀行や地銀がフィンテック事業者に対し高額なAPI利用料を請求し始め、中小フィンテックの事業継続が危ぶまれ、利用者への有料化転嫁が相次いだ。また英国等で進む無償オープンバンキングと比べ、日本の金融DXが大きく遅れる原因となっていた。",
+    "simple": "家計簿アプリを使っていると『銀行連携が急に使えなくなった』『有料プランに入らないと見られない』ということが起きていました。銀行がアプリ会社に高いお金を請求していたため、これを改善します。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "口座参照APIの原則無償化・低廉化",
+      "before": "銀行側の裁量で高額なAPI接続料・従量課金を設定",
+      "after": "基本参照APIの無償化、および更新APIの実費適正水準への上限規制",
+      "highlight": "口座照会APIの原則無償化",
+      "icon": "Smartphone"
+    },
+    {
+      "id": "c2",
+      "topic": "全銀行共通の統一API規格の義務付け",
+      "before": "銀行ごとに仕様が異なりフィンテック側の開発・保守コスト大",
+      "after": "全国統一のセキュアなオープンAPI標準規格の導入を法定義務化",
+      "highlight": "全国統一API規格の配備義務化",
+      "icon": "Lock"
+    },
+    {
+      "id": "c3",
+      "topic": "銀行間振込手数料の適正原価引き下げ",
+      "before": "他行宛て振込手数料が1件数百円と高止まり",
+      "after": "全銀ネット手数料改革と連動し利用者向け振込手数料を大幅引き下げ",
+      "highlight": "他行宛て振込手数料の引き下げ",
+      "icon": "TrendingDown"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "国民・中小企業の金融DX・資産形成の加速",
+        "summary": "無料や格安で高度な自動家計簿・クラウド確定申告が利用できるようになり、個人の資産形成や企業の経理効率化が進む",
+        "detail": "中小企業や個人事業主の経理処理コストが激減し、バックオフィス生産性が飛躍的に向上する",
+        "simpleDetail": "家計簿アプリや会計ソフトがずっと安く便利に使えるようになり、お金の管理が楽になります",
+        "tag": "利便性向上"
+      },
+      {
+        "id": "b2",
+        "title": "日本のフィンテック産業の国際競争力強化",
+        "summary": "接続コストの壁が取り払われ、スタートアップによる革新的な決済・融資・投資サービスが次々と誕生する",
+        "detail": "メガバンクの囲い込みを打破し、利用者目線のオープンな金融エコシステムが発展する",
+        "simpleDetail": "新しい便利な金融サービスやスマホ決済がどんどん生まれ、海外に負けない環境が整います",
+        "tag": "イノベーション"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "地方銀行のシステム維持コスト負担",
+        "summary": "口座数が少なくシステム投資余力のない地方銀行にとって、APIの無償提供とセキュリティ維持が重い財務負担となる懸念",
+        "detail": "中小金融機関に対するAPI共通基盤のクラウド共同化補助金の配備が必要",
+        "simpleDetail": "小さな地方銀行がシステムの点検や安全対策をするお金が足りなくならないよう配慮が必要です",
+        "tag": "地銀経営"
+      },
+      {
+        "id": "c2",
+        "title": "不正アクセス・データ漏洩時の責任分担",
+        "summary": "フィンテック事業者のセキュリティ不備で顧客資産が詐取された際の補償責任の所在が曖昧になるリスク",
+        "detail": "電子決済等代行業者に対する厳格な資本金要件・セキュリティ認証と保険加入義務付けが不可欠",
+        "simpleDetail": "万が一アプリからお金が盗まれたときに、誰がどう弁償するかの責任ルールを明確にする必要があります",
+        "tag": "セキュリティ"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2018年6月",
+      "label": "改正銀行法施行（オープンAPI導入努力義務化）",
+      "status": "completed",
+      "description": "電子決済等代行業者の登録制導入。"
+    },
+    {
+      "date": "2023年3月",
+      "label": "公正取引委員会が銀行API利用料に関する実態調査報告書を公表",
+      "status": "completed",
+      "description": "接続料の高止まりを指摘。"
+    },
+    {
+      "date": "2026年4月",
+      "label": "オープンバンキングAPI無償標準開放法の施行予定",
+      "status": "current",
+      "description": "手数料規制と統一APIの義務化。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "金融庁",
+      "title": "オープンAPIの推進及びフィンテックの動向について",
+      "url": "https://www.fsa.go.jp/policy/open-api/index.html"
+    },
+    {
+      "organization": "公正取引委員会",
+      "title": "フィンテックを活用した金融サービスの向上に向けた競争政策上の課題について",
+      "url": "https://www.jftc.go.jp/houdou/pressrelease/2023/mar/230331_fintech.html"
+    }
+  ],
+  "badges": [
+    {
+      "label": "フィンテック",
+      "variant": "positive"
+    },
+    {
+      "label": "オープンAPI",
+      "variant": "positive"
+    },
+    {
+      "label": "金融改革",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "口座照会API",
+      "value": "原則無償化",
+      "description": "家計簿アプリや会計ソフトへの過重な接続料を撤廃",
+      "icon": "Smartphone"
+    },
+    {
+      "label": "規格統一",
+      "value": "全国共通標準API",
+      "description": "銀行ごとにバラバラだった接続仕様を法制化で統一",
+      "icon": "Lock"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "フィンテックスタートアップCEO",
+        "commentStandard": "「銀行ごとに毎月数千万円のAPI接続料を請求され、ユーザー無料プランを維持できなくなっていた。無償開放はまさに金融民主化だ」",
+        "commentSimple": "「銀行からの高すぎる請求がなくなり、ユーザーにずっと無料で便利なサービスを届けられます」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "第二地方銀行システム部長",
+        "commentStandard": "「無償化されると、サイバー攻撃対策やサーバー増強費用を回収できない。共通クラウド基盤のコスト負担を国が支援してほしい」",
+        "commentSimple": "「安全を守るためのサーバー代がタダにはならないので、国からの補助金がないと苦しいです」"
+      }
+    ]
+  },
+  "international": {
+    "title": "オープンバンキング（Open Banking）API法制の国際比較",
+    "comparisonSummary": "英国・EU・豪州では法律により大手銀行にAPIの無償開放を義務付け。",
+    "countries": [
+      {
+        "country": "英国",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "オープンバンキング標準（CMA注文・OBIE）",
+        "keyFeature": "競争市場庁（CMA）が9大メガバンクに標準化APIの無償提供を命令。利用者は数百万人に拡大。",
+        "source": {
+          "organization": "英国Open Banking Limited",
+          "title": "What is Open Banking",
+          "url": "https://www.openbanking.org.uk"
+        }
+      },
+      {
+        "country": "EU",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "第2次決済サービス指令（PSD2）および金融データアクセス（FIDA）",
+        "keyFeature": "銀行に認可サードパーティ（TPP）への安全な無償アクセス提供を義務化。スクレイピングを原則禁止。",
+        "source": {
+          "organization": "欧州銀行監督局(EBA)",
+          "title": "Payment Services Directive 2 (PSD2)",
+          "url": "https://www.eba.europa.eu"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "消費者データ権利法（Consumer Data Right: CDR）",
+        "keyFeature": "銀行口座データの所有権を消費者に付与し、認可アプリへの安全なデータ転送を銀行に無償義務付け。",
+        "source": {
+          "organization": "豪州ACCC",
+          "title": "Consumer Data Right",
+          "url": "https://www.cdr.gov.au"
+        }
+      }
+    ]
+  }
+}

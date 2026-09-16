@@ -1,0 +1,211 @@
+{
+  "id": "part-time-worker-paid-education-training-leave",
+  "title": "非正規・パートタイム労働者「有給教育訓練休暇」法定化法",
+  "catchphrase": "働きながらスキルアップを可能に、パート・契約社員への有給研修受講権の保障",
+  "category": "labor",
+  "categoryLabel": "働き方・健康",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年4月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "非正規雇用労働者（パート・アルバイト・契約社員・派遣労働者）の能力開発と正規登用を後押しするため、年間最低5日間の「有給教育訓練休暇（スキルアップ有休）」を法定化する法律。",
+      "労働者が自ら希望する公的職業訓練、IT資格講座、介護・福祉実務者研修、大学・専門学校の履修に対し、有給での休暇取得を企業に義務付ける。",
+      "休暇取得中に企業が支払う賃金相当額（1日あたり最大8,000円）および受講料の70%を「人材開発支援助成金」から100%全額補填する。"
+    ],
+    "simple": [
+      "パートや契約社員の人が、給料をもらいながら資格の勉強や研修に行ける「お給料の出るお勉強休み（年間5日）」を作る法律です。",
+      "介護やパソコン、簿記などの勉強に行きたいときに、シフトを削られて給料が減る心配がなくなります。",
+      "会社が払うお給料や研修のお金は、国が助成金で全額会社にバックします。"
+    ]
+  },
+  "background": {
+    "standard": "正社員には企業内OJTや研修受講の機会が与えられる一方、非正規雇用労働者は日々の生活費稼ぎに追われ、受講のためにシフトを休めば日給が減額される「学びの貧困の罠」に陥っていた。非正規から正規へのステップアップや賃金向上を実現するため、有給での学習権の保障が不可欠となっていた。",
+    "simple": "パートの人は勉強のために仕事を休むとその日の日給がゼロになってしまうため、新しいスキルを身につけて正社員になるチャンスを掴めないままでした。安心して学べる休みを保障します。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "有給教育訓練休暇の法定義務化",
+      "before": "企業の任意制度（導入企業は1割未満、非正規対象は皆無）",
+      "after": "週20時間以上勤務の全非正規労働者に年5日以上の有給研修休暇取得権を付与",
+      "highlight": "年5日間の有給研修休暇を義務化",
+      "icon": "GraduationCap"
+    },
+    {
+      "id": "c2",
+      "topic": "賃金助成金による企業負担ゼロ化",
+      "before": "休ませた間の賃金は企業持ち出し",
+      "after": "人材開発支援助成金により有給休暇中の賃金相当額を国が全額助成",
+      "highlight": "賃金相当額を国が100%助成",
+      "icon": "Wallet"
+    },
+    {
+      "id": "c3",
+      "topic": "不利益取扱いの禁止と正規登用加点",
+      "before": "研修参加を理由としたシフト削減や雇い止めの懸念",
+      "after": "研修受講による不利益処分を違法化し、修了者の社内登用を企業評価に反映",
+      "highlight": "不利益取り扱いの完全禁止",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "非正規雇用のキャリアアップと貧困脱出",
+        "summary": "生活費の心配なく専門スキルを獲得でき、介護福祉士やIT技術者など待遇の良い職種へ転換できる",
+        "detail": "一人親世帯や就職氷河期世代のパート労働者が安定した正規雇用へステップアップする契機となる",
+        "simpleDetail": "給料が減る心配なく勉強できるので、資格を取って正社員になったり時給を上げられます",
+        "tag": "キャリアアップ"
+      },
+      {
+        "id": "b2",
+        "title": "企業の人手不足解消と生産性向上",
+        "summary": "パート従業員のスキルが向上し、現場の業務効率化や中核リーダー層の育成が実現する",
+        "detail": "助成金により実質コスト負担なく従業員の能力開発が進み、定着率向上にも直結する",
+        "simpleDetail": "従業員が優秀になって仕事がスムーズになり、お店や会社の業績も良くなります",
+        "tag": "生産性向上"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "小規模店舗・事業所での代替シフト調整",
+        "summary": "ワンオペやギリギリの人員で回している飲食店・コンビニ等で、休暇取得時の穴埋めが困難",
+        "detail": "短期ヘルプスタッフ雇用の追加助成や、閑散期に集中的に取得できる弾力的な運用規定が必要",
+        "simpleDetail": "人手が足りない小さなお店では、休まれたときに代わりの人を見つけるのが大変です",
+        "tag": "現場負担"
+      },
+      {
+        "id": "c2",
+        "title": "助成金申請手続きの簡素化",
+        "summary": "労働局への助成金申請書類が複雑すぎて、多くの中小零細企業が申請を断念するリスク",
+        "detail": "電子申請の完全ペーパーレス化と社労士による無料申請代行窓口の整備が不可欠",
+        "simpleDetail": "国への申請手続きが難しすぎると、制度を使ってもらえなくなる心配があります",
+        "tag": "手続きの壁"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2021年12月",
+      "label": "公明党・超党派議連がリカレント教育・教育訓練休暇の法制化を要請",
+      "status": "completed",
+      "description": "国会決議採択。"
+    },
+    {
+      "date": "2024年6月",
+      "label": "人材開発基本方針に非正規労働者の学習権保障を明記",
+      "status": "completed",
+      "description": "助成金モデル創設。"
+    },
+    {
+      "date": "2026年4月",
+      "label": "非正規有給教育訓練休暇法の施行予定",
+      "status": "current",
+      "description": "全事業者への法的適用。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "厚生労働省",
+      "title": "人材開発支援助成金（人への投資促進コース）",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyufukin/d01-1.html"
+    },
+    {
+      "organization": "厚生労働省",
+      "title": "有給教育訓練休暇制度の普及促進について",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/shokugyounouryoku/kyuuka"
+    }
+  ],
+  "badges": [
+    {
+      "label": "非正規支援",
+      "variant": "positive"
+    },
+    {
+      "label": "学び直し",
+      "variant": "positive"
+    },
+    {
+      "label": "働き方改革",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "有給休暇日数",
+      "value": "年間最低5日",
+      "description": "給料をもらいながら公的資格や研修を受講可能",
+      "icon": "GraduationCap"
+    },
+    {
+      "label": "賃金助成",
+      "value": "国が100%全額助成",
+      "description": "休業中の賃金相当額を助成金で事業主に支給",
+      "icon": "Wallet"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "スーパー勤務のパート女性（40代・一人親）",
+        "commentStandard": "「登録販売者の資格を取りたかったが講習が平日昼間で諦めていた。有給で休めて給料も出るならぜひ挑戦したい」",
+        "commentSimple": "「シフトを削られずに資格の勉強に行けるなら、絶対にチャレンジして正社員を目指したいです」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "個人経営の居酒屋店主",
+        "commentStandard": "「3人のパートで回している。1人が5日間抜けると店を開けられない日が出る。代わりのバイトを呼ぶ追加経費も手当てしてほしい」",
+        "commentSimple": "「ギリギリの人数でやっているお店なので、代わりの人を呼ぶお金もサポートしてほしいです」"
+      }
+    ]
+  },
+  "international": {
+    "title": "教育訓練有給休暇（Educational Leave）の国際比較",
+    "comparisonSummary": "ILO第140号条約（有給教育休暇条約）に基づき、欧州諸国では労働者の権利として確立。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "職業移行プロジェクト休暇（Projet de Transition Professionnelle: PTP）",
+        "keyFeature": "非正規や有期雇用者でも一定期間の就労実績があれば、最長1年間の有給での資格取得休職を保障。",
+        "source": {
+          "organization": "フランス労働省",
+          "title": "Le projet de transition professionnelle",
+          "url": "https://travail-emploi.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "教育休暇制度（Bildungsurlaub）",
+        "keyFeature": "ほぼ全州で法制化。労働者は年5日（2年で10日）の有給教育休暇を取得して公認セミナーを受講可能。",
+        "source": {
+          "organization": "ドイツ労働総同盟(DGB)",
+          "title": "Bildungsurlaub: Anspruch und Gesetz",
+          "url": "https://www.dgb.de"
+        }
+      },
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "教育休業法（Studieledighetslagen）",
+        "keyFeature": "6ヶ月以上勤務した労働者は希望するあらゆる教育のために休業する権利を持ち、学術・職業訓練を自由に選択可能。",
+        "source": {
+          "organization": "スウェーデン労働協約局",
+          "title": "Rätt till studieledighet",
+          "url": "https://www.medlingsinstitutet.se"
+        }
+      }
+    ]
+  }
+}

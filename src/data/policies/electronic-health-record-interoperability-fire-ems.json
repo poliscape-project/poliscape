@@ -1,0 +1,186 @@
+{
+  "id": "electronic-health-record-interoperability-fire-ems",
+  "title": "救急搬送トリアージ・健康保険証マイナDXリアルタイム既往歴共有法",
+  "catchphrase": "救急車の搬送先を即座に決定、既往歴・アレルギーの救急車内リアルタイム照会",
+  "category": "medical",
+  "categoryLabel": "医療・福祉",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年4月全国配備",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "意識不明や重篤な救急患者の救命率を高めるため、救急隊員がマイナンバーカード等を用いて車載タブレットから過去の既往歴・服薬履歴・アレルギー情報を瞬時に照会できるシステムを法定義務化する法律。",
+      "「たらい回し（受入困難事案）」を激減させ、患者の病態に最も適した受け入れ病院への搬送時間を大幅に短縮する。",
+      "救急救命時の緊急アクセス特例を個人情報保護法およびマイナンバー法に明記し、厳格な事後アクセスログ監査を義務付ける。"
+    ],
+    "simple": [
+      "救急車で運ばれるときに、救急隊員が持っているタブレットで患者さんの病歴や飲んでいる薬をすぐに確認できる法律です。",
+      "意識がなくて話せない状態でも、危険なアレルギーや持病をすぐに把握して、最適な病院へ迷わず運べるようにします。",
+      "命を助ける緊急の時だけ安全にデータを確認し、不正に見られないよう国の厳しいチェックを入れます。"
+    ]
+  },
+  "background": {
+    "standard": "救急搬送において患者や家族から正確な服薬歴や持病を聞き取れず、受け入れ病院選定に何十件も電話をかける事案が多発していた。マイナ保険証の普及を活かし、消防庁と厚労省が連携して救急車内での医療情報閲覧実証を行い、全国展開のための法制度化が進められた。",
+    "simple": "救急車の中で「どんな薬を飲んでいるか」が分からず受け入れ先が決まらない問題を防ぐため、救急隊が命を救う情報を瞬時に見られるようにしました。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "救急車内での既往歴照会",
+      "before": "患者や家族からの口頭聞き取り、お薬手帳の捜索",
+      "after": "マイナカード読み取りで全国医療情報プラットフォームから直近処方・手術歴を瞬時閲覧",
+      "highlight": "車載端末で薬・手術歴を照会",
+      "icon": "Smartphone"
+    },
+    {
+      "id": "c2",
+      "topic": "受入病院選定の迅速化",
+      "before": "電話による1件ごとの受入可否問い合わせ",
+      "after": "リアルタイム病態データと病院空き病床システム（EMIS）が自動連動",
+      "highlight": "受入照会時間を半減",
+      "icon": "Clock"
+    },
+    {
+      "id": "c3",
+      "topic": "緊急アクセスの法的特例",
+      "before": "本人の事前書面同意が必要",
+      "after": "意識不明・生命危機時の緊急アクセス権限と事後開示通知の法制化",
+      "highlight": "意識不明時の緊急照会特例",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "perspectives": {
+    "pro": [
+      "アスピリン等抗凝固薬の服用歴や薬剤アレルギーを即座に確認でき、救急車内での適切な処置と搬送先決定ができる",
+      "搬送先決定までの時間が平均数分〜十数分短縮され、脳卒中や心筋梗塞の救命率・後遺症残存率が劇的に改善する"
+    ],
+    "con": [
+      "マイナンバーカードを不携帯の患者の場合にシステムが使えない課題が残る",
+      "センシティブな病歴（精神疾患や性感染症歴等）が意図せず救急隊や第三者に漏洩するプライバシー懸念"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023年10月",
+      "label": "消防庁が救急車内マイナ保険証実証実験を全国で開始",
+      "status": "completed",
+      "description": "搬送時間短縮を確認。"
+    },
+    {
+      "date": "2024年12月",
+      "label": "現行保険証の原則廃止とマイナ保険証移行",
+      "status": "completed",
+      "description": "インフラ基盤確立。"
+    },
+    {
+      "date": "2025年11月",
+      "label": "救急医療DX推進法案を国会提出",
+      "status": "current",
+      "description": "全国救急車への配備義務化。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "総務省消防庁",
+      "title": "マイナンバーカードを活用した救急業務の迅速化・円滑化",
+      "url": "https://www.fdma.go.jp/mission/enrichment/kyukyukikaku/post25.html"
+    },
+    {
+      "organization": "厚生労働省",
+      "title": "全国医療情報プラットフォームの救急現場連携",
+      "url": "https://www.mhlw.go.jp/stf/newpage_21487.html"
+    }
+  ],
+  "badges": [
+    {
+      "label": "救急医療DX",
+      "variant": "positive"
+    },
+    {
+      "label": "たらい回しゼロ",
+      "variant": "positive"
+    },
+    {
+      "label": "マイナ活用",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "受入先決定時間",
+      "value": "平均3〜5分短縮",
+      "description": "電話確認の往復をなくし最適な専門病院へ直行",
+      "icon": "Clock"
+    },
+    {
+      "label": "配備対象",
+      "value": "全国救急車約6,500台",
+      "description": "全国すべての消防本部・救急車両にセキュア専用端末を配備",
+      "icon": "Smartphone"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "消防局高度救急救命士",
+        "commentStandard": "「意識がない高齢者の血液サラサラの薬の有無が5秒でわかり、脳神経外科へダイレクト搬送できた。命が助かる確率が上がった」",
+        "commentSimple": "「意識がない患者さんの飲んでいる薬がすぐわかり、すぐに適切な専門病院へ運べました」"
+      },
+      {
+        "speaker": "日本救急医学会理事",
+        "commentStandard": "「医療情報のリアルタイム共有は救急医療の長年の悲願。搬送時間の短縮はそのまま予後の改善に直結する」",
+        "commentSimple": "「1分1秒を争う救急現場で、患者さんのデータがすぐ見られるのは本当に大きな進歩です」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "プライバシー権擁護弁護士",
+        "commentStandard": "「緊急アクセス権の乱用を防ぐため、どの隊員がいつ照会したかの完全な電子監査ログと患者への事後通知が必須だ」",
+        "commentSimple": "「関係ない人に病歴を見られることがないよう、厳重な安全管理と記録が必要です」"
+      }
+    ]
+  },
+  "international": {
+    "title": "救急現場の医療データアクセスに関する主要国の制度比較",
+    "comparisonSummary": "北欧やシンガポールでは国家カルテ基盤と救急隊システムが完全連動している。",
+    "countries": [
+      {
+        "country": "エストニア",
+        "countryCode": "EE",
+        "flag": "🇪🇪",
+        "systemName": "e-Health救急車連動システム（e-Ambulance）",
+        "keyFeature": "救急車が現場到着前に患者のIDから既往歴・最新心電図・アレルギーをクラウド照会し病院へ事前通知。",
+        "source": {
+          "organization": "エストニアTEHIK",
+          "title": "e-Ambulance solution",
+          "url": "https://www.tehik.ee"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "全国電子健康記録（NEHR）救急車アクセス",
+        "keyFeature": "SCDF（民間防衛庁救急隊）が全国共通カルテから重要情報を暗号化端末で照会しトリアージ。",
+        "source": {
+          "organization": "シンガポールMOH",
+          "title": "National Electronic Health Record",
+          "url": "https://www.moh.gov.sg"
+        }
+      },
+      {
+        "country": "米国",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "NEMSIS（全米救急医療情報システム）",
+        "keyFeature": "各州の救急隊が電子健康記録（EHR）と連動し搬送データを標準プロトコルで病院と双方向共有。",
+        "source": {
+          "organization": "米国NHTSA",
+          "title": "NEMSIS Technical Standards",
+          "url": "https://nemsis.org"
+        }
+      }
+    ]
+  }
+}

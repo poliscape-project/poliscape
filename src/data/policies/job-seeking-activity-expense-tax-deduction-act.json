@@ -1,0 +1,211 @@
+{
+  "id": "job-seeking-activity-expense-tax-deduction-act",
+  "title": "転職・再就職活動費（面接交通費・資格受験料）特定支出控除拡充法",
+  "catchphrase": "転職や学び直しの自己投資を応援、面接交通費や国家試験受験料の税額控除化",
+  "category": "labor",
+  "categoryLabel": "働き方・健康",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年4月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "円滑な労働移動と個人のキャリアアップを後押しするため、給与所得者の特定支出控除の適用要件を大幅に緩和し、転職・再就職活動にかかる諸費用を税額控除の対象とする法律。",
+      "遠方企業への面接面談交通費・宿泊費、求職活動用ポートフォリオ作成費、国家資格・公的認定スキルの受験料、キャリアカウンセリング費用を特定支出として認定する。",
+      "領収書のスマートフォン撮影・マイナポータル連携による確定申告レスの自動税額控除システムを構築する。"
+    ],
+    "simple": [
+      "転職活動や新しい仕事を見つけるために使った交通費や、資格試験の受験料を税金から安く引いてもらえる法律です。",
+      "遠くの会社の面接に行くための新幹線代やホテル代、履歴書の作成にかかった費用も対象になります。",
+      "スマホでレシートの写真を撮るだけで、簡単に税金が戻ってくるようになります。"
+    ]
+  },
+  "background": {
+    "standard": "従来の給与所得者の特定支出控除は給与所得控除額の2分の1を超える支出が必要であり、利用者が年間数千人程度と極めて低調だった。労働力不足の中で自律的なキャリアチェンジや学び直しが求められる中、転職活動にかかる数十万円の費用負担が非正規層や地方在住者の高い参入障壁となっていた。",
+    "simple": "これまでは会社を移ったり新しい資格を取ろうとしても、面接に行く新幹線代や試験代が高すぎて、生活が苦しい人や地方の人が転職に挑戦しにくい問題がありました。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "特定支出控除の下限基準引き下げ",
+      "before": "給与所得控除額の2分の1超（年収400万円で年約60万円以上の支出が必要）",
+      "after": "一律年間10万円以上の転職・再就職関連支出で適用可能に緩和",
+      "highlight": "適用下限を年10万円に大幅引き下げ",
+      "icon": "Wallet"
+    },
+    {
+      "id": "c2",
+      "topic": "求職活動費用の対象拡大",
+      "before": "会社の業務に直接必要な経費のみが対象",
+      "after": "個人のキャリアアップのための面接交通費・宿泊費・資格受験料を対象化",
+      "highlight": "面接交通費・受験料を控除対象化",
+      "icon": "CheckCircle2"
+    },
+    {
+      "id": "c3",
+      "topic": "マイナポータルでの自動控除申請",
+      "before": "紙の領収書と勤務先証明書の確定申告が必要",
+      "after": "交通系ICカードや決済アプリと連携したワンクリック還付申告",
+      "highlight": "スマホ連携で確定申告を自動化",
+      "icon": "Smartphone"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "労働市場の流動化と賃金上昇の促進",
+        "summary": "費用負担を理由に転職を諦めていた求職者が成長産業へ挑戦しやすくなり、構造的賃上げが進む",
+        "detail": "地方在住者が大都市圏の企業に転職する際や、都市部から地方へのU・Iターン転職のハードルを下げる",
+        "simpleDetail": "交通費や受験料が安くなるので、給料の高い会社や自分に合う仕事へ転職しやすくなります",
+        "tag": "賃金上昇"
+      },
+      {
+        "id": "b2",
+        "title": "個人の自律的スキルアップ投資の拡大",
+        "summary": "自費でIT資格や国家資格を受験するインセンティブが高まり、国全体のリスキリングが加速する",
+        "detail": "企業内研修に依存せず、個人が市場価値を高める主体的な自己投資を強力に後押しする",
+        "simpleDetail": "資格を取るためのお金が節約できるので、勉強を頑張る人が増えます",
+        "tag": "リスキリング"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "私的旅行・レジャーとの線引きと不正申告防止",
+        "summary": "観光を兼ねた旅行を「面接交通費」として虚偽計上する不正利用リスクへの懸念",
+        "detail": "応募先企業の求職活動証明（面接完了メールや電子証明）の添付照合ルールが必要",
+        "simpleDetail": "遊びに行った交通費を『転職の面接だった』と嘘をついて申告されない仕組みが必要です",
+        "tag": "不正防止"
+      },
+      {
+        "id": "c2",
+        "title": "所得税減税による国の税収減",
+        "summary": "特定支出控除の利用者が数十万人規模に急増した場合、国・地方の所得税収が減少する影響",
+        "detail": "転職後の賃金上昇による将来的な納税額増加で中長期的に回収する財政試算が求められる",
+        "simpleDetail": "国が集める税金が一時的に減ってしまうため、税収への影響を計算しておく必要があります",
+        "tag": "税収影響"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023年6月",
+      "label": "新しい資本主義実行計画で給与所得控除・労働移動円滑化を提言",
+      "status": "completed",
+      "description": "成長分野への移動促進方針決定。"
+    },
+    {
+      "date": "2025年12月",
+      "label": "与党税制改正大綱に特定支出控除の要件見直しを盛り込み",
+      "status": "completed",
+      "description": "転職活動費用の新設を決定。"
+    },
+    {
+      "date": "2026年4月",
+      "label": "転職活動費特定支出控除拡充法の施行予定",
+      "status": "current",
+      "description": "申告受付開始。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "国税庁",
+      "title": "給与所得者の特定支出控除について",
+      "url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1415.htm"
+    },
+    {
+      "organization": "内閣官房",
+      "title": "新しい資本主義のグランドデザイン及び実行計画",
+      "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/index.html"
+    }
+  ],
+  "badges": [
+    {
+      "label": "リスキリング",
+      "variant": "positive"
+    },
+    {
+      "label": "税制改正",
+      "variant": "positive"
+    },
+    {
+      "label": "キャリア支援",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "控除下限",
+      "value": "年間10万円〜",
+      "description": "年収に関係なく10万円以上の支出で税額控除を適用",
+      "icon": "Wallet"
+    },
+    {
+      "label": "対象経費",
+      "value": "面接交通費・受験料",
+      "description": "宿泊費・資格検定料・キャリア相談料も完全対象",
+      "icon": "CheckCircle2"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "地方から東京のIT企業へ転職活動中の会社員（28歳）",
+        "commentStandard": "「最終面接で上京するたびに新幹線とホテルで3万円消えていた。これが税金控除になるなら挑戦のハードルがぐっと下がる」",
+        "commentSimple": "「遠くの面接に行く旅費が高くて大変だったので、税金が安くなるのは本当に助かります」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "税理士",
+        "commentStandard": "「企業の採用通知や面接確認の電子控えを添付させるなど、税務署側の確認負荷を増やさないデジタル監査基盤が必要だ」",
+        "commentSimple": "「本当に面接に行ったかどうかをパソコン上で簡単に確かめられるようにしないと、税務署の確認が大変です」"
+      }
+    ]
+  },
+  "international": {
+    "title": "求職活動費用および自己啓発費用の税制優遇の国際比較",
+    "comparisonSummary": "米国・ドイツ・フランスでは転職面接費・転居費・資格取得費が税務上の必要経費として控除可能。",
+    "countries": [
+      {
+        "country": "米国",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "求職活動費控除（Job Search Expenses Deduction）",
+        "keyFeature": "同業種への転職における面接交通費、レジュメ印刷代、人材紹介会社手数料などを所得控除。",
+        "source": {
+          "organization": "米国国税庁(IRS)",
+          "title": "Topic No. 453 Job Search Expenses",
+          "url": "https://www.irs.gov"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "求職関連支出控除（Bewerbungskosten absetzen）",
+        "keyFeature": "書面応募1件あたり定額8.5ユーロ、面接旅費（実費）をWerbungskosten（所得獲得経費）として全額控除。",
+        "source": {
+          "organization": "ドイツ連邦財務省(BMF)",
+          "title": "Werbungskosten bei Arbeitnehmern",
+          "url": "https://www.bundesfinanzministerium.de"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "実費控除制度（Frais réels déductibles）",
+        "keyFeature": "転職のための研修費や面接移動交通費を定額10%控除に代えて実費全額控除できる選択制。",
+        "source": {
+          "organization": "フランス経済財政省",
+          "title": "Déduction des frais professionnels réels",
+          "url": "https://www.economie.gouv.fr"
+        }
+      }
+    ]
+  }
+}

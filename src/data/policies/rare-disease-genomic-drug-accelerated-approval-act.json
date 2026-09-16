@@ -1,0 +1,216 @@
+{
+  "id": "rare-disease-genomic-drug-accelerated-approval-act",
+  "title": "希少難病ゲノム創薬・早期アクセス迅速承認特例法（拡大治験DX）",
+  "catchphrase": "治療法のない希少難病に光を、ゲノム創薬の迅速承認と人道的アクセス",
+  "category": "medical",
+  "categoryLabel": "医療・福祉",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年6月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "患者数が極めて少なく治験が進まない希少難病（ウルトラ・オーファンドラッグ）に対し、ゲノム解析データやリアルワールドデータを活用した迅速条件付き承認と人道的拡大治験（コンパッショネート使用）を法制化する法律。",
+      "国内未承認の先端治療薬を致死的な難病患者がいち早く使用できるよう、医師主導治験の簡素化と公費助成枠を新設する。",
+      "ゲノム創薬ベンチャーへの研究開発インセンティブ（市場独占期間の12年への延長・再審査期間優遇）を付与する。"
+    ],
+    "simple": [
+      "患者が世界に数人しかいないような珍しい難病の特効薬を、普通より何年も早く届けるための法律です。",
+      "まだ日本で正式に認めていない最新の薬でも、命の危険がある患者さんが希望すれば安全に使える仕組み（拡大治験）を作ります。",
+      "珍しい病気の薬を研究開発してくれる会社を国が税金や独占権で手厚く応援します。"
+    ]
+  },
+  "background": {
+    "standard": "世界に数千種類ある希少難病の9割には有効な治療薬が存在せず、製薬企業も採算性の低さから開発を躊躇していた。欧米では「拡大アクセス制度」により治験段階の薬を早期投与できるが、日本は薬機法の治験手続きが厳格で「ドラッグ・ロス（海外で使える薬が日本で使えない）」が再燃していた。",
+    "simple": "患者が少ない難病の薬は開発が難しく、海外で効く薬があっても日本では手続きが遅くて使えなかったため、審査を特例で早く進めるルールを作りました。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "人道的治験アクセスの拡大",
+      "before": "極めて限定的な医師主導治験のみ",
+      "after": "治験第2相終了時点で重篤難病患者へのコンパッショネート使用を認可",
+      "highlight": "早期人道的アクセス解禁",
+      "icon": "ShieldCheck"
+    },
+    {
+      "id": "c2",
+      "topic": "リアルワールドデータ承認",
+      "before": "大規模な二重盲検無作為化比較試験（RCT）が必須",
+      "after": "患者登録レジストリ等の実臨床データによる有効性評価を許容",
+      "highlight": "レジストリデータで承認",
+      "icon": "TrendingUp"
+    },
+    {
+      "id": "c3",
+      "topic": "市場独占期間の延長",
+      "before": "希少疾病用医薬品の再審査期間は最長10年",
+      "after": "ゲノム標的のウルトラ希少難病薬に対し最長12年間の独占権を付与",
+      "highlight": "独占期間12年へ延長",
+      "icon": "Clock"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "救命のラストチャンス確保",
+        "summary": "他に治療法がない致死性難病の患者に、治験中の新薬を速やかに投与できる",
+        "detail": "数年の承認遅延で命を落としていた希少疾患の小児患者などに希望を届ける",
+        "simpleDetail": "使える薬がなくて諦めていた患者さんが、開発中の最新薬を早く試せます",
+        "tag": "救命効果"
+      },
+      {
+        "id": "b2",
+        "title": "ドラッグ・ロスの解消",
+        "summary": "海外の先端バイオベンチャーが日本を治験対象国から外す「日本パッシング」を防止できる",
+        "detail": "世界同時開発が促進され、最先端の遺伝子治療や核酸医薬品が日本に上陸する",
+        "simpleDetail": "外国の優れた薬が日本だけ入ってこない悲しい事態を防ぎます",
+        "tag": "創薬力"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "有効性・安全性の検証リスク",
+        "summary": "少人数のデータで迅速承認するため、予期せぬ副作用や効果不十分のリスクが残る",
+        "detail": "市販後の全例調査（PMS）と追跡データの収集体制を厳格に義務付ける必要がある",
+        "simpleDetail": "少ない人数で急いでOKを出すため、後から副作用が見つかる心配があります",
+        "tag": "安全性"
+      },
+      {
+        "id": "c2",
+        "title": "超高額薬価による医療財政圧迫",
+        "summary": "希少難病の遺伝子治療薬は1回の投与で数千万円〜数億円と極めて高額になる",
+        "detail": "費用対効果評価（HTA）との整合性や高額療養費制度の持続可能性が問われる",
+        "simpleDetail": "数千万円から数億円する薬もあり、保険の財政がもつか慎重な議論が必要です",
+        "tag": "医療経済"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2016年1月",
+      "label": "患者申出療養制度の創設",
+      "status": "completed",
+      "description": "保険外併用療養の特例。"
+    },
+    {
+      "date": "2024年6月",
+      "label": "厚労省ドラッグ・ロス解消タスクフォース提言",
+      "status": "completed",
+      "description": "迅速審査と小児薬優遇。"
+    },
+    {
+      "date": "2025年11月",
+      "label": "希少難病ゲノム創薬早期アクセス特例法案を提出",
+      "status": "current",
+      "description": "人道的アクセス法制化。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "厚生労働省",
+      "title": "ドラッグ・ラグ／ドラッグ・ロスの解消に向けた工程表",
+      "url": "https://www.mhlw.go.jp/stf/newpage_36881.html"
+    },
+    {
+      "organization": "日本難病連",
+      "title": "希少難病患者の未承認薬アクセスに関する要望書",
+      "url": "https://www.nanbyo.jp"
+    }
+  ],
+  "badges": [
+    {
+      "label": "難病支援",
+      "variant": "positive"
+    },
+    {
+      "label": "ドラッグロス解消",
+      "variant": "positive"
+    },
+    {
+      "label": "ゲノム創薬",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "市場独占期間",
+      "value": "最長12年",
+      "description": "開発リスクに見合う権利保護でバイオベンチャー参入を促進",
+      "icon": "Clock"
+    },
+    {
+      "label": "早期アクセス枠",
+      "value": "コンパッショネート使用",
+      "description": "治療法なき患者に安全監視下で治験薬の提供を合法化",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "小児希少難病患者の親",
+        "commentStandard": "「海外で効く遺伝子治療薬があるのに日本に入ってこないまま病気が進行していた。迅速承認制度は命綱です」",
+        "commentSimple": "「海外では助かっている子がいるのに日本で使えず絶望していました。早く使えるようにしてほしいです」"
+      },
+      {
+        "speaker": "東大バイオインフォマティクス教授",
+        "commentStandard": "「ゲノム解析により個別化された超希少疾患は従来のRCTが原理的に不可能。RWD活用は世界の潮流だ」",
+        "commentSimple": "「患者が少ない病気で何百人も集めて治験を行うのは無理。データを使った新しい審査が不可欠です」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "医薬品監視市民団体代表",
+        "commentStandard": "「早期承認薬が後から効果なしと判明した欧米の事例もある。条件付き承認後の取り消し基準を明確にすべきだ」",
+        "commentSimple": "「急ぎすぎて効かない薬に高いお金を払うことにならないよう、ダメだった時のルールも必要です」"
+      }
+    ]
+  },
+  "international": {
+    "title": "希少難病薬早期アクセスに関する主要国の制度比較",
+    "comparisonSummary": "欧米では拡大アクセス制度（コンパッショネート使用）や適応型承認（Adaptive Pathways）が先行定着。",
+    "countries": [
+      {
+        "country": "米国",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "FDA拡大アクセスプログラム（Expanded Access）および画期的治療薬（BTD）指定",
+        "keyFeature": "治験外の重篤患者に対する治験薬提供（Right to Try法含む）を法制化し迅速承認を連発。",
+        "source": {
+          "organization": "米国FDA",
+          "title": "Expanded Access Categories",
+          "url": "https://www.fda.gov"
+        }
+      },
+      {
+        "country": "EU",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "欧州医薬品庁（EMA）PRIME（優先医薬品）制度",
+        "keyFeature": "アンメットメディカルニーズの高い希少薬に初期治験から専任科学チームが助言し早期審査。",
+        "source": {
+          "organization": "EMA",
+          "title": "PRIME: priority medicines",
+          "url": "https://www.ema.europa.eu"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "早期アクセス認可（AAP: Accès Précoce）",
+        "keyFeature": "承認前でも国が100%全額公費負担し、製薬企業が患者へ無償または定額提供する世界最速スキーム。",
+        "source": {
+          "organization": "フランスHAS",
+          "title": "Autorisation d'accès précoce",
+          "url": "https://www.has-sante.fr"
+        }
+      }
+    ]
+  }
+}

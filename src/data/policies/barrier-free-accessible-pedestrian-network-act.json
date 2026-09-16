@@ -1,0 +1,211 @@
+{
+  "id": "barrier-free-accessible-pedestrian-network-act",
+  "title": "高齢者・車椅子・ベビーカー優先歩行者専用道ネットワーク法",
+  "catchphrase": "段差や急坂を解消し誰でもスイスイ歩ける街へ、都心部シームレス歩行空間ネットワークの義務化",
+  "category": "infrastructure",
+  "categoryLabel": "国土・交通",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年4月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "超高齢社会において、車椅子利用者、視覚障害者、シルバーカーを押す高齢者、ベビーカー利用者が駅・病院・商業施設・住宅間を一度も段差に阻まれず移動できる「アクセシブル歩行道網」を構築する法律。",
+      "重点整備地区に指定された都市部において、歩道舗装の平坦化（段差2cm以下）、勾配5%以下の緩傾斜化、屋根付きシェルター歩道の設置を自治体・道路管理者に義務付ける。",
+      "歩道段差解消工事および地下街・ペデストリアンデッキへの公設大型エレベーター増設費用を「バリアフリー・ユニバーサルデザイン交付金」で全額国費負担する。"
+    ],
+    "simple": [
+      "車椅子の人やお年寄り、ベビーカーを押すお母さんが、ガタガタ道や階段に邪魔されずにスイスイ移動できる歩道ネットワークを作る法律です。",
+      "駅から病院やスーパーまでのメインの歩道から段差をなくし、坂道をゆるやかにして、雨に濡れない屋根つきの歩道を整備します。",
+      "歩道を平らに直したり、駅や歩道橋にエレベーターを新しく作る工事費用は、国がしっかり補助します。"
+    ]
+  },
+  "background": {
+    "standard": "駅構内や大型商業施設の敷地内バリアフリー化は進んだものの、一歩公道（歩道）に出ると「車道と歩道の段差」「激しい横断勾配（水勾配）」「老朽化したインターロッキングの凸凹」「歩道橋の階段」に阻まれ、車椅子やベビーカーでの移動が極めて困難な「バリアフリーのミッシングリンク」が放置されていた。",
+    "simple": "駅の中にはエレベーターが増えましたが、外の歩道に出るとガタガタの段差や坂道が多く、車椅子やベビーカーを押す人が前に進めない場所がたくさんありました。街全体の道をキレイにつなぎます。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "シームレス段差ゼロ歩道の法定基準化",
+      "before": "車道と歩道の間や側溝蓋に2〜5cmの段差が散在",
+      "after": "横断歩道接続部の段差を完全ゼロ化（フラットスロープ構造）の義務化",
+      "highlight": "横断歩道接続部の段差完全ゼロ化",
+      "icon": "CheckCircle2"
+    },
+    {
+      "id": "c2",
+      "topic": "歩道横断勾配（水勾配）の緩和",
+      "before": "水はけ優先で2%の横傾斜があり車椅子が車道側へ流される危険",
+      "after": "透水性舗装の義務化により横断勾配を1%以下にフラット化",
+      "highlight": "車椅子が流されない平坦な歩道構造",
+      "icon": "TrendingDown"
+    },
+    {
+      "id": "c3",
+      "topic": "歩行空間アクセシビリティマップのオープンデータ化",
+      "before": "どこに段差やエレベーターがあるか車椅子ユーザーが不明",
+      "after": "自治体・国交省が全国の歩道段差・傾斜・エレベーター情報をリアルタイムAPI公開",
+      "highlight": "全国歩道バリアフリー情報のAPI公開",
+      "icon": "Smartphone"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "障害者・高齢者の完全な社会的自立と外出促進",
+        "summary": "誰かの介助に頼ることなく、電動車椅子やシニアカーで病院や買い物へ自由にアクセスできるようになる",
+        "detail": "外出機会の増加により高齢者のフレイル（虚弱化）や孤立を防ぎ、健康寿命を延伸させる",
+        "simpleDetail": "誰の手も借りずに、車椅子やお年寄りが一人で安心して病院やお買い物に行けるようになります",
+        "tag": "移動の自由"
+      },
+      {
+        "id": "b2",
+        "title": "子育て世帯のストレスフリーなベビーカー移動",
+        "summary": "ベビーカーが段差に引っかかって前のめりに転倒する危険や、階段で持ち上げる負担を根本から解消する",
+        "detail": "子育てしやすい街としての魅力が高まり、ファミリー層の定住や少子化対策にも大きく寄与する",
+        "simpleDetail": "ベビーカーを押してのお出かけがとても楽になり、段差でつまずく心配もなくなります",
+        "tag": "子育て支援"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "道路水はけ（排水性）悪化による雨天時の水たまり",
+        "summary": "歩道の横断勾配を平坦にしすぎると、大雨時に雨水が排水溝へ流れず水たまりができる恐れ",
+        "detail": "高機能透水性舗装と定期的な高圧洗浄メンテナンスの義務付けが不可欠",
+        "simpleDetail": "道を平らにすると雨水が溜まりやすくなるため、水をよく吸い込む特別なアスファルトが必要です",
+        "tag": "道路排水"
+      },
+      {
+        "id": "c2",
+        "title": "工事期間中の迂回路設定と商店街の営業補償",
+        "summary": "既成市街地の狭い歩道を掘り起こして平坦化する際、工事期間中の歩行者通行止めや商店への影響",
+        "detail": "夜間集中的な急速施工工法の採用と、地元商店街への丁寧な事前合意形成が必要",
+        "simpleDetail": "工事中にお店のお客さんが通れなくならないよう、夜の間に素早く工事を終わらせる工夫が必要です",
+        "tag": "施工管理"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2006年12月",
+      "label": "バリアフリー新法（高齢者、障害者等の移動等の円滑化の促進に関する法律）施行",
+      "status": "completed",
+      "description": "交通機関・建築物の基準化。"
+    },
+    {
+      "date": "2020年5月",
+      "label": "バリアフリー法改正（心のバリアフリー及び歩行空間支援拡大）",
+      "status": "completed",
+      "description": "重点整備地区追加。"
+    },
+    {
+      "date": "2026年4月",
+      "label": "アクセシブル歩行道ネットワーク法の施行予定",
+      "status": "current",
+      "description": "段差ゼロ化とリアルタイムマップAPI公開。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "国土交通省",
+      "title": "道路の移動円滑化整備基準（バリアフリー道路構造基準）",
+      "url": "https://www.mlit.go.jp/road/road/barrierfree"
+    },
+    {
+      "organization": "国土交通省都市局",
+      "title": "歩行空間ネットワークデータ等整備推進事業",
+      "url": "https://www.mlit.go.jp/sogoseisaku/transport/pedestrian/index.html"
+    }
+  ],
+  "badges": [
+    {
+      "label": "バリアフリー",
+      "variant": "positive"
+    },
+    {
+      "label": "ユニバーサルデザイン",
+      "variant": "positive"
+    },
+    {
+      "label": "歩行空間",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "段差基準",
+      "value": "完全ゼロ化（フラット）",
+      "description": "横断歩道接続部や歩道ブロックの段差を完全解消",
+      "icon": "CheckCircle2"
+    },
+    {
+      "label": "情報公開",
+      "value": "歩道データAPI無料公開",
+      "description": "全国の歩道段差・傾斜・エレベーター位置を地図アプリへ提供",
+      "icon": "Smartphone"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "手動車椅子ユーザー（20代男性）",
+        "commentStandard": "「たった2cmの段差で前輪のキャスターが引っかかり前に投げ出されそうになっていた。完全フラット化は命に関わる改善だ」",
+        "commentSimple": "「たった数センチの段差で転びそうになって怖かったので、真っ平らにしてくれるのは本当に嬉しいです」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "地方自治体土木事務所道路維持課長",
+        "commentStandard": "「側溝の蓋のガタつきや街路樹の根上がりによる舗装持ち上がりを維持管理し続けるための巡回予算を確保してほしい」",
+        "commentSimple": "「木の根っこがアスファルトを持ち上げて段差ができないよう、定期的な見回りの予算も必要です」"
+      }
+    ]
+  },
+  "international": {
+    "title": "歩行空間バリアフリー基準（Accessible Pedestrian Networks）の国際比較",
+    "comparisonSummary": "米国ADA（障害を持つアメリカ人法）および英国Inclusive Mobility基準が世界をリード。",
+    "countries": [
+      {
+        "country": "米国",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "ADA歩行空間アクセス指針（PROWAG: 公共交通用地アクセス基準）",
+        "keyFeature": "縁石のスロープ（Curb Ramps）の傾斜・突起警告ブロックの仕様を連邦法で厳格義務化。違反は連邦訴訟対象。",
+        "source": {
+          "organization": "米国アクセス委員会(US Access Board)",
+          "title": "Public Rights-of-Way Accessibility Guidelines (PROWAG)",
+          "url": "https://www.access-board.gov"
+        }
+      },
+      {
+        "country": "英国",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "インクルーシブ・モビリティ指針（Inclusive Mobility: DfT）",
+        "keyFeature": "歩道有効幅員2mの確保、横断勾配最大1:40（2.5%）、 tactile paving（点字誘導）の全国統一基準。",
+        "source": {
+          "organization": "英国運輸省(DfT)",
+          "title": "Inclusive Mobility: A Guide to Best Practice",
+          "url": "https://www.gov.uk/government/publications/inclusive-mobility-making-transport-accessible-for-passengers-and-pedestrians"
+        }
+      },
+      {
+        "country": "シンガポール",
+        "countryCode": "SG",
+        "flag": "🇸🇬",
+        "systemName": "シルバーゾーン（Silver Zone）及びウォーカブル・タウン計画",
+        "keyFeature": "高齢者集住地区の全歩道を完全フラット化し、屋根付き遊歩道（Covered Linkways）を駅まで途切れず整備。",
+        "source": {
+          "organization": "シンガポール陸上交通庁(LTA)",
+          "title": "Silver Zones and Walk2Ride Program",
+          "url": "https://www.lta.gov.sg"
+        }
+      }
+    ]
+  }
+}

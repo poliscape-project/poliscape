@@ -1,0 +1,211 @@
+{
+  "id": "covert-tracking-airtag-stalking-regulation-reform",
+  "title": "GPSタグ（AirTag等）悪用ストーカー位置情報取得罪厳罰化法",
+  "catchphrase": "カバンや車に忍ばせる恐怖を撲滅、小型紛失防止タグ悪用への位置情報不正取得罪と直罰導入",
+  "category": "safety",
+  "categoryLabel": "司法・治安・刑事政策",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年4月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "AppleのAirTagやTile等のBluetooth超小型紛失防止タグを相手の許可なく所持品や自動車に忍ばせ、自宅や勤務先の位置情報を盗み見るストーカー犯罪を厳罰化する法律。",
+      "ストーカー規制法および不正指令電磁的記録供用罪を改正し、相手の承諾なくGPS機器・紛失防止タグを設置・隠匿・追跡する行為を「位置情報不正取得罪」として警告なしに即座に逮捕・処罰可能にする（直罰化）。",
+      "最高刑を「懲役3年以下または300万円以下の罰金」へ引き上げ、警察署に隠匿タグを1分で検出できる特殊スキャナー機器を全国配備する。"
+    ],
+    "simple": [
+      "カバンや車の中にこっそり「AirTag」などの小さな追跡ブザーを隠されて、自宅や居場所をストーカーに監視される犯罪を厳しく取り締まる法律です。",
+      "勝手に相手の持ち物にタグを入れただけで、警察が警告なしですぐに犯人を逮捕できるようにします。",
+      "全国の警察署に、隠されたタグをすぐに見つけ出せるハイテク探知機を配備して、被害者を守ります。"
+    ]
+  },
+  "background": {
+    "standard": "小型紛失防止タグは本来鍵や財布の紛失防止用に開発されたが、500円玉サイズの小ささと安価さから、配偶者や交際相手、アイドル、一般女性の車の下回りやバッグの底に無断で仕込まれるストーカー事案が急増した。現行法では「つきまといの反復」が証明されなければ立件が難しく、隠匿された時点で即座に取り締まる法整備が急務となっていた。",
+    "simple": "財布を失くさないための便利な電子タグを悪用して、車やカバンにこっそり入れられて居場所をストーカーされる被害が急増していました。相手に知られずタグを仕掛けただけで一発で逮捕できるようにルールを強化します。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "位置情報不正取得の直罰化",
+      "before": "警察の警告を無視して反復しなければ逮捕できない（手遅れの危険）",
+      "after": "承諾なくタグを設置・隠匿・追跡した時点で直ちに逮捕（直罰化）",
+      "highlight": "タグ隠匿・不正追跡への即時逮捕（直罰化）",
+      "icon": "ShieldCheck"
+    },
+    {
+      "id": "c2",
+      "topic": "法定刑の懲役3年への大幅引き上げ",
+      "before": "器物損壊や軽犯罪法等で微罪処分になる例が散見",
+      "after": "懲役3年以下・罰金300万円以下の重罰を科し再犯を厳格防止",
+      "highlight": "最高懲役3年の重罰化",
+      "icon": "AlertTriangle"
+    },
+    {
+      "id": "c3",
+      "topic": "警察署への隠匿タグ検知スキャナー全国配備",
+      "before": "被害者がスマホの警告を受けてもどこにタグがあるか自力発見困難",
+      "after": "電波測定スキャナーにより車の下や荷物の隙間のタグを即時特定",
+      "highlight": "警察署への隠匿タグ検知スキャナー全署配備",
+      "icon": "Smartphone"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "ストーカー凶悪殺人・傷害事件の未然防止",
+        "summary": "引っ越し先や避難先シェルターの場所を突き止められる前に犯人を摘発・隔離でき、命を守れる",
+        "detail": "居場所が知られているという被害者の計り知れない精神的恐怖とトラウマを即座に解消する",
+        "simpleDetail": "ストーカーに自宅の場所がバレる前に警察が犯人を捕まえて、被害者の命を守ります",
+        "tag": "命を守る"
+      },
+      {
+        "id": "b2",
+        "title": "悪質テクノロジー悪用に対する強力な抑止力",
+        "summary": "「タグを入れただけで一発で前科がつく」という明確な社会的メッセージにより、安易な悪用を根絶する",
+        "detail": "フリマアプリでの不正タグ売買や改造タグ（スピーカー消音改造）の流通も連動して取り締まれる",
+        "simpleDetail": "『軽い気持ちでカバンに入れた』だけで重い犯罪になるため、誰も悪用しなくなります",
+        "tag": "犯罪抑止"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "家族間・親による子どもの見守りとの線引き",
+        "summary": "親が認知症高齢者や迷子防止のためにGPSタグを持たせる正当な見守りまで犯罪と疑われないか",
+        "detail": "「正当な保護・監護目的」を適用除外とする明確な免責規定とガイドラインの策定が必要",
+        "simpleDetail": "おじいちゃんの徘徊防止や小さな子どもの安全のための見守りまで捕まらないよう、きちんと区別します",
+        "tag": "見守り免責"
+      },
+      {
+        "id": "c2",
+        "title": "プラットフォーム事業者（Apple/Google等）の技術協力",
+        "summary": "Bluetooth電波の仕様変更や追跡ログの警察捜査への迅速なデータ提供（令状対応）の確保",
+        "detail": "テックジャイアントに対する捜査機関向け緊急照会プロトコルの法定義務付けが不可欠",
+        "simpleDetail": "アップルやグーグルなどの会社に、犯人の特定に素早く協力してもらうルールが必要です",
+        "tag": "捜査協力"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2021年4月",
+      "label": "AppleがAirTagを発売（世界中でストーカー悪用が社会問題化）",
+      "status": "completed",
+      "description": "小型タグの普及。"
+    },
+    {
+      "date": "2021年8月",
+      "label": "ストーカー規制法改正（GPS機器を用いた無断位置情報取得を規制対象に追加）",
+      "status": "completed",
+      "description": "GPS規制の導入。"
+    },
+    {
+      "date": "2026年4月",
+      "label": "位置情報不正取得罪新設・厳罰化法の施行予定",
+      "status": "current",
+      "description": "直罰化とスキャナー全国配備開始。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "警察庁",
+      "title": "ストーカー規制法の概要とGPS機器等を用いた位置情報取得への対策",
+      "url": "https://www.npa.go.jp/bureau/safetylife/stalker/index.html"
+    },
+    {
+      "organization": "法務省",
+      "title": "刑法及びストーカー行為等の規制等に関する法律の一部改正要綱",
+      "url": "https://www.moj.go.jp"
+    }
+  ],
+  "badges": [
+    {
+      "label": "ストーカー防止",
+      "variant": "positive"
+    },
+    {
+      "label": "厳罰化",
+      "variant": "positive"
+    },
+    {
+      "label": "プライバシー保護",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "処罰規定",
+      "value": "警告なし直罰逮捕",
+      "description": "承諾なくタグを設置・追跡した時点で即座に逮捕可能",
+      "icon": "CheckCircle2"
+    },
+    {
+      "label": "最高刑",
+      "value": "懲役3年・300万円罰金",
+      "description": "悪質な位置情報不正取得に対する法定刑を大幅引き上げ",
+      "icon": "AlertTriangle"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "ストーカー被害に遭った女性（20代）",
+        "commentStandard": "「車のバンパー裏にAirTagを貼られていた。警察に行っても『まだ被害がないから』と言われた悔しさは忘れられない。直罰化は絶対必要」",
+        "commentSimple": "「車にタグを貼られて本当に怖い思いをしました。すぐ逮捕できるようになるのは本当に心強いです」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "弁護士（刑事弁護専門）",
+        "commentStandard": "「夫婦喧嘩の最中に『荷物を勝手に追跡された』として過剰告訴されるリスク。故意の要件と違法性の実質的判断を裁判所が厳格に保つべき」",
+        "commentSimple": "「家族同士のちょっとしたトラブルで冤罪が起きないよう、本当に悪質な場合をしっかり見極める必要があります」"
+      }
+    ]
+  },
+  "international": {
+    "title": "GPSタグ・電子位置情報ストーカー規制の国際比較",
+    "comparisonSummary": "米国各州法およびApple/Google共同業界規格（Detections of Unwanted Location Trackers）が先行。",
+    "countries": [
+      {
+        "country": "米国（オハイオ州・NY州等）",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "電子的追跡装置無断設置禁止法（Electronic Tracking Device Laws）",
+        "keyFeature": "同意なく個人の車両や所持品にGPS・追跡タグを取り付ける行為を一級軽罪（最高1年懲役）または重罪として直罰。",
+        "source": {
+          "organization": "オハイオ州議会",
+          "title": "Ohio Revised Code Section 2903.211",
+          "url": "https://codes.ohio.gov"
+        }
+      },
+      {
+        "country": "英国",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "重大犯罪法（Serious Crime Act 2015第76条：威圧的・支配的行動罪）",
+        "keyFeature": "パートナーへの無断トラッカー設置を家庭内DV・支配的行動（Coercive Control）として最高5年懲役を科す。",
+        "source": {
+          "organization": "英国検察庁(CPS)",
+          "title": "Controlling or Coercive Behaviour",
+          "url": "https://www.cps.gov.uk"
+        }
+      },
+      {
+        "country": "国際業界標準",
+        "countryCode": "INT",
+        "flag": "🌐",
+        "systemName": "Apple・Google不要トラッカー検知規格（IETF標準ドラフト）",
+        "keyFeature": "iOSとAndroidがOS横断で他人の未知のBluetoothトラッカーが同行していることを自動検知しユーザーに警告。",
+        "source": {
+          "organization": "IETF / Apple & Google",
+          "title": "Detecting Unwanted Location Trackers",
+          "url": "https://datatracker.ietf.org"
+        }
+      }
+    ]
+  }
+}

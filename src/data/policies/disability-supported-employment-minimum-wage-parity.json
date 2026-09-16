@@ -1,0 +1,216 @@
+{
+  "id": "disability-supported-employment-minimum-wage-parity",
+  "title": "就労継続支援A型・B型事業所工賃向上・最低賃金保障改革法",
+  "catchphrase": "月額1万円からの脱却、障害者就労B型工賃の倍増と最低賃金保障",
+  "category": "society",
+  "categoryLabel": "社会保障・共生",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年10月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "障害者が働く就労継続支援B型事業所の平均工賃（全国平均月額約1.7万円）を倍増させ、A型事業所における最低賃金遵守と経営自立を促す抜本改革法。",
+      "官公庁や大企業による「障害者就労施設への優先発注（障害者優先調達推進法）」の実効性を強化し、官民で高単価な仕事を発注する。",
+      "IT作業や農福連携、高付加価値商品開発への設備投資補助と、工賃向上を達成した事業所への報酬加算を大幅拡充する。"
+    ],
+    "simple": [
+      "障害のある人が福祉作業所で1カ月働いても、お給料（工賃）が平均1万7000円しかもらえない問題を解決する法律です。",
+      "国や役所、大企業が、作業所で作ったお弁当やパソコン作業を高い値段で優先して注文するように義務付けます。",
+      "障害があっても自分のお給料で好きなものを買ったり、自立した生活が送れるようにします。"
+    ]
+  },
+  "background": {
+    "standard": "全国で約40万人が利用する就労継続支援B型は、雇用契約を結ばないため最低賃金が適用されず、時給換算で200円前後の低工賃が長年放置されてきた。障害基礎年金（月約6.8万〜8.5万円）と合わせても自立生活が不可能なため、工賃倍増への法制化が求められた。",
+    "simple": "毎日まじめに作業所で働いているのに、お小遣い程度のお金しかもらえず自立できない人が多いため、国が本気でお給料を上げるルールを作りました。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "優先調達目標の義務化",
+      "before": "公的機関の努力義務（目標未達でも罰則なし）",
+      "after": "官公庁・自治体の物品・役務調達予算の一定割合（例: 2%以上）を就労施設へ発注義務化",
+      "highlight": "役所の優先発注を義務化",
+      "icon": "ShieldCheck"
+    },
+    {
+      "id": "c2",
+      "topic": "高付加価値化・IT設備補助",
+      "before": "軽作業（箱折り・シール貼り）が中心",
+      "after": "AIデータアノテーションや農福連携加工施設へのデジタル設備導入費を全額助成",
+      "highlight": "IT・農福連携への設備助成",
+      "icon": "TrendingUp"
+    },
+    {
+      "id": "c3",
+      "topic": "B型目標工賃の法制化",
+      "before": "努力目標のみで平均月1.7万円",
+      "after": "都道府県ごとに最低工賃目標（月額3万〜5万円以上）の設定と未達事業所への経営指導",
+      "highlight": "目標工賃3万〜5万円以上へ",
+      "icon": "Wallet"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "障害者の経済的自立と尊厳",
+        "summary": "工賃が月3万〜5万円に引き上がれば、年金と合わせてグループホームでの自立生活が可能になる",
+        "detail": "親亡き後のお金への不安が解消され、働く喜びと社会参加の実感が深まる",
+        "simpleDetail": "自分のお金でご飯を食べたり欲しいものが買えるようになり、自立できます",
+        "tag": "経済的自立"
+      },
+      {
+        "id": "b2",
+        "title": "福祉から産業への脱皮",
+        "summary": "下請け内職から、地域の農業やIT企業と組んだ高付加価値ビジネスへの転換が進む",
+        "detail": "地域社会における人手不足解消（農作業・清掃・データ入力）にも大いに貢献する",
+        "simpleDetail": "単なる作業ではなく、地域の会社から感謝される立派な仕事が増えます",
+        "tag": "地域貢献"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "重度障害者の居場所喪失リスク",
+        "summary": "工賃向上ばかりを求めると、作業効率の低い重度障害者が排除される恐れ",
+        "detail": "生産活動だけでなく、日中の居場所や生活訓練を目的とする利用者を包摂する複線的評価が必要",
+        "simpleDetail": "仕事がゆっくりな人や重い障害の人が、作業所から追い出されない配慮が必要です",
+        "tag": "排除防止"
+      },
+      {
+        "id": "c2",
+        "title": "A型事業所の安易な大量解雇防止",
+        "summary": "最低賃金を支払うA型で、報酬改定を理由とする利用者の雇い止め・閉鎖が起きないよう監査徹底が不可欠",
+        "detail": "生産活動収支で賃金を賄えない赤字事業所の健全な経営改善指導が必要",
+        "simpleDetail": "給料を払えない作業所が急に潰れて、働く場所がなくなるのを防ぐ必要があります",
+        "tag": "事業所健全化"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2013年4月",
+      "label": "国等による障害者就労施設等からの優先調達推進法施行",
+      "status": "completed",
+      "description": "官公庁発注の端緒。"
+    },
+    {
+      "date": "2024年4月",
+      "label": "報酬改定でB型工賃向上加算の見直し",
+      "status": "completed",
+      "description": "成果連動の強化。"
+    },
+    {
+      "date": "2025年11月",
+      "label": "障害者工賃向上・優先調達強化法案を国会提出",
+      "status": "current",
+      "description": "発注義務化へ。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "厚生労働省",
+      "title": "就労支援事業所の工賃・賃金実績",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/service/shurou.html"
+    },
+    {
+      "organization": "日本セルプセンター",
+      "title": "全国の障がい者就労事業所における工賃向上白書",
+      "url": "https://www.selp.or.jp"
+    }
+  ],
+  "badges": [
+    {
+      "label": "工賃倍増",
+      "variant": "positive"
+    },
+    {
+      "label": "障害者自立",
+      "variant": "positive"
+    },
+    {
+      "label": "官公庁優先発注",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "B型目標工賃",
+      "value": "月額3万〜5万円",
+      "description": "現在の月1.7万円から倍増を目指す公的調達枠組み",
+      "icon": "Wallet"
+    },
+    {
+      "label": "優先発注義務",
+      "value": "予算比率指定",
+      "description": "役所の清掃・印刷・お弁当発注を就労施設へ義務的配分",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "B型事業所で働く知的障害者の母",
+        "commentStandard": "「1カ月休まず働いて工賃が1万5千円。親がいなくなったらどうなるか不安だった。工賃引き上げは切実な願いです」",
+        "commentSimple": "「一生懸命働いたお給料が少しでも増えれば、将来親がいなくなっても安心できます」"
+      },
+      {
+        "speaker": "農福連携ソーシャルファーム代表",
+        "commentStandard": "「オリーブ栽培と六次産業化で月額工賃5万円を達成できた。国の設備助成があれば全国の作業所で実現できる」",
+        "commentSimple": "「美味しい特産品をみんなで作れば、ちゃんとした給料を払えるようになります」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "小規模作業所サービス管理責任者",
+        "commentStandard": "「体調に波がある利用者が多く、生産性を追い求めすぎると居場所としての温かさが失われてしまう」",
+        "commentSimple": "「仕事のスピードばかり求められると、通うのがつらくなってしまう利用者が心配です」"
+      }
+    ]
+  },
+  "international": {
+    "title": "障害者就労支援・工賃保障に関する主要国の制度比較",
+    "comparisonSummary": "フランスやドイツでは保護雇用（ESAT・Werkstatt）に国費補助が手厚く入り、最低賃金の一定割合が法的に保障。",
+    "countries": [
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "保護作業所（ESAT）における国家補填賃金制度",
+        "keyFeature": "利用者に法定最低賃金（SMIC）の約55〜110%の収入を法的に保障し、不足分を国庫から直接手当（Aide au poste）で支給。",
+        "source": {
+          "organization": "フランス労働省",
+          "title": "Travailleurs handicapés en ESAT",
+          "url": "https://travail-emploi.gouv.fr"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "障害者作業所（WfbM）基礎工賃・公的年金受給権",
+        "keyFeature": "20年間作業所で勤務した障害者に満額の障害年金受給資格を付与し、工賃とは別枠で老後の生活を国家完全保障。",
+        "source": {
+          "organization": "ドイツ連邦労働社会省",
+          "title": "Werkstätten für behinderte Menschen",
+          "url": "https://www.bmas.de"
+        }
+      },
+      {
+        "country": "英国",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "アクセス・トゥ・ワーク（Access to Work）制度",
+        "keyFeature": "保護作業所を原則廃止し、一般企業で働く障害者に対しジョブコーチ費用や機器改造費を年最大6万ポンド公費助成。",
+        "source": {
+          "organization": "英国DWP",
+          "title": "Access to Work factsheet",
+          "url": "https://www.gov.uk"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "id": "chronic-fatigue-long-covid-treatment-guideline-act",
+  "title": "筋痛性脳脊髄炎・Long COVID（コロナ後遺症）公的医療支援法",
+  "catchphrase": "見えない激痛と倦怠感に向き合う、コロナ後遺症・ME/CFSの公的支援",
+  "category": "medical",
+  "categoryLabel": "医療・福祉",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年6月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "新型コロナウイルス後遺症（Long COVID）や筋痛性脳脊髄炎／慢性疲労症候群（ME/CFS）による深刻な慢性倦怠感・ブレインフォグに苦しむ患者を支援する法律。",
+      "客観的な診断基準の標準化、全国の専門外来ネットワークの整備、病気休暇や障害年金認定基準の明確化を行う。",
+      "原因解明（免疫異常・微小血栓・神経炎症）に向けた国家バイオバンク研究予算を重点配分する。"
+    ],
+    "simple": [
+      "コロナにかかった後、何カ月も重い疲れや頭のモヤモヤ（ブレインフォグ）が続いて動けなくなった人を助ける法律です。",
+      "「気のせい」「サボり」と誤解されやすい病気ですが、国が正式な病気として診断基準を決め、専門外来を全国に作ります。",
+      "働けなくなった人が障害年金や手当をもらいやすくし、治療法を見つける研究を応援します。"
+    ]
+  },
+  "background": {
+    "standard": "コロナ感染者の数〜十数％で長期の後遺症が発生し、若年・現役世代の休職・退職が社会問題となっている。先行する難病ME/CFSと共通の病態が指摘されているが、一般的な血液検査で異常が出にくいため「怠惰」と誤解され孤立する患者が多発していた。",
+    "simple": "コロナの後遺症で起き上がれなくなる人がたくさんいるのに、普通の検査で異常が出ないため理解されず困っていたため、国が公的支援に乗り出しました。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "標準診療指針の法制化",
+      "before": "各医師の自己流対応、検査異常なしで精神科紹介",
+      "after": "労作後倦怠感（PEM）を重視した公的診療ガイドラインを策定",
+      "highlight": "公的診療ガイドライン策定",
+      "icon": "ShieldCheck"
+    },
+    {
+      "id": "c2",
+      "topic": "専門後遺症外来の設置",
+      "before": "一部の有志病院のみ",
+      "after": "各都道府県の感染症中核病院に「Long COVID・ME/CFS専門外来」を設置",
+      "highlight": "全都道府県に専門外来",
+      "icon": "CheckCircle2"
+    },
+    {
+      "id": "c3",
+      "topic": "傷病手当金・障害年金特例",
+      "before": "客観的数値なしとして申請却下多発",
+      "after": "PS（パフォーマンス・ステータス）値に基づく客観的認定基準を通知",
+      "highlight": "障害年金の認定緩和",
+      "icon": "Wallet"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "患者の社会的孤立と貧困の防止",
+        "summary": "診断書が取得できるようになり、休職補償や生活保護、障害年金につながる",
+        "detail": "職場や学校での「サボり」という偏見が解消され、尊厳ある療養環境が守られる",
+        "simpleDetail": "病気として認めてもらえるので、仕事を休む手当や生活費の支援が受けられます",
+        "tag": "生活保障"
+      },
+      {
+        "id": "b2",
+        "title": "根本治療薬の研究開発加速",
+        "summary": "国家予算による大規模コホート研究で、バイオマーカーや抗炎症治療法が発見される",
+        "detail": "Long COVIDだけでなく数十年未解明だったME/CFSの解明にもつながる",
+        "simpleDetail": "なぜ疲れが取れなくなるのか原因を科学的に突き止め、特効薬を作ります",
+        "tag": "先端研究"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "詐病や過剰申請の線引き",
+        "summary": "自覚症状が主体であるため、客観的バイオマーカーのない状態での不正受給懸念",
+        "detail": "神経学的検査や活動量計データを用いた厳密なスクリーニング手法が求められる",
+        "simpleDetail": "血液検査の数値に出にくいため、本当に病気かどうかの判定が難しい問題があります",
+        "tag": "審査難易度"
+      },
+      {
+        "id": "c2",
+        "title": "医療リソースの逼迫",
+        "summary": "患者数が非常に多いため、限られた専門医外来に予約が殺到しパンクするリスク",
+        "detail": "一般かかりつけ医向けのオンライン研修とプライマリケアでの初期対応マニュアルが必須",
+        "simpleDetail": "患者さんが多すぎて専門外来の予約が取れなくなる心配があります",
+        "tag": "医療負荷"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2021年10月",
+      "label": "WHOがLong COVID（Post COVID-19 condition）を正式定義",
+      "status": "completed",
+      "description": "国際的疾患認定。"
+    },
+    {
+      "date": "2023年3月",
+      "label": "厚労省罹患後症状のマネジメント手引き改訂",
+      "status": "completed",
+      "description": "かかりつけ医指針。"
+    },
+    {
+      "date": "2025年11月",
+      "label": "Long COVID等慢性症状医療支援法案を提出",
+      "status": "current",
+      "description": "年金認定と拠点整備。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "厚生労働省",
+      "title": "新型コロナウイルス感染症の罹患後症状に関する検討",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/dengue_fever_qa_00001.html"
+    },
+    {
+      "organization": "NPO法人ME/CFSの会",
+      "title": "慢性疲労症候群・後遺症患者実態調査",
+      "url": "https://mecfs-japan.com"
+    }
+  ],
+  "badges": [
+    {
+      "label": "コロナ後遺症",
+      "variant": "positive"
+    },
+    {
+      "label": "ブレインフォグ",
+      "variant": "warning"
+    },
+    {
+      "label": "障害年金",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "専門外来配備",
+      "value": "全47都道府県",
+      "description": "総合病院内に内科・神経内科・心療内科連携外来を整備",
+      "icon": "CheckCircle2"
+    },
+    {
+      "label": "障害年金認定",
+      "value": "PS基準の明確化",
+      "description": "日常生活能力の低下度合いに応じた年金給付要件を通知",
+      "icon": "Wallet"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "20代元システムエンジニア",
+        "commentStandard": "「頭に霧がかかり歩くこともできず仕事をクビになった。病気として国が認めてくれたことで救われた」",
+        "commentSimple": "「体が重くて起き上がれず仕事を辞めるしかありませんでした。支援のおかげで生きていけます」"
+      },
+      {
+        "speaker": "コロナ後遺症外来医師",
+        "commentStandard": "「無理に運動させると劇的に悪化する（クラッシュ）。正しい診療ガイドラインの普及が急務だった」",
+        "commentSimple": "「無理に体を動かすと余計に悪化する病気です。正しい知識を広めることが患者さんを救います」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "年金審査官",
+        "commentStandard": "「血液やMRIで異常が出ない症例で、どこまで障害等級を認めるかの医学的判断が非常に難しい」",
+        "commentSimple": "「数値で測りにくい病気なので、公平に審査するための基準作りがとても難しいです」"
+      }
+    ]
+  },
+  "international": {
+    "title": "Long COVID・慢性疲労症候群に関する主要国の制度比較",
+    "comparisonSummary": "欧米では数十億ドルの国家研究予算（RECOVER計画等）が投じられ、障害認定も進む。",
+    "countries": [
+      {
+        "country": "米国",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "NIH「RECOVER（研究回復計画）」およびADA障害認定",
+        "keyFeature": "11億ドル超の研究費を投じ、Long COVIDを「障害を持つアメリカ人法（ADA）」の法的主体として認定。",
+        "source": {
+          "organization": "米国HHS",
+          "title": "Long COVID as a Disability",
+          "url": "https://www.hhs.gov"
+        }
+      },
+      {
+        "country": "英国",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "NHS Long COVID専門クリニック網（100カ所以上）",
+        "keyFeature": "全国に100カ所以上の専用クリニックを設置し、リハビリテーションと心理支援を無償提供。",
+        "source": {
+          "organization": "英国NHS",
+          "title": "Long COVID services",
+          "url": "https://www.england.nhs.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "連邦保健省Long COVIDイニシアチブ",
+        "keyFeature": "医療保険基金と連携した専門外来設置と、労災保険における業務起因性認定を柔軟化。",
+        "source": {
+          "organization": "ドイツBMG",
+          "title": "Long COVID Initiative",
+          "url": "https://www.bundesgesundheitsministerium.de"
+        }
+      }
+    ]
+  }
+}

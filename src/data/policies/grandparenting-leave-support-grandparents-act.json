@@ -1,0 +1,216 @@
+{
+  "id": "grandparenting-leave-support-grandparents-act",
+  "title": "孫育て休業（祖父母育児休業）導入支援法（企業助成金と社会保険料免除）",
+  "catchphrase": "シニア世代が無理なく子育てを応援、孫育て有給休業の導入企業支援",
+  "category": "society",
+  "categoryLabel": "社会保障・共生",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年10月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "娘や息子の共働き・ワンオペ育児を支援するため、働く祖父母（シニア従業員）が孫の誕生や病気の際に取得できる「孫育て休業（祖父母育休・看護休暇）」の導入企業を国が助成する法律。",
+      "孫育て休業制度を就業規則に明記し有給取得させた中小企業に対し、雇用調整・両立支援助成金を給付する。",
+      "シニア世代の就労意欲を損なわずに世代間育児協力を促し、親世代の育児負担・産後うつを緩和する。"
+    ],
+    "simple": [
+      "娘や息子に赤ちゃんが生まれたときに、おじいちゃんやおばあちゃんが仕事を休んで手伝いに行ける「孫育て休暇」を応援する法律です。",
+      "孫のお世話で休みを取りやすくした会社に国が助成金を出し、シニア世代の給料が減らないようにします。",
+      "若い共働き夫婦のワンオペ育児の負担を減らし、家族みんなで子育てを支え合えるようにします。"
+    ]
+  },
+  "background": {
+    "standard": "定年延長や継続雇用により60代・70代の就労率が急上昇した結果、「共働きの子育てを親に手伝ってもらいたいが、祖父母も現役で働いていて頼れない」という育児孤立問題が発生している。一部の大手企業や自治体で「孫育て休暇」が導入され始めたため、全国的な普及支援が進められた。",
+    "simple": "昔と違っておじいちゃんもおばあちゃんも働いている時代になり、娘の出産を手伝うために仕事を辞めてしまう人もいたため、休んでも首にならない休暇を作ります。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "孫育て休業助成金の新設",
+      "before": "祖父母の育児支援に対する公的助成なし",
+      "after": "有給の孫育て休業（通算最大2週間〜1カ月）を導入した中小企業に最大60万円助成",
+      "highlight": "導入企業へ最大60万円助成",
+      "icon": "Wallet"
+    },
+    {
+      "id": "c2",
+      "topic": "孫の看護休暇の対象拡大",
+      "before": "育児介護休業法上の「子の看護休暇」は親のみ",
+      "after": "同居・近居の孫が発熱した際の看護休暇取得を法的に奨励指針化",
+      "highlight": "孫の急な発熱でも休める",
+      "icon": "CheckCircle2"
+    },
+    {
+      "id": "c3",
+      "topic": "社会保険料の免除特例検討",
+      "before": "育休保険料免除は親本人のみ",
+      "after": "一定期間の孫育て休業期間中におけるシニア本人の社会保険料免除枠の設計",
+      "highlight": "休業中の保険料負担を軽減",
+      "icon": "TrendingUp"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "産後うつとワンオペ育児の防止",
+        "summary": "産褥期の最も過酷な時期に実親・義親の手助けを受けられ、母親の孤立や児童虐待を防げる",
+        "detail": "核家族化による育児プレッシャーが緩和され、もう1人子どもを産もうという意欲につながる",
+        "simpleDetail": "産後の一番大変な時に実家から手伝いに来てもらえるので、お母さんが倒れずに済みます",
+        "tag": "少子化対策"
+      },
+      {
+        "id": "b2",
+        "title": "シニアの就労継続と家族の絆",
+        "summary": "孫の世話のために退職（孫育て退職）してしまうベテラン従業員の離職を防げる",
+        "detail": "仕事と孫育てを両立できる魅力的な職場としてシニア人材の採用力が高まる",
+        "simpleDetail": "孫のお世話のために会社を辞めなくて済むので、仕事を長く続けられます",
+        "tag": "シニア活躍"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "親世代への育児押し付け・ジェンダー偏見",
+        "summary": "「子育ては祖父母に頼めばいい」として、公的保育サービスや父親の育休取得が後退する懸念",
+        "detail": "祖父母への過度な負担（孫ブルー）や体力的限界を配慮した取得限度が必要",
+        "simpleDetail": "おじいちゃん・おばあちゃんに子育てを押し付けすぎて疲れさせてしまう心配があります",
+        "tag": "世代間バランス"
+      },
+      {
+        "id": "c2",
+        "title": "中小企業の人手不足への影響",
+        "summary": "現場の中核であるシニア熟練社員が長期離脱することによる業務停滞リスク",
+        "detail": "代替要員確保への加算助成金や短時間勤務制度の併用が不可欠",
+        "simpleDetail": "ベテラン社員が急に休むと、会社の仕事が回らなくなる心配があります",
+        "tag": "企業負担"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2016年4月",
+      "label": "一部自治体（福島県等）で職員の孫育て休暇導入",
+      "status": "completed",
+      "description": "公務員先行の動き。"
+    },
+    {
+      "date": "2024年3月",
+      "label": "大手生保・金融機関で孫育て有給休暇の新設相次ぐ",
+      "status": "completed",
+      "description": "民間企業での拡大。"
+    },
+    {
+      "date": "2025年11月",
+      "label": "育児介護休業法関連・孫育て支援新法案を提出",
+      "status": "current",
+      "description": "中小企業助成の創設。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "こども家庭庁",
+      "title": "地域における多世代交流・祖父母世代の育児参画支援",
+      "url": "https://www.cfa.go.jp/policies/childcare-support"
+    },
+    {
+      "organization": "厚生労働省",
+      "title": "両立支援等助成金の支給要件見直し検討",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/ryouritsu01/index.html"
+    }
+  ],
+  "badges": [
+    {
+      "label": "孫育て休暇",
+      "variant": "positive"
+    },
+    {
+      "label": "シニア活躍",
+      "variant": "positive"
+    },
+    {
+      "label": "ワンオペ解消",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "企業助成金",
+      "value": "最大60万円",
+      "description": "孫育て休業を有給で就業規則に定めた中小企業へ給付",
+      "icon": "Wallet"
+    },
+    {
+      "label": "孫育て退職防止",
+      "value": "最長1カ月休業",
+      "description": "産後のサポート期間に合わせて有給分割取得を可能に",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "共働きで双子を出産した母親",
+        "commentStandard": "「実母が会社を2週間休んで泊まり込みで助けてくれたおかげで生き延びられた。有給で休める制度は全国に広がるべきだ」",
+        "commentSimple": "「双子を出産した時、実家のお母さんが会社を休んで助けに来てくれて本当に救われました」"
+      },
+      {
+        "speaker": "孫育て休暇を取得した60代男性社員",
+        "commentStandard": "「娘の里帰り出産をサポートできた。会社が気持ちよく送り出してくれて、復帰後も会社への忠誠心が高まった」",
+        "commentSimple": "「孫の顔を見ながら娘を手伝えました。会社が嫌な顔をせず休ませてくれて感謝しています」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "中小製造業工場長",
+        "commentStandard": "「熟練の60代職人が1カ月休まれると製造ラインが止まる。父親本人の育児休業をまず徹底させるのが筋ではないか」",
+        "commentSimple": "「現場のベテランに長く休まれると仕事が回りません。まず父親がしっかり育休を取るべきです」"
+      }
+    ]
+  },
+  "international": {
+    "title": "祖父母の育児休業に関する主要国の制度比較",
+    "comparisonSummary": "北欧やオーストラリアでは、親の育児休業給付を祖父母へ一定日数「譲渡」できる制度が導入されている。",
+    "countries": [
+      {
+        "country": "スウェーデン",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "systemName": "育児休業日数の祖父母譲渡法（2024年7月施行）",
+        "keyFeature": "親に与えられる育児休業給付日数のうち最大45日（ひとり親は90日）を祖父母に譲渡し、祖父母が有給休業を取得可能。",
+        "source": {
+          "organization": "スウェーデン社会保険庁",
+          "title": "Föräldrapenning överlåtelse",
+          "url": "https://www.forsakringskassan.se"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "祖父母育児手当（Grandparent Child Care Benefit）",
+        "keyFeature": "主な養育者となっている祖父母に対し、保育料を完全全額公費免除し週最大100時間の保育補助を提供。",
+        "source": {
+          "organization": "豪州Services Australia",
+          "title": "Grandparent Child Care Benefit",
+          "url": "https://www.servicesaustralia.gov.au"
+        }
+      },
+      {
+        "country": "英国",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "国民保険（NI）クレジットの祖父母譲渡制度",
+        "keyFeature": "12歳未満の孫の世話をする働く祖父母に対し、年金受給資格を維持するための国保クレジットを付与。",
+        "source": {
+          "organization": "英国HMRC",
+          "title": "Specified Adult Childcare credits",
+          "url": "https://www.gov.uk"
+        }
+      }
+    ]
+  }
+}

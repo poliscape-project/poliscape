@@ -1,0 +1,211 @@
+{
+  "id": "workplace-air-conditioning-warehouse-logistics-act",
+  "title": "物流倉庫・工場・建設現場の冷房設備設置・熱中症指数（WBGT）強制基準法",
+  "catchphrase": "猛暑の現場で命を守る、物流倉庫・工場への大型空調義務化と作業中断基準の法定化",
+  "category": "labor",
+  "categoryLabel": "働き方・健康",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年4月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "近年の記録的猛暑下で働く物流倉庫、製造工場、屋外建設現場の作業員を熱中症死傷事故から守るため、労働安全衛生法に基づく空調設備配備と作業中断基準を厳格化する法律。",
+      "延床面積1,000㎡以上の物流倉庫および密閉型工場に対し、スポットクーラーや大型シーリングファン、全館空調の設置を義務付ける。",
+      "暑さ指数（WBGT）が31度（危険）を超えた場合、1時間あたり15分以上の有給休息およびスポーツドリンク・経口補水液の無償提供を義務付け、違反企業には労働基準監督署が作業停止命令を発令できる。"
+    ],
+    "simple": [
+      "夏の猛烈な暑さの中で働く倉庫や工場、工事現場の人たちが熱中症で倒れないよう、クーラーの設置を義務付ける法律です。",
+      "危険な暑さ（WBGT31度以上）になったら、1時間に15分は必ず涼しい部屋で休ませ、冷たいスポーツドリンクを無料で配ることを義務にします。",
+      "ルールを守らず無理やり働かせた会社には、お役所が工事や作業をストップさせる厳しい命令を出します。"
+    ]
+  },
+  "background": {
+    "standard": "EC市場急拡大に伴い物流倉庫の稼働が激増したが、多くの大型倉庫や鉄骨工場では「空調電気代が高すぎる」「天井が高すぎて冷えない」という理由で冷房が配備されず、夏場の室温が40度を超える「灼熱地獄」で作業員が熱中症死する事例が多発していた。努力義務にとどまっていた基準を罰則付きの強制規定へと格上げすることが急務となった。",
+    "simple": "ネット通販が増えたことで倉庫で荷物を仕分ける人が増えましたが、エアコンのない倉庫は夏に40度以上になり、倒れて亡くなる人が出ていました。努力目標ではなく、絶対にエアコンを置く法律にします。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "大型倉庫・工場への空調設置義務化",
+      "before": "事業者努力義務（倉庫の多くが冷房未設置）",
+      "after": "1,000㎡以上の倉庫・工場への大型空調・スポットクーラー配備の法定義務化",
+      "highlight": "大型倉庫・工場への冷房配備義務化",
+      "icon": "ShieldCheck"
+    },
+    {
+      "id": "c2",
+      "topic": "WBGT基準に基づく強制休息ルール",
+      "before": "現場管理者の裁量（休ませると作業遅延と叱責）",
+      "after": "WBGT31度以上で15分/時、33度以上で作業一時中止の法的強制",
+      "highlight": "危険な暑さでの強制休息義務",
+      "icon": "AlertTriangle"
+    },
+    {
+      "id": "c3",
+      "topic": "遮熱改修・空調導入への公費補助",
+      "before": "巨額の空調電気代・設備費が中小企業の重荷",
+      "after": "屋根遮熱塗装および高効率空調導入費用を省エネ補助金で2分の1助成",
+      "highlight": "空調設備費用の半額を国が助成",
+      "icon": "Wallet"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "職場の熱中症死亡・重症化事故の激減",
+        "summary": "作業環境の室温が確実に管理され、物流・建設現場での痛ましい労災死亡事故を撲滅できる",
+        "detail": "救急搬送の減少により夏季の地域救急医療逼迫を緩和することにも大きく貢献する",
+        "simpleDetail": "暑さで倒れて救急車で運ばれたり命を落としたりする事故を確実になくせます",
+        "tag": "命を守る"
+      },
+      {
+        "id": "b2",
+        "title": "物流現場の人手不足解消と定着率改善",
+        "summary": "「夏は地獄の暑さ」と敬遠されていた倉庫作業や建設作業の労働環境が改善し、若手や女性の就労が進む",
+        "detail": "過酷な職場環境を是正することで、物流の2024年問題への前向きな解決策となる",
+        "simpleDetail": "涼しく働きやすい環境になるので、倉庫や工事の仕事に応募する人が増えます",
+        "tag": "労働環境改善"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "倉庫オーナーとテナント企業の費用負担問題",
+        "summary": "賃貸倉庫の場合、設備投資を行うオーナー側と冷房の恩恵を受ける荷主・物流業者の間で費用負担の対立",
+        "detail": "標準賃貸借契約書の改定ガイドライン整備とオーナー向け税制優遇がセットで必要",
+        "simpleDetail": "建物の持ち主と荷物を置いている会社のどちらがエアコン代を払うかで揉めない工夫が必要です",
+        "tag": "費用分担"
+      },
+      {
+        "id": "c2",
+        "title": "配送遅延や工期延長への社会的理解",
+        "summary": "WBGT超過による作業中断で、荷物の即日配達遅延や建物の工期遅延が発生する影響",
+        "detail": "発注者や消費者が「命優先の遅延」を容認する商慣行の改革（気象遅延条項の標準化）が不可欠",
+        "simpleDetail": "暑さで作業を休んだときに、荷物の配達が少し遅れることをみんなで許し合う空気が必要です",
+        "tag": "商慣行改革"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023年8月",
+      "label": "猛暑による職場熱中症死傷者が過去最多水準（年間1,000人超）",
+      "status": "completed",
+      "description": "厚労省が緊急要請を発出。"
+    },
+    {
+      "date": "2024年4月",
+      "label": "気候変動適応法改正（熱中症特別警戒アラート新設）",
+      "status": "completed",
+      "description": "自治体避難シェルター指定開始。"
+    },
+    {
+      "date": "2026年4月",
+      "label": "職場熱中症指数強制基準法の施行予定",
+      "status": "current",
+      "description": "空調設置と作業停止命令の運用開始。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "厚生労働省",
+      "title": "職場における熱中症予防基本対策要綱の改正",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/anzen/anzeneisei02.html"
+    },
+    {
+      "organization": "環境省",
+      "title": "熱中症予防情報サイト（暑さ指数WBGT基準値）",
+      "url": "https://www.wbgt.env.go.jp"
+    }
+  ],
+  "badges": [
+    {
+      "label": "労働安全",
+      "variant": "positive"
+    },
+    {
+      "label": "熱中症予防",
+      "variant": "positive"
+    },
+    {
+      "label": "物流現場",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "義務化対象",
+      "value": "1,000㎡以上の倉庫・工場",
+      "description": "大型物流施設への大型空調・ファンの設置を完全義務化",
+      "icon": "ShieldCheck"
+    },
+    {
+      "label": "強制休息",
+      "value": "WBGT31度以上で15分/時",
+      "description": "基準超過時の有給休息と水分補給を義務付け",
+      "icon": "AlertTriangle"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "大手EC物流倉庫ピッキング作業員（30代男性）",
+        "commentStandard": "「夏場は4階のフロアがサウナ状態で毎日頭痛がしていた。空調ファンが義務化され定期休憩が取れるなら本当に生き返る」",
+        "commentSimple": "「夏は暑すぎて倒れそうになりながら働いていたので、クーラーがついて休めるのは命の恩人です」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "中堅物流倉庫経営者",
+        "commentStandard": "「吹き抜けの巨大倉庫に全館空調を入れると電気代だけで月数百万円跳ね上がる。荷主に運賃転嫁できなければ倒産する」",
+        "commentSimple": "「倉庫全体の電気代が何倍にもなってしまうので、荷主企業にも運賃アップを認めてもらわないと困ります」"
+      }
+    ]
+  },
+  "international": {
+    "title": "職場の猛暑・熱中症防止基準の国際比較",
+    "comparisonSummary": "米国・欧州では職場の上限温度規定や「暑熱安全基準（Heat Standard）」が法制化。",
+    "countries": [
+      {
+        "country": "米国",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦労働安全衛生局（OSHA）暑熱安全基準規則",
+        "keyFeature": "体感温度（Heat Index）80°F（約27℃）以上で日陰・飲用水の提供義務、90°F（約32℃）以上で15分休憩を義務化。",
+        "source": {
+          "organization": "米国OSHA",
+          "title": "Heat Injury and Illness Prevention in Outdoor and Indoor Work Settings",
+          "url": "https://www.osha.gov/heat"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "職場規則（Arbeitsstättenregel ASR A3.5「室温」）",
+        "keyFeature": "室温26℃超で換気・遮光措置、30℃超で冷たい飲料提供と作業軽減、35℃超で執務不能（作業中止）を法定義務化。",
+        "source": {
+          "organization": "ドイツ連邦労働安全衛生研究所(BAuA)",
+          "title": "ASR A3.5 Raumtemperatur",
+          "url": "https://www.baua.de"
+        }
+      },
+      {
+        "country": "スペイン",
+        "countryCode": "ES",
+        "flag": "🇪🇸",
+        "systemName": "猛暑警報時の屋外労働禁止政令（Real Decreto-ley 4/2023）",
+        "keyFeature": "気象庁が赤またはオレンジ警報を発令した際、屋外および非空調現場での労働を法的に禁止。",
+        "source": {
+          "organization": "スペイン労働省",
+          "title": "Protección laboral frente a temperaturas extremas",
+          "url": "https://www.mites.gob.es"
+        }
+      }
+    ]
+  }
+}

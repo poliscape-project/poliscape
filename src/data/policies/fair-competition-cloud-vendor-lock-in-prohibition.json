@@ -1,0 +1,211 @@
+{
+  "id": "fair-competition-cloud-vendor-lock-in-prohibition",
+  "title": "クラウドサービス事業者間データポータビリティ・ベンダーロックイン禁止法",
+  "catchphrase": "クラウド乗り換えの高額手数料を撤廃、データポータビリティの保障と公正なデジタル競争の促進",
+  "category": "economy",
+  "categoryLabel": "経済・消費",
+  "lastUpdated": "2026-01-18",
+  "effectiveDate": "2026年4月施行予定",
+  "status": "ongoing",
+  "statusLabel": "審議中",
+  "summary": {
+    "standard": [
+      "巨大クラウド事業者（AWS、Microsoft Azure、Google Cloud等）による顧客企業の囲い込み（ベンダーロックイン）を是正し、健全なマルチクラウド競争を実現する法律。",
+      "他社クラウドや自社オンプレミスサーバーへ移行する際に課される法外な「データ転出手数料（Egress Fee：イグレスフィー）」の原則無料化を法定義務付ける。",
+      "事業者間の相互運用性（インターオペラビリティ）基準を定め、APIの非公開や契約による不当な排他条件、ライセンス体系での競合差別（競合クラウド上での自社ソフト割高課金等）を独禁法上の優越的地位濫用として禁止する。"
+    ],
+    "simple": [
+      "会社のデータを別のクラウド（Amazonやマイクロソフト、Googleなど）へ引っ越すときに、高すぎる手数料を取られて身動きが取れなくなるのを防ぐ法律です。",
+      "データを別のサービスへ移すための引越し料金（データ転出料）を「タダ（無料）」にするよう義務付けます。",
+      "自社のソフトを他の会社のクラウドで使わせないようにしたり、不当に高いお金を取るズルい囲い込みを禁止します。"
+    ]
+  },
+  "background": {
+    "standard": "現代の企業活動や行政システムはクラウドサービスに全面的に依存しているが、一度データを預けると他社への乗り換え時に数百万円〜数千万円のデータ転出手数料（イグレス料金）が発生し、実質的に移行が不可能になる「デジタルの壁」が存在した。欧州データ法（Data Act）や英CMAの調査を受け、日本でも不公正な囲い込みを打破する法制化が必要となった。",
+    "simple": "スマホの乗り換え（MNP）が自由になったように、会社のクラウドサービスも自由に乗り換えられるべきですが、データを引き出すときに巨額の手数料を取られるせいで乗り換えられない問題が起きていました。"
+  },
+  "changes": [
+    {
+      "id": "c1",
+      "topic": "データ転出手数料（Egress Fee）の完全撤廃",
+      "before": "他社へ移行する際にテラバイトあたり高額な転出料を徴収",
+      "after": "他社クラウドや自社サーバーへの乗り換えに伴うデータ転送を無料化",
+      "highlight": "データ転出手数料の完全無料化",
+      "icon": "TrendingDown"
+    },
+    {
+      "id": "c2",
+      "topic": "ソフトウェアライセンス差別の禁止",
+      "before": "自社クラウドで使うと安く、他社クラウドで使うと数倍のライセンス料を課す手法",
+      "after": "稼働させるインフラの別による不当なソフトウェア価格差別を違法化",
+      "highlight": "他社クラウドでのライセンス価格差別禁止",
+      "icon": "CheckCircle2"
+    },
+    {
+      "id": "c3",
+      "topic": "公正取引委員会によるクラウド専門監視ユニット",
+      "before": "クラウド特有の複雑な料金体系・契約慣行の監査が困難",
+      "after": "公取委内に「デジタル・クラウド市場監視室」を設置し違法拘束に課徴金命令",
+      "highlight": "クラウド市場専門の監視・是正命令体制",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "企業のITコスト削減と最適なマルチクラウド構成",
+        "summary": "手数料を恐れず性能や価格に応じて最適なクラウドを自由に組み合わせ（マルチクラウド）できるようになる",
+        "detail": "1社の値上げや方針転換に縛られず、国内企業が主導権を持ってITインフラを調達できる",
+        "simpleDetail": "一番安くて使いやすいサービスを自由に選んで引っ越せるようになり、IT費用を安くできます",
+        "tag": "コスト削減"
+      },
+      {
+        "id": "b2",
+        "title": "国内クラウド・スタートアップ企業の参入機会拡大",
+        "summary": "巨大ハイパースケーラーによる市場独占が緩和され、国産クラウドや特定機能に優れた新興ベンチャーが台頭できる",
+        "detail": "多様なクラウド選択肢が生まれることで、日本のデジタル産業エコシステム全体の健全性が高まる",
+        "simpleDetail": "巨大IT企業だけでなく、日本のベンチャー企業が作った便利なサービスも選ばれやすくなります",
+        "tag": "公正な競争"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "通信インフラの実費負担とクラウド利用料への転嫁",
+        "summary": "データ転出にかかる国際海底ケーブルや回線の実費をハイパースケーラーが基本利用料に値上げ転嫁する懸念",
+        "detail": "基本料金の急激な値上げを監視する透明性開示義務と便乗値上げの監視が必要",
+        "simpleDetail": "転出手数料がタダになった分、普段の月額料金が値上げされないよう見張る必要があります",
+        "tag": "料金転嫁"
+      },
+      {
+        "id": "c2",
+        "title": "乗り換え時のデータセキュリティと整合性保証",
+        "summary": "大容量データのクラウド間移動時に暗号化鍵の管理不備やデータ欠損が発生する技術的リスク",
+        "detail": "安全な移行手順を定めた技術ガイドラインとセキュアな転送プロトコルの標準化が不可欠",
+        "simpleDetail": "データを引っ越す途中で大事な情報が漏れたり消えたりしないよう、安全なルールが必要です",
+        "tag": "データ保全"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2022年6月",
+      "label": "公正取引委員会が「クラウドサービス分野に関する取引実態調査」を公表",
+      "status": "completed",
+      "description": "スイッチング阻害要因を指摘。"
+    },
+    {
+      "date": "2023年11月",
+      "label": "EUデータ法（Data Act）成立（スイッチング手数料の段階的廃止）",
+      "status": "completed",
+      "description": "欧州で先行法制化。"
+    },
+    {
+      "date": "2026年4月",
+      "label": "クラウドベンダーロックイン禁止法の施行予定",
+      "status": "current",
+      "description": "データ転出手数料の原則無料化施行。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "公正取引委員会",
+      "title": "クラウドサービス分野に関する取引実態調査報告書",
+      "url": "https://www.jftc.go.jp/houdou/pressrelease/2022/jun/220628_cloud.html"
+    },
+    {
+      "organization": "総務省",
+      "title": "デジタル・プラットフォームの透明性及び公正性に関する取組",
+      "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/d_syoushi/digital_platform.html"
+    }
+  ],
+  "badges": [
+    {
+      "label": "クラウド競争",
+      "variant": "positive"
+    },
+    {
+      "label": "独占禁止法",
+      "variant": "positive"
+    },
+    {
+      "label": "デジタル市場",
+      "variant": "neutral"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "転出手数料",
+      "value": "原則0円（無料化）",
+      "description": "他社クラウドや自社サーバーへのデータ移行手数料を禁止",
+      "icon": "TrendingDown"
+    },
+    {
+      "label": "ライセンス",
+      "value": "価格差別禁止",
+      "description": "競合インフラでの自社ソフトウェア利用時の割高請求を違法化",
+      "icon": "CheckCircle2"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "大手ゲーム開発会社CTO",
+        "commentStandard": "「他社クラウドへの移行を検討したが、ペタバイト級のデータ転出料だけで数千万円かかると言われ断念した。手数料撤廃は真の自由をもたらす」",
+        "commentSimple": "「データを動かすだけで何千万円も請求されて縛られていたので、無料になればいつでも乗り換えられます」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "外資系クラウドベンダー日本法人法務部長",
+        "commentStandard": "「ネットワークの帯域消費には物理的なコストがかかる。一律無料化ではなく、合理的な実費水準を許容する柔軟な解釈を望む」",
+        "commentSimple": "「回線を使うための実際のお金はかかっているので、完全無料ではなく適正な実費ルールにしてほしいです」"
+      }
+    ]
+  },
+  "international": {
+    "title": "クラウド市場のスイッチングおよびデータ転出手数料規制の国際比較",
+    "comparisonSummary": "EUデータ法および英CMA市場調査により、世界中でイグレスフィー廃止の流れが加速。",
+    "countries": [
+      {
+        "country": "EU",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EUデータ法（Data Act: Regulation (EU) 2023/2854）",
+        "keyFeature": "クラウド間スイッチングにかかる手数料（データ転送料含む）を3年の移行期間を経て2027年までに完全撤廃を義務付け。",
+        "source": {
+          "organization": "欧州委員会",
+          "title": "European Data Act enters into force",
+          "url": "https://ec.europa.eu"
+        }
+      },
+      {
+        "country": "英国",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "systemName": "競争市場庁（CMA）クラウドサービス市場調査",
+        "keyFeature": "AWSおよびAzureの市場寡占、Egress Fee、コミットメント割引によるロックインに対し市場調査を実施し是正命令。",
+        "source": {
+          "organization": "英国CMA",
+          "title": "Cloud services market investigation",
+          "url": "https://www.gov.uk/cma-cases/cloud-services-market-investigation"
+        }
+      },
+      {
+        "country": "米国",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "連邦取引委員会（FTC）クラウドプロバイダー慣行調査",
+        "keyFeature": "大手ハイパースケーラーのイグレスフィーや排他的ライセンス条項が反競争的行為に該当するか包括調査を実施。",
+        "source": {
+          "organization": "米国FTC",
+          "title": "FTC Seeks Information on Business Practices of Cloud Providers",
+          "url": "https://www.ftc.gov"
+        }
+      }
+    ]
+  }
+}
