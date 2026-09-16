@@ -1,0 +1,243 @@
+{
+  "id": "pneumococcal-vaccine-elderly-routine-parity-subsidy",
+  "title": "高齢者肺炎球菌ワクチン定期接種の公費助成拡大・自己負担軽減",
+  "category": "healthcare",
+  "categoryLabel": "医療・福祉",
+  "catchphrase": "シニアの命を肺炎から守る！65歳以上肺炎球菌ワクチンの公費助成拡大と高リスク者への接種促進",
+  "lastUpdated": "2026-03-28",
+  "status": "enacted",
+  "statusLabel": "定期接種制度運用中",
+  "summary": {
+    "simple": [
+      "高齢者の命に関わる重い肺炎（肺炎球菌）を予防するワクチンを、65歳になった人が数千円〜無料で受けられるように市町村がお金を補助する制度です。",
+      "わかりやすい支援を進めます。"
+    ],
+    "standard": [
+      "日本人の死因上位である肺炎（特に肺炎球菌性肺炎）による高齢者の重症化・死亡を防ぐため、予防接種法に基づく定期接種として65歳到達者を対象に公費助成（自治体補助により自己負担2,000〜4,000円程度、非課税世帯は無料）を実施し、より予防効果の高い結合型ワクチン（PCV）の導入を推進する施策。",
+      "シニアの命を肺炎から守る！65歳以上肺炎球菌ワクチンの公費助成拡大と高リスク者への接種促進"
+    ]
+  },
+  "background": {
+    "simple": "肺炎で亡くなる人のほとんどは高齢者ですが、ワクチンを1回打っておけば重症化を防ぐことができます。しかし全額自己負担だと1万円近くするため、公費で安く受けられるようにしています。",
+    "standard": "誤嚥性肺炎を含む肺炎は高齢者の主要な入院・死亡原因であり、肺炎球菌はその最大の起炎菌である。2014年から65歳以上の5歳刻み経過措置が実施されてきたが、2024年度から「65歳到達者および基礎疾患を有する60〜64歳」に恒久化された。さらに最新の高価な結合型ワクチンへの公費適用拡大が議論されている。"
+  },
+  "changes": [
+    {
+      "id": "change-1",
+      "topic": "65歳到達者への定期接種恒久化",
+      "before": "従来の制度・運用（5歳刻みの経過措置で受傷時期を逃すと自費化）",
+      "after": "65歳を迎える全高齢者に対する定期接種制度の恒久化と個別案内通知送付",
+      "highlight": "65歳到達時定期接種の恒久化",
+      "icon": "ShieldCheck"
+    },
+    {
+      "id": "change-2",
+      "topic": "自治体助成による自己負担軽減",
+      "before": "従来の制度・運用（自費接種の場合約8,000円〜1万円前後）",
+      "after": "自治体公費負担により窓口自己負担約2,000〜4,000円（非課税世帯無料）",
+      "highlight": "窓口負担の大幅軽減・低所得無料",
+      "icon": "Zap"
+    },
+    {
+      "id": "change-3",
+      "topic": "新型結合型ワクチン（PCV）の適用拡大",
+      "before": "従来の制度・運用（多糖体ワクチン23価のみが定期接種対象）",
+      "after": "免疫記憶が残り効果の持続性が高い結合型ワクチン（15価・20価）の推奨導入",
+      "highlight": "長期間効果が続く新型ワクチンの導入",
+      "icon": "Sparkles"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される主な効果・メリット（推進側の視点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "高齢者の肺炎死亡・重症化の劇的抑制",
+        "summary": "肺炎球菌による敗血症や細菌性肺炎の重症化を約半減させ、高齢者の命と健康寿命を直接防衛",
+        "detail": "肺炎球菌による敗血症や細菌性肺炎の重症化を約半減させ、高齢者の命と健康寿命を直接防衛",
+        "simpleDetail": "お年寄りが重い肺炎になって命を落としたり入院したりするのを防ぎます。",
+        "tag": "重症化予防"
+      },
+      {
+        "id": "b2",
+        "title": "入院医療費・介護負担の削減",
+        "summary": "1回の肺炎入院で数十万円〜百万円超かかる急性期医療費を抑え、入院後の寝たきり・要介護化を阻止",
+        "detail": "1回の肺炎入院で数十万円〜百万円超かかる急性期医療費を抑え、入院後の寝たきり・要介護化を阻止",
+        "simpleDetail": "入院して足腰が弱り、そのまま寝たきりになってしまう悪循環を断ち切ります。",
+        "tag": "寝たきり防止"
+      },
+      {
+        "id": "b3",
+        "title": "個別プッシュ通知による接種率向上",
+        "summary": "65歳の誕生月に自宅へ受診券と予診票が直接届くため、接種忘れを防止し確実な接種機会を提供",
+        "detail": "65歳の誕生月に自宅へ受診券と予診票が直接届くため、接種忘れを防止し確実な接種機会を提供",
+        "simpleDetail": "65才になったときに役所から無料券・割引券が届くので忘れずに打てます。",
+        "tag": "プッシュ案内"
+      }
+    ],
+    "challengesTitle": "検討されている課題・懸念点（慎重側の視点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "65歳時の1回限定による再接種の費用負担",
+        "summary": "従来の多糖体ワクチンは効果が約5年で低下するため、70歳以降の再接種が自費負担（約1万円）になる課題",
+        "detail": "65歳時の1回限定による再接種の費用負担",
+        "simpleDetail": "効果が5年くらいで薄れるため、70才を過ぎて打ち直すときにお金がかかる問題があります。",
+        "tag": "再接種費用"
+      },
+      {
+        "id": "c2",
+        "title": "高齢者のワクチン接種疲れと認知度不足",
+        "summary": "コロナワクチンやインフルエンザワクチンの頻回接種に伴う「接種控え」をどう解消するか",
+        "detail": "高齢者のワクチン接種疲れと認知度不足",
+        "simpleDetail": "インフルエンザやコロナなど注射が多すぎて「もう打ちたくない」と敬遠される心配があります。",
+        "tag": "接種率向上"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2014年",
+      "label": "定期接種化スタート",
+      "title": "予防接種法改正により高齢者肺炎球菌ワクチンが定期接種B類に位置づけ",
+      "status": "completed",
+      "description": "65歳から100歳まで5歳刻みの経過措置が10年間にわたり実施"
+    },
+    {
+      "date": "2024年",
+      "label": "65歳対象の恒久制度へ移行",
+      "title": "経過措置が終了し「65歳到達者」を原則対象とする新定期接種制度へ完全移行",
+      "status": "completed",
+      "description": "対象者への個別誕生月プッシュ通知による接種勧奨の全国統一化"
+    },
+    {
+      "date": "2026年",
+      "label": "結合型ワクチン（PCV）の定期導入",
+      "title": "長期間免疫が持続する次世代ワクチンの公費助成対象への追加改定",
+      "status": "current",
+      "description": "生涯にわたる再接種負担を軽減するハイブリッド接種戦略の展開"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "厚生労働省",
+      "title": "高齢者肺炎球菌ワクチン定期接種の概要とQ&A",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/haienkyukin/index.html"
+    },
+    {
+      "organization": "国立感染症研究所",
+      "title": "肺炎球菌感染症に関する疫学情報とワクチン効果",
+      "url": "https://www.niid.go.jp/niid/ja/diseases/alphabet/pneumococcal.html"
+    }
+  ],
+  "badges": [
+    {
+      "label": "肺炎球菌ワクチン",
+      "text": "肺炎球菌ワクチン",
+      "variant": "primary",
+      "color": "blue"
+    },
+    {
+      "label": "定期接種",
+      "text": "定期接種",
+      "variant": "default",
+      "color": "blue"
+    },
+    {
+      "label": "健康寿命延伸",
+      "text": "健康寿命延伸",
+      "variant": "outline",
+      "color": "blue"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "対象年齢",
+      "labelStandard": "定期接種の基本対象者",
+      "labelSimple": "対象になる年齢",
+      "value": "65歳到達者",
+      "unit": "（および心臓・腎臓等高リスク者）",
+      "oldValue": "5歳刻み経過措置",
+      "description": "65歳の誕生日に合わせて自治体から個別案内が届く",
+      "descriptionStandard": "65歳の誕生日に合わせて自治体から個別案内が届く",
+      "descriptionSimple": "65才になった年の誕生月に案内が届きます",
+      "badge": "恒久制度",
+      "badgeColor": "blue",
+      "icon": "Target"
+    },
+    {
+      "label": "自己負担額",
+      "labelStandard": "自治体公費補助後の窓口負担",
+      "labelSimple": "窓口で払うお金",
+      "value": "約2,000〜4,000円",
+      "unit": "（非課税世帯は無料）",
+      "oldValue": "自費約1万円",
+      "description": "多くの自治体で半額〜全額が公費負担され手軽に接種可能",
+      "descriptionStandard": "多くの自治体で半額〜全額が公費負担され手軽に接種可能",
+      "descriptionSimple": "自費だと1万円近くかかる注射が数千円または無料で受けられます",
+      "badge": "公費助成",
+      "badgeColor": "blue",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "65歳で接種した男性",
+        "commentStandard": "役所から届いた受診票を持ってかかりつけ医に行き、3,000円で打てました。風邪をこじらせて肺炎になるのが怖かったので安心できました。",
+        "commentSimple": "通知が届いたので近所のお医者さんで安く打てました。肺炎が怖かったので安心です。"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "呼吸器内科医",
+        "commentStandard": "65歳の時に打ち忘れた人が70歳になってから打とうとすると全額自費になってしまう。高齢者の接種機会をより柔軟にする制度改善が必要だ。",
+        "commentSimple": "65才の時に打ちそびれると自費になってしまうので、いつでも助成が受けられるようにしてほしいです。"
+      }
+    ]
+  },
+  "international": {
+    "summary": "海外主要国における高齢者肺炎球菌ワクチン政策",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "CDC予防接種諮問委員会（ACIP）推奨",
+        "keyFeature": "65歳以上の全高齢者に対し、結合型ワクチン（PCV20またはPCV15）をメディケア・パートBで100%完全無料接種。",
+        "comparison": "65歳以上の全高齢者に対し、結合型ワクチン（PCV20またはPCV15）をメディケア・パートBで100%完全無料接種。",
+        "source": {
+          "organization": "CDC",
+          "title": "Pneumococcal Vaccination: Information for Healthcare Professionals",
+          "url": "https://www.cdc.gov"
+        }
+      },
+      {
+        "country": "イギリス",
+        "countryCode": "UK",
+        "flag": "🇬🇧",
+        "systemName": "NHS高齢者肺炎球菌ワクチン国家プログラム",
+        "keyFeature": "65歳に達した全市民に対し、NHSから1回のみの無料ワクチン（PPV23）接種が原則一生有効として全額公費提供。",
+        "comparison": "65歳に達した全市民に対し、NHSから1回のみの無料ワクチン（PPV23）接種が原則一生有効として全額公費提供。",
+        "source": {
+          "organization": "NHS",
+          "title": "Pneumococcal vaccine overview",
+          "url": "https://www.nhs.uk"
+        }
+      },
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "STIKO（常設予防接種委員会）推奨定期接種",
+        "keyFeature": "60歳以上の全成人に対し、公的疾病金庫（GKV）が費用を全額負担して肺炎球菌ワクチン接種を保障。",
+        "comparison": "60歳以上の全成人に対し、公的疾病金庫（GKV）が費用を全額負担して肺炎球菌ワクチン接種を保障。",
+        "source": {
+          "organization": "ロベルト・コッホ研究所（RKI）",
+          "title": "STIKO-Empfehlungen zur Pneumokokken-Impfung",
+          "url": "https://www.rki.de"
+        }
+      }
+    ]
+  }
+}
