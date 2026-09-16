@@ -1,0 +1,212 @@
+{
+  "id": "per-and-polyfluoroalkyl-substances-pfas-drinking-water-standard",
+  "title": "水質汚濁防止法・水道法見直し（有機フッ素化合物・PFAS水道水水質管理基準強化）",
+  "catchphrase": "蛇口から出る水の安全を生涯守る。有害物質PFASの全国一斉水質検査と浄水活性炭設備の公費支援",
+  "category": "environment",
+  "categoryLabel": "環境・公害・健康",
+  "lastUpdated": "2024-04-10",
+  "effectiveDate": "法案審議・基準見直し推進中",
+  "status": "under-discussion",
+  "statusLabel": "議論中・審議中",
+  "summary": {
+    "standard": [
+      "発がん性や健康リスクが指摘される有機フッ素化合物（PFAS：PFOS・PFOA等）による水道水源や地下水の汚染に対応するため、現行の暫定目標値（50ng/L）を水道法上の法的な水質基準へと格上げし、全国の浄水場における定期水質検査の義務化と活性炭ろ過設備導入補助を進める政策です。",
+      "汚染源の特定調査や活性炭・逆浸透膜（RO膜）浄水装置の設置を進め、国民への安全な飲用水の供給を担保します。",
+      "全自治体の検査結果をオープンデータ化し、住民の健康リスクに対する透明な情報開示を義務付けます。"
+    ],
+    "simple": [
+      "水道水や井戸水の中に、体に悪い影響を与える可能性がある化学物質「PFAS（ピーファス）」が混ざっていないか厳しくチェックする法律です。",
+      "全国の水道局に詳しい水質検査を義務付け、汚れている水が見つかった場合は国がお金を出して特別なフィルター（活性炭など）を設置して綺麗にします。",
+      "赤ちゃんからお年寄りまで、誰でも安心して水道水を飲めるようにします。"
+    ]
+  },
+  "background": {
+    "standard": "PFASは撥水剤や泡消火剤、半導体製造等に長年使われてきましたが、「永遠の化学物質」と呼ばれ自然分解されにくく、米軍基地や化学工場周辺での高濃度検出が相次ぎ国民の不安が急増していました。",
+    "simple": "フライパンのコーティングや消火剤などに使われていた物質が地下水に溶け出し、長期間体に溜まる危険があるため世界中で規制が強まっています。"
+  },
+  "changes": [
+    {
+      "id": "change-pfas-water-standard",
+      "topic": "水道法上の正式な水質基準への格上げ",
+      "before": "法的な強制力のない「暫定目標値（50ng/L）」にとどまる",
+      "after": "水道法第4条に基づく義務的な「水質基準」へ格上げし法的罰則を付与",
+      "highlight": "PFASの水道法水質基準化と適合義務付け",
+      "icon": "HeartPulse"
+    },
+    {
+      "id": "change-filtration-subsidy",
+      "topic": "浄水場への活性炭・ろ過設備導入補助",
+      "before": "小規模自治体の水道局では高額なフィルター更新費用を負担不能",
+      "after": "国がPFAS吸着活性炭ろ過設備やRO膜装置の設置費用の最大3分の2を補助",
+      "highlight": "浄水場への高効率活性炭ろ過設備補助",
+      "icon": "ShieldCheck"
+    },
+    {
+      "id": "change-nationwide-disclosure",
+      "topic": "全国一斉水質調査とデータ公表義務化",
+      "before": "自治体によって検査の実施状況や数値公表方針にバラつき",
+      "after": "全浄水場のPFAS濃度データを年1回以上全国マップで統一公表",
+      "highlight": "全国全自治体のPFAS濃度の透明な情報公開",
+      "icon": "FileText"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "期待される効果（賛成側の主な論点）",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "次世代・胎児を含む生涯の飲用水安全と健康リスク排除",
+        "summary": "発がん性や免疫低下の懸念を根本から排除し国民の健康を守る",
+        "detail": "粉ミルクや毎日の料理に使う水道水の有害物質を極限まで低減し、原因不明の健康被害リスクを未然に防ぎます。",
+        "simpleDetail": "毎日の飲む水から有害な物質を取り除き、家族みんなが健康に暮らせるようになります。",
+        "tag": "健康被害防止"
+      },
+      {
+        "id": "b2",
+        "title": "最新の水質浄化技術産業（環境プラント）の育成",
+        "summary": "日本メーカーの高機能活性炭やRO膜の国際競争力強化",
+        "detail": "全国の浄水設備更新により国内の優れた水処理膜・吸着剤技術への需要が喚起され、グローバル市場への展開が加速します。",
+        "simpleDetail": "日本の優れた水浄化フィルターを作る会社の技術がさらに進化します。",
+        "tag": "技術育成"
+      }
+    ],
+    "challengesTitle": "指摘されている課題・懸念点（慎重側の主な論点）",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "活性炭フィルターの定期交換費用による水道料金の値上げ懸念",
+        "summary": "ランニングコスト増が過疎地や中小都市の水道経営を直撃",
+        "detail": "活性炭は数年ごとの交換が必要であり、国の初期補助が終わった後の維持管理費が水道代引き上げにつながる懸念があります。",
+        "simpleDetail": "フィルターを何度も取り替えるお金がかかるため、毎月の水道代が高くなる心配があります。",
+        "tag": "水道料金増"
+      },
+      {
+        "id": "c2",
+        "title": "過去の汚染原因者（基地や旧工場等）への責任追及の難しさ",
+        "summary": "数十年前の排出や土壌汚染の除去費用負担を巡る摩擦",
+        "detail": "日米地位協定の壁や過去の複数企業の排出履歴の特定が困難で、土壌浄化費用の分担を巡る協議が難航する恐れがあります。",
+        "simpleDetail": "昔に汚した犯人（古い工場や基地など）にお金を払わせるのが難しい問題があります。",
+        "tag": "原因者負担"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2020年4月",
+      "title": "厚生労働省がPFOS・PFOAの合算で50ng/Lの暫定目標値を設定",
+      "description": "全国の水道水質管理目標設定項目に追加"
+    },
+    {
+      "date": "2024年2月",
+      "title": "環境省・厚労省が専門家会議で基準値引き下げの本格議論を開始",
+      "description": "米国の厳格化基準（各4ng/L）を踏まえた法的基準化の検討"
+    }
+  ],
+  "sources": [
+    {
+      "title": "環境省 有機フッ素化合物（PFAS）に対する総合戦略検討専門家会議",
+      "url": "https://www.env.go.jp",
+      "date": "2024-02-28"
+    },
+    {
+      "title": "厚生労働省 水道水における有機フッ素化合物の水質目標見直し",
+      "url": "https://www.mhlw.go.jp",
+      "date": "2023-11-10"
+    }
+  ],
+  "badges": [
+    {
+      "label": "PFAS水質基準化",
+      "variant": "positive"
+    },
+    {
+      "label": "飲用水安全保障",
+      "variant": "positive"
+    },
+    {
+      "label": "水道料金影響",
+      "variant": "warning"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "規制対象",
+      "value": "PFOS・PFOA等の有害PFAS",
+      "description": "水道水中の有機フッ素化合物を厳格に測定・管理",
+      "icon": "HeartPulse"
+    },
+    {
+      "label": "法的地位",
+      "value": "水道法第4条水質基準化",
+      "description": "義務的順守を求める法定基準へ格上げ検討",
+      "icon": "ShieldCheck"
+    },
+    {
+      "label": "財政支援",
+      "value": "ろ過設備費用の最大2/3補助",
+      "description": "活性炭フィルター・逆浸透膜の導入費を国庫助成",
+      "icon": "Wallet"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "汚染懸念地域の母親",
+        "commentSimple": "「赤ちゃんのミルク作りに毎日水道水を使っていて不安でした。国がしっかり調べて数値を公開してくれるなら安心です」",
+        "commentStandard": "「暫定目標ではなく法的義務としての水質基準を定め、フィルター設置への公費助成を早期に実現してほしい」"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "地方自治体の水道局長",
+        "commentSimple": "「活性炭を毎年入れ替えるだけで数千万円かかります。国がずっとお金を出してくれないと水道料金を上げざるを得ません」",
+        "commentStandard": "「設備導入後のランニングコストに対する恒久的な財源措置がなければ、人口減少下の水道経営が破綻します」"
+      }
+    ]
+  },
+  "international": {
+    "title": "水道水中PFAS規制の国際比較（米国・EU・豪州）",
+    "comparisonSummary": "米国EPAは各4ppt（4ng/L）という世界最強の法的規制値を決定、EUは包括的総量規制を導入、豪州も基地周辺浄化を進めています。",
+    "countries": [
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "EPA国家一次飲料水規制（NPDWR）",
+        "amount": "PFOAおよびPFOSに対し各4ppt（4ng/L）の法的拘束力ある最大汚染基準値（MCL）を決定",
+        "keyFeature": "インフラ投資雇用法に基づき全米の浄水場更新に90億ドルの連邦助成金を投下。",
+        "source": {
+          "organization": "EPA (米国環境保護庁)",
+          "title": "Final PFAS National Primary Drinking Water Regulation",
+          "url": "https://www.epa.gov"
+        }
+      },
+      {
+        "country": "欧州連合（EU）",
+        "countryCode": "EU",
+        "flag": "🇪🇺",
+        "systemName": "EU飲料水指令（Drinking Water Directive）",
+        "amount": "「PFAS合計0.5μg/L」および「特定PFAS20物質合計0.1μg/L」の基準を全加盟国に適用",
+        "keyFeature": "REACH規則に基づき、PFAS約1万物質の製造・使用を段階的に全面禁止する法案を審議中。",
+        "source": {
+          "organization": "欧州委員会",
+          "title": "EU Drinking Water Directive",
+          "url": "https://environment.ec.europa.eu"
+        }
+      },
+      {
+        "country": "オーストラリア",
+        "countryCode": "AU",
+        "flag": "🇦🇺",
+        "systemName": "国家PFAS環境管理計画（NEMP）",
+        "amount": "飲用水・土壌・地下水におけるPFOS/PFHxSおよびPFOAの包括的ガイドライン値を設定",
+        "keyFeature": "軍事基地や空港周辺の汚染地下水の浄化と近隣住民への代替水供給プログラムを公費で実施。",
+        "source": {
+          "organization": "豪州気候変動・エネルギー・環境・水資源省 (DCCEEW)",
+          "title": "PFAS National Environmental Management Plan",
+          "url": "https://www.dcceew.gov.au"
+        }
+      }
+    ]
+  }
+}
