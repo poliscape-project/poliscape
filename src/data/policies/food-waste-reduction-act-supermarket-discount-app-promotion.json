@@ -93,17 +93,23 @@
   "timeline": [
     {
       "date": "2019年10月",
+      "label": "食品ロス削減推進法が施行",
       "title": "食品ロス削減推進法が施行",
+      "status": "completed",
       "description": "国の基本方針策定。"
     },
     {
       "date": "2024年5月",
+      "label": "改正食品ロス削減推進法が成立",
       "title": "改正食品ロス削減推進法が成立",
+      "status": "completed",
       "description": "寄附免責と税制優遇の法制化。"
     },
     {
       "date": "2024年10月",
+      "label": "食品ロス削減月間に合わせ改正法が施行",
       "title": "食品ロス削減月間に合わせ改正法が施行",
+      "status": "current",
       "description": "全国でアプリ連携が急拡大。"
     }
   ],

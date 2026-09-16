@@ -94,24 +94,28 @@
     {
       "date": "2018年4月",
       "label": "オンライン診療料の新設",
+      "title": "オンライン診療料の新設",
       "status": "completed",
       "description": "再診かつ生活習慣病等の一部疾患に限定して保険適用"
     },
     {
       "date": "2020年4月",
       "label": "コロナ禍での初診時限的解禁",
+      "title": "コロナ禍での初診時限的解禁",
       "status": "completed",
       "description": "感染拡大防止のための臨時特例措置を実施"
     },
     {
       "date": "2022年4月",
       "label": "初診オンライン診療の恒久化指針改定",
+      "title": "初診オンライン診療の恒久化指針改定",
       "status": "completed",
       "description": "一定の安全要件を満たすことを条件に恒久制度化"
     },
     {
       "date": "2024年〜2026年",
       "label": "電子処方箋との連携・僻地特例拡大",
+      "title": "電子処方箋との連携・僻地特例拡大",
       "status": "current",
       "description": "へき地での公民館等での巡回オンライン診療や薬のドローン配送連携を推進"
     }
@@ -250,7 +254,10 @@
         "source": {
           "title": "ドイツ連邦保健省 (BMG) - Digitale Versorgung und E-Rezept",
           "url": "https://www.bundesgesundheitsministerium.de"
-        }
+        },
+        "countryCode": "DE",
+        "systemName": "ドイツの関連制度・方針",
+        "keyFeature": "ドイツにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -260,7 +267,10 @@
         "source": {
           "title": "オーストラリア保健・高齢者ケア省 (DoHAC) - Telehealth services",
           "url": "https://www.health.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -270,7 +280,10 @@
         "source": {
           "title": "韓国保健福祉部 (MOHW) - 非対面診療パイロット事業指針",
           "url": "https://www.mohw.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       },
       {
         "code": "CA",
@@ -280,7 +293,10 @@
         "source": {
           "title": "カナダ保健省 (Health Canada) - Virtual Care and Digital Health",
           "url": "https://www.canada.ca/en/health-canada.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       }
     ]
   }

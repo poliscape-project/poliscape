@@ -117,17 +117,23 @@
   "timeline": [
     {
       "date": "2022年8月",
+      "label": "Rapidus（ラピダス）株式会社設立",
       "title": "Rapidus（ラピダス）株式会社設立",
+      "status": "completed",
       "description": "国内主要企業8社（トヨタ・ソニー・NTT等）が出資し発足"
     },
     {
       "date": "2023年9月",
+      "label": "北海道千歳市で工場（IIM-1）着工",
       "title": "北海道千歳市で工場（IIM-1）着工",
+      "status": "completed",
       "description": "日本初の2nm実証・量産工場の建設が本格始動"
     },
     {
       "date": "2025年4月",
+      "label": "パイロットライン試作開始予定",
       "title": "パイロットライン試作開始予定",
+      "status": "current",
       "description": "試作チップの稼働と量産プロセスの検証に着手"
     }
   ],

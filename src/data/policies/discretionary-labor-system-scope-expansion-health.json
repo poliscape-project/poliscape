@@ -94,24 +94,28 @@
     {
       "date": "2018年",
       "label": "働き方改革関連法から裁量労働拡大が削除",
+      "title": "働き方改革関連法から裁量労働拡大が削除",
       "status": "completed",
       "description": "労働時間データ不備問題により法案から対象拡大を削除"
     },
     {
       "date": "2023年3月",
       "label": "改正労働基準法施行規則等の公布",
+      "title": "改正労働基準法施行規則等の公布",
       "status": "completed",
       "description": "本人同意・撤回手続きと健康確保措置を義務付ける省令改正"
     },
     {
       "date": "2024年4月",
       "label": "改正裁量労働制の施行",
+      "title": "改正裁量労働制の施行",
       "status": "completed",
       "description": "新ルールに基づき、定期的な労使委員会決議と労基署報告が義務化"
     },
     {
       "date": "2025年〜2026年",
       "label": "施行状況の定期点検と労基署の指導監督",
+      "title": "施行状況の定期点検と労基署の指導監督",
       "status": "current",
       "description": "不適切な同意強要や過重労働がないかの重点立入検査を実施"
     }
@@ -250,7 +254,10 @@
         "source": {
           "title": "スイス連邦経済管財庁 (SECO) - Autonome Arbeitszeitgestaltung und Gesundheitsschutz",
           "url": "https://www.seco.admin.ch"
-        }
+        },
+        "countryCode": "CH",
+        "systemName": "スイスの関連制度・方針",
+        "keyFeature": "スイスにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -260,7 +267,10 @@
         "source": {
           "title": "オーストラリア公正労働担当官 (Fair Work Ombudsman) - Flexible working arrangements and WHS",
           "url": "https://www.fairwork.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -270,7 +280,10 @@
         "source": {
           "title": "韓国雇用労働部 (MOEL) - 裁量勤労時間制の運営指針と健康保護措置",
           "url": "https://www.moel.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       },
       {
         "code": "NL",
@@ -280,7 +293,10 @@
         "source": {
           "title": "オランダ社会問題・雇用省 (SZW) - Arbeidstijdenwet en leidinggevenden/specialisten",
           "url": "https://www.government.nl/ministries/ministry-of-social-affairs-and-employment"
-        }
+        },
+        "countryCode": "NL",
+        "systemName": "オランダの関連制度・方針",
+        "keyFeature": "オランダにおける制度設計と運用"
       }
     ]
   }

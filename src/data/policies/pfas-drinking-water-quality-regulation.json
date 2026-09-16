@@ -94,24 +94,28 @@
     {
       "date": "2020年4月",
       "label": "環境省がPFOS・PFOA暫定目標値（50ng/L）を設定",
+      "title": "環境省がPFOS・PFOA暫定目標値（50ng/L）を設定",
       "status": "completed",
       "description": "国内初の水質目標値ガイドライン運用"
     },
     {
       "date": "2023年",
       "label": "沖縄・東京多摩・愛知・大阪等で高濃度検出が相次ぎ社会問題化",
+      "title": "沖縄・東京多摩・愛知・大阪等で高濃度検出が相次ぎ社会問題化",
       "status": "completed",
       "description": "住民の血中濃度調査運動が激化"
     },
     {
       "date": "2024年4月",
       "label": "米EPAが世界で最も厳しい基準（各4ng/L）を公表",
+      "title": "米EPAが世界で最も厳しい基準（各4ng/L）を公表",
       "status": "completed",
       "description": "日本国内での基準見直し機運が決定的に"
     },
     {
       "date": "2025年〜2026年",
       "label": "全国水道水の一斉モニタリングと法定基準化の審議",
+      "title": "全国水道水の一斉モニタリングと法定基準化の審議",
       "status": "current",
       "description": "水道水質基準への格上げと自治体浄水支援パッケージ検討"
     }
@@ -250,7 +254,10 @@
         "source": {
           "title": "オランダ国立公衆衛生環境研究所 (RIVM) - PFAS and drinking water",
           "url": "https://www.rivm.nl/en"
-        }
+        },
+        "countryCode": "NL",
+        "systemName": "オランダの関連制度・方針",
+        "keyFeature": "オランダにおける制度設計と運用"
       },
       {
         "code": "DK",
@@ -260,7 +267,10 @@
         "source": {
           "title": "デンマーク環境省 (Miljøministeriet) - PFAS regulation and monitoring",
           "url": "https://mim.dk"
-        }
+        },
+        "countryCode": "DK",
+        "systemName": "デンマークの関連制度・方針",
+        "keyFeature": "デンマークにおける制度設計と運用"
       },
       {
         "code": "SE",
@@ -270,7 +280,10 @@
         "source": {
           "title": "スウェーデン国家食品庁 (Livsmedelsverket) - Nya regler för dricksvatten och PFAS",
           "url": "https://www.livsmedelsverket.se"
-        }
+        },
+        "countryCode": "SE",
+        "systemName": "スウェーデンの関連制度・方針",
+        "keyFeature": "スウェーデンにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -280,7 +293,10 @@
         "source": {
           "title": "カナダ環境・気候変動省および保健省 - Per- and polyfluoroalkyl substances (PFAS)",
           "url": "https://www.canada.ca/en/health-canada/services/chemical-substances.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       }
     ]
   }

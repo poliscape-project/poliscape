@@ -118,18 +118,21 @@
     {
       "date": "2018年6月",
       "label": "働き方改革関連法が成立（物流分野には5年の猶予期間）",
+      "title": "働き方改革関連法が成立（物流分野には5年の猶予期間）",
       "status": "completed",
       "description": "運送業への時間外労働年960時間上限規制の適用猶予を決定"
     },
     {
       "date": "2024年4月",
       "label": "改善基準告示の全面適用（いわゆる2024年問題の到来）",
+      "title": "改善基準告示の全面適用（いわゆる2024年問題の到来）",
       "status": "completed",
       "description": "時間外上限960時間と年3300時間拘束規制が本格施行"
     },
     {
       "date": "2026年",
       "label": "改正物流効率化法に基づく荷主への規制強化と荷待ち是正確認",
+      "title": "改正物流効率化法に基づく荷主への規制強化と荷待ち是正確認",
       "status": "current",
       "description": "特定事業者へのCLO選任義務化と待機料収受状況の全国実地監査"
     }
@@ -276,7 +279,10 @@
         "source": {
           "title": "英国運転者・車両規格庁 (DVSA) - Drivers' hours rules and enforcement",
           "url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency"
-        }
+        },
+        "countryCode": "UK",
+        "systemName": "英国の関連制度・方針",
+        "keyFeature": "英国における制度設計と運用"
       },
       {
         "code": "FR",
@@ -286,7 +292,10 @@
         "source": {
           "title": "フランス生態系移行省 (Ministère de la Transition écologique) - Réglementation du transport routier de marchandises",
           "url": "https://www.ecologie.gouv.fr"
-        }
+        },
+        "countryCode": "FR",
+        "systemName": "フランスの関連制度・方針",
+        "keyFeature": "フランスにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -296,7 +305,10 @@
         "source": {
           "title": "韓国国土交通部 (MOLIT) - 貨物自動車安全運賃および物流正常化",
           "url": "https://www.molit.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       },
       {
         "code": "ES",
@@ -306,7 +318,10 @@
         "source": {
           "title": "スペイン運輸・持続可能モビリティ省 - Ley de ordenación de los transportes terrestres",
           "url": "https://www.transportes.gob.es"
-        }
+        },
+        "countryCode": "ES",
+        "systemName": "スペインの関連制度・方針",
+        "keyFeature": "スペインにおける制度設計と運用"
       }
     ]
   }

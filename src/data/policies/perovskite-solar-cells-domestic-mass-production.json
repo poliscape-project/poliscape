@@ -95,25 +95,29 @@
     {
       "date": "2009年",
       "label": "宮坂力教授がペロブスカイト太陽電池を発明",
+      "title": "宮坂力教授がペロブスカイト太陽電池を発明",
       "status": "completed",
       "description": "世界的な次世代太陽電池研究ブームの火付け役に"
     },
     {
       "date": "2023年",
       "label": "政府の導入拡大ロードマップ策定",
+      "title": "政府の導入拡大ロードマップ策定",
       "status": "completed",
       "description": "2025年までの実用化と公共施設導入を決定"
     },
     {
       "date": "2025年〜2026年",
       "label": "鉄道駅・都庁舎・民間ビルでの実証導入",
-      "status": "current",
+      "title": "鉄道駅・都庁舎・民間ビルでの実証導入",
+      "status": "completed",
       "description": "積水化学・カネカ等による量産ライン稼働"
     },
     {
       "date": "2030年",
       "label": "発電コスト1キロワット時あたり14円以下達成",
-      "status": "upcoming",
+      "title": "発電コスト1キロワット時あたり14円以下達成",
+      "status": "current",
       "description": "既存シリコンと同等以下のコストでギガワット規模普及へ"
     }
   ],
@@ -251,7 +255,10 @@
         "source": {
           "title": "ドイツ連邦経済・気候保護省 (BMWK) - Photovoltaik-Strategie und Förderung",
           "url": "https://www.bmwk.de"
-        }
+        },
+        "countryCode": "DE",
+        "systemName": "ドイツの関連制度・方針",
+        "keyFeature": "ドイツにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -261,7 +268,10 @@
         "source": {
           "title": "韓国産業通商資源部 (MOTIE) - 再生可能エネルギー技術開発支援",
           "url": "https://www.motie.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       },
       {
         "code": "CH",
@@ -271,7 +281,10 @@
         "source": {
           "title": "スイス連邦エネルギー庁 (BFE) - Solar energy research and innovation",
           "url": "https://www.bfe.admin.ch"
-        }
+        },
+        "countryCode": "CH",
+        "systemName": "スイスの関連制度・方針",
+        "keyFeature": "スイスにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -281,7 +294,10 @@
         "source": {
           "title": "オーストラリア再生可能エネルギー庁 (ARENA) - Ultra low-cost solar funding",
           "url": "https://arena.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       }
     ]
   }

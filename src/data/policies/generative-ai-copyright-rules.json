@@ -94,18 +94,21 @@
     {
       "date": "2023年5月",
       "label": "政府「AI戦略会議」の立ち上げ",
+      "title": "政府「AI戦略会議」の立ち上げ",
       "status": "completed",
       "description": "生成AIのリスク（著作権・偽情報・人権侵害）と活用促進の総合検討が開幕"
     },
     {
       "date": "2024年3月",
       "label": "文化庁が「AIと著作権に関する考え方」を公表",
+      "title": "文化庁が「AIと著作権に関する考え方」を公表",
       "status": "completed",
       "description": "類似性・依拠性の判断基準や追加的な権利侵害の解釈指針を提示"
     },
     {
       "date": "2025年〜2026年",
       "label": "法制問題小委員会での著作権法改正・AI新法制定の審議",
+      "title": "法制問題小委員会での著作権法改正・AI新法制定の審議",
       "status": "current",
       "description": "欧州AI法（EU AI Act）等の動向を踏まえ、日本の制度的枠組みの具体化が継続"
     }
@@ -192,7 +195,10 @@
         "source": {
           "title": "国家インターネット情報弁公室 (CAC) - 生成式人工知能服務管理暫行弁法",
           "url": "https://www.cac.gov.cn"
-        }
+        },
+        "countryCode": "CN",
+        "systemName": "中国の関連制度・方針",
+        "keyFeature": "中国における制度設計と運用"
       },
       {
         "code": "KR",
@@ -202,7 +208,10 @@
         "source": {
           "title": "韓国文化体育観光部 (MCST) - 生成型AI著作権活用ガイドライン",
           "url": "https://www.mcst.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       },
       {
         "code": "SG",
@@ -212,7 +221,10 @@
         "source": {
           "title": "シンガポール知的財産庁 (IPOS) - Copyright Act and Computational Data Analysis",
           "url": "https://www.ipos.gov.sg"
-        }
+        },
+        "countryCode": "SG",
+        "systemName": "シンガポールの関連制度・方針",
+        "keyFeature": "シンガポールにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -222,7 +234,10 @@
         "source": {
           "title": "オーストラリア連邦司法省 (Attorney-General's Department) - Copyright and Artificial Intelligence",
           "url": "https://www.ag.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       }
     ]
   }

@@ -93,17 +93,23 @@
   "timeline": [
     {
       "date": "2021年10月",
+      "label": "第6次エネルギー基本計画策定",
       "title": "第6次エネルギー基本計画策定",
+      "status": "completed",
       "description": "熱利用の脱炭素化方針明記。"
     },
     {
       "date": "2024年3月",
+      "label": "下水道法改正で下水熱利用の民間開放加速",
       "title": "下水道法改正で下水熱利用の民間開放加速",
+      "status": "completed",
       "description": "熱交換器設置手続きの緩和。"
     },
     {
       "date": "2025年11月",
+      "label": "地域熱脱炭素化新法案の骨子公表",
       "title": "地域熱脱炭素化新法案の骨子公表",
+      "status": "current",
       "description": "2027年施行に向け制度設計。"
     }
   ],

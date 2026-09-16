@@ -94,18 +94,21 @@
     {
       "date": "2021年6月",
       "label": "経済財政運営と改革の基本方針（骨太方針2021）",
+      "title": "経済財政運営と改革の基本方針（骨太方針2021）",
       "status": "completed",
       "description": "政府の基本方針に「選択的週休3日制の普及促進」が初めて盛り込まれる"
     },
     {
       "date": "2023年〜2024年",
       "label": "大手企業・メガバンク・自治体が続々試験導入",
+      "title": "大手企業・メガバンク・自治体が続々試験導入",
       "status": "completed",
       "description": "パナソニック、日立、東京都庁などが選択的週休3日制度の運用を開始"
     },
     {
       "date": "2025年以降",
       "label": "法制度上の環境整備と中小企業向け助成の検討",
+      "title": "法制度上の環境整備と中小企業向け助成の検討",
       "status": "current",
       "description": "労基法の弾力化や好事例の横展開に向け、厚生労働省の審議会で検討継続"
     }
@@ -196,7 +199,10 @@
         "source": {
           "title": "ドイツ連邦労働社会省 (BMAS) - Arbeitszeitgestaltung und Innovation",
           "url": "https://www.bmas.de"
-        }
+        },
+        "countryCode": "DE",
+        "systemName": "ドイツの関連制度・方針",
+        "keyFeature": "ドイツにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -206,7 +212,10 @@
         "source": {
           "title": "オーストラリア連邦議会 (Parliament of Australia) - Select Committee on Work and Care",
           "url": "https://www.aph.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "US",
@@ -216,7 +225,10 @@
         "source": {
           "title": "米国労働省 (DOL) - Fair Labor Standards Act and Work Hours",
           "url": "https://www.dol.gov"
-        }
+        },
+        "countryCode": "US",
+        "systemName": "アメリカの関連制度・方針",
+        "keyFeature": "アメリカにおける制度設計と運用"
       },
       {
         "code": "PT",
@@ -226,7 +238,10 @@
         "source": {
           "title": "ポルトガル政府 (Portal do Governo) - Projeto-Piloto Semana de Quatro Dias",
           "url": "https://www.portugal.gov.pt"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "ポルトガルの関連制度・方針",
+        "keyFeature": "ポルトガルにおける制度設計と運用"
       }
     ]
   }

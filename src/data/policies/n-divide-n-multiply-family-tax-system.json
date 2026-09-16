@@ -94,25 +94,29 @@
     {
       "date": "1946年",
       "label": "フランスで家族係数（N分N乗方式）導入",
+      "title": "フランスで家族係数（N分N乗方式）導入",
       "status": "completed",
       "description": "戦後復興と出生率回復の基本税制として定着"
     },
     {
       "date": "2023年〜2024年",
       "label": "日本維新の会や国民民主党が相次いで公約化",
+      "title": "日本維新の会や国民民主党が相次いで公約化",
       "status": "completed",
       "description": "少子化対策の抜本税制として国会論争が激化"
     },
     {
       "date": "2025年〜2026年",
       "label": "政府税制調査会・超党派での制度シミュレーション",
-      "status": "current",
+      "title": "政府税制調査会・超党派での制度シミュレーション",
+      "status": "completed",
       "description": "上限額設定（キャップ制）などの修正案を含めた検討"
     },
     {
       "date": "未定",
       "label": "税制抜本改革法案の国会提出・成否",
-      "status": "upcoming",
+      "title": "税制抜本改革法案の国会提出・成否",
+      "status": "current",
       "description": "財源確保と世帯間公平性の調整を前提とした審議"
     }
   ],
@@ -250,7 +254,10 @@
         "source": {
           "title": "ポルトガル税務関税庁 (Autoridade Tributária e Aduaneira) - IRS Familiar",
           "url": "https://www.portaldasfinancas.gov.pt"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "ポルトガルの関連制度・方針",
+        "keyFeature": "ポルトガルにおける制度設計と運用"
       },
       {
         "code": "LU",
@@ -260,7 +267,10 @@
         "source": {
           "title": "ルクセンブルク直接税務局 (ACD) - Classes d'impôt et imposition des ménages",
           "url": "https://impotsdirects.public.lu"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "ルクセンブルクの関連制度・方針",
+        "keyFeature": "ルクセンブルクにおける制度設計と運用"
       },
       {
         "code": "BE",
@@ -270,7 +280,10 @@
         "source": {
           "title": "ベルギー連邦財政庁 (FPS Finances) - Quotient conjugal et fiscalité des familles",
           "url": "https://finances.belgium.be"
-        }
+        },
+        "countryCode": "BE",
+        "systemName": "ベルギーの関連制度・方針",
+        "keyFeature": "ベルギーにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -280,7 +293,10 @@
         "source": {
           "title": "カナダ歳入庁 (CRA) - Canada Child Benefit (CCB)",
           "url": "https://www.canada.ca/en/revenue-agency.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       }
     ]
   }

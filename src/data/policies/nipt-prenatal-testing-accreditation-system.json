@@ -94,24 +94,28 @@
     {
       "date": "2013年4月",
       "label": "日本医学会主導でNIPTの臨床研究がスタート",
+      "title": "日本医学会主導でNIPTの臨床研究がスタート",
       "status": "completed",
       "description": "認定施設・35歳以上等の条件付きで開始"
     },
     {
       "date": "2022年7月",
       "label": "厚労省関与の「出生前検査認証制度等協議会」が発足",
+      "title": "厚労省関与の「出生前検査認証制度等協議会」が発足",
       "status": "completed",
       "description": "一般産科クリニックへの認証連携枠の拡大"
     },
     {
       "date": "2024年〜2025年",
       "label": "母子手帳交付時の公的情報提供ハンドブック配布開始",
+      "title": "母子手帳交付時の公的情報提供ハンドブック配布開始",
       "status": "completed",
       "description": "すべての妊婦へ中立な情報提供を実施"
     },
     {
       "date": "2026年〜",
       "label": "認証制度の遵守状況検証と無認証クリニックへの指導強化",
+      "title": "認証制度の遵守状況検証と無認証クリニックへの指導強化",
       "status": "current",
       "description": "悪質広告の規制とカウンセリング体制拡充"
     }
@@ -250,7 +254,10 @@
         "source": {
           "title": "ベルギー国立健康障害保険機構 (INAMI/RIZIV) - Dépistage prénatal non invasif (NIPT)",
           "url": "https://www.inami.fgov.be"
-        }
+        },
+        "countryCode": "BE",
+        "systemName": "ベルギーの関連制度・方針",
+        "keyFeature": "ベルギーにおける制度設計と運用"
       },
       {
         "code": "CH",
@@ -260,7 +267,10 @@
         "source": {
           "title": "スイス連邦保健庁 (BAG) - Nicht-invasiver Pränataltest (NIPT)",
           "url": "https://www.bag.admin.ch"
-        }
+        },
+        "countryCode": "CH",
+        "systemName": "スイスの関連制度・方針",
+        "keyFeature": "スイスにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -270,7 +280,10 @@
         "source": {
           "title": "オーストラリア連邦保健省 (Department of Health and Aged Care) - Prenatal testing",
           "url": "https://www.health.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -280,7 +293,10 @@
         "source": {
           "title": "韓国保健福祉部 (MOHW) - 生命倫理および安全に関する法律",
           "url": "https://www.mohw.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

@@ -94,24 +94,28 @@
     {
       "date": "2007年",
       "label": "厚労省が終末期医療ガイドラインを策定",
+      "title": "厚労省が終末期医療ガイドラインを策定",
       "status": "completed",
       "description": "射水市民病院等の事件を受け人生の最終段階における決定指針を初公表"
     },
     {
       "date": "2012年",
       "label": "超党派議員連盟が「尊厳死法案」骨子案を公表",
+      "title": "超党派議員連盟が「尊厳死法案」骨子案を公表",
       "status": "completed",
       "description": "本人の生前意思尊重と医師の免責を盛り込んだ法案が国会提出直前まで進展"
     },
     {
       "date": "2018年",
       "label": "ACP（人生会議）愛称決定と普及促進",
+      "title": "ACP（人生会議）愛称決定と普及促進",
       "status": "completed",
       "description": "厚労省がガイドラインを改定し事前対話プロセスの普及を推進"
     },
     {
       "date": "2024年〜2026年",
       "label": "超党派での法制化再協議と国民的合意形成",
+      "title": "超党派での法制化再協議と国民的合意形成",
       "status": "current",
       "description": "日本医師会・日本学術会議等での倫理的検討と立法化の是非議論"
     }
@@ -250,7 +254,10 @@
         "source": {
           "title": "スイス連邦保健庁 (BAG) - Lebensende und Sterbebegleitung",
           "url": "https://www.bag.admin.ch"
-        }
+        },
+        "countryCode": "CH",
+        "systemName": "スイスの関連制度・方針",
+        "keyFeature": "スイスにおける制度設計と運用"
       },
       {
         "code": "NL",
@@ -260,7 +267,10 @@
         "source": {
           "title": "オランダ保健福祉スポーツ省 (VWS) - Euthanasia and assisted suicide",
           "url": "https://www.government.nl/ministries/ministry-of-health-welfare-and-sport"
-        }
+        },
+        "countryCode": "NL",
+        "systemName": "オランダの関連制度・方針",
+        "keyFeature": "オランダにおける制度設計と運用"
       },
       {
         "code": "ES",
@@ -270,7 +280,10 @@
         "source": {
           "title": "スペイン保健省 (Ministerio de Sanidad) - Regulación de la eutanasia",
           "url": "https://www.sanidad.gob.es"
-        }
+        },
+        "countryCode": "ES",
+        "systemName": "スペインの関連制度・方針",
+        "keyFeature": "スペインにおける制度設計と運用"
       },
       {
         "code": "GB",
@@ -280,7 +293,10 @@
         "source": {
           "title": "英国議会 (UK Parliament) - Terminally Ill Adults (End of Life) Bill",
           "url": "https://www.parliament.uk"
-        }
+        },
+        "countryCode": "UK",
+        "systemName": "英国の関連制度・方針",
+        "keyFeature": "英国における制度設計と運用"
       }
     ]
   }

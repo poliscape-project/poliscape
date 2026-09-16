@@ -118,18 +118,21 @@
     {
       "date": "2022年",
       "label": "改正特定商取引法施行、最終確認画面での定期購入誤認表示を禁止",
+      "title": "改正特定商取引法施行、最終確認画面での定期購入誤認表示を禁止",
       "status": "completed",
       "description": "改正特定商取引法施行、最終確認画面での定期購入誤認表示を禁止"
     },
     {
       "date": "2024年",
       "label": "消費者庁、ダークパターンに関する専門調査会を設置・実態調査",
+      "title": "消費者庁、ダークパターンに関する専門調査会を設置・実態調査",
       "status": "completed",
       "description": "消費者庁、ダークパターンに関する専門調査会を設置・実態調査"
     },
     {
       "date": "2026年",
       "label": "米FTCにならう「ワンクリック解約義務化」と特商法・消費者契約法再改正議論",
+      "title": "米FTCにならう「ワンクリック解約義務化」と特商法・消費者契約法再改正議論",
       "status": "current",
       "description": "米FTCにならう「ワンクリック解約義務化」と特商法・消費者契約法再改正議論"
     }
@@ -270,7 +273,10 @@
         "source": {
           "title": "フランス競争・消費者問題・不正抑止総局 (DGCCRF) - Résiliation en trois clics des contrats",
           "url": "https://www.economie.gouv.fr/dgccrf"
-        }
+        },
+        "countryCode": "FR",
+        "systemName": "フランスの関連制度・方針",
+        "keyFeature": "フランスにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -280,7 +286,10 @@
         "source": {
           "title": "オーストラリア競争・消費者委員会 (ACCC) - Dark patterns and subscription traps",
           "url": "https://www.accc.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -290,7 +299,10 @@
         "source": {
           "title": "韓国公正取引委員会 (KFTC) - オンラインプラットフォームダークパターンガイドライン",
           "url": "https://www.ftc.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       },
       {
         "code": "ES",
@@ -300,7 +312,10 @@
         "source": {
           "title": "スペイン消費省 (Ministerio de Consumo) - Derechos de los consumidores y suscripciones",
           "url": "https://www.consumo.gob.es"
-        }
+        },
+        "countryCode": "ES",
+        "systemName": "スペインの関連制度・方針",
+        "keyFeature": "スペインにおける制度設計と運用"
       }
     ]
   }

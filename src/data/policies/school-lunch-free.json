@@ -118,24 +118,28 @@
     {
       "date": "1954年",
       "label": "学校給食法制定",
+      "title": "学校給食法制定",
       "status": "completed",
       "description": "食材費は保護者負担、施設人件費は設置者負担と規定"
     },
     {
       "date": "2023年6月",
       "label": "こども未来戦略方針に全国調査明記",
+      "title": "こども未来戦略方針に全国調査明記",
       "status": "completed",
       "description": "文部科学省が全国の小中学校の給食実施状況を初調査"
     },
     {
       "date": "2024年〜2025年",
       "label": "自治体での無償化が約3割へ拡大",
+      "title": "自治体での無償化が約3割へ拡大",
       "status": "completed",
       "description": "東京都全域や大阪市など大都市圏でも無償化が波及"
     },
     {
       "date": "2026年9月",
       "label": "国費による全国一律支援の制度設計",
+      "title": "国費による全国一律支援の制度設計",
       "status": "current",
       "description": "国会で給食法改正および所要財源の確保を巡る審議が本格化"
     }
@@ -319,7 +323,10 @@
         "source": {
           "title": "エストニア教育研究省 (Haridus- ja Teadusministeerium) - School meals system",
           "url": "https://www.hm.ee/en"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "エストニアの関連制度・方針",
+        "keyFeature": "エストニアにおける制度設計と運用"
       },
       {
         "code": "GB",
@@ -329,7 +336,10 @@
         "source": {
           "title": "ロンドン市長公室 (Greater London Authority) - Free school meals for primary students",
           "url": "https://www.london.gov.uk"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "英国（ロンドン市）の関連制度・方針",
+        "keyFeature": "英国（ロンドン市）における制度設計と運用"
       },
       {
         "code": "BR",
@@ -339,7 +349,10 @@
         "source": {
           "title": "ブラジル連邦教育開発基金 (FNDE) - Programa Nacional de Alimentação Escolar (PNAE)",
           "url": "https://www.gov.br/fnde/pt-br"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "ブラジルの関連制度・方針",
+        "keyFeature": "ブラジルにおける制度設計と運用"
       },
       {
         "code": "FR",
@@ -349,7 +362,10 @@
         "source": {
           "title": "フランス国民教育・青少年省 (Ministère de l'Éducation nationale) - Tarification sociale des cantines",
           "url": "https://www.education.gouv.fr"
-        }
+        },
+        "countryCode": "FR",
+        "systemName": "フランスの関連制度・方針",
+        "keyFeature": "フランスにおける制度設計と運用"
       }
     ]
   }

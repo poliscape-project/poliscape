@@ -117,17 +117,23 @@
   "timeline": [
     {
       "date": "2022年10月",
+      "label": "医療DX推進本部が内閣官房に設置",
       "title": "医療DX推進本部が内閣官房に設置",
+      "status": "completed",
       "description": "全国医療情報プラットフォーム構築に向けた工程表を策定"
     },
     {
       "date": "2023年6月",
+      "label": "医療DX工程表を閣議決定",
       "title": "医療DX工程表を閣議決定",
+      "status": "completed",
       "description": "電子カルテ情報共有サービスの2025年全国展開を明記"
     },
     {
       "date": "2024年4月",
+      "label": "モデル事業開始および標準型電子カルテ試行",
       "title": "モデル事業開始および標準型電子カルテ試行",
+      "status": "current",
       "description": "全国の指定医療機関で接続検証と機能試験を実施"
     }
   ],

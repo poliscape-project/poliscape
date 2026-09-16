@@ -94,18 +94,21 @@
     {
       "date": "2018年",
       "label": "総務省が「投票環境向上検討会」を設置",
+      "title": "総務省が「投票環境向上検討会」を設置",
       "status": "completed",
       "description": "ブロックチェーンや公的個人認証を用いたネット投票の技術検証を開始"
     },
     {
       "date": "2023年〜2024年",
       "label": "在外ネット投票に向けた公職選挙法改正案が提出",
+      "title": "在外ネット投票に向けた公職選挙法改正案が提出",
       "status": "completed",
       "description": "野党共同で在外邦人のオンライン投票解禁法案が国会に提出"
     },
     {
       "date": "2025年以降",
       "label": "自治体実証実験とセキュリティ要件の法制審議",
+      "title": "自治体実証実験とセキュリティ要件の法制審議",
       "status": "current",
       "description": "つくば市等でのマイナカード電子投票実証を経て、国政での段階適用を審議"
     }
@@ -192,7 +195,10 @@
         "source": {
           "title": "NSW州選挙管理委員会 (NSW Electoral Commission) - Technology-assisted voting",
           "url": "https://www.elections.nsw.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -202,7 +208,10 @@
         "source": {
           "title": "オンタリオ州選挙管理委員会 (Elections Ontario) - Municipal elections internet voting",
           "url": "https://www.elections.on.ca"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "NO",
@@ -212,7 +221,10 @@
         "source": {
           "title": "ノルウェー選挙管理庁 (Valgdirektoratet) - E-voting trials and evaluation",
           "url": "https://www.valg.no/en"
-        }
+        },
+        "countryCode": "NO",
+        "systemName": "ノルウェーの関連制度・方針",
+        "keyFeature": "ノルウェーにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -222,7 +234,10 @@
         "source": {
           "title": "韓国中央選挙管理委員会 (NEC) - K-Votingシステム案内",
           "url": "https://www.nec.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

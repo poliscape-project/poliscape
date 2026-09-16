@@ -94,25 +94,29 @@
     {
       "date": "2022年10月",
       "label": "警察庁・消費者庁がオンカジ警告ポスターを一斉公表",
+      "title": "警察庁・消費者庁がオンカジ警告ポスターを一斉公表",
       "status": "completed",
       "description": "「日本国内では犯罪です」キャンペーン開始"
     },
     {
       "date": "2023年〜2024年",
       "label": "大手決済代行業者の幹部らを賭博開帳図利ほう助で逮捕",
+      "title": "大手決済代行業者の幹部らを賭博開帳図利ほう助で逮捕",
       "status": "completed",
       "description": "入出金パイプへの強制捜査本格化"
     },
     {
       "date": "2025年〜2026年",
       "label": "芸能人・アスリート等の摘発拡大とプロバイダ接続遮断検討",
-      "status": "current",
+      "title": "芸能人・アスリート等の摘発拡大とプロバイダ接続遮断検討",
+      "status": "completed",
       "description": "広告主・仲介者への包括的法規制協議"
     },
     {
       "date": "未定",
       "label": "違法賭博サイトへのアクセスブロッキング法制化議論",
-      "status": "upcoming",
+      "title": "違法賭博サイトへのアクセスブロッキング法制化議論",
+      "status": "current",
       "description": "通信の秘密との整合性を踏まえた検討"
     }
   ],
@@ -250,7 +254,10 @@
         "source": {
           "title": "ドイツ共同ギャンブル庁 (GGL) - Bekämpfung des illegalen Glücksspiels",
           "url": "https://www.gluecksspiel-behoerde.de"
-        }
+        },
+        "countryCode": "DE",
+        "systemName": "ドイツの関連制度・方針",
+        "keyFeature": "ドイツにおける制度設計と運用"
       },
       {
         "code": "FR",
@@ -260,7 +267,10 @@
         "source": {
           "title": "フランス国家賭博庁 (ANJ) - Lutte contre l'offre illégale",
           "url": "https://anj.fr"
-        }
+        },
+        "countryCode": "FR",
+        "systemName": "フランスの関連制度・方針",
+        "keyFeature": "フランスにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -270,7 +280,10 @@
         "source": {
           "title": "韓国放送通信審議委員会 (KCSC) - 違法・有害情報遮断システム",
           "url": "https://www.kocsc.or.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       },
       {
         "code": "IT",
@@ -280,7 +293,10 @@
         "source": {
           "title": "イタリア税関・専売庁 (ADM) - Giochi e scommesse online",
           "url": "https://www.adm.gov.it"
-        }
+        },
+        "countryCode": "IT",
+        "systemName": "イタリアの関連制度・方針",
+        "keyFeature": "イタリアにおける制度設計と運用"
       }
     ]
   }

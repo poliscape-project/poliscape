@@ -118,24 +118,28 @@
     {
       "date": "1993年",
       "label": "技能実習制度が創設",
+      "title": "技能実習制度が創設",
       "status": "completed",
       "description": "外国人への技術移転を名目に途上国からの受入を開始"
     },
     {
       "date": "2023年11月",
       "label": "政府有識者会議が技能実習「発展的解消」の最終報告書提出",
+      "title": "政府有識者会議が技能実習「発展的解消」の最終報告書提出",
       "status": "completed",
       "description": "育成就労制度の創設と転籍制限緩和（1〜2年）を正式提言"
     },
     {
       "date": "2024年6月",
       "label": "改正出入国管理法・育成就労法が国会で成立",
+      "title": "改正出入国管理法・育成就労法が国会で成立",
       "status": "completed",
       "description": "技能実習を廃止し「育成就労」を創設する改正法が可決"
     },
     {
       "date": "2027年まで",
       "label": "育成就労制度への完全移行と監理支援機関の運用",
+      "title": "育成就労制度への完全移行と監理支援機関の運用",
       "status": "current",
       "description": "省令基準の策定と既存実習生の円滑な新制度移行プロセスの推進"
     }
@@ -282,7 +286,10 @@
         "source": {
           "title": "カナダ移民・難民・市民権省 (IRCC) - Temporary Foreign Worker Program",
           "url": "https://www.canada.ca/en/immigration-refugees-citizenship.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "TW",
@@ -292,7 +299,10 @@
         "source": {
           "title": "台湾労働部 (Ministry of Labor) - 移住労働者管理および就労法制",
           "url": "https://www.mol.gov.tw"
-        }
+        },
+        "countryCode": "TW",
+        "systemName": "台湾の関連制度・方針",
+        "keyFeature": "台湾における制度設計と運用"
       },
       {
         "code": "GB",
@@ -302,7 +312,10 @@
         "source": {
           "title": "英国GLAA (Gangmasters and Labour Abuse Authority) - Licensing standards",
           "url": "https://www.gov.uk/government/organisations/gangmasters-and-labour-abuse-authority"
-        }
+        },
+        "countryCode": "UK",
+        "systemName": "英国の関連制度・方針",
+        "keyFeature": "英国における制度設計と運用"
       },
       {
         "code": "FR",
@@ -312,7 +325,10 @@
         "source": {
           "title": "フランス内務省 (Ministère de l'Intérieur) - Titre de séjour travail",
           "url": "https://www.immigration.interieur.gouv.fr"
-        }
+        },
+        "countryCode": "FR",
+        "systemName": "フランスの関連制度・方針",
+        "keyFeature": "フランスにおける制度設計と運用"
       }
     ]
   }

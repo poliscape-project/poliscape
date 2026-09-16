@@ -118,25 +118,29 @@
     {
       "date": "2021年4月",
       "label": "民法・不動産登記法改正法成立",
+      "title": "民法・不動産登記法改正法成立",
       "status": "completed",
       "description": "所有者不明土地解消に向けた法改正が成立"
     },
     {
       "date": "2024年4月",
       "label": "相続登記の義務化スタート",
+      "title": "相続登記の義務化スタート",
       "status": "completed",
       "description": "取得を知ってから3年以内の登記が法定義務化"
     },
     {
       "date": "2026年4月",
       "label": "住所・氏名変更登記の義務化",
-      "status": "current",
+      "title": "住所・氏名変更登記の義務化",
+      "status": "completed",
       "description": "引越しや結婚時の変更登記も義務化（過料最大5万円）"
     },
     {
       "date": "2027年3月",
       "label": "過去の相続放置分の猶予期限終了",
-      "status": "upcoming",
+      "title": "過去の相続放置分の猶予期限終了",
+      "status": "current",
       "description": "改正前の未登記物件も過料の正式対象へ"
     }
   ],
@@ -312,7 +316,10 @@
         "source": {
           "title": "オーストリア連邦政府ポータル (oesterreich.gv.at) - Verlassenschaftsverfahren",
           "url": "https://www.oesterreich.gv.at"
-        }
+        },
+        "countryCode": "AT",
+        "systemName": "オーストリアの関連制度・方針",
+        "keyFeature": "オーストリアにおける制度設計と運用"
       },
       {
         "code": "CH",
@@ -322,7 +329,10 @@
         "source": {
           "title": "スイス連邦公式ポータル (ch.ch) - Erbgang und Grundbucheintrag",
           "url": "https://www.ch.ch"
-        }
+        },
+        "countryCode": "CH",
+        "systemName": "スイスの関連制度・方針",
+        "keyFeature": "スイスにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -332,7 +342,10 @@
         "source": {
           "title": "韓国大法院 (Supreme Court of Korea) - 不動産登記手続案内",
           "url": "https://www.scourt.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       },
       {
         "code": "AU",
@@ -342,7 +355,10 @@
         "source": {
           "title": "オーストラリアNSW州政府ポータル - Deceased estates and land registry",
           "url": "https://www.nsw.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       }
     ]
   }

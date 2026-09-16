@@ -94,18 +94,21 @@
     {
       "date": "2019年4月",
       "label": "森林環境譲与税の譲与開始",
+      "title": "森林環境譲与税の譲与開始",
       "status": "completed",
       "description": "税の徴収に先立ち、地方自治体への譲与税配分を先行スタート"
     },
     {
       "date": "2024年4月",
       "label": "森林環境税（年1,000円）の課税開始",
+      "title": "森林環境税（年1,000円）の課税開始",
       "status": "completed",
       "description": "個人住民税に上乗せして約6,000万人から本格徴収を開始"
     },
     {
       "date": "2024年〜2026年",
       "label": "配分基準見直しと使途の完全透明化",
+      "title": "配分基準見直しと使途の完全透明化",
       "status": "current",
       "description": "森林面積割合の引き上げと各自治体の使途公開チェックを厳格化"
     }
@@ -244,7 +247,10 @@
         "source": {
           "title": "オーストリア気候行動省 (BMK) - Waldfonds und Waldschutz",
           "url": "https://www.bmk.gv.at"
-        }
+        },
+        "countryCode": "AT",
+        "systemName": "オーストリアの関連制度・方針",
+        "keyFeature": "オーストリアにおける制度設計と運用"
       },
       {
         "code": "FI",
@@ -254,7 +260,10 @@
         "source": {
           "title": "フィンランド農林省 (Maa- ja metsätalousministeriö) - Forestry and METSO Programme",
           "url": "https://mmm.fi/en"
-        }
+        },
+        "countryCode": "FI",
+        "systemName": "フィンランドの関連制度・方針",
+        "keyFeature": "フィンランドにおける制度設計と運用"
       },
       {
         "code": "SE",
@@ -264,7 +273,10 @@
         "source": {
           "title": "スウェーデン森林庁 (Skogsstyrelsen) - Sustainable Forestry",
           "url": "https://www.skogsstyrelsen.se"
-        }
+        },
+        "countryCode": "SE",
+        "systemName": "スウェーデンの関連制度・方針",
+        "keyFeature": "スウェーデンにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -274,7 +286,10 @@
         "source": {
           "title": "韓国山林庁 (Korea Forest Service) - 山林公益直接支払制",
           "url": "https://www.forest.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

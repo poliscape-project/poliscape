@@ -117,17 +117,23 @@
   "timeline": [
     {
       "date": "2022年5月",
+      "label": "経済安全保障推進法成立",
       "title": "経済安全保障推進法成立",
+      "status": "completed",
       "description": "特定重要物資の指定およびサプライチェーン強靭化枠組みを創設"
     },
     {
       "date": "2022年12月",
+      "label": "重要鉱物が特定重要物資に指定",
       "title": "重要鉱物が特定重要物資に指定",
+      "status": "completed",
       "description": "リチウム、コバルト、希土類など11物資を公認指定"
     },
     {
       "date": "2024年4月",
+      "label": "経済安保法改正・JOGMEC機能強化",
       "title": "経済安保法改正・JOGMEC機能強化",
+      "status": "current",
       "description": "海外鉱山出資上限引き上げとリサイクル製錬助成の本格始動"
     }
   ],

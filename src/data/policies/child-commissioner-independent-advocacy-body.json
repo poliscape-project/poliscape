@@ -94,25 +94,29 @@
     {
       "date": "1990年",
       "label": "ノルウェーで世界初の子どもオンブズマン制度誕生",
+      "title": "ノルウェーで世界初の子どもオンブズマン制度誕生",
       "status": "completed",
       "description": "欧州各国にコミッショナー制度が普及"
     },
     {
       "date": "2023年4月",
       "label": "こども基本法が施行・こども家庭庁が発足",
+      "title": "こども基本法が施行・こども家庭庁が発足",
       "status": "completed",
       "description": "子どもの権利理念が明記されるも独立機関は先送り"
     },
     {
       "date": "2025年〜2026年",
       "label": "超党派議連による「子どもコミッショナー設置法案」提出協議",
-      "status": "current",
+      "title": "超党派議連による「子どもコミッショナー設置法案」提出協議",
+      "status": "completed",
       "description": "調査権限の強さと行政組織の位置付けを巡る調整"
     },
     {
       "date": "未定",
       "label": "独立子どもコミッショナーの正式発足",
-      "status": "upcoming",
+      "title": "独立子どもコミッショナーの正式発足",
+      "status": "current",
       "description": "全国規模での相談・調査活動スタート"
     }
   ],
@@ -250,7 +254,10 @@
         "source": {
           "title": "スウェーデン子どもオンブズマン (Barnombudsmannen) - Official Ombudsman",
           "url": "https://www.barnombudsmannen.se"
-        }
+        },
+        "countryCode": "SE",
+        "systemName": "スウェーデンの関連制度・方針",
+        "keyFeature": "スウェーデンにおける制度設計と運用"
       },
       {
         "code": "NZ",
@@ -260,7 +267,10 @@
         "source": {
           "title": "ニュージーランド子ども委員会 (Mana Mokopuna) - Children and Young People's Commission",
           "url": "https://www.manamokopuna.org.nz"
-        }
+        },
+        "countryCode": "NZ",
+        "systemName": "ニュージーランドの関連制度・方針",
+        "keyFeature": "ニュージーランドにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -270,7 +280,10 @@
         "source": {
           "title": "オンタリオ州オンブズマン (Ombudsman Ontario) - Children and Youth Unit",
           "url": "https://www.ombudsman.on.ca"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "カナダ（オンタリオ州）の関連制度・方針",
+        "keyFeature": "カナダ（オンタリオ州）における制度設計と運用"
       },
       {
         "code": "DE",
@@ -280,7 +293,10 @@
         "source": {
           "title": "ドイツ連邦議会 (Deutscher Bundestag) - Kommission zur Wahrnehmung der Belange der Kinder",
           "url": "https://www.bundestag.de"
-        }
+        },
+        "countryCode": "DE",
+        "systemName": "ドイツの関連制度・方針",
+        "keyFeature": "ドイツにおける制度設計と運用"
       }
     ]
   }

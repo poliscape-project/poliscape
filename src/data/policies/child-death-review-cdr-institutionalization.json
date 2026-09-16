@@ -117,17 +117,23 @@
   "timeline": [
     {
       "date": "2019年6月",
+      "label": "死因究明等推進基本法成立",
       "title": "死因究明等推進基本法成立",
+      "status": "completed",
       "description": "CDRの重要性が盛り込まれ国家的な調査研究事業が始動"
     },
     {
       "date": "2020年度",
+      "label": "モデル事業開始",
       "title": "モデル事業開始",
+      "status": "completed",
       "description": "複数自治体でCDRモデル事業を開始し検証フローを確立"
     },
     {
       "date": "2024年3月",
+      "label": "制度化中間取りまとめ",
       "title": "制度化中間取りまとめ",
+      "status": "current",
       "description": "法制化に向けた情報連携ルールと恒久的な組織体制案を公表"
     }
   ],

@@ -118,18 +118,21 @@
     {
       "date": "2022年4月",
       "label": "人工授精・生殖補助医療（体外受精等）の保険適用がスタート",
+      "title": "人工授精・生殖補助医療（体外受精等）の保険適用がスタート",
       "status": "completed",
       "description": "菅義偉内閣の目玉政策として歴史的な不妊治療の公的保険適用が実現"
     },
     {
       "date": "2023年〜2024年",
       "label": "先進医療の拡大と自治体独自の上乗せ助成拡充",
+      "title": "先進医療の拡大と自治体独自の上乗せ助成拡充",
       "status": "completed",
       "description": "タイムラプスや子宮内膜受容能検査等の先進医療告示と公費補助拡充"
     },
     {
       "date": "2026年",
       "label": "保険適用後の出産実績検証と両立支援制度の義務化検討",
+      "title": "保険適用後の出産実績検証と両立支援制度の義務化検討",
       "status": "current",
       "description": "年齢・回数要件の見直し議論と育児介護休業法での両立支援指針強化"
     }
@@ -276,7 +279,10 @@
         "source": {
           "title": "オーストラリア連邦サービス庁 (Services Australia) - Assisted reproductive technology",
           "url": "https://www.servicesaustralia.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "BE",
@@ -286,7 +292,10 @@
         "source": {
           "title": "ベルギー国立健康障害保険機構 (INAMI/RIZIV) - Procréation médicalement assistée",
           "url": "https://www.inami.fgov.be"
-        }
+        },
+        "countryCode": "BE",
+        "systemName": "ベルギーの関連制度・方針",
+        "keyFeature": "ベルギーにおける制度設計と運用"
       },
       {
         "code": "IL",
@@ -296,7 +305,10 @@
         "source": {
           "title": "イスラエル保健省 (Ministry of Health) - In Vitro Fertilization (IVF) eligibility",
           "url": "https://www.gov.il/en/departments/ministry_of_health"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "イスラエルの関連制度・方針",
+        "keyFeature": "イスラエルにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -306,7 +318,10 @@
         "source": {
           "title": "韓国保健福祉部 (MOHW) - 難任治療費支援事業",
           "url": "https://www.mohw.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

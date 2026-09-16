@@ -94,18 +94,21 @@
     {
       "date": "2023年6月",
       "label": "教員の勤務実態調査結果の公表",
+      "title": "教員の勤務実態調査結果の公表",
       "status": "completed",
       "description": "中学校教員の約8割、小学校の約6割が過労死ラインを超える実態が判明"
     },
     {
       "date": "2024年5月",
       "label": "中央教育審議会（中教審）の特別部会答申",
+      "title": "中央教育審議会（中教審）の特別部会答申",
       "status": "completed",
       "description": "教職調整額を現行4%から「10%以上」へ引き上げ、担任手当拡充を提言"
     },
     {
       "date": "2025年〜2026年",
       "label": "法改正案の国会提出と自治体条例施行",
+      "title": "法改正案の国会提出と自治体条例施行",
       "status": "current",
       "description": "給特法改正法案が審議され、2026年度からの段階的増額と部活地域移行が進行中"
     }
@@ -282,7 +285,10 @@
         "source": {
           "title": "フィンランド国家教育庁 (Opetushallitus) - Teachers' working conditions and hours",
           "url": "https://www.oph.fi/en"
-        }
+        },
+        "countryCode": "FI",
+        "systemName": "フィンランドの関連制度・方針",
+        "keyFeature": "フィンランドにおける制度設計と運用"
       },
       {
         "code": "SE",
@@ -292,7 +298,10 @@
         "source": {
           "title": "スウェーデン国家教育庁 (Skolverket) - Arbetsmiljö och lärares arbetstid",
           "url": "https://www.skolverket.se"
-        }
+        },
+        "countryCode": "SE",
+        "systemName": "スウェーデンの関連制度・方針",
+        "keyFeature": "スウェーデンにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -302,7 +311,10 @@
         "source": {
           "title": "オーストラリア教育省 (Department of Education) - Teacher workforce standards",
           "url": "https://www.education.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -312,7 +324,10 @@
         "source": {
           "title": "韓国教育部 (MOE) - 教員人事および給与・手当制度",
           "url": "https://www.moe.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

@@ -93,17 +93,23 @@
   "timeline": [
     {
       "date": "2022年4月",
+      "label": "CEV補助金でV2H充放電設備の大規模助成開始",
       "title": "CEV補助金でV2H充放電設備の大規模助成開始",
+      "status": "completed",
       "description": "申請殺到で予算即時上限。"
     },
     {
       "date": "2024年1月",
+      "label": "能登半島地震でEVからの避難所給電が活躍",
       "title": "能登半島地震でEVからの避難所給電が活躍",
+      "status": "completed",
       "description": "防災価値が再認識。"
     },
     {
       "date": "2025年12月",
+      "label": "建築物省エネ法連動のV2H促進基本方針を策定",
       "title": "建築物省エネ法連動のV2H促進基本方針を策定",
+      "status": "current",
       "description": "新築設計基準の標準化。"
     }
   ],

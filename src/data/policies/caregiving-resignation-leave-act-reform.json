@@ -110,25 +110,29 @@
     {
       "date": "2024年5月",
       "label": "改正育児・介護休業法の成立",
+      "title": "改正育児・介護休業法の成立",
       "status": "completed",
       "description": "40歳到達時の面談義務化やテレワーク等の措置義務が国会で可決"
     },
     {
       "date": "2025年4月",
       "label": "改正法の一部施行（制度周知・面談義務化）",
+      "title": "改正法の一部施行（制度周知・面談義務化）",
       "status": "completed",
       "description": "企業による40歳従業員への個別周知・意向確認面談がスタート"
     },
     {
       "date": "2025年10月",
       "label": "テレワーク等の柔軟な働き方措置の施行",
-      "status": "current",
+      "title": "テレワーク等の柔軟な働き方措置の施行",
+      "status": "completed",
       "description": "介護に直面する従業員へのテレワーク・時差出勤等の提供義務化"
     },
     {
       "date": "2027年以降",
       "label": "介護離職者数および休業取得率の目標評価",
-      "status": "upcoming",
+      "title": "介護離職者数および休業取得率の目標評価",
+      "status": "current",
       "description": "政府が掲げる「介護離職ゼロ」目標に向けた効果検証"
     }
   ],
@@ -296,7 +300,10 @@
         "source": {
           "title": "オランダ社会問題・雇用省 (SZW) - Care leave and employment",
           "url": "https://www.government.nl/ministries/ministry-of-social-affairs-and-employment"
-        }
+        },
+        "countryCode": "NL",
+        "systemName": "オランダの関連制度・方針",
+        "keyFeature": "オランダにおける制度設計と運用"
       },
       {
         "code": "SE",
@@ -306,7 +313,10 @@
         "source": {
           "title": "スウェーデン社会保険庁 (Försäkringskassan) - Närståendepenning",
           "url": "https://www.forsakringskassan.se"
-        }
+        },
+        "countryCode": "SE",
+        "systemName": "スウェーデンの関連制度・方針",
+        "keyFeature": "スウェーデンにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -316,7 +326,10 @@
         "source": {
           "title": "オーストラリア公正労働担当官 (Fair Work Ombudsman) - Carer's leave and flexible work",
           "url": "https://www.fairwork.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -326,7 +339,10 @@
         "source": {
           "title": "韓国雇用労働部 (MOEL) - 家族ケア休職・労働時間短縮制度",
           "url": "https://www.moel.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

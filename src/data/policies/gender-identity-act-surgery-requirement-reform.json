@@ -110,25 +110,29 @@
     {
       "date": "2003年7月",
       "label": "性同一性障害特例法の成立",
+      "title": "性同一性障害特例法の成立",
       "status": "completed",
       "description": "世界でも先駆的な制度として戸籍性別の変更手続きを創設"
     },
     {
       "date": "2023年10月",
       "label": "最高裁大法廷が「生殖不能要件」を違憲決定",
+      "title": "最高裁大法廷が「生殖不能要件」を違憲決定",
       "status": "completed",
       "description": "15人全員一致で違憲・無効と判断、外性器要件は高裁へ差し戻し"
     },
     {
       "date": "2024年〜2026年",
       "label": "法制審議会・国会における特例法改正案の検討",
-      "status": "current",
+      "title": "法制審議会・国会における特例法改正案の検討",
+      "status": "completed",
       "description": "違憲判決を受けた条文削除と女性スペース保護指針の制度設計"
     },
     {
       "date": "2027年以降",
       "label": "改正特例法の施行と運用指針の定着",
-      "status": "upcoming",
+      "title": "改正特例法の施行と運用指針の定着",
+      "status": "current",
       "description": "新たな基準に基づく性別変更手続きの運用と社会理解の検証"
     }
   ],
@@ -270,7 +274,10 @@
         "source": {
           "title": "スウェーデン政府 (Regeringen) - Ny könstillhörighetslag",
           "url": "https://www.regeringen.se"
-        }
+        },
+        "countryCode": "SE",
+        "systemName": "スウェーデンの関連制度・方針",
+        "keyFeature": "スウェーデンにおける制度設計と運用"
       },
       {
         "code": "AR",
@@ -280,7 +287,10 @@
         "source": {
           "title": "アルゼンチン政府 (Argentina.gob.ar) - Ley de Identidad de Género (Ley 26.743)",
           "url": "https://www.argentina.gob.ar"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "アルゼンチンの関連制度・方針",
+        "keyFeature": "アルゼンチンにおける制度設計と運用"
       },
       {
         "code": "FR",
@@ -290,7 +300,10 @@
         "source": {
           "title": "フランス司法省 (Ministère de la Justice) - Modification de la mention du sexe à l'état civil",
           "url": "https://www.justice.gouv.fr"
-        }
+        },
+        "countryCode": "FR",
+        "systemName": "フランスの関連制度・方針",
+        "keyFeature": "フランスにおける制度設計と運用"
       },
       {
         "code": "NZ",
@@ -300,7 +313,10 @@
         "source": {
           "title": "ニュージーランド政府 (Govt.nz) - Changing your registered sex on birth certificate",
           "url": "https://www.govt.nz"
-        }
+        },
+        "countryCode": "NZ",
+        "systemName": "ニュージーランドの関連制度・方針",
+        "keyFeature": "ニュージーランドにおける制度設計と運用"
       }
     ]
   }

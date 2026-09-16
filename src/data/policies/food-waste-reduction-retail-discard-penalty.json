@@ -118,18 +118,21 @@
     {
       "date": "2019年",
       "label": "「食品ロスの削減の推進に関する法律（食品ロス削減推進法）」公布・施行",
+      "title": "「食品ロスの削減の推進に関する法律（食品ロス削減推進法）」公布・施行",
       "status": "completed",
       "description": "「食品ロスの削減の推進に関する法律（食品ロス削減推進法）」公布・施行"
     },
     {
       "date": "2023年",
       "label": "政府「食品ロス削減目標達成に向けた施策パッケージ」策定",
+      "title": "政府「食品ロス削減目標達成に向けた施策パッケージ」策定",
       "status": "completed",
       "description": "政府「食品ロス削減目標達成に向けた施策パッケージ」策定"
     },
     {
       "date": "2026年",
       "label": "食品寄付に伴う企業の免責法制化検討と2030年半減目標の総点検",
+      "title": "食品寄付に伴う企業の免責法制化検討と2030年半減目標の総点検",
       "status": "current",
       "description": "食品寄付に伴う企業の免責法制化検討と2030年半減目標の総点検"
     }
@@ -270,7 +273,10 @@
         "source": {
           "title": "ドイツ連邦食料・農業省 (BMEL) - Nationale Strategie zur Reduzierung der Lebensmittelverschwendung",
           "url": "https://www.bmel.de"
-        }
+        },
+        "countryCode": "DE",
+        "systemName": "ドイツの関連制度・方針",
+        "keyFeature": "ドイツにおける制度設計と運用"
       },
       {
         "code": "ES",
@@ -280,7 +286,10 @@
         "source": {
           "title": "スペイン農業水産食料省 (MAPA) - Ley de Prevención de las Pérdidas y el Desperdicio Alimentario",
           "url": "https://www.mapa.gob.es"
-        }
+        },
+        "countryCode": "ES",
+        "systemName": "スペインの関連制度・方針",
+        "keyFeature": "スペインにおける制度設計と運用"
       },
       {
         "code": "GB",
@@ -290,7 +299,10 @@
         "source": {
           "title": "英国環境・食糧・農村地域省 (Defra) - Food Waste Reduction",
           "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
-        }
+        },
+        "countryCode": "UK",
+        "systemName": "英国の関連制度・方針",
+        "keyFeature": "英国における制度設計と運用"
       },
       {
         "code": "AU",
@@ -300,7 +312,10 @@
         "source": {
           "title": "オーストラリア気候変動・環境省 (DCCEEW) - National Food Waste Strategy",
           "url": "https://www.dcceew.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       }
     ]
   }

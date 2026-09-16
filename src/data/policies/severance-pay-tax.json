@@ -118,25 +118,29 @@
     {
       "date": "2023年6月",
       "label": "「骨太の方針2023」に明記",
+      "title": "「骨太の方針2023」に明記",
       "status": "completed",
       "description": "自己都合退職の減額制限見直しや税制平準化を提起"
     },
     {
       "date": "2024年度",
       "label": "政府税制調査会で議論継続",
+      "title": "政府税制調査会で議論継続",
       "status": "completed",
       "description": "世論の強い反発を受け本格増税の時期を慎重に探る"
     },
     {
       "date": "2026年9月",
       "label": "経過措置を含む具体案の調整",
-      "status": "current",
+      "title": "経過措置を含む具体案の調整",
+      "status": "completed",
       "description": "定年間近世代への激変緩和策を含めた税制改正を協議中"
     },
     {
       "date": "2027年以降",
       "label": "税制改正法案の国会提出見通し",
-      "status": "upcoming",
+      "title": "税制改正法案の国会提出見通し",
+      "status": "current",
       "description": "段階的導入に向けた法制化スケジュールを検討"
     }
   ],
@@ -312,7 +316,10 @@
         "source": {
           "title": "オーストラリア国税庁 (ATO) - Taxation of employment termination payments",
           "url": "https://www.ato.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -322,7 +329,10 @@
         "source": {
           "title": "カナダ歳入庁 (CRA) - Transfer of retiring allowances to RRSPs",
           "url": "https://www.canada.ca/en/revenue-agency.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -332,7 +342,10 @@
         "source": {
           "title": "韓国国税庁 (NTS) - 退職所得税の計算構造および控除案内",
           "url": "https://www.nts.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       },
       {
         "code": "SG",
@@ -342,7 +355,10 @@
         "source": {
           "title": "シンガポール内国歳入庁 (IRAS) - Retrenchment benefits and retirement payouts",
           "url": "https://www.iras.gov.sg"
-        }
+        },
+        "countryCode": "SG",
+        "systemName": "シンガポールの関連制度・方針",
+        "keyFeature": "シンガポールにおける制度設計と運用"
       }
     ]
   }

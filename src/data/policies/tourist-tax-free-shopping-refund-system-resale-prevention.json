@@ -95,25 +95,29 @@
     {
       "date": "2020年",
       "label": "免税手続きの電子化（パスポート情報電子送信）義務化",
+      "title": "免税手続きの電子化（パスポート情報電子送信）義務化",
       "status": "completed",
       "description": "紙の免税レシート添付を廃止"
     },
     {
       "date": "2022年〜2023年",
       "label": "数十億円規模の免税転売脱税が相次いで発覚",
+      "title": "数十億円規模の免税転売脱税が相次いで発覚",
       "status": "completed",
       "description": "Apple Japan等への巨額追徴課税と制度見直し着手"
     },
     {
       "date": "2024年12月",
       "label": "与党税制改正大綱に「リファンド方式への移行」明記",
+      "title": "与党税制改正大綱に「リファンド方式への移行」明記",
       "status": "completed",
       "description": "後払い戻し方式への抜本転換を正式決定"
     },
     {
       "date": "2026年以降",
       "label": "主要空港でのシステム稼働とリファンド方式の完全実施",
-      "status": "upcoming",
+      "title": "主要空港でのシステム稼働とリファンド方式の完全実施",
+      "status": "current",
       "description": "全国の免税店と税関を結ぶ新還付プラットフォーム稼働"
     }
   ],
@@ -251,7 +255,10 @@
         "source": {
           "title": "オーストラリア国境警備部隊 (ABF) - Tourist Refund Scheme (TRS)",
           "url": "https://www.abf.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "FR",
@@ -261,7 +268,10 @@
         "source": {
           "title": "フランス税関総局 (Douane française) - Détaxe touristique et bornes PABLO",
           "url": "https://www.douane.gouv.fr"
-        }
+        },
+        "countryCode": "FR",
+        "systemName": "フランスの関連制度・方針",
+        "keyFeature": "フランスにおける制度設計と運用"
       },
       {
         "code": "TH",
@@ -271,7 +281,10 @@
         "source": {
           "title": "タイ歳入庁 (Revenue Department) - VAT Refund for Tourists",
           "url": "https://www.rd.go.th"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "タイの関連制度・方針",
+        "keyFeature": "タイにおける制度設計と運用"
       },
       {
         "code": "CH",
@@ -281,7 +294,10 @@
         "source": {
           "title": "スイス連邦税関国境警備局 (BAZG) - Steuerbefreiung und Ausfuhr im Reiseverkehr",
           "url": "https://www.bazg.admin.ch"
-        }
+        },
+        "countryCode": "CH",
+        "systemName": "スイスの関連制度・方針",
+        "keyFeature": "スイスにおける制度設計と運用"
       }
     ]
   }

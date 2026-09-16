@@ -110,24 +110,28 @@
     {
       "date": "2022年4月",
       "label": "最高裁がタワマン過度節税に「総則6項」適用を容認",
+      "title": "最高裁がタワマン過度節税に「総則6項」適用を容認",
       "status": "completed",
       "description": "購入直後の相続と売却による極端な節税を国税側勝訴とする歴史的判決"
     },
     {
       "date": "2023年6月",
       "label": "国税庁がマンション評価額の新算定ルール通達を公表",
+      "title": "国税庁がマンション評価額の新算定ルール通達を公表",
       "status": "completed",
       "description": "乖離率に応じた新補正率の計算式と2024年施行を確定"
     },
     {
       "date": "2024年1月",
       "label": "タワーマンション新相続税評価基準の施行",
+      "title": "タワーマンション新相続税評価基準の施行",
       "status": "completed",
       "description": "全国の分譲マンションを対象に市場価格6割水準への自動補正開始"
     },
     {
       "date": "2026年〜2027年",
       "label": "新基準適用後の相続税申告実績と不動産市場影響の検証",
+      "title": "新基準適用後の相続税申告実績と不動産市場影響の検証",
       "status": "current",
       "description": "税収効果、中古価格への影響、一戸建てとの格差の再点検"
     }
@@ -270,7 +274,10 @@
         "source": {
           "title": "オーストラリア国税庁 (ATO) - Deceased estates and capital gains tax",
           "url": "https://www.ato.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "DE",
@@ -280,7 +287,10 @@
         "source": {
           "title": "ドイツ連邦財務省 (BMF) - Erbschaftsteuer und Grundbesitzbewertung",
           "url": "https://www.bundesfinanzministerium.de"
-        }
+        },
+        "countryCode": "DE",
+        "systemName": "ドイツの関連制度・方針",
+        "keyFeature": "ドイツにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -290,7 +300,10 @@
         "source": {
           "title": "韓国国税庁 (NTS) - 相続・贈与税の不動産時価評価案内",
           "url": "https://www.nts.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       },
       {
         "code": "CA",
@@ -300,7 +313,10 @@
         "source": {
           "title": "カナダ歳入庁 (CRA) - Deemed disposition of property on death",
           "url": "https://www.canada.ca/en/revenue-agency.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       }
     ]
   }

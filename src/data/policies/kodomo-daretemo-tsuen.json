@@ -118,25 +118,29 @@
     {
       "date": "2023年6月",
       "label": "こども未来戦略方針に創設明記",
+      "title": "こども未来戦略方針に創設明記",
       "status": "completed",
       "description": "就労要件を問わない新たな通園制度の創設方針を決定"
     },
     {
       "date": "2024年度",
       "label": "全国自治体で試行的事業実施",
+      "title": "全国自治体で試行的事業実施",
       "status": "completed",
       "description": "モデル自治体で月10時間枠での実証検証を開始"
     },
     {
       "date": "2026年4月",
       "label": "全国で本格制度施行",
-      "status": "current",
+      "title": "全国で本格制度施行",
+      "status": "completed",
       "description": "子ども・子育て支援法等に基づき全国で本格スタート"
     },
     {
       "date": "2028年度",
       "label": "利用枠の拡大検討",
-      "status": "upcoming",
+      "title": "利用枠の拡大検討",
+      "status": "current",
       "description": "現場体制とニーズを検証し月20時間等への拡大を協議"
     }
   ],
@@ -312,7 +316,10 @@
         "source": {
           "title": "ノルウェー教育訓練庁 (Udir) - Rett til barnehageplass",
           "url": "https://www.udir.no"
-        }
+        },
+        "countryCode": "NO",
+        "systemName": "ノルウェーの関連制度・方針",
+        "keyFeature": "ノルウェーにおける制度設計と運用"
       },
       {
         "code": "FI",
@@ -322,7 +329,10 @@
         "source": {
           "title": "フィンランド国家教育庁 (Opetushallitus) - Early childhood education and care",
           "url": "https://www.oph.fi/en"
-        }
+        },
+        "countryCode": "FI",
+        "systemName": "フィンランドの関連制度・方針",
+        "keyFeature": "フィンランドにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -332,7 +342,10 @@
         "source": {
           "title": "オーストラリア教育省 (Department of Education) - Child Care Subsidy",
           "url": "https://www.education.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -342,7 +355,10 @@
         "source": {
           "title": "韓国保健福祉部 (MOHW) - 時間制保育事業案内",
           "url": "https://www.mohw.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

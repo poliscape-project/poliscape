@@ -93,17 +93,23 @@
   "timeline": [
     {
       "date": "2021年6月",
+      "label": "重要土地等調査法が国会で成立",
       "title": "重要土地等調査法が国会で成立",
+      "status": "completed",
       "description": "安保上の土地規制創設。"
     },
     {
       "date": "2022年9月",
+      "label": "法律が施行され第1弾の区域指定告示",
       "title": "法律が施行され第1弾の区域指定告示",
+      "status": "completed",
       "description": "離島や自衛隊基地周辺。"
     },
     {
       "date": "2024年4月",
+      "label": "全国数百カ所の重要施設周辺が全面指定完了",
       "title": "全国数百カ所の重要施設周辺が全面指定完了",
+      "status": "current",
       "description": "事前届出制度の本格稼働。"
     }
   ],

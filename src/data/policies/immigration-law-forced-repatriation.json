@@ -94,19 +94,22 @@
     {
       "date": "2021年3月",
       "label": "名古屋入管でのスリランカ人女性死亡事案が発生",
+      "title": "名古屋入管でのスリランカ人女性死亡事案が発生",
       "status": "completed",
       "description": "入管収容のあり方に対し国内外から猛烈な批判が巻き起こる"
     },
     {
       "date": "2023年6月",
       "label": "改正出入国管理法が国会で成立",
+      "title": "改正出入国管理法が国会で成立",
       "status": "completed",
       "description": "与野党の激しい修正協議を経て、送還停止効の例外や監理措置が可決"
     },
     {
       "date": "2024年6月10日",
       "label": "改正入管法が全国で全面施行",
-      "status": "completed",
+      "title": "改正入管法が全国で全面施行",
+      "status": "current",
       "description": "3回目以降の申請者に対する退去手続きや監理措置の適用運用がスタート"
     }
   ],
@@ -192,7 +195,10 @@
         "source": {
           "title": "フランス内務省 (Ministère de l'Intérieur) - Loi immigration et intégration",
           "url": "https://www.interieur.gouv.fr"
-        }
+        },
+        "countryCode": "FR",
+        "systemName": "フランスの関連制度・方針",
+        "keyFeature": "フランスにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -202,7 +208,10 @@
         "source": {
           "title": "オーストラリア内務省 (Department of Home Affairs) - Operation Sovereign Borders",
           "url": "https://www.homeaffairs.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "US",
@@ -212,7 +221,10 @@
         "source": {
           "title": "米国市民権・移民業務局 (USCIS) - Deportation and Removal Proceedings",
           "url": "https://www.uscis.gov"
-        }
+        },
+        "countryCode": "US",
+        "systemName": "アメリカの関連制度・方針",
+        "keyFeature": "アメリカにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -222,7 +234,10 @@
         "source": {
           "title": "韓国法務部 (MOJ) - 出入国外国人政策本部",
           "url": "https://www.moj.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

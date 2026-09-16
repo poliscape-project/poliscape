@@ -118,24 +118,28 @@
     {
       "date": "2018年8月",
       "label": "全部支給所得上限の前回引き上げ",
+      "title": "全部支給所得上限の前回引き上げ",
       "status": "completed",
       "description": "全部支給の上限所得を80万円から87万円に改定。"
     },
     {
       "date": "2024年4月",
       "label": "児童扶養手当法改正案の国会成立",
+      "title": "児童扶養手当法改正案の国会成立",
       "status": "completed",
       "description": "全部支給枠の引き上げと第3子加算倍増を盛り込んだ改正法が可決。"
     },
     {
       "date": "2024年11月",
       "label": "新基準の施行・適用開始",
+      "title": "新基準の施行・適用開始",
       "status": "completed",
       "description": "11月分からの支給基準が改定され、2025年1月支給日より増額口座振込。"
     },
     {
       "date": "2025年以降",
       "label": "養育費立替払い制度や住宅手当の法制化検討",
+      "title": "養育費立替払い制度や住宅手当の法制化検討",
       "status": "current",
       "description": "地方自治体の養育費保証補助や公営住宅優先入居施策の全国展開を協議。"
     }
@@ -282,7 +286,10 @@
         "source": {
           "title": "ノルウェー労働福祉庁 (NAV) - Utvidet barnetrygd for enslig forsørger",
           "url": "https://www.nav.no"
-        }
+        },
+        "countryCode": "NO",
+        "systemName": "ノルウェーの関連制度・方針",
+        "keyFeature": "ノルウェーにおける制度設計と運用"
       },
       {
         "code": "SE",
@@ -292,7 +299,10 @@
         "source": {
           "title": "スウェーデン社会保険庁 (Försäkringskassan) - Underhållsstöd och barnbidrag",
           "url": "https://www.forsakringskassan.se"
-        }
+        },
+        "countryCode": "SE",
+        "systemName": "スウェーデンの関連制度・方針",
+        "keyFeature": "スウェーデンにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -302,7 +312,10 @@
         "source": {
           "title": "オーストラリア連邦サービス庁 (Services Australia) - Parenting Payment for single parents",
           "url": "https://www.servicesaustralia.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -312,7 +325,10 @@
         "source": {
           "title": "韓国女性家族部 (MOGEF) - ひとり親家族児童養育費支援事業",
           "url": "https://www.mogef.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

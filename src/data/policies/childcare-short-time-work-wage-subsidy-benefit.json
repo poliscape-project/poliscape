@@ -94,24 +94,28 @@
     {
       "date": "2023年6月",
       "label": "こども未来戦略方針の閣議決定",
+      "title": "こども未来戦略方針の閣議決定",
       "status": "completed",
       "description": "時短勤務時の手取り減少を補填する給付制度の創設を明記"
     },
     {
       "date": "2024年6月",
       "label": "改正子ども・子育て支援法等の成立",
+      "title": "改正子ども・子育て支援法等の成立",
       "status": "completed",
       "description": "雇用保険法等の改正により育児時短就業給付の新設が法制化"
     },
     {
       "date": "2025年4月1日",
       "label": "育児時短就業給付の制度施行",
+      "title": "育児時短就業給付の制度施行",
       "status": "completed",
       "description": "ハローワークでの申請受付開始・賃金10%相当の支給スタート"
     },
     {
       "date": "2026年〜",
       "label": "取得率実績の検証と対象年齢拡大の検討",
+      "title": "取得率実績の検証と対象年齢拡大の検討",
       "status": "current",
       "description": "男女別の利用実績検証と3歳未満・未就学児への拡充議論"
     }
@@ -250,7 +254,10 @@
         "source": {
           "title": "ノルウェー労働福祉庁 (NAV) - Graderte foreldrepenger",
           "url": "https://www.nav.no"
-        }
+        },
+        "countryCode": "NO",
+        "systemName": "ノルウェーの関連制度・方針",
+        "keyFeature": "ノルウェーにおける制度設計と運用"
       },
       {
         "code": "AT",
@@ -260,7 +267,10 @@
         "source": {
           "title": "オーストリア連邦政府ポータル (oesterreich.gv.at) - Elternteilzeit",
           "url": "https://www.oesterreich.gv.at"
-        }
+        },
+        "countryCode": "AT",
+        "systemName": "オーストリアの関連制度・方針",
+        "keyFeature": "オーストリアにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -270,7 +280,10 @@
         "source": {
           "title": "カナダ雇用・社会開発省 (ESDC) - EI Working While on Claim",
           "url": "https://www.canada.ca/en/services/benefits/ei.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -280,7 +293,10 @@
         "source": {
           "title": "韓国雇用労働部 (MOEL) - 育児期労働時間短縮給与",
           "url": "https://www.moel.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

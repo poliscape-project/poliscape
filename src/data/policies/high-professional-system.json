@@ -118,18 +118,21 @@
     {
       "date": "2018年6月",
       "label": "働き方改革関連法で高プロ創設",
+      "title": "働き方改革関連法で高プロ創設",
       "status": "completed",
       "description": "国会で激しい与野党論戦の末に可決"
     },
     {
       "date": "2019年4月",
       "label": "高プロ制度が施行",
+      "title": "高プロ制度が施行",
       "status": "completed",
       "description": "年収1,075万円以上を対象に運用開始"
     },
     {
       "date": "現在",
       "label": "利用実態の検証と見直し議論",
+      "title": "利用実態の検証と見直し議論",
       "status": "current",
       "description": "適用者の健康状態や企業利用状況のモニタリング"
     }
@@ -306,7 +309,10 @@
         "source": {
           "title": "カナダ雇用・社会開発省 (ESDC) - Hours of work exemptions under Canada Labour Code",
           "url": "https://www.canada.ca/en/employment-social-development.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -316,7 +322,10 @@
         "source": {
           "title": "オーストラリア公正労働担当官 (Fair Work Ombudsman) - High income threshold",
           "url": "https://www.fairwork.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "CH",
@@ -326,7 +335,10 @@
         "source": {
           "title": "スイス連邦経済管財庁 (SECO) - Arbeitszeitgesetz und Verzicht auf Arbeitszeiterfassung",
           "url": "https://www.seco.admin.ch"
-        }
+        },
+        "countryCode": "CH",
+        "systemName": "スイスの関連制度・方針",
+        "keyFeature": "スイスにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -336,7 +348,10 @@
         "source": {
           "title": "韓国雇用労働部 (MOEL) - 裁量勤労時間制の運営指針",
           "url": "https://www.moel.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

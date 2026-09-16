@@ -95,25 +95,29 @@
     {
       "date": "2020年",
       "label": "争点整理手続きでのウェブ会議運用スタート",
+      "title": "争点整理手続きでのウェブ会議運用スタート",
       "status": "completed",
       "description": "主要裁判所でリモート期日の試験運用開始"
     },
     {
       "date": "2022年5月",
       "label": "改正民事訴訟法の成立",
+      "title": "改正民事訴訟法の成立",
       "status": "completed",
       "description": "民事裁判の全面IT化（3つのe）を法制化"
     },
     {
       "date": "2024年",
       "label": "ウェブ口頭弁論の全国拡大施行",
+      "title": "ウェブ口頭弁論の全国拡大施行",
       "status": "completed",
       "description": "法廷に出頭しない判決言渡しの解禁"
     },
     {
       "date": "2025年〜2026年",
       "label": "e提出・e事件管理の完全施行（民事裁判完全ペーパーレス化）",
-      "status": "upcoming",
+      "title": "e提出・e事件管理の完全施行（民事裁判完全ペーパーレス化）",
+      "status": "current",
       "description": "最高裁ポータルサイトの全国稼働"
     }
   ],
@@ -251,7 +255,10 @@
         "source": {
           "title": "オーストラリア連邦裁判所 (Federal Court of Australia) - eServices and Online Hearings",
           "url": "https://www.fedcourt.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "DE",
@@ -261,7 +268,10 @@
         "source": {
           "title": "ドイツ連邦司法省 (BMJ) - Elektronischer Rechtsverkehr und eAkte",
           "url": "https://www.bmj.de"
-        }
+        },
+        "countryCode": "DE",
+        "systemName": "ドイツの関連制度・方針",
+        "keyFeature": "ドイツにおける制度設計と運用"
       },
       {
         "code": "EE",
@@ -271,7 +281,10 @@
         "source": {
           "title": "エストニア裁判所 (Eesti Kohtud) - e-Toimik and Digital Court System",
           "url": "https://www.kohus.ee"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "エストニアの関連制度・方針",
+        "keyFeature": "エストニアにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -281,7 +294,10 @@
         "source": {
           "title": "BC州民事紛争解決審判所 (CRT) - Online Civil Resolution Tribunal",
           "url": "https://civilresolutionbc.ca"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "カナダ（BC州）の関連制度・方針",
+        "keyFeature": "カナダ（BC州）における制度設計と運用"
       }
     ]
   }

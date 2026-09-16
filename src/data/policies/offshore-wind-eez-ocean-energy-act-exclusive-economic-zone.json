@@ -93,12 +93,16 @@
   "timeline": [
     {
       "date": "2023年12月",
+      "label": "総合海洋政策本部でEEZ洋上風力法案の骨子を決定",
       "title": "総合海洋政策本部でEEZ洋上風力法案の骨子を決定",
+      "status": "completed",
       "description": "領海外での占用許可と安全保障上の手続きを整理"
     },
     {
       "date": "2024年3月",
+      "label": "EEZ洋上風力整備新法案を通常国会へ提出",
       "title": "EEZ洋上風力整備新法案を通常国会へ提出",
+      "status": "current",
       "description": "浮体式技術開発と漁業共生枠組みの法制化を目指す"
     }
   ],

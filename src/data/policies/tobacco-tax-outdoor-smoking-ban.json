@@ -94,18 +94,21 @@
     {
       "date": "2020年4月",
       "label": "改正健康増進法が全面施行",
+      "title": "改正健康増進法が全面施行",
       "status": "completed",
       "description": "飲食店やオフィスなど屋内での原則禁煙が全国で義務化"
     },
     {
       "date": "2023年6月",
       "label": "防衛財源確保法が成立",
+      "title": "防衛財源確保法が成立",
       "status": "completed",
       "description": "将来的なタバコ税（1本3円相当）の増税枠組みが法律として成立"
     },
     {
       "date": "2024年〜2026年",
       "label": "自治体による全域路上禁煙条例と過料徴収の本格化",
+      "title": "自治体による全域路上禁煙条例と過料徴収の本格化",
       "status": "current",
       "description": "渋谷区、新宿区、千代田区等で屋外全面禁煙と密閉型喫煙所への転換が進行中"
     }
@@ -198,7 +201,10 @@
         "source": {
           "title": "ニュージーランド保健省 (Health New Zealand) - Smokefree environment regulations",
           "url": "https://www.health.govt.nz"
-        }
+        },
+        "countryCode": "NZ",
+        "systemName": "ニュージーランドの関連制度・方針",
+        "keyFeature": "ニュージーランドにおける制度設計と運用"
       },
       {
         "code": "ES",
@@ -208,7 +214,10 @@
         "source": {
           "title": "スペイン保健省 (Ministerio de Sanidad) - Plan Integral de Prevención del Tabaquismo",
           "url": "https://www.sanidad.gob.es"
-        }
+        },
+        "countryCode": "ES",
+        "systemName": "スペインの関連制度・方針",
+        "keyFeature": "スペインにおける制度設計と運用"
       },
       {
         "code": "IT",
@@ -218,7 +227,10 @@
         "source": {
           "title": "イタリア保健省 (Ministero della Salute) - Fumo e tutela della salute pubblica",
           "url": "https://www.salute.gov.it"
-        }
+        },
+        "countryCode": "IT",
+        "systemName": "イタリアの関連制度・方針",
+        "keyFeature": "イタリアにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -228,7 +240,10 @@
         "source": {
           "title": "カナダ保健省 (Health Canada) - Tobacco products and smoking regulations",
           "url": "https://www.canada.ca/en/health-canada.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       }
     ]
   }

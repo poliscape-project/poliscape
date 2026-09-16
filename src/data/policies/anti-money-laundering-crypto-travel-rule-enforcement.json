@@ -118,24 +118,28 @@
     {
       "date": "2019年6月",
       "label": "FATFによるトラベルルール勧告の改訂",
+      "title": "FATFによるトラベルルール勧告の改訂",
       "status": "completed",
       "description": "暗号資産交換業者に対し電信送金と同等の送受金者情報通知を義務付け。"
     },
     {
       "date": "2022年12月",
       "label": "改正犯罪収益移転防止法の成立",
+      "title": "改正犯罪収益移転防止法の成立",
       "status": "completed",
       "description": "トラベルルールを国内法として法制化し、暗号資産交換業者への罰則規定を整備。"
     },
     {
       "date": "2023年6月",
       "label": "トラベルルールの完全施行",
+      "title": "トラベルルールの完全施行",
       "status": "completed",
       "description": "日本国内の全暗号資産交換業者において通知義務と送金制限が本格スタート。"
     },
     {
       "date": "2025年〜2026年",
       "label": "DeFi・アンホステッドウォレット対策の国際枠組み強化",
+      "title": "DeFi・アンホステッドウォレット対策の国際枠組み強化",
       "status": "current",
       "description": "FATF第5巡相互審査に向け、分散型金融を悪用したマネロン対策の国際協調を推進中。"
     }
@@ -290,7 +294,10 @@
         "source": {
           "title": "英国金融行動監視機構 (FCA) - Travel Rule for cryptoasset businesses",
           "url": "https://www.fca.org.uk"
-        }
+        },
+        "countryCode": "UK",
+        "systemName": "英国の関連制度・方針",
+        "keyFeature": "英国における制度設計と運用"
       },
       {
         "code": "CA",
@@ -300,7 +307,10 @@
         "source": {
           "title": "カナダFINTRAC - Travel rule for virtual currency transfers",
           "url": "https://fintrac-canafe.canada.ca"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "CH",
@@ -310,7 +320,10 @@
         "source": {
           "title": "スイス金融市場監督機構 (FINMA) - Payments on the blockchain and Travel Rule",
           "url": "https://www.finma.ch"
-        }
+        },
+        "countryCode": "CH",
+        "systemName": "スイスの関連制度・方針",
+        "keyFeature": "スイスにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -320,7 +333,10 @@
         "source": {
           "title": "韓国金融委員会 (FSC) - 仮想資産事業者のトラベルルール履行現況",
           "url": "https://www.fsc.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

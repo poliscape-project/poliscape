@@ -118,18 +118,21 @@
     {
       "date": "2019年10月",
       "label": "消費税10%・軽減税率8%導入",
+      "title": "消費税10%・軽減税率8%導入",
       "status": "completed",
       "description": "複数税率の開始と区分記載請求書"
     },
     {
       "date": "2023年10月",
       "label": "インボイス制度スタート",
+      "title": "インボイス制度スタート",
       "status": "completed",
       "description": "登録開始・2割特例・80%控除の適用開始"
     },
     {
       "date": "2026年9月（現在）",
       "label": "制度定着と特例の見直し議論",
+      "title": "制度定着と特例の見直し議論",
       "status": "current",
       "description": "経過措置の活用状況と小規模支援の継続検討"
     }
@@ -306,7 +309,10 @@
         "source": {
           "title": "イタリア税務署 (Agenzia delle Entrate) - Fatturazione elettronica e SDI",
           "url": "https://www.agenziaentrate.gov.it"
-        }
+        },
+        "countryCode": "IT",
+        "systemName": "イタリアの関連制度・方針",
+        "keyFeature": "イタリアにおける制度設計と運用"
       },
       {
         "code": "ES",
@@ -316,7 +322,10 @@
         "source": {
           "title": "スペイン国家税務庁 (AEAT) - Suministro Inmediato de Información (SII)",
           "url": "https://sede.agenciatributaria.gob.es"
-        }
+        },
+        "countryCode": "ES",
+        "systemName": "スペインの関連制度・方針",
+        "keyFeature": "スペインにおける制度設計と運用"
       },
       {
         "code": "SG",
@@ -326,7 +335,10 @@
         "source": {
           "title": "シンガポール内国歳入庁 (IRAS) - Goods and Services Tax (GST) and Invoicing",
           "url": "https://www.iras.gov.sg"
-        }
+        },
+        "countryCode": "SG",
+        "systemName": "シンガポールの関連制度・方針",
+        "keyFeature": "シンガポールにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -336,7 +348,10 @@
         "source": {
           "title": "韓国国税庁 (NTS) - 電子税金計算書制度案内",
           "url": "https://www.nts.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

@@ -93,12 +93,16 @@
   "timeline": [
     {
       "date": "2020年4月",
+      "label": "厚生労働省がPFOS・PFOAの合算で50ng/Lの暫定目標値を設定",
       "title": "厚生労働省がPFOS・PFOAの合算で50ng/Lの暫定目標値を設定",
+      "status": "completed",
       "description": "全国の水道水質管理目標設定項目に追加"
     },
     {
       "date": "2024年2月",
+      "label": "環境省・厚労省が専門家会議で基準値引き下げの本格議論を開始",
       "title": "環境省・厚労省が専門家会議で基準値引き下げの本格議論を開始",
+      "status": "current",
       "description": "米国の厳格化基準（各4ng/L）を踏まえた法的基準化の検討"
     }
   ],

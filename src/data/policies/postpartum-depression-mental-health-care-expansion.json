@@ -118,18 +118,21 @@
     {
       "date": "2019年12月",
       "label": "改正母子保健法が成立（産後ケア事業の法定化）",
+      "title": "改正母子保健法が成立（産後ケア事業の法定化）",
       "status": "completed",
       "description": "市町村の努力義務として産後ケア事業の全国展開を法制化"
     },
     {
       "date": "2023年4月",
       "label": "こども家庭庁発足と産後ケア利用料減免支援拡充",
+      "title": "こども家庭庁発足と産後ケア利用料減免支援拡充",
       "status": "completed",
       "description": "国による利用料減免支援の財政補助率を引き上げ、全国普及を加速"
     },
     {
       "date": "2026年",
       "label": "全国全自治体での産後ケア網羅と利用予約DXの標準化",
+      "title": "全国全自治体での産後ケア網羅と利用予約DXの標準化",
       "status": "current",
       "description": "オンライン予約システムの共通化と利用率目標の達成に向けた検証"
     }
@@ -276,7 +279,10 @@
         "source": {
           "title": "オーストラリア連邦保健省 (Department of Health and Aged Care) - Perinatal mental health",
           "url": "https://www.health.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "US",
@@ -286,7 +292,10 @@
         "source": {
           "title": "米国予防医療専門委員会 (USPSTF) - Perinatal Depression Preventive Interventions",
           "url": "https://www.uspreventiveservicestaskforce.org"
-        }
+        },
+        "countryCode": "US",
+        "systemName": "アメリカの関連制度・方針",
+        "keyFeature": "アメリカにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -296,7 +305,10 @@
         "source": {
           "title": "カナダ公衆衛生庁 (PHAC) - Postpartum Depression and Care",
           "url": "https://www.canada.ca/en/public-health.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "SE",
@@ -306,7 +318,10 @@
         "source": {
           "title": "スウェーデン国家保健福祉庁 (Socialstyrelsen) - Depression under och efter graviditet",
           "url": "https://www.socialstyrelsen.se"
-        }
+        },
+        "countryCode": "SE",
+        "systemName": "スウェーデンの関連制度・方針",
+        "keyFeature": "スウェーデンにおける制度設計と運用"
       }
     ]
   }

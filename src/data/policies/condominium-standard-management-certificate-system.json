@@ -93,17 +93,23 @@
   "timeline": [
     {
       "date": "2020年6月",
+      "label": "改正マンション管理適正化法が成立",
       "title": "改正マンション管理適正化法が成立",
+      "status": "completed",
       "description": "管理計画認定制度の創設。"
     },
     {
       "date": "2022年4月",
+      "label": "認定制度がスタート",
       "title": "認定制度がスタート",
+      "status": "completed",
       "description": "自治体ごとの認定基準策定開始。"
     },
     {
       "date": "2024年4月",
+      "label": "修繕積立金ガイドライン改定版の施行と自治体勧告権の実務運用本格化",
       "title": "修繕積立金ガイドライン改定版の施行と自治体勧告権の実務運用本格化",
+      "status": "current",
       "description": "全国展開。"
     }
   ],

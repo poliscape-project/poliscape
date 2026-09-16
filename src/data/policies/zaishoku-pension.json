@@ -118,18 +118,21 @@
     {
       "date": "2022年4月",
       "label": "60〜64歳の基準を緩和",
+      "title": "60〜64歳の基準を緩和",
       "status": "completed",
       "description": "低かったカット基準を65歳以上と同じ月47万円へ引き上げ"
     },
     {
       "date": "2024年4月",
       "label": "基準額が月50万円に改定",
+      "title": "基準額が月50万円に改定",
       "status": "completed",
       "description": "物価・賃金スライドで50万円に改定"
     },
     {
       "date": "2025年〜国会審議",
       "label": "基準緩和（62万等）または撤廃の法改正協議",
+      "title": "基準緩和（62万等）または撤廃の法改正協議",
       "status": "current",
       "description": "次期年金制度改正に向け審議中"
     }
@@ -306,7 +309,10 @@
         "source": {
           "title": "オーストラリア連邦サービス庁 (Services Australia) - Work Bonus and Age Pension",
           "url": "https://www.servicesaustralia.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -316,7 +322,10 @@
         "source": {
           "title": "カナダ政府 (Canada.ca) - Post-Retirement Benefit (PRB)",
           "url": "https://www.canada.ca/en/services/benefits/publicpensions.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "SE",
@@ -326,7 +335,10 @@
         "source": {
           "title": "スウェーデン年金庁 (Pensionsmyndigheten) - Arbeta samtidigt som du tar ut pension",
           "url": "https://www.pensionsmyndigheten.se"
-        }
+        },
+        "countryCode": "SE",
+        "systemName": "スウェーデンの関連制度・方針",
+        "keyFeature": "スウェーデンにおける制度設計と運用"
       },
       {
         "code": "NL",
@@ -336,7 +348,10 @@
         "source": {
           "title": "オランダ社会保険銀行 (SVB) - Income and your AOW pension",
           "url": "https://www.svb.nl/en"
-        }
+        },
+        "countryCode": "NL",
+        "systemName": "オランダの関連制度・方針",
+        "keyFeature": "オランダにおける制度設計と運用"
       }
     ]
   }

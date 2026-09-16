@@ -94,25 +94,29 @@
     {
       "date": "2018年",
       "label": "厚労省「無痛分べんの安全対策に関する提言」策定",
+      "title": "厚労省「無痛分べんの安全対策に関する提言」策定",
       "status": "completed",
       "description": "JALA（無痛分娩関係学会・団体連絡協議会）発足"
     },
     {
       "date": "2023年〜2024年",
       "label": "普及率が過去最高の9%を突破",
+      "title": "普及率が過去最高の9%を突破",
       "status": "completed",
       "description": "若い世代を中心に希望者が急増"
     },
     {
       "date": "2025年〜2026年",
       "label": "出産費用保険適用の具体案策定と無痛分娩の扱い協議",
-      "status": "current",
+      "title": "出産費用保険適用の具体案策定と無痛分娩の扱い協議",
+      "status": "completed",
       "description": "麻酔管理料の公的給付と自己負担軽減の設計"
     },
     {
       "date": "2026年度",
       "label": "出産費用の新制度スタート見込み",
-      "status": "upcoming",
+      "title": "出産費用の新制度スタート見込み",
+      "status": "current",
       "description": "保険適用または給付拡充による実質無償化"
     }
   ],
@@ -254,7 +258,10 @@
         "source": {
           "title": "スウェーデン国家保健福祉庁 (Socialstyrelsen) - Smärtlindring vid förlossning",
           "url": "https://www.socialstyrelsen.se"
-        }
+        },
+        "countryCode": "SE",
+        "systemName": "スウェーデンの関連制度・方針",
+        "keyFeature": "スウェーデンにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -264,7 +271,10 @@
         "source": {
           "title": "カナダ公衆衛生庁 (PHAC) - Pregnancy and Childbirth Care Guidelines",
           "url": "https://www.canada.ca/en/public-health.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -274,7 +284,10 @@
         "source": {
           "title": "オーストラリア連邦サービス庁 (Services Australia) - Medicare and childbirth",
           "url": "https://www.servicesaustralia.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -284,7 +297,10 @@
         "source": {
           "title": "韓国国民健康保険公団 (NHIS) - 妊娠・出産診療費支援および保険給付",
           "url": "https://www.nhis.or.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

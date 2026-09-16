@@ -93,12 +93,16 @@
   "timeline": [
     {
       "date": "2014年6月",
+      "label": "改正医療法が成立",
       "title": "改正医療法が成立",
+      "status": "completed",
       "description": "医療事故調査制度の創設を可決"
     },
     {
       "date": "2015年10月",
+      "label": "医療事故調査制度が本格施行",
       "title": "医療事故調査制度が本格施行",
+      "status": "current",
       "description": "日本医療安全調査機構が支援センターとして全国調査受付開始"
     }
   ],

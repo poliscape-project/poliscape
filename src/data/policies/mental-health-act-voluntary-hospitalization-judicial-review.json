@@ -93,12 +93,16 @@
   "timeline": [
     {
       "date": "2022年12月",
+      "label": "改正精神保健福祉法が成立",
       "title": "改正精神保健福祉法が成立",
+      "status": "completed",
       "description": "医療保護入院の期間短縮と虐待防止通報の義務化を可決"
     },
     {
       "date": "2024年4月",
+      "label": "改正法施行",
       "title": "改正法施行",
+      "status": "current",
       "description": "入院期間上限ルールの運用とアドボケイト派遣事業が全国展開"
     }
   ],

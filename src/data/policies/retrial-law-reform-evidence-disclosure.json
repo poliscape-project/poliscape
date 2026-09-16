@@ -110,25 +110,29 @@
     {
       "date": "1948年",
       "label": "現行刑事訴訟法の制定",
+      "title": "現行刑事訴訟法の制定",
       "status": "completed",
       "description": "再審規定が制定されるも手続きや証拠開示の規定は欠落"
     },
     {
       "date": "2024年9月〜10月",
       "label": "袴田事件の再審無罪判決が確定",
+      "title": "袴田事件の再審無罪判決が確定",
       "status": "completed",
       "description": "検察の証拠捏造が認定され、死刑確定囚として世界初の無罪判決"
     },
     {
       "date": "2025年〜2026年",
       "label": "超党派議員連盟による再審法改正案の提出と国会審議",
-      "status": "current",
+      "title": "超党派議員連盟による再審法改正案の提出と国会審議",
+      "status": "completed",
       "description": "日弁連の要請を受け、証拠開示義務化・抗告禁止を盛り込んだ法案審議"
     },
     {
       "date": "2027年以降",
       "label": "刑事訴訟法再審規定の抜本改正施行目標",
-      "status": "upcoming",
+      "title": "刑事訴訟法再審規定の抜本改正施行目標",
+      "status": "current",
       "description": "70年ぶりの歴史的法改正と新たな冤罪防止手続きの確立"
     }
   ],
@@ -270,7 +274,10 @@
         "source": {
           "title": "ニュージーランド刑事冤罪再審査委員会 (CCRC) - Te Kāhui Tātari Ture",
           "url": "https://www.ccrc.nz"
-        }
+        },
+        "countryCode": "NZ",
+        "systemName": "ニュージーランドの関連制度・方針",
+        "keyFeature": "ニュージーランドにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -280,7 +287,10 @@
         "source": {
           "title": "カナダ法務省 (Department of Justice Canada) - Miscarriages of justice review",
           "url": "https://www.justice.gc.ca"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "IT",
@@ -290,7 +300,10 @@
         "source": {
           "title": "イタリア最高破棄院 (Corte Suprema di Cassazione) - Revisione delle sentenze penali",
           "url": "https://www.cortedicassazione.it"
-        }
+        },
+        "countryCode": "IT",
+        "systemName": "イタリアの関連制度・方針",
+        "keyFeature": "イタリアにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -300,7 +313,10 @@
         "source": {
           "title": "韓国大法院 (Supreme Court of Korea) - 刑事再審手続案内",
           "url": "https://www.scourt.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

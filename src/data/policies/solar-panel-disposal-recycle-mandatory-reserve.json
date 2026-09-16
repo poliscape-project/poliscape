@@ -93,12 +93,16 @@
   "timeline": [
     {
       "date": "2020年6月",
+      "label": "エネルギー供給強靱化法が成立",
       "title": "エネルギー供給強靱化法が成立",
+      "status": "completed",
       "description": "再エネ特措法を改正し廃棄等費用の外部積立制度を創設"
     },
     {
       "date": "2022年7月",
+      "label": "廃棄費用外部積立制度が本格施行",
       "title": "廃棄費用外部積立制度が本格施行",
+      "status": "current",
       "description": "10kW以上の全FIT/FIP認定太陽光発電所を対象に天引き積立開始"
     }
   ],

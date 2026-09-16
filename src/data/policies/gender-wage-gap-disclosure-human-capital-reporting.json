@@ -94,24 +94,28 @@
     {
       "date": "2022年7月",
       "label": "女性活躍推進法省令改正の施行",
+      "title": "女性活躍推進法省令改正の施行",
       "status": "completed",
       "description": "301人以上の大企業に男女賃金格差の公表が義務化"
     },
     {
       "date": "2023年3月期",
       "label": "有価証券報告書での記載義務化スタート",
+      "title": "有価証券報告書での記載義務化スタート",
       "status": "completed",
       "description": "上場企業の有報に賃金格差や女性管理職比率の開示が開始"
     },
     {
       "date": "2024年〜2025年",
       "label": "開示初年度の実態分析と改善勧告",
+      "title": "開示初年度の実態分析と改善勧告",
       "status": "completed",
       "description": "厚労省が主要企業の賃金格差分析と格差要因の公表を促進"
     },
     {
       "date": "2026年〜",
       "label": "101人以上の中小企業への拡大検討",
+      "title": "101人以上の中小企業への拡大検討",
       "status": "current",
       "description": "義務化対象の引き下げと開示指標の国際調和に向けた制度議論"
     }
@@ -250,7 +254,10 @@
         "source": {
           "title": "オーストラリア職場ジェンダー平等庁 (WGEA) - Employer gender pay gaps publishing",
           "url": "https://www.wgea.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "DE",
@@ -260,7 +267,10 @@
         "source": {
           "title": "ドイツ連邦家族・高齢者・女性・青少年省 (BMFSFJ) - Entgelttransparenzgesetz",
           "url": "https://www.bmfsfj.de"
-        }
+        },
+        "countryCode": "DE",
+        "systemName": "ドイツの関連制度・方針",
+        "keyFeature": "ドイツにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -270,7 +280,10 @@
         "source": {
           "title": "カナダ政府 (Canada.ca) - Pay Equity Act implementation",
           "url": "https://www.canada.ca/en/canadian-heritage.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "ES",
@@ -280,7 +293,10 @@
         "source": {
           "title": "スペイン平等省 (Ministerio de Igualdad) - Igualdad retributiva",
           "url": "https://www.igualdad.gob.es"
-        }
+        },
+        "countryCode": "ES",
+        "systemName": "スペインの関連制度・方針",
+        "keyFeature": "スペインにおける制度設計と運用"
       }
     ]
   }

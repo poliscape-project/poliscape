@@ -94,24 +94,28 @@
     {
       "date": "2021年10月",
       "label": "OECD・G20で歴史的最終合意",
+      "title": "OECD・G20で歴史的最終合意",
       "status": "completed",
       "description": "136カ国・地域が最低税率15%の第2の柱（Pillar 2）に合意"
     },
     {
       "date": "2023年3月",
       "label": "日本の税制改正でグローバル・ミニマム課税法制化",
+      "title": "日本の税制改正でグローバル・ミニマム課税法制化",
       "status": "completed",
       "description": "法人税法改正により所得合算ルール（IIR）が成立"
     },
     {
       "date": "2024年4月1日",
       "label": "制度の適用開始",
+      "title": "制度の適用開始",
       "status": "completed",
       "description": "3月決算・4月開始事業年度から日本企業の適用がスタート"
     },
     {
       "date": "2025年〜2026年",
       "label": "軽課税所得ルール（UTPR）等の追加整備議論",
+      "title": "軽課税所得ルール（UTPR）等の追加整備議論",
       "status": "current",
       "description": "親会社所在地が未導入の場合の課税ルール等の国際的調和の進展"
     }
@@ -250,7 +254,10 @@
         "source": {
           "title": "ドイツ連邦財務省 (BMF) - Gesetz für die Umsetzung der Richtlinie zur Gewährleistung einer globalen Mindestbesteuerung",
           "url": "https://www.bundesfinanzministerium.de"
-        }
+        },
+        "countryCode": "DE",
+        "systemName": "ドイツの関連制度・方針",
+        "keyFeature": "ドイツにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -260,7 +267,10 @@
         "source": {
           "title": "カナダ財務省 (Department of Finance Canada) - Global Minimum Tax Act",
           "url": "https://www.canada.ca/en/department-finance.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -270,7 +280,10 @@
         "source": {
           "title": "オーストラリア国税庁 (ATO) - Pillar Two global and domestic minimum taxes",
           "url": "https://www.ato.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "NL",
@@ -280,7 +293,10 @@
         "source": {
           "title": "オランダ財務省 (Ministerie van Financiën) - Wet minimumbelasting 2024 (Pillar Two)",
           "url": "https://www.government.nl/ministries/ministry-of-finance"
-        }
+        },
+        "countryCode": "NL",
+        "systemName": "オランダの関連制度・方針",
+        "keyFeature": "オランダにおける制度設計と運用"
       }
     ]
   }

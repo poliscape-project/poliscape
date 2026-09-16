@@ -118,24 +118,28 @@
     {
       "date": "1988年1月",
       "label": "特別養子縁組制度の創設（民法改正）",
+      "title": "特別養子縁組制度の創設（民法改正）",
       "status": "completed",
       "description": "原則6歳未満を対象とする制度としてスタート。"
     },
     {
       "date": "2018年4月",
       "label": "民間あっせん機関による養子縁組あっせん法施行",
+      "title": "民間あっせん機関による養子縁組あっせん法施行",
       "status": "completed",
       "description": "民間事業者の届出制から許可制への移行と事業停止命令権限を創設。"
     },
     {
       "date": "2020年4月",
       "label": "改正民法・家事事件手続法の施行",
+      "title": "改正民法・家事事件手続法の施行",
       "status": "completed",
       "description": "対象年齢を原則15歳未満へ引き上げ、二段階審判制度が本格スタート。"
     },
     {
       "date": "2025年以降",
       "label": "出自を知る権利の法制化と年長児マッチング支援強化",
+      "title": "出自を知る権利の法制化と年長児マッチング支援強化",
       "status": "current",
       "description": "成人養子のルーツ探求相談窓口と特別養子縁組後のフォローアップ体制を全国化。"
     }
@@ -282,7 +286,10 @@
         "source": {
           "title": "スウェーデン家族法・親権支援庁 (MFOF) - Adoptioner och barns rättigheter",
           "url": "https://www.mfof.se"
-        }
+        },
+        "countryCode": "SE",
+        "systemName": "スウェーデンの関連制度・方針",
+        "keyFeature": "スウェーデンにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -292,7 +299,10 @@
         "source": {
           "title": "オーストラリア社会支援省 (Department of Social Services) - Intercountry and local adoption",
           "url": "https://www.dss.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -302,7 +312,10 @@
         "source": {
           "title": "オンタリオ州政府ポータル - Adoption in Ontario",
           "url": "https://www.ontario.ca"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "カナダ（オンタリオ州）の関連制度・方針",
+        "keyFeature": "カナダ（オンタリオ州）における制度設計と運用"
       },
       {
         "code": "KR",
@@ -312,7 +325,10 @@
         "source": {
           "title": "韓国保健福祉部 (MOHW) - 国家養子体系改編推進計画",
           "url": "https://www.mohw.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

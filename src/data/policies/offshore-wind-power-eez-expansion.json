@@ -110,25 +110,29 @@
     {
       "date": "2018年11月",
       "label": "再エネ海域利用法の成立",
+      "title": "再エネ海域利用法の成立",
       "status": "completed",
       "description": "領海内における促進区域の指定と30年占用公募制度の開始"
     },
     {
       "date": "2024年5月",
       "label": "再エネ海域利用法改正法が成立",
+      "title": "再エネ海域利用法改正法が成立",
       "status": "completed",
       "description": "排他的経済水域（EEZ）への洋上風力設置を可能とする二段階許可制度の法制化"
     },
     {
       "date": "2025年〜2026年",
       "label": "EEZ設置基準策定・浮体式大規模公募の開始",
-      "status": "current",
+      "title": "EEZ設置基準策定・浮体式大規模公募の開始",
+      "status": "completed",
       "description": "安全・環境基準の策定と国によるセントラル方式の海洋調査実施"
     },
     {
       "date": "2040年",
       "label": "洋上風力4,500万kW導入目標年",
-      "status": "upcoming",
+      "title": "洋上風力4,500万kW導入目標年",
+      "status": "current",
       "description": "浮体式の大規模商用稼働による国産脱炭素電源の主力化検証"
     }
   ],
@@ -270,7 +274,10 @@
         "source": {
           "title": "ドイツ連邦海運水路庁 (BSH) - Flächenentwicklungsplan Offshore-Windenergie",
           "url": "https://www.bsh.de"
-        }
+        },
+        "countryCode": "DE",
+        "systemName": "ドイツの関連制度・方針",
+        "keyFeature": "ドイツにおける制度設計と運用"
       },
       {
         "code": "NL",
@@ -280,7 +287,10 @@
         "source": {
           "title": "オランダ企業誘致庁 (RVO) - Offshore Wind Energy in the Netherlands",
           "url": "https://www.rvo.nl"
-        }
+        },
+        "countryCode": "NL",
+        "systemName": "オランダの関連制度・方針",
+        "keyFeature": "オランダにおける制度設計と運用"
       },
       {
         "code": "BE",
@@ -290,7 +300,10 @@
         "source": {
           "title": "ベルギー連邦経済省 (FPS Economy) - Offshore wind energy",
           "url": "https://economie.fgov.be"
-        }
+        },
+        "countryCode": "BE",
+        "systemName": "ベルギーの関連制度・方針",
+        "keyFeature": "ベルギーにおける制度設計と運用"
       },
       {
         "code": "TW",
@@ -300,7 +313,10 @@
         "source": {
           "title": "台湾経済部 (Ministry of Economic Affairs) - 洋上風力発展政策",
           "url": "https://www.moea.gov.tw"
-        }
+        },
+        "countryCode": "TW",
+        "systemName": "台湾の関連制度・方針",
+        "keyFeature": "台湾における制度設計と運用"
       }
     ]
   }

@@ -94,18 +94,21 @@
     {
       "date": "2020年12月",
       "label": "男性への4価HPVワクチン適応追加",
+      "title": "男性への4価HPVワクチン適応追加",
       "status": "completed",
       "description": "厚生労働省が男性への接種（肛門がん・尖圭コンジローマ予防）を承認"
     },
     {
       "date": "2024年4月",
       "label": "東京都全域等で男子接種全額補助が本格化",
+      "title": "東京都全域等で男子接種全額補助が本格化",
       "status": "completed",
       "description": "自治体主導で男子中高生への公費助成が全国主要都市へ波及"
     },
     {
       "date": "2025年〜2026年",
       "label": "国の予防接種基本方針部会での定期接種化審議",
+      "title": "国の予防接種基本方針部会での定期接種化審議",
       "status": "current",
       "description": "費用対効果評価に基づき、国費による全国定期接種化の可否を判断へ"
     }
@@ -248,7 +251,10 @@
         "source": {
           "title": "カナダ公衆衛生庁 (PHAC) - HPV Vaccine Coverage and Guidelines",
           "url": "https://www.canada.ca/en/public-health.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "FR",
@@ -258,7 +264,10 @@
         "source": {
           "title": "フランス保健・予防省 (Ministère de la Santé) - Vaccination contre les HPV au collège",
           "url": "https://sante.gouv.fr"
-        }
+        },
+        "countryCode": "FR",
+        "systemName": "フランスの関連制度・方針",
+        "keyFeature": "フランスにおける制度設計と運用"
       },
       {
         "code": "IT",
@@ -268,7 +277,10 @@
         "source": {
           "title": "イタリア保健省 (Ministero della Salute) - Piano Nazionale Prevenzione Vaccinale",
           "url": "https://www.salute.gov.it"
-        }
+        },
+        "countryCode": "IT",
+        "systemName": "イタリアの関連制度・方針",
+        "keyFeature": "イタリアにおける制度設計と運用"
       },
       {
         "code": "AT",
@@ -278,7 +290,10 @@
         "source": {
           "title": "オーストリア社会・保健省 (BMSGPK) - Kostenloses HPV-Impfprogramm",
           "url": "https://www.sozialministerium.at"
-        }
+        },
+        "countryCode": "AT",
+        "systemName": "オーストリアの関連制度・方針",
+        "keyFeature": "オーストリアにおける制度設計と運用"
       }
     ]
   }

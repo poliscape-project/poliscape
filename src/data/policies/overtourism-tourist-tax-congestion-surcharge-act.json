@@ -118,24 +118,28 @@
     {
       "date": "2018年10月",
       "label": "京都市宿泊税条例の施行",
+      "title": "京都市宿泊税条例の施行",
       "status": "completed",
       "description": "宿泊料金に応じた段階的宿泊税（200円〜1,000円）の運用を開始。"
     },
     {
       "date": "2023年10月",
       "label": "観光立国推進閣僚会議「オーバーツーリズムの未然防止・抑制に向けた総合対策」策定",
+      "title": "観光立国推進閣僚会議「オーバーツーリズムの未然防止・抑制に向けた総合対策」策定",
       "status": "completed",
       "description": "二重価格の容認、直行バス整備、入域料導入を国として包括支援。"
     },
     {
       "date": "2024年7月",
       "label": "山梨県・富士山吉田ルート通行料（2,000円）徴収開始",
+      "title": "山梨県・富士山吉田ルート通行料（2,000円）徴収開始",
       "status": "completed",
       "description": "1日4,000人上限ゲートと有料化の運用をスタート。"
     },
     {
       "date": "2025年〜2026年",
       "label": "全国数十自治体での宿泊税・入域税条例制定ラッシュ",
+      "title": "全国数十自治体での宿泊税・入域税条例制定ラッシュ",
       "status": "current",
       "description": "宮島訪問税に続く世界遺産・温泉地での独自課税の全国本格普及。"
     }
@@ -296,7 +300,10 @@
         "source": {
           "title": "アムステルダム市役所 (City of Amsterdam) - Tourist tax and measures against overtourism",
           "url": "https://www.amsterdam.nl/en"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "オランダ（アムステルダム）の関連制度・方針",
+        "keyFeature": "オランダ（アムステルダム）における制度設計と運用"
       },
       {
         "code": "FR",
@@ -306,7 +313,10 @@
         "source": {
           "title": "パリ市役所 (Ville de Paris) - Taxe de séjour et meublés touristiques",
           "url": "https://www.paris.fr"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "フランス（パリ）の関連制度・方針",
+        "keyFeature": "フランス（パリ）における制度設計と運用"
       },
       {
         "code": "NZ",
@@ -316,7 +326,10 @@
         "source": {
           "title": "ニュージーランド移民局 (Immigration NZ) - International Visitor Conservation and Tourism Levy",
           "url": "https://www.immigration.govt.nz"
-        }
+        },
+        "countryCode": "NZ",
+        "systemName": "ニュージーランドの関連制度・方針",
+        "keyFeature": "ニュージーランドにおける制度設計と運用"
       },
       {
         "code": "GB",
@@ -326,7 +339,10 @@
         "source": {
           "title": "スコットランド政府 (Scottish Government) - Visitor Levy (Scotland) Act",
           "url": "https://www.gov.scot"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "英国（スコットランド）の関連制度・方針",
+        "keyFeature": "英国（スコットランド）における制度設計と運用"
       }
     ]
   }

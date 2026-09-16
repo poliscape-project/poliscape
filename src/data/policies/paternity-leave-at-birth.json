@@ -94,18 +94,21 @@
     {
       "date": "2022年10月",
       "label": "産後パパ育休（出生時育児休業）の創設",
+      "title": "産後パパ育休（出生時育児休業）の創設",
       "status": "completed",
       "description": "子の出生後8週間以内に最大4週間の柔軟取得が法制化"
     },
     {
       "date": "2023年4月",
       "label": "大企業の育休取得率公表が義務化",
+      "title": "大企業の育休取得率公表が義務化",
       "status": "completed",
       "description": "従業員1,000人超企業で取得率公表がスタートし、企業の意識が激変"
     },
     {
       "date": "2025年〜2026年",
       "label": "手取り実質10割化と100人超企業への義務拡大",
+      "title": "手取り実質10割化と100人超企業への義務拡大",
       "status": "current",
       "description": "出生後休業支援給付金が支給開始され、男性取得率が過去最高を更新中"
     }
@@ -286,7 +289,10 @@
         "source": {
           "title": "ノルウェー労働福祉庁 (NAV) - Foreldrepenger og fedrekvote",
           "url": "https://www.nav.no"
-        }
+        },
+        "countryCode": "NO",
+        "systemName": "ノルウェーの関連制度・方針",
+        "keyFeature": "ノルウェーにおける制度設計と運用"
       },
       {
         "code": "FI",
@@ -296,7 +302,10 @@
         "source": {
           "title": "フィンランド社会保険庁 (Kela) - Parental allowances reform",
           "url": "https://www.kela.fi"
-        }
+        },
+        "countryCode": "FI",
+        "systemName": "フィンランドの関連制度・方針",
+        "keyFeature": "フィンランドにおける制度設計と運用"
       },
       {
         "code": "ES",
@@ -306,7 +315,10 @@
         "source": {
           "title": "スペイン社会保障庁 (Seguridad Social) - Prestación por nacimiento y cuidado de menor",
           "url": "https://www.seg-social.es"
-        }
+        },
+        "countryCode": "ES",
+        "systemName": "スペインの関連制度・方針",
+        "keyFeature": "スペインにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -316,7 +328,10 @@
         "source": {
           "title": "韓国雇用労働部 (MOEL) - 6+6親育児休業制のご案内",
           "url": "https://www.moel.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

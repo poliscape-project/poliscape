@@ -110,25 +110,29 @@
     {
       "date": "2021年度",
       "label": "厚労省による人員配置緩和の実証事業開始",
+      "title": "厚労省による人員配置緩和の実証事業開始",
       "status": "completed",
       "description": "特別養護老人ホーム等でICT・ロボット活用による見守り実証を実施"
     },
     {
       "date": "2024年4月",
       "label": "2024年度介護報酬改定で特例基準・新加算が施行",
+      "title": "2024年度介護報酬改定で特例基準・新加算が施行",
       "status": "completed",
       "description": "生産性向上推進体制加算の新設、見守り機器要件を満たす施設での配置柔軟化"
     },
     {
       "date": "2025年〜2026年",
       "label": "事故発生状況と職員の疲労度に関する追跡調査",
-      "status": "current",
+      "title": "事故発生状況と職員の疲労度に関する追跡調査",
+      "status": "completed",
       "description": "基準緩和を適用した施設における転倒事故率や離職率の実態を厚生労働省が調査"
     },
     {
       "date": "2027年4月",
       "label": "次期報酬改定でのさらなる緩和（3:0.8等）の是非検討",
-      "status": "upcoming",
+      "title": "次期報酬改定でのさらなる緩和（3:0.8等）の是非検討",
+      "status": "current",
       "description": "生成AIや自動搬送ロボットの進化を踏まえた人員基準の抜本見直し審議"
     }
   ],
@@ -296,7 +300,10 @@
         "source": {
           "title": "オランダ保健福祉スポーツ省 (VWS) - Healthcare innovation and smart sensors",
           "url": "https://www.government.nl/ministries/ministry-of-health-welfare-and-sport"
-        }
+        },
+        "countryCode": "NL",
+        "systemName": "オランダの関連制度・方針",
+        "keyFeature": "オランダにおける制度設計と運用"
       },
       {
         "code": "SG",
@@ -306,7 +313,10 @@
         "source": {
           "title": "シンガポール統合ケア庁 (AIC) - Healthcare Productivity Fund and Assistive Tech",
           "url": "https://www.aic.sg"
-        }
+        },
+        "countryCode": "SG",
+        "systemName": "シンガポールの関連制度・方針",
+        "keyFeature": "シンガポールにおける制度設計と運用"
       },
       {
         "code": "FI",
@@ -316,7 +326,10 @@
         "source": {
           "title": "フィンランド社会保健省 (STM) - Technology in elderly care",
           "url": "https://stm.fi/en"
-        }
+        },
+        "countryCode": "FI",
+        "systemName": "フィンランドの関連制度・方針",
+        "keyFeature": "フィンランドにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -326,7 +339,10 @@
         "source": {
           "title": "韓国保健福祉部 (MOHW) - スマートケア福祉サービス推進方針",
           "url": "https://www.mohw.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

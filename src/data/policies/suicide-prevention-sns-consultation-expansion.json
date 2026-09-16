@@ -117,17 +117,23 @@
   "timeline": [
     {
       "date": "2018年3月",
+      "label": "厚労省がSNS自殺対策モデル事業を開始",
       "title": "厚労省がSNS自殺対策モデル事業を開始",
+      "status": "completed",
       "description": "LINE等を活用したチャット相談の実証実験が全国で始動"
     },
     {
       "date": "2022年10月",
+      "label": "第4次自殺総合対策大綱を閣議決定",
       "title": "第4次自殺総合対策大綱を閣議決定",
+      "status": "completed",
       "description": "子ども・若者の自殺対策を最重要課題と位置づけSNS相談拡充を明記"
     },
     {
       "date": "2024年4月",
+      "label": "主要指定NPO窓口の24時間化推進",
       "title": "主要指定NPO窓口の24時間化推進",
+      "status": "current",
       "description": "深夜帯補助金の増額と相談員スーパーバイズ体制を強化"
     }
   ],

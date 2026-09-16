@@ -93,17 +93,23 @@
   "timeline": [
     {
       "date": "2015年9月",
+      "label": "GPIFが国連責任投資原則（PRI）に署名",
       "title": "GPIFが国連責任投資原則（PRI）に署名",
+      "status": "completed",
       "description": "ESG投資の先駆け。"
     },
     {
       "date": "2024年11月",
+      "label": "公的年金運用法改正案が国会で成立",
       "title": "公的年金運用法改正案が国会で成立",
+      "status": "completed",
       "description": "ESG考慮と受託者責任の法的整理。"
     },
     {
       "date": "2025年10月",
+      "label": "新運用指針が施行され、気候・人的資本ポートフォリオの運用が本格化",
       "title": "新運用指針が施行され、気候・人的資本ポートフォリオの運用が本格化",
+      "status": "current",
       "description": "世界最高水準の情報開示。"
     }
   ],

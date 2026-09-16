@@ -118,24 +118,28 @@
     {
       "date": "2016年9月",
       "label": "「精神の障害に係る等級判定ガイドライン」の運用開始",
+      "title": "「精神の障害に係る等級判定ガイドライン」の運用開始",
       "status": "completed",
       "description": "都道府県ごとの認定格差を是正するため全国共通の目安を初めて策定。"
     },
     {
       "date": "2021年4月",
       "label": "20歳前障害年金の所得制限確認の電子情報化",
+      "title": "20歳前障害年金の所得制限確認の電子情報化",
       "status": "completed",
       "description": "マイナンバー利用により所得証明書の添付提出が原則不要に。"
     },
     {
       "date": "2024年3月",
       "label": "年金部会における障害年金と就労支援の論点整理",
+      "title": "年金部会における障害年金と就労支援の論点整理",
       "status": "completed",
       "description": "就労による不当な不支給防止や所得制限の滑らかな移行方針を議論。"
     },
     {
       "date": "2025年以降",
       "label": "2025年公的年金制度改正法案への反映と新運用",
+      "title": "2025年公的年金制度改正法案への反映と新運用",
       "status": "current",
       "description": "5年に1度の年金制度改革において所得制限緩和と電子診断書制度を法制化。"
     }
@@ -282,7 +286,10 @@
         "source": {
           "title": "オーストラリア連邦サービス庁 (Services Australia) - Disability Support Pension and working",
           "url": "https://www.servicesaustralia.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -292,7 +299,10 @@
         "source": {
           "title": "カナダ政府 (Canada.ca) - Canada Pension Plan disability vocational rehabilitation",
           "url": "https://www.canada.ca/en/services/benefits/publicpensions.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "NO",
@@ -302,7 +312,10 @@
         "source": {
           "title": "ノルウェー労働福祉庁 (NAV) - Uføretrygd og inntekt",
           "url": "https://www.nav.no"
-        }
+        },
+        "countryCode": "NO",
+        "systemName": "ノルウェーの関連制度・方針",
+        "keyFeature": "ノルウェーにおける制度設計と運用"
       },
       {
         "code": "FR",
@@ -312,7 +325,10 @@
         "source": {
           "title": "フランス政府公式ポータル (Service-Public.fr) - Allocation aux adultes handicapés (AAH) et travail",
           "url": "https://www.service-public.fr"
-        }
+        },
+        "countryCode": "FR",
+        "systemName": "フランスの関連制度・方針",
+        "keyFeature": "フランスにおける制度設計と運用"
       }
     ]
   }

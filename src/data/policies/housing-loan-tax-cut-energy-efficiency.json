@@ -94,19 +94,22 @@
     {
       "date": "2022年6月",
       "label": "改正建築物省エネ法が国会で成立",
+      "title": "改正建築物省エネ法が国会で成立",
       "status": "completed",
       "description": "2025年度からの全建築物に対する省エネ基準適合義務化が決定"
     },
     {
       "date": "2024年1月",
       "label": "住宅ローン減税の省エネ適合義務化がスタート",
+      "title": "住宅ローン減税の省エネ適合義務化がスタート",
       "status": "completed",
       "description": "一般新築住宅への減税適用が終了し、省エネ証明書の提出が必須に"
     },
     {
       "date": "2025年4月",
       "label": "建築基準法上の「省エネ基準適合義務化」が全面施行",
-      "status": "upcoming",
+      "title": "建築基準法上の「省エネ基準適合義務化」が全面施行",
+      "status": "current",
       "description": "税制だけでなく、省エネ基準を満たさない新築の建築そのものが禁止に"
     }
   ],
@@ -192,7 +195,10 @@
         "source": {
           "title": "スイス連邦エネルギー庁 (BFE) - Das Gebäudeprogramm",
           "url": "https://www.bfe.admin.ch"
-        }
+        },
+        "countryCode": "CH",
+        "systemName": "スイスの関連制度・方針",
+        "keyFeature": "スイスにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -202,7 +208,10 @@
         "source": {
           "title": "オーストラリア気候変動省 NatHERS - Nationwide House Energy Rating Scheme",
           "url": "https://www.nathers.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "NL",
@@ -212,7 +221,10 @@
         "source": {
           "title": "オランダ企業誘致庁 (RVO) - Energielabel woningen en hypotheken",
           "url": "https://www.rvo.nl"
-        }
+        },
+        "countryCode": "NL",
+        "systemName": "オランダの関連制度・方針",
+        "keyFeature": "オランダにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -222,7 +234,10 @@
         "source": {
           "title": "韓国国土交通部 (MOLIT) - ゼロエネルギー建築物（ZEB）認証制度",
           "url": "https://www.molit.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

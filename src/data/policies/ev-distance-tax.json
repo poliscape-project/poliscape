@@ -94,18 +94,21 @@
     {
       "date": "2022年10月",
       "label": "政府税調で走行距離課税の構想が浮上",
+      "title": "政府税調で走行距離課税の構想が浮上",
       "status": "completed",
       "description": "将来的なEV普及に伴う自動車関係諸税の見直し検討課題として正式提示"
     },
     {
       "date": "2024年〜2025年",
       "label": "地方自治体や自動車業界の猛反発",
+      "title": "地方自治体や自動車業界の猛反発",
       "status": "completed",
       "description": "「地方格差の拡大」や「二重課税」の批判が集中し、短期導入は見送りへ"
     },
     {
       "date": "2026年〜",
       "label": "走行距離把握技術と中長期ロードマップ協議",
+      "title": "走行距離把握技術と中長期ロードマップ協議",
       "status": "current",
       "description": "車検オドメーター方式やコネクテッドカーを活用した実証実験と公平な負担割合を検討中"
     }
@@ -284,7 +287,10 @@
         "source": {
           "title": "オランダインフラ・水管理省 - Betalen naar Gebruik (Rekeningrijden)",
           "url": "https://www.government.nl/ministries/ministry-of-infrastructure-and-water-management"
-        }
+        },
+        "countryCode": "NL",
+        "systemName": "オランダの関連制度・方針",
+        "keyFeature": "オランダにおける制度設計と運用"
       },
       {
         "code": "GB",
@@ -294,7 +300,10 @@
         "source": {
           "title": "英国運輸省 (DfT) - Vehicle Excise Duty and Road Taxation",
           "url": "https://www.gov.uk/government/organisations/department-for-transport"
-        }
+        },
+        "countryCode": "UK",
+        "systemName": "英国の関連制度・方針",
+        "keyFeature": "英国における制度設計と運用"
       },
       {
         "code": "SG",
@@ -304,7 +313,10 @@
         "source": {
           "title": "シンガポール陸上交通庁 (LTA) - Electronic Road Pricing (ERP 2.0)",
           "url": "https://www.lta.gov.sg"
-        }
+        },
+        "countryCode": "SG",
+        "systemName": "シンガポールの関連制度・方針",
+        "keyFeature": "シンガポールにおける制度設計と運用"
       },
       {
         "code": "DE",
@@ -314,7 +326,10 @@
         "source": {
           "title": "ドイツ連邦デジタル・交通省 (BMDV) - Lkw-Maut",
           "url": "https://bmdv.bund.de"
-        }
+        },
+        "countryCode": "DE",
+        "systemName": "ドイツの関連制度・方針",
+        "keyFeature": "ドイツにおける制度設計と運用"
       }
     ]
   }

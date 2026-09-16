@@ -93,17 +93,23 @@
   "timeline": [
     {
       "date": "2023年3月",
+      "label": "文科省が不登校対策「COCOLOプラン」を取りまとめ",
       "title": "文科省が不登校対策「COCOLOプラン」を取りまとめ",
+      "status": "completed",
       "description": "SC等の相談体制強化方針。"
     },
     {
       "date": "2024年10月",
+      "label": "不登校児童生徒34万人突破の統計発表",
       "title": "不登校児童生徒34万人突破の統計発表",
+      "status": "completed",
       "description": "常勤化への世論が急速に高まる。"
     },
     {
       "date": "2025年11月",
+      "label": "義務教育標準法改正案・SC常勤化法案が国会提出",
       "title": "義務教育標準法改正案・SC常勤化法案が国会提出",
+      "status": "current",
       "description": "モデル校での先行実証。"
     }
   ],

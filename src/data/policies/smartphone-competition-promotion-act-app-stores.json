@@ -94,24 +94,28 @@
     {
       "date": "2020年〜2023年",
       "label": "デジタル市場競争会議での実態調査",
+      "title": "デジタル市場競争会議での実態調査",
       "status": "completed",
       "description": "公取委がモバイルOS市場における寡占の弊害と高額手数料を指摘"
     },
     {
       "date": "2024年6月",
       "label": "スマホ競争促進法が国会で成立",
+      "title": "スマホ競争促進法が国会で成立",
       "status": "completed",
       "description": "参院本会議で可決成立、違反企業への売上高20%課徴金を導入"
     },
     {
       "date": "2025年",
       "label": "特定ソフトウェア事業者の指定と基準策定",
+      "title": "特定ソフトウェア事業者の指定と基準策定",
       "status": "completed",
       "description": "公取委が規制対象事業者（Apple・Google等）を政令指定"
     },
     {
       "date": "2025年12月",
       "label": "法律の全面施行・ストア開放義務化",
+      "title": "法律の全面施行・ストア開放義務化",
       "status": "current",
       "description": "他社製ストアや外部決済の解禁運用と公取委による監視開始"
     }
@@ -250,7 +254,10 @@
         "source": {
           "title": "オーストラリア競争・消費者委員会 (ACCC) - Digital platform services inquiry",
           "url": "https://www.accc.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "DE",
@@ -260,7 +267,10 @@
         "source": {
           "title": "ドイツ連邦カルテル庁 (Bundeskartellamt) - Section 19a GWB decisions",
           "url": "https://www.bundeskartellamt.de"
-        }
+        },
+        "countryCode": "DE",
+        "systemName": "ドイツの関連制度・方針",
+        "keyFeature": "ドイツにおける制度設計と運用"
       },
       {
         "code": "FR",
@@ -270,7 +280,10 @@
         "source": {
           "title": "フランス競争委員会 (Autorité de la concurrence) - Écosystèmes mobiles et applications",
           "url": "https://www.autoritedelaconcurrence.fr"
-        }
+        },
+        "countryCode": "FR",
+        "systemName": "フランスの関連制度・方針",
+        "keyFeature": "フランスにおける制度設計と運用"
       },
       {
         "code": "IN",
@@ -280,7 +293,10 @@
         "source": {
           "title": "インド競争委員会 (Competition Commission of India) - Market Study on Digital Markets",
           "url": "https://www.cci.gov.in"
-        }
+        },
+        "countryCode": "IN",
+        "systemName": "インドの関連制度・方針",
+        "keyFeature": "インドにおける制度設計と運用"
       }
     ]
   }

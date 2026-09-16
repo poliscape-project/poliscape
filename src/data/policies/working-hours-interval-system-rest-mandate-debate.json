@@ -94,24 +94,28 @@
     {
       "date": "2019年4月",
       "label": "働き方改革関連法施行",
+      "title": "働き方改革関連法施行",
       "status": "completed",
       "description": "労働時間等設定改善法に勤務間インターバル導入の努力義務が新設"
     },
     {
       "date": "2021年〜2023年",
       "label": "導入企業への助成金（働き方改革推進支援助成金）拡充",
+      "title": "導入企業への助成金（働き方改革推進支援助成金）拡充",
       "status": "completed",
       "description": "中小企業がインターバル制度を導入する際の機器導入費用を補助"
     },
     {
       "date": "2024年11月",
       "label": "過労死等防止計画の改定議論",
+      "title": "過労死等防止計画の改定議論",
       "status": "completed",
       "description": "2028年までに導入企業割合を15%以上にする政府目標の再設定"
     },
     {
       "date": "2025年〜2026年",
       "label": "労働基準関係法改正に向けた労使協議",
+      "title": "労働基準関係法改正に向けた労使協議",
       "status": "current",
       "description": "労働政策審議会における法定義務化のロードマップ検討"
     }
@@ -250,7 +254,10 @@
         "source": {
           "title": "スペイン首相府 (La Moncloa) - Estatuto de los Trabajadores y jornada laboral",
           "url": "https://www.lamoncloa.gob.es"
-        }
+        },
+        "countryCode": "ES",
+        "systemName": "スペインの関連制度・方針",
+        "keyFeature": "スペインにおける制度設計と運用"
       },
       {
         "code": "IT",
@@ -260,7 +267,10 @@
         "source": {
           "title": "イタリア労働・社会政策省 (Ministero del Lavoro) - Orario di lavoro e riposi giornalieri",
           "url": "https://www.lavoro.gov.it"
-        }
+        },
+        "countryCode": "IT",
+        "systemName": "イタリアの関連制度・方針",
+        "keyFeature": "イタリアにおける制度設計と運用"
       },
       {
         "code": "SE",
@@ -270,7 +280,10 @@
         "source": {
           "title": "スウェーデン労働環境庁 (Arbetsmiljöverket) - Regler om dygnevila",
           "url": "https://www.av.se"
-        }
+        },
+        "countryCode": "SE",
+        "systemName": "スウェーデンの関連制度・方針",
+        "keyFeature": "スウェーデンにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -280,7 +293,10 @@
         "source": {
           "title": "オーストラリア公正労働担当官 (Fair Work Ombudsman) - Rest periods between shifts",
           "url": "https://www.fairwork.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       }
     ]
   }

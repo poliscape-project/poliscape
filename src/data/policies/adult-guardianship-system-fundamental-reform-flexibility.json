@@ -94,24 +94,28 @@
     {
       "date": "2000年4月",
       "label": "成年後見制度の創設・施行",
+      "title": "成年後見制度の創設・施行",
       "status": "completed",
       "description": "介護保険制度とともに民法改正で法定後見制度がスタート"
     },
     {
       "date": "2022年9月",
       "label": "国連障害者権利委員会からの是正勧告",
+      "title": "国連障害者権利委員会からの是正勧告",
       "status": "completed",
       "description": "成年後見制度が本人の法的権利を奪っているとして抜本見直しを要請"
     },
     {
       "date": "2024年2月",
       "label": "法相が法制審議会に民法改正を諮問",
+      "title": "法相が法制審議会に民法改正を諮問",
       "status": "completed",
       "description": "職務終了の柔軟化や期間付き後見をテーマに部会で審議開始"
     },
     {
       "date": "2026年〜2027年",
       "label": "民法改正案の提出と新制度施行",
+      "title": "民法改正案の提出と新制度施行",
       "status": "current",
       "description": "国会提出を経て柔軟なスポット型後見や意思決定支援の本格導入"
     }
@@ -250,7 +254,10 @@
         "source": {
           "title": "オーストラリア連邦司法省 (Attorney-General's Department) - Guardianship and Decision-Making",
           "url": "https://www.ag.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "FR",
@@ -260,7 +267,10 @@
         "source": {
           "title": "フランス司法省 (Ministère de la Justice) - Protection juridique des majeurs",
           "url": "https://www.justice.gouv.fr"
-        }
+        },
+        "countryCode": "FR",
+        "systemName": "フランスの関連制度・方針",
+        "keyFeature": "フランスにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -270,7 +280,10 @@
         "source": {
           "title": "オンタリオ州司法長官省 (Ministry of the Attorney General) - Power of Attorney",
           "url": "https://www.ontario.ca/page/ministry-attorney-general"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "カナダ（オンタリオ州）の関連制度・方針",
+        "keyFeature": "カナダ（オンタリオ州）における制度設計と運用"
       },
       {
         "code": "KR",
@@ -280,7 +293,10 @@
         "source": {
           "title": "韓国大法院 (Supreme Court of Korea) - 成年後見制度のご案内",
           "url": "https://www.scourt.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

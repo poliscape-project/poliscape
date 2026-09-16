@@ -93,17 +93,23 @@
   "timeline": [
     {
       "date": "2021年6月",
+      "label": "宇宙活動法に基づく衛星管理基準の改定議論開始",
       "title": "宇宙活動法に基づく衛星管理基準の改定議論開始",
+      "status": "completed",
       "description": "デブリ低減基準の国際調和。"
     },
     {
       "date": "2024年2月",
+      "label": "アストロスケールが商業デブリ除去実証衛星（ADRAS-J）の打上げ成功",
       "title": "アストロスケールが商業デブリ除去実証衛星（ADRAS-J）の打上げ成功",
+      "status": "completed",
       "description": "残骸への精密接近実証。"
     },
     {
       "date": "2025年11月",
+      "label": "軌道上サービス新法案を閣議決定",
       "title": "軌道上サービス新法案を閣議決定",
+      "status": "current",
       "description": "商業除去サービスの制度化推進。"
     }
   ],

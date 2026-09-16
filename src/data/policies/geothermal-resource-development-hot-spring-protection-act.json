@@ -93,17 +93,23 @@
   "timeline": [
     {
       "date": "2021年9月",
+      "label": "環境省が国立公園内の地熱開発基準を緩和",
       "title": "環境省が国立公園内の地熱開発基準を緩和",
+      "status": "completed",
       "description": "斜め掘削等の容認。"
     },
     {
       "date": "2024年6月",
+      "label": "NEDOが超臨界地熱発電の試験掘削プロジェクト採択",
       "title": "NEDOが超臨界地熱発電の試験掘削プロジェクト採択",
+      "status": "completed",
       "description": "地下深部熱源の検証。"
     },
     {
       "date": "2025年11月",
+      "label": "深層地熱促進・温泉共生法案が通常国会に提出",
       "title": "深層地熱促進・温泉共生法案が通常国会に提出",
+      "status": "current",
       "description": "モニタリング義務化。"
     }
   ],

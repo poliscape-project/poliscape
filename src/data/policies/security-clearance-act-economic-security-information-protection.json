@@ -94,24 +94,28 @@
     {
       "date": "2022年5月",
       "label": "経済安全保障推進法が成立",
+      "title": "経済安全保障推進法が成立",
       "status": "completed",
       "description": "サプライチェーン強靭化や基幹インフラ安全確保の4本柱が成立"
     },
     {
       "date": "2024年5月",
       "label": "重要経済安保情報保護活用法が成立",
+      "title": "重要経済安保情報保護活用法が成立",
       "status": "completed",
       "description": "参院本会議で可決成立、セキュリティ・クリアランス制度が誕生"
     },
     {
       "date": "2024年秋〜2025年",
       "label": "政省令・運用基準の策定とパブリックコメント",
+      "title": "政省令・運用基準の策定とパブリックコメント",
       "status": "completed",
       "description": "適性評価の具体的質問項目やプライバシー保護措置を公表"
     },
     {
       "date": "2025年春〜2026年",
       "label": "法律の全面施行と適性評価の本格実施",
+      "title": "法律の全面施行と適性評価の本格実施",
       "status": "current",
       "description": "企業・官公庁でのクリアランス審査開始と国際相互承認の交渉"
     }
@@ -254,7 +258,10 @@
         "source": {
           "title": "フランス国防・国家安全保障総局 (SGDSN) - Protection du secret de la défense nationale",
           "url": "https://www.sgdsn.gouv.fr"
-        }
+        },
+        "countryCode": "FR",
+        "systemName": "フランスの関連制度・方針",
+        "keyFeature": "フランスにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -264,7 +271,10 @@
         "source": {
           "title": "カナダ安全保障知能庁 (CSIS) - Security Screening",
           "url": "https://www.canada.ca/en/security-intelligence-service.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "NZ",
@@ -274,7 +284,10 @@
         "source": {
           "title": "ニュージーランド安全情報局 (NZSIS) - Protective Security Requirements",
           "url": "https://www.nzsis.govt.nz"
-        }
+        },
+        "countryCode": "NZ",
+        "systemName": "ニュージーランドの関連制度・方針",
+        "keyFeature": "ニュージーランドにおける制度設計と運用"
       },
       {
         "code": "SG",
@@ -284,7 +297,10 @@
         "source": {
           "title": "シンガポール内務省 (MHA) - National Security and Information Protection",
           "url": "https://www.mha.gov.sg"
-        }
+        },
+        "countryCode": "SG",
+        "systemName": "シンガポールの関連制度・方針",
+        "keyFeature": "シンガポールにおける制度設計と運用"
       }
     ]
   }

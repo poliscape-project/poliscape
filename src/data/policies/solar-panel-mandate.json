@@ -94,18 +94,21 @@
     {
       "date": "2022年12月",
       "label": "東京都議会で義務化条例が成立",
+      "title": "東京都議会で義務化条例が成立",
       "status": "completed",
       "description": "全国の自治体で初となる新築住宅への太陽光パネル設置義務化条例が可決"
     },
     {
       "date": "2025年4月",
       "label": "東京都・川崎市で義務化が本格施行",
+      "title": "東京都・川崎市で義務化が本格施行",
       "status": "completed",
       "description": "年間供給規模の大手ハウスメーカーを対象に適合審査と補助金受付が開始"
     },
     {
       "date": "2026年〜",
       "label": "他自治体への波及検討とリサイクル網構築",
+      "title": "他自治体への波及検討とリサイクル網構築",
       "status": "current",
       "description": "京都府や神奈川県など他都市への検討拡大と、廃棄パネルリサイクル体制の整備が進行中"
     }
@@ -282,7 +285,10 @@
         "source": {
           "title": "スイス連邦エネルギー庁 (BFE) - Solarpflicht für Neubauten",
           "url": "https://www.bfe.admin.ch"
-        }
+        },
+        "countryCode": "CH",
+        "systemName": "スイスの関連制度・方針",
+        "keyFeature": "スイスにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -292,7 +298,10 @@
         "source": {
           "title": "オーストラリア建築基準委員会 (ABCB) - National Construction Code energy efficiency",
           "url": "https://www.abcb.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "ES",
@@ -302,7 +311,10 @@
         "source": {
           "title": "スペイン生態系移行・人口問題省 (MITECO) - Autoconsumo solar fotovoltaico",
           "url": "https://www.miteco.gob.es"
-        }
+        },
+        "countryCode": "ES",
+        "systemName": "スペインの関連制度・方針",
+        "keyFeature": "スペインにおける制度設計と運用"
       },
       {
         "code": "NL",
@@ -312,7 +324,10 @@
         "source": {
           "title": "オランダ企業誘致庁 (RVO) - Salderingsregeling voor zonnepanelen",
           "url": "https://www.rvo.nl"
-        }
+        },
+        "countryCode": "NL",
+        "systemName": "オランダの関連制度・方針",
+        "keyFeature": "オランダにおける制度設計と運用"
       }
     ]
   }

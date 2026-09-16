@@ -94,18 +94,21 @@
     {
       "date": "2017年1月",
       "label": "フランスで世界初「つながらない権利」法制化",
+      "title": "フランスで世界初「つながらない権利」法制化",
       "status": "completed",
       "description": "従業員50人以上の企業に時間外連絡遮断の協定締結を義務付け"
     },
     {
       "date": "2024年8月",
       "label": "オーストラリアでつながらない権利が成立・施行",
+      "title": "オーストラリアでつながらない権利が成立・施行",
       "status": "completed",
       "description": "時間外連絡への対応拒否を不当に処罰した企業に最大約900万円の罰金"
     },
     {
       "date": "2025年〜2026年",
       "label": "日本における厚労省検討会でのガイドライン検討",
+      "title": "日本における厚労省検討会でのガイドライン検討",
       "status": "current",
       "description": "テレワークガイドラインの改定や労使対話を通じた導入モデルの検討が進行中"
     }
@@ -192,7 +195,10 @@
         "source": {
           "title": "イタリア労働・社会政策省 (Ministero del Lavoro) - Lavoro agile e disconnessione",
           "url": "https://www.lavoro.gov.it"
-        }
+        },
+        "countryCode": "IT",
+        "systemName": "イタリアの関連制度・方針",
+        "keyFeature": "イタリアにおける制度設計と運用"
       },
       {
         "code": "PT",
@@ -202,7 +208,10 @@
         "source": {
           "title": "ポルトガル政府 (Portal do Governo) - Teletrabalho e dever de abstenção de contacto",
           "url": "https://www.portugal.gov.pt"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "ポルトガルの関連制度・方針",
+        "keyFeature": "ポルトガルにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -212,7 +221,10 @@
         "source": {
           "title": "オンタリオ州政府ポータル - Written policy on disconnecting from work",
           "url": "https://www.ontario.ca"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "カナダ（オンタリオ州）の関連制度・方針",
+        "keyFeature": "カナダ（オンタリオ州）における制度設計と運用"
       },
       {
         "code": "DE",
@@ -222,7 +234,10 @@
         "source": {
           "title": "ドイツ連邦労働社会省 (BMAS) - Psychische Gesundheit am Arbeitsplatz",
           "url": "https://www.bmas.de"
-        }
+        },
+        "countryCode": "DE",
+        "systemName": "ドイツの関連制度・方針",
+        "keyFeature": "ドイツにおける制度設計と運用"
       }
     ]
   }

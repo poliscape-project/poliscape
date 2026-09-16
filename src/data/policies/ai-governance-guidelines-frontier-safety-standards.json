@@ -117,17 +117,23 @@
   "timeline": [
     {
       "date": "2023年5月",
+      "label": "G7広島サミットで広島AIプロセス創設",
       "title": "G7広島サミットで広島AIプロセス創設",
+      "status": "completed",
       "description": "日本主導で生成AIの国際行動規範策定に向け合意"
     },
     {
       "date": "2024年2月",
+      "label": "日本版AIセーフティ・インスティテュート（AISI）設立",
       "title": "日本版AIセーフティ・インスティテュート（AISI）設立",
+      "status": "completed",
       "description": "IPA内に村井純所長の下で安全性評価専門組織が発足"
     },
     {
       "date": "2024年4月",
+      "label": "AI事業者ガイドライン第1.0版を正式公表",
       "title": "AI事業者ガイドライン第1.0版を正式公表",
+      "status": "current",
       "description": "総務省・経産省が事業者が遵守すべき安全原則を提示"
     }
   ],

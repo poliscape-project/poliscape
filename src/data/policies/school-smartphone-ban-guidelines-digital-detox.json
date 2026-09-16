@@ -118,18 +118,21 @@
     {
       "date": "2009年",
       "label": "文科省、小中学校への児童生徒の携帯電話持ち込み「原則禁止」通知",
+      "title": "文科省、小中学校への児童生徒の携帯電話持ち込み「原則禁止」通知",
       "status": "completed",
       "description": "文科省、小中学校への児童生徒の携帯電話持ち込み「原則禁止」通知"
     },
     {
       "date": "2020年",
       "label": "緊急時対応や防犯を理由とする条件付き持ち込み許可へガイドライン改定",
+      "title": "緊急時対応や防犯を理由とする条件付き持ち込み許可へガイドライン改定",
       "status": "completed",
       "description": "緊急時対応や防犯を理由とする条件付き持ち込み許可へガイドライン改定"
     },
     {
       "date": "2026年",
       "label": "海外の学校スマホ全面禁止法制化を受け、校内ルール再強化の議論活発化",
+      "title": "海外の学校スマホ全面禁止法制化を受け、校内ルール再強化の議論活発化",
       "status": "current",
       "description": "海外の学校スマホ全面禁止法制化を受け、校内ルール再強化の議論活発化"
     }
@@ -270,7 +273,10 @@
         "source": {
           "title": "イタリア教育功績省 (MIM) - Divieto dell'uso dei telefoni cellulari a scuola",
           "url": "https://www.miur.gov.it"
-        }
+        },
+        "countryCode": "IT",
+        "systemName": "イタリアの関連制度・方針",
+        "keyFeature": "イタリアにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -280,7 +286,10 @@
         "source": {
           "title": "NSW州教育省 (NSW Department of Education) - Mobile phones in schools policy",
           "url": "https://education.nsw.gov.au"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "オーストラリア（NSW州）の関連制度・方針",
+        "keyFeature": "オーストラリア（NSW州）における制度設計と運用"
       },
       {
         "code": "NZ",
@@ -290,7 +299,10 @@
         "source": {
           "title": "ニュージーランド教育省 (Ministry of Education) - Mobile phones in schools regulations",
           "url": "https://www.education.govt.nz"
-        }
+        },
+        "countryCode": "NZ",
+        "systemName": "ニュージーランドの関連制度・方針",
+        "keyFeature": "ニュージーランドにおける制度設計と運用"
       },
       {
         "code": "DE",
@@ -300,7 +312,10 @@
         "source": {
           "title": "バイエルン州文部省 (Kultusministerium Bayern) - Handynutzung an bayerischen Schulen",
           "url": "https://www.km.bayern.de"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "ドイツ（バイエルン州）の関連制度・方針",
+        "keyFeature": "ドイツ（バイエルン州）における制度設計と運用"
       }
     ]
   }

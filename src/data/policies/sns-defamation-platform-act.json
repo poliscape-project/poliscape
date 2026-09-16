@@ -94,19 +94,22 @@
     {
       "date": "2024年3月",
       "label": "「情報流通プラットフォーム対処法案」が閣議決定",
+      "title": "「情報流通プラットフォーム対処法案」が閣議決定",
       "status": "completed",
       "description": "旧プロ責任法を改称し、大規模事業者を規制対象とする法案が国会提出"
     },
     {
       "date": "2024年5月",
       "label": "改正法が可決・成立",
+      "title": "改正法が可決・成立",
       "status": "completed",
       "description": "参議院本会議で全会一致等により可決成立"
     },
     {
       "date": "2025年春頃",
       "label": "情報流通プラットフォーム対処法が全面施行予定",
-      "status": "upcoming",
+      "title": "情報流通プラットフォーム対処法が全面施行予定",
+      "status": "current",
       "description": "大規模事業者の指定基準やガイドライン公表を経て全国施行"
     }
   ],
@@ -192,7 +195,10 @@
         "source": {
           "title": "英国通信庁 (Ofcom) - Online Safety Act regulation",
           "url": "https://www.ofcom.org.uk"
-        }
+        },
+        "countryCode": "UK",
+        "systemName": "英国の関連制度・方針",
+        "keyFeature": "英国における制度設計と運用"
       },
       {
         "code": "FR",
@@ -202,7 +208,10 @@
         "source": {
           "title": "フランス視聴覚・デジタル通信規制局 (Arcom) - Régulation des plateformes en ligne",
           "url": "https://www.arcom.fr"
-        }
+        },
+        "countryCode": "FR",
+        "systemName": "フランスの関連制度・方針",
+        "keyFeature": "フランスにおける制度設計と運用"
       },
       {
         "code": "SG",
@@ -212,7 +221,10 @@
         "source": {
           "title": "シンガポール内務省 (MHA) - Online Criminal Harms Act",
           "url": "https://www.mha.gov.sg"
-        }
+        },
+        "countryCode": "SG",
+        "systemName": "シンガポールの関連制度・方針",
+        "keyFeature": "シンガポールにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -222,7 +234,10 @@
         "source": {
           "title": "韓国放送通信委員会 (KCC) - インターネット被害救済および情報通信網法",
           "url": "https://www.kcc.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

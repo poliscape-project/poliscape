@@ -118,13 +118,15 @@
     {
       "date": "2007年",
       "label": "70歳までの繰下げ受給が定着",
+      "title": "70歳までの繰下げ受給が定着",
       "status": "completed",
       "description": "65歳基準＋最大42%増額"
     },
     {
       "date": "2022年4月",
       "label": "受給開始上限を75歳へ拡大",
-      "status": "completed",
+      "title": "受給開始上限を75歳へ拡大",
+      "status": "current",
       "description": "最大84%増額・繰上げ減額率の緩和（0.4%へ）"
     }
   ],
@@ -308,7 +310,10 @@
         "source": {
           "title": "カナダ政府 (Canada.ca) - Canada Pension Plan (CPP) retirement pension",
           "url": "https://www.canada.ca/en/services/benefits/publicpensions.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -318,7 +323,10 @@
         "source": {
           "title": "オーストラリア連邦サービス庁 (Services Australia) - Age Pension and Work Bonus",
           "url": "https://www.servicesaustralia.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "SE",
@@ -328,7 +336,10 @@
         "source": {
           "title": "スウェーデン年金庁 (Pensionsmyndigheten) - När kan jag ta ut pension",
           "url": "https://www.pensionsmyndigheten.se"
-        }
+        },
+        "countryCode": "SE",
+        "systemName": "スウェーデンの関連制度・方針",
+        "keyFeature": "スウェーデンにおける制度設計と運用"
       },
       {
         "code": "NL",
@@ -338,7 +349,10 @@
         "source": {
           "title": "オランダ社会保険銀行 (SVB) - AOW pension age",
           "url": "https://www.svb.nl/en"
-        }
+        },
+        "countryCode": "NL",
+        "systemName": "オランダの関連制度・方針",
+        "keyFeature": "オランダにおける制度設計と運用"
       }
     ]
   }

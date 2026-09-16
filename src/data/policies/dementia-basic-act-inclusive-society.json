@@ -110,24 +110,28 @@
     {
       "date": "2019年",
       "label": "認知症施策推進大綱の策定",
+      "title": "認知症施策推進大綱の策定",
       "status": "completed",
       "description": "「共生」と「予防」を両輪とする総合戦略を取りまとめ"
     },
     {
       "date": "2023年6月",
       "label": "認知症基本法の成立",
+      "title": "認知症基本法の成立",
       "status": "completed",
       "description": "超党派の議員立法により全会一致で可決成立"
     },
     {
       "date": "2024年1月",
       "label": "認知症基本法施行",
+      "title": "認知症基本法施行",
       "status": "completed",
       "description": "首相を本部長とする認知症施策推進本部が内閣官房に設置"
     },
     {
       "date": "2024年秋〜2026年",
       "label": "認知症施策推進基本計画の全国策定と推進",
+      "title": "認知症施策推進基本計画の全国策定と推進",
       "status": "current",
       "description": "全都道府県・市区町村での推進計画策定と当事者参加会議の実施"
     }
@@ -296,7 +300,10 @@
         "source": {
           "title": "オランダ保健福祉スポーツ省 (VWS) - Nationale Dementiestrategie",
           "url": "https://www.government.nl/ministries/ministry-of-health-welfare-and-sport"
-        }
+        },
+        "countryCode": "NL",
+        "systemName": "オランダの関連制度・方針",
+        "keyFeature": "オランダにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -306,7 +313,10 @@
         "source": {
           "title": "オーストラリア保健・高齢者ケア省 (DoHAC) - National Dementia Action Plan",
           "url": "https://www.health.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "SG",
@@ -316,7 +326,10 @@
         "source": {
           "title": "シンガポール保健省 (MOH) - Dementia-Friendly Communities",
           "url": "https://www.moh.gov.sg"
-        }
+        },
+        "countryCode": "SG",
+        "systemName": "シンガポールの関連制度・方針",
+        "keyFeature": "シンガポールにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -326,7 +339,10 @@
         "source": {
           "title": "韓国保健福祉部 (MOHW) - 国家認知症責任制推進計画",
           "url": "https://www.mohw.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

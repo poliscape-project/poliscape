@@ -117,17 +117,23 @@
   "timeline": [
     {
       "date": "2014年5月",
+      "label": "難病医療法が成立",
       "title": "難病医療法が成立",
+      "status": "completed",
       "description": "公平で安定的な難病医療費助成制度が確立（対象疾患を順次拡大）"
     },
     {
       "date": "2022年12月",
+      "label": "改正難病医療法が成立",
       "title": "改正難病医療法が成立",
+      "status": "completed",
       "description": "助成開始日の前倒し（診断日への遡及）と電子化方針を明記"
     },
     {
       "date": "2024年4月",
+      "label": "改正法施行および難病DX本格稼働",
       "title": "改正法施行および難病DX本格稼働",
+      "status": "current",
       "description": "遡及措置の運用開始とオンライン診断書登録の全国展開"
     }
   ],

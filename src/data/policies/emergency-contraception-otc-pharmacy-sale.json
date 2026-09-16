@@ -110,25 +110,29 @@
     {
       "date": "2011年",
       "label": "日本で緊急避妊薬「ノルレボ」が承認（処方箋必須）",
+      "title": "日本で緊急避妊薬「ノルレボ」が承認（処方箋必須）",
       "status": "completed",
       "description": "国内初の緊急避妊薬として発売されるも医師の診察が必須"
     },
     {
       "date": "2023年11月",
       "label": "厚労省による薬局での試験的販売（モデル事業）開始",
+      "title": "厚労省による薬局での試験的販売（モデル事業）開始",
       "status": "completed",
       "description": "全国145の薬局で処方箋なしの対面販売実証事業をスタート"
     },
     {
       "date": "2024年〜2026年",
       "label": "試験運用の検証と取扱薬局の拡大協議",
-      "status": "current",
+      "title": "試験運用の検証と取扱薬局の拡大協議",
+      "status": "completed",
       "description": "購入者のアンケート結果分析と一般用医薬品（OTC）部会での本格承認審議"
     },
     {
       "date": "2027年",
       "label": "緊急避妊薬の本格OTC化・全国解禁目標",
-      "status": "upcoming",
+      "title": "緊急避妊薬の本格OTC化・全国解禁目標",
+      "status": "current",
       "description": "全国の対応薬局での処方箋なし本格販売の運用開始"
     }
   ],
@@ -278,7 +282,10 @@
         "source": {
           "title": "スペイン保健省 (Ministerio de Sanidad) - Salud Sexual y Reproductiva",
           "url": "https://www.sanidad.gob.es"
-        }
+        },
+        "countryCode": "ES",
+        "systemName": "スペインの関連制度・方針",
+        "keyFeature": "スペインにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -288,7 +295,10 @@
         "source": {
           "title": "カナダ保健省 (Health Canada) - Prescription Drug Status",
           "url": "https://www.canada.ca/en/health-canada.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -298,7 +308,10 @@
         "source": {
           "title": "韓国食品医薬品安全処 (MFDS) - 医薬品分類情報",
           "url": "https://www.mfds.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       },
       {
         "code": "SE",
@@ -308,7 +321,10 @@
         "source": {
           "title": "スウェーデン医療製品庁 (Läkemedelsverket) - Akut-p-piller",
           "url": "https://www.lakemedelsverket.se"
-        }
+        },
+        "countryCode": "SE",
+        "systemName": "スウェーデンの関連制度・方針",
+        "keyFeature": "スウェーデンにおける制度設計と運用"
       }
     ]
   }

@@ -93,17 +93,23 @@
   "timeline": [
     {
       "date": "2022年5月",
+      "label": "みどりの食料システム法が施行",
       "title": "みどりの食料システム法が施行",
+      "status": "completed",
       "description": "環境負荷低減技術の導入目標設定。"
     },
     {
       "date": "2024年7月",
+      "label": "農水省検討会でバイオスティミュラント基準策定作業開始",
       "title": "農水省検討会でバイオスティミュラント基準策定作業開始",
+      "status": "completed",
       "description": "規格化ロードマップ公表。"
     },
     {
       "date": "2025年12月",
+      "label": "肥料取締法改正要綱案が提示",
       "title": "肥料取締法改正要綱案が提示",
+      "status": "current",
       "description": "新区分創設へ法制化着手。"
     }
   ],

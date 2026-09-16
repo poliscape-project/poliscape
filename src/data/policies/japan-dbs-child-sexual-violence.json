@@ -94,19 +94,22 @@
     {
       "date": "2023年秋",
       "label": "こども家庭庁が制度設計の大綱を取りまとめ",
+      "title": "こども家庭庁が制度設計の大綱を取りまとめ",
       "status": "completed",
       "description": "照会期間をめぐる憲法論議を経て、拘禁刑20年・罰金10年の枠組みが決定"
     },
     {
       "date": "2024年6月",
       "label": "こども性暴力防止法（日本版DBS法）が国会で成立",
+      "title": "こども性暴力防止法（日本版DBS法）が国会で成立",
       "status": "completed",
       "description": "参議院本会議で全会一致で可決・成立"
     },
     {
       "date": "2026年度",
       "label": "日本版DBSシステムが本格稼働予定",
-      "status": "upcoming",
+      "title": "日本版DBSシステムが本格稼働予定",
+      "status": "current",
       "description": "法務省の犯歴データと連携したデジタル照会システムの運用がスタート"
     }
   ],
@@ -192,7 +195,10 @@
         "source": {
           "title": "オーストラリア連邦サービス庁 (Services Australia) - Working with Children Checks",
           "url": "https://www.servicesaustralia.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "NZ",
@@ -202,7 +208,10 @@
         "source": {
           "title": "ニュージーランド子ども省 (Oranga Tamariki) - Safety checking under Children's Act",
           "url": "https://www.orangatamariki.govt.nz"
-        }
+        },
+        "countryCode": "NZ",
+        "systemName": "ニュージーランドの関連制度・方針",
+        "keyFeature": "ニュージーランドにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -212,7 +221,10 @@
         "source": {
           "title": "王立カナダ騎馬警察 (RCMP) - Vulnerable Sector Checks",
           "url": "https://www.rcmp-grc.gc.ca"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "SE",
@@ -222,7 +234,10 @@
         "source": {
           "title": "スウェーデン国家警察 (Polisen) - Registerutdrag för arbete med barn",
           "url": "https://polisen.se"
-        }
+        },
+        "countryCode": "SE",
+        "systemName": "スウェーデンの関連制度・方針",
+        "keyFeature": "スウェーデンにおける制度設計と運用"
       }
     ]
   }

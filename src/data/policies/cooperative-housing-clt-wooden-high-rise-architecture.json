@@ -93,17 +93,23 @@
   "timeline": [
     {
       "date": "2016年4月",
+      "label": "CLT関連の建築基準法告示が公布",
       "title": "CLT関連の建築基準法告示が公布",
+      "status": "completed",
       "description": "一般的な設計法が確立。"
     },
     {
       "date": "2021年10月",
+      "label": "改正公共建築物等木材利用促進法が施行",
       "title": "改正公共建築物等木材利用促進法が施行",
+      "status": "completed",
       "description": "民間建築物へ対象拡大。"
     },
     {
       "date": "2025年11月",
+      "label": "都市木造化促進新法案が国会提出",
       "title": "都市木造化促進新法案が国会提出",
+      "status": "current",
       "description": "容積率優遇と高層化基準策定。"
     }
   ],

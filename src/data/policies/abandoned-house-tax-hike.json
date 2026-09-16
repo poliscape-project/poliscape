@@ -118,24 +118,28 @@
     {
       "date": "2015年5月",
       "label": "空家等対策特別措置法が施行",
+      "title": "空家等対策特別措置法が施行",
       "status": "completed",
       "description": "特定空家に対する除却命令や代執行制度がスタート"
     },
     {
       "date": "2023年12月",
       "label": "改正空家特措法施行",
+      "title": "改正空家特措法施行",
       "status": "completed",
       "description": "管理不全空家の新設と住宅用地特例解除ルールが施行"
     },
     {
       "date": "2025年〜2026年",
       "label": "自治体による指定・勧告の本格化",
+      "title": "自治体による指定・勧告の本格化",
       "status": "completed",
       "description": "全国の自治体で管理不全空家への指導・是正勧告事例が増加"
     },
     {
       "date": "2026年9月",
       "label": "空き家流通・解体支援策の拡充",
+      "title": "空き家流通・解体支援策の拡充",
       "status": "current",
       "description": "解体費用補助や相続放棄後の国庫帰属制度との連携推進"
     }
@@ -312,7 +316,10 @@
         "source": {
           "title": "バンクーバー市役所 (City of Vancouver) - Empty Homes Tax",
           "url": "https://vancouver.ca"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "カナダ（バンクーバー市）の関連制度・方針",
+        "keyFeature": "カナダ（バンクーバー市）における制度設計と運用"
       },
       {
         "code": "AU",
@@ -322,7 +329,10 @@
         "source": {
           "title": "ビクトリア州歳入庁 (State Revenue Office Victoria) - Vacant Residential Land Tax",
           "url": "https://www.sro.vic.gov.au"
-        }
+        },
+        "countryCode": "INT",
+        "systemName": "オーストラリア（VIC州）の関連制度・方針",
+        "keyFeature": "オーストラリア（VIC州）における制度設計と運用"
       },
       {
         "code": "KR",
@@ -332,7 +342,10 @@
         "source": {
           "title": "韓国行政安全部 (MOIS) - 空家整備および安全管理方針",
           "url": "https://www.mois.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       },
       {
         "code": "ES",
@@ -342,7 +355,10 @@
         "source": {
           "title": "スペイン住宅・都市アジェンダ省 (MIVAU) - Ley por el Derecho a la Vivienda",
           "url": "https://www.mivau.gob.es"
-        }
+        },
+        "countryCode": "ES",
+        "systemName": "スペインの関連制度・方針",
+        "keyFeature": "スペインにおける制度設計と運用"
       }
     ]
   }

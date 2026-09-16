@@ -95,24 +95,28 @@
     {
       "date": "2021年",
       "label": "クレジット取引セキュリティ対策協議会がロードマップ策定",
+      "title": "クレジット取引セキュリティ対策協議会がロードマップ策定",
       "status": "completed",
       "description": "EMV-3Dセキュアへの移行目標を設定"
     },
     {
       "date": "2023年",
       "label": "不正利用被害額が過去最悪の540億円を突破",
+      "title": "不正利用被害額が過去最悪の540億円を突破",
       "status": "completed",
       "description": "フィッシング詐欺被害が社会問題化"
     },
     {
       "date": "2025年3月",
       "label": "全EC加盟店へのEMV-3Dセキュア導入期限",
+      "title": "全EC加盟店へのEMV-3Dセキュア導入期限",
       "status": "completed",
       "description": "本人認証未導入店舗の原則排除"
     },
     {
       "date": "現在",
       "label": "経済産業省による補償指針改定の法制化検討",
+      "title": "経済産業省による補償指針改定の法制化検討",
       "status": "current",
       "description": "過失判定基準の見直しとガイドライン義務化協議"
     }
@@ -251,7 +255,10 @@
         "source": {
           "title": "オーストラリア証券投資委員会 (ASIC) - ePayments Code",
           "url": "https://asic.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -261,7 +268,10 @@
         "source": {
           "title": "カナダ金融消費者庁 (FCAC) - Unauthorized transactions and fraud protection",
           "url": "https://www.canada.ca/en/financial-consumer-agency.html"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "DE",
@@ -271,7 +281,10 @@
         "source": {
           "title": "ドイツ連邦金融監督庁 (BaFin) - Unerlaubte Zahlungskartennutzung",
           "url": "https://www.bafin.de"
-        }
+        },
+        "countryCode": "DE",
+        "systemName": "ドイツの関連制度・方針",
+        "keyFeature": "ドイツにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -281,7 +294,10 @@
         "source": {
           "title": "韓国金融委員会 (FSC) - クレジットカード不正決済防止・消費者保護方針",
           "url": "https://www.fsc.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       }
     ]
   }

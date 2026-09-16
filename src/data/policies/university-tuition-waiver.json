@@ -118,24 +118,28 @@
     {
       "date": "2023年12月",
       "label": "こども未来戦略の閣議決定",
+      "title": "こども未来戦略の閣議決定",
       "status": "completed",
       "description": "多子世帯の大学授業料無償化の方針を政府が発表"
     },
     {
       "date": "2024年3月",
       "label": "制度方針・要件の詳細公表（文科省）",
+      "title": "制度方針・要件の詳細公表（文科省）",
       "status": "completed",
       "description": "「3人扶養要件」や授業料免除の上限額（国公立全額、私立70万）を公表"
     },
     {
       "date": "2024年秋",
       "label": "各大学・JASSOでの先行受付開始",
+      "title": "各大学・JASSOでの先行受付開始",
       "status": "completed",
       "description": "2025年度入学・進級する学生に向けた申請案内と審査手続き"
     },
     {
       "date": "2025年4月",
       "label": "新制度の施行・支援開始",
+      "title": "新制度の施行・支援開始",
       "status": "current",
       "description": "令和7年度春学期から授業料減免が正式適用スタート"
     }
@@ -320,7 +324,10 @@
         "source": {
           "title": "ノルウェー政府ポータル (Regjeringen.no) - Higher Education Act and Tuition Fees",
           "url": "https://www.regjeringen.no/en"
-        }
+        },
+        "countryCode": "NO",
+        "systemName": "ノルウェーの関連制度・方針",
+        "keyFeature": "ノルウェーにおける制度設計と運用"
       },
       {
         "code": "FI",
@@ -330,7 +337,10 @@
         "source": {
           "title": "フィンランド教育文化省 (OKM) - Higher education policy and student financial aid",
           "url": "https://okm.fi/en"
-        }
+        },
+        "countryCode": "FI",
+        "systemName": "フィンランドの関連制度・方針",
+        "keyFeature": "フィンランドにおける制度設計と運用"
       },
       {
         "code": "FR",
@@ -340,7 +350,10 @@
         "source": {
           "title": "フランス高等教育・研究省 - Bourses et aides financières sur critères sociaux",
           "url": "https://www.enseignementsup-recherche.gouv.fr"
-        }
+        },
+        "countryCode": "FR",
+        "systemName": "フランスの関連制度・方針",
+        "keyFeature": "フランスにおける制度設計と運用"
       },
       {
         "code": "AU",
@@ -350,7 +363,10 @@
         "source": {
           "title": "オーストラリア連邦政府 Study Assist - Higher Education Loan Program (HELP)",
           "url": "https://www.studyassist.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       }
     ]
   }

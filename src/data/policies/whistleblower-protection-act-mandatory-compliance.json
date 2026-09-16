@@ -118,25 +118,29 @@
     {
       "date": "2006年4月",
       "label": "公益通報者保護法の施行",
+      "title": "公益通報者保護法の施行",
       "status": "completed",
       "description": "食品偽装や欠陥隠蔽の多発を受け、通報者の解雇無効を定めた基本法が施行。"
     },
     {
       "date": "2022年6月",
       "label": "改正公益通報者保護法の施行",
+      "title": "改正公益通報者保護法の施行",
       "status": "completed",
       "description": "301人以上の企業に通報窓口設置を義務化し、通報者特定情報の漏洩に刑事罰を導入。"
     },
     {
       "date": "2024年〜2025年",
       "label": "消費者庁検討会による実効性検証と刑事罰議論",
-      "status": "current",
+      "title": "消費者庁検討会による実効性検証と刑事罰議論",
+      "status": "completed",
       "description": "相次ぐ企業不祥事や自治体パワハラ事案を踏まえ、不利益取扱への直罰導入を本格議論中。"
     },
     {
       "date": "2026年〜",
       "label": "法改正案の国会提出と厳罰化施行目標",
-      "status": "upcoming",
+      "title": "法改正案の国会提出と厳罰化施行目標",
+      "status": "current",
       "description": "通報者に対する報復人事への刑事罰新設を含む抜本的強化法の成立を目指す。"
     }
   ],
@@ -290,7 +294,10 @@
         "source": {
           "title": "オーストラリア連邦オンブズマン (Commonwealth Ombudsman) - Public Interest Disclosure scheme",
           "url": "https://www.ombudsman.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "FR",
@@ -300,7 +307,10 @@
         "source": {
           "title": "フランス権利擁護官 (Défenseur des droits) - Protection des lanceurs d'alerte",
           "url": "https://www.defenseurdesdroits.fr"
-        }
+        },
+        "countryCode": "FR",
+        "systemName": "フランスの関連制度・方針",
+        "keyFeature": "フランスにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -310,7 +320,10 @@
         "source": {
           "title": "韓国国民権益委員会 (ACRC) - 公益通報者保護制度案内",
           "url": "https://www.acrc.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       },
       {
         "code": "NL",
@@ -320,7 +333,10 @@
         "source": {
           "title": "オランダ内部通報者庁 (Huis voor Klokkenluiders) - Investigation and Advice",
           "url": "https://www.huisvoorklokkenluiders.nl"
-        }
+        },
+        "countryCode": "NL",
+        "systemName": "オランダの関連制度・方針",
+        "keyFeature": "オランダにおける制度設計と運用"
       }
     ]
   }

@@ -93,17 +93,23 @@
   "timeline": [
     {
       "date": "2016年12月",
+      "label": "官民データ活用推進基本法が成立",
       "title": "官民データ活用推進基本法が成立",
+      "status": "completed",
       "description": "オープンデータの基本理念制定。"
     },
     {
       "date": "2024年6月",
+      "label": "オープンAPI化義務付けを含む改正推進法が成立",
       "title": "オープンAPI化義務付けを含む改正推進法が成立",
+      "status": "completed",
       "description": "機械判読形式の法定義務化。"
     },
     {
       "date": "2025年4月",
+      "label": "改正法が施行され、政府・自治体APIポータルが本格稼働",
       "title": "改正法が施行され、政府・自治体APIポータルが本格稼働",
+      "status": "current",
       "description": "全国でデータ開放が加速。"
     }
   ],

@@ -110,25 +110,29 @@
     {
       "date": "2023年10月",
       "label": "全国加重平均が初めて1,000円（1,004円）突破",
+      "title": "全国加重平均が初めて1,000円（1,004円）突破",
       "status": "completed",
       "description": "悲願の1,000円台到達、政府が2030年代半ば1,500円目標を決定"
     },
     {
       "date": "2024年10月",
       "label": "過去最大51円引き上げで全国平均1,055円へ",
+      "title": "過去最大51円引き上げで全国平均1,055円へ",
       "status": "completed",
       "description": "全都道府県で大幅増額、中央最低賃金審議会での激論"
     },
     {
       "date": "2025年〜2026年",
       "label": "「2020年代中1,500円」前倒し目標の法制・予算措置",
-      "status": "current",
+      "title": "「2020年代中1,500円」前倒し目標の法制・予算措置",
+      "status": "completed",
       "description": "中小企業省力化投資補助金と価格転嫁Gメンの取締強化"
     },
     {
       "date": "2029年〜2030年代",
       "label": "全国平均1,500円達成目標年",
-      "status": "upcoming",
+      "title": "全国平均1,500円達成目標年",
+      "status": "current",
       "description": "全国加重平均1,500円の達成と地方経済の持続性総検証"
     }
   ],
@@ -274,7 +278,10 @@
         "source": {
           "title": "英国低賃金委員会 (Low Pay Commission) - National Living Wage Reports",
           "url": "https://www.gov.uk/government/organisations/low-pay-commission"
-        }
+        },
+        "countryCode": "UK",
+        "systemName": "英国の関連制度・方針",
+        "keyFeature": "英国における制度設計と運用"
       },
       {
         "code": "FR",
@@ -284,7 +291,10 @@
         "source": {
           "title": "フランス政府公式ポータル (Service-Public.fr) - Salaire minimum de croissance (Smic)",
           "url": "https://www.service-public.fr"
-        }
+        },
+        "countryCode": "FR",
+        "systemName": "フランスの関連制度・方針",
+        "keyFeature": "フランスにおける制度設計と運用"
       },
       {
         "code": "NZ",
@@ -294,7 +304,10 @@
         "source": {
           "title": "ニュージーランド雇用省 (Employment New Zealand) - Minimum wage rates",
           "url": "https://www.employment.govt.nz"
-        }
+        },
+        "countryCode": "NZ",
+        "systemName": "ニュージーランドの関連制度・方針",
+        "keyFeature": "ニュージーランドにおける制度設計と運用"
       },
       {
         "code": "ES",
@@ -304,7 +317,10 @@
         "source": {
           "title": "スペイン首相府 (La Moncloa) - Subida del Salario Mínimo Interprofesional (SMI)",
           "url": "https://www.lamoncloa.gob.es"
-        }
+        },
+        "countryCode": "ES",
+        "systemName": "スペインの関連制度・方針",
+        "keyFeature": "スペインにおける制度設計と運用"
       }
     ]
   }

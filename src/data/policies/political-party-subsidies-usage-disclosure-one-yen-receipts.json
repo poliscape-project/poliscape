@@ -95,24 +95,28 @@
     {
       "date": "1994年",
       "label": "政治改革四法（政党助成法・政治資金規正法改正）成立",
+      "title": "政治改革四法（政党助成法・政治資金規正法改正）成立",
       "status": "completed",
       "description": "政党交付金制度がスタート"
     },
     {
       "date": "2023年12月",
       "label": "自民党派閥の政治資金パーティー裏金事件発覚",
+      "title": "自民党派閥の政治資金パーティー裏金事件発覚",
       "status": "completed",
       "description": "政策活動費や不記載問題が世論の激しい怒りを呼ぶ"
     },
     {
       "date": "2024年6月",
       "label": "政治資金規正法の改正案可決（野党反対）",
+      "title": "政治資金規正法の改正案可決（野党反対）",
       "status": "completed",
       "description": "10年後公開などの妥協案に対し批判が集中"
     },
     {
       "date": "現在",
       "label": "政党助成法抜本改正・第三者独立監査機関の設置協議",
+      "title": "政党助成法抜本改正・第三者独立監査機関の設置協議",
       "status": "current",
       "description": "1円領収書と完全オンライン開示の義務化論争"
     }
@@ -251,7 +255,10 @@
         "source": {
           "title": "オーストラリア選挙管理委員会 (AEC) - Financial disclosure transparency",
           "url": "https://www.aec.gov.au"
-        }
+        },
+        "countryCode": "AU",
+        "systemName": "オーストラリアの関連制度・方針",
+        "keyFeature": "オーストラリアにおける制度設計と運用"
       },
       {
         "code": "CA",
@@ -261,7 +268,10 @@
         "source": {
           "title": "カナダ選挙管理委員会 (Elections Canada) - Political financing and disclosures",
           "url": "https://www.elections.ca"
-        }
+        },
+        "countryCode": "CA",
+        "systemName": "カナダの関連制度・方針",
+        "keyFeature": "カナダにおける制度設計と運用"
       },
       {
         "code": "KR",
@@ -271,7 +281,10 @@
         "source": {
           "title": "韓国中央選挙管理委員会 (NEC) - 政党国庫補助金および政治資金案内",
           "url": "https://www.nec.go.kr"
-        }
+        },
+        "countryCode": "KR",
+        "systemName": "韓国の関連制度・方針",
+        "keyFeature": "韓国における制度設計と運用"
       },
       {
         "code": "NO",
@@ -281,7 +294,10 @@
         "source": {
           "title": "ノルウェー政党財政委員会 (Partilovnemnda) - Partifinansiering portal",
           "url": "https://www.partifinansiering.no"
-        }
+        },
+        "countryCode": "NO",
+        "systemName": "ノルウェーの関連制度・方針",
+        "keyFeature": "ノルウェーにおける制度設計と運用"
       }
     ]
   }
