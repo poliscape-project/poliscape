@@ -532,6 +532,17 @@ import smartMeterNextGenerationDynamicDemandResponseData from "@/data/policies/s
 import submarineCableRedundancyLandingStationDecentralizationData from "@/data/policies/submarine-cable-redundancy-landing-station-decentralization.json";
 import unoccupiedLandInheritanceStateAttributionReformData from "@/data/policies/unoccupied-land-inheritance-state-attribution-reform.json";
 import wildlifeDamageCountermeasuresHuntingLicenseEasingData from "@/data/policies/wildlife-damage-countermeasures-hunting-license-easing.json";
+// 新規10重要法案（政治資金・大麻・建築物省エネ・障害者配慮・公選法・金商法・私学法・建設業・モペット・育介法）
+import politicalFundsControlActReform2024Data from "@/data/policies/political-funds-control-act-reform-2024.json";
+import cannabisControlActReformMedicalUseOffenseData from "@/data/policies/cannabis-control-act-reform-medical-use-offense.json";
+import buildingEnergyEfficiencyActMandatoryStandards2025Data from "@/data/policies/building-energy-efficiency-act-mandatory-standards-2025.json";
+import disabilityDiscriminationEliminationActReasonableAccommodationMandateData from "@/data/policies/disability-discrimination-elimination-act-reasonable-accommodation-mandate.json";
+import publicOfficesElectionActReformPosterConductData from "@/data/policies/public-offices-election-act-reform-poster-conduct.json";
+import financialInstrumentsExchangeActQuarterlyReportAbolitionData from "@/data/policies/financial-instruments-exchange-act-quarterly-report-abolition.json";
+import privateSchoolsActGovernanceReform2025Data from "@/data/policies/private-schools-act-governance-reform-2025.json";
+import constructionBusinessActReformLaborCostStandardData from "@/data/policies/construction-business-act-reform-labor-cost-standard.json";
+import roadTrafficActMopedElectricBicycleRegulationData from "@/data/policies/road-traffic-act-moped-electric-bicycle-regulation.json";
+import childcareAndCaregiverLeaveActNursingCareFlexibility2025Data from "@/data/policies/childcare-and-caregiver-leave-act-nursing-care-flexibility-2025.json";
 
 const policies: PolicyTopic[] = [
   childAllowanceData as PolicyTopic,
@@ -1059,6 +1070,17 @@ const policies: PolicyTopic[] = [
   submarineCableRedundancyLandingStationDecentralizationData as PolicyTopic,
   unoccupiedLandInheritanceStateAttributionReformData as PolicyTopic,
   wildlifeDamageCountermeasuresHuntingLicenseEasingData as PolicyTopic,
+  // 新規10重要法案
+  politicalFundsControlActReform2024Data as PolicyTopic,
+  cannabisControlActReformMedicalUseOffenseData as PolicyTopic,
+  buildingEnergyEfficiencyActMandatoryStandards2025Data as PolicyTopic,
+  disabilityDiscriminationEliminationActReasonableAccommodationMandateData as PolicyTopic,
+  publicOfficesElectionActReformPosterConductData as PolicyTopic,
+  financialInstrumentsExchangeActQuarterlyReportAbolitionData as PolicyTopic,
+  privateSchoolsActGovernanceReform2025Data as PolicyTopic,
+  constructionBusinessActReformLaborCostStandardData as PolicyTopic,
+  roadTrafficActMopedElectricBicycleRegulationData as PolicyTopic,
+  childcareAndCaregiverLeaveActNursingCareFlexibility2025Data as PolicyTopic,
 ];
 
 export function getAllPolicies(): PolicyTopic[] {
