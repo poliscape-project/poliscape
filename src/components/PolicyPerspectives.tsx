@@ -33,7 +33,7 @@ export const PolicyPerspectives: React.FC<PolicyPerspectivesProps> = ({
     }));
   };
 
-  const formattedVoices = customVoices ? {
+  const formattedVoices = (customVoices && Array.isArray(customVoices.benefits) && Array.isArray(customVoices.challenges)) ? {
     benefits: customVoices.benefits.map((v: any) => ({
       speaker: v.speaker,
       comment: isSimpleMode ? v.commentSimple : v.commentStandard
