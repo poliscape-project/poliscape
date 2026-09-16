@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "難治性てんかん薬解禁",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "難治性てんかん薬解禁",
+      "variant": "neutral"
     },
     {
-      "text": "使用罪の新設（7年以下）",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "使用罪の新設（7年以下）",
+      "variant": "neutral"
     },
     {
-      "text": "成分（THC）規制へ転換",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "成分（THC）規制へ転換",
+      "variant": "neutral"
     }
   ],
   "highlights": [

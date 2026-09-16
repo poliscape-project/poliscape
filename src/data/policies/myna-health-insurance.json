@@ -162,16 +162,16 @@
   ],
   "badges": [
     {
-      "text": "紙保険証は失効",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "紙保険証は失効",
+      "variant": "neutral"
     },
     {
-      "text": "資格確認書は要申請",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "資格確認書は要申請",
+      "variant": "neutral"
     },
     {
-      "text": "限度額認定が全自動",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "限度額認定が全自動",
+      "variant": "neutral"
     }
   ],
   "highlights": [

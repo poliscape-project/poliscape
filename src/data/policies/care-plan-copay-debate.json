@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "ケアマネ作成費の1割負担案",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "ケアマネ作成費の1割負担案",
+      "variant": "neutral"
     },
     {
-      "text": "現在自己負担0円（全額給付）",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "現在自己負担0円（全額給付）",
+      "variant": "neutral"
     },
     {
-      "text": "セルフネグレクト・孤立死懸念",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "セルフネグレクト・孤立死懸念",
+      "variant": "neutral"
     }
   ],
   "highlights": [

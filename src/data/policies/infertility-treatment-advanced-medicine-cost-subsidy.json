@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "3割負担＋高額療養費が適用",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "3割負担＋高額療養費が適用",
+      "variant": "neutral"
     },
     {
-      "text": "先進医療の自己負担を最大全額助成",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "先進医療の自己負担を最大全額助成",
+      "variant": "neutral"
     },
     {
-      "text": "子ごとに回数リセット可能",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "子ごとに回数リセット可能",
+      "variant": "neutral"
     }
   ],
   "highlights": [

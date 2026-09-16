@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "男子への公費全額助成",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "男子への公費全額助成",
+      "variant": "neutral"
     },
     {
-      "text": "中咽頭がん等の予防",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "中咽頭がん等の予防",
+      "variant": "neutral"
     },
     {
-      "text": "男女接種で集団免疫",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "男女接種で集団免疫",
+      "variant": "neutral"
     }
   ],
   "highlights": [

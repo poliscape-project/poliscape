@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "耐量子暗号（PQC）へ切り替え",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "耐量子暗号（PQC）へ切り替え",
+      "variant": "neutral"
     },
     {
-      "text": "2030年代半ばまでに完全移行",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "2030年代半ばまでに完全移行",
+      "variant": "neutral"
     },
     {
-      "text": "盗聴不可能な量子通信網の構築",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "盗聴不可能な量子通信網の構築",
+      "variant": "neutral"
     }
   ],
   "highlights": [

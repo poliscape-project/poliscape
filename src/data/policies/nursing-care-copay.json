@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "大半9割は1割負担維持",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "大半9割は1割負担維持",
+      "variant": "neutral"
     },
     {
-      "text": "2割負担拡大検討継続",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "2割負担拡大検討継続",
+      "variant": "neutral"
     },
     {
-      "text": "高額介護費上限ガード",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "高額介護費上限ガード",
+      "variant": "neutral"
     }
   ],
   "highlights": [

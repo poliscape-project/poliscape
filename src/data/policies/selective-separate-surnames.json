@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "同姓・別姓自由選択",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "同姓・別姓自由選択",
+      "variant": "neutral"
     },
     {
-      "text": "改姓・名義変更コストゼロ",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "改姓・名義変更コストゼロ",
+      "variant": "neutral"
     },
     {
-      "text": "経団連が早期法改正要望",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "経団連が早期法改正要望",
+      "variant": "neutral"
     }
   ],
   "highlights": [

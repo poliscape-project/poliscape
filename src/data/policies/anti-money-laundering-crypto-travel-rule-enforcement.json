@@ -168,16 +168,16 @@
   ],
   "badges": [
     {
-      "text": "送金者・受取人氏名の通知完全義務化",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "送金者・受取人氏名の通知完全義務化",
+      "variant": "neutral"
     },
     {
-      "text": "個人ウォレット所有者申告の義務化",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "個人ウォレット所有者申告の義務化",
+      "variant": "neutral"
     },
     {
-      "text": "国際制裁リストとのリアルタイム照合",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "国際制裁リストとのリアルタイム照合",
+      "variant": "neutral"
     }
   ],
   "highlights": [

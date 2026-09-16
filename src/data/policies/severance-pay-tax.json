@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "20年超70万枠見直し",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "20年超70万枠見直し",
+      "variant": "neutral"
     },
     {
-      "text": "一律40万平準化議論",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "一律40万平準化議論",
+      "variant": "neutral"
     },
     {
-      "text": "1/2課税は維持方針",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "1/2課税は維持方針",
+      "variant": "neutral"
     }
   ],
   "highlights": [

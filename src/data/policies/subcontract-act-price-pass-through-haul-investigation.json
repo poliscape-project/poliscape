@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "発注側からの定期的な労務費転嫁協議申し入れ義務化",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "発注側からの定期的な労務費転嫁協議申し入れ義務化",
+      "variant": "neutral"
     },
     {
-      "text": "IT・運送・サービス業への下請法適用拡大",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "IT・運送・サービス業への下請法適用拡大",
+      "variant": "neutral"
     },
     {
-      "text": "下請法・独禁法に基づく悪質発注企業の社名公表",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "下請法・独禁法に基づく悪質発注企業の社名公表",
+      "variant": "neutral"
     }
   ],
   "highlights": [

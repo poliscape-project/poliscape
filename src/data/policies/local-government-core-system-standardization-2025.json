@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "基幹20業務の全国統一仕様準拠システム化",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "基幹20業務の全国統一仕様準拠システム化",
+      "variant": "neutral"
     },
     {
-      "text": "ガバメントクラウドへの全庁データ移行",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "ガバメントクラウドへの全庁データ移行",
+      "variant": "neutral"
     },
     {
-      "text": "ベンダーロックインの完全打破と競争調達",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "ベンダーロックインの完全打破と競争調達",
+      "variant": "neutral"
     }
   ],
   "highlights": [

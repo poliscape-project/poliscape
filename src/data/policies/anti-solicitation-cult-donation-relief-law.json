@@ -168,16 +168,16 @@
   ],
   "badges": [
     {
-      "text": "借金・自宅売却による献金要求を禁止",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "借金・自宅売却による献金要求を禁止",
+      "variant": "neutral"
     },
     {
-      "text": "子ども・配偶者による代位取消権創設",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "子ども・配偶者による代位取消権創設",
+      "variant": "neutral"
     },
     {
-      "text": "取消権を最長10年に大幅延長",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "取消権を最長10年に大幅延長",
+      "variant": "neutral"
     }
   ],
   "highlights": [

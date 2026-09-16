@@ -148,16 +148,16 @@
   ],
   "badges": [
     {
-      "text": "小中一貫9年教育",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "小中一貫9年教育",
+      "variant": "neutral"
     },
     {
-      "text": "中1ギャップ解消",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "中1ギャップ解消",
+      "variant": "neutral"
     },
     {
-      "text": "4・3・2制等の弾力化",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "4・3・2制等の弾力化",
+      "variant": "neutral"
     }
   ],
   "highlights": [

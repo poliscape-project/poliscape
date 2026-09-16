@@ -176,16 +176,16 @@
   ],
   "badges": [
     {
-      "text": "乳牛1頭15万円淘汰補助",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "乳牛1頭15万円淘汰補助",
+      "variant": "neutral"
     },
     {
-      "text": "牛乳廃棄パニック回避",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "牛乳廃棄パニック回避",
+      "variant": "neutral"
     },
     {
-      "text": "飲用乳価の引き上げ",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "飲用乳価の引き上げ",
+      "variant": "neutral"
     }
   ],
   "highlights": [

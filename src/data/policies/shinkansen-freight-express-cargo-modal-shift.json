@@ -168,16 +168,16 @@
   ],
   "badges": [
     {
-      "text": "新幹線の専用荷物車両・座席荷物輸送",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "新幹線の専用荷物車両・座席荷物輸送",
+      "variant": "neutral"
     },
     {
-      "text": "地方から大都市へ最短3〜4時間即日配送",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "地方から大都市へ最短3〜4時間即日配送",
+      "variant": "neutral"
     },
     {
-      "text": "CO2排出量を約90%削減",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "CO2排出量を約90%削減",
+      "variant": "neutral"
     }
   ],
   "highlights": [

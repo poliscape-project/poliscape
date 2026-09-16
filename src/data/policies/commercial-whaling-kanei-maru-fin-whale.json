@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "商業捕鯨・関鯨丸就航",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "商業捕鯨・関鯨丸就航",
+      "variant": "neutral"
     },
     {
-      "text": "ナガスクジラ追加",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "ナガスクジラ追加",
+      "variant": "neutral"
     },
     {
-      "text": "水産食文化の継承",
-      "color": "bg-amber-100 text-amber-900"
+      "label": "水産食文化の継承",
+      "variant": "neutral"
     }
   ],
   "highlights": [

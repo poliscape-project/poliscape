@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "民泊180日制限見直し",
-      "color": "bg-amber-100 text-amber-900"
+      "label": "民泊180日制限見直し",
+      "variant": "neutral"
     },
     {
-      "text": "住宅宿泊事業法改正",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "住宅宿泊事業法改正",
+      "variant": "neutral"
     },
     {
-      "text": "ヤミ民泊・騒音取締",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "ヤミ民泊・騒音取締",
+      "variant": "neutral"
     }
   ],
   "highlights": [

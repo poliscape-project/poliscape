@@ -130,16 +130,16 @@
   ],
   "badges": [
     {
-      "text": "PayPay等で給与受取",
-      "color": "bg-purple-50 text-purple-800"
+      "label": "PayPay等で給与受取",
+      "variant": "neutral"
     },
     {
-      "text": "労働者の完全同意必須",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "労働者の完全同意必須",
+      "variant": "neutral"
     },
     {
-      "text": "上限100万・破綻全額保証",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "上限100万・破綻全額保証",
+      "variant": "neutral"
     }
   ],
   "highlights": [

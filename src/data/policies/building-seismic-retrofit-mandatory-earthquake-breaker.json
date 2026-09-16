@@ -129,16 +129,16 @@
   ],
   "badges": [
     {
-      "text": "旧耐震ビルの診断・改修義務",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "旧耐震ビルの診断・改修義務",
+      "variant": "neutral"
     },
     {
-      "text": "感震ブレーカー設置全額補助",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "感震ブレーカー設置全額補助",
+      "variant": "neutral"
     },
     {
-      "text": "通電火災・大火の根絶",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "通電火災・大火の根絶",
+      "variant": "neutral"
     }
   ],
   "highlights": [

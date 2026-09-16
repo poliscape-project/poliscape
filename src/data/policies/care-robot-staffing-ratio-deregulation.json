@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "センサー導入で3:1配置緩和",
-      "color": "bg-purple-50 text-purple-800"
+      "label": "センサー導入で3:1配置緩和",
+      "variant": "neutral"
     },
     {
-      "text": "夜間見守り巡回負担を半減",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "夜間見守り巡回負担を半減",
+      "variant": "neutral"
     },
     {
-      "text": "アラーム疲労・安全性の懸念",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "アラーム疲労・安全性の懸念",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "最低法人税率15%",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "最低法人税率15%",
+      "variant": "neutral"
     },
     {
-      "text": "タックスヘイブン封殺",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "タックスヘイブン封殺",
+      "variant": "neutral"
     },
     {
-      "text": "OECD第2の柱適用",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "OECD第2の柱適用",
+      "variant": "neutral"
     }
   ],
   "highlights": [

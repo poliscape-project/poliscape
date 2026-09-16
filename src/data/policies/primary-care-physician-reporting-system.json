@@ -122,16 +122,16 @@
   ],
   "badges": [
     {
-      "text": "かかりつけ機能",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "かかりつけ機能",
+      "variant": "neutral"
     },
     {
-      "text": "2025年4月施行",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "2025年4月施行",
+      "variant": "neutral"
     },
     {
-      "text": "受診先公表",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "受診先公表",
+      "variant": "neutral"
     }
   ],
   "highlights": [

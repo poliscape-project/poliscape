@@ -129,16 +129,16 @@
   ],
   "badges": [
     {
-      "text": "国宝・重文の修繕危機",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "国宝・重文の修繕危機",
+      "variant": "neutral"
     },
     {
-      "text": "保存から「稼ぐ公開」へ",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "保存から「稼ぐ公開」へ",
+      "variant": "neutral"
     },
     {
-      "text": "拝観料適正化・民間MICE",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "拝観料適正化・民間MICE",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "カスハラ防止法制化",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "カスハラ防止法制化",
+      "variant": "neutral"
     },
     {
-      "text": "接客・対応拒否公認",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "接客・対応拒否公認",
+      "variant": "neutral"
     },
     {
-      "text": "名札フルネーム廃止",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "名札フルネーム廃止",
+      "variant": "neutral"
     }
   ],
   "highlights": [

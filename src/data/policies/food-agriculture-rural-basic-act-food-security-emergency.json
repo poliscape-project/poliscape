@@ -122,16 +122,16 @@
   ],
   "badges": [
     {
-      "text": "食料有事増産指示",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "食料有事増産指示",
+      "variant": "neutral"
     },
     {
-      "text": "25年ぶり基本法改正",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "25年ぶり基本法改正",
+      "variant": "neutral"
     },
     {
-      "text": "コスト適正転嫁",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "コスト適正転嫁",
+      "variant": "neutral"
     }
   ],
   "highlights": [

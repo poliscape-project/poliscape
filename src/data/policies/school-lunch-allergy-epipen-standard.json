@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "食物アレルギー誤食ゼロ",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "食物アレルギー誤食ゼロ",
+      "variant": "neutral"
     },
     {
-      "text": "おかわり禁止・専用皿",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "おかわり禁止・専用皿",
+      "variant": "neutral"
     },
     {
-      "text": "全教員のエピペン訓練",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "全教員のエピペン訓練",
+      "variant": "neutral"
     }
   ],
   "highlights": [

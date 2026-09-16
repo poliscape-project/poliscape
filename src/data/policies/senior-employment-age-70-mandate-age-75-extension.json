@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "70歳までの就業確保を義務化へ",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "70歳までの就業確保を義務化へ",
+      "variant": "neutral"
     },
     {
-      "text": "業務委託・社会貢献支援も容認",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "業務委託・社会貢献支援も容認",
+      "variant": "neutral"
     },
     {
-      "text": "役割に応じた適正賃金への是正",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "役割に応じた適正賃金への是正",
+      "variant": "neutral"
     }
   ],
   "highlights": [

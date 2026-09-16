@@ -156,16 +156,16 @@
   ],
   "badges": [
     {
-      "text": "1人あたり4万円減税",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "1人あたり4万円減税",
+      "variant": "neutral"
     },
     {
-      "text": "扶養家族・子ども全員",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "扶養家族・子ども全員",
+      "variant": "neutral"
     },
     {
-      "text": "不足分は調整給付金",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "不足分は調整給付金",
+      "variant": "neutral"
     }
   ],
   "highlights": [

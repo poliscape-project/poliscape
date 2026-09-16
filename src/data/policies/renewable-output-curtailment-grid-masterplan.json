@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "出力制御の多発",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "出力制御の多発",
+      "variant": "neutral"
     },
     {
-      "text": "地域間連系線投資",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "地域間連系線投資",
+      "variant": "neutral"
     },
     {
-      "text": "海底直流送電HVDC",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "海底直流送電HVDC",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "自衛官の危険手当増額",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "自衛官の危険手当増額",
+      "variant": "neutral"
     },
     {
-      "text": "採用充足率5割割れ危機",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "採用充足率5割割れ危機",
+      "variant": "neutral"
     },
     {
-      "text": "全隊舎の個室・エアコン化",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "全隊舎の個室・エアコン化",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "全民間企業で義務化",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "全民間企業で義務化",
+      "variant": "neutral"
     },
     {
-      "text": "過重な負担外で個別調整",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "過重な負担外で個別調整",
+      "variant": "neutral"
     },
     {
-      "text": "建設的対話が基本",
-      "color": "bg-amber-50 text-amber-800"
+      "label": "建設的対話が基本",
+      "variant": "neutral"
     }
   ],
   "highlights": [

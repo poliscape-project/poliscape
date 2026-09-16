@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "医師偏在対策・地方勤務要件",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "医師偏在対策・地方勤務要件",
+      "variant": "neutral"
     },
     {
-      "text": "医学部地域枠離脱のペナルティ",
-      "color": "bg-amber-100 text-amber-900"
+      "label": "医学部地域枠離脱のペナルティ",
+      "variant": "neutral"
     },
     {
-      "text": "大都市開業規制と地方手当加算",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "大都市開業規制と地方手当加算",
+      "variant": "neutral"
     }
   ],
   "highlights": [

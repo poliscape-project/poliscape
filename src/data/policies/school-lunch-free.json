@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "公立小中月約5,000円無料",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "公立小中月約5,000円無料",
+      "variant": "neutral"
     },
     {
-      "text": "多子世帯年間10万超軽減",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "多子世帯年間10万超軽減",
+      "variant": "neutral"
     },
     {
-      "text": "全国一律国費負担議論",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "全国一律国費負担議論",
+      "variant": "neutral"
     }
   ],
   "highlights": [

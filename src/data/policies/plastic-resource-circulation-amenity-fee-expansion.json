@@ -122,16 +122,16 @@
   ],
   "badges": [
     {
-      "text": "使い捨てプラ12品目",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "使い捨てプラ12品目",
+      "variant": "neutral"
     },
     {
-      "text": "スプーン有料化",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "スプーン有料化",
+      "variant": "neutral"
     },
     {
-      "text": "製品プラ一括回収",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "製品プラ一括回収",
+      "variant": "neutral"
     }
   ],
   "highlights": [

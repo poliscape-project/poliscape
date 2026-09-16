@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "容量市場拠出金",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "容量市場拠出金",
+      "variant": "neutral"
     },
     {
-      "text": "新電力の倒産急増",
-      "color": "bg-amber-100 text-amber-900"
+      "label": "新電力の倒産急増",
+      "variant": "neutral"
     },
     {
-      "text": "レベニューキャップ",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "レベニューキャップ",
+      "variant": "neutral"
     }
   ],
   "highlights": [

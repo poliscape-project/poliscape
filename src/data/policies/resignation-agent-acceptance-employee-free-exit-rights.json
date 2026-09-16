@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "意思表示から2週間で法律上成立",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "意思表示から2週間で法律上成立",
+      "variant": "neutral"
     },
     {
-      "text": "就業規則の代行禁止条項を無効化",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "就業規則の代行禁止条項を無効化",
+      "variant": "neutral"
     },
     {
-      "text": "違法な無資格業者の排除",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "違法な無資格業者の排除",
+      "variant": "neutral"
     }
   ],
   "highlights": [

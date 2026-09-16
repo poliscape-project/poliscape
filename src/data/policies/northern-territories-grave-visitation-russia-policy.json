@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "北方領土・平和条約凍結",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "北方領土・平和条約凍結",
+      "variant": "neutral"
     },
     {
-      "text": "元島民の高齢化（88歳超）",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "元島民の高齢化（88歳超）",
+      "variant": "neutral"
     },
     {
-      "text": "人道墓参再開を要請",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "人道墓参再開を要請",
+      "variant": "neutral"
     }
   ],
   "highlights": [

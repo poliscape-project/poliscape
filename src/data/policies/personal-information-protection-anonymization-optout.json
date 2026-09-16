@@ -148,16 +148,16 @@
   ],
   "badges": [
     {
-      "text": "個人情報保護法3年見直し",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "個人情報保護法3年見直し",
+      "variant": "neutral"
     },
     {
-      "text": "Cookie/ターゲティング同意",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "Cookie/ターゲティング同意",
+      "variant": "neutral"
     },
     {
-      "text": "仮名加工情報の産業活用",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "仮名加工情報の産業活用",
+      "variant": "neutral"
     }
   ],
   "highlights": [

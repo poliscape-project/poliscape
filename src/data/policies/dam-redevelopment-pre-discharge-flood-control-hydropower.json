@@ -168,16 +168,16 @@
   ],
   "badges": [
     {
-      "text": "利水・発電ダムを含む全国統合放流",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "利水・発電ダムを含む全国統合放流",
+      "variant": "neutral"
     },
     {
-      "text": "AI降雨予測による精密な事前放流",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "AI降雨予測による精密な事前放流",
+      "variant": "neutral"
     },
     {
-      "text": "治水とクリーン電力増発の両立",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "治水とクリーン電力増発の両立",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "バス会社同士の協定特例",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "バス会社同士の協定特例",
+      "variant": "neutral"
     },
     {
-      "text": "重複路線廃止・等間隔運行",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "重複路線廃止・等間隔運行",
+      "variant": "neutral"
     },
     {
-      "text": "共通定期券・過疎路線維持",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "共通定期券・過疎路線維持",
+      "variant": "neutral"
     }
   ],
   "highlights": [

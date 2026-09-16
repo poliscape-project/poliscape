@@ -148,16 +148,16 @@
   ],
   "badges": [
     {
-      "text": "スマホ原則持込禁止",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "スマホ原則持込禁止",
+      "variant": "neutral"
     },
     {
-      "text": "授業中シャットアウト",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "授業中シャットアウト",
+      "variant": "neutral"
     },
     {
-      "text": "端末依存・いじめ防止",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "端末依存・いじめ防止",
+      "variant": "neutral"
     }
   ],
   "highlights": [

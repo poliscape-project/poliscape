@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "奨学金返還免除・代理返還",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "奨学金返還免除・代理返還",
+      "variant": "neutral"
     },
     {
-      "text": "地方就業で最大数百万円免除",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "地方就業で最大数百万円免除",
+      "variant": "neutral"
     },
     {
-      "text": "介護・保育・製造業の採用支援",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "介護・保育・製造業の採用支援",
+      "variant": "neutral"
     }
   ],
   "highlights": [

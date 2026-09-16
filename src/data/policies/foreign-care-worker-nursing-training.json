@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "2040年介護職員57万人不足",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "2040年介護職員57万人不足",
+      "variant": "neutral"
     },
     {
-      "text": "育成就労制度で転籍容認へ",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "育成就労制度で転籍容認へ",
+      "variant": "neutral"
     },
     {
-      "text": "円安下の国際人材獲得競争",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "円安下の国際人材獲得競争",
+      "variant": "neutral"
     }
   ],
   "highlights": [

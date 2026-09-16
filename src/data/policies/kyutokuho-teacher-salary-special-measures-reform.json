@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "教職調整額10%超へ",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "教職調整額10%超へ",
+      "variant": "neutral"
     },
     {
-      "text": "給特法50年ぶり改定",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "給特法50年ぶり改定",
+      "variant": "neutral"
     },
     {
-      "text": "定額働かせ放題論争",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "定額働かせ放題論争",
+      "variant": "neutral"
     }
   ],
   "highlights": [

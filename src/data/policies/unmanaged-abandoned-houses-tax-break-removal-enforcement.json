@@ -122,16 +122,16 @@
   ],
   "badges": [
     {
-      "text": "管理不全空家6倍増税",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "管理不全空家6倍増税",
+      "variant": "neutral"
     },
     {
-      "text": "特定空家代執行",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "特定空家代執行",
+      "variant": "neutral"
     },
     {
-      "text": "900万戸対策",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "900万戸対策",
+      "variant": "neutral"
     }
   ],
   "highlights": [

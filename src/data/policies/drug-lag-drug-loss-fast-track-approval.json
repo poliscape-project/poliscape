@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "国内独自治験の原則撤廃",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "国内独自治験の原則撤廃",
+      "variant": "neutral"
     },
     {
-      "text": "審査期間を最短6か月に",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "審査期間を最短6か月に",
+      "variant": "neutral"
     },
     {
-      "text": "迅速導入への薬価優遇",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "迅速導入への薬価優遇",
+      "variant": "neutral"
     }
   ],
   "highlights": [

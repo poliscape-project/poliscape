@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "児童精神科半年待ち救え",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "児童精神科半年待ち救え",
+      "variant": "neutral"
     },
     {
-      "text": "不登校30万人メンタル",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "不登校30万人メンタル",
+      "variant": "neutral"
     },
     {
-      "text": "SC全校配置・増員",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "SC全校配置・増員",
+      "variant": "neutral"
     }
   ],
   "highlights": [

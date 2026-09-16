@@ -129,16 +129,16 @@
   ],
   "badges": [
     {
-      "text": "震災がれき全国広域処理協定",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "震災がれき全国広域処理協定",
+      "variant": "neutral"
     },
     {
-      "text": "鉄道・海上コンテナ大量輸送",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "鉄道・海上コンテナ大量輸送",
+      "variant": "neutral"
     },
     {
-      "text": "仮置き場の事前安全指定",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "仮置き場の事前安全指定",
+      "variant": "neutral"
     }
   ],
   "highlights": [

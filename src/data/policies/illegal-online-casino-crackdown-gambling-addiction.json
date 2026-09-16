@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "国内接続は明白な賭博罪",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "国内接続は明白な賭博罪",
+      "variant": "neutral"
     },
     {
-      "text": "決済代行業者の一斉摘発",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "決済代行業者の一斉摘発",
+      "variant": "neutral"
     },
     {
-      "text": "闇バイト連鎖の遮断",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "闇バイト連鎖の遮断",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -129,16 +129,16 @@
   ],
   "badges": [
     {
-      "text": "クレカ不正被害（年500億円超）",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "クレカ不正被害（年500億円超）",
+      "variant": "neutral"
     },
     {
-      "text": "フィッシングもカード会社原則補償",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "フィッシングもカード会社原則補償",
+      "variant": "neutral"
     },
     {
-      "text": "EMV-3Dセキュア完全義務化",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "EMV-3Dセキュア完全義務化",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -130,16 +130,16 @@
   ],
   "badges": [
     {
-      "text": "有人地帯レベル4自律飛行",
-      "color": "bg-sky-50 text-sky-800"
+      "label": "有人地帯レベル4自律飛行",
+      "variant": "neutral"
     },
     {
-      "text": "過疎地配送70〜80%短縮",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "過疎地配送70〜80%短縮",
+      "variant": "neutral"
     },
     {
-      "text": "国家操縦資格の新設",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "国家操縦資格の新設",
+      "variant": "neutral"
     }
   ],
   "highlights": [

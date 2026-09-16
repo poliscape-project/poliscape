@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "アプリストア開放",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "アプリストア開放",
+      "variant": "neutral"
     },
     {
-      "text": "外部決済義務化",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "外部決済義務化",
+      "variant": "neutral"
     },
     {
-      "text": "売上高20%課徴金",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "売上高20%課徴金",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "夜間イベント営業届出の簡素化",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "夜間イベント営業届出の簡素化",
+      "variant": "neutral"
     },
     {
-      "text": "深夜交通アクセスの拡充",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "深夜交通アクセスの拡充",
+      "variant": "neutral"
     },
     {
-      "text": "騒音・治安共生パトロール",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "騒音・治安共生パトロール",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -168,16 +168,16 @@
   ],
   "badges": [
     {
-      "text": "P波感知型による最寄り階即時開放",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "P波感知型による最寄り階即時開放",
+      "variant": "neutral"
     },
     {
-      "text": "避難所過密を防ぐ「在宅避難」原則",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "避難所過密を防ぐ「在宅避難」原則",
+      "variant": "neutral"
     },
     {
-      "text": "72時間稼働の給水・生活用非常電源",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "72時間稼働の給水・生活用非常電源",
+      "variant": "neutral"
     }
   ],
   "highlights": [

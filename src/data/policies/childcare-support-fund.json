@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "健保上乗せ月約450円",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "健保上乗せ月約450円",
+      "variant": "neutral"
     },
     {
-      "text": "総枠3.6兆円全額還元",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "総枠3.6兆円全額還元",
+      "variant": "neutral"
     },
     {
-      "text": "実質負担ゼロ議論",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "実質負担ゼロ議論",
+      "variant": "neutral"
     }
   ],
   "highlights": [

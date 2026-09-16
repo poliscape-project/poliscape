@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "核のごみ最終処分",
-      "color": "bg-purple-50 text-purple-800"
+      "label": "核のごみ最終処分",
+      "variant": "neutral"
     },
     {
-      "text": "玄海町が文献調査",
-      "color": "bg-amber-100 text-amber-900"
+      "label": "玄海町が文献調査",
+      "variant": "neutral"
     },
     {
-      "text": "地下300m地層処分",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "地下300m地層処分",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "首長直轄の独立調査組織を法制化",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "首長直轄の独立調査組織を法制化",
+      "variant": "neutral"
     },
     {
-      "text": "犯罪該当事案の即時警察連携義務化",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "犯罪該当事案の即時警察連携義務化",
+      "variant": "neutral"
     },
     {
-      "text": "調査記録の原則全面開示と進捗説明",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "調査記録の原則全面開示と進捗説明",
+      "variant": "neutral"
     }
   ],
   "highlights": [

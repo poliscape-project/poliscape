@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "管理不全空家を新設",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "管理不全空家を新設",
+      "variant": "neutral"
     },
     {
-      "text": "勧告で住宅特例解除",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "勧告で住宅特例解除",
+      "variant": "neutral"
     },
     {
-      "text": "固定資産税実質最大6倍",
-      "color": "bg-rose-100 text-rose-900"
+      "label": "固定資産税実質最大6倍",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -129,16 +129,16 @@
   ],
   "badges": [
     {
-      "text": "スマート多目的アリーナ",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "スマート多目的アリーナ",
+      "variant": "neutral"
     },
     {
-      "text": "民間PFI・365日黒字化",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "民間PFI・365日黒字化",
+      "variant": "neutral"
     },
     {
-      "text": "新B1基準・街なか再開発",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "新B1基準・街なか再開発",
+      "variant": "neutral"
     }
   ],
   "highlights": [

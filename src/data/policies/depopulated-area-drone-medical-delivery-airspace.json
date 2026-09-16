@@ -168,16 +168,16 @@
   ],
   "badges": [
     {
-      "text": "有人地帯での目視外飛行（レベル4）解禁",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "有人地帯での目視外飛行（レベル4）解禁",
+      "variant": "neutral"
     },
     {
-      "text": "オンライン診療とドローン配送の一体化",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "オンライン診療とドローン配送の一体化",
+      "variant": "neutral"
     },
     {
-      "text": "厳格な定温保冷・振動管理ガイドライン",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "厳格な定温保冷・振動管理ガイドライン",
+      "variant": "neutral"
     }
   ],
   "highlights": [

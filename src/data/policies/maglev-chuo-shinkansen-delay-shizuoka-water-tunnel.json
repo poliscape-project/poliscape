@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "リニア2027年断念",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "リニア2027年断念",
+      "variant": "neutral"
     },
     {
-      "text": "静岡工区・大井川水",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "静岡工区・大井川水",
+      "variant": "neutral"
     },
     {
-      "text": "2034年以降へ延期",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "2034年以降へ延期",
+      "variant": "neutral"
     }
   ],
   "highlights": [

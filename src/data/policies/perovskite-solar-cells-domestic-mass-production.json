@@ -129,16 +129,16 @@
   ],
   "badges": [
     {
-      "text": "ペロブスカイト太陽電池",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "ペロブスカイト太陽電池",
+      "variant": "neutral"
     },
     {
-      "text": "ビルの壁に貼る発電",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "ビルの壁に貼る発電",
+      "variant": "neutral"
     },
     {
-      "text": "国産ヨウ素で自給",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "国産ヨウ素で自給",
+      "variant": "neutral"
     }
   ],
   "highlights": [

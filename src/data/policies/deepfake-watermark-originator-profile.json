@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "OP発信者出自証明技術",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "OP発信者出自証明技術",
+      "variant": "neutral"
     },
     {
-      "text": "ディープフェイク偽動画対策",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "ディープフェイク偽動画対策",
+      "variant": "neutral"
     },
     {
-      "text": "AI生成物への電子透かし",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "AI生成物への電子透かし",
+      "variant": "neutral"
     }
   ],
   "highlights": [

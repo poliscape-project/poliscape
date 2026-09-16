@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "ゴーストギア流失漁具",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "ゴーストギア流失漁具",
+      "variant": "neutral"
     },
     {
-      "text": "海洋生分解性プラスチック",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "海洋生分解性プラスチック",
+      "variant": "neutral"
     },
     {
-      "text": "漁港での無償引き取り",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "漁港での無償引き取り",
+      "variant": "neutral"
     }
   ],
   "highlights": [

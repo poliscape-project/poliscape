@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "高速料金2115年まで",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "高速料金2115年まで",
+      "variant": "neutral"
     },
     {
-      "text": "最長50年延長法改正",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "最長50年延長法改正",
+      "variant": "neutral"
     },
     {
-      "text": "老朽橋梁床版更新",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "老朽橋梁床版更新",
+      "variant": "neutral"
     }
   ],
   "highlights": [

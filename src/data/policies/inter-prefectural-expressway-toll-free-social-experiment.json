@@ -148,16 +148,16 @@
   ],
   "badges": [
     {
-      "text": "ETC深夜割引見直し",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "ETC深夜割引見直し",
+      "variant": "neutral"
     },
     {
-      "text": "走行分のみ割引",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "走行分のみ割引",
+      "variant": "neutral"
     },
     {
-      "text": "IC前滞留トラック解消",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "IC前滞留トラック解消",
+      "variant": "neutral"
     }
   ],
   "highlights": [

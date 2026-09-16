@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "深夜実走行距離の3割引",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "深夜実走行距離の3割引",
+      "variant": "neutral"
     },
     {
-      "text": "0時待ち危険待機を根絶",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "0時待ち危険待機を根絶",
+      "variant": "neutral"
     },
     {
-      "text": "対象時間22時〜5時拡大",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "対象時間22時〜5時拡大",
+      "variant": "neutral"
     }
   ],
   "highlights": [

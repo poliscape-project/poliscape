@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "不登校過去最多34万人突破",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "不登校過去最多34万人突破",
+      "variant": "neutral"
     },
     {
-      "text": "COCOLOプラン・多様な学び",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "COCOLOプラン・多様な学び",
+      "variant": "neutral"
     },
     {
-      "text": "フリースクール利用料助成",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "フリースクール利用料助成",
+      "variant": "neutral"
     }
   ],
   "highlights": [

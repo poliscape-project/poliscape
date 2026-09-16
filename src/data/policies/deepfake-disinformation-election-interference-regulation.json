@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "ディープフェイク規制",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "ディープフェイク規制",
+      "variant": "neutral"
     },
     {
-      "text": "選挙偽情報対策",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "選挙偽情報対策",
+      "variant": "neutral"
     },
     {
-      "text": "真正性証明技術",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "真正性証明技術",
+      "variant": "neutral"
     }
   ],
   "highlights": [

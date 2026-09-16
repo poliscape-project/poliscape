@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "2026年度に義務化移行",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "2026年度に義務化移行",
+      "variant": "neutral"
     },
     {
-      "text": "2033年度有償オークション",
-      "color": "bg-amber-50 text-amber-800"
+      "label": "2033年度有償オークション",
+      "variant": "neutral"
     },
     {
-      "text": "大排出企業が対象",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "大排出企業が対象",
+      "variant": "neutral"
     }
   ],
   "highlights": [

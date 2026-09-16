@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "袴田事件無罪確定",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "袴田事件無罪確定",
+      "variant": "neutral"
     },
     {
-      "text": "未提出証拠の開示義務化",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "未提出証拠の開示義務化",
+      "variant": "neutral"
     },
     {
-      "text": "検察の抗告禁止を要求",
-      "color": "bg-amber-100 text-amber-900"
+      "label": "検察の抗告禁止を要求",
+      "variant": "neutral"
     }
   ],
   "highlights": [

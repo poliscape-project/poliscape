@@ -148,16 +148,16 @@
   ],
   "badges": [
     {
-      "text": "選択幅 60〜75歳",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "選択幅 60〜75歳",
+      "variant": "neutral"
     },
     {
-      "text": "最大+84%増額（75歳）",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "最大+84%増額（75歳）",
+      "variant": "neutral"
     },
     {
-      "text": "損益分岐点 約82歳",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "損益分岐点 約82歳",
+      "variant": "neutral"
     }
   ],
   "highlights": [

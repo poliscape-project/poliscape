@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "CNP法定計画を全国策定",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "CNP法定計画を全国策定",
+      "variant": "neutral"
     },
     {
-      "text": "水素・アンモニア受入拠点",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "水素・アンモニア受入拠点",
+      "variant": "neutral"
     },
     {
-      "text": "停泊船への陸上給電義務化",
-      "color": "bg-amber-50 text-amber-800"
+      "label": "停泊船への陸上給電義務化",
+      "variant": "neutral"
     }
   ],
   "highlights": [

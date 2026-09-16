@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "フランス流世帯課税",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "フランス流世帯課税",
+      "variant": "neutral"
     },
     {
-      "text": "多子世帯ほど低税率",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "多子世帯ほど低税率",
+      "variant": "neutral"
     },
     {
-      "text": "数兆円の減税規模",
-      "color": "bg-slate-100 text-slate-700"
+      "label": "数兆円の減税規模",
+      "variant": "neutral"
     }
   ],
   "highlights": [

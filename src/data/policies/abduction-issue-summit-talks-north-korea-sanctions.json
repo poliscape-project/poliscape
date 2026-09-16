@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "全拉致被害者の即時奪還",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "全拉致被害者の即時奪還",
+      "variant": "neutral"
     },
     {
-      "text": "独自制裁（輸出入全面禁止）",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "独自制裁（輸出入全面禁止）",
+      "variant": "neutral"
     },
     {
-      "text": "無条件首脳会談模索",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "無条件首脳会談模索",
+      "variant": "neutral"
     }
   ],
   "highlights": [

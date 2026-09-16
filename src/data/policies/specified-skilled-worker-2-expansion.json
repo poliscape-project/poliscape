@@ -136,16 +136,16 @@
   ],
   "badges": [
     {
-      "text": "11分野に大幅拡大",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "11分野に大幅拡大",
+      "variant": "neutral"
     },
     {
-      "text": "在留期限上限なし・永住道",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "在留期限上限なし・永住道",
+      "variant": "neutral"
     },
     {
-      "text": "配偶者・子どもの帯同可",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "配偶者・子どもの帯同可",
+      "variant": "neutral"
     }
   ],
   "international": {

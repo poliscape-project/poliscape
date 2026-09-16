@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "国連安保理改革・常任理事国",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "国連安保理改革・常任理事国",
+      "variant": "neutral"
     },
     {
-      "text": "G4（日独印伯）連携",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "G4（日独印伯）連携",
+      "variant": "neutral"
     },
     {
-      "text": "大国拒否権の乱用防止",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "大国拒否権の乱用防止",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "次期戦闘機GCAP第三国輸出",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "次期戦闘機GCAP第三国輸出",
+      "variant": "neutral"
     },
     {
-      "text": "防衛装備移転三原則改定",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "防衛装備移転三原則改定",
+      "variant": "neutral"
     },
     {
-      "text": "平和主義と量産コスト低減",
-      "color": "bg-amber-100 text-amber-900"
+      "label": "平和主義と量産コスト低減",
+      "variant": "neutral"
     }
   ],
   "highlights": [

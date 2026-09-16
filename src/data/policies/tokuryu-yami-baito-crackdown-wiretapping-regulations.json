@@ -122,16 +122,16 @@
   ],
   "badges": [
     {
-      "text": "トクリュウ重点対策",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "トクリュウ重点対策",
+      "variant": "neutral"
     },
     {
-      "text": "通信傍受対象拡大",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "通信傍受対象拡大",
+      "variant": "neutral"
     },
     {
-      "text": "SNS募集即時削除",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "SNS募集即時削除",
+      "variant": "neutral"
     }
   ],
   "highlights": [

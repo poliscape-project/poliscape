@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "就労要件なし誰でも",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "就労要件なし誰でも",
+      "variant": "neutral"
     },
     {
-      "text": "月10時間枠を創設",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "月10時間枠を創設",
+      "variant": "neutral"
     },
     {
-      "text": "1時間約300円",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "1時間約300円",
+      "variant": "neutral"
     }
   ],
   "highlights": [

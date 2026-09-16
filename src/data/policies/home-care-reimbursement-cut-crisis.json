@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "訪問介護基本報酬2〜3%減",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "訪問介護基本報酬2〜3%減",
+      "variant": "neutral"
     },
     {
-      "text": "ヘルパー求人倍率15倍超",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "ヘルパー求人倍率15倍超",
+      "variant": "neutral"
     },
     {
-      "text": "事業所倒産・休廃業が過去最多",
-      "color": "bg-purple-50 text-purple-800"
+      "label": "事業所倒産・休廃業が過去最多",
+      "variant": "neutral"
     }
   ],
   "highlights": [

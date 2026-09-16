@@ -130,16 +130,16 @@
   ],
   "badges": [
     {
-      "text": "新築原則85%以上設置",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "新築原則85%以上設置",
+      "variant": "neutral"
     },
     {
-      "text": "約6〜8年で初期費用回収",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "約6〜8年で初期費用回収",
+      "variant": "neutral"
     },
     {
-      "text": "停電時1500W非常給電",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "停電時1500W非常給電",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "1泊100〜2,000円超",
-      "color": "bg-sky-50 text-sky-800"
+      "label": "1泊100〜2,000円超",
+      "variant": "neutral"
     },
     {
-      "text": "全国30自治体へ波及",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "全国30自治体へ波及",
+      "variant": "neutral"
     },
     {
-      "text": "混雑バス・美化財源",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "混雑バス・美化財源",
+      "variant": "neutral"
     }
   ],
   "highlights": [

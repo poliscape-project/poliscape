@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "非常勤から常勤・正規公務員職への転換推進",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "非常勤から常勤・正規公務員職への転換推進",
+      "variant": "neutral"
     },
     {
-      "text": "予約不要の即時面談・常駐アクセス",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "予約不要の即時面談・常駐アクセス",
+      "variant": "neutral"
     },
     {
-      "text": "SSW主導の福祉機関連携・即時介入",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "SSW主導の福祉機関連携・即時介入",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "内閣感染症危機管理統括庁",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "内閣感染症危機管理統括庁",
+      "variant": "neutral"
     },
     {
-      "text": "日本版CDC（JIHS）発足",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "日本版CDC（JIHS）発足",
+      "variant": "neutral"
     },
     {
-      "text": "病床確保の指示・命令権創設",
-      "color": "bg-purple-50 text-purple-800"
+      "label": "病床確保の指示・命令権創設",
+      "variant": "neutral"
     }
   ],
   "highlights": [

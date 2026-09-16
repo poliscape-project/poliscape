@@ -129,16 +129,16 @@
   ],
   "badges": [
     {
-      "text": "政党交付金315億円の透明化",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "政党交付金315億円の透明化",
+      "variant": "neutral"
     },
     {
-      "text": "政策活動費の完全廃止",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "政策活動費の完全廃止",
+      "variant": "neutral"
     },
     {
-      "text": "1円単位領収書オンライン公開",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "1円単位領収書オンライン公開",
+      "variant": "neutral"
     }
   ],
   "highlights": [

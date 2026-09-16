@@ -174,16 +174,16 @@
   ],
   "badges": [
     {
-      "text": "価格転嫁Gメン全国巡回",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "価格転嫁Gメン全国巡回",
+      "variant": "neutral"
     },
     {
-      "text": "協議拒否大手の実名公表",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "協議拒否大手の実名公表",
+      "variant": "neutral"
     },
     {
-      "text": "約束手形2026年全廃方針",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "約束手形2026年全廃方針",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "タワマン節税適正化",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "タワマン節税適正化",
+      "variant": "neutral"
     },
     {
-      "text": "時価6割最低ライン",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "時価6割最低ライン",
+      "variant": "neutral"
     },
     {
-      "text": "4要素補正算定式",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "4要素補正算定式",
+      "variant": "neutral"
     }
   ],
   "highlights": [

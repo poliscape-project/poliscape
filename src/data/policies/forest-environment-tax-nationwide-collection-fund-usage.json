@@ -122,16 +122,16 @@
   ],
   "badges": [
     {
-      "text": "森林税年1000円",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "森林税年1000円",
+      "variant": "neutral"
     },
     {
-      "text": "放置林間伐整備",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "放置林間伐整備",
+      "variant": "neutral"
     },
     {
-      "text": "使途公表義務化",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "使途公表義務化",
+      "variant": "neutral"
     }
   ],
   "highlights": [

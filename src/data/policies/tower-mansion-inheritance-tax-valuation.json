@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "タワマン節税の見直し",
-      "color": "bg-amber-100 text-amber-900"
+      "label": "タワマン節税の見直し",
+      "variant": "neutral"
     },
     {
-      "text": "実勢価格の最低6割へ補正",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "実勢価格の最低6割へ補正",
+      "variant": "neutral"
     },
     {
-      "text": "高層階ほど評価額引き上げ",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "高層階ほど評価額引き上げ",
+      "variant": "neutral"
     }
   ],
   "highlights": [

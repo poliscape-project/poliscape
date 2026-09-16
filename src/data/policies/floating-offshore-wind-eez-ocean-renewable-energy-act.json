@@ -168,16 +168,16 @@
   ],
   "badges": [
     {
-      "text": "EEZ沖合まで設置エリアを拡大",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "EEZ沖合まで設置エリアを拡大",
+      "variant": "neutral"
     },
     {
-      "text": "仮許可・本許可の2段階審査",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "仮許可・本許可の2段階審査",
+      "variant": "neutral"
     },
     {
-      "text": "浮体式技術による深海展開",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "浮体式技術による深海展開",
+      "variant": "neutral"
     }
   ],
   "highlights": [

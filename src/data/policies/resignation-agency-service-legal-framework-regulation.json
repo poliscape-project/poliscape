@@ -122,16 +122,16 @@
   ],
   "badges": [
     {
-      "text": "退職代行法規制",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "退職代行法規制",
+      "variant": "neutral"
     },
     {
-      "text": "非弁行為線引き",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "非弁行為線引き",
+      "variant": "neutral"
     },
     {
-      "text": "即日退職の自由",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "即日退職の自由",
+      "variant": "neutral"
     }
   ],
   "highlights": [

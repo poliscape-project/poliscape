@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "全部支給所得上限を年収約190万円へ引き上げ",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "全部支給所得上限を年収約190万円へ引き上げ",
+      "variant": "neutral"
     },
     {
-      "text": "第3子以降加算額を月1万750円へ倍増",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "第3子以降加算額を月1万750円へ倍増",
+      "variant": "neutral"
     },
     {
-      "text": "一部支給上限枠の引き上げと就労意欲の保護",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "一部支給上限枠の引き上げと就労意欲の保護",
+      "variant": "neutral"
     }
   ],
   "highlights": [

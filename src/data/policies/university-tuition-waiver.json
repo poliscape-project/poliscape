@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "私立 年約70万円免除",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "私立 年約70万円免除",
+      "variant": "neutral"
     },
     {
-      "text": "所得制限なし",
-      "color": "bg-slate-100 text-slate-700"
+      "label": "所得制限なし",
+      "variant": "neutral"
     },
     {
-      "text": "3人扶養で全員対象",
-      "color": "bg-amber-100 text-amber-900"
+      "label": "3人扶養で全員対象",
+      "variant": "neutral"
     }
   ],
   "highlights": [

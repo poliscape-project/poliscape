@@ -122,16 +122,16 @@
   ],
   "badges": [
     {
-      "text": "レベル4完全無人バス",
-      "color": "bg-cyan-50 text-cyan-700 border-cyan-200"
+      "label": "レベル4完全無人バス",
+      "variant": "neutral"
     },
     {
-      "text": "遠隔監視システム",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "遠隔監視システム",
+      "variant": "neutral"
     },
     {
-      "text": "過疎地交通維持",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "過疎地交通維持",
+      "variant": "neutral"
     }
   ],
   "highlights": [

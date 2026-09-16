@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "認知症基本法施行",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "認知症基本法施行",
+      "variant": "neutral"
     },
     {
-      "text": "金融バリアフリー",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "金融バリアフリー",
+      "variant": "neutral"
     },
     {
-      "text": "口座凍結の柔軟化",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "口座凍結の柔軟化",
+      "variant": "neutral"
     }
   ],
   "highlights": [

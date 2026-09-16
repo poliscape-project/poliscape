@@ -130,16 +130,16 @@
   ],
   "badges": [
     {
-      "text": "1億円の壁是正",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "1億円の壁是正",
+      "variant": "neutral"
     },
     {
-      "text": "税率25〜30%案",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "税率25〜30%案",
+      "variant": "neutral"
     },
     {
-      "text": "新NISAは完全非課税",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "新NISAは完全非課税",
+      "variant": "neutral"
     }
   ],
   "highlights": [

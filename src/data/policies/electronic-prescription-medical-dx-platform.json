@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "電子処方箋・電子カルテ全国共有",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "電子処方箋・電子カルテ全国共有",
+      "variant": "neutral"
     },
     {
-      "text": "重複投薬・併用禁忌の自動警告",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "重複投薬・併用禁忌の自動警告",
+      "variant": "neutral"
     },
     {
-      "text": "災害時・救急搬送の即時カルテ参照",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "災害時・救急搬送の即時カルテ参照",
+      "variant": "neutral"
     }
   ],
   "highlights": [

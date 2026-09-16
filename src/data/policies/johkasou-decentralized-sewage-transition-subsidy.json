@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "過疎地下水道の縮小撤退",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "過疎地下水道の縮小撤退",
+      "variant": "neutral"
     },
     {
-      "text": "高性能合併浄化槽へ転換",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "高性能合併浄化槽へ転換",
+      "variant": "neutral"
     },
     {
-      "text": "設置費用8〜9割補助",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "設置費用8〜9割補助",
+      "variant": "neutral"
     }
   ],
   "highlights": [

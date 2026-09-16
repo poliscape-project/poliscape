@@ -168,16 +168,16 @@
   ],
   "badges": [
     {
-      "text": "森林面積重視へ配分比率を是正",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "森林面積重視へ配分比率を是正",
+      "variant": "neutral"
     },
     {
-      "text": "2024年度より年1,000円課税開始",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "2024年度より年1,000円課税開始",
+      "variant": "neutral"
     },
     {
-      "text": "荒廃林の間伐と花粉症対策の重点化",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "荒廃林の間伐と花粉症対策の重点化",
+      "variant": "neutral"
     }
   ],
   "highlights": [

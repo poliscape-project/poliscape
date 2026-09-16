@@ -122,16 +122,16 @@
   ],
   "badges": [
     {
-      "text": "再構築協議会",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "再構築協議会",
+      "variant": "neutral"
     },
     {
-      "text": "輸送密度1000人未満",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "輸送密度1000人未満",
+      "variant": "neutral"
     },
     {
-      "text": "BRT専用道転換",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "BRT専用道転換",
+      "variant": "neutral"
     }
   ],
   "highlights": [

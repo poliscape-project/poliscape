@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "DC・海底ケーブル地方分散",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "DC・海底ケーブル地方分散",
+      "variant": "neutral"
     },
     {
-      "text": "東京一極集中の全滅回避",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "東京一極集中の全滅回避",
+      "variant": "neutral"
     },
     {
-      "text": "北海道・日本海側新拠点",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "北海道・日本海側新拠点",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -130,16 +130,16 @@
   ],
   "badges": [
     {
-      "text": "年960時間上限義務化",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "年960時間上限義務化",
+      "variant": "neutral"
     },
     {
-      "text": "当直明け休息インターバル",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "当直明け休息インターバル",
+      "variant": "neutral"
     },
     {
-      "text": "地域救急維持の課題",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "地域救急維持の課題",
+      "variant": "neutral"
     }
   ],
   "highlights": [

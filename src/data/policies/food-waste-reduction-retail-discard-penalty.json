@@ -148,16 +148,16 @@
   ],
   "badges": [
     {
-      "text": "食品ロス半減目標",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "食品ロス半減目標",
+      "variant": "neutral"
     },
     {
-      "text": "小売店廃棄ペナルティ",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "小売店廃棄ペナルティ",
+      "variant": "neutral"
     },
     {
-      "text": "フードバンク寄附税制",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "フードバンク寄附税制",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "在外邦人ネット投票導入論",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "在外邦人ネット投票導入論",
+      "variant": "neutral"
     },
     {
-      "text": "マイナ公的認証・スマホ投票",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "マイナ公的認証・スマホ投票",
+      "variant": "neutral"
     },
     {
-      "text": "秘密投票・買収防止の壁",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "秘密投票・買収防止の壁",
+      "variant": "neutral"
     }
   ],
   "highlights": [

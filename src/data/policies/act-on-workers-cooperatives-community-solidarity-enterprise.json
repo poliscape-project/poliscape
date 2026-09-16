@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "出資・意見・労働の一致",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "出資・意見・労働の一致",
+      "variant": "neutral"
     },
     {
-      "text": "3人で即日登記可能",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "3人で即日登記可能",
+      "variant": "neutral"
     },
     {
-      "text": "出資配当なし・1人1票",
-      "color": "bg-amber-50 text-amber-800"
+      "label": "出資配当なし・1人1票",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -129,16 +129,16 @@
   ],
   "badges": [
     {
-      "text": "クリエイター適正契約指針",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "クリエイター適正契約指針",
+      "variant": "neutral"
     },
     {
-      "text": "買い叩き・著作権強奪禁止",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "買い叩き・著作権強奪禁止",
+      "variant": "neutral"
     },
     {
-      "text": "フリーランス新法連携",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "フリーランス新法連携",
+      "variant": "neutral"
     }
   ],
   "highlights": [

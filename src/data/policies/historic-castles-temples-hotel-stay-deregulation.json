@@ -129,16 +129,16 @@
   ],
   "badges": [
     {
-      "text": "城泊・寺泊特区",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "城泊・寺泊特区",
+      "variant": "neutral"
     },
     {
-      "text": "天守1泊100万円貸切",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "天守1泊100万円貸切",
+      "variant": "neutral"
     },
     {
-      "text": "宿泊収益で城郭修繕",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "宿泊収益で城郭修繕",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -162,16 +162,16 @@
   ],
   "badges": [
     {
-      "text": "電気最大4円・ガス17.5円引",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "電気最大4円・ガス17.5円引",
+      "variant": "neutral"
     },
     {
-      "text": "申請不要・全自動値引き",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "申請不要・全自動値引き",
+      "variant": "neutral"
     },
     {
-      "text": "再エネ賦課金と相殺",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "再エネ賦課金と相殺",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "トクリュウ・闇バイト対策",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "トクリュウ・闇バイト対策",
+      "variant": "neutral"
     },
     {
-      "text": "AIによる募集検知・DM警告",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "AIによる募集検知・DM警告",
+      "variant": "neutral"
     },
     {
-      "text": "口座・SIMの即時凍結",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "口座・SIMの即時凍結",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -130,16 +130,16 @@
   ],
   "badges": [
     {
-      "text": "教職調整額4%→10%超",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "教職調整額4%→10%超",
+      "variant": "neutral"
     },
     {
-      "text": "年収40〜60万円増額",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "年収40〜60万円増額",
+      "variant": "neutral"
     },
     {
-      "text": "部活地域移行セット",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "部活地域移行セット",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "更新手数料400円引",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "更新手数料400円引",
+      "variant": "neutral"
     },
     {
-      "text": "住所変更ワンストップ",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "住所変更ワンストップ",
+      "variant": "neutral"
     },
     {
-      "text": "スマホ24hオンライン講習",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "スマホ24hオンライン講習",
+      "variant": "neutral"
     }
   ],
   "highlights": [

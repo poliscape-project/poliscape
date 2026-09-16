@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "教員の休日部活指導の義務免除",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "教員の休日部活指導の義務免除",
+      "variant": "neutral"
     },
     {
-      "text": "月謝制導入と困窮世帯への補助クーポン",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "月謝制導入と困窮世帯への補助クーポン",
+      "variant": "neutral"
     },
     {
-      "text": "学校の枠を超えた合同クラブ化",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "学校の枠を超えた合同クラブ化",
+      "variant": "neutral"
     }
   ],
   "highlights": [

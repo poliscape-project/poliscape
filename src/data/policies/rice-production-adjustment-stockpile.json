@@ -174,16 +174,16 @@
   ],
   "badges": [
     {
-      "text": "令和の米騒動検証",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "令和の米騒動検証",
+      "variant": "neutral"
     },
     {
-      "text": "減反政策の抜本見直し",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "減反政策の抜本見直し",
+      "variant": "neutral"
     },
     {
-      "text": "備蓄米の機動的放出議論",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "備蓄米の機動的放出議論",
+      "variant": "neutral"
     }
   ],
   "highlights": [

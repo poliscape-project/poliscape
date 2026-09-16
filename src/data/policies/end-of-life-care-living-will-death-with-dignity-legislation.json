@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "尊厳死・延命中止議論",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "尊厳死・延命中止議論",
+      "variant": "neutral"
     },
     {
-      "text": "リビングウィル法制化",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "リビングウィル法制化",
+      "variant": "neutral"
     },
     {
-      "text": "医師免責と生命倫理",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "医師免責と生命倫理",
+      "variant": "neutral"
     }
   ],
   "highlights": [

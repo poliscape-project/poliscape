@@ -148,16 +148,16 @@
   ],
   "badges": [
     {
-      "text": "理系学部3000億円基金",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "理系学部3000億円基金",
+      "variant": "neutral"
     },
     {
-      "text": "理系割合5割目標",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "理系割合5割目標",
+      "variant": "neutral"
     },
     {
-      "text": "デジタル・脱炭素人材",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "デジタル・脱炭素人材",
+      "variant": "neutral"
     }
   ],
   "highlights": [

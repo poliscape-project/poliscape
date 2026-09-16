@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "スマホ・PCでの遺言作成を容認",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "スマホ・PCでの遺言作成を容認",
+      "variant": "neutral"
     },
     {
-      "text": "動画による意思確認を補助証拠化",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "動画による意思確認を補助証拠化",
+      "variant": "neutral"
     },
     {
-      "text": "法務局クラウド保管で検認不要",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "法務局クラウド保管で検認不要",
+      "variant": "neutral"
     }
   ],
   "highlights": [

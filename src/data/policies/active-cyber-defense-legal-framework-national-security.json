@@ -122,16 +122,16 @@
   ],
   "badges": [
     {
-      "text": "能動的サイバー防御",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "能動的サイバー防御",
+      "variant": "neutral"
     },
     {
-      "text": "先制アクセス無害化",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "先制アクセス無害化",
+      "variant": "neutral"
     },
     {
-      "text": "通信の秘密と相克",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "通信の秘密と相克",
+      "variant": "neutral"
     }
   ],
   "highlights": [

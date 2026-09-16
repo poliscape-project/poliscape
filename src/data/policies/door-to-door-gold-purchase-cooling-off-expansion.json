@@ -148,16 +148,16 @@
   ],
   "badges": [
     {
-      "text": "押し買い・訪問購入規制",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "押し買い・訪問購入規制",
+      "variant": "neutral"
     },
     {
-      "text": "8日間クーリングオフ",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "8日間クーリングオフ",
+      "variant": "neutral"
     },
     {
-      "text": "引き渡し拒絶権の徹底",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "引き渡し拒絶権の徹底",
+      "variant": "neutral"
     }
   ],
   "highlights": [

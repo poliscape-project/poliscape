@@ -122,16 +122,16 @@
   ],
   "badges": [
     {
-      "text": "軽症有料化議論",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "軽症有料化議論",
+      "variant": "neutral"
     },
     {
-      "text": "選定療養費徴収",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "選定療養費徴収",
+      "variant": "neutral"
     },
     {
-      "text": "#7119全国網羅",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "#7119全国網羅",
+      "variant": "neutral"
     }
   ],
   "highlights": [

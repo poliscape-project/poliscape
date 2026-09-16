@@ -174,16 +174,16 @@
   ],
   "badges": [
     {
-      "text": "TSMC熊本へ1.2兆円助成",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "TSMC熊本へ1.2兆円助成",
+      "variant": "neutral"
     },
     {
-      "text": "Rapidus千歳2ナノ量産",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "Rapidus千歳2ナノ量産",
+      "variant": "neutral"
     },
     {
-      "text": "総額5兆円の投資・顧客リスク",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "総額5兆円の投資・顧客リスク",
+      "variant": "neutral"
     }
   ],
   "highlights": [

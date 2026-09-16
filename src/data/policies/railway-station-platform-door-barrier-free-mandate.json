@@ -168,16 +168,16 @@
   ],
   "badges": [
     {
-      "text": "1乗車あたり約10円のバリアフリー料金新設",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "1乗車あたり約10円のバリアフリー料金新設",
+      "variant": "neutral"
     },
     {
-      "text": "10万人以上の駅への整備義務付け",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "10万人以上の駅への整備義務付け",
+      "variant": "neutral"
     },
     {
-      "text": "昇降ロープ式等の柔軟な新技術導入",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "昇降ロープ式等の柔軟な新技術導入",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -168,16 +168,16 @@
   ],
   "badges": [
     {
-      "text": "富士山等での入域料徴収と人数制限",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "富士山等での入域料徴収と人数制限",
+      "variant": "neutral"
     },
     {
-      "text": "全国観光自治体での宿泊税・訪問税拡大",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "全国観光自治体での宿泊税・訪問税拡大",
+      "variant": "neutral"
     },
     {
-      "text": "観光客向け二重価格・急行運賃を公認",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "観光客向け二重価格・急行運賃を公認",
+      "variant": "neutral"
     }
   ],
   "highlights": [

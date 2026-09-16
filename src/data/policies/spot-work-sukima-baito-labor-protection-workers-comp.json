@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "直接雇用として労基法を完全適用",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "直接雇用として労基法を完全適用",
+      "variant": "neutral"
     },
     {
-      "text": "数時間勤務でも即時労災適用",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "数時間勤務でも即時労災適用",
+      "variant": "neutral"
     },
     {
-      "text": "手数料なしでの即日全額振込",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "手数料なしでの即日全額振込",
+      "variant": "neutral"
     }
   ],
   "highlights": [

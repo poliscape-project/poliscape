@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "2025年度からの即時無料公開（OA）完全義務化",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "2025年度からの即時無料公開（OA）完全義務化",
+      "variant": "neutral"
     },
     {
-      "text": "悪質ハゲタカ雑誌への公費支出完全禁止",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "悪質ハゲタカ雑誌への公費支出完全禁止",
+      "variant": "neutral"
     },
     {
-      "text": "AI画像・テキスト不正検知ツールの共通導入",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "AI画像・テキスト不正検知ツールの共通導入",
+      "variant": "neutral"
     }
   ],
   "highlights": [

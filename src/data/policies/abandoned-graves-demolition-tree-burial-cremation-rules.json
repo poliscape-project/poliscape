@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "無縁墓の撤去公告期間を短縮",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "無縁墓の撤去公告期間を短縮",
+      "variant": "neutral"
     },
     {
-      "text": "樹木葬・合葬墓の基準を法制化",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "樹木葬・合葬墓の基準を法制化",
+      "variant": "neutral"
     },
     {
-      "text": "離檀トラブル防止ガイドライン",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "離檀トラブル防止ガイドライン",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "OTC類似薬保険見直し",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "OTC類似薬保険見直し",
+      "variant": "neutral"
     },
     {
-      "text": "湿布・花粉症薬自費化",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "湿布・花粉症薬自費化",
+      "variant": "neutral"
     },
     {
-      "text": "医療費47兆円抑制",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "医療費47兆円抑制",
+      "variant": "neutral"
     }
   ],
   "highlights": [

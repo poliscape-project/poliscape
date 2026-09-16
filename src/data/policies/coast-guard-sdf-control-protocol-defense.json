@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "海保の防衛相統制要領",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "海保の防衛相統制要領",
+      "variant": "neutral"
     },
     {
-      "text": "自衛隊法80条の手続き初策定",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "自衛隊法80条の手続き初策定",
+      "variant": "neutral"
     },
     {
-      "text": "住民避難・海難救助に特化",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "住民避難・海難救助に特化",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "激変緩和の2割特例",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "激変緩和の2割特例",
+      "variant": "neutral"
     },
     {
-      "text": "免税80%控除の経過措置",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "免税80%控除の経過措置",
+      "variant": "neutral"
     },
     {
-      "text": "BtoCは免税維持も",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "BtoCは免税維持も",
+      "variant": "neutral"
     }
   ],
   "highlights": [

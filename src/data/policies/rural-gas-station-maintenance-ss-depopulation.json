@@ -148,16 +148,16 @@
   ],
   "badges": [
     {
-      "text": "過疎地SS維持支援",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "過疎地SS維持支援",
+      "variant": "neutral"
     },
     {
-      "text": "灯油配達・給油所確保",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "灯油配達・給油所確保",
+      "variant": "neutral"
     },
     {
-      "text": "給油難民ゼロ対策",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "給油難民ゼロ対策",
+      "variant": "neutral"
     }
   ],
   "highlights": [

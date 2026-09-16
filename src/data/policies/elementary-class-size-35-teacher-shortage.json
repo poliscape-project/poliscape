@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "小学校全学年で35人学級完成",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "小学校全学年で35人学級完成",
+      "variant": "neutral"
     },
     {
-      "text": "全国的教員不足の深刻化",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "全国的教員不足の深刻化",
+      "variant": "neutral"
     },
     {
-      "text": "担任未配置・採用倍率低下",
-      "color": "bg-amber-100 text-amber-900"
+      "label": "担任未配置・採用倍率低下",
+      "variant": "neutral"
     }
   ],
   "highlights": [

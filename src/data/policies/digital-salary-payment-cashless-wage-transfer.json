@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "給与デジタル払い",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "給与デジタル払い",
+      "variant": "neutral"
     },
     {
-      "text": "PayPay等へ直送金",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "PayPay等へ直送金",
+      "variant": "neutral"
     },
     {
-      "text": "上限20万・全額保証",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "上限20万・全額保証",
+      "variant": "neutral"
     }
   ],
   "highlights": [

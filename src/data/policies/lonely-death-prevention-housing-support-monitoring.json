@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "孤立死年6.8万人対策",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "孤立死年6.8万人対策",
+      "variant": "neutral"
     },
     {
-      "text": "居住支援法人制度",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "居住支援法人制度",
+      "variant": "neutral"
     },
     {
-      "text": "スマートメーター見守り",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "スマートメーター見守り",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "115年ぶりの刑罰改革",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "115年ぶりの刑罰改革",
+      "variant": "neutral"
     },
     {
-      "text": "懲役・禁錮を一本化",
-      "color": "bg-slate-100 text-slate-700"
+      "label": "懲役・禁錮を一本化",
+      "variant": "neutral"
     },
     {
-      "text": "個別の更生教育重視",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "個別の更生教育重視",
+      "variant": "neutral"
     }
   ],
   "highlights": [

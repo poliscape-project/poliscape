@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "太陽光廃棄積立義務",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "太陽光廃棄積立義務",
+      "variant": "neutral"
     },
     {
-      "text": "売電収入から天引き",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "売電収入から天引き",
+      "variant": "neutral"
     },
     {
-      "text": "放置・不法投棄防止",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "放置・不法投棄防止",
+      "variant": "neutral"
     }
   ],
   "highlights": [

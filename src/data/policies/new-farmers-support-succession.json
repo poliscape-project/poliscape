@@ -168,16 +168,16 @@
   ],
   "badges": [
     {
-      "text": "年最大150万円生活支援",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "年最大150万円生活支援",
+      "variant": "neutral"
     },
     {
-      "text": "平均年齢68歳の担い手対策",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "平均年齢68歳の担い手対策",
+      "variant": "neutral"
     },
     {
-      "text": "第三者事業承継マッチング",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "第三者事業承継マッチング",
+      "variant": "neutral"
     }
   ],
   "highlights": [

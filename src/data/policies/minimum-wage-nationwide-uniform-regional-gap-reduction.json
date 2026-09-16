@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "全国平均1500円目標へ前倒し",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "全国平均1500円目標へ前倒し",
+      "variant": "neutral"
     },
     {
-      "text": "ランク集約で地方へ高額配分",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "ランク集約で地方へ高額配分",
+      "variant": "neutral"
     },
     {
-      "text": "地域間格差の縮小を優先",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "地域間格差の縮小を優先",
+      "variant": "neutral"
     }
   ],
   "highlights": [

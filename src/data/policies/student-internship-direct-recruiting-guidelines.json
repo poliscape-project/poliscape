@@ -148,16 +148,16 @@
   ],
   "badges": [
     {
-      "text": "インターン採用直結",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "インターン採用直結",
+      "variant": "neutral"
     },
     {
-      "text": "5日以上・実務体験",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "5日以上・実務体験",
+      "variant": "neutral"
     },
     {
-      "text": "就活超早期化の懸念",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "就活超早期化の懸念",
+      "variant": "neutral"
     }
   ],
   "highlights": [

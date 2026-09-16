@@ -168,16 +168,16 @@
   ],
   "badges": [
     {
-      "text": "顔認証ゲートによるウォークスルー審査",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "顔認証ゲートによるウォークスルー審査",
+      "variant": "neutral"
     },
     {
-      "text": "スマホQRコードと顔認証による税関自動化",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "スマホQRコードと顔認証による税関自動化",
+      "variant": "neutral"
     },
     {
-      "text": "船上事前審査による着岸即下船の実現",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "船上事前審査による着岸即下船の実現",
+      "variant": "neutral"
     }
   ],
   "highlights": [

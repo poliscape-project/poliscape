@@ -168,16 +168,16 @@
   ],
   "badges": [
     {
-      "text": "AI自律ロボットによる自動診断",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "AI自律ロボットによる自動診断",
+      "variant": "neutral"
     },
     {
-      "text": "事前リスク予測による予防保全",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "事前リスク予測による予防保全",
+      "variant": "neutral"
     },
     {
-      "text": "道路を掘らない管更生工法の主流化",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "道路を掘らない管更生工法の主流化",
+      "variant": "neutral"
     }
   ],
   "highlights": [

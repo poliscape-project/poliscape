@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "実質手取り10割",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "実質手取り10割",
+      "variant": "neutral"
     },
     {
-      "text": "給付率80%へ引上げ",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "給付率80%へ引上げ",
+      "variant": "neutral"
     },
     {
-      "text": "最大28日間・両親取得",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "最大28日間・両親取得",
+      "variant": "neutral"
     }
   ],
   "highlights": [

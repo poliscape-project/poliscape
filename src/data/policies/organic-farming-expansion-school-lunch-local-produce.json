@@ -122,16 +122,16 @@
   ],
   "badges": [
     {
-      "text": "有機給食推進",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "有機給食推進",
+      "variant": "neutral"
     },
     {
-      "text": "2050年25%目標",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "2050年25%目標",
+      "variant": "neutral"
     },
     {
-      "text": "みどりの食料戦略",
-      "color": "bg-green-50 text-green-700 border-green-200"
+      "label": "みどりの食料戦略",
+      "variant": "neutral"
     }
   ],
   "highlights": [

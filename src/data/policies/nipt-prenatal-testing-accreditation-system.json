@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "採血のみでダウン症判定",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "採血のみでダウン症判定",
+      "variant": "neutral"
     },
     {
-      "text": "公認クリニック拡大",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "公認クリニック拡大",
+      "variant": "neutral"
     },
     {
-      "text": "命の選別とカウンセリング",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "命の選別とカウンセリング",
+      "variant": "neutral"
     }
   ],
   "highlights": [

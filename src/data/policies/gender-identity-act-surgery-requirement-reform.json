@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "生殖不能手術要件の違憲",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "生殖不能手術要件の違憲",
+      "variant": "neutral"
     },
     {
-      "text": "最高裁大法廷決定",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "最高裁大法廷決定",
+      "variant": "neutral"
     },
     {
-      "text": "公衆浴場は身体特徴基準",
-      "color": "bg-amber-100 text-amber-900"
+      "label": "公衆浴場は身体特徴基準",
+      "variant": "neutral"
     }
   ],
   "highlights": [

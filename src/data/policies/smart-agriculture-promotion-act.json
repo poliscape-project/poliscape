@@ -174,16 +174,16 @@
   ],
   "badges": [
     {
-      "text": "自動運転・ドローン普及",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "自動運転・ドローン普及",
+      "variant": "neutral"
     },
     {
-      "text": "即時償却・長期低利融資",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "即時償却・長期低利融資",
+      "variant": "neutral"
     },
     {
-      "text": "2024年10月新法施行",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "2024年10月新法施行",
+      "variant": "neutral"
     }
   ],
   "highlights": [

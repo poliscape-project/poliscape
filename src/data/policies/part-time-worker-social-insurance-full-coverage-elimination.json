@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "企業規模要件の完全撤廃へ",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "企業規模要件の完全撤廃へ",
+      "variant": "neutral"
     },
     {
-      "text": "厚生年金が上乗せされ将来安心",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "厚生年金が上乗せされ将来安心",
+      "variant": "neutral"
     },
     {
-      "text": "会社が保険料の半分を折半負担",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "会社が保険料の半分を折半負担",
+      "variant": "neutral"
     }
   ],
   "highlights": [

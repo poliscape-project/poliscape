@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "手取り実質100%を支給",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "手取り実質100%を支給",
+      "variant": "neutral"
     },
     {
-      "text": "両親ともに14日以上取得が原則",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "両親ともに14日以上取得が原則",
+      "variant": "neutral"
     },
     {
-      "text": "生後直後の最大28日間が対象",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "生後直後の最大28日間が対象",
+      "variant": "neutral"
     }
   ],
   "highlights": [

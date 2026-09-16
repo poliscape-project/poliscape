@@ -168,16 +168,16 @@
   ],
   "badges": [
     {
-      "text": "乗車前の事前確定運賃制度の完全解禁",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "乗車前の事前確定運賃制度の完全解禁",
+      "variant": "neutral"
     },
     {
-      "text": "混雑に応じた変動迎車料金（ダイナミック）",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "混雑に応じた変動迎車料金（ダイナミック）",
+      "variant": "neutral"
     },
     {
-      "text": "アプリ事前マッチングによる相乗り割引",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "アプリ事前マッチングによる相乗り割引",
+      "variant": "neutral"
     }
   ],
   "highlights": [

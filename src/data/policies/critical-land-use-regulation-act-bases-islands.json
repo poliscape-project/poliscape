@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "重要土地等利用規制法の運用",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "重要土地等利用規制法の運用",
+      "variant": "neutral"
     },
     {
-      "text": "基地周辺1km・国境離島指定",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "基地周辺1km・国境離島指定",
+      "variant": "neutral"
     },
     {
-      "text": "外資買収調査・事前届出義務",
-      "color": "bg-amber-100 text-amber-900"
+      "label": "外資買収調査・事前届出義務",
+      "variant": "neutral"
     }
   ],
   "highlights": [

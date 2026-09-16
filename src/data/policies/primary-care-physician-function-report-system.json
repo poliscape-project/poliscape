@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "かかりつけ医機能報告制度",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "かかりつけ医機能報告制度",
+      "variant": "neutral"
     },
     {
-      "text": "休日夜間・在宅看取り機能の公表",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "休日夜間・在宅看取り機能の公表",
+      "variant": "neutral"
     },
     {
-      "text": "大病院受診の選定療養費引き上げ",
-      "color": "bg-amber-100 text-amber-900"
+      "label": "大病院受診の選定療養費引き上げ",
+      "variant": "neutral"
     }
   ],
   "highlights": [

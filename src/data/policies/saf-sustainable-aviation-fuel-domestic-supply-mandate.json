@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "EEZ洋上風力解禁",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "EEZ洋上風力解禁",
+      "variant": "neutral"
     },
     {
-      "text": "浮体式で沖合活用",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "浮体式で沖合活用",
+      "variant": "neutral"
     },
     {
-      "text": "漁業調整・送電網コスト",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "漁業調整・送電網コスト",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "病院経営情報開示義務",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "病院経営情報開示義務",
+      "variant": "neutral"
     },
     {
-      "text": "赤字倒産過去最多水準",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "赤字倒産過去最多水準",
+      "variant": "neutral"
     },
     {
-      "text": "地域医療再編統合",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "地域医療再編統合",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "対象特許・AI所得の30%特別控除導入",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "対象特許・AI所得の30%特別控除導入",
+      "variant": "neutral"
     },
     {
-      "text": "特許権およびAI著作権の対象指定",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "特許権およびAI著作権の対象指定",
+      "variant": "neutral"
     },
     {
-      "text": "OECD準拠の実体研究開発要件（ネクサス基準）",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "OECD準拠の実体研究開発要件（ネクサス基準）",
+      "variant": "neutral"
     }
   ],
   "highlights": [

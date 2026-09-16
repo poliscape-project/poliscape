@@ -162,16 +162,16 @@
   ],
   "badges": [
     {
-      "text": "企業へ1人最大50万円助成",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "企業へ1人最大50万円助成",
+      "variant": "neutral"
     },
     {
-      "text": "手当支給で手取り減ゼロ",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "手当支給で手取り減ゼロ",
+      "variant": "neutral"
     },
     {
-      "text": "厚生年金加入で将来増額",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "厚生年金加入で将来増額",
+      "variant": "neutral"
     }
   ],
   "highlights": [

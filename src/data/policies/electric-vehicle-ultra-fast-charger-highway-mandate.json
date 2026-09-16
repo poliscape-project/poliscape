@@ -168,16 +168,16 @@
   ],
   "badges": [
     {
-      "text": "150kW級超急速充電器を標準化",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "150kW級超急速充電器を標準化",
+      "variant": "neutral"
     },
     {
-      "text": "最低6口以上の複数口設置義務化",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "最低6口以上の複数口設置義務化",
+      "variant": "neutral"
     },
     {
-      "text": "2030年目標を30万口へ倍増",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "2030年目標を30万口へ倍増",
+      "variant": "neutral"
     }
   ],
   "highlights": [

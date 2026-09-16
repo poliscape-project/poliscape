@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "欧米で校内全面禁止拡大",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "欧米で校内全面禁止拡大",
+      "variant": "neutral"
     },
     {
-      "text": "集中力向上・ネットいじめ抑止",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "集中力向上・ネットいじめ抑止",
+      "variant": "neutral"
     },
     {
-      "text": "災害連絡・デジタル教育との両立",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "災害連絡・デジタル教育との両立",
+      "variant": "neutral"
     }
   ],
   "international": {

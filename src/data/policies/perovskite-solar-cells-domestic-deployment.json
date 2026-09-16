@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "次世代ペロブスカイト",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "次世代ペロブスカイト",
+      "variant": "neutral"
     },
     {
-      "text": "ビル壁面・曲面設置",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "ビル壁面・曲面設置",
+      "variant": "neutral"
     },
     {
-      "text": "ヨウ素の国産サプライ",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "ヨウ素の国産サプライ",
+      "variant": "neutral"
     }
   ],
   "highlights": [

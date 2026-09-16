@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "特別警戒アラートの新設",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "特別警戒アラートの新設",
+      "variant": "neutral"
     },
     {
-      "text": "避難施設（シェルター）指定",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "避難施設（シェルター）指定",
+      "variant": "neutral"
     },
     {
-      "text": "開放義務と情報公開",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "開放義務と情報公開",
+      "variant": "neutral"
     }
   ],
   "highlights": [

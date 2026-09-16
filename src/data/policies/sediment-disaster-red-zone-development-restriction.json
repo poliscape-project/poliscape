@@ -129,16 +129,16 @@
   ],
   "badges": [
     {
-      "text": "土砂災害レッドゾーン原則建築禁止",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "土砂災害レッドゾーン原則建築禁止",
+      "variant": "neutral"
     },
     {
-      "text": "高台・市街地への集団移転補助",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "高台・市街地への集団移転補助",
+      "variant": "neutral"
     },
     {
-      "text": "危険地からの計画的撤退",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "危険地からの計画的撤退",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "確約手続で迅速返金",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "確約手続で迅速返金",
+      "variant": "neutral"
     },
     {
-      "text": "再犯課徴金1.5倍加算",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "再犯課徴金1.5倍加算",
+      "variant": "neutral"
     },
     {
-      "text": "電子マネー返金を解禁",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "電子マネー返金を解禁",
+      "variant": "neutral"
     }
   ],
   "highlights": [

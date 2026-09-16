@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "NHKネット配信の必須業務化",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "NHKネット配信の必須業務化",
+      "variant": "neutral"
     },
     {
-      "text": "登録者にネット受信料新設",
-      "color": "bg-amber-100 text-amber-900"
+      "label": "登録者にネット受信料新設",
+      "variant": "neutral"
     },
     {
-      "text": "テレビ保有世帯は追加負担なし",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "テレビ保有世帯は追加負担なし",
+      "variant": "neutral"
     }
   ],
   "highlights": [

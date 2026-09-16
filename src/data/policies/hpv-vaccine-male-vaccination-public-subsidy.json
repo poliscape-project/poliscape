@@ -122,16 +122,16 @@
   ],
   "badges": [
     {
-      "text": "男子HPV公費助成",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "男子HPV公費助成",
+      "variant": "neutral"
     },
     {
-      "text": "中咽頭がん予防",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "中咽頭がん予防",
+      "variant": "neutral"
     },
     {
-      "text": "集団免疫構築",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "集団免疫構築",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -130,16 +130,16 @@
   ],
   "badges": [
     {
-      "text": "解雇無効時の金銭解決",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "解雇無効時の金銭解決",
+      "variant": "neutral"
     },
     {
-      "text": "補償金3〜18ヶ月相当",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "補償金3〜18ヶ月相当",
+      "variant": "neutral"
     },
     {
-      "text": "労働者申立型が有力",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "労働者申立型が有力",
+      "variant": "neutral"
     }
   ],
   "highlights": [

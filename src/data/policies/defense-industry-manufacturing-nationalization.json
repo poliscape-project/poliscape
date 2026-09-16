@@ -174,16 +174,16 @@
   ],
   "badges": [
     {
-      "text": "製造ライン国有化特例",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "製造ライン国有化特例",
+      "variant": "neutral"
     },
     {
-      "text": "目標利益率最大15%保障",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "目標利益率最大15%保障",
+      "variant": "neutral"
     },
     {
-      "text": "防衛撤退100社超の抑止",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "防衛撤退100社超の抑止",
+      "variant": "neutral"
     }
   ],
   "highlights": [

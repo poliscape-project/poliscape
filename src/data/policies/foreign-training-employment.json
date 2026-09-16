@@ -130,16 +130,16 @@
   ],
   "badges": [
     {
-      "text": "技能実習廃止・新制度へ",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "技能実習廃止・新制度へ",
+      "variant": "neutral"
     },
     {
-      "text": "条件付き転籍（転職）解禁",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "条件付き転籍（転職）解禁",
+      "variant": "neutral"
     },
     {
-      "text": "3年で特定技能1号へ直結",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "3年で特定技能1号へ直結",
+      "variant": "neutral"
     }
   ],
   "highlights": [

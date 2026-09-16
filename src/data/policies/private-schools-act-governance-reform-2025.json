@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "理事と評議員の兼任禁止",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "理事と評議員の兼任禁止",
+      "variant": "neutral"
     },
     {
-      "text": "評議員会を監督機関化",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "評議員会を監督機関化",
+      "variant": "neutral"
     },
     {
-      "text": "2025年4月完全施行",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "2025年4月完全施行",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -148,16 +148,16 @@
   ],
   "badges": [
     {
-      "text": "農地バンク集積率8割",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "農地バンク集積率8割",
+      "variant": "neutral"
     },
     {
-      "text": "荒廃農地・放棄地解消",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "荒廃農地・放棄地解消",
+      "variant": "neutral"
     },
     {
-      "text": "担い手への大区画化",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "担い手への大区画化",
+      "variant": "neutral"
     }
   ],
   "highlights": [

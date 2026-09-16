@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "経済的威圧（嫌がらせ）対抗",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "経済的威圧（嫌がらせ）対抗",
+      "variant": "neutral"
     },
     {
-      "text": "G7共同支援プラットフォーム",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "G7共同支援プラットフォーム",
+      "variant": "neutral"
     },
     {
-      "text": "サプライチェーン買い支え",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "サプライチェーン買い支え",
+      "variant": "neutral"
     }
   ],
   "highlights": [

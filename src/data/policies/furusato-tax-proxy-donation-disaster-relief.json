@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "被災地の寄付事務を代行",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "被災地の寄付事務を代行",
+      "variant": "neutral"
     },
     {
-      "text": "返礼品なしの純粋支援",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "返礼品なしの純粋支援",
+      "variant": "neutral"
     },
     {
-      "text": "能登地震で数十億円調達",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "能登地震で数十億円調達",
+      "variant": "neutral"
     }
   ],
   "highlights": [

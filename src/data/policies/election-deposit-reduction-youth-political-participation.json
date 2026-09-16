@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "選挙供託金（300万〜600万円）",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "選挙供託金（300万〜600万円）",
+      "variant": "neutral"
     },
     {
-      "text": "若者・女性の参入障壁打破",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "若者・女性の参入障壁打破",
+      "variant": "neutral"
     },
     {
-      "text": "売名候補乱立防止との両立",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "売名候補乱立防止との両立",
+      "variant": "neutral"
     }
   ],
   "highlights": [

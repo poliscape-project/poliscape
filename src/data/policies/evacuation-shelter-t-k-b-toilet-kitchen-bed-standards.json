@@ -148,16 +148,16 @@
   ],
   "badges": [
     {
-      "text": "避難所TKB基準法制化",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "避難所TKB基準法制化",
+      "variant": "neutral"
     },
     {
-      "text": "段ボールベッド・温食",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "段ボールベッド・温食",
+      "variant": "neutral"
     },
     {
-      "text": "災害関連死ゼロ目標",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "災害関連死ゼロ目標",
+      "variant": "neutral"
     }
   ],
   "highlights": [

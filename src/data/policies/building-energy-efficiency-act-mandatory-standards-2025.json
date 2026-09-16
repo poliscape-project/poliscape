@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "全新築住宅で適合義務化",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "全新築住宅で適合義務化",
+      "variant": "neutral"
     },
     {
-      "text": "4号特例の大幅縮小",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "4号特例の大幅縮小",
+      "variant": "neutral"
     },
     {
-      "text": "不適合なら着工不可",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "不適合なら着工不可",
+      "variant": "neutral"
     }
   ],
   "highlights": [

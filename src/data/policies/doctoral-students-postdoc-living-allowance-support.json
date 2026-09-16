@@ -122,16 +122,16 @@
   ],
   "badges": [
     {
-      "text": "博士生活費年240万",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "博士生活費年240万",
+      "variant": "neutral"
     },
     {
-      "text": "SPRING事業3倍",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "SPRING事業3倍",
+      "variant": "neutral"
     },
     {
-      "text": "研究力再生",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "研究力再生",
+      "variant": "neutral"
     }
   ],
   "highlights": [

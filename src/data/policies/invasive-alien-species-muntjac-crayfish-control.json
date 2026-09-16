@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "特定外来生物キョン8万頭",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "特定外来生物キョン8万頭",
+      "variant": "neutral"
     },
     {
-      "text": "首都圏防衛ライン",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "首都圏防衛ライン",
+      "variant": "neutral"
     },
     {
-      "text": "ザリガニ野外放流禁止",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "ザリガニ野外放流禁止",
+      "variant": "neutral"
     }
   ],
   "highlights": [

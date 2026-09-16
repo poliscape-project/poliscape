@@ -129,16 +129,16 @@
   ],
   "badges": [
     {
-      "text": "ステマ（やらせ広告）全面違法化",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "ステマ（やらせ広告）全面違法化",
+      "variant": "neutral"
     },
     {
-      "text": "違反広告主の社名公表・措置命令",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "違反広告主の社名公表・措置命令",
+      "variant": "neutral"
     },
     {
-      "text": "明瞭な#PR表記義務",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "明瞭な#PR表記義務",
+      "variant": "neutral"
     }
   ],
   "highlights": [

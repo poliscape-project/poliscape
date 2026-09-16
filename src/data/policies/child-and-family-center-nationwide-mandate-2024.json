@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "全国自治体で設置義務化",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "全国自治体で設置義務化",
+      "variant": "neutral"
     },
     {
-      "text": "母子保健＋福祉を統合",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "母子保健＋福祉を統合",
+      "variant": "neutral"
     },
     {
-      "text": "ヤングケアラー支援法制化",
-      "color": "bg-amber-50 text-amber-800"
+      "label": "ヤングケアラー支援法制化",
+      "variant": "neutral"
     }
   ],
   "highlights": [

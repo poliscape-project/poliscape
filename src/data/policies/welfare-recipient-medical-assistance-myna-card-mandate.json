@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "紙の医療券を廃止",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "紙の医療券を廃止",
+      "variant": "neutral"
     },
     {
-      "text": "生保マイナ保険証移行",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "生保マイナ保険証移行",
+      "variant": "neutral"
     },
     {
-      "text": "重複処方・転売防止",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "重複処方・転売防止",
+      "variant": "neutral"
     }
   ],
   "highlights": [

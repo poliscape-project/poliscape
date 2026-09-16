@@ -168,16 +168,16 @@
   ],
   "badges": [
     {
-      "text": "運転士免許不要のGoA2.5/GoA3を認可",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "運転士免許不要のGoA2.5/GoA3を認可",
+      "variant": "neutral"
     },
     {
-      "text": "ミリ波レーダー・AIによる障害物自動停止",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "ミリ波レーダー・AIによる障害物自動停止",
+      "variant": "neutral"
     },
     {
-      "text": "短期講習の係員乗務への資格要件緩和",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "短期講習の係員乗務への資格要件緩和",
+      "variant": "neutral"
     }
   ],
   "highlights": [

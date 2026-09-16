@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "5分単位の高精度電力データ計測の実現",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "5分単位の高精度電力データ計測の実現",
+      "variant": "neutral"
     },
     {
-      "text": "市場連動ダイナミックプライシングの本格解禁",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "市場連動ダイナミックプライシングの本格解禁",
+      "variant": "neutral"
     },
     {
-      "text": "AIによるEV・エコキュートの最適自動充電",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "AIによるEV・エコキュートの最適自動充電",
+      "variant": "neutral"
     }
   ],
   "highlights": [

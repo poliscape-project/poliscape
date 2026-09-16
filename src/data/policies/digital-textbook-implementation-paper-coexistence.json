@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "小中英語から先行無償化",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "小中英語から先行無償化",
+      "variant": "neutral"
     },
     {
-      "text": "音声読み上げ・文字拡大",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "音声読み上げ・文字拡大",
+      "variant": "neutral"
     },
     {
-      "text": "紙とデジタルの二重負担",
-      "color": "bg-slate-100 text-slate-700"
+      "label": "紙とデジタルの二重負担",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -129,16 +129,16 @@
   ],
   "badges": [
     {
-      "text": "民事裁判完全IT化（eコート）",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "民事裁判完全IT化（eコート）",
+      "variant": "neutral"
     },
     {
-      "text": "自宅・事務所からウェブ口頭弁論",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "自宅・事務所からウェブ口頭弁論",
+      "variant": "neutral"
     },
     {
-      "text": "24時間電子記録閲覧・訴状提出",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "24時間電子記録閲覧・訴状提出",
+      "variant": "neutral"
     }
   ],
   "highlights": [

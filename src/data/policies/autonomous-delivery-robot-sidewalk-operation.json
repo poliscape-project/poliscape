@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "自動配送ロボの歩道走行解禁",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "自動配送ロボの歩道走行解禁",
+      "variant": "neutral"
     },
     {
-      "text": "最高時速6kmの遠隔監視",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "最高時速6kmの遠隔監視",
+      "variant": "neutral"
     },
     {
-      "text": "物流2024年問題の解決",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "物流2024年問題の解決",
+      "variant": "neutral"
     }
   ],
   "highlights": [

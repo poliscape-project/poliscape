@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "政府・学校から完全独立",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "政府・学校から完全独立",
+      "variant": "neutral"
     },
     {
-      "text": "いじめ隠蔽の強制立ち入り",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "いじめ隠蔽の強制立ち入り",
+      "variant": "neutral"
     },
     {
-      "text": "子どもが直接SOS申立",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "子どもが直接SOS申立",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "病院連合で一体運営が可能に",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "病院連合で一体運営が可能に",
+      "variant": "neutral"
     },
     {
-      "text": "急性期を集約、回復期へ転換",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "急性期を集約、回復期へ転換",
+      "variant": "neutral"
     },
     {
-      "text": "病床削減支援金を交付",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "病床削減支援金を交付",
+      "variant": "neutral"
     }
   ],
   "highlights": [

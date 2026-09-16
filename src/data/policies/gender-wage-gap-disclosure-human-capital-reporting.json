@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "男女賃金格差開示",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "男女賃金格差開示",
+      "variant": "neutral"
     },
     {
-      "text": "有報人的資本3指標",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "有報人的資本3指標",
+      "variant": "neutral"
     },
     {
-      "text": "女性管理職登用加速",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "女性管理職登用加速",
+      "variant": "neutral"
     }
   ],
   "highlights": [

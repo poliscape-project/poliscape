@@ -148,16 +148,16 @@
   ],
   "badges": [
     {
-      "text": "サブスク解約妨害規制",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "サブスク解約妨害規制",
+      "variant": "neutral"
     },
     {
-      "text": "ダークパターン禁止",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "ダークパターン禁止",
+      "variant": "neutral"
     },
     {
-      "text": "ワンクリック解約義務化",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "ワンクリック解約義務化",
+      "variant": "neutral"
     }
   ],
   "highlights": [

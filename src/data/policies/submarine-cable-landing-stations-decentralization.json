@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "北海道・九州・日本海側へ分散",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "北海道・九州・日本海側へ分散",
+      "variant": "neutral"
     },
     {
-      "text": "日本周回ルートで陸上寸断を回避",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "日本周回ルートで陸上寸断を回避",
+      "variant": "neutral"
     },
     {
-      "text": "再エネ豊富な地方DCと直結",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "再エネ豊富な地方DCと直結",
+      "variant": "neutral"
     }
   ],
   "highlights": [

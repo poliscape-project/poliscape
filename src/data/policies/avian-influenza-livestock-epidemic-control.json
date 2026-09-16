@@ -174,16 +174,16 @@
   ],
   "badges": [
     {
-      "text": "1,771万羽殺処分・卵高騰",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "1,771万羽殺処分・卵高騰",
+      "variant": "neutral"
     },
     {
-      "text": "分割管理（スプリット）容認",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "分割管理（スプリット）容認",
+      "variant": "neutral"
     },
     {
-      "text": "国の手当金・再建支援",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "国の手当金・再建支援",
+      "variant": "neutral"
     }
   ],
   "highlights": [

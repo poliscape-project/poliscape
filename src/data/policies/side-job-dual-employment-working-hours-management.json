@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "副業・兼業の原則容認",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "副業・兼業の原則容認",
+      "variant": "neutral"
     },
     {
-      "text": "労働時間通算と25%残業代",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "労働時間通算と25%残業代",
+      "variant": "neutral"
     },
     {
-      "text": "収入複数化と過労防止",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "収入複数化と過労防止",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -129,16 +129,16 @@
   ],
   "badges": [
     {
-      "text": "火山調査研究推進本部の創設",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "火山調査研究推進本部の創設",
+      "variant": "neutral"
     },
     {
-      "text": "山頂噴石シェルター整備",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "山頂噴石シェルター整備",
+      "variant": "neutral"
     },
     {
-      "text": "登山届義務・ヘルメット携行",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "登山届義務・ヘルメット携行",
+      "variant": "neutral"
     }
   ],
   "highlights": [

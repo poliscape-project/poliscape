@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "証券口座でビットコイン",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "証券口座でビットコイン",
+      "variant": "neutral"
     },
     {
-      "text": "20%申告分離課税化",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "20%申告分離課税化",
+      "variant": "neutral"
     },
     {
-      "text": "NISA投資の可能性",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "NISA投資の可能性",
+      "variant": "neutral"
     }
   ],
   "highlights": [

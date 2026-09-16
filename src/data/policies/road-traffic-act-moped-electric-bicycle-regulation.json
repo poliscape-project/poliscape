@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "ペダル走行時も原付扱い",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "ペダル走行時も原付扱い",
+      "variant": "neutral"
     },
     {
-      "text": "免許・ヘルメット必須",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "免許・ヘルメット必須",
+      "variant": "neutral"
     },
     {
-      "text": "歩道走行は一律禁止",
-      "color": "bg-amber-50 text-amber-800"
+      "label": "歩道走行は一律禁止",
+      "variant": "neutral"
     }
   ],
   "highlights": [

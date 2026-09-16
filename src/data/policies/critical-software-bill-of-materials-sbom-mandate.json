@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "重要システム・医療機器へのSBOM添付義務化",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "重要システム・医療機器へのSBOM添付義務化",
+      "variant": "neutral"
     },
     {
-      "text": "数分以内の脆弱性箇所自動特定",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "数分以内の脆弱性箇所自動特定",
+      "variant": "neutral"
     },
     {
-      "text": "医療機器プログラム薬事承認におけるSBOM必須化",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "医療機器プログラム薬事承認におけるSBOM必須化",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "看護休暇を小3まで拡大",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "看護休暇を小3まで拡大",
+      "variant": "neutral"
     },
     {
-      "text": "学級閉鎖・行事も対象化",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "学級閉鎖・行事も対象化",
+      "variant": "neutral"
     },
     {
-      "text": "テレワーク措置を義務化",
-      "color": "bg-amber-50 text-amber-800"
+      "label": "テレワーク措置を義務化",
+      "variant": "neutral"
     }
   ],
   "highlights": [

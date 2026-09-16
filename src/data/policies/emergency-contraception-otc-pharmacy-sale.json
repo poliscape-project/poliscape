@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "緊急避妊薬の処方箋なし薬局販売",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "緊急避妊薬の処方箋なし薬局販売",
+      "variant": "neutral"
     },
     {
-      "text": "72時間以内の早期アクセス",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "72時間以内の早期アクセス",
+      "variant": "neutral"
     },
     {
-      "text": "全国145薬局での試験運用",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "全国145薬局での試験運用",
+      "variant": "neutral"
     }
   ],
   "highlights": [

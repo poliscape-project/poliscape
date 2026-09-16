@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "未成年スマホ・SNS利用指針",
-      "color": "bg-amber-100 text-amber-900"
+      "label": "未成年スマホ・SNS利用指針",
+      "variant": "neutral"
     },
     {
-      "text": "海外16歳未満禁止法の波及",
-      "color": "bg-purple-50 text-purple-800"
+      "label": "海外16歳未満禁止法の波及",
+      "variant": "neutral"
     },
     {
-      "text": "年齢確認技術の実装義務化",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "年齢確認技術の実装義務化",
+      "variant": "neutral"
     }
   ],
   "highlights": [

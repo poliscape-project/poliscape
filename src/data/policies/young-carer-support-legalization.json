@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "ヤングケアラー支援の法制化",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "ヤングケアラー支援の法制化",
+      "variant": "neutral"
     },
     {
-      "text": "中高生17〜24人に1人の実態",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "中高生17〜24人に1人の実態",
+      "variant": "neutral"
     },
     {
-      "text": "学校・福祉連携とヘルパー派遣",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "学校・福祉連携とヘルパー派遣",
+      "variant": "neutral"
     }
   ],
   "highlights": [

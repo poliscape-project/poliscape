@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "法定雇用率2.7%へ段階引き上げ",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "法定雇用率2.7%へ段階引き上げ",
+      "variant": "neutral"
     },
     {
-      "text": "週10時間超短時間雇用の解禁",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "週10時間超短時間雇用の解禁",
+      "variant": "neutral"
     },
     {
-      "text": "貸し農園代行ビジネスの規制",
-      "color": "bg-amber-100 text-amber-900"
+      "label": "貸し農園代行ビジネスの規制",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "BBNJ公海生物多様性条約",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "BBNJ公海生物多様性条約",
+      "variant": "neutral"
     },
     {
-      "text": "海の30%保護区化",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "海の30%保護区化",
+      "variant": "neutral"
     },
     {
-      "text": "遠洋漁業への影響懸念",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "遠洋漁業への影響懸念",
+      "variant": "neutral"
     }
   ],
   "highlights": [

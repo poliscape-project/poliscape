@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "霊感商法取消期間を10年へ",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "霊感商法取消期間を10年へ",
+      "variant": "neutral"
     },
     {
-      "text": "家族への害悪告知も対象",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "家族への害悪告知も対象",
+      "variant": "neutral"
     },
     {
-      "text": "解約料の根拠説明ルール",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "解約料の根拠説明ルール",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "終身刑創設の議論",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "終身刑創設の議論",
+      "variant": "neutral"
     },
     {
-      "text": "冤罪不可逆性の防止",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "冤罪不可逆性の防止",
+      "variant": "neutral"
     },
     {
-      "text": "国民世論8割容認",
-      "color": "bg-slate-100 text-slate-700"
+      "label": "国民世論8割容認",
+      "variant": "neutral"
     }
   ],
   "highlights": [

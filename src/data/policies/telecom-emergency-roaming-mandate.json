@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "携帯4社の緊急ローミング",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "携帯4社の緊急ローミング",
+      "variant": "neutral"
     },
     {
-      "text": "119番緊急通報を優先確保",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "119番緊急通報を優先確保",
+      "variant": "neutral"
     },
     {
-      "text": "大規模障害・災害時の相互接続",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "大規模障害・災害時の相互接続",
+      "variant": "neutral"
     }
   ],
   "highlights": [

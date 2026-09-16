@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "最大80%キャッシュバック",
-      "color": "bg-violet-50 text-violet-800"
+      "label": "最大80%キャッシュバック",
+      "variant": "neutral"
     },
     {
-      "text": "年間上限64万円へ拡充",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "年間上限64万円へ拡充",
+      "variant": "neutral"
     },
     {
-      "text": "在職中休業給付新設",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "在職中休業給付新設",
+      "variant": "neutral"
     }
   ],
   "highlights": [

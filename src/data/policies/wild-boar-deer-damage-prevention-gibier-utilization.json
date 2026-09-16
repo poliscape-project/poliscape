@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "鳥獣捕獲報奨金",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "鳥獣捕獲報奨金",
+      "variant": "neutral"
     },
     {
-      "text": "ICT罠・ドローン",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "ICT罠・ドローン",
+      "variant": "neutral"
     },
     {
-      "text": "国産ジビエ認証",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "国産ジビエ認証",
+      "variant": "neutral"
     }
   ],
   "highlights": [

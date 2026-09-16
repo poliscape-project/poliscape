@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "ネット必須業務化",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "ネット必須業務化",
+      "variant": "neutral"
     },
     {
-      "text": "アプリ登録で受信料",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "アプリ登録で受信料",
+      "variant": "neutral"
     },
     {
-      "text": "テレビなし世帯対象",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "テレビなし世帯対象",
+      "variant": "neutral"
     }
   ],
   "highlights": [

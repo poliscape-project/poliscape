@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "要介護1・2の総合事業移行案",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "要介護1・2の総合事業移行案",
+      "variant": "neutral"
     },
     {
-      "text": "軽度者の保険給付外し議論",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "軽度者の保険給付外し議論",
+      "variant": "neutral"
     },
     {
-      "text": "早期重度化・家族負担の懸念",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "早期重度化・家族負担の懸念",
+      "variant": "neutral"
     }
   ],
   "highlights": [

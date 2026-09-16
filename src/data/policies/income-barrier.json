@@ -168,16 +168,16 @@
   ],
   "badges": [
     {
-      "text": "103万円（税の壁）",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "103万円（税の壁）",
+      "variant": "neutral"
     },
     {
-      "text": "106万・130万（社保の壁）",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "106万・130万（社保の壁）",
+      "variant": "neutral"
     },
     {
-      "text": "手取りの崖解消へ",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "手取りの崖解消へ",
+      "variant": "neutral"
     }
   ],
   "highlights": [

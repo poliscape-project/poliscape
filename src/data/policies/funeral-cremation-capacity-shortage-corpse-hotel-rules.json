@@ -160,16 +160,16 @@
   ],
   "badges": [
     {
-      "text": "火葬場の稼働枠拡大",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "火葬場の稼働枠拡大",
+      "variant": "neutral"
     },
     {
-      "text": "民間保管施設の衛生安全基準",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "民間保管施設の衛生安全基準",
+      "variant": "neutral"
     },
     {
-      "text": "近隣説明と立地調和ルール",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "近隣説明と立地調和ルール",
+      "variant": "neutral"
     }
   ],
   "highlights": [

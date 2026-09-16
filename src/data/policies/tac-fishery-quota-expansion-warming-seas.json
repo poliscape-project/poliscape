@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "TAC漁獲枠8割へ",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "TAC漁獲枠8割へ",
+      "variant": "neutral"
     },
     {
-      "text": "個別割当（IQ）方式",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "個別割当（IQ）方式",
+      "variant": "neutral"
     },
     {
-      "text": "魚種交代への対応",
-      "color": "bg-amber-100 text-amber-900"
+      "label": "魚種交代への対応",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "空港民営化・コンセ",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "空港民営化・コンセ",
+      "variant": "neutral"
     },
     {
-      "text": "保安検査員不足・行列",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "保安検査員不足・行列",
+      "variant": "neutral"
     },
     {
-      "text": "CTスマートレーン",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "CTスマートレーン",
+      "variant": "neutral"
     }
   ],
   "highlights": [

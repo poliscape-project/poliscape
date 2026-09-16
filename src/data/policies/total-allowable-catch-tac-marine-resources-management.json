@@ -122,16 +122,16 @@
   ],
   "badges": [
     {
-      "text": "TAC漁獲枠拡大",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "TAC漁獲枠拡大",
+      "variant": "neutral"
     },
     {
-      "text": "IQ個別割当方式",
-      "color": "bg-indigo-50 text-indigo-700 border-indigo-200"
+      "label": "IQ個別割当方式",
+      "variant": "neutral"
     },
     {
-      "text": "未成魚保護",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "未成魚保護",
+      "variant": "neutral"
     }
   ],
   "highlights": [

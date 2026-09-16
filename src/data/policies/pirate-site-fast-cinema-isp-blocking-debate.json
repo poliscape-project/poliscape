@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "海賊版アクセス強制遮断",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "海賊版アクセス強制遮断",
+      "variant": "neutral"
     },
     {
-      "text": "コンテンツ産業の死活問題",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "コンテンツ産業の死活問題",
+      "variant": "neutral"
     },
     {
-      "text": "通信の秘密・憲法21条",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "通信の秘密・憲法21条",
+      "variant": "neutral"
     }
   ],
   "highlights": [

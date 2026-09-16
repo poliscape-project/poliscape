@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "毎年の歯科健診を推進",
-      "color": "bg-amber-50 text-amber-700 border-amber-200"
+      "label": "毎年の歯科健診を推進",
+      "variant": "neutral"
     },
     {
-      "text": "低廉な自己負担で受診可能に",
-      "color": "bg-rose-50 text-rose-700 border-rose-200"
+      "label": "低廉な自己負担で受診可能に",
+      "variant": "neutral"
     },
     {
-      "text": "健診結果をデジタル管理",
-      "color": "bg-teal-50 text-teal-700 border-teal-200"
+      "label": "健診結果をデジタル管理",
+      "variant": "neutral"
     }
   ],
   "highlights": [

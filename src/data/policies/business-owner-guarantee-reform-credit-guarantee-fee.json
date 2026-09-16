@@ -154,16 +154,16 @@
   ],
   "badges": [
     {
-      "text": "保証料上乗せで個人保証解除",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "保証料上乗せで個人保証解除",
+      "variant": "neutral"
     },
     {
-      "text": "二重保証の原則禁止",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "二重保証の原則禁止",
+      "variant": "neutral"
     },
     {
-      "text": "銀行の説明義務化",
-      "color": "bg-amber-50 text-amber-800"
+      "label": "銀行の説明義務化",
+      "variant": "neutral"
     }
   ],
   "highlights": [

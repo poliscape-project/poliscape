@@ -130,16 +130,16 @@
   ],
   "badges": [
     {
-      "text": "1km数円の走行税",
-      "color": "bg-blue-50 text-blue-800"
+      "label": "1km数円の走行税",
+      "variant": "neutral"
     },
     {
-      "text": "EV道路維持負担",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "EV道路維持負担",
+      "variant": "neutral"
     },
     {
-      "text": "地方負担増の批判",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "地方負担増の批判",
+      "variant": "neutral"
     }
   ],
   "highlights": [

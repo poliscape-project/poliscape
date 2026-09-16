@@ -122,16 +122,16 @@
   ],
   "badges": [
     {
-      "text": "副業労災全合算",
-      "color": "bg-emerald-50 text-emerald-700 border-emerald-200"
+      "label": "副業労災全合算",
+      "variant": "neutral"
     },
     {
-      "text": "複数賃金補償",
-      "color": "bg-blue-50 text-blue-700 border-blue-200"
+      "label": "複数賃金補償",
+      "variant": "neutral"
     },
     {
-      "text": "過労死合算判定",
-      "color": "bg-purple-50 text-purple-700 border-purple-200"
+      "label": "過労死合算判定",
+      "variant": "neutral"
     }
   ],
   "highlights": [

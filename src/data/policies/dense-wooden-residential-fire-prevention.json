@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "木造密集地域（木密）解消",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "木造密集地域（木密）解消",
+      "variant": "neutral"
     },
     {
-      "text": "特定防災道路の拡幅整備",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "特定防災道路の拡幅整備",
+      "variant": "neutral"
     },
     {
-      "text": "解体費全額助成・固定資産税免除",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "解体費全額助成・固定資産税免除",
+      "variant": "neutral"
     }
   ],
   "highlights": [

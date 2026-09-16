@@ -128,16 +128,16 @@
   ],
   "badges": [
     {
-      "text": "離島への処方薬ドローン空輸",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "離島への処方薬ドローン空輸",
+      "variant": "neutral"
     },
     {
-      "text": "有人地帯レベル4目視外飛行",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "有人地帯レベル4目視外飛行",
+      "variant": "neutral"
     },
     {
-      "text": "オンライン診療即日受取",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "オンライン診療即日受取",
+      "variant": "neutral"
     }
   ],
   "highlights": [

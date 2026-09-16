@@ -129,16 +129,16 @@
   ],
   "badges": [
     {
-      "text": "海賊版撲滅・国際共同摘発",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "海賊版撲滅・国際共同摘発",
+      "variant": "neutral"
     },
     {
-      "text": "世界同時多言語配信DX",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "世界同時多言語配信DX",
+      "variant": "neutral"
     },
     {
-      "text": "アニメーター対価還元",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "アニメーター対価還元",
+      "variant": "neutral"
     }
   ],
   "highlights": [

@@ -144,16 +144,16 @@
   ],
   "badges": [
     {
-      "text": "特養相部屋に月約8,000円室料",
-      "color": "bg-amber-50 text-amber-900"
+      "label": "特養相部屋に月約8,000円室料",
+      "variant": "neutral"
     },
     {
-      "text": "ユニット個室との公平性",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "ユニット個室との公平性",
+      "variant": "neutral"
     },
     {
-      "text": "低年金高齢者の退所リスク",
-      "color": "bg-rose-50 text-rose-800"
+      "label": "低年金高齢者の退所リスク",
+      "variant": "neutral"
     }
   ],
   "highlights": [

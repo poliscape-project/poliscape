@@ -174,16 +174,16 @@
   ],
   "badges": [
     {
-      "text": "牛のゲップメタン2〜3割減",
-      "color": "bg-emerald-50 text-emerald-800"
+      "label": "牛のゲップメタン2〜3割減",
+      "variant": "neutral"
     },
     {
-      "text": "海藻・カシューナッツ油添加",
-      "color": "bg-teal-50 text-teal-800"
+      "label": "海藻・カシューナッツ油添加",
+      "variant": "neutral"
     },
     {
-      "text": "ふん尿バイオガス発電",
-      "color": "bg-indigo-50 text-indigo-800"
+      "label": "ふん尿バイオガス発電",
+      "variant": "neutral"
     }
   ],
   "highlights": [
