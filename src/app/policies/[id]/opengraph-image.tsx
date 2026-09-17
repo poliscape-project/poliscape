@@ -171,7 +171,7 @@ export default async function Image({ params }: Props) {
             fontWeight: "bold",
           }}
         >
-          PoliScape
+          日本政策図鑑
         </div>
       ),
       { width: 1200, height: 630 }
@@ -254,23 +254,13 @@ export default async function Image({ params }: Props) {
           <span
             style={{
               color: "#ffffff",
-              fontSize: "25px",
+              fontSize: "24px",
               fontWeight: "900",
-              letterSpacing: "0.02em",
+              letterSpacing: "-0.5px",
               textShadow: "0 2px 6px rgba(0,0,0,0.35)",
             }}
           >
-            PoliScape
-          </span>
-          <span
-            style={{
-              color: "#ffffffdd",
-              fontSize: "19px",
-              fontWeight: "600",
-              textShadow: "0 2px 6px rgba(0,0,0,0.35)",
-            }}
-          >
-            ポリスケープ
+            日本政策図鑑
           </span>
           <span
             style={{
@@ -280,7 +270,7 @@ export default async function Image({ params }: Props) {
               textShadow: "0 1px 4px rgba(0,0,0,0.3)",
             }}
           >
-            | 公的データ政策プラットフォーム
+            | くらしに関わる国のルールを、データと図解で
           </span>
         </div>
 

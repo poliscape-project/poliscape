@@ -22,30 +22,30 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const law = getFoundationLawById(id);
   if (!law) {
     return {
-      title: "法律が見つかりません | ポリスケープ",
+      title: "法律が見つかりません | 日本政策図鑑",
     };
   }
 
   return {
-    title: `${law.name} の要点・課題と関連政策 | ポリスケープ`,
+    title: `${law.name} の要点・課題と関連政策 | 日本政策図鑑`,
     description: law.catchphrase,
     openGraph: {
-      title: `${law.name} の要点・課題と関連政策 | ポリスケープ`,
+      title: `${law.name} の要点・課題と関連政策 | 日本政策図鑑`,
       description: law.catchphrase,
       images: [
         {
-          url: "/og-image.png",
+          url: "/brand/x_header.jpg",
           width: 1200,
-          height: 630,
+          height: 675,
           alt: law.name,
         },
       ],
     },
     twitter: {
       card: "summary_large_image",
-      title: `${law.name} の要点・課題と関連政策 | ポリスケープ`,
+      title: `${law.name} の要点・課題と関連政策 | 日本政策図鑑`,
       description: law.catchphrase,
-      images: ["/og-image.png"],
+      images: ["/brand/x_header.jpg"],
     },
   };
 }

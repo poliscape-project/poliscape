@@ -121,7 +121,7 @@ export const PolicyModals: React.FC = () => {
                 {activeModal === "disclaimer" && <AlertCircle className="w-5 h-5 text-amber-600" />}
                 {activeModal === "privacy" && <FileText className="w-5 h-5 text-slate-600" />}
                 <h2 className="text-lg font-bold text-slate-900">
-                  {activeModal === "about" && "当サイトについて (PoliScape)"}
+                  {activeModal === "about" && "当サイトについて (日本政策図鑑)"}
                   {activeModal === "neutrality" && "中立性・編集方針"}
                   {activeModal === "disclaimer" && "免責事項・注意事項"}
                   {activeModal === "privacy" && "プライバシーポリシー"}
@@ -142,7 +142,7 @@ export const PolicyModals: React.FC = () => {
               {activeModal === "about" && (
                 <>
                   <p>
-                    <strong>ポリスケープ (PoliScape)</strong> は、複雑になりがちな国の政策や制度変更を、公的データに基づいて誰にでもわかりやすく可視化する非営利のシビックテックプロジェクトです。
+                    <strong>日本政策図鑑</strong> は、複雑になりがちな国の政策や制度変更を、公的データに基づいて誰にでもわかりやすく可視化する非営利のシビックテックプロジェクトです。
                   </p>
                   <p>
                     「政治や政策は難しくて自分に関係ないように思える」「メディアの切り取りやSNSの対立煽りで何が事実かわからない」という課題を解消し、ひとりひとりが客観的なデータに基づいてくらしの選択肢を持てる社会を目指しています。
@@ -150,7 +150,7 @@ export const PolicyModals: React.FC = () => {
                   <div className="bg-slate-50 p-3.5 rounded-xl border border-slate-200 text-xs">
                     <p className="font-semibold text-slate-800 mb-1">プロジェクトの柱</p>
                     <ul className="list-disc pl-4 space-y-1 text-slate-600">
-                      <li>全500政策の網羅的アーカイブとタイムライン整理</li>
+                      <li>全1500政策の網羅的アーカイブとタイムライン整理</li>
                       <li>3行要約・ビフォーアフター・特大数字による直感的理解</li>
                       <li>専門知識なしで使える37種類の個別家計シミュレーター＆判定ナビ</li>
                       <li>やさしい日本語モードによるアクセシビリティ担保</li>

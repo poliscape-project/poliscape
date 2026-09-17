@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const policy = getPolicyById(id);
   if (!policy) {
     return {
-      title: "政策が見つかりません | ポリスケープ",
+      title: "政策が見つかりません | 日本政策図鑑",
     };
   }
 
@@ -29,12 +29,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     title: policy.title,
     description: policy.catchphrase,
     openGraph: {
-      title: `${policy.title} | ポリスケープ`,
+      title: `${policy.title} | 日本政策図鑑`,
       description: policy.catchphrase,
     },
     twitter: {
       card: "summary_large_image",
-      title: `${policy.title} | ポリスケープ`,
+      title: `${policy.title} | 日本政策図鑑`,
       description: policy.catchphrase,
     },
   };

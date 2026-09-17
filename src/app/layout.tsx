@@ -14,35 +14,35 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "PoliScape ポリスケープ | 公的データと客観的事実で知る、日本の政策カタログ",
-    template: "%s | PoliScape ポリスケープ",
+    default: "日本政策図鑑 | くらしに関わる国のルールを、データと図解で",
+    template: "%s | 日本政策図鑑",
   },
-  description: "公的データと客観的事実で知る、日本の政策カタログ。1500件以上の政策を両論併記・一次情報ソース付きでわかりやすく解説するシビックテックツール。",
-  keywords: ["政策", "政治", "シビックテック", "給付金", "減税", "一次情報", "両論併記", "ポリスケープ", "PoliScape"],
-  authors: [{ name: "PoliScape Project" }],
-  creator: "PoliScape Project",
-  publisher: "PoliScape Project",
+  description: "くらしに関わる国のルールを、データと図解で。1500件以上の政策を両論併記・一次情報ソース付きでわかりやすく解説するシビックテックツール。",
+  keywords: ["政策", "制度", "日本政策図鑑", "シビックテック", "給付金", "減税", "一次情報", "両論併記", "国のルール", "法律"],
+  authors: [{ name: "日本政策図鑑" }],
+  creator: "日本政策図鑑",
+  publisher: "日本政策図鑑",
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://poliscape.vercel.app"),
   openGraph: {
-    title: "PoliScape ポリスケープ | 公的データと客観的事実で知る、日本の政策カタログ",
-    description: "公的データと客観的事実で知る、日本の政策カタログ。1500件以上の政策を両論併記・一次情報ソース付きでわかりやすく解説。",
-    siteName: "PoliScape ポリスケープ",
+    title: "日本政策図鑑 | くらしに関わる国のルールを、データと図解で",
+    description: "くらしに関わる国のルールを、データと図解で。1500件以上の政策を両論併記・一次情報ソース付きでわかりやすく解説。",
+    siteName: "日本政策図鑑",
     locale: "ja_JP",
     type: "website",
     images: [
       {
-        url: "/og-image.png",
+        url: "/brand/x_header.jpg",
         width: 1200,
-        height: 630,
-        alt: "PoliScape ポリスケープ - 公的データと客観的事実で知る、日本の政策カタログ",
+        height: 675,
+        alt: "日本政策図鑑 - くらしに関わる国のルールを、データと図解で",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "PoliScape ポリスケープ | 公的データと客観的事実で知る、日本の政策カタログ",
-    description: "公的データと客観的事実で知る、日本の政策カタログ。1500件以上の政策を両論併記・一次情報ソース付きでわかりやすく解説。",
-    images: ["/og-image.png"],
+    title: "日本政策図鑑 | くらしに関わる国のルールを、データと図解で",
+    description: "くらしに関わる国のルールを、データと図解で。1500件以上の政策を両論併記・一次情報ソース付きでわかりやすく解説。",
+    images: ["/brand/x_header.jpg"],
   },
 };
 

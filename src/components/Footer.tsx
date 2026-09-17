@@ -8,7 +8,7 @@ export const Footer: React.FC = () => {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-6">
         <div>
           <p className="font-semibold text-slate-800">
-            ポリスケープ (PoliScape) - 初心者のための政策可視化オープンプロジェクト
+            日本政策図鑑 - くらしに関わる国のルールを、データと図解で
           </p>
           <p className="mt-1 text-slate-500">
             本サイトは、公的一次情報をもとに中立・教育目的で制作されたシビックテックツールです。
@@ -34,7 +34,7 @@ export const Footer: React.FC = () => {
             <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500" />
           </span>
           <p className="text-[11px] text-slate-400">
-            © {new Date().getFullYear()} PoliScape Project
+            © {new Date().getFullYear()} 日本政策図鑑
           </p>
         </div>
       </div>

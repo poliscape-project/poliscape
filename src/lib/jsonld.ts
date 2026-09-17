@@ -13,8 +13,8 @@ export function generateWebsiteJsonLd() {
         "@type": "WebSite",
         "@id": `${BASE_URL}/#website`,
         "url": BASE_URL,
-        "name": "PoliScape (ポリスケープ)",
-        "description": "公的データと客観的事実で知る、日本の政策カタログ",
+        "name": "日本政策図鑑",
+        "description": "くらしに関わる国のルールを、データと図解で",
         "publisher": {
           "@id": `${BASE_URL}/#organization`,
         },
@@ -31,16 +31,15 @@ export function generateWebsiteJsonLd() {
       {
         "@type": "Organization",
         "@id": `${BASE_URL}/#organization`,
-        "name": "PoliScape Project",
+        "name": "日本政策図鑑",
         "url": BASE_URL,
         "logo": {
           "@type": "ImageObject",
-          "url": `${BASE_URL}/og-image.png`,
+          "url": `${BASE_URL}/brand/x_header.jpg`,
           "width": 1200,
-          "height": 630,
+          "height": 675,
         },
         "sameAs": [
-          "https://x.com/poliscape_jp",
           "https://github.com/poliscape-project/poliscape",
         ],
       },
@@ -106,16 +105,16 @@ export function generatePolicyJsonLd(policy: PolicyTopic) {
     "inLanguage": "ja",
     "author": {
       "@type": "Organization",
-      "name": "PoliScape Project",
+      "name": "日本政策図鑑",
       "url": BASE_URL,
     },
     "publisher": {
       "@type": "Organization",
-      "name": "PoliScape (ポリスケープ)",
+      "name": "日本政策図鑑",
       "url": BASE_URL,
       "logo": {
         "@type": "ImageObject",
-        "url": `${BASE_URL}/og-image.png`,
+        "url": `${BASE_URL}/brand/x_header.jpg`,
       },
     },
     ...(citations.length > 0 ? { "citation": citations } : {}),
