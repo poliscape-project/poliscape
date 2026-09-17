@@ -366,6 +366,7 @@ import disabilityGroupHomeNightCareAllowanceReformData from "@/data/policies/dis
 import disabilityGroupHomeSprinklerRetrofitMandateData from "@/data/policies/disability-group-home-sprinkler-retrofit-mandate.json";
 import disabilityPensionIncomeEarningRulesSimplificationData from "@/data/policies/disability-pension-income-earning-rules-simplification.json";
 import disabilityPensionMentalDisorderCriteriaStandardizationData from "@/data/policies/disability-pension-mental-disorder-criteria-standardization.json";
+import disabilityPensionSystemData from "@/data/policies/disability-pension-system.json";
 import disabilitySupportedEmploymentMinimumWageParityData from "@/data/policies/disability-supported-employment-minimum-wage-parity.json";
 import disabledWorkersStatutoryQuota27PercentHikeActData from "@/data/policies/disabled-workers-statutory-quota-27-percent-hike-act.json";
 import disasterBaseHospitalEmergencyPower72hourWaterResilienceData from "@/data/policies/disaster-base-hospital-emergency-power-72hour-water-resilience.json";
@@ -461,6 +462,7 @@ import emergencyPowerSupplyDialysisHospitalMandateData from "@/data/policies/eme
 import emergencyRoomAiTriageSeverityAssessmentInsuranceActData from "@/data/policies/emergency-room-ai-triage-severity-assessment-insurance-act.json";
 import emergencySatelliteDirectToCellularDisasterAlertActData from "@/data/policies/emergency-satellite-direct-to-cellular-disaster-alert-act.json";
 import emergencyTransportDifficultCaseRealtimeHospitalBedNetworkData from "@/data/policies/emergency-transport-difficult-case-realtime-hospital-bed-network.json";
+import employmentInsuranceBasicAllowanceData from "@/data/policies/employment-insurance-basic-allowance.json";
 import endOfLifeCareLivingWillDeathWithDignityLegislationData from "@/data/policies/end-of-life-care-living-will-death-with-dignity-legislation.json";
 import energySubsidiesData from "@/data/policies/energy-subsidies.json";
 import epilepsyRegionalCareHubHospitalCoordinatorPlacementData from "@/data/policies/epilepsy-regional-care-hub-hospital-coordinator-placement.json";
@@ -621,6 +623,7 @@ import heavyDutyFuelCellHydrogenTruckExpresswayCorridorData from "@/data/policie
 import heavySnowfallResilientRoofMeltingRoadSnowClearingAidData from "@/data/policies/heavy-snowfall-resilient-roof-melting-road-snow-clearing-aid.json";
 import highCostMedicalCapData from "@/data/policies/high-cost-medical-cap.json";
 import highCostMedicalExpenseAssetBasedIncomeBracketActData from "@/data/policies/high-cost-medical-expense-asset-based-income-bracket-act.json";
+import highCostMedicalExpenseMultipleTimesCombinedData from "@/data/policies/high-cost-medical-expense-multiple-times-combined.json";
 import highDenominationBanknotePhaseoutCashlessPromotionData from "@/data/policies/high-denomination-banknote-phaseout-cashless-promotion.json";
 import highLevelNuclearWasteFinalDisposalSurveyData from "@/data/policies/high-level-nuclear-waste-final-disposal-survey.json";
 import highProfessionalSystemData from "@/data/policies/high-professional-system.json";
@@ -693,6 +696,7 @@ import inheritanceGiftTaxSevenYearsData from "@/data/policies/inheritance-gift-t
 import inheritanceRegistrationData from "@/data/policies/inheritance-registration.json";
 import inheritanceTaxGiftTaxSettlementCalendarIntegrationData from "@/data/policies/inheritance-tax-gift-tax-settlement-calendar-integration.json";
 import inheritedLandNationalTreasuryEscheatData from "@/data/policies/inherited-land-national-treasury-escheat.json";
+import injurySicknessAllowanceHealthInsuranceData from "@/data/policies/injury-sickness-allowance-health-insurance.json";
 import inmateWorkCompensationIncreaseReleaseSavingsSystemData from "@/data/policies/inmate-work-compensation-increase-release-savings-system.json";
 import inquiryBasedLearningYouthEntrepreneurshipHubGrantData from "@/data/policies/inquiry-based-learning-youth-entrepreneurship-hub-grant.json";
 import installmentSalesActBnplCreditAssessmentData from "@/data/policies/installment-sales-act-bnpl-credit-assessment.json";
@@ -756,7 +760,9 @@ import kyutokuhoTeacherSalarySpecialMeasuresReformData from "@/data/policies/kyu
 import laborContractActFiveYearIndefiniteTermConversionBarrierData from "@/data/policies/labor-contract-act-five-year-indefinite-term-conversion-barrier.json";
 import laborInspectionAiRiskScoringUnpaidOvertimeAuditData from "@/data/policies/labor-inspection-ai-risk-scoring-unpaid-overtime-audit.json";
 import laborStandardsActFifteenMinuteIncrementRoundingBanData from "@/data/policies/labor-standards-act-fifteen-minute-increment-rounding-ban.json";
+import laborStandardsAnnualPaidLeaveData from "@/data/policies/labor-standards-annual-paid-leave.json";
 import laborStandardsInspectionOfficeAiDigitalAuditSystemData from "@/data/policies/labor-standards-inspection-office-ai-digital-audit-system.json";
+import laborStandardsStatutoryWorkingHoursOvertimeData from "@/data/policies/labor-standards-statutory-working-hours-overtime.json";
 import landBasedAquacultureRasDeregulationData from "@/data/policies/land-based-aquaculture-ras-deregulation.json";
 import landBasedRecirculatingAquacultureRasSalmonGrantData from "@/data/policies/land-based-recirculating-aquaculture-ras-salmon-grant.json";
 import landRegistrySurveyTenYearAccelerationPlanData from "@/data/policies/land-registry-survey-ten-year-acceleration-plan.json";
@@ -887,6 +893,7 @@ import nuclearPowerOperation60yearsData from "@/data/policies/nuclear-power-oper
 import nuclearPowerPlantLifespanExtensionOver60YearsData from "@/data/policies/nuclear-power-plant-lifespan-extension-over-60-years.json";
 import nuclearPowerPlants60YearExtensionGxLawData from "@/data/policies/nuclear-power-plants-60-year-extension-gx-law.json";
 import nursingCareCopayData from "@/data/policies/nursing-care-copay.json";
+import nursingCareInsuranceCareLevelCertificationData from "@/data/policies/nursing-care-insurance-care-level-certification.json";
 import nursingCareStaffWageIncreaseSubsidyExpansionData from "@/data/policies/nursing-care-staff-wage-increase-subsidy-expansion.json";
 import nursingHomeMultiBedRoomChargeData from "@/data/policies/nursing-home-multi-bed-room-charge.json";
 import occupationalSafetyActHeatstrokeWorkplaceMandateData from "@/data/policies/occupational-safety-act-heatstroke-workplace-mandate.json";
@@ -1029,6 +1036,7 @@ import psychiatricBedReductionCommunityTransitionCompactActData from "@/data/pol
 import psychiatricDisabilityShortTimeEmploymentQuotaParityData from "@/data/policies/psychiatric-disability-short-time-employment-quota-parity.json";
 import psychiatricHomeVisitNursingMultidisciplinaryCrisisTeamData from "@/data/policies/psychiatric-home-visit-nursing-multidisciplinary-crisis-team.json";
 import psychiatricHomeVisitNursingTwentyFourHourBonusData from "@/data/policies/psychiatric-home-visit-nursing-twenty-four-hour-bonus.json";
+import publicAssistanceSystemData from "@/data/policies/public-assistance-system.json";
 import publicBathSentoCulturalHeritagePreservationSubsidiesData from "@/data/policies/public-bath-sento-cultural-heritage-preservation-subsidies.json";
 import publicDocumentManagementActElectronicPreservationData from "@/data/policies/public-document-management-act-electronic-preservation.json";
 import publicElementaryJuniorHighSupplementaryMaterialsFreeData from "@/data/policies/public-elementary-junior-high-supplementary-materials-free.json";
@@ -1350,6 +1358,7 @@ import supercriticalGeothermalDeepDrillingExplorationSubsidyData from "@/data/po
 import supplyChainCarbonFootprintLabelDisplayDutyData from "@/data/policies/supply-chain-carbon-footprint-label-display-duty.json";
 import supremeCourtJudgeNationalReviewOverseasVotingActData from "@/data/policies/supreme-court-judge-national-review-overseas-voting-act.json";
 import survivorsPensionGenderNeutralReformData from "@/data/policies/survivors-pension-gender-neutral-reform.json";
+import survivorsPensionSystemData from "@/data/policies/survivors-pension-system.json";
 import sustainabilityDisclosureStandardsSsbjMandatoryDutyData from "@/data/policies/sustainability-disclosure-standards-ssbj-mandatory-duty.json";
 import sustainableAviationFuelSafDomesticAirportQuotaActData from "@/data/policies/sustainable-aviation-fuel-saf-domestic-airport-quota-act.json";
 import synchrotronRadiationNanoterasuIndustrialUtilizationData from "@/data/policies/synchrotron-radiation-nanoterasu-industrial-utilization.json";
@@ -1483,6 +1492,7 @@ import woodyBiomassUnusedThinnedTimberLocalEnergySubsidyData from "@/data/polici
 import workerCooperativeTaxExemptionCommunityActData from "@/data/policies/worker-cooperative-tax-exemption-community-act.json";
 import workerDispatchActEqualPayForEqualWorkAuditData from "@/data/policies/worker-dispatch-act-equal-pay-for-equal-work-audit.json";
 import workerProtectionHeatAlertConstructionSiteSuspensionData from "@/data/policies/worker-protection-heat-alert-construction-site-suspension.json";
+import workersCompensationInsuranceSystemData from "@/data/policies/workers-compensation-insurance-system.json";
 import workersCompensationTeleworkHomeInjuryStandardsData from "@/data/policies/workers-compensation-telework-home-injury-standards.json";
 import workingHoursIntervalDeclarationPublicProcurementBonusData from "@/data/policies/working-hours-interval-declaration-public-procurement-bonus.json";
 import workingHoursIntervalSystemRestMandateDebateData from "@/data/policies/working-hours-interval-system-rest-mandate-debate.json";
@@ -1868,6 +1878,7 @@ export const policies: PolicyTopic[] = [
   disabilityGroupHomeSprinklerRetrofitMandateData as unknown as PolicyTopic,
   disabilityPensionIncomeEarningRulesSimplificationData as unknown as PolicyTopic,
   disabilityPensionMentalDisorderCriteriaStandardizationData as unknown as PolicyTopic,
+  disabilityPensionSystemData as unknown as PolicyTopic,
   disabilitySupportedEmploymentMinimumWageParityData as unknown as PolicyTopic,
   disabledWorkersStatutoryQuota27PercentHikeActData as unknown as PolicyTopic,
   disasterBaseHospitalEmergencyPower72hourWaterResilienceData as unknown as PolicyTopic,
@@ -1963,6 +1974,7 @@ export const policies: PolicyTopic[] = [
   emergencyRoomAiTriageSeverityAssessmentInsuranceActData as unknown as PolicyTopic,
   emergencySatelliteDirectToCellularDisasterAlertActData as unknown as PolicyTopic,
   emergencyTransportDifficultCaseRealtimeHospitalBedNetworkData as unknown as PolicyTopic,
+  employmentInsuranceBasicAllowanceData as unknown as PolicyTopic,
   endOfLifeCareLivingWillDeathWithDignityLegislationData as unknown as PolicyTopic,
   energySubsidiesData as unknown as PolicyTopic,
   epilepsyRegionalCareHubHospitalCoordinatorPlacementData as unknown as PolicyTopic,
@@ -2123,6 +2135,7 @@ export const policies: PolicyTopic[] = [
   heavySnowfallResilientRoofMeltingRoadSnowClearingAidData as unknown as PolicyTopic,
   highCostMedicalCapData as unknown as PolicyTopic,
   highCostMedicalExpenseAssetBasedIncomeBracketActData as unknown as PolicyTopic,
+  highCostMedicalExpenseMultipleTimesCombinedData as unknown as PolicyTopic,
   highDenominationBanknotePhaseoutCashlessPromotionData as unknown as PolicyTopic,
   highLevelNuclearWasteFinalDisposalSurveyData as unknown as PolicyTopic,
   highProfessionalSystemData as unknown as PolicyTopic,
@@ -2195,6 +2208,7 @@ export const policies: PolicyTopic[] = [
   inheritanceRegistrationData as unknown as PolicyTopic,
   inheritanceTaxGiftTaxSettlementCalendarIntegrationData as unknown as PolicyTopic,
   inheritedLandNationalTreasuryEscheatData as unknown as PolicyTopic,
+  injurySicknessAllowanceHealthInsuranceData as unknown as PolicyTopic,
   inmateWorkCompensationIncreaseReleaseSavingsSystemData as unknown as PolicyTopic,
   inquiryBasedLearningYouthEntrepreneurshipHubGrantData as unknown as PolicyTopic,
   installmentSalesActBnplCreditAssessmentData as unknown as PolicyTopic,
@@ -2258,7 +2272,9 @@ export const policies: PolicyTopic[] = [
   laborContractActFiveYearIndefiniteTermConversionBarrierData as unknown as PolicyTopic,
   laborInspectionAiRiskScoringUnpaidOvertimeAuditData as unknown as PolicyTopic,
   laborStandardsActFifteenMinuteIncrementRoundingBanData as unknown as PolicyTopic,
+  laborStandardsAnnualPaidLeaveData as unknown as PolicyTopic,
   laborStandardsInspectionOfficeAiDigitalAuditSystemData as unknown as PolicyTopic,
+  laborStandardsStatutoryWorkingHoursOvertimeData as unknown as PolicyTopic,
   landBasedAquacultureRasDeregulationData as unknown as PolicyTopic,
   landBasedRecirculatingAquacultureRasSalmonGrantData as unknown as PolicyTopic,
   landRegistrySurveyTenYearAccelerationPlanData as unknown as PolicyTopic,
@@ -2389,6 +2405,7 @@ export const policies: PolicyTopic[] = [
   nuclearPowerPlantLifespanExtensionOver60YearsData as unknown as PolicyTopic,
   nuclearPowerPlants60YearExtensionGxLawData as unknown as PolicyTopic,
   nursingCareCopayData as unknown as PolicyTopic,
+  nursingCareInsuranceCareLevelCertificationData as unknown as PolicyTopic,
   nursingCareStaffWageIncreaseSubsidyExpansionData as unknown as PolicyTopic,
   nursingHomeMultiBedRoomChargeData as unknown as PolicyTopic,
   occupationalSafetyActHeatstrokeWorkplaceMandateData as unknown as PolicyTopic,
@@ -2531,6 +2548,7 @@ export const policies: PolicyTopic[] = [
   psychiatricDisabilityShortTimeEmploymentQuotaParityData as unknown as PolicyTopic,
   psychiatricHomeVisitNursingMultidisciplinaryCrisisTeamData as unknown as PolicyTopic,
   psychiatricHomeVisitNursingTwentyFourHourBonusData as unknown as PolicyTopic,
+  publicAssistanceSystemData as unknown as PolicyTopic,
   publicBathSentoCulturalHeritagePreservationSubsidiesData as unknown as PolicyTopic,
   publicDocumentManagementActElectronicPreservationData as unknown as PolicyTopic,
   publicElementaryJuniorHighSupplementaryMaterialsFreeData as unknown as PolicyTopic,
@@ -2852,6 +2870,7 @@ export const policies: PolicyTopic[] = [
   supplyChainCarbonFootprintLabelDisplayDutyData as unknown as PolicyTopic,
   supremeCourtJudgeNationalReviewOverseasVotingActData as unknown as PolicyTopic,
   survivorsPensionGenderNeutralReformData as unknown as PolicyTopic,
+  survivorsPensionSystemData as unknown as PolicyTopic,
   sustainabilityDisclosureStandardsSsbjMandatoryDutyData as unknown as PolicyTopic,
   sustainableAviationFuelSafDomesticAirportQuotaActData as unknown as PolicyTopic,
   synchrotronRadiationNanoterasuIndustrialUtilizationData as unknown as PolicyTopic,
@@ -2985,6 +3004,7 @@ export const policies: PolicyTopic[] = [
   workerCooperativeTaxExemptionCommunityActData as unknown as PolicyTopic,
   workerDispatchActEqualPayForEqualWorkAuditData as unknown as PolicyTopic,
   workerProtectionHeatAlertConstructionSiteSuspensionData as unknown as PolicyTopic,
+  workersCompensationInsuranceSystemData as unknown as PolicyTopic,
   workersCompensationTeleworkHomeInjuryStandardsData as unknown as PolicyTopic,
   workingHoursIntervalDeclarationPublicProcurementBonusData as unknown as PolicyTopic,
   workingHoursIntervalSystemRestMandateDebateData as unknown as PolicyTopic,

@@ -1,0 +1,233 @@
+{
+  "id": "workers-compensation-insurance-system",
+  "title": "労災保険制度（業務災害・通勤災害の療養補償給付と休業補償給付）",
+  "catchphrase": "仕事中や通勤時のケガ・病気・死亡を国が直接補償。全額事業主負担の保険料で自己負担なしの治療と給与の8割休業補償",
+  "category": "labor",
+  "categoryLabel": "働き方・雇用",
+  "lastUpdated": "2026-09-17",
+  "effectiveDate": "1947-09-01",
+  "status": "enacted",
+  "statusLabel": "成立・施行済み",
+  "summary": {
+    "standard": [
+      "労働者が仕事中（業務災害）または通勤途中（通勤災害）に起因して被った負傷・疾病・障害・死亡に対し、迅速かつ公正な保護を行う公的強制保険制度。",
+      "保険料は原則として全額会社（事業主）が負担し、労働者の負担はゼロ。1人でも労働者を使用する事業場は加入が義務付けられる。",
+      "病院での治療費が窓口自己負担なしで無料になる「療養補償給付」と、休業4日目から給料の80%（休業補償給付60%＋休業特別支給金20%）が支給される「休業補償給付」が二大柱。"
+    ],
+    "simple": [
+      "しごと中 や かよっている と中に ケガや びょうき になったときに、くにが まもってくれる せいどです。",
+      "びょういんの だい金 は 0円（ぜんぶタダ）になり、やすんでいる あいだも おきゅうりょうの 8わり が もらえます。",
+      "ほけんのおかね は 会社が ぜんぶ はらっており、はたらく ひとは はらっていません。"
+    ]
+  },
+  "background": {
+    "standard": "労働基準法制定と同時に1947年に創設。労働基準法が課す使用者の無過失損害賠償責任を国が保険として代位執行する仕組み。工場や工事現場での肉体的事故から始まったが、現代では長時間労働による脳・心臓疾患（過労死）や、職場のパワハラ・いじめに起因する精神障害（うつ病自殺等）の労災認定が主要な社会的関心事となっている。",
+    "simple": "昔の 工場での ケガだけでなく、いまは 残業の しすぎ による びょうき や、職場の いやがらせ（パワハラ）による こころの びょうき も まもってくれます。"
+  },
+  "changes": [
+    {
+      "id": "changes-1",
+      "topic": "治療費の窓口負担",
+      "before": "健康保険を使うと3割の自己負担が発生",
+      "after": "指定医療機関での受診により窓口自己負担0円（現物給付）",
+      "highlight": "治療費自己負担完全ゼロ",
+      "icon": "HeartPulse"
+    },
+    {
+      "id": "changes-2",
+      "topic": "休業時の所得補償割合",
+      "before": "給料停止による無収入リスク",
+      "after": "休業4日目から給与（給付基礎日額）の80%を非課税支給",
+      "highlight": "実質80%の非課税補償",
+      "icon": "Wallet"
+    }
+  ],
+  "perspectives": {
+    "benefitsTitle": "労災保険制度の意義と推進の視点",
+    "benefits": [
+      {
+        "id": "b1",
+        "title": "企業の倒産リスクに左右されない無過失・確実な補償",
+        "summary": "会社に賠償能力がない場合や過失争いがある場合でも、国が直接迅速に労働者へ給付。",
+        "detail": "使用者の故意・重過失を裁判で証明せずとも、公的認定により直ちに治療費と生活費が支払われるため、被災労働者が路頭に迷わない。",
+        "simpleDetail": "会社が つぶれそうでも、くにが すぐに びょういんだい と せいかつひ を はらってくれます。",
+        "tag": "無過失補償"
+      },
+      {
+        "id": "b2",
+        "title": "精神障害・過労死に対する救済基準の明確化",
+        "summary": "心理的負荷評価表に基づくハラスメントや月80時間超の時間外労働による労災認定の定着。",
+        "detail": "職場環境に起因するうつ病や適応障害を公的に業務起因と認定し、休業補償と復職支援、遺族補償を確実に実施。",
+        "simpleDetail": "ひどい パワハラ や ざんぎょう で こころが おれたときも、しっかり まもってくれます。",
+        "tag": "メンタル労災"
+      }
+    ],
+    "challengesTitle": "労災保険の課題と論点",
+    "challenges": [
+      {
+        "id": "c1",
+        "title": "フリーランス・ギグワーカーの適用除外と特別加入",
+        "summary": "ウーバーイーツ配達員やIT個人事業主など雇用契約外の就労者に対する保護の遅れ。",
+        "detail": "労働者性のない個人請負は原則対象外であり、特別加入制度の拡大が進むものの保険料自己負担や加入手続きの周知に課題が残る。",
+        "simpleDetail": "フリーランス や 配達パートナー は じぶんで とくべつな 手続きを しないと もらえません。",
+        "tag": "就労形態多様化"
+      },
+      {
+        "id": "c2",
+        "title": "精神障害認定における長期審査と会社側の反発",
+        "summary": "労災認定までに平均6〜8ヶ月を要し、認定時の企業名公表や損害賠償訴訟リスクによる企業との摩擦。",
+        "detail": "職場内の言動の事実認定に時間がかかり、被災者がその間生活困窮に陥るリスクと、企業側の『業務外の私的生活の問題』との対立。",
+        "simpleDetail": "こころの びょうき だと、みとめて もらうまでに 半年いじょう 時間が かかることが あります。",
+        "tag": "認定期間と立証"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "1947-09-01",
+      "label": "労働者災害補償保険法の施行",
+      "status": "completed",
+      "description": "労働基準法の補償規定を担保する国家公的保険として発足。"
+    },
+    {
+      "date": "1973-12-01",
+      "label": "通勤災害の保護対象化",
+      "status": "completed",
+      "description": "職場内での業務災害に加え、通勤途中の事故も労災給付の対象に追加。"
+    },
+    {
+      "date": "2020-09-01",
+      "label": "副業・兼業者の複数就業先賃金合算ルール導入",
+      "status": "completed",
+      "description": "複数の事業所で働く労働者の休業補償額を全就業先の賃金を合算して算定するよう改正。"
+    }
+  ],
+  "sources": [
+    {
+      "organization": "厚生労働省",
+      "title": "労災保険給付の概要（療養補償・休業補償等の請求手続き）",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/rousai/index.html",
+      "date": "2024-04-01",
+      "type": "official_document",
+      "typeLabel": "厚生労働省公式資料"
+    }
+  ],
+  "badges": [
+    {
+      "text": "窓口治療費0円（療養補償）",
+      "color": "bg-teal-50 text-teal-800"
+    },
+    {
+      "text": "休業4日目から給与80%補償",
+      "color": "bg-indigo-50 text-indigo-800"
+    },
+    {
+      "text": "保険料は会社全額負担",
+      "color": "bg-emerald-50 text-emerald-800"
+    },
+    {
+      "text": "通勤災害も完全対象",
+      "color": "bg-slate-100 text-slate-700"
+    }
+  ],
+  "highlights": [
+    {
+      "label": "医療窓口負担",
+      "value": "0",
+      "unit": "円（無料）",
+      "oldValue": "健康保険は3割負担",
+      "description": "労災指定病院での受診により検査・手術・薬代すべて無料",
+      "badge": "全額無料",
+      "badgeColor": "bg-teal-100 text-teal-800",
+      "icon": "HeartPulse"
+    },
+    {
+      "label": "休業時の給付割合",
+      "value": "80",
+      "unit": "%相当",
+      "oldValue": "休業補償60%+特別20%",
+      "description": "休業4日目から非課税で直近3ヶ月平均給与の8割を支給",
+      "badge": "生活補償",
+      "badgeColor": "bg-emerald-100 text-emerald-800",
+      "icon": "Wallet"
+    },
+    {
+      "label": "労働者の保険料負担",
+      "value": "0",
+      "unit": "円",
+      "oldValue": "全額会社負担義務",
+      "description": "労災保険料は全額が事業主（雇用主）の法律上の拠出負担",
+      "badge": "労働者負担なし",
+      "badgeColor": "bg-blue-100 text-blue-800",
+      "icon": "Shield"
+    },
+    {
+      "label": "対象となる就労者",
+      "value": "100",
+      "unit": "%（全員）",
+      "oldValue": "パート・アルバイト含む",
+      "description": "正社員だけでなくアルバイト・日雇い・外国人労働者も対象",
+      "badge": "全就労者適用",
+      "badgeColor": "bg-purple-100 text-purple-800",
+      "icon": "Users"
+    }
+  ],
+  "voices": {
+    "benefits": [
+      {
+        "speaker": "通勤途中の自転車事故で骨折した会社員（20代）",
+        "commentStandard": "手術と1ヶ月の入院費が全額労災でタダになり、休んでいる間の給料も8割振り込まれたので、親に頼らず治すことができました。",
+        "commentSimple": "かよいのと中の じこ でしたが、びょういんだい が 0円になり、やすんでいるあいだの おかね も もらえました。"
+      }
+    ],
+    "challenges": [
+      {
+        "speaker": "過労うつ病で休職したITコンサルタント（30代）",
+        "commentStandard": "精神疾患の労災申請をしてから労働基準監督署の認定が出るまで8ヶ月かかりました。会社側の事情聴取が長引き、その間の生活費の工面に苦しみました。",
+        "commentSimple": "こころの びょうき だと、くにが みとめて おかねが 出るまでに 8ヶ月も かかりました。"
+      }
+    ]
+  },
+  "international": {
+    "title": "海外主要国の労働災害補償制度との制度比較",
+    "comparisonSummary": "日本の労災保険は無過失責任原則で全額事業主負担が徹底されている。米国は州ごとの民間保険加入義務付け、欧州は公的社会保険による包括的リハビリ連動が特徴。",
+    "countries": [
+      {
+        "country": "ドイツ",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "systemName": "Gesetzliche Unfallversicherung（法定労災保険）",
+        "keyFeature": "業種ごとの同業組合（Berufsgenossenschaft）が運営。全額事業主拠出で、医療・休業補償だけでなく『治癒後の完全な職場復帰』までの一貫した包括ケアを保険組合が直接手配。",
+        "source": {
+          "organization": "ドイツ法定労災保険連合 (DGUV)",
+          "title": "Gesetzliche Unfallversicherung",
+          "url": "https://www.dguv.de"
+        }
+      },
+      {
+        "country": "アメリカ",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "systemName": "Workers' Compensation（労働者災害補償・州法）",
+        "keyFeature": "州法により企業に民間保険会社からの労災保険購入を義務付け。補償内容は州ごとに大きく異なり、休業手当は通常前職給与の約3分の2（66.6%）上限で給付。",
+        "source": {
+          "organization": "米国労働省 (DOL)",
+          "title": "Workers' Compensation",
+          "url": "https://www.dol.gov/general/topic/workcomp"
+        }
+      },
+      {
+        "country": "フランス",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "systemName": "AT/MP（労働災害・職業病保険制度）",
+        "keyFeature": "社会保障健康保険金庫（CPAM）が運営。休業初日から28日目までは基本日額の60%、29日目以降は80%へと段階的に補償割合が引き上げられる。",
+        "source": {
+          "organization": "フランス健康保険公庫 (Ameli)",
+          "title": "Accident du travail",
+          "url": "https://www.ameli.fr/assure/droits-demarches/maladie-accident-hospitalisation/accident-travail"
+        }
+      }
+    ]
+  }
+}
