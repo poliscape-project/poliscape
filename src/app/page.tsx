@@ -5,6 +5,7 @@ import Link from "next/link";
 import { getAllPolicies } from "@/lib/policies";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
+import { LifeEventCards } from "@/components/LifeEventCards";
 import {
   Sparkles,
   ArrowRight,
@@ -356,6 +357,9 @@ export default function HomePage() {
             </div>
           </div>
         </div>
+
+        {/* ライフイベント逆引きカード */}
+        <LifeEventCards isSimpleMode={isSimpleMode} />
 
         {/* 検索 & コントロールパネル */}
         <div className="bg-white rounded-3xl p-4 sm:p-5 border border-slate-200/80 shadow-2xs space-y-4">

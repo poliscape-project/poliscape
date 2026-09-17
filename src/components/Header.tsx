@@ -2,7 +2,7 @@
 
 import React from "react";
 import Link from "next/link";
-import { Sparkles, ShieldCheck, BookOpen, Landmark, Scale } from "lucide-react";
+import { Sparkles, ShieldCheck, BookOpen, Landmark, Scale, Heart } from "lucide-react";
 
 interface HeaderProps {
   isSimpleMode: boolean;
@@ -44,6 +44,14 @@ export const Header: React.FC<HeaderProps> = ({
         {/* コントロール：根拠法ナビ & やさしい日本語トグル */}
         <nav aria-label="メインナビゲーション">
           <div className="flex items-center gap-2 self-end sm:self-auto flex-wrap">
+            <Link
+              href="/life-events"
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold bg-pink-50 text-pink-800 hover:bg-pink-100 border border-pink-200/70 transition-all shadow-2xs cursor-pointer"
+              title="人生のできごとから政策を探す"
+            >
+              <Heart className="w-3.5 h-3.5 text-pink-600" />
+              <span>くらしの逆引き</span>
+            </Link>
             <Link
               href="/laws"
               className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold bg-indigo-50 text-indigo-800 hover:bg-indigo-100 border border-indigo-200/70 transition-all shadow-2xs cursor-pointer"
