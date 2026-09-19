@@ -2,7 +2,7 @@
 
 import React from "react";
 import Link from "next/link";
-import { Sparkles, ShieldCheck, BookOpen, Landmark, Scale, Heart, BookMarked } from "lucide-react";
+import { Sparkles, ShieldCheck, BookOpen, Landmark, Scale, Heart, BookMarked, Newspaper } from "lucide-react";
 
 interface HeaderProps {
   isSimpleMode: boolean;
@@ -60,7 +60,16 @@ export const Header: React.FC<HeaderProps> = ({
               <Landmark className="w-3.5 h-3.5 text-indigo-600" />
               <span>根拠法アーカイブ</span>
             </Link>
-
+            <a
+              href="https://jijizukan.vercel.app"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold bg-blue-50 text-blue-800 hover:bg-blue-100 border border-blue-200/70 transition-all shadow-2xs cursor-pointer"
+              title="時事図鑑（姉妹サイト）"
+            >
+              <Newspaper className="w-3.5 h-3.5 text-blue-600" />
+              <span>時事図鑑</span>
+            </a>
             <button
               type="button"
               onClick={onToggleSimpleMode}
